@@ -60,7 +60,7 @@ Díl 5 doplňuje Hlavu II o dva specifické procesní subjekty — **státní za
 ## § 47 — Schůze věřitelů: svolávání
 
 > (1) Schůzi věřitelů svolává a řídí insolvenční soud. Svolá ji z vlastní iniciativy, nebo na návrh insolvenčního správce, věřitelského výboru anebo, není-li způsobem řešení úpadku oddlužení, alespoň 2 věřitelů, jejichž pohledávky počítané podle výše (§ 49 odst. 1) činí alespoň desetinu přihlášených pohledávek; je-li způsobem řešení úpadku oddlužení, svolá ji na návrh nadpoloviční většiny všech věřitelů, jejichž pohledávky počítané podle výše (§ 49 odst. 1) činí zároveň nadpoloviční většinu přihlášených pohledávek. Insolvenční soud svolá schůzi věřitelů tak, aby se konala do 30 dnů poté, co byl o její svolání požádán, není-li navržen pozdější termín konání.
-> (2) Právo zúčastnit se schůze věřitelů mají přihlášení věřitelé, dlužník, insolvenční správce a státní zastupitelství, pokud se účastní insolvenčního řízení. Má-li dlužník zaměstnance, má právo zúčastnit se schůze věřitelů také odborová organizace, která u dlužníka působí. (...)
+> (2) Právo zúčastnit se schůze věřitelů mají přihlášení věřitelé, dlužník, insolvenční správce a státní zastupitelství, pokud se účastní insolvenčního řízení. Má-li dlužník zaměstnance, má právo zúčastnit se schůze věřitelů také odborová organizace, která u dlužníka působí. Působí-li u dlužníka vedle sebe více odborových organizací, má toto právo odborová organizace s největším počtem členů nebo sdružení odborových organizací s největším počtem členů, nedohodnou-li se odborové organizace působící u dlužníka jinak.
 
 ### Výklad
 
@@ -466,7 +466,8 @@ Tento extrémně koncentrovaný režim klade vysoké nároky na účast na schů
 > g) může nahlížet do dlužníkových písemností ve stejném rozsahu jako insolvenční správce,
 > h) plní úkoly stanovené tímto zákonem nebo uložené mu insolvenčním soudem,
 > i) je oprávněn podávat insolvenčnímu soudu návrhy týkající se průběhu insolvenčního řízení, včetně návrhů na uložení procesních sankcí.
-> (3) Věřitelský výbor vykonává svou činnost jako sbor; ze svého středu volí předsedu, který svolává a řídí jeho schůze. (...)
+> (3) Věřitelský výbor vykonává svou činnost jako sbor; ze svého středu volí předsedu, který svolává a řídí jeho schůze. Jestliže věřitelský výbor nezvolí předsedu ani při opakované volbě, určí ho z řad členů věřitelského výboru insolvenční soud. Věřitelský výbor se schází z vlastní iniciativy nebo jej svolá insolvenční soud anebo insolvenční správce. Rozhoduje většinou hlasů svých členů s tím, že nepřítomné členy zastupují jejich náhradníci; má-li člen věřitelského výboru více náhradníků (§ 56 odst. 2), zastupují jej v pořadí určeném schůzí věřitelů při jejich volbě. Při rovnosti hlasů rozhoduje hlas předsedy. Usnášet se věřitelský výbor může jen tehdy, je-li přítomna nadpoloviční většina jeho členů nebo jejich náhradníků. Ustanovení § 53 odst. 1 až 6 se na hlasování člena věřitelského výboru použije obdobně; při posuzování schopnosti věřitelského výboru se usnášet se § 53 odst. 6 použije přiměřeně. Připouští-li to povaha některé z činností, může věřitelský výbor jejím provedením nebo prováděním pověřit některého ze svých členů nebo jeho náhradníka.
+>
 > (4) Členové a náhradníci věřitelského výboru se mohou ve věřitelském výboru dát na své nebezpečí zastoupit kteroukoliv fyzickou osobou, která má způsobilost k právním úkonům v plném rozsahu; nejde-li o advokáta, může tento zástupce jednat jedině osobně. Náklady, které jim tím vzniknou, platí ze svého.
 
 ### Výklad
@@ -509,7 +510,7 @@ Tento extrémně koncentrovaný režim klade vysoké nároky na účast na schů
 > (1) Členy a náhradníky věřitelského výboru mohou být jen přihlášení věřitelé, kteří se svým zvolením souhlasí. Stane-li se členem nebo náhradníkem věřitelského výboru právnická osoba, oznámí neprodleně insolvenčnímu soudu fyzickou osobu, která bude jejím jménem ve věřitelském výboru jednat.
 > (2) Členy ani náhradníky věřitelského výboru nemohou být osoby, u kterých je vzhledem k jejich vztahu k dlužníkovi důvod pochybovat o jejich nepodjatosti. Takto lze usuzovat zejména, jde-li o osoby dlužníkovi blízké, vedoucí zaměstnance dlužníka, podle § 33 odst. 3 a § 73 odst. 3 zákoníku práce, společníky dlužníka, s výjimkou akcionářů, pokud nepůsobí v orgánech dlužníka nebo nevlastní dlužníkovy akcie anebo jiné jím vydané účastnické cenné papíry v souhrnné hodnotě více než desetiny základního kapitálu dlužníka, a osoby tvořící s dlužníkem koncern.
 > (3) Insolvenční soud nepotvrdí volbu člena nebo náhradníka věřitelského výboru, je-li tu důvod pochybovat o jejich důvěryhodnosti nebo o tom, že budou k výkonu funkce způsobilí. Toto rozhodnutí musí insolvenční soud vyhlásit do skončení schůze věřitelů, na které k volbě došlo.
-> (4) Po vyhlášení rozhodnutí podle odstavce 3 insolvenční soud vyzve každého z přítomných věřitelů, kteří hlasovali pro zvolení, aby uvedl, zda se vzdává odvolání, současně je poučí, že odvolání, které nebude podáno do skončení schůze věřitelů, již nelze podat. (...)
+> (4) Po vyhlášení rozhodnutí podle odstavce 3 insolvenční soud vyzve každého z přítomných věřitelů, kteří hlasovali pro zvolení, aby uvedl, zda se vzdává odvolání, současně je poučí, že odvolání, které nebude podáno do skončení schůze věřitelů, již nelze podat. Vyjádření věřitelů a jejich poučení se uvede v protokolu o jednání. Rozhodnutí insolvenční soud doručí pouze osobám, které proti němu podaly odvolání.
 
 ### Výklad
 
@@ -538,7 +539,8 @@ Tento extrémně koncentrovaný režim klade vysoké nároky na účast na schů
 
 > (1) Členové a náhradníci věřitelského výboru jsou povinni při výkonu své funkce postupovat s odbornou péčí a odpovídají za škodu nebo jinou újmu, kterou způsobili porušením svých povinností nebo neodborným výkonem své funkce. Společnému zájmu věřitelů jsou při výkonu funkce povinni dát přednost před zájmy vlastními i před zájmy jiných osob. Nabývat majetek z majetkové podstaty mohou jen se souhlasem schůze věřitelů. Odpovídají i za své zaměstnance a jiné osoby, jejichž prostřednictvím plnili či měli plnit své povinnosti.
 > (2) Členové a náhradníci věřitelského výboru mají právo na náhradu nutných výdajů spojených s výkonem funkce a na přiměřenou odměnu, jejíž výši určí insolvenční soud.
-> (3) Věřitelský výbor může při své činnosti využívat služeb právních, ekonomických a jiných specializovaných odborníků. (...)
+> (3) Věřitelský výbor může při své činnosti využívat služeb právních, ekonomických a jiných specializovaných odborníků. Náklady, které tím členům nebo náhradníkům věřitelského výboru vzniknou, lze hradit z majetkové podstaty pouze se souhlasem insolvenčního soudu. Při udělování souhlasu insolvenční soud zkoumá účelnost vynaložených nákladů, jejich rozsah v porovnání s celkovým rozsahem majetkové podstaty a přínos pro majetkovou podstatu. Je-li souhlas udělen, jde o pohledávku za majetkovou podstatou.
+>
 > (4) Způsob určení nutných výdajů a odměny členů a náhradníků věřitelského výboru a jejich nejvyšší přípustnou výši stanoví prováděcí právní předpis.
 
 ### Výklad

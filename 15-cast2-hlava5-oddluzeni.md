@@ -107,10 +107,13 @@
 
 > Insolvenční soud zamítne návrh na povolení oddlužení, jestliže lze důvodně předpokládat,
 > a) že jím je sledován **nepoctivý záměr**, nebo
-> b) že dlužník **nebude schopen splácet v plné výši ani pohledávky podle § 168 odst. 2 písm. a)** [odměna správce], přičemž výše splátky ostatním věřitelům nesmí být nižší než tato pohledávka (...) [pohledávky postavené na roveň]
+> b) že dlužník **nebude schopen splácet v plné výši ani pohledávky podle § 168 odst. 2 písm. a)**, přičemž výše splátky ostatním věřitelům včetně věřitelů pohledávek za majetkovou podstatou a pohledávek postavených jim na roveň nesmí být nižší než tato pohledávka náležící za období plnění splátkového kalendáře, a dále ani pohledávky podle § 169 odst. 1 písm. e) a § 390a odst. 5.
+>
 > (2) Insolvenční soud zamítne návrh na povolení oddlužení i tehdy, jestliže dosavadní výsledky řízení dokládají **lehkomyslný nebo nedbalý přístup** dlužníka k plnění povinností v insolvenčním řízení.
-> (3) Insolvenční soud zamítne návrh také tehdy, jestliže v posledních **12 letech** před podáním insolvenčního návrhu bylo dlužníku přiznáno osvobození od placení pohledávek zahrnutých do oddlužení (...).
-> (4) Insolvenční soud zamítne návrh také tehdy, jestliže v posledních **5 letech** před podáním (...) byl návrh dlužníka na povolení oddlužení pravomocně zamítnut z důvodu nepoctivého záměru (...).
+>
+> (3) Insolvenční soud zamítne návrh na povolení oddlužení také tehdy, jestliže v posledních **12 letech** před podáním insolvenčního návrhu bylo dlužníku pravomocným rozhodnutím přiznáno osvobození od placení pohledávek zahrnutých do oddlužení, v rozsahu, v němž nebyly uspokojeny.
+>
+> (4) Insolvenční soud zamítne návrh na povolení oddlužení také tehdy, jestliže v posledních **5 letech** před podáním insolvenčního návrhu byl návrh dlužníka na povolení oddlužení pravomocně zamítnut z důvodu, že je jím sledován **nepoctivý záměr**, nebo jestliže z téhož důvodu nebylo oddlužení schváleno nebo bylo schválené oddlužení zrušeno.
 > (5) Insolvenční soud zamítne návrh také tehdy, jestliže v posledních **3 měsících** vzal dlužník svůj předchozí návrh na povolení oddlužení zpět.
 
 **Důvody zamítnutí (taxativně)**:
@@ -282,7 +285,7 @@ Pro **FO-podnikatele** specifický mechanismus výpočtu splátky:
 
 ## § 412 — Povinnosti dlužníka po schválení — **VELMI DŮLEŽITÝ**
 
-> (1) Ode dne, kdy nastaly účinky schválení oddlužení (...) je dlužník povinen
+> (1) Ode dne, kdy nastaly účinky schválení oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty, do dne, kdy došlo ke splnění předpokladů pro osvobození podle § 412a nebo kdy bylo dlužníku oddlužení zrušeno, je dlužník povinen
 > a) **vykonávat přiměřenou výdělečnou činnost**; v případě nezaměstnanosti o získání příjmu usilovat,
 > b) **mimořádné příjmy** (dědictví, dary, neúčinné úkony, zatajený majetek) **vydat ke zpeněžení** + použít k mimořádným splátkám,
 > c) **oznámit změnu bydliště/zaměstnání**,
@@ -309,9 +312,9 @@ Soud bere v úvahu *schopnosti, možnosti a majetkové poměry dlužníka*. Zkou
 
 ## § 412a — **PŘEDPOKLADY PRO OSVOBOZENÍ** — KLÍČOVÝ
 
-> (1) V oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty jsou splněny předpoklady pro osvobození dlužníka (...) jestliže
+> (1) V oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty jsou splněny předpoklady pro osvobození dlužníka od placení pohledávek zahrnutých do oddlužení v rozsahu, v němž dosud nebyly uspokojeny, jestliže
 > a) dlužník **splatil nezajištěným věřitelům jejich pohledávky v plné výši**, nebo
-> b) **po dobu 3 let** od schválení oddlužení nebylo dlužníku oddlužení zrušeno a plnil-li dlužník po tuto dobu všechny podstatné povinnosti vyplývající z oddlužení (...); **má se za to, že tyto povinnosti plnil, jestliže dosáhl předpokládané míry uspokojení pohledávek nezajištěných věřitelů určené insolvenčním soudem v rozhodnutí o schválení oddlužení**.
+> b) **po dobu 3 let** od schválení oddlužení nebylo dlužníku oddlužení zrušeno a plnil-li dlužník po tuto dobu všechny podstatné povinnosti vyplývající z oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty; **má se za to, že tyto povinnosti plnil, jestliže dosáhl předpokládané míry uspokojení pohledávek nezajištěných věřitelů určené insolvenčním soudem v rozhodnutí o schválení oddlužení**.
 > (2) [obdobně pro zpeněžení podstaty]
 > (3) Bylo-li dlužníku přiznáno osvobození podle § 414 **v posledních 20 letech** před podáním návrhu na povolení oddlužení, činí doba podle odstavce 1 písm. b) **5 let**.
 
@@ -356,7 +359,7 @@ Soud bere v úvahu *schopnosti, možnosti a majetkové poměry dlužníka*. Zkou
 ## § 414 — **OSVOBOZENÍ DLUŽNÍKA** — NEJVÝZNAMNĚJŠÍ EFEKT ODDLUŽENÍ
 
 > (1) Jestliže byly splněny předpoklady pro osvobození podle § 412a, vydá insolvenční soud rozhodnutí, jímž **dlužníka osvobodí od placení pohledávek, zahrnutých do oddlužení, v rozsahu, v němž dosud nebyly uspokojeny**. Osvobození podle věty první **se nevztahuje na pohledávky vzniklé po rozhodnutí o úpadku**.
-> (4) Právní mocí rozhodnutí o osvobození (...) se ruší veškerá omezení dlužníka (...). Nadále však trvají účinky podle § 408 odst. 1 a stávající omezení ve vztahu k majetku, který dosud nebyl zpeněžen (...).
+> (4) Právní mocí rozhodnutí o osvobození podle odstavce 1 se ruší veškerá omezení dlužníka, ke kterým došlo před jeho vydáním v dosavadním průběhu insolvenčního řízení ze zákona nebo rozhodnutím soudu, nestanoví-li tento zákon jinak. Nadále však trvají účinky podle § 408 odst. 1 a stávající omezení ve vztahu k majetku, který dosud nebyl zpeněžen, pokud náleží do majetkové podstaty. Účinky § 109 odst. 1 písm. c) a d) se ve vztahu k výkonu rozhodnutí či exekuci srážkami ze mzdy uplatňují po dobu placení zálohy na odměnu a hotové výdaje insolvenčního správce; to neplatí, došlo-li k odejmutí nebo k zániku osvobození.
 > (5) Osvobození podle odstavce 1 se vztahuje také na věřitele, k jejichž pohledávkám se v insolvenčním řízení nepřihlíželo, a na věřitele, kteří své pohledávky do insolvenčního řízení nepřihlásili, ač tak měli učinit.
 > (6) Osvobození podle odstavců 1 a 5 se vztahuje i **na ručitele a jiné osoby, které měly vůči dlužníku pro tyto pohledávky právo postihu**.
 
@@ -420,9 +423,9 @@ Pokud *nedošlo ke zpeněžení zástavy* — zajištěný věřitel zachovává
 > (1) Insolvenční soud schválené oddlužení zruší a současně rozhodne o způsobu řešení dlužníkova úpadku konkursem, jestliže
 > a) dlužník **neplní podstatné povinnosti** podle schváleného způsobu oddlužení, nebo
 > b) v důsledku zaviněného jednání vznikl dlužníku po schválení oddlužení **peněžitý závazek po dobu delší 30 dnů po lhůtě splatnosti**, nebo
-> c) dlužník není v důsledku okolností, které zavinil (...) **po dobu delší než 3 měsíce schopen splácet** v plné výši ani pohledávky podle § 395 odst. 1 písm. b) (...), anebo
+> c) dlužník není v důsledku okolností, které zavinil, v důsledku nesplnění závazku třetí osoby poskytnout plnění ve prospěch majetkové podstaty, v rozporu se závazným příslibem podle § 391 odst. 3 nebo v důsledku zvýšení základní částky, která nesmí být při výkonu rozhodnutí povinnému sražena z měsíční mzdy, **po dobu delší než 3 měsíce schopen splácet** v plné výši ani pohledávky podle § 395 odst. 1 písm. b), jestliže vznikly po rozhodnutí o úpadku, anebo
 > d) **to navrhne dlužník**.
-> (4) Insolvenční soud schválené oddlužení zruší (...) také tehdy, vyjdou-li po schválení oddlužení najevo okolnosti, na jejichž základě lze důvodně předpokládat, že oddlužením je sledován **nepoctivý záměr**.
+> (4) Insolvenční soud schválené oddlužení zruší a současně rozhodne o způsobu řešení dlužníkova úpadku konkursem také tehdy, vyjdou-li po schválení oddlužení najevo okolnosti, na jejichž základě lze důvodně předpokládat, že oddlužením je sledován **nepoctivý záměr**.
 
 ### Výklad — **„VYPADNUTÍ Z ODDLUŽENÍ"**
 

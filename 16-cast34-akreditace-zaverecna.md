@@ -107,7 +107,9 @@ Závěrečná část komentáře obsahuje:
 
 > (1) Insolvenční rejstřík je **informačním systémem veřejné správy**, jehož správcem je Ministerstvo spravedlnosti.
 > (2) Insolvenční rejstřík obsahuje **seznam insolvenčních správců, seznam dlužníků a insolvenční spisy**. Pro každého dlužníka se vede jeden insolvenční spis.
-> (3) Insolvenční rejstřík je **veřejně přístupný**, s výjimkou údajů, o kterých tak stanoví tento zákon. Každý má právo do něj nahlížet a pořizovat si z něj kopie a výpisy. (...)
+> (3) Insolvenční rejstřík je **veřejně přístupný**, s výjimkou údajů, o kterých tak stanoví tento zákon. Každý má právo do něj nahlížet a pořizovat si z něj kopie a výpisy. Soudce insolvenčního soudu má přístup ke všem údajům vedeným v insolvenčním rejstříku.
+>
+> (4) Na žádost vydá ministerstvo nebo insolvenční soud úředně ověřený výstup z informačního systému veřejné správy obsahující údaje z insolvenčního rejstříku nebo informaci o tom, že požadovaný údaj není veden v insolvenčním rejstříku.
 
 ### Výklad — **PÁTEŘ INSOLVENČNÍHO SYSTÉMU**
 
@@ -184,7 +186,7 @@ Závěrečná část komentáře obsahuje:
 
 ## § 426 — Evropský mezinárodní prvek
 
-> (1) Insolvenční řízení s evropským mezinárodním prvkem a jeho účinky se řídí **přímo použitelným předpisem práva Evropské unie** [Nařízení (EU) 2015/848] a ustanoveními právního řádu toho členského státu Evropské unie, na něž (...) odkazuje.
+> (1) Insolvenční řízení s evropským mezinárodním prvkem a jeho účinky se řídí **přímo použitelným předpisem práva Evropské unie** (pozn.: Nařízení (EU) 2015/848) a ustanoveními právního řádu toho členského státu Evropské unie, na něž přímo použitelný předpis práva Evropské unie odkazuje.
 
 ### Výklad
 

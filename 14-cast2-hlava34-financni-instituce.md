@@ -12,8 +12,9 @@ Tyto úpravy jsou *vysoce technické* a v drtivé většině *transpozice evrops
 
 ## § 365 — Platební a vypořádací systémy
 
-> (1) Ustanovení tohoto zákona nemají vliv na platnost, účinnost či vymahatelnost závazků dlužníka, který je **účastníkem platebního systému s neodvolatelností zúčtování** nebo účastníkem zahraničního platebního systému s neodvolatelností zúčtování (...).
-> (2) Ustanovení tohoto zákona nemají vliv na platnost, účinnost či vymahatelnost závazků dlužníka, který je účastníkem **vypořádacího systému s neodvolatelností vypořádání** (...).
+> (1) Ustanovení tohoto zákona nemají vliv na platnost, účinnost či vymahatelnost závazků dlužníka, který je **účastníkem platebního systému s neodvolatelností zúčtování** nebo účastníkem zahraničního platebního systému s neodvolatelností zúčtování, za podmínek stanovených zákonem upravujícím platební styk.
+>
+> (2) Ustanovení tohoto zákona nemají vliv na platnost, účinnost či vymahatelnost závazků dlužníka, který je účastníkem **vypořádacího systému s neodvolatelností vypořádání** nebo účastníkem zahraničního vypořádacího systému s neodvolatelností vypořádání, za podmínek stanovených zákonem upravujícím podnikání na kapitálovém trhu.
 
 ### Výklad
 
@@ -40,9 +41,11 @@ Tyto úpravy jsou *vysoce technické* a v drtivé většině *transpozice evrops
 
 > (1) Ustanovení tohoto zákona nemají vliv na
 > a) **právo na zajištění**, které dlužník poskytl, jde-li o zajištění poskytnuté České národní bance, Evropské centrální bance, centrální bance členského státu EU nebo centrální bance státu EHP,
-> b) výkon práv a splnění povinností vyplývajících z ujednání o **finančním zajištění** podle zákona upravujícího finanční zajištění nebo srovnatelného zahraničního právního předpisu, jestliže finanční zajištění bylo sjednáno a vzniklo před zahájením insolvenčního řízení (...).
-> (2) Ustanovení tohoto zákona nemají vliv na **závěrečné vyrovnání** (...) jestliže závěrečné vyrovnání bylo uzavřeno před zahájením insolvenčního řízení.
-> (3) Odstavcem 1 písm. d) a odstavcem 2 nejsou dotčena ustanovení tohoto zákona o **neplatnosti právních úkonů a o neúčinnosti** (...).
+> b) výkon práv a splnění povinností vyplývajících z ujednání o **finančním zajištění** podle zákona upravujícího finanční zajištění nebo srovnatelného zahraničního právního předpisu, jestliže finanční zajištění bylo sjednáno a vzniklo před zahájením insolvenčního řízení, a to i v případě, že finanční zajištění bylo sjednáno nebo vzniklo v den zahájení insolvenčního řízení, avšak až poté, co tato skutečnost nastala, ledaže příjemce finančního kolaterálu o takové skutečnosti věděl nebo vědět měl a mohl; skutečnost, že zahájení insolvenčního řízení bylo zveřejněno v insolvenčním rejstříku, sama o sobě neznamená, že o zahájení insolvenčního řízení příjemce finančního kolaterálu věděl nebo vědět měl a mohl.
+>
+> (2) Ustanovení tohoto zákona nemají vliv na **závěrečné vyrovnání** podle zákona upravujícího podnikání na kapitálovém trhu, jestliže závěrečné vyrovnání bylo uzavřeno před zahájením insolvenčního řízení.
+>
+> (3) Odstavcem 1 písm. d) a odstavcem 2 nejsou dotčena ustanovení tohoto zákona o **neplatnosti právních úkonů a o neúčinnosti** právních úkonů bez přiměřeného protiplnění, právních úkonů úmyslně zkracujících, právních úkonů zvýhodňujících a právních úkonů dlužníka, které učinil v rozporu s omezeními stanovenými v důsledku účinků spojených se zahájením insolvenčního řízení.
 
 ### Výklad
 
@@ -97,9 +100,9 @@ Většina krizí finančních institucí *neskončí* v insolvenci podle IZ — 
 
 ## § 368 — Insolvenční návrh
 
-> (1) **Insolvenční návrh podává orgán dozoru nebo dohledu** a **orgán příslušný k řešení krize** (...). V návrhu uvede rozhodující skutečnosti, které osvědčují úpadek dlužníka (...).
+> (1) **Insolvenční návrh podává orgán**, který je oprávněn vykonávat **dozor nebo dohled** nad činností osob uvedených v § 367 odst. 1 (dále jen „orgán dozoru nebo dohledu") a **orgán příslušný k řešení krize** podle zákona upravujícího ozdravné postupy a řešení krize na finančním trhu (dále jen „orgán příslušný k řešení krize"). Tím není dotčeno ustanovení § 97. V návrhu orgán dozoru nebo dohledu nebo orgán příslušný k řešení krize **uvede rozhodující skutečnosti, které osvědčují úpadek dlužníka**, a k návrhu připojí listiny k doložení svých tvrzení.
 > (2) **Záloha na náklady insolvenčního řízení se orgánu dozoru nebo dohledu nebo orgánu příslušnému k řešení krize neukládá**.
-> (3) Úpadek banky, spořitelního a úvěrního družstva, úpadek pobočky zahraniční banky (...), obchodníka s cennými papíry, pobočky zahraničního obchodníka s cennými papíry (...) a osoby uvedené v § 367 odst. 1 písm. g), bylo-li vůči nim uplatněno opatření k řešení krize, **lze řešit pouze konkursem**.
+> (3) Úpadek banky, spořitelního a úvěrního družstva, úpadek pobočky zahraniční banky uvedené v § 367 odst. 1 písm. c), obchodníka s cennými papíry, pobočky zahraničního obchodníka s cennými papíry uvedené v § 367 odst. 1 písm. f) a osoby uvedené v § 367 odst. 1 písm. g), bylo-li vůči nim uplatněno opatření k řešení krize, **lze řešit pouze konkursem**.
 
 ### Výklad
 

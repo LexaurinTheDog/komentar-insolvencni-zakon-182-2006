@@ -91,8 +91,9 @@ V praxi je pojištění uzavírané typicky u specializovaných pojistitelů (UN
 
 ## § 24 — Vyloučení správce z důvodu nepodjatosti a souběhu
 
-> (1) Insolvenční správce je z insolvenčního řízení vyloučen, jestliže se zřetelem na jeho poměr k věci nebo k osobám účastníků je tu důvod pochybovat o jeho nepodjatosti; to neplatí v případě uvedeném v § 34. Insolvenční správce je dále vyloučen, jestliže v posledních 3 letech před zahájením insolvenčního řízení vykonával podle zákona o preventivní restrukturalizaci funkci restrukturalizačního správce dlužníka nebo osoby tvořící s dlužníkem koncern. (...)
-> (2) Veřejná obchodní společnost, která je ustanovena insolvenčním správcem, oznámí insolvenčnímu soudu neprodleně, kdo z jejích společníků (...) bude jejím jménem funkci insolvenčního správce vykonávat (...)
+> (1) Insolvenční správce je z insolvenčního řízení vyloučen, jestliže se zřetelem na jeho poměr k věci nebo k osobám účastníků je tu důvod pochybovat o jeho nepodjatosti; to neplatí v případě uvedeném v § 34. Insolvenční správce je dále vyloučen, jestliže v posledních 3 letech před zahájením insolvenčního řízení vykonával podle zákona o preventivní restrukturalizaci funkci restrukturalizačního správce dlužníka nebo osoby tvořící s dlužníkem koncern. Jakmile se ustanovený insolvenční správce dozví, že jsou zde důvody pro jeho vyloučení, je povinen oznámit to neprodleně insolvenčnímu soudu.
+>
+> (2) Veřejná obchodní společnost, která je ustanovena insolvenčním správcem, oznámí insolvenčnímu soudu neprodleně, kdo z jejích společníků, prostřednictvím kterých vykonává činnost insolvenčního správce, bude jejím jménem funkci insolvenčního správce vykonávat; odstavec 1 platí pro tohoto společníka obdobně.
 
 ### Výklad
 
@@ -126,12 +127,19 @@ Pro pouze **dílčí** podjatost (např. vůči jednomu věřiteli) platí výji
 
 ## § 25 — Pořadí ustanovování (rotační systém)
 
-> (1) Insolvenčního správce pro insolvenční řízení ustanovuje insolvenční soud. (...) je-li v předloženém reorganizačním plánu určena osoba insolvenčního správce, ustanoví insolvenční soud insolvenčním správcem tuto osobu (...)
-> (2) Nejde-li o případ podle odstavce 1, insolvenční soud ustanoví insolvenčním správcem osobu, kterou určí předseda insolvenčního soudu podle pořadí (...)
-> (3) Je-li v době určení podán návrh na povolení reorganizace nebo je-li dlužník osobou podle § 3 odst. 2 zákona o insolvenčních správcích (...), ustanoví insolvenční soud insolvenčním správcem osobu (...) ze zvláštní části seznamu (...)
+> (1) Insolvenčního správce pro insolvenční řízení ustanovuje insolvenční soud. Je-li s rozhodnutím o úpadku spojeno rozhodnutí o povolení reorganizace podle § 148 odst. 2 a je-li v předloženém reorganizačním plánu určena osoba insolvenčního správce, ustanoví insolvenční soud insolvenčním správcem tuto osobu; to neplatí, nesplňuje-li takto určený insolvenční správce podmínky uvedené v § 21 až 24 a odstavci 3. Ustanovení § 29 tím není dotčeno.
+>
+> (2) Nejde-li o případ podle odstavce 1, insolvenční soud ustanoví insolvenčním správcem osobu, kterou určí předseda insolvenčního soudu podle pořadí určeného dnem zápisu jejího sídla nebo provozovny do příslušné části seznamu insolvenčních správců vedené
+> a) pro obvod krajského soudu, který je insolvenčním soudem dlužníka, je-li v době určení podán návrh na prohlášení konkursu nebo není-li v době určení podán návrh na jiný způsob řešení úpadku a není-li dlužník osobou podle § 3 odst. 2 zákona o insolvenčních správcích,
+> b) pro obvod krajského soudu, který je insolvenčním soudem dlužníka, je-li v době určení podán návrh na povolení oddlužení.
+>
+> (3) Je-li v době určení podán návrh na povolení reorganizace nebo je-li dlužník osobou podle § 3 odst. 2 zákona o insolvenčních správcích bez ohledu na způsob řešení úpadku, ustanoví insolvenční soud insolvenčním správcem osobu, kterou určí předseda insolvenčního soudu podle pořadí určeného dnem zápisu jejího sídla do zvláštní části seznamu insolvenčních správců.
+>
 > (4) Nebrání-li tomu jiné okolnosti, určí předseda insolvenčního soudu insolvenčním správcem dlužníků, kteří tvoří koncern, stejnou osobu. Obdobně se postupuje v případě dlužníků, kteří jsou manžely.
-> (5) Nelze-li ustanovit (...) postupem podle odstavce 2 nebo je-li to nezbytné se zřetelem k dosavadnímu stavu insolvenčního řízení, k osobě dlužníka a k jeho majetkovým poměrům, jakož i k odborné způsobilosti insolvenčního správce, jeho dosavadní činnosti a k jeho zatížení, může předseda insolvenčního soudu určit insolvenčního správce mimo stanovené pořadí; takový postup vždy odůvodní.
-> (6) (...) hostující insolvenční správce — z příslušné části seznamu (...)
+>
+> (5) Nelze-li ustanovit osobu insolvenčního správce postupem podle odstavce 2 nebo je-li to nezbytné se zřetelem k dosavadnímu stavu insolvenčního řízení, k osobě dlužníka a k jeho majetkovým poměrům, jakož i k odborné způsobilosti insolvenčního správce, jeho dosavadní činnosti a k jeho zatížení, může předseda insolvenčního soudu určit insolvenčního správce mimo stanovené pořadí; takový postup vždy odůvodní.
+>
+> (6) Odstavce 2 a 3 se nepoužijí v případě určení osoby insolvenčního správce, který je hostujícím insolvenčním správcem. Předseda insolvenčního soudu určí pro insolvenční řízení osobu insolvenčního správce, který je hostujícím insolvenčním správcem, z příslušné části seznamu postupem, který je v souladu se zásadou dočasnosti nebo příležitostnosti, je-li to vhodné se zřetelem k dosavadnímu stavu insolvenčního řízení, k osobě dlužníka a k jeho majetkovým poměrům, jakož i k odborné způsobilosti osoby insolvenčního správce, který je hostujícím insolvenčním správcem.
 
 ### Výklad — **JEDEN Z KLÍČOVÝCH PARAGRAFŮ ZÁKONA**
 
@@ -199,7 +207,9 @@ Námitky vůči samotnému *výběru* (např. „proč soud nevybral X, ale Y") 
 ## § 27 — Okamžik ustanovení; předběžný správce
 
 > (1) Insolvenční soud ustanoví insolvenčního správce nejpozději v rozhodnutí o úpadku. Za podmínek stanovených tímto zákonem může insolvenční soud ustanovit před rozhodnutím o úpadku předběžného insolvenčního správce (dále jen „předběžný správce"); toto rozhodnutí se zveřejní stejným způsobem jako rozhodnutí o úpadku.
-> (2) Předběžný správce vykonává před rozhodnutím o úpadku činnosti stanovené v tomto zákoně a uložené mu insolvenčním soudem a má práva a povinnosti, které mu tento soud vymezí. (...) Nestanoví-li insolvenční soud o osobě insolvenčního správce jinak v rozhodnutí o úpadku, stává se předběžný správce po tomto rozhodnutí insolvenčním správcem s plnou působností.
+>
+> (2) Předběžný správce vykonává před rozhodnutím o úpadku činnosti stanovené v tomto zákoně a uložené mu insolvenčním soudem a má práva a povinnosti, které mu tento soud vymezí. Tato práva a povinnosti nemůže insolvenční soud vymezit v širším rozsahu, než v jakém náleží insolvenčnímu správci po rozhodnutí o úpadku. Nestanoví-li insolvenční soud o osobě insolvenčního správce jinak v rozhodnutí o úpadku, stává se předběžný správce po tomto rozhodnutí insolvenčním správcem s plnou působností.
+>
 > (3) Ustanovení o insolvenčním správci platí přiměřeně i pro předběžného správce.
 
 ### Výklad
@@ -246,10 +256,13 @@ Krátký systémový paragraf — připomíná, že **změnu správce mohou inic
 
 ## § 29 — Odvolání správce schůzí věřitelů
 
-> (1) Na schůzi věřitelů, která nejblíže následuje po přezkumném jednání, se mohou věřitelé usnést, že insolvenčním soudem ustanoveného insolvenčního správce odvolávají z funkce a že ustanovují nového insolvenčního správce. (...) Toto usnesení je přijato, jestliže pro ně hlasovala nejméně polovina všech věřitelů přihlášených ke dni předcházejícímu konání schůze věřitelů, počítaná podle výše jejich pohledávek, kteří mají právo hlasovat. (...)
+> (1) Na schůzi věřitelů, která nejblíže následuje po přezkumném jednání, se mohou věřitelé usnést, že insolvenčním soudem ustanoveného insolvenčního správce odvolávají z funkce a že ustanovují nového insolvenčního správce. O odvolání insolvenčního správce, kterým byla v rámci reorganizace povolené podle § 148 odst. 2 insolvenčním soudem ustanovena osoba určená v předloženém reorganizačním plánu podle § 25 odst. 1, a o ustanovení nového insolvenčního správce se mohou věřitelé usnést také na schůzi věřitelů, která nejblíže následuje po přeměně reorganizace v konkurs. Toto usnesení je přijato, jestliže pro ně hlasovala nejméně polovina všech věřitelů přihlášených ke dni předcházejícímu konání schůze věřitelů, počítaná podle výše jejich pohledávek, kteří mají právo hlasovat. Je-li způsobem řešení úpadku oddlužení, je toto usnesení přijato, jestliže pro ně hlasovala nadpoloviční většina všech věřitelů přihlášených ke dni předcházejícímu konání schůze věřitelů, jejichž pohledávky počítané podle výše (§ 49 odst. 1) zároveň činí nadpoloviční většinu přihlášených pohledávek.
+>
 > (2) Usnesení o ustanovení insolvenčního správce podle odstavce 1 potvrzuje insolvenční soud; nepotvrdí je pouze tehdy, nesplňuje-li insolvenční správce podmínky uvedené v § 21 až 24 a § 25 odst. 3; § 54 odst. 1 se nepoužije.
-> (3) Rozhodnutí podle odstavce 2 vydá insolvenční soud do skončení schůze věřitelů (...) odvolání je přípustné, jen jestliže insolvenční soud usnesení schůze věřitelů nepotvrdí. Osobou oprávněnou k podání odvolání je pouze věřitel, který na schůzi věřitelů hlasoval pro přijetí usnesení; § 55 odst. 1 platí obdobně.
-> (4) Insolvenčnímu správci odvolanému postupem podle odstavce 1 insolvenční soud uloží, aby mu ve stanovené lhůtě podal zprávu o své činnosti (...)
+>
+> (3) Rozhodnutí podle odstavce 2 vydá insolvenční soud do skončení schůze věřitelů, která usnesení podle odstavce 1 přijala; odvolání je přípustné, jen jestliže insolvenční soud usnesení schůze věřitelů nepotvrdí. Osobou oprávněnou k podání odvolání je pouze věřitel, který na schůzi věřitelů hlasoval pro přijetí usnesení; § 55 odst. 1 platí obdobně.
+>
+> (4) Insolvenčnímu správci odvolanému postupem podle odstavce 1 insolvenční soud uloží, aby mu ve stanovené lhůtě podal zprávu o své činnosti, zejména o stavu majetku, který spravoval, a aby vyúčtoval odměnu, hotové výdaje a náklady, které mu vznikly v souvislosti se správou a udržováním majetku.
 
 ### Výklad
 
@@ -309,11 +322,17 @@ V praxi je odvolání správce schůzí věřitelů **vzácné** — vyžaduje k
 ## § 31 — Odvolání správce soudem (bez porušení povinností)
 
 > (1) Z důležitých důvodů, které nemají původ v porušení povinností insolvenčního správce, může insolvenční soud na návrh insolvenčního správce nebo věřitelského orgánu anebo i bez tohoto návrhu odvolat insolvenčního správce z funkce. Učiní tak zpravidla po slyšení insolvenčního správce; o podaném návrhu rozhodne neprodleně.
+>
 > (2) Insolvenčního správce ustanoveného postupem podle § 29 odst. 1 až 3 insolvenční soud odvolá z funkce i tehdy, požádá-li o to do 3 dnů poté, co se o svém ustanovení dozvěděl; to neplatí, jestliže insolvenční správce se svým ustanovením předem souhlasil.
-> (3) Insolvenčního správce, kterému zaniklo ze zákona právo vykonávat činnost insolvenčního správce nebo mu bylo právo pozastaveno podle zákona o insolvenčních správcích, může insolvenční soud (...) odvolat z funkce. (...)
-> (4) Insolvenčního správce, kterému bylo zrušeno povolení nebo kterému zaniklo jeho právo dočasně nebo příležitostně vykonávat činnost insolvenčního správce na základě rozhodnutí ministerstva (...), insolvenční soud odvolá z funkce. (...)
-> (5) Odvolá-li insolvenční soud insolvenčního správce z funkce, ustanoví současně nového insolvenčního správce. (...)
+>
+> (3) Insolvenčního správce, kterému zaniklo ze zákona právo vykonávat činnost insolvenčního správce nebo mu bylo právo pozastaveno podle zákona o insolvenčních správcích, může insolvenční soud na návrh insolvenčního správce, věřitelského orgánu nebo dlužníka anebo i bez tohoto návrhu odvolat z funkce. Pokud to okolnosti dovolují, učiní tak po slyšení insolvenčního správce; o podaném návrhu rozhodne neprodleně.
+>
+> (4) Insolvenčního správce, kterému bylo zrušeno povolení nebo kterému zaniklo jeho právo dočasně nebo příležitostně vykonávat činnost insolvenčního správce na základě rozhodnutí ministerstva podle zákona o insolvenčních správcích, insolvenční soud odvolá z funkce. Insolvenčního správce ustanoveného postupem podle § 25 odst. 3 insolvenční soud odvolá z funkce i tehdy, bylo-li mu zrušeno zvláštní povolení nebo zaniklo-li jeho právo dočasně nebo příležitostně vykonávat činnost insolvenčního správce dlužníka podle § 3 odst. 2 zákona o insolvenčních správcích na základě rozhodnutí ministerstva podle zákona o insolvenčních správcích. Vyjde-li dodatečně najevo, že dlužník je osobou podle § 3 odst. 2 zákona o insolvenčních správcích a insolvenční správce nebyl ustanoven postupem podle § 25 odst. 3, vyrozumí o tom insolvenční správce neprodleně insolvenční soud, který ho odvolá.
+>
+> (5) Odvolá-li insolvenční soud insolvenčního správce z funkce, ustanoví současně nového insolvenčního správce. Odvolání proti tomuto rozhodnutí je přípustné; proti výroku o ustanovení nového insolvenčního správce se však lze samostatně odvolat jen z důvodů uvedených v § 26.
+>
 > (6) Odvolaný insolvenční správce je povinen bez zbytečného odkladu řádně informovat nového insolvenčního správce o své dosavadní činnosti a předá mu všechny doklady souvisící s výkonem jeho funkce; jeho odpovědnost za dobu výkonu funkce nezaniká.
+>
 > (7) Ustanovení § 29 odst. 4 platí obdobně.
 
 ### Výklad
@@ -478,6 +497,18 @@ V běžných řízeních se zástupce neustanovuje — pro krátkodobou nepřít
 Klíčový **„povinnostní"** paragraf. Vymezuje obecný standard činnosti a konkrétní povinnosti zpráv.
 
 > (1) Insolvenční správce je povinen při výkonu funkce postupovat svědomitě a s odbornou péčí; je povinen vyvinout veškeré úsilí, které lze po něm spravedlivě požadovat, aby věřitelé byli uspokojeni v co nejvyšší míře. Společnému zájmu věřitelů je povinen dát při výkonu funkce přednost před zájmy vlastními i před zájmy jiných osob.
+>
+> (2) Insolvenční správce poskytuje věřitelským orgánům součinnost nezbytnou k řádnému výkonu jejich funkce; zejména se na žádost věřitelského orgánu účastní jeho jednání. Insolvenční správce předkládá věřitelskému orgánu a insolvenčnímu soudu nejméně jednou za 3 měsíce písemnou zprávu o stavu insolvenčního řízení, neurčí-li insolvenční soud jinou dobu předkládání nepřevyšující 12 kalendářních měsíců. Písemnou zprávu pro osvobození insolvenční správce předloží bez zbytečného odkladu po splnění předpokladů podle § 412a, nejpozději však bez zbytečného odkladu po uplynutí doby oddlužení podle § 412a, případně prodloužené o dobu přerušení nebo prodloužení průběhu oddlužení podle § 412b.
+>
+> (3) Je-li způsobem řešení úpadku dlužníka oddlužení, předloží insolvenční správce neprodleně písemnou zprávu o stavu insolvenčního řízení v případě, lze-li důvodně předpokládat naplnění podmínek odůvodňujících prodloužení průběhu oddlužení podle § 412b odst. 6, zrušení schváleného oddlužení (§ 418) nebo jiných skutečností rozhodných pro průběh insolvenčního řízení (zejména § 407 odst. 3); v této zprávě insolvenční správce například uvede, zda doporučuje prodloužit průběh oddlužení nebo zrušit schválené oddlužení a z jakých důvodů. Po uplynutí každých 12 měsíců plnění schváleného oddlužení lze na základě skutečností uvedených ve zprávách o stavu insolvenčního řízení podaných v uvedené době navrhnout ve lhůtě dvou měsíců prodloužení průběhu oddlužení nebo zrušení schváleného oddlužení. K později podaným návrhům se nepřihlíží. Po uplynutí této lhůty insolvenční soud rozhodne o včas podaných návrzích bez zbytečného odkladu.
+>
+> (4) V písemné zprávě pro osvobození insolvenční správce uvede, zda dlužník řádně plnil všechny podstatné povinnosti podle tohoto zákona a zda doporučuje rozhodnout o osvobození podle § 414, prodloužit průběh oddlužení nebo zrušit schválené oddlužení a z jakých důvodů. Do uplynutí 2 měsíců od předložení zprávy pro osvobození lze navrhnout prodloužení průběhu oddlužení nebo zrušení schváleného oddlužení. K později podaným návrhům se nepřihlíží. Po uplynutí této lhůty insolvenční soud rozhodne o včas podaných návrzích bez zbytečného odkladu.
+>
+> (5) Insolvenční správce zřizuje v každém insolvenčním řízení zvláštní účet u banky nebo spořitelního a úvěrního družstva za účelem odděleného vedení majetku náležícího do majetkové podstaty.
+>
+> (6) Má-li být postižen majetek nebo příjmy dlužníka, který je ve výkonu trestu odnětí svobody nebo zabezpečovací detence, insolvenční správce o tom vyrozumí věznici nebo ústav pro výkon zabezpečovací detence, ve kterém dlužník trest odnětí svobody nebo zabezpečovací detenci vykonává; zároveň sdělí číslo účtu, na který má věznice nebo ústav pro výkon zabezpečovací detence zasílat peněžní prostředky, a uvede, v jaké výši má dlužník povinnost platit výživné pro děti, kterým je povinen poskytovat výživu a pohledávky za náhradní výživné podle jiného zákona. Insolvenční správce vyrozumí věznici nebo ústav pro výkon zabezpečovací detence též o vydání rozhodnutí, kterým se insolvenční řízení dlužníka končí nebo které má vliv na provádění srážek z peněz uložených na účtu věznice nebo ústavu pro výkon zabezpečovací detence vedený ve prospěch dlužníka podle jiného právního předpisu. Je-li dlužník ve výkonu trestu odnětí svobody nebo zabezpečovací detence, považují se peněžní prostředky zaslané po rozhodnutí o úpadku věznicí nebo ústavem pro výkon zabezpečovací detence podle zákona upravujícího výkon trestu odnětí svobody nebo zabezpečovací detence na účet určený insolvenčním správcem za příjem dlužníka, pokud insolvenční soud nestanoví jinak.
+>
+> (7) Obsah požadavků na plnění povinností insolvenčního správce podle odstavců 1 a 2, § 31 odst. 6, § 136 odst. 6, § 246 odst. 1, § 313 odst. 2, § 371, § 373 odst. 2, § 383 odst. 1, § 385 odst. 2 a § 430a odst. 1 stanoví prováděcí právní předpis.
 
 ### Standard činnosti — odst. 1
 
@@ -602,7 +633,21 @@ Velmi specifická úprava. Pokud správce uzavře smlouvu, která vyvolá pohled
 
 Klíčový **„finanční"** paragraf — vymezuje, na co má správce nárok a jak se nárok určuje.
 
-> (1) Insolvenční správce má právo na odměnu a náhradu hotových výdajů. V případě konkursu se výše odměny určí z počtu přezkoumaných přihlášek pohledávek a z výtěžku zpeněžení určeného k rozdělení mezi věřitele. Je-li insolvenční správce plátcem daně z přidané hodnoty, náleží mu k odměně a k náhradě hotových výdajů částka odpovídající této dani (...).
+> (1) Insolvenční správce má právo na odměnu a náhradu hotových výdajů. V případě konkursu se výše odměny určí z počtu přezkoumaných přihlášek pohledávek a z výtěžku zpeněžení určeného k rozdělení mezi věřitele. Je-li insolvenční správce plátcem daně z přidané hodnoty, náleží mu k odměně a k náhradě hotových výdajů částka odpovídající této dani, kterou je insolvenční správce povinen z odměny a z náhrady hotových výdajů odvést podle zvláštního právního předpisu.
+>
+> (2) Odměna a náhrada hotových výdajů insolvenčního správce se uspokojují z majetkové podstaty, a pokud k tomu nestačí, ze zálohy na náklady insolvenčního řízení; není-li jejich uspokojení z těchto zdrojů možné, hradí je stát, nejvýše však 50 000 Kč na odměně insolvenčního správce a 50 000 Kč na náhradě hotových výdajů insolvenčního správce.
+>
+> (3) Vyúčtování odměny a hotových výdajů provede insolvenční správce v konečné zprávě, a není-li jí, ve zprávě o své činnosti. Insolvenční soud může podle okolností případu po projednání s věřitelským výborem odměnu insolvenčního správce přiměřeně zvýšit nebo snížit. Důvodem ke snížení odměny je zejména skutečnost, že insolvenční správce porušil některou ze svých povinností nebo že nenavrhl provedení částečného rozvrhu, ačkoliv to stav zpeněžení majetkové podstaty umožňoval.
+>
+> (4) Insolvenční soud může v průběhu insolvenčního řízení rozhodnout o vyplacení zálohy odměny a hotových výdajů insolvenčnímu správci, a to i opětovně.
+>
+> (5) Insolvenční správce odvolaný z funkce nebo zproštěný funkce v průběhu insolvenčního řízení provede vyúčtování odměny a hotových výdajů ve zprávě o své činnosti; pro projednání této zprávy platí přiměřeně § 304. Umožňuje-li to stav insolvenčního řízení, rozhodne insolvenční soud o schválení této zprávy již v jeho průběhu; jde-li o hotové výdaje insolvenčního správce, náklady spojené s udržováním a správou majetkové podstaty a vyúčtování vyplacených záloh, učiní tak bez zbytečného odkladu po projednání zprávy. Proti rozhodnutí o schválení takové zprávy mohou podat odvolání insolvenční správce, který zprávu podal, ustanovený insolvenční správce a věřitelé a dlužník, jejichž námitkám proti této zprávě nebylo vyhověno.
+>
+> (6) Je-li způsobem řešení úpadku oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty, insolvenční správce uloží z měsíčních splátek částku odpovídající jeho odměně a náhradě hotových výdajů za dobu 6 měsíců jako zálohu na úhradu své odměny a náhrady hotových výdajů náležící za období plnění splátkového kalendáře na zvláštní účet podle § 36 odst. 5.
+>
+> (7) Je-li způsobem řešení úpadku oddlužení a hradí-li odměnu a hotové výdaje insolvenčního správce stát, uloží insolvenční soud dlužníku v rozhodnutí, kterým se insolvenční řízení končí, povinnost nahradit státu částku vyplacenou insolvenčnímu správci. Při správě placení této náhrady se postupuje podle daňového řádu.
+>
+> (8) Způsob určení odměny, některých hotových výdajů insolvenčního správce a způsob jejich úhrady státem stanoví prováděcí právní předpis.
 
 ### Struktura odměny
 
@@ -797,6 +842,34 @@ V ČR je úvěrové financování v insolvenci stále poměrně **vzácné** —
 ---
 
 ## § 43 — § 44 — Součinnost orgánů a osob
+
+> **§ 43**
+>
+> (1) Orgány veřejné správy, zejména katastrální úřady, orgány evidující motorová vozidla a jiné správní úřady, jakož i notáři, soudní exekutoři, osoby vedoucí evidenci cenných papírů, finanční instituce, poskytovatelé úvěru, provozovatelé telekomunikačních služeb, provozovatelé poštovních služeb a jiné osoby, které se zabývají přepravou zásilek, vydavatelé tisku a dopravci, jakož i zaměstnavatelé dlužníka, kteří byli s dlužníkem v základním pracovněprávním vztahu v době 12 měsíců před zahájením insolvenčního řízení nebo v době trvání účinků spojených se zahájením insolvenčního řízení do přiznání osvobození podle § 414, poskytnou insolvenčnímu správci na jeho písemnou žádost bez zbytečného odkladu součinnost dále uvedeným způsobem.
+>
+> (2) Součinnost podle odstavce 1 spočívá v tom, že orgány a osoby v něm uvedené poskytují insolvenčnímu správci údaje o majetku dlužníka a některé další údaje, které jsou nutné pro výkon správy, a to ve stejném rozsahu, v jakém by je poskytly přímo dlužníku. Tato součinnost spočívá také v tom, že uvedené orgány a osoby, které mají u sebe listiny nebo jiné věci, které mohou sloužit ke zjištění dlužníkova majetku, je bez zbytečného odkladu po doručení žádosti vydají nebo zapůjčí insolvenčnímu správci. Jde-li o údaje vedené v elektronické podobě, splní orgány a osoby uvedené v odstavci 1 povinnost poskytnout součinnost tím, že k nim insolvenčnímu správci umožní dálkový přístup. Součinnost se poskytuje bezplatně; nejde-li o orgány veřejné správy, přísluší tomu, kdo součinnost poskytl, právo na náhradu s tím spojených hotových výdajů.
+>
+> (3) Soudní exekutor pověřený provedením exekuce v řízení, kde je povinným dlužník, poskytne insolvenčnímu správci součinnost podle odstavce 1 také tak, že na jeho písemnou žádost poskytne insolvenčnímu správci údaje o majetku a závazcích a o jiných zjištěních k hospodářské situaci dlužníka získané v exekučním řízení. Na písemnou žádost vydá nebo zapůjčí insolvenčnímu správci také znalecký posudek vypracovaný k ocenění majetku dlužníka nebo jeho části. Náklady na vypracování znaleckého posudku jsou pohledávkou postavenou na roveň pohledávkám za majetkovou podstatou, jestliže nebyly v exekučním řízení uhrazeny.
+>
+> (4) Povinnost orgánů a osob uvedených v odstavci 1 poskytnout insolvenčnímu správci součinnost podle jiných ustanovení tohoto zákona, případně podle ustanovení zvláštního právního předpisu, tím není dotčena.
+>
+> **§ 44**
+>
+> (1) Součinnost podle § 43 se poskytuje zejména tak, že
+> a) orgány sociálního zabezpečení sdělí insolvenčnímu správci údaje o příjmech dlužníka náležejících za dobu 36 měsíců před zahájením insolvenčního řízení a za dobu trvání účinků spojených se zahájením insolvenčního řízení do přiznání osvobození podle § 414,
+> b) osoby vedoucí evidenci cenných papírů sdělí insolvenčnímu správci údaje o tam evidovaných cenných papírech, které náleží do majetku dlužníka,
+> c) banky, spořitelní a úvěrní družstva a pobočky zahraničních bank sdělí insolvenčnímu správci čísla dlužníkových účtů, informují jej o stavech těchto účtů a pohybech peněžních prostředků na nich a podají mu informace o dlužníkových úschovách a vkladních knížkách,
+> d) poskytovatelé úvěru sdělí insolvenčnímu správci údaje o příjmech dlužníka zjištěné při posouzení jeho schopnosti splácet úvěr,
+> e) provozovatelé poštovních služeb a jiné osoby, které se zabývají přepravou zásilek, informují insolvenčního správce o dlužníkových doručovacích místech, rozsahu a povaze doručovaných zásilek a úhrnu peněžních prostředků, které dlužník přijímá jejich prostřednictvím,
+> f) poskytovatelé služeb elektronických komunikací oznámí insolvenčnímu správci údaje o dlužníkových telefonních, dálnopisných, telefaxových a jiných elektronických stanicích a adresách, které nejsou uvedeny v dostupných seznamech,
+> g) pojišťovny sdělí insolvenčnímu správci údaje o dlužníkových pojistných smlouvách a pojistných plněních,
+> h) vydavatelé tisku sdělí insolvenčnímu správci údaje o inzerci, která se týká majetkové podstaty,
+> i) dopravci sdělí insolvenčnímu správci údaje o přepravovaných dlužníkových věcech a jejich příjemci,
+> j) zaměstnavatelé sdělí insolvenčnímu správci údaje o příjmech dlužníka za dobu podle § 43 odst. 1.
+>
+> (2) Na žádost orgánů a osob, od nichž vyžaduje součinnost, insolvenční správce doloží své ustanovení do funkce rozhodnutím insolvenčního soudu.
+>
+> (3) Osoby a orgány, které jsou povinny poskytnout insolvenčnímu soudu nebo insolvenčnímu správci součinnost, odpovídají za škodu nebo jinou újmu, kterou způsobily, v případě, že tuto součinnost neposkytnou řádně a včas.
 
 Velmi důležitý praktický institut — **povinnost třetích osob a orgánů poskytnout správci informace a doklady**.
 

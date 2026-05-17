@@ -173,7 +173,9 @@ Speciálka pro správce-FO s **zvláštním postavením** (typicky soudci, proku
 ### § 79 — Doručování věřitelskému výboru
 
 > (1) Písemnost určenou věřitelskému výboru insolvenční soud doručuje do datové schránky jeho předsedy. Není-li možné doručit písemnost tímto způsobem, předá písemnost doručujícímu orgánu k doručení na adresu pro doručování jeho předsedy.
-> (2) Jestliže o to věřitelský výbor požádá, insolvenční soud předá písemnost k doručení na jinou adresu v České republice, kterou věřitelský výbor sdělil insolvenčnímu soudu. (...)
+> (2) Jestliže o to věřitelský výbor požádá, insolvenční soud předá písemnost k doručení na jinou adresu v České republice, kterou věřitelský výbor sdělil insolvenčnímu soudu. Na jinou adresu nebo elektronickou adresu lze doručovat jen tehdy, nelze-li doručovat do datové schránky.
+>
+> (3) Pro doručování věřitelskému výboru platí § 78 odst. 1 obdobně.
 
 ### Výklad
 
@@ -272,8 +274,9 @@ V praxi je toto pravidlo zdrojem **mnoha procesních ztrát** — drobní podnik
 > a) udělit souhlas se započtením vzájemných pohledávek dlužníka a věřitele v době trvání moratoria, nebo
 > b) udělit souhlas se započtením vzájemných pohledávek dlužníka a věřitele i po okamžiku zveřejnění návrhu na povolení reorganizace v insolvenčním rejstříku, anebo
 > c) zakázat pro určité případy nebo na určitou dobu započtení vzájemných pohledávek dlužníka a věřitele.
-> (4) Předběžné opatření uložením povinnosti složit jistotu k zajištění náhrady škody nebo jiné újmy, která by dlužníku vznikla nedůvodným zahájením insolvenčního řízení a opatřeními přijatými v jeho průběhu, lze nařídit jen na návrh dlužníka podaný při prvním úkonu, který dlužníku přísluší po podání insolvenčního návrhu, a jen tehdy, jestliže dlužník doloží, že mu vznik takové škody nebo jiné újmy zjevně hrozí. (...)
-> (5) Rozhodnutí o návrhu na předběžné opatření podle odstavce 2 písm. b) nebo c) doručí insolvenční soud do vlastních rukou (...)
+> (4) Předběžné opatření uložením povinnosti složit jistotu k zajištění náhrady škody nebo jiné újmy, která by dlužníku vznikla nedůvodným zahájením insolvenčního řízení a opatřeními přijatými v jeho průběhu, lze nařídit jen na návrh dlužníka podaný při prvním úkonu, který dlužníku přísluší po podání insolvenčního návrhu, a jen tehdy, jestliže dlužník doloží, že mu vznik takové škody nebo jiné újmy zjevně hrozí. Jestliže však podle dosavadních výsledků insolvenčního řízení lze očekávat, že dlužníkův úpadek bude osvědčen, insolvenční soud návrh na nařízení takového předběžného opatření zamítne. Přiměřeně se dále použijí ustanovení § 202 odst. 5 a 6 a ustanovení občanského soudního řádu o jistotě u předběžného opatření. Předběžné opatření podle odstavce 3 lze nařídit jen na návrh dlužníka, insolvenčního správce, věřitele, jehož se započtení týká, nebo osoby, která na tom má právní zájem.
+>
+> (5) Rozhodnutí o návrhu na předběžné opatření podle odstavce 2 písm. b) nebo c) doručí insolvenční soud do vlastních rukou dlužníkovi, insolvenčnímu správci, osobě, která takový návrh podala, a insolvenčnímu navrhovateli. Předběžné opatření podle odstavce 3 doručí insolvenční soud do vlastních rukou dlužníkovi, insolvenčnímu správci, osobě, která takový návrh podala, a v případě, že se předběžné opatření vztahuje na pohledávky jednotlivých věřitelů, i těmto věřitelům.
 
 ### Výklad — **KLÍČOVÝ PARAGRAF, SLOŽITÝ**
 
@@ -398,7 +401,7 @@ Tří speciální oprávnění:
 
 ## § 85 — Jednání
 
-> (1) V insolvenčním řízení nařizuje insolvenční soud jednání jen tehdy, stanoví-li to zákon, nebo jestliže to považuje za nutné. O úkonech, při nichž insolvenční soud jedná s ostatními procesními subjekty o skutkové podstatě projednávané věci nebo o procesních otázkách, které na ni mohou mít vliv, se vždy sepisuje protokol; není-li to možné vzhledem ke způsobu, jakým se procesní subjekt obrátil na insolvenční soud a je-li jednostranné přijetí nebo podání informace insolvenčním soudem ve společném zájmu věřitelů, je insolvenční soud povinen o takto přijaté nebo poskytnuté informaci vždy pořídit záznam do insolvenčního spisu. (...)
+> (1) V insolvenčním řízení nařizuje insolvenční soud jednání jen tehdy, stanoví-li to zákon, nebo jestliže to považuje za nutné. O úkonech, při nichž insolvenční soud jedná s ostatními procesními subjekty o skutkové podstatě projednávané věci nebo o procesních otázkách, které na ni mohou mít vliv, se vždy sepisuje protokol; není-li to možné vzhledem ke způsobu, jakým se procesní subjekt obrátil na insolvenční soud a je-li jednostranné přijetí nebo podání informace insolvenčním soudem ve společném zájmu věřitelů, je insolvenční soud povinen o takto přijaté nebo poskytnuté informaci vždy pořídit záznam do insolvenčního spisu. Náležitosti takového záznamu stanoví prováděcí právní předpis.
 > (2) Návrhy, které mohou být podle tohoto zákona podány, a procesní úkony, které mají být provedeny při jednání, při jiném soudním úkonu nebo na schůzi věřitelů, nemohou dodatečně provést osoby, které se nedostavily, ač byly řádně obeslány.
 
 ### Výklad
@@ -489,7 +492,7 @@ V praxi se použije zejména u *zatajeného* dlužníka — typicky FO, která s
 
 > (1) Není-li dále stanoveno jinak, rozhodnutí insolvenčního soudu vydaná v insolvenčním řízení jsou účinná okamžikem jejich zveřejnění v insolvenčním rejstříku.
 > (2) Rozhodnutí vydaná v insolvenčním řízení v průběhu jednání nebo hned po skončení jednání, jsou proti všem účastníkům insolvenčního řízení a insolvenčnímu správci účinná, jakmile jsou vyhlášena účastníkům a insolvenčnímu správci, kteří byli při jednání přítomní; rozhodnutí ve věci samé jsou v takovém případě proti všem účastníkům insolvenčního řízení a insolvenčnímu správci účinná, jakmile je insolvenční soud vyhlásí veřejně.
-> (3) Ukládá-li zákon insolvenčnímu soudu zveřejnit rozhodnutí podle odstavce 2 v insolvenčním rejstříku, učiní tak nejpozději do konce pracovního dne nejblíže následujícího po dni jednání, při kterém bylo rozhodnutí vyhlášeno. (...)
+> (3) Ukládá-li zákon insolvenčnímu soudu zveřejnit rozhodnutí podle odstavce 2 v insolvenčním rejstříku, učiní tak nejpozději do konce pracovního dne nejblíže následujícího po dni jednání, při kterém bylo rozhodnutí vyhlášeno. Namísto úplného znění vyhlášeného rozhodnutí lze takto zveřejnit vhodně zkrácené znění rozhodnutí. Zkrácené znění rozhodnutí zpravidla neobsahuje odůvodnění. Povinnost zveřejnit v insolvenčním rejstříku úplné znění vyhlášeného rozhodnutí neprodleně poté, co bude vyhotoveno písemně, tím není dotčena. Účinky rozhodnutí podle odstavce 2 nastávají již zveřejněním jeho zkráceného znění v insolvenčním rejstříku; takové zveřejnění však nemá účinky doručení rozhodnutí.
 
 ### Výklad — **DŮLEŽITÝ PARAGRAF**
 

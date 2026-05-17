@@ -19,11 +19,11 @@ Vlastní **rozhodnutí o úpadku** (§ 136 a násl.) — *věřitelské přihlá
 
 > (1) Insolvenční řízení lze zahájit jen na návrh; zahajuje se dnem, kdy insolvenční návrh dojde věcně příslušnému soudu.
 > (2) Insolvenční návrh musí být v listinné podobě opatřen úředně ověřeným podpisem osoby, která jej podala; jinak se k němu nepřihlíží.
-> (3) Je-li insolvenční návrh podepsán způsobem uvedeným v odstavci 2 pouze zástupcem insolvenčního navrhovatele na základě procesní plné moci, je podmínka uvedená v odstavci 2 splněna jen tehdy, je-li úředně ověřeným podpisem opatřena k insolvenčnímu návrhu připojená procesní plná moc. (...)
+> (3) Je-li insolvenční návrh podepsán způsobem uvedeným v odstavci 2 pouze zástupcem insolvenčního navrhovatele na základě procesní plné moci, je podmínka uvedená v odstavci 2 splněna jen tehdy, je-li úředně ověřeným podpisem opatřena k insolvenčnímu návrhu připojená procesní plná moc. To platí obdobně, jedná-li za insolvenčního navrhovatele, jímž je právnická osoba, jeho zaměstnanec (člen), který tím byl pověřen statutárním orgánem, nebo byl-li insolvenční návrh podle § 390 odst. 1 podán za dlužníka osobou podle § 390a odst. 1 na základě zvláštní plné moci.
 > (4) K insolvenčnímu návrhu, který není podán ve stanoveném formátu nebo stanoveným způsobem, se nepřihlíží.
 > (5) K insolvenčnímu návrhu dlužníka podle § 390 odst. 1, který není sepsán a podán osobou podle § 390a odst. 1 nebo 2, se nepřihlíží.
 > (6) K insolvenčnímu návrhu věřitele, vůči kterému trvají účinky všeobecného nebo individuálního moratoria podle zákona o preventivní restrukturalizaci, se nepřihlíží.
-> (7) O tom, že se k insolvenčnímu návrhu nepřihlíží, insolvenční soud vyrozumí insolvenčního navrhovatele (...) usnesením, proti němuž nejsou opravné prostředky přípustné.
+> (7) O tom, že se k insolvenčnímu návrhu nepřihlíží, insolvenční soud vyrozumí insolvenčního navrhovatele a, byl-li insolvenční návrh podán podle § 390 odst. 1, také osobu, která jej za insolvenčního navrhovatele podala podle § 390a odst. 1, usnesením, proti němuž nejsou opravné prostředky přípustné.
 > (8) Insolvenční návrh je oprávněn podat dlužník nebo jeho věřitel; jde-li o hrozící úpadek, může insolvenční návrh podat jen dlužník.
 
 ### Výklad — **JEDEN Z NEJVÝZNAMNĚJŠÍCH PARAGRAFŮ**
@@ -73,8 +73,13 @@ Vlastní **rozhodnutí o úpadku** (§ 136 a násl.) — *věřitelské přihlá
 
 ## § 98 — Povinnost dlužníka podat IN
 
-> (1) Dlužník, který je právnickou osobou nebo fyzickou osobou - podnikatelem, je povinen podat insolvenční návrh bez zbytečného odkladu poté, co se dozvěděl nebo při náležité pečlivosti měl dozvědět o svém úpadku. (...)
-> (2) Povinnost podle odstavce 1 mají i zákonní zástupci dlužníka a jeho statutární orgán a likvidátor dlužníka, který je právnickou osobou v likvidaci. (...)
+> (1) Dlužník, který je právnickou osobou nebo fyzickou osobou - podnikatelem, je povinen podat insolvenční návrh bez zbytečného odkladu poté, co se dozvěděl nebo při náležité pečlivosti měl dozvědět o svém úpadku. Tuto povinnost má i tehdy, byl-li pravomocně zastaven výkon rozhodnutí prodejem jeho podniku nebo exekuce podle zvláštního právního předpisu proto, že cena majetku náležejícího k podniku nepřevyšuje výši závazků náležejících k podniku; to neplatí, má-li dlužník ještě jiný podnik.
+>
+> (2) Povinnost podle odstavce 1 mají i zákonní zástupci dlužníka a jeho statutární orgán a likvidátor dlužníka, který je právnickou osobou v likvidaci. Je-li těchto osob více a jsou-li oprávněny jednat jménem dlužníka samostatně, má tuto povinnost každá z nich. Insolvenční návrh podávají jménem dlužníka.
+>
+> (3) Povinnost podat insolvenční návrh podle odstavců 1 a 2 není splněna, bylo-li řízení o insolvenčním návrhu vinou navrhovatele zastaveno nebo byl-li jeho insolvenční návrh odmítnut.
+>
+> (4) Po dobu trvání účinků všeobecného moratoria podle zákona o preventivní restrukturalizaci se odstavce 1 a 2 nepoužijí.
 > (3) Povinnost podat insolvenční návrh podle odstavců 1 a 2 není splněna, bylo-li řízení o insolvenčním návrhu vinou navrhovatele zastaveno nebo byl-li jeho insolvenční návrh odmítnut.
 > (4) Po dobu trvání účinků všeobecného moratoria podle zákona o preventivní restrukturalizaci se odstavce 1 a 2 nepoužijí.
 
@@ -229,10 +234,16 @@ V praxi je § 100 *poměrně slabě využíván* — důvody:
 
 ## § 101 — Oznámení o zahájení (vyhláška)
 
-> (1) Zahájení insolvenčního řízení oznámí insolvenční soud vyhláškou, kterou zveřejní nejpozději do 2 hodin poté, kdy mu došel insolvenční návrh podaný dlužníkem nebo kdy byl učiněn záznam do spisu podle § 100a odst. 5. (...) Vyhláška obsahuje (...)
+> (1) Zahájení insolvenčního řízení oznámí insolvenční soud vyhláškou, kterou zveřejní nejpozději do 2 hodin poté, kdy mu došel insolvenční návrh podaný dlužníkem nebo kdy byl učiněn záznam do spisu podle § 100a odst. 5. Jestliže insolvenční návrh podaný dlužníkem insolvenčnímu soudu dojde nebo je záznam do spisu podle § 100a odst. 5 učiněn v době, kdy do skončení úředních hodin insolvenčního soudu zbývají méně než 2 hodiny, nebo ve dnech pracovního klidu, zveřejní insolvenční soud tuto vyhlášku nejpozději do 2 hodin po zahájení úředních hodin nejbližšího pracovního dne insolvenčního soudu. Vyhláška obsahuje
+> a) označení insolvenčního soudu, který ji vydal,
+> b) označení insolvenčního navrhovatele,
+> c) označení dlužníka,
+> d) údaj o okamžiku jejího zveřejnění v insolvenčním rejstříku,
+> e) jméno a příjmení osoby, která ji vydala,
+> f) den vydání.
 > (2) Je-li podán insolvenční návrh spojený s návrhem na povolení oddlužení, lhůta ke zveřejnění vyhlášky oznamující zahájení insolvenčního řízení podle odstavce 1 činí 3 pracovní dny ode dne, kdy takový návrh došel insolvenčnímu soudu; insolvenční návrh spojený s návrhem na povolení oddlužení a jiné dokumenty v insolvenčním spise se zveřejní v insolvenčním rejstříku nejdříve spolu s vyhláškou.
 > (3) Vyhláška podle odstavce 1 se doručuje účastníkům insolvenčního řízení; odvolání proti ní není přípustné.
-> (4) Rozhodne-li insolvenční soud podle § 100a odst. 1 a neodmítne-li insolvenční návrh pro zjevnou bezdůvodnost, oznámí zahájení insolvenčního řízení vyhláškou (...)
+> (4) Rozhodne-li insolvenční soud podle § 100a odst. 1 a neodmítne-li insolvenční návrh pro zjevnou bezdůvodnost, oznámí zahájení insolvenčního řízení vyhláškou, kterou spolu s insolvenčním návrhem a jinými dokumenty v insolvenčním spise zveřejní v insolvenčním rejstříku nejpozději do 2 hodin po zahájení úředních hodin nejbližšího pracovního dne insolvenčního soudu poté, co uplynula lhůta podle § 128a odst. 1. Odmítne-li insolvenční soud v této lhůtě insolvenční návrh pro zjevnou bezdůvodnost, oznámí zahájení insolvenčního řízení vyhláškou, kterou spolu s insolvenčním návrhem a jinými dokumenty v insolvenčním spise zveřejní v insolvenčním rejstříku nejpozději do 2 hodin po zahájení úředních hodin nejbližšího pracovního dne insolvenčního soudu po vydání rozhodnutí, kterým bylo rozhodnutí o odmítnutí insolvenčního návrhu pro zjevnou bezdůvodnost změněno.
 
 ### Výklad
 
@@ -268,9 +279,9 @@ Lhůta **2 hodiny** je extrémně krátká a odráží procesní zájem na rychl
 
 ## § 103 — Náležitosti insolvenčního návrhu
 
-> (1) Insolvenční návrh musí kromě obecných náležitostí podání obsahovat označení insolvenčního navrhovatele a označení dlužníka, kterého se týká, popřípadě označení jejich zástupců. (...)
+> (1) Insolvenční návrh musí kromě obecných náležitostí podání obsahovat označení insolvenčního navrhovatele a označení dlužníka, kterého se týká, popřípadě označení jejich zástupců. Fyzická osoba musí být označena jménem, příjmením a bydlištěm (sídlem) a v případě, že jde o podnikatele, též identifikačním číslem. Právnická osoba musí být označena obchodní firmou nebo názvem, sídlem a identifikačním číslem. Je-li navrhovatelem stát, musí insolvenční návrh obsahovat označení příslušné organizační složky státu, která za stát před insolvenčním soudem vystupuje.
 > (2) V insolvenčním návrhu musí být dále uvedeny rozhodující skutečnosti, které osvědčují úpadek dlužníka nebo jeho hrozící úpadek, skutečnosti, ze kterých vyplývá oprávnění podat návrh, není-li insolvenčním navrhovatelem dlužník, označeny důkazy, kterých se insolvenční navrhovatel dovolává, a musí z něj být patrno, čeho se jím insolvenční navrhovatel domáhá.
-> (3) Insolvenční návrh je nutné předložit s potřebným počtem stejnopisů (...)
+> (3) Insolvenční návrh je nutné předložit s potřebným počtem stejnopisů tak, aby jeden stejnopis zůstal u insolvenčního soudu a aby každý, komu se doručuje, dostal jeden stejnopis. Insolvenční navrhovatel je povinen k insolvenčnímu návrhu připojit předepsané přílohy a listinné důkazy, kterých se dovolává; přílohy a listiny však nejsou součástí insolvenčního návrhu.
 > (4) Stejnopis insolvenčního návrhu věřitele se doručuje pouze dlužníku, a to do vlastních rukou. Insolvenční návrh dlužníka se nedoručuje.
 
 ### Výklad
@@ -344,7 +355,7 @@ Lhůta **2 hodiny** je extrémně krátká a odráží procesní zájem na rychl
 
 ## § 105 — Náležitosti návrhu věřitele
 
-> (1) Podá-li insolvenční návrh věřitel, je povinen doložit, že má proti dlužníkovi splatnou pohledávku, a k návrhu připojit její přihlášku; je-li dlužníkem právnická osoba, je insolvenční navrhovatel, který vede účetnictví nebo daňovou evidenci podle zvláštního zákona, povinen doložit pohledávku uznáním dlužníka s ověřeným podpisem nebo vykonatelným rozhodnutím nebo notářským zápisem se svolením k vykonatelnosti nebo exekutorským zápisem se svolením k vykonatelnosti nebo potvrzením auditora podle zvláštního zákona, soudního znalce nebo daňového poradce, že navrhovatel o pohledávce účtuje. (...)
+> (1) Podá-li insolvenční návrh věřitel, je povinen doložit, že má proti dlužníkovi splatnou pohledávku, a k návrhu připojit její přihlášku; je-li dlužníkem právnická osoba, je insolvenční navrhovatel, který vede účetnictví nebo daňovou evidenci podle zvláštního zákona, povinen doložit pohledávku uznáním dlužníka s ověřeným podpisem nebo vykonatelným rozhodnutím nebo notářským zápisem se svolením k vykonatelnosti nebo exekutorským zápisem se svolením k vykonatelnosti nebo potvrzením auditora podle zvláštního zákona, soudního znalce nebo daňového poradce, že navrhovatel o pohledávce účtuje. Jde-li v případě pohledávky podle věty první o pohledávku, která se do insolvenčního řízení jinak nepřihlašuje, považuje se po rozhodnutí o úpadku za uplatněnou podle § 203.
 > (2) [analogická úprava pro zahraniční navrhovatele]
 > (3) Nesplní-li věřitel, který podal insolvenční návrh, povinnost podle § 177 odst. 2 a 3, platí, že pohledávku vůči dlužníkovi neosvědčil, ledaže jde o případ podle § 177 odst. 4 nebo 6.
 
@@ -439,9 +450,9 @@ Pokud někdo podá další návrh **po rozhodnutí o úpadku**, *nepřihlíží 
 ## § 108 — Záloha na náklady IR
 
 > (1) Je-li podán insolvenční návrh věřitele proti právnické osobě, která je podnikatelem, je navrhovatel povinen složit zálohu na náklady insolvenčního řízení ve výši **50 000 Kč**, a je-li podán insolvenční návrh věřitele proti právnické osobě, která není podnikatelem, nebo proti fyzické osobě, zálohu na náklady insolvenčního řízení ve výši **10 000 Kč**; záloha je splatná spolu s podáním insolvenčního návrhu. To neplatí, je-li insolvenčním navrhovatelem zaměstnanec nebo bývalý zaměstnanec dlužníka, jehož pohledávka spočívá pouze v pracovněprávních nárocích, je-li insolvenčním navrhovatelem spotřebitel, jehož pohledávka spočívá v nároku vyplývajícím ze spotřebitelské smlouvy, a v případech podle § 107 odst. 1.
-> (2) Insolvenční soud může před rozhodnutím o insolvenčním návrhu uložit insolvenčnímu navrhovateli, aby ve stanovené lhůtě zaplatil zálohu na náklady insolvenčního řízení, je-li to nutné ke krytí nákladů řízení a prostředky k tomu nelze zajistit jinak; to platí i tehdy, je-li zřejmé, že dlužník nemá žádný majetek. (...)
+> (2) Insolvenční soud může před rozhodnutím o insolvenčním návrhu uložit insolvenčnímu navrhovateli, aby ve stanovené lhůtě zaplatil zálohu na náklady insolvenčního řízení, je-li to nutné ke krytí nákladů řízení a prostředky k tomu nelze zajistit jinak; to platí i tehdy, je-li zřejmé, že dlužník nemá žádný majetek. Tuto zálohu nelze uložit insolvenčnímu navrhovateli - zaměstnanci nebo bývalému zaměstnanci dlužníka, jehož pohledávka spočívá pouze v pracovněprávních nárocích. Povinnost zaplatit zálohu neuloží insolvenční soud dlužníku, o jehož insolvenčním návrhu může rozhodnout bez zbytečného odkladu tak, že vydá rozhodnutí o úpadku, s nímž spojí rozhodnutí o povolení oddlužení.
 > (3) Výši zálohy podle odstavce 2 může insolvenční soud určit až do částky 50 000 Kč. Je-li insolvenčních navrhovatelů více, jsou povinni zaplatit zálohu společně a nerozdílně.
-> (4) Nebude-li záloha (...) ve stanovené lhůtě zaplacena, může insolvenční soud před rozhodnutím o insolvenčním návrhu insolvenční řízení zastavit (...)
+> (4) Nebude-li záloha na náklady insolvenčního řízení stanovená rozhodnutím insolvenčního soudu podle odstavců 2 a 3 ve stanovené lhůtě zaplacena, může insolvenční soud před rozhodnutím o insolvenčním návrhu insolvenční řízení zastavit, a neučiní-li tak, může přikročit k jejímu vymáhání; o tom musí insolvenčního navrhovatele poučit.
 > (5) Nejde-li o dlužníka, může osoba, která zaplatila zálohu na náklady insolvenčního řízení, uplatnit její náhradu v insolvenčním řízení jako pohledávku za majetkovou podstatou.
 > (6) Je-li vydáno předběžné opatření podle § 147 odst. 6, považuje se složená záloha na náklady insolvenčního řízení za částku uhrazenou na základě takového předběžného opatření.
 
@@ -487,14 +498,14 @@ Navrhovatel-věřitel (po zahájení řízení) získá pohledávku **za majetko
 
 > (1) Se zahájením insolvenčního řízení se spojují tyto účinky:
 > a) pohledávky a jiná práva týkající se majetkové podstaty nemohou být uplatněny žalobou, lze-li je uplatnit přihláškou,
-> b) právo na uspokojení ze zajištění, které se týká majetku ve vlastnictví dlužníka nebo majetku náležejícího do majetkové podstaty, lze uplatnit a nově nabýt jen za podmínek stanovených tímto zákonem (...),
-> c) výkon rozhodnutí či exekuci, která by postihovala majetek ve vlastnictví dlužníka, jakož i jiný majetek, který náleží do majetkové podstaty, lze nařídit nebo zahájit, nelze jej však provést. (...),
+> b) právo na uspokojení ze zajištění, které se týká majetku ve vlastnictví dlužníka nebo majetku náležejícího do majetkové podstaty, lze uplatnit a nově nabýt jen za podmínek stanovených tímto zákonem, to platí i pro zřízení soudcovského zástavního práva na nemovitostech nebo exekutorského zástavního práva na nemovitostech, které bylo navrženo po zahájení insolvenčního řízení; právo na uspokojení ze zajištění přitom náleží v případě zajištěné podmíněné pohledávky i dojde-li ke splnění odkládací podmínky pro vznik takové pohledávky po zahájení insolvenčního řízení; to platí obdobně v případě zajištěné budoucí pohledávky, dojde-li ke vzniku takové zajištěné budoucí pohledávky po zahájení insolvenčního řízení,
+> c) výkon rozhodnutí či exekuci, která by postihovala majetek ve vlastnictví dlužníka, jakož i jiný majetek, který náleží do majetkové podstaty, lze nařídit nebo zahájit, nelze jej však provést. Pro pohledávky za majetkovou podstatou (§ 168) a pohledávky jim na roveň postavené (§ 169) však lze provést nebo vést výkon rozhodnutí či exekuci, která by postihovala majetek náležející do majetkové podstaty dlužníka, na základě rozhodnutí insolvenčního soudu vydaného podle § 203 odst. 5 a s omezeními tímto rozhodnutím založenými. Pro pohledávky věřitelů na výživném ze zákona vzniklé po zahájení insolvenčního řízení však lze provést nebo vést výkon rozhodnutí či exekuci srážkami ze mzdy do prohlášení konkursu nebo schválení oddlužení, ledaže insolvenční soud rozhodne jinak kvůli důvodné pochybnosti, že takový výkon rozhodnutí nebo exekuce sleduje zneužití práva na úkor ostatních věřitelů. Není-li dále stanoveno jinak, výkon rozhodnutí nebo exekuce se i nadále nařizuje nebo zahajuje a provádí proti povinnému,
 > d) nelze uplatnit dohodou věřitele a dlužníka založené právo na výplatu srážek ze mzdy nebo jiných příjmů, s nimiž se při výkonu rozhodnutí nakládá jako se mzdou nebo platem.
 > (2) Úkonem, jímž se provádí výkon rozhodnutí nebo exekuce, není úkon učiněný k zajištění dlužníkova majetku pro účely jeho postižení takovým výkonem rozhodnutí nebo exekucí. Se zahájením insolvenčního řízení se spojují také další účinky stanovené zákonem.
 > (3) Lhůty k uplatnění práv, která lze podle odstavce 1 uplatnit pouze přihláškou, po zahájení insolvenčního řízení nezačínají nebo dále neběží.
 > (4) Účinky zahájení insolvenčního řízení nastávají okamžikem zveřejnění vyhlášky, kterou se oznamuje zahájení insolvenčního řízení, v insolvenčním rejstříku.
 > (5) Nestanoví-li zákon u některého ze způsobů řešení úpadku jinak, trvají účinky spojené se zahájením insolvenčního řízení do skončení insolvenčního řízení, a jde-li o reorganizaci, do schválení reorganizačního plánu.
-> (6) K rozhodnutím a opatřením přijatým při provádění výkonu rozhodnutí nebo exekuce v rozporu s omezením podle odstavce 1 písm. c) se v insolvenčním řízení nepřihlíží. Je-li to nezbytné k naplnění účelu insolvenčního řízení, může insolvenční soud kdykoli i bez návrhu pozastavit vykonatelnost nebo odložit právní moc rozhodnutí nebo opatření přijatých při provádění výkonu rozhodnutí nebo exekuce v rozporu s omezením podle odstavce 1 písm. c) (...)
+> (6) K rozhodnutím a opatřením přijatým při provádění výkonu rozhodnutí nebo exekuce v rozporu s omezením podle odstavce 1 písm. c) se v insolvenčním řízení nepřihlíží. Je-li to nezbytné k naplnění účelu insolvenčního řízení, může insolvenční soud kdykoli i bez návrhu pozastavit vykonatelnost nebo odložit právní moc rozhodnutí nebo opatření přijatých při provádění výkonu rozhodnutí nebo exekuce v rozporu s omezením podle odstavce 1 písm. c); může také zakázat přijetí rozhodnutí nebo opatření připravovaných při provádění výkonu rozhodnutí nebo exekuce v rozporu s omezením podle odstavce 1 písm. c). Proti rozhodnutí insolvenčního soudu podle věty druhé mohou podat odvolání účastníci řízení o výkon rozhodnutí nebo exekučního řízení. Rozhodnutí insolvenčního soudu podle věty druhé se doručuje zvlášť také orgánu nebo osobě, která rozhodnutí nebo opatření při provádění výkonu rozhodnutí nebo exekuce přijala nebo připravovala.
 
 ### Výklad — **CENTRÁLNÍ PARAGRAF**
 
@@ -555,7 +566,7 @@ K *rozhodnutím / opatřením* v exekuci provedeným *v rozporu* se zákazem pod
 ## § 110 — Přihlášky pohledávek
 
 > (1) Věřitelé dlužníka jsou od zahájení insolvenčního řízení oprávněni uplatnit v něm své pohledávky přihláškou, a to i v případě, že insolvenční soud ještě nezveřejnil výzvu k podávání přihlášek.
-> (2) Insolvenční soud vyzve věřitele, kteří chtějí své pohledávky uplatnit v insolvenčním řízení, aby podali přihlášku pohledávky. (...)
+> (2) Insolvenční soud vyzve věřitele, kteří chtějí své pohledávky uplatnit v insolvenčním řízení, aby podali přihlášku pohledávky. Tuto výzvu lze spojit s oznámením o zahájení insolvenčního řízení; je-li výzva učiněna samostatně až v průběhu insolvenčního řízení, oznamuje se stejným způsobem, jakým se oznamuje zahájení insolvenčního řízení.
 > (3) Přihlášky pohledávek na základě výzvy podle odstavce 2 mohou věřitelé podávat až do rozhodnutí o úpadku. Kratší lhůtu není insolvenční soud oprávněn stanovit. Náležitosti této výzvy stanoví prováděcí právní předpis.
 
 ### Výklad
@@ -616,13 +627,29 @@ K *rozhodnutím / opatřením* v exekuci provedeným *v rozporu* se zákazem pod
 ### § 112 — Ustanovení předběžného správce
 
 > (1) Insolvenční soud ustanoví předběžným opatřením předběžného správce i bez návrhu, jestliže nařídil předběžné opatření, kterým omezil dlužníka v nakládání s majetkovou podstatou v širším rozsahu, než je uvedeno v § 111.
-> (2) Insolvenční soud může předběžného správce ustanovit i tehdy, jestliže vyhlásil moratorium nebo odůvodňuje-li to rozsah majetkové podstaty (...) anebo jsou-li zde jiné, stejně závažné důvody.
-> (3) Povinností předběžného správce je provést opatření ke zjištění dlužníkova majetku a k jeho zajištění, jakož i k přezkoumání dlužníkova účetnictví nebo evidence (...)
+> (2) Insolvenční soud může předběžného správce ustanovit i tehdy, jestliže vyhlásil moratorium nebo odůvodňuje-li to rozsah majetkové podstaty, který je vhodné i předběžně zjistit a zajistit, anebo jsou-li zde jiné, stejně závažné důvody.
+>
+> (3) Povinností předběžného správce je provést opatření ke zjištění dlužníkova majetku a k jeho zajištění, jakož i k přezkoumání dlužníkova účetnictví nebo evidence vedené podle zvláštního právního předpisu.
+>
+> (4) Jestliže insolvenční soud před rozhodnutím o úpadku zruší předběžné opatření, kterým byl ustanoven předběžný správce, uloží mu současně, aby ve stanovené lhůtě podal insolvenčnímu soudu zprávu o své činnosti, zejména o stavu majetku, který spravoval, a aby vyúčtoval náklady, které mu vznikly. Stejně se postupuje, jestliže na základě odvolání změní předběžné opatření odvolací soud, ledaže jde o změny, které se netýkají osoby předběžného správce a jeho činnosti.
 
 ### § 113 — Předběžné opatření o nakládání s majetkem
 
 > (1) Je-li nutné zabránit v době do vydání rozhodnutí o úpadku změnám v rozsahu majetkové podstaty v neprospěch věřitelů, insolvenční soud může i bez návrhu nařídit předběžné opatření, kterým dlužníkovi uloží, aby nenakládal s určitými věcmi nebo právy náležejícími do jeho majetkové podstaty, nebo rozhodne, že dlužník může nakládat s majetkovou podstatou nebo její částí pouze se souhlasem předběžného správce. Může též nařídit, aby osoby, které mají závazky vůči dlužníkovi, napříště plnění neposkytovaly dlužníkovi, ale předběžnému správci. Současně ustanoví předběžného správce, pokud tak neučinil dříve.
-> (...) [odst. 2 — 6: doručování, zápis do veřejných seznamů, opravné prostředky, zánik]
+>
+> (2) Rozhodnutí podle odstavce 1 doručí insolvenční soud do vlastních rukou dlužníkovi a předběžnému správci.
+>
+> (3) Týkají-li se omezení uložená dlužníku té části jeho majetkové podstaty, která je zapsána v katastru nemovitostí, v Rejstříku zástav nebo v jiných veřejných či neveřejných seznamech, které podle zvláštních právních předpisů osvědčují vlastnictví nebo jiná věcná práva k tomuto majetku, insolvenční soud doručí stejnopis předběžného opatření také katastrálním pracovištím příslušných katastrálních úřadů (dále jen „katastrální pracoviště"), Notářské komoře České republiky a orgánu nebo osobě, která vede jiný veřejný či neveřejný seznam.
+>
+> (4) Proti předběžnému opatření nařízenému podle tohoto ustanovení se může odvolat pouze dlužník. Jde-li o usnesení, kterým insolvenční soud návrh na nařízení takového předběžného opatření zamítl, je osobou oprávněnou k podání odvolání osoba, která návrh podala.
+>
+> (5) Předběžné opatření zanikne
+> a) uplynutím doby, po kterou mělo trvat,
+> b) vydáním rozhodnutí podle § 142, neurčí-li insolvenční soud v takovém rozhodnutí, že předběžné opatření zanikne až právní mocí rozhodnutí,
+> c) účinností moratoria, ledaže insolvenční soud určil v rozhodnutí o vyhlášení moratoria jinak,
+> d) vydáním rozhodnutí, kterým se předběžné opatření zruší, jakmile pominou důvody, pro které bylo nařízeno.
+>
+> (6) Rozhodnutí podle odstavce 5 písm. d) může insolvenční soud vydat i bez návrhu. Pro jeho doručení platí odstavce 2 a 3 obdobně; odvolat se proti němu může pouze osoba, která návrh na nařízení předběžného opatření podala, není-li totožná s osobou, která navrhla zrušení předběžného opatření.
 
 ### § 114 — Plnění dlužníkovi v rozporu s předběžným opatřením
 
@@ -680,7 +707,7 @@ Pouze **dlužník-podnikatel** může navrhnout. *Vyloučeno*: PO v likvidaci (l
 ## § 116 — Náležitosti návrhu
 
 > (1) Návrh na moratorium musí kromě obecných náležitostí podání obsahovat všechny skutečnosti, které odůvodňují jeho vyhlášení.
-> (2) K návrhu (...) je dlužník kromě seznamů a listin, které je povinen připojit k insolvenčnímu návrhu, povinen připojit poslední účetní závěrku a písemné prohlášení **většiny jeho věřitelů**, počítané podle výše jejich pohledávek, že s vyhlášením moratoria souhlasí; podpisy věřitelů na tomto prohlášení musí být úředně ověřeny.
+> (2) K návrhu podle odstavce 1 je dlužník kromě seznamů a listin, které je povinen připojit k insolvenčnímu návrhu, povinen připojit poslední účetní závěrku a písemné prohlášení **většiny jeho věřitelů**, počítané podle výše jejich pohledávek, že s vyhlášením moratoria souhlasí; podpisy věřitelů na tomto prohlášení musí být úředně ověřeny.
 
 ### Výklad — **TĚŽKO SPLNITELNÝ POŽADAVEK**
 
@@ -764,7 +791,9 @@ Podmínka — dlužník *řádně hradí* závazky podle odst. 1.
 
 ## § 127 — Odpovědnost za škodu v moratoriu
 
-> (1) Dlužník, který v době trvání moratoria poruší své povinnosti stanovené tímto zákonem, odpovídá věřitelům za škodu nebo jinou újmu (...)
+> (1) Dlužník, který v době trvání moratoria poruší své povinnosti stanovené tímto zákonem, odpovídá věřitelům za škodu nebo jinou újmu, kterou jim tím způsobí. Této odpovědnosti se dlužník zprostí, jen když prokáže, že škodě nebo jiné újmě nemohl zabránit ani při vynaložení veškerého úsilí, které po něm bylo možné spravedlivě požadovat se zřetelem k průběhu moratoria.
+>
+> (2) Za škodu nebo jinou újmu vzniklou podle odstavce 1 ručí společně a nerozdílně členové statutárního orgánu dlužníka.
 > (2) Za škodu nebo jinou újmu vzniklou podle odstavce 1 ručí společně a nerozdílně členové statutárního orgánu dlužníka.
 
 ### Výklad
@@ -775,7 +804,9 @@ Podmínka — dlužník *řádně hradí* závazky podle odst. 1.
 
 ## § 127a — Mimořádné moratorium („covid moratorium")
 
-> (1) V době do 30. června 2021 může dlužník, který je podnikatelem a který nebyl k 5. říjnu 2020 v úpadku, podat u insolvenčního soudu (...) návrh na mimořádné moratorium. (...)
+> (1) V době do 30. června 2021 může dlužník, který je podnikatelem a který nebyl k 5. říjnu 2020 v úpadku, podat u insolvenčního soudu před zahájením insolvenčního řízení, případně po jeho zahájení k návrhu jiné osoby, návrh na mimořádné moratorium. Jde-li o návrh na mimořádné moratorium podaný po zahájení insolvenčního řízení na návrh jiné osoby, musí být podán do 15 dnů od doručení insolvenčního návrhu dlužníku insolvenčním soudem. Není-li dále stanoveno jinak, platí pro řízení o tomto návrhu a pro účinky mimořádného moratoria § 117 až 124, § 126 odst. 1, 3 a 4 a § 127. Ustanovení § 118 odst. 1, § 119 odst. 2, § 120 odst. 2 a § 122 odst. 1 a 3 se nepoužijí.
+>
+> *[Plné znění § 127a obsahuje 13 odstavců upravujících obsahové náležitosti návrhu (čestná prohlášení o důsledcích COVID-19), vyhlášení, účinky, prodloužení, skončení a odpovědnost. Pro celé znění viz https://www.zakonyprolidi.cz/cs/2006-182/zneni-20250215.htm — § 127a. Institut byl uplatnitelný pouze v období do 30. 6. 2021 jako COVID-19 nouzový institut a v současnosti má již jen historický význam.]*
 
 ### Výklad
 
@@ -803,8 +834,9 @@ Podmínka — dlužník *řádně hradí* závazky podle odst. 1.
 ## § 128 — Vady návrhu
 
 > (1) Insolvenční návrh, který neobsahuje všechny náležitosti nebo který je nesrozumitelný anebo neurčitý, insolvenční soud odmítne, jestliže pro tyto nedostatky nelze pokračovat v řízení; učiní tak neprodleně, nejpozději do 7 dnů poté, co byl insolvenční návrh podán. Ustanovení § 43 občanského soudního řádu se nepoužije.
-> (2) Nejsou-li k insolvenčnímu návrhu připojeny zákonem požadované přílohy nebo neobsahují-li tyto přílohy stanovené náležitosti, určí insolvenční soud navrhovateli lhůtu k doplnění insolvenčního návrhu (...). Tato lhůta nesmí být delší než 7 dnů; to neplatí, jde-li o insolvenční návrh podle § 98 odst. 1. (...). Nebude-li insolvenční návrh ve stanovené lhůtě doplněn, insolvenční soud jej odmítne.
-> (3) Insolvenční soud může rozhodnout, aby mu seznamy uvedené v § 104 odst. 1 a případně též výkaz stavu likvidity a výhled vývoje likvidity předložil i dlužník, který není insolvenčním navrhovatelem (...)
+> (2) Nejsou-li k insolvenčnímu návrhu připojeny zákonem požadované přílohy nebo neobsahují-li tyto přílohy stanovené náležitosti, určí insolvenční soud navrhovateli lhůtu k doplnění insolvenčního návrhu a je-li insolvenční návrh podán za dlužníka osobou podle § 390a odst. 1, vyzve ji insolvenční soud usnesením k doplnění insolvenčního návrhu v jím určené lhůtě a toto usnesení doručí také dlužníku. Tato lhůta nesmí být delší než 7 dnů; to neplatí, jde-li o insolvenční návrh podle § 98 odst. 1. Je-li insolvenční návrh podán za dlužníka osobou podle § 390a odst. 1, nezačne tato lhůta běžet dříve, než je usnesení podle věty první doručeno jak dlužníku, tak osobě podle § 390a odst. 1. Nebude-li insolvenční návrh ve stanovené lhůtě doplněn, insolvenční soud jej odmítne.
+>
+> (3) Insolvenční soud může rozhodnout, aby mu seznamy uvedené v § 104 odst. 1 a případně též výkaz stavu likvidity a výhled vývoje likvidity předložil i dlužník, který není insolvenčním navrhovatelem; má-li insolvenční navrhovatel vůči dlužníku vykonatelnou pohledávku, uloží insolvenční soud tuto povinnost dlužníku vždy. Seznam majetku, výkaz stavu likvidity a výhled vývoje likvidity zveřejní v takovém případě v insolvenčním rejstříku až po rozhodnutí o úpadku.
 > (4) Osobou oprávněnou k podání odvolání proti rozhodnutí podle odstavce 1 je insolvenční navrhovatel. Proti rozhodnutí podle odstavce 3 není odvolání přípustné.
 
 ### Výklad
@@ -833,7 +865,7 @@ Podmínka — dlužník *řádně hradí* závazky podle odst. 1.
 > b) jde o insolvenční návrh podaný opětovně a insolvenční navrhovatel při jeho podání nedoloží, že splnil povinnosti uložené mu případně předchozím rozhodnutím o insolvenčním návrhu,
 > c) jeho podáním insolvenční navrhovatel zjevně sleduje zneužití svých práv na úkor dlužníka, nebo
 > d) záloha na náklady insolvenčního řízení splatná s podáním insolvenčního návrhu nebyla věřitelem, který insolvenční návrh podal, řádně a včas zaplacena.
-> (3) V rozhodnutí, jímž odmítá insolvenční návrh pro zjevnou bezdůvodnost, může insolvenční soud uložit insolvenčnímu navrhovateli, aby za jeho podání zaplatil pokutu určenou do výše **500 000 Kč** se zřetelem ke všem okolnostem věci (...)
+> (3) V rozhodnutí, jímž odmítá insolvenční návrh pro zjevnou bezdůvodnost, může insolvenční soud uložit insolvenčnímu navrhovateli, aby za jeho podání zaplatil pokutu určenou do výše **500 000 Kč** se zřetelem ke všem okolnostem věci, zejména k okolnostem podání insolvenčního návrhu, následkům jeho podání a jejich závažnosti, k jednání insolvenčního navrhovatele po podání návrhu a případné účinné snaze nahradit způsobenou škodu nebo odstranit škodlivé následky.
 > (4) Insolvenční navrhovatel, jehož insolvenční návrh byl pravomocně odmítnut podle odstavce 1, může podat nový insolvenční návrh proti stejnému dlužníkovi nejdříve po 6 měsících od právní moci rozhodnutí podle odstavce 1, jinak se k insolvenčnímu návrhu nepřihlíží. To neplatí, byl-li insolvenční návrh odmítnut proto, že spolu s insolvenčním návrhem nebyla složena záloha na náklady insolvenčního řízení.
 > (5) Bylo-li dříve rozhodnuto podle § 100a odst. 1, insolvenční soud rozhodnutí podle odstavce 1, případně i rozhodnutí o odvolání proti němu, doručí zvlášť pouze insolvenčnímu navrhovateli a dlužníku.
 

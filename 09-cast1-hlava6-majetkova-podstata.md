@@ -201,9 +201,11 @@ V praxi jsou *spory o vyloučení věcí pro osobní potřebu* časté zejména 
 ### § 210 — Součinnost dlužníka
 
 > (1) Dlužník je povinen poskytnout insolvenčnímu správci nebo předběžnému správci při zjišťování majetkové podstaty **všestrannou součinnost**, zejména dbát pokynů insolvenčního správce nebo předběžného správce.
-> (2) Je-li dlužníkem právnická osoba, mají povinnosti podle odstavce 1 její **statutární orgány** a jejich členové nebo likvidátor (...). Uvedené osoby mají tuto povinnost i v případě, že jejich postavení **zaniklo v posledních 3 měsících před zahájením insolvenčního řízení**.
-> (3) Insolvenční soud může vyžadovat splnění povinností podle odstavců 1 a 2 také od osob, které jsou společníky, zaměstnanci nebo členy právnické osoby (...)
-> (4) Je-li dlužníkem fyzická osoba, mají povinnosti podle odstavců 1 a 2 i její zákonní zástupci (...)
+> (2) Je-li dlužníkem právnická osoba, mají povinnosti podle odstavce 1 její **statutární orgány** a jejich členové nebo likvidátor, jde-li o právnickou osobu v likvidaci. Jestliže postavení statutárního orgánu má více osob oprávněných jednat samostatně, lze splnění těchto povinností požadovat od kterékoli z nich. Uvedené osoby mají tuto povinnost i v případě, že jejich postavení **zaniklo v posledních 3 měsících před zahájením insolvenčního řízení**.
+>
+> (3) Insolvenční soud může vyžadovat splnění povinností podle odstavců 1 a 2 také od osob, které jsou společníky, zaměstnanci nebo členy právnické osoby, a to v rozsahu jejich oprávnění jednat za právnickou osobu.
+>
+> (4) Je-li dlužníkem fyzická osoba, mají povinnosti podle odstavců 1 a 2 i její zákonní zástupci; má-li fyzická osoba více zákonných zástupců oprávněných jednat jejím jménem samostatně, může insolvenční soud vyžadovat splnění těchto povinností od každého z nich.
 
 ### Výklad
 
@@ -332,7 +334,9 @@ Pokud správce zjistí, že položka **nenáleží do podstaty**:
 
 ## § 218 — Označení majetku
 
-> (1) Majetek náležející do majetkové podstaty se zapisuje do soupisu **samostatnými položkami**. Není-li to vyloučeno jeho povahou, musí být sepisovaný majetek v soupisu **označen způsobem, který umožňuje jeho identifikaci**; to neplatí, jde-li o majetek nepatrné hodnoty. (...)
+> (1) Majetek náležející do majetkové podstaty se zapisuje do soupisu **samostatnými položkami**. Není-li to vyloučeno jeho povahou, musí být sepisovaný majetek v soupisu **označen způsobem, který umožňuje jeho identifikaci**; to neplatí, jde-li o majetek nepatrné hodnoty. Je-li zde překážka dočasné povahy bránící řádné identifikaci sepisovaného majetku, doplní insolvenční správce označení tohoto majetku neprodleně po jejím odpadnutí.
+>
+> (2) Podnik nebo jiná hromadná věc a soubory věcí se zapisují jedinou položkou, ze které však musí být zřejmé, co všechno do podniku nebo souboru věcí náleží v den zápisu do soupisu podstaty.
 > (2) Podnik nebo jiná hromadná věc a soubory věcí se zapisují **jedinou položkou**, ze které však musí být zřejmé, co všechno do podniku nebo souboru věcí náleží v den zápisu do soupisu podstaty.
 
 ### Výklad
@@ -348,7 +352,9 @@ Pokud správce zjistí, že položka **nenáleží do podstaty**:
 > (1) Součástí soupisu je i ocenění provedené **insolvenčním správcem**, který přitom vychází z údajů v účetnictví dlužníka nebo v evidenci vedené podle zvláštního právního předpisu a z dalších dostupných informací. Ocenění se nepromítá do účetnictví dlužníka.
 > (2) Požaduje-li to věřitelský výbor, provede se ocenění znalcem, za předpokladu, že to věřitelský výbor finančně zajistí.
 > (3) Ocenění obtížně ocenitelného majetku může insolvenční správce zadat znalci i bez žádosti věřitelského výboru; to neplatí, lze-li důvodně předpokládat, že náklady na ocenění majetku znalcem budou vyšší než přínos pro majetkovou podstatu získaný tímto způsobem jeho ocenění.
-> (4) Je-li uplatněno právo na uspokojení přihlášené pohledávky ze zajištění nebo má-li být majetková podstata zpeněžena podle § 290 nebo § 292, insolvenční správce zadá znalci ocenění hodnoty zajištění a v případě podle § 290 nebo § 292 ocenění hodnoty zpeněžovaného majetku **vždy** (...).
+> (4) Je-li uplatněno právo na uspokojení přihlášené pohledávky ze zajištění nebo má-li být majetková podstata zpeněžena podle § 290 nebo 292, insolvenční správce zadá znalci ocenění hodnoty zajištění a v případě podle § 290 nebo 292 ocenění hodnoty zpeněžovaného majetku **vždy**; odstavec 3 se použije přiměřeně.
+>
+> (5) Při ocenění podle odstavců 1 až 4 se majetek oceňuje obvyklou cenou. Postup podle odstavců 1 až 4 se neuplatní, byl-li ustanoven znalec podle § 153 odst. 1.
 > (5) Při ocenění podle odstavců 1 až 4 se majetek oceňuje **obvyklou cenou**. Postup podle odstavců 1 až 4 se neuplatní, byl-li ustanoven znalec podle § 153 odst. 1.
 
 ### Výklad — **KLÍČOVÝ PARAGRAF PRO OCEŇOVÁNÍ**
@@ -402,9 +408,13 @@ Soupis **na elektronickém formuláři**. Zveřejnění v rejstříku *neprodlen
 
 ## § 224 — Vyrozumění o soupisu třetích osob
 
-> (1) Insolvenční správce, který zapíše do soupisu věci, práva, pohledávky a jiné majetkové hodnoty, **které nenáleží dlužníku** nebo jejichž zahrnutí do majetkové podstaty je **sporné**, do soupisu poznamená, komu sepisovaný majetek náleží, nebo kdo k němu uplatňuje své právo. Tuto osobu insolvenční správce **písemně vyrozumí** o zahrnutí majetku do soupisu (...). Osvědčení musí vždy obsahovat i uvedení důvodu, pro který insolvenční správce tento majetek sepsal.
-> (2) Vyrozumění (...) musí obsahovat i poučení o **možnosti podat vylučovací žalobu a o následcích zmeškání lhůty** k podání vylučovací žaloby (...).
-> (3) Je-li do soupisu zapsána nemovitost, která podle katastru nemovitostí není ve vlastnictví dlužníka, vyrozumí o tom insolvenční správce příslušné katastrální pracoviště. Je-li do soupisu sepsána věc, která podle Rejstříku zástav není ve vlastnictví dlužníka, vyrozumí o tom insolvenční správce Notářskou komoru České republiky. (...)
+> (1) Insolvenční správce, který zapíše do soupisu věci, práva, pohledávky a jiné majetkové hodnoty, **které nenáleží dlužníku** nebo jejichž zahrnutí do majetkové podstaty je **sporné** zejména proto, že k nim třetí osoba uplatňuje práva, která to vylučují, do soupisu poznamená, komu sepisovaný majetek náleží, nebo kdo k němu uplatňuje své právo. Tuto osobu insolvenční správce **písemně vyrozumí** o zahrnutí majetku do soupisu a na její žádost jí o tom vydá osvědčení. Osvědčení musí vždy obsahovat i uvedení důvodu, pro který insolvenční správce tento majetek sepsal.
+>
+> (2) Vyrozumění podle odstavce 1 musí obsahovat i poučení o **možnosti podat vylučovací žalobu a o následcích zmeškání lhůty** k podání vylučovací žaloby; náležitosti tohoto vyrozumění stanoví prováděcí právní předpis.
+>
+> (3) Je-li do soupisu zapsána nemovitost, která podle katastru nemovitostí není ve vlastnictví dlužníka, vyrozumí o tom insolvenční správce příslušné katastrální pracoviště. Je-li do soupisu sepsána věc, která podle Rejstříku zástav není ve vlastnictví dlužníka, vyrozumí o tom insolvenční správce Notářskou komoru České republiky. Obdobně to platí o majetku uvedeném v jiných veřejných či neveřejných seznamech, jestliže podle zvláštních právních předpisů osvědčují vlastnictví nebo jiná věcná práva k tomuto majetku.
+>
+> (4) Je-li do soupisu zapsána kulturní památka, sbírka muzejní povahy nebo předmět kulturní hodnoty, vyrozumí o tom insolvenční správce neprodleně Ministerstvo kultury.
 > (4) Je-li do soupisu zapsána kulturní památka, sbírka muzejní povahy nebo předmět kulturní hodnoty, vyrozumí o tom insolvenční správce neprodleně **Ministerstvo kultury**.
 
 ### Výklad — **OCHRANA TŘETÍCH OSOB**
@@ -430,7 +440,7 @@ Pokud správce zapíše do soupisu **sporný majetek** nebo majetek, který *zje
 > (1) Osoby, které tvrdí, že označený majetek neměl být do soupisu zahrnut proto, že to vylučuje jejich právo k majetku nebo že tu je jiný důvod, pro který neměl být zahrnut do soupisu, **se mohou žalobou** podanou u insolvenčního soudu domáhat rozhodnutí, že se tento majetek vylučuje z majetkové podstaty.
 > (2) Žaloba musí být podána proti insolvenčnímu správci, a to **ve lhůtě 30 dnů** ode dne, kdy osobě uvedené v odstavci 1 bylo doručeno vyrozumění o soupisu majetku, k němuž uplatňuje právo. Lhůta je zachována, dojde-li žaloba nejpozději posledního dne lhůty insolvenčnímu soudu.
 > (3) Nebyla-li žaloba podána včas, **platí, že označený majetek je do soupisu pojat oprávněně**. Totéž platí i tehdy, jestliže insolvenční soud žalobu zamítl, nebo jestliže řízení o žalobě zastavil nebo ji odmítl.
-> (4) Od počátku běhu lhůty k podání žaloby (...) až do jejího skončení a po dobu řízení o podané žalobě až do jeho pravomocného skončení **nesmí insolvenční správce zpeněžit majetek**, který je předmětem žaloby, ani s ním jinak nakládat, ledaže tím odvrací újmu tomuto majetku bezprostředně hrozící nebo jestliže tak po podání žaloby činí se souhlasem žalobce.
+> (4) Od počátku běhu lhůty k podání žaloby podle odstavce 2 až do jejího skončení a po dobu řízení o podané žalobě až do jeho pravomocného skončení **nesmí insolvenční správce zpeněžit majetek**, který je předmětem žaloby, ani s ním jinak nakládat, ledaže tím odvrací újmu tomuto majetku bezprostředně hrozící nebo jestliže tak po podání žaloby činí se souhlasem žalobce. Ustanovení § 217 tím není dotčeno.
 > (5) Před pravomocným skončením řízení o žalobě lze ke zpeněžení nebo jinému nakládání s majetkem podle odstavce 4 přistoupit, jestliže tak z důvodů hodných zvláštního zřetele určil insolvenční soud ve výroku rozhodnutí, jímž žalobu zamítl, řízení o ní zastavil nebo ji odmítl. Z výtěžku zpeněžení nebo jiného nakládání s takovým majetkem mohou být věřitelé uspokojeni až po pravomocném skončení řízení o žalobě.
 > (6) **Byla-li zpeněžena věc, která neměla být pojata do soupisu, má její vlastník právo na vydání výtěžku zpeněžení**; jeho právo na náhradu škody tím není dotčeno.
 
@@ -481,7 +491,14 @@ Pokud byla věc *zpeněžena přesto, že neměla být v podstatě*, vlastník m
 ## § 226 — Vynětí na návrh dlužníka
 
 > (1) **Dlužník** může uplatnit vynětí majetku z majetkové podstaty jen tehdy, jde-li o věc, právo, pohledávku nebo jinou majetkovou hodnotu, která do majetkové podstaty nepatří podle § 207 a 208; učiní tak vůči insolvenčnímu správci bez zbytečného odkladu poté, co se dozvěděl nebo při náležité pečlivosti měl dozvědět, že došlo k zahrnutí takové věci, práva, pohledávky nebo jiné majetkové hodnoty do soupisu.
-> (...) [procesní pravidla — odst. 2-5]
+>
+> (2) V návrhu podle odstavce 1 musí dlužník kromě obecných náležitostí podání označit věc, právo, pohledávku nebo jinou majetkovou hodnotu, o jejíž vynětí ze soupisu žádá, a uvést skutečnosti, ze kterých vyplývá, že tento majetek neměl být sepsán. Je-li návrh neúplný nebo vadný a nelze-li jej pro tyto nedostatky projednat a rozhodnout o něm, vyzve insolvenční správce dlužníka, aby jej opravil nebo doplnil. K opravě nebo doplnění návrhu určí přiměřenou lhůtu a dlužníka poučí, jak je nutné opravu nebo doplnění provést. Poučí jej rovněž, že návrh, který nebude přes výzvu řádně opraven nebo doplněn, insolvenční soud odmítne.
+>
+> (3) Nezdaří-li se insolvenčnímu správci odstranit vady a neúplnost dlužníkova návrhu nebo má-li za to, že návrh je opožděný, předloží insolvenční správce návrh se zprávou o tom insolvenčnímu soudu. Pokládá-li to insolvenční soud za potřebné, může usnesením výzvu k odstranění vad návrhu zopakovat nebo vydat výzvu novou.
+>
+> (4) Nejde-li o případy uvedené v odstavci 3, insolvenční správce vyzve věřitelský výbor, aby se k návrhu v určené lhůtě vyjádřil; dospěje-li po uplynutí této lhůty k závěru, že návrhu nelze vyhovět, předloží jej s případným vyjádřením věřitelského výboru a se zprávou o důvodech, pro které majetek nevyloučil, insolvenčnímu soudu; dlužník má právo se k těmto důvodům vyjádřit.
+>
+> (5) O návrhu podle odstavce 1 rozhoduje insolvenční soud v rámci své dohlédací činnosti. Rozhodnutí, proti kterému je odvolání přípustné, se doručuje dlužníku, insolvenčnímu správci a věřitelskému výboru. V době od podání tohoto návrhu do rozhodnutí o něm nesmí insolvenční správce zpeněžit majetek, jehož se návrh týká; § 225 odst. 4 a 5 platí obdobně.
 
 ### Výklad — **DLUŽNÍKOVA OBRANA**
 
@@ -527,13 +544,13 @@ Pokud byla věc *zpeněžena přesto, že neměla být v podstatě*, vlastník m
 > Nakládáním s majetkovou podstatou se rozumí zejména
 > a) **právní úkony**, které se týkají majetku náležejícího do majetkové podstaty,
 > b) výkon práv a povinností **akcionáře** ohledně akcií zahrnutých do majetkové podstaty, včetně práva hlasovat na valné hromadě akciové společnosti,
-> c) výkon práv a povinností **společníka** jiné obchodní společnosti (...) včetně práva hlasovat na valné hromadě obchodní společnosti,
+> c) výkon práv a povinností **společníka** jiné obchodní společnosti spojených s obchodním podílem dlužníka zahrnutým do majetkové podstaty, včetně práva hlasovat na valné hromadě obchodní společnosti,
 > d) výkon členských práv a povinností **člena družstva**,
 > e) rozhodování o **výrobních, provozních a obchodních záležitostech podniku** v majetkové podstatě, včetně úvěrového financování a jiných úkonů potřebných k zajištění financování podniku,
 > f) výkon práv a povinností **zaměstnavatele** ohledně zaměstnanců dlužníka,
 > g) výkon **průmyslových práv**,
 > h) rozhodování o **obchodním tajemství** a jiné povinnosti mlčenlivosti,
-> i) plnění povinností podle předpisů o daních, poplatcích a clech (...) sociálním zabezpečení a veřejném zdravotním pojištění,
+> i) plnění povinností podle předpisů o daních, poplatcích a clech, jakož i podle předpisů o sociálním zabezpečení a veřejném zdravotním pojištění,
 > j) vedení **účetnictví**,
 > k) plnění **evidenčních povinností**,
 > l) výkon dalších práv a povinností, jestliže se týkají majetkové podstaty.
@@ -618,9 +635,9 @@ Od rozhodnutí o úpadku (resp. od podání IN dlužníkem) platí **§ 36, § 3
 ## § 230 — Správa podstaty + pokyny zajištěného věřitele
 
 > (1) **Správou majetkové podstaty se rozumí** zejména činnost, jakož i právní úkony a opatření z ní vyplývající, pokud směřuje k tomu, aby
-> a) nedocházelo ke **znehodnocení** majetkové podstaty (...),
-> b) majetek (...) byl **využíván v souladu se svým určením** (...),
-> c) se majetková podstata **rozmnožila**, lze-li takovou činnost rozumně očekávat (...),
+> a) nedocházelo ke **znehodnocení** majetkové podstaty, zejména aby nedošlo k odstranění, zničení, poškození nebo odcizení majetku, který do ní náleží,
+> b) majetek náležející do majetkové podstaty byl **využíván v souladu se svým určením**, pokud tomu nebrání jiné okolnosti,
+> c) se majetková podstata **rozmnožila**, lze-li takovou činnost rozumně očekávat se zřetelem ke stavu majetkové podstaty a obvyklým obchodním příležitostem,
 > d) byly **vymoženy pohledávky** dlužníka včetně plnění z neplatných a neúčinných právních úkonů.
 > (2) Jde-li o správu věci, práva, pohledávky nebo jiné majetkové hodnoty, **která slouží k zajištění pohledávky, je osoba s dispozičními oprávněními vázána pokyny zajištěného věřitele** směřujícími k řádné správě; je-li zajištěných věřitelů více, uděluje tyto pokyny zajištěný věřitel, jehož pohledávka se uspokojuje ze zajištění jako první v pořadí. Jestliže zajištěný věřitel neudělí příslušné pokyny ani ve lhůtě určené insolvenčním soudem, má právo je udělit zajištěný věřitel, jehož pohledávka se uspokojuje ze zajištění jako další v pořadí; jinak pokyny udělí v rámci dohlédací činnosti insolvenční soud, který současně rozhodne o nákladech spojených s provedením jeho pokynu. Osoba s dispozičními oprávněními může odmítnout pokyny zajištěného věřitele, má-li za to, že nesměřují k řádné správě; v takovém případě požádá insolvenční soud o jejich přezkoumání v rámci dohlédací činnosti.
 > (3) Náklady spojené s provedením jeho pokynu podle odstavce 2 nese zajištěný věřitel ze svého.

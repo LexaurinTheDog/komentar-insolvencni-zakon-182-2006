@@ -31,8 +31,9 @@ Hlava II má **7 dílů**:
 > (3) Reorganizace **není přípustná**, je-li dlužníkem **právnická osoba v likvidaci**, **obchodník s cennými papíry** nebo osoba oprávněná k obchodování na komoditní burze.
 > (4) Reorganizace je přípustná, jestliže:
 > - celkový roční úhrn čistého obratu dlužníka za poslední účetní období dosáhl alespoň **50 000 000 Kč**, **nebo**
-> - dlužník zaměstnává **nejméně 50 zaměstnanců** v pracovním poměru; (...).
-> (5) Jestliže dlužník společně s insolvenčním návrhem nebo nejpozději do rozhodnutí o úpadku **předložil reorganizační plán přijatý alespoň polovinou všech zajištěných věřitelů** (...) a alespoň polovinou všech nezajištěných věřitelů (...), **omezení podle odstavce 4 se nepoužije**.
+> - dlužník zaměstnává **nejméně 50 zaměstnanců** v pracovním poměru; ustanovení odstavce 3 tím není dotčeno.
+>
+> (5) Jestliže dlužník společně s insolvenčním návrhem nebo nejpozději do rozhodnutí o úpadku **předložil** insolvenčnímu soudu **reorganizační plán přijatý alespoň polovinou všech zajištěných věřitelů** počítanou podle výše jejich pohledávek a alespoň polovinou všech nezajištěných věřitelů počítanou podle výše pohledávek, **omezení podle odstavce 4 se nepoužije**.
 > (6) Jde-li o insolvenční návrh věřitele a dlužník před rozhodnutím o úpadku **požádá o prodloužení lhůty** k předložení reorganizačního plánu podle odstavce 5, insolvenční soud v rozhodnutí o úpadku prodlouží tuto lhůtu nejdéle o **30 dnů**.
 
 ### Výklad — **PODMÍNKY PŘÍPUSTNOSTI**
@@ -199,7 +200,7 @@ Pokud po prvním návrhu přijde **další návrh** — *přistoupení k řízen
 > b) který znovu podala osoba, o jejímž návrhu na povolení reorganizace bylo již dříve rozhodnuto, anebo
 > c) který podal věřitel, jestliže jej neschválí schůze věřitelů.
 > (2) **Na nepoctivý záměr** sledovaný návrhem na povolení reorganizace lze usuzovat zejména tehdy, jestliže ohledně dlužníka, jeho zákonného zástupce, jeho statutárního orgánu nebo člena jeho kolektivního statutárního orgánu
-> a) v posledních **5 letech probíhalo insolvenční řízení** nebo jiné řízení řešící úpadek (...), nebo
+> a) v posledních **5 letech probíhalo insolvenční řízení** nebo jiné řízení řešící úpadek, a to v závislosti na výsledku takového řízení, nebo
 > b) podle výpisu z rejstříku trestů v posledních **5 letech** před zahájením insolvenčního řízení proběhlo **trestní řízení, které skončilo pravomocným odsouzením pro trestný čin majetkové nebo hospodářské povahy**.
 
 ### Výklad — **TŘI DŮVODY ZAMÍTNUTÍ**
@@ -230,7 +231,7 @@ Pokud po prvním návrhu přijde **další návrh** — *přistoupení k řízen
 
 > (1) Rozhodnutí o povolení reorganizace obsahuje
 > a) výrok o **povolení reorganizace**,
-> b) informaci o tom, kdo je insolvenčním správcem (...),
+> b) informaci o tom, kdo je insolvenčním správcem, a nebyl-li dosud ustanoven, výrok o jeho ustanovení,
 > c) výzvu, aby dlužník ve **lhůtě 120 dnů předložil reorganizační plán** nebo aby bez zbytečného odkladu insolvenčnímu soudu sdělil, že jej předložit nehodlá,
 > d) informaci o tom, **za jakých podmínek mohou předložit reorganizační plán další osoby**.
 
@@ -247,7 +248,7 @@ Pokud po prvním návrhu přijde **další návrh** — *přistoupení k řízen
 > (1) Právní mocí rozhodnutí o povolení reorganizace **se ruší omezení dispozičních oprávnění dlužníka**, ke kterým došlo ze zákona nebo rozhodnutím insolvenčního soudu v dosavadním průběhu insolvenčního řízení, ledaže insolvenční soud rozhodne podle § 332 jinak.
 > (2) Právní úkony, které mají z hlediska nakládání s majetkovou podstatou a její správou **zásadní význam**, činí dlužník s dispozičními oprávněními **jen se souhlasem věřitelského výboru**. Porušení této povinnosti má za následek odpovědnost dlužníka za škodu nebo jinou újmu, kterou tím věřitelům nebo třetím osobám způsobil; členové statutárního orgánu dlužníka za takto způsobenou škodu nebo jinou újmu ručí společně a nerozdílně.
 > (3) Za právní úkony, které mají podle odstavce 3 zásadní význam, se považují úkony, jejichž důsledkem se **významně změní hodnota majetkové podstaty** nebo postavení věřitelů anebo míra uspokojení věřitelů.
-> (4) Pohledávky vedoucích zaměstnanců dlužníka s dispozičními oprávněními (...) lze v průběhu insolvenčního řízení uspokojit pouze do výše, kterou určí insolvenční správce se souhlasem věřitelského výboru.
+> (4) Pohledávky vedoucích zaměstnanců dlužníka s dispozičními oprávněními, podle § 33 odst. 3 a § 73 odst. 3 zákoníku práce, které vznikly po povolení reorganizace, lze v průběhu insolvenčního řízení uspokojit pouze do výše, kterou určí insolvenční správce se souhlasem věřitelského výboru.
 
 ### Výklad — **KLÍČOVÝ PARAGRAF REORGANIZACE**
 
@@ -285,7 +286,7 @@ Pokud po prvním návrhu přijde **další návrh** — *přistoupení k řízen
 
 ## § 330a — Aplikace smluvních pravidel v reorganizaci
 
-> (1) Za trvání reorganizace platí přiměřeně ustanovení § 246 odst. 4 a § 253 až 260. Práva náležející podle těchto ustanovení insolvenčnímu správci, **vykonává dlužník s dispozičními oprávněními jen se souhlasem věřitelského výboru** (...).
+> (1) Za trvání reorganizace platí přiměřeně ustanovení § 246 odst. 4 a § 253 až 260. Práva náležející podle těchto ustanovení insolvenčnímu správci, **vykonává dlužník s dispozičními oprávněními jen se souhlasem věřitelského výboru**; o porušení této povinnosti platí § 330 odst. 2 věta druhá.
 > (2) U smlouvy o vzájemném plnění platí, že **dlužník s dispozičním oprávněním, který se do 30 dnů od povolení reorganizace nevyjádří tak, že odmítá splnění, musí smlouvu splnit**.
 
 ### Výklad
@@ -382,7 +383,7 @@ Pokud po prvním návrhu přijde **další návrh** — *přistoupení k řízen
 
 ## § 337 — Skupiny věřitelů — **KLÍČ K HLASOVÁNÍ**
 
-> (1) Pro potřeby určení rozsahu uspokojení zjištěných pohledávek a hlasování věřitelů o přijetí reorganizačního plánu **se věřitelé dlužníka při reorganizaci rozdělují do skupin**, a to tak, aby v každé skupině byli věřitelé se **zásadně shodným právním postavením a se zásadně shodnými hospodářskými zájmy**. Rozdělení věřitelů do jednotlivých skupin obsahuje reorganizační plán (...).
+> (1) Pro potřeby určení rozsahu uspokojení zjištěných pohledávek a hlasování věřitelů o přijetí reorganizačního plánu **se věřitelé dlužníka při reorganizaci rozdělují do skupin**, a to tak, aby v každé skupině byli věřitelé se **zásadně shodným právním postavením a se zásadně shodnými hospodářskými zájmy**. Rozdělení věřitelů do jednotlivých skupin obsahuje reorganizační plán, v němž se vždy uvede, podle jakých kritérií k rozdělení věřitelů došlo.
 > (2) Samostatnou skupinou jsou zejména
 > a) **každý zajištěný věřitel**,
 > b) **věřitelé uvedení v § 335** [společníci],
@@ -445,7 +446,7 @@ Rozdělení do skupin je **strategicky klíčové** pro úspěch reorganizace:
 ## § 338 — Definice a princip
 
 > (1) Reorganizační plán **vymezuje právní postavení dotčených osob v důsledku povolené reorganizace**, a to na základě opatření sledujících ozdravění provozu dlužníkova podniku a uspořádání vzájemných vztahů mezi dlužníkem a jeho věřiteli.
-> (3) **V reorganizačním plánu se lze odchýlit od ustanovení tohoto zákona**, pokud jde o uspokojení věřitelů (...) o nakládání s majetkovou podstatou a o závazky dlužníka po skončení insolvenčního řízení.
+> (3) **V reorganizačním plánu se lze odchýlit od ustanovení tohoto zákona**, pokud jde o uspokojení věřitelů včetně zajištěných věřitelů a věřitelů, jimiž jsou společníci a členové dlužníka uplatňující pohledávku vyplývající z jejich účasti ve společnosti nebo v družstvu, o nakládání s majetkovou podstatou a o závazky dlužníka po skončení insolvenčního řízení.
 
 ### Výklad
 
@@ -584,8 +585,9 @@ Hlasování:
 > b) lze-li se zřetelem ke všem okolnostem důvodně předpokládat, že jím není sledován **nepoctivý záměr**,
 > c) jej **každá skupina věřitelů přijala** nebo se podle § 347 odst. 4 považuje za skupinu, která jej přijala,
 > d) každý věřitel podle něj získá plnění, jehož celková současná hodnota je ke dni účinnosti reorganizačního plánu **stejná nebo vyšší než hodnota plnění, které by zřejmě obdržel, kdyby dlužníkův úpadek byl řešen konkursem**, ledaže přijímající věřitel souhlasí s nižším plněním,
-> e) pohledávky za majetkovou podstatou a pohledávky jim na roveň postavené byly **uhrazeny nebo mají být podle reorganizačního plánu uhrazeny ihned** poté, co se reorganizační plán stane účinným (...).
-> (2) Insolvenční soud **může schválit reorganizační plán, i když není splněna podmínka uvedená v odstavci 1 písm. c)** [tj. všechny skupiny], jestliže reorganizační plán přijala alespoň jedna skupina věřitelů, s výjimkou skupiny věřitelů uvedených v § 335. Učiní tak za předpokladu, že reorganizační plán **zajišťuje rovné zacházení s každou zjištěnou pohledávkou v rámci každé skupiny věřitelů, která jej nepřijala**, je-li ve vztahu ke každé takovéto skupině reorganizační plán **spravedlivý** a lze-li se zřetelem ke všem okolnostem důvodně předpokládat, že schválení a uskutečnění reorganizačního plánu nepovede k dalšímu úpadku dlužníka nebo k jeho likvidaci (...).
+> e) pohledávky za majetkovou podstatou a pohledávky jim na roveň postavené byly **uhrazeny nebo mají být podle reorganizačního plánu uhrazeny ihned** poté, co se reorganizační plán stane účinným, ledaže bylo mezi dlužníkem a příslušným věřitelem dohodnuto jinak.
+>
+> (2) Insolvenční soud **může schválit reorganizační plán, i když není splněna podmínka uvedená v odstavci 1 písm. c)**, jestliže reorganizační plán přijala alespoň jedna skupina věřitelů, s výjimkou skupiny věřitelů uvedených v § 335. Učiní tak za předpokladu, že reorganizační plán **zajišťuje rovné zacházení s každou zjištěnou pohledávkou v rámci každé skupiny věřitelů, která jej nepřijala**, je-li ve vztahu ke každé takovéto skupině reorganizační plán **spravedlivý** a lze-li se zřetelem ke všem okolnostem důvodně předpokládat, že schválení a uskutečnění reorganizačního plánu nepovede k dalšímu úpadku dlužníka nebo k jeho likvidaci, ledaže je likvidace reorganizačním plánem předvídána.
 
 ### Výklad — **NEJDŮLEŽITĚJŠÍ PARAGRAF REORGANIZACE**
 
@@ -715,7 +717,7 @@ Hlasování:
 ## § 356 — Účinky plánu na pohledávky věřitelů — **KLÍČOVÝ**
 
 > (1) Není-li tímto zákonem nebo reorganizačním plánem stanoveno jinak, **zanikají účinností tohoto plánu práva všech věřitelů vůči dlužníkovi**, a to i v případě, že svou pohledávku do insolvenčního řízení nepřihlásili; za věřitele dlužníka se považují osoby uvedené v reorganizačním plánu za podmínek v něm stanovených, včetně rozsahu jejich práv.
-> (2) Účinností reorganizačního plánu **zanikají práva třetích osob k majetku, který náleží do majetkové podstaty**, a tato práva vznikají osobám uvedeným v reorganizačním plánu za podmínek v něm stanovených, není-li v tomto zákoně nebo v reorganizačním plánu stanoveno jinak. (...)
+> (2) Účinností reorganizačního plánu **zanikají práva třetích osob k majetku, který náleží do majetkové podstaty**, a tato práva vznikají osobám uvedeným v reorganizačním plánu za podmínek v něm stanovených, není-li v tomto zákoně nebo v reorganizačním plánu stanoveno jinak. To platí i pro majetek, který podle reorganizačního plánu má připadnout osobě odlišné od dlužníka. Právo třetích osob na vyloučení věci nebo jiné majetkové hodnoty z majetkové podstaty tím není dotčeno.
 > (3) **Práva věřitelů vůči spoludlužníkům a ručitelům dlužníka zůstávají reorganizačním plánem nedotčena**.
 
 ### Výklad — **DRAMATICKÝ ÚČINEK**
@@ -755,7 +757,7 @@ Hlasování:
 
 ## § 360 — Výkon rozhodnutí po reorganizaci
 
-> (1) Po účinnosti reorganizačního plánu **lze proti dlužníku nařídit a provést výkon rozhodnutí nebo exekuci k vymožení pohledávky, stanovené reorganizačním plánem**. Byla-li však tato pohledávka popřena, lze výkon rozhodnutí nebo exekuci vést pouze v případě právní moci rozhodnutí insolvenčního soudu o zjištění této pohledávky (...).
+> (1) Po účinnosti reorganizačního plánu **lze proti dlužníku nařídit a provést výkon rozhodnutí nebo exekuci k vymožení pohledávky, stanovené reorganizačním plánem**. Byla-li však tato pohledávka popřena, lze výkon rozhodnutí nebo exekuci vést pouze v případě právní moci rozhodnutí insolvenčního soudu o zjištění této pohledávky; toto rozhodnutí musí být k návrhu přiloženo.
 
 ### Výklad
 
@@ -789,7 +791,7 @@ Hlasování:
 > - některému věřiteli byly poskytnuty **zvláštní výhody**, aniž s tím ostatní věřitelé stejné skupiny souhlasili, nebo
 > - schválení reorganizačního plánu **bylo dosaženo podvodným způsobem**.
 > (2) Insolvenční soud zruší rozhodnutí o schválení reorganizačního plánu **do 3 let od jeho účinnosti**, pokud byl dlužník, jeho statutární orgán nebo člen statutárního orgánu **pravomocně odsouzen pro úmyslný trestný čin**, kterým dosáhl schválení reorganizačního plánu nebo podstatně zkrátil věřitele.
-> (3) Rozhodne-li insolvenční soud o zrušení reorganizačního plánu, mohou věřitelé bez dalšího **požadovat uspokojení pohledávek a jiných práv, která měli před jeho schválením**. (...)
+> (3) Rozhodne-li insolvenční soud o zrušení reorganizačního plánu, mohou věřitelé bez dalšího **požadovat uspokojení pohledávek a jiných práv, která měli před jeho schválením**. Práva věřitelů a třetích osob založená reorganizačním plánem nejsou dotčena; je-li to nutné, přijme insolvenční soud opatření k ochraně oprávněných zájmů věřitelů.
 
 ### Výklad
 
@@ -808,12 +810,12 @@ Hlasování:
 
 > (1) Insolvenční soud rozhodne o přeměně reorganizace v konkurs, jestliže
 > a) reorganizace byla povolena na návrh dlužníka a ten její přeměnu v konkurs po tomto povolení navrhl,
-> b) oprávněná osoba nebo osoba určená schůzí věřitelů **nesestaví ve stanovené lhůtě reorganizační plán** ani po jejím případném prodloužení (...),
+> b) oprávněná osoba nebo osoba určená schůzí věřitelů **nesestaví ve stanovené lhůtě reorganizační plán** ani po jejím případném prodloužení insolvenčním soudem nebo předložený reorganizační plán vezme zpět, a do 30 dnů poté nebude podán návrh na svolání schůze věřitelů za účelem rozhodnutí o tom, která jiná osoba má přednostní právo sestavit reorganizační plán, anebo tato jiná osoba nesestaví ve stanovené lhůtě reorganizační plán nebo jej vezme zpět,
 > c) insolvenční soud **neschválil reorganizační plán** a oprávněným osobám uplynula lhůta k jeho předložení,
-> d) v průběhu provádění reorganizačního plánu dlužník **neplní své podstatné povinnosti** stanovené tímto plánem (...),
+> d) v průběhu provádění reorganizačního plánu dlužník **neplní své podstatné povinnosti** stanovené tímto plánem nebo ukáže-li se, že podstatnou část tohoto plánu nebude možné plnit,
 > e) **dlužník neplatí řádně a včas úroky** podle § 171 odst. 4, nebo v podstatném rozsahu neplní své jiné splatné peněžité závazky,
 > f) dlužník po schválení reorganizačního plánu **přestal podnikat**, ačkoli podle reorganizačního plánu podnikat měl, nebo
-> g) dlužník po schválení reorganizačního plánu **neuhradil pohledávky za majetkovou podstatou** (...).
+> g) dlužník po schválení reorganizačního plánu **neuhradil pohledávky za majetkovou podstatou** a pohledávky postavené jim na roveň podle § 348 odst. 1 písm. e).
 > (4) **O přeměně reorganizace v konkurs nemůže insolvenční soud rozhodnout, jestliže reorganizační plán byl v podstatných bodech splněn.**
 
 ### Výklad

@@ -113,7 +113,7 @@ Pokud správce **zpeněžil** majetek získaný z neplatného úkonu, a kupec se
 
 > (1) Neúčinnými jsou právní úkony, kterými dlužník **zkracuje možnost uspokojení věřitelů** nebo **zvýhodňuje některé věřitele na úkor jiných**. Za právní úkon se považuje též dlužníkovo opomenutí.
 > (2) Neúčinnost dlužníkových právních úkonů, včetně těch, které tento zákon označuje za neúčinné a které dlužník učinil poté, co nastaly účinky spojené se zahájením insolvenčního řízení, **se zakládá rozhodnutím insolvenčního soudu o žalobě insolvenčního správce**, kterou bylo odporováno dlužníkovým právním úkonům (dále jen „odpůrčí žaloba"), není-li dále stanoveno jinak.
-> (3) Za neúčinný nelze označit ani právní úkon spočívající v poskytnutí prozatímního financování, nového financování nebo dalších plateb souvisejících s preventivní restrukturalizací, pokud tento právní úkon splňuje podmínky podle § 27 zákona o preventivní restrukturalizaci (...).
+> (3) Za neúčinný nelze označit ani právní úkon spočívající v poskytnutí prozatímního financování, nového financování nebo dalších plateb souvisejících s preventivní restrukturalizací, pokud tento právní úkon splňuje podmínky podle § 27 zákona o preventivní restrukturalizaci; to platí i na věcně právní účinky takového právního úkonu.
 
 ### Výklad — **JÁDRO INSTITUTU**
 

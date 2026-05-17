@@ -52,7 +52,7 @@ Paragraf 9 obsahuje **taxativní výčet procesních subjektů** insolvenčního
 - **§ 14** — kdo z procesních subjektů je *účastníkem* řízení.
 - **§ 21 — § 45** — insolvenční správce.
 - **§ 69 — § 70** — státní zastupitelství.
-- **§ 70a** (pokud platný k aktuálnímu datu) — postavení likvidátora dlužníka v insolvenci.
+- **§ 70** — postavení likvidátora dlužníka v insolvenci.
 
 ### Praktické dopady
 
@@ -188,7 +188,7 @@ Klíčový vymezovací paragraf. **Účastníci** insolvenčního řízení jsou
 
 Pojem „uplatnili své právo" je rozhodující — věřitel se stává účastníkem **až okamžikem, kdy uplatní pohledávku** (typicky podáním přihlášky podle § 173, případně podáním insolvenčního návrhu — § 105). Až do toho okamžiku není účastníkem (i kdyby měl uznanou pohledávku v dlužníkově účetnictví).
 
-> **Důsledek**: věřitel, který nepřihlásil pohledávku ve lhůtě (§ 173 odst. 1 — zpravidla 2 měsíce od rozhodnutí o úpadku), nemá v řízení účastnické postavení a nemůže namítat ani brojit proti rozhodnutím soudu.
+> **Důsledek**: věřitel, který nepřihlásil pohledávku ve lhůtě (lhůta 2 měsíců stanovená rozhodnutím o úpadku — § 136 odst. 2 písm. d); přihlášky se podávají od zahájení řízení až do uplynutí této lhůty — § 173 odst. 1), nemá v řízení účastnické postavení a nemůže namítat ani brojit proti rozhodnutím soudu.
 
 **Odst. 2 — vyloučení vedlejšího účastenství** v hlavním insolvenčním řízení. Vedlejší účastenství podle § 93 OSŘ tedy v IR nepřichází v úvahu. Jediná výjimka — *incidenční spory* (§ 16 odst. 2 — vedlejší účastenství v IS je přípustné). Důvodem vyloučení v hlavním řízení je *masovost* — vstup desítek vedlejších účastníků by řízení paralyzoval.
 
@@ -214,7 +214,7 @@ Pojem „uplatnili své právo" je rozhodující — věřitel se stává účas
 ### Výklad
 
 Paragraf 15 řeší situaci, kdy v insolvenčním řízení uplatní právo někdo, kdo není věřitel přihlášené pohledávky. Typicky:
-- **třetí osoba**, která se domáhá vyloučení věci ze soupisu majetkové podstaty (excindační námitka — § 224 a další),
+- **třetí osoba**, která se domáhá vyloučení věci ze soupisu majetkové podstaty (vylučovací žaloba — § 225; vyrozumění o soupisu adresované této osobě upravuje § 224),
 - **osoba uplatňující pohledávku za podstatou** (§ 168) nebo na roveň postavenou (§ 169) — tu nepřihlašuje, ale uplatňuje jiným způsobem,
 - **třetí osoba**, která se domáhá vrácení věci ze zajištění (§ 167 odst. 3 v některých případech).
 
@@ -273,10 +273,13 @@ V praxi znamená — pokud věřitel chce „přivést" do řízení např. ruč
 
 ## § 18 — Vstup nabyvatele pohledávky
 
-> (1) Nastane-li v průběhu insolvenčního řízení skutečnost, se kterou právní předpisy spojují převod nebo přechod přihlášené pohledávky z původního věřitele na nabyvatele pohledávky, aniž původní věřitel ztrácí způsobilost být účastníkem řízení, insolvenční soud rozhodne, že místo tohoto věřitele vstupuje do insolvenčního řízení nabyvatel jeho pohledávky. (...) — formulářová povinnost.
-> (2) Lhůta 3 pracovních dnů; rozhodnutí fikce.
-> (3) Alternativní cesta protokolárním prohlášením u soudu.
-> (4) Doručování dlužníkovi se vynechává, odvolání nepřípustné.
+> (1) Nastane-li v průběhu insolvenčního řízení skutečnost, se kterou právní předpisy spojují převod nebo přechod přihlášené pohledávky z původního věřitele na nabyvatele pohledávky, aniž původní věřitel ztrácí způsobilost být účastníkem řízení, insolvenční soud rozhodne, že místo tohoto věřitele vstupuje do insolvenčního řízení nabyvatel jeho pohledávky. Učiní tak na základě návrhu věřitele, který lze podat pouze na formuláři, jehož náležitosti stanoví prováděcí právní předpis, a po písemném souhlasu nabyvatele jeho pohledávky. Převod nebo přechod pohledávky, který nevyplývá přímo z právního předpisu, je nutné doložit veřejnou listinou nebo listinou, na které je úředně ověřena pravost podpisů osob, které ji podepsaly.
+>
+> (2) O návrhu podle odstavce 1 rozhodne insolvenční soud do 3 pracovních dnů ode dne, kdy mu takový návrh došel; ustanovení § 43 občanského soudního řádu se nepoužije. K návrhu, který nebude podán na formuláři podle odstavce 1, se nepřihlíží. Nerozhodne-li insolvenční soud ve lhůtě podle věty první, není již povinen o návrhu podle odstavce 1 rozhodnout a má se za to, že insolvenční soud vydal rozhodnutí, jímž návrhu vyhověl; toto rozhodnutí není soud povinen vyhotovit.
+>
+> (3) Rozhodnutí podle odstavce 1 vydá insolvenční soud také tehdy, učiní-li věřitel a nabyvatel jeho pohledávky do protokolu u tohoto soudu společné prohlášení o tom, že nastala skutečnost uvedená v odstavci 1; odstavec 2 platí obdobně.
+>
+> (4) Rozhodnutí podle odstavců 1 a 3 se nedoručuje zvlášť dlužníku. Odvolání proti němu není přípustné, insolvenční soud však tímto rozhodnutím není vázán.
 
 ### Výklad
 

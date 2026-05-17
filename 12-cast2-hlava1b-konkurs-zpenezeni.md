@@ -36,7 +36,10 @@ Druhá část konkursní hlavy pokrývá *operativní fázi* řízení po stabil
 
 > (1) Zpeněžením majetkové podstaty se rozumí převedení veškerého majetku, který do ní náleží, na peníze za účelem uspokojení věřitelů. Za zpeněžení se k tomuto účelu považuje i využití bankovních kont dlužníka a jeho peněžní hotovosti. Zpeněžením majetkové podstaty se rozumí i úplatné postoupení dlužníkových pohledávek; **ujednáními, která tomu brání, není insolvenční správce omezen**.
 > (2) Ke zpeněžení majetkové podstaty lze přikročit **teprve po právní moci rozhodnutí o prohlášení konkursu, nejdříve však po první schůzi věřitelů**, pokud nejde o věci bezprostředně ohrožené zkázou nebo znehodnocením anebo pokud insolvenční soud nepovolí výjimku.
-> (3) Zpeněžení majetku v majetkové podstatě dlužníka, na který se vztahuje rozhodnutí o zajištění vydané v trestním řízení, lze provést jen po předchozím souhlasu příslušného orgánu činného v trestním řízení. (...)
+> (3) Zpeněžení majetku v majetkové podstatě dlužníka, na který se vztahuje rozhodnutí o zajištění vydané v trestním řízení, lze provést jen po předchozím souhlasu příslušného orgánu činného v trestním řízení. Převyšuje-li dosažený výtěžek zpeněžení majetku podle věty první částku určenou k vyplacení, informuje insolvenční správce o této skutečnosti orgán činný v trestním řízení, který o zajištění rozhodl. Nesdělí-li orgán činný v trestním řízení do 30 dnů insolvenčnímu správci, že se zajištění vztahuje i na zbytek výtěžku, použije se k rozdělení mezi věřitele.
+>
+> (4) Kopie písemností, které dokládají zpeněžení majetkové podstaty a podmínky, za kterých ke zpeněžení došlo, předloží insolvenční správce insolvenčnímu soudu k založení do insolvenčního spisu neprodleně poté, co došlo ke zpeněžení.
+>
 > (5) Není-li dále staveno jinak, **nepřecházejí zpeněžením majetkové podstaty na nabyvatele závazky váznoucí na věci**.
 
 ### Výklad — **CENTRÁLNÍ PARAGRAF ZPENĚŽENÍ**
@@ -84,7 +87,7 @@ Druhá část konkursní hlavy pokrývá *operativní fázi* řízení po stabil
 > (1) K nemovitostem, které tvoří pozemní část veřejného přístavu, má při jejich zpeněžení **předkupní právo stát**.
 > (2) **Zákonnými předkupními právy je insolvenční správce vázán**. **Smluvními předkupními právy insolvenční správce vázán není**.
 > (3) Insolvenční správce je při zpeněžení vázán zákonným předkupním právem nájemce bytu (FO) k jednotce při jejím prvním převodu podle § 1187 OZ.
-> (4) Insolvenční správce je vázán povinností nabídnout převod jednotky **oprávněným osobám** podle § 1188 OZ. (...)
+> (4) Insolvenční správce je při zpeněžení majetkové podstaty vázán povinností nabídnout převod jednotky zahrnuté do majetkové podstaty **oprávněným osobám** v souladu s § 1188 občanského zákoníku. Insolvenční správce je dále při zpeněžování podstaty vázán zákonným předkupním právem tvořeným právy nájemců podle zákona o vlastnictví bytů.
 
 ### Výklad — **PRAVIDLA O PŘEDKUPNÍCH PRÁVECH**
 
@@ -110,7 +113,7 @@ Druhá část konkursní hlavy pokrývá *operativní fázi* řízení po stabil
 
 > (1) Zpeněžením majetkové podstaty zanikají v rozsahu, v němž se týkají zpeněženého majetku,
 > a) **účinky nařízení výkonu rozhodnutí nebo exekuce**, účinky doručení vyrozumění o zahájení exekuce a účinky vydaných exekučních příkazů,
-> b) **ostatní závady váznoucí** na zpeněžovaném majetku, včetně neuplatněných předkupních práv (...) a včetně závad zapsaných ve veřejném seznamu, není-li dále stanoveno jinak.
+> b) **ostatní závady váznoucí** na zpeněžovaném majetku, včetně neuplatněných předkupních práv podle § 284 odst. 3 a 4 a včetně závad zapsaných ve veřejném seznamu, není-li dále stanoveno jinak.
 > (2) Byla-li zpeněžena nemovitost, kterou dlužník používá k bydlení své rodiny, anebo byt ve vlastnictví dlužníka, je dlužník povinen je **vyklidit**. Neučiní-li tak dobrovolně, může se nabyvatel domáhat vyklizení žalobou u soudu; nejde o incidenční spor.
 > (3) Při vyklizení podle odstavce 2 přísluší dlužníku stejná **bytová náhrada** jako při výpovědi nájmu bytu dané nájemci pro hrubé porušení povinností vyplývajících z nájmu bytu.
 > (4) Nestanoví-li zvláštní právní předpis jinak, zpeněžením majetkové podstaty v rozsahu, v němž se týkají zpeněženého majetku, **nezanikají služebnosti a reálná břemena**, s výjimkou těch, které jsou v insolvenčním řízení neúčinné.
@@ -183,7 +186,7 @@ Pokud dlužník v nemovitosti **bydlí** (typicky FO-úpadce s rodinou v hypoté
 ## § 288 — Prodej soudem podle OSŘ
 
 > (1) Ke zpeněžení prodejem movitých věcí a nemovitostí je příslušný **okresní soud** podle ustanovení občanského soudního řádu. Návrh na tento prodej podává insolvenční správce, který je **jediným účastníkem** tohoto řízení.
-> (2) Příslušný soud nařídí prodej (...) je-li k návrhu přiloženo rozhodnutí o prohlášení konkursu, soupis potvrzený insolvenčním soudem a souhlas věřitelského výboru s tímto způsobem zpeněžení.
+> (2) Příslušný soud nařídí prodej podle odstavce 1, je-li k návrhu přiloženo rozhodnutí o prohlášení konkursu, soupis potvrzený insolvenčním soudem a souhlas věřitelského výboru s tímto způsobem zpeněžení.
 > (3) Rozhodnutí vydaná v tomto řízení se doručují **pouze insolvenčnímu správci**, který proti nim může podat odvolání.
 
 ### Výklad
@@ -204,7 +207,7 @@ Pokud dlužník v nemovitosti **bydlí** (typicky FO-úpadce s rodinou v hypoté
 
 > (1) Prodej mimo dražbu může insolvenční správce uskutečnit **se souhlasem insolvenčního soudu a věřitelského výboru**. Při udělení souhlasu může insolvenční soud stanovit podmínky prodeje. Dokud není souhlas insolvenčním soudem a věřitelským výborem udělen, **nenabývá smlouva o prodeji mimo dražbu účinnosti**. Souhlas insolvenčního soudu a věřitelského výboru **není nutný** k prodeji věcí bezprostředně ohrožených zkázou nebo znehodnocením, jakož i věcí běžně zcizovaných při pokračujícím provozu dlužníkova podniku.
 > (2) Při prodeji mimo dražbu **lze kupní cenu stanovit pod cenu odhadní**. Insolvenční správce přitom přihlédne i k nákladům, které by jinak bylo nutné vynaložit na správu zpeněžovaného majetku.
-> (3) Platnost smlouvy, kterou došlo ke zpeněžení prodejem mimo dražbu, lze napadnout jen **žalobou podanou u insolvenčního soudu nejpozději do 3 měsíců** ode dne zveřejnění smlouvy v insolvenčním rejstříku. Platnost smlouvy (...) lze napadnout žalobou (...) i po uplynutí lhůty (...), nebyl-li nabyvatel v dobré víře.
+> (3) Platnost smlouvy, kterou došlo ke zpeněžení prodejem mimo dražbu, lze napadnout jen **žalobou podanou u insolvenčního soudu nejpozději do 3 měsíců** ode dne zveřejnění smlouvy v insolvenčním rejstříku. Platnost smlouvy, kterou došlo ke zpeněžení prodejem mimo dražbu, lze napadnout žalobou podanou u insolvenčního soudu i po uplynutí lhůty podle věty první, nebyl-li nabyvatel v dobré víře.
 
 ### Výklad — **NEJFLEXIBILNĚJŠÍ ZPŮSOB**
 
@@ -363,14 +366,14 @@ V praxi je § 290 *strategický klíč*. Pokud podnik má *jakoukoli going-conce
 
 > (1) Dlužník, **osoby mu blízké** a osoby, **které s ním tvoří koncern**, nesmí nabývat majetek náležející do majetkové podstaty, a to ani v případě, že k jeho zpeněžení došlo dražbou; tento majetek **nesmí být na ně převeden ani ve lhůtě 3 let od skončení konkursu**, i když jim svědčí zákonné předkupní právo. Právní úkony uskutečněné v rozporu s tímto ustanovením jsou **neplatné**; považují se však za platné, pokud se ten, kdo je jimi dotčen, neplatnosti nedovolá. Neplatnosti se nemůže dovolávat ten, kdo ji sám způsobil.
 > (2) Ustanovení odstavce 1 se vztahuje také na
-> a) **vedoucí zaměstnance dlužníka** (...), a osoby jim blízké,
+> a) **vedoucí zaměstnance dlužníka**, podle § 33 odst. 3 a § 73 odst. 3 zákoníku práce, a osoby jim blízké,
 > b) **osoby, které vykonávaly v posledních 3 letech před zahájením insolvenčního řízení nebo po jeho zahájení rozhodující vliv** na provoz dlužníkova podniku nebo podstatnou měrou ovlivňovaly jeho jinou majetkovou činnost,
 > c) **společníky dlužníka**, je-li jím jiná obchodní společnost než akciová,
 > d) **akcionáře dlužníka**, kterým je akciová společnost, pokud jim patří akcie odpovídající **více než desetině základního kapitálu**,
 > e) **prokuristy dlužníka**,
 > f) **členy a náhradníky věřitelského výboru**, kterým schůze věřitelů neudělila souhlas s nabytím majetku z majetkové podstaty,
 > g) osoby tvořící s členy a náhradníky věřitelského výboru podle písmene f) koncern a osoby členům a náhradníkům věřitelského výboru podle písmene f) blízké.
-> (3) Na návrh osob uvedených v odstavci 1 nebo v odstavci 2 písm. a) až e) a po vyjádření věřitelského výboru může insolvenční soud v odůvodněných případech **povolit výjimku** ze zákazu nabývání majetku z majetkové podstaty. (...)
+> (3) Na návrh osob uvedených v odstavci 1 nebo v odstavci 2 písm. a) až e) a po vyjádření věřitelského výboru může insolvenční soud v odůvodněných případech **povolit výjimku** ze zákazu nabývání majetku z majetkové podstaty. Má-li k nabytí tohoto majetku dojít až po skončení konkursu, rozhodne o tomto návrhu insolvenční soud samostatně a tuto výjimku může v takovém případě povolit i osobám uvedeným v odstavci 2 písm. f) a g); proti jeho rozhodnutí může podat odvolání jen osoba, která návrh podala.
 
 ### Výklad — **PROTI ZNEUŽÍVÁNÍ INSOLVENCE**
 
@@ -431,7 +434,7 @@ Soud **může povolit** v *odůvodněných případech* (typicky nutné pro doko
 
 ### § 297
 
-> (1) Nestačí-li výtěžek zpeněžení ke krytí pohledávek (...), lze ke krytí odměny a hotových výdajů insolvenčního správce, pohledávek věřitelů vzniklých za trvání moratoria (...), pohledávek věřitelů z úvěrového financování a nákladů spojených s udržováním a správou majetkové podstaty použít prostředků získaných **zálohou na náklady insolvenčního řízení nebo zálohou poskytnutou věřitelským výborem**.
+> (1) Nestačí-li výtěžek zpeněžení ke krytí pohledávek a nákladů podle § 296 odst. 1, lze ke krytí odměny a hotových výdajů insolvenčního správce, pohledávek věřitelů vzniklých za trvání moratoria ze smluv podle § 122 odst. 2, pohledávek věřitelů z úvěrového financování a nákladů spojených s udržováním a správou majetkové podstaty použít prostředků získaných **zálohou na náklady insolvenčního řízení nebo zálohou poskytnutou věřitelským výborem**.
 > (2) Pokud nepostačují ani prostředky podle odstavce 1, rozhodne o pořadí úhrady pohledávky nebo o její poměrné úhradě insolvenční soud na základě návrhu insolvenčního správce podle § 305 odst. 2.
 
 ### Výklad
@@ -451,12 +454,12 @@ Soud **může povolit** v *odůvodněných případech* (typicky nutné pro doko
 
 > (1) Zajištění věřitelé mají právo, aby jejich pohledávka byla uspokojena z výtěžku zpeněžení věci, práva, pohledávky nebo jiné majetkové hodnoty, jimiž byla zajištěna.
 > (2) Výtěžek zpeněžení po **odečtení nákladů spojených se správou a zpeněžením** podle odstavce 4, nestanoví-li insolvenční soud jinak, a po odečtení **částky připadající na odměnu insolvenčního správce** a částky připadající na uspokojení osoby podle odstavce 8 vydá insolvenční správce **se souhlasem insolvenčního soudu zajištěnému věřiteli**.
-> (3) Proti návrhu insolvenčního správce na vydání výtěžku zpeněžení podle odstavce 2 **mohou ostatní věřitelé a dlužník podat námitky do 7 dnů** ode dne zveřejnění návrhu v insolvenčním rejstříku; k později podaným námitkám se nepřihlíží. (...)
+> (3) Proti návrhu insolvenčního správce na vydání výtěžku zpeněžení podle odstavce 2 **mohou ostatní věřitelé a dlužník podat námitky do 7 dnů** ode dne zveřejnění návrhu v insolvenčním rejstříku; k později podaným námitkám se nepřihlíží. K projednání včas podaných námitek nařídí insolvenční soud do 30 dnů jednání, při kterém rozhodne o tom, zda návrhu insolvenčního správce vyhoví.
 > (4) Náklady spojené se zpeněžením lze odečíst **nejvýše v rozsahu 5 % výtěžku zpeněžení**; náklady spojené se správou **nejvýše v rozsahu 4 % výtěžku zpeněžení**. Se souhlasem zajištěného věřitele lze odečíst náklady i ve větším rozsahu.
 > (5) Zajištěnému věřiteli, který dosud nesplnil povinnost podle § 157 odst. 1, se vydá výtěžek zpeněžení po odečtení částky připadající na splnění této povinnosti.
 > (6) Pro zpeněžení podle § 293 se odstavec 2 použije jen tehdy, jestliže zajištěný věřitel dosud nesplnil povinnost podle § 230 odst. 3.
-> (7) Proti rozhodnutí o návrhu (...) mohou podat odvolání jen dlužník, insolvenční správce, zajištěný věřitel, jemuž má být výtěžek vydán, a věřitel, který proti němu podal námitky.
-> (8) V případě, že je zpeněžena jednotka v domě a osoba odpovědná za správu domu a pozemku přihlásila do insolvenčního řízení pohledávku související se správou domu a pozemku vůči vlastníku jednotky, uspokojí se tato pohledávka z výtěžku zpeněžení jednotky **před uspokojením pohledávek zajištěných věřitelů** podle odstavce 1, a to **do výše jedné desetiny výtěžku zpeněžení** (...).
+> (7) Proti rozhodnutí o návrhu insolvenčního správce na vydání výtěžku zpeněžení podle odstavce 2 mohou podat odvolání jen dlužník, insolvenční správce, zajištěný věřitel, jemuž má být výtěžek vydán, a věřitel, který proti němu podal námitky.
+> (8) V případě, že je zpeněžena jednotka v domě a osoba odpovědná za správu domu a pozemku přihlásila do insolvenčního řízení pohledávku související se správou domu a pozemku vůči vlastníku jednotky, uspokojí se tato pohledávka z výtěžku zpeněžení jednotky **před uspokojením pohledávek zajištěných věřitelů** podle odstavce 1, a to **do výše jedné desetiny výtěžku zpeněžení** po odečtení částek nákladů spojených se správou a zpeněžením podle odstavce 4, nestanoví-li insolvenční soud jinak, a po odečtení částky připadající na odměnu insolvenčního správce.
 
 ### Výklad — **MECHANIKA VYDÁNÍ VÝTĚŽKU ZAJIŠTĚNÝM**
 
@@ -507,7 +510,7 @@ Pokud je *zpeněžená jednotka v domě* (byt v SVJ) a *Společenství vlastník
 
 ## § 300 — Vyrozumění o zpeněžení
 
-> Insolvenční správce podává insolvenčnímu soudu a věřitelskému výboru **dílčí zprávy o průběhu zpeněžení** majetkové podstaty a o nakládání s výtěžkem tohoto zpeněžení. (...) O zpeněžení majetkové podstaty vyrozumí insolvenční správce **neprodleně také soud, správce daně, soudního exekutora nebo jiný orgán**, u kterého podle dosavadních výsledků insolvenčního řízení probíhá řízení týkající se zpeněženého majetku, včetně řízení o výkon rozhodnutí nebo exekuce na majetek dlužníka. Jestliže zpeněžením majetkové podstaty zanikají věcná práva ke zpeněženému majetku, vydá insolvenční správce nabyvateli zpeněženého majetku neprodleně **potvrzení o zániku těchto věcných práv**.
+> Insolvenční správce podává insolvenčnímu soudu a věřitelskému výboru **dílčí zprávy o průběhu zpeněžení** majetkové podstaty a o nakládání s výtěžkem tohoto zpeněžení. Tyto zprávy podává z vlastního podnětu nebo na základě rozhodnutí insolvenčního soudu anebo žádosti věřitelského výboru. O zpeněžení majetkové podstaty vyrozumí insolvenční správce **neprodleně také soud, správce daně, soudního exekutora nebo jiný orgán**, u kterého podle dosavadních výsledků insolvenčního řízení probíhá řízení týkající se zpeněženého majetku, včetně řízení o výkon rozhodnutí nebo exekuce na majetek dlužníka. Jestliže zpeněžením majetkové podstaty zanikají věcná práva ke zpeněženému majetku, vydá insolvenční správce nabyvateli zpeněženého majetku neprodleně **potvrzení o zániku těchto věcných práv**.
 
 ### Výklad
 
@@ -579,7 +582,7 @@ S konečnou zprávou se předkládá *vyúčtování odměny a výdajů* správc
 ## § 305 — **POŘADÍ USPOKOJENÍ V ROZVRHU** — KRITICKÉ
 
 > (1) Před rozvrhem se uspokojí dosud nezaplacené pohledávky, které se uspokojují kdykoli v průběhu konkursního řízení; a to pohledávky za majetkovou podstatou, pohledávky jím postavené na roveň a zajištěné pohledávky v rozsahu stanoveném v § 167 a 298.
-> (2) Nestačí-li dosažený výtěžek ze zpeněžení majetkové podstaty k uspokojení všech pohledávek (...), uspokojí se:
+> (2) Nestačí-li dosažený výtěžek ze zpeněžení majetkové podstaty k uspokojení všech pohledávek uvedených v odstavci 1, uspokojí se nejdříve odměna a hotové výdaje insolvenčního správce, poté pohledávky věřitelů vzniklé za trvání moratoria ze smluv podle § 122 odst. 2, poté pohledávky věřitelů z úvěrového financování, poté poměrně náklady spojené s udržováním a správou majetkové podstaty a pracovněprávní pohledávky dlužníkových zaměstnanců vzniklé po rozhodnutí o úpadku a poté pohledávky věřitelů na výživném ze zákona a poté pohledávky věřitelů na náhradu škody způsobené na zdraví; ostatní pohledávky se uspokojí poměrně. Výtěžku zpeněžení podle § 298 odst. 2 lze však použít k uspokojení jiných pohledávek až po uspokojení pohledávky zajištěného věřitele.
 > 1. nejdříve **odměna a hotové výdaje insolvenčního správce**,
 > 2. poté **pohledávky věřitelů vzniklé za trvání moratoria** ze smluv podle § 122 odst. 2,
 > 3. poté **pohledávky věřitelů z úvěrového financování**,
@@ -646,8 +649,9 @@ Po právní moci schválení konečné zprávy správce předkládá **návrh ro
 > a) **zjistí-li, že nebyl ani dodatečně osvědčen dlužníkův úpadek**; to neplatí, došlo-li již ke zpeněžení podstatné části majetkové podstaty,
 > b) **zjistí-li, že zde není žádný přihlášený věřitel** a všechny pohledávky za majetkovou podstatou a pohledávky jim postavené na roveň jsou uspokojeny,
 > c) **po obdržení zprávy insolvenčního správce o splnění rozvrhového usnesení**,
-> d) **zjistí-li, že pro uspokojení věřitelů je majetek dlužníka zcela nepostačující**; (...)
-> (2) Insolvenční soud rozhodne o zrušení konkursu též na návrh dlužníka, jestliže dlužník k tomuto návrhu připojil listinu, na které všichni věřitelé a insolvenční správce vyslovili se zrušením konkursu souhlas (...).
+> d) **zjistí-li, že pro uspokojení věřitelů je majetek dlužníka zcela nepostačující**; přitom se nepřihlíží k věcem, právům a jiným majetkovým hodnotám vyloučeným z majetkové podstaty.
+>
+> (2) Insolvenční soud rozhodne o zrušení konkursu též na návrh dlužníka, jestliže dlužník k tomuto návrhu připojil listinu, na které všichni věřitelé a insolvenční správce vyslovili se zrušením konkursu souhlas a na které je úředně ověřena pravost podpisu osob, které ji podepsaly.
 
 ### Výklad — **ČTYŘI DŮVODY ZRUŠENÍ**
 
@@ -695,7 +699,7 @@ Po právní moci schválení konečné zprávy správce předkládá **návrh ro
 
 > (1) O nepatrný konkurs jde, jestliže
 > a) dlužníkem je **fyzická osoba, která není podnikatelem**, nebo
-> b) nebyl zjištěn celkový obrat dlužníka (...) přesahující **2 000 000 Kč** a dlužník nemá **více než 50 věřitelů**.
+> b) nebyl zjištěn celkový obrat dlužníka podle zvláštního právního předpisu za poslední účetní období předcházející prohlášení konkursu přesahující **2 000 000 Kč** a dlužník nemá **více než 50 věřitelů**.
 
 ### Výklad
 
@@ -712,11 +716,12 @@ Soud rozhodne *i bez návrhu*, spojené s konkursem nebo kdykoli později. *Bez 
 > (1) Nerozhodne-li schůze věřitelů jinak, v nepatrném konkursu se postupuje podle tohoto zákona s těmito odchylkami:
 > a) místo věřitelského výboru mohou věřitelé ustanovit **zástupce věřitelů**,
 > b) k účinnosti dohody o vypořádání SJM **není potřeba schválení insolvenčním soudem ani souhlasu věřitelského orgánu**,
-> c) k vyloučení nedobytných pohledávek (...) **není nutný souhlas insolvenčního soudu ani věřitelského orgánu**,
-> d) o včasných námitkách proti konečné zprávě (...) **lze rozhodnout i bez nařízení jednání**,
-> e) při přezkumném jednání lze současně projednat všechny otázky (...) a je-li to účelné, lze přednést také konečnou zprávu a vyúčtování a projednat námitky proti nim,
-> f) předloží-li insolvenční správce společně s konečnou zprávou návrh rozvrhového usnesení, **insolvenční soud může spojit rozhodnutí o schválení konečné zprávy s rozvrhovým usnesením** (...).
-> (2) Není-li to v rozporu s rozhodnutím schůze věřitelů, insolvenční soud může pro nepatrný konkurs stanovit i další odchylky od zákona, pokud povedou k rychlému a hospodárnému průběhu insolvenčního řízení; (...).
+> c) k vyloučení nedobytných pohledávek a věcí, práv nebo jiných majetkových hodnot, které není možné prodat, **není nutný souhlas insolvenčního soudu ani věřitelského orgánu**,
+> d) o včasných námitkách proti konečné zprávě a vyúčtování **lze rozhodnout i bez nařízení jednání**,
+> e) při přezkumném jednání lze současně projednat všechny otázky, o kterých by jinak byla oprávněna rozhodnout pouze schůze věřitelů, a je-li to účelné, lze přednést také konečnou zprávu a vyúčtování a projednat námitky proti nim,
+> f) předloží-li insolvenční správce společně s konečnou zprávou návrh rozvrhového usnesení, **insolvenční soud může spojit rozhodnutí o schválení konečné zprávy s rozvrhovým usnesením**, přičemž rozvrhové usnesení nabude právní moci nejdříve dnem právní moci rozhodnutí o schválení konečné zprávy.
+>
+> (2) Není-li to v rozporu s rozhodnutím schůze věřitelů, insolvenční soud může pro nepatrný konkurs stanovit i další odchylky od zákona, pokud povedou k rychlému a hospodárnému průběhu insolvenčního řízení; těmito odchylkami nesmí být dotčeno postavení zajištěných věřitelů ani zásady insolvenčního řízení. Toto rozhodnutí může insolvenční soud spojit s rozhodnutím o nepatrném konkursu nebo je může vydat kdykoli později.
 
 ### Výklad
 

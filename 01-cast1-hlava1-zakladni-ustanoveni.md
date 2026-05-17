@@ -84,6 +84,26 @@ Pokud klient v insolvenci uplatňuje pohledávku ze zajištění, **vždy** ově
 
 ## § 3 — Úpadek
 
+> (1) Dlužník je v úpadku, jestliže má
+> a) více věřitelů a
+> b) peněžité závazky po dobu delší 30 dnů po lhůtě splatnosti a
+> c) tyto závazky není schopen plnit
+> (dále jen „platební neschopnost").
+>
+> (2) Má se za to, že dlužník není schopen plnit své peněžité závazky, jestliže
+> a) zastavil platby podstatné části svých peněžitých závazků, nebo
+> b) je neplní po dobu delší 3 měsíců po lhůtě splatnosti, nebo
+> c) není možné dosáhnout uspokojení některé ze splatných peněžitých pohledávek vůči dlužníku výkonem rozhodnutí nebo exekucí, nebo
+> d) nesplnil povinnost předložit seznamy uvedené v § 104 odst. 1, kterou mu uložil insolvenční soud.
+>
+> (3) Má se za to, že dlužník, který je podnikatelem a vede účetnictví, je schopen plnit své peněžité závazky, jestliže rozdíl mezi výší jeho splatných peněžitých závazků a výší jeho disponibilních prostředků (dále jen „mezera krytí") stanovený ve výkazu stavu likvidity podle prováděcího právního předpisu představuje méně než desetinu výše jeho splatných peněžitých závazků, anebo pokud výhled vývoje likvidity sestavený podle prováděcího právního předpisu osvědčuje, že mezera krytí klesne v období, na které se výhled vývoje likvidity sestavuje, pod jednu desetinu výše jeho splatných peněžitých závazků. Výkaz stavu likvidity anebo výhled vývoje likvidity musí být sestavené v souladu s požadavky, které stanoví prováděcí právní předpis, auditorem, znalcem nebo osobou, která se zabývá ekonomickým poradenstvím v oblasti insolvencí a restrukturalizací a splňuje požadavky stanovené prováděcím právním předpisem.
+>
+> (4) Dlužník, který je právnickou osobou nebo fyzickou osobou - podnikatelem, je v úpadku i tehdy, je-li předlužen. O předlužení jde tehdy, má-li dlužník více věřitelů a souhrn jeho závazků převyšuje hodnotu jeho majetku. Při stanovení hodnoty dlužníkova majetku se přihlíží také k další správě jeho majetku, případně k dalšímu provozování jeho podniku, lze-li se zřetelem ke všem okolnostem důvodně předpokládat, že dlužník bude moci ve správě majetku nebo v provozu podniku pokračovat.
+>
+> (5) O hrozící úpadek jde tehdy, lze-li se zřetelem ke všem okolnostem důvodně předpokládat, že dlužník nebude schopen řádně a včas splnit podstatnou část svých peněžitých závazků.
+>
+> (6) Obsah, rozsah a způsob sestavování výkazu stavu likvidity a výhledu vývoje likvidity a uspořádání, označování a obsahové vymezení jednotlivých položek majetku, závazků, nákladů, výnosů, příjmů a výdajů ve výkazu stavu likvidity a výhledu vývoje likvidity, délku období, na které se sestavuje výhled vývoje likvidity, a požadavky na osoby, které jsou oprávněny k sestavení výkazu stavu likvidity anebo výhledu vývoje likvidity, stanoví prováděcí právní předpis.
+
 Jeden z **klíčových paragrafů celého zákona**. Definuje hmotněprávní stav „úpadek" ve dvou formách (platební neschopnost a předlužení) a doplňkový stav „hrozící úpadek".
 
 ### Pravidlo: dlužník je v úpadku, pokud splňuje **jeden ze dvou testů**
@@ -150,6 +170,17 @@ Dlužník **nebude** schopen řádně a včas plnit podstatnou část závazků 
 
 ## § 4 — Způsob řešení úpadku
 
+> (1) Způsobem řešení úpadku nebo hrozícího úpadku dlužníka v insolvenčním řízení (dále jen „způsob řešení úpadku") se rozumí
+> a) konkurs,
+> b) reorganizace,
+> c) oddlužení a
+> d) zvláštní způsoby řešení úpadku, které tento zákon stanoví pro určité subjekty nebo pro určité druhy případů.
+>
+> (2) Rozhodnutím insolvenčního soudu o způsobu řešení úpadku se rozumí,
+> a) jde-li o konkurs nebo o některý ze zvláštních způsobů řešení úpadku, rozhodnutí o prohlášení konkursu na majetek dlužníka (dále jen „rozhodnutí o prohlášení konkursu"),
+> b) jde-li o reorganizaci, rozhodnutí o povolení reorganizace a
+> c) jde-li o oddlužení, rozhodnutí o povolení oddlužení.
+
 ### Výklad
 
 Paragraf 4 obsahuje **taxativní výčet** způsobů řešení úpadku (odst. 1) a vymezuje, co se rozumí „rozhodnutím o způsobu řešení úpadku" (odst. 2). Toto rozhodnutí je zlomovým procesním okamžikem — od něj se odvíjejí dispoziční oprávnění, postavení insolvenčního správce, postup zpeněžování atd.
@@ -181,10 +212,10 @@ Dlužník, jeho věřitelé i správce by měli volbu způsobu zvažovat *strate
 ## § 5 — Zásady insolvenčního řízení
 
 > Insolvenční řízení spočívá zejména na těchto zásadách:
-> a) spravedlivé řízení (ani jeden účastník nesmí být poškozen ani nedovoleně zvýhodněn) + rychlost, hospodárnost, maximální uspokojení věřitelů,
-> b) rovné možnosti věřitelů téhož postavení,
-> c) ochrana práv věřitele nabytých v dobré víře před zahájením řízení,
-> d) zákaz mimoinsolvenčního uspokojování — věřitelé jsou povinni zdržet se jednání směřujícího k uspokojení svých pohledávek mimo insolvenční řízení, ledaže to zákon dovoluje.
+> a) insolvenční řízení musí být vedeno tak, aby žádný z účastníků nebyl nespravedlivě poškozen nebo nedovoleně zvýhodněn a aby se dosáhlo rychlého, hospodárného a co nejvyššího uspokojení věřitelů;
+> b) věřitelé, kteří mají podle tohoto zákona zásadně stejné nebo obdobné postavení, mají v insolvenčním řízení rovné možnosti;
+> c) nestanoví-li tento zákon jinak, nelze práva věřitele nabytá v dobré víře před zahájením insolvenčního řízení omezit rozhodnutím insolvenčního soudu ani postupem insolvenčního správce;
+> d) věřitelé jsou povinni zdržet se jednání, směřujícího k uspokojení jejich pohledávek mimo insolvenční řízení, ledaže to dovoluje zákon.
 
 ### Výklad
 
@@ -212,6 +243,21 @@ V praxi se na § 5 odkazují především argumenty:
 ---
 
 ## § 6 — Výjimky z působnosti zákona
+
+> (1) Tohoto zákona nelze použít, jde-li o
+> a) stát,
+> b) územní samosprávný celek,
+> c) Českou národní banku,
+> d) Všeobecnou zdravotní pojišťovnu České republiky,
+> e) Garanční systém finančního trhu a jím spravované fondy,
+> f) Garanční fond obchodníků s cennými papíry,
+> g) veřejnou vysokou školu, nebo
+> h) právnickou osobu, jestliže stát nebo vyšší územní samosprávný celek před zahájením insolvenčního řízení převzal všechny její dluhy nebo se za ně zaručil.
+>
+> (2) Tohoto zákona nelze dále použít, jde-li o
+> a) finanční instituci, po dobu, po kterou je nositelem licence nebo povolení podle zvláštních právních předpisů, upravujících její činnost; toto se nevztahuje na obchodníka s cennými papíry,
+> b) zdravotní pojišťovnu zřízenou podle zvláštního právního předpisu, po dobu, po kterou je nositelem povolení k provádění veřejného zdravotního pojištění,
+> c) politickou stranu nebo politické hnutí v době vyhlášených voleb podle zvláštního právního předpisu.
 
 ### Výklad
 
@@ -343,47 +389,50 @@ Místní příslušnost pro incidenční spory a další agendy podle § 7a — 
 
 ---
 
-## § 7c — Specializace soudců a senátů
+## § 7c — Účast státního zastupitelství
 
-### Výklad (znění účinné k 1. 1. 2026)
-
-Paragraf 7c (vložený novelou č. 64/2017 Sb. a dále upravený) ukládá **specializaci**: insolvenční věci projednávají u krajských soudů senáty/samosoudci k tomu určení rozvrhem práce. Cílem je zajistit odbornost a předvídatelnost rozhodování — insolvence je vysoce specializovaná agenda, kterou nelze zvládat ad hoc.
-
-### Vazby
-
-- **Zákon č. 6/2002 Sb. o soudech a soudcích** — rozvrh práce, specializace.
-- Praktickým výsledkem je existence specializovaných „insolvenčních" senátů u všech krajských soudů a Vrchních soudů (sp. zn. 1 VSPH, 2 VSPH, 4 VSPH atd.).
-
-### Praktická poznámka
-
-Specializované senáty produkují relativně konzistentní judikaturu; rozdíly mezi VS Praha a VS Olomouc nicméně přetrvávají, zejména v dílčích procesních otázkách (oddlužovací praxe, výklad § 395 atd.).
-
----
-
-## § 8 — Vyloučení použití zákona o veřejných dražbách a další
+> Státní zastupitelství může vstoupit do zahájeného insolvenčního řízení, včetně incidenčních sporů, a moratoria.
 
 ### Výklad
 
-> Pro zpeněžení majetkové podstaty v insolvenčním řízení se nepoužije zákon upravující veřejné dražby a zákon upravující veřejné zakázky, ledaže tento zákon stanoví jinak.
+Paragraf 7c zakotvuje **fakultativní intervenční oprávnění státního zastupitelství**. SZ není stranou ani účastníkem ex lege, ale **může** vstoupit do již zahájeného insolvenčního řízení, do incidenčních sporů a do moratoria. Po vstupu má postavení vedlejšího účastníka s vlastními procesními právy (právo navrhovat důkazy, podávat opravné prostředky atd.).
 
-Paragraf 8 vylučuje aplikaci:
-- **zákona o veřejných dražbách** (č. 26/2000 Sb.) — pro zpeněžování majetkové podstaty platí vlastní pravidla IZ (§ 286 a násl. — způsoby zpeněžení).
-- **zákona o veřejných zakázkách** (č. 134/2016 Sb.) — výběr smluvního partnera (např. správce hodnocení znaleckých posudků, zhotovitelů oceňování) **se neřídí** ZZVZ.
+Ustanovení je provedením obecné úpravy § 35 OSŘ ve specifickém režimu insolvenčního řízení. Bez výslovného zmocnění by SZ do insolvence vstoupit nemohlo (insolvenční řízení je *sui generis* a § 7 odkazuje na OSŘ jen subsidiárně).
 
-Důvodem je *zvláštnost insolvenčního zpeněžování* — to musí probíhat rychle, hospodárně a pod dohledem věřitelských orgánů a soudu, což běžné dražební a veřejné zakázkové režimy neumožňují.
+### Praktický význam
 
-> **„Ledaže tento zákon stanoví jinak"** — IZ na ZVD nebo ZZVZ v některých dílčích otázkách odkazuje (např. dražba ve veřejné dražbě podle § 287 jako jedna z forem zpeněžení); pak se tyto předpisy použijí v rozsahu odkazu.
+V praxi SZ vstupuje **velmi zřídka** — typicky v případech podezření na trestnou činnost (zatajení majetku, zvýhodnění věřitele, podvodný úpadek, pletichy v insolvenci podle § 222—227 TZ) nebo v řízeních s významným veřejným zájmem (úpadek subjektu s veřejnoprávní funkcí, rozsáhlé skupinové insolvence). Vstup SZ posiluje vyšetřovací zásadu (§ 86) a může mít signál pro orgány činné v trestním řízení.
 
 ### Vazby
 
-- **§ 286** — způsoby zpeněžení (veřejná dražba, prodej mimo dražbu, prodej movitých věcí a nemovitostí podle OSŘ).
-- **§ 287, § 288, § 289** — jednotlivé způsoby zpeněžení.
-- **Zákon č. 26/2000 Sb.** o veřejných dražbách.
-- **Zákon č. 134/2016 Sb.** o zadávání veřejných zakázek.
+- **§ 35 OSŘ** — obecná účast SZ v civilním řízení.
+- **§ 86** — vyšetřovací zásada při zjišťování úpadku.
+- **§ 222—227 TZ** — trestné činy úpadkové.
+- **Zákon č. 283/1993 Sb. o státním zastupitelství.**
 
-### Praktická poznámka
+---
 
-Správce má při výběru způsobu zpeněžení a smluvních partnerů (např. realitního zprostředkovatele, dražebníka) podstatně volnější ruce než veřejný zadavatel. Toto je vyváženo přísným dohledem věřitelského výboru / zajištěného věřitele (pokyny podle § 293) a možností odporu věřitelů u soudu.
+## § 8
+
+> Ustanovení části první a čtvrté tohoto zákona se použijí, jen nestanoví-li tento zákon v části druhé ohledně některého ze způsobů řešení úpadku jinak.
+
+### Výklad
+
+Paragraf 8 obsahuje **subsidiární klauzuli vnitřního uspořádání zákona**. Vyjadřuje vztah mezi obecnou částí (Část první — § 1 až § 243) a závěrečnou částí (Část čtvrtá — § 419 a násl.) na jedné straně a **zvláštní úpravou** jednotlivých způsobů řešení úpadku (Část druhá — konkurs, reorganizace, oddlužení, zvláštní způsoby) na straně druhé.
+
+**Lex specialis derogat legi generali** — pokud zvláštní úprava určitého způsobu řešení úpadku v Části druhé stanoví od obecné úpravy odchylku, použije se zvláštní úprava. Pravidla Části první a čtvrté nastupují jen tehdy, jestliže zvláštní úprava daný okruh otázek **neupravuje** nebo upravuje jen částečně.
+
+### Vazby a souvislosti
+
+- **Část druhá** (§ 244 a násl.) — konkurs (Hlava I), reorganizace (Hlava II), zvláštní úprava pro finanční instituce (Hlavy III a IV), oddlužení (Hlava V).
+- **§ 244 a násl.** — konkurs, který typicky obsahuje zvláštní úpravu odlišnou od obecné (např. dispoziční oprávnění správce v § 246 vs. obecná pravidla v § 229).
+- **§ 316 a násl.** — reorganizace s vlastními pravidly o věřitelských skupinách, hlasování, reorganizačním plánu.
+- **§ 389 a násl.** — oddlužení s vlastním režimem zahájení, návrhu (přes akreditovanou osobu), schválení a osvobození.
+
+### Praktické dopady
+
+- Při řešení jakékoliv právní otázky v konkrétním insolvenčním řízení **vždy nejprve** hledejte úpravu v Části druhé pro daný způsob řešení úpadku; teprve při absenci sahejte do obecné úpravy Části první.
+- Typický příklad: lhůty pro přihlášky pohledávek — obecná lhůta v § 136 odst. 3 (2 měsíce od rozhodnutí o úpadku) **nemusí platit** pro některé zvláštní způsoby řešení úpadku — vždy prověřte i § 173 a další ustanovení Části druhé pro daný způsob.
 
 ---
 

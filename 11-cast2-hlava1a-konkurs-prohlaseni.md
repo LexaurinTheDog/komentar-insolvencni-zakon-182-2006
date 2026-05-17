@@ -320,9 +320,11 @@ Druhá strana **nemůže žádat zpět** to, co plnila *před úpadkem* za nedop
 
 ### § 256 — Výpovědní právo správce u dlužníka-pronajímatele
 
-> (1) Insolvenční správce je po prohlášení konkursu **oprávněn vypovědět nájemní smlouvu nebo podnájemní smlouvu uzavřenou dlužníkem** ve lhůtě stanovené zákonem nebo smlouvou, a to **i v případě, že byla sjednána na dobu určitou**; **výpovědní lhůta však nesmí být delší než 3 měsíce**. (...)
+> (1) Insolvenční správce je po prohlášení konkursu **oprávněn vypovědět nájemní smlouvu nebo podnájemní smlouvu uzavřenou dlužníkem** ve lhůtě stanovené zákonem nebo smlouvou, a to **i v případě, že byla sjednána na dobu určitou**; **výpovědní lhůta však nesmí být delší než 3 měsíce**. Ustanovení občanského zákoníku o tom, v kterých případech a za jakých podmínek může pronajímatel vypovědět nájem bytu, tím nejsou dotčena.
+>
 > (2) Jestliže by výpovědí nájemní smlouvy sjednané na určitou dobu, v níž je dlužník pronajímatelem, byl nájemce nepřiměřeně dotčen ve svých oprávněných zájmech nebo by tím utrpěl či mohl utrpět značnou škodu, **může nájemce do 15 dnů od doručení výpovědi navrhnout insolvenčnímu soudu zrušení výpovědi**. Jestliže bude zajištěno, že nájemce koupí předmět nájmu při zpeněžení majetkové podstaty za cenu obvyklou, vyhoví insolvenční soud takovému návrhu vždy.
-> (3) Právo na nájemné nebo jinou úhradu za dobu před prohlášením konkursu může druhý účastník smlouvy uplatnit pouze přihláškou pohledávky. (...)
+>
+> (3) Právo na nájemné nebo jinou úhradu za dobu před prohlášením konkursu může druhý účastník smlouvy uplatnit pouze přihláškou pohledávky. Totéž platí, jde-li o nájemné nebo jinou úhradu zaplacenou předem; tuto pohledávku je nutné přihlásit jako pohledávku vázanou na splnění odkládací podmínky.
 
 ### § 257 — Ochrana dlužníka-nájemce
 
@@ -330,7 +332,7 @@ Druhá strana **nemůže žádat zpět** to, co plnila *před úpadkem* za nedop
 
 ### § 258 — Nepředané věci
 
-> Nebyl-li v době prohlášení konkursu ještě předán předmět nájmu, podnájmu nebo výpůjčky, **může insolvenční správce i druhý účastník smlouvy od smlouvy odstoupit**; (...). Každá ze smluvních stran je povinna druhému účastníku smlouvy **do 10 dnů poté, co k tomu byla vyzvána, sdělit, zda od smlouvy odstupuje**; jestliže tak neučiní, právo odstoupit od smlouvy podle tohoto ustanovení jí zaniká.
+> Nebyl-li v době prohlášení konkursu ještě předán předmět nájmu, podnájmu nebo výpůjčky, **může insolvenční správce i druhý účastník smlouvy od smlouvy odstoupit**; učiní-li tak insolvenční správce, může se druhý účastník smlouvy domáhat náhrady škody způsobené předčasným ukončením smlouvy přihláškou pohledávky, a to nejpozději do 30 dnů ode dne odstoupení od smlouvy. Každá ze smluvních stran je povinna druhému účastníku smlouvy **do 10 dnů poté, co k tomu byla vyzvána, sdělit, zda od smlouvy odstupuje**; jestliže tak neučiní, právo odstoupit od smlouvy podle tohoto ustanovení jí zaniká.
 
 ### Výklad
 
@@ -397,7 +399,7 @@ Prodávající **nemůže žádat vrácení**, pokud **správce splní** povinno
 > (1) Prohlášením konkursu **nekončí provoz dlužníkova podniku**, nestanoví-li zvláštní právní předpis jinak.
 > (2) Provoz dlužníkova podniku skončí
 > a) **prodejem podniku jednou smlouvou** v rámci zpeněžení majetkové podstaty,
-> b) **rozhodnutím insolvenčního soudu** vydaným na návrh insolvenčního správce po vyjádření věřitelského výboru (...); odvolání proti němu není přípustné.
+> b) **rozhodnutím insolvenčního soudu** vydaným na návrh insolvenčního správce po vyjádření věřitelského výboru, byl-li již zvolen nebo jmenován; rozhodnutí se doručuje insolvenčnímu správci, dlužníku a věřitelskému výboru a zveřejňuje se vyhláškou; odvolání proti němu není přípustné.
 
 ### Výklad — **KLÍČOVÁ STRATEGICKÁ VOLBA**
 
@@ -434,7 +436,7 @@ Prodávající **nemůže žádat vrácení**, pokud **správce splní** povinno
 
 ## § 263 — Přerušení řízení
 
-> (1) Není-li v tomto zákoně stanoveno jinak, **přerušují se soudní a rozhodčí řízení**, která se týkají majetkové podstaty nebo které mají být uspokojeny z majetkové podstaty, jejichž účastníkem je dlužník, **prohlášením konkursu**. V těchto řízeních lze pokračovat **jen za podmínek stanovených tímto zákonem** (...).
+> (1) Není-li v tomto zákoně stanoveno jinak, **přerušují se soudní a rozhodčí řízení**, která se týkají majetkové podstaty nebo které mají být uspokojeny z majetkové podstaty, jejichž účastníkem je dlužník, **prohlášením konkursu**. V těchto řízeních lze pokračovat **jen za podmínek stanovených tímto zákonem**; možnost postupovat podle ustanovení § 141a tím není dotčena.
 > (2) Je-li řízení podle odstavce 1 přerušeno, **nekonají se jednání a neběží stanovené lhůty**. Jestliže se v řízení pokračuje, počínají lhůty běžet znovu.
 > (3) — (4) [působnost přerušení, vyrozumění]
 
@@ -450,8 +452,9 @@ Prodávající **nemůže žádat vrácení**, pokud **správce splní** povinno
 
 ### § 264 — Dlužník-žalobce
 
-> (1) V přerušených řízeních, ve kterých v době prohlášení konkursu **dlužník vystupoval jako žalobce** nebo jiný navrhovatel, jakož i v dalších řízeních, ve kterých uplatňoval své pohledávky nebo jiná práva týkající se majetkové podstaty, lze pokračovat **na návrh insolvenčního správce**; dnem (...) se insolvenční správce **stává účastníkem řízení místo dlužníka**.
-> (2) Jestliže insolvenční správce ve lhůtě určené mu soudem (...) **nepodal návrh na pokračování v řízení, mohou návrh na pokračování v řízení podat dlužník, popřípadě ostatní účastníci řízení s tím, že dlužník zůstává účastníkem řízení**.
+> (1) V přerušených řízeních, ve kterých v době prohlášení konkursu **dlužník vystupoval jako žalobce** nebo jiný navrhovatel, jakož i v dalších řízeních, ve kterých uplatňoval své pohledávky nebo jiná práva týkající se majetkové podstaty, lze pokračovat **na návrh insolvenčního správce**; dnem, kdy soudu, rozhodci nebo stálému rozhodčímu soudu, u kterého je řízení vedeno, došel jeho návrh na pokračování v řízení, se insolvenční správce **stává účastníkem řízení místo dlužníka**.
+>
+> (2) Jestliže insolvenční správce ve lhůtě určené mu soudem, rozhodcem nebo stálým rozhodčím soudem, u kterého je řízení vedeno, **nepodal návrh na pokračování v řízení, mohou návrh na pokračování v řízení podat dlužník, popřípadě ostatní účastníci řízení s tím, že dlužník zůstává účastníkem řízení**.
 
 ### Výklad
 
@@ -475,9 +478,9 @@ Prodávající **nemůže žádat vrácení**, pokud **správce splní** povinno
 > a) **trestní řízení**,
 > b) **dědické řízení** a řízení o pozůstalosti,
 > c) řízení o vypořádání společného jmění dlužníka a jeho manžela,
-> d) řízení o **výživném nezletilých dětí** (...),
-> e) řízení ve věcech **ochrany osobnosti** (...),
-> f) řízení ve věcech **veřejných rejstříků** (...),
+> d) řízení o **výživném nezletilých dětí** bez zřetele k tomu, zda v něm dlužník vystupuje jako osoba oprávněná nebo jako osoba povinná,
+> e) řízení ve věcech **ochrany osobnosti** a ve věcech ochrany názvu a dobré pověsti právnické osoby; to neplatí, je-li dlužník podnikatelem nebo je-li požadováno peněžité plnění,
+> f) řízení ve věcech **veřejných rejstříků** podle zvláštního právního předpisu,
 > g) řízení ve věcech **kapitálového trhu**,
 > h) řízení o **výkon rozhodnutí nebo exekuce**,
 > i) řízení, ve kterých je dlužník **jediným účastníkem**.
@@ -495,7 +498,7 @@ Prodávající **nemůže žádat vrácení**, pokud **správce splní** povinno
 
 ## § 267 — Exekuce po konkursu
 
-> (1) Není-li dále stanoveno jinak, **návrh na nařízení výkonu rozhodnutí nebo exekuční návrh se i nadále podává proti povinnému**; proti insolvenčnímu správci jej **nelze** podat, ani má-li být povinným dlužník. (...)
+> (1) Není-li dále stanoveno jinak, **návrh na nařízení výkonu rozhodnutí nebo exekuční návrh se i nadále podává proti povinnému**; proti insolvenčnímu správci jej **nelze** podat, ani má-li být povinným dlužník. Ustanovení § 140e tím není dotčeno.
 > (2) Jde-li o řízení o výkon rozhodnutí nebo o exekuci, **kde vystupuje dlužník jako oprávněný**, stává se prohlášením konkursu insolvenční správce oprávněným místo dlužníka.
 
 ### Výklad
@@ -510,8 +513,12 @@ Prodávající **nemůže žádat vrácení**, pokud **správce splní** povinno
 ## § 268 — Zánik SJM
 
 > (1) Prohlášením konkursu **zaniká společné jmění dlužníka a jeho manžela**; byl-li vznik společného jmění dlužníka a jeho manžela vyhrazen ke dni zániku manželství, má prohlášení konkursu stejné majetkoprávní účinky jako zánik manželství.
-> (2) Po prohlášení konkursu se **provede vypořádání společného jmění manželů** (...).
-> (3) (...) staví se lhůta k vypořádání SJM, jestliže má skončit nejpozději do 6 měsíců od prohlášení konkursu.
+> (2) Po prohlášení konkursu se **provede vypořádání společného jmění manželů**, které
+> a) zaniklo podle odstavce 1,
+> b) do prohlášení konkursu zaniklo, ale nebylo vypořádáno, nebo
+> c) bylo zúženo smlouvou nebo rozhodnutím soudu a do prohlášení konkursu nebylo vypořádáno.
+>
+> (3) V případech uvedených v odstavci 2 písm. b) a c) se prohlášením konkursu staví lhůta stanovená podle zvláštního právního předpisu k vypořádání společného jmění manželů, jestliže má skončit nejpozději do 6 měsíců od prohlášení konkursu.
 
 ### Výklad — **ZÁSADNÍ DOPAD NA RODINNOU SFÉRU**
 
@@ -587,7 +594,7 @@ Toto je *dramatický* dopad: manžel dlužníka *přijde* o *celý* podíl, poku
 
 > (1) Neprodleně poté, co nabude účinnosti prohlášení konkursu, zajistí insolvenční správce provedení procesních úkonů a dalších činností, které z prohlášení konkursu vyplývají.
 > (2) Insolvenční správce zaměří svou činnost zejména **ke zjištění, zajištění a soupisu**, k dokončení **seznamu přihlášených pohledávek**, k přípravě **přezkumného jednání** a k přípravě **schůze věřitelů**.
-> (3) Jde-li o dlužníka, který vede účetnictví (...), sestaví insolvenční správce ke dni předcházejícímu dni, kterým nastanou účinky prohlášení konkursu, **mezitímní účetní závěrku** nebo přehled o příjmech, výdajích, majetku a závazcích.
+> (3) Jde-li o dlužníka, který vede účetnictví nebo evidenci podle zvláštního právního předpisu, sestaví insolvenční správce ke dni předcházejícímu dni, kterým nastanou účinky prohlášení konkursu, **mezitímní účetní závěrku** nebo přehled o příjmech, výdajích, majetku a závazcích.
 
 ### Výklad
 

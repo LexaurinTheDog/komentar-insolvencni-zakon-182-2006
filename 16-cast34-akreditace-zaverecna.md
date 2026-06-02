@@ -111,6 +111,11 @@ Závěrečná část komentáře obsahuje:
 >
 > (4) Na žádost vydá ministerstvo nebo insolvenční soud úředně ověřený výstup z informačního systému veřejné správy obsahující údaje z insolvenčního rejstříku nebo informaci o tom, že požadovaný údaj není veden v insolvenčním rejstříku.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 41/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/16612C9B3D6F5EC8C1257E7E0030CFD0?openDocument) — 27. 5. 2015, kat. A
+  > „Případné pochybení poskytovatele webové služby insolvenčního rejstříku, spočívající v opožděném "oznámení" úpadku dlužníka, nemá vliv na běh lhůty k přihlášení pohledávky věřitele"
+
 ### Výklad — **PÁTEŘ INSOLVENČNÍHO SYSTÉMU**
 
 **Insolvenční rejstřík** (https://isir.justice.cz) je *centrální informační systém* veřejné správy. Plní:
@@ -142,6 +147,11 @@ Závěrečná část komentáře obsahuje:
 
 **Správce** se zapisuje *neprodleně* po ustanovení.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 41/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/16612C9B3D6F5EC8C1257E7E0030CFD0?openDocument) — 27. 5. 2015, kat. A
+  > „Případné pochybení poskytovatele webové služby insolvenčního rejstříku, spočívající v opožděném "oznámení" úpadku dlužníka, nemá vliv na běh lhůty k přihlášení pohledávky věřitele"
+
 ## § 421 — Zveřejňování písemností
 
 **Insolvenční rejstřík obsahuje *chronologicky*** s časovým razítkem:
@@ -152,6 +162,11 @@ Závěrečná část komentáře obsahuje:
 **Forma vkládání**:
 - *elektronická podání* — *přenosem dat*,
 - *listinná* — *přenesením obrazové podoby* (scan).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 41/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/16612C9B3D6F5EC8C1257E7E0030CFD0?openDocument) — 27. 5. 2015, kat. A
+  > „Případné pochybení poskytovatele webové služby insolvenčního rejstříku, spočívající v opožděném "oznámení" úpadku dlužníka, nemá vliv na běh lhůty k přihlášení pohledávky věřitele"
 
 ## § 422 — Ochrana osobních údajů
 
@@ -222,6 +237,11 @@ Rozhodnutí o zahájení / ustanovení správce z **jiného EU státu** vůči d
 - *rozhodnutí o úpadku*.
 
 **Forma**: doručení + standardní formulář oznámení + standardní formulář pro přihlášku (podle Nařízení 2015/848).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 4/2008](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2029%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-29_NSCR_4_2008.txt) — 4. 9. 2008, kat. A
+  > „Nejde-li o známé věřitele dlužníka, kteří mají své obvyklé místo pobytu, bydliště nebo sídlo v některém z členských států Evropské unie s výjimkou Dánska (§ 430 zákona č. 182/2006 Sb. ve znění pozdějších předpisů), nedoručuje insolvenční soud známým věřitelům dlužníka zvlášť (jinak než vyhláškou podle § 71 a násl. uvedeného zákona) ani vyhlášku, kterou seoznamuje zahájení insolvenčního řízení, ani rozhodnutí o úpadku. Dovolání proti usnesení, jímž odvolací soud potvrdil usnesení insolvenčního soudu o odmítnutí přihlášky, je přípustné podle § 239 odst. 3 o. s. ř"
 
 ## § 430a — Jednostranný příslib
 

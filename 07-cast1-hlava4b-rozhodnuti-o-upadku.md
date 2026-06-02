@@ -35,6 +35,11 @@ Druhá část Hlavy IV pokrývá:
 >
 > (6) Insolvenční správce ustanovený v rozhodnutí o úpadku navazuje na činnost předběžného správce, byl-li dříve ustanoven. Nejde-li o stejnou osobu, je předběžný správce povinen podat insolvenčnímu správci úplné informace o své dosavadní činnosti a předat mu její výsledky, jakož i doklady, které má k dispozici, a poskytnout mu potřebnou součinnost.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 4/2008](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2029%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-29_NSCR_4_2008.txt) — 4. 9. 2008, kat. A
+  > „Nejde-li o známé věřitele dlužníka, kteří mají své obvyklé místo pobytu, bydliště nebo sídlo v některém z členských států Evropské unie s výjimkou Dánska (§ 430 zákona č. 182/2006 Sb. ve znění pozdějších předpisů), nedoručuje insolvenční soud známým věřitelům dlužníka zvlášť (jinak než vyhláškou podle § 71 a násl. uvedeného zákona) ani vyhlášku, kterou seoznamuje zahájení insolvenčního řízení, ani rozhodnutí o úpadku. Dovolání proti usnesení, jímž odvolací soud potvrdil usnesení insolvenčního soudu o odmítnutí přihlášky, je přípustné podle § 239 odst. 3 o. s. ř"
+
 ### Výklad — **DOMINUJÍCÍ MERITORNÍ ROZHODNUTÍ**
 
 Rozhodnutí o úpadku je **přelomové** — od něj se odvíjí celý další běh řízení:
@@ -345,6 +350,11 @@ Po právní moci úpadku — řízení zahájená v rozporu se zákazem se **def
 > b) zastavení řízení pro nedostatek podmínky řízení, který nelze odstranit nebo který se nepodařilo odstranit, nebo pro zpětvzetí insolvenčního návrhu,
 > c) zamítnutí insolvenčního návrhu.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 311/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8645493EE9D1AECCC1257F6A002A8991?openDocument) — 25. 11. 2015, kat. A
+  > „Neurčí-li insolvenční soud jinak v usnesení, jímž zamítá insolvenční návrh, zanikají účinky spojené se zahájením insolvenčního řízení nejpozději okamžikem zveřejnění tohoto usnesení v insolvenčním rejstříku. Usnesení, jímž odvolací soud zrušil usnesení o zamítnutí insolvenčního návrhu a věc vrátil insolvenčnímu soudu k dalšímu řízení, se stává účinným nejpozději okamžikem zveřejnění tohoto usnesení v insolvenčním rejstříku (jenž je vždy též okamžikem právní moci takového usnesení) tímto okamžikem se opět obnovují (ex nunc) účinky spojené se zahájením insolvenčního řízení. Na právní jednání a úřední postupy nebo rozhodnutí, k nimž došlo v době od účinnosti rozhodnutí, jímž insolvenční soud odklidil účinky spojené se zahájením insolvenčního řízení, do účinnosti rozhodnutí, jímž odvolací soud toto usnesení insolvenčního soudu zrušil, se nevztahuje omezení plynoucí z účinků spojených se…"
+
 ### Výklad
 
 **Tři kategorie negativních rozhodnutí**:
@@ -439,6 +449,11 @@ Pro *nemajetné dlužníky* (typicky FO bez aktiv, mikrofirmy) se používá:
 > (1) Účinností rozhodnutí podle § 142 zanikají účinky spojené se zahájením insolvenčního řízení a dosud vydaná předběžná opatření. Odůvodňují-li to okolnosti případu, může insolvenční soud určit, že účinky spojené se zahájením insolvenčního řízení a dosud vydaná předběžná opatření zaniknou až právní mocí rozhodnutí.
 > (2) V řízení o odvolání proti rozhodnutí podle § 142 se nepřihlíží ke skutečnostem, které nastaly nebo vznikly po vydání rozhodnutí soudu prvního stupně.
 > (3) Je-li toho podle stavu insolvenčního řízení zapotřebí, rozhodne insolvenční soud po právní moci rozhodnutí podle § 142 o hotových výdajích a odměně předběžného správce, jakož i o způsobu jejich úhrady; § 38 a 39 platí obdobně.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 311/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8645493EE9D1AECCC1257F6A002A8991?openDocument) — 25. 11. 2015, kat. A
+  > „Neurčí-li insolvenční soud jinak v usnesení, jímž zamítá insolvenční návrh, zanikají účinky spojené se zahájením insolvenčního řízení nejpozději okamžikem zveřejnění tohoto usnesení v insolvenčním rejstříku. Usnesení, jímž odvolací soud zrušil usnesení o zamítnutí insolvenčního návrhu a věc vrátil insolvenčnímu soudu k dalšímu řízení, se stává účinným nejpozději okamžikem zveřejnění tohoto usnesení v insolvenčním rejstříku (jenž je vždy též okamžikem právní moci takového usnesení) tímto okamžikem se opět obnovují (ex nunc) účinky spojené se zahájením insolvenčního řízení. Na právní jednání a úřední postupy nebo rozhodnutí, k nimž došlo v době od účinnosti rozhodnutí, jímž insolvenční soud odklidil účinky spojené se zahájením insolvenčního řízení, do účinnosti rozhodnutí, jímž odvolací soud toto usnesení insolvenčního soudu zrušil, se nevztahuje omezení plynoucí z účinků spojených se…"
 
 ### Výklad
 
@@ -646,6 +661,15 @@ Pokud vrchní soud zruší rozhodnutí o úpadku, má to *stejné účinky* — 
 > (5) Účastníkem incidenčních sporů podle odstavce 1 písm. a) až c) a f) a g), v nichž lze pokračovat podle odstavce 4, se dnem skončení insolvenčního řízení stává místo insolvenčního správce dlužník.
 > (6) Incidenční spory podle odstavce 1 písm. d) se dnem, kdy insolvenční řízení skončí zrušením konkursu podle § 308 odst. 1 písm. c) nebo rozhodnutím, jímž insolvenční soud vezme na vědomí splnění reorganizačního plánu, anebo rozhodnutím, jímž insolvenční soud vezme na vědomí splnění oddlužení, přerušují a lze v nich pokračovat pouze na návrh některého z dlužníkových věřitelů podaný do 30 dnů od přerušení takového sporu. Dnem, kdy jeho návrh došel insolvenčnímu soudu, se každý takový věřitel stává účastníkem řízení místo insolvenčního správce. Nepodá-li takový návrh ve stanovené lhůtě žádný z věřitelů, insolvenční soud řízení o incidenčním sporu zastaví.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 3626/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/94B7034281A78A02C1258C0B0052AE7B?openDocument) — 27. 11. 2024, kat. A
+  > „Pravomocný rozsudek, jímž insolvenční soud určil, že vykonatelná pohledávka přihlášeného věřitele (oprávněného) není po právu, má účinky jen v rámci insolvenčního řízení dlužníka (povinného), konkrétně v tom směru, že nebyla (ani zčásti) uspokojována v insolvenčním řízení. Skutečnost, že insolvenční soud (pravomocně) určil, že vykonatelná pohledávka oprávněného není po právu, není důvodem pro zastavení exekuce k vymožení této pohledávky"
+- *NS* [29 ICdo 36/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ED8069B69B19DA9CC1258A63003185BC?openDocument) — 30. 5. 2023, kat. A
+  > „Usnesení, jímž insolvenční soud schválil dohodu o vypořádání společného jmění manželů uzavřenou insolvenčním správcem (popř. insolvenčními správci), lze napadnout (jen) návrhem (žalobou) na jeho zrušení, který lze podat do tří let od právní moci usnesení o jejím schválení. Insolvenční soud může zrušit usnesení o schválení takové dohody, je-li neplatná podle hmotného práva vyvolaný spor není incidenčním sporem"
+- *NS* [29 Cdo 2268/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/08B7A47345D7699BC12585F70015FFB5?openDocument) — 30. 6. 2020, kat. A
+  > „Vylučovací žalobou podle § 159 odst. 1 písm. b) insolvenčního zákona se lze úspěšně domoci i vyloučení náhradního peněžitého plnění dosaženého zpracováním věci sepsané do majetkové podstaty dlužníka. Jestliže movitá věc, která je předmětem vylučovací žaloby, zanikne zpracováním, lze pokračovat v excindačním řízení, vyplývá-li ze zákona, že okamžikem zpracování věci vzniklo žalobci (vylučovateli) vlastnické právo k věci vzniklé zpracováním předmětem řízení je bez dalšího (bez nutnosti měnit žalobu) nová věc. V těch případech, kdy žalobci (vylučovateli) vzniklo (u věci nezpracované v dobré víře) časově omezené právo „volby výhodnějšího řešení“ (§ 1075 odst. 1 a 2 o. z.), lze v excindačním řízení pokračovat poté, co se na základě provedené volby nebo v důsledku jejího nevyužití vyjasnilo, že žalobci (vylučovateli) vzniklo vlastnické právo k věci vzniklé zpracováním předmětem řízení se…"
+
 ### Výklad — **KATALOG INCIDENČNÍCH SPORŮ**
 
 **Incidenční spor** = *zvláštní procesní typ sporného řízení v rámci insolvence*. Charakteristiky:
@@ -731,6 +755,11 @@ Pro **jiné spory správce** (např. spor o náhradu škody způsobené dlužní
 > Pravomocný rozsudek vydaný v incidenčním sporu je závazný pro všechny procesní subjekty.
 
 **Erga omnes** závaznost — všechny subjekty IR jsou *vázány* rozsudkem (i ti, kdo nebyli stranami sporu). To je *zvláštní rys* incidenčních sporů — *odchylka od § 159 OSŘ* (relativní závaznost rozsudku jen mezi stranami).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 3626/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/94B7034281A78A02C1258C0B0052AE7B?openDocument) — 27. 11. 2024, kat. A
+  > „Pravomocný rozsudek, jímž insolvenční soud určil, že vykonatelná pohledávka přihlášeného věřitele (oprávněného) není po právu, má účinky jen v rámci insolvenčního řízení dlužníka (povinného), konkrétně v tom směru, že nebyla (ani zčásti) uspokojována v insolvenčním řízení. Skutečnost, že insolvenční soud (pravomocně) určil, že vykonatelná pohledávka oprávněného není po právu, není důvodem pro zastavení exekuce k vymožení této pohledávky"
 
 ### Vazby
 

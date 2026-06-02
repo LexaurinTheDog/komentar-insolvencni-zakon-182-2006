@@ -133,6 +133,11 @@ Po dobu **všeobecného moratoria** podle ZPR se povinnost podat IN *suspenduje*
 > (2) Škoda nebo jiná újma podle odstavce 1 spočívá v rozdílu mezi v insolvenčním řízení zjištěnou výší pohledávky přihlášené věřitelem k uspokojení a částkou, kterou věřitel v insolvenčním řízení na uspokojení této pohledávky obdržel.
 > (3) Osoba uvedená v odstavci 1 se odpovědnosti za škodu nebo jinou újmu podle odstavce 2 zprostí, jen prokáže-li, že porušení povinnosti podat insolvenční návrh nemělo vliv na rozsah částky určené k uspokojení pohledávky přihlášené věřitelem v insolvenčním řízení, nebo že tuto povinnost nesplnila vzhledem ke skutečnostem, které nastaly nezávisle na její vůli a které nemohla odvrátit ani při vynaložení veškerého úsilí, které lze po ní spravedlivě požadovat.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 4269/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5EF877B36CB06C37C1257F8B0030FA57?openDocument) — 17. 12. 2015, kat. A
+  > „Věřitel, který (ač tak mohl učinit) v propadné přihlašovací lhůtě nepřihlásil pohledávku za dlužníkem do insolvenčního řízení vedeného na majetek dlužníka, nemá podle § 98 a § 99 insolvenčního zákona právo na náhradu škody nebo jiné újmy (způsobené nedobytností pohledávky) vůči osobě uvedené v § 98 odst. 2 insolvenčního zákona, která ve smyslu ustanovení § 98 odst. 1 insolvenčního zákona porušila povinnost podat insolvenční návrh na majetek dlužníka"
+
 ### Výklad
 
 **Osobní odpovědnost statutárů** za škodu věřitelům.
@@ -168,6 +173,11 @@ Dvě možnosti zproštění:
 > (1) Je-li již v průběhu insolvenčního řízení zřejmé, že věřiteli vznikla škoda nebo jiná újma porušením povinnosti podat insolvenční návrh, může insolvenční soud nařídit předběžné opatření, kterým povinné osobě uloží, aby na náhradu této škody nebo jiné újmy složila do úschovy u soudu přiměřenou peněžitou částku. Učiní tak jen na návrh oprávněného věřitele. Nařízení předběžného opatření nebrání, že celkovou výši škody nebo jiné újmy dosud nelze vyčíslit.
 > (2) Výši částky, která má být složena, určí insolvenční soud tak, aby kryla podstatnou část předpokládané škody nebo jiné újmy. Při nařízení předběžného opatření uloží insolvenční soud navrhovateli, aby ve lhůtě, kterou mu určí a která nesmí skončit dříve, než skončí insolvenční řízení, podal u příslušného soudu žalobu o náhradu škody nebo jiné újmy; řízení o této žalobě není incidenčním sporem.
 > (3) V rozsahu, ve kterém soud vyhověl žalobě o náhradu škody nebo jiné újmy podle odstavce 2, se jeho rozhodnutí považuje za rozhodnutí o udělení souhlasu s vydáním předmětu úschovy žalobci.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [2 VSOL 115/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D11AA4F5CA2FFE7FC125805E002A5310?openDocument) — 4. 3. 2015, kat. A
+  > „Předběžné opatření podle § 100 insolvenčního zákona může insolvenční soud nařídit i po rozhodnutí o úpadku dlužníka"
 
 ### Výklad
 
@@ -507,6 +517,13 @@ Navrhovatel-věřitel (po zahájení řízení) získá pohledávku **za majetko
 > (5) Nestanoví-li zákon u některého ze způsobů řešení úpadku jinak, trvají účinky spojené se zahájením insolvenčního řízení do skončení insolvenčního řízení, a jde-li o reorganizaci, do schválení reorganizačního plánu.
 > (6) K rozhodnutím a opatřením přijatým při provádění výkonu rozhodnutí nebo exekuce v rozporu s omezením podle odstavce 1 písm. c) se v insolvenčním řízení nepřihlíží. Je-li to nezbytné k naplnění účelu insolvenčního řízení, může insolvenční soud kdykoli i bez návrhu pozastavit vykonatelnost nebo odložit právní moc rozhodnutí nebo opatření přijatých při provádění výkonu rozhodnutí nebo exekuce v rozporu s omezením podle odstavce 1 písm. c); může také zakázat přijetí rozhodnutí nebo opatření připravovaných při provádění výkonu rozhodnutí nebo exekuce v rozporu s omezením podle odstavce 1 písm. c). Proti rozhodnutí insolvenčního soudu podle věty druhé mohou podat odvolání účastníci řízení o výkon rozhodnutí nebo exekučního řízení. Rozhodnutí insolvenčního soudu podle věty druhé se doručuje zvlášť také orgánu nebo osobě, která rozhodnutí nebo opatření při provádění výkonu rozhodnutí nebo exekuce přijala nebo připravovala.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [36 Co 13/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A2CED057B7766889C1257A4E0066B361?openDocument) — 13. 6. 2011, kat. A
+  > „Řízení o žalobě podané věřitelem po zahájení insolvenčního řízení soud zastaví po právní moci rozhodnutí o úpadku, je-li předmětem žaloby pohledávka, kterou věřitel mohl přihlásit do insolvenčního řízení (§ 104 odst. 1 o. s. ř., § 109 odst. 1 písm. a/ insolvenčního zákona) to platí i tehdy, byl-li již prohlášen konkurs na majetek dlužníka"
+- *NS* [29 NSCR 4/2008](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2029%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-29_NSCR_4_2008.txt) — 4. 9. 2008, kat. A
+  > „Nejde-li o známé věřitele dlužníka, kteří mají své obvyklé místo pobytu, bydliště nebo sídlo v některém z členských států Evropské unie s výjimkou Dánska (§ 430 zákona č. 182/2006 Sb. ve znění pozdějších předpisů), nedoručuje insolvenční soud známým věřitelům dlužníka zvlášť (jinak než vyhláškou podle § 71 a násl. uvedeného zákona) ani vyhlášku, kterou seoznamuje zahájení insolvenčního řízení, ani rozhodnutí o úpadku. Dovolání proti usnesení, jímž odvolací soud potvrdil usnesení insolvenčního soudu o odmítnutí přihlášky, je přípustné podle § 239 odst. 3 o. s. ř"
+
 ### Výklad — **CENTRÁLNÍ PARAGRAF**
 
 Účinky zahájení = **automaticky** se aktivované suspenzivní účinky **okamžikem zveřejnění vyhlášky**. Jde o *kvazi-automatický systém ochrany* majetkové podstaty.
@@ -569,6 +586,11 @@ K *rozhodnutím / opatřením* v exekuci provedeným *v rozporu* se zákazem pod
 > (2) Insolvenční soud vyzve věřitele, kteří chtějí své pohledávky uplatnit v insolvenčním řízení, aby podali přihlášku pohledávky. Tuto výzvu lze spojit s oznámením o zahájení insolvenčního řízení; je-li výzva učiněna samostatně až v průběhu insolvenčního řízení, oznamuje se stejným způsobem, jakým se oznamuje zahájení insolvenčního řízení.
 > (3) Přihlášky pohledávek na základě výzvy podle odstavce 2 mohou věřitelé podávat až do rozhodnutí o úpadku. Kratší lhůtu není insolvenční soud oprávněn stanovit. Náležitosti této výzvy stanoví prováděcí právní předpis.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 4/2008](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2029%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-29_NSCR_4_2008.txt) — 4. 9. 2008, kat. A
+  > „Nejde-li o známé věřitele dlužníka, kteří mají své obvyklé místo pobytu, bydliště nebo sídlo v některém z členských států Evropské unie s výjimkou Dánska (§ 430 zákona č. 182/2006 Sb. ve znění pozdějších předpisů), nedoručuje insolvenční soud známým věřitelům dlužníka zvlášť (jinak než vyhláškou podle § 71 a násl. uvedeného zákona) ani vyhlášku, kterou seoznamuje zahájení insolvenčního řízení, ani rozhodnutí o úpadku. Dovolání proti usnesení, jímž odvolací soud potvrdil usnesení insolvenčního soudu o odmítnutí přihlášky, je přípustné podle § 239 odst. 3 o. s. ř"
+
 ### Výklad
 
 **Přihlašování pohledávek** může začít *již okamžikem zahájení* — nepotřebuje formální výzvu. Soud výzvu *vyhlásí*, typicky spolu s oznámením o zahájení.
@@ -587,6 +609,11 @@ K *rozhodnutím / opatřením* v exekuci provedeným *v rozporu* se zákazem pod
 > (1) Nerozhodne-li insolvenční soud jinak, je dlužník povinen zdržet se od okamžiku, kdy nastaly účinky spojené se zahájením insolvenčního řízení, nakládání s majetkovou podstatou a s majetkem, který do ní může náležet, pokud by mělo jít o podstatné změny ve skladbě, využití nebo určení tohoto majetku anebo o jeho nikoli zanedbatelné zmenšení. Peněžité závazky vzniklé před zahájením insolvenčního řízení je dlužník oprávněn plnit jen v rozsahu a za podmínek stanovených tímto zákonem.
 > (2) Omezení podle odstavce 1 se netýká úkonů nutných ke splnění povinností stanovených zvláštními právními předpisy, k provozování podniku v rámci obvyklého hospodaření, k odvrácení hrozící škody, k plnění zákonné vyživovací povinnosti a ke splnění procesních sankcí. Dále se omezení podle odstavce 1 nevztahuje na uspokojování pohledávek za majetkovou podstatou (§ 168) a pohledávek jim postavených na roveň (§ 169); tyto pohledávky se uspokojují v termínech splatnosti, je-li to podle stavu majetkové podstaty možné.
 > (3) Právní úkony, které dlužník učinil v rozporu s omezeními stanovenými v důsledku účinků spojených se zahájením insolvenčního řízení, jsou vůči věřitelům neúčinné, ledaže si k nim dlužník nebo jeho věřitel předem vyžádal souhlas insolvenčního soudu.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 97/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C8380D3E292CAD8FC12585F90018BC23?openDocument) — 30. 6. 2020, kat. A
+  > „Zúčtoval-li (budoucí) insolvenční dlužník svým zaměstnancům příjmy ze závislé činnosti (§ 3 odst. 1 zákona č. 592/1992 Sb. ve znění pozdějších předpisů) a odvedl-li (přímo) příslušné zdravotní pojišťovně pojistné na zdravotní pojištění, jehož plátci byli tito zaměstnanci, nešlo o plnění z majetku náležejícího do majetkové podstaty dlužníka"
 
 ### Výklad — **TVRDÉ OMEZENÍ DLUŽNÍKA**
 

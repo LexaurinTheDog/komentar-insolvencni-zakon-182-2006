@@ -444,6 +444,13 @@ Pokud správce zapíše do soupisu **sporný majetek** nebo majetek, který *zje
 > (5) Před pravomocným skončením řízení o žalobě lze ke zpeněžení nebo jinému nakládání s majetkem podle odstavce 4 přistoupit, jestliže tak z důvodů hodných zvláštního zřetele určil insolvenční soud ve výroku rozhodnutí, jímž žalobu zamítl, řízení o ní zastavil nebo ji odmítl. Z výtěžku zpeněžení nebo jiného nakládání s takovým majetkem mohou být věřitelé uspokojeni až po pravomocném skončení řízení o žalobě.
 > (6) **Byla-li zpeněžena věc, která neměla být pojata do soupisu, má její vlastník právo na vydání výtěžku zpeněžení**; jeho právo na náhradu škody tím není dotčeno.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 23/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/71F16C34723FC96FC12586B10023F452?openDocument) — 27. 1. 2021, kat. A
+  > „Tím, že insolvenční správce dlužníka (původního schovatele) získal zpět prostředky, které dlužník neoprávněně vyplatil třetí osobě z advokátní úschovy, se obnovila (měla obnovit) správa cizího majetku (vymožených prostředků) schovatelem pro složitele. Jsou-li tyto prostředky po jejich navrácení v majetkové podstatě rozpoznatelné (což by při řádné správě majetkové podstaty mělo platit), má osoba oprávněná žádat o vydání předmětu úschovy k dispozici vylučovací nárok podle ustanovení § 225 a násl. insolvenčního zákona"
+- *NS* [29 Cdo 2268/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/08B7A47345D7699BC12585F70015FFB5?openDocument) — 30. 6. 2020, kat. A
+  > „Vylučovací žalobou podle § 159 odst. 1 písm. b) insolvenčního zákona se lze úspěšně domoci i vyloučení náhradního peněžitého plnění dosaženého zpracováním věci sepsané do majetkové podstaty dlužníka. Jestliže movitá věc, která je předmětem vylučovací žaloby, zanikne zpracováním, lze pokračovat v excindačním řízení, vyplývá-li ze zákona, že okamžikem zpracování věci vzniklo žalobci (vylučovateli) vlastnické právo k věci vzniklé zpracováním předmětem řízení je bez dalšího (bez nutnosti měnit žalobu) nová věc. V těch případech, kdy žalobci (vylučovateli) vzniklo (u věci nezpracované v dobré víře) časově omezené právo „volby výhodnějšího řešení“ (§ 1075 odst. 1 a 2 o. z.), lze v excindačním řízení pokračovat poté, co se na základě provedené volby nebo v důsledku jejího nevyužití vyjasnilo, že žalobci (vylučovateli) vzniklo vlastnické právo k věci vzniklé zpracováním předmětem řízení se…"
+
 ### Výklad — **KLÍČOVÁ OCHRANA TŘETÍCH OSOB**
 
 **Vylučovací žaloba (actio Vindicatoria)** = *jediný způsob*, jak třetí osoba dosáhne vyloučení svého majetku z podstaty.
@@ -590,6 +597,11 @@ Pokud byla věc *zpeněžena přesto, že neměla být v podstatě*, vlastník m
 > (4) Ustanovením odstavce 3 nejsou dotčena omezení uložená dlužníku s dispozičními oprávněními insolvenčním zákonem nebo rozhodnutím insolvenčního soudu v průběhu insolvenčního řízení. Má-li dispoziční oprávnění jiná osoba než dlužník, nejsou tím dotčeny povinnosti uložené dlužníku tímto zákonem.
 > (5) Od rozhodnutí o úpadku a je-li dlužník insolvenčním navrhovatelem, od okamžiku, kdy se jím stal, platí o povinnostech dlužníka s dispozičními oprávněními ustanovení § 36 a 37 přiměřeně.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 4879/2017](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2018%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2018&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-20_Cdo_4879_2017.txt) — 1. 12. 2017, kat. A
+  > „V exekučním řízení vedeném pro pohledávku dlužníka za povinným nelze exekučním příkazem soudního exekutora ve smyslu ustanovení § 312 a násl. o. s. ř. postihnout pohledávku povinného týkající se majetkové podstaty dlužníka to platí bez zřetele k tomu, že oprávněným je insolvenční správce dlužníka"
+
 ### Výklad — **MAPA DISPOZIČNÍCH OPRÁVNĚNÍ**
 
 #### Časová mapa (odst. 3)
@@ -643,6 +655,11 @@ Od rozhodnutí o úpadku (resp. od podání IN dlužníkem) platí **§ 36, § 3
 > (3) Náklady spojené s provedením jeho pokynu podle odstavce 2 nese zajištěný věřitel ze svého.
 > (4) Není-li k pokynům zajištěného věřitele podle odstavce 2 připojen písemný souhlas ostatních zajištěných věřitelů, jejichž pohledávka se uspokojuje ze stejného zajištění, osoba s dispozičními oprávněními neprodleně vyrozumí insolvenční soud. Insolvenční soud v takovém případě nařídí do 30 dnů jednání, při kterém rozhodne o tom, zda pokyny zajištěného věřitele schvaluje. Při jednání lze projednat pouze námitky proti pokynům zajištěného věřitele, které ostatní zajištění věřitelé uplatní písemně u insolvenčního soudu nejpozději do 7 dnů ode dne zveřejnění těchto pokynů v insolvenčním rejstříku; k později podaným námitkám se nepřihlíží. K jednání předvolá insolvenční soud insolvenčního správce a dlužníka a zajištěné věřitele, kterým poskytne poučení o námitkách podle věty třetí.
 > (5) Proti rozhodnutí podle odstavce 4 není odvolání přípustné.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 93/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2107EA0DE7F45F65C1257EF900416DFA?openDocument) — 26. 8. 2015, kat. A
+  > „Skutečnost, že dlužník je ve výkonu trestu odnětí svobody, nezakládá sama o sobě povinnost insolvenčního správce informovat takového dlužníka o svém postupu v insolvenčním řízení jinak (šířeji)než dlužníka, který zmíněným způsobem "omezen" není"
 
 ### Výklad — **POKYNY ZAJIŠTĚNÉHO VĚŘITELE: VELMI DŮLEŽITÉ**
 

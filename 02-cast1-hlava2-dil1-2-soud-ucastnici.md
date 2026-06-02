@@ -180,6 +180,11 @@ V praxi insolvenční úseky krajských soudů extenzivně využívají asistent
 > (1) Účastníky insolvenčního řízení jsou dlužník a věřitelé, kteří uplatňují své právo vůči dlužníku.
 > (2) Vedlejší účastenství není v insolvenčním řízení přípustné; ustanovení § 16 odst. 2 tím není dotčeno.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 3123/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8869490AB41CD47EC1257E82003DAC4D?openDocument) — 29. 4. 2015, kat. A
+  > „Rozhodčí doložka sjednaná pozdějším dlužníkem se vztahuje také na insolvenčního správce, který v průběhu insolvenčního řízení uplatňuje pohledávku dlužníka z právního vztahu, jehož se rozhodčí doložka týká"
+
 ### Výklad
 
 Klíčový vymezovací paragraf. **Účastníci** insolvenčního řízení jsou jen:

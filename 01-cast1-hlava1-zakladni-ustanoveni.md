@@ -217,6 +217,11 @@ Dlužník, jeho věřitelé i správce by měli volbu způsobu zvažovat *strate
 > c) nestanoví-li tento zákon jinak, nelze práva věřitele nabytá v dobré víře před zahájením insolvenčního řízení omezit rozhodnutím insolvenčního soudu ani postupem insolvenčního správce;
 > d) věřitelé jsou povinni zdržet se jednání, směřujícího k uspokojení jejich pohledávek mimo insolvenční řízení, ledaže to dovoluje zákon.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 93/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2107EA0DE7F45F65C1257EF900416DFA?openDocument) — 26. 8. 2015, kat. A
+  > „Skutečnost, že dlužník je ve výkonu trestu odnětí svobody, nezakládá sama o sobě povinnost insolvenčního správce informovat takového dlužníka o svém postupu v insolvenčním řízení jinak (šířeji)než dlužníka, který zmíněným způsobem "omezen" není"
+
 ### Výklad
 
 Zásady mají **přímou normativní povahu** — soud k nim přihlíží při výkladu jednotlivých ustanovení i při rozhodování o žádostech a opravných prostředcích. NS opakovaně judikoval, že zásady § 5 jsou závazným interpretačním rámcem (např. 29 NSČR 22/2009).

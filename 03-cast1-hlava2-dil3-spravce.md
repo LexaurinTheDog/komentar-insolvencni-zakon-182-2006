@@ -95,6 +95,11 @@ V praxi je pojištění uzavírané typicky u specializovaných pojistitelů (UN
 >
 > (2) Veřejná obchodní společnost, která je ustanovena insolvenčním správcem, oznámí insolvenčnímu soudu neprodleně, kdo z jejích společníků, prostřednictvím kterých vykonává činnost insolvenčního správce, bude jejím jménem funkci insolvenčního správce vykonávat; odstavec 1 platí pro tohoto společníka obdobně.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 107/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3A50021C9A79F814C1257D330034D963?openDocument) — 30. 6. 2014, kat. A
+  > „Mezi skutečnosti, které se zřetelem k charakteru pohledávky dlužníkova věřitele a k jeho postavení v insolvenčním řízení zakládají důvod pochybovat, že tento vztah neovlivní celkový způsob výkonu práv a povinností insolvenčního správce (a které proto nedovolují řešit možnou podjatost insolvenčního správce pouhým ustanovením odděleného insolvenčního správce), typově patří skutečnost, že pohledávka je takového rozsahu, že věřitel má rozhodující vliv na průběh insolvenčního řízení, jakož i skutečnost, že stejný věřitel vede (byť v jiném procesním postavení) další spory, jež se významně týkají majetkové podstaty dlužníka, ať již jde o incidenční spor (např. o spor na základě vylučovací žaloby), o spor o pohledávku za majetkovou podstatou nebo o pohledávku postavenou na roveň pohledávce za majetkovou podstatou, anebo o spor, v němž vystupuje jako dlužníkův dlužník. K takovým pochybnostem…"
+
 ### Výklad
 
 **Odst. 1 — dva důvody vyloučení:**
@@ -386,6 +391,11 @@ Důležitá kontinuita — odvolaný správce **musí předat veškeré doklady,
 > (1) Insolvenčního správce, který neplní řádně své povinnosti nebo který nepostupuje při výkonu své funkce s odbornou péčí anebo který závažně porušil důležitou povinnost, uloženou mu zákonem nebo soudem, může insolvenční soud na návrh věřitelského orgánu nebo dlužníka anebo i bez tohoto návrhu jeho funkce zprostit. Učiní tak zpravidla po slyšení insolvenčního správce; o podaném návrhu rozhodne neprodleně.
 > (2) Proti rozhodnutí podle odstavce 1 se mohou odvolat insolvenční správce a osoby oprávněné podat návrh podle odstavce 1. Ustanovení § 29 odst. 4 a § 31 odst. 5 a 6 platí obdobně.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 93/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2107EA0DE7F45F65C1257EF900416DFA?openDocument) — 26. 8. 2015, kat. A
+  > „Skutečnost, že dlužník je ve výkonu trestu odnětí svobody, nezakládá sama o sobě povinnost insolvenčního správce informovat takového dlužníka o svém postupu v insolvenčním řízení jinak (šířeji)než dlužníka, který zmíněným způsobem "omezen" není"
+
 ### Výklad
 
 **Sankční odvolání** za závažné selhání správce. Důvody:
@@ -443,6 +453,11 @@ V běžných řízeních se zástupce neustanovuje — pro krátkodobou nepřít
 > (1) Je-li insolvenční správce vyloučen z některých úkonů pro svůj poměr jen k některému z dlužníkových věřitelů nebo jen k některému ze zástupců dlužníkových věřitelů a není-li se zřetelem k charakteru pohledávky dlužníkova věřitele a jeho postavení v insolvenčním řízení důvod pochybovat, že tento vztah ovlivní celkový způsob výkonu práv a povinností insolvenčního správce, může insolvenční soud ustanovit pro tyto úkony odděleného insolvenčního správce.
 > (2) Je-li insolvenční správce vyloučen z některých úkonů proto, že mohou odporovat společnému zájmu věřitelů v insolvenčním řízení, ve kterém byl rovněž ustanoven insolvenčním správcem, ustanoví insolvenční soud pro tyto úkony odděleného insolvenčního správce vždy.
 > (3) Byl-li insolvenční správce odvolán postupem podle § 29 z funkce, insolvenční soud jej s jeho souhlasem ustanoví odděleným insolvenčním správcem k přezkumu pohledávky, kterou před svým odvoláním popřel, a k vedení s tím souvisejících incidenčních sporů a uplatňování majetkových práv vůči věřiteli, který hlasoval pro jeho odvolání z funkce, nestanoví-li insolvenční soud jinak.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 107/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3A50021C9A79F814C1257D330034D963?openDocument) — 30. 6. 2014, kat. A
+  > „Mezi skutečnosti, které se zřetelem k charakteru pohledávky dlužníkova věřitele a k jeho postavení v insolvenčním řízení zakládají důvod pochybovat, že tento vztah neovlivní celkový způsob výkonu práv a povinností insolvenčního správce (a které proto nedovolují řešit možnou podjatost insolvenčního správce pouhým ustanovením odděleného insolvenčního správce), typově patří skutečnost, že pohledávka je takového rozsahu, že věřitel má rozhodující vliv na průběh insolvenčního řízení, jakož i skutečnost, že stejný věřitel vede (byť v jiném procesním postavení) další spory, jež se významně týkají majetkové podstaty dlužníka, ať již jde o incidenční spor (např. o spor na základě vylučovací žaloby), o spor o pohledávku za majetkovou podstatou nebo o pohledávku postavenou na roveň pohledávce za majetkovou podstatou, anebo o spor, v němž vystupuje jako dlužníkův dlužník. K takovým pochybnostem…"
 
 ### Výklad
 
@@ -743,6 +758,11 @@ Schválení externích nákladů věřitelským výborem je v praxi formalita ve
 > (3) Insolvenční správce jedná svým jménem na účet dlužníka, pokud na něho přešlo oprávnění nakládat s majetkovou podstatou. Označuje se způsobem, z něhož je patrno, že tak činí při výkonu funkce insolvenčního správce; součástí jeho označení je i nezaměnitelné označení dlužníka, s jehož majetkovou podstatou nakládá.
 > (4) Jednáním podle odstavce 3 jsou zejména právní úkony, jimiž insolvenční správce zpeněžuje majetkovou podstatu nebo s ní jinak nakládá, a jeho úkony v incidenčních sporech, jakož i v dalších sporech, kterých se účastní místo dlužníka.
 > (5) Insolvenční správce může pověřit svého zaměstnance i zaměstnance dlužníka, aby za něho jednal v jiných soudních a dalších řízeních; tím není dotčena jeho odpovědnost podle tohoto zákona.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 4879/2017](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2018%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2018&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-20_Cdo_4879_2017.txt) — 1. 12. 2017, kat. A
+  > „V exekučním řízení vedeném pro pohledávku dlužníka za povinným nelze exekučním příkazem soudního exekutora ve smyslu ustanovení § 312 a násl. o. s. ř. postihnout pohledávku povinného týkající se majetkové podstaty dlužníka to platí bez zřetele k tomu, že oprávněným je insolvenční správce dlužníka"
 
 ### Výklad
 

@@ -115,6 +115,11 @@ Pokud správce **zpeněžil** majetek získaný z neplatného úkonu, a kupec se
 > (2) Neúčinnost dlužníkových právních úkonů, včetně těch, které tento zákon označuje za neúčinné a které dlužník učinil poté, co nastaly účinky spojené se zahájením insolvenčního řízení, **se zakládá rozhodnutím insolvenčního soudu o žalobě insolvenčního správce**, kterou bylo odporováno dlužníkovým právním úkonům (dále jen „odpůrčí žaloba"), není-li dále stanoveno jinak.
 > (3) Za neúčinný nelze označit ani právní úkon spočívající v poskytnutí prozatímního financování, nového financování nebo dalších plateb souvisejících s preventivní restrukturalizací, pokud tento právní úkon splňuje podmínky podle § 27 zákona o preventivní restrukturalizaci; to platí i na věcně právní účinky takového právního úkonu.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 307/2014](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2019%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2019&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-29_Cdo_307_2014.txt) — 29. 2. 2016, kat. A
+  > „Pro účely posouzení, zda se dlužník zavázal poskytnout plnění bezúplatně nebo za protiplnění, jehož obvyklá cena je podstatně nižší než obvyklá cena plnění, k jehož poskytnutí se zavázal dlužník (§ 240 insolvenčního zákona), je významné především kvantitativní hledisko [ poměr mezi cenou obvyklou a cenou sjednanou (vyjádřitelný např. v procentech) a rozdíl obou cen (představující konkrétní částku)]. Současně je ale nutno přihlédnout k dopadu sporného právního úkonu do majetkové sféry dlužníka z hlediska možnosti věřitelů, jimž k datu nabytí účinků sporného právního úkonu dlužníka svědčila pohledávka za dlužníkem, dosáhnout vůči dlužníku úhrady pohledávek (a schopnosti dlužníka tyto pohledávky zaplatit) a k důvodům, pro které dlužník sporný právní úkon učinil (např. snaha získat prostředky k úhradě již splatných pohledávek věřitelů), jakož i k dalším okolnostem, za nichž dlužník…"
+
 ### Výklad — **JÁDRO INSTITUTU**
 
 #### Dva typy neúčinných úkonů (odst. 1)
@@ -159,6 +164,11 @@ Analogicky § 231 odst. 4 — *ochrana investorů* preventivní restrukturalizac
 > (1) Neúčinností právního úkonu **není dotčena jeho platnost**; v insolvenčním řízení však dlužníkovo plnění z neúčinných právních úkonů **náleží do majetkové podstaty**.
 > (2) Není-li možné vydat do majetkové podstaty původní dlužníkovo plnění z neúčinného právního úkonu, musí být poskytnuta **rovnocenná náhrada**.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 72/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/364775A5D3DA9525C1258C0B0052AF83?openDocument) — 29. 11. 2024, kat. A
+  > „Právní nástupce osoby, v jejíž prospěch byl neúčinný právní úkon učiněn nebo která z něho měla prospěch (§ 237 odst. 1 insolvenčního zákona), jemuž v době, kdy nabyl plnění z neúčinného právního úkonu, musely být známy okolnosti, které odůvodňují právo dovolávat se neúčinnosti vůči oné osobě, má ve smyslu § 237 odst. 2 písm. a/ insolvenčního zákona povinnost vydat toto plnění do majetkové podstaty i tehdy, jde-li o právního nástupce na základě smlouvy (typově na základě smlouvy darovací nebo smlouvy kupní)"
+
 ### Výklad
 
 **Klíčový rozdíl od neplatnosti**:
@@ -187,6 +197,11 @@ Analogicky § 231 odst. 4 — *ochrana investorů* preventivní restrukturalizac
 > b) jde-li o osoby, **které tvoří s dlužníkem koncern, anebo o osoby dlužníku blízké**.
 > (3) Osoby, které vydaly dlužníkovo plnění z neúčinného právního úkonu do majetkové podstaty, se mohou po skončení insolvenčního řízení domáhat jeho vrácení, jen nebylo-li použito k uspokojení věřitelů nebo nebylo-li s ním nakládáno jiným zákonem povoleným způsobem.
 > (4) Bylo-li plnění z neúčinného právního úkonu vzájemné, vydá je insolvenční správce oprávněným osobám bez zbytečného odkladu poté, co tyto osoby vydaly dlužníkovo plnění z takového úkonu do majetkové podstaty. Není-li plnění poskytnuté dlužníku těmito osobami v majetkové podstatě rozpoznatelné nebo se v ní nenachází, považuje se pohledávka, která těmto osobám poskytnutím plnění dlužníku vznikla, **za přihlášenou pohledávku** a uspokojí se stejně jako tyto pohledávky.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 72/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/364775A5D3DA9525C1258C0B0052AF83?openDocument) — 29. 11. 2024, kat. A
+  > „Právní nástupce osoby, v jejíž prospěch byl neúčinný právní úkon učiněn nebo která z něho měla prospěch (§ 237 odst. 1 insolvenčního zákona), jemuž v době, kdy nabyl plnění z neúčinného právního úkonu, musely být známy okolnosti, které odůvodňují právo dovolávat se neúčinnosti vůči oné osobě, má ve smyslu § 237 odst. 2 písm. a/ insolvenčního zákona povinnost vydat toto plnění do majetkové podstaty i tehdy, jde-li o právního nástupce na základě smlouvy (typově na základě smlouvy darovací nebo smlouvy kupní)"
 
 ### Výklad — **PASIVNÍ LEGITIMACE**
 
@@ -247,6 +262,11 @@ Pokud byl úkon **vzájemný** (typicky kupní smlouva — dlužník dal věc, d
 > (2) Rozhodne-li o tom věřitelský výbor, podá insolvenční správce odpůrčí žalobu **vždy**. Nejsou-li v majetkové podstatě peněžní prostředky potřebné ke krytí nákladů na podání odpůrčí žaloby a vedení incidenčního sporu, může insolvenční správce podmínit podání odpůrčí žaloby nebo další vedení incidenčního sporu tím, aby mu věřitelé poskytli na úhradu těchto nákladů **přiměřenou zálohu**. Skončí-li incidenční spor úspěchem insolvenčního správce, mohou věřitelé, kteří zálohu poskytli, požadovat její náhradu jako **pohledávku za majetkovou podstatou**.
 > (3) Insolvenční správce může podat odpůrčí žalobu **ve lhůtě 1 roku** ode dne, kdy nastaly účinky rozhodnutí o úpadku. **Nepodá-li ji v této lhůtě, odpůrčí nárok zanikne.**
 > (4) Dlužníkovo plnění z neúčinných právních úkonů náleží do majetkové podstaty **právní mocí rozhodnutí**, kterým bylo odpůrčí žalobě vyhověno. Tím není dotčeno právo insolvenčního správce v případě, že šlo o peněžité plnění nebo že má jít o peněžitou náhradu za poskytnuté plnění, požadovat odpůrčí žalobou vedle určení neúčinnosti dlužníkova právního úkonu i toto peněžité plnění nebo peněžitou náhradu plnění. **Vylučovací žaloba není přípustná.**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 72/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/364775A5D3DA9525C1258C0B0052AF83?openDocument) — 29. 11. 2024, kat. A
+  > „Právní nástupce osoby, v jejíž prospěch byl neúčinný právní úkon učiněn nebo která z něho měla prospěch (§ 237 odst. 1 insolvenčního zákona), jemuž v době, kdy nabyl plnění z neúčinného právního úkonu, musely být známy okolnosti, které odůvodňují právo dovolávat se neúčinnosti vůči oné osobě, má ve smyslu § 237 odst. 2 písm. a/ insolvenčního zákona povinnost vydat toto plnění do majetkové podstaty i tehdy, jde-li o právního nástupce na základě smlouvy (typově na základě smlouvy darovací nebo smlouvy kupní)"
 
 ### Výklad — **KLÍČOVÝ PROCESNÍ PARAGRAF**
 
@@ -312,6 +332,11 @@ Odpůrčí žaloba je **nejmocnější nástroj správce**. V praxi:
 > c) poskytnutí plnění, kterým bylo vyhověno ohledům slušnosti, nebo
 > d) právní úkon, o kterém dlužník se zřetelem ke všem okolnostem důvodně předpokládal, že z něj bude mít přiměřený prospěch, a to za předpokladu, že **nešlo o úkon učiněný ve prospěch osoby dlužníkovi blízké** nebo osoby, která tvoří s dlužníkem koncern, a že **osoba, v jejíž prospěch byl úkon učiněn, nemohla ani při náležité pečlivosti poznat, že dlužník je v úpadku**, nebo že by tento úkon mohl vést k úpadku dlužníka.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 307/2014](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2019%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2019&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-29_Cdo_307_2014.txt) — 29. 2. 2016, kat. A
+  > „Pro účely posouzení, zda se dlužník zavázal poskytnout plnění bezúplatně nebo za protiplnění, jehož obvyklá cena je podstatně nižší než obvyklá cena plnění, k jehož poskytnutí se zavázal dlužník (§ 240 insolvenčního zákona), je významné především kvantitativní hledisko [ poměr mezi cenou obvyklou a cenou sjednanou (vyjádřitelný např. v procentech) a rozdíl obou cen (představující konkrétní částku)]. Současně je ale nutno přihlédnout k dopadu sporného právního úkonu do majetkové sféry dlužníka z hlediska možnosti věřitelů, jimž k datu nabytí účinků sporného právního úkonu dlužníka svědčila pohledávka za dlužníkem, dosáhnout vůči dlužníku úhrady pohledávek (a schopnosti dlužníka tyto pohledávky zaplatit) a k důvodům, pro které dlužník sporný právní úkon učinil (např. snaha získat prostředky k úhradě již splatných pohledávek věřitelů), jakož i k dalším okolnostem, za nichž dlužník…"
+
 ### Výklad — **PRVNÍ TYP NEÚČINNOSTI**
 
 #### Definice (odst. 1)
@@ -375,6 +400,11 @@ Aby byl úkon napadnutelný, musí:
 > b) právní úkon učiněný za podmínek obvyklých v obchodním styku, na základě kterého dlužník obdržel přiměřené protiplnění nebo jiný přiměřený majetkový prospěch, a to za předpokladu, že nešlo o úkon učiněný ve prospěch osoby dlužníkovi blízké nebo osoby, která tvoří s dlužníkem koncern, a že osoba, v jejíž prospěch byl úkon učiněn, nemohla ani při náležité pečlivosti poznat, že dlužník je v úpadku, nebo že by tento úkon mohl vést k úpadku dlužníka,
 > c) právní úkon, který dlužník učinil za trvání moratoria nebo po zahájení insolvenčního řízení za podmínek stanovených tímto zákonem.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 14/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C9B8EA924C62B843C1257D160034569E?openDocument) — 29. 4. 2014, kat. A
+  > „Rozhodne-li insolvenční soud o úpadku dlužníka na základě vyvratitelné domněnky o neschopnosti dlužníka platit své peněžité závazky (§ 3 odst. 2 insolvenčního zákona, platí tato vyvratitelná domněnka i v dalších případech, kdy insolvenční zákon váže vznik případných práv a povinností na stav úpadku dlužníka. Tak je tomu např. jde-li o odpovědnost za škodu nebo jinou újmu vzniklou porušením povinnosti podat insolvenční návrh (§ 98 a § 99 insolvenčního zákona) nebo o neúčinnost právních úkonů bez přiměřeného protiplnění (§ 240 odst. 2 insolvenčního zákona), popř. o neúčinnost zvýhodňujících právních úkonů (§ 241 odst. 2 insolvenčního zákona)"
+
 ### Výklad — **DRUHÝ TYP NEÚČINNOSTI: ZVÝHODNĚNÍ VĚŘITELE**
 
 #### Definice (odst. 1)
@@ -431,6 +461,11 @@ Aby byl úkon napadnutelný, musí:
 > (1) Odporovat lze rovněž právnímu úkonu, kterým **dlužník úmyslně zkrátil uspokojení věřitele**, byl-li tento úmysl druhé straně **znám nebo jí se zřetelem ke všem okolnostem musel být znám**.
 > (2) Má se za to, že u úmyslně zkracujícího právního úkonu učiněného ve prospěch osoby dlužníku blízké nebo osoby, která tvoří s dlužníkem koncern, byl dlužníkův **úmysl této osobě znám**.
 > (3) Úmyslně zkracujícímu právnímu úkonu lze odporovat, byl-li učiněn **v posledních 5 letech před zahájením insolvenčního řízení**.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 72/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/364775A5D3DA9525C1258C0B0052AF83?openDocument) — 29. 11. 2024, kat. A
+  > „Právní nástupce osoby, v jejíž prospěch byl neúčinný právní úkon učiněn nebo která z něho měla prospěch (§ 237 odst. 1 insolvenčního zákona), jemuž v době, kdy nabyl plnění z neúčinného právního úkonu, musely být známy okolnosti, které odůvodňují právo dovolávat se neúčinnosti vůči oné osobě, má ve smyslu § 237 odst. 2 písm. a/ insolvenčního zákona povinnost vydat toto plnění do majetkové podstaty i tehdy, jde-li o právního nástupce na základě smlouvy (typově na základě smlouvy darovací nebo smlouvy kupní)"
 
 ### Výklad — **TŘETÍ TYP: ÚMYSLNÉ ZKRÁCENÍ**
 

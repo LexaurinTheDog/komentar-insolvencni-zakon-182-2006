@@ -29,6 +29,11 @@
 
 **Aktivní legitimace** (odst. 3): *jen dlužník* sám může navrhnout oddlužení (na rozdíl od reorganizace, kde může i věřitel).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 129/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4C13DAA45E1AA20EC12586CF0018422D?openDocument) — 25. 2. 2021, kat. A
+  > „To, zda věřitel hlasuje o přijetí způsobu oddlužení, nemá vliv na právní účinky jeho nesouhlasu s oddlužením dlužníka podle § 389 odst. 2 písm. a/ insolvenčního zákona ve znění účinném od 1. července 2017"
+
 ### Vazby
 - **§ 4 odst. 1 písm. c)** — oddlužení jako způsob řešení.
 - **§ 244** — kontrast s konkursem (pohledávky neuhrazené trvají).
@@ -103,6 +108,11 @@
 
 ## § 395 — § 397 — Zamítnutí, neoprávněnost, povolení oddlužení
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 38/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7CCF492A4DD6304FC12586CC001884E4?openDocument) — 24. 2. 2021, kat. A
+  > „Ustanovení § 395 odst. 3 insolvenčního zákona, ve znění účinném od 1. června 2019, jež ukládá insolvenčnímu soudu zamítnout návrh na povolení oddlužení, jestliže v posledních 10 letech před podáním insolvenčního návrhu bylo dlužníku pravomocným rozhodnutím přiznáno osvobození od placení pohledávek, zahrnutých do oddlužení, v rozsahu, v němž nebyly uspokojeny, se použije pouze tehdy, bylo-li v (předchozím) insolvenčním řízení takové rozhodnutí vydáno (až) v době od 1. června 2019"
+
 ### § 395 — Důvody zamítnutí — **KLÍČOVÝ**
 
 > Insolvenční soud zamítne návrh na povolení oddlužení, jestliže lze důvodně předpokládat,
@@ -125,6 +135,11 @@
 - *3 měsíce karenace* po zpětvzetí.
 
 **Výjimka** (odst. 6): *důvody hodné zvláštního zřetele* — typicky ospravedlnitelný důvod nebo *výrazný nepoměr* mezi dluhem a poskytnutým plněním (typicky uvěznění bez možnosti splácet, soudní omyl).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 38/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7CCF492A4DD6304FC12586CC001884E4?openDocument) — 24. 2. 2021, kat. A
+  > „Ustanovení § 395 odst. 3 insolvenčního zákona, ve znění účinném od 1. června 2019, jež ukládá insolvenčnímu soudu zamítnout návrh na povolení oddlužení, jestliže v posledních 10 letech před podáním insolvenčního návrhu bylo dlužníku pravomocným rozhodnutím přiznáno osvobození od placení pohledávek, zahrnutých do oddlužení, v rozsahu, v němž nebyly uspokojeny, se použije pouze tehdy, bylo-li v (předchozím) insolvenčním řízení takové rozhodnutí vydáno (až) v době od 1. června 2019"
 
 ### § 396 — Důsledky odmítnutí
 
@@ -363,6 +378,11 @@ Soud bere v úvahu *schopnosti, možnosti a majetkové poměry dlužníka*. Zkou
 > (5) Osvobození podle odstavce 1 se vztahuje také na věřitele, k jejichž pohledávkám se v insolvenčním řízení nepřihlíželo, a na věřitele, kteří své pohledávky do insolvenčního řízení nepřihlásili, ač tak měli učinit.
 > (6) Osvobození podle odstavců 1 a 5 se vztahuje i **na ručitele a jiné osoby, které měly vůči dlužníku pro tyto pohledávky právo postihu**.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 3626/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/94B7034281A78A02C1258C0B0052AE7B?openDocument) — 27. 11. 2024, kat. A
+  > „Pravomocný rozsudek, jímž insolvenční soud určil, že vykonatelná pohledávka přihlášeného věřitele (oprávněného) není po právu, má účinky jen v rámci insolvenčního řízení dlužníka (povinného), konkrétně v tom směru, že nebyla (ani zčásti) uspokojována v insolvenčním řízení. Skutečnost, že insolvenční soud (pravomocně) určil, že vykonatelná pohledávka oprávněného není po právu, není důvodem pro zastavení exekuce k vymožení této pohledávky"
+
 ### Výklad — **EKONOMICKÁ REHABILITACE**
 
 **Osvobození** = zánik vymahatelnosti neuhrazených pohledávek vůči dlužníkovi. *Pohledávky formálně trvají*, ale věřitelé je *nemohou vymáhat*.
@@ -403,6 +423,11 @@ Pokud *nedošlo ke zpeněžení zástavy* — zajištěný věřitel zachovává
 > *Sociální logika*: nemorální zbavit dlužníka výživného a škody na zdraví — to *zůstává plně vymahatelné*.
 
 **Odvolání proti přiznání** — *jen věřitel s neuspokojenou pohledávkou*; *jen tvrzení o nesplnění předpokladů*.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 3626/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/94B7034281A78A02C1258C0B0052AE7B?openDocument) — 27. 11. 2024, kat. A
+  > „Pravomocný rozsudek, jímž insolvenční soud určil, že vykonatelná pohledávka přihlášeného věřitele (oprávněného) není po právu, má účinky jen v rámci insolvenčního řízení dlužníka (povinného), konkrétně v tom směru, že nebyla (ani zčásti) uspokojována v insolvenčním řízení. Skutečnost, že insolvenční soud (pravomocně) určil, že vykonatelná pohledávka oprávněného není po právu, není důvodem pro zastavení exekuce k vymožení této pohledávky"
 
 ---
 

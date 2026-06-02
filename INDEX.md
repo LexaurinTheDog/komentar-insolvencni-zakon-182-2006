@@ -67,3 +67,12 @@ Aktuální znění k **1. 1. 2026** (zdroj: lokální výtah z e-Sbírky, soubor
 - **🎉🎉🎉 KOMENTÁŘ KE VŠEM 482 PARAGRAFŮM DOKONČEN. 🎉🎉🎉**
 
 > Tento soubor (INDEX.md) je živý — aktualizuje se s každou iterací.
+
+
+## Licence
+
+Tento projekt je open source a je licencován pod licencí **Apache License 2.0** — viz soubor [LICENSE](LICENSE).
+
+Výkladový text komentáře (© 2026 Vojtěch Říha) lze volně užívat, šířit a upravovat za podmínek uvedené licence. Doslovná znění právních předpisů citovaná v komentáři jsou úředními díly vyloučenými z ochrany podle § 3 písm. a) zákona č. 121/2000 Sb. (autorský zákon) a nejsou předmětem autorského práva.
+
+Komentář **není autoritativním právním stanoviskem** a poskytuje se „tak jak je", bez jakýchkoli záruk ve smyslu čl. 7–8 licence.

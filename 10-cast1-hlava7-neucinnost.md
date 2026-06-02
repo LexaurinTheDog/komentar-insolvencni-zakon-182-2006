@@ -117,7 +117,7 @@ Pokud správce **zpeněžil** majetek získaný z neplatného úkonu, a kupec se
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Cdo 307/2014](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2019%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2019&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-29_Cdo_307_2014.txt) — 29. 2. 2016, kat. A
+- *NS* [29 Cdo 307/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B19D7AB73128EBEFC1258393002C4905?openDocument) — 29. 2. 2016, kat. A
   > „Pro účely posouzení, zda se dlužník zavázal poskytnout plnění bezúplatně nebo za protiplnění, jehož obvyklá cena je podstatně nižší než obvyklá cena plnění, k jehož poskytnutí se zavázal dlužník (§ 240 insolvenčního zákona), je významné především kvantitativní hledisko [ poměr mezi cenou obvyklou a cenou sjednanou (vyjádřitelný např. v procentech) a rozdíl obou cen (představující konkrétní částku)]. Současně je ale nutno přihlédnout k dopadu sporného právního úkonu do majetkové sféry dlužníka z hlediska možnosti věřitelů, jimž k datu nabytí účinků sporného právního úkonu dlužníka svědčila pohledávka za dlužníkem, dosáhnout vůči dlužníku úhrady pohledávek (a schopnosti dlužníka tyto pohledávky zaplatit) a k důvodům, pro které dlužník sporný právní úkon učinil (např. snaha získat prostředky k úhradě již splatných pohledávek věřitelů), jakož i k dalším okolnostem, za nichž dlužník…"
 
 ### Výklad — **JÁDRO INSTITUTU**
@@ -334,7 +334,7 @@ Odpůrčí žaloba je **nejmocnější nástroj správce**. V praxi:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Cdo 307/2014](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2019%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2019&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-29_Cdo_307_2014.txt) — 29. 2. 2016, kat. A
+- *NS* [29 Cdo 307/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B19D7AB73128EBEFC1258393002C4905?openDocument) — 29. 2. 2016, kat. A
   > „Pro účely posouzení, zda se dlužník zavázal poskytnout plnění bezúplatně nebo za protiplnění, jehož obvyklá cena je podstatně nižší než obvyklá cena plnění, k jehož poskytnutí se zavázal dlužník (§ 240 insolvenčního zákona), je významné především kvantitativní hledisko [ poměr mezi cenou obvyklou a cenou sjednanou (vyjádřitelný např. v procentech) a rozdíl obou cen (představující konkrétní částku)]. Současně je ale nutno přihlédnout k dopadu sporného právního úkonu do majetkové sféry dlužníka z hlediska možnosti věřitelů, jimž k datu nabytí účinků sporného právního úkonu dlužníka svědčila pohledávka za dlužníkem, dosáhnout vůči dlužníku úhrady pohledávek (a schopnosti dlužníka tyto pohledávky zaplatit) a k důvodům, pro které dlužník sporný právní úkon učinil (např. snaha získat prostředky k úhradě již splatných pohledávek věřitelů), jakož i k dalším okolnostem, za nichž dlužník…"
 
 ### Výklad — **PRVNÍ TYP NEÚČINNOSTI**

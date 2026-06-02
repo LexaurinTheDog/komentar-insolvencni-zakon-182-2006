@@ -761,7 +761,7 @@ Schválení externích nákladů věřitelským výborem je v praxi formalita ve
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [20 Cdo 4879/2017](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2018%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2018&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-20_Cdo_4879_2017.txt) — 1. 12. 2017, kat. A
+- *NS* [20 Cdo 4879/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3230B452174C2142C125822F002B7F5F?openDocument) — 1. 12. 2017, kat. A
   > „V exekučním řízení vedeném pro pohledávku dlužníka za povinným nelze exekučním příkazem soudního exekutora ve smyslu ustanovení § 312 a násl. o. s. ř. postihnout pohledávku povinného týkající se majetkové podstaty dlužníka to platí bez zřetele k tomu, že oprávněným je insolvenční správce dlužníka"
 
 ### Výklad

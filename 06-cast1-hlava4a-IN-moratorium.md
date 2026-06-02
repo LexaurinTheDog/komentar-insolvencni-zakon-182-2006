@@ -521,7 +521,7 @@ Navrhovatel-věřitel (po zahájení řízení) získá pohledávku **za majetko
 
 - *NS* [36 Co 13/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A2CED057B7766889C1257A4E0066B361?openDocument) — 13. 6. 2011, kat. A
   > „Řízení o žalobě podané věřitelem po zahájení insolvenčního řízení soud zastaví po právní moci rozhodnutí o úpadku, je-li předmětem žaloby pohledávka, kterou věřitel mohl přihlásit do insolvenčního řízení (§ 104 odst. 1 o. s. ř., § 109 odst. 1 písm. a/ insolvenčního zákona) to platí i tehdy, byl-li již prohlášen konkurs na majetek dlužníka"
-- *NS* [29 NSCR 4/2008](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2029%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-29_NSCR_4_2008.txt) — 4. 9. 2008, kat. A
+- *NS* [29 NSCR 4/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3BAE3A971938E7BEC1257A4E0065EFF6?openDocument) — 4. 9. 2008, kat. A
   > „Nejde-li o známé věřitele dlužníka, kteří mají své obvyklé místo pobytu, bydliště nebo sídlo v některém z členských států Evropské unie s výjimkou Dánska (§ 430 zákona č. 182/2006 Sb. ve znění pozdějších předpisů), nedoručuje insolvenční soud známým věřitelům dlužníka zvlášť (jinak než vyhláškou podle § 71 a násl. uvedeného zákona) ani vyhlášku, kterou seoznamuje zahájení insolvenčního řízení, ani rozhodnutí o úpadku. Dovolání proti usnesení, jímž odvolací soud potvrdil usnesení insolvenčního soudu o odmítnutí přihlášky, je přípustné podle § 239 odst. 3 o. s. ř"
 
 ### Výklad — **CENTRÁLNÍ PARAGRAF**
@@ -588,7 +588,7 @@ K *rozhodnutím / opatřením* v exekuci provedeným *v rozporu* se zákazem pod
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 NSCR 4/2008](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2029%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-29_NSCR_4_2008.txt) — 4. 9. 2008, kat. A
+- *NS* [29 NSCR 4/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3BAE3A971938E7BEC1257A4E0065EFF6?openDocument) — 4. 9. 2008, kat. A
   > „Nejde-li o známé věřitele dlužníka, kteří mají své obvyklé místo pobytu, bydliště nebo sídlo v některém z členských států Evropské unie s výjimkou Dánska (§ 430 zákona č. 182/2006 Sb. ve znění pozdějších předpisů), nedoručuje insolvenční soud známým věřitelům dlužníka zvlášť (jinak než vyhláškou podle § 71 a násl. uvedeného zákona) ani vyhlášku, kterou seoznamuje zahájení insolvenčního řízení, ani rozhodnutí o úpadku. Dovolání proti usnesení, jímž odvolací soud potvrdil usnesení insolvenčního soudu o odmítnutí přihlášky, je přípustné podle § 239 odst. 3 o. s. ř"
 
 ### Výklad

@@ -434,7 +434,7 @@ Praktický důsledek: věřitel s pohledávkou 1 mil. Kč jistiny + 200 tis. úr
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 NSCR 4/2008](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bspzn1%5D%20%3D%2029%20AND%20%5Bdatum_predani_na_web%5D%3E%3D..01.12.2009%20AND%20%5Bdatum_predani_na_web%5D%3C%3D..31.12.2009%20AND%20(%5BTypRozhodnuti%5D%3DUsnesen%C3%AD)&SearchOrder=1&SearchMax=0&start=2041&count=60&pohled=#rozhodnuti-29_NSCR_4_2008.txt) — 4. 9. 2008, kat. A
+- *NS* [29 NSCR 4/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3BAE3A971938E7BEC1257A4E0065EFF6?openDocument) — 4. 9. 2008, kat. A
   > „Nejde-li o známé věřitele dlužníka, kteří mají své obvyklé místo pobytu, bydliště nebo sídlo v některém z členských států Evropské unie s výjimkou Dánska (§ 430 zákona č. 182/2006 Sb. ve znění pozdějších předpisů), nedoručuje insolvenční soud známým věřitelům dlužníka zvlášť (jinak než vyhláškou podle § 71 a násl. uvedeného zákona) ani vyhlášku, kterou seoznamuje zahájení insolvenčního řízení, ani rozhodnutí o úpadku. Dovolání proti usnesení, jímž odvolací soud potvrdil usnesení insolvenčního soudu o odmítnutí přihlášky, je přípustné podle § 239 odst. 3 o. s. ř"
 
 ### Výklad — **NEJDŮLEŽITĚJŠÍ PARAGRAF Z POHLEDU VĚŘITELE**

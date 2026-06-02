@@ -380,8 +380,9 @@ Tří speciální oprávnění:
 
 ## § 84 — Vyloučení přerušení řízení
 
-> (1) Přerušení insolvenčního řízení není přípustné; po dobu, po kterou Česká národní banka pozastavila obchodování se všemi investičními nástroji na regulovaném trhu podle zvláštního právního předpisu, však nelze vydat rozhodnutí o úpadku dlužníka, který je podnikatelem.
-> (2) Jde-li o případ podle odstavce 1 a navrhne-li to přihlášený věřitel, insolvenční soud ustanoví dlužníku předběžného správce. (...)
+> (1) Přerušení insolvenčního řízení není přípustné; po dobu, po kterou Česká národní banka pozastavila obchodování se všemi investičními nástroji na regulovaném trhu podle zvláštního právního předpisu18), však nelze vydat rozhodnutí o úpadku dlužníka, který je podnikatelem.
+>
+> (2) Jde-li o případ podle odstavce 1 a navrhne-li to přihlášený věřitel, insolvenční soud ustanoví dlužníku předběžného správce. Nejde-li o insolvenčního navrhovatele, může insolvenční soud takovému věřiteli uložit, aby ve stanovené lhůtě zaplatil zálohu na náklady předběžného správce; § 108 se použije přiměřeně.
 
 ### Výklad
 

@@ -705,8 +705,10 @@ Detailní výpočet — **vyhláška č. 313/2007 Sb. o odměně insolvenčního
 
 ## § 39 — Náklady správce; záloha věřitelů
 
-> (1) Věřitelé jsou oprávněni se souhlasem insolvenčního soudu na základě rozhodnutí věřitelského výboru poskytnout insolvenčnímu správci zálohu k úhradě jeho výdajů, a to i opětovně. (...)
-> (2) Náklady na činnosti, ke kterým je insolvenční správce povinen podle zákona nebo podle rozhodnutí insolvenčního soudu, jsou zahrnuty v jeho odměně a nese je ze svého. (...)
+> (1) Věřitelé jsou oprávněni se souhlasem insolvenčního soudu na základě rozhodnutí věřitelského výboru poskytnout insolvenčnímu správci zálohu k úhradě jeho výdajů, a to i opětovně. Při poskytnutí zálohy se určí podmínky jejího vyúčtování; určit lze též účel, na který má být záloha vynaložena.
+>
+> (2) Náklady na činnosti, ke kterým je insolvenční správce povinen podle zákona nebo podle rozhodnutí insolvenčního soudu, jsou zahrnuty v jeho odměně a nese je ze svého. Výjimečně lze splnění těchto činností jinými osobami podle § 40 odst. 2 hradit z majetkové podstaty se souhlasem insolvenčního soudu a věřitelského výboru.
+>
 > (3) Náklady insolvenčního správce spojené s využitím právních, ekonomických a jiných specializovaných odborníků lze hradit z majetkové podstaty, jen je-li jejich využití účelné vzhledem k rozsahu a náročnosti insolvenčního řízení a jsou-li předem schváleny věřitelským výborem.
 
 ### Výklad

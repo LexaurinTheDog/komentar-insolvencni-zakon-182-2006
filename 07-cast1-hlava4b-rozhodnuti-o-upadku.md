@@ -151,6 +151,11 @@ Důvod *do vlastních rukou*: dlužník a správce mají bezprostřední povinno
 > d) dosud neuhradil splatnou pohledávku dlužníka v rozsahu, v němž převyšuje započitatelnou pohledávku tohoto věřitele.
 > (4) Započtení podle odstavce 2 není rovněž přípustné v případech stanovených dále tímto zákonem nebo předběžným opatřením insolvenčního soudu.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 Afs 114/2025 - 42](https://vyhledavac.nssoud.cz/DokumentDetail/Index/747154) — 21. 11. 2025
+  > „Jakkoliv se tedy § 242 odst. 2 daňového řádu užije přednostně před § 140 odst. 2, odst. 3 písm. a) insolvenčního zákona, principálně jsou tato ustanovení postavena na stejných základech a sledují stejný účel, jímž je zákaz zvýhodňování věřitelů, respektive princip rovného postavení věřitelů úpadce. … správce daně jakožto věřitel úpadce nemůže zastávat v insolvenčním řízení neodůvodněně lepší postavení, než jaké mají ostatní věřitelé"
+
 ### Výklad — **VÝZNAMNÉ HMOTNĚPRÁVNÍ USTANOVENÍ**
 
 #### Trvání předběžných opatření (odst. 1)
@@ -259,6 +264,11 @@ V praxi je toto pravidlo *kritické* pro civilní soudce — *vždy* musí kontr
 
 > V době, po kterou trvají účinky rozhodnutí o úpadku, nelze zahájit soudní a rozhodčí řízení o pohledávkách a jiných právech týkajících se majetkové podstaty, které mají být v insolvenčním řízení uplatněny přihláškou, nebo na které se v insolvenčním řízení pohlíží jako na přihlášené, nejde-li o incidenční spory, ani řízení o pohledávkách, které se v insolvenčním řízení neuspokojují (§ 170).
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 Afs 191/2022 - 47](https://vyhledavac.nssoud.cz/DokumentDetail/Index/710086) — 12. 4. 2023
+  > „Ustanovení § 140a, § 140b ani § 140c zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), která se týkají přerušení řízení, respektive dalších právních účinků rozhodnutí insolvenčního soudu o úpadku dlužníka, se podle rozšířeného senátu na správní soudnictví nevztahují"
+
 ### Výklad
 
 **Zákaz nově zahajovaných řízení** o pohledávkách proti dlužníkovi. *Výjimka*: **incidenční spory** (§ 159 — ty se naopak *musí* projednávat v rámci IR).
@@ -273,6 +283,11 @@ V praxi je toto pravidlo *kritické* pro civilní soudce — *vždy* musí kontr
 > b) řízení ve věcech vkladu práva k nemovitostem,
 > c) řízení o dlužných mzdových nárocích zaměstnanců dlužníka podle zvláštního právního předpisu,
 > d) řízení o pojistném na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [59 Af 3/2022 - 33](https://vyhledavac.nssoud.cz/DokumentDetail/Index/715390) — 25. 9. 2023
+  > „Ovšem pouhá skutečnost, že se žalobkyní bylo zahájeno insolvenční řízení, nemá žádný vliv na řízení o zajištění daně. Jestliže podle § 140d odst. 2 písm. a) insolvenčního zákona platí, že se daňové řízení nepřerušuje ani rozhodnutím o úpadku, tím spíše nemá na zajišťovací příkaz vliv toliko zahájení insolvenčního řízení"
 
 ### Výklad
 
@@ -352,8 +367,8 @@ Po právní moci úpadku — řízení zahájená v rozporu se zákazem se **def
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Cdo 311/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8645493EE9D1AECCC1257F6A002A8991?openDocument) — 25. 11. 2015, kat. A
-  > „Neurčí-li insolvenční soud jinak v usnesení, jímž zamítá insolvenční návrh, zanikají účinky spojené se zahájením insolvenčního řízení nejpozději okamžikem zveřejnění tohoto usnesení v insolvenčním rejstříku. Usnesení, jímž odvolací soud zrušil usnesení o zamítnutí insolvenčního návrhu a věc vrátil insolvenčnímu soudu k dalšímu řízení, se stává účinným nejpozději okamžikem zveřejnění tohoto usnesení v insolvenčním rejstříku (jenž je vždy též okamžikem právní moci takového usnesení) tímto okamžikem se opět obnovují (ex nunc) účinky spojené se zahájením insolvenčního řízení. Na právní jednání a úřední postupy nebo rozhodnutí, k nimž došlo v době od účinnosti rozhodnutí, jímž insolvenční soud odklidil účinky spojené se zahájením insolvenčního řízení, do účinnosti rozhodnutí, jímž odvolací soud toto usnesení insolvenčního soudu zrušil, se nevztahuje omezení plynoucí z účinků spojených se…"
+- *NS* [29 Cdo 311/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8645493EE9D1AECCC1257F6A002A8991?openDocument) — kat. A, 25. 11. 2015
+  > „Neurčí-li insolvenční soud jinak v usnesení, jímž zamítá insolvenční návrh, zanikají účinky spojené se zahájením insolvenčního řízení nejpozději okamžikem zveřejnění tohoto usnesení v insolvenčním rejstříku"
 
 ### Výklad
 
@@ -452,8 +467,8 @@ Pro *nemajetné dlužníky* (typicky FO bez aktiv, mikrofirmy) se používá:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Cdo 311/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8645493EE9D1AECCC1257F6A002A8991?openDocument) — 25. 11. 2015, kat. A
-  > „Neurčí-li insolvenční soud jinak v usnesení, jímž zamítá insolvenční návrh, zanikají účinky spojené se zahájením insolvenčního řízení nejpozději okamžikem zveřejnění tohoto usnesení v insolvenčním rejstříku. Usnesení, jímž odvolací soud zrušil usnesení o zamítnutí insolvenčního návrhu a věc vrátil insolvenčnímu soudu k dalšímu řízení, se stává účinným nejpozději okamžikem zveřejnění tohoto usnesení v insolvenčním rejstříku (jenž je vždy též okamžikem právní moci takového usnesení) tímto okamžikem se opět obnovují (ex nunc) účinky spojené se zahájením insolvenčního řízení. Na právní jednání a úřední postupy nebo rozhodnutí, k nimž došlo v době od účinnosti rozhodnutí, jímž insolvenční soud odklidil účinky spojené se zahájením insolvenčního řízení, do účinnosti rozhodnutí, jímž odvolací soud toto usnesení insolvenčního soudu zrušil, se nevztahuje omezení plynoucí z účinků spojených se…"
+- *NS* [29 Cdo 311/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8645493EE9D1AECCC1257F6A002A8991?openDocument) — kat. A, 25. 11. 2015
+  > „Neurčí-li insolvenční soud jinak v usnesení, jímž zamítá insolvenční návrh, zanikají účinky spojené se zahájením insolvenčního řízení nejpozději okamžikem zveřejnění tohoto usnesení v insolvenčním rejstříku. Usnesení, jímž odvolací soud zrušil usnesení o zamítnutí insolvenčního návrhu a věc vrátil insolvenčnímu soudu k dalšímu řízení, se stává účinným nejpozději okamžikem zveřejnění tohoto usnesení v insolvenčním rejstříku … tímto okamžikem se opět obnovují (ex nunc) účinky spojené se zahájením insolvenčního řízení"
 
 ### Výklad
 

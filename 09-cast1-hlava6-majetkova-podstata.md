@@ -74,6 +74,11 @@ V praxi je důležité **přesné určení okamžiku** — co dlužník vlastnil
 > j) **další práva a jiné majetkové hodnoty**, mají-li penězi ocenitelnou hodnotu.
 > (2) Majetkovou podstatu tvoří dále i příslušenství, přírůstky, plody a užitky majetku uvedeného v odstavci 1.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [3 Afs 134/2014 - 37](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/635129) — 24. 6. 2015
+  > „Tomu odpovídá ustanovení § 206 odst. 1 písm. h) zákona č. 182/2006 Sb., v platném znění (dále jen insolvenční zákon), podle kterého majetkovou podstatu tvoří dlužníkovy peněžité i nepeněžité pohledávky, včetně pohledávek podmíněných a pohledávek, které dosud nejsou splatné, a slouží k upokojení věřitelů podle podmínek insolvenčního zákona"
+
 ### Výklad
 
 **Demonstrativní** výčet (slovo „zejména") — *cokoli s majetkovou hodnotou* může do podstaty patřit, pokud to neuvádějí výjimky (§ 207, § 208).
@@ -151,6 +156,11 @@ V praxi jsou *spory o vyloučení věcí pro osobní potřebu* časté zejména 
 ## § 208 — Účelově vázaný majetek
 
 > Nestanoví-li tento zákon jinak, do majetkové podstaty nepatří též majetek, **se kterým lze podle zvláštního právního předpisu naložit pouze způsobem, k němuž byl určen**, zejména **účelové dotace** a návratné výpomoci ze státního rozpočtu, z Národního fondu, z rozpočtu územního samosprávního celku nebo státního fondu, **finanční rezervy** vytvářené podle zvláštních právních předpisů, majetek České národní banky, který byl na základě zvláštních dohod svěřen do správy jiné osobě, zboží propuštěné celním úřadem k dočasnému použití a majetek státu v rozsahu stanoveném zvláštním právním předpisem.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 Afs 256/2022 - 50](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/714209) — 7. 9. 2023
+  > „Jak uvádí judikatura insolvenčních soudů, toto ustanovení je nezbytné vykládat s ohledem na základní principy insolvenčního řízení restriktivně … Do rozsahu § 208 insolvenčního zákona náleží především majetek, s nímž lze nakládat podle zvláštního zákona pouze v souladu se stanoveným účelem, přičemž jde zejména o veřejné prostředky poskytnuté dlužníku za určitým účelem, a finanční rezervy vytvářené za určitým účelem"
 
 ### Výklad
 
@@ -446,10 +456,10 @@ Pokud správce zapíše do soupisu **sporný majetek** nebo majetek, který *zje
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 ICdo 23/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/71F16C34723FC96FC12586B10023F452?openDocument) — 27. 1. 2021, kat. A
+- *NS* [29 ICdo 23/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/71F16C34723FC96FC12586B10023F452?openDocument) — kat. A, 27. 1. 2021
   > „Tím, že insolvenční správce dlužníka (původního schovatele) získal zpět prostředky, které dlužník neoprávněně vyplatil třetí osobě z advokátní úschovy, se obnovila (měla obnovit) správa cizího majetku (vymožených prostředků) schovatelem pro složitele. Jsou-li tyto prostředky po jejich navrácení v majetkové podstatě rozpoznatelné (což by při řádné správě majetkové podstaty mělo platit), má osoba oprávněná žádat o vydání předmětu úschovy k dispozici vylučovací nárok podle ustanovení § 225 a násl. insolvenčního zákona"
-- *NS* [29 Cdo 2268/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/08B7A47345D7699BC12585F70015FFB5?openDocument) — 30. 6. 2020, kat. A
-  > „Vylučovací žalobou podle § 159 odst. 1 písm. b) insolvenčního zákona se lze úspěšně domoci i vyloučení náhradního peněžitého plnění dosaženého zpracováním věci sepsané do majetkové podstaty dlužníka. Jestliže movitá věc, která je předmětem vylučovací žaloby, zanikne zpracováním, lze pokračovat v excindačním řízení, vyplývá-li ze zákona, že okamžikem zpracování věci vzniklo žalobci (vylučovateli) vlastnické právo k věci vzniklé zpracováním předmětem řízení je bez dalšího (bez nutnosti měnit žalobu) nová věc. V těch případech, kdy žalobci (vylučovateli) vzniklo (u věci nezpracované v dobré víře) časově omezené právo „volby výhodnějšího řešení“ (§ 1075 odst. 1 a 2 o. z.), lze v excindačním řízení pokračovat poté, co se na základě provedené volby nebo v důsledku jejího nevyužití vyjasnilo, že žalobci (vylučovateli) vzniklo vlastnické právo k věci vzniklé zpracováním předmětem řízení se…"
+- *NS* [29 Cdo 2268/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/08B7A47345D7699BC12585F70015FFB5?openDocument) — kat. A, 30. 6. 2020
+  > „Vylučovací žalobou podle § 159 odst. 1 písm. b) insolvenčního zákona se lze úspěšně domoci i vyloučení náhradního peněžitého plnění dosaženého zpracováním věci sepsané do majetkové podstaty dlužníka. … Vyplývá-li ze zákona, že okamžikem zpracování věci vzniklo žalobci (vylučovateli) pouze právo požadovat za zpracovanou věc peněžité plnění, jehož hodnota je „ukryta“ ve věci vzniklé zpracováním, je ve smyslu ustanovení § 225 odst. 5 insolvenčního zákona „výtěžkem“ tohoto „jiného nakládání“ s věcí (jejího zpracování do nové věci) „podíl“ žalobce (vylučovatele) na věci vzniklé zpracováním v míře odpovídající „hodnotě zpracované věci“"
 
 ### Výklad — **KLÍČOVÁ OCHRANA TŘETÍCH OSOB**
 
@@ -599,8 +609,8 @@ Pokud byla věc *zpeněžena přesto, že neměla být v podstatě*, vlastník m
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [20 Cdo 4879/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3230B452174C2142C125822F002B7F5F?openDocument) — 1. 12. 2017, kat. A
-  > „V exekučním řízení vedeném pro pohledávku dlužníka za povinným nelze exekučním příkazem soudního exekutora ve smyslu ustanovení § 312 a násl. o. s. ř. postihnout pohledávku povinného týkající se majetkové podstaty dlužníka to platí bez zřetele k tomu, že oprávněným je insolvenční správce dlužníka"
+- *NS* [20 Cdo 4879/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3230B452174C2142C125822F002B7F5F?openDocument) — kat. A, 1. 12. 2017
+  > „V exekučním řízení vedeném pro pohledávku dlužníka za povinným nelze exekučním příkazem soudního exekutora ve smyslu ustanovení § 312 a násl. o. s. ř. postihnout pohledávku povinného týkající se majetkové podstaty dlužníka; to platí bez zřetele k tomu, že oprávněným je insolvenční správce dlužníka"
 
 ### Výklad — **MAPA DISPOZIČNÍCH OPRÁVNĚNÍ**
 

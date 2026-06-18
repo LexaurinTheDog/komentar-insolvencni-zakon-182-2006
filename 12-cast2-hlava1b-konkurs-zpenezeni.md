@@ -209,6 +209,11 @@ Pokud dlužník v nemovitosti **bydlí** (typicky FO-úpadce s rodinou v hypoté
 > (2) Při prodeji mimo dražbu **lze kupní cenu stanovit pod cenu odhadní**. Insolvenční správce přitom přihlédne i k nákladům, které by jinak bylo nutné vynaložit na správu zpeněžovaného majetku.
 > (3) Platnost smlouvy, kterou došlo ke zpeněžení prodejem mimo dražbu, lze napadnout jen **žalobou podanou u insolvenčního soudu nejpozději do 3 měsíců** ode dne zveřejnění smlouvy v insolvenčním rejstříku. Platnost smlouvy, kterou došlo ke zpeněžení prodejem mimo dražbu, lze napadnout žalobou podanou u insolvenčního soudu i po uplynutí lhůty podle věty první, nebyl-li nabyvatel v dobré víře.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 2258/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-2258-12_1) — usnesení, 17. 10. 2013
+  > „Spory o platnost smluv, kterými došlo ke zpeněžení majetku mimo dražbu, jsou incidenčními spory (§ 289 odst. 3 insolvenčního zákona). V tomto případě se jedná o obranný prostředek účastníků insolvenčního řízení v případě, že majetková podstata je zpeněžována prodejem mimo dražbu, který insolvenční správce může uskutečnit jen se souhlasem insolvenčního soudu a věřitelského výboru (§ 289 odst. 1 insolvenčního zákona)"
+
 ### Výklad — **NEJFLEXIBILNĚJŠÍ ZPŮSOB**
 
 **Prodej mimo dražbu** = **přímý prodej** vybranému kupci. *Nejflexibilnější*, ale **nejvíce kontrolovaný**.
@@ -261,10 +266,20 @@ V praxi je **prodej mimo dražbu nejčastější** — *dynamický*, kontrolovan
 
 ## § 290 — § 292 — Prodej podniku jednou smlouvou — **„GOING CONCERN"**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 As 72/2012 - 52](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/626642) — 24. 1. 2013
+  > „Z citovaných ustanovení je zřejmé, že prodej podniku je nerozlučně spjat s přechodem veškerých práv, pohledávek a závazků, které s tímto podnikem souvisejí. … musí být nabyvateli podniku umožněno vstoupit do takového řízení namísto jeho dosavadního vlastníka podle § 107a o. s. ř. za použití § 64 s. ř. s. Opačný výklad by popíral smysl prodeje podniku jako celku se všemi právy a závazky, které se k podniku vážou, a značně by prodlužoval a komplikoval insolvenční řízení, jde-li o prodej podniku v režimu podle § 290 a násl. insolvenčního zákona"
+
 ### § 290
 
 > (1) Dlužníkův podnik může insolvenční správce zpeněžit **jedinou smlouvou**.
 > (2) Výtěžek zpeněžení dlužníkova podniku jedinou smlouvou je součástí celkového výtěžku zpeněžení majetkové podstaty a nemůže sloužit pouze ke krytí závazků souvisejících s prodávaným podnikem.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 As 72/2012 - 52](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/626642) — 24. 1. 2013
+  > „Z citovaných ustanovení je zřejmé, že prodej podniku je nerozlučně spjat s přechodem veškerých práv, pohledávek a závazků, které s tímto podnikem souvisejí. … musí být nabyvateli podniku umožněno vstoupit do takového řízení namísto jeho dosavadního vlastníka podle § 107a o. s. ř. za použití § 64 s. ř. s. Opačný výklad by popíral smysl prodeje podniku jako celku se všemi právy a závazky, které se k podniku vážou, a značně by prodlužoval a komplikoval insolvenční řízení, jde-li o prodej podniku v režimu podle § 290 a násl. insolvenčního zákona"
 
 ### § 291
 
@@ -591,6 +606,11 @@ S konečnou zprávou se předkládá *vyúčtování odměny a výdajů* správc
 > 6. poté **pohledávky věřitelů na náhradu škody způsobené na zdraví**;
 > ostatní pohledávky se uspokojí poměrně. Výtěžku zpeněžení podle § 298 odst. 2 lze však použít k uspokojení jiných pohledávek až po uspokojení pohledávky zajištěného věřitele.
 > (3) Z výtěžku zpeněžení vyčlení insolvenční správce před rozvrhem **částku na předpokládané výlohy, spojené s ukončením řízení**.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 Afs 87/2024 - 34](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/741607) — 14. 5. 2025
+  > „Pokud výtěžek zpeněžení dlužníkovy majetkové podstaty nestačí k uspokojení všech takto uvedených pohledávek, uspokojí se pohledávky v určitém pořadí a zbylé pak poměrně; pořadí takto uspokojovaných pohledávek za podstatou určuje § 305 odst. 2 insolvenčního zákona. Na základě tohoto ustanovení rozhoduje insolvenční soud o tzv. kvazirozvrhu – usnesením určuje, jakou částkou má být ta která pohledávka za podstatou uspokojena"
 
 ### Výklad — **HIERARCHIE PŘI NEDOSTATKU LIKVIDITY**
 

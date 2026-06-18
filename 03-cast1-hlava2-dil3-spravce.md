@@ -97,8 +97,8 @@ V praxi je pojištění uzavírané typicky u specializovaných pojistitelů (UN
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 NSCR 107/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3A50021C9A79F814C1257D330034D963?openDocument) — 30. 6. 2014, kat. A
-  > „Mezi skutečnosti, které se zřetelem k charakteru pohledávky dlužníkova věřitele a k jeho postavení v insolvenčním řízení zakládají důvod pochybovat, že tento vztah neovlivní celkový způsob výkonu práv a povinností insolvenčního správce (a které proto nedovolují řešit možnou podjatost insolvenčního správce pouhým ustanovením odděleného insolvenčního správce), typově patří skutečnost, že pohledávka je takového rozsahu, že věřitel má rozhodující vliv na průběh insolvenčního řízení, jakož i skutečnost, že stejný věřitel vede (byť v jiném procesním postavení) další spory, jež se významně týkají majetkové podstaty dlužníka, ať již jde o incidenční spor (např. o spor na základě vylučovací žaloby), o spor o pohledávku za majetkovou podstatou nebo o pohledávku postavenou na roveň pohledávce za majetkovou podstatou, anebo o spor, v němž vystupuje jako dlužníkův dlužník. K takovým pochybnostem…"
+- *NS* [29 NSCR 107/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3A50021C9A79F814C1257D330034D963?openDocument) — kat. A, 30. 6. 2014
+  > „Mezi skutečnosti, které se zřetelem k charakteru pohledávky dlužníkova věřitele a k jeho postavení v insolvenčním řízení zakládají důvod pochybovat, že tento vztah neovlivní celkový způsob výkonu práv a povinností insolvenčního správce (a které proto nedovolují řešit možnou podjatost insolvenčního správce pouhým ustanovením odděleného insolvenčního správce), typově patří skutečnost, že pohledávka je takového rozsahu, že věřitel má rozhodující vliv na průběh insolvenčního řízení, jakož i skutečnost, že stejný věřitel vede (byť v jiném procesním postavení) další spory, jež se významně týkají majetkové podstaty dlužníka… K takovým pochybnostem může vést i souhrn více skutečností, vztahujících se k charakteru pohledávky dlužníkova věřitele a k jeho postavení v insolvenčním řízení, byť by samy o sobě (při izolovaném posouzení) nebyly způsobilé ovlivnit celkový způsob výkonu práv a povinností insolvenčního správce"
 
 ### Výklad
 
@@ -145,6 +145,11 @@ Pro pouze **dílčí** podjatost (např. vůči jednomu věřiteli) platí výji
 > (5) Nelze-li ustanovit osobu insolvenčního správce postupem podle odstavce 2 nebo je-li to nezbytné se zřetelem k dosavadnímu stavu insolvenčního řízení, k osobě dlužníka a k jeho majetkovým poměrům, jakož i k odborné způsobilosti insolvenčního správce, jeho dosavadní činnosti a k jeho zatížení, může předseda insolvenčního soudu určit insolvenčního správce mimo stanovené pořadí; takový postup vždy odůvodní.
 >
 > (6) Odstavce 2 a 3 se nepoužijí v případě určení osoby insolvenčního správce, který je hostujícím insolvenčním správcem. Předseda insolvenčního soudu určí pro insolvenční řízení osobu insolvenčního správce, který je hostujícím insolvenčním správcem, z příslušné části seznamu postupem, který je v souladu se zásadou dočasnosti nebo příležitostnosti, je-li to vhodné se zřetelem k dosavadnímu stavu insolvenčního řízení, k osobě dlužníka a k jeho majetkovým poměrům, jakož i k odborné způsobilosti osoby insolvenčního správce, který je hostujícím insolvenčním správcem.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [14 A 122/2018 - 39](https://vyhledavac.nssoud.cz/DokumentDetail/Index/427355) — 20. 12. 2019
+  > „Smyslem a hlavním cílem této právní úpravy provozoven bylo přiblížit výkon činnosti insolvenčního správce dlužníkům, úspora nákladů obou stran a rovnoměrné rozložení insolvenčních správců v tom kterém obvodu podle požadavku trhu. […] Konstitutivní charakter zápisu a výmazu provozovny insolvenčního správce takto chrání práva třetích osob (primárně účastníků řízení), které tak mohou jednat (navštívit provozovnu) v důvěře v údaj zveřejněný ve veřejném seznamu, čemuž koresponduje povinnost insolvenčního správce […] vykonávat činnost v provozovně v úředních hodinách zapsaných do seznamu (srov. § 25 odst. 2 insolvenčního zákona)"
 
 ### Výklad — **JEDEN Z KLÍČOVÝCH PARAGRAFŮ ZÁKONA**
 
@@ -456,8 +461,8 @@ V běžných řízeních se zástupce neustanovuje — pro krátkodobou nepřít
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 NSCR 107/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3A50021C9A79F814C1257D330034D963?openDocument) — 30. 6. 2014, kat. A
-  > „Mezi skutečnosti, které se zřetelem k charakteru pohledávky dlužníkova věřitele a k jeho postavení v insolvenčním řízení zakládají důvod pochybovat, že tento vztah neovlivní celkový způsob výkonu práv a povinností insolvenčního správce (a které proto nedovolují řešit možnou podjatost insolvenčního správce pouhým ustanovením odděleného insolvenčního správce), typově patří skutečnost, že pohledávka je takového rozsahu, že věřitel má rozhodující vliv na průběh insolvenčního řízení, jakož i skutečnost, že stejný věřitel vede (byť v jiném procesním postavení) další spory, jež se významně týkají majetkové podstaty dlužníka, ať již jde o incidenční spor (např. o spor na základě vylučovací žaloby), o spor o pohledávku za majetkovou podstatou nebo o pohledávku postavenou na roveň pohledávce za majetkovou podstatou, anebo o spor, v němž vystupuje jako dlužníkův dlužník. K takovým pochybnostem…"
+- *NS* [29 NSCR 107/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3A50021C9A79F814C1257D330034D963?openDocument) — kat. A, 30. 6. 2014
+  > „Mezi skutečnosti, které se zřetelem k charakteru pohledávky dlužníkova věřitele a k jeho postavení v insolvenčním řízení zakládají důvod pochybovat, že tento vztah neovlivní celkový způsob výkonu práv a povinností insolvenčního správce (a které proto nedovolují řešit možnou podjatost insolvenčního správce pouhým ustanovením odděleného insolvenčního správce), typově patří skutečnost, že pohledávka je takového rozsahu, že věřitel má rozhodující vliv na průběh insolvenčního řízení, jakož i skutečnost, že stejný věřitel vede (byť v jiném procesním postavení) další spory, jež se významně týkají majetkové podstaty dlužníka… K takovým pochybnostem může vést i souhrn více skutečností, vztahujících se k charakteru pohledávky dlužníkova věřitele a k jeho postavení v insolvenčním řízení, byť by samy o sobě (při izolovaném posouzení) nebyly způsobilé ovlivnit celkový způsob výkonu práv a povinností insolvenčního správce"
 
 ### Výklad
 

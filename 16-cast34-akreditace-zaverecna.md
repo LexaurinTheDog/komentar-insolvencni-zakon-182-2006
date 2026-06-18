@@ -113,7 +113,7 @@ Závěrečná část komentáře obsahuje:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 NSCR 41/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/16612C9B3D6F5EC8C1257E7E0030CFD0?openDocument) — 27. 5. 2015, kat. A
+- *NS* [29 NSCR 41/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/16612C9B3D6F5EC8C1257E7E0030CFD0?openDocument) — kat. A, 27. 5. 2015
   > „Případné pochybení poskytovatele webové služby insolvenčního rejstříku, spočívající v opožděném "oznámení" úpadku dlužníka, nemá vliv na běh lhůty k přihlášení pohledávky věřitele"
 
 ### Výklad — **PÁTEŘ INSOLVENČNÍHO SYSTÉMU**
@@ -149,7 +149,9 @@ Závěrečná část komentáře obsahuje:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 NSCR 41/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/16612C9B3D6F5EC8C1257E7E0030CFD0?openDocument) — 27. 5. 2015, kat. A
+- *ÚS* [I.ÚS 1719/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1719-11_1) — usnesení, 3. 4. 2013
+  > „Tento zápis provádí soud z úřední povinnosti a pouze řádná identifikace dlužníka údaji uvedenými v § 420 odst. 1 až odst. 3 IZ umožňuje věřitelům porovnáním svých údajů s údaji v informačním systému pravidelně zjišťovat, zda ohledně dlužníka bylo zahájeno insolvenční řízení a sledovat i jeho průběh"
+- *NS* [29 NSCR 41/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/16612C9B3D6F5EC8C1257E7E0030CFD0?openDocument) — kat. A, 27. 5. 2015
   > „Případné pochybení poskytovatele webové služby insolvenčního rejstříku, spočívající v opožděném "oznámení" úpadku dlužníka, nemá vliv na běh lhůty k přihlášení pohledávky věřitele"
 
 ## § 421 — Zveřejňování písemností
@@ -165,7 +167,7 @@ Závěrečná část komentáře obsahuje:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 NSCR 41/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/16612C9B3D6F5EC8C1257E7E0030CFD0?openDocument) — 27. 5. 2015, kat. A
+- *NS* [29 NSCR 41/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/16612C9B3D6F5EC8C1257E7E0030CFD0?openDocument) — kat. A, 27. 5. 2015
   > „Případné pochybení poskytovatele webové služby insolvenčního rejstříku, spočívající v opožděném "oznámení" úpadku dlužníka, nemá vliv na běh lhůty k přihlášení pohledávky věřitele"
 
 ## § 422 — Ochrana osobních údajů
@@ -173,6 +175,11 @@ Závěrečná část komentáře obsahuje:
 **Žádost FO o nezveřejňování** některých údajů — typicky bydliště pro ochranu před šikanou. **Jméno a příjmení se vždy zveřejní** — *neslyšitelný požadavek anonymity*.
 
 **Třetí osoby**: *jen jméno a příjmení*.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 2451/10](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-2451-10_1) — nález, 16. 12. 2010
+  > „§ 422 odst. 1 insolvenčního zákona řeší otázku střetu práva na efektivní soudní proces s právem na ochranu soukromí a … zde zákonodárce ukládá insolvenčnímu soudu posoudit v každém konkrétním případě žádosti podatele míru zásahu do soukromí a případnou míru zásahu do fairovosti procesu, tedy provést test proporcionality … Ústavně konformní interpretací § 422 odst. 1 insolvenčního zákona je tedy nezbytné dospět k závěru o nutnosti vydat rozhodnutí o žádosti dle § 422 odst. 1 insolvenčního zákona v písemné formě a takové rozhodnutí náležitě a přesvědčivě odůvodnit"
 
 ## § 423 — Utajení a maření účelu
 
@@ -240,8 +247,8 @@ Rozhodnutí o zahájení / ustanovení správce z **jiného EU státu** vůči d
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 NSCR 4/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3BAE3A971938E7BEC1257A4E0065EFF6?openDocument) — 4. 9. 2008, kat. A
-  > „Nejde-li o známé věřitele dlužníka, kteří mají své obvyklé místo pobytu, bydliště nebo sídlo v některém z členských států Evropské unie s výjimkou Dánska (§ 430 zákona č. 182/2006 Sb. ve znění pozdějších předpisů), nedoručuje insolvenční soud známým věřitelům dlužníka zvlášť (jinak než vyhláškou podle § 71 a násl. uvedeného zákona) ani vyhlášku, kterou seoznamuje zahájení insolvenčního řízení, ani rozhodnutí o úpadku. Dovolání proti usnesení, jímž odvolací soud potvrdil usnesení insolvenčního soudu o odmítnutí přihlášky, je přípustné podle § 239 odst. 3 o. s. ř"
+- *NS* [29 NSCR 4/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3BAE3A971938E7BEC1257A4E0065EFF6?openDocument) — kat. A, 4. 9. 2008
+  > „Nejde-li o známé věřitele dlužníka, kteří mají své obvyklé místo pobytu, bydliště nebo sídlo v některém z členských států Evropské unie s výjimkou Dánska (§ 430 zákona č. 182/2006 Sb. ve znění pozdějších předpisů), nedoručuje insolvenční soud známým věřitelům dlužníka zvlášť (jinak než vyhláškou podle § 71 a násl. uvedeného zákona) ani vyhlášku, kterou seznamuje zahájení insolvenčního řízení, ani rozhodnutí o úpadku"
 
 ## § 430a — Jednostranný příslib
 

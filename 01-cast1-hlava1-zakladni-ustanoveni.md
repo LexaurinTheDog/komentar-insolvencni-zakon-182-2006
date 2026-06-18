@@ -219,8 +219,10 @@ Dlužník, jeho věřitelé i správce by měli volbu způsobu zvažovat *strate
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 NSCR 93/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2107EA0DE7F45F65C1257EF900416DFA?openDocument) — 26. 8. 2015, kat. A
-  > „Skutečnost, že dlužník je ve výkonu trestu odnětí svobody, nezakládá sama o sobě povinnost insolvenčního správce informovat takového dlužníka o svém postupu v insolvenčním řízení jinak (šířeji)než dlužníka, který zmíněným způsobem "omezen" není"
+- *ÚS* [I.ÚS 129/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-129-14_1) — usnesení, 20. 10. 2014
+  > „Insolvenční řízení je specifická oblast práva s mnoha odchylkami od běžných postupů v civilním soudním procesu. Odlišnost insolvenčního řízení je usměrňována zásadami insolvenčního řízení. Na jejich základě je možno v kterémkoliv okamžiku insolvenčního řízení posoudit, zda prováděný úkon svým obsahem a povahou odpovídá cílům a smyslu insolvenčního řízení. Ustanovení § 5 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon) tyto základní zásady insolvenčního řízení formuluje"
+- *ÚS* [IV.ÚS 983/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-983-13_1) — usnesení, 14. 5. 2014
+  > „Insolvenční řízení podle insolvenčního zákona má především za cíl co nejvyšší poměrné uspokojení věřitelů. Musí být vedeno tak, aby žádný z účastníků nebyl nespravedlivě poškozen nebo nedovoleně zvýhodněn a aby se dosáhlo rychlého, hospodárného a co nejvyššího uspokojení věřitelů [§ 5 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), ve znění pozdějších předpisů]. Přesto je třeba v rámci insolvenčního řízení respektovat alespoň v minimální míře také práva dlužníka"
 
 ### Výklad
 
@@ -297,6 +299,11 @@ Paragraf 6 stanoví **osobní působnost** zákona negativně — vyjmenovává 
 ---
 
 ## § 7 — Použití občanského soudního řádu a zákona o zvláštních řízeních soudních
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III.ÚS 834/08](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-834-08_1) — usnesení, 25. 11. 2008
+  > „Ustanovení § 7 odst. 1 zákona č. 182/2006 Sb. předepisuje pro insolvenční řízení a pro incidenční spory přiměřené použití ustanovení občanského soudního řádu, nestanoví-li tento zákon jinak nebo není-li takový postup v rozporu se zásadami, na kterých spočívá insolvenční řízení"
 
 ### Výklad
 

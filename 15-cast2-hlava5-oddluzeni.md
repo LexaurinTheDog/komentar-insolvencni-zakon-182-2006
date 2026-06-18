@@ -31,7 +31,7 @@
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 NSCR 129/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4C13DAA45E1AA20EC12586CF0018422D?openDocument) — 25. 2. 2021, kat. A
+- *NS* [29 NSCR 129/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4C13DAA45E1AA20EC12586CF0018422D?openDocument) — kat. A, 25. 2. 2021
   > „To, zda věřitel hlasuje o přijetí způsobu oddlužení, nemá vliv na právní účinky jeho nesouhlasu s oddlužením dlužníka podle § 389 odst. 2 písm. a/ insolvenčního zákona ve znění účinném od 1. července 2017"
 
 ### Vazby
@@ -110,7 +110,7 @@
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 NSCR 38/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7CCF492A4DD6304FC12586CC001884E4?openDocument) — 24. 2. 2021, kat. A
+- *NS* [29 NSCR 38/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7CCF492A4DD6304FC12586CC001884E4?openDocument) — kat. A, 24. 2. 2021
   > „Ustanovení § 395 odst. 3 insolvenčního zákona, ve znění účinném od 1. června 2019, jež ukládá insolvenčnímu soudu zamítnout návrh na povolení oddlužení, jestliže v posledních 10 letech před podáním insolvenčního návrhu bylo dlužníku pravomocným rozhodnutím přiznáno osvobození od placení pohledávek, zahrnutých do oddlužení, v rozsahu, v němž nebyly uspokojeny, se použije pouze tehdy, bylo-li v (předchozím) insolvenčním řízení takové rozhodnutí vydáno (až) v době od 1. června 2019"
 
 ### § 395 — Důvody zamítnutí — **KLÍČOVÝ**
@@ -138,7 +138,7 @@
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 NSCR 38/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7CCF492A4DD6304FC12586CC001884E4?openDocument) — 24. 2. 2021, kat. A
+- *NS* [29 NSCR 38/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7CCF492A4DD6304FC12586CC001884E4?openDocument) — kat. A, 24. 2. 2021
   > „Ustanovení § 395 odst. 3 insolvenčního zákona, ve znění účinném od 1. června 2019, jež ukládá insolvenčnímu soudu zamítnout návrh na povolení oddlužení, jestliže v posledních 10 letech před podáním insolvenčního návrhu bylo dlužníku pravomocným rozhodnutím přiznáno osvobození od placení pohledávek, zahrnutých do oddlužení, v rozsahu, v němž nebyly uspokojeny, se použije pouze tehdy, bylo-li v (předchozím) insolvenčním řízení takové rozhodnutí vydáno (až) v době od 1. června 2019"
 
 ### § 396 — Důsledky odmítnutí
@@ -241,6 +241,11 @@ Pro **FO-podnikatele** specifický mechanismus výpočtu splátky:
 **Default** (odst. 5): pokud žádný způsob nezíská většinu — soud nařídí **plnění splátkového kalendáře se zpeněžením** (= default).
 
 **§ 403** — *Námitky* věřitelů, kteří hlasovali. Pokud nepodali — *konkludentní souhlas*.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 19/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-19-09_1) — nález, 27. 7. 2010
+  > „Procesní práva, která jsou odvozena ze zásady dispoziční, jsou vyhrazena výlučně nositelům těchto práv formou dispozičních procesních úkonů; z povahy těchto dispozitivních procesních úkonů vyplývá, že nemohou být obsahem právní fikce, tj. nemůže být stanoveno, že někdo vzal návrh zpět, ačkoliv tak neučinil. Právní konstrukce fikce zpětvzetí návrhu na oddlužení je v rozporu s povahou civilního procesu, což platí … i pro insolvenční řízení. … fikce zpětvzetí návrhu na oddlužení … nejde o pouhý procesní úkon, kterým účastník disponuje řízením, ale má zásadní hmotněprávní důsledky pro dlužníka i věřitele (následné prohlášení konkursu)"
 
 ---
 
@@ -380,8 +385,8 @@ Soud bere v úvahu *schopnosti, možnosti a majetkové poměry dlužníka*. Zkou
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Cdo 3626/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/94B7034281A78A02C1258C0B0052AE7B?openDocument) — 27. 11. 2024, kat. A
-  > „Pravomocný rozsudek, jímž insolvenční soud určil, že vykonatelná pohledávka přihlášeného věřitele (oprávněného) není po právu, má účinky jen v rámci insolvenčního řízení dlužníka (povinného), konkrétně v tom směru, že nebyla (ani zčásti) uspokojována v insolvenčním řízení. Skutečnost, že insolvenční soud (pravomocně) určil, že vykonatelná pohledávka oprávněného není po právu, není důvodem pro zastavení exekuce k vymožení této pohledávky"
+- *NSS* [72 Ad 22/2025 - 24](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/745871) — 24. 9. 2025
+  > „Insolvenční rejstřík je veřejný a každý do něj může kdykoliv nahlédnout. Žádného věřitele neomlouvá jeho nečinnost. V opačném případě by oddlužení ztratilo svůj smysl. … pohledávka [věřitele] zanikla nabytím právní moci … usnesení o osvobození od placení pohledávek nepřihlášených do insolvenčního řízení, ačkoli přihlášena být měla. … Opačný postup by popíral rovnost věřitelů, kteří již nemohou v důsledku osvobození své pohledávky vymáhat"
 
 ### Výklad — **EKONOMICKÁ REHABILITACE**
 

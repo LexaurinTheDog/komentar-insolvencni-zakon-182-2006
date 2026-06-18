@@ -135,7 +135,7 @@ Po dobu **všeobecného moratoria** podle ZPR se povinnost podat IN *suspenduje*
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Cdo 4269/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5EF877B36CB06C37C1257F8B0030FA57?openDocument) — 17. 12. 2015, kat. A
+- *NS* [29 Cdo 4269/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5EF877B36CB06C37C1257F8B0030FA57?openDocument) — kat. A, 17. 12. 2015
   > „Věřitel, který (ač tak mohl učinit) v propadné přihlašovací lhůtě nepřihlásil pohledávku za dlužníkem do insolvenčního řízení vedeného na majetek dlužníka, nemá podle § 98 a § 99 insolvenčního zákona právo na náhradu škody nebo jiné újmy (způsobené nedobytností pohledávky) vůči osobě uvedené v § 98 odst. 2 insolvenčního zákona, která ve smyslu ustanovení § 98 odst. 1 insolvenčního zákona porušila povinnost podat insolvenční návrh na majetek dlužníka"
 
 ### Výklad
@@ -176,7 +176,7 @@ Dvě možnosti zproštění:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [2 VSOL 115/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D11AA4F5CA2FFE7FC125805E002A5310?openDocument) — 4. 3. 2015, kat. A
+- *NS* [2 VSOL 115/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D11AA4F5CA2FFE7FC125805E002A5310?openDocument) — kat. A, 4. 3. 2015
   > „Předběžné opatření podle § 100 insolvenčního zákona může insolvenční soud nařídit i po rozhodnutí o úpadku dlužníka"
 
 ### Výklad
@@ -519,10 +519,10 @@ Navrhovatel-věřitel (po zahájení řízení) získá pohledávku **za majetko
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [36 Co 13/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A2CED057B7766889C1257A4E0066B361?openDocument) — 13. 6. 2011, kat. A
+- *ÚS* [II.ÚS 2444/10](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2444-10_2) — usnesení, 2. 12. 2010
+  > „Základním účelem úpadkového práva upraveného insolvenčním zákonem, je kromě uspokojení pohledávek věřitelů dlužníka z majetkové podstaty dlužníka i celkové vyřešení majetkových vztahů dlužníka, který je v úpadku. Smyslem § 109 odst. 1 písm. a) insolvenčního zákona je tedy docílit, aby zde po celou dobu trvání řízení existoval právní režim umožňující co nejefektivnější uspokojení věřitelů, a to z hlediska kvantitativního i časového. To se děje pokud možno co nejpřesnějším zjištěním majetku úpadce, k čemuž slouží jednotný režim přihlašování pohledávek spojený právě se zákazem podávání žalob mimo rámec insolvenčního řízení, pročež má tato právní úprava své opodstatnění"
+- *NS* [36 Co 13/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A2CED057B7766889C1257A4E0066B361?openDocument) — kat. A, 13. 6. 2011
   > „Řízení o žalobě podané věřitelem po zahájení insolvenčního řízení soud zastaví po právní moci rozhodnutí o úpadku, je-li předmětem žaloby pohledávka, kterou věřitel mohl přihlásit do insolvenčního řízení (§ 104 odst. 1 o. s. ř., § 109 odst. 1 písm. a/ insolvenčního zákona) to platí i tehdy, byl-li již prohlášen konkurs na majetek dlužníka"
-- *NS* [29 NSCR 4/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3BAE3A971938E7BEC1257A4E0065EFF6?openDocument) — 4. 9. 2008, kat. A
-  > „Nejde-li o známé věřitele dlužníka, kteří mají své obvyklé místo pobytu, bydliště nebo sídlo v některém z členských států Evropské unie s výjimkou Dánska (§ 430 zákona č. 182/2006 Sb. ve znění pozdějších předpisů), nedoručuje insolvenční soud známým věřitelům dlužníka zvlášť (jinak než vyhláškou podle § 71 a násl. uvedeného zákona) ani vyhlášku, kterou seoznamuje zahájení insolvenčního řízení, ani rozhodnutí o úpadku. Dovolání proti usnesení, jímž odvolací soud potvrdil usnesení insolvenčního soudu o odmítnutí přihlášky, je přípustné podle § 239 odst. 3 o. s. ř"
 
 ### Výklad — **CENTRÁLNÍ PARAGRAF**
 
@@ -612,7 +612,7 @@ K *rozhodnutím / opatřením* v exekuci provedeným *v rozporu* se zákazem pod
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 ICdo 97/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C8380D3E292CAD8FC12585F90018BC23?openDocument) — 30. 6. 2020, kat. A
+- *NS* [29 ICdo 97/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C8380D3E292CAD8FC12585F90018BC23?openDocument) — kat. A, 30. 6. 2020
   > „Zúčtoval-li (budoucí) insolvenční dlužník svým zaměstnancům příjmy ze závislé činnosti (§ 3 odst. 1 zákona č. 592/1992 Sb. ve znění pozdějších předpisů) a odvedl-li (přímo) příslušné zdravotní pojišťovně pojistné na zdravotní pojištění, jehož plátci byli tito zaměstnanci, nešlo o plnění z majetku náležejícího do majetkové podstaty dlužníka"
 
 ### Výklad — **TVRDÉ OMEZENÍ DLUŽNÍKA**

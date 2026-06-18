@@ -379,6 +379,11 @@ Pokud po prvním návrhu přijde **další návrh** — *přistoupení k řízen
 
 **Popření přihlášeným věřitelem** (odst. 4): **nemá vliv na zjištění** během reorganizace.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 1567/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1567-14_1) — usnesení, 6. 5. 2015
+  > „Termín "po dobu trvání reorganizace" užitý v § 336 odst. 4 insolvenčního zákona je nutno vyložit jako dobu mezi okamžikem účinnosti rozhodnutí o povolení reorganizace (§ 328 insolvenčního zákona) do okamžiku jejího ukončení (§ 362 až § 364 insolvenčního zákona). … Výše uvedené řešení spočívající v omezení popěrného práva věřitelů při reorganizaci odůvodněné zejména potřebou rychlosti insolvenčního řízení, ovšem při zachování účinků takového popěrného úkonu v případě přeměny řešení úpadku dlužníka z reorganizace na konkurs (§ 362 a § 363 insolvenčního zákona), ve spojení s úpravou zakotvenou v § 348 odst. 1 písm. d) insolvenčního zákona … představuje z pohledu Ústavního soudu dostatečnou záruku ochrany majetkových práv věřitelů i v rámci reorganizace"
+
 ---
 
 ## § 337 — Skupiny věřitelů — **KLÍČ K HLASOVÁNÍ**
@@ -822,6 +827,11 @@ Hlasování:
 > f) dlužník po schválení reorganizačního plánu **přestal podnikat**, ačkoli podle reorganizačního plánu podnikat měl, nebo
 > g) dlužník po schválení reorganizačního plánu **neuhradil pohledávky za majetkovou podstatou** a pohledávky postavené jim na roveň podle § 348 odst. 1 písm. e).
 > (4) **O přeměně reorganizace v konkurs nemůže insolvenční soud rozhodnout, jestliže reorganizační plán byl v podstatných bodech splněn.**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III.ÚS 564/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-564-13_1) — usnesení, 18. 12. 2014
+  > „… smyslem právního institutu lhůt je snížení entropie (neurčitosti) při uplatňování práv, resp. pravomocí, časové omezení stavu nejistoty v právních vztazích, urychlení procesu rozhodování s cílem reálného dosažení zamýšlených cílů (srov. nález sp. zn. Pl. ÚS 33/97 …). Není k dispozici úsudek, že by daná právní úprava, resp. její aplikace obecnými soudy z tohoto účelového vymezení nepřípustně vybočovala, což specificky platí ku zvláštním poměrům insolventního řízení"
 
 ### Výklad
 

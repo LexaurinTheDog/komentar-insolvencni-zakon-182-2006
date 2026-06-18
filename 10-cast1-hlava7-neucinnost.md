@@ -200,7 +200,7 @@ Analogicky § 231 odst. 4 — *ochrana investorů* preventivní restrukturalizac
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 ICdo 72/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/364775A5D3DA9525C1258C0B0052AF83?openDocument) — 29. 11. 2024, kat. A
+- *NS* [29 ICdo 72/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/364775A5D3DA9525C1258C0B0052AF83?openDocument) — kat. A, 29. 11. 2024
   > „Právní nástupce osoby, v jejíž prospěch byl neúčinný právní úkon učiněn nebo která z něho měla prospěch (§ 237 odst. 1 insolvenčního zákona), jemuž v době, kdy nabyl plnění z neúčinného právního úkonu, musely být známy okolnosti, které odůvodňují právo dovolávat se neúčinnosti vůči oné osobě, má ve smyslu § 237 odst. 2 písm. a/ insolvenčního zákona povinnost vydat toto plnění do majetkové podstaty i tehdy, jde-li o právního nástupce na základě smlouvy (typově na základě smlouvy darovací nebo smlouvy kupní)"
 
 ### Výklad — **PASIVNÍ LEGITIMACE**
@@ -334,8 +334,8 @@ Odpůrčí žaloba je **nejmocnější nástroj správce**. V praxi:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 Cdo 307/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B19D7AB73128EBEFC1258393002C4905?openDocument) — 29. 2. 2016, kat. A
-  > „Pro účely posouzení, zda se dlužník zavázal poskytnout plnění bezúplatně nebo za protiplnění, jehož obvyklá cena je podstatně nižší než obvyklá cena plnění, k jehož poskytnutí se zavázal dlužník (§ 240 insolvenčního zákona), je významné především kvantitativní hledisko [ poměr mezi cenou obvyklou a cenou sjednanou (vyjádřitelný např. v procentech) a rozdíl obou cen (představující konkrétní částku)]. Současně je ale nutno přihlédnout k dopadu sporného právního úkonu do majetkové sféry dlužníka z hlediska možnosti věřitelů, jimž k datu nabytí účinků sporného právního úkonu dlužníka svědčila pohledávka za dlužníkem, dosáhnout vůči dlužníku úhrady pohledávek (a schopnosti dlužníka tyto pohledávky zaplatit) a k důvodům, pro které dlužník sporný právní úkon učinil (např. snaha získat prostředky k úhradě již splatných pohledávek věřitelů), jakož i k dalším okolnostem, za nichž dlužník…"
+- *NS* [29 Cdo 307/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B19D7AB73128EBEFC1258393002C4905?openDocument) — kat. A, 29. 2. 2016
+  > „Pro účely posouzení, zda se dlužník zavázal poskytnout plnění bezúplatně nebo za protiplnění, jehož obvyklá cena je podstatně nižší než obvyklá cena plnění, k jehož poskytnutí se zavázal dlužník (§ 240 insolvenčního zákona), je významné především kvantitativní hledisko [ poměr mezi cenou obvyklou a cenou sjednanou (vyjádřitelný např. v procentech) a rozdíl obou cen (představující konkrétní částku)]. Současně je ale nutno přihlédnout k dopadu sporného právního úkonu do majetkové sféry dlužníka z hlediska možnosti věřitelů, jimž k datu nabytí účinků sporného právního úkonu dlužníka svědčila pohledávka za dlužníkem, dosáhnout vůči dlužníku úhrady pohledávek (a schopnosti dlužníka tyto pohledávky zaplatit) a k důvodům, pro které dlužník sporný právní úkon učinil (např. snaha získat prostředky k úhradě již splatných pohledávek věřitelů), jakož i k dalším okolnostem, za nichž dlužník dotčený právní úkon učinil"
 
 ### Výklad — **PRVNÍ TYP NEÚČINNOSTI**
 
@@ -402,7 +402,7 @@ Aby byl úkon napadnutelný, musí:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 ICdo 14/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C9B8EA924C62B843C1257D160034569E?openDocument) — 29. 4. 2014, kat. A
+- *NS* [29 ICdo 14/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C9B8EA924C62B843C1257D160034569E?openDocument) — kat. A, 29. 4. 2014
   > „Rozhodne-li insolvenční soud o úpadku dlužníka na základě vyvratitelné domněnky o neschopnosti dlužníka platit své peněžité závazky (§ 3 odst. 2 insolvenčního zákona, platí tato vyvratitelná domněnka i v dalších případech, kdy insolvenční zákon váže vznik případných práv a povinností na stav úpadku dlužníka. Tak je tomu např. jde-li o odpovědnost za škodu nebo jinou újmu vzniklou porušením povinnosti podat insolvenční návrh (§ 98 a § 99 insolvenčního zákona) nebo o neúčinnost právních úkonů bez přiměřeného protiplnění (§ 240 odst. 2 insolvenčního zákona), popř. o neúčinnost zvýhodňujících právních úkonů (§ 241 odst. 2 insolvenčního zákona)"
 
 ### Výklad — **DRUHÝ TYP NEÚČINNOSTI: ZVÝHODNĚNÍ VĚŘITELE**

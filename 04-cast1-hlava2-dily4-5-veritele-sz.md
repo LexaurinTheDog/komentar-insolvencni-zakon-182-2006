@@ -208,6 +208,11 @@ Hlasovací lístek je v praxi důležitý — zejména u rozsáhlých řízení 
 > (3) Nejde-li o případy uvedené v odstavci 1, rozhodne o hlasovacím právu věřitelů, jejichž pohledávka nebyla ještě zjištěna nebo je sporná, insolvenční soud podle seznamu přihlášených pohledávek anebo na návrh dlužníka nebo některého z věřitelů podle § 52 odst. 2.
 > (4) Není-li dále stanoveno jinak, nemají hlasovací právo věřitelé s pohledávkami za majetkovou podstatou (§ 168), věřitelé s pohledávkami postavenými na roveň pohledávkám za majetkovou podstatou (§ 169), věřitelé s pohledávkami vyloučenými ze způsobu řešení úpadku (§ 170), věřitelé s podřízenými pohledávkami (§ 172) a do doby splnění odkládací podmínky věřitelé, kteří přihlásili pohledávky vázané na odkládací podmínku.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [IV.ÚS 3112/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3112-13_1) — nález, 15. 4. 2014
+  > „Ústavní soud dále konstatuje důležitost postavení insolvenčního soudu jako procesního subjektu s řídící a dohledovou pravomocí v insolvenčním řízení. To, že Ústavní soud této pravomoci připisuje velkou důležitost i ve vztahu k rozhodování o hlasovacích právech věřitelů […] traktoval nezbytnost a důležitost náležitého odůvodnění rozhodnutí insolvenčního soudu týkajícího rozhodování o hlasovacích právech věřitelů. […] vzhledem k důsledkům takového rozhodnutí spočívajícím v zásadním a závažném omezení vlivu stěžovatelky a ostatních věřitelů na insolvenční řízení a v ovlivnění insolvenčního řízení hlasováním vedlejšího účastníka, a to zejména stran složení věřitelského výboru a určení osoby insolvenčního správce dlužníka. Takové počínání soudu v posuzované věci z hlediska řídící a dohledové činnosti nad insolvenčním řízení nemůže obstát"
+
 ### Výklad — Důležitý paragraf
 
 #### Odst. 1 — popřené pohledávky a hlasování *schůzí*
@@ -380,6 +385,11 @@ V praxi je zákaz hlasování spřízněných věřitelů jedním z nejdiskutova
 > (1) Po vyhlášení rozhodnutí, kterým zruší usnesení schůze věřitelů, insolvenční soud vyzve každého z přítomných věřitelů, kteří hlasovali pro přijetí usnesení schůze věřitelů, aby uvedl, zda se vzdává odvolání; současně je poučí, že odvolání, které nebude podáno do skončení schůze věřitelů, již nelze podat. Vyjádření věřitelů a jejich poučení se uvede v protokolu o jednání. Rozhodnutí insolvenční soud doručí pouze osobám, které proti němu podaly odvolání.
 > (2) Jestliže insolvenční soud návrh na zrušení rozhodnutí schůze věřitelů zamítl, uplatní postup podle odstavce 1 přiměřeně ve vztahu k osobě, která návrh podala.
 > (3) Osobou oprávněnou k podání odvolání proti rozhodnutí o zrušení usnesení schůze věřitelů je pouze věřitel, který hlasoval pro přijetí tohoto usnesení. K podání odvolání proti rozhodnutí o zamítnutí návrhu na zrušení usnesení schůze věřitelů je oprávněna pouze osoba, která návrh podala.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 2431/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-2431-09_1) — usnesení, 26. 9. 2012
+  > „[R]ozhodnutí podle § 54 IZ o zrušení schůze věřitelů může (nikoliv musí) vydat insolvenční soud jen tehdy, shledá-li (a to jen na návrh insolvenčního správce nebo věřitele, jenž hlasoval proti jejímu přijetí) usnesení schůze věřitelů v rozporu se společným zájmem věřitelů; proti takovému usnesení insolvenčního soudu se lze odvolat jen za podmínek uvedených v § 55 IZ. Pokud je usnesení schůze věřitelů v souladu se společným zájmem věřitelů, a proto je není třeba rušit, ponechá se v platnosti a žádné rozhodnutí podle § 54 IZ se nevydává; dal-li však insolvenční soud účastníkům schůze věřitelů na vědomí svůj názor (nadbytečně) formou usnesení, učinil tak usnesením, jímž se upravuje vedení řízení a proti němu není odvolání přípustné"
 
 ### Výklad
 
@@ -615,6 +625,11 @@ Tento extrémně koncentrovaný režim klade vysoké nároky na účast na schů
 > (1) Funkce člena nebo náhradníka věřitelského výboru zaniká jeho odvoláním z funkce, odstoupením z funkce nebo ukončením jeho účasti v insolvenčním řízení.
 > (2) Jestliže účast věřitele v insolvenčním řízení skončí postupem podle § 18, přechází na nabyvatele jeho pohledávky i členství tohoto věřitele ve věřitelském výboru; to neplatí, nabylo-li tímto způsobem pohledávku dosavadního věřitele více osob.
 > (3) Z důležitých důvodů, zejména při porušování nebo zanedbávání povinností, může insolvenční soud odvolat věřitelský výbor nebo některého z jeho členů a náhradníků. Může tak učinit i bez návrhu.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 885/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-885-12_1) — usnesení, 31. 7. 2012
+  > „Ve smyslu ustanovení § 63 odst. 3 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), […] z důležitých důvodů, zejména při porušování nebo zanedbávání povinností, může insolvenční soud odvolat věřitelský výbor nebo některého z jeho členů a náhradníků. Může tak učinit i bez návrhu; podá-li však tento návrh schůze věřitelů, insolvenční soud mu vyhoví, je-li návrh v souladu se zákonem. Je zde třeba poukázat na to, že podnět k odvolání členů věřitelského výboru se nevyčerpává rozhodnutím o jednom takovém návrhu ze strany insolvenčního soudu. […] otázka odvolání členů věřitelského výboru může být u insolvenčního soudu kdykoli vznesena oprávněnými k tomu subjekty"
 
 ### Výklad
 

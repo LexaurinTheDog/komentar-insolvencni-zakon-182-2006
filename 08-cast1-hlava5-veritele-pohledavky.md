@@ -241,8 +241,10 @@ V praxi je *kategorizace* zásadní pro:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 ICdo 23/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/71F16C34723FC96FC12586B10023F452?openDocument) — 27. 1. 2021, kat. A
-  > „Tím, že insolvenční správce dlužníka (původního schovatele) získal zpět prostředky, které dlužník neoprávněně vyplatil třetí osobě z advokátní úschovy, se obnovila (měla obnovit) správa cizího majetku (vymožených prostředků) schovatelem pro složitele. Jsou-li tyto prostředky po jejich navrácení v majetkové podstatě rozpoznatelné (což by při řádné správě majetkové podstaty mělo platit), má osoba oprávněná žádat o vydání předmětu úschovy k dispozici vylučovací nárok podle ustanovení § 225 a násl. insolvenčního zákona"
+- *ÚS* [Pl.ÚS 37/23](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-37-23_1) — nález, 20. 11. 2024
+  > „Základním účelem úpadkového práva upraveného insolvenčním zákonem je řešení majetkových vztahů dlužníka, který je v úpadku, a uspokojení pohledávek věřitelů dlužníka z majetkové podstaty dlužníka. … Je tak patrné, že cílem či účelem posuzovaného privilegovaného postavení státu v insolvenčním řízení je snížit negativní dopady pro stát v souvislosti se zajištěním daňové neutrality při plnění povinností státu vyplývajících z unijního práva a řádného výběru daně"
+- *NSS* [11 Ad 4/2021 - 66](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/702865) — 16. 6. 2022
+  > „Dle § 169 odst. 1 písm. a) zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), jsou pohledávkami postavenými na roveň pohledávkám za majetkovou podstatou pracovněprávní pohledávky dlužníkových zaměstnanců. Zásadní je tedy pouze to, zda jde o pohledávky z pracovněprávního vztahu, nikoliv o jaký typ pracovněprávní pohledávky jde"
 
 ### Výklad — **SOCIÁLNÍ A KVAZI-VEŘEJNOPRÁVNÍ POHLEDÁVKY**
 
@@ -313,7 +315,7 @@ V praxi je toto pravidlo *životně důležité pro zaměstnance* — i u dlužn
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 ICdo 72/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4D58B3F4F8CB55F8C1258C0F0052AEBD?openDocument) — 4. 12. 2024, kat. A
+- *NS* [29 ICdo 72/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4D58B3F4F8CB55F8C1258C0F0052AEBD?openDocument) — kat. A, 4. 12. 2024
   > „Příspěvek do garančního fondu dle § 4 odst. 1 zákona č. 168/1999 Sb. nemá charakter mimosmluvní sankce postihující majetek dlužníka (ve smyslu § 170 písm. d/ insolvenčního zákona)"
 
 ### Výklad — **NULOVÁ KATEGORIE**
@@ -386,9 +388,9 @@ Praktický důsledek: věřitel s pohledávkou 1 mil. Kč jistiny + 200 tis. úr
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 ICdo 65/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7EC6762D0F5C1D0AC1258A3B00160F79?openDocument) — 29. 6. 2023, kat. A
+- *NS* [29 ICdo 65/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7EC6762D0F5C1D0AC1258A3B00160F79?openDocument) — kat. A, 29. 6. 2023
   > „Limitem pro posouzení, zda a v jakém rozsahu je pohledávka z titulu úroků, úroků z prodlení a poplatku z prodlení z pohledávek přihlášených věřitelů a smluvní pokuty sjednané pro případ prodlení s plněním přihlášené pohledávky, není-li taková smluvní pokuta dluhem z podnikání, podřízenou pohledávkou (§ 172 odst. 2 věta druhá insolvenčního zákona), je výše jistiny přihlášené pohledávky v okamžiku jejího vzniku, a to bez ohledu na skutečnost, zda, kdy a v jaké výši následně dlužník plnil věřiteli na jistinu pohledávky"
-- *NS* [29 ICdo 74/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/39686E8DEA2D05ABC12588BA0017D4D2?openDocument) — 15. 6. 2022, kat. A
+- *NS* [29 ICdo 74/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/39686E8DEA2D05ABC12588BA0017D4D2?openDocument) — kat. A, 15. 6. 2022
   > „Výčet podřízených pohledávek obsažený v ustanovení § 172 odst. 2 větě druhé insolvenčního zákona je taxativní. Pohledávka z titulu směnky není podřízenou pohledávkou jen proto, že směnka byla vystavena k zajištění podřízené pohledávky"
 
 ### Výklad — **POSLEDNÍ V POŘADÍ**
@@ -660,6 +662,11 @@ Správce **sestavuje seznam přihlášených pohledávek** (popření výslovně
 
 *Pouze na elektronickém formuláři*.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 1549/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1549-11_1) — nález, 23. 4. 2015
+  > „Právě za tímto účelem stanoví zákon lhůty, do kdy má být sestaven seznam přihlášených pohledávek a kdy se má pak konat přezkumné jednání. … Jde o to, že insolvenční soud musí umožnit, aby měl přihlášený věřitel možnost seznámit se s ostatními přihlášenými pohledávkami a zároveň přiměřenou lhůtu k tomu, aby mohl učinit případný popěrný úkon"
+
 ---
 
 ## § 190 — § 191 — Přezkumné jednání
@@ -671,6 +678,11 @@ Správce **sestavuje seznam přihlášených pohledávek** (popření výslovně
 ---
 
 ## § 192 — § 196 — Popírání pohledávek
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 14/10](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-14-10_1) — nález, 1. 7. 2010
+  > „Pokud insolvenční správce nepopře sporné pohledávky, nedá ostatním věřitelům možnost, aby skutečná pravost, výše a zajištění pohledávek byly zjištěny před nezávislým a nestranným soudem, a není tak naplněn požadavek základního práva na soudní ochranu dle čl. 36 odst. 1 Listiny základních práv a svobod … Postavení insolvenčního správce, tak jak je upraveno insolvenčním zákonem, rozhodně nelze stavět naroveň nezávislého a nestranného soudního orgánu, jak jej předpokládá čl. 36 odst. 1 Listiny"
 
 ### § 192 — Kdo a co popírá
 
@@ -684,6 +696,11 @@ Správce **sestavuje seznam přihlášených pohledávek** (popření výslovně
 **Změnit lze**: do přezkumu / před zjištěním.
 
 **Speciálka pro dlužníkovo popření** (odst. 3): *nemá vliv na zjištění* pohledávky (kromě výjimek u oddlužení). *Ale*: pohledávka, kterou dlužník popřel, *není exekučním titulem* (po skončení řízení).
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 14/10](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-14-10_1) — nález, 1. 7. 2010
+  > „Pokud insolvenční správce nepopře sporné pohledávky, nedá ostatním věřitelům možnost, aby skutečná pravost, výše a zajištění pohledávek byly zjištěny před nezávislým a nestranným soudem, a není tak naplněn požadavek základního práva na soudní ochranu dle čl. 36 odst. 1 Listiny základních práv a svobod … Postavení insolvenčního správce, tak jak je upraveno insolvenčním zákonem, rozhodně nelze stavět naroveň nezávislého a nestranného soudního orgánu, jak jej předpokládá čl. 36 odst. 1 Listiny"
 
 ### § 193 — Popření pravosti
 

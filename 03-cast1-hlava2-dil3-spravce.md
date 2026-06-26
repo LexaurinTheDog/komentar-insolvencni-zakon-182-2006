@@ -39,6 +39,41 @@ Paragraf 21 obsahuje **principiální omezení**: insolvenčním správcem můž
 
 Při výběru správce v praxi vychází věřitel (resp. dlužník nebo soud při prepacku) typicky z **veřejně dostupných statistik** — počet vedených řízení, region působnosti, případné disciplinární kauzy v rejstříku ministerstva. Veřejně přístupný seznam (https://isir.justice.cz/InsSpravci/public/seznamFiltr.do) umožňuje filtrovat dle kraje, povolení (zvláštní/obecné), formy (FO/PO).
 
+### F. Kazuistika
+
+**1. Modelová situace.** Věřitel-banka podá insolvenční návrh na dlužníka (s.r.o.). Při přípravě věřitel zjistí, že osoba, kterou by si přál jako správce, není v ČR formálně zapsána v seznamu, jde však o slovenského „správcu konkurznej podstaty" působícího na Slovensku. Věřitel uvažuje, zda lze tuto osobu navrhnout/ustanovit v ČR. Důkazy: výpis ze slovenského seznamu správců, oznámení této osoby ministerstvu o dočasném výkonu v ČR (§ 6 zákona o IS), případně absence takového oznámení.
+
+**2. Právní otázka.** Může být insolvenčním správcem v českém řízení osoba, která není zapsána v seznamu vedeném Ministerstvem spravedlnosti podle § 21 odst. 1, a za jakých podmínek se uplatní kategorie hostujícího správce podle § 21 odst. 3?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 21 odst. 1 — správce se ustanovuje výlučně ze seznamu vedeného ministerstvem; odst. 3 — hostující správce má pro účely IZ stejné postavení.
+- *Související ustanovení téhož zákona:* § 22 odst. 2 (jediná výjimka — ustanovení mimo seznam), § 25 odst. 6 (určení hostujícího správce v souladu se zásadou dočasnosti/příležitostnosti).
+- *Související předpisy:* zákon č. 312/2006 Sb. o IS (§ 6 hostující správce, § 9 a násl. zápis); vyhláška č. 312/2007 Sb.; směrnice 2005/36/ES o volném pohybu služeb.
+- *Judikatura:* k povaze seznamu jako veřejného a konstitutivní funkci zápisu provozovny srov. NSS 14 A 122/2018 (citováno u § 25) — třetí osoby jednají v důvěře ve veřejný seznam.
+
+**4. Subsumpce.** Slovenský správce není zapsán v českém seznamu → znak „ze seznamu insolvenčních správců" není naplněn pro tuzemský zápis. Pokud však učinil řádné oznámení podle § 6 zákona o IS a je veden v příslušné části seznamu jako hostující správce, je podle § 21 odst. 3 pro účely IZ postaven naroveň tuzemskému správci. Sporné/neprokázané: zda oznámení skutečně podal a zda byl zapsán k datu určení.
+
+**5. Řešení.** Bez zápisu (byť v režimu hostujícího správce) ho ustanovit nelze; výjimkou je pouze § 22 odst. 2, jehož podmínky zde nejsou splněny (osoba ze seznamu vybrat lze). Správný postup: ověřit zápis hostujícího správce v seznamu na isir.justice.cz; je-li zapsán, lze ho určit postupem § 25 odst. 6. Není-li zapsán, soud ustanoví správce z české části seznamu rotačně (§ 25 odst. 2).
+
+**6. Varianty.** (a) Osoba je řádně oznámena a vedena jako hostující správce → ustanovení přípustné. (b) V daném (malém) obvodu odmítli všichni zapsaní správci pro podjatost → otevírá se cesta § 22 odst. 2 (ustanovení fyzické osoby mimo seznam splňující kvalifikační předpoklady).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Volnost služeb v EU znamená, že zahraniční správce nepotřebuje zápis." — Neutralizace: směrnice 2005/36/ES je transponována právě institutem hostujícího správce s oznamovací povinností (§ 6 zákona o IS); bez oznámení/zápisu nevzniká právo vykonávat funkci v ČR.
+- *Protiargument:* „§ 22 odst. 2 umožňuje obejít seznam." — Neutralizace: jde o subsidiární mechanismus podmíněný tím, že nelze nikoho ze seznamu vybrat; je raritní a v praxi nahrazený určením mimo pořadí (§ 25 odst. 5).
+- *Slabé místo:* aktuálnost a úplnost veřejného seznamu — k rozhodnému dni je nutné ověřit i pozastavení práva (§ 31 odst. 3) a územní působnost provozovny.
+
+### H. Praktický závěr
+
+Insolvenčním správcem může být jen osoba zapsaná v seznamu ministerstva (včetně hostujícího správce dle odst. 3); mimo seznam jen výjimečně podle § 22 odst. 2.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit zápis navrhované osoby v seznamu (obecná/zvláštní část) k rozhodnému dni.
+- [ ] U zahraniční osoby ověřit oznámení o dočasném/příležitostném výkonu (§ 6 zákona o IS) a zápis hostujícího správce.
+- [ ] Zkontrolovat územní působnost a požadované povolení (zvláštní povolení u § 3 odst. 2 zákona o IS).
+
+**Typicky rozhodné důkazy / podklady:** výpis ze seznamu insolvenčních správců, doklad o povolení (obecné/zvláštní), oznámení hostujícího správce ministerstvu.
+
 ---
 
 ## § 22 — Odmítnutí ustanovení; ustanovení mimo seznam
@@ -64,6 +99,41 @@ Bezdůvodné odmítnutí může vést k disciplinárnímu řízení (§ 36 záko
 - **§ 25** — pořadí ustanovování.
 - **§ 36 zákona o IS** — kárné provinění.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Soud určí podle pořadí (§ 25 odst. 2) správkyni X. Ta sdělí, že ustanovení odmítá, neboť dlužníkem je obchodní partner, jehož v jiné věci dříve zastupovala, a navíc má aktuálně 40 běžících oddlužení a personálně nestíhá. Soud zvažuje, zda jde o „důležité důvody". V témže (řídce obsazeném) regionu zbývající dva zapsaní správci rovněž odmítli pro podjatost. Důkazy: doložení dřívějšího vztahu k dlužníkovi, přehled rozpracované agendy, oznámení obou dalších správců.
+
+**2. Právní otázka.** Jsou tvrzené důvody (předchozí vztah k dlužníkovi + přetížení) „důležitými důvody" odmítnutí podle § 22 odst. 1, a pokud všichni zapsaní správci odmítnou, otevírá se postup ustanovení mimo seznam podle § 22 odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 22 odst. 1 (odmítnutí jen z důležitých důvodů), odst. 2 (subsidiární ustanovení fyzické osoby mimo seznam).
+- *Související ustanovení téhož zákona:* § 24 (vyloučení pro podjatost — důvod, jenž odmítnutí ospravedlňuje), § 25 odst. 5 (určení mimo pořadí jako primární alternativa před § 22 odst. 2).
+- *Související předpisy:* § 36 zákona o IS (kárné provinění při bezdůvodném odmítnutí); kvalifikační předpoklady zápisu (§ 6 a násl. zákona o IS) pro osobu mimo seznam.
+- *Judikatura:* k objektivní pochybnosti o nepodjatosti jako důvodu srov. NS 29 NSČR 30/2010 (citováno u § 24).
+
+**4. Subsumpce.** Předchozí zastupování dlužníka zakládá důvod pochybovat o nepodjatosti (§ 24) → „důležitý důvod" je naplněn nezávisle na přetížení. Přetížení samo o sobě je důvodem hraničním (nutno doložit reálnou nemožnost řádného vedení). Odmítnou-li všichni zapsaní → znak „nelze vybrat ze seznamu" (§ 22 odst. 2) je naplněn, avšak teprve po vyčerpání § 25 odst. 5.
+
+**5. Řešení.** Soud odmítnutí X akceptuje (podjatost je důležitý důvod). Před aplikací § 22 odst. 2 musí předseda soudu zvážit určení mimo pořadí (§ 25 odst. 5) — např. správce ze sousedního obvodu. Teprve není-li to možné, ustanoví fyzickou osobu mimo seznam splňující kvalifikační a obecné předpoklady, s jejím souhlasem. Riziko: ustanovení nekvalifikované osoby je vadou s dopadem do § 26.
+
+**6. Varianty.** (a) X odmítne jen pro přetížení bez doložení → bezdůvodné odmítnutí, hrozí kárné řízení (§ 36 zákona o IS). (b) V obvodu zůstane jediný způsobilý zapsaný správce → § 22 odst. 2 se neuplatní, ustanoví se tento správce.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Správce má právo odmítnout, je to jeho podnikání." — Neutralizace: zápis do seznamu zakládá veřejnoprávní povinnost přijímat ustanovení; odmítnutí je výjimkou vázanou na důležité důvody, jinak hrozí kárný postih.
+- *Protiargument:* „Při odmítnutí všech lze rovnou jít mimo seznam (odst. 2)." — Neutralizace: odst. 2 je až ultima ratio; přednost má určení mimo pořadí (§ 25 odst. 5), které territoriální nedostatek řeší bez prolomení seznamu.
+- *Slabé místo:* dokazování „přetížení" je obtížné a subjektivní; soud má široký prostor k posouzení, výsledek je málo předvídatelný.
+
+### H. Praktický závěr
+
+Odmítnutí ustanovení je přípustné jen z důležitých důvodů (typicky podjatost, prokázané přetížení, nemoc); ustanovení mimo seznam je krajní řešení po vyčerpání rotace a určení mimo pořadí.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Doložit konkrétní důležitý důvod odmítnutí (vztah k věci/osobám, kapacitní výpadek, zdravotní překážka).
+- [ ] Před aplikací § 22 odst. 2 vyčerpat § 25 odst. 5 (určení mimo pořadí).
+- [ ] U osoby mimo seznam ověřit obecné i kvalifikační předpoklady a její souhlas.
+
+**Typicky rozhodné důkazy / podklady:** sdělení správce o důvodech odmítnutí, přehled rozpracované agendy, doklad o dřívějším vztahu k dlužníkovi, doklady kvalifikace u osoby mimo seznam.
+
 ---
 
 ## § 23 — Pojištění odpovědnosti správce
@@ -86,6 +156,41 @@ Bezdůvodné odmítnutí může vést k disciplinárnímu řízení (§ 36 záko
 ### Praktická poznámka
 
 V praxi je pojištění uzavírané typicky u specializovaných pojistitelů (UNIQA, Generali, Slavia). Spoluúčast je obvykle 50—100 tis. Kč. Při velkých kauzách (reorganizace velkých podniků) je obvyklé dodatečné navýšení limitu.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Insolvenční správce při zpeněžování chybně vyplatí výtěžek mimo pořadí, čímž vznikne zajištěnému věřiteli škoda 3 mil. Kč. Správce je v obecné části seznamu, sjednal pojištění s limitem 1 000 000 Kč na pojistnou událost a spoluúčastí 100 000 Kč. Věřitel uplatní nárok z odpovědnosti správce (§ 37). Důkazy: pojistná smlouva a pojistné podmínky, doklad o platbě pojistného, výše a příčina škody.
+
+**2. Právní otázka.** Jaký je dopad zákonem stanoveného minimálního limitu pojištění podle § 23 ve spojení s § 14 zákona o IS, pokčí škoda limit přesahuje — a hradí pojištění celou škodu, nebo jen do limitu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 23 — povinnost správce uzavřít na vlastní náklad pojištění odpovědnosti za škodu z výkonu funkce i jednání zaměstnanců, na celou dobu funkce.
+- *Související ustanovení téhož zákona:* § 37 (odpovědnost správce — pojištění je zdrojem uspokojení), § 40 odst. 2 (osoby, jejichž jednáním správce odpovídá a jež musí pojištění krýt).
+- *Související předpisy:* § 14 odst. 1 zákona o IS (minimální limity — 1 mil. Kč obecná část, vyšší u zvláštního povolení); § 2861 a násl. OZ (pojištění odpovědnosti).
+- *Judikatura:* k regresu pojistitele při úmyslném porušení povinností správce srov. NS 25 Cdo 4096/2014 (citováno u § 37).
+
+**4. Subsumpce.** Povinnost pojištění (§ 23) je splněna co do existence smlouvy a limitu. Škoda 3 mil. Kč přesahuje sjednaný (i minimální) limit 1 mil. Kč → pojistné plnění kryje jen do limitu po odečtení spoluúčasti; zbytek nese správce z vlastního majetku. Sporné: zda měl správce u rizikovějšího řízení limit dobrovolně navýšit.
+
+**5. Řešení.** Věřitel dostane z pojištění cca 900 000 Kč (limit minus spoluúčast), zbývajících cca 2,1 mil. Kč musí vymáhat přímo na správci (jeho osobní odpovědnost dle § 37 limitem pojištění omezena není; viz též § 40a, který exekuci za škodu nevylučuje). Praktický krok: ověřit solventnost správce, případně vést výkon rozhodnutí na jeho majetek.
+
+**6. Varianty.** (a) Šlo by o správce se zvláštním povolením (§ 3 odst. 2 zákona o IS) s limitem od 10 mil. Kč → škoda by byla plně kryta. (b) Správce by pojištění vůbec neměl (lapsus v platbě pojistného) → porušení § 23 je důvodem zproštění (§ 32) i kárného postihu a může vést k zániku práva vykonávat činnost.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Pojištění do limitu vyčerpává odpovědnost správce." — Neutralizace: limit pojištění je hranicí plnění pojistitele, nikoli hranicí odpovědnosti správce; nad limit odpovídá správce osobně (§ 37).
+- *Protiargument:* „Minimální limit je dostačující pro každé řízení." — Neutralizace: u velkých podstat je 1 mil. Kč zjevně nedostatečný; odborná péče (§ 36 odst. 1) zahrnuje i přiměřené navýšení pojistného krytí.
+- *Slabé místo:* pojistné podmínky obvykle obsahují výluky (úmysl, hrubá nedbalost) a spoluúčast — skutečné krytí může být nižší, než se jeví z limitu.
+
+### H. Praktický závěr
+
+Pojištění odpovědnosti je obligatorní po celou dobu funkce; jeho limit chrání poškozené jen do sjednané výše, nad ni odpovídá správce osobně. U rizikovějších řízení je namístě limit navýšit.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit existenci a kontinuitu pojistné smlouvy po celou dobu funkce.
+- [ ] Zkontrolovat výši limitu vůči objemu podstaty a typu povolení (obecné/zvláštní).
+- [ ] Prověřit výluky a spoluúčast; u velkých kauz doporučit dodatečné navýšení.
+
+**Typicky rozhodné důkazy / podklady:** pojistná smlouva a pojistné podmínky, doklad o úhradě pojistného, vyčíslení škody a její příčina, doklad o limitu dle § 14 zákona o IS.
 
 ---
 
@@ -127,6 +232,42 @@ Pro pouze **dílčí** podjatost (např. vůči jednomu věřiteli) platí výji
 
 - **NS 29 NSČR 30/2010**: pro vyloučení postačí **objektivně způsobilá pochybnost** o nepodjatosti; nemusí se prokazovat skutečná podjatost.
 - **NS 29 NSČR 95/2014**: dříve poskytnuté právní poradenství dlužníkovi (advokátská činnost) je obvykle důvodem vyloučení; výjimky musí být úzce vyloženy.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Insolvenčním správcem dlužníka (výrobní a.s.) je ustanovena v.o.s. Krátce po přezkumném jednání vyjde najevo, že ohlášený společník, jehož jménem v.o.s. funkci vykonává, je švagrem jednatele největšího nezajištěného věřitele, který drží 55 % přihlášených pohledávek a současně vede proti dlužníkovi spor o vyloučení nemovitosti z podstaty. Důkazy: matriční doklady o příbuzenství, přihláška a její výše, údaje o souvisejícím sporu, oznámení v.o.s. o ohlášeném společníku.
+
+**2. Právní otázka.** Je dán důvod vyloučení správce podle § 24 odst. 1 (pochybnost o nepodjatosti) ve vztahu k ohlášenému společníku v.o.s. (§ 24 odst. 2), nebo postačí ustanovit pouze odděleného správce podle § 34?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 24 odst. 1 (vyloučení při důvodu pochybovat o nepodjatosti; oznamovací povinnost správce), odst. 2 (posuzování podjatosti k ohlášenému společníku v.o.s.).
+- *Související ustanovení téhož zákona:* § 34 (oddělený správce při pouze dílčí podjatosti — hranice), § 26 (odvolání proti ustanovení z důvodu podjatosti), § 32 (zproštění při zatajení důvodů).
+- *Související předpisy:* § 14, § 15a OSŘ (analogická pravidla pro soudce); zákon č. 284/2023 Sb. o preventivní restrukturalizaci (souběh funkcí).
+- *Judikatura:* NS 29 NSČR 107/2013 (citováno výše) — souhrn skutečností (velikost pohledávky + vedení dalších sporů) vylučuje řešení pouhým odděleným správcem; NS 29 NSČR 30/2010 (postačí objektivní pochybnost), NS 29 NSČR 95/2014 (dřívější poradenství dlužníkovi).
+
+**4. Subsumpce.** Příbuzenský vztah k osobě ovládající dominantního věřitele + skutečnost, že tento věřitel má rozhodující vliv na řízení a současně vede související spor o podstatu → naplňují právě ty znaky, které dle NS 29 NSČR 107/2013 brání řešení formou odděleného správce. Jde tedy o vyloučení z celého řízení, nikoli o dílčí podjatost. Sporné: zda by samostatně (jen příbuzenství bez dominance věřitele) postačilo k vyloučení.
+
+**5. Řešení.** Ohlášený společník (a tím i v.o.s. v jeho zastoupení) je vyloučen podle § 24 odst. 1; § 34 se neuplatní pro intenzitu vlivu věřitele. Správce má povinnost vyloučení neprodleně oznámit soudu; soud rozhodne o odvolání a ustanovení nového (§ 31 odst. 5 přiměřeně). Alternativa: v.o.s. označí jiného ohlášeného společníka bez vztahu k věřiteli (§ 24 odst. 2), čímž lze vyloučení odvrátit.
+
+**6. Varianty.** (a) Věřitel by držel jen 3 % pohledávek a nevedl žádný spor → dílčí podjatost, postačí oddělený správce (§ 34 odst. 1). (b) Ohlášený společník by v posledních 3 letech působil jako restrukturalizační správce dlužníka → vyloučení ze zákona bez prostoru pro úvahu (§ 24 odst. 1 věta druhá).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Postačí oddělený správce jen pro úkony vůči tomuto věřiteli." — Neutralizace: dle NS 29 NSČR 107/2013 rozsah pohledávky a souběžné spory ovlivňují celkový výkon funkce, což oddělený správce neřeší; nutné je úplné vyloučení.
+- *Protiargument:* „Podjatost je u v.o.s. nutno posuzovat k celé společnosti, ne k jednomu společníkovi." — Neutralizace: § 24 odst. 2 výslovně posouvá test podjatosti na ohlášeného společníka; výměnou společníka lze vadu zhojit.
+- *Slabé místo:* hranice mezi § 24 a § 34 je skutkově citlivá; chybné zařazení (oddělený správce tam, kde měl být vyloučen celý) zakládá vadu řízení a riziko pozdějších námitek a odpovědnosti za škodu.
+
+### H. Praktický závěr
+
+Vyloučení správce nastává při objektivní pochybnosti o nepodjatosti i při souběhu s předchozí funkcí restrukturalizačního správce; u v.o.s. se podjatost váže k ohlášenému společníku a lze ji řešit jeho výměnou. Dílčí podjatost se řeší odděleným správcem (§ 34), silný vliv věřitele však oddělený správce vylučuje.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Prověřit vztahy správce/ohlášeného společníka k dlužníkovi, statutárům, akcionářům a klíčovým věřitelům.
+- [ ] Posoudit váhu věřitele (objem pohledávky, vliv, souběžné spory) — rozlišit § 24 vs. § 34.
+- [ ] Ověřit absenci výkonu funkce restrukturalizačního správce za poslední 3 roky (§ 24 odst. 1 věta druhá).
+- [ ] Zkontrolovat splnění oznamovací povinnosti správce; zatajení řešit i podle § 32.
+
+**Typicky rozhodné důkazy / podklady:** oznámení v.o.s. o ohlášeném společníku, matriční/obchodní doklady o vztazích, přihlášky a jejich výše, údaje o souběžných sporech, výpis ze seznamu o případné dřívější funkci restrukturalizačního správce.
 
 ---
 
@@ -191,6 +332,42 @@ V praxi je rotační systém klíčový pro **předvídatelnost**. Strany insolv
 - **prepack reorganizace** — výběr přes § 25 odst. 1 (vyžaduje souhlas předem),
 - **podání u soudu s vhodnou rotací** — pokud dlužník má sídlo na hranici více krajských obvodů, lze fakticky vybírat (před aktivací režimu pro forum shopping podle § 7b odst. 1 věty druhé).
 
+### F. Kazuistika
+
+**1. Modelová situace.** Předseda insolvenčního soudu při rozhodnutí o úpadku (konkurs) určí mimo stanovené pořadí (§ 25 odst. 5) zkušeného správce specializovaného na energetiku, neboť dlužník provozuje teplárnu a dosavadní předběžný správce už má informační náskok. Rozhodnutí odůvodní jen jednou větou „s ohledem na složitost věci". Nejbližší správce v rotaci se cítí poškozen a uvažuje o obraně. Důkazy: rozhodnutí o určení, seznam pořadí provozoven v obvodu, povaha podnikání dlužníka.
+
+**2. Právní otázka.** Za jakých podmínek smí předseda soudu určit správce mimo pořadí podle § 25 odst. 5 a jaké jsou požadavky na odůvodnění takového postupu, aby obstál z hlediska ústavní konformity rotačního systému?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 25 odst. 2 (rotace dle data zápisu provozovny/sídla), odst. 3 (zvláštní část seznamu), odst. 5 (určení mimo pořadí — vždy s odůvodněním), odst. 1 (prepack), odst. 4 (koncern a manželé).
+- *Související ustanovení téhož zákona:* § 26 (omezené odvolání proti ustanovení), § 29 (následná korekce věřiteli), § 148 odst. 2 (reorganizační plán s určenou osobou).
+- *Související předpisy:* zákon o IS § 3 odst. 2 (kvalifikovaní dlužníci); § 7b IZ (místní příslušnost — riziko forum shopping).
+- *Judikatura:* ÚS Pl. ÚS 6/13 (ústavní konformita rotačního systému; mimořádné určení musí být řádně odůvodněno); NSS 14 A 122/2018 (citováno výše — účel provozoven a důvěra v seznam).
+
+**4. Subsumpce.** Odst. 5 dovoluje určení mimo pořadí mj. z důvodu odborné způsobilosti, povahy dlužníka a kontinuity dosavadní činnosti (předběžný správce) — tyto důvody jsou v dané věci dány. Znak „takový postup vždy odůvodní" však jednovětým odůvodněním naplněn není; odůvodnění musí být konkrétní a přezkoumatelné. Sporné: dostatečnost odůvodnění, nikoli existence důvodu.
+
+**5. Řešení.** Výběr osoby je věcně udržitelný (specializace + náskok předběžného správce), avšak rozhodnutí je vadné pro nedostatek odůvodnění. Náprava: doplnění/zrušení a nové odůvodněné určení. Námitka nejbližšího správce v rotaci proti samotnému výběru je však v režimu § 26 nepřípustná (lze namítat jen nesplnění podmínek nebo podjatost), takže primární obranou je apel na řádné odůvodnění, nikoli zpochybnění volby.
+
+**6. Varianty.** (a) Dlužník je banka/pojišťovna nebo má pasiva > 100 mil. Kč → ustanovuje se ze zvláštní části (§ 25 odst. 3), nikoli z obecné rotace. (b) Dlužník současně předloží reorganizační plán s určenou osobou správce (§ 148 odst. 2) → soud ustanoví tuto osobu (§ 25 odst. 1), splňuje-li podmínky.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Určení mimo pořadí porušuje právo na zákonného správce a je protiústavní." — Neutralizace: ÚS Pl. ÚS 6/13 potvrdil ústavnost systému i institutu výjimky; podmínkou je řádné odůvodnění, nikoli zákaz výjimky.
+- *Protiargument:* „Strany si fakticky vybírají správce volbou soudu na hranici obvodů." — Neutralizace: korekcí je § 7b (místní příslušnost) a věřitelská korekce (§ 29); rotace navíc znemožňuje cílený výběr konkrétní osoby.
+- *Slabé místo:* nedostatečné odůvodnění mimořádného určení je nejčastější vadou; absence přezkoumatelných důvodů otevírá pochybnost o klientelismu, byť výběr byl věcně správný.
+
+### H. Praktický závěr
+
+Rotační systém je obranou proti subjektivnímu výběru; prepack (odst. 1), zvláštní část (odst. 3) a určení mimo pořadí (odst. 5) jsou výjimky, přičemž mimořádné určení musí být vždy konkrétně odůvodněno.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Identifikovat správnou variantu (prepack / obecná rotace / oddlužovací část / zvláštní část / koncern–manželé).
+- [ ] U postupu dle odst. 5 vyžadovat konkrétní, přezkoumatelné odůvodnění (stav řízení, poměry dlužníka, způsobilost, zatížení).
+- [ ] Ověřit, zda dlužník není osobou dle § 3 odst. 2 zákona o IS (pak zvláštní část).
+- [ ] U koncernu/manželů zvážit ustanovení téhož správce (odst. 4).
+
+**Typicky rozhodné důkazy / podklady:** výpis pořadí provozoven/sídel v obvodu, rozhodnutí o určení správce a jeho odůvodnění, doklady o povaze a velikosti dlužníka, případný reorganizační plán s určenou osobou.
+
 ---
 
 ## § 26 — Odvolání proti rozhodnutí o ustanovení správce
@@ -211,6 +388,41 @@ Námitky vůči samotnému *výběru* (např. „proč soud nevybral X, ale Y") 
 
 - **§ 24, § 25** — podmínky a postup ustanovení.
 - **§ 29, § 31, § 32** — pozdější odvolání / zproštění.
+
+### F. Kazuistika
+
+**1. Modelová situace.** V rozhodnutí o úpadku soud ustanoví správce. Dlužník podá odvolání, v němž namítá, že soud měl podle rotace ustanovit jinou osobu a že výběr byl „netransparentní"; teprve v odvolání (po vydání prvostupňového rozhodnutí) navíc tvrdí, že správce mezitím začal jednat ve prospěch jednoho z věřitelů, a dovozuje z toho podjatost. Důkazy: rozhodnutí o ustanovení, obsah odvolání, tvrzené následné úkony správce.
+
+**2. Právní otázka.** Lze v odvolání proti ustanovení správce úspěšně namítat samotný výběr osoby a lze přihlížet k podjatosti opírané o skutečnosti, které nastaly až po vydání rozhodnutí soudu prvního stupně?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 26 — odvolání přípustné, ale jen pro nesplnění podmínek ustanovení nebo podjatost; ke skutečnostem nastalým po prvostupňovém rozhodnutí se nepřihlíží.
+- *Související ustanovení téhož zákona:* § 24 (podjatost — vymezení důvodů), § 25 (postup ustanovení — výběr není odvolacím důvodem), § 31 a § 32 (cesta pro skutečnosti vzniklé později).
+- *Související předpisy:* § 212a OSŘ (rozsah přezkumu) ve spojení s § 7 IZ (přiměřené použití).
+- *Judikatura:* k podjatosti jako důvodu srov. NS 29 NSČR 30/2010 a 29 NSČR 95/2014 (citováno u § 24); k ústavní konformitě výběru ÚS Pl. ÚS 6/13.
+
+**4. Subsumpce.** Námitka „nesprávného výběru" nespadá pod žádný z taxativních důvodů § 26 → nepřípustná. Tvrzená podjatost se opírá o úkony nastalé až po vydání rozhodnutí → uplatní se koncentrace dle § 26 věty třetí a k těmto skutečnostem se v odvolacím řízení nepřihlíží. Sporné: zda některé tvrzení nesměřuje fakticky k podmínkám existujícím již v době rozhodnutí.
+
+**5. Řešení.** Odvolací soud námitku výběru zamítne jako nepřípustnou a k později vzniklým skutečnostem o podjatosti nepřihlédne. Dlužník není bez ochrany — později zjištěný střet zájmů musí uplatnit návrhem na odvolání správce (§ 31) nebo na zproštění (§ 32), kde se posuzují i nové skutečnosti. Procesní krok: podat samostatný návrh dle § 31/§ 32 namísto setrvání na odvolání.
+
+**6. Varianty.** (a) Podjatost by existovala již k datu prvostupňového rozhodnutí (např. příbuzenství doložené později) → přípustná námitka v odvolání, koncentrace nebrání. (b) Správce by nesplňoval kvalifikační podmínku (chybějící zvláštní povolení u § 3 odst. 2 dlužníka) → přípustný odvolací důvod dle § 26.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Právo na odvolání musí umožnit přezkum vhodnosti výběru." — Neutralizace: zákon vědomě omezuje rozsah námitek; vhodnost výběru je doménou rotace (§ 25) a věřitelské korekce (§ 29), nikoli odvolání.
+- *Protiargument:* „Koncentrace popírá ochranu proti dodatečně zjištěné podjatosti." — Neutralizace: ochrana se přesouvá do § 31/§ 32, které s novými skutečnostmi počítají; právo účastníka tedy nezaniká, mění se jen procesní nástroj.
+- *Slabé místo:* hranice mezi skutečností „existující, ale později zjištěnou" a „nově vzniklou" je výkladově sporná; nesprávné zařazení vede k zamítnutí pro koncentraci.
+
+### H. Praktický závěr
+
+Odvolání proti ustanovení správce je úzce omezeno na nesplnění podmínek a podjatost; výběr osoby napadnout nelze a k později vzniklým skutečnostem se nepřihlíží — ty patří do návrhu dle § 31 nebo § 32.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Posoudit, zda námitka spadá pod § 26 (podmínky/podjatost), nebo míří na nepřípustný výběr.
+- [ ] Určit rozhodný okamžik skutečností (před/po prvostupňovém rozhodnutí) kvůli koncentraci.
+- [ ] Pro později vzniklé důvody zvolit návrh dle § 31 (odvolání) nebo § 32 (zproštění).
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o ustanovení správce, obsah odvolání, doklady o době vzniku tvrzené podjatosti, případné podklady o kvalifikaci/povolení správce.
 
 ---
 
@@ -248,6 +460,41 @@ Typický scénář — věřitel podá insolvenční návrh, dlužník popírá 
 
 Ustanovení **předběžného správce** je dnes v ČR poměrně časté zejména u větších dlužníků, kde věřitelé mají reálnou obavu z rychlého převodu majetku. Pro dlužníka je to *brzkové* opatření — okamžitě ztrácí část operační volnosti.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Věřitel podá insolvenční návrh na dlužníka (s.r.o.) a současně tvrdí, že dlužník vyvádí majetek (prodává stroje spřízněné osobě). Soud nařídí předběžné opatření a ustanoví předběžného správce, jemuž v rozhodnutí vymezí oprávnění dohlížet na nakládání s majetkem a povinnost dlužníka konzultovat transakce nad 100 000 Kč. Po měsíci soud rozhodne o úpadku, aniž by v něm o osobě správce výslovně rozhodl jinak. Důkazy: insolvenční návrh, rozhodnutí o předběžném opatření a ustanovení předběžného správce, rozhodnutí o úpadku.
+
+**2. Právní otázka.** Jaký je rozsah pravomocí předběžného správce před rozhodnutím o úpadku a stává se tato osoba automaticky insolvenčním správcem s plnou působností, jestliže soud v rozhodnutí o úpadku osobu správce nezmění?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 27 odst. 1 (ustanovení nejpozději v rozhodnutí o úpadku; možnost dřívějšího předběžného správce), odst. 2 (rozsah pravomocí nepřesahující řádného správce; automatický přechod do plné funkce), odst. 3 (přiměřené použití úpravy o správci).
+- *Související ustanovení téhož zákona:* § 82 a § 113 (předběžná opatření a předběžný správce), § 136 (obsah rozhodnutí o úpadku), § 246 (přechod dispozičních oprávnění po prohlášení konkursu).
+- *Související předpisy:* § 74 a násl. OSŘ (předběžná opatření — přiměřeně přes § 7 IZ).
+- *Judikatura:* k povaze úkonů správce a označení srov. NS 29 NSČR 47/2013 (citováno u § 40).
+
+**4. Subsumpce.** Vymezení dozoru a konzultační povinnosti nepřesahuje pravomoci řádného správce → respektuje princip subsidiarity dle § 27 odst. 2. Jelikož soud v rozhodnutí o úpadku osobu správce nezměnil, je naplněn znak „nestanoví-li soud jinak" → předběžný správce se stává správcem s plnou působností. Sporné/neúplné: zda některé z vymezených oprávnění (např. blokace dispozic) nepřekročilo rámec řádného správce.
+
+**5. Řešení.** Předběžný správce přechází automaticky do plné funkce; odpadá zacvičovací doba a využije se jeho informační náskok (využitelný i pro pozdější určení mimo pořadí dle § 25 odst. 5). Procesní kroky: po rozhodnutí o úpadku správce neprodleně přebírá dispoziční oprávnění (po prohlášení konkursu dle § 246), zřizuje účet (§ 36 odst. 5), zahajuje součinnostní dožádání (§ 43–44).
+
+**6. Varianty.** (a) Soud v rozhodnutí o úpadku ustanoví jiného správce (např. z důvodu specializace) → automatický přechod se neuplatní, předběžný správce končí a podá vyúčtování (§ 38 odst. 5 přiměřeně). (b) Soud by předběžnému správci vymezil pravomoci širší než řádnému správci → překročení § 27 odst. 2, takové vymezení je v rozsahu excesu neúčinné.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Předběžný správce je provizorní, proto nemůže automaticky pokračovat." — Neutralizace: § 27 odst. 2 in fine výslovně stanoví automatický přechod do plné funkce, nerozhodne-li soud jinak; kontinuita je záměrem zákona.
+- *Protiargument:* „Předběžný správce může činit cokoli, co soud uzná." — Neutralizace: jeho pravomoci nesmí být širší než u řádného správce; exces je nepřípustný a může založit odpovědnost.
+- *Slabé místo:* zásah do dispozic dlužníka před rozhodnutím o úpadku je citlivý (dlužník úpadek popírá) — při neúspěchu návrhu hrozí odpovědnost navrhovatele i správce za škodu z předběžného opatření.
+
+### H. Praktický závěr
+
+Správce se ustanovuje nejpozději v rozhodnutí o úpadku; předběžný správce může nastoupit dříve s pravomocemi nepřesahujícími řádného správce a — nerozhodne-li soud jinak — přechází automaticky do plné funkce.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vymezit pravomoci předběžného správce tak, aby nepřesáhly rozsah řádného správce.
+- [ ] V rozhodnutí o úpadku výslovně řešit, zda osoba správce zůstává, či se mění.
+- [ ] Po rozhodnutí o úpadku zajistit převzetí dispozic, účet a součinnostní dožádání.
+
+**Typicky rozhodné důkazy / podklady:** insolvenční návrh a tvrzení o vyvádění majetku, rozhodnutí o předběžném opatření a ustanovení předběžného správce, rozhodnutí o úpadku, soupis úkonů předběžného správce.
+
 ---
 
 ## § 28 — Změna v osobě insolvenčního správce
@@ -261,6 +508,41 @@ Krátký systémový paragraf — připomíná, že **změnu správce mohou inic
 ### Vazby
 
 - **§ 29** — odvolání správce schůzí věřitelů.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Schůze věřitelů v reorganizaci dlužníka (osoba podle § 3 odst. 2 zákona o IS — pasiva přes 100 mil. Kč) se usnese, že odvolává dosavadního správce a ustanovuje nového. Navržený nový správce je sice zkušený, ale je zapsán pouze v obecné části seznamu a nemá zvláštní povolení. Soud má usnesení potvrdit. Důkazy: zápis ze schůze a hlasování, výpis ze seznamu k osobě nového správce (rozsah povolení), údaj o velikosti pasiv dlužníka.
+
+**2. Právní otázka.** Platí pro výběr nového správce věřitelskými orgány stejné kvalifikační a příslušnostní požadavky jako pro ustanovení soudem, zejména požadavek zvláštního povolení a zápisu ve zvláštní části seznamu podle § 25 odst. 3?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 28 — o změně v osobě správce rozhodují i věřitelské orgány; pro jejich rozhodnutí platí § 21 až 24 a § 25 odst. 3 obdobně.
+- *Související ustanovení téhož zákona:* § 29 odst. 2 (soud usnesení nepotvrdí, nesplňuje-li nový správce podmínky § 21–24 a § 25 odst. 3), § 25 odst. 3 (zvláštní část seznamu), § 21 (seznam), § 24 (vyloučení).
+- *Související předpisy:* § 3 odst. 2 a § 14 zákona o IS (kvalifikovaní dlužníci, zvláštní povolení, vyšší limity pojištění).
+- *Judikatura:* k formální bezvadnosti usnesení o (od)volání správce srov. NS 29 NSČR 27/2014 (citováno u § 29).
+
+**4. Subsumpce.** Dlužník je osobou dle § 3 odst. 2 zákona o IS → uplatní se § 25 odst. 3 i pro volbu věřiteli (přes § 28). Nový správce nemá zvláštní povolení a není ve zvláštní části seznamu → nesplňuje podmínky, jejichž obdobné použití § 28 vyžaduje. Sporné není nic zásadního: podmínka povolení je objektivní a doložitelná z výpisu.
+
+**5. Řešení.** Soud usnesení schůze nepotvrdí (§ 29 odst. 2), neboť zvolený správce nesplňuje § 25 odst. 3 ve spojení s § 28. Věřitelé mohou zvolit jiného správce ze zvláštní části seznamu. Procesní krok: soud vydá rozhodnutí o nepotvrzení do skončení schůze (§ 29 odst. 3), proti němuž se může odvolat věřitel, který hlasoval pro.
+
+**6. Varianty.** (a) Dlužník by byl běžný nepodnikatel v oddlužení → § 25 odst. 3 se neuplatní, postačí obecná část a kvalifikace dle § 21–24. (b) Nový správce by byl podjatý vůči dominantnímu věřiteli (§ 24) → soud usnesení nepotvrdí i z tohoto důvodu.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Volba správce je suverénním právem věřitelů, soud do ní nemůže zasahovat." — Neutralizace: § 28 i § 29 odst. 2 výslovně podřizují volbu kvalifikačním a příslušnostním podmínkám; soud nepřezkoumává vhodnost, ale zákonné předpoklady.
+- *Protiargument:* „Zvláštní povolení je formalita, kterou lze doplnit později." — Neutralizace: jde o hmotnou podmínku výkonu funkce u kvalifikovaných dlužníků; bez ní nelze usnesení potvrdit.
+- *Slabé místo:* pokud soud přehlédne, že dlužník je osobou dle § 3 odst. 2, a potvrdí nezpůsobilého správce, vzniká vada s nutností pozdější korekce (§ 31 odst. 4) a rizikem zdržení řízení.
+
+### H. Praktický závěr
+
+I při změně správce z vůle věřitelů platí stejné požadavky jako pro ustanovení soudem (§ 21–24 a u kvalifikovaných dlužníků § 25 odst. 3); nesplnění podmínek brání potvrzení volby soudem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda dlužník není osobou dle § 3 odst. 2 zákona o IS (pak nutné zvláštní povolení a zvláštní část seznamu).
+- [ ] Prověřit kvalifikaci a nepodjatost (§ 21–24) nově voleného správce před hlasováním.
+- [ ] Zkontrolovat formální bezvadnost usnesení (kvórum, evidence) s ohledem na navazující § 29.
+
+**Typicky rozhodné důkazy / podklady:** zápis ze schůze věřitelů a výsledek hlasování, výpis ze seznamu k osobě nového správce (rozsah povolení), doklad o velikosti pasiv/charakteru dlužníka.
 
 ---
 
@@ -314,6 +596,42 @@ V praxi je odvolání správce schůzí věřitelů **vzácné** — vyžaduje k
 
 > **NS 29 NSČR 27/2014**: odvolání správce schůzí věřitelů musí být formálně bezvadné — vady (nedostatek kvora, chybná evidence) vedou k nepotvrzení soudem.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Na schůzi věřitelů konané bezprostředně po přezkumném jednání v konkursu dominantní věřitel (banka s 52 % přihlášených pohledávek) prosadí usnesení o odvolání soudem ustanoveného správce a o ustanovení nového. Druhý největší věřitel namítá, že kvórum bylo počítáno jen z přítomných věřitelů, nikoli ze všech přihlášených ke dni předcházejícímu schůzi. Důkazy: prezenční listina, seznam přihlášených pohledávek ke dni D-1, zápis o hlasování a výpočtu kvóra.
+
+**2. Právní otázka.** Z jaké základny se počítá kvórum pro odvolání správce schůzí věřitelů podle § 29 odst. 1 v konkursu — ze všech přihlášených věřitelů s hlasovacím právem ke dni předcházejícímu schůzi, nebo jen z přítomných?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 29 odst. 1 (kvórum „nejméně polovina všech věřitelů přihlášených ke dni předcházejícímu konání schůze, počítaná podle výše pohledávek"; zvláštní pravidlo pro oddlužení), odst. 2 (potvrzení soudem), odst. 3 (omezený opravný prostředek), odst. 4 (reziduální povinnosti odvolaného správce).
+- *Související ustanovení téhož zákona:* § 47 (schůze po přezkumném jednání), § 49 (hlasovací pravidla), § 30 (odvolání bez ustanovení nového), § 34 odst. 3 (odvolaný správce jako oddělený).
+- *Související předpisy:* —
+- *Judikatura:* NS 29 NSČR 27/2014 (citováno výše) — odvolání správce schůzí musí být formálně bezvadné; vady (nedostatek kvóra, chybná evidence) vedou k nepotvrzení soudem.
+
+**4. Subsumpce.** Zákon výslovně stanoví základnu „všech věřitelů přihlášených ke dni předcházejícímu schůzi", nikoli přítomných. Výpočet jen z přítomných tedy znak kvóra nenaplňuje → usnesení je vadné. Sporné: zda banka skutečně dosáhla poloviny i z širší (správné) základny — nutno přepočítat.
+
+**5. Řešení.** Soud usnesení nepotvrdí pro vadu kvóra (§ 29 odst. 2 ve spojení s NS 29 NSČR 27/2014), nebylo-li dosaženo poloviny ze všech přihlášených. Proti nepotvrzení se může odvolat jen věřitel, který hlasoval pro (§ 29 odst. 3). Pokud by přepočet ukázal dosažení správného kvóra, soud potvrdí a odvolaný správce splní povinnosti dle § 29 odst. 4 (zpráva, vyúčtování).
+
+**6. Varianty.** (a) Způsobem řešení je oddlužení → uplatní se dvojí test: nadpoloviční většina počtu věřitelů i podle výše pohledávek (§ 29 odst. 1 věta čtvrtá). (b) Schůze správce odvolá, ale neusnese se na novém → soud ustanoví nového sám dle § 30 odst. 1 a § 29 odst. 1 se na něj již nepoužije.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Hlasovat mohou jen přítomní, proto se kvórum počítá z nich." — Neutralizace: § 29 odst. 1 výslovně váže kvórum na všechny přihlášené ke dni D-1; absence se počítá fakticky jako hlas proti odvolání (vysoká laťka je záměrem).
+- *Protiargument:* „Drobné evidenční nepřesnosti by neměly bránit potvrzení." — Neutralizace: dle NS 29 NSČR 27/2014 musí být usnesení formálně bezvadné; vady evidence/kvóra vedou k nepotvrzení.
+- *Slabé místo:* určení správné základny závisí na přesné evidenci přihlášek a hlasovacích práv k rozhodnému dni; chyby v evidenci přímo zakládají neúspěch.
+
+### H. Praktický závěr
+
+Odvolání správce schůzí věřitelů vyžaduje vysoké kvórum počítané ze všech přihlášených věřitelů ke dni předcházejícímu schůzi (v oddlužení dvojí test); soud volbu nového správce potvrzuje jen při formální bezvadnosti a splnění kvalifikace, odvolaný správce poté podává zprávu a vyúčtování.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Stanovit správnou hlasovací základnu (všichni přihlášení ke dni D-1 s hlasovacím právem).
+- [ ] U oddlužení ověřit splnění obou většin (počet i objem pohledávek).
+- [ ] Zkontrolovat kvalifikaci nově voleného správce (§ 21–24, § 25 odst. 3) před potvrzením.
+- [ ] Zajistit u odvolaného správce zprávu o činnosti a vyúčtování (§ 29 odst. 4).
+
+**Typicky rozhodné důkazy / podklady:** seznam přihlášených pohledávek a hlasovacích práv ke dni D-1, prezenční listina, zápis o hlasování a výpočtu kvóra, výpis ze seznamu k novému správci.
+
 ---
 
 ## § 30 — Odvolání bez ustanovení nového správce
@@ -326,6 +644,41 @@ V praxi je odvolání správce schůzí věřitelů **vzácné** — vyžaduje k
 **Odst. 1 — záložní pravidlo.** Pokud věřitelé odvolají správce, ale neusnesou se na náhradě, soud ustanoví jiného (cestou § 25). Pro tohoto nového správce **nemohou věřitelé znovu hlasovat o odvolání** podle § 29 — jednorázové „věřitelské veto" je vyčerpáno.
 
 **Odst. 2 — opětovné hlasování po změně poměrů.** Pokud následně dojde k odmítnutí pohledávek, které posune hlasovací poměry, je možné nové hlasování o odvolání. Smysl — chránit věřitele před manipulací (např. fiktivní spřízněnou pohledávkou, která byla později odmítnuta).
+
+### F. Kazuistika
+
+**1. Modelová situace.** Schůze věřitelů v konkursu odvolá soudem ustanoveného správce, ale neusnese se na ustanovení nového (návrh na konkrétní osobu neprošel kvórem). Soud následně ustanoví nového správce postupem podle § 25. O dva měsíce později soud rozhodne o odmítnutí přihlášky velkého věřitele, který původně hlasoval pro odvolání, čímž se výrazně změní hlasovací poměry. Skupina věřitelů chce znovu hlasovat o odvolání. Důkazy: zápisy ze schůzí, rozhodnutí o odmítnutí přihlášky, přepočet pohledávek po odmítnutí.
+
+**2. Právní otázka.** Může schůze věřitelů znovu hlasovat o odvolání správce podle § 29 odst. 1, byl-li nový správce ustanoven soudem podle § 30 odst. 1, a jaký vliv má na to dodatečné odmítnutí přihlášky měnící hlasovací poměry?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 30 odst. 1 (ustanovení správce soudem při absenci volby; vyloučení § 29 odst. 1 pro takto ustanoveného správce), odst. 2 (možnost nového hlasování po změně poměrů v důsledku odmítnutí přihlášky).
+- *Související ustanovení téhož zákona:* § 29 odst. 1 (původní „věřitelské veto"), § 25 (postup ustanovení soudem), § 31 odst. 2 (odvolání správce ustanoveného schůzí na jeho žádost).
+- *Související předpisy:* —
+- *Judikatura:* k formální bezvadnosti hlasování srov. NS 29 NSČR 27/2014 (citováno u § 29).
+
+**4. Subsumpce.** Nový správce byl ustanoven soudem dle § 30 odst. 1 → § 29 odst. 1 se na něj zásadně nepoužije (jednorázové veto je vyčerpáno). Současně však došlo k odmítnutí přihlášky věřitele, jež mění hlasovací poměry → naplňuje se výjimka § 30 odst. 2 umožňující nové hlasování na nejbližší schůzi po této změně. Sporné: zda změna poměrů „má vliv na výsledek" původního usnesení (nutný přepočet).
+
+**5. Řešení.** Pravidlem je vyčerpání práva odvolat (§ 30 odst. 1), avšak změna v osobách/výši pohledávek po odmítnutí přihlášky otevírá nové hlasování dle § 30 odst. 2 — ovšem jen tehdy, kdyby tato změna mohla ovlivnit výsledek původního usnesení. Procesní krok: ověřit, zda po odmítnutí přihlášky nově dosažitelné kvórum mění výsledek; pokud ano, zařadit bod na nejbližší schůzi.
+
+**6. Varianty.** (a) Odmítnutí přihlášky by hlasovací poměry neovlivnilo → § 30 odst. 2 se neuplatní, opětovné hlasování není možné. (b) Schůze by při prvním hlasování rovnou zvolila nového správce → ustanovuje ho soud potvrzením dle § 29 odst. 2, nikoli dle § 30, a režim § 30 se neuplatní.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Věřitelé mohou správce odvolávat opakovaně, kdykoli se jim nelíbí." — Neutralizace: § 30 odst. 1 omezuje veto na jediné uplatnění; opětovné hlasování umožňuje jen § 30 odst. 2 a jen po kvalifikované změně poměrů.
+- *Protiargument:* „Jakákoli změna v přihláškách otevírá nové hlasování." — Neutralizace: musí jít o změnu, která by měla vliv na výsledek původního usnesení; bagatelní posun nestačí.
+- *Slabé místo:* riziko zneužití fiktivními/spřízněnými pohledávkami k dosažení kvóra; korekcí je právě možnost nového hlasování po jejich odmítnutí (ochranný smysl odst. 2).
+
+### H. Praktický závěr
+
+Ustanoví-li nového správce soud (protože věřitelé volbu neprovedli), je věřitelské veto vyčerpáno; opětovné hlasování o odvolání je možné jen po odmítnutí přihlášky, které mění hlasovací poměry s vlivem na výsledek.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Rozlišit, zda nového správce ustanovil soud (§ 30) či potvrdil volbu věřitelů (§ 29 odst. 2).
+- [ ] Při tvrzené změně poměrů ověřit, zda odmítnutí přihlášky mohlo ovlivnit výsledek původního usnesení.
+- [ ] Nové hlasování zařadit na nejbližší schůzi po rozhodné změně.
+
+**Typicky rozhodné důkazy / podklady:** zápisy ze schůzí věřitelů, rozhodnutí o odmítnutí přihlášky, přepočet hlasovacích poměrů před a po odmítnutí.
 
 ---
 
@@ -389,6 +742,42 @@ Důležitá kontinuita — odvolaný správce **musí předat veškeré doklady,
 - **§ 32** — zproštění (sankční odvolání).
 - **§ 37** — odpovědnost správce za škodu.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Insolvenčnímu správci, který řádně vede 60 řízení, ministerstvo pozastaví právo vykonávat činnost (nesložil v termínu povinné doškolení a opožděně doložil pojištění). V jednom z jeho řízení (konkurs uprostřed zpeněžování) podá věřitelský výbor návrh na odvolání správce. Správce namítá, že nejde o porušení povinností vůči danému řízení a že pozastavení je dočasné. Důkazy: rozhodnutí ministerstva o pozastavení práva, doklad o stavu řízení, návrh věřitelského výboru.
+
+**2. Právní otázka.** Je pozastavení práva vykonávat činnost insolvenčního správce podle zákona o IS důvodem pro odvolání podle § 31 (bez porušení povinností ve smyslu § 32), a jde o odvolání fakultativní, nebo obligatorní?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 31 odst. 1 (odvolání z důležitých důvodů bez původu v porušení povinností), odst. 3 (zánik/pozastavení práva dle zákona o IS — soud „může" odvolat), odst. 4 (zrušení povolení — soud „odvolá", obligatorně; sebenahláška u § 3 odst. 2 dlužníka), odst. 5 (současné ustanovení nového; opravný prostředek), odst. 6 (předání agendy, trvání odpovědnosti).
+- *Související ustanovení téhož zákona:* § 32 (zproštění — sankční, pro porušení povinností), § 25 (ustanovení nového), § 29 odst. 4 (zpráva a vyúčtování — přiměřeně dle § 31 odst. 7), § 37 (přetrvávající odpovědnost).
+- *Související předpisy:* zákon o IS (pozastavení a zánik práva, zrušení povolení), § 3 odst. 2 zákona o IS (kvalifikovaní dlužníci).
+- *Judikatura:* k odlišení sankčního a nesankčního odchodu z funkce srov. systémově NS 29 NSČR 7/2012 (citováno u § 32) — drobná pochybení nejsou důvodem zproštění.
+
+**4. Subsumpce.** Pozastavení práva je důvodem nemajícím původ v porušení povinností vůči konkrétnímu řízení → spadá pod § 31 odst. 3, nikoli pod § 32. Jelikož jde o pozastavení (nikoli zrušení povolení dle odst. 4), je odvolání fakultativní („může"). Sporné: zda dočasnost pozastavení a pokročilý stav zpeněžování neodůvodňují vyčkání či ustanovení zástupce (§ 33).
+
+**5. Řešení.** Soud zpravidla po slyšení správce rozhodne dle § 31 odst. 3 — vzhledem k tomu, že správce nesmí dočasně vykonávat činnost, je namístě odvolání a současné ustanovení nového (§ 31 odst. 5); alternativně, jde-li o krátkou přechodnou překážku, lze využít zástupce dle § 33. Odvolaný správce předá agendu (§ 31 odst. 6) a jeho odpovědnost za dobu výkonu nezaniká. Odvolání proti rozhodnutí je přípustné (proti ustanovení nového jen z důvodů § 26).
+
+**6. Varianty.** (a) Ministerstvo by povolení zrušilo (nikoli pozastavilo) → odvolání je obligatorní (§ 31 odst. 4), soud nemá uvážení. (b) Dodatečně by vyšlo najevo, že dlužník je osobou dle § 3 odst. 2 a správce nemá zvláštní povolení → správce to musí soudu oznámit a soud ho odvolá (§ 31 odst. 4 in fine).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Odvolání = sankce, proto se mě nemůže týkat, když jsem nic neporušil v tomto řízení." — Neutralizace: § 31 je nesankční nástroj; odvolání zde reaguje na ztrátu/pozastavení oprávnění, nikoli na pochybení, a od § 32 (zproštění) se liší.
+- *Protiargument:* „Pozastavení je dočasné, soud má vyčkat." — Neutralizace: i dočasná nezpůsobilost ohrožuje řízení; soud volí mezi odvoláním (odst. 3) a zástupcem (§ 33) podle délky překážky a stavu řízení.
+- *Slabé místo:* záměna § 31 a § 32 má praktické důsledky (kárná a odpovědnostní konotace, okruh navrhovatelů); nesprávné označení může být napadeno odvoláním.
+
+### H. Praktický závěr
+
+§ 31 řeší nesankční odchod správce (ztráta/pozastavení oprávnění, zdravotní a organizační důvody, vlastní žádost); při zrušení povolení je odvolání obligatorní, soud současně ustanoví nového a odpovědnost odvolaného za minulé období trvá.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Odlišit důvod dle § 31 (bez porušení povinností) od sankčního zproštění dle § 32.
+- [ ] Určit, zda jde o fakultativní (odst. 3) či obligatorní (odst. 4) odvolání.
+- [ ] Zvážit zástupce (§ 33) u krátkodobé přechodné překážky.
+- [ ] Zajistit předání agendy novému správci a vyúčtování (§ 31 odst. 6, 7).
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí ministerstva o pozastavení/zrušení práva či povolení, doklad o stavu řízení a zpeněžování, návrh oprávněné osoby, protokol o předání agendy.
+
 ---
 
 ## § 32 — Zproštění správce (sankční odvolání)
@@ -433,6 +822,42 @@ Důležitá kontinuita — odvolaný správce **musí předat veškeré doklady,
 - **NS 29 NSČR 7/2012**: pro zproštění musí jít o *závažné* porušení; drobné nedostatky se řeší pokynem nebo pořádkovou pokutou.
 - **NS 29 NSČR 4/2018**: nesplnění povinnosti zveřejnit zprávu ve lhůtě (§ 36 odst. 2) může být důvodem zproštění, pokud je opakované a má vliv na řízení.
 
+### F. Kazuistika
+
+**1. Modelová situace.** V konkursu správce po dobu osmi měsíců nepodal žádnou ze zákonem požadovaných tříměsíčních zpráv (§ 36 odst. 2), opakovaně nereaguje na výzvy soudu a nezveřejnil soupis majetkové podstaty ve lhůtě; současně bez souhlasu věřitelského výboru prodal vozidlo z podstaty spřízněné osobě za zjevně podhodnocenou cenu. Věřitelský výbor podá návrh na zproštění. Důkazy: spisový přehled o (ne)podaných zprávách a výzvách soudu, kupní smlouva a znalecké ocenění vozidla, zápis věřitelského výboru.
+
+**2. Právní otázka.** Naplňují popsané skutečnosti důvod zproštění správce podle § 32 odst. 1 (neplnění povinností / absence odborné péče / závažné porušení důležité povinnosti), nebo postačí mírnější nástroj (pokyn, pořádková pokuta)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 32 odst. 1 (zproštění při neplnění povinností, absenci odborné péče nebo závažném porušení důležité povinnosti; zpravidla po slyšení správce), odst. 2 (opravný prostředek; přiměřené použití § 29 odst. 4 a § 31 odst. 5, 6).
+- *Související ustanovení téhož zákona:* § 36 (porušené povinnosti — reporting, společný zájem věřitelů), § 37 (odpovědnost za škodu), § 81 (pořádková pokuta jako mírnější sankce), § 31 odst. 5, 6 (ustanovení nového, předání agendy).
+- *Související předpisy:* zákon o IS § 36 a násl. (kárné provinění, často navazuje).
+- *Judikatura:* NS 29 NSČR 7/2012 (pro zproštění musí jít o závažné porušení; drobnosti se řeší pokynem/pokutou); NS 29 NSČR 4/2018 (opakované nezveřejnění zprávy ve lhůtě s vlivem na řízení může být důvodem zproštění); NS 29 NSČR 93/2014 (citováno výše — rozsah informační povinnosti vůči dlužníku ve výkonu trestu).
+
+**4. Subsumpce.** Opakované nepodání zpráv po dobu osmi měsíců + ignorování výzev soudu = neplnění povinností a absence odborné péče (§ 36 odst. 1, 2). Prodej majetku pod cenou spřízněné osobě bez souhlasu výboru = závažné porušení důležité povinnosti se znaky střetu zájmů. Na rozdíl od bagatelních pochybení (NS 29 NSČR 7/2012) jde o kumulaci závažných selhání s vlivem na řízení (srov. NS 29 NSČR 4/2018). Sporné: výše skutečné škody z podhodnoceného prodeje (otázka pro § 37).
+
+**5. Řešení.** Soud zpravidla po slyšení správce rozhodne o zproštění (§ 32 odst. 1) a současně ustanoví nového (§ 31 odst. 5 přiměřeně); odvolání je přípustné správci i navrhovateli (§ 32 odst. 2). Navazuje předání agendy (§ 31 odst. 6), závěrečná zpráva a vyúčtování (§ 29 odst. 4), pravděpodobně kárné řízení (zákon o IS) a uplatnění odpovědnosti za škodu (§ 37). Procesní krok: paralelně zvážit pořádkovou pokutu (§ 81) za jednotlivá prodlení.
+
+**6. Varianty.** (a) Šlo by o jediné mírné překročení lhůty bez dopadu na řízení → namístě jen pokyn nebo pořádková pokuta (§ 81), nikoli zproštění (NS 29 NSČR 7/2012). (b) Správce by prodlení napravil a prodej majetku by proběhl řádně se souhlasem výboru → chybí znak závažnosti, zproštění by neobstálo.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Zpoždění zpráv je formální pochybení, nikoli důvod zproštění." — Neutralizace: dle NS 29 NSČR 4/2018 opakované a řízení ovlivňující nezveřejnění zpráv důvodem zproštění být může; zde navíc přistupuje neoprávněná dispozice s podstatou.
+- *Protiargument:* „Cena vozidla byla tržní, znalec se mýlí." — Neutralizace: chybí souhlas věřitelského výboru a transparentní výběr nabídek; i bez prokázané škody jde o porušení postupu (řešitelné i § 38 odst. 3 — snížení odměny).
+- *Slabé místo:* zproštění vyžaduje „závažnost"; izolované drobné nedostatky by neobstály — návrh je proto třeba opřít o kumulaci a doložené dopady na řízení.
+
+### H. Praktický závěr
+
+Zproštění je sankční nástroj pro závažné selhání správce (neplnění povinností, absence odborné péče, závažné porušení důležité povinnosti); drobná pochybení se řeší pokynem či pořádkovou pokutou. Po zproštění následuje ustanovení nového, předání agendy, kárná a odpovědnostní rovina.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Posoudit závažnost a kumulaci pochybení (nikoli izolovanou drobnost).
+- [ ] Doložit dopad porušení na průběh řízení a zájmy věřitelů.
+- [ ] Zachovat procesní garanci (zpravidla slyšení správce) a zvážit mírnější nástroj (§ 81).
+- [ ] Zajistit ustanovení nového, předání agendy a vyúčtování (§ 31 odst. 5, 6; § 29 odst. 4).
+
+**Typicky rozhodné důkazy / podklady:** spisový přehled o (ne)podaných zprávách a výzvách soudu, kupní smlouva a znalecké ocenění zpeněženého majetku, zápisy věřitelského výboru, doklady o střetu zájmů.
+
 ---
 
 ## § 33 — Zástupce insolvenčního správce
@@ -450,6 +875,41 @@ Důležitá kontinuita — odvolaný správce **musí předat veškeré doklady,
 ### Praxe
 
 V běžných řízeních se zástupce neustanovuje — pro krátkodobou nepřítomnost stačí standardní agenda v.o.s.-správce nebo kanceláře. Spíše pro reorganizace dlouhodobé (12+ měsíců), kde personální výpadek by mohl být kritický.
+
+### F. Kazuistika
+
+**1. Modelová situace.** V náročné reorganizaci výrobního podniku s předpokládanou délkou 18 měsíců soud uváží, že hrozí riziko personálního výpadku jediného ustanoveného správce (zdravotní stav, dlouhé zahraniční jednání s věřiteli). Věřitelský výbor navrhne, aby soud preventivně ustanovil zástupce správce pro případ přechodné překážky. Důkazy: rozhodnutí o povolení reorganizace, harmonogram plnění plánu, odůvodnění účelnosti (komplexita, délka).
+
+**2. Právní otázka.** Za jakých podmínek je „účelné" ustanovit insolvenčnímu správci zástupce podle § 33 a jaký je jeho právní režim, zejména ve vztahu k ustanovení, odměňování a zproštění?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 33 — soud může ustanovit zástupce „je-li to účelné" pro případ, že by správce ze závažných důvodů nemohl přechodně funkci vykonávat; přiměřené použití § 29 až 31.
+- *Související ustanovení téhož zákona:* § 35 odst. 2 (pro ustanovení, odměňování a zproštění zástupce platí úprava o správci obdobně), § 31 (odvolání), § 32 (zproštění).
+- *Související předpisy:* zákon o IS (kvalifikační předpoklady i pro zástupce — musí být osoba ze seznamu).
+- *Judikatura:* k obecnému standardu výkonu funkce (jenž platí i pro zástupce) srov. NS 29 NSČR 9/2014 (citováno u § 37).
+
+**4. Subsumpce.** Reorganizace dlouhého trvání s rizikem personálního výpadku naplňuje znak „účelnosti" preventivního ustanovení zástupce; „závažné důvody" přechodné překážky jsou předvídatelné (zdraví, dlouhá jednání). Zástupce musí splňovat kvalifikaci jako správce (§ 35 odst. 2 ve spojení s § 21). Sporné: zda u řízení standardní délky a složitosti by účelnost byla dána (spíše ne).
+
+**5. Řešení.** Soud ustanoví zástupce, který je „v pohotovosti" a nastupuje teprve při vzniku překážky; jeho ustanovení, odměňování a zproštění se řídí obdobně úpravou o správci (§ 35 odst. 2). U běžných řízení se zástupce neustanovuje (postačí agenda kanceláře/v.o.s.). Procesní krok: vymezit v rozhodnutí okamžik aktivace zástupce a jeho vztah ke správci.
+
+**6. Varianty.** (a) Krátkodobá nepřítomnost správce v běžném konkursu → zástupce není účelný; postačí standardní zastoupení v rámci kanceláře. (b) Trvalé odpadnutí správce (nikoli přechodné) → neaplikuje se § 33 (zástupce), nýbrž odvolání a ustanovení nového dle § 31.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Zástupce je zbytečná duplicita zvyšující náklady." — Neutralizace: ustanovuje se jen „je-li to účelné" a aktivuje se teprve při překážce; u dlouhých reorganizací předchází kritickému výpadku.
+- *Protiargument:* „Zástupce může nastoupit kdykoli místo správce." — Neutralizace: nastupuje pouze pro případ přechodné nemožnosti výkonu ze závažných důvodů, nikoli libovolně.
+- *Slabé místo:* nejasné vymezení okamžiku „nastoupení" zástupce a dělby odpovědnosti mezi správcem a zástupcem může vést ke sporům; je vhodné je upravit přímo v rozhodnutí.
+
+### H. Praktický závěr
+
+Zástupce správce je preventivní institut pro přechodnou nemožnost výkonu funkce ze závažných důvodů; ustanovuje se jen je-li to účelné (typicky dlouhé/složité reorganizace) a řídí se obdobně úpravou o správci.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Posoudit účelnost (délka a složitost řízení, riziko výpadku) před ustanovením zástupce.
+- [ ] Ověřit kvalifikaci zástupce jako řádného správce (§ 35 odst. 2, § 21).
+- [ ] V rozhodnutí vymezit okamžik aktivace zástupce a jeho vztah ke správci.
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o způsobu řešení úpadku (zejm. reorganizace), harmonogram řízení, odůvodnění účelnosti, výpis ze seznamu k osobě zástupce.
 
 ---
 
@@ -485,6 +945,41 @@ V běžných řízeních se zástupce neustanovuje — pro krátkodobou nepřít
 - **§ 198** — popírací spor.
 - **§ 29** — odvolání správce schůzí věřitelů.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Insolvenční správce v konkursu popřel přihlášenou pohledávku věřitele V ve výši 8 mil. Kč. Věřitel V poté na schůzi věřitelů prosadil odvolání správce z funkce (§ 29) — fakticky jako odvetu. Soud má rozhodnout, kdo povede incidenční spor o popřenou pohledávku V a zda lze tímto úkonem pověřit původního (nyní odvolaného) správce. Důkazy: protokol o přezkumném jednání a popření, zápis ze schůze o odvolání, souhlas odvolaného správce s ustanovením odděleným správcem.
+
+**2. Právní otázka.** Lze správce odvolaného postupem podle § 29 ustanovit odděleným insolvenčním správcem k přezkumu jím popřené pohledávky a k vedení souvisejících incidenčních sporů vůči věřiteli, který hlasoval pro jeho odvolání (§ 34 odst. 3), a kdy je naopak nutné/možné použít odst. 1 či odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 34 odst. 1 (oddělený správce při dílčí podjatosti k jednomu věřiteli — fakultativně, není-li ohrožen celkový výkon funkce), odst. 2 (obligatorní oddělený správce při rozporu se společným zájmem věřitelů v jiném řízení), odst. 3 (odvolaný správce jako oddělený pro popírací spor s jeho souhlasem).
+- *Související ustanovení téhož zákona:* § 24 (vyloučení z celého řízení — kontrast s dílčí podjatostí), § 198 (popírací incidenční spor), § 29 (odvolání správce schůzí věřitelů).
+- *Související předpisy:* —
+- *Judikatura:* NS 29 NSČR 107/2013 (citováno výše) — souhrn skutečností (rozsah pohledávky, souběžné spory) může bránit řešení pouhým odděleným správcem a vést k vyloučení dle § 24.
+
+**4. Subsumpce.** Odvolání správce věřitelem, jehož pohledávku správce popřel, je typovým scénářem § 34 odst. 3 → soud může (s jeho souhlasem) původního správce ustanovit odděleným správcem pro tento popírací spor, nestanoví-li jinak. Naopak odst. 1 dopadá na situaci, kdy nejde o odvolání, ale o pouhý dílčí vztah k jednomu věřiteli neohrožující celkový výkon funkce; odst. 2 na obligatorní rozpor se společným zájmem věřitelů v jiném řízení. Sporné: zda intenzita vztahu nepřekračuje dílčí podjatost (pak by šlo o § 24, srov. NS 29 NSČR 107/2013).
+
+**5. Řešení.** Soud (se souhlasem správce) využije § 34 odst. 3 a pověří původního správce vedením incidenčního sporu o popřenou pohledávku V; smyslem je kontinuita a odbornost správce, který spor inicioval, nepřerušená věřitelovou „pomstou". Pro běžný chod řízení jedná nový správce; pro popírací spor oddělený (původní) správce. Procesní krok: vymezit v rozhodnutí rozsah úkonů svěřených oddělenému správci.
+
+**6. Varianty.** (a) Správce by měl jen drobnou pohledávku za jedním z věřitelů bez vlivu na celek → fakultativní oddělený správce dle § 34 odst. 1 jen pro úkony vůči tomuto věřiteli. (b) Tentýž věřitel by měl rozhodující vliv a vedl další spory o podstatu → namístě je vyloučení z celého řízení (§ 24), nikoli oddělený správce (NS 29 NSČR 107/2013).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Odvolaný správce už nemá s řízením nic společného, nemůže vést spor." — Neutralizace: § 34 odst. 3 výslovně umožňuje jeho ustanovení odděleným správcem pro popírací spor; účelem je zamezit obstrukci věřitele, jenž správce odvolal.
+- *Protiargument:* „Stačí oddělený správce i tam, kde má věřitel dominantní vliv." — Neutralizace: dle NS 29 NSČR 107/2013 silný vliv věřitele a souběžné spory vylučují řešení odděleným správcem a vedou k vyloučení dle § 24.
+- *Slabé místo:* hranice mezi dílčí podjatostí (§ 34) a podjatostí vylučující z celého řízení (§ 24) je skutkově citlivá; nesprávné zařazení zakládá vadu a riziko zpochybnosti o nestrannosti.
+
+### H. Praktický závěr
+
+Oddělený správce řeší dílčí podjatost: fakultativně u vztahu k jednomu věřiteli (odst. 1), obligatorně při rozporu se společným zájmem věřitelů v jiném řízení (odst. 2) a specificky u popíracího sporu odvolaného správce (odst. 3). Silný vliv věřitele však namísto odděleného správce vede k vyloučení dle § 24.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Rozlišit dílčí podjatost (§ 34) od podjatosti vylučující z celého řízení (§ 24) podle vlivu věřitele a souběžných sporů.
+- [ ] U odst. 2 pamatovat na obligatorní ustanovení odděleného správce (bez uvážení soudu).
+- [ ] U odst. 3 zajistit souhlas odvolaného správce a vymezit rozsah svěřených úkonů (popírací spor).
+
+**Typicky rozhodné důkazy / podklady:** protokol o přezkumném jednání a popření pohledávky, zápis ze schůze o odvolání správce, doklady o vztahu správce k věřiteli a o jeho vlivu, souhlas správce s ustanovením odděleným správcem.
+
 ---
 
 ## § 35 — Zvláštní insolvenční správce
@@ -509,6 +1004,41 @@ V běžných řízeních se zástupce neustanovuje — pro krátkodobou nepřít
 
 - **§ 286 a násl.** — zpeněžování podstaty (úkol řádného správce).
 - **Zákon č. 370/2017 Sb. o platebním styku, § 124 a násl.** — výplata klientských prostředků.
+
+### F. Kazuistika
+
+**1. Modelová situace.** V konkursu poskytovatele platebních služeb (úpadek licencované platební instituce) drží dlužník na klientských účtech prostředky uživatelů platebních služeb. Insolvenční správce řeší zpeněžení rozsáhlé podstaty a současně nutnost vyplatit klientské prostředky podle zákona o platebním styku. Věřitelský výbor navrhuje ustanovit zvláštního správce pro samotné zpeněžení, neboť je objemné. Důkazy: doklad o licenci a typu instituce, evidence klientských prostředků, návrh věřitelského výboru.
+
+**2. Právní otázka.** Kdy soud ustanoví zvláštního insolvenčního správce podle § 35 — je důvodem objemné či komplikované zpeněžení podstaty, nebo se zvláštní správce ustanovuje (a obligatorně dle odst. 3) jen pro specializované zákonné mandáty typu výplaty klientských prostředků?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 35 odst. 1 (zvláštní správce pro zvláštní problematiku vyžadující odbornou specializaci; zpeněžení podstaty není důvodem), odst. 2 (ustanovení, odměňování a zproštění obdobně jako u správce), odst. 3 (obligatorní ustanovení pro výplatu nároků uživatelů platebních služeb / držitelů elektronických peněz, vydání svěřených prostředků a vydání majetku zákazníka).
+- *Související ustanovení téhož zákona:* § 286 a násl. (zpeněžování — úkol řádného správce), § 34 (oddělený správce — kontrast: vyloučení vs. specializace).
+- *Související předpisy:* zákon č. 370/2017 Sb. o platebním styku (§ 124 a násl. — výplata klientských prostředků); zákon o podnikání na kapitálovém trhu (vydání majetku zákazníka OCP); úprava digitalizace finančního trhu (svěřené prostředky).
+- *Judikatura:* k obecnému standardu odborné péče srov. NS 29 NSČR 9/2014 (citováno u § 37).
+
+**4. Subsumpce.** Výplata klientských prostředků uživatelů platebních služeb spadá pod zákonný mandát § 35 odst. 3 → soud ustanoví zvláštního správce obligatorně. Naproti tomu samotné zpeněžení (byť objemné) výslovně nezakládá důvod pro zvláštního správce (§ 35 odst. 1 věta druhá) → návrh výboru na zvláštního správce „pro zpeněžení" je nedůvodný. Sporné: zda určitá dílčí agenda (např. mezinárodní arbitráž) nevyžaduje specializaci dle odst. 1.
+
+**5. Řešení.** Soud ustanoví zvláštního správce pro výplatu klientských prostředků (§ 35 odst. 3 ve spojení se zákonem o platebním styku) a upraví jeho vztah k řádnému správci; zpeněžení podstaty ponechá řádnému správci (§ 286 a násl.). Pro ustanovení, odměnu a zproštění zvláštního správce platí obdobně úprava o správci (§ 35 odst. 2). Procesní krok: vymezit rozsah a součinnost mezi řádným a zvláštním správcem.
+
+**6. Varianty.** (a) Dlužník je obchodník s cennými papíry držící majetek zákazníků → zvláštní správce pro vydání majetku zákazníka dle zákona o podnikání na kapitálovém trhu (§ 35 odst. 3). (b) Jediným důvodem návrhu by byla velikost/komplikovanost majetku ke zpeněžení → ustanovení zvláštního správce nepřípustné (odst. 1 věta druhá), řeší řádný správce.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Velký a složitý majetek odůvodňuje zvláštního správce pro zpeněžení." — Neutralizace: § 35 odst. 1 věta druhá to výslovně vylučuje; složitost se řeší externími odborníky (§ 39 odst. 3), nikoli paralelním správcem.
+- *Protiargument:* „Výplata klientů je jen běžná agenda správce." — Neutralizace: u platebních institucí/OCP jde o zvláštní zákonný mandát s obligatorním ustanovením zvláštního správce (§ 35 odst. 3).
+- *Slabé místo:* nejasné rozhraní mezi specializací (odst. 1) a vyloučením (§ 34) a mezi zvláštním správcem a externími odborníky (§ 39); nesprávná volba zvyšuje náklady podstaty.
+
+### H. Praktický závěr
+
+Zvláštní správce slouží specializaci, nikoli vyloučení; pro pouhé zpeněžení podstaty se neustanovuje, naopak pro výplatu klientských prostředků, svěřených prostředků a majetku zákazníka je jeho ustanovení obligatorní (§ 35 odst. 3).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda jde o zákonný mandát dle § 35 odst. 3 (platební služby, elektronické peníze, svěřené prostředky, majetek zákazníka) → obligatorní zvláštní správce.
+- [ ] Vyloučit ustanovení zvláštního správce jen kvůli rozsahu/složitosti zpeněžení (odst. 1 věta druhá).
+- [ ] Vymezit vztah a součinnost zvláštního a řádného správce; odměnu řešit dle § 35 odst. 2.
+
+**Typicky rozhodné důkazy / podklady:** doklad o licenci/typu instituce (platební instituce, OCP), evidence klientských/svěřených prostředků, návrh na ustanovení a vymezení specializované problematiky.
 
 ---
 
@@ -585,6 +1115,42 @@ Detaily plnění povinností stanoví prováděcí předpis — **vyhláška č.
 - **§ 412a, § 412b** — oddlužení.
 - **§ 414, § 418** — osvobození, zrušení oddlužení.
 
+### F. Kazuistika
+
+**1. Modelová situace.** V oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty správce po dobu roku nepředkládá soudu a věřitelskému výboru tříměsíční zprávy o stavu řízení; zároveň nezaložil zvláštní účet pro dané řízení a prostředky dlužníka vede na sběrném účtu spolu s jinými spisy. Po roce vyjde najevo, že dlužník přestal plnit a byly dány podmínky pro zrušení oddlužení (§ 418), na což správce včas neupozornil. Důkazy: spisový přehled o (ne)podaných zprávách, výpisy z účtu/účtů správce, údaje o plnění dlužníka.
+
+**2. Právní otázka.** Jaké povinnosti správci ukládá § 36 v oddlužení (reporting v intervalech, neprodlené zprávy o rozhodných skutečnostech, zvláštní účet) a jaké jsou důsledky jejich porušení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 36 odst. 1 (svědomitost, odborná péče, přednost společného zájmu věřitelů), odst. 2 (zprávy nejméně jednou za 3 měsíce, nejvýše po 12 měsících; zpráva pro osvobození), odst. 3 (neprodlené zprávy při podmínkách pro prodloužení/zrušení oddlužení; lhůty pro návrhy), odst. 5 (zvláštní účet pro každé řízení).
+- *Související ustanovení téhož zákona:* § 37 (odpovědnost za škodu při porušení povinností), § 32 (zproštění), § 81 (pořádková pokuta), § 412a, § 412b (oddlužení), § 414, § 418 (osvobození, zrušení oddlužení).
+- *Související předpisy:* vyhláška č. 191/2017 Sb. (náležitosti podání a výkon činnosti správce); vyhláška č. 313/2007 Sb. (odměna — možnost snížení).
+- *Judikatura:* NS 29 NSČR 4/2018 (citováno u § 32) — opakované nezveřejnění zprávy ve lhůtě s vlivem na řízení může vést ke zproštění; NS 29 NSČR 93/2014 (citováno výše) — rozsah informační povinnosti vůči dlužníku ve výkonu trestu.
+
+**4. Subsumpce.** Nepodávání tříměsíčních zpráv po dobu roku = porušení § 36 odst. 2; nezaložení zvláštního účtu a vedení prostředků na sběrném účtu = porušení § 36 odst. 5 (ohrožení transparentnosti a oddělení majetku); neupozornění na podmínky pro zrušení oddlužení = porušení § 36 odst. 3. Všechna porušení současně zakládají odklon od odborné péče (§ 36 odst. 1). Sporné: vznik a výše konkrétní škody (otázka pro § 37).
+
+**5. Řešení.** Soud uloží správci podat zprávu, případně využije pořádkovou pokutu (§ 81) a při závažnosti/opakování zprostí správce funkce (§ 32; srov. NS 29 NSČR 4/2018); odměnu lze snížit (§ 38 odst. 3). Porušení povinností je rovněž podkladem odpovědnosti za škodu (§ 37), prokáže-li se příčinná souvislost (např. opožděné zrušení oddlužení s majetkovou újmou věřitelů). Procesní krok: bezodkladně zřídit zvláštní účet a převést prostředky, doplnit reporting.
+
+**6. Varianty.** (a) Jednorázové mírné zpoždění jediné zprávy bez vlivu na řízení → spíše pokyn nebo pořádková pokuta, nikoli zproštění. (b) Dlužník je ve výkonu trestu → správce nemá vůči němu širší informační povinnost než vůči „neomezenému" dlužníku (NS 29 NSČR 93/2014), avšak plní povinnosti dle § 36 odst. 6 (vyrozumění věznice).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Sběrný účet je efektivnější a zákon je formalistický." — Neutralizace: § 36 odst. 5 vyžaduje zvláštní účet pro každé řízení; oddělení majetku chrání před přeléváním prostředků mezi spisy a je podmínkou transparentnosti.
+- *Protiargument:* „Zprávy lze dodat zpětně, škoda nevznikla." — Neutralizace: i bez prokázané škody jde o porušení povinností (§ 32, § 81); navíc opožděné upozornění na zrušení oddlužení může škodu způsobit (§ 37).
+- *Slabé místo:* pro odpovědnost za škodu (§ 37) je nutné prokázat příčinnou souvislost mezi porušením a újmou; samotné porušení reportingu k náhradě škody bez kauzality nestačí.
+
+### H. Praktický závěr
+
+§ 36 ukládá svědomitost a odbornou péči, přednost společného zájmu věřitelů, pravidelný i neprodlený reporting a zvláštní účet pro každé řízení; porušení vede k pořádkové pokutě, zproštění, snížení odměny a případně odpovědnosti za škodu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Dodržet intervaly zpráv (nejméně 1×/3 měsíce, neprodleně při rozhodných skutečnostech) a lhůty pro návrhy v oddlužení.
+- [ ] Zřídit zvláštní účet pro každé jednotlivé řízení (§ 36 odst. 5).
+- [ ] Dát při kolizi přednost společnému zájmu věřitelů před zájmy vlastními i třetích osob.
+- [ ] U dlužníka ve výkonu trestu splnit vyrozumění věznice (§ 36 odst. 6).
+
+**Typicky rozhodné důkazy / podklady:** spisový přehled o podaných zprávách, výpisy ze zvláštního účtu řízení, údaje o plnění dlužníka a podmínkách pro prodloužení/zrušení oddlužení.
+
 ---
 
 ## § 37 — Odpovědnost insolvenčního správce
@@ -646,6 +1212,42 @@ Velmi specifická úprava. Pokud správce uzavře smlouvu, která vyvolá pohled
 - *opomenutá inkasní povinnost* — správce nevybral pohledávku, která se promlčela,
 - *prodej majetku za podhodnotu* — bez zajištění více nabídek nebo bez znaleckého posudku,
 - *nedostatečná kontrola dlužníka* v reorganizaci, který v mezičase „rozprodal" majetek.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Insolvenční správce v konkursu pověřil zpeněžením stroje externí dražební firmu (§ 40 odst. 2) a spolehl se na její ocenění. Stroj byl prodán za 200 000 Kč, ačkoli jeho tržní hodnota byla podle pozdějšího znaleckého posudku 900 000 Kč; dražební firma postupovala nedbale (neoslovила specializované zájemce). Zajištěný věřitel, jehož uspokojení se tím snížilo, podá po roce od zjištění škody žalobu na náhradu škody proti správci. Důkazy: smlouva s dražební firmou, dražební dokumentace, znalecký posudek hodnoty stroje, vyčíslení snížení uspokojení věřitele.
+
+**2. Právní otázka.** Odpovídá insolvenční správce podle § 37 za škodu způsobenou nedbalostí externí osoby, kterou použil při výkonu funkce (§ 40 odst. 2), a může se liberovat poukazem na to, že pochybila třetí osoba?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 37 odst. 1 (odpovědnost za porušení povinností a absenci odborné péče; liberace jen při vynaložení veškerého úsilí), odst. 2 (odpovědnost i za osoby dle § 40 odst. 2 použité při výkonu funkce), odst. 4 (promlčení — 2 roky subjektivní, 3 roky objektivní, 10 let u úmyslného trestného činu).
+- *Související ustanovení téhož zákona:* § 36 odst. 1 (standard odborné péče a přednost společného zájmu věřitelů), § 40 odst. 2 (výkon funkce prostřednictvím externích osob při zachování odpovědnosti), § 23 (pojištění jako zdroj úhrady), § 298 a násl. (zpeněžení zajištění — postup vůči zajištěnému věřiteli).
+- *Související předpisy:* § 2913 OZ (náhrada škody — přiměřeně systémově).
+- *Judikatura:* NS 29 NSČR 9/2014 (standard odborné péče = profesionál, nikoli laik); NS 29 NSČR 60/2017 (liberace restriktivně — „udělal jsem, co bylo v silách" nestačí, nutné doložit konkrétní úkony); NS 25 Cdo 4096/2014 (regres pojistitele při úmyslném porušení).
+
+**4. Subsumpce.** Vznik škody (rozdíl 700 000 Kč v uspokojení) + porušení odborné péče (správce přejal cizí ocenění bez kontroly a nezajistil oslovení zájemců) + příčinná souvislost → předpoklady § 37 odst. 1 jsou dány. Odpovědnost se vztahuje i na nedbalost dražební firmy coby osoby použité při výkonu funkce (§ 37 odst. 2 ve spojení s § 40 odst. 2). Liberace (nemohl škodě zabránit ani při veškerém úsilí) zde neobstojí — kontrola ocenění a výběr zájemců byly v jeho možnostech (NS 29 NSČR 60/2017). Žaloba je podána včas (2 roky od zjištění, § 37 odst. 4).
+
+**5. Řešení.** Správce odpovídá za škodu; plnění se primárně hradí z jeho pojištění (§ 23), nad limit z osobního majetku (exekuce za škodu není vyloučena § 40a). Liberace neúspěšná pro absenci doložení veškerého úsilí. Procesní kroky věřitele: doložit tržní hodnotu, nedbalost externí firmy a kauzalitu; uplatnit nárok v promlčecí době dle § 37 odst. 4.
+
+**6. Varianty.** (a) Správce by zajistil řádné znalecké ocenění a otevřené výběrové řízení a stroj přesto prodal za nižší (avšak tehdy nejvyšší dosažitelnou) cenu → liberace by mohla obstát, chybí porušení péče. (b) Škoda by byla způsobena úmyslným trestným činem správce, za který byl pravomocně odsouzen → prodloužení promlčecí doby na 10 let od skončení řízení (§ 37 odst. 4) a regres pojistitele (NS 25 Cdo 4096/2014).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Pochybila dražební firma, ne já." — Neutralizace: § 37 odst. 2 ve spojení s § 40 odst. 2 zakládá odpovědnost správce i za osoby, jichž použil; outsourcing nezbavuje odpovědnosti (riziko delegace nese správce).
+- *Protiargument:* „Vynaložil jsem běžnou péči, víc nelze žádat." — Neutralizace: standard je profesionální (NS 29 NSČR 9/2014) a liberace restriktivní (NS 29 NSČR 60/2017) — nutné doložit konkrétní úkony (znalecké ocenění, oslovení zájemců).
+- *Slabé místo:* spornou bývá výše škody a kauzalita (jakou cenu by stroj reálně dosáhl); věřitel nese důkazní břemeno tržní hodnoty a příčinné souvislosti.
+
+### H. Praktický závěr
+
+Správce nese kvázi-objektivní odpovědnost za škodu způsobenou porušením povinností či absencí odborné péče, a to i za osoby, jichž při výkonu funkce použil; liberace je restriktivní (nutno doložit veškeré úsilí) a nároky se promlčují ve 2/3 letech, u úmyslného trestného činu v 10 letech.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Prokázat škodu, porušení povinnosti/odborné péče a příčinnou souvislost.
+- [ ] U delegovaných úkonů ověřit odpovědnost za osoby dle § 40 odst. 2.
+- [ ] Posoudit liberaci podle doložení konkrétních úkonů (nikoli obecných tvrzení).
+- [ ] Hlídat promlčecí lhůty (2 roky subjektivní / 3 roky objektivní / 10 let u úmyslného trestného činu).
+
+**Typicky rozhodné důkazy / podklady:** smlouvy s externími osobami a dokumentace jejich úkonů, znalecké ocenění a doklady o výběru nabídek, vyčíslení škody/snížení uspokojení, pojistná smlouva správce.
 
 ---
 
@@ -721,6 +1323,42 @@ Detailní výpočet — **vyhláška č. 313/2007 Sb. o odměně insolvenčního
 - **§ 304** — projednání konečné zprávy a vyúčtování.
 - **Vyhláška č. 313/2007 Sb.** — sazby.
 
+### F. Kazuistika
+
+**1. Modelová situace.** V konkursu správce zpeněžil podstatu, přezkoumal 80 přihlášek a v konečné zprávě vyúčtoval odměnu z výtěžku i z počtu přihlášek. Věřitelský výbor i soud zjistí, že správce v průběhu řízení nenavrhl částečný rozvrh, ačkoli stav zpeněžení to dávno umožňoval, čímž věřitelé po dobu dvou let neobdrželi plnění; navíc opožděně podával zprávy. Správce žádá odměnu v plné vyhláškové výši. Důkazy: konečná zpráva a vyúčtování, přehled stavu zpeněžení v čase, spisový přehled o podaných zprávách.
+
+**2. Právní otázka.** Může insolvenční soud po projednání s věřitelským výborem odměnu insolvenčního správce přiměřeně snížit podle § 38 odst. 3, jestliže správce porušil povinnosti a nenavrhl částečný rozvrh, ačkoli to stav zpeněžení umožňoval?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 38 odst. 1 (právo na odměnu a náhradu výdajů; určení v konkursu z počtu přezkoumaných přihlášek a z výtěžku; DPH u plátce), odst. 3 (vyúčtování v konečné zprávě; možnost soudu odměnu přiměřeně zvýšit/snížit; snížení zejména při porušení povinností nebo nenavržení částečného rozvrhu), odst. 2 (pořadí uspokojení; subsidiární úhrada státem do limitu).
+- *Související ustanovení téhož zákona:* § 36 (povinnosti — reporting), § 168 odst. 2 písm. a) (odměna jako pohledávka za podstatou), § 304 (projednání konečné zprávy a vyúčtování), § 301 a násl. (rozvrh; částečný rozvrh).
+- *Související předpisy:* vyhláška č. 313/2007 Sb. (sazby odměny a náhrad výdajů).
+- *Judikatura:* k souvislosti porušení povinností a důsledků v odměňování srov. systémově NS 29 NSČR 4/2018 (citováno u § 32).
+
+**4. Subsumpce.** Nenavržení částečného rozvrhu, ačkoli to stav zpeněžení umožňoval, je výslovně uvedeným důvodem snížení (§ 38 odst. 3 věta třetí); opožděné podávání zpráv je porušením povinností (§ 36) rovněž zakládajícím snížení. Naplněn je tedy znak „důvod ke snížení odměny". Sporné: míra (přiměřenost) snížení — soud ji určuje s ohledem na závažnost a dopad na věřitele po projednání s výborem.
+
+**5. Řešení.** Soud po projednání s věřitelským výborem odměnu přiměřeně sníží (§ 38 odst. 3) — nejde o úplné odepření, nýbrž o korekci reflektující porušení a poškození věřitelů prodlením s rozvrhem. Vyúčtování se projedná v rámci konečné zprávy (§ 304). Procesní krok: soud snížení odůvodní; proti rozhodnutí o schválení vyúčtování je přípustné odvolání oprávněných osob.
+
+**6. Varianty.** (a) Správce by naopak dosáhl mimořádného výtěžku při neobvyklé náročnosti řízení → soud může odměnu přiměřeně zvýšit (§ 38 odst. 3). (b) Podstata i záloha by nestačily → odměnu hradí stát jen do limitu 50 000 Kč na odměně a 50 000 Kč na výdajích (§ 38 odst. 2); zbytek správce nedostane (riziko „prázdných" konkursů).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Odměna podle vyhlášky je nároková a nelze ji krátit." — Neutralizace: § 38 odst. 3 výslovně umožňuje přiměřené zvýšení i snížení; vyhlášková sazba je východiskem, nikoli nedotknutelným nárokem.
+- *Protiargument:* „Částečný rozvrh nebyl povinný." — Neutralizace: zákon spojuje jeho nenavržení (umožňoval-li to stav zpeněžení) přímo s důvodem ke snížení odměny; jde o měřítko řádného výkonu funkce.
+- *Slabé místo:* „přiměřenost" snížení je neurčitý pojem se širokou diskrecí soudu; výsledek je málo předvídatelný a závisí na projednání s výborem a odůvodnění.
+
+### H. Praktický závěr
+
+Správce má nárok na odměnu (v konkursu z výtěžku a z počtu přezkoumaných přihlášek) a náhradu výdajů, soud ji však po projednání s věřitelským výborem může přiměřeně zvýšit či snížit — snížení typicky při porušení povinností nebo nenavržení částečného rozvrhu; subsidiárně hradí odměnu stát jen do zákonného limitu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vyúčtovat odměnu a výdaje v konečné zprávě (či ve zprávě o činnosti) s doložením počtu přihlášek a výtěžku.
+- [ ] Posoudit důvody pro zvýšení/snížení (náročnost, výtěžek vs. porušení povinností, nenavržení částečného rozvrhu).
+- [ ] Projednat změnu odměny s věřitelským výborem a snížení odůvodnit.
+- [ ] Ověřit pořadí úhrady (podstata → záloha → stát do limitu) a status pohledávky za podstatou.
+
+**Typicky rozhodné důkazy / podklady:** konečná zpráva a vyúčtování odměny/výdajů, doklad o počtu přezkoumaných přihlášek a o výtěžku zpeněžení, přehled stavu zpeněžení v čase, spisový přehled o podaných zprávách.
+
 ---
 
 ## § 39 — Náklady správce; záloha věřitelů
@@ -753,6 +1391,42 @@ mohou být náklady hrazeny z podstaty, ale **jen při schválení věřitelský
 ### Praktická poznámka
 
 Schválení externích nákladů věřitelským výborem je v praxi formalita ve většině řízení s aktivním výborem; bez výboru (malá řízení) musí schvalovat soud (analogicky § 11 odst. 2).
+
+### F. Kazuistika
+
+**1. Modelová situace.** Ve složitém konkursu s aktivy v zahraničí správce najme specializovanou advokátní kancelář pro vedení sporu o majetek v Rakousku a znalecký ústav pro ocenění průmyslového areálu. Náklady (1,2 mil. Kč) chce hradit z majetkové podstaty. Část věřitelů namítá, že jde o běžnou činnost správce, kterou má nést ze své odměny. Důkazy: mandátní smlouvy s advokáty a znalci, doklad o předchozím schválení věřitelským výborem (či jeho absenci), odůvodnění účelnosti vzhledem k rozsahu řízení.
+
+**2. Právní otázka.** Lze náklady na právní, ekonomické a jiné specializované odborníky hradit z majetkové podstaty podle § 39 odst. 3, nebo jsou součástí odměny správce (§ 39 odst. 2), a jaké jsou podmínky takové úhrady?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 39 odst. 1 (věřitelská záloha na výdaje se souhlasem soudu a výboru), odst. 2 (náklady na činnosti, k nimž je správce povinen, jsou zahrnuty v odměně a nese je ze svého; výjimečně úhrada z podstaty u osob dle § 40 odst. 2 se souhlasem soudu a výboru), odst. 3 (náklady na specializované odborníky z podstaty jen při účelnosti vzhledem k rozsahu/náročnosti a předchozím schválení věřitelským výborem).
+- *Související ustanovení téhož zákona:* § 38 (odměna), § 40 odst. 2 (výkon funkce prostřednictvím jiných osob), § 58–68 (věřitelský výbor), § 168 (pohledávky za podstatou).
+- *Související předpisy:* § 11 odst. 2 IZ (rozhoduje-li tam, kde jinak výbor, soud — pro řízení bez výboru).
+- *Judikatura:* k tomu, že odpovědnost správce trvá i při delegaci, srov. NS 29 NSČR 47/2013 (citováno u § 40) a NS 29 NSČR 9/2014 (citováno u § 37).
+
+**4. Subsumpce.** Vedení zahraničního sporu specializovanými advokáty a ocenění znaleckým ústavem nejsou rutinní činností správce, nýbrž využitím specializovaných odborníků → spadají pod § 39 odst. 3, nikoli pod „from own pocket" pravidlo odst. 2. Úhrada z podstaty je však podmíněna účelností vzhledem k rozsahu/náročnosti řízení a předchozím schválením věřitelským výborem. Sporné/neúplné: zda byl souhlas výboru udělen předem (jinak nelze náklady z podstaty hradit).
+
+**5. Řešení.** Je-li dán předchozí souhlas výboru a účelnost (rozsáhlé řízení s aktivy v zahraničí), lze náklady 1,2 mil. Kč hradit z podstaty (§ 39 odst. 3). Chybí-li předchozí souhlas, úhrada z podstaty není přípustná a náklady jdou k tíži správce (resp. je třeba dodatečně řešit cestou § 11 odst. 2, není-li výbor). Procesní krok: doložit účelnost (porovnání nákladů a očekávaného přínosu pro podstatu) a předchozí schválení.
+
+**6. Varianty.** (a) Šlo by o vlastní právní práci správce a běžnou administrativu kanceláře → odst. 2: zahrnuto v odměně, nelze účtovat z podstaty. (b) V řízení není ustanoven věřitelský výbor → souhlas dává soud (§ 11 odst. 2 analogicky), jak uvádí praktická poznámka u tohoto paragrafu.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Spory a oceňování jsou běžná agenda správce hrazená z odměny." — Neutralizace: specializované právní/ekonomické/technické služby spadají pod výjimku § 39 odst. 3; rozhodující je specializovaná povaha a účelnost, nikoli to, že jde formálně o úkony v řízení.
+- *Protiargument:* „Souhlas výboru lze doplnit dodatečně." — Neutralizace: § 39 odst. 3 vyžaduje předchozí schválení; dodatečné schválení nezakládá nárok na úhradu z podstaty.
+- *Slabé místo:* „účelnost vzhledem k rozsahu a náročnosti" je neurčitý pojem; bez doložení přiměřenosti nákladů hrozí jejich neuznání a přenesení na správce.
+
+### H. Praktický závěr
+
+Rutinní činnosti správce jsou zahrnuty v odměně a nese je ze svého; náklady na specializované odborníky lze hradit z podstaty jen při účelnosti vzhledem k rozsahu řízení a předchozím souhlasu věřitelského výboru (bez výboru rozhoduje soud). Věřitelé mohou správci poskytnout zálohu na výdaje.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Rozlišit rutinní činnost správce (odst. 2 — z odměny) od specializovaných odborníků (odst. 3 — z podstaty).
+- [ ] Zajistit předchozí schválení nákladů věřitelským výborem (bez výboru soudem dle § 11 odst. 2).
+- [ ] Doložit účelnost a přiměřenost nákladů vzhledem k rozsahu a náročnosti řízení.
+- [ ] U věřitelské zálohy ověřit souhlas soudu a podmínky vyúčtování (odst. 1).
+
+**Typicky rozhodné důkazy / podklady:** mandátní/příkazní smlouvy s odborníky, rozhodnutí věřitelského výboru o předchozím schválení, odůvodnění účelnosti (poměr nákladů a přínosu pro podstatu), doklady o věřitelské záloze.
 
 ---
 
@@ -801,6 +1475,42 @@ Schválení externích nákladů věřitelským výborem je v praxi formalita ve
 
 - **NS 29 NSČR 47/2013**: úkon správce učiněný bez označení „insolvenční správce dlužníka X" je jeho úkonem osobním, nikoli jako správce. Vede k osobní odpovědnosti.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Insolvenční správce v konkursu prodává nemovitost z majetkové podstaty. Kupní smlouvu podepíše jako „Jan Novák", bez uvedení, že jedná jako insolvenční správce dlužníka ABC s.r.o. Po několika měsících kupující požaduje plnění ze smlouvy a žaluje „Jana Nováka" osobně, neboť ze smlouvy není patrné, že šlo o úkon při výkonu funkce na účet dlužníka. Důkazy: kupní smlouva s označením stran, údaj o přechodu dispozičních oprávnění na správce (po prohlášení konkursu), výpis z insolvenčního rejstříku.
+
+**2. Právní otázka.** Jaké účinky má jednání insolvenčního správce „svým jménem na účet dlužníka" podle § 40 odst. 3 a 4 a jaké jsou důsledky toho, neuvede-li správce v označení, že jedná při výkonu funkce a nezamění-li dlužníka?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 40 odst. 1 (osobní výkon; v.o.s. ohlášeným společníkem), odst. 2 (výkon prostřednictvím zaměstnanců/externistů bez dotčení odpovědnosti), odst. 3 (jednání svým jménem na účet dlužníka; povinné označení s nezaměnitelným označením dlužníka), odst. 4 (typové úkony — zpeněžení, incidenční a jiné spory místo dlužníka), odst. 5 (pověření zaměstnance v jiných řízeních).
+- *Související ustanovení téhož zákona:* § 24 odst. 2 (v.o.s. a ohlášený společník), § 37 odst. 2 (odpovědnost za externí osoby), § 246 (přechod dispozičních oprávnění v konkursu).
+- *Související předpisy:* § 436 a násl. OZ (zastoupení — systémové vymezení; zde však jde o jednání vlastním jménem na cizí účet).
+- *Judikatura:* NS 29 NSČR 47/2013 (citováno výše) — úkon správce bez označení „insolvenční správce dlužníka X" je jeho úkonem osobním, vede k osobní odpovědnosti; NS 20 Cdo 4879/2017 (citováno výše) — pohledávku týkající se majetkové podstaty nelze v exekuci vedené pro dlužníka postihnout, byť oprávněným je správce.
+
+**4. Subsumpce.** Správce sice po přechodu dispozičních oprávnění (§ 246) jednal v rámci funkce, avšak v označení neuvedl, že jde o výkon funkce, a nezaměnitelně neoznačil dlužníka → nesplnil požadavek § 40 odst. 3 věty druhé. Dle NS 29 NSČR 47/2013 je proto úkon považován za osobní úkon Jana Nováka. Sporné: zda lze vůli jednat jako správce dovodit z jiných okolností (např. z odkazu na spisovou značku) — výklad je restriktivní.
+
+**5. Řešení.** Vada označení vede k tomu, že smlouva zavazuje správce osobně, nikoli majetkovou podstatu; hrozí osobní odpovědnost a riziko mimo ochranu § 40a. Náprava: oprava/doplnění označení dohodou stran, případně řešení následků osobní odpovědnosti. Procesní krok do budoucna: důsledně užívat formulaci typu „JUDr. Jan Novák, insolvenční správce dlužníka ABC s.r.o., IČO …".
+
+**6. Varianty.** (a) Správcem je v.o.s. → jedná ohlášeným společníkem (§ 40 odst. 1, § 24 odst. 2); chybné označení společníka může mít obdobné následky. (b) Úkon by se týkal jiného soudního řízení dlužníka → správce může pověřit zaměstnance (§ 40 odst. 5), aniž tím dotkne svou odpovědnost.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Z okolností bylo zřejmé, že jednám jako správce, označení je formalita." — Neutralizace: § 40 odst. 3 vyžaduje výslovné označení; dle NS 29 NSČR 47/2013 jeho absence činí úkon osobním, ochrana přechodu účinků na podstatu se neuplatní.
+- *Protiargument:* „Odpovědnost stejně nesu jen v rámci funkce." — Neutralizace: bez správného označení jde o osobní závazek mimo režim jednání na účet dlužníka; věřitel se může domáhat plnění přímo po fyzické osobě.
+- *Slabé místo:* hranice mezi „jednáním na účet dlužníka" a osobním úkonem závisí na formulaci označení; nejednotná praxe a opomenutí vedou ke sporům o pasivní legitimaci.
+
+### H. Praktický závěr
+
+Správce jedná vlastním jménem na účet dlužníka a musí být označen tak, aby bylo patrné, že jedná při výkonu funkce, včetně nezaměnitelného označení dlužníka; chybné označení činí úkon osobním (osobní odpovědnost). Delegace na zaměstnance/externisty nedotýká odpovědnosti správce.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] V každém úkonu uvést, že správce jedná při výkonu funkce, a nezaměnitelně označit dlužníka (název, IČO).
+- [ ] U v.o.s. jednat ohlášeným společníkem a správně jej označit (§ 24 odst. 2).
+- [ ] Ověřit, že na správce přešla dispoziční oprávnění (§ 246), než jedná na účet dlužníka.
+- [ ] Při delegaci úkonů pamatovat na trvající odpovědnost správce (§ 37 odst. 2).
+
+**Typicky rozhodné důkazy / podklady:** listina s označením jednajícího (smlouva, podání), výpis z insolvenčního rejstříku o ustanovení správce a přechodu dispozic, doklady o pověření zaměstnance/externisty.
+
 ---
 
 ## § 40a — Vyloučení exekuce na majetek správce
@@ -824,6 +1534,41 @@ Bez této imunity by správce nesl *neúměrné riziko* — žaloby věřitelů 
 - **§ 37** — odpovědnost za škodu (toto omezení se neuplatní — exekuce za škodu je možná z osobního majetku správce).
 - **§ 81** — pořádková pokuta.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Insolvenční správce v rámci provozu podniku v majetkové podstatě uzavřel za řízení smlouvu o dodávce energií; dodavatel za neuhrazené dodávky (pohledávka za podstatou) získá proti správci platební rozkaz a navrhne exekuci na osobní bankovní účet správce. Souběžně soud uložil témuž správci pořádkovou pokutu za opožděnou zprávu a náhradu nákladů incidenčního sporu, který správce zavinil procesním pochybením. Důkazy: exekuční titul a jeho právní důvod (pohledávka týkající se podstaty vs. pořádková pokuta vs. zaviněné náklady), exekuční návrh.
+
+**2. Právní otázka.** Lze proti insolvenčnímu správci vést výkon rozhodnutí na jeho osobní majetek pro pohledávky týkající se majetkové podstaty (§ 40a), a na které tituly se vyloučení exekuce nevztahuje?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 40a — vyloučení výkonu rozhodnutí na majetek správce pro pohledávky/práva týkající se podstaty nebo uspokojitelné z podstaty; výjimky pro pořádková opatření a pro náhradu nákladů řízení způsobených zaviněním správce nebo vzniklých náhodou, jež se mu přihodila.
+- *Související ustanovení téhož zákona:* § 37 (odpovědnost za škodu — exekuce na osobní majetek za škodu vyloučena není), § 81 (pořádková pokuta), § 168 (pohledávky za podstatou — uspokojení z podstaty).
+- *Související předpisy:* § 251 a násl. OSŘ, zákon č. 120/2001 Sb. (exekuční řád) — přiměřeně.
+- *Judikatura:* NS 20 Cdo 4879/2017 (citováno u § 40) — pohledávku týkající se majetkové podstaty nelze v exekuci postihnout, byť oprávněným je správce — potvrzuje oddělení sféry podstaty od osobní sféry správce.
+
+**4. Subsumpce.** Pohledávka dodavatele energií je pohledávkou týkající se majetkové podstaty (vznikla z úkonu správce při provozu podniku) → výkon rozhodnutí na osobní majetek správce je dle § 40a vyloučen; věřitel se uspokojí z podstaty (§ 168). Naproti tomu pořádková pokuta a náhrada nákladů zaviněně způsobených správcem spadají pod výjimky § 40a → pro ně lze exekuci na osobní majetek vést. Sporné: zařazení konkrétního titulu (zda náklady vznikly zaviněním správce).
+
+**5. Řešení.** Exekuce dodavatele na osobní účet správce je nepřípustná (§ 40a); dodavatel musí svou pohledávku za podstatou uspokojit v insolvenčním řízení. Pro pořádkovou pokutu a zaviněně způsobené náklady naopak exekuce na osobní majetek možná je. Procesní krok správce: bránit se proti nepřípustné exekuci (zastavení výkonu) s poukazem na § 40a a NS 20 Cdo 4879/2017.
+
+**6. Varianty.** (a) Titul by zněl na náhradu škody způsobené správcem (§ 37) → § 40a se neuplatní, exekuce na osobní majetek je přípustná (chrání oprávněné nároky poškozených). (b) Pohledávka by nesouvisela s podstatou ani by neměla být z podstaty uspokojena → § 40a nedopadá, jde o běžný osobní dluh správce.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Mám exekuční titul proti správci, mohu vést exekuci na jeho majetek." — Neutralizace: § 40a vylučuje výkon na osobní majetek u titulů týkajících se podstaty; uspokojení patří do insolvenčního řízení (§ 168), jak potvrzuje NS 20 Cdo 4879/2017.
+- *Protiargument:* „Vyloučení exekuce kryje správce i za jeho pochybení." — Neutralizace: výjimky § 40a (pořádková opatření, zaviněné náklady) a samostatně § 37 (škoda) osobní majetek správce exekuci vystavují; imunita není absolutní.
+- *Slabé místo:* správné zařazení titulu (pohledávka podstaty vs. výjimka) je klíčové; nesprávné posouzení vede buď k nepřípustné exekuci, nebo k nedůvodnému odepření výkonu.
+
+### H. Praktický závěr
+
+Pro pohledávky týkající se majetkové podstaty nelze vést exekuci na osobní majetek správce — uspokojují se z podstaty; výjimkou jsou pořádková opatření a náklady zaviněně způsobené správcem a samostatně odpovědnost za škodu (§ 37), u nichž je výkon na osobní majetek přípustný.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit právní důvod titulu (pohledávka týkající se podstaty vs. pořádkové opatření / zaviněné náklady / náhrada škody).
+- [ ] U pohledávek podstaty směřovat uspokojení do insolvenčního řízení (§ 168), nikoli do exekuce na správce.
+- [ ] Proti nepřípustné exekuci uplatnit § 40a (návrh na zastavení výkonu).
+
+**Typicky rozhodné důkazy / podklady:** exekuční titul a jeho odůvodnění (právní důvod pohledávky), doklady o vzniku pohledávky z úkonu správce při výkonu funkce, případně rozhodnutí o pořádkové pokutě či o nákladech zaviněných správcem.
+
 ---
 
 ## § 41 — § 42 — Úvěrové financování
@@ -832,6 +1577,42 @@ Bez této imunity by správce nesl *neúměrné riziko* — žaloby věřitelů 
 
 > (1) Insolvenční správce může pro udržení nebo obnovení provozu podniku, který je součástí majetkové podstaty, uzavřít za obvyklých obchodních podmínek smlouvy o úvěru a smlouvy obdobné, jakož i smlouvy na dodávky energií a surovin, včetně smluv o zajištění splnění těchto smluv (dále jen „úvěrové financování").
 > (2) Nenabídnou-li horší podmínky než nejlepší nabídka, mají dosavadní zajištění věřitelé přednostní právo, aby smlouvy podle odstavce 1 byly uzavřeny s nimi; to platí obdobně pro věřitele ze smluv na dodávky energií a surovin podle odstavce 1.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Insolvenční správce ve „going concern" konkursu (resp. dlužník s dispozičními oprávněními v reorganizaci) potřebuje obnovit provoz výrobní haly: zajistit dodávky energií, surovin a krátkodobý provozní úvěr. Oslovené banky nabídnou úvěr; obdobnou nabídku ale předloží i dosavadní zajištěný věřitel Z (financující banka), který se dovolává přednostního práva uzavřít smlouvu se sebou. Správce zvažuje, zda smí smlouvy o úvěrovém financování vůbec uzavřít bez souhlasu věřitelského výboru a za jakých podmínek musí dát přednost věřiteli Z. Důkazy: nabídky financování, srovnání jejich podmínek, doklad o účelu (udržení/obnovení provozu), souhlas věřitelského orgánu (§ 289 obdobně), zástavní pozice věřitele Z.
+
+**2. Právní otázka.** Za jakých podmínek smí správce uzavřít smlouvy o úvěrovém financování podle § 41 odst. 1 a kdy musí přednostně uzavřít smlouvu s dosavadními zajištěnými věřiteli podle § 41 odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 41 odst. 1 (správce může pro udržení/obnovení provozu podniku uzavřít za obvyklých obchodních podmínek smlouvy o úvěru a smlouvy obdobné, na dodávky energií a surovin a smlouvy zajišťovací — „úvěrové financování"); odst. 2 (dosavadní zajištění věřitelé mají přednostní právo, aby smlouvy byly uzavřeny s nimi, nenabídnou-li horší podmínky než nejlepší nabídka; obdobně pro dodavatele energií a surovin).
+- *Související ustanovení téhož zákona:* § 168 odst. 2 písm. g) (pohledávky z úvěrového financování jako pohledávky za podstatou), § 124 (moratorium), § 316 (reorganizace), § 330 (dlužník s dispozičními oprávněními), § 42 (režim majetku a vázanost účelem — viz dále).
+- *Související předpisy:* § 2395 a násl. OZ (smlouva o úvěru — obvyklé obchodní podmínky).
+- *Judikatura:* institut je v praxi vzácný; nosné publikované rozhodnutí k § 41 není v komentáři citováno — vychází se ze znění a účelu (DIP financing).
+
+**4. Subsumpce.** Smlouvy směřují k udržení/obnovení provozu podniku, který je součástí majetkové podstaty, a jsou sjednány za obvyklých obchodních podmínek → naplňují hypotézu § 41 odst. 1; správce je proto uzavřít smí (v rámci dispozic s podstatou se souhlasem věřitelského orgánu, je-li vyžadován). Dosavadní zajištěný věřitel Z má přednostní právo uzavřít smlouvu se sebou pouze tehdy, nenabídne-li horší podmínky než nejlepší nabídka (§ 41 odst. 2) — jde o právo dorovnání nejlepší nabídky, nikoli o automatickou prioritu. Sporné: srovnatelnost (cena, zajištění, splatnost) konkurujících nabídek.
+
+**5. Řešení.** Správce transparentně shromáždí a porovná nabídky, určí nejlepší z nich a umožní dosavadním zajištěným věřitelům ji dorovnat; dorovná-li věřitel Z, uzavře smlouvu s ním (§ 41 odst. 2), jinak s nejlepším nabízejícím. Smlouvy musí být za obvyklých obchodních podmínek (bez „extra ziskovosti") a účelově určené k udržení/obnovení provozu (§ 41 odst. 1). Procesní krok: dokumentovat výběr a srovnání nabídek a vyžádat souhlas věřitelského orgánu.
+
+**6. Varianty.** (a) Jde o dodávky energií a surovin → přednostní právo dosavadních dodavatelů se uplatní obdobně (§ 41 odst. 2 in fine). (b) Financování poskytuje za moratoria nebo v reorganizaci sám dlužník s dispozičními oprávněními → je k uzavření smluv oprávněn (§ 42 odst. 3), režim § 41 platí obdobně. (c) Podmínky nejsou „obvyklé" (lichvářský úrok) → smlouva vybočuje z § 41 odst. 1 a hrozí odpovědnost správce za škodu (§ 37).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Jako zajištěný věřitel máme automaticky právo financovat my." — Neutralizace: § 41 odst. 2 zakládá pouze právo dorovnat nejlepší nabídku; nepřijdou-li dosavadní věřitelé alespoň se stejně dobrými podmínkami, smlouva se uzavře s nejlepším nabízejícím.
+- *Protiargument:* „Správce nesmí zadlužovat podstatu novým úvěrem." — Neutralizace: § 41 odst. 1 výslovně opravňuje správce uzavřít úvěrové financování pro udržení/obnovení provozu; pohledávky z něj jsou pohledávkami za podstatou (§ 168 odst. 2 písm. g).
+- *Slabé místo:* posouzení „obvyklých obchodních podmínek" a srovnatelnosti nabídek je hodnotící; chybná volba může vést k námitkám věřitelů i k odpovědnosti správce za škodu (§ 37).
+
+#### H. Praktický závěr
+
+Správce (resp. dlužník s dispozičními oprávněními či za moratoria) může pro udržení nebo obnovení provozu uzavřít za obvyklých obchodních podmínek smlouvy o úvěrovém financování a o dodávkách energií a surovin (§ 41 odst. 1); dosavadním zajištěným věřitelům svědčí právo dorovnat nejlepší nabídku a uzavřít smlouvu se sebou (§ 41 odst. 2). Klíčem je transparentní výběr nabídek a doložení účelu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Doložit, že financování slouží udržení/obnovení provozu podniku v majetkové podstatě (§ 41 odst. 1).
+- [ ] Sjednat smlouvy za obvyklých obchodních podmínek a získat souhlas věřitelského orgánu, je-li vyžadován.
+- [ ] Shromáždit a transparentně porovnat nabídky a umožnit dosavadním zajištěným věřitelům dorovnání (§ 41 odst. 2).
+- [ ] U dodávek energií a surovin respektovat přednostní právo dosavadních dodavatelů (§ 41 odst. 2 in fine).
+
+**Typicky rozhodné důkazy / podklady:** konkurující nabídky financování a jejich srovnání, doklad o účelu (reorganizační plán / provozní rozpočet), souhlas věřitelského orgánu, zástavní pozice dosavadních věřitelů.
 
 ### § 42
 
@@ -865,6 +1646,42 @@ Bez této imunity by správce nesl *neúměrné riziko* — žaloby věřitelů 
 ### Praktická poznámka
 
 V ČR je úvěrové financování v insolvenci stále poměrně **vzácné** — banky se zdráhají poskytovat „čerstvé peníze" do insolventních dlužníků, byť mají statut pohledávky za podstatou (vyšší priorita než přihlášené pohledávky). Typicky se používá při reorganizacích větších výrobních podniků, kde je *going concern* mnohonásobně výhodnější než likvidace.
+
+### F. Kazuistika
+
+**1. Modelová situace.** V reorganizaci výrobního podniku potřebuje správce (resp. dlužník s dispozičními oprávněními) zachovat provoz: pořídit suroviny a zajistit pracovní kapitál. Banka B nabídne úvěrové financování zajištěné nově pořízenými zásobami. Dosavadní zajištěný věřitel Z, který má zástavní právo k veškerým „současným i budoucím" zásobám, namítá, že nové zásoby spadají pod jeho zajištění, a dále se domáhá přednostního práva uzavřít financování sám. Důkazy: reorganizační plán, nabídka banky B a věřitele Z, zástavní smlouva věřitele Z, doklad o účelovém určení prostředků.
+
+**2. Právní otázka.** Spadá majetek pořízený z úvěrového financování pod dříve zřízené zajištění (§ 42 odst. 1) a za jakých podmínek mají dosavadní zajištění věřitelé přednostní právo uzavřít smlouvy o úvěrovém financování (§ 41 odst. 2)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 41 odst. 1 (uzavírání smluv o úvěru/dodávkách za obvyklých podmínek pro udržení/obnovení provozu), odst. 2 (přednostní právo dosavadních zajištěných věřitelů, nenabídnou-li horší podmínky než nejlepší nabídka); § 42 odst. 1 (anti-stacking — majetek z financování není předmětem dřívějšího zajištění), odst. 2 (vázanost účelem), odst. 3 (okruh oprávněných — i dlužník s dispozičními oprávněními a za moratoria).
+- *Související ustanovení téhož zákona:* § 168 odst. 2 písm. g) (pohledávky z úvěrového financování jako pohledávky za podstatou), § 124 (moratorium), § 316 (reorganizace), § 330 (dlužník s dispozičními oprávněními).
+- *Související předpisy:* § 1309 a násl. OZ (zástavní právo — systémově k rozsahu zajištění).
+- *Judikatura:* institut je v praxi vzácný; nosné publikované rozhodnutí k § 41–42 není v komentáři citováno — vychází se ze znění a účelu (DIP financing).
+
+**4. Subsumpce.** Nové zásoby byly pořízeny z prostředků úvěrového financování → dle § 42 odst. 1 nejsou předmětem dřívějšího zajištění věřitele Z, byť jeho zástavní smlouva pokrývá „budoucí" zásoby (anti-stacking má přednost, jinak by nové financování nebylo možné). Věřitel Z má přednostní právo uzavřít financování sám pouze tehdy, nenabídne-li horší podmínky než nejlepší nabídka (§ 41 odst. 2). Prostředky lze použít jen k účelu dle smluv (§ 42 odst. 2). Sporné: srovnatelnost nabídek Z a banky B.
+
+**5. Řešení.** Financování od banky B je přípustné; nové zásoby jsou vyhrazeny novému věřiteli (§ 42 odst. 1) a pohledávka B má status pohledávky za podstatou (§ 168 odst. 2 písm. g). Věřiteli Z svědčí přednostní právo, jen pokud dorovná nejlepší nabídku; jinak se uzavře smlouva s B. Prostředky musí být použity účelově (§ 42 odst. 2). Procesní krok: transparentně porovnat nabídky a umožnit Z dorovnání.
+
+**6. Varianty.** (a) Věřitel Z nabídne podmínky alespoň stejně dobré jako B → uplatní přednostní právo a financování uzavře sám (§ 41 odst. 2). (b) Prostředky by správce/dlužník použil na jiný účel (např. mimořádné platby spřízněným osobám) → porušení § 42 odst. 2 s rizikem vypovězení smlouvy a odpovědnosti správce za škodu (§ 37).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Nové zásoby spadají pod naše ‚budoucí' zajištění." — Neutralizace: § 42 odst. 1 výslovně vylučuje majetek pořízený z financování z dřívějšího zajištění; jinak by nový věřitel neměl prioritu a financování by nevzniklo.
+- *Protiargument:* „Jako zajištěný věřitel máme automaticky právo financovat my." — Neutralizace: přednostní právo dle § 41 odst. 2 je podmíněno tím, že nenabídnete horší podmínky než nejlepší nabídka; jde o právo dorovnání, nikoli o automatickou prioritu.
+- *Slabé místo:* institut je v ČR vzácný a judikaturně málo ukotvený; banky se zdráhají poskytovat „čerstvé peníze", takže reálná dostupnost financování a srovnatelnost nabídek bývají sporné.
+
+### H. Praktický závěr
+
+Úvěrové financování (DIP) umožňuje udržet provoz podniku v podstatě; majetek z něj pořízený nepodléhá dřívějšímu zajištění (§ 42 odst. 1), prostředky jsou vázány účelem (§ 42 odst. 2) a dosavadní zajištění věřitelé mají právo dorovnat nejlepší nabídku (§ 41 odst. 2). Pohledávky z financování jsou pohledávkami za podstatou.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Sjednat financování za obvyklých obchodních podmínek a doložit jeho účelnost pro udržení/obnovení provozu.
+- [ ] Umožnit dosavadním zajištěným věřitelům dorovnání nejlepší nabídky (§ 41 odst. 2).
+- [ ] Zajistit účelové použití prostředků (§ 42 odst. 2) a status pohledávky za podstatou (§ 168 odst. 2 písm. g).
+- [ ] Ověřit okruh oprávněných (správce / dlužník s dispozičními oprávněními / dlužník za moratoria).
+
+**Typicky rozhodné důkazy / podklady:** reorganizační plán, srovnatelné nabídky financování, zástavní smlouvy dosavadních věřitelů, smlouva o úvěrovém financování s vymezením účelu.
 
 ---
 
@@ -961,6 +1778,42 @@ V praxi je hlavní problém **prodlení institucí**, zejména:
 
 Správce by měl součinnost vyžadovat **ihned po ustanovení**, ne ji odkládat — promlčení pohledávek dlužníka nebo zánik důkazů jsou reálné. *Pořádková pokuta* (§ 81) na osoby, které součinnost odmítly, je *teoretická možnost*, v praxi vzácně uplatňovaná.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Insolvenční správce po ustanovení písemně požádá banku B o sdělení čísel účtů dlužníka, jejich stavů a pohybů a o informace o úschovách (§ 44 odst. 1 písm. c). Banka odpoví až po čtyřech měsících a mezitím dlužník stačí vyvést prostředky; navíc se ukáže, že dlužník měl u banky pohledávku, která se v důsledku prodlení promlčela. Věřitelé namítají, že banka neposkytla součinnost řádně a včas. Důkazy: písemná žádost správce a doklad o jejím doručení, datum odpovědi banky, výpisy o pohybech a o promlčené pohledávce, vyčíslení škody.
+
+**2. Právní otázka.** Jaký je rozsah a lhůta povinné součinnosti banky podle § 43 a § 44 a odpovídá banka za škodu, neposkytne-li součinnost insolvenčnímu správci řádně a včas (§ 44 odst. 3)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 43 odst. 1 (okruh povinných osob a orgánů; součinnost „bez zbytečného odkladu"), odst. 2 (rozsah — údaje o majetku, vydání/zápůjčka listin, dálkový přístup, bezplatnost s náhradou hotových výdajů u soukromých subjektů); § 44 odst. 1 písm. c) (banky sdělí čísla účtů, stavy, pohyby, úschovy, vkladní knížky), odst. 2 (legitimace správce rozhodnutím soudu), odst. 3 (odpovědnost povinných za škodu při neposkytnutí součinnosti řádně a včas).
+- *Související ustanovení téhož zákona:* § 45 (mlčenlivost správce o získaných údajích), § 81 (pořádková pokuta při odmítnutí součinnosti), § 169 odst. 1 písm. d) (náklady znaleckého posudku exekutora jako pohledávka postavená na roveň), § 419 (insolvenční rejstřík — doložení ustanovení).
+- *Související předpisy:* § 38 zákona č. 21/1992 Sb. o bankách (bankovní tajemství — prolomené součinností); GDPR (čl. 6 odst. 1 písm. c) — zákonný titul zpracování).
+- *Judikatura:* k povaze povinností správce a důsledkům jejich neplnění srov. systémově NS 29 NSČR 9/2014 (citováno u § 37); k součinnosti se v komentáři neuvádí konkrétní nosné rozhodnutí — vychází se ze znění § 44 odst. 3.
+
+**4. Subsumpce.** Banka je osobou povinnou poskytnout součinnost (§ 43 odst. 1, § 44 odst. 1 písm. c) „bez zbytečného odkladu"; odpověď po čtyřech měsících tomuto požadavku neodpovídá → součinnost nebyla poskytnuta včas. Vznik škody (promlčená pohledávka, vyvedené prostředky) + porušení povinnosti součinnosti + příčinná souvislost → naplňují odpovědnost dle § 44 odst. 3. Sporné: zda by včasná odpověď reálně zabránila vyvedení/promlčení (kauzalita).
+
+**5. Řešení.** Banka odpovídá za škodu způsobenou neposkytnutím součinnosti řádně a včas (§ 44 odst. 3), prokáže-li se kauzalita; nárok mohou uplatnit poškození (věřitelé/dlužník, resp. podstata). Vůči otálející instituci lze (teoreticky) využít pořádkovou pokutu (§ 81). Správce je povinen získané údaje chránit mlčenlivostí (§ 45). Procesní krok: vyžadovat součinnost ihned po ustanovení, doložit legitimaci výpisem z rejstříku (§ 44 odst. 2, § 419) a doručení žádosti.
+
+**6. Varianty.** (a) Banka by poskytla dálkový přístup/odpověď bez zbytečného odkladu → odpovědnost dle § 44 odst. 3 nevzniká. (b) Šlo by o znalecký posudek od exekutora (§ 43 odst. 3) → jeho náklady jsou pohledávkou postavenou na roveň pohledávkám za podstatou (§ 169 odst. 1 písm. d), nebyly-li uhrazeny v exekuci.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Bankovní tajemství brání sdělení údajů o účtech." — Neutralizace: § 43–44 IZ jsou zvláštním zákonným prolomením bankovního tajemství (§ 38 ZoB) a zákonným titulem dle GDPR; banka je povinna součinnost poskytnout.
+- *Protiargument:* „Lhůta není výslovně stanovena, prodlení tedy není porušením." — Neutralizace: zákon vyžaduje součinnost „bez zbytečného odkladu"; nepřiměřené prodlení je porušením zakládajícím odpovědnost dle § 44 odst. 3.
+- *Slabé místo:* prokázání příčinné souvislosti mezi prodlením instituce a škodou je obtížné; pořádková pokuta (§ 81) je v praxi vzácně uplatňovaná a málo účinná páka.
+
+### H. Praktický závěr
+
+Vyjmenované orgány a osoby (banky, ČSSZ, katastr, pošta aj.) jsou povinny poskytnout správci součinnost bez zbytečného odkladu a bezplatně; za neposkytnutí součinnosti řádně a včas odpovídají za škodu (§ 44 odst. 3). Správce má součinnost vyžadovat ihned po ustanovení a získané údaje chránit mlčenlivostí (§ 45).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vyžádat součinnost písemně ihned po ustanovení a doložit legitimaci výpisem z insolvenčního rejstříku (§ 44 odst. 2, § 419).
+- [ ] Specifikovat rozsah (údaje o majetku, listiny, dálkový přístup) podle § 44 odst. 1.
+- [ ] Při prodlení/odmítnutí zvážit pořádkovou pokutu (§ 81) a uplatnění odpovědnosti za škodu (§ 44 odst. 3).
+- [ ] Chránit získané údaje mlčenlivostí (§ 45) a v souladu s GDPR.
+
+**Typicky rozhodné důkazy / podklady:** písemná žádost o součinnost a doklad o doručení, datum a obsah odpovědi povinné osoby, výpisy/údaje o majetku dlužníka, vyčíslení škody z prodlení.
+
 ---
 
 ## § 45 — Mlčenlivost správce
@@ -994,6 +1847,42 @@ Správce by měl součinnost vyžadovat **ihned po ustanovení**, ne ji odkláda
 ### Praktická poznámka
 
 Mlčenlivost vůči **veřejnosti** — zpravidla je obtížné zachovat při povinné publicitě insolvenčního rejstříku. Zveřejňované přílohy spisu mohou obsahovat obchodní tajemství (typicky inventura zásob, klientské seznamy). Správce by měl při ukládání do spisu **vždy zvážit anonymizaci / odstranění chráněných údajů**, případně žádat soud o utajení dílčích listin (§ 423 — utajení dílčích údajů).
+
+### F. Kazuistika
+
+**1. Modelová situace.** Insolvenční správce získal v rámci součinnosti (§ 43–44) od banky kompletní pohyby na účtech dlužníka a od dlužníka klientskou databázi a kalkulace marží (obchodní tajemství). Část těchto údajů vloží jako přílohu zprávy do insolvenčního rejstříku bez anonymizace; konkurent dlužníka si je stáhne. Dlužník namítá porušení mlčenlivosti. Důkazy: obsah zveřejněné přílohy, povaha údajů (obchodní/bankovní tajemství), absence souhlasu se zproštěním, doklad o stažení třetí osobou.
+
+**2. Právní otázka.** Váže insolvenčního správce mlčenlivost o skutečnostech chráněných zvláštním zákonem (bankovní a obchodní tajemství) podle § 45 i při povinné publicitě insolvenčního rejstříku a kdo ho může mlčenlivosti zprostit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 45 — mlčenlivost o skutečnostech, u nichž zvláštní předpis stanoví povinnost mlčenlivosti, dozvěděl-li se je při výkonu funkce (i po jejím skončení); zproštění tím, v jehož zájmu mlčenlivost je, nebo soudem; vázanost i osob, jejichž prostřednictvím správce funkci vykonává.
+- *Související ustanovení téhož zákona:* § 43–44 (součinnost — zdroj chráněných údajů), § 423 (utajení dílčích údajů ve spise), § 40 odst. 2 (osoby, jejichž prostřednictvím správce jedná — rovněž vázány).
+- *Související předpisy:* § 504 OZ (obchodní tajemství); § 38 zákona o bankách (bankovní tajemství); § 52 a násl. daňového řádu (daňové tajemství); § 180 TZ (neoprávněné nakládání s osobními údaji); GDPR (paralelní povinnost u osobních údajů).
+- *Judikatura:* k profesnímu standardu a důsledkům jeho porušení srov. systémově NS 29 NSČR 9/2014 (citováno u § 37); ke specifickému porušení mlčenlivosti není v komentáři citováno nosné rozhodnutí — vychází se ze znění § 45 a § 423.
+
+**4. Subsumpce.** Bankovní pohyby a klientská databáze s kalkulacemi marží jsou skutečnostmi chráněnými zvláštním zákonem (bankovní a obchodní tajemství) → spadají pod mlčenlivost dle § 45. Zveřejnění bez anonymizace a bez zproštění (souhlasu dlužníka jako osoby, v jejímž zájmu je, nebo bez rozhodnutí soudu) je porušením mlčenlivosti; publicita rejstříku ji neruší — řešením je § 423 (utajení dílčích údajů). Sporné: zda některý z údajů byl již veřejně dostupný (pak ochrana odpadá).
+
+**5. Řešení.** Správce měl před vložením do spisu chráněné údaje anonymizovat či požádat soud o utajení dílčích listin (§ 423); jejich zveřejněním porušil § 45, což zakládá kárnou odpovědnost (§ 33 zákona o IS), případně trestní (§ 180 TZ) a odpovědnost za škodu (§ 37), prokáže-li se újma. Zprostit mlčenlivosti ho mohl jen dlužník (u obchodního tajemství) nebo soud v rozsahu výkonu funkce. Procesní krok do budoucna: standardně posuzovat anonymizaci a navrhovat utajení dílčích údajů.
+
+**6. Varianty.** (a) Údaje by byly nezbytné pro spis a správce by k jejich zařazení získal rozhodnutí soudu o utajení (§ 423) → mlčenlivost porušena není. (b) Mlčenlivost by porušil zaměstnanec/externista správce → vázanost se vztahuje i na něj (§ 45 věta druhá ve spojení s § 40 odst. 2), odpovídá současně správce (§ 37 odst. 2).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument:* „Povinná publicita rejstříku vylučuje mlčenlivost — vše patří do spisu." — Neutralizace: § 45 mlčenlivost zachovává i při publicitě; kolizi řeší § 423 (utajení dílčích údajů) a anonymizace, nikoli paušální zveřejnění.
+- *Protiargument:* „Jako správce mohu s údaji nakládat volně." — Neutralizace: ke zproštění je nutný souhlas osoby, v jejímž zájmu mlčenlivost je, nebo soudu; bez něj hrozí kárná, trestní (§ 180 TZ) i odpovědnostní rovina.
+- *Slabé místo:* hranice mezi nezbytným obsahem spisu a chráněným údajem je nejasná; přílišná anonymizace může snížit přezkoumatelnost zprávy, nedostatečná porušuje mlčenlivost.
+
+### H. Praktický závěr
+
+Správce je vázán mlčenlivostí o skutečnostech chráněných zvláštním zákonem (bankovní, obchodní, daňové aj. tajemství), a to i po skončení funkce a i při publicitě rejstříku; zprostit ho může jen osoba, v jejímž zájmu mlčenlivost je, nebo soud. Kolizi s publicitou řeší anonymizace a utajení dílčích údajů (§ 423); mlčenlivost váže i osoby, jejichž prostřednictvím správce jedná.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Před vložením do spisu posoudit, zda údaje nepodléhají zvláštní mlčenlivosti (bankovní/obchodní/daňové tajemství).
+- [ ] Chráněné údaje anonymizovat nebo navrhnout soudu utajení dílčích údajů (§ 423).
+- [ ] Zproštění mlčenlivosti zajistit jen od oprávněné osoby nebo soudu v rozsahu funkce.
+- [ ] Zavázat mlčenlivostí zaměstnance a externisty (§ 45, § 40 odst. 2) a dbát GDPR.
+
+**Typicky rozhodné důkazy / podklady:** obsah zveřejněné/zařazené listiny, povaha údajů a právní základ jejich ochrany, případné rozhodnutí soudu o utajení (§ 423) či souhlas se zproštěním, doklad o přístupu třetí osoby a o vzniklé újmě.
 
 ---
 

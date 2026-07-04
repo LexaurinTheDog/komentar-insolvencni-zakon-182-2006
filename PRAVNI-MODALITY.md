@@ -1,0 +1,204 @@
+# Právní modality v insolvenčním zákoně
+
+> Právní modality jsou základní normativní způsoby, jimiž právo působí na chování adresátů: objektivní modality regulace (příkaz, zákaz, dovolení a jako zvláštní kategorie zmocnění) a subjektivní modality (oprávnění a povinnost). Jejich rozbor je u zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), mimořádně užitečný: insolvenční řízení je totiž řízením, v němž se modality dynamicky „překlápějí" — co bylo dlužníku před zahájením řízení dovoleno, je mu po zahájení zakázáno; co věřitel směl vymáhat individuálně, smí po zahájení uplatnit jen kolektivně; a kompetence nakládat s majetkem přechází mezi dlužníkem, správcem a soudem podle fáze řízení. Tento dokument mapuje modality napříč celým zákonem. **Metoda:** klasifikace byla provedena na doslovném znění zákona citovaném v tomto repozitáři (fragmenty v tabulkách jsou přenášeny doslova z blockquotů kapitolových souborů); judikatorní ilustrace pocházejí výhradně z místních zdrojů — složka [judikatura/](judikatura/README.md).
+
+## Teorie právních modalit
+
+Nauka (u nás klasicky V. Knapp a brněnská normativní škola, v zahraničí analytická jurisprudence navazující na Hohfelda a deontická logika von Wrightova) rozlišuje **objektivní modality právní regulace** — tedy způsoby, jimiž objektivní právo normuje chování:
+
+- **příkaz** (obligatum, „musí", „je povinen", „učiní") — norma ukládá aktivní chování; jeho nesplnění je protiprávní;
+- **zákaz** (vetitum, „nesmí", „nelze", „není přípustné", „zakazuje se") — norma ukládá omisivní chování, zdržení se; příkaz a zákaz jsou vzájemně převoditelné (příkaz zdržet se = zákaz konat);
+- **dovolení** (permissum, „může", „je oprávněn", „lze", „je přípustné") — norma otevírá adresátu prostor chování, které smí, ale nemusí realizovat; rozlišuje se dovolení výslovné a dovolení plynoucí z mlčení zákona (zásada legální licence).
+
+**Zmocnění** bývá řazeno jako zvláštní, čtvrtá kategorie: nejde o regulaci chování soukromých adresátů, nýbrž o **kompetenční normy**, které orgánu veřejné moci (nebo zvláštnímu procesnímu subjektu) zakládají pravomoc a působnost — právo i povinnost zároveň — autoritativně jednat, rozhodovat či vydávat předpisy. V insolvenčním zákoně jsou kompetenční normy mimořádně husté: určují, co smí a musí insolvenční soud, co insolvenční správce a co věřitelské orgány, a delegují technické detaily na prováděcí předpisy.
+
+Vedle objektivních modalit stojí **subjektivní modality**: subjektivní **oprávnění** (právo) a subjektivní **povinnost**. Jsou korelativní — oprávnění jednoho subjektu odpovídá povinnost jiného subjektu (právu zajištěného věřitele na uspokojení z výtěžku odpovídá povinnost správce výtěžek vydat). Objektivní a subjektivní rovina se protínají: příkaz adresovaný určité osobě zakládá její subjektivní povinnost, dovolení jí zakládá subjektivní oprávnění. Zákonodárce modality signalizuje **normativními výrazy** („je povinen", „nesmí", „může", „má právo", „rozhodne", „nepřihlíží se"), avšak výraz není spolehlivým vodítkem sám o sobě — rozhodující je smysl normy (např. „soud může … uložit … zálohu" je zmocnění s diskrecí, kdežto dovolení správce „může své ustanovení insolvenčním správcem odmítnout, jen má-li pro to důležité důvody" je přísně limitované).
+
+Zvláštní skupinou nejsou modality v úzkém smyslu, nýbrž **normativní konstrukce domněnek a fikcí**, které modality podpírají. **Vyvratitelná domněnka** („má se za to") přikazuje soudu považovat skutečnost za danou, dokud není prokázán opak — jejím praktickým efektem je přesun důkazního břemene na toho, komu domněnka nesvědčí. **Nevyvratitelná domněnka a fikce** („platí, že", „považuje se za", „hledí se na") důkaz opaku nepřipouštějí: normativně konstruují právní stav bez ohledu na realitu (fikce doručení, fikce rozhodnutí, fikce splatnosti). Insolvenční zákon s těmito konstrukcemi pracuje intenzivněji než většina jiných předpisů, protože potřebuje rychle a definitivně stabilizovat skutkový základ kolektivního řízení (osvědčení úpadku, okamžik doručení, osud smluv).
+
+Modality konečně nelze číst izolovaně od **zásad insolvenčního řízení** (§ 5): zásady samy jsou formulovány modálně (příkaz spravedlivého vedení řízení, zákaz omezit dobrověrná práva, povinnost věřitelů zdržet se individuálního uspokojení) a slouží jako interpretační korektiv všech ostatních modalit — dovolení nesmí být vykládáno tak, aby popřelo rovnost věřitelů, a zmocnění soudu jsou limitována účelem řízení. Podrobně k zásadám viz [ZASADY.md](ZASADY.md).
+
+## Příkaz
+
+Příkazy tvoří kostru insolvenčního procesu. Adresátem je nejčastěji **insolvenční soud** — zákon mu přikazuje, jak vést řízení (§ 5 písm. a/), jaký procesní řád subsidiárně použít (§ 7), jak rychle rozhodovat (§ 18 odst. 2, § 128 odst. 1) a co musí obsahovat klíčová rozhodnutí (§ 136 odst. 2). Charakteristickým rysem insolvenčních příkazů soudu jsou **extrémně krátké lhůty** (3 pracovní dny u procesního nástupnictví, 7 dnů u odmítnutí vadného návrhu) a absence výzvy k opravě vad, jinak obvyklé podle § 43 o. s. ř. — projev zásady rychlosti a koncentrace.
+
+Druhou skupinou jsou příkazy adresované **insolvenčnímu správci a dalším procesním subjektům**: správce podá odpůrčí žalobu vždy, rozhodne-li o tom věřitelský výbor (§ 239 odst. 2), třetí osoby a orgány poskytnou součinnost (§ 43, § 213). Třetí skupinou jsou **strukturní příkazy** určující samotný běh systému: výlučné doručování zveřejněním v insolvenčním rejstříku (§ 71 odst. 1), kogentní kaskáda priorit při rozdělování výtěžku (§ 305 odst. 2), obligatorní zamítnutí návrhu na oddlužení při nepoctivém záměru (§ 395 odst. 1) či kolizní příkaz podřídit přeshraniční insolvence unijnímu nařízení (§ 426 odst. 1).
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 5 písm. a) | „musí být vedeno" | „insolvenční řízení musí být vedeno tak, aby žádný z účastníků nebyl nespravedlivě poškozen nebo nedovoleně zvýhodněn" | Přímo normativní interpretační rámec celého zákona — příkaz spravedlivého a efektivního vedení řízení. |
+| § 7 | „použijí se přiměřeně" | „použijí se pro insolvenční řízení a pro incidenční spory přiměřeně ustanovení občanského soudního řádu týkající se sporného řízení" | Příkaz subsidiární aplikace OSŘ s materiálním limitem zásad § 5. |
+| § 18 odst. 2 | „rozhodne do 3 pracovních dnů" | „O návrhu podle odstavce 1 rozhodne insolvenční soud do 3 pracovních dnů ode dne, kdy mu takový návrh došel" | Extrémně krátká lhůta k rozhodnutí o procesním nástupnictví, aby obchod s pohledávkami nebrzdil řízení. |
+| § 71 odst. 1 | „doručují pouze" | „Soudní rozhodnutí, předvolání, vyrozumění nebo jiná písemnost insolvenčního soudu nebo účastníků se v insolvenčním řízení doručují pouze zveřejněním písemnosti v insolvenčním rejstříku" | Výlučný režim doručování vyhláškou — komunikační princip celého řízení. |
+| § 128 odst. 1 | „odmítne; učiní tak neprodleně" | „Insolvenční návrh, který neobsahuje všechny náležitosti nebo který je nesrozumitelný anebo neurčitý, insolvenční soud odmítne, jestliže pro tyto nedostatky nelze pokračovat v řízení" | Příkaz odmítnout vadný návrh bez výzvy k opravě — přísná koncentrace insolvenčního procesu. |
+| § 136 odst. 2 | „musí obsahovat" | „Rozhodnutí o úpadku musí obsahovat" | Taxativní výčet povinných náležitostí rozhodnutí o úpadku strukturuje rozběh řízení. |
+| § 239 odst. 2 | „podá vždy" | „Rozhodne-li o tom věřitelský výbor, podá insolvenční správce odpůrčí žalobu **vždy**." | Pokyn věřitelského výboru zavazuje správce bez možnosti uvážení — pojistka proti jeho pasivitě. |
+| § 305 odst. 2 | „uspokojí se nejdříve" | „uspokojí se nejdříve odměna a hotové výdaje insolvenčního správce" | Kogentní kaskáda priorit při nedostatečném výtěžku — páteř rozdělování v konkursu. |
+| § 395 odst. 1 | „zamítne" | „Insolvenční soud zamítne návrh na povolení oddlužení" | Obligatorní vstupní filtr oddlužení při nepoctivém záměru či nedostatečné splátce. |
+| § 426 odst. 1 | „se řídí" | „Insolvenční řízení s evropským mezinárodním prvkem a jeho účinky se řídí **přímo použitelným předpisem práva Evropské unie**" | Aplikační (kolizní) příkaz podřizující přeshraniční insolvence Nařízení (EU) 2015/848. |
+
+## Zákaz
+
+Zákazy jsou v insolvenčním zákoně nositelem jeho **kolektivní povahy**. Nejvýznamnější z nich blokují individuální postup věřitelů: od okamžiku zahájení řízení nelze provést exekuci na majetek podstaty (§ 109 odst. 1 písm. c/), po rozhodnutí o úpadku ji nelze ani nařídit nebo zahájit (§ 140e odst. 1) a věřitelé mohou svá práva uplatnit jen způsobem stanoveným zákonem (§ 248 odst. 1). Bez těchto zákazů by se poměrné uspokojení rozpadlo v závod jednotlivých věřitelů o dlužníkův majetek — zákaz je zde přímým normativním provedením zásady *par condicio creditorum*.
+
+Druhá skupina zákazů chrání **integritu procesu a nestrannost jeho aktérů**: podjatý správce je z řízení vyloučen (§ 24 odst. 1), spřízněný věřitel nesmí hlasovat (§ 53 odst. 1), dlužník a osoby jemu blízké nesmějí nabývat majetek podstaty (§ 295 odst. 1). Třetí skupinou jsou **prekluzivní a koncentrační zákazy**, které činí zmeškání definitivním: prominutí zmeškání lhůty je nepřípustné (§ 83) a k opožděným přihláškám se nepřihlíží (§ 173 odst. 1). Konečně zákazy vymezují i **hranice institutů**: reorganizace není přípustná pro osoby v likvidaci (§ 316 odst. 3), návrh nelze zamítnout pro nedostatek majetku (§ 144), započtení proti restituční pohledávce z neúčinného úkonu je vyloučeno (§ 238).
+
+Charakteristické je, že porušení insolvenčních zákazů zákon nestíhá jednotně: někde neplatností (§ 246 odst. 4), jinde neúčinností vůči věřitelům (§ 111 odst. 3), jinde relativní neplatností (§ 295 odst. 1) či prostou procesní nemožností (exekuci „nelze … provést").
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 5 písm. c) | „nelze omezit" | „nelze práva věřitele nabytá v dobré víře před zahájením insolvenčního řízení omezit rozhodnutím insolvenčního soudu ani postupem insolvenčního správce" | Zákaz zásahů do dobrověrných předinsolvenčních práv věřitelů. |
+| § 24 odst. 1 | „je vyloučen" | „Insolvenční správce je z insolvenčního řízení vyloučen, jestliže se zřetelem na jeho poměr k věci nebo k osobám účastníků je tu důvod pochybovat o jeho nepodjatosti" | Podjatý správce funkci vykonávat nesmí — ochrana důvěryhodnosti fiduciáře. |
+| § 53 odst. 1 | „nesmí" | „Věřitel, který s dlužníkem tvoří koncern anebo je osobou dlužníkovi blízkou, nesmí na schůzi věřitelů hlasovat" | Pojistka proti ovládnutí řízení dlužníkem skrze spřízněné věřitele. |
+| § 83 | „není přípustné" | „Prominutí zmeškání lhůty v insolvenčním řízení není přípustné" | Zmeškaná lhůta znamená definitivní zánik práva — rychlost a nezvratnost procesních fází. |
+| § 109 odst. 1 písm. c) | „nelze jej však provést" | „výkon rozhodnutí či exekuci, která by postihovala majetek ve vlastnictví dlužníka, jakož i jiný majetek, který náleží do majetkové podstaty, lze nařídit nebo zahájit, nelze jej však provést." | Jádro automatického ochranného účinku zahájení řízení. |
+| § 140e odst. 1 | „nelze nařídit nebo zahájit" | „nelze nařídit nebo zahájit výkon rozhodnutí nebo exekuci, která by postihovala majetek ve vlastnictví dlužníka" | Zesílení blokace exekucí po rozhodnutí o úpadku. |
+| § 144 | „nelze zamítnout" | „Insolvenční návrh nelze zamítnout proto, že majetek dlužníka nebude postačovat k úhradě nákladů insolvenčního řízení, i když je to zřejmé." | Nemajetnost není překážkou zjištění úpadku — odklon od režimu ZKV. |
+| § 173 odst. 1 | „nepřihlíží" | „K přihláškám, které jsou podány později, insolvenční soud **nepřihlíží** a takto uplatněné pohledávky se v insolvenčním řízení **neuspokojují**." | Tvrdá prekluzivní sankce za zmeškání přihlašovací lhůty. |
+| § 238 | „není přípustné" | „Proti pohledávce na vydání dlužníkova plnění z neúčinného právního úkonu do majetkové podstaty není přípustné započtení." | Nabyvatel nesmí zmařit restituci zápočtem — plnění musí fyzicky vrátit. |
+| § 295 odst. 1 | „nesmí nabývat" | „Dlužník, **osoby mu blízké** a osoby, **které s ním tvoří koncern**, nesmí nabývat majetek náležející do majetkové podstaty" | Protikorupční pojistka proti zpětnému skoupení majetku podstaty. |
+| § 316 odst. 3 | „není přípustná" | „Reorganizace **není přípustná**, je-li dlužníkem **právnická osoba v likvidaci**" | Absolutní subjektová výluka ze sanačního řešení úpadku. |
+| § 412 odst. 1 písm. g) | „nepřijímat" | „nepřijímat nové závazky" | Zákaz dalšího zadlužování dlužníka během plnění splátkového kalendáře. |
+
+Judikatorní ilustrace:
+
+- *NS* [36 Co 13/2011](judikatura/NS-36-Co-13-2011.md) — rozhodnutí ze dne 13. 6. 2011, k účinkům zákazu podle § 109 odst. 1 písm. a)
+  > „Řízení o žalobě podané věřitelem po zahájení insolvenčního řízení soud zastaví po právní moci rozhodnutí o úpadku, je-li předmětem žaloby pohledávka, kterou věřitel mohl přihlásit do insolvenčního řízení (§ 104 odst. 1 o. s. ř., § 109 odst. 1 písm. a/ insolvenčního zákona)"
+- *NS* [29 NSCR 107/2013](judikatura/NS-29-NSCR-107-2013.md) — usnesení ze dne 30. 6. 2014, k vyloučení správce pro podjatost (§ 24)
+  > „K takovým pochybnostem může vést i souhrn více skutečností, vztahujících se k charakteru pohledávky dlužníkova věřitele a k jeho postavení v insolvenčním řízení, byť by samy o sobě (při izolovaném posouzení) nebyly způsobilé ovlivnit celkový způsob výkonu práv a povinností insolvenčního správce."
+
+## Dovolení
+
+Dovolení otevírají procesním subjektům prostor volby a jsou nositelem **dispozitivních prvků** jinak silně kogentního zákona. Základním dovolením je sama **dispoziční zásada**: řízení lze zahájit jen na návrh (§ 97 odst. 1) — nikdo nemusí insolvenci vyvolat, ale kdo je legitimován, smí. Na ni navazují fakultativní instituty: dlužník-podnikatel může navrhnout moratorium (§ 115), státní zastupitelství může vstoupit do řízení (§ 7c), věřitel může za zákonných podmínek započíst (§ 140 odst. 2).
+
+Nejvýznamnější dovolení zákon svěřuje **insolvenčnímu správci jako strategické volby**: může splnit, nebo odmítnout nesplněnou vzájemnou smlouvu (§ 253 odst. 1 — tzv. cherry-picking), může prodat majetek mimo dražbu (§ 289 odst. 1), může podat odpůrčí žalobu v roční prekluzivní lhůtě (§ 239 odst. 3). Typické pro insolvenční dovolení je, že jsou **podmíněná a limitovaná**: prodej mimo dražbu vyžaduje dvojí souhlas, odmítnout ustanovení do funkce lze „jen" z důležitých důvodů (§ 22 odst. 1), odchýlit se od zákona lze jen v reorganizačním plánu a jen v zákonných mezích (§ 338 odst. 3). Dovolení v insolvenci tedy zpravidla není volnou licencí, nýbrž úzkým koridorem uvážení, jehož překročení stíhají sankční normy.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 7c | „může vstoupit" | „Státní zastupitelství může vstoupit do zahájeného insolvenčního řízení, včetně incidenčních sporů, a moratoria." | Fakultativní intervenční oprávnění k ochraně veřejného zájmu. |
+| § 22 odst. 1 | „může odmítnout, jen má-li" | „Osoba zapsaná do seznamu insolvenčních správců může své ustanovení insolvenčním správcem odmítnout, jen má-li pro to důležité důvody." | Přísně limitované dovolení — zápis do seznamu jinak zavazuje funkci přijmout. |
+| § 97 odst. 1 | „lze zahájit jen na návrh" | „Insolvenční řízení lze zahájit jen na návrh; zahajuje se dnem, kdy insolvenční návrh dojde věcně příslušnému soudu." | Dispoziční zásada — řízení nelze zahájit ex offo. |
+| § 115 | „může navrhnout" | „Dlužník, který je podnikatelem, může do 7 dnů od podání insolvenčního návrhu, a jde-li o insolvenční návrh věřitele, do 15 dnů od jeho doručení insolvenčním soudem, navrhnout insolvenčnímu soudu vyhlášení moratoria" | Dočasný ochranný institut jako prostor k sanaci, s prekluzivními lhůtami. |
+| § 140 odst. 2 | „je přípustné" | „Započtení vzájemných pohledávek dlužníka a věřitele je po rozhodnutí o úpadku přípustné, jestliže zákonné podmínky tohoto započtení byly splněny před rozhodnutím o způsobu řešení úpadku" | Podmíněné dovolení zápočtu chrání legitimní očekávání věřitelů. |
+| § 239 odst. 3 | „může podat ve lhůtě 1 roku" | „Insolvenční správce může podat odpůrčí žalobu **ve lhůtě 1 roku** ode dne, kdy nastaly účinky rozhodnutí o úpadku. **Nepodá-li ji v této lhůtě, odpůrčí nárok zanikne.**" | Časově omezené dovolení s prekluzivní sankcí zániku odpůrčího nároku. |
+| § 253 odst. 1 | „může smlouvu splnit ... nebo může odmítnout plnění" | „insolvenční správce může smlouvu splnit místo dlužníka a žádat splnění od druhého účastníka smlouvy nebo může odmítnout plnění" | Strategická volba správce u vzájemných smluv (cherry-picking) maximalizuje podstatu. |
+| § 289 odst. 1 | „může uskutečnit" | „Prodej mimo dražbu může insolvenční správce uskutečnit **se souhlasem insolvenčního soudu a věřitelského výboru**." | Nejpružnější způsob zpeněžení, dovolený jen s dvojím souhlasem. |
+| § 338 odst. 3 | „se lze odchýlit" | „**V reorganizačním plánu se lze odchýlit od ustanovení tohoto zákona**, pokud jde o uspokojení věřitelů včetně zajištěných věřitelů" | Reorganizační plán jako lex specialis — dovolená smluvní modifikace zákonných pravidel. |
+| § 398 odst. 1 | „lze provést" | „Oddlužení lze provést" | Otevírá dva alternativní způsoby oddlužení (zpeněžení podstaty, splátkový kalendář se zpeněžením). |
+
+## Zmocnění
+
+Zmocnění (kompetenční normy) tvoří v insolvenčním zákoně samostatnou a hustou vrstvu — insolvence je řízená procedura a někdo ji řídit musí. Zákon proto rozděluje **pravomoci mezi soud, správce a věřitelské orgány**. Insolvenčnímu soudu svěřuje jednak rozhodovací kompetence (věcná příslušnost krajských soudů podle § 7a, vydání rozhodnutí o úpadku podle § 136 odst. 1), jednak specifickou **dohlédací činnost** (§ 10 písm. b/, § 11) se sankčními nástroji: pořádková pokuta správci až 200 000 Kč (§ 81 odst. 2), zproštění správce funkce (§ 32 odst. 1), zrušení usnesení schůze věřitelů odporujícího společnému zájmu (§ 54 odst. 1), předběžná opatření i bez návrhu (§ 82 odst. 1, § 113 odst. 1).
+
+Zvláštní podskupinou jsou **normy o dispozičních oprávněních** — kompetenční mapa určující, kdo smí v které fázi nakládat s majetkovou podstatou (§ 229 odst. 3) a jak tato kompetence přechází (prohlášením konkursu na správce, § 246 odst. 1; v reorganizaci přechází působnost valné hromady na správce, § 333 odst. 1). Konstitutivní kompetencí je i založení neúčinnosti právního úkonu rozhodnutím soudu o odpůrčí žalobě (§ 235 odst. 2) a cram-down — schválení reorganizačního plánu navzdory nesouhlasu skupin věřitelů (§ 348 odst. 2). Konečně sem patří **legislativní zmocnění** delegující technické parametry na prováděcí předpisy (výkaz likvidity podle § 3 odst. 6, formuláře podle § 80a odst. 2 a § 430b) a normy zřizovací (insolvenční rejstřík jako informační systém spravovaný Ministerstvem spravedlnosti, § 419 odst. 1).
+
+Pro zmocnění je typické, že v sobě spojují oprávnění i povinnost: soud „může" uložit pořádkovou pokutu diskrečně, ale rozhodnutí o úpadku při osvědčení úpadku vydat musí — normativní výraz („vydá", „rozhodne", „může") zde signalizuje míru diskrece, nikoli fakultativnost kompetence samotné.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 3 odst. 6 | „stanoví prováděcí právní předpis" | „požadavky na osoby, které jsou oprávněny k sestavení výkazu stavu likvidity anebo výhledu vývoje likvidity, stanoví prováděcí právní předpis." | Delegace technických parametrů testu mezery krytí na vyhlášku č. 190/2017 Sb. |
+| § 7a | „rozhodují" | „Krajské soudy rozhodují jako soudy prvního stupně" | Věcná příslušnost — insolvenční agenda svěřena krajským soudům jako lex specialis k § 9 OSŘ. |
+| § 54 odst. 1 | „může … zrušit" | „Odporuje-li usnesení schůze věřitelů společnému zájmu věřitelů, může je insolvenční soud zrušit" | Kasační kontrola většinových usnesení schůze jako ochrana menšiny věřitelů. |
+| § 81 odst. 2 | „může insolvenční soud uložit" | „může insolvenční soud uložit pořádkovou pokutu, a to i opakovaně, nejvýše však do úhrnné částky 200 000 Kč" | Sankční kompetence soudu vůči správci — nástroj dohlédací činnosti. |
+| § 82 odst. 1 | „může insolvenční soud nařídit i bez návrhu" | „Předběžné opatření v insolvenčním řízení může insolvenční soud nařídit i bez návrhu, nestanoví-li zákon jinak." | Oficiózní kompetence k operativní ochraně podstaty a obraně proti šikanózním návrhům. |
+| § 229 odst. 3 | „je osobou s dispozičními oprávněními" | „Nestanoví-li tento zákon jinak, je ve vztahu k majetkové podstatě osobou s dispozičními oprávněními" | Kompetenční mapa celého zákona: kdo smí v které fázi nakládat s podstatou. |
+| § 235 odst. 2 | „se zakládá rozhodnutím insolvenčního soudu" | „**se zakládá rozhodnutím insolvenčního soudu o žalobě insolvenčního správce**, kterou bylo odporováno dlužníkovým právním úkonům" | Neúčinnost nevzniká ex lege, nýbrž konstitutivním rozhodnutím soudu. |
+| § 246 odst. 1 | „přechází na insolvenčního správce oprávnění" | „Prohlášením konkursu **přechází na insolvenčního správce oprávnění nakládat s majetkovou podstatou**" | Ústřední kompetenční norma konkursu — přechod dispozice ex lege na správce. |
+| § 348 odst. 2 | „soud může schválit, i když" | „Insolvenční soud **může schválit reorganizační plán, i když není splněna podmínka uvedená v odstavci 1 písm. c)**" | Cram-down: zmocnění vnutit plán nesouhlasícím skupinám věřitelů. |
+| § 418 odst. 1 | „zruší a současně rozhodne" | „Insolvenční soud schválené oddlužení zruší a současně rozhodne o způsobu řešení dlužníkova úpadku konkursem" | Sankční kompetence — při neplnění povinností se oddlužení překlápí do konkursu. |
+
+## Oprávnění a povinnost
+
+Subjektivní modality — oprávnění a povinnost — jsou v insolvenčním zákoně rozprostřeny mezi čtyři hlavní nositele: dlužníka, věřitele, insolvenčního správce a věřitelské orgány. Jejich **korelativita** je zřetelná: právu věřitelů téže třídy na rovné zacházení (§ 5 písm. b/) odpovídá povinnost všech ostatních zdržet se individuálního uspokojení (§ 5 písm. d/); právu zajištěného věřitele na výtěžek zpeněžení (§ 298 odst. 1) odpovídá vázanost správce jeho pokyny (§ 293 odst. 1); právu věřitelů odvolat správce (§ 29 odst. 1) odpovídá fiduciární povinnost správce postupovat s odbornou péčí (§ 36 odst. 1).
+
+Osu povinnostních norem tvoří **fiduciární standard insolvenčního správce**: povinnost svědomitého postupu s odbornou péčí a maximalizace uspokojení věřitelů (§ 36 odst. 1), sankcionovaná přísnou odpovědností za škodu (§ 37 odst. 1), zproštěním funkce (§ 32) a pořádkovou pokutou (§ 81 odst. 2). Na straně dlužníka dominuje povinnost podnikatele **podat včas insolvenční návrh** (§ 98 odst. 1) se sankční odpovědností za škodu vůči věřitelům (§ 99 odst. 1) a všestranná součinnost při zjišťování podstaty (§ 210 odst. 1).
+
+Oprávnění věřitelů mají často podobu **procesních práv s břemenem aktivity**: kdo právo nevykoná, ztrácí je — zajištěný věřitel se musí zajištění dovolat už v přihlášce (§ 166), popřený věřitel musí podat incidenční žalobu (§ 198 odst. 1), jinak se k pohledávce nepřihlíží. Insolvence tak subjektivní práva nejen přiznává, ale současně je podmiňuje včasným a řádným uplatněním.
+
+| Ustanovení | Modalita | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|---|
+| § 5 písm. b) | oprávnění | „mají rovné možnosti" | „věřitelé, kteří mají podle tohoto zákona zásadně stejné nebo obdobné postavení, mají v insolvenčním řízení rovné možnosti" | Právo věřitelů téže třídy na rovné zacházení (par condicio creditorum). |
+| § 5 písm. d) | povinnost | „jsou povinni zdržet se" | „věřitelé jsou povinni zdržet se jednání, směřujícího k uspokojení jejich pohledávek mimo insolvenční řízení, ledaže to dovoluje zákon." | Materiální zákaz individuálního vymáhání — základ kolektivní povahy řízení. |
+| § 29 odst. 1 | oprávnění | „se mohou věřitelé usnést" | „se mohou věřitelé usnést, že insolvenčním soudem ustanoveného insolvenčního správce odvolávají z funkce a že ustanovují nového insolvenčního správce" | Věřitelská korekce — právo kvalifikované většiny vyměnit správce. |
+| § 36 odst. 1 | povinnost | „je povinen" | „Insolvenční správce je povinen při výkonu funkce postupovat svědomitě a s odbornou péčí" | Centrální fiduciární standard výkonu funkce správce. |
+| § 37 odst. 1 | povinnost | „odpovídá za škodu" | „Insolvenční správce odpovídá za škodu nebo jinou újmu, kterou dlužníku, věřitelům nebo třetím osobám způsobil tím, že při výkonu své funkce porušil povinnosti" | Přísná odpovědnost správce jako sankční pojistka odborné péče. |
+| § 97 odst. 8 | oprávnění | „je oprávněn podat" | „Insolvenční návrh je oprávněn podat dlužník nebo jeho věřitel; jde-li o hrozící úpadek, může insolvenční návrh podat jen dlužník." | Aktivní legitimace k insolvenčnímu návrhu. |
+| § 98 odst. 1 | povinnost | „je povinen podat" | „Dlužník, který je právnickou osobou nebo fyzickou osobou - podnikatelem, je povinen podat insolvenční návrh bez zbytečného odkladu poté, co se dozvěděl nebo při náležité pečlivosti měl dozvědět o svém úpadku." | Klíčová povinnost včasného dlužnického návrhu. |
+| § 99 odst. 1 | povinnost | „odpovídá věřiteli za škodu" | „Osoba, která v rozporu s ustanovením § 98 nepodala insolvenční návrh, odpovídá věřiteli za škodu nebo jinou újmu, kterou způsobí porušením této povinnosti." | Soukromoprávní sankce za opožděný návrh (dopadá i na statutáry). |
+| § 166 | povinnost | „se musí dovolat" | „Zajištění věřitelé uplatňují své pohledávky přihláškou pohledávky, v níž se musí dovolat svého zajištění" | Břemeno aktivního uplatnění zajištění již v přihlášce. |
+| § 198 odst. 1 | oprávnění | „mohou uplatnit své právo žalobou" | „Věřitelé nevykonatelné pohledávky, která byla popřena insolvenčním správcem, mohou uplatnit své právo žalobou na určení u insolvenčního soudu" | Právo popřeného věřitele na incidenční obranu (30denní lhůta). |
+| § 293 odst. 1 | povinnost | „je vázán pokyny" | „je insolvenční správce **vázán pokyny zajištěného věřitele směřujícími ke zpeněžení**" | U zajištěného majetku řídí zpeněžení zajištěný věřitel. |
+| § 298 odst. 1 | oprávnění | „mají právo" | „Zajištění věřitelé mají právo, aby jejich pohledávka byla uspokojena z výtěžku zpeněžení věci, práva, pohledávky nebo jiné majetkové hodnoty, jimiž byla zajištěna." | Subjektivní právo na přednostní uspokojení z výtěžku zajištění. |
+| § 339 odst. 1 | oprávnění | „přednostní právo ... má dlužník" | „**Přednostní právo sestavit reorganizační plán má dlužník**, i když návrh na povolení reorganizace podal některý přihlášený věřitel." | Exkluzivita dlužníka při tvorbě reorganizačního plánu. |
+
+Judikatorní ilustrace:
+
+- *NS* [29 Cdo 4269/2014](judikatura/NS-29-Cdo-4269-2014.md) — rozhodnutí ze dne 17. 12. 2015, k mezím sankce za porušení povinnosti podat insolvenční návrh (§ 98, § 99)
+  > „Věřitel, který (ač tak mohl učinit) v propadné přihlašovací lhůtě nepřihlásil pohledávku za dlužníkem do insolvenčního řízení vedeného na majetek dlužníka, nemá podle § 98 a § 99 insolvenčního zákona právo na náhradu škody nebo jiné újmy (způsobené nedobytností pohledávky) vůči osobě uvedené v § 98 odst. 2 insolvenčního zákona, která ve smyslu ustanovení § 98 odst. 1 insolvenčního zákona porušila povinnost podat insolvenční návrh na majetek dlužníka."
+
+## Domněnky a fikce
+
+Domněnky a fikce jsou v insolvenčním zákoně nápadně frekventované, protože kolektivní řízení potřebuje **rychle stabilizovat skutkový i právní stav** pro stovky účastníků najednou. Namísto plného dokazování zákon konstruuje: **vyvratitelné domněnky** („má se za to") přenášejí důkazní břemeno — nejvýznamnější jsou domněnky platební neschopnosti podle § 3 odst. 2, které umožňují věřiteli osvědčit úpadek bez pozitivního důkazu insolvence, a proti nim stojící obranná domněnka schopnosti plnit při mezeře krytí pod 10 % (§ 3 odst. 3). Do téže skupiny patří domněnka zavinění navrhovatele (§ 147 odst. 1, pojistka proti šikanózním návrhům), domněnka úpadku u úkonů ve prospěch osob blízkých (§ 240 odst. 2) či domněnka plnění povinností dlužníka v oddlužení (§ 412a odst. 1 písm. b/).
+
+**Nevyvratitelné domněnky a fikce** („platí, že", „se považuje za") důkaz opaku nepřipouštějí a plní funkci definitivních procesních zámků: fikce doručení okamžikem zveřejnění v rejstříku (§ 71 odst. 2), fikce oprávněnosti soupisu po marném uplynutí lhůty k vylučovací žalobě (§ 225 odst. 3), fikce neuplatnění zajištění neuvedeného v přihlášce (§ 174 odst. 3), fikce splatnosti nesplatných pohledávek prohlášením konkursu (§ 250) či fikce přistoupení dalšího navrhovatele k řízení (§ 107 odst. 1). Zvláštní kategorií jsou **fikce rozhodnutí a projevu vůle**: nerozhodne-li soud o vstupu nabyvatele pohledávky do 3 pracovních dnů, platí, že návrhu vyhověl (§ 18 odst. 2); nevyjádří-li se správce do 30 dnů ke vzájemné smlouvě, platí, že odmítl plnění (§ 253 odst. 2).
+
+Vztah k důkaznímu břemenu je u vyvratitelných domněnek jádrem jejich praktického významu: kdo chce domněnku zvrátit, nese o tom břemeno tvrzení i důkazní. Judikatura navíc dovodila, že domněnka podle § 3 odst. 2 působí i mimo vlastní rozhodování o úpadku — všude tam, kde zákon váže práva a povinnosti na stav úpadku (odpovědnost podle § 98 a § 99, neúčinnost podle § 240 a § 241).
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 3 odst. 2 | „má se za to" | „Má se za to, že dlužník není schopen plnit své peněžité závazky, jestliže" | Vyvratitelné domněnky platební neschopnosti — přenos důkazního břemene na dlužníka. |
+| § 3 odst. 3 | „má se za to" | „Má se za to, že dlužník, který je podnikatelem a vede účetnictví, je schopen plnit své peněžité závazky" | Opačná domněnka (mezera krytí pod 10 %) jako obrana podnikatele proti šikanózním návrhům. |
+| § 18 odst. 2 | „má se za to" | „má se za to, že insolvenční soud vydal rozhodnutí, jímž návrhu vyhověl" | Fikce vyhovujícího rozhodnutí při nečinnosti soudu — automatický vstup nabyvatele pohledávky. |
+| § 71 odst. 2 | „se písemnost považuje za doručenou" | „Při doručení vyhláškou se písemnost považuje za doručenou dnem, popřípadě okamžikem jejího zveřejnění v insolvenčním rejstříku" | Fikce doručení určuje počátek lhůt bez ohledu na faktické seznámení adresáta. |
+| § 107 odst. 1 | „se považuje za" | „Další insolvenční návrh podaný na majetek téhož dlužníka dříve, než insolvenční soud vydá rozhodnutí o úpadku, se považuje za přistoupení k řízení." | Fikce přistoupení zajišťuje jednotu insolvenčního řízení. |
+| § 147 odst. 1 | „má se za to" | „V pochybnostech se má za to, že insolvenční navrhovatel zavinil zastavení insolvenčního řízení nebo odmítnutí insolvenčního návrhu." | Domněnka zavinění obrací důkazní břemeno na navrhovatele — sankční pojistka. |
+| § 173 odst. 4 | „má… stejné účinky jako žaloba" | „Přihláška pohledávky má pro běh lhůty k promlčení nebo pro zánik práva stejné účinky jako žaloba nebo jiné uplatnění práva u soudu" | Přihláška postavena naroveň žalobě pro účely promlčení a prekluze. |
+| § 174 odst. 3 | „má se za to" | „má se za to, že právo na uspokojení přihlašované pohledávky ze zajištění v insolvenčním řízení uplatněno nebylo." | Nevyvratitelná domněnka neuplatnění zajištění neuvedeného v přihlášce. |
+| § 225 odst. 3 | „platí, že" | „platí, že označený majetek je do soupisu pojat oprávněně" | Fikce oprávněnosti soupisu po zmeškání lhůty k vylučovací žalobě. |
+| § 240 odst. 2 | „má se za to" | „**Má se za to, že právní úkon bez přiměřeného protiplnění učiněný ve prospěch osoby dlužníku blízké nebo osoby, která tvoří s dlužníkem koncern, je úkonem, který dlužník učinil v době, kdy byl v úpadku.**" | Domněnka úpadku u spřízněných osob usnadňuje správci odporování. |
+| § 250 | „se prohlášením konkursu považují za splatné" | „Nesplatné pohledávky proti dlužníku se prohlášením konkursu **považují za splatné**, nestanoví-li zákon jinak." | Fikce splatnosti (akcelerace) umožňuje poměrné uspokojení i budoucích pohledávek. |
+| § 253 odst. 2 | „platí, že odmítl plnění" | „Jestliže se insolvenční správce **do 30 dnů od prohlášení konkursu nevyjádří** tak, že smlouvu splní, **platí, že odmítl plnění**" | Fikce odmítnutí plnění odstraňuje nejistotu druhé smluvní strany. |
+
+Judikatorní ilustrace:
+
+- *NS* [29 ICdo 14/2012](judikatura/NS-29-ICdo-14-2012.md) — rozhodnutí ze dne 29. 4. 2014, k přesahu domněnky podle § 3 odst. 2 do dalších institutů zákona
+  > „Rozhodne-li insolvenční soud o úpadku dlužníka na základě vyvratitelné domněnky o neschopnosti dlužníka platit své peněžité závazky (§ 3 odst. 2 insolvenčního zákona, platí tato vyvratitelná domněnka i v dalších případech, kdy insolvenční zákon váže vznik případných práv a povinností na stav úpadku dlužníka."
+- *NS* [29 NSCR 41/2015](judikatura/NS-29-NSCR-41-2015.md) — usnesení ze dne 27. 5. 2015, k tvrdosti fikce doručení zveřejněním v insolvenčním rejstříku (§ 71, § 419 a násl.)
+  > „Případné pochybení poskytovatele webové služby insolvenčního rejstříku, spočívající v opožděném "oznámení" úpadku dlužníka, nemá vliv na běh lhůty k přihlášení pohledávky věřitele."
+
+## Modality v dynamice insolvenčního řízení
+
+Nejcharakterističtějším rysem insolvenčního zákona je, že modality nejsou statické — **mění se s fázemi řízení**. Tytéž osoby mají v různých okamžicích řízení různé modální pozice a klíčové procesní události (zahájení řízení, rozhodnutí o úpadku, rozhodnutí o způsobu jeho řešení) fungují jako spínače, které modality překlápějí.
+
+**1. Před řízením: povinnost jednat.** U podnikatelského dlužníka dynamiku spouští povinnost podat insolvenční návrh bez zbytečného odkladu poté, co se o svém úpadku dozvěděl nebo dozvědět měl (§ 98 odst. 1). Nesplnění překlápí modalitu do sankční povinnosti — odpovědnosti za škodu vůči věřitelům (§ 99 odst. 1). Věřitelům naproti tomu svědčí pouze dovolení/oprávnění návrh podat (§ 97 odst. 8); samo zahájení je ovládáno dispoziční zásadou — řízení „lze zahájit jen na návrh" (§ 97 odst. 1). Úpadek přitom navrhovatel typicky osvědčuje pomocí domněnek platební neschopnosti (§ 3 odst. 2), proti nimž se podnikatel může bránit domněnkou opačnou (§ 3 odst. 3).
+
+**2. Zahájení řízení: vznik zákazů ex lege.** Dnem, kdy návrh dojde soudu, se automaticky rodí ochranné zákazy: exekuci na majetek podstaty lze nařídit či zahájit, „nelze jej však provést" (§ 109 odst. 1 písm. c/) a „je dlužník povinen zdržet se od okamžiku, kdy nastaly účinky spojené se zahájením insolvenčního řízení, nakládání s majetkovou podstatou a s majetkem, který do ní může náležet" (§ 111 odst. 1) — dosavadní obecné dovolení vlastníka nakládat se svým majetkem se překlápí v omisivní povinnost, jejíž porušení stíhá neúčinnost úkonů vůči věřitelům. Soud může tato omezení ještě zpřísnit předběžným opatřením i bez návrhu (§ 113 odst. 1). Dlužník-podnikatel může naopak dočasně uniknout do ochranného režimu moratoria (§ 115).
+
+**3. Rozhodnutí o úpadku: koncentrace a zesílení.** Rozhodnutím o úpadku (§ 136 odst. 1) se zákazy zesilují: exekuci již „nelze nařídit nebo zahájit" (§ 140e odst. 1), individuální nalézací řízení nelze vést dál (§ 140a odst. 1) a uplatňování nároků se koncentruje do přihlášek s prekluzivní sankcí (§ 173 odst. 1). Současně naskakují domněnky a fikce stabilizující stav: fikce doručení zveřejněním (§ 71 odst. 2), fikce účinků přihlášky jako žaloby (§ 173 odst. 4).
+
+**4. Způsob řešení úpadku: přesun dispozičních oprávnění.** Kdo smí nakládat s podstatou, určuje kompetenční mapa § 229 odst. 3 — a právě zde se modality překlápějí nejviditelněji. Prohlášením konkursu „přechází na insolvenčního správce oprávnění nakládat s majetkovou podstatou" (§ 246 odst. 1), dlužníkovy nesplatné pohledávky se fikcí považují za splatné (§ 250) a správce získává strategická dovolení (volba splnit či odmítnout smlouvy podle § 253 odst. 1, výpověď nájmů podle § 256 odst. 1). V reorganizaci zůstává dispozice dlužníku (debtor in possession), avšak úkony zásadního významu činí „jen se souhlasem věřitelského výboru" (§ 330 odst. 2) a působnost valné hromady vykonává správce (§ 333 odst. 1). Reorganizační plán pak jako dovolená odchylka od zákona (§ 338 odst. 3) může pravidla uspokojení přepsat, včetně cram-downu vnuceného soudem (§ 348 odst. 2).
+
+**5. Oddlužení: dovolení podmíněné poctivostí.** Sanace fyzických osob je koncipována jako dovolení s přísnými vstupními filtry a trvalými povinnostmi: oddlužení „lze provést" dvěma způsoby (§ 398 odst. 1), avšak soud návrh zamítne při nepoctivém záměru či nedostatečné splátce (§ 395 odst. 1) i při lehkomyslném přístupu (§ 395 odst. 2). Po schválení nese dlužník katalog povinností (§ 412 odst. 1) — vykonávat výdělečnou činnost, nepřijímat nové závazky — jejichž porušení zmocňuje soud oddlužení zrušit a překlopit do konkursu (§ 418 odst. 1). Odměnou za splnění je konstitutivní osvobození od zbytku dluhů (§ 414 odst. 1), podepřené domněnkou plnění povinností při dosažení předpokládané míry uspokojení (§ 412a odst. 1 písm. b/) a dopadající i na nepřihlášené věřitele (§ 414 odst. 5).
+
+Judikatorní ilustrace dynamiky:
+
+- *NS* [29 ICdo 97/2018](judikatura/NS-29-ICdo-97-2018.md) — rozhodnutí ze dne 30. 6. 2020, k věcnému dosahu dispozičních omezení dlužníka po zahájení řízení (§ 111)
+  > „Zúčtoval-li (budoucí) insolvenční dlužník svým zaměstnancům příjmy ze závislé činnosti (§ 3 odst. 1 zákona č. 592/1992 Sb. ve znění pozdějších předpisů) a odvedl-li (přímo) příslušné zdravotní pojišťovně pojistné na zdravotní pojištění, jehož plátci byli tito zaměstnanci, nešlo o plnění z majetku náležejícího do majetkové podstaty dlužníka."
+- *NS* [20 Cdo 4879/2017](judikatura/NS-20-Cdo-4879-2017.md) — rozhodnutí ze dne 1. 12. 2017, k důsledkům režimu dispozičních oprávnění (§ 229) pro exekuci
+  > „V exekučním řízení vedeném pro pohledávku dlužníka za povinným nelze exekučním příkazem soudního exekutora ve smyslu ustanovení § 312 a násl. o. s. ř. postihnout pohledávku povinného týkající se majetkové podstaty dlužníka to platí bez zřetele k tomu, že oprávněným je insolvenční správce dlužníka."
+
+## Přehledová tabulka
+
+| Modalita | Typické normativní výrazy | Reprezentativní ustanovení |
+|---|---|---|
+| **Příkaz** | „musí být vedeno", „použijí se přiměřeně", „odmítne", „musí obsahovat", „podá vždy", „uspokojí se nejdříve", „zamítne", „se řídí" | § 5 písm. a), § 7, § 18 odst. 2, § 71 odst. 1, § 128 odst. 1, § 136 odst. 2, § 239 odst. 2, § 305 odst. 2, § 395 odst. 1, § 426 odst. 1 |
+| **Zákaz** | „nelze", „nesmí", „není přípustné", „nepřihlíží se", „je vyloučen", „je povinen zdržet se" | § 5 písm. c), § 24 odst. 1, § 53 odst. 1, § 83, § 109 odst. 1 písm. c), § 111 odst. 1, § 140e odst. 1, § 144, § 173 odst. 1, § 238, § 295 odst. 1, § 316 odst. 3 |
+| **Dovolení** | „může", „lze", „je přípustné", „je oprávněn", „může … jen" | § 7c, § 22 odst. 1, § 97 odst. 1, § 115, § 140 odst. 2, § 239 odst. 3, § 253 odst. 1, § 289 odst. 1, § 338 odst. 3, § 398 odst. 1 |
+| **Zmocnění** | „rozhodují", „rozhodne", „vydá rozhodnutí", „může insolvenční soud uložit", „může … zrušit", „přechází na insolvenčního správce oprávnění", „stanoví prováděcí právní předpis" | § 3 odst. 6, § 7a, § 54 odst. 1, § 81 odst. 2, § 82 odst. 1, § 136 odst. 1, § 229 odst. 3, § 235 odst. 2, § 246 odst. 1, § 348 odst. 2, § 418 odst. 1 |
+| **Oprávnění** | „má právo", „mají rovné možnosti", „je oprávněn podat", „mohou uplatnit žalobou", „přednostní právo má" | § 5 písm. b), § 29 odst. 1, § 97 odst. 8, § 198 odst. 1, § 298 odst. 1, § 339 odst. 1, § 419 odst. 3 |
+| **Povinnost** | „je povinen", „odpovídá za škodu", „se musí dovolat", „je vázán pokyny", „jsou povinni zdržet se" | § 5 písm. d), § 36 odst. 1, § 37 odst. 1, § 98 odst. 1, § 99 odst. 1, § 166, § 210 odst. 1, § 293 odst. 1, § 412 odst. 1 |
+| **Domněnka/fikce** | „má se za to", „platí, že", „považuje se za", „má stejné účinky jako" | § 3 odst. 2 a 3, § 18 odst. 2, § 71 odst. 2, § 107 odst. 1, § 147 odst. 1, § 173 odst. 4, § 174 odst. 3, § 225 odst. 3, § 240 odst. 2, § 250, § 253 odst. 2, § 412a odst. 1 písm. b) |
+
+---
+
+*Klasifikace vychází z doslovných znění zákona č. 182/2006 Sb. citovaných v kapitolových souborech tohoto repozitáře; judikatorní ilustrace pocházejí výhradně z místních zdrojů (složka [judikatura/](judikatura/README.md)). K zásadám insolvenčního řízení, s nimiž modality funkčně souvisejí, viz [ZASADY.md](ZASADY.md).*

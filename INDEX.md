@@ -36,7 +36,7 @@ Aktuální znění k **1. 1. 2026** (zdroj: lokální výtah z e-Sbírky, soubor
 
 - **Úpadek a hrozící úpadek** — § 3
 - **Způsoby řešení úpadku** — § 4
-- **Zásady insolvenčního řízení** — § 5
+- **Zásady insolvenčního řízení** — § 5 (systematický výklad s judikaturou: [ZASADY.md](ZASADY.md); právní modality: [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md))
 - **Insolvenční rejstřík** — § 419 a násl., § 71 a násl. (doručování)
 - **Insolvenční správce** — § 21 a násl. (+ samostatný zákon č. 312/2006 Sb.)
 - **Konkurs** — § 244 a násl.
@@ -76,6 +76,13 @@ Původní **důvodová zpráva** k zákonu (z oficiálního sněmovního tisku P
 ## Judikatura
 
 Ke komentovaným ustanovením je doplněna judikatura z místních zdrojů (sp. zn., datum, odkaz na plný text a právní věta). Přehled všech citovaných rozhodnutí: [judikatura/README.md](judikatura/README.md).
+
+## Zásady a právní modality
+
+Doprovodné systematické dokumenty:
+
+- [ZASADY.md](ZASADY.md) — **zásady insolvenčního práva**: soustava 14 zásad s judikatorním vymezením extrahovaným výhradně z místně dostupné judikatury (NS, ÚS, NSS) — 78 doslovných, strojově ověřených citací.
+- [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) — **právní modality v insolvenčním zákoně**: příkazy, zákazy, dovolení, zmocnění, oprávnění a povinnosti, domněnky a fikce — klasifikace na doslovném znění zákona včetně jejich „překlápění" v dynamice řízení.
 
 ## Licence
 

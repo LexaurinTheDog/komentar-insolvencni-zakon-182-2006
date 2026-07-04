@@ -428,6 +428,8 @@ Paragraf 5 obsahuje čtyři zásady s přímou normativní (interpretační) pov
 
 **Typicky rozhodné důkazy / podklady:** přihláška a výzva k odstranění vad, obsah a datace napadené dohody/zajištění, časová osa úkonů ve vztahu k zahájení řízení, doklady o (ne)dobré víře.
 
+*Systematický výklad všech zásad insolvenčního řízení s judikatorním vymezením z místních zdrojů podává [ZASADY.md](ZASADY.md); normativní rozbor příkazů, zákazů a dovolení v IZ viz [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md).*
+
 ---
 
 ## § 6 — Výjimky z působnosti zákona

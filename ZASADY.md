@@ -2,6 +2,12 @@
 
 > Systematický výklad zásad, na nichž stojí zákon č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon). Judikatorní vymezení každé zásady je extrahováno VÝHRADNĚ z místně dostupné judikatury (lokální kopie rozhodnutí NS, ÚS a NSS); karty citovaných rozhodnutí jsou ve složce [judikatura/](judikatura/README.md).
 
+<!-- LOCAL-OFFICIAL-SOURCE-LINKS -->
+
+**Oficiální znění komentovaného předpisu:** [182/2006 Sb.](https://e-sbirka.gov.cz/sb/2006/182)
+
+> Obsahový výklad zůstává založen výhradně na místních pramenech. Veřejné odkazy slouží k ověření totožnosti a dostupného znění předpisu nebo rozhodnutí; nejsou zdrojem nových právních tezí.
+
 ## Metoda
 
 Zdrojem judikatorních vymezení jsou výhradně místní kopie rozhodnutí. Ze 165 místně dostupných rozhodnutí byly vytěženy výroky formulující zásady a sloučeny do soustavy 14 zásad. Citáty jsou doslovné, strojově ověřené proti zdrojům; platí „když nevíš, nepiš nic" — zásady bez spolehlivé místní judikatury uvedeny nejsou. Teoretický výklad (nauka) je autorský.
@@ -25,7 +31,7 @@ Zdrojem judikatorních vymezení jsou výhradně místní kopie rozhodnutí. Ze 
 
 ## 1. Zásada účelu insolvenčního řízení — uspořádání majetkových poměrů dlužníka a co nejvyšší, zásadně poměrné uspokojení věřitelů
 
-**Zakotvení:** § 1 písm. a) IZ; § 5 písm. a) IZ
+**Zakotvení:** [§ 1](https://e-sbirka.gov.cz/sb/2006/182#par_1) písm. a) IZ; [§ 5](https://e-sbirka.gov.cz/sb/2006/182#par_5) písm. a) IZ
 
 Účel insolvenčního řízení vyjadřuje již úvodní ustanovení zákona: podle § 1 písm. a) IZ zákon upravuje řešení úpadku a hrozícího úpadku dlužníka soudním řízením některým ze stanovených způsobů tak, „aby došlo k uspořádání majetkových vztahů k osobám dotčeným dlužníkovým úpadkem nebo hrozícím úpadkem a k co nejvyššímu a zásadně poměrnému uspokojení dlužníkových věřitelů". Na úrovni zásad řízení je týž cíl promítnut do § 5 písm. a) IZ, podle něhož musí být řízení vedeno tak, aby se dosáhlo „rychlého, hospodárného a co nejvyššího uspokojení věřitelů". Nejde tedy jen o programové prohlášení — účel řízení je normativním měřítkem, jímž se poměřuje každý úkon soudu, správce i účastníků (podrobně viz komentář k § 1 a § 5).
 
@@ -37,7 +43,7 @@ V průběhu řízení se zásada projevuje od zahájení až po jeho skončení.
 
 **Judikatorní vymezení (z místních zdrojů):**
 
-- *ÚS* [Pl.ÚS 37/23](judikatura/US-Pl-S-37-23.md) — nález, 20. 11. 2024
+- *ÚS* [Pl.ÚS 37/23](judikatura/US-Pl-S-37-23.md) ([NALUS](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-37-23_1)) — nález, 20. 11. 2024
   > „Základním účelem úpadkového práva upraveného insolvenčním zákonem je řešení majetkových vztahů dlužníka, který je v úpadku, a uspokojení pohledávek věřitelů dlužníka z majetkové podstaty dlužníka."
 - *ÚS* [II.ÚS 2220/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2220-14_1) — usnesení, 27. 5. 2015
   > „Zároveň zůstává hlavní povinností insolvenčního soudu (stejně jako insolvenčního správce) postupovat tak, aby byl co nejvíce naplněn hlavní účel insolvenčního řízení, tj. aby byl vyřešen úpadek dlužníka tak, aby došlo k uspořádání majetkových vztahů k osobám dotčeným dlužníkovým úpadkem nebo hrozícím úpadkem a k co nejvyššímu a zásadně poměrnému uspokojení dlužníkových věřitelů (viz ustanovení § 1 insolvenčního zákona)."
@@ -52,7 +58,7 @@ V průběhu řízení se zásada projevuje od zahájení až po jeho skončení.
 
 ## 2. Zásady insolvenčního řízení (§ 5 IZ) jako obecný katalog a stálý korektiv; subsidiarita občanského soudního řádu
 
-**Zakotvení:** § 5 IZ; § 7 IZ
+**Zakotvení:** [§ 5](https://e-sbirka.gov.cz/sb/2006/182#par_5) IZ; [§ 7](https://e-sbirka.gov.cz/sb/2006/182#par_7) IZ
 
 Insolvenční řízení je specifickou oblastí civilního procesu s řadou odchylek od běžných postupů sporného i nesporného řízení. Právě proto zákonodárce předsadil před vlastní procesní úpravu obecný katalog zásad (§ 5 IZ), na nichž insolvenční řízení „zejména" spočívá: zákaz vedení řízení tak, aby byl kterýkoli z účastníků nespravedlivě poškozen nebo nedovoleně zvýhodněn, spojený s požadavkem rychlého, hospodárného a co nejvyššího uspokojení věřitelů [písm. a)]; rovné možnosti věřitelů se zásadně stejným nebo obdobným postavením [písm. b)]; ochranu práv věřitele nabytých v dobré víře před zahájením řízení, která nelze — nestanoví-li zákon jinak — omezit rozhodnutím insolvenčního soudu ani postupem insolvenčního správce [písm. c)]; a povinnost věřitelů zdržet se jednání směřujícího k uspokojení pohledávek mimo insolvenční řízení, ledaže to dovoluje zákon [písm. d)]. Slovo „zejména" naznačuje, že výčet je demonstrativní — katalog je otevřený i dalším principům plynoucím z povahy řízení (podrobně viz komentář k § 5).
 
@@ -64,22 +70,22 @@ Ve vztahu k ostatním zásadám rozvedeným v této kapitole plní katalog § 5 
 
 **Judikatorní vymezení (z místních zdrojů):**
 
-- *ÚS* [I.ÚS 129/14](judikatura/US-I-S-129-14.md) — usnesení, 20. 10. 2014
+- *ÚS* [I.ÚS 129/14](judikatura/US-I-S-129-14.md) ([NALUS](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-129-14_1)) — usnesení, 20. 10. 2014
   > „Insolvenční řízení je specifická oblast práva s mnoha odchylkami od běžných postupů v civilním soudním procesu. Odlišnost insolvenčního řízení je usměrňována zásadami insolvenčního řízení. Na jejich základě je možno v kterémkoliv okamžiku insolvenčního řízení posoudit, zda prováděný úkon svým obsahem a povahou odpovídá cílům a smyslu insolvenčního řízení. Ustanovení § 5 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon) tyto základní zásady insolvenčního řízení formuluje."
-- *ÚS* [IV.ÚS 983/13](judikatura/US-IV-S-983-13.md) — usnesení, 14. 5. 2014
+- *ÚS* [IV.ÚS 983/13](judikatura/US-IV-S-983-13.md) ([NALUS](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-983-13_1)) — usnesení, 14. 5. 2014
   > „Insolvenční řízení podle insolvenčního zákona má především za cíl co nejvyšší poměrné uspokojení věřitelů. Musí být vedeno tak, aby žádný z účastníků nebyl nespravedlivě poškozen nebo nedovoleně zvýhodněn a aby se dosáhlo rychlého, hospodárného a co nejvyššího uspokojení věřitelů [§ 5 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), ve znění pozdějších předpisů]. Přesto je třeba v rámci insolvenčního řízení respektovat alespoň v minimální míře také práva dlužníka"
 - *ÚS* [II.ÚS 2220/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2220-14_1) — usnesení, 27. 5. 2015
   > „Takto tedy insolvenční soud musí dbát, aby byli co do maximální a poměrné výše uspokojeni jednotliví věřitelé, přičemž musí vždy postupovat se zřetelem k zásadám insolvenčního řízení obsaženými v ustanovení § 5 insolvenčního zákona, mezi kterými zastává výsadní postavení princip, že insolvenční řízení musí být vedeno tak, aby žádný z účastníků nebyl nespravedlivě poškozen nebo nedovoleně zvýhodněn a aby se dosáhlo rychlého, hospodárného a co nejvyššího uspokojení všech věřitelů."
 - *ÚS* [II.ÚS 1938/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1938-13_1) — usnesení, 9. 1. 2014
   > „Současně lze však konstatovat, že vzhledem k dikci insolvenčního zákona může dojít k vyloučení obnovy insolvenčního řízení i v případech zjevných excesů, neboť obecné soudy jednají na základě zákona a nezkoumají věcnou opodstatněnost žaloby na obnovu řízení. Takový postup by však byl zcela zjevně v rozporu s korektivem spravedlnosti, který rovněž spadá do zásad insolvenčního řízení."
-- *ÚS* [III.ÚS 834/08](judikatura/US-III-S-834-08.md) — usnesení, 25. 11. 2008
+- *ÚS* [III.ÚS 834/08](judikatura/US-III-S-834-08.md) ([NALUS](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-834-08_1)) — usnesení, 25. 11. 2008
   > „Ustanovení § 7 odst. 1 zákona č. 182/2006 Sb. předepisuje pro insolvenční řízení a pro incidenční spory přiměřené použití ustanovení občanského soudního řádu, nestanoví-li tento zákon jinak nebo není-li takový postup v rozporu se zásadami, na kterých spočívá insolvenční řízení"
 - *ÚS* [II.ÚS 229/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-229-13_1) — usnesení, 7. 5. 2014
   > „Z tohoto je patrné, že i přes možnost vedlejšího účastenství v incidenčním sporu je nutno šetřit principy, na kterých insolvenční řízení stojí, jinak by docházelo k nechtěným průtahům či zvyšování nákladů, které budou následně přičteny na vrub všem věřitelům."
 
 ## 3. Zásada rovného postavení věřitelů a poměrného uspokojení *(par conditio creditorum (pari passu))*
 
-**Zakotvení:** § 5 písm. a) a b) IZ; § 1 písm. a) IZ; konkrétní projevy zejména v § 140 odst. 2, § 305 odst. 2 a § 306 odst. 3 IZ
+**Zakotvení:** [§ 5](https://e-sbirka.gov.cz/sb/2006/182#par_5) písm. a) a b) IZ; [§ 1](https://e-sbirka.gov.cz/sb/2006/182#par_1) písm. a) IZ; konkrétní projevy zejména v [§ 140](https://e-sbirka.gov.cz/sb/2006/182#par_140) odst. 2, [§ 305](https://e-sbirka.gov.cz/sb/2006/182#par_305) odst. 2 a [§ 306](https://e-sbirka.gov.cz/sb/2006/182#par_306) odst. 3 IZ
 
 Úhelná zásada insolvenčního řízení má dvě vzájemně provázané složky. Formuluje ji jednak § 5 písm. b) IZ, podle něhož věřitelé, kteří mají podle tohoto zákona zásadně stejné nebo obdobné postavení, mají v insolvenčním řízení rovné možnosti, jednak § 5 písm. a) IZ v části zakazující, aby byl kterýkoli z účastníků nespravedlivě poškozen nebo nedovoleně zvýhodněn. Obojí navazuje na účelové vymezení zákona v § 1 písm. a) IZ, jenž míří ke „co nejvyššímu a zásadně poměrnému uspokojení dlužníkových věřitelů“. Judikatura zásadu chápe jako projekci ústavního principu rovné ochrany vlastnického práva podle čl. 11 odst. 1 věty druhé Listiny: insolvenční řízení je „hromadnou exekucí“, v níž se neřeší uspokojení individuálního věřitele, nýbrž uspořádané uspokojení věřitelů všech (podrobně viz komentář k § 5).
 
@@ -95,9 +101,9 @@ Fundamentální povahu zásady dokládá i její trestněprávní ochrana: posky
   > „Citovaný § 305 odst. 2 insolvenčního zákona v souladu s úhelnou zásadou insolvenčního řízení, a to zásadou rovného zacházení s věřiteli ve stejném postavení ve smyslu § 5 písm. b) insolvenčního zákona (jakožto projekce ústavní zásady rovné ochrany vlastnického práva dle čl. 11 odst. 1 věty druhé Listiny základních práv a svobod), vymezuje postup insolvenčního soudu v insolvenčním řízení (velmi zjednodušeně označovaném coby hromadná exekuce, tj. řešení uspokojení nikoliv individuálního věřitele, nýbrž uspokojení více věřitelů) pro případ, že majetková podstata dlužníka nestačí na uspokojení všech přednostních věřitelů"
 - *NSS* [45 Af 15/2015 - 34](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/515406) — rozsudek, 21. 7. 2017
   > „Zásada rovného zacházení s věřiteli se tak uplatňuje vždy v rámci téže skupiny. Její uplatňování na věřitele různých skupin by zcela popřelo zákonné dělení pohledávek podle jejich povahy. Porušením této zásady by byl postup, který by vedl k odlišnému zacházení s věřiteli ze stejné skupiny."
-- *NSS* [5 Afs 114/2025 - 42](judikatura/NSS-5-Afs-114-2025-42.md) — rozsudek, 21. 11. 2025
+- *NSS* [5 Afs 114/2025 - 42](judikatura/NSS-5-Afs-114-2025-42.md) ([veřejná databáze NSS](https://vyhledavac.nssoud.cz/DokumentDetail/Index/747154)) — rozsudek, 21. 11. 2025
   > „Jakkoliv se tedy § 242 odst. 2 daňového řádu užije přednostně před § 140 odst. 2, odst. 3 písm. a) insolvenčního zákona, principálně jsou tato ustanovení postavena na stejných základech a sledují stejný účel, jímž je zákaz zvýhodňování věřitelů, respektive princip rovného postavení věřitelů úpadce."
-- *NSS* [10 Afs 87/2024 - 34](judikatura/NSS-10-Afs-87-2024-34.md) — rozsudek, 14. 5. 2025
+- *NSS* [10 Afs 87/2024 - 34](judikatura/NSS-10-Afs-87-2024-34.md) ([veřejná databáze NSS](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/741607)) — rozsudek, 14. 5. 2025
   > „Pokud výtěžek zpeněžení dlužníkovy majetkové podstaty nestačí k uspokojení všech takto uvedených pohledávek, uspokojí se pohledávky v určitém pořadí a zbylé pak poměrně; pořadí takto uspokojovaných pohledávek za podstatou určuje § 305 odst. 2 insolvenčního zákona. Na základě tohoto ustanovení rozhoduje insolvenční soud o tzv. kvazirozvrhu – usnesením určuje, jakou částkou má být ta která pohledávka za podstatou uspokojena"
 - *ÚS* [Pl.ÚS 36/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-36-09_1) — usnesení, 23. 4. 2013
   > „Funkce sankčního postihu, jak byl nastíněn výše, se zdaleka nevyčerpává pouhou hrozbou jako prevencí před potenciálně nežádoucím jednáním věřitelů, nýbrž v sobě zahrnuje i funkci reparační, kdy věřitel, který neopodstatněně nadhodnotil své přihlášené pohledávky, tímto způsobem zároveň "nahradí" škodu, která by jinak v důsledku dalšího setrvání přihlášené nadhodnocené pohledávky v insolvenčním řízení vznikla ostatním věřitelům; expressis verbis, sankční postih tu sleduje především ochranu oprávněných zájmů všech věřitelů, a ve svém posledku tak vede k posílení zásady rovnosti jejich postavení v insolvenčním řízení ve smyslu ustanovení § 5 písm. a) a b) InsZ"
@@ -110,7 +116,7 @@ Fundamentální povahu zásady dokládá i její trestněprávní ochrana: posky
 
 ## 4. Zákaz neodůvodněného zvýhodnění státu jako věřitele
 
-**Zakotvení:** § 5 písm. a) a b) IZ; § 165, § 168 IZ (a contrario)
+**Zakotvení:** [§ 5](https://e-sbirka.gov.cz/sb/2006/182#par_5) písm. a) a b) IZ; [§ 165](https://e-sbirka.gov.cz/sb/2006/182#par_165), [§ 168](https://e-sbirka.gov.cz/sb/2006/182#par_168) IZ (a contrario)
 
 Zákaz neodůvodněného zvýhodnění státu je zvláštním, judikaturou vyprofilovaným projevem zásady rovnosti věřitelů. Podle § 5 písm. a) IZ musí být insolvenční řízení vedeno tak, aby žádný z účastníků nebyl „nespravedlivě poškozen nebo nedovoleně zvýhodněn", a podle písmene b) mají věřitelé se zásadně stejným nebo obdobným postavením „v insolvenčním řízení rovné možnosti" (podrobně viz komentář k § 5). Ústavním základem zákazu je čl. 11 Listiny základních práv a svobod: vlastnické právo všech vlastníků má stejný zákonný obsah a ochranu, a z této kautely proto nelze žádnou interpretací dovodit zvýšenou ochranu práv státu jako vlastníka — v daňových věcech reprezentovaného správcem daně — která by mu v úpadkových poměrech přiznávala privilegované postavení oproti ostatním věřitelům.
 
@@ -122,18 +128,18 @@ Prakticky zásada slouží jako výkladové pravidlo pro řešení kolizí insol
 
 **Judikatorní vymezení (z místních zdrojů):**
 
-- *NSS* [2 Afs 256/2022 - 50](judikatura/NSS-2-Afs-256-2022-50.md) — rozsudek, 7. 9. 2023
+- *NSS* [2 Afs 256/2022 - 50](judikatura/NSS-2-Afs-256-2022-50.md) ([veřejná databáze NSS](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/714209)) — rozsudek, 7. 9. 2023
   > „Podle čl. 11 Listiny základních práv a svobod má vlastnické právo všech vlastníků stejný zákonný obsah a ochranu. Neodůvodněné zvýhodňování státu jako vlastníka, které mu přiznává privilegované postavení oproti ostatním věřitelům, je s touto ústavní kautelou v rozporu (nálezy Ústavního soudu ze dne 9. 12. 2008, sp. zn. Pl. ÚS 48/06, bod 28, či ze dne 2. 7. 2008, sp. zn. Pl. ÚS 12/06, bod 55). Případné zvýhodnění správců daně při uspokojování jejich pohledávek musí být formulováno explicitně, ústavně konformně a musí být obhajitelné (nález Ústavního soudu ze dne 7. 4. 2005, sp. zn. I. ÚS 544/02)."
-- *NSS* [3 Afs 134/2014 - 37](judikatura/NSS-3-Afs-134-2014-37.md) — rozsudek, 24. 6. 2015
+- *NSS* [3 Afs 134/2014 - 37](judikatura/NSS-3-Afs-134-2014-37.md) ([veřejná databáze NSS](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/635129)) — rozsudek, 24. 6. 2015
   > „Ústavní soud ve svém nálezu Pl. ÚS 48/06 ze dne 9. 12. 2008 dovodil že, „[v]lastnické právo jako právo základní je chráněno čl. 11 Listiny základních práv a svobod. Podle věty prvé a druhé prvního odstavce uvedeného článku Listiny má každý právo vlastnit majetek a vlastnické právo všech vlastníků má stejný zákonný obsah a ochranu. Z uvedené ústavní normy nelze žádnou interpretací dovodit zvýšenou ochranu práv státu jako vlastníka, reprezentovaného v daňových věcech správcem daně, která by v případě prohlášení konkursu vedla k jeho zvýhodnění a de facto mu přiznávala privilegované postavení oproti ostatním konkursním věřitelům“."
-- *NSS* [5 Afs 114/2025 - 42](judikatura/NSS-5-Afs-114-2025-42.md) — rozsudek, 21. 11. 2025
+- *NSS* [5 Afs 114/2025 - 42](judikatura/NSS-5-Afs-114-2025-42.md) ([veřejná databáze NSS](https://vyhledavac.nssoud.cz/DokumentDetail/Index/747154)) — rozsudek, 21. 11. 2025
   > „Lze tedy shrnout, že správce daně jakožto věřitel úpadce, nemůže zastávat v insolvenčním řízení neodůvodněně lepší postavení, než jaké mají ostatní věřitelé. Daňová pohledávka za dlužníkem, která vznikla přede dnem účinnosti rozhodnutí o úpadku není pohledávkou za majetkovou podstatou a správce daně ji musí v insolvenčním řízení uplatnit prostřednictvím přihlášky."
 - *NSS* [15 Af 80/2013 - 57](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/536831) — rozsudek, 16. 3. 2016
   > „Zařazením pohledávky správce daně dle ust. § 44 odst. 5 ZDPH do zvýhodněné kategorie pohledávek za majetkovou podstatou by nepřípustně došlo ke značnému zvýhodnění pozice státu na úkor ostatních věřitelů, což neakceptoval Ústavní soud v rámci své rozhodovací činnosti"
 
 ## 5. Zásada kolektivnosti a výlučnosti insolvenčního řízení (jednotný režim uplatňování pohledávek) *(univerzalita úpadkového řízení)*
 
-**Zakotvení:** § 1 IZ; § 109 odst. 1 IZ; § 173 IZ
+**Zakotvení:** [§ 1](https://e-sbirka.gov.cz/sb/2006/182#par_1) IZ; [§ 109](https://e-sbirka.gov.cz/sb/2006/182#par_109) odst. 1 IZ; [§ 173](https://e-sbirka.gov.cz/sb/2006/182#par_173) IZ
 
 Insolvenční řízení je řízením **kolektivním**. Na rozdíl od nalézacího či exekučního řízení, v nichž jde o nalezení a vynucení práva ve sporu mezi dvěma subjekty, je smyslem insolvenčního řízení nalezení *kolektivní spravedlnosti* — spravedlivého uspořádání mezi pluralitou věřitelů, jejichž pohledávky jsou uspokojovány ze společného, zpravidla nedostatečného zdroje (majetkové podstaty). Tomu odpovídá již účelové vymezení v § 1 písm. a): zákon směřuje „k uspořádání majetkových vztahů k osobám dotčeným dlužníkovým úpadkem nebo hrozícím úpadkem a k co nejvyššímu a zásadně poměrnému uspokojení dlužníkových věřitelů". K individuálnímu uspokojení jednotlivé pohledávky v insolvenčním řízení pojmově nedochází; zákonodárce insolvenční řízení upřednostnil jako prostředek *generálního* vyřešení vztahů mezi dlužníkem a jeho věřiteli před individuálním uplatňováním pohledávek v nalézacím či exekučním řízení.
 
@@ -149,20 +155,20 @@ Zásada plní dvojí ochrannou funkci. Především zajišťuje co nejefektivně
   > „Na tomto místě Ústavní soud připomíná, že v insolvenčním řízení nejde primárně o nalezení konečného výsledku ve sporu mezi dvěma subjekty, ale o nalezení kolektivní spravedlnosti, která souvisí s pluralitou věřitelů a společným zdrojem, z něhož jsou jejich pohledávky uspokojovány. Stěžovatelovo vlastnické právo nemohlo být z tohoto důvodu v jím tvrzené podobě zasaženo, neboť v insolvenčním řízení nedochází k individuálnímu uspokojení pohledávek."
 - *ÚS* [I.ÚS 3974/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-3974-14_1) — usnesení, 13. 7. 2015
   > „Z uvedeného je zřejmý úmysl zákonodárce upřednostnit insolvenční řízení jako prostředek generálního vyřešení vztahů mezi dlužníkem a jeho věřiteli před individuálním uplatňováním pohledávek v nalézacím, příp. exekučním řízení."
-- *ÚS* [II.ÚS 2444/10](judikatura/US-II-S-2444-10.md) — usnesení, 2. 12. 2010
+- *ÚS* [II.ÚS 2444/10](judikatura/US-II-S-2444-10.md) ([NALUS](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2444-10_2)) — usnesení, 2. 12. 2010
   > „Základním účelem úpadkového práva upraveného insolvenčním zákonem, je kromě uspokojení pohledávek věřitelů dlužníka z majetkové podstaty dlužníka i celkové vyřešení majetkových vztahů dlužníka, který je v úpadku. Smyslem § 109 odst. 1 písm. a) insolvenčního zákona je tedy docílit, aby zde po celou dobu trvání řízení existoval právní režim umožňující co nejefektivnější uspokojení věřitelů, a to z hlediska kvantitativního i časového. To se děje pokud možno co nejpřesnějším zjištěním majetku úpadce, k čemuž slouží jednotný režim přihlašování pohledávek spojený právě se zákazem podávání žalob mimo rámec insolvenčního řízení, pročež má tato právní úprava své opodstatnění."
 - *ÚS* [I.ÚS 2042/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-2042-11_1) — usnesení, 24. 8. 2011
   > „Jeho smyslem je celkové vyřešení majetkových poměrů dlužníka, který je v úpadku, tedy docílení co nejefektivnějšího uspokojení věřitelů, a to v jednotném režimu. Žádnému z věřitelů není bráněno domáhat se uspokojení své pohledávky, byť se tak bude dít pouze cestou přihlášky. Ze stejných důvodů nemůže obstát ani argument stěžovatele o hrozícím promlčení pohledávky, neboť přihláška je řádným uplatněním práva. Na druhou stranu současná právní úprava chrání také dlužníka, který má rovněž právní zájem na co nejefektivnějším vyřešení svého úpadku, a to opět v jednotném režimu. Možnost domáhat se uspokojení pohledávek podáním žaloby mimo insolvenční řízení by tento zájem dlužníka (a rovněž ostatních věřitelů) velmi vážně ohrozila."
 - *ÚS* [IV.ÚS 1196/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-1196-11_1) — usnesení, 11. 5. 2011
   > „Na druhé straně tato úprava chrání i osobu nacházející se v insolvenci. Kdyby byla dána možnost uplatňovat pohledávky u soudu souběžně s insolvenčním řízením, mohla by být osoba nacházející se v insolvenci po skončení insolvenčního řízení vystavena atakům ze strany věřitelů, vycházejícím z pohledávek vzniklých před zahájením insolvenčního řízení, což by mohlo mít za následek riziko opětovného podávání návrhů na insolvenci."
-- *NS* [36 Co 13/2011](judikatura/NS-36-Co-13-2011.md) — 13. 6. 2011, kat. A
+- *NS* [36 Co 13/2011](judikatura/NS-36-Co-13-2011.md) ([veřejná databáze NS](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A2CED057B7766889C1257A4E0066B361?openDocument)) — 13. 6. 2011, kat. A
   > „Řízení o žalobě podané věřitelem po zahájení insolvenčního řízení soud zastaví po právní moci rozhodnutí o úpadku, je-li předmětem žaloby pohledávka, kterou věřitel mohl přihlásit do insolvenčního řízení (§ 104 odst. 1 o. s. ř., § 109 odst. 1 písm. a/ insolvenčního zákona) to platí i tehdy, byl-li již prohlášen konkurs na majetek dlužníka."
-- *NSS* [5 Afs 114/2025 - 42](judikatura/NSS-5-Afs-114-2025-42.md) — rozsudek, 21. 11. 2025
+- *NSS* [5 Afs 114/2025 - 42](judikatura/NSS-5-Afs-114-2025-42.md) ([veřejná databáze NSS](https://vyhledavac.nssoud.cz/DokumentDetail/Index/747154)) — rozsudek, 21. 11. 2025
   > „Pokud věřitel svoji pohledávku řádně a včas nepřihlásí, v insolvenčním řízení se k ní nebude přihlížet a takto přihlášená pohledávka nebude v insolvenčním řízení uspokojena (§ 173 odst. 1 insolvenčního zákona)"
 
 ## 6. Zásada nadřazenosti společného zájmu věřitelů
 
-**Zakotvení:** § 2 písm. j) IZ; § 5 IZ
+**Zakotvení:** [§ 2](https://e-sbirka.gov.cz/sb/2006/182#par_2) písm. j) IZ; [§ 5](https://e-sbirka.gov.cz/sb/2006/182#par_5) IZ
 
 Insolvenční zákon vymezuje společný zájem věřitelů v § 2 písm. j) jako zájem nadřazený jednotlivým zájmům věřitelů, jehož cílem je, aby zvolený způsob řešení úpadku byl pro věřitele spravedlivý a výnosnější než ostatní způsoby řešení úpadku; zákonem zaručené zvláštní postavení některých věřitelů (typicky věřitelů zajištěných) tím dotčeno není. Ačkoli formálně jde o definiční ustanovení, materiálně má povaha této konstrukce charakter zásady: společný zájem věřitelů je poměřovacím hlediskem, jímž se v průběhu celého řízení testují klíčové procesní kroky. Ústavní soud tuto nadřazenost výslovně potvrdil, když společný zájem podle § 2 písm. j) IZ označil za „nadřazený zájmům jednotlivých věřitelů".
 
@@ -178,7 +184,7 @@ Ve vztahu k ostatním zásadám je nadřazenost společného zájmu funkčním d
 
 - *ÚS* [I.ÚS 2514/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-2514-09_1) — usnesení, 2. 12. 2009
   > „Ústavní soud se dále domnívá, že uvedené řešení vede také k zajištění společného zájmu věřitelů, který je v § 2 písm. j) IZ chápán jako nadřazený zájmům jednotlivých věřitelů; to navíc za situace, kdy není dotčeno zákonem zaručené zvláštní postavení některých věřitelů, kterým je nepochybně počítání výše jejich pohledávek pro zjištění většiny nutné k platnosti usnesení schůzí věřitelů (srov. § 29 odst. 1, § 49 odst. 1 IZ)."
-- *ÚS* [I.ÚS 622/14](judikatura/US-I-S-622-14.md) — usnesení, 25. 9. 2014
+- *ÚS* [I.ÚS 622/14](judikatura/US-I-S-622-14.md) ([NALUS](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-622-14_1)) — usnesení, 25. 9. 2014
   > „Právní úprava umožňuje soudu podle ustanovení § 82 odst. 2 písm. b) insolvenčního zákona nařídit (a to i bez návrhu) z důvodů zvláštního zřetele hodných předběžné opatření k omezení účinků spojených se zahájením insolvenčního řízení, mimo jiné za účelem připuštění provedení nařízeného výkonu rozhodnutí nebo exekuce [jež je jinak zakázáno z titulu § 109 odst. 1 písm. c) insolvenčního zákona], neodporuje-li to společnému zájmu věřitelů."
 - *ÚS* [II.ÚS 2494/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2494-09_1) — usnesení, 11. 3. 2010
   > „Postup Krajského soudu v Českých Budějovicích tak neeliminuje klíčové postavení věřitelů v insolvenčním řízení, ale naopak přispívá k zajištění jejich zájmu; příslušné rozhodnutí podle § 51 odst. 1 věty druhé insolvenčního zákona z pravomoci insolvenčního soudu vyloučeno není a být ani nemůže."
@@ -187,7 +193,7 @@ Ve vztahu k ostatním zásadám je nadřazenost společného zájmu funkčním d
 
 ## 7. Zásada ochrany a maximalizace majetkové podstaty
 
-**Zakotvení:** § 5 písm. a) a d) IZ; konkretizace zejména v § 109 odst. 1 písm. b) a c), § 205 an., § 208, § 235 an. a § 263 IZ
+**Zakotvení:** [§ 5](https://e-sbirka.gov.cz/sb/2006/182#par_5) písm. a) a d) IZ; konkretizace zejména v [§ 109](https://e-sbirka.gov.cz/sb/2006/182#par_109) odst. 1 písm. b) a c), [§ 205](https://e-sbirka.gov.cz/sb/2006/182#par_205) an., [§ 208](https://e-sbirka.gov.cz/sb/2006/182#par_208), [§ 235](https://e-sbirka.gov.cz/sb/2006/182#par_235) an. a [§ 263](https://e-sbirka.gov.cz/sb/2006/182#par_263) IZ
 
 Majetková podstata je hospodářským substrátem celého insolvenčního řízení: z ní — a zásadně jen z ní — se má dosáhnout „rychlého, hospodárného a co nejvyššího uspokojení věřitelů" ve smyslu § 5 písm. a) IZ. Z tohoto cíle plyne dvojjediný imperativ. Podstatu je třeba jednak **chránit** před tím, aby z ní jednotliví věřitelé (či kdokoli třetí) ukrajovali mimo kolektivní proceduru, jednak **maximalizovat** — udržet ji, případně rozšířit na vše, co do ní podle zákona patří, a nepřipustit její zužování nad rámec výslovných výjimek. Obě větve jsou rubem zásady zakotvené v § 5 písm. d) IZ, podle níž „věřitelé jsou povinni zdržet se jednání, směřujícího k uspokojení jejich pohledávek mimo insolvenční řízení, ledaže to dovoluje zákon."
 
@@ -199,18 +205,18 @@ Zásada je funkčně provázána s ostatními zásadami § 5 IZ. Zajišťuje re�
 
 **Judikatorní vymezení (z místních zdrojů):**
 
-- *NS* [20 Cdo 4879/2017](judikatura/NS-20-Cdo-4879-2017.md) — 1. 12. 2017, kat. A
+- *NS* [20 Cdo 4879/2017](judikatura/NS-20-Cdo-4879-2017.md) ([veřejná databáze NS](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3230B452174C2142C125822F002B7F5F?openDocument)) — 1. 12. 2017, kat. A
   > „V exekučním řízení vedeném pro pohledávku dlužníka za povinným nelze exekučním příkazem soudního exekutora ve smyslu ustanovení § 312 a násl. o. s. ř. postihnout pohledávku povinného týkající se majetkové podstaty dlužníka; to platí bez zřetele k tomu, že oprávněným je insolvenční správce dlužníka"
-- *NS* [29 Cdo 307/2014](judikatura/NS-29-Cdo-307-2014.md) — 29. 2. 2016, kat. A
+- *NS* [29 Cdo 307/2014](judikatura/NS-29-Cdo-307-2014.md) ([veřejná databáze NS](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B19D7AB73128EBEFC1258393002C4905?openDocument)) — 29. 2. 2016, kat. A
   > „Současně je ale nutno přihlédnout k dopadu sporného právního úkonu do majetkové sféry dlužníka z hlediska možnosti věřitelů, jimž k datu nabytí účinků sporného právního úkonu dlužníka svědčila pohledávka za dlužníkem, dosáhnout vůči dlužníku úhrady pohledávek (a schopnosti dlužníka tyto pohledávky zaplatit) a k důvodům, pro které dlužník sporný právní úkon učinil (např. snaha získat prostředky k úhradě již splatných pohledávek věřitelů), jakož i k dalším okolnostem, za nichž dlužník dotčený právní úkon učinil."
-- *NSS* [2 Afs 256/2022 - 50](judikatura/NSS-2-Afs-256-2022-50.md) — rozsudek, 7. 9. 2023
+- *NSS* [2 Afs 256/2022 - 50](judikatura/NSS-2-Afs-256-2022-50.md) ([veřejná databáze NSS](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/714209)) — rozsudek, 7. 9. 2023
   > „Jak uvádí judikatura insolvenčních soudů, toto ustanovení je nezbytné vykládat s ohledem na základní principy insolvenčního řízení restriktivně (rozsudek Vrchního soudu v Praze ze dne 3. 8. 2018, č. j. 104 VSPH 331/2020 124, bod 21). Do rozsahu § 208 insolvenčního zákona náleží především majetek, s nímž lze nakládat podle zvláštního zákona pouze v souladu se stanoveným účelem, přičemž jde zejména o veřejné prostředky poskytnuté dlužníku za určitým účelem, a finanční rezervy vytvářené za určitým účelem (srov. tentýž rozsudek Vrchního soudu v Praze, bod 23)."
 - *ÚS* [IV.ÚS 235/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-235-12_1) — nález, 8. 10. 2012
   > „Exekuční soud je naopak povinen exekuční titul přezkoumat i v tomto rozsahu a zamítnout návrh na nařízení exekuce na základě exekučního titulu, resp. rozhodnutí, jímž odvolací soud vyhovující rozsudek ve věci samé potvrdil v době, kdy odvolací řízení ve věci samé bylo ze zákona prohlášením konkursu přerušeno, a to proto, že takové rozhodnutí nemohlo mít - a nemělo - právní účinky, a není zde tudíž vykonatelný exekuční titul"
 
 ## 8. Zásada rychlosti, hospodárnosti a právní jistoty insolvenčního řízení
 
-**Zakotvení:** § 5 písm. a) IZ (řízení musí být vedeno tak, „aby se dosáhlo rychlého, hospodárného a co nejvyššího uspokojení věřitelů"); požadavek právní jistoty prostupuje jako obecný ústavní princip celou úpravou lhůt a procesních postupů IZ.
+**Zakotvení:** [§ 5](https://e-sbirka.gov.cz/sb/2006/182#par_5) písm. a) IZ (řízení musí být vedeno tak, „aby se dosáhlo rychlého, hospodárného a co nejvyššího uspokojení věřitelů"); požadavek právní jistoty prostupuje jako obecný ústavní princip celou úpravou lhůt a procesních postupů IZ.
 
 Zásada rychlosti a hospodárnosti tvoří spolu s cílem co nejvyššího uspokojení věřitelů jednotný normativní celek: nejde o tři samostatné hodnoty, nýbrž o jediné měřítko, podle něhož se poměřuje každý úkon soudu, insolvenčního správce i dalších procesních subjektů v kterémkoli okamžiku řízení. Ústavní soud zdůraznil, že co nejvyššího uspokojení zjištěných pohledávek věřitelů má být dosaženo „v nejkratším možném čase" a že důraz na rychlost se odráží v systematice celého procesu — od zahájení řízení přes rozhodnutí o úpadku a o způsobu jeho řešení až po zpeněžení a rozvrh (podrobně viz komentář k § 5).
 
@@ -224,26 +230,26 @@ Zásada rychlosti a hospodárnosti není absolutní: působí vždy v souvztažn
 
 **Judikatorní vymezení (z místních zdrojů):**
 
-- *ÚS* [I.ÚS 129/14](judikatura/US-I-S-129-14.md) — usnesení, 20. 10. 2014
+- *ÚS* [I.ÚS 129/14](judikatura/US-I-S-129-14.md) ([NALUS](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-129-14_1)) — usnesení, 20. 10. 2014
   > „Zásada vyjadřuje Ústavou a dalšími ústavními zákony zajištěnou rovnost účastníků každého civilního soudního řízení. Při respektování této zásady musí insolvenční soud, insolvenční správce a další subjekty zúčastněné na průběhu insolvenčního řízení postupovat tak, aby co nejvyššího uspokojení zjištěných pohledávek věřitelů bylo dosaženo v nejkratším možném čase. Důraz na rychlost insolvenčního řízení se odráží také v systematice celého procesu insolvenčního řízení."
-- *ÚS* [Pl.ÚS 42/08](judikatura/US-Pl-S-42-08.md) — nález, 21. 4. 2009
+- *ÚS* [Pl.ÚS 42/08](judikatura/US-Pl-S-42-08.md) ([NALUS](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-42-08_1)) — nález, 21. 4. 2009
   > „Zákonem stanovená lhůta v ustanovení § 93 odst. 2 insolvenčního zákona se týká rozhodnutí o odvolání proti nařízení předběžného opatření, proti rozhodnutí o úpadku a proti rozhodnutí o způsobu řešení úpadku, tj. jde o počáteční vyřešení situace dlužníka, kdy je nezbytné zamezit jakýmkoli průtahům, a vzhledem k tomu, že jde o lhůtu pořádkovou, není její vymezení v rozporu s právem na spravedlivý proces"
-- *ÚS* [III.ÚS 564/13](judikatura/US-III-S-564-13.md) — usnesení, 18. 12. 2014
+- *ÚS* [III.ÚS 564/13](judikatura/US-III-S-564-13.md) ([NALUS](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-564-13_1)) — usnesení, 18. 12. 2014
   > „smyslem právního institutu lhůt je snížení entropie (neurčitosti) při uplatňování práv, resp. pravomocí, časové omezení stavu nejistoty v právních vztazích, urychlení procesu rozhodování s cílem reálného dosažení zamýšlených cílů (srov. nález sp. zn. Pl. ÚS 33/97 ze dne 17. 12. 1997, 30/1998 Sb., N 163/9 SbNU 399, a navazující judikaturu). Není k dispozici úsudek, že by daná právní úprava, resp. její aplikace obecnými soudy z tohoto účelového vymezení nepřípustně vybočovala, což specificky platí ku zvláštním poměrům insolventního řízení."
 - *ÚS* [I.ÚS 3351/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-3351-14_1) — usnesení, 6. 1. 2015
   > „Opačný závěr, tj. závěr, že lhůtu dle § 147 odst. 6 insolvenčního zákona je třeba počítat od uveřejnění rozhodnutí odvolacího soudu o odvolání insolvenčního navrhovatele, by byl dle názoru Ústavního soudu v rozporu s principem právní jistoty, neboť osoba oprávněná k podání návrhu na vydání předběžného opatření by neměla postaveno najisto, kdy ji lhůta k jeho podání počne běžet"
-- *ÚS* [II.ÚS 1567/14](judikatura/US-II-S-1567-14.md) — usnesení, 6. 5. 2015
+- *ÚS* [II.ÚS 1567/14](judikatura/US-II-S-1567-14.md) ([NALUS](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1567-14_1)) — usnesení, 6. 5. 2015
   > „Výše uvedené řešení spočívající v omezení popěrného práva věřitelů při reorganizaci odůvodněné zejména potřebou rychlosti insolvenčního řízení, ovšem při zachování účinků takového popěrného úkonu v případě přeměny řešení úpadku dlužníka z reorganizace na konkurs (§ 362 a § 363 insolvenčního zákona), ve spojení s úpravou zakotvenou v § 348 odst. 1 písm. d) insolvenčního zákona, podle níž každý věřitel v rámci reorganizace získá plnění, jehož celková současná hodnota je ke dni účinnosti reorganizačního plánu stejná nebo vyšší než hodnota plnění, které by zřejmě obdržel, kdyby dlužníkův úpadek byl řešen konkursem, představuje z pohledu Ústavního soudu dostatečnou záruku ochrany majetkových práv věřitelů i v rámci reorganizace."
 - *ÚS* [II.ÚS 1938/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1938-13_1) — usnesení, 9. 1. 2014
   > „Tou hodnotou je ochrana vlastnického práva věřitelů, kteří mají právo na včasné uspokojení svých pohledávek a jejich právní jistota, jakož i právní jistota dlužníka, spočívající v tom, že insolvenční řízení proběhne při zachování zásad spravedlnosti rychle, hospodárně a tak, že co nejvíce uspokojí věřitele. V souladu s těmito obecnými zásadami insolvenčního řízení (§ 5 insolvenčního zákona) je proto přípustné, aby insolvenční řízení bylo vyjmuto z řízení, pro která je obnova řízení přípustná."
 - *ÚS* [III.ÚS 3066/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-3066-09_1) — usnesení, 22. 12. 2009
   > „Pokud stěžovatel očekával při zpeněžení majetku podstaty dosažení ceny tržní, tedy ceny obvyklé, je třeba zdůraznit, že zásadám insolvenčního řízení zcela odpovídá dosažení rychlého, hospodárného a co nejvyššího uspokojení věřitelů, v jejichž rámci je vhodné či dokonce v mnoha případech nezbytné prodat veškerý majetek spadající do majetkové podstaty úpadce pod cenou odhadní tak, aby konečný výsledek při započtení nákladů na správu zpeněžovaného majetku byl kladný a nikoli záporný."
-- *NSS* [4 As 72/2012 - 52](judikatura/NSS-4-As-72-2012-52.md) — rozsudek, 24. 1. 2013
+- *NSS* [4 As 72/2012 - 52](judikatura/NSS-4-As-72-2012-52.md) ([veřejná databáze NSS](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/626642)) — rozsudek, 24. 1. 2013
   > „Je-li tedy s podnikem spjato určité veřejné subjektivní právo, jehož ochrany se původní vlastník podniku dovolával u soudu rozhodujícího ve správním soudnictví, musí být nabyvateli podniku umožněno vstoupit do takového řízení namísto jeho dosavadního vlastníka podle § 107a o. s. ř. za použití § 64 s. ř. s. Opačný výklad by popíral smysl prodeje podniku jako celku se všemi právy a závazky, které se k podniku vážou, a značně by prodlužoval a komplikoval insolvenční řízení, jde-li o prodej podniku v režimu podle § 290 a násl. insolvenčního zákona."
 
 ## 9. Zásada bdělosti věřitelů a odpovědnosti za vlastní procesní aktivitu *(vigilantibus iura scripta sunt)*
 
-**Zakotvení:** obecně § 5 IZ (zejména písm. a) — rychlost a hospodárnost řízení, a písm. b) — rovné *možnosti* věřitelů); konkrétní projevy především v § 173 odst. 1 (propadná přihlašovací lhůta), § 178 a § 179 (sankce za nadhodnocenou pohledávku a nadhodnocené zajištění) a § 198 IZ (lhůta k podání incidenční žaloby).
+**Zakotvení:** obecně [§ 5](https://e-sbirka.gov.cz/sb/2006/182#par_5) IZ (zejména písm. a) — rychlost a hospodárnost řízení, a písm. b) — rovné *možnosti* věřitelů); konkrétní projevy především v [§ 173](https://e-sbirka.gov.cz/sb/2006/182#par_173) odst. 1 (propadná přihlašovací lhůta), [§ 178](https://e-sbirka.gov.cz/sb/2006/182#par_178) a [§ 179](https://e-sbirka.gov.cz/sb/2006/182#par_179) (sankce za nadhodnocenou pohledávku a nadhodnocené zajištění) a [§ 198](https://e-sbirka.gov.cz/sb/2006/182#par_198) IZ (lhůta k podání incidenční žaloby).
 
 Insolvenční zákon je vystavěn na modelu aktivního věřitele. Zásada bdělosti není v katalogu § 5 vyslovena výslovně, prostupuje však celou konstrukcí zákona: písmeno b) zaručuje věřitelům téhož postavení rovné *možnosti*, nikoli rovný výsledek — kdo nabízené procesní příležitosti nevyužije, nese následky sám a nemůže je přenášet na dlužníka, správce, soud ani na ostatní věřitele. Zásada je zároveň rubem zásady rychlosti a hospodárnosti podle písmene a): řízení s velkým počtem účastníků nemůže vyčkávat na liknavé věřitele ani být zatěžováno vedlejšími spory o pohledávky, které měly být řádně doloženy od počátku (podrobně viz komentář k § 5).
 
@@ -255,9 +261,9 @@ Konečně platí, že opravné prostředky náležejí jen věřitelům, kteří
 
 **Judikatorní vymezení (z místních zdrojů):**
 
-- *NS* [29 Cdo 4269/2014](judikatura/NS-29-Cdo-4269-2014.md) — 17. 12. 2015, kat. A
+- *NS* [29 Cdo 4269/2014](judikatura/NS-29-Cdo-4269-2014.md) ([veřejná databáze NS](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5EF877B36CB06C37C1257F8B0030FA57?openDocument)) — 17. 12. 2015, kat. A
   > „Věřitel, který (ač tak mohl učinit) v propadné přihlašovací lhůtě nepřihlásil pohledávku za dlužníkem do insolvenčního řízení vedeného na majetek dlužníka, nemá podle § 98 a § 99 insolvenčního zákona právo na náhradu škody nebo jiné újmy (způsobené nedobytností pohledávky) vůči osobě uvedené v § 98 odst. 2 insolvenčního zákona, která ve smyslu ustanovení § 98 odst. 1 insolvenčního zákona porušila povinnost podat insolvenční návrh na majetek dlužníka."
-- *NS* [29 NSCR 41/2015](judikatura/NS-29-NSCR-41-2015.md) — 27. 5. 2015, kat. A
+- *NS* [29 NSCR 41/2015](judikatura/NS-29-NSCR-41-2015.md) ([veřejná databáze NS](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/16612C9B3D6F5EC8C1257E7E0030CFD0?openDocument)) — 27. 5. 2015, kat. A
   > „Případné pochybení poskytovatele webové služby insolvenčního rejstříku, spočívající v opožděném "oznámení" úpadku dlužníka, nemá vliv na běh lhůty k přihlášení pohledávky věřitele."
 - *ÚS* [Pl.ÚS 36/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-36-09_1) — usnesení, 23. 4. 2013
   > „jde o svého druhu koncentraci řízení, jejímž smyslem je urychlit insolvenční řízení, resp. zabránit nadměrným průtahům způsobeným v něm vedlejšími spory. Je zcela na věřitelích a plně v jejich zájmu, aby pokud možno co nejpřesvědčivěji doložili, na základě jakých právních titulů a okolností svoji pohledávku přihlašují, neboť by nejen vůči dlužníkovi a insolvenčnímu správci, ale i vůči ostatním věřitelům nebylo přinejmenším korektní, aby věřitelé mohli dodatečně měnit svou argumentaci a přizpůsobit ji svým aktuálním potřebám v reakci na vývoj událostí v insolvenčním řízení"
@@ -270,7 +276,7 @@ Konečně platí, že opravné prostředky náležejí jen věřitelům, kteří
 
 ## 10. Zásada publicity a transparentnosti insolvenčního řízení (insolvenční rejstřík)
 
-**Zakotvení:** § 71 a násl. IZ (doručení vyhláškou), § 89 IZ (účinnost rozhodnutí), § 419–425 IZ (insolvenční rejstřík)
+**Zakotvení:** [§ 71](https://e-sbirka.gov.cz/sb/2006/182#par_71) a násl. IZ (doručení vyhláškou), [§ 89](https://e-sbirka.gov.cz/sb/2006/182#par_89) IZ (účinnost rozhodnutí), [§ 419](https://e-sbirka.gov.cz/sb/2006/182#par_419)–425 IZ (insolvenční rejstřík)
 
 Insolvenční řízení je řízením kolektivním, jehož výsledek se dotýká předem neuzavřeného okruhu osob — věřitelů, smluvních partnerů dlužníka i třetích osob zvažujících, zda s dlužníkem vůbec vstoupit do právního styku. Individuální komunikace soudu s desítkami či stovkami adresátů by takové řízení paralyzovala; zákon ji proto nahrazuje centrální publicitou. Jejím nositelem je insolvenční rejstřík: informační systém veřejné správy, jehož správcem je Ministerstvo spravedlnosti, obsahující seznam insolvenčních správců, seznam dlužníků a insolvenční spisy (§ 419 odst. 1 a 2). Rejstřík je veřejně přístupný a každý má právo do něj nahlížet a pořizovat si z něj kopie a výpisy (§ 419 odst. 3). Nejvyšší správní soud jeho účel vymezil jako transparentnost úkonů v rámci insolvenčního řízení, veřejnou a operativní dostupnost údajů v něm obsažených a komunikaci mezi subjekty řízení podle § 71 IZ — tedy funkce, které je třeba odlišovat od jiných informačních mechanismů (např. oznamovacích povinností vůči orgánu dohledu).
 
@@ -282,20 +288,20 @@ K ostatním zásadám se publicita chová jako servisní infrastruktura: umožň
 
 **Judikatorní vymezení (z místních zdrojů):**
 
-- *NSS* [8 As 33/2019 - 48](judikatura/NSS-8-As-33-2019-48.md) — rozsudek, 24. 4. 2020
+- *NSS* [8 As 33/2019 - 48](judikatura/NSS-8-As-33-2019-48.md) ([veřejná databáze NSS](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/654441)) — rozsudek, 24. 4. 2020
   > „stěžovatel nerozlišuje odlišný účel insolvenčního rejstříku. Tím je transparentnost úkonů v rámci insolvenčního řízení a veřejná a operativní dostupnost údajů v něm obsažených, případně komunikace mezi subjekty insolvenčního řízení podle § 71 zákona č. 182/2006 Sb., insolvenční zákon (dále jen „insolvenční zákon“). Tyto funkce je třeba zcela oddělit od oznamovací povinnosti insolvenčního správce vůči žalovanému jako orgánu dohledu nad výkonem činnosti insolvenčních správců."
-- *NS* [29 Cdo 311/2015](judikatura/NS-29-Cdo-311-2015.md) — 25. 11. 2015, kat. A
+- *NS* [29 Cdo 311/2015](judikatura/NS-29-Cdo-311-2015.md) ([veřejná databáze NS](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8645493EE9D1AECCC1257F6A002A8991?openDocument)) — 25. 11. 2015, kat. A
   > „Neurčí-li insolvenční soud jinak v usnesení, jímž zamítá insolvenční návrh, zanikají účinky spojené se zahájením insolvenčního řízení nejpozději okamžikem zveřejnění tohoto usnesení v insolvenčním rejstříku. Usnesení, jímž odvolací soud zrušil usnesení o zamítnutí insolvenčního návrhu a věc vrátil insolvenčnímu soudu k dalšímu řízení, se stává účinným nejpozději okamžikem zveřejnění tohoto usnesení v insolvenčním rejstříku (jenž je vždy též okamžikem právní moci takového usnesení) tímto okamžikem se opět obnovují (ex nunc) účinky spojené se zahájením insolvenčního řízení."
-- *NS* [29 NSCR 4/2008](judikatura/NS-29-NSCR-4-2008.md) — 4. 9. 2008, kat. A
+- *NS* [29 NSCR 4/2008](judikatura/NS-29-NSCR-4-2008.md) ([veřejná databáze NS](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3BAE3A971938E7BEC1257A4E0065EFF6?openDocument)) — 4. 9. 2008, kat. A
   > „Nejde-li o známé věřitele dlužníka, kteří mají své obvyklé místo pobytu, bydliště nebo sídlo v některém z členských států Evropské unie s výjimkou Dánska (§ 430 zákona č. 182/2006 Sb. ve znění pozdějších předpisů), nedoručuje insolvenční soud známým věřitelům dlužníka zvlášť (jinak než vyhláškou podle § 71 a násl. uvedeného zákona) ani vyhlášku, kterou se oznamuje zahájení insolvenčního řízení, ani rozhodnutí o úpadku"
-- *ÚS* [I.ÚS 2451/10](judikatura/US-I-S-2451-10.md) — nález, 16. 12. 2010
+- *ÚS* [I.ÚS 2451/10](judikatura/US-I-S-2451-10.md) ([NALUS](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-2451-10_1)) — nález, 16. 12. 2010
   > „posuzování žádosti dle § 422 odst. 1 insolvenčního zákona je vlastně rozhodováním o právech a povinnostech (zejména o střetu práva na ochranu soukromí dotčeného subjektu a zájmu na efektivním soudním procesu); je tedy rozhodováno o zásahu do právní sféry jednotlivců a aplikován princip proporcionality kolidujících ústavních hodnot."
-- *NSS* [14 A 122/2018 - 39](judikatura/NSS-14-A-122-2018-39.md) — rozsudek, 20. 12. 2019
+- *NSS* [14 A 122/2018 - 39](judikatura/NSS-14-A-122-2018-39.md) ([veřejná databáze NSS](https://vyhledavac.nssoud.cz/DokumentDetail/Index/427355)) — rozsudek, 20. 12. 2019
   > „Konstitutivní charakter zápisu a výmazu provozovny insolvenčního správce takto chrání práva třetích osob (primárně účastníků řízení), které tak mohou jednat (navštívit provozovnu) v důvěře v údaj zveřejněný ve veřejném seznamu"
 
 ## 11. Zákaz zneužití insolvenčního řízení *(zákaz šikanózního insolvenčního návrhu)*
 
-**Zakotvení:** § 5 IZ (zejména písm. a)); § 3 IZ (materiální podmínky úpadku jako mez zásady); procesním projevem je § 128a IZ
+**Zakotvení:** [§ 5](https://e-sbirka.gov.cz/sb/2006/182#par_5) IZ (zejména písm. a)); [§ 3](https://e-sbirka.gov.cz/sb/2006/182#par_3) IZ (materiální podmínky úpadku jako mez zásady); procesním projevem je [§ 128a](https://e-sbirka.gov.cz/sb/2006/182#par_128a) IZ
 
 Insolvenční řízení slouží výlučně k řešení úpadku nebo hrozícího úpadku dlužníka některým ze zákonem stanovených způsobů. Z toho plyne negativní vymezení: řízení nesmí být zneužíváno k účelům, k nimž neslouží. Zásada nemá v zákoně výslovnou formulaci, judikatura ji však dovozuje přímo ze zásad insolvenčního řízení — především z § 5 písm. a), podle něhož insolvenční řízení musí být vedeno tak, aby žádný z účastníků nebyl nespravedlivě poškozen nebo nedovoleně zvýhodněn (podrobně viz komentář k § 5). Nespravedlivým poškozením je i sám fakt, že je dlužník vystaven insolvenčnímu řízení, které materiálně řešení úpadku neslouží.
 
@@ -320,7 +326,7 @@ Zásada má i svou mez. Jsou-li podmínky úpadku podle § 3 splněny, je insolv
 
 ## 12. Zásada řídící a dohlédací úlohy insolvenčního soudu a zákazu libovůle
 
-**Zakotvení:** § 10, § 11 IZ
+**Zakotvení:** [§ 10](https://e-sbirka.gov.cz/sb/2006/182#par_10), [§ 11](https://e-sbirka.gov.cz/sb/2006/182#par_11) IZ
 
 Insolvenční soud není v řízení pouhým arbitrem předložených návrhů, nýbrž procesním subjektem s řídící a dohledovou pravomocí. Zákonným základem této zásady je § 10 IZ, podle něhož insolvenční soud v insolvenčním řízení jednak vydává rozhodnutí, jejichž vydání zákon ukládá nebo předpokládá (rozhodovací činnost), a jednak průběžně vykonává dohled nad postupem a činností ostatních procesních subjektů a rozhoduje o záležitostech s tím souvisejících (dohlédací činnost). Obsah dohlédací činnosti pak rozvíjí § 11 IZ: soud rozhoduje o záležitostech týkajících se průběhu řízení, činí opatření potřebná k zajištění jeho účelu a ukládá povinnosti jednotlivým subjektům řízení; vůči insolvenčnímu správci je nadto oprávněn vyžadovat zprávy a vysvětlení o jeho postupu, nahlížet do jeho účtů, konat potřebná šetření, dávat mu pokyny a uložit mu, aby si k určitým otázkám vyžádal stanovisko věřitelského výboru (podrobně viz komentář k § 10 a § 11).
 
@@ -332,7 +338,7 @@ Konečně platí, že na dohled nad insolvenčním správcem soud nesmí rezigno
 
 **Judikatorní vymezení (z místních zdrojů):**
 
-- *ÚS* [IV.ÚS 3112/13](judikatura/US-IV-S-3112-13.md) — nález, 15. 4. 2014
+- *ÚS* [IV.ÚS 3112/13](judikatura/US-IV-S-3112-13.md) ([NALUS](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3112-13_1)) — nález, 15. 4. 2014
   > „Ústavní soud dále konstatuje důležitost postavení insolvenčního soudu jako procesního subjektu s řídící a dohledovou pravomocí v insolvenčním řízení. To, že Ústavní soud této pravomoci připisuje velkou důležitost i ve vztahu k rozhodování o hlasovacích právech věřitelů, dokládají např. nálezy sp. zn. IV. ÚS 1834/10 ze dne 22. listopadu 2010 (N 231/59 SbNU 357) a sp. zn. IV. ÚS 2372/11 ze dne 3. září 2012 (na který odkazuje též stěžovatel), v nichž zároveň traktoval nezbytnost a důležitost náležitého odůvodnění rozhodnutí insolvenčního soudu týkajícího rozhodování o hlasovacích právech věřitelů."
 - *ÚS* [I.ÚS 4008/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-4008-13_1) — usnesení, 13. 3. 2014
   > „Konstrukce insolvenčního zákona, byť velmi akcentující názor věřitelů při řešení úpadku dlužníka, obsahuje korekční působení insolvenčního soudu v rámci dohlédací činnosti. Ta je odůvodněna výjimečnou povahou okolností, které na rozdíl od normálně fungující společnosti představuje společnost v úpadku"
@@ -345,7 +351,7 @@ Konečně platí, že na dohled nad insolvenčním správcem soud nesmí rezigno
 
 ## 13. Zásada nezávislosti a nestrannosti insolvenčního správce a insolvenčního soudce
 
-**Zakotvení:** § 9, § 24, § 25 a § 34 IZ; nepřímo též § 5 písm. a) a b) IZ
+**Zakotvení:** [§ 9](https://e-sbirka.gov.cz/sb/2006/182#par_9), [§ 24](https://e-sbirka.gov.cz/sb/2006/182#par_24), [§ 25](https://e-sbirka.gov.cz/sb/2006/182#par_25) a [§ 34](https://e-sbirka.gov.cz/sb/2006/182#par_34) IZ; nepřímo též [§ 5](https://e-sbirka.gov.cz/sb/2006/182#par_5) písm. a) a b) IZ
 
 Zásada nezávislosti a nestrannosti není v § 5 vyslovena výslovně, tvoří však nutný předpoklad naplnění tam formulovaných požadavků: řízení, v němž by rozhodující procesní subjekty stranily dlužníku nebo některému z věřitelů, by z povahy věci nemohlo být vedeno tak, „aby žádný z účastníků nebyl nespravedlivě poškozen nebo nedovoleně zvýhodněn" (§ 5 písm. a) IZ), ani by nezaručovalo věřitelům se zásadně stejným nebo obdobným postavením rovné možnosti (§ 5 písm. b) IZ). Zásada se vztahuje k oběma klíčovým procesním subjektům podle § 9 IZ — k insolvenčnímu soudu a k insolvenčnímu správci.
 
@@ -359,7 +365,7 @@ Prakticky se zásada projevuje v celém průběhu řízení: při ustanovení sp
 
 - *ÚS* [I.ÚS 2739/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-2739-12_1) — usnesení, 5. 3. 2013
   > „Insolvenční správce není zástupcem dlužníka ani jednotlivých věřitelů, nýbrž jako zvláštní subjekt insolvenčního řízení má vůči těmto subjektům samostatné postavení"
-- *NS* [29 NSCR 107/2013](judikatura/NS-29-NSCR-107-2013.md) — 30. 6. 2014, kat. A
+- *NS* [29 NSCR 107/2013](judikatura/NS-29-NSCR-107-2013.md) ([veřejná databáze NS](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3A50021C9A79F814C1257D330034D963?openDocument)) — 30. 6. 2014, kat. A
   > „Mezi skutečnosti, které se zřetelem k charakteru pohledávky dlužníkova věřitele a k jeho postavení v insolvenčním řízení zakládají důvod pochybovat, že tento vztah neovlivní celkový způsob výkonu práv a povinností insolvenčního správce (a které proto nedovolují řešit možnou podjatost insolvenčního správce pouhým ustanovením odděleného insolvenčního správce), typově patří skutečnost, že pohledávka je takového rozsahu, že věřitel má rozhodující vliv na průběh insolvenčního řízení, jakož i skutečnost, že stejný věřitel vede (byť v jiném procesním postavení) další spory, jež se významně týkají majetkové podstaty dlužníka"
 - *ÚS* [II.ÚS 2063/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2063-12_1) — usnesení, 20. 12. 2012
   > „Ten je nyní na rozdíl od předchozí právní úpravy, kdy konkursní správce byl jmenován právě soudcem projednávajícím i incidenční spor, podle současně platné právní úpravy insolvenčního zákona (§ 25 odst. 2 insolvenčního zákona) jmenován předsedou soudu, přičemž jistou pravomoc rozhodovat o osobě správce mají i věřitelé (§ 29 odst. 1 insolvenčního zákona). Posuzovaný vztah je tak postaven na jiném základě, který možnost vzniku pochybnosti o nepodjatosti soudce minimalizuje."
@@ -368,7 +374,7 @@ Prakticky se zásada projevuje v celém průběhu řízení: při ustanovení sp
 
 ## 14. Zásada soudní ochrany a rovných procesních možností účastníků insolvenčního řízení
 
-**Zakotvení:** § 7 IZ (výhrada souladu subsidiárně použitých procesních předpisů se zásadami insolvenčního řízení); § 51 IZ (hlasovací právo věřitelů s popřenou pohledávkou); § 189–202 IZ (seznam přihlášených pohledávek, přezkumné jednání, popěrné úkony a jejich následky); § 336 IZ (popření pohledávek v reorganizaci)
+**Zakotvení:** [§ 7](https://e-sbirka.gov.cz/sb/2006/182#par_7) IZ (výhrada souladu subsidiárně použitých procesních předpisů se zásadami insolvenčního řízení); [§ 51](https://e-sbirka.gov.cz/sb/2006/182#par_51) IZ (hlasovací právo věřitelů s popřenou pohledávkou); [§ 189](https://e-sbirka.gov.cz/sb/2006/182#par_189)–202 IZ (seznam přihlášených pohledávek, přezkumné jednání, popěrné úkony a jejich následky); [§ 336](https://e-sbirka.gov.cz/sb/2006/182#par_336) IZ (popření pohledávek v reorganizaci)
 
 Zásada soudní ochrany a rovných procesních možností není v § 5 IZ vyslovena samostatným písmenem — je ústavním podložím celého insolvenčního procesu, odvozeným z práva na soudní ochranu podle čl. 36 odst. 1 Listiny základních práv a svobod. Insolvenční řízení koncentruje uplatnění pohledávek všech věřitelů do jediného procesu a zakazuje jejich individuální vymáhání (§ 5 písm. d) IZ); právě proto musí uvnitř tohoto procesu zůstat zachována reálná možnost, aby o pravosti, výši a zajištění sporných pohledávek rozhodl nezávislý a nestranný soud. Přezkumná činnost insolvenčního správce tuto soudní ochranu nenahrazuje — jak zdůraznil Ústavní soud v plenárním nálezu k popěrnému právu věřitelů, nepopře-li správce spornou pohledávku, nesmí tím být ostatním věřitelům odňata cesta k soudnímu zjištění jejího skutečného stavu.
 
@@ -380,9 +386,9 @@ K ostatním zásadám se tato zásada váže dvojím způsobem. Věcně konkreti
 
 **Judikatorní vymezení (z místních zdrojů):**
 
-- *ÚS* [Pl.ÚS 14/10](judikatura/US-Pl-S-14-10.md) — nález, 1. 7. 2010
+- *ÚS* [Pl.ÚS 14/10](judikatura/US-Pl-S-14-10.md) ([NALUS](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-14-10_1)) — nález, 1. 7. 2010
   > „Pokud insolvenční správce nepopře sporné pohledávky, nedá ostatním věřitelům možnost, aby skutečná pravost, výše a zajištění pohledávek byly zjištěny před nezávislým a nestranným soudem, a není tak naplněn požadavek základního práva na soudní ochranu dle čl. 36 odst. 1 Listiny základních práv a svobod"
-- *ÚS* [I.ÚS 1549/11](judikatura/US-I-S-1549-11.md) — nález, 23. 4. 2015
+- *ÚS* [I.ÚS 1549/11](judikatura/US-I-S-1549-11.md) ([NALUS](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1549-11_1)) — nález, 23. 4. 2015
   > „Jde o to, že insolvenční soud musí umožnit, aby měl přihlášený věřitel možnost seznámit se s ostatními přihlášenými pohledávkami a zároveň přiměřenou lhůtu k tomu, aby mohl učinit případný popěrný úkon (s ohledem na právní úpravu účinnou do 30. března 2011 bylo třeba v minulosti stejný požadavek vztáhnout i na možnost iniciovat u insolvenčního správce popření pohledávky). Právě za tímto účelem stanoví zákon lhůty, do kdy má být sestaven seznam přihlášených pohledávek a kdy se má pak konat přezkumné jednání."
 - *ÚS* [II.ÚS 2575/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2575-14_1) — usnesení, 11. 8. 2015
   > „Proto Ústavní soud může uvedená rozhodnutí insolvenčního správce přezkoumávat pouze z toho hlediska, zda po formální stránce odpovídala příslušným ustanovením insolvenčního zákona, byla vydána oprávněnou osobou a nebyla zcela zjevně svévolná. Popření pohledávky insolvenčním správcem (stejně jako dlužníkem) musí být rovněž srozumitelné, odůvodněné a přezkoumatelné"
@@ -390,7 +396,7 @@ K ostatním zásadám se tato zásada váže dvojím způsobem. Věcně konkreti
   > „Do ústavněprávního přezkumu uvedených rozhodnutí se v neposlední řadě promítá i postup insolvenčního soudu, který předcházel konání přezkumného jednání, kdy musí přihlášeným věřitelům poskytnout možnost seznámit se s ostatními přihlášenými pohledávkami a zároveň stanovit přiměřenou lhůtu k tomu, aby mohli učinit případný popěrný úkon či jiné procesní úkony."
 - *ÚS* [II.ÚS 619/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-619-14_1) — usnesení, 29. 4. 2014
   > „Obdobná situace nastává i v případě řízení insolvenčního. Ústavní soud nevidí žádný důvod, proč by insolvenční správce a potažmo insolvenční soud nemohl za obdobných podmínek přezkoumávat pravomoc rozhodce (platnost rozhodčí doložky) k vydání rozhodčího nálezu i v rámci insolvenčního řízení a dovozovat z toho pro insolvenční řízení relevantní závěry. Insolvenčnímu věřiteli, jehož pohledávka byla popřena insolvenčním správcem, ostatně zůstávají zachovány procesní možnosti, jak se svého práva případně domoci."
-- *ÚS* [Pl.ÚS 19/09](judikatura/US-Pl-S-19-09.md) — nález, 27. 7. 2010
+- *ÚS* [Pl.ÚS 19/09](judikatura/US-Pl-S-19-09.md) ([NALUS](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-19-09_1)) — nález, 27. 7. 2010
   > „Procesní práva, která jsou odvozena ze zásady dispoziční, jsou vyhrazena výlučně nositelům těchto práv formou dispozičních procesních úkonů; z povahy těchto dispozitivních procesních úkonů vyplývá, že nemohou být obsahem právní fikce, tj. nemůže být stanoveno, že někdo vzal návrh zpět, ačkoliv tak neučinil."
 
 ## Vztah zásad a právních modalit

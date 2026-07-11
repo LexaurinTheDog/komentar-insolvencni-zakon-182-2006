@@ -84,6 +84,11 @@ Doprovodné systematické dokumenty:
 - [ZASADY.md](ZASADY.md) — **zásady insolvenčního práva**: soustava 14 zásad s judikatorním vymezením extrahovaným výhradně z místně dostupné judikatury (NS, ÚS, NSS) — 78 doslovných, strojově ověřených citací.
 - [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) — **právní modality v insolvenčním zákoně**: příkazy, zákazy, dovolení, zmocnění, oprávnění a povinnosti, domněnky a fikce — klasifikace na doslovném znění zákona včetně jejich „překlápění" v dynamice řízení.
 
+<!-- LOCAL-VYKLADOVE-OTAZKY-LINK -->
+## Výkladové otázky a odpovědi
+
+- [VYKLADOVE-OTAZKY.md](VYKLADOVE-OTAZKY.md) — předpisově konkrétní kontrolní otázky, odpovědi, místní opora a výslovně označené mezery komentáře.
+
 ## Licence
 
 Tento projekt je open source a je licencován pod licencí **Apache License 2.0** — viz soubor [LICENSE](LICENSE).

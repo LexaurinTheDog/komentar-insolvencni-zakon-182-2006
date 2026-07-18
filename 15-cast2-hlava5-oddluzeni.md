@@ -76,6 +76,66 @@ Fyzická osoba je k oddlužení přípustná i s podnikatelskými dluhy; rozhodu
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b63b4886905ceaa7e00a generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 389
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Dlužník může insolvenčnímu soudu navrhnout, aby jeho úpadek nebo jeho hrozící úpadek řešil oddlužením, jde-li o
+>
+> - a) právnickou osobu, která podle zákona není považována za podnikatele a současně nemá dluhy z podnikání, nebo
+>
+> - b) fyzickou osobu.
+>
+> (2) Dluh z podnikání nebrání řešení dlužníkova úpadku nebo hrozícího úpadku oddlužením, jestliže
+>
+> - a) s tím souhlasí věřitel, o jehož pohledávku jde; platí, že věřitel souhlasí, pokud nejpozději spolu s přihláškou své pohledávky výslovně nesdělí, že s řešením úpadku oddlužením nesouhlasí, a toto své stanovisko odůvodní, nebo
+>
+> - b) jde o pohledávku věřitele, která zůstala neuspokojena po skončení insolvenčního řízení, ve kterém insolvenční soud zrušil konkurs na majetek dlužníka podle § 308 odst. 1 písm. c) nebo d), anebo
+>
+> - c) jde o pohledávku zajištěného věřitele.
+>
+> (3) Jiná osoba než dlužník není oprávněna návrh na povolení oddlužení podat.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 308
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b63b4886905ceaa7e00a -->
+
 ## § 390 — Lhůty + § 390a — Akreditované osoby
 
 **§ 390** — návrh na oddlužení **spolu s insolvenčním návrhem**. Pokud podal IN někdo jiný — *30 dnů od doručení*.
@@ -135,6 +195,56 @@ Návrh na oddlužení nesmí podat sám neprivilegovaný dlužník — musí jej
 **Typicky rozhodné důkazy / podklady:** doklad o akreditaci, pověření/plná moc k sepsání, formulář návrhu (vyhl. 191/2017 Sb.), doklad o výši a úhradě odměny, případná korespondence se „zprostředkovatelem".
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=fb1d985ad0639c80e073 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 390
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Návrh na povolení oddlužení musí dlužník podat spolu s insolvenčním návrhem. Podá-li insolvenční návrh jiná osoba, lze návrh na povolení oddlužení podat nejpozději do 30 dnů od doručení insolvenčního návrhu dlužníku; o tom musí být dlužník při doručení insolvenčního návrhu poučen.
+>
+> (2) Podáním návrhu na povolení oddlužení nejsou dotčeny účinky spojené s nařízením předběžného opatření insolvenčním soudem.
+>
+> (3) Návrh na povolení oddlužení podaný opožděně nebo někým, kdo k tomu nebyl oprávněn, insolvenční soud odmítne rozhodnutím, které doručí dlužníku, osobě, která takový návrh podala, insolvenčnímu správci a věřitelskému výboru. Odvolání může podat pouze osoba, která takový návrh podala.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fb1d985ad0639c80e073 -->
 
 ## § 391 — § 393 — Náležitosti a vady návrhu
 
@@ -202,6 +312,174 @@ Návrh musí být na formuláři, úplný a s přílohami; žádost o nižší s
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f53940d73e7551d8c86f generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 391 — Náležitosti návrhu na povolení oddlužení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Návrh na povolení oddlužení musí vedle obecných náležitostí podání20) obsahovat
+>
+> - a) označení dlužníka a osob oprávněných za něho jednat,
+>
+> - b) údaje o schopnostech a možnostech dlužníka vykonávat výdělečnou činnost a údaje o očekávaných příjmech dlužníka v následujících 12 měsících,
+>
+> - c) údaje o příjmech dlužníka za posledních 12 měsíců,
+>
+> - d) návrh způsobu oddlužení nebo sdělení, že dlužník takový návrh nevznáší.
+>
+> (2) Dlužník, který navrhuje oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty, může v návrhu na povolení oddlužení požádat insolvenční soud o stanovení nižších než zákonem určených měsíčních splátek. V takovém případě musí v návrhu na povolení oddlužení uvést také výši navrhovaných měsíčních splátek nebo způsob jejich určení a vysvětlit důvody pro snížení splátek a důvody, které vedly k jeho úpadku. Ustanovení [[#§ 395|§ 395]] tím není dotčeno.
+>
+> (3) Dlužník, který navrhuje oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty, může k návrhu na povolení oddlužení připojit závazný příslib, že neumožní-li stav majetkové podstaty nebo zákonem určená měsíční splátka uspokojit v plné výši pohledávky podle § 395 odst. 1 písm. b), bude za předpokladu, že tím neohrozí uspokojování jeho základních hmotných potřeb nebo potřeb osob na něj odkázaných výživou, zcela nebo zčásti hradit tyto pohledávky ze základní částky, která mu nesmí být sražena z měsíční mzdy, nebo z jiných příjmů, které nelze postihnout výkonem rozhodnutí nebo exekucí.
+>
+> (4) Návrh na povolení oddlužení lze podat pouze na formuláři; náležitosti formuláře stanoví prováděcí právní předpis.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 395
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f53940d73e7551d8c86f -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=5655a8090bf98c48ff20 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 392 — Přílohy k návrhu na povolení oddlužení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) K návrhu na povolení oddlužení musí dlužník připojit
+>
+> - a) seznam majetku, popřípadě prohlášení o změnách, ke kterým v mezidobí došlo v porovnání se seznamy, které v insolvenčním řízení již dříve předložil,
+>
+> - b) listiny dokládající údaje o příjmech dlužníka za posledních 12 měsíců,
+>
+> - c) čestné prohlášení, že byl při sepisu insolvenčního návrhu poučen o svých povinnostech v insolvenčním řízení, že v oddlužení bude řádně platit pohledávky svých věřitelů, že vynaloží veškeré úsilí, které po něm lze spravedlivě požadovat, k jejich plnému uspokojení, že bude plnit všechny povinnosti vyplývající z tohoto zákona a z rozhodnutí o schválení oddlužení a že bude přiznávat veškeré své příjmy v plné výši.
+>
+> (2) Není-li dále stanoveno jinak, podpis dlužníkova manžela na návrhu na povolení oddlužení se nevyžaduje.
+>
+> (3) Pro označení osob v návrhu na povolení oddlužení a v seznamech k němu připojených platí § 103 odst. 1 obdobně.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 103
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5655a8090bf98c48ff20 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=4e3582f23e711552b86a generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 393
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Není-li návrh na povolení oddlužení učiněn na stanoveném formuláři, ve stanoveném formátu nebo stanoveným způsobem, neobsahuje-li všechny náležitosti nebo je-li nesrozumitelný anebo neurčitý, insolvenční soud usnesením vyzve dlužníka, který jej podal, nebo, byl-li návrh na povolení oddlužení podán podle § 390a odst. 1, osobu, která jej v zastoupení dlužníka podala, k jeho opravě nebo doplnění v určené lhůtě, která nesmí být delší než 7 dnů. Současně jej nebo osobu podle § 390a odst. 1 poučí, jak má opravu nebo doplnění provést. Byl-li návrh na povolení oddlužení podán podle § 390a odst. 1, doručí insolvenční soud toto usnesení také dlužníku; lhůta podle věty první nezačne běžet dříve, než je usnesení doručeno jak dlužníku, tak osobě podle § 390a odst. 1.
+>
+> (2) Podle odstavce 1 postupuje insolvenční soud i tehdy, nejsou-li k návrhu na povolení oddlužení připojeny zákonem požadované přílohy nebo neobsahují-li tyto přílohy stanovené náležitosti.
+>
+> (3) Návrh na povolení oddlužení insolvenční soud odmítne, není-li sepsán a podán osobou podle § 390a odst. 1 nebo [[#§ 2|2]] nebo není-li přes jeho výzvu řádně doplněn a v řízení o něm nelze pro tento nedostatek pokračovat nebo nejsou-li k němu přes jeho výzvu připojeny zákonem požadované přílohy anebo neobsahují-li tyto přílohy přes jeho výzvu stanovené náležitosti.
+>
+> (4) Rozhodnutí podle odstavce 3 doručí insolvenční soud dlužníku, předběžnému správci nebo insolvenčnímu správci a věřitelskému výboru; odvolání proti němu může podat jen dlužník.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 390a, § 2
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4e3582f23e711552b86a -->
+
 ## § 394 — § 394a — Zpětvzetí, společné oddlužení manželů
 
 **§ 394** — *zpětvzetí* před schválením oddlužení. *Po zpětvzetí nelze podat znovu*. *Karence 3 měsíců* (§ 395 odst. 5) pro nový návrh.
@@ -250,6 +528,108 @@ Společné oddlužení manželů je jeden procesní celek (nerozlučné společe
 **Typicky rozhodné důkazy / podklady:** oddací list, prohlášení o SJM s ověřenými podpisy, společný formulář návrhu, doklady o příjmech obou manželů, projev vůle ke zpětvzetí.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=df836908d6606b107053 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 394
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Návrh na povolení oddlužení může dlužník vzít zpět, dokud insolvenční soud nerozhodne o schválení oddlužení.
+>
+> (2) Zpětvzetí návrhu na povolení oddlužení vezme insolvenční soud na vědomí rozhodnutím, které se doručuje dlužníku, insolvenčnímu správci a věřitelskému výboru. Bylo-li uplatněno právo na odměnu podle § 390a odst. 5, insolvenční soud současně dlužníkovi uloží povinnost uhradit osobě podle § 390a odst. 1 písm. a) odměnu za sepis a podání návrhu na povolení oddlužení anebo také insolvenčního návrhu podle § 390a odst. 3; na její úhradu lze využít zálohu podle § 108 odst. 2. Odvolání proti rozhodnutí podle věty první a druhé není přípustné.
+>
+> (3) Vzal-li dlužník návrh na povolení oddlužení zpět, nemůže jej podat znovu.
+>
+> (4) Byl-li návrh na povolení oddlužení vzat zpět až poté, co bylo rozhodnuto o schválení oddlužení, insolvenční soud rozhodne, že zpětvzetí není účinné; toto rozhodnutí, proti němuž není odvolání přípustné, se doručuje dlužníku, insolvenčnímu správci a věřitelskému výboru.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 390a, § 108
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=df836908d6606b107053 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=0f7b973bcc56e1285d6d generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 394a — Společný návrh manželů na povolení oddlužení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Manželé, z nichž každý samostatně je osobou oprávněnou podat návrh na povolení oddlužení, mohou tento návrh podat společně. Pro posouzení, zda jde o osoby oprávněné podat společný návrh manželů na povolení oddlužení, je rozhodné, zda jde o manžele ke dni, kdy takový návrh dojde insolvenčnímu soudu.
+>
+> (2) Společný návrh manželů na povolení oddlužení musí obsahovat výslovné prohlášení obou manželů, že souhlasí s tím, aby všechen jejich majetek byl pro účely schválení oddlužení považován za majetek ve společném jmění manželů; podpisy obou manželů u tohoto prohlášení musí být úředně ověřeny.
+>
+> (3) Manželé, kteří podali společný návrh na povolení oddlužení, mají po dobu trvání insolvenčního řízení postavení nerozlučných společníků a považují se za jednoho dlužníka.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0f7b973bcc56e1285d6d -->
 
 ## § 395 — § 397 — Zamítnutí, neoprávněnost, povolení oddlužení
 
@@ -408,6 +788,176 @@ Soud zamítne oddlužení při nepoctivém záměru, neschopnosti hradit minimum
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4f24c4c3c00f31724571 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 395
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Insolvenční soud zamítne návrh na povolení oddlužení, jestliže se zřetelem ke všem okolnostem lze důvodně předpokládat,
+>
+> - a) že jím je sledován nepoctivý záměr, nebo
+>
+> - b) že dlužník nebude schopen splácet v plné výši ani pohledávky podle § 168 odst. 2 písm. a), přičemž výše splátky ostatním věřitelům včetně věřitelů pohledávek za majetkovou podstatou a pohledávek postavených jim na roveň nesmí být nižší než tato pohledávka náležící za období plnění splátkového kalendáře, a dále ani pohledávky podle § 169 odst. 1 písm. e) a § 390a odst. 5.
+>
+> (2) Insolvenční soud zamítne návrh na povolení oddlužení i tehdy, jestliže dosavadní výsledky řízení dokládají lehkomyslný nebo nedbalý přístup dlužníka k plnění povinností v insolvenčním řízení.
+>
+> (3) Insolvenční soud zamítne návrh na povolení oddlužení také tehdy, jestliže v posledních 12 letech před podáním insolvenčního návrhu bylo dlužníku pravomocným rozhodnutím přiznáno osvobození od placení pohledávek zahrnutých do oddlužení, v rozsahu, v němž nebyly uspokojeny.
+>
+> (4) Insolvenční soud zamítne návrh na povolení oddlužení také tehdy, jestliže v posledních 5 letech před podáním insolvenčního návrhu byl návrh dlužníka na povolení oddlužení pravomocně zamítnut z důvodu, že je jím sledován nepoctivý záměr, nebo jestliže z téhož důvodu nebylo oddlužení schváleno nebo bylo schválené oddlužení zrušeno.
+>
+> (5) Insolvenční soud zamítne návrh na povolení oddlužení také tehdy, jestliže v posledních 3 měsících před podáním insolvenčního návrhu vzal dlužník svůj předchozí návrh na povolení oddlužení zpět.
+>
+> (6) Postup podle odstavců 3 až 5 se nepoužije, jsou-li pro to důvody zvláštního zřetele hodné, zejména zavázal-li se dlužník z ospravedlnitelného důvodu nebo existuje-li výrazný nepoměr mezi výší dluhu a poskytnutého plnění.
+>
+> (7) Proti rozhodnutí o zamítnutí návrhu na povolení oddlužení může podat odvolání pouze dlužník.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 168, § 169, § 390a
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4f24c4c3c00f31724571 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=6b7efd197d88aec21359 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 396
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Jestliže insolvenční soud návrh na povolení oddlužení odmítne, vezme na vědomí jeho zpětvzetí nebo jej zamítne, může současně rozhodnout o způsobu řešení dlužníkova úpadku konkursem pouze tehdy, jestliže
+>
+> - a) návrh na povolení oddlužení nebyl podán společně s insolvenčním návrhem a insolvenční soud nezjistí, že majetek dlužníka, aniž se přihlíží k věcem, právům a jiným majetkovým hodnotám vyloučeným z majetkové podstaty, je pro uspokojení věřitelů zcela nepostačující,
+>
+> - b) návrh na povolení oddlužení byl podán společně s insolvenčním návrhem a insolvenční soud nezjistí, že majetek dlužníka, aniž se přihlíží k věcem, právům a jiným majetkovým hodnotám vyloučeným z majetkové podstaty, je pro uspokojení věřitelů zcela nepostačující, nebo
+>
+> - c) návrh na povolení oddlužení byl podán společně s insolvenčním návrhem a insolvenční soud zjistí, že majetek dlužníka, aniž se přihlíží k věcem, právům a jiným majetkovým hodnotám vyloučeným z majetkové podstaty, je pro uspokojení věřitelů zcela nepostačující, a dlužník v návrhu na povolení oddlužení požádal, aby byl způsobem řešení jeho úpadku konkurs, a zaplatil zálohu na náklady insolvenčního řízení, stanovil-li mu soud povinnost k její úhradě podle § 108 odst. 2 a [[#§ 3|3.]]
+>
+> (2) Nepostupuje-li insolvenční soud podle odstavce 1, insolvenční řízení zastaví; bylo-li uplatněno právo na odměnu podle § 390a odst. 5, insolvenční soud současně dlužníkovi uloží povinnost uhradit osobě podle § 390a odst. 1 písm. a) odměnu za sepis a podání návrhu na povolení oddlužení anebo také insolvenčního návrhu podle § 390a odst. 3, pokud odmítnutí nebo zamítnutí návrhu na povolení oddlužení nezavinila. Odvolání proti rozhodnutí o zastavení řízení mohou podat dlužník a přihlášení věřitelé; právní mocí rozhodnutí se insolvenční řízení končí.
+>
+> (3) Na základě upraveného seznamu pohledávek lze po zastavení insolvenčního řízení zahájeného na základě insolvenčního návrhu podaného věřitelem podat návrh na výkon rozhodnutí nebo exekuci pro zjištěnou neuspokojenou pohledávku, kterou dlužník nepopřel; toto právo se promlčí za 10 let od zastavení řízení podle odstavce 2.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 108, § 3, § 390a
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6b7efd197d88aec21359 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=7ecbb10ae16a740ab16f generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 397
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Nedojde-li ke zpětvzetí návrhu na povolení oddlužení ani k jeho odmítnutí nebo zamítnutí, insolvenční soud oddlužení povolí. V pochybnostech o tom, zda dlužník je oprávněn podat návrh na povolení oddlužení, insolvenční soud oddlužení povolí a tuto otázku prozkoumá v průběhu schůze věřitelů svolané k projednání způsobu oddlužení a hlasování o jeho přijetí. Insolvenční soud oddlužení nepovolí do doby, než mu dlužník předloží seznam majetku. Rozhodnutí o povolení oddlužení nemusí obsahovat odůvodnění a se doručuje pouze dlužníku. Odvolání proti němu není přípustné.
+>
+> (2) Postup podle § 395 odst. 6 insolvenční soud odůvodní v rozhodnutí o povolení oddlužení. Odvolání proti tomuto rozhodnutí může podat věřitel.
+>
+> (3) Nebude-li k projednání způsobu oddlužení a hlasování o jeho přijetí svolána schůze věřitelů, rozhodne insolvenční soud o tom, zda je dlužník oprávněn podat návrh na povolení oddlužení, nejpozději v rozhodnutí podle [[#§ 404|§ 404]] nebo [[#§ 405|405]]; musí se přitom vypořádat se stanoviskem věřitele podle § 389 odst. 2 písm. a). Proti tomuto rozhodnutí může podat odvolání dlužník a věřitel, který uplatnil stanovisko podle § 389 odst. 2 písm. a). Je-li rozhodnutí o tom, zda je dlužník oprávněn podat návrh na povolení oddlužení, vydáno současně s rozhodnutím podle [[#§ 404|§ 404]], nemá odvolání odkladný účinek.
+>
+> (4) Insolvenční soud může po rozhodnutí o povolení oddlužení i bez návrhu změnit své předběžné opatření.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 395, § 404, § 405, § 389
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7ecbb10ae16a740ab16f -->
+
 ## § 398 — Způsoby oddlužení — **CENTRÁLNÍ PARAGRAF**
 
 > (1) Oddlužení lze provést **zpeněžením majetkové podstaty** nebo **plněním splátkového kalendáře se zpeněžením majetkové podstaty**.
@@ -487,6 +1037,66 @@ Oddlužení se provádí buď zpeněžením podstaty, nebo (typicky) splátkový
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=225168f861c4f302217f generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 398 — Způsoby oddlužení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Oddlužení lze provést zpeněžením majetkové podstaty nebo plněním splátkového kalendáře se zpeněžením majetkové podstaty.
+>
+> (2) Při oddlužení zpeněžením majetkové podstaty se postupuje obdobně podle ustanovení o zpeněžení majetkové podstaty v konkursu a zpeněžení majetkové podstaty při oddlužení má tytéž účinky jako zpeněžení majetkové podstaty v konkursu. Není-li dále stanoveno jinak, při tomto způsobu oddlužení do majetkové podstaty nenáleží majetek, který dlužník nabyl v průběhu insolvenčního řízení poté, co nastaly účinky schválení oddlužení. Zajištění věřitelé se uspokojují jen z výtěžku zpeněžení zajištění.
+>
+> (3) Při oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty je dlužník povinen vydat insolvenčnímu správci majetek náležející do majetkové podstaty ke zpeněžení postupem obdobným podle ustanovení o zpeněžení majetkové podstaty v konkursu a dále do doby podání zprávy pro osvobození měsíčně splácet nezajištěným věřitelům ze svých příjmů částku ve stejném rozsahu, v jakém z nich mohou být při výkonu rozhodnutí nebo při exekuci uspokojeny přednostní pohledávky29).
+>
+> (4) Nestačí-li částka podle odstavce 3 k uspokojení všech pohledávek za majetkovou podstatou a pohledávek jim postavených na roveň, uspokojí se nejdříve odměna a hotové výdaje insolvenčního správce, poté pohledávky věřitelů na výživném ze zákona, jestliže vznikly po rozhodnutí o úpadku, poté pohledávka podle § 390a odst. 5, poté záloha na úhradu odměny a hotových výdajů insolvenčního správce, poté ostatní pohledávky věřitelů na výživném ze zákona, poté pohledávky na úhradu úplaty za postupované pohledávky výživného, poté pohledávky na výživném ze zákona, které byly postoupeny, poté pohledávky státu za náhradní výživné podle jiného zákona a poté náklady spojené s udržováním a správou majetkové podstaty. Ostatní pohledávky za majetkovou podstatou a pohledávky jim postavené na roveň se uspokojí poměrně. Po uspokojení těchto pohledávek rozvrhne dlužník prostřednictvím insolvenčního správce částku podle odstavce 3 mezi nezajištěné věřitele podle poměru jejich pohledávek způsobem určeným v rozhodnutí insolvenčního soudu o schválení oddlužení. Odměnu a hotové výdaje insolvenčního správce náležící za období do schválení oddlužení lze z částky podle odstavce 3 uspokojit až po úplném uspokojení všech pohledávek podle věty třetí. Zajištění věřitelé se uspokojí jen z výtěžku zpeněžení zajištění; při tomto zpeněžení se postupuje obdobně podle ustanovení o zpeněžení zajištění v konkursu.
+>
+> (5) Dlužníku, který o to požádal v návrhu na povolení oddlužení nebo v odůvodněných případech nejpozději při jednání s insolvenčním správcem podle § 410 odst. 2, může insolvenční soud stanovit jinou výši měsíčních splátek. Učiní tak jen tehdy, lze-li se zřetelem ke všem okolnostem důvodně předpokládat, že je výše splátek určená podle odstavce 3 způsobilá ohrozit plnění splátkového kalendáře nebo že míra uspokojení pohledávek nezajištěných věřitelů bude vyšší i při jiné výši měsíčních splátek. Přitom dále přihlédne k důvodům, které vedly k dlužníkově úpadku, k celkové výši dlužníkových závazků, k dosavadní a očekávané výši dlužníkových příjmů, k opatřením, která dlužník činí k zachování a zvýšení svých příjmů a ke snížení svých závazků, a k doporučení věřitelů. Dlužníkovým návrhem jiné výše měsíčních splátek není insolvenční soud vázán. K opožděné žádosti insolvenční soud nepřihlíží. Insolvenční soud může obdobně stanovit jinou výši měsíčních splátek i po schválení oddlužení, jestliže o to požádá dlužník pro změnu poměrů. Soud tak učiní jen tehdy, lze-li se zřetelem ke všem okolnostem důvodně předpokládat, že je výše dosavadních splátek způsobilá ohrozit plnění splátkového kalendáře nebo že míra uspokojení pohledávek nezajištěných věřitelů bude vyšší i při jiné výši měsíčních splátek.
+>
+> (6) Dlužník není povinen vydat majetek ke zpeněžení podle odstavce 3, vyplývá-li ze zprávy pro oddlužení, že by se zpeněžením tohoto majetku nedosáhlo uspokojení věřitelů. Dlužník také není povinen vydat ke zpeněžení své obydlí, ledaže ze zprávy pro oddlužení vyplývá, že jeho hodnota přesahuje hodnotu určenou podle prováděcího právního předpisu násobkem částky na zajištění obydlí v dlužníkově bydlišti. Není-li dále stanoveno jinak, pro účely zpeněžení podle odstavce 3 do majetkové podstaty nenáleží majetek, který dlužník nabyl v průběhu insolvenčního řízení poté, co nastaly účinky schválení oddlužení. Ustanovení § 409 odst. 4 není dotčeno.
+>
+> (7) Je-li způsobem oddlužení plnění splátkového kalendáře se zpeněžením majetkové podstaty, může insolvenční soud na návrh insolvenčního správce za účelem předcházení budoucímu úpadku uložit dlužníku povinnost využít v rozsahu nejvýše 100 hodin služby odborného sociálního poradenství poskytované registrovaným poskytovatelem sociálních služeb; odvolání proti tomuto rozhodnutí není přípustné. Tato služba se dlužníku poskytuje bez úhrady nákladů.
+>
+> (8) V oddlužení lze postupovat s odchylkami podle § 315 odst. 1, nerozhodne-li schůze věřitelů jinak.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 390a, § 410, § 409, § 315
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=225168f861c4f302217f -->
+
 ## § 398a — Zpráva pro oddlužení
 
 **Zpráva pro oddlužení** = *strategický dokument* správce. Obsahuje:
@@ -538,6 +1148,76 @@ Zpráva pro oddlužení je klíčový podklad správce (ocenění, propočet usp
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2cd3d752125af461174b generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 398a — Zpráva pro oddlužení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Zprávu pro oddlužení s návrhem na způsob řešení oddlužení včetně návrhu a zdůvodnění výše zálohové splátky podle § 398b odst. 2 předloží insolvenční správce insolvenčnímu soudu spolu se zprávou o přezkumu podle § 410 odst. 2 ve lhůtě podle § 136 odst. 2 písm. f).
+>
+> (2) Insolvenční správce ve zprávě pro oddlužení zhodnotí předpokládané plnění věřitelům při realizovaných způsobech oddlužení, odůvodní ocenění položek soupisu a připojí k ní znalecký posudek, je-li v majetkové podstatě nemovitá věc; navrhuje-li insolvenční správce provést oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty, připojí rovněž propočet předpokládaného uspokojení nezajištěných věřitelů určeného s ohledem na schopnosti, možnosti a majetkové poměry dlužníka a návrh distribučního schématu splátkového kalendáře pro jednotlivé nezajištěné věřitele a vyjádří se také k návrhu dlužníka podle § 398 odst. 5.
+>
+> (3) Insolvenční soud přezkoumá zprávu o přezkumu a zprávu pro oddlužení a odstraní zpravidla po slyšení insolvenčního správce chyby a nejasnosti v nich obsažené.
+>
+> (4) O zprávě o přezkumu a o zprávě pro oddlužení po jejich úpravě uvědomí insolvenční soud účastníky řízení tím, že tyto zprávy zveřejní vyhláškou. Současně je uvědomí o tom, že do 7 dnů od zveřejnění zprávy o přezkumu a zprávy pro oddlužení v insolvenčním rejstříku mohou proti nim podat námitky; námitky nelze uplatnit vůči popěrnému úkonu.
+>
+> (5) Stejnopis námitek podle odstavce 4 doručí insolvenční soud insolvenčnímu správci k doplnění přezkoumání přihlášených pohledávek či k opravě zprávy o přezkumu nebo k opravě zprávy pro oddlužení a určí mu k tomu lhůtu, která není delší než 10 dnů; odstavce 1 a [[#§ 2|2]] a § 410 odst. 2 se použijí obdobně. Neshledá-li insolvenční správce námitky důvodnými, sdělí to insolvenčnímu soudu ve stejné lhůtě.
+>
+> (6) Insolvenční soud rozhodne o námitkách nejpozději v rozhodnutí podle [[#§ 404|§ 404]] nebo [[#§ 405|405]]; za účelem projednání námitek může insolvenční soud též nařídit jednání, ke kterému předvolá dlužníka, insolvenčního správce, věřitelský výbor a věřitele, kteří podali námitky. Proti rozhodnutí o námitkách není odvolání přípustné.
+>
+> (7) V případě změny v poměru uspokojení nezajištěných věřitelů vyvolané
+>
+> - a) rozhodnutími insolvenčního soudu podle [[#§ 185|§ 185]] a [[#§ 186|186]] nebo rozhodnutími o pravosti, výši nebo pořadí pohledávek včetně zohlednění náhrady nákladů řízení přiznaných úspěšnému věřiteli v incidenčním sporu ve smyslu ustanovení § 202 odst. 1 věty druhé,
+>
+> - b) zjištěním pohledávky podle § 198 odst. 1 věty poslední a podle § 201 odst. 1 nebo [[#§ 2|2]],
+>
+> - c) zpětvzetím přihlášky pohledávky podle [[#§ 184|§ 184]] a [[#§ 187|187]],
+>
+> - d) změnou v osobě věřitele podle [[#§ 18|§ 18]], nebo
+>
+> - e) výsledkem zvláštního přezkumného jednání
+>
+> se postupuje obdobně podle odstavců 1 až 6; insolvenční správce je povinen tyto změny zohlednit neprodleně a do doby uplynutí lhůty k námitkám nebo do doby rozhodnutí o námitkách příslušné částky uložit na zvláštní účet podle § 36 odst. 5.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 398b, § 410, § 136, § 398, § 2, § 404, § 405, § 185, § 186, § 202, § 198, § 201, § 184, § 187, § 18, § 36
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2cd3d752125af461174b -->
+
 ## § 398b — Splátkový kalendář FO-podnikatele — **SPECIÁLKA**
 
 Pro **FO-podnikatele** specifický mechanismus výpočtu splátky:
@@ -587,6 +1267,68 @@ U OSVČ se měsíční splátka stanoví zálohově z 1/12 zjištěného zisku a
 **Typicky rozhodné důkazy / podklady:** daňové přiznání za předchozí zdaňovací období, průběžná evidence příjmů a výdajů, účetní/daňové doklady, podklady o případném poklesu/růstu tržeb.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=547e639ee3bfb78836fe generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 398b — Splátkový kalendář fyzické osoby - podnikatele
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Při oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty je dlužník, který je fyzickou osobou - podnikatelem, povinen do doby podání písemné zprávy pro osvobození měsíčně splácet nezajištěným věřitelům ze svých příjmů částku, která se určí podle tohoto ustanovení. Ustanovení [[#§ 398|§ 398]] není dotčeno.
+>
+> (2) V rozhodnutí o schválení oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty uloží insolvenční soud dlužníkovi povinnost měsíčně splácet nezajištěným věřitelům z jeho příjmů z podnikání minimální nevratnou částku (dále jen „zálohová splátka“).
+>
+> (3) Zálohová splátka se určí z jedné dvanáctiny zjištěného zisku dlužníka za poslední zdaňovací období podle zvláštního zákona73) předcházející podání návrhu na povolení oddlužení a vypočte se ve výši, v jaké mohou být při výkonu rozhodnutí nebo exekuci uspokojeny přednostní pohledávky29). Nebyla-li podnikatelská činnost vykonávána po celé zdaňovací období, určí se zálohová splátka z podílu zjištěného zisku a počtu měsíců, po kterou dlužník vykonával podnikatelskou činnost.
+>
+> (4) Zálohovou splátku lze rovněž určit se souhlasem dlužníka po vyjádření insolvenčního správce k očekávaným budoucím měsíčním příjmům a výdajům dlužníka vycházejícím zpravidla z rozdílu jeho reálně dosažených příjmů a reálně vynaložených výdajů za dobu jeho podnikání.
+>
+> (5) Nelze-li zálohovou splátku dlužníka určit postupem podle odstavců 3 a [[#§ 4|4]], určí se zálohová splátka z částky odpovídající měsíční průměrné mzdě v národním hospodářství za první až třetí čtvrtletí předchozího kalendářního roku.
+>
+> (6) Dlužník je povinen vždy po uplynutí 12 kalendářních měsíců k patnáctému dni následujícího kalendářního měsíce předložit insolvenčnímu správci listiny osvědčující jeho reálně dosažené příjmy a reálně vynaložené výdaje včetně výpisů z účtů, jakož i účetnictví či daňovou evidenci a přiznání k dani z příjmů za poslední zdaňovací období podle zvláštního zákona73), popřípadě další listiny; tuto povinnost dlužník nemá po podání zprávy insolvenčního správce pro osvobození, na základě které insolvenční soud rozhodne o osvobození podle [[#§ 414|§ 414]]. Splátkovou částku následně určí insolvenční správce z jedné dvanáctiny zisku dlužníka za zdaňovací období zjištěného z rozdílu reálně dosažených příjmů a reálně vynaložených výdajů a vypočte se ve výši, v jaké mohou být při výkonu rozhodnutí nebo exekuci uspokojeny přednostní pohledávky29) (dále jen „referenční srážka“). Byla-li zálohová splátka určena postupem podle odstavce 3 nebo [[#§ 4|4]], insolvenční soud na návrh dlužníka nebo insolvenčního správce určí zálohovou splátku nebo referenční srážku, vyjde-li najevo, že se reálně dosažené příjmy a reálně vynaložené výdaje dlužníka podstatným způsobem liší od očekávaných příjmů a výdajů, které byly rozhodující pro určení zálohové splátky; ustanovení § 407 odst. 3 se použije obdobně.
+>
+> (7) Je-li součet zálohových splátek splacených dlužníkem za dané zdaňovací období nižší než součin referenční srážky a počtu měsíců, po něž v daném zdaňovacím období oddlužení trvalo, vyzve insolvenční správce dlužníka k uhrazení nedoplatku ve výši rozdílu mezi těmito částkami; dlužník je povinen nedoplatek uhradit bez zbytečného odkladu. V odůvodněných případech může soud na návrh dlužníka určit jinou výši nedoplatku; toto rozhodnutí doručuje insolvenční soud zvlášť pouze dlužníkovi a odvolání proti němu není přípustné.
+>
+> (8) Je-li součet zálohových splátek splacených dlužníkem za dané zdaňovací období vyšší než součin referenční srážky a počtu měsíců, po něž v daném zdaňovacím období oddlužení trvalo, může insolvenční soud na návrh dlužníka pro následující zdaňovací období stanovit jinou výši zálohové splátky; toto rozhodnutí doručuje insolvenční soud zvlášť pouze dlužníkovi a odvolání proti němu není přípustné. Insolvenční soud může stanovit jinou výši zálohové splátky také tehdy, jestliže o to požádá dlužník pro změnu poměrů. Soud tak učiní jen tehdy, lze-li se zřetelem ke všem okolnostem důvodně předpokládat, že je výše dosavadních zálohových splátek způsobilá ohrozit plnění splátkového kalendáře nebo že míra uspokojení pohledávek nezajištěných věřitelů bude vyšší i při jiné výši měsíčních splátek.
+>
+> (9) Pokud má dlužník mimo příjmů z podnikání také další příjmy, z nichž splácí pohledávky věřitelů podle § 398 odst. 3, nepoužije se při určení výše zálohové nebo referenční srážky snížení o základní částku, která nesmí být při výkonu rozhodnutí povinnému sražena z měsíční mzdy, je-li tato základní částka uvažována při určení rozsahu splátky z jiného příjmu. Při určení, ze kterého z příjmů bude dlužníku ponechána základní částka, vezme insolvenční soud v úvahu zejména výši a pravidelnost dosahování jednotlivých příjmů.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 398, § 4, § 414, § 407
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=547e639ee3bfb78836fe -->
 
 ## § 399 — § 402 — Hlasování o způsobu oddlužení
 
@@ -647,6 +1389,216 @@ O způsobu oddlužení hlasují jen nezajištění a nespříznění věřitelé
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=81bedb380a27caff134a generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 399
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Není-li dále stanoveno jinak, použije se o hlasovacím právu věřitelů při oddlužení obdobně § 49 až 53. K projednání způsobu oddlužení a hlasování o jeho přijetí dochází na schůzi věřitelů svolané za tím účelem na návrh nadpoloviční většiny věřitelů, jejichž pohledávky počítané podle výše (§ 49 odst. 1) činí zároveň nadpoloviční většinu nezajištěných přihlášených pohledávek, do 7 dnů od zveřejnění zprávy o přezkumu a zprávy pro oddlužení v insolvenčním rejstříku nebo za podmínek stanovených tímto zákonem mimo schůzi věřitelů; jinak rozhodne o způsobu oddlužení insolvenční soud. Obdobně to platí pro hlasování věřitelů o tom, zda doporučují vyhovět žádosti dlužníka o stanovení jiné výše měsíčních splátek při oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty.
+>
+> (2) Dlužníku a insolvenčnímu správci doručí insolvenční soud předvolání na schůzi věřitelů podle odstavce 1 do vlastních rukou s poučením o nezbytnosti jejich účasti. Insolvenční správce je povinen se schůze věřitelů podle odstavce 1 osobně zúčastnit. Dlužník je povinen zúčastnit se takové schůze osobně a zodpovědět dotazy přítomných věřitelů.
+>
+> (3) Schůzi věřitelů k projednání způsobu oddlužení insolvenční soud nesvolá nebo již svolanou schůzi věřitelů zruší, jestliže k tomu oprávnění věřitelé hlasovali o přijetí způsobu oddlužení mimo schůzi věřitelů a některý ze způsobů oddlužení získal většinu hlasů podle § 402 odst. 3; obdobně to platí pro hlasování věřitelů o tom, zda doporučují vyhovět žádosti dlužníka o stanovení jiné výše měsíčních splátek při oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty. Výsledky hlasování v takovém případě zveřejní vyhláškou.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 49, § 402
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=81bedb380a27caff134a -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=69d5264fed690b2ba3f9 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 400
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) O přijetí způsobu oddlužení mohou věřitelé hlasovat i mimo schůzi věřitelů, a to i před podáním návrhu na povolení oddlužení nebo i před podáním insolvenčního návrhu, jestliže měli možnost seznámit se s informacemi, které svým obsahem a rozsahem odpovídají informacím, které musí být obsaženy v návrhu na povolení oddlužení a v jeho přílohách. Obdobně to platí pro hlasování věřitelů o tom, zda doporučují vyhovět žádosti dlužníka o stanovení jiné výše měsíčních splátek při oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty.
+>
+> (2) Výsledky hlasování dosažené mimo schůzi věřitelů se připočtou k výsledkům hlasování dosažených na schůzi věřitelů. Je-li rozpor mezi hlasováním věřitele mimo schůzi věřitelů a jeho hlasováním na schůzi věřitelů, považuje se za rozhodné hlasování věřitele na schůzi věřitelů; o tom insolvenční soud tohoto věřitele neprodleně vyrozumí.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=69d5264fed690b2ba3f9 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=699b0a227ac3921a0fca generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 401 — Hlasování mimo schůzi věřitelů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Hlasují-li věřitelé o přijetí způsobu oddlužení mimo schůzi věřitelů po zahájení insolvenčního řízení, k jejich hlasu se přihlíží jen tehdy, hlasují-li písemně, podáním výslovně označeným jako „Hlasovací lístek“, které nesmí obsahovat žádný jiný procesní úkon, ze kterého je nepochybné, jak hlasovali, a na kterém je úředně ověřena pravost jejich podpisu, a bylo-li toto podání obsahující všechny náležitosti doručeno insolvenčnímu soudu nejpozději v den předcházející schůzi věřitelů; [[§ 43|§ 43]] [[občanského soudního řádu|občanského soudního řádu]] se nepoužije.
+>
+> (2) Hlasují-li věřitelé o přijetí způsobu oddlužení mimo schůzi věřitelů před zahájením insolvenčního řízení, k jejich hlasu se přihlíží jen tehdy, hlasují-li písemně, podáním výslovně označeným jako „Hlasovací lístek“, které nesmí obsahovat žádný jiný právní úkon, ze kterého je nepochybné, jak hlasovali, a na kterém je úředně ověřena pravost jejich podpisu, a bylo-li toto podání obsahující všechny náležitosti doručeno dlužníku nejpozději posledního dne lhůty, kterou dlužník k tomuto účelu stanovil a známým věřitelům písemně oznámil; tato lhůta nesmí být kratší než 15 dnů.
+>
+> (3) O tom, že k hlasování věřitele mimo schůzi věřitelů nelze přihlédnout z důvodů podle odstavců 1 a [[#§ 2|2]], tohoto věřitele neprodleně vyrozumí
+>
+> - a) insolvenční správce, jde-li o hlasování po zahájení insolvenčního řízení,
+>
+> - b) dlužník, jde-li o hlasování před zahájením insolvenčního řízení.
+>
+> (4) Postup podle odstavců 1 až 3 se obdobně uplatní pro hlasování věřitelů o tom, zda doporučují vyhovět žádosti dlužníka o stanovení jiné výše měsíčních splátek při oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty.
+>
+> (5) Náležitosti hlasovacího lístku stanoví prováděcí právní předpis.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 43, § 2
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=699b0a227ac3921a0fca -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=a60da9328f6b9bf56a43 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 402
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Právo hlasovat o způsobu oddlužení mají pouze nezajištění věřitelé, kteří včas přihlásili svou pohledávku. Zajištění věřitelé nehlasují ani v rozsahu, ve kterém je podle znaleckého posudku vypracovaného v insolvenčním řízení po rozhodnutí o úpadku hodnota zajištění nižší než výše zajištěné pohledávky. Právo hlasovat nemají osoby dlužníkovi blízké a osoby, které tvoří s dlužníkem koncern21).
+>
+> (2) Svůj souhlas se způsobem oddlužení není věřitel oprávněn změnit.
+>
+> (3) O způsobu oddlužení rozhodne schůze věřitelů prostou většinou hlasů nezajištěných věřitelů počítanou podle výše jejich pohledávek; obdobně to platí pro hlasování věřitelů mimo schůzi věřitelů.
+>
+> (4) Postup podle odstavců 1 až 3 se obdobně uplatní pro hlasování věřitelů o tom, zda doporučují vyhovět žádosti dlužníka o stanovení jiné výše měsíčních splátek při oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty.
+>
+> (5) Jestliže ani jeden ze způsobů oddlužení nezíská prostou většinu hlasů nezajištěných věřitelů podle odstavce 3, rozhodne insolvenční soud v rozhodnutí o schválení oddlužení ([[#§ 406|§ 406]]) o provedení oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 406
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a60da9328f6b9bf56a43 -->
+
 ## § 404 — § 407 — Schválení oddlužení
 
 **§ 404** — *neprodleně po projednání námitek*.
@@ -706,6 +1658,230 @@ Schválení oddlužení stanoví povinnost splácet, předpokládanou míru uspo
 **Typicky rozhodné důkazy / podklady:** usnesení o schválení oddlužení, pracovní smlouvy a výplatní pásky (před/po změně), příkaz plátci mzdy, doklady o příjmech pro posouzení změny poměrů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e4da014d3cc2eeb0cec0 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 404
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> O tom, zda oddlužení schvaluje, rozhodne insolvenční soud neprodleně po skončení jednání, při kterém byly projednány námitky věřitelů podle § 403 odst. 3, a v případě, že věřitelé takové námitky neuplatnili nebo soud jednání k jejich projednání nenařizoval, neprodleně po uplynutí lhůty k jejich podání. Je-li k rozhodnutí o způsobu oddlužení svolána schůze věřitelů, insolvenční soud nerozhodne dříve než po jejím skončení.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 403
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e4da014d3cc2eeb0cec0 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=32ace4de49e2619ec2d8 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 405
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Insolvenční soud oddlužení neschválí, jestliže v průběhu insolvenčního řízení vyšly najevo skutečnosti, které by jinak odůvodňovaly odmítnutí nebo zamítnutí návrhu na povolení oddlužení.
+>
+> (2) Jestliže insolvenční soud oddlužení neschválí, rozhodne současně o způsobu řešení dlužníkova úpadku konkursem pouze tehdy, jestliže
+>
+> - a) návrh na povolení oddlužení nebyl podán společně s insolvenčním návrhem a insolvenční soud nezjistí, že majetek dlužníka, aniž se přihlíží k věcem, právům a jiným majetkovým hodnotám vyloučeným z majetkové podstaty, je pro uspokojení věřitelů zcela nepostačující,
+>
+> - b) návrh na povolení oddlužení byl podán společně s insolvenčním návrhem a insolvenční soud nezjistí, že majetek dlužníka, aniž se přihlíží k věcem, právům a jiným majetkovým hodnotám vyloučeným z majetkové podstaty, je pro uspokojení věřitelů zcela nepostačující, nebo
+>
+> - c) návrh na povolení oddlužení byl podán společně s insolvenčním návrhem a insolvenční soud zjistí, že majetek dlužníka, aniž se přihlíží k věcem, právům a jiným majetkovým hodnotám vyloučeným z majetkové podstaty, je pro uspokojení věřitelů zcela nepostačující, a dlužník na jednání s insolvenčním správcem podle § 410 odst. 2 požádal, aby byl způsobem řešení jeho úpadku konkurs, a zaplatil zálohu na náklady insolvenčního řízení, stanovil-li mu soud povinnost k její úhradě podle § 108 odst. 2 a [[#§ 3|3.]]
+>
+> (3) Nepostupuje-li insolvenční soud podle odstavce 2, insolvenční řízení zastaví; současně rozhodne o odměně insolvenčního správce a jeho nákladech a zprostí insolvenčního správce jeho funkce. Nebyla-li osobě podle § 390a odst. 1 písm. a) dosud vyplacena odměna za sepis a podání návrhu na povolení oddlužení anebo také insolvenčního návrhu podle § 390a odst. 3, insolvenční soud současně uloží dlužníkovi povinnost ji uhradit, byla-li uplatněna podle § 390a odst. 5. Proti rozhodnutí o zastavení řízení mohou podat odvolání dlužník, insolvenční správce a přihlášení věřitelé; právní mocí rozhodnutí se insolvenční řízení končí.
+>
+> (4) Na základě upraveného seznamu pohledávek lze po zastavení insolvenčního řízení zahájeného na základě insolvenčního návrhu podaného věřitelem podat návrh na výkon rozhodnutí nebo exekuci pro zjištěnou neuspokojenou pohledávku, kterou dlužník nepopřel; toto právo se promlčí za 10 let od zastavení řízení podle odstavce 3.
+>
+> (5) Odvolání proti rozhodnutí o neschválení oddlužení může podat pouze dlužník.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 410, § 108, § 3, § 390a
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=32ace4de49e2619ec2d8 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=1a1b4bf858a1b72e4cbd generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 406
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Neshledá-li důvody k vydání rozhodnutí podle [[#§ 405|§ 405]], insolvenční soud oddlužení schválí. Schválením oddlužení jsou vázáni jak dlužník, tak věřitelé, včetně věřitelů, kteří s oddlužením nesouhlasili nebo o něm nehlasovali.
+>
+> (2) V rozhodnutí, jímž schvaluje oddlužení zpeněžením majetkové podstaty, insolvenční soud označí majetek, který podle stavu ke dni vydání rozhodnutí náleží do majetkové podstaty, včetně majetku, který se stane součástí majetkové podstaty podle § 412 odst. 1 písm. b), pokud jde o majetek, který dlužník neuvedl v seznamu majetku, ač tuto povinnost měl, a hodnoty získané z neúčinného právního jednání.
+>
+> (3) V rozhodnutí, jímž schvaluje oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty, insolvenční soud
+>
+> - a) uloží dlužníku, aby do podání zprávy pro osvobození platil nezajištěným věřitelům prostřednictvím insolvenčního správce vždy k určenému dni měsíce částku stanovenou podle [[#§ 398|§ 398]] nebo [[#§ 398b|§ 398b]] z příjmů, které získá po schválení oddlužení, a to podle poměru jejich pohledávek určeného ve zprávě pro oddlužení. Současně stanoví termín úhrady první splátky, a to tak, aby byla uhrazena nejpozději do konce měsíce následujícího po měsíci, v němž nastanou účinky schválení oddlužení,
+>
+> - b) označí příjmy, ze kterých by dlužník podle stavu ke dni vydání rozhodnutí měl uhradit první splátku,
+>
+> - c) určí předpokládanou míru uspokojení pohledávek nezajištěných věřitelů s ohledem na schopnosti, možnosti a majetkové poměry dlužníka a průměrnou výši měsíční splátky nutnou pro dosažení této míry v době podle § 412a odst. 1,
+>
+> - d) přikáže plátci mzdy dlužníka, nebo plátci jiného příjmu dlužníka postižitelného výkonem rozhodnutí srážkami ze mzdy povinného (dále jen „plátce mzdy dlužníka“), aby po doručení rozhodnutí o schválení oddlužení prováděl ze mzdy nebo jiného příjmu dlužníka stanovené srážky a nevyplácel sražené částky dlužníku,
+>
+> - e) uloží dlužníku povinnost vydat insolvenčnímu správci ke zpeněžení majetek náležející do majetkové podstaty a označí jej,
+>
+> - f) uloží dlužníku povinnost využít služby odborného sociálního poradenství,
+>
+> - g) uloží dlužníku, aby po dobu 2 měsíců po podání zprávy pro osvobození platil zálohy na odměnu a hotové výdaje insolvenčního správce, a přikáže plátci mzdy dlužníka, aby prováděl srážky za účelem uhrazení těchto záloh; ustanovení § 136 odst. 3 se použije obdobně.
+>
+> (4) Odvolání proti rozhodnutí o schválení oddlužení může podat pouze věřitel, který hlasoval proti přijetí schváleného způsobu oddlužení. Proti rozhodnutí o schválení oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty může podat odvolání také dlužník, směřuje-li odvolání proti výroku podle odstavce 3 písm. c), dlužník, jehož žádosti o stanovení jiné výše měsíčních splátek insolvenční soud nevyhověl, dlužník, je-li důvodem odvolání tvrzení, že mu soud uložil povinnost vydat ke zpeněžení majetek, který podle tohoto zákona není povinen vydat, nebo věřitel, který nesouhlasí se stanovením jiné výše měsíčních splátek a který proti tomu hlasoval.
+>
+> (5) Rozhodnutí o schválení oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty doručí insolvenční soud do vlastních rukou také plátci mzdy dlužníka. O právech a povinnostech plátce mzdy dlužníka po doručení rozhodnutí o schválení oddlužení platí přiměřeně ustanovení [[občanského soudního řádu|občanského soudního řádu]] o plátci mzdy při výkonu rozhodnutí srážkami ze mzdy povinného. Částky sražené z dlužníkovy mzdy zasílá plátce mzdy dlužníka insolvenčnímu správci, a to bez zřetele k tomu, že rozhodnutí o schválení oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty dosud není v právní moci.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 405, § 412, § 398, § 398b, § 412a, § 136
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1a1b4bf858a1b72e4cbd -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=6f4d0b18d6e847f4fbe9 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 407
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Účinky schválení oddlužení nastávají okamžikem zveřejnění rozhodnutí o schválení oddlužení v insolvenčním rejstříku.
+>
+> (2) Právní mocí rozhodnutí o schválení oddlužení se ruší omezení dispozičních oprávnění dlužníka, ke kterým došlo před jeho vydáním v dosavadním průběhu insolvenčního řízení ze zákona nebo rozhodnutím insolvenčního soudu.
+>
+> (3) Rozhodnutí o schválení oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty insolvenční soud i bez návrhu změní, jestliže se podstatně změnily okolnosti, které jsou rozhodující pro výši a další trvání stanovených měsíčních splátek; ustanovení § 418 odst. 1 písm. c) tím není dotčeno. Pro doručení, zveřejnění a účinky tohoto rozhodnutí platí totéž co o doručení, zveřejnění a účincích rozhodnutí o schválení oddlužení. Proti tomuto rozhodnutí může podat odvolání dlužník nebo věřitel, který podle něj obdrží na úhradu své pohledávky méně než podle měněného rozhodnutí.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 418
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6f4d0b18d6e847f4fbe9 -->
 
 ## § 408 — § 411 — Účinky oddlužení + přezkum
 
@@ -773,6 +1949,220 @@ Po schválení náleží dispozice s novými příjmy dlužníku, avšak s povin
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4de2e32bef1dc678cbef generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 408
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) O účincích schválení oddlužení zpeněžením majetkové podstaty platí ohledně majetku náležícího do majetkové podstaty v době schválení oddlužení obdobně ustanovení tohoto zákona o účincích prohlášení konkursu, včetně zániku společného jmění dlužníka a jeho manžela. Jde-li o oddlužení povolené na základě společného návrhu manželů ([[#§ 394a|§ 394a]]), považuje se od okamžiku, kdy nastanou účinky schválení oddlužení zpeněžením majetkové podstaty, všechen majetek těchto manželů za majetek ve společném jmění manželů, které nezaniká.
+>
+> (2) Dispoziční oprávnění k majetku, který dlužník získá poté, co nastanou účinky schválení oddlužení, má od právní moci rozhodnutí o schválení oddlužení zpeněžením majetkové podstaty dlužník. Výkon rozhodnutí nebo exekuci, která by postihovala takový majetek, lze za trvání oddlužení nařídit nebo zahájit a provést jen pro pohledávky, které nemají být uspokojeny při oddlužení a současně které vzniknou poté, co nastanou účinky schválení oddlužení.
+>
+> (3) Majetek, který slouží k zajištění, insolvenční správce po schválení oddlužení zpeněžením majetkové podstaty zpeněží, ledaže zajištěný věřitel požádá, aby tento majetek zpeněžen nebyl, a zpeněžením ostatního majetku dojde k plnému uspokojení pohledávek nezajištěných věřitelů nebo zajištěná pohledávka zjevně přesahuje hodnotu zajištění.
+>
+> (4) Poté, co insolvenční správce zpeněží majetek, který podléhá oddlužení zpeněžením majetkové podstaty, se v insolvenčním řízení dále postupuje podle ustanovení tohoto zákona o konečné zprávě a rozvrhu v konkursu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 394a
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4de2e32bef1dc678cbef -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=8c445c2050c6d37f6141 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 409
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Od schválení oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty má dispoziční oprávnění k příjmům, které získá po schválení oddlužení, dlužník. S takto nabytými příjmy je dlužník povinen naložit způsobem uvedeným v rozhodnutí o schválení oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty. Základní částku, která nesmí být sražena z měsíční mzdy, a jiné příjmy, které nelze postihnout výkonem rozhodnutí nebo exekucí, je dlužník oprávněn použít i k plnění splátkového kalendáře se zpeněžením majetkové podstaty, neohrozí-li tím uspokojování jeho základních hmotných potřeb nebo potřeb osob na něj odkázaných výživou.
+>
+> (2) Jestliže insolvenční soud uložil dlužníku povinnost vydat majetek ke zpeněžení, použije se pro oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty § 408 odst. 1 obdobně. Poté, co insolvenční správce zpeněží majetek, který podléhá oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty, předloží insolvenčnímu soudu zprávu o stavu insolvenčního řízení, pro niž se použije přiměřeně ustanovení o konečné zprávě v konkursu, a poté se postupuje obdobně podle ustanovení o rozvrhu v konkursu.
+>
+> (3) Dispoziční oprávnění k majetku, náležejícímu do majetkové podstaty v době schválení oddlužení, s výjimkou toho majetku, který byl postižen v rámci výkonu rozhodnutí nebo exekuce, má od právní moci rozhodnutí o schválení oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty dlužník; to neplatí, jde-li o majetek, který slouží k zajištění nebo který insolvenční soud uložil vydat ke zpeněžení. Majetek, který dlužník získá poté, co nastanou účinky schválení oddlužení, z té části příjmů, která nepodléhá oddlužení, nenáleží do majetkové podstaty. Výkon rozhodnutí nebo exekuci, která by postihovala takový majetek, lze za trvání oddlužení nařídit nebo zahájit a provést jen pro pohledávky, které nemají být uspokojeny při oddlužení a současně které vzniknou poté, co nastanou účinky schválení oddlužení.
+>
+> (4) Majetek, který slouží k zajištění, zpeněží insolvenční správce po schválení oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty, nejdříve však po zjištění pravosti výše a pořadí zajištěné pohledávky, požádá-li o to zajištěný věřitel. Výtěžek zpeněžení vydá zajištěnému věřiteli; přitom postupuje obdobně podle ustanovení o zpeněžení zajištění v konkursu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 408
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8c445c2050c6d37f6141 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=98d7d3acbf489ce0e932 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 410
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Není-li dále stanoveno jinak, platí o přezkoumání přihlášených pohledávek za trvání účinnosti oddlužení obdobně § 190 až 202.
+>
+> (2) Přezkoumání přihlášených pohledávek provede insolvenční správce tak, že v seznamu přihlášených pohledávek podle § 189 odst. 1 u každé z pohledávek výslovně uvede, zda ji on sám, dlužník nebo věřitel popírá nebo nepopírá, přičemž ke stanovisku dlužníka bude připojen i podpis dlužníka; stanovisko dlužníka zjistí insolvenční správce při osobním jednání s dlužníkem, jehož datum a místo konání sdělí dlužníkovi nejméně 7 dní předem. Skončením osobního jednání s dlužníkem končí přezkumné jednání. Věřitele, jehož nevykonatelná přihlášená pohledávka byla popřena, o tom insolvenční správce písemně vyrozumí a poučí jej o dalším postupu. Poté insolvenční správce vypracuje zprávu o přezkumu; její součástí je záznam o jednání s dlužníkem podepsaný insolvenčním správcem a dlužníkem, seznam přihlášených pohledávek a doklad o písemném vyrozumění věřitele, jehož nevykonatelná přihlášená pohledávka byla popřena.
+>
+> (3) O zprávě o přezkumu rozhodne insolvenční soud bez jednání nejpozději v rozhodnutí podle [[#§ 404|§ 404]] nebo [[#§ 405|405]] tak, že
+>
+> - a) schválí předloženou zprávu o přezkumu, nejsou-li vůči ní podány žádné námitky podle § 398a odst. 4 nebo podané námitky nejsou důvodné,
+>
+> - b) nařídí doplnění nebo změnu zprávy o přezkumu, jestliže shledá, že některé z námitek podle § 398a odst. 4 proti ní jsou důvodné, avšak nemění její základní obsah, nebo
+>
+> - c) odmítne zprávu o přezkumu, shledá-li, že námitky podle § 398a odst. 4 proti ní vznesené důvodně zpochybňují zprávu jako celek; v tomto případě uloží insolvenčnímu správci, aby znovu provedl přezkoumání přihlášených pohledávek a předložil novou zprávu o přezkumu a novou zprávu pro oddlužení ve lhůtě, kterou určí.
+>
+> (4) Rozhodnutí podle odstavce 3 nemusí obsahovat odůvodnění, jestliže proti zprávě o přezkumu nebyly podány námitky; proti tomuto rozhodnutí není odvolání přípustné.
+>
+> (5) Popření pohledávky věřitele dlužníkem má za trvání účinků schválení oddlužení tytéž účinky jako popření pohledávky insolvenčním správcem, ustanovení § 51 odst. 2 tím však není dotčeno; pro toto popření platí obdobně ustanovení o zjištění pohledávky týkající se insolvenčního správce. Jestliže dlužník popřel pohledávku před schválením oddlužení, nastávají účinky tohoto popření dnem, kdy nastaly účinky oddlužení; tento den je rozhodný i pro počátek běhu lhůt k podání žaloby o určení pravosti, výše nebo pořadí pohledávky. Věřitelé nevykonatelné pohledávky, která byla popřena dlužníkem, podávají žalobu vždy vůči dlužníku.
+>
+> (6) Jde-li o vykonatelnou pohledávku přiznanou pravomocným rozhodnutím příslušného orgánu, může dlužník jako důvod popření její pravosti nebo výše uplatnit jen skutečnosti, které jsou důvodem pro zastavení výkonu rozhodnutí nebo exekuce proto, že pohledávka zanikla nebo je promlčená.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 190, § 189, § 404, § 405, § 398a, § 51
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=98d7d3acbf489ce0e932 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=e46ef8c1ffa97cd987ad generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 411
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Po dobu trvání účinků schválení oddlužení nemá nařízení výkonu rozhodnutí nebo exekuce nebo zahájení exekuce, která by postihovala majetek ve vlastnictví dlužníka, vliv na povinnost dlužníka naložit s příjmy určenými k plnění splátkového kalendáře způsobem určeným v rozhodnutí o schválení oddlužení.
+>
+> (2) Byla-li některá z pohledávek, jež mají být uspokojeny podle splátkového kalendáře, popřena, hradí dlužník částky připadající podle splátkového kalendáře na její uspokojení v určených lhůtách k rukám insolvenčního správce, který je věřiteli vyplatí neprodleně po právní moci rozhodnutí insolvenčního soudu o zjištění této pohledávky. Nedojde-li ke zjištění pohledávky, rozdělí insolvenční správce částky připadající podle splátkového kalendáře na její uspokojení mezi ostatní věřitele určené plánem jako mimořádnou splátku poměrně.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e46ef8c1ffa97cd987ad -->
+
 ## § 412 — Povinnosti dlužníka po schválení — **VELMI DŮLEŽITÝ**
 
 > (1) Ode dne, kdy nastaly účinky schválení oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty, do dne, kdy došlo ke splnění předpokladů pro osvobození podle § 412a nebo kdy bylo dlužníku oddlužení zrušeno, je dlužník povinen
@@ -836,6 +2226,78 @@ Po schválení musí dlužník aktivně vydělávat, vydávat mimořádné pří
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=48406645c061ff81c85b generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 412 — Povinnosti dlužníka po schválení oddlužení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Ode dne, kdy nastaly účinky schválení oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty, do dne, kdy došlo ke splnění předpokladů pro osvobození podle [[#§ 412a|§ 412a]] nebo kdy bylo dlužníku oddlužení zrušeno, je dlužník povinen
+>
+> - a) vykonávat přiměřenou výdělečnou činnost a v případě, že je nezaměstnaný, o získání příjmu usilovat; nesmí rovněž odmítat splnitelnou možnost si příjem obstarat,
+>
+> - b) hodnoty získané dědictvím, darem a z neúčinného právního úkonu, jakož i majetek, který dlužník neuvedl v seznamu majetku, ač tuto povinnost měl, vydat insolvenčnímu správci ke zpeněžení a výtěžek, stejně jako jiné své mimořádné příjmy a část výtěžku zpeněžení majetku náležejícího do společného jmění manželů, použít k mimořádným splátkám nad rámec splátkového kalendáře; za mimořádný příjem se nepovažují plnění z pojistných smluv o škodovém pojištění a plnění z titulu práva na náhradu majetkové a nemajetkové újmy,
+>
+> - c) bez zbytečného odkladu oznámit insolvenčnímu soudu, insolvenčnímu správci a věřitelskému výboru každou změnu svého bydliště nebo sídla a zaměstnání,
+>
+> - d) vždy po uplynutí 3 kalendářních měsíců k patnáctému dni následujícího kalendářního měsíce předložit insolvenčnímu soudu přehled svých příjmů za uplynulé měsíce, neurčí-li insolvenční soud jinou dobu předkládání nepřevyšující 12 kalendářních měsíců; insolvenční soud může stanovit i to, že přehled příjmů bude dlužník předkládat pouze insolvenčnímu správci, který jej přiloží k nejbližší zprávě o stavu insolvenčního řízení a vyjádří se k jeho obsahu,
+>
+> - e) nezatajovat žádný ze svých příjmů a na žádost insolvenčního soudu, insolvenčního správce nebo věřitelského výboru předložit k nahlédnutí svá daňová přiznání za období trvání účinků schválení oddlužení,
+>
+> - f) neposkytovat nikomu z věřitelů žádné zvláštní výhody,
+>
+> - g) nepřijímat na sebe nové závazky, které by nemohl v době jejich splatnosti splnit,
+>
+> - h) vynaložit veškeré úsilí, které po něm lze spravedlivě požadovat, k plnému uspokojení pohledávek svých věřitelů.
+>
+> (2) Ode dne splnění předpokladů pro osvobození podle [[#§ 412a|§ 412a]] do vzetí na vědomí splnění oddlužení je dlužník povinen poskytovat insolvenčnímu správci součinnost v rozsahu nezbytném pro zpeněžení dosud nezpeněženého majetku, pokud náleží do majetkové podstaty.
+>
+> (3) Po dobu trvání účinků schválení oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty vykonává insolvenční správce dohled nad činností dlužníka. O výsledcích své činnosti informuje insolvenční soud a věřitelský výbor. O neplnění podstatných povinností vyplývajících z oddlužení insolvenční správce informuje dlužníka bez zbytečného odkladu.
+>
+> (4) Při posouzení, zda dlužník vynakládá veškeré úsilí, které po něm lze spravedlivě požadovat, k plnému uspokojení pohledávek svých věřitelů a zda vykonává přiměřenou výdělečnou činnost, vezme insolvenční soud v úvahu schopnosti, možnosti a majetkové poměry dlužníka. Při hodnocení schopností, možností a majetkových poměrů dlužníka je třeba také zkoumat, zda se dlužník nevzdal bez důležitého důvodu výhodnějšího zaměstnání či výdělečné činnosti nebo majetkového prospěchu, popřípadě zda nepodstupuje nepřiměřená majetková rizika. Ministerstvo uveřejní informace týkající se hodnocení schopností a možností dlužníka vykonávat výdělečnou činnost způsobem umožňujícím dálkový přístup. Má se za to, že dlužník řádně neplní povinnost usilovat o získání příjmu, nepožádá-li v případě nezaměstnanosti do 15 dnů o zařazení do evidence uchazečů o zaměstnání nebo vezme-li tuto žádost zpět anebo byl-li z této evidence pravomocně vyřazen.
+>
+> (5) Dlužník na výzvu informuje insolvenčního správce o úsilí, které vynaložil ke splnění povinností podle odstavce 1 písm. a) a h). Insolvenční správce k tomu dlužníka vyzve nejvýše jednou za 3 měsíce při poklesu průměru dlužníkových příjmů za poslední 3 měsíce oproti hodnotě vyplývající z rozhodnutí o schválení oddlužení o více než čtvrtinu nebo při poklesu předpokládané míry uspokojení pohledávek nezajištěných věřitelů oproti hodnotě určené v rozhodnutí o schválení oddlužení o více než čtvrtinu. K podstatným informacím sděleným dlužníkem se insolvenční správce vyjádří ve zprávě o stavu insolvenčního řízení.
+>
+> (6) Právní úkon, kterým dlužník ode dne, kdy nastaly účinky schválení oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty, do právní moci rozhodnutí o osvobození podle [[#§ 414|§ 414]] odmítne přijetí daru nebo dědictví bez souhlasu insolvenčního správce, je neplatný. Totéž platí, jestliže dlužník uzavře bez souhlasu insolvenčního správce dohodu o vypořádání dědictví, podle které má z dědictví obdržet méně, než činí jeho dědický podíl. Má se za to, že dlužník, který neodmítne dědictví, uplatnil výhradu soupisu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 412a, § 414
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=48406645c061ff81c85b -->
+
 ## § 412a — **PŘEDPOKLADY PRO OSVOBOZENÍ** — KLÍČOVÝ
 
 > (1) V oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty jsou splněny předpoklady pro osvobození dlužníka od placení pohledávek zahrnutých do oddlužení v rozsahu, v němž dosud nebyly uspokojeny, jestliže
@@ -896,6 +2358,64 @@ Předpoklady osvobození jsou splněny při plném uspokojení, nebo po 3 letech
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b90f03133f9801450a0d generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 412a — Splnění předpokladů pro osvobození
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) V oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty jsou splněny předpoklady pro osvobození dlužníka od placení pohledávek zahrnutých do oddlužení v rozsahu, v němž dosud nebyly uspokojeny, jestliže
+>
+> - a) dlužník splatil nezajištěným věřitelům jejich pohledávky v plné výši, nebo
+>
+> - b) po dobu 3 let od schválení oddlužení nebylo dlužníku oddlužení zrušeno a plnil-li dlužník po tuto dobu všechny podstatné povinnosti vyplývající z oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty; má se za to, že tyto povinnosti plnil, jestliže dosáhl předpokládané míry uspokojení pohledávek nezajištěných věřitelů určené insolvenčním soudem v rozhodnutí o schválení oddlužení.
+>
+> (2) V oddlužení zpeněžením majetkové podstaty jsou splněny předpoklady pro osvobození dlužníka od placení pohledávek zahrnutých do oddlužení v rozsahu, v němž dosud nebyly uspokojeny, jestliže insolvenční soud
+>
+> - a) obdržel zprávu insolvenčního správce o splnění rozvrhového usnesení a dlužník řádně splnil všechny podstatné povinnosti stanovené v rozhodnutí o schválení oddlužení, nebo
+>
+> - b) neobdržel zprávu insolvenčního správce o splnění rozvrhového usnesení a od schválení oddlužení uplynula doba 3 let, plnil-li dlužník po tuto dobu všechny podstatné povinnosti stanovené v rozhodnutí o schválení oddlužení a nebylo-li dlužníku po tuto dobu oddlužení zrušeno.
+>
+> (3) Bylo-li dlužníku přiznáno osvobození podle [[#§ 414|§ 414]] v posledních 20 letech před podáním návrhu na povolení oddlužení, činí doba podle odstavce 1 písm. b) 5 let.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 414
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b90f03133f9801450a0d -->
+
 ## § 412b — Přerušení a prodloužení oddlužení
 
 **Přerušení** — *až 12 měsíců* z důležitých důvodů (typicky nemoc, ztráta zaměstnání). *Bez splátek*.
@@ -941,6 +2461,64 @@ Při důležitých (zpravidla nezaviněných) důvodech lze oddlužení přeruš
 **Typicky rozhodné důkazy / podklady:** lékařské zprávy a doklady o pracovní neschopnosti, přehledy plateb a uspokojení, žádost o přerušení/prodloužení s datem podání, doklady o příjmech po skončení překážky.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=fa22199ed45f4f550509 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 412b — Přerušení a prodloužení průběhu oddlužení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Insolvenční soud může po schválení oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty rozhodnout o přerušení průběhu oddlužení i opakovaně až na celkovou dobu 12 měsíců. Učiní tak z důležitých důvodů na návrh dlužníka nebo insolvenčního správce. Odvolání proti rozhodnutí o přerušení průběhu oddlužení není přípustné.
+>
+> (2) Po dobu přerušení průběhu oddlužení nemusí dlužník plnit svou povinnost splácet podle § 398 odst. 3; ustanovení § 418 odst. 1 písm. c) se nepoužije.
+>
+> (3) Jakmile odpadne důvod přerušení, rozhodne insolvenční soud o pokračování v oddlužení i bez návrhu. Proti tomuto rozhodnutí není odvolání přípustné. O pokračování v oddlužení soud nerozhoduje, jestliže bylo oddlužení přerušeno na přesně určenou dobu či do určitého dne.
+>
+> (4) Doba, po niž byl přerušen průběh oddlužení, se nezapočítává do doby podle § 412a odst. 1.
+>
+> (5) Insolvenční soud může rozhodnout, že se doba, která je rozhodná pro posouzení splacení pohledávek podle § 412a odst. 1, prodlouží až o 6 měsíců. Učiní tak z důležitých důvodů na návrh dlužníka podaný do uplynutí doby, která je rozhodná pro posouzení splacení pohledávek podle § 412a odst. 1. Průběh oddlužení nelze takto prodloužit opakovaně. Odvolání proti rozhodnutí o takovém prodloužení průběhu oddlužení není přípustné.
+>
+> (6) Insolvenční soud může prodloužit dobu podle § 412a odst. 1 písm. b) o počet měsíců, ve kterých dlužník neplnil podstatné povinnosti vyplývající z oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty, a to zejména povinnosti podle § 412 odst. 1 písm. a) nebo h). Průběh oddlužení lze takto prodloužit i opakovaně, nejdéle však v souhrnu o 12 měsíců. Z důvodu hodného zvláštního zřetele lze nadto průběh oddlužení prodloužit v souhrnu až o dalších 6 měsíců.
+>
+> (7) Insolvenční soud neprodlouží průběh oddlužení, lze-li se zřetelem ke všem okolnostem důvodně předpokládat, že prodloužením průběhu oddlužení nebude dosaženo uspokojení pohledávek jiných než odměna a hotové výdaje insolvenčního správce.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 398, § 418, § 412a, § 412
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fa22199ed45f4f550509 -->
 
 ## § 413 — Rozhodnutí o splnění oddlužení
 
@@ -989,6 +2567,62 @@ Soud rozhodne o splnění oddlužení, jsou-li splněny předpoklady § 412a, do
 **Typicky rozhodné důkazy / podklady:** zpráva o splnění oddlužení, přehled dosaženého uspokojení nezajištěných, doklad o uspokojení zajištěného věřitele, vyúčtování odměny správce, návrh na spojení rozhodnutí.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=5ba8349491551e74029b generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 413 — Rozhodnutí o splnění oddlužení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Splnění oddlužení vezme insolvenční soud na vědomí rozhodnutím. Současně insolvenční soud rozhodne o odměně insolvenčního správce a jeho nákladech a zprostí insolvenčního správce jeho funkce. Odvolání proti tomuto rozhodnutí mohou podat dlužník, insolvenční správce a věřitelé; toto rozhodnutí je účinné nabytím právní moci, jeho právní mocí insolvenční řízení končí.
+>
+> (2) V oddlužení zpeněžením majetkové podstaty insolvenční soud rozhodne o splnění oddlužení, jestliže byly splněny předpoklady pro osvobození podle [[#§ 412a|§ 412a]] a došlo k dokončení postupu podle ustanovení tohoto zákona o konečné zprávě a rozvrhu v konkursu.
+>
+> (3) V oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty insolvenční soud rozhodne o splnění oddlužení, jestliže byly splněny předpoklady pro osvobození podle [[#§ 412a|§ 412a]] a byl dokončen postup podle § 409 odst. 2, je-li zpeněžován majetek podléhající oddlužení. Předpokladem pro splnění oddlužení je rovněž vydání výtěžku zpeněžení zajištěnému věřiteli, je-li zpeněžován předmět zajištění, a použití výnosu k mimořádné splátce nad rámec splátkového kalendáře, je-li zpeněžována věc podle § 412 odst. 1 písm. b).
+>
+> (4) Splnění oddlužení nevezme insolvenční soud na vědomí dříve než po skončení incidenčních sporů podle § 159 odst. 1 písm. b) až d) a po pravomocném rozhodnutí dalších věcí týkajících se rozsahu majetkové podstaty; to neplatí, jestliže výsledky takových incidenčních sporů a takových rozhodnutí nemohou ovlivnit uspokojení věřitelů nebo vést ke zpeněžení majetku náležícího do majetkové podstaty. Splnění oddlužení nevezme insolvenční soud na vědomí též dříve než po uhrazení zálohy na odměnu a hotové výdaje insolvenčního správce, ledaže již došlo k odejmutí nebo zániku osvobození podle [[#§ 414|§ 414]].
+>
+> (5) Insolvenční soud může na návrh insolvenčního správce též rozhodnout, že nevezme splnění oddlužení na vědomí dříve než po skončení incidenčních sporů podle § 159 odst. 1 písm. a) a e) až h), pokud jejich výsledky mohou podstatně ovlivnit uspokojení věřitelů.
+>
+> (6) Jsou-li současně splněny předpoklady pro vydání rozhodnutí o osvobození podle [[#§ 414|§ 414]], jakož i předpoklady pro vydání rozhodnutí o splnění oddlužení, může insolvenční soud tato rozhodnutí spojit.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 412a, § 409, § 412, § 159, § 414
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5ba8349491551e74029b -->
 
 ## § 414 — **OSVOBOZENÍ DLUŽNÍKA** — NEJVÝZNAMNĚJŠÍ EFEKT ODDLUŽENÍ
 
@@ -1066,6 +2700,66 @@ Osvobození činí neuhrazené pohledávky zahrnuté do oddlužení nevymahateln
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=cda14ba9edbd4a45da04 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 414 — Osvobození dlužníka od placení pohledávek
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Jestliže byly splněny předpoklady pro osvobození podle [[#§ 412a|§ 412a]], vydá insolvenční soud rozhodnutí, jímž dlužníka osvobodí od placení pohledávek, zahrnutých do oddlužení, v rozsahu, v němž dosud nebyly uspokojeny. Osvobození podle věty první se nevztahuje na pohledávky vzniklé po rozhodnutí o úpadku.
+>
+> (2) Jestliže insolvenční správce nedoporučil rozhodnout o osvobození dlužníka podle odstavce 1, insolvenční soud v odůvodnění rozhodnutí uvede důvody, pro které dlužníka osvobodil.
+>
+> (3) Osvobození podle odstavce 1 nebrání zpeněžení majetku, který dosud nebyl zpeněžen, pokud náleží do majetkové podstaty, a uspokojení pohledávek věřitelů z výtěžku zpeněžení podle schváleného způsobu oddlužení.
+>
+> (4) Právní mocí rozhodnutí o osvobození podle odstavce 1 se ruší veškerá omezení dlužníka, ke kterým došlo před jeho vydáním v dosavadním průběhu insolvenčního řízení ze zákona nebo rozhodnutím soudu, nestanoví-li tento zákon jinak. Nadále však trvají účinky podle § 408 odst. 1 a stávající omezení ve vztahu k majetku, který dosud nebyl zpeněžen, pokud náleží do majetkové podstaty. Účinky § 109 odst. 1 písm. c) a d) se ve vztahu k výkonu rozhodnutí či exekuci srážkami ze mzdy uplatňují po dobu placení zálohy na odměnu a hotové výdaje insolvenčního správce; to neplatí, došlo-li k odejmutí nebo k zániku osvobození.
+>
+> (5) Osvobození podle odstavce 1 se vztahuje také na věřitele, k jejichž pohledávkám se v insolvenčním řízení nepřihlíželo, a na věřitele, kteří své pohledávky do insolvenčního řízení nepřihlásili, ač tak měli učinit.
+>
+> (6) Osvobození podle odstavců 1 a [[#§ 5|5]] se vztahuje i na ručitele a jiné osoby, které měly vůči dlužníku pro tyto pohledávky právo postihu.
+>
+> (7) Při osvobození dlužníka podle odstavce 1 zůstává zajištěnému věřiteli, jestliže nedošlo ke zpeněžení majetku sloužícího k zajištění pohledávky, zachováno právo domáhat se uspokojení pohledávky z výtěžku zpeněžení tohoto majetku; pohledávek, které se v insolvenčním řízení neuspokojují ([[#§ 170|§ 170]]), se může takto domáhat jen za dobu od osvobození podle odstavce 1.
+>
+> (8) Nejsou-li po podání zprávy insolvenčního správce pro osvobození splněny předpoklady pro vydání rozhodnutí o osvobození dlužníka podle [[#§ 414|§ 414]], insolvenční soud vydá rozhodnutí, ve kterém uloží dlužníku povinnost do doby podání nové zprávy pro osvobození měsíčně splácet nezajištěným věřitelům ze svých příjmů částku obdobně podle § 398 odst. 3. Do nabytí právní moci tohoto rozhodnutí insolvenční správce příslušné částky uloží na zvláštní účet podle § 36 odst. 5.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 412a, § 408, § 109, § 5, § 170, § 398, § 36
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cda14ba9edbd4a45da04 -->
+
 ## § 416 — Výjimky z osvobození
 
 **Osvobození NETÝKÁ se**:
@@ -1122,6 +2816,54 @@ Osvobození se nevztahuje na výživné, náhradu škody na zdraví, sankce za �
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=60aae5353063f46e8eb0 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 416
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Osvobození podle [[#§ 414|§ 414]] se nedotýká peněžitého trestu nebo jiné majetkové sankce, která byla dlužníku uložena v trestním řízení pro úmyslný trestný čin, pohledávek na náhradu škody způsobené úmyslným porušením právní povinnosti, pohledávky insolvenčního správce na odměnu a hotové výdaje a dále pohledávek věřitelů na výživném ze zákona a pohledávek věřitelů na náhradu škody způsobené na zdraví.
+>
+> (2) Proti rozhodnutí, jímž insolvenční soud přizná dlužníku osvobození podle [[#§ 414|§ 414]], se může odvolat pouze věřitel, jehož pohledávka vůči dlužníku nebyla v insolvenčním řízení zcela uspokojena. Odvoláním však lze namítat pouze to, že nebyly splněny předpoklady pro přiznání osvobození dlužníku.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 414
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=60aae5353063f46e8eb0 -->
+
 ## § 417 — Odejmutí osvobození
 
 **Odejmutí**:
@@ -1169,6 +2911,64 @@ Osvobození lze odejmout do 3 let při podvodném jednání dlužníka nebo zvý
 **Typicky rozhodné důkazy / podklady:** doklady o zatajeném příjmu (nájemní smlouvy, výpisy), bankovní převody zvýhodněnému věřiteli, korespondence prokazující jeho účast, případný odsuzující rozsudek pro úmyslný TČ, časové údaje k během lhůt.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9e82e24dd6696dc5660b generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 417
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Osvobození podle [[#§ 414|§ 414]] insolvenční soud dlužníku odejme, jestliže na základě návrhu podaného některým z dotčených věřitelů nebo insolvenčním správcem do 3 let od pravomocného přiznání osvobození podle [[#§ 414|§ 414]] vyjde najevo, že ke schválení oddlužení nebo k přiznání osvobození došlo na základě podvodného jednání dlužníka, anebo že dlužník poskytl zvláštní výhody některým věřitelům; to neplatí, jestliže věřitel, který návrh podal, mohl takovou námitku uplatnit před rozhodnutím o přiznání osvobození dlužníku.
+>
+> (2) Osvobození podle [[#§ 414|§ 414]] insolvenční soud dlužníku také odejme, pokud v době do vzetí na vědomí splnění oddlužení, nejdéle však do 3 let od pravomocného přiznání osvobození,
+>
+> - a) dlužník závažným způsobem porušil nebo opakovaně porušuje povinnost součinnosti podle § 412 odst. 2, nebo
+>
+> - b) vyjdou najevo okolnosti, na jejichž základě lze důvodně předpokládat, že oddlužením byl sledován nepoctivý záměr.
+>
+> (3) Přiznané osvobození zaniká, byl-li dlužník do 3 let od právní moci rozhodnutí o přiznání osvobození podle [[#§ 414|§ 414]] pravomocně odsouzen za úmyslný trestný čin, kterým podstatně ovlivnil schválení nebo provedení oddlužení anebo přiznání osvobození, případně kterým jinak poškodil věřitele.
+>
+> (4) Zánik osvobození podle odstavců 1 a [[#§ 3|3]] se nevztahuje na pohledávky věřitelů, kteří se sami účastnili podvodných jednání s dlužníkem nebo nedovolených výhod; o tom musí být rozhodnuto výrokem usnesení.
+>
+> (5) Odvolání proti rozhodnutí vydanému podle odstavců 1, [[#§ 3|3]] a [[#§ 4|4]] může podat pouze dlužník a věřitel, jehož se zánik osvobození týká. Odvolání proti rozhodnutí vydanému podle odstavce 2 může podat pouze dlužník.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 414, § 412, § 3, § 4
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9e82e24dd6696dc5660b -->
 
 ## § 418 — **ZRUŠENÍ SCHVÁLENÉHO ODDLUŽENÍ**
 
@@ -1240,3 +3040,78 @@ Schválené oddlužení soud zruší při neplnění podstatných povinností, z
 **Tímto je dokončena Hlava V — Oddlužení (§ 389—418) a celá ČÁST DRUHÁ (§ 244—418).**
 
 **Pokračování:** [16-cast34-akreditace-zaverecna.md](16-cast34-akreditace-zaverecna.md) — Část třetí (Akreditace, § 418a—418l) + Část čtvrtá (Společná, přechodná, závěrečná ustanovení, § 419—434).
+
+<!-- LEGAL-REVISION:BEGIN id=ba7adc4fd9f691b6707b generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 418 — Zrušení schváleného oddlužení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Insolvenční soud schválené oddlužení zruší a současně rozhodne o způsobu řešení dlužníkova úpadku konkursem, jestliže
+>
+> - a) dlužník neplní podstatné povinnosti podle schváleného způsobu oddlužení, nebo
+>
+> - b) v důsledku zaviněného jednání vznikl dlužníku po schválení oddlužení peněžitý závazek po dobu delší 30 dnů po lhůtě splatnosti, nebo
+>
+> - c) dlužník není v důsledku okolností, které zavinil, v důsledku nesplnění závazku třetí osoby poskytnout plnění ve prospěch majetkové podstaty, v rozporu se závazným příslibem podle § 391 odst. 3 nebo v důsledku zvýšení základní částky, která nesmí být při výkonu rozhodnutí povinnému sražena z měsíční mzdy, po dobu delší než 3 měsíce schopen splácet v plné výši ani pohledávky podle § 395 odst. 1 písm. b), jestliže vznikly po rozhodnutí o úpadku, anebo
+>
+> - d) to navrhne dlužník.
+>
+> (2) Má se za to, že dlužník zavinil vznik peněžitého závazku podle odstavce 1 písm. b), byl-li k jeho vymožení vůči dlužníku nařízen výkon rozhodnutí nebo exekuce.
+>
+> (3) Insolvenční soud nezruší schválené oddlužení z důvodu, pro který prodlouží průběh oddlužení podle § 412b odst. 6.
+>
+> (4) Insolvenční soud schválené oddlužení zruší a současně rozhodne o způsobu řešení dlužníkova úpadku konkursem také tehdy, vyjdou-li po schválení oddlužení najevo okolnosti, na jejichž základě lze důvodně předpokládat, že oddlužením je sledován nepoctivý záměr.
+>
+> (5) Insolvenční soud nerozhodne spolu se zrušením oddlužení o způsobu řešení dlužníkova úpadku konkursem, zjistí-li, že majetek dlužníka, aniž se přihlíží k věcem, právům a jiným majetkovým hodnotám vyloučeným z majetkové podstaty, je pro uspokojení věřitelů zcela nepostačující, ledaže
+>
+> - a) návrh na povolení oddlužení byl podán společně s insolvenčním návrhem,
+>
+> - b) dlužník požádal, aby byl způsobem řešení jeho úpadku konkurs, a
+>
+> - c) zaplatil zálohu na náklady insolvenčního řízení, stanovil-li mu soud povinnost k její úhradě podle § 108 odst. 2 a [[#§ 3|3.]]
+>
+> (6) Jestliže insolvenční soud nerozhodne o způsobu dlužníkova úpadku konkursem podle odstavce 5, insolvenční řízení zastaví; současně rozhodne o odměně insolvenčního správce a jeho nákladech a zprostí insolvenčního správce jeho funkce. Nebyla-li osobě podle § 390a odst. 1 písm. a) dosud vyplacena odměna za sepis a podání návrhu na povolení oddlužení anebo také insolvenčního návrhu podle § 390a odst. 3, insolvenční soud současně uloží dlužníkovi povinnost ji uhradit, byla-li uplatněna podle § 390a odst. 5.
+>
+> (7) Na základě upraveného seznamu pohledávek lze po zastavení insolvenčního řízení zahájeného na základě insolvenčního návrhu podaného věřitelem podat návrh na výkon rozhodnutí nebo exekuci pro zjištěnou neuspokojenou pohledávku, kterou dlužník nepopřel; toto právo se promlčí za 10 let od zastavení řízení podle odstavce 6.
+>
+> (8) Rozhodnutí podle odstavce 1 a [[#§ 4|4]] může insolvenční soud vydat, jen dokud nerozhodne o přiznání osvobození podle [[#§ 414|§ 414]]. Učiní tak po jednání, které insolvenční soud nařídí vždy, navrhl-li to insolvenční správce nebo věřitel nebo trvá-li na něm dlužník. Platí, že dlužník na jednání netrvá, jestliže se tak přes výzvu insolvenčního soudu nevyjádří do 10 dnů ode dne, kdy mu byla doručena. K tomuto jednání insolvenční soud předvolá dlužníka, insolvenčního správce, věřitelský výbor a věřitele, který zrušení oddlužení navrhl. Rozhodnutí podle odstavce 1 písm. a) až c) může insolvenční soud vydat i bez návrhu.
+>
+> (9) Proti rozhodnutí podle odstavce 1 a [[#§ 4|4]] mohou podat odvolání pouze osoby uvedené v odstavci 8. Proti rozhodnutí o zastavení řízení mohou podat odvolání osoby uvedené v odstavci 8 a přihlášení věřitelé; právní mocí rozhodnutí se insolvenční řízení končí.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 391, § 395, § 412b, § 108, § 3, § 390a, § 4, § 414
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ba7adc4fd9f691b6707b -->

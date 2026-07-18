@@ -76,6 +76,56 @@ Insolvenčním správcem může být jen osoba zapsaná v seznamu ministerstva (
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d706699c2f66ee497aa0 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 21
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Insolvenční správce se ustanovuje ze seznamu insolvenčních správců, který vede Ministerstvo spravedlnosti (dále jen „ministerstvo“).
+>
+> (2) Náležitosti seznamu insolvenčních správců, údaje do něj zapisované, jeho členění, vedení a podmínky zápisu do něj a vznik práva vykonávat činnost insolvenčního správce a hostujícího insolvenčního správce upravuje zvláštní právní předpis9a).
+>
+> (3) Insolvenčním správcem se pro účely tohoto zákona rozumí i hostující insolvenční správce.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d706699c2f66ee497aa0 -->
+
 ## § 22 — Odmítnutí ustanovení; ustanovení mimo seznam
 
 > (1) Osoba zapsaná do seznamu insolvenčních správců může své ustanovení insolvenčním správcem odmítnout, jen má-li pro to důležité důvody.
@@ -136,6 +186,54 @@ Odmítnutí ustanovení je přípustné jen z důležitých důvodů (typicky po
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3cc22d538ffe013dc396 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 22
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Osoba zapsaná do seznamu insolvenčních správců může své ustanovení insolvenčním správcem odmítnout, jen má-li pro to důležité důvody.
+>
+> (2) Nelze-li insolvenčního správce vybrat ze seznamu insolvenčních správců, je možné jím ustanovit i fyzickou osobu, která splňuje obecné a kvalifikační předpoklady pro zápis do seznamu insolvenčních správců a se svým ustanovením souhlasí.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3cc22d538ffe013dc396 -->
+
 ## § 23 — Pojištění odpovědnosti správce
 
 > Insolvenční správce uzavře na svůj náklad smlouvu o pojištění odpovědnosti za škodu, která by mohla vzniknout v souvislosti s výkonem jeho funkce nebo s činností jeho zaměstnanců pro celou dobu trvání jeho funkce.
@@ -193,6 +291,52 @@ Pojištění odpovědnosti je obligatorní po celou dobu funkce; jeho limit chr�
 **Typicky rozhodné důkazy / podklady:** pojistná smlouva a pojistné podmínky, doklad o úhradě pojistného, vyčíslení škody a její příčina, doklad o limitu dle § 14 zákona o IS.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=4b63b01ac1358c5bec9b generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 23
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Insolvenční správce uzavře na svůj náklad smlouvu o pojištění odpovědnosti za škodu, která by mohla vzniknout v souvislosti s výkonem jeho funkce nebo s činností jeho zaměstnanců pro celou dobu trvání jeho funkce.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4b63b01ac1358c5bec9b -->
 
 ## § 24 — Vyloučení správce z důvodu nepodjatosti a souběhu
 
@@ -270,6 +414,54 @@ Vyloučení správce nastává při objektivní pochybnosti o nepodjatosti i př
 **Typicky rozhodné důkazy / podklady:** oznámení v.o.s. o ohlášeném společníku, matriční/obchodní doklady o vztazích, přihlášky a jejich výše, údaje o souběžných sporech, výpis ze seznamu o případné dřívější funkci restrukturalizačního správce.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=2a39a2b5e87a850b075c generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 24
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Insolvenční správce je z insolvenčního řízení vyloučen, jestliže se zřetelem na jeho poměr k věci nebo k osobám účastníků je tu důvod pochybovat o jeho nepodjatosti; to neplatí v případě uvedeném v [[#§ 34|§ 34]]. Insolvenční správce je dále vyloučen, jestliže v posledních 3 letech před zahájením insolvenčního řízení vykonával podle zákona o preventivní restrukturalizaci funkci restrukturalizačního správce dlužníka nebo osoby tvořící s dlužníkem koncern. Jakmile se ustanovený insolvenční správce dozví, že jsou zde důvody pro jeho vyloučení, je povinen oznámit to neprodleně insolvenčnímu soudu.
+>
+> (2) Veřejná obchodní společnost, která je ustanovena insolvenčním správcem, oznámí insolvenčnímu soudu neprodleně, kdo z jejích společníků, prostřednictvím kterých vykonává činnost insolvenčního správce60), bude jejím jménem funkci insolvenčního správce vykonávat; odstavec 1 platí pro tohoto společníka obdobně.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 34
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2a39a2b5e87a850b075c -->
 
 ## § 25 — Pořadí ustanovování (rotační systém)
 
@@ -370,6 +562,66 @@ Rotační systém je obranou proti subjektivnímu výběru; prepack (odst. 1), z
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=844898d574ca536d1b97 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 25
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Insolvenčního správce pro insolvenční řízení ustanovuje insolvenční soud. Je-li s rozhodnutím o úpadku spojeno rozhodnutí o povolení reorganizace podle § 148 odst. 2 a je-li v předloženém reorganizačním plánu určena osoba insolvenčního správce, ustanoví insolvenční soud insolvenčním správcem tuto osobu; to neplatí, nesplňuje-li takto určený insolvenční správce podmínky uvedené v § 21 až 24 a odstavci 3. Ustanovení [[#§ 29|§ 29]] tím není dotčeno.
+>
+> (2) Nejde-li o případ podle odstavce 1, insolvenční soud ustanoví insolvenčním správcem osobu, kterou určí předseda insolvenčního soudu podle pořadí určeného dnem zápisu jejího sídla nebo provozovny do příslušné části seznamu insolvenčních správců vedené
+>
+> - a) pro obvod krajského soudu, který je insolvenčním soudem dlužníka, je-li v době určení podán návrh na prohlášení konkursu nebo není-li v době určení podán návrh na jiný způsob řešení úpadku a není-li dlužník osobou podle [[§ 3 odst. 2|§ 3 odst. 2]] zákona [[o insolvenčních správcích|o insolvenčních správcích]]9a),
+>
+> - b) pro obvod krajského soudu, který je insolvenčním soudem dlužníka, je-li v době určení podán návrh na povolení oddlužení.
+>
+> (3) Je-li v době určení podán návrh na povolení reorganizace nebo je-li dlužník osobou podle [[§ 3 odst. 2|§ 3 odst. 2]] zákona [[o insolvenčních správcích|o insolvenčních správcích]]9a) bez ohledu na způsob řešení úpadku, ustanoví insolvenční soud insolvenčním správcem osobu, kterou určí předseda insolvenčního soudu podle pořadí určeného dnem zápisu jejího sídla do zvláštní části seznamu insolvenčních správců.
+>
+> (4) Nebrání-li tomu jiné okolnosti, určí předseda insolvenčního soudu insolvenčním správcem dlužníků, kteří tvoří koncern, stejnou osobu. Obdobně se postupuje v případě dlužníků, kteří jsou manžely.
+>
+> (5) Nelze-li ustanovit osobu insolvenčního správce postupem podle odstavce 2 nebo je-li to nezbytné se zřetelem k dosavadnímu stavu insolvenčního řízení, k osobě dlužníka a k jeho majetkovým poměrům, jakož i k odborné způsobilosti insolvenčního správce, jeho dosavadní činnosti a k jeho zatížení, může předseda insolvenčního soudu určit insolvenčního správce mimo stanovené pořadí; takový postup vždy odůvodní.
+>
+> (6) Odstavce 2 a [[#§ 3|3]] se nepoužijí v případě určení osoby insolvenčního správce, který je hostujícím insolvenčním správcem. Předseda insolvenčního soudu určí pro insolvenční řízení osobu insolvenčního správce, který je hostujícím insolvenčním správcem, z příslušné části seznamu postupem, který je v souladu se zásadou dočasnosti nebo příležitostnosti, je-li to vhodné se zřetelem k dosavadnímu stavu insolvenčního řízení, k osobě dlužníka a k jeho majetkovým poměrům, jakož i k odborné způsobilosti osoby insolvenčního správce, který je hostujícím insolvenčním správcem.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 148, § 21, § 29, § 3
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=844898d574ca536d1b97 -->
+
 ## § 26 — Odvolání proti rozhodnutí o ustanovení správce
 
 > Proti rozhodnutí o ustanovení insolvenčního správce je odvolání přípustné. V odvolání lze však namítat pouze to, že ustanovený insolvenční správce nesplňuje podmínky pro ustanovení nebo že není nepodjatý. Ke skutečnostem, které nastaly nebo vznikly po vydání rozhodnutí soudu prvního stupně, se v odvolacím řízení nepřihlíží.
@@ -425,6 +677,52 @@ Odvolání proti ustanovení správce je úzce omezeno na nesplnění podmínek 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o ustanovení správce, obsah odvolání, doklady o době vzniku tvrzené podjatosti, případné podklady o kvalifikaci/povolení správce.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0a8869047228be10ca81 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 26
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Proti rozhodnutí o ustanovení insolvenčního správce je odvolání přípustné. V odvolání lze však namítat pouze to, že ustanovený insolvenční správce nesplňuje podmínky pro ustanovení nebo že není nepodjatý. Ke skutečnostem, které nastaly nebo vznikly po vydání rozhodnutí soudu prvního stupně, se v odvolacím řízení nepřihlíží.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0a8869047228be10ca81 -->
 
 ## § 27 — Okamžik ustanovení; předběžný správce
 
@@ -497,6 +795,56 @@ Správce se ustanovuje nejpozději v rozhodnutí o úpadku; předběžný správ
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a06bb8fe2d3b7def28d7 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 27
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Insolvenční soud ustanoví insolvenčního správce nejpozději v rozhodnutí o úpadku. Za podmínek stanovených tímto zákonem může insolvenční soud ustanovit před rozhodnutím o úpadku předběžného insolvenčního správce (dále jen „předběžný správce“); toto rozhodnutí se zveřejní stejným způsobem jako rozhodnutí o úpadku.
+>
+> (2) Předběžný správce vykonává před rozhodnutím o úpadku činnosti stanovené v tomto zákoně a uložené mu insolvenčním soudem a má práva a povinnosti, které mu tento soud vymezí. Tato práva a povinnosti nemůže insolvenční soud vymezit v širším rozsahu, než v jakém náleží insolvenčnímu správci po rozhodnutí o úpadku. Nestanoví-li insolvenční soud o osobě insolvenčního správce jinak v rozhodnutí o úpadku, stává se předběžný správce po tomto rozhodnutí insolvenčním správcem s plnou působností.
+>
+> (3) Ustanovení o insolvenčním správci platí přiměřeně i pro předběžného správce.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a06bb8fe2d3b7def28d7 -->
+
 ## § 28 — Změna v osobě insolvenčního správce
 
 > Za podmínek stanovených tímto zákonem rozhodují o změně v osobě insolvenčního správce i věřitelské orgány; pro jejich rozhodnutí platí § 21 až 24 a § 25 odst. 3 obdobně.
@@ -545,6 +893,52 @@ I při změně správce z vůle věřitelů platí stejné požadavky jako pro u
 **Typicky rozhodné důkazy / podklady:** zápis ze schůze věřitelů a výsledek hlasování, výpis ze seznamu k osobě nového správce (rozsah povolení), doklad o velikosti pasiv/charakteru dlužníka.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=495ccbacd43847534a79 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 28
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Za podmínek stanovených tímto zákonem rozhodují o změně v osobě insolvenčního správce i věřitelské orgány; pro jejich rozhodnutí platí § 21 až 24  a § 25 odst. 3 obdobně.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21, § 25
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=495ccbacd43847534a79 -->
 
 ## § 29 — Odvolání správce schůzí věřitelů
 
@@ -634,6 +1028,58 @@ Odvolání správce schůzí věřitelů vyžaduje vysoké kvórum počítané z
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=6ed594b780d13575771b generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 29
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Na schůzi věřitelů, která nejblíže následuje po přezkumném jednání, se mohou věřitelé usnést, že insolvenčním soudem ustanoveného insolvenčního správce odvolávají z funkce a že ustanovují nového insolvenčního správce. O odvolání insolvenčního správce, kterým byla v rámci reorganizace povolené podle § 148 odst. 2 insolvenčním soudem ustanovena osoba určená v předloženém reorganizačním plánu podle § 25 odst. 1, a o ustanovení nového insolvenčního správce se mohou věřitelé usnést také na schůzi věřitelů, která nejblíže následuje po přeměně reorganizace v konkurs. Toto usnesení je přijato, jestliže pro ně hlasovala nejméně polovina všech věřitelů přihlášených ke dni předcházejícímu konání schůze věřitelů, počítaná podle výše jejich pohledávek, kteří mají právo hlasovat. Je-li způsobem řešení úpadku oddlužení, je toto usnesení přijato, jestliže pro ně hlasovala nadpoloviční většina všech věřitelů přihlášených ke dni předcházejícímu konání schůze věřitelů, jejichž pohledávky počítané podle výše (§ 49 odst. 1) zároveň činí nadpoloviční většinu přihlášených pohledávek.
+>
+> (2) Usnesení o ustanovení insolvenčního správce podle odstavce 1 potvrzuje insolvenční soud; nepotvrdí je pouze tehdy, nesplňuje-li insolvenční správce podmínky uvedené v § 21 až 24 a § 25 odst. 3; § 54 odst. 1 se nepoužije.
+>
+> (3) Rozhodnutí podle odstavce 2 vydá insolvenční soud do skončení schůze věřitelů, která usnesení podle odstavce 1 přijala; odvolání je přípustné, jen jestliže insolvenční soud usnesení schůze věřitelů nepotvrdí. Osobou oprávněnou k podání odvolání je pouze věřitel, který na schůzi věřitelů hlasoval pro přijetí usnesení; § 55 odst. 1 platí obdobně.
+>
+> (4) Insolvenčnímu správci odvolanému postupem podle odstavce 1 insolvenční soud uloží, aby mu ve stanovené lhůtě podal zprávu o své činnosti, zejména o stavu majetku, který spravoval, a aby vyúčtoval odměnu, hotové výdaje a náklady, které mu vznikly v souvislosti se správou a udržováním majetku.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 148, § 25, § 49, § 21, § 54, § 55
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6ed594b780d13575771b -->
+
 ## § 30 — Odvolání bez ustanovení nového správce
 
 > (1) Přijme-li schůze věřitelů usnesení o odvolání ustanoveného insolvenčního správce, aniž se usnese na ustanovení insolvenčního správce nového, nebo byl-li touto schůzí ustanovený insolvenční správce odvolán z funkce podle § 31 odst. 2, ustanoví insolvenčního správce svým rozhodnutím insolvenční soud; pro takto ustanoveného insolvenčního správce se § 29 odst. 1 nepoužije.
@@ -681,6 +1127,54 @@ Ustanoví-li nového správce soud (protože věřitelé volbu neprovedli), je v
 **Typicky rozhodné důkazy / podklady:** zápisy ze schůzí věřitelů, rozhodnutí o odmítnutí přihlášky, přepočet hlasovacích poměrů před a po odmítnutí.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=799936994be4ab185bf5 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 30
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Přijme-li schůze věřitelů usnesení o odvolání ustanoveného insolvenčního správce, aniž se usnese na ustanovení insolvenčního správce nového, nebo byl-li touto schůzí ustanovený insolvenční správce odvolán z funkce podle § 31 odst. 2, ustanoví insolvenčního správce svým rozhodnutím insolvenční soud; pro takto ustanoveného insolvenčního správce se § 29 odst. 1 nepoužije.
+>
+> (2) Jestliže v důsledku rozhodnutí insolvenčního soudu o odmítnutí přihlášky pohledávky dojde k takové změně v osobách věřitelů nebo výši jejich pohledávek, která by měla vliv na výsledek usnesení schůze věřitelů podle odstavce 1, může usnesení podle § 29 odst. 1 přijmout i schůze věřitelů, která nejblíže následuje po této změně.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 31, § 29
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=799936994be4ab185bf5 -->
 
 ## § 31 — Odvolání správce soudem (bez porušení povinností)
 
@@ -780,6 +1274,64 @@ Důležitá kontinuita — odvolaný správce **musí předat veškeré doklady,
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=475d44833d4449eb698d generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 31 — Odvolání insolvenčního správce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Z důležitých důvodů, které nemají původ v porušení povinností insolvenčního správce, může insolvenční soud na návrh insolvenčního správce nebo věřitelského orgánu anebo i bez tohoto návrhu odvolat insolvenčního správce z funkce. Učiní tak zpravidla po slyšení insolvenčního správce; o podaném návrhu rozhodne neprodleně.
+>
+> (2) Insolvenčního správce ustanoveného postupem podle § 29 odst. 1 až 3 insolvenční soud odvolá z funkce i tehdy, požádá-li o to do 3 dnů poté, co se o svém ustanovení dozvěděl; to neplatí, jestliže insolvenční správce se svým ustanovením předem souhlasil.
+>
+> (3) Insolvenčního správce, kterému zaniklo ze zákona právo vykonávat činnost insolvenčního správce nebo mu bylo právo pozastaveno podle zákona [[o insolvenčních správcích|o insolvenčních správcích]]9a), může insolvenční soud na návrh insolvenčního správce, věřitelského orgánu nebo dlužníka anebo i bez tohoto návrhu odvolat z funkce. Pokud to okolnosti dovolují, učiní tak po slyšení insolvenčního správce; o podaném návrhu rozhodne neprodleně.
+>
+> (4) Insolvenčního správce, kterému bylo zrušeno povolení nebo kterému zaniklo jeho právo dočasně nebo příležitostně vykonávat činnost insolvenčního správce na základě rozhodnutí ministerstva podle zákona [[o insolvenčních správcích|o insolvenčních správcích]]9a), insolvenční soud odvolá z funkce. Insolvenčního správce ustanoveného postupem podle § 25 odst. 3 insolvenční soud odvolá z funkce i tehdy, bylo-li mu zrušeno zvláštní povolení nebo zaniklo-li jeho právo dočasně nebo příležitostně vykonávat činnost insolvenčního správce dlužníka podle [[§ 3 odst. 2|§ 3 odst. 2]] zákona [[o insolvenčních správcích|o insolvenčních správcích]]9a) na základě rozhodnutí ministerstva podle zákona [[o insolvenčních správcích|o insolvenčních správcích]]9a). Vyjde-li dodatečně najevo, že dlužník je osobou podle [[§ 3 odst. 2|§ 3 odst. 2]] zákona [[o insolvenčních správcích|o insolvenčních správcích]]9a) a insolvenční správce nebyl ustanoven postupem podle § 25 odst. 3, vyrozumí o tom insolvenční správce neprodleně insolvenční soud, který ho odvolá.
+>
+> (5) Odvolá-li insolvenční soud insolvenčního správce z funkce, ustanoví současně nového insolvenčního správce. Odvolání proti tomuto rozhodnutí je přípustné; proti výroku o ustanovení nového insolvenčního správce se však lze samostatně odvolat jen z důvodů uvedených v [[#§ 26|§ 26]].
+>
+> (6) Odvolaný insolvenční správce je povinen bez zbytečného odkladu řádně informovat nového insolvenčního správce o své dosavadní činnosti a předá mu všechny doklady souvisící s výkonem jeho funkce; jeho odpovědnost za dobu výkonu funkce nezaniká.
+>
+> (7) Ustanovení § 29 odst. 4 platí obdobně.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 29, § 25, § 3, § 26
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=475d44833d4449eb698d -->
+
 ## § 32 — Zproštění správce (sankční odvolání)
 
 > (1) Insolvenčního správce, který neplní řádně své povinnosti nebo který nepostupuje při výkonu své funkce s odbornou péčí anebo který závažně porušil důležitou povinnost, uloženou mu zákonem nebo soudem, může insolvenční soud na návrh věřitelského orgánu nebo dlužníka anebo i bez tohoto návrhu jeho funkce zprostit. Učiní tak zpravidla po slyšení insolvenčního správce; o podaném návrhu rozhodne neprodleně.
@@ -860,6 +1412,54 @@ Zproštění je sankční nástroj pro závažné selhání správce (neplnění
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1936f913076df8219529 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 32 — Zproštění insolvenčního správce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Insolvenčního správce, který neplní řádně své povinnosti nebo který nepostupuje při výkonu své funkce s odbornou péčí anebo který závažně porušil důležitou povinnost, uloženou mu zákonem nebo soudem, může insolvenční soud na návrh věřitelského orgánu nebo dlužníka anebo i bez tohoto návrhu jeho funkce zprostit. Učiní tak zpravidla po slyšení insolvenčního správce; o podaném návrhu rozhodne neprodleně.
+>
+> (2) Proti rozhodnutí podle odstavce 1 se mohou odvolat insolvenční správce a osoby oprávněné podat návrh podle odstavce 1. Ustanovení § 29 odst. 4 a § 31 odst. 5 a [[#§ 6|6]] platí obdobně.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 29, § 31, § 6
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1936f913076df8219529 -->
+
 ## § 33 — Zástupce insolvenčního správce
 
 > Je-li to účelné, může insolvenční soud ustanovit insolvenčnímu správci zástupce pro případ, že by ze závažných důvodů nemohl přechodně svou funkci vykonávat. Pro zástupce insolvenčního správce platí § 29 až 31 přiměřeně.
@@ -912,6 +1512,52 @@ Zástupce správce je preventivní institut pro přechodnou nemožnost výkonu f
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o způsobu řešení úpadku (zejm. reorganizace), harmonogram řízení, odůvodnění účelnosti, výpis ze seznamu k osobě zástupce.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8bab4f9376ec1821cdf3 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 33 — Zástupce insolvenčního správce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Je-li to účelné, může insolvenční soud ustanovit insolvenčnímu správci zástupce pro případ, že by ze závažných důvodů nemohl přechodně svou funkci vykonávat. Pro zástupce insolvenčního správce platí § 29 až 31 přiměřeně.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 29
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8bab4f9376ec1821cdf3 -->
 
 ## § 34 — Oddělený insolvenční správce
 
@@ -982,6 +1628,56 @@ Oddělený správce řeší dílčí podjatost: fakultativně u vztahu k jednomu
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=08dc0075f47ca496b8cb generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 34 — Oddělený insolvenční správce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Je-li insolvenční správce vyloučen z některých úkonů pro svůj poměr jen k některému z dlužníkových věřitelů nebo jen k některému ze zástupců dlužníkových věřitelů a není-li se zřetelem k charakteru pohledávky dlužníkova věřitele a jeho postavení v insolvenčním řízení důvod pochybovat, že tento vztah ovlivní celkový způsob výkonu práv a povinností insolvenčního správce, může insolvenční soud ustanovit pro tyto úkony odděleného insolvenčního správce.
+>
+> (2) Je-li insolvenční správce vyloučen z některých úkonů proto, že mohou odporovat společnému zájmu věřitelů v insolvenčním řízení, ve kterém byl rovněž ustanoven insolvenčním správcem, ustanoví insolvenční soud pro tyto úkony odděleného insolvenčního správce vždy.
+>
+> (3) Byl-li insolvenční správce odvolán postupem podle [[#§ 29|§ 29]] z funkce, insolvenční soud jej s jeho souhlasem ustanoví odděleným insolvenčním správcem k přezkumu pohledávky, kterou před svým odvoláním popřel, a k vedení s tím souvisejících incidenčních sporů a uplatňování majetkových práv vůči věřiteli, který hlasoval pro jeho odvolání z funkce, nestanoví-li insolvenční soud jinak.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 29
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=08dc0075f47ca496b8cb -->
+
 ## § 35 — Zvláštní insolvenční správce
 
 > (1) V případech, kdy je nutné v rámci insolvenčního řízení řešit zvláštní problematiku vyžadující odborné specializace, může insolvenční soud ustanovit i zvláštního insolvenčního správce a upravit jeho vztah k insolvenčnímu správci. Není-li dále stanoveno jinak, není důvodem pro ustanovení zvláštního insolvenčního správce činnost týkající se zpeněžení majetkové podstaty.
@@ -1041,6 +1737,56 @@ Zvláštní správce slouží specializaci, nikoli vyloučení; pro pouhé zpen�
 **Typicky rozhodné důkazy / podklady:** doklad o licenci/typu instituce (platební instituce, OCP), evidence klientských/svěřených prostředků, návrh na ustanovení a vymezení specializované problematiky.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=52b5257cdf4eb962d94c generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 35 — Zvláštní insolvenční správce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) V případech, kdy je nutné v rámci insolvenčního řízení řešit zvláštní problematiku vyžadující odborné specializace, může insolvenční soud ustanovit i zvláštního insolvenčního správce a upravit jeho vztah k insolvenčnímu správci. Není-li dále stanoveno jinak, není důvodem pro ustanovení zvláštního insolvenčního správce činnost týkající se zpeněžení majetkové podstaty.
+>
+> (2) Pro ustanovení do funkce, odměňování a zprošťování funkce zástupce insolvenčního správce, odděleného insolvenčního správce a zvláštního insolvenčního správce platí ustanovení o insolvenčním správci obdobně.
+>
+> (3) Zvláštního insolvenčního správce ustanoví soud pro výplatu nároku uživatelů platebních služeb nebo držitelů elektronických peněz postupem stanoveným [[zákonem upravujícím platební styk|zákonem upravujícím platební styk]], pro vydání svěřených prostředků postupem stanoveným zákonem upravujícím digitalizaci finančního trhu a pro vydání majetku zákazníka postupem stanoveným zákonem [[o podnikání na kapitálovém trhu|o podnikání na kapitálovém trhu]].
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=52b5257cdf4eb962d94c -->
 
 ## § 36 — Povinnosti insolvenčního správce
 
@@ -1153,6 +1899,64 @@ Detaily plnění povinností stanoví prováděcí předpis — **vyhláška č.
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8605783e09de7203eee0 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 36
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Insolvenční správce je povinen při výkonu funkce postupovat svědomitě a s odbornou péčí; je povinen vyvinout veškeré úsilí, které lze po něm spravedlivě požadovat, aby věřitelé byli uspokojeni v co nejvyšší míře. Společnému zájmu věřitelů je povinen dát při výkonu funkce přednost před zájmy vlastními i před zájmy jiných osob.
+>
+> (2) Insolvenční správce poskytuje věřitelským orgánům součinnost nezbytnou k řádnému výkonu jejich funkce; zejména se na žádost věřitelského orgánu účastní jeho jednání. Insolvenční správce předkládá věřitelskému orgánu a insolvenčnímu soudu nejméně jednou za 3 měsíce písemnou zprávu o stavu insolvenčního řízení, neurčí-li insolvenční soud jinou dobu předkládání nepřevyšující 12 kalendářních měsíců. Písemnou zprávu pro osvobození insolvenční správce předloží bez zbytečného odkladu po splnění předpokladů podle [[#§ 412a|§ 412a]], nejpozději však bez zbytečného odkladu po uplynutí doby oddlužení podle [[#§ 412a|§ 412a]], případně prodloužené o dobu přerušení nebo prodloužení průběhu oddlužení podle [[#§ 412b|§ 412b]].
+>
+> (3) Je-li způsobem řešení úpadku dlužníka oddlužení, předloží insolvenční správce neprodleně písemnou zprávu o stavu insolvenčního řízení v případě, lze-li důvodně předpokládat naplnění podmínek odůvodňujících prodloužení průběhu oddlužení podle § 412b odst. 6, zrušení schváleného oddlužení ([[#§ 418|§ 418]]) nebo jiných skutečností rozhodných pro průběh insolvenčního řízení (zejména § 407 odst. 3); v této zprávě insolvenční správce například uvede, zda doporučuje prodloužit průběh oddlužení nebo zrušit schválené oddlužení a z jakých důvodů. Po uplynutí každých 12 měsíců plnění schváleného oddlužení lze na základě skutečností uvedených ve zprávách o stavu insolvenčního řízení podaných v uvedené době navrhnout ve lhůtě dvou měsíců prodloužení průběhu oddlužení nebo zrušení schváleného oddlužení. K později podaným návrhům se nepřihlíží. Po uplynutí této lhůty insolvenční soud rozhodne o včas podaných návrzích bez zbytečného odkladu.
+>
+> (4) V písemné zprávě pro osvobození insolvenční správce uvede, zda dlužník řádně plnil všechny podstatné povinnosti podle tohoto zákona a zda doporučuje rozhodnout o osvobození podle [[#§ 414|§ 414]], prodloužit průběh oddlužení nebo zrušit schválené oddlužení a z jakých důvodů. Do uplynutí 2 měsíců od předložení zprávy pro osvobození lze navrhnout prodloužení průběhu oddlužení nebo zrušení schváleného oddlužení. K později podaným návrhům se nepřihlíží. Po uplynutí této lhůty insolvenční soud rozhodne o včas podaných návrzích bez zbytečného odkladu.
+>
+> (5) Insolvenční správce zřizuje v každém insolvenčním řízení zvláštní účet u banky nebo spořitelního a úvěrního družstva za účelem odděleného vedení majetku náležícího do majetkové podstaty.
+>
+> (6) Má-li být postižen majetek nebo příjmy dlužníka, který je ve výkonu trestu odnětí svobody nebo zabezpečovací detence, insolvenční správce o tom vyrozumí věznici nebo ústav pro výkon zabezpečovací detence, ve kterém dlužník trest odnětí svobody nebo zabezpečovací detenci vykonává; zároveň sdělí číslo účtu, na který má věznice nebo ústav pro výkon zabezpečovací detence zasílat peněžní prostředky, a uvede, v jaké výši má dlužník povinnost platit výživné pro děti, kterým je povinen poskytovat výživu a pohledávky za náhradní výživné podle jiného zákona. Insolvenční správce vyrozumí věznici nebo ústav pro výkon zabezpečovací detence též o vydání rozhodnutí, kterým se insolvenční řízení dlužníka končí nebo které má vliv na provádění srážek z peněz uložených na účtu věznice nebo ústavu pro výkon zabezpečovací detence vedený ve prospěch dlužníka podle jiného právního předpisu. Je-li dlužník ve výkonu trestu odnětí svobody nebo zabezpečovací detence, považují se peněžní prostředky zaslané po rozhodnutí o úpadku věznicí nebo ústavem pro výkon zabezpečovací detence podle zákona upravujícího výkon trestu odnětí svobody nebo zabezpečovací detence na účet určený insolvenčním správcem za příjem dlužníka, pokud insolvenční soud nestanoví jinak.
+>
+> (7) Obsah požadavků na plnění povinností insolvenčního správce podle odstavců 1 a [[#§ 2|2]], § 31 odst. 6, § 136 odst. 6, § 246 odst. 1, § 313 odst. 2, [[#§ 371|§ 371]], § 373 odst. 2, § 383 odst. 1, § 385 odst. 2 a § 430a odst. 1 stanoví prováděcí právní předpis.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 412a, § 412b, § 418, § 407, § 414, § 2, § 31, § 136, § 246, § 313, § 371, § 373, § 383, § 385, § 430a
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8605783e09de7203eee0 -->
+
 ## § 37 — Odpovědnost insolvenčního správce
 
 > (1) Insolvenční správce odpovídá za škodu nebo jinou újmu, kterou dlužníku, věřitelům nebo třetím osobám způsobil tím, že při výkonu své funkce porušil povinnosti, které jsou mu uloženy zákonem nebo rozhodnutím soudu, jakož i tím, že při jejím výkonu nepostupoval s odbornou péčí. Této odpovědnosti se insolvenční správce zprostí, jen když prokáže, že škodě nebo jiné újmě nemohl zabránit ani při vynaložení veškerého úsilí, které po něm bylo možné spravedlivě požadovat se zřetelem k průběhu insolvenčního řízení.
@@ -1250,6 +2054,58 @@ Správce nese kvázi-objektivní odpovědnost za škodu způsobenou porušením 
 **Typicky rozhodné důkazy / podklady:** smlouvy s externími osobami a dokumentace jejich úkonů, znalecké ocenění a doklady o výběru nabídek, vyčíslení škody/snížení uspokojení, pojistná smlouva správce.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=150daf3bfd3b60c646a5 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 37
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Insolvenční správce odpovídá za škodu nebo jinou újmu, kterou dlužníku, věřitelům nebo třetím osobám způsobil tím, že při výkonu své funkce porušil povinnosti, které jsou mu uloženy zákonem nebo rozhodnutím soudu, jakož i tím, že při jejím výkonu nepostupoval s odbornou péčí. Této odpovědnosti se insolvenční správce zprostí, jen když prokáže, že škodě nebo jiné újmě nemohl zabránit ani při vynaložení veškerého úsilí, které po něm bylo možné spravedlivě požadovat se zřetelem k průběhu insolvenčního řízení.
+>
+> (2) Podle odstavce 1 insolvenční správce odpovídá i za škodu nebo jinou újmu způsobenou osobami uvedenými v § 40 odst. 2, kterých použil při výkonu své funkce. To platí i pro zaměstnance dlužníka, působící v rozsahu své dosavadní činnosti, nebo pro jiné osoby ve smluvním vztahu s dlužníkem.
+>
+> (3) Insolvenční správce odpovídá za škodu nebo jinou újmu, která věřiteli s pohledávkou za majetkovou podstatou vznikla tím, že nemohla být uspokojena jeho pohledávka vzniklá na základě právního úkonu insolvenčního správce; této odpovědnosti se insolvenční správce zprostí, jen když prokáže, že v době, kdy tento právní úkon činil, nemohl poznat, že majetková podstata nebude stačit k úhradě jím vzniklé pohledávky za majetkovou podstatou.
+>
+> (4) Právo na náhradu škody nebo jiné újmy proti insolvenčnímu správci se promlčí do 2 let poté, kdy se poškozený dozvěděl o výši škody a odpovědnosti insolvenčního správce, nejpozději však do 3 let, a jde-li o škodu způsobenou úmyslným trestným činem, za který byl insolvenční správce pravomocně odsouzen, nejpozději do 10 let od skončení insolvenčního řízení.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 40
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=150daf3bfd3b60c646a5 -->
 
 ## § 38 — Odměna a hotové výdaje správce
 
@@ -1361,6 +2217,66 @@ Správce má nárok na odměnu (v konkursu z výtěžku a z počtu přezkoumaný
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=47384c4b2b4018e8e735 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 38
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Insolvenční správce má právo na odměnu a náhradu hotových výdajů. V případě konkursu se výše odměny určí z počtu přezkoumaných přihlášek pohledávek a z výtěžku zpeněžení určeného k rozdělení mezi věřitele. Je-li insolvenční správce plátcem daně z přidané hodnoty, náleží mu k odměně a k náhradě hotových výdajů částka odpovídající této dani, kterou je insolvenční správce povinen z odměny a z náhrady hotových výdajů odvést podle zvláštního právního předpisu10).
+>
+> (2) Odměna a náhrada hotových výdajů insolvenčního správce se uspokojují z majetkové podstaty, a pokud k tomu nestačí, ze zálohy na náklady insolvenčního řízení; není-li jejich uspokojení z těchto zdrojů možné, hradí je stát, nejvýše však 50 000 Kč na odměně insolvenčního správce a 50 000 Kč na náhradě hotových výdajů insolvenčního správce.
+>
+> (3) Vyúčtování odměny a hotových výdajů provede insolvenční správce v konečné zprávě, a není-li jí, ve zprávě o své činnosti. Insolvenční soud může podle okolností případu po projednání s věřitelským výborem odměnu insolvenčního správce přiměřeně zvýšit nebo snížit. Důvodem ke snížení odměny je zejména skutečnost, že insolvenční správce porušil některou ze svých povinností nebo že nenavrhl provedení částečného rozvrhu, ačkoliv to stav zpeněžení majetkové podstaty umožňoval.
+>
+> (4) Insolvenční soud může v průběhu insolvenčního řízení rozhodnout o vyplacení zálohy odměny a hotových výdajů insolvenčnímu správci, a to i opětovně.
+>
+> (5) Insolvenční správce odvolaný z funkce nebo zproštěný funkce v průběhu insolvenčního řízení provede vyúčtování odměny a hotových výdajů ve zprávě o své činnosti; pro projednání této zprávy platí přiměřeně [[#§ 304|§ 304]]. Umožňuje-li to stav insolvenčního řízení, rozhodne insolvenční soud o schválení této zprávy již v jeho průběhu; jde-li o hotové výdaje insolvenčního správce, náklady spojené s udržováním a správou majetkové podstaty a vyúčtování vyplacených záloh, učiní tak bez zbytečného odkladu po projednání zprávy. Proti rozhodnutí o schválení takové zprávy mohou podat odvolání insolvenční správce, který zprávu podal, ustanovený insolvenční správce a věřitelé a dlužník, jejichž námitkám proti této zprávě nebylo vyhověno.
+>
+> (6) Je-li způsobem řešení úpadku oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty, insolvenční správce uloží z měsíčních splátek částku odpovídající jeho odměně a náhradě hotových výdajů za dobu 6 měsíců jako zálohu na úhradu své odměny a náhrady hotových výdajů náležící za období plnění splátkového kalendáře na zvláštní účet podle § 36 odst. 5.
+>
+> (7) Je-li způsobem řešení úpadku oddlužení a hradí-li odměnu a hotové výdaje insolvenčního správce stát, uloží insolvenční soud dlužníku v rozhodnutí, kterým se insolvenční řízení končí, povinnost nahradit státu částku vyplacenou insolvenčnímu správci. Při správě placení této náhrady se postupuje podle daňového řádu.
+>
+> (8) Způsob určení odměny, některých hotových výdajů insolvenčního správce a způsob jejich úhrady státem stanoví prováděcí právní předpis.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 304, § 36
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=47384c4b2b4018e8e735 -->
+
 ## § 39 — Náklady správce; záloha věřitelů
 
 > (1) Věřitelé jsou oprávněni se souhlasem insolvenčního soudu na základě rozhodnutí věřitelského výboru poskytnout insolvenčnímu správci zálohu k úhradě jeho výdajů, a to i opětovně. Při poskytnutí zálohy se určí podmínky jejího vyúčtování; určit lze též účel, na který má být záloha vynaložena.
@@ -1429,6 +2345,56 @@ Rutinní činnosti správce jsou zahrnuty v odměně a nese je ze svého; nákla
 **Typicky rozhodné důkazy / podklady:** mandátní/příkazní smlouvy s odborníky, rozhodnutí věřitelského výboru o předchozím schválení, odůvodnění účelnosti (poměr nákladů a přínosu pro podstatu), doklady o věřitelské záloze.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1d7d3e9ee354e6c21193 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 39
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Věřitelé jsou oprávněni se souhlasem insolvenčního soudu na základě rozhodnutí věřitelského výboru poskytnout insolvenčnímu správci zálohu k úhradě jeho výdajů, a to i opětovně. Při poskytnutí zálohy se určí podmínky jejího vyúčtování; určit lze též účel, na který má být záloha vynaložena.
+>
+> (2) Náklady na činnosti, ke kterým je insolvenční správce povinen podle zákona nebo podle rozhodnutí insolvenčního soudu, jsou zahrnuty v jeho odměně a nese je ze svého. Výjimečně lze splnění těchto činností jinými osobami podle § 40 odst. 2 hradit z majetkové podstaty se souhlasem insolvenčního soudu a věřitelského výboru.
+>
+> (3) Náklady insolvenčního správce spojené s využitím právních, ekonomických a jiných specializovaných odborníků lze hradit z majetkové podstaty, jen je-li jejich využití účelné vzhledem k rozsahu a náročnosti insolvenčního řízení a jsou-li předem schváleny věřitelským výborem.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 40
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1d7d3e9ee354e6c21193 -->
 
 ## § 40 — Osobní výkon funkce, jednání
 
@@ -1513,6 +2479,60 @@ Správce jedná vlastním jménem na účet dlužníka a musí být označen tak
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=38c28fea3d0a562b5136 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 40
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Insolvenční správce vykonává svou funkci osobně. Veřejná obchodní společnost vykonává funkci insolvenčního správce ohlášeným společníkem podle § 24 odst. 2.
+>
+> (2) Insolvenční správce může svou funkci vykonávat také prostřednictvím svého zaměstnance nebo zaměstnance dlužníka. Ve zvlášť odůvodněných případech může svou funkci vykonávat prostřednictvím jiných osob, zejména právních, ekonomických a jiných specializovaných odborníků; tím nejsou dotčeny jeho povinnosti ani odpovědnost podle tohoto zákona.
+>
+> (3) Insolvenční správce jedná svým jménem na účet dlužníka, pokud na něho přešlo oprávnění nakládat s majetkovou podstatou. Označuje se způsobem, z něhož je patrno, že tak činí při výkonu funkce insolvenčního správce; součástí jeho označení je i nezaměnitelné označení dlužníka, s jehož majetkovou podstatou nakládá.
+>
+> (4) Jednáním podle odstavce 3 jsou zejména právní úkony, jimiž insolvenční správce zpeněžuje majetkovou podstatu nebo s ní jinak nakládá, a jeho úkony v incidenčních sporech, jakož i v dalších sporech, kterých se účastní místo dlužníka.
+>
+> (5) Insolvenční správce může pověřit svého zaměstnance i zaměstnance dlužníka, aby za něho jednal v jiných soudních a dalších řízeních; tím není dotčena jeho odpovědnost podle tohoto zákona.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 24
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=38c28fea3d0a562b5136 -->
+
 ## § 40a — Vyloučení exekuce na majetek správce
 
 > Na základě rozhodnutí a jiných exekučních titulů vzniklých v průběhu insolvenčního řízení proti insolvenčnímu správci pro pohledávky nebo jiná práva, která se týkají majetkové podstaty nebo která mají být uspokojena z majetkové podstaty, nelze vést výkon rozhodnutí na majetek insolvenčního správce; to neplatí, jde-li o pořádková opatření uložená insolvenčnímu správci v souvislosti s takovými řízeními, a o rozhodnutí, jimiž bylo insolvenčnímu správci uloženo nahradit náklady řízení, které způsobil svým zaviněním nebo které vznikly náhodou, která se mu přihodila.
@@ -1570,6 +2590,52 @@ Pro pohledávky týkající se majetkové podstaty nelze vést exekuci na osobn�
 **Typicky rozhodné důkazy / podklady:** exekuční titul a jeho odůvodnění (právní důvod pohledávky), doklady o vzniku pohledávky z úkonu správce při výkonu funkce, případně rozhodnutí o pořádkové pokutě či o nákladech zaviněných správcem.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=cb82ec35944d5bef91f5 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 40a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Na základě rozhodnutí a jiných exekučních titulů vzniklých v průběhu insolvenčního řízení proti insolvenčnímu správci pro pohledávky nebo jiná práva, která se týkají majetkové podstaty nebo která mají být uspokojena z majetkové podstaty, nelze vést výkon rozhodnutí na majetek insolvenčního správce; to neplatí, jde-li o pořádková opatření uložená insolvenčnímu správci v souvislosti s takovými řízeními, a o rozhodnutí, jimiž bylo insolvenčnímu správci uloženo nahradit náklady řízení, které způsobil svým zaviněním nebo které vznikly náhodou, která se mu přihodila.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cb82ec35944d5bef91f5 -->
 
 ## § 41 — § 42 — Úvěrové financování
 
@@ -1684,6 +2750,104 @@ V ČR je úvěrové financování v insolvenci stále poměrně **vzácné** —
 **Typicky rozhodné důkazy / podklady:** reorganizační plán, srovnatelné nabídky financování, zástavní smlouvy dosavadních věřitelů, smlouva o úvěrovém financování s vymezením účelu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=69a8651db4cd5e1341f7 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 41
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Insolvenční správce může pro udržení nebo obnovení provozu podniku, který je součástí majetkové podstaty, uzavřít za obvyklých obchodních podmínek smlouvy o úvěru a smlouvy obdobné, jakož i smlouvy na dodávky energií11) a surovin, včetně smluv o zajištění splnění těchto smluv (dále jen „úvěrové financování“).
+>
+> (2) Nenabídnou-li horší podmínky než nejlepší nabídka, mají dosavadní zajištění věřitelé přednostní právo, aby smlouvy podle odstavce 1 byly uzavřeny s nimi; to platí obdobně pro věřitele ze smluv na dodávky energií a surovin podle odstavce 1.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=69a8651db4cd5e1341f7 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=708032fefb7973e3bad2 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 42
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Majetek získaný z prostředků poskytnutých v rámci úvěrového financování není předmětem zajištění podle dříve uzavřených smluv.
+>
+> (2) Prostředky získané z úvěrového financování lze použít jen k účelu uvedenému ve smlouvách o úvěrovém financování.
+>
+> (3) K uzavření smluv o úvěrovém financování je oprávněn také dlužník s dispozičními oprávněními nebo dlužník po dobu trvání moratoria.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=708032fefb7973e3bad2 -->
 
 ## § 43 — § 44 — Součinnost orgánů a osob
 
@@ -1816,6 +2980,128 @@ Vyjmenované orgány a osoby (banky, ČSSZ, katastr, pošta aj.) jsou povinny po
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ef360cba4b948b9f26b2 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 43
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Orgány veřejné správy, zejména katastrální úřady, orgány evidující motorová vozidla a jiné správní úřady, jakož i notáři, soudní exekutoři, osoby vedoucí evidenci cenných papírů, finanční instituce, poskytovatelé úvěru, provozovatelé telekomunikačních služeb, provozovatelé poštovních služeb a jiné osoby, které se zabývají přepravou zásilek, vydavatelé tisku a dopravci, jakož i zaměstnavatelé dlužníka, kteří byli s dlužníkem v základním pracovněprávním vztahu v době 12 měsíců před zahájením insolvenčního řízení nebo v době trvání účinků spojených se zahájením insolvenčního řízení do přiznání osvobození podle [[#§ 414|§ 414]], poskytnou insolvenčnímu správci na jeho písemnou žádost bez zbytečného odkladu součinnost dále uvedeným způsobem.
+>
+> (2) Součinnost podle odstavce 1 spočívá v tom, že orgány a osoby v něm uvedené poskytují insolvenčnímu správci údaje o majetku dlužníka a některé další údaje, které jsou nutné pro výkon správy, a to ve stejném rozsahu, v jakém by je poskytly přímo dlužníku. Tato součinnost spočívá také v tom, že uvedené orgány a osoby, které mají u sebe listiny nebo jiné věci, které mohou sloužit ke zjištění dlužníkova majetku, je bez zbytečného odkladu po doručení žádosti vydají nebo zapůjčí insolvenčnímu správci. Jde-li o údaje vedené v elektronické podobě, splní orgány a osoby uvedené v odstavci 1 povinnost poskytnout součinnost tím, že k nim insolvenčnímu správci umožní dálkový přístup. Součinnost se poskytuje bezplatně; nejde-li o orgány veřejné správy, přísluší tomu, kdo součinnost poskytl, právo na náhradu s tím spojených hotových výdajů.
+>
+> (3) Soudní exekutor pověřený provedením exekuce v řízení, kde je povinným dlužník, poskytne insolvenčnímu správci součinnost podle odstavce 1 také tak, že na jeho písemnou žádost poskytne insolvenčnímu správci údaje o majetku a závazcích a o jiných zjištěních k hospodářské situaci dlužníka získané v exekučním řízení. Na písemnou žádost vydá nebo zapůjčí insolvenčnímu správci také znalecký posudek vypracovaný k ocenění majetku dlužníka nebo jeho části. Náklady na vypracování znaleckého posudku jsou pohledávkou postavenou na roveň pohledávkám za majetkovou podstatou, jestliže nebyly v exekučním řízení uhrazeny.
+>
+> (4) Povinnost orgánů a osob uvedených v odstavci 1 poskytnout insolvenčnímu správci součinnost podle jiných ustanovení tohoto zákona, případně podle ustanovení zvláštního právního předpisu, tím není dotčena.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 414
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ef360cba4b948b9f26b2 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=762d6dab76784d22e759 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 44
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Součinnost podle [[#§ 43|§ 43]] se poskytuje zejména tak, že
+>
+> - a) orgány sociálního zabezpečení sdělí insolvenčnímu správci údaje o příjmech dlužníka náležejících za dobu 36 měsíců před zahájením insolvenčního řízení a za dobu trvání účinků spojených se zahájením insolvenčního řízení do přiznání osvobození podle [[#§ 414|§ 414]],
+>
+> - b) osoby vedoucí evidenci cenných papírů sdělí insolvenčnímu správci údaje o tam evidovaných cenných papírech, které náleží do majetku dlužníka,
+>
+> - c) banky, spořitelní a úvěrní družstva a pobočky zahraničních bank sdělí insolvenčnímu správci čísla dlužníkových účtů, informují jej o stavech těchto účtů a pohybech peněžních prostředků na nich a podají mu informace o dlužníkových úschovách a vkladních knížkách,
+>
+> - d) poskytovatelé úvěru sdělí insolvenčnímu správci údaje o příjmech dlužníka zjištěné při posouzení jeho schopnosti splácet úvěr,
+>
+> - e) provozovatelé poštovních služeb a jiné osoby, které se zabývají přepravou zásilek, informují insolvenčního správce o dlužníkových doručovacích místech, rozsahu a povaze doručovaných zásilek a úhrnu peněžních prostředků, které dlužník přijímá jejich prostřednictvím,
+>
+> - f) poskytovatelé služeb elektronických komunikací oznámí insolvenčnímu správci údaje o dlužníkových telefonních, dálnopisných, telefaxových a jiných elektronických stanicích a adresách, které nejsou uvedeny v dostupných seznamech,
+>
+> - g) pojišťovny sdělí insolvenčnímu správci údaje o dlužníkových pojistných smlouvách a pojistných plněních,
+>
+> - h) vydavatelé tisku sdělí insolvenčnímu správci údaje o inzerci, která se týká majetkové podstaty,
+>
+> - i) dopravci sdělí insolvenčnímu správci údaje o přepravovaných dlužníkových věcech a jejich příjemci,
+>
+> - j) zaměstnavatelé sdělí insolvenčnímu správci údaje o příjmech dlužníka za dobu podle § 43 odst. 1.
+>
+> (2) Na žádost orgánů a osob, od nichž vyžaduje součinnost, insolvenční správce doloží své ustanovení do funkce rozhodnutím insolvenčního soudu.
+>
+> (3) Osoby a orgány, které jsou povinny poskytnout insolvenčnímu soudu nebo insolvenčnímu správci součinnost, odpovídají za škodu nebo jinou újmu, kterou způsobily, v případě, že tuto součinnost neposkytnou řádně a včas.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 43, § 414
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=762d6dab76784d22e759 -->
+
 ## § 45 — Mlčenlivost správce
 
 > Insolvenční správce zachovává mlčenlivost o skutečnostech, o kterých zvláštní právní předpis stanoví povinnost mlčenlivosti, pokud se o nich dozvěděl při výkonu své funkce, a to i po jejím skončení; této mlčenlivosti jej v rozsahu výkonu této funkce může zprostit ten, v jehož zájmu ji má, nebo insolvenční soud. Totéž platí pro osoby, prostřednictvím kterých insolvenční správce vykonává svou funkci.
@@ -1887,3 +3173,48 @@ Správce je vázán mlčenlivostí o skutečnostech chráněných zvláštním z
 ---
 
 **Pokračování:** [04-cast1-hlava2-dily4-5-veritele-sz.md](04-cast1-hlava2-dily4-5-veritele-sz.md) — § 46 až § 70 (Věřitelské orgány — schůze věřitelů a věřitelský výbor; státní zastupitelství; likvidátor dlužníka).
+
+<!-- LEGAL-REVISION:BEGIN id=0cc947c5047439da65a0 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 45
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Insolvenční správce zachovává mlčenlivost o skutečnostech, o kterých zvláštní právní předpis stanoví povinnost mlčenlivosti, pokud se o nich dozvěděl při výkonu své funkce, a to i po jejím skončení; této mlčenlivosti jej v rozsahu výkonu této funkce může zprostit ten, v jehož zájmu ji má, nebo insolvenční soud. Totéž platí pro osoby, prostřednictvím kterých insolvenční správce vykonává svou funkci.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0cc947c5047439da65a0 -->

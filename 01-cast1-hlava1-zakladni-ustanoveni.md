@@ -74,6 +74,56 @@ Paragraf 1 vymezuje účel a předmět zákona: IZ se použije jen na *soudní* 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=cc3b774aa9909f0c3714 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 1 — Předmět úpravy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Tento zákon zapracovává příslušné předpisy Evropské unie75) a upravuje
+>
+> - a) řešení úpadku a hrozícího úpadku dlužníka soudním řízením některým ze stanovených způsobů tak, aby došlo k uspořádání majetkových vztahů k osobám dotčeným dlužníkovým úpadkem nebo hrozícím úpadkem a k co nejvyššímu a zásadně poměrnému uspokojení dlužníkových věřitelů,
+>
+> - b) oddlužení dlužníka.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cc3b774aa9909f0c3714 -->
+
 ## § 2 — Vymezení některých základních pojmů
 
 Paragraf 2 obsahuje **legislativní legendu** — definice klíčových pojmů, které zákon dále používá. Definice jsou výlučné pro účely IZ (formulace „pro účely tohoto zákona se rozumí"). Mimo IZ mohou mít tytéž pojmy odlišný obsah (typicky „věřitel" v občanském zákoníku má širší obsah než „věřitel" v IZ — viz omezení v § 165).
@@ -153,6 +203,74 @@ Paragraf 2 je legislativní legenda — definice platí jen pro účely IZ. Klí
 **Typicky rozhodné důkazy / podklady:** zajišťovací smlouvy a tituly (zástavní smlouva, výpis z katastru/rejstříku zástav), ručitelská prohlášení, směnky, přihláška pohledávky, soupis majetkové podstaty.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9a268dc0a74445946d08 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 2 — Vymezení některých základních pojmů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Pro účely tohoto zákona se rozumí
+>
+> - a) insolvenčním řízením soudní řízení, jehož předmětem je dlužníkův úpadek nebo hrozící úpadek a způsob jeho řešení,
+>
+> - b) insolvenčním soudem soud, před nímž probíhá insolvenční řízení, jakož i soud, který rozhoduje o opravném prostředku v insolvenčním řízení,
+>
+> - c) insolvenčním návrhem u insolvenčního soudu podaný návrh na zahájení insolvenčního řízení,
+>
+> - d) incidenčním sporem spory vyvolané insolvenčním řízením, o kterých tak stanoví tento zákon, projednávané v rámci insolvenčního řízení,
+>
+> - e) majetkovou podstatou majetek určený k uspokojení dlužníkových věřitelů,
+>
+> - f) osobou s dispozičními oprávněními osoba, které v průběhu insolvenčního řízení přísluší právo nakládat s majetkovou podstatou ohledně všech oprávnění, ze kterých se skládá,
+>
+> - g) zajištěným věřitelem věřitel, jehož pohledávka je zajištěna majetkem, který náleží do majetkové podstaty, a to jen zástavním právem, zadržovacím právem, omezením převodu nemovitosti, zajišťovacím převodem práva nebo postoupením pohledávky k zajištění anebo obdobným právem podle zahraniční právní úpravy; zajištěným věřitelem je i agent pro zajištění podle zákona [[o dluhopisech|o dluhopisech]],
+>
+> - h) přihláškou pohledávky procesní úkon, kterým věřitel uplatňuje uspokojení svých práv v insolvenčním řízení,
+>
+> - i) insolvenčním rejstříkem informační systém, který obsahuje údaje podle tohoto zákona,
+>
+> - j) společným zájmem věřitelů zájem nadřazený jejich jednotlivým zájmům, je-li jeho cílem, aby zvolený způsob řešení úpadku byl pro ně spravedlivý a výnosnější než ostatní způsoby řešení úpadku; tím není dotčeno zákonem zaručené zvláštní postavení některých věřitelů,
+>
+> - k) finanční institucí banka, spořitelní a úvěrní družstvo, obchodník s cennými papíry, který je investičním podnikem podle čl. 4 odstavce 1 bodu 2 nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]] o obezřetnostních požadavcích na úvěrové instituce a investiční podniky (dále jen „obchodník s cennými papíry“), pojišťovna a zajišťovna, a za dále stanovených podmínek tohoto zákona i některé další osoby.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9a268dc0a74445946d08 -->
 
 ## § 3 — Úpadek
 
@@ -277,6 +395,78 @@ Paragraf 3 je definičním jádrem zákona: úpadek je dán *buď* platební nes
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c0a18799e6e43bc8457d generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 3 — Úpadek
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Dlužník je v úpadku, jestliže má
+>
+> - a) více věřitelů a
+>
+> - b) peněžité závazky po dobu delší 30 dnů po lhůtě splatnosti a
+>
+> - c) tyto závazky není schopen plnit
+>
+> (dále jen „platební neschopnost“).
+>
+> (2) Má se za to, že dlužník není schopen plnit své peněžité závazky, jestliže
+>
+> - a) zastavil platby podstatné části svých peněžitých závazků, nebo
+>
+> - b) je neplní po dobu delší 3 měsíců po lhůtě splatnosti, nebo
+>
+> - c) není možné dosáhnout uspokojení některé ze splatných peněžitých pohledávek vůči dlužníku výkonem rozhodnutí nebo exekucí, nebo
+>
+> - d) nesplnil povinnost předložit seznamy uvedené v § 104 odst. 1, kterou mu uložil insolvenční soud.
+>
+> (3) Má se za to, že dlužník, který je podnikatelem a vede účetnictví, je schopen plnit své peněžité závazky, jestliže rozdíl mezi výší jeho splatných peněžitých závazků a výší jeho disponibilních prostředků (dále jen „mezera krytí“) stanovený ve výkazu stavu likvidity podle prováděcího právního předpisu představuje méně než desetinu výše jeho splatných peněžitých závazků, anebo pokud výhled vývoje likvidity sestavený podle prováděcího právního předpisu osvědčuje, že mezera krytí klesne v období, na které se výhled vývoje likvidity sestavuje, pod jednu desetinu výše jeho splatných peněžitých závazků. Výkaz stavu likvidity anebo výhled vývoje likvidity musí být sestavené v souladu s požadavky, které stanoví prováděcí právní předpis, auditorem, znalcem nebo osobou, která se zabývá ekonomickým poradenstvím v oblasti insolvencí a restrukturalizací a splňuje požadavky stanovené prováděcím právním předpisem.
+>
+> (4) Dlužník, který je právnickou osobou nebo fyzickou osobou - podnikatelem, je v úpadku i tehdy, je-li předlužen. O předlužení jde tehdy, má-li dlužník více věřitelů a souhrn jeho závazků převyšuje hodnotu jeho majetku. Při stanovení hodnoty dlužníkova majetku se přihlíží také k další správě jeho majetku, případně k dalšímu provozování jeho podniku, lze-li se zřetelem ke všem okolnostem důvodně předpokládat, že dlužník bude moci ve správě majetku nebo v provozu podniku pokračovat.
+>
+> (5) O hrozící úpadek jde tehdy, lze-li se zřetelem ke všem okolnostem důvodně předpokládat, že dlužník nebude schopen řádně a včas splnit podstatnou část svých peněžitých závazků.
+>
+> (6) Obsah, rozsah a způsob sestavování výkazu stavu likvidity a výhledu vývoje likvidity a uspořádání, označování a obsahové vymezení jednotlivých položek majetku, závazků, nákladů, výnosů, příjmů a výdajů ve výkazu stavu likvidity a výhledu vývoje likvidity, délku období, na které se sestavuje výhled vývoje likvidity, a požadavky na osoby, které jsou oprávněny k sestavení výkazu stavu likvidity anebo výhledu vývoje likvidity, stanoví prováděcí právní předpis.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 104
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c0a18799e6e43bc8457d -->
+
 ## § 4 — Způsob řešení úpadku
 
 > (1) Způsobem řešení úpadku nebo hrozícího úpadku dlužníka v insolvenčním řízení (dále jen „způsob řešení úpadku") se rozumí
@@ -353,6 +543,68 @@ Paragraf 4 vymezuje taxativně čtyři způsoby řešení úpadku a určuje, kte
 **Typicky rozhodné důkazy / podklady:** účetní výkazy (obrat), evidence zaměstnanců, reorganizační plán a souhlasy věřitelů, znalecký posudek o provozuschopnosti / srovnání s konkursem (§ 348).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=92dbb0da62a569c8655c generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 4 — Způsob řešení úpadku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Způsobem řešení úpadku nebo hrozícího úpadku dlužníka v insolvenčním řízení (dále jen „způsob řešení úpadku“) se rozumí
+>
+> - a) konkurs,
+>
+> - b) reorganizace,
+>
+> - c) oddlužení a
+>
+> - d) zvláštní způsoby řešení úpadku, které tento zákon stanoví pro určité subjekty nebo pro určité druhy případů.
+>
+> (2) Rozhodnutím insolvenčního soudu o způsobu řešení úpadku se rozumí,
+>
+> - a) jde-li o konkurs nebo o některý ze zvláštních způsobů řešení úpadku, rozhodnutí o prohlášení konkursu na majetek dlužníka (dále jen „rozhodnutí o prohlášení konkursu“),
+>
+> - b) jde-li o reorganizaci, rozhodnutí o povolení reorganizace a
+>
+> - c) jde-li o oddlužení, rozhodnutí o povolení oddlužení.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=92dbb0da62a569c8655c -->
 
 ## § 5 — Zásady insolvenčního řízení
 
@@ -431,6 +683,60 @@ Paragraf 5 obsahuje čtyři zásady s přímou normativní (interpretační) pov
 *Systematický výklad všech zásad insolvenčního řízení s judikatorním vymezením z místních zdrojů podává [ZASADY.md](ZASADY.md); normativní rozbor příkazů, zákazů a dovolení v IZ viz [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md).*
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8482fcebeb472b870804 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 5 — Zásady insolvenčního řízení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Insolvenční řízení spočívá zejména na těchto zásadách:
+>
+> - a) insolvenční řízení musí být vedeno tak, aby žádný z účastníků nebyl nespravedlivě poškozen nebo nedovoleně zvýhodněn a aby se dosáhlo rychlého, hospodárného a co nejvyššího uspokojení věřitelů;
+>
+> - b) věřitelé, kteří mají podle tohoto zákona zásadně stejné nebo obdobné postavení, mají v insolvenčním řízení rovné možnosti;
+>
+> - c) nestanoví-li tento zákon jinak, nelze práva věřitele nabytá v dobré víře před zahájením insolvenčního řízení omezit rozhodnutím insolvenčního soudu ani postupem insolvenčního správce;
+>
+> - d) věřitelé jsou povinni zdržet se jednání, směřujícího k uspokojení jejich pohledávek mimo insolvenční řízení, ledaže to dovoluje zákon.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8482fcebeb472b870804 -->
 
 ## § 6 — Výjimky z působnosti zákona
 
@@ -517,6 +823,76 @@ Paragraf 6 vymezuje osobní působnost zákona negativně: na vyjmenované subje
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=fab705aeb00c7ebb0411 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 6 — Výjimky z působnosti zákona
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Tohoto zákona nelze použít, jde-li o
+>
+> - a) stát,
+>
+> - b) územní samosprávný celek2),
+>
+> - c) Českou národní banku,
+>
+> - d) Všeobecnou zdravotní pojišťovnu České republiky,
+>
+> - e) Garanční systém finančního trhu a jím spravované fondy,
+>
+> - f) Garanční fond obchodníků s cennými papíry,
+>
+> - g) veřejnou vysokou školu, nebo
+>
+> - h) právnickou osobu, jestliže stát nebo vyšší územní samosprávný celek2) před zahájením insolvenčního řízení převzal všechny její dluhy nebo se za ně zaručil.
+>
+> (2) Tohoto zákona nelze dále použít, jde-li o
+>
+> - a) finanční instituci, po dobu, po kterou je nositelem licence nebo povolení podle zvláštních právních předpisů, upravujících její činnost; toto se nevztahuje na obchodníka s cennými papíry,
+>
+> - b) zdravotní pojišťovnu zřízenou podle zvláštního právního předpisu3), po dobu, po kterou je nositelem povolení k provádění veřejného zdravotního pojištění,
+>
+> - c) politickou stranu nebo politické hnutí v době vyhlášených voleb podle zvláštního právního předpisu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fab705aeb00c7ebb0411 -->
+
 ## § 7 — Použití občanského soudního řádu a zákona o zvláštních řízeních soudních
 
 **Judikatura (z místních zdrojů):**
@@ -592,6 +968,52 @@ Paragraf 7 určuje subsidiární procesní rámec: primárně IZ, sekundárně p
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5d4edd12b0573e847b5f generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 7 — Použití občanského soudního řádu a zákona o zvláštních řízeních soudních
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Nestanoví-li tento zákon jinak nebo není-li takový postup v rozporu se zásadami, na kterých spočívá insolvenční řízení, použijí se pro insolvenční řízení a pro incidenční spory přiměřeně ustanovení [[občanského soudního řádu|občanského soudního řádu]]4) týkající se sporného řízení, a není-li to možné, ustanovení zákona [[o zvláštních řízeních soudních|o zvláštních řízeních soudních]]; ustanovení týkající se výkonu rozhodnutí nebo exekuce se však použijí přiměřeně jen tehdy, jestliže na ně tento zákon odkazuje.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5d4edd12b0573e847b5f -->
+
 ## § 7a — Věcná příslušnost
 
 ### Výklad
@@ -659,6 +1081,62 @@ Paragraf 7a soustřeďuje do prvního stupně **krajských** soudů pět agend: 
 **Typicky rozhodné důkazy / podklady:** doklad o vzniku a výši škody, časová osa úpadku a (ne)podání návrhu, údaje o osobě statutárního orgánu / navrhovatele / správce, vymezení vztahu k majetkové podstatě.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6ae7979cccdcea0e041d generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 7a — Věcná příslušnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Krajské soudy rozhodují jako soudy prvního stupně
+>
+> - a) v insolvenčním řízení,
+>
+> - b) v incidenčních sporech,
+>
+> - c) ve sporech o náhradu škody nebo jiné újmy, která vznikla porušením povinnosti podat insolvenční návrh,
+>
+> - d) ve sporech o náhradu škody nebo jiné újmy, která vznikla zahájením insolvenčního řízení a opatřeními přijatými v jeho průběhu,
+>
+> - e) ve věcech vyplývajících z právních vztahů mezi dlužníkem a insolvenčním správcem týkajících se majetku patřícího do dlužníkovy majetkové podstaty.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6ae7979cccdcea0e041d -->
 
 ## § 7b — Místní příslušnost
 
@@ -730,6 +1208,60 @@ Paragraf 7b určuje místní příslušnost podle obecného soudu dlužníka, p�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=24667744b3efe2f49d32 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 7b — Místní příslušnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Pro insolvenční řízení je příslušný soud, v jehož obvodu je obecný soud dlužníka. Pro insolvenční řízení proti dlužníku, který je zapsán v obchodním rejstříku, je příslušný soud, v jehož obvodu byl obecný soud dlužníka ke dni, který předchází o 6 měsíců okamžik zahájení insolvenčního řízení; není-li takový soud, je příslušný soud podle věty první.
+>
+> (2) Jde-li o insolvenční řízení, v němž se má řešit úpadek nebo hrozící úpadek osoby tvořící s dlužníkem koncern, je vedle soudu uvedeného v odstavci 1 k řízení příslušný také insolvenční soud, u něhož probíhá insolvenční řízení řešící úpadek nebo hrozící úpadek dlužníka, který s touto osobou tvoří koncern.
+>
+> (3) Jde-li o insolvenční řízení, v němž se má řešit úpadek nebo hrozící úpadek dlužníka, který je zahraniční osobou, a nebrání-li tomu přímo použitelný předpis práva Evropské unie59), lze insolvenční řízení zahájit i u insolvenčního soudu, v jehož obvodu je v České republice umístěn podnik nebo organizační složka podniku takového dlužníka.
+>
+> (4) Insolvenční soud je příslušný ve věcech uvedených v § 7a písm. b) až e).
+>
+> (5) Insolvenční soud, u něhož insolvenční řízení probíhá, učiní i před rozhodnutím o místní příslušnosti opatření, která nesnesou odkladu, a rozhodne o jmenování prozatímního věřitelského výboru, o jmenování předběžného správce, o tom, že se insolvenční návrh ani jiné dokumenty v insolvenčním rejstříku nezveřejňují, o odmítnutí insolvenčního návrhu nebo o odmítnutí insolvenčního návrhu pro zjevnou bezdůvodnost.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 7a
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=24667744b3efe2f49d32 -->
+
 ## § 7c — Účast státního zastupitelství
 
 > Státní zastupitelství může vstoupit do zahájeného insolvenčního řízení, včetně incidenčních sporů, a moratoria.
@@ -788,6 +1320,52 @@ Paragraf 7c dává státnímu zastupitelství fakultativní oprávnění vstoupi
 **Typicky rozhodné důkazy / podklady:** spisový materiál insolvenčního řízení, podněty a poznatky o sporných úkonech dlužníka, výsledky šetření OČTŘ, účetnictví a soupis majetku dlužníka.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=463e377ec39088bcc64b generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 7c — Účast státního zastupitelství
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Státní zastupitelství může vstoupit do zahájeného insolvenčního řízení, včetně incidenčních sporů, a moratoria.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=463e377ec39088bcc64b -->
 
 ## § 8
 
@@ -850,3 +1428,48 @@ Paragraf 8 je vnitřní subsidiární klauzule zákona: obecná úprava Části 
 ---
 
 **Pokračování:** [02-cast1-hlava2-procesni-subjekty.md](02-cast1-hlava2-procesni-subjekty.md) — § 9 až § 70 (Procesní subjekty: insolvenční soud, dlužník, věřitelé, insolvenční správce, schůze věřitelů a věřitelský výbor, státní zastupitelství).
+
+<!-- LEGAL-REVISION:BEGIN id=25f28b91cfda6710e143 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 8
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Ustanovení části první a čtvrté tohoto zákona se použijí, jen nestanoví-li tento zákon v části druhé ohledně některého ze způsobů řešení úpadku jinak.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=25f28b91cfda6710e143 -->

@@ -132,6 +132,62 @@ Přípustnost reorganizace má dvě brány: kvantitativní test § 316 odst. 4 (
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=becdc4ac2c963510d1d9 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 316
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Reorganizací se rozumí zpravidla postupné uspokojování pohledávek věřitelů při zachování provozu dlužníkova podniku, zajištěné opatřeními k ozdravění hospodaření tohoto podniku podle insolvenčním soudem schváleného reorganizačního plánu s průběžnou kontrolou jeho plnění ze strany věřitelů.
+>
+> (2) Reorganizací lze řešit úpadek nebo hrozící úpadek dlužníka, který je podnikatelem; reorganizace se týká jeho podniku.
+>
+> (3) Reorganizace není přípustná, je-li dlužníkem právnická osoba v likvidaci, obchodník s cennými papíry nebo osoba oprávněná k obchodování na komoditní burze podle zvláštního právního předpisu.
+>
+> (4) Reorganizace je přípustná, jestliže celkový roční úhrn čistého obratu dlužníka podle zvláštního právního předpisu46) za poslední účetní období předcházející insolvenčnímu návrhu dosáhl alespoň částku 50 000 000 Kč, nebo zaměstnává-li dlužník nejméně 50 zaměstnanců v pracovním poměru; ustanovení odstavce 3 tím není dotčeno.
+>
+> (5) Jestliže dlužník společně s insolvenčním návrhem nebo nejpozději do rozhodnutí o úpadku předložil insolvenčnímu soudu reorganizační plán přijatý alespoň polovinou všech zajištěných věřitelů počítanou podle výše jejich pohledávek a alespoň polovinou všech nezajištěných věřitelů počítanou podle výše pohledávek, omezení podle odstavce 4 se nepoužije.
+>
+> (6) Jde-li o insolvenční návrh věřitele a dlužník před rozhodnutím o úpadku požádá o prodloužení lhůty k předložení reorganizačního plánu podle odstavce 5, insolvenční soud v rozhodnutí o úpadku prodlouží tuto lhůtu nejdéle o 30 dnů.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=becdc4ac2c963510d1d9 -->
+
 # Díl 2 — Návrh na povolení reorganizace (§ 317 — § 324)
 
 ## § 317 — § 318 — Aktivní legitimace a lhůty
@@ -233,6 +289,102 @@ Návrh na povolení reorganizace může podat dlužník nebo přihlášený vě�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=53aeb3c29649d81348e6 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 317
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Osobou oprávněnou podat návrh na povolení reorganizace je dlužník nebo přihlášený věřitel.
+>
+> (2) Návrh na povolení reorganizace může podat pouze ten, kdo je v dobré víře, že jsou nebo budou splněny všechny podmínky pro schválení reorganizačního plánu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=53aeb3c29649d81348e6 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=59a13acec35baa3f6e1f generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 318
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Dlužník, který podal insolvenční návrh pro hrozící úpadek, může podat návrh na povolení reorganizace nejpozději do rozhodnutí o úpadku. V ostatních případech lze návrh na povolení reorganizace podat nejpozději do 10 dnů před první schůzí věřitelů, která se má konat po rozhodnutí o úpadku.
+>
+> (2) Opožděně podaný návrh na povolení reorganizace insolvenční soud odmítne rozhodnutím, které doručí dlužníku, navrhovateli, insolvenčnímu správci a věřitelskému výboru. Odvolání proti němu může podat pouze osoba, která opožděný návrh podala.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=59a13acec35baa3f6e1f -->
+
 ## § 319 — § 320 — Náležitosti a vady návrhu
 
 ### § 319 — Obsah návrhu
@@ -331,6 +483,118 @@ Dlužnický návrh musí obsahovat označení dlužníka a jednajících osob, �
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c85309e62092a84650d9 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 319
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Návrh na povolení reorganizace, podaný dlužníkem, musí vedle obecných náležitostí podání20) obsahovat
+>
+> - a) označení dlužníka a osob oprávněných za něho jednat,
+>
+> - b) dlužníkovi známé údaje o kapitálové struktuře a majetku osob, které dlužníka ovládají nebo které tvoří s dlužníkem koncern21), včetně údaje o tom, zda ohledně některé z těchto osob neprobíhá insolvenční řízení, anebo prohlášení, že není takových osob,
+>
+> - c) údaj o způsobu navrhované reorganizace.
+>
+> (2) K návrhu na povolení reorganizace musí dlužník připojit seznam majetku a seznam závazků, popřípadě prohlášení o změnách, ke kterým v mezidobí došlo v porovnání se seznamy, které v insolvenčním řízení již dříve předložil.
+>
+> (3) Návrh na povolení reorganizace podaný věřitelem musí kromě obecných náležitostí podání20) obsahovat údaje uvedené v odstavci 1 písm. a) a c). Ostatní údaje podle odstavce 1 uvede věřitel, jen pokud jsou mu známy.
+>
+> (4) Pro označení osob v návrhu na povolení reorganizace a v seznamech k němu připojených platí § 103 odst. 1 obdobně.
+>
+> (5) Údajem o způsobu reorganizace, obsaženým v návrhu na povolení reorganizace, nejsou osoby sestavující reorganizační plán, ani osoba, která návrh podala, vázány.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 103
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c85309e62092a84650d9 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=d7611870adafd4374903 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 320
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Neobsahuje-li návrh na povolení reorganizace všechny náležitosti nebo je nesrozumitelný anebo neurčitý, insolvenční soud usnesením vyzve osobu, která jej podala, k jeho opravě nebo doplnění v určené lhůtě, která nesmí být delší než 7 dnů. Současně ji poučí, jak má opravu nebo doplnění provést.
+>
+> (2) Podle odstavce 1 postupuje insolvenční soud i tehdy, nejsou-li k návrhu na povolení reorganizace připojeny zákonem požadované přílohy nebo neobsahují-li tyto přílohy stanovené náležitosti.
+>
+> (3) Návrh na povolení reorganizace insolvenční soud odmítne, není-li přes jeho výzvu řádně doplněn a v řízení o něm nelze pro tento nedostatek pokračovat nebo nejsou-li k němu přes jeho výzvu připojeny zákonem požadované přílohy anebo neobsahují-li tyto přílohy přes jeho výzvu stanovené náležitosti.
+>
+> (4) Rozhodnutí podle odstavce 3 doručí insolvenční soud dlužníku, předběžnému správci nebo insolvenčnímu správci, věřitelskému výboru a osobě, která návrh na povolení reorganizace podala; odvolání proti němu může podat jen osoba, která návrh na povolení reorganizace podala. K podanému odvolání se nepřihlíží, jestliže před rozhodnutím o něm insolvenční soud povolil reorganizaci na návrh jiné osoby.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d7611870adafd4374903 -->
+
 ## § 321 — § 322 — Více návrhů a zpětvzetí
 
 ### § 321 — Přistoupení dalšího navrhovatele
@@ -417,6 +681,106 @@ Další návrh na povolení reorganizace je přistoupením k jednomu řízení; 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=fb596805d89322a4cd1a generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 321
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Jestliže poté, co insolvenčnímu soudu došel návrh na povolení reorganizace, podá tento návrh i další osoba, považuje se návrh další osoby za přistoupení k řízení, jehož předmětem je reorganizace; [[#§ 107|§ 107]] se použije přiměřeně.
+>
+> (2) Insolvenční soud vyzve osoby podle odstavce 1, aby ve lhůtě, která nesmí být delší než 30 dnů, odstranily odlišnosti svých návrhů a vyrozuměly jej o společném stanovisku. Nestane-li se tak, vychází insolvenční soud z návrhu, který podal dlužník, a není-li jej, pak z návrhu věřitele, který mu došel dříve.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 107
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fb596805d89322a4cd1a -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=e08aa2a7fdb8d5f5f80c generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 322
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Osoba, která podala návrh na povolení reorganizace, jej může vzít zpět do doby, než insolvenční soud reorganizaci povolí nebo o podaném návrhu jinak rozhodne.
+>
+> (2) Zpětvzetí návrhu na povolení reorganizace vezme insolvenční soud na vědomí rozhodnutím, které se doručuje osobě, která návrh podala, dlužníku, insolvenčnímu správci a věřitelskému výboru; odvolání proti němu není přípustné. Po vydání tohoto rozhodnutí insolvenční soud nepokračuje v projednání reorganizace.
+>
+> (3) Byl-li návrh na povolení reorganizace vzat zpět až poté, co o něm bylo rozhodnuto, insolvenční soud rozhodne, že zpětvzetí není účinné; toto rozhodnutí, proti němuž není odvolání přípustné, se doručuje osobě, která návrh podala, dlužníku, insolvenčnímu správci a věřitelskému výboru.
+>
+> (4) Osobu, která podala další návrh na povolení reorganizace, vyzve insolvenční soud, aby mu do 15 dnů sdělila, zda trvá na jeho projednání; nestane-li se tak, v projednání reorganizace insolvenční soud nepokračuje.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e08aa2a7fdb8d5f5f80c -->
+
 ## § 323 — Schválení návrhu věřitele schůzí
 
 > (1) Návrh na povolení reorganizace **podaný věřitelem musí schválit schůze věřitelů**; učiní tak po zprávě insolvenčního správce o hospodářské situaci dlužníka.
@@ -463,6 +827,54 @@ Návrh na povolení reorganizace podaný věřitelem je účinný jen tehdy, sch
 **Typicky rozhodné důkazy / podklady:** zápis ze schůze věřitelů s výsledkem hlasování, zpráva insolvenčního správce o hospodářské situaci dlužníka, podklady k posouzení poctivého záměru (propojení navrhovatele s dlužníkem, výpis z rejstříku trestů, údaje o předchozích insolvencích).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9a2e34f37d070c972aae generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 323
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Návrh na povolení reorganizace podaný věřitelem musí schválit schůze věřitelů; učiní tak po zprávě insolvenčního správce o hospodářské situaci dlužníka.
+>
+> (2) Před rozhodnutím schůze věřitelů o schválení návrhu na povolení reorganizace upozorní insolvenční správce na jemu známé důvody, pro které lze pochybovat o poctivém záměru navrhujícího věřitele.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9a2e34f37d070c972aae -->
 
 ## § 324 — Účinky podání návrhu
 
@@ -516,6 +928,56 @@ Po podání návrhu na povolení reorganizace se osoby nakládající s podstato
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a944f7bf9ed23a5d302e generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 324
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Po podání návrhu na povolení reorganizace a před rozhodnutím o úpadku jsou osoby oprávněné nakládat s majetkovou podstatou povinny zdržet se právních úkonů, jimiž by mohla být zmařena nebo ohrožena navrhovaná reorganizace.
+>
+> (2) Insolvenční soud může po podání návrhu na povolení reorganizace i bez návrhu změnit své předběžné opatření.
+>
+> (3) Od okamžiku zveřejnění návrhu na povolení reorganizace v insolvenčním rejstříku není přípustné započtení vzájemných pohledávek dlužníka a věřitele, ledaže insolvenční soud určí jinak předběžným opatřením. To platí i tehdy, jestliže zákonné podmínky tohoto započtení byly splněny před uvedeným okamžikem.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a944f7bf9ed23a5d302e -->
+
 # Díl 3 — Rozhodnutí o návrhu na povolení reorganizace (§ 325 — § 333)
 
 ## § 325 — Postup
@@ -562,6 +1024,52 @@ Při projednání návrhu na povolení reorganizace soud postupuje podle § 148�
 **Typicky rozhodné důkazy / podklady:** usnesení o úpadku, zápis ze schůze věřitelů s výsledkem hlasování o způsobu řešení úpadku, návrh na povolení reorganizace, podklady k přípustnosti (obrat/zaměstnanci nebo prepack souhlasy).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b2cb8fb806371b949ed6 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 325
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Při projednání návrhu na povolení reorganizace postupuje insolvenční soud podle § 148 až 152.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 148
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b2cb8fb806371b949ed6 -->
 
 ## § 326 — Důvody zamítnutí
 
@@ -626,6 +1134,66 @@ Soud zamítne návrh na povolení reorganizace, je-li jím sledován nepoctivý 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=55a1a69d60d25b937a11 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 326
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Insolvenční soud zamítne návrh na povolení reorganizace,
+>
+> - a) lze-li se zřetelem ke všem okolnostem důvodně předpokládat, že jím je sledován nepoctivý záměr, nebo
+>
+> - b) který znovu podala osoba, o jejímž návrhu na povolení reorganizace bylo již dříve rozhodnuto, anebo
+>
+> - c) který podal věřitel, jestliže jej neschválí schůze věřitelů.
+>
+> (2) Na nepoctivý záměr sledovaný návrhem na povolení reorganizace lze usuzovat zejména tehdy, jestliže ohledně dlužníka, jeho zákonného zástupce, jeho statutárního orgánu nebo člena jeho kolektivního statutárního orgánu
+>
+> - a) v posledních 5 letech probíhalo insolvenční řízení nebo jiné řízení řešící úpadek, a to v závislosti na výsledku takového řízení, nebo
+>
+> - b) podle výpisu z rejstříku trestů v posledních 5 letech před zahájením insolvenčního řízení proběhlo trestní řízení, které skončilo pravomocným odsouzením pro trestný čin majetkové nebo hospodářské povahy.
+>
+> (3) Rozhodnutí o zamítnutí návrhu na povolení reorganizace se doručuje dlužníku, osobě, která návrh podala, insolvenčnímu správci a věřitelskému výboru. Odvolání proti němu může podat pouze osoba, která návrh podala.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=55a1a69d60d25b937a11 -->
+
 ## § 327 — § 328 — Důsledky zamítnutí a povolení
 
 **§ 327** — *zamítnutí/odmítnutí/zpětvzetí* → soud *pokračuje v insolvenčním řízení* (typicky se přemění na konkurs). Účinky podání návrhu zanikají. *Odpovědnost za škodu* (§ 147 obdobně).
@@ -670,6 +1238,100 @@ Zamítnutí (odmítnutí, zpětvzetí) návrhu vede k pokračování insolvenčn
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o povolení/zamítnutí reorganizace, podklady prokazující vznik a výši škody z neopodstatněného návrhu, doklady o zániku účinků podání návrhu, případné podání odvolání a jeho posouzení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=5bd373d1a50a4a8532c8 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 327
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Jestliže insolvenční soud návrh na povolení reorganizace odmítne, vezme na vědomí jeho zpětvzetí nebo jej zamítne, pokračuje bez dalšího v insolvenčním řízení. Účinky podání návrhu na povolení reorganizace tímto rozhodnutím zanikají.
+>
+> (2) Na osobu, jejíž návrh na povolení reorganizace insolvenční soud odmítne, vezme na vědomí jeho zpětvzetí nebo jej zamítne, se použije přiměřeně [[#§ 147|§ 147]].
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 147
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5bd373d1a50a4a8532c8 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=929da46acafc75ebc333 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 328
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Nedojde-li ke zpětvzetí návrhu na povolení reorganizace ani k jeho odmítnutí nebo zamítnutí, insolvenční soud reorganizaci povolí. Rozhodnutí o povolení reorganizace se doručuje dlužníku, navrhovateli, insolvenčnímu správci a věřitelskému výboru. Odvolání proti němu není přípustné.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=929da46acafc75ebc333 -->
 
 ## § 329 — Obsah rozhodnutí o povolení
 
@@ -723,6 +1385,64 @@ Rozhodnutí o povolení reorganizace musí obsahovat čtyři výroky (§ 329 ods
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o povolení reorganizace s vyznačením všech výroků, doklad o ustanovení/potvrzení správce, evidence běhu 120denní lhůty, sdělení dlužníka o úmyslu (ne)předložit plán.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=3933ec86d3218c0134f3 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 329
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Rozhodnutí o povolení reorganizace obsahuje
+>
+> - a) výrok o povolení reorganizace,
+>
+> - b) informaci o tom, kdo je insolvenčním správcem, a nebyl-li dosud ustanoven, výrok o jeho ustanovení,
+>
+> - c) výzvu, aby dlužník ve lhůtě 120 dnů předložil reorganizační plán nebo aby bez zbytečného odkladu insolvenčnímu soudu sdělil, že jej předložit nehodlá,
+>
+> - d) informaci o tom, za jakých podmínek mohou předložit reorganizační plán další osoby.
+>
+> (2) Ustanovení odstavce 1 písm. c) se nepoužije, jestliže dlužník před vydáním rozhodnutí podle odstavce 1 insolvenčnímu soudu oznámil, že reorganizační plán předložit nehodlá.
+>
+> (3) Rozhodnutí o povolení reorganizace může dále obsahovat výrok o jiných opatřeních týkajících se majetkové podstaty a nezbytných k zajištění účelu reorganizace.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3933ec86d3218c0134f3 -->
 
 ## § 330 — Dispoziční oprávnění dlužníka — **DEBTOR IN POSSESSION**
 
@@ -802,6 +1522,60 @@ V reorganizaci si dlužník ponechává dispoziční oprávnění (debtor in pos
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=935e6f819bceafeac17d generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 330
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Právní mocí rozhodnutí o povolení reorganizace se ruší omezení dispozičních oprávnění dlužníka, ke kterým došlo ze zákona nebo rozhodnutím insolvenčního soudu v dosavadním průběhu insolvenčního řízení, ledaže insolvenční soud rozhodne podle [[#§ 332|§ 332]] jinak.
+>
+> (2) Právní úkony, které mají z hlediska nakládání s majetkovou podstatou a její správou zásadní význam, činí dlužník s dispozičními oprávněními jen se souhlasem věřitelského výboru. Porušení této povinnosti má za následek odpovědnost dlužníka za škodu nebo jinou újmu, kterou tím věřitelům nebo třetím osobám způsobil; členové statutárního orgánu dlužníka za takto způsobenou škodu nebo jinou újmu ručí společně a nerozdílně.
+>
+> (3) Za právní úkony, které mají podle odstavce 3 zásadní význam, se považují úkony, jejichž důsledkem se významně změní hodnota majetkové podstaty nebo postavení věřitelů anebo míra uspokojení věřitelů.
+>
+> (4) Pohledávky vedoucích zaměstnanců dlužníka s dispozičními oprávněními, podle [[§ 33 odst. 3|§ 33 odst. 3]] a [[§ 73 odst. 3|§ 73 odst. 3]] [[zákoníku práce|zákoníku práce]], které vznikly po povolení reorganizace, lze v průběhu insolvenčního řízení uspokojit pouze do výše, kterou určí insolvenční správce se souhlasem věřitelského výboru.
+>
+> (5) Ke dni předcházejícímu dni, kterým nastanou účinky povolení reorganizace, sestaví dlužník mezitímní účetní závěrku.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 332, § 33, § 73
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=935e6f819bceafeac17d -->
+
 ## § 330a — Aplikace smluvních pravidel v reorganizaci
 
 > (1) Za trvání reorganizace platí přiměřeně ustanovení § 246 odst. 4 a § 253 až 260. Práva náležející podle těchto ustanovení insolvenčnímu správci, **vykonává dlužník s dispozičními oprávněními jen se souhlasem věřitelského výboru**; o porušení této povinnosti platí § 330 odst. 2 věta druhá.
@@ -851,6 +1625,54 @@ V reorganizaci se přiměřeně použijí § 246 odst. 4 a § 253–260, avšak 
 **Typicky rozhodné důkazy / podklady:** znění dotčených smluv o vzájemném plnění, datum právní moci povolení reorganizace a evidence běhu 30denní lhůty, projevy dlužníka (odmítnutí/akceptace) a doklad o jejich doručení, zápisy věřitelského výboru o souhlasu s výkonem smluvních práv.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9cfb83807abb79ac7cfa generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 330a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Za trvání reorganizace platí přiměřeně ustanovení § 246 odst. 4 a § 253 až 260. Práva náležející podle těchto ustanovení insolvenčnímu správci, vykonává dlužník s dispozičními oprávněními jen se souhlasem věřitelského výboru; o porušení této povinnosti platí § 330 odst. 2 věta druhá.
+>
+> (2) U smlouvy o vzájemném plnění platí, že dlužník s dispozičním oprávněním, který se do 30 dnů od povolení reorganizace nevyjádří tak, že odmítá splnění, musí smlouvu splnit.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 246, § 253, § 330
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9cfb83807abb79ac7cfa -->
 
 ## § 331 — § 333 — Role správce a omezení dlužníka
 
@@ -1008,6 +1830,152 @@ Povolením reorganizace se pozastavuje výkon funkce valné hromady (členské s
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e6a5644cc5dbbf559466 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 331
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Insolvenční správce vykonává dohled nad činností dlužníka s dispozičními oprávněními, pokračuje ve zjišťování majetkové podstaty a jejím soupisu, vede incidenční spory, sestavuje a doplňuje seznam věřitelů a podává zprávy věřitelskému výboru. Kromě toho plní i další úkoly a provádí další činnosti, které mu uložil insolvenční soud.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e6a5644cc5dbbf559466 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=41c728a920b3572e4090 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 332
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Insolvenční soud může na návrh insolvenčního správce nebo věřitelského výboru anebo i bez návrhu zakázat dlužníku s dispozičními oprávněními nakládání s majetkovou podstatou nebo může jeho oprávnění ve stanoveném rozsahu omezit. Učiní tak v zájmu věřitelů zejména tehdy, vzniknou-li pochybnosti o poctivém jednání nebo odborné způsobilosti dlužníka nebo osob jednajících jeho jménem.
+>
+> (2) Je-li návrhů podle odstavce 1 více, insolvenční soud o nich rozhodne jedním rozhodnutím, proti němuž není odvolání přípustné. Zamítne-li je, lze další návrhy podle odstavce 1 podat až po uplynutí 30 dnů. Omezení stanovená rozhodnutím vydaným podle odstavce 1 může insolvenční soud kdykoli před schválením reorganizačního plánu na návrh insolvenčního správce nebo věřitelského výboru zrušit nebo změnit.
+>
+> (3) Jestliže insolvenční soud zakáže dlužníku s dispozičními oprávněními nakládat s majetkovou podstatou nebo jeho oprávnění k tomu omezí, přecházejí tato dispoziční oprávnění na insolvenčního správce.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=41c728a920b3572e4090 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=18e8dbfe5295c6b9b02e generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 333
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Nestanoví-li tento zákon jinak, rozhodnutím o povolení reorganizace se pozastavuje výkon funkce valné hromady nebo členské schůze dlužníka a místo valné hromady nebo členské schůze dlužníka rozhoduje v její působnosti insolvenční správce.
+>
+> (2) Valné hromadě nebo členské schůzi dlužníka i po rozhodnutí o povolení reorganizace zůstává zachováno právo jmenovat nebo volit a odvolávat členy statutárního orgánu dlužníka a dozorčí rady dlužníka; k účinnosti jejího rozhodnutí se však vyžaduje souhlas věřitelského výboru. Jde-li však o reorganizaci povolenou na základě návrhu na povolení reorganizace podaného věřitelem nebo nemá-li dlužník právo sestavit reorganizační plán, náleží právo jmenovat nebo volit a odvolávat členy statutárního orgánu dlužníka a dozorčí rady dlužníka věřitelskému výboru.
+>
+> (3) Zanikne-li funkce statutárního orgánu dlužníka nebo dozorčí rady anebo funkce všech členů těchto orgánů a není-li postupem podle zvláštního právního předpisu jmenován nebo zvolen do 30 dnů poté nový statutární orgán nebo dozorčí rada nebo jejich členové, zvolí je věřitelský výbor.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=18e8dbfe5295c6b9b02e -->
+
 # Díl 4 — Věřitelé při reorganizaci (§ 334 — § 337)
 
 ## § 334 — Účastnící
@@ -1056,6 +2024,52 @@ Reorganizace se účastní přihlášení věřitelé a dále věřitelé s pohl
 **Typicky rozhodné důkazy / podklady:** přihláškový spis a evidence pohledávek, nájemní a obdobné smlouvy s datací vzniku nároku, soupis pohledávek za majetkovou podstatou a na roveň postavených, rozhodnutí o úpadku (rozhodný okamžik).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a215a7c6fb66558dcfc2 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 334
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Reorganizace se účastní přihlášení věřitelé, jakož i věřitelé s pohledávkami za majetkovou podstatou a věřitelé jim na roveň postavení.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a215a7c6fb66558dcfc2 -->
 
 ## § 335 — Společníci jako věřitelé
 
@@ -1108,6 +2122,54 @@ V reorganizaci se společníci a členové dlužníka považují za věřitele (
 **Typicky rozhodné důkazy / podklady:** společenská smlouva / stanovy a výše vkladů a podílů, reorganizační plán a rozdělení do skupin, ocenění majetkové podstaty a předpokládané uspokojení věřitelů, doklady o případných jiných pohledávkách společníka vůči dlužníku.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=edc6059839b01bc0ede8 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 335
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Při reorganizaci se za věřitele dlužníka považují i společníci a členové dlužníka; za pohledávku těchto osob se považuje právo vyplývající z jejich účasti ve společnosti nebo v družstvu.
+>
+> (2) Platí, že výše pohledávky vyplývající z účasti společníka nebo člena dlužníka ve společnosti nebo v družstvu je rovna nule; ustanovení § 347 odst. 2 tím není dotčeno.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 347
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=edc6059839b01bc0ede8 -->
 
 ## § 336 — Přezkum pohledávek v reorganizaci
 
@@ -1162,6 +2224,58 @@ Na přezkum v reorganizaci se obdobně užijí § 190—202 (§ 336 odst. 1). Po
 **Typicky rozhodné důkazy / podklady:** přihlášky a přezkumné listy, dodací a smluvní doklady k popřené pohledávce, exekuční titul a údaje o promlčení u vykonatelné pohledávky, protokol o přezkumném jednání, spis o případné přeměně reorganizace v konkurs.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=35daba72760a82f1dffb generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 336
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Není-li dále stanoveno jinak, platí o přezkoumání přihlášených pohledávek v reorganizaci obdobně § 190 až 202.
+>
+> (2) Popření pohledávky dlužníkem má v reorganizaci tytéž účinky jako popření pohledávky insolvenčním správcem, ustanovení § 51 odst. 2 tím však není dotčeno; pro toto popření platí obdobně ustanovení o zjištění pohledávky týkající se insolvenčního správce. Jestliže dlužník popřel pohledávku při přezkumném jednání, které se konalo dříve, než nastaly účinky povolení reorganizace, nastávají účinky tohoto popření v reorganizaci dnem, kdy nastaly účinky povolení reorganizace; tento den je rozhodný i pro počátek běhu lhůt k podání žaloby o určení pravosti, výše nebo pořadí pohledávky. Věřitelé nevykonatelné pohledávky, která byla popřena dlužníkem, podávají žalobu vždy vůči dlužníku.
+>
+> (3) Jde-li o vykonatelnou pohledávku přiznanou pravomocným rozhodnutím příslušného orgánu, může dlužník jako důvod popření její pravosti nebo výše v reorganizaci uplatnit jen skutečnosti, které jsou důvodem pro zastavení výkonu rozhodnutí nebo exekuce proto, že pohledávka zanikla nebo je promlčená.
+>
+> (4) Popření pohledávky přihlášeným věřitelem nemá po dobu trvání reorganizace vliv na zjištění popřené pohledávky.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 190, § 51
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=35daba72760a82f1dffb -->
 
 ## § 337 — Skupiny věřitelů — **KLÍČ K HLASOVÁNÍ**
 
@@ -1260,6 +2374,74 @@ Věřitelé se v reorganizaci rozdělují do skupin se zásadně shodným právn
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=6a45cf28891cb89381c5 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 337
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Pro potřeby určení rozsahu uspokojení zjištěných pohledávek a hlasování věřitelů o přijetí reorganizačního plánu se věřitelé dlužníka při reorganizaci rozdělují do skupin, a to tak, aby v každé skupině byli věřitelé se zásadně shodným právním postavením a se zásadně shodnými hospodářskými zájmy. Rozdělení věřitelů do jednotlivých skupin obsahuje reorganizační plán, v němž se vždy uvede, podle jakých kritérií k rozdělení věřitelů došlo.
+>
+> (2) Samostatnou skupinou jsou zejména
+>
+> - a) každý zajištěný věřitel,
+>
+> - b) věřitelé uvedení v [[#§ 335|§ 335]],
+>
+> - c) věřitelé, jejichž pohledávky nejsou reorganizačním plánem dotčeny.
+>
+> (3) Pohledávkou nedotčenou reorganizačním plánem je pohledávka, jejíž výši, splatnost ani další její vlastnosti a práva s ní spojená reorganizační plán nemění, nebo pohledávka, o které věřitel písemně uznal, že není reorganizačním plánem dotčena.
+>
+> (4) Pohledávkou nedotčenou reorganizačním plánem je i pohledávka, u které v důsledku prodlení dlužníka došlo ke ztrátě sjednané výhody splátek, jestliže reorganizační plán
+>
+> - a) stanoví splatnost jistiny včetně úroků stejně jako před prodlením dlužníka,
+>
+> - b) nemění žádná další práva spojená s pohledávkou, s výjimkou práv věřitele spojených s účinky zahájení insolvenčního řízení nebo s již nastalým prodlením dlužníka,
+>
+> - c) stanoví, že všechny splátky jistiny a úroku, které měl dlužník zaplatit před svým prodlením do dne účinnosti reorganizačního plánu, budou uhrazeny neprodleně po účinnosti reorganizačního plánu.
+>
+> (5) Odůvodněnost a vhodnost rozdělení věřitelů do jednotlivých skupin posoudí insolvenční soud při schvalování reorganizačního plánu.
+>
+> (6) Na základě návrhu dotčeného věřitele nebo předkladatele reorganizačního plánu může insolvenční soud rozhodnout o zařazení věřitele do jiné skupiny; učiní tak před schválením reorganizačního plánu. Proti jeho rozhodnutí nejsou opravné prostředky přípustné.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 335
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6a45cf28891cb89381c5 -->
+
 # Díl 5 — Reorganizační plán (§ 338 — § 351)
 
 ## § 338 — Definice a princip
@@ -1317,6 +2499,58 @@ Reorganizační plán vymezuje právní postavení dotčených osob a je po schv
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=118b764c745b10fa2268 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 338
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Reorganizační plán vymezuje právní postavení dotčených osob v důsledku povolené reorganizace, a to na základě opatření sledujících ozdravení provozu dlužníkova podniku a uspořádání vzájemných vztahů mezi dlužníkem a jeho věřiteli.
+>
+> (2) Reorganizační plán se předkládá insolvenčnímu soudu. Po jeho předložení nesmí nikdo až do zprávy o reorganizačním plánu vyvíjet činnost směřující k jeho přijetí nebo odmítnutí. Předkladatel je povinen zdržet se všech činností, které jsou v rozporu s reorganizačním plánem nebo které jinak ovlivňují jeho splnění.
+>
+> (3) V reorganizačním plánu se lze odchýlit od ustanovení tohoto zákona, pokud jde o uspokojení věřitelů včetně zajištěných věřitelů a věřitelů, jimiž jsou společníci a členové dlužníka uplatňující pohledávku vyplývající z jejich účasti ve společnosti nebo v družstvu, o nakládání s majetkovou podstatou a o závazky dlužníka po skončení insolvenčního řízení.
+>
+> (4) Další průběh reorganizace nesmí být v rozporu s reorganizačním plánem, pokud nedošlo stanoveným způsobem k jeho změně.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=118b764c745b10fa2268 -->
+
 ## § 339 — Přednostní právo dlužníka
 
 > (1) **Přednostní právo sestavit reorganizační plán má dlužník**, i když návrh na povolení reorganizace podal některý přihlášený věřitel. Může jej předložit současně s návrhem na povolení reorganizace anebo ve **lhůtě 120 dnů** od rozhodnutí o povolení reorganizace. Tuto lhůtu může insolvenční soud na návrh dlužníka přiměřeně prodloužit, nejdéle však o **120 dnů**.
@@ -1370,6 +2604,62 @@ Přednostní právo sestavit reorganizační plán má dlužník, i když reorga
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o povolení reorganizace, oznámení dlužníka a žádost o prodloužení lhůty, doklady o placení/neplacení úroků zajištěným věřitelům, podklady o postupu při sestavování plánu, usnesení schůze věřitelů k osobě předkladatele plánu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c7e2ea69c9552f29e309 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 339
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Přednostní právo sestavit reorganizační plán má dlužník, i když návrh na povolení reorganizace podal některý přihlášený věřitel. Může jej předložit současně s návrhem na povolení reorganizace anebo ve lhůtě 120 dnů od rozhodnutí o povolení reorganizace. Tuto lhůtu může insolvenční soud na návrh dlužníka přiměřeně prodloužit, nejdéle však o 120 dnů.
+>
+> (2) Přednostní právo sestavit reorganizační plán však nemá dlužník, který insolvenčnímu soudu oznámil, že reorganizační plán předložit nehodlá.
+>
+> (3) Přednostní právo sestavit reorganizační plán nemá rovněž dlužník, jehož věřitelé se tak usnesli na schůzi věřitelů. Schůze věřitelů, na které se projednává nebo schvaluje návrh na povolení reorganizace, je oprávněna přijmout takové usnesení vždy.
+>
+> (4) Jestliže dlužník před uplynutím lhůty podle odstavce 1 oznámí, že nehodlá předložit reorganizační plán, insolvenční soud rozhodne o ukončení této lhůty; pravost podpisů osob, které oznámení podepsaly, musí být úředně ověřena. Vyjdou-li najevo skutečnosti, které nasvědčují tomu, že dlužník v sestavování reorganizačního plánu řádně nepokračuje, že postupuje způsobem, kterým může reorganizaci zmařit, nebo že zajištěným věřitelům neplatí úroky podle § 171 odst. 4, může insolvenční soud i bez návrhu rozhodnout o zkrácení nebo ukončení lhůty podle odstavce 1. Učiní tak zpravidla po vyjádření dlužníka, insolvenčního správce a věřitelského výboru.
+>
+> (5) Proti rozhodnutí insolvenčního soudu podle odstavců 1 a [[#§ 4|4]] není odvolání přípustné.
+>
+> (6) Nemá-li dlužník právo přednostně sestavit reorganizační plán nebo zaniklo-li mu toto právo rozhodnutím insolvenčního soudu podle odstavce 4, může o tom, kdo má přednostní právo sestavit reorganizační plán, rozhodnout schůze věřitelů. Nerozhodne-li schůze věřitelů podle věty první, vyzve insolvenční soud k předložení reorganizačního plánu další osoby, které návrh na povolení reorganizace podaly, nebo které se k němu připojily; ustanovení odstavců 2 a [[#§ 4|4]] platí pro tyto osoby obdobně. Ustanovení odstavce 1 o lhůtách k předložení reorganizačního plánu a možnosti jejich prodloužení platí pro tyto osoby přiměřeně.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 171, § 4
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c7e2ea69c9552f29e309 -->
 
 ## § 340 — § 342 — Obsah a přílohy plánu
 
@@ -1527,6 +2817,198 @@ K reorganizačnímu plánu se připojují přílohy dokládající proveditelnos
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a99aee785e44b0f94b90 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 340
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Reorganizační plán obsahuje vždy
+>
+> - a) rozdělení věřitelů do skupin, s určením, jak bude nakládáno s pohledávkami věřitelů v jednotlivých skupinách,
+>
+> - b) určení způsobu reorganizace,
+>
+> - c) určení opatření k plnění reorganizačního plánu, zejména z hlediska nakládání s majetkovou podstatou, a s určením osob, které s ní mohou nakládat, včetně rozsahu jejich práv k nakládání s ní,
+>
+> - d) údaj o tom, zda bude pokračovat provoz dlužníkova podniku nebo jeho části a za jakých podmínek,
+>
+> - e) uvedení osob, které se budou podílet na financování reorganizačního plánu nebo převezmou některé dlužníkovy závazky anebo zajistí jejich splnění, včetně určení rozsahu, v němž jsou ochotny tak učinit,
+>
+> - f) údaj o tom, zda a jak reorganizační plán ovlivní zaměstnanost v dlužníkově podniku, a o opatřeních, která mají být v tomto směru uskutečněna,
+>
+> - g) údaj o tom, zda a jaké závazky vůči věřitelům bude mít dlužník po skončení reorganizace.
+>
+> (2) V reorganizačním plánu musí být též uvedeno, jak je zajištěno splnění pohledávek, ohledně kterých dosud nebyl skončen incidenční spor, a pohledávek vázaných na odkládací podmínku, jaká je výše částky určené k uspokojení těchto pohledávek pro každou skupinu věřitelů, do které byly zařazeny, a jaká je celková výše částky určené k uspokojení těchto pohledávek podle reorganizačního plánu.
+>
+> (3) Reorganizační plán musí být sestaven tak, aby údaje v něm obsažené věrně zobrazovaly ekonomické a právní možnosti dlužníka.
+>
+> (4) Náležitosti reorganizačního plánu stanoví prováděcí právní předpis.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a99aee785e44b0f94b90 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=c09a601f8e032f14c08d generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 341
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Reorganizaci lze provést zejména prostřednictvím těchto opatření:
+>
+> - a) restrukturalizací pohledávek věřitelů, spočívající v prominutí části dluhů dlužníka včetně jejich příslušenství nebo v odkladu jejich splatnosti,
+>
+> - b) prodejem celé majetkové podstaty nebo její části anebo prodejem dlužníkova podniku,
+>
+> - c) vydáním části dlužníkových aktiv věřitelům nebo převodem těchto aktiv na nově založenou právnickou osobu, ve které mají věřitelé majetkovou účast,
+>
+> - d) fúzí dlužníka - právnické osoby s jinou osobou nebo převodem jeho jmění na společníka se zachováním nebo změnou práv třetích osob, připouštějí-li to právní předpisy o hospodářské soutěži47),
+>
+> - e) vydáním akcií nebo jiných cenných papírů dlužníkem nebo novou právnickou osobou podle písmene c) nebo d),
+>
+> - f) zajištěním financování provozu dlužníkova podniku nebo jeho části,
+>
+> - g) změnou zakladatelského dokumentu nebo stanov anebo jiných dokumentů upravujících vnitřní poměry dlužníka.
+>
+> (2) V reorganizačním plánu může být uplatněno i více ze základních opatření podle odstavce 1, pokud to jejich povaha připouští.
+>
+> (3) U věřitelů, do jejichž práv reorganizační plán zasahuje, se v reorganizačním plánu uvede, o jakou částku je jejich pohledávka snížena nebo po jakou dobu bude trvat odklad její splatnosti nebo vykonatelnosti anebo v čem spočívají jiné zásahy do práv věřitelů.
+>
+> (4) Má-li dojít ke změně údajů, které se zapisují do obchodního rejstříku, musí být z reorganizačního plánu zřejmé, jaké údaje mají být z obchodního rejstříku vymazány a jaké údaje nově zapsány.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c09a601f8e032f14c08d -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=4f7dc8a86b70b281b475 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 342
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> K reorganizačnímu plánu musí být v závislosti na navrhovaném typu reorganizace připojeny tyto doklady:
+>
+> - a) nové znění zakladatelského dokumentu nebo stanov anebo jiného dokumentu upravujícího vnitřní poměry dlužníka, má-li podle reorganizačního plánu dojít k jeho změně,
+>
+> - b) prohlášení osob ochotných financovat provedení reorganizačního plánu nebo převzít některé z dlužníkových závazků anebo je zajistit, s uvedením rozsahu, jehož se prohlášení týká; prohlášení musí být vlastnoručně podepsáno a pravost podpisu na něm úředně ověřena,
+>
+> - c) prohlášení dlužníkova manžela, že souhlasí s použitím majetku ve společném jmění manželů, má-li být podle reorganizačního plánu tento majetek použit; prohlášení musí být vlastnoručně podepsáno a pravost podpisu na něm úředně ověřena,
+>
+> - d) není-li předkladatelem reorganizačního plánu dlužník, prohlášení dlužníka - fyzické osoby nebo prohlášení neomezeně ručících společníků dlužníka - právnické osoby o ochotě pokračovat v provozu podniku, který předpokládá reorganizační plán; prohlášení musí být vlastnoručně podepsáno a pravost podpisu na něm úředně ověřena,
+>
+> - e) aktualizované seznamy majetku a závazků dlužníka ke dni předložení reorganizačního plánu, mají-li být věřitelé uspokojováni z provozu dlužníkova podniku,
+>
+> - f) smlouvy uzavřené s odkládací podmínkou váznoucí na schválení reorganizačního plánu insolvenčním soudem,
+>
+> - g) seznam a popis významných smluv, které mají být podle reorganizačního plánu po jeho schválení insolvenčním soudem uzavřeny.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4f7dc8a86b70b281b475 -->
+
 ## § 343 — Zpráva o reorganizačním plánu
 
 > (1) Předkladatel reorganizačního plánu **zpracuje zprávu o reorganizačním plánu**, která musí obsahovat dostatečné informace o návrhu reorganizačního plánu. Součástí této zprávy je reorganizační plán nebo jeho shrnutí a zhodnocení jeho dopadu na věřitele.
@@ -1575,6 +3057,58 @@ Předkladatel plánu zpracuje zprávu o reorganizačním plánu (disclosure stat
 **Typicky rozhodné důkazy / podklady:** zpráva o reorganizačním plánu a samotný plán, doklad o schválení zprávy soudem a o datu jejího rozeslání věřitelům, srovnávací propočet uspokojení v reorganizaci vs. v konkursu, finanční výhled provozu a popis alternativ.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f092e89298de122d6c7d generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 343 — Zpráva o reorganizačním plánu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Předkladatel reorganizačního plánu zpracuje zprávu o reorganizačním plánu, která musí obsahovat dostatečné informace o návrhu reorganizačního plánu. Součástí této zprávy je reorganizační plán nebo jeho shrnutí a zhodnocení jeho dopadu na věřitele.
+>
+> (2) Dostatečnými informacemi podle odstavce 1 se rozumí informace, které musí věřitel určité skupiny znát k tomu, aby se mohl rozhodnout, zda přijme reorganizační plán, zejména informace o tom, jaké plnění, v jaké hodnotě se jednotlivým skupinám věřitelů nabízí. Takovými informacemi však nejsou informace, které předkladatel může získat jen s nepoměrnými obtížemi, nebo informace o reorganizačním plánu jiné osoby než předkladatele.
+>
+> (3) Zpráva o reorganizačním plánu se předkládá věřitelům v dostatečném předstihu před schůzí věřitelů, která má rozhodnout o jeho přijetí, nejpozději 15 dnů před termínem jejího konání. Tuto zprávu lze zveřejnit až poté, co ji schválil insolvenční soud.
+>
+> (4) Náležitosti zprávy o reorganizačním plánu stanoví prováděcí právní předpis.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f092e89298de122d6c7d -->
 
 ## § 344 — § 346 — Hlasování o plánu
 
@@ -1714,6 +3248,160 @@ Při hlasování o plánu mimo schůzi musí být hlasovací lístek řádně oz
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7ef9da827f6f2bdc5753 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 344
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Není-li dále stanoveno jinak, k projednání reorganizačního plánu a hlasování o jeho přijetí dochází na schůzi věřitelů, která je svolána jen za tímto účelem. O přijetí reorganizačního plánu se v takovém případě hlasuje ve skupinách věřitelů, stanovených reorganizačním plánem.
+>
+> (2) Dlužníku a insolvenčnímu správci doručí insolvenční soud předvolání na schůzi věřitelů podle odstavce 1 do vlastních rukou s poučením o nezbytnosti jejich účasti.
+>
+> (3) Schůzi věřitelů k projednání a přijetí reorganizačního plánu insolvenční soud nesvolá nebo již svolanou schůzi věřitelů zruší, jestliže mimo schůzi věřitelů hlasovala o přijetí reorganizačního plánu každá jím stanovená skupina věřitelů nebo považuje-li se reorganizační plán podle tohoto zákona za přijatý bez hlasování.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7ef9da827f6f2bdc5753 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=b20bb32838e95fc89385 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 345
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) O přijetí reorganizačního plánu mohou věřitelé hlasovat i mimo schůzi věřitelů, a to i před podáním návrhu na povolení reorganizace nebo i před podáním insolvenčního návrhu, jestliže měli možnost seznámit se s informacemi, které svým obsahem a rozsahem odpovídají informacím, které musí být obsaženy ve zprávě o reorganizačním plánu; tím není dotčena informační povinnost dlužníka, jehož účastnické cenné papíry jsou přijaty k obchodování na regulovaném trhu18).
+>
+> (2) Výsledky hlasování dosažené mimo schůzi věřitelů se připočtou k výsledkům hlasování dosaženým na schůzi věřitelů. Je-li rozpor mezi hlasováním věřitele mimo schůzi věřitelů a jeho hlasováním na schůzi věřitelů, považuje se za rozhodné hlasování věřitele na schůzi věřitelů; o tom insolvenční soud tohoto věřitele neprodleně vyrozumí.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b20bb32838e95fc89385 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=9daed172a0fbc8f53053 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 346 — Hlasování mimo schůzi věřitelů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Hlasují-li věřitelé o přijetí reorganizačního plánu mimo schůzi věřitelů po zahájení insolvenčního řízení, k jejich hlasu se přihlíží jen tehdy, hlasují-li písemně, podáním výslovně označeným jako „Hlasovací lístek“, které nesmí obsahovat žádný jiný procesní úkon, ze kterého je nepochybné, jak hlasovali, a na kterém je úředně ověřena pravost jejich podpisu, a bylo-li toto podání obsahující všechny náležitosti doručeno insolvenčnímu soudu nejpozději v den předcházející schůzi věřitelů; [[§ 43|§ 43]] [[občanského soudního řádu|občanského soudního řádu]] se nepoužije.
+>
+> (2) Hlasují-li věřitelé o přijetí reorganizačního plánu mimo schůzi věřitelů před zahájením insolvenčního řízení, k jejich hlasu se přihlíží jen tehdy, hlasují-li písemně, podáním výslovně označeným jako „Hlasovací lístek“, které nesmí obsahovat žádný jiný právní úkon, ze kterého je nepochybné, jak hlasovali, a na kterém je úředně ověřena pravost jejich podpisu, a bylo-li toto podání obsahující všechny náležitosti doručeno dlužníku nejpozději posledního dne lhůty, kterou dlužník k tomuto účelu stanovil a známým věřitelům písemně oznámil; tato lhůta nesmí být kratší než 15 dnů.
+>
+> (3) O tom, že k hlasování věřitele mimo schůzi věřitelů nelze přihlédnout z důvodů podle odstavců 1 a [[#§ 2|2]], tohoto věřitele neprodleně vyrozumí
+>
+> - a) insolvenční správce, jde-li o hlasování po zahájení insolvenčního řízení,
+>
+> - b) dlužník, jde-li o hlasování před zahájením insolvenčního řízení.
+>
+> (4) Náležitosti hlasovacího lístku stanoví prováděcí právní předpis.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 43, § 2
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9daed172a0fbc8f53053 -->
+
 ## § 347 — Přijetí plánu skupinou — **KVALIFIKOVANÁ VĚTŠINA**
 
 > (1) Jestliže se pro přijetí reorganizačního plánu vyslovila **většina hlasujících věřitelů skupiny, jejíž pohledávky představují nejméně polovinu celkové jmenovité hodnoty pohledávek hlasujících věřitelů této skupiny**, platí, že tato skupina věřitelů reorganizační plán přijala.
@@ -1771,6 +3459,60 @@ Skupina věřitelů přijala plán, vyslovila-li se pro něj většina hlasujíc
 **Typicky rozhodné důkazy / podklady:** výsledky hlasování po skupinách (počet hlasujících a jmenovitá hodnota pohledávek), evidence základního kapitálu a podílů společníků, doklady o případném protiprávním ovlivnění hlasování, zařazení věřitelů do skupin dle § 337.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e18951a9e8a279666e69 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 347
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Jestliže se pro přijetí reorganizačního plánu vyslovila většina hlasujících věřitelů skupiny, jejíž pohledávky představují nejméně polovinu celkové jmenovité hodnoty pohledávek hlasujících věřitelů této skupiny, platí, že tato skupina věřitelů reorganizační plán přijala.
+>
+> (2) Jde-li o skupinu věřitelů uvedených v [[#§ 335|§ 335]], platí, že tato skupina přijala reorganizační plán, jestliže se pro jeho přijetí vyslovila většina společníků nebo členů dlužníka; u dlužníka se základním kapitálem musí souhrnný podíl těchto společníků nebo členů dlužníka současně představovat alespoň dvě třetiny základního kapitálu dlužníka.
+>
+> (3) Má-li věřitel více pohledávek zařazených do různých skupin, hlasuje prostřednictvím každé takové pohledávky v těchto skupinách zvlášť.
+>
+> (4) Skupina věřitelů, jejichž pohledávky nejsou reorganizačním plánem dotčeny, se vždy považuje za skupinu, která reorganizační plán přijala; obdobně to platí pro jednotlivé věřitele této skupiny.
+>
+> (5) Pokud hlasující věřitel přijal nebo odmítl reorganizační plán v důsledku jednání, které je v rozporu se zákonem nebo jej obchází, rozhodne insolvenční soud, jestliže dosud neschválil reorganizační plán, i bez návrhu a po jednání, že se k hlasu tohoto věřitele nepřihlíží. Rozhodoval-li tento hlas o přijetí nebo odmítnutí reorganizačního plánu, nařídí insolvenční soud nové hlasování o přijetí reorganizačního plánu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 335
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e18951a9e8a279666e69 -->
 
 ## § 348 — Schválení reorganizačního plánu soudem — **CENTRÁLNÍ PARAGRAF**
 
@@ -1849,6 +3591,64 @@ Insolvenční soud schválí reorganizační plán při splnění pěti podmíne
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f87e7ac1d6d7d41a785b generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 348
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Insolvenční soud schválí reorganizační plán, jestliže
+>
+> - a) je v souladu s tímto zákonem a jinými právními předpisy,
+>
+> - b) lze-li se zřetelem ke všem okolnostem důvodně předpokládat, že jím není sledován nepoctivý záměr,
+>
+> - c) jej každá skupina věřitelů přijala nebo se podle § 347 odst. 4 považuje za skupinu, která jej přijala,
+>
+> - d) každý věřitel podle něj získá plnění, jehož celková současná hodnota je ke dni účinnosti reorganizačního plánu stejná nebo vyšší než hodnota plnění, které by zřejmě obdržel, kdyby dlužníkův úpadek byl řešen konkursem, ledaže přijímající věřitel souhlasí s nižším plněním,
+>
+> - e) pohledávky za majetkovou podstatou a pohledávky jim na roveň postavené byly uhrazeny nebo mají být podle reorganizačního plánu uhrazeny ihned poté, co se reorganizační plán stane účinným, ledaže bylo mezi dlužníkem a příslušným věřitelem dohodnuto jinak.
+>
+> (2) Insolvenční soud může schválit reorganizační plán, i když není splněna podmínka uvedená v odstavci 1 písm. c), jestliže reorganizační plán přijala alespoň jedna skupina věřitelů, s výjimkou skupiny věřitelů uvedených v [[#§ 335|§ 335]]. Učiní tak za předpokladu, že reorganizační plán zajišťuje rovné zacházení s každou zjištěnou pohledávkou v rámci každé skupiny věřitelů, která jej nepřijala, je-li ve vztahu ke každé takovéto skupině reorganizační plán spravedlivý a lze-li se zřetelem ke všem okolnostem důvodně předpokládat, že schválení a uskutečnění reorganizačního plánu nepovede k dalšímu úpadku dlužníka nebo k jeho likvidaci, ledaže je likvidace reorganizačním plánem předvídána.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 347, § 335
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f87e7ac1d6d7d41a785b -->
+
 ## § 349 — Spravedlivost plánu — **CRAM-DOWN TEST**
 
 > (1) Reorganizační plán se považuje ve vztahu ke každé **skupině zajištěných věřitelů, která ho nepřijala**, za spravedlivý, mají-li podle něj věřitelé takové skupiny získat k zajištění svých pohledávek **stejný nebo obdobný druh zajištění, v témže pořadí, ke stejnému nebo obdobnému majetku dlužníka**, případně k jinému majetku dlužníka **nejméně stejné hodnoty**, stanovené ke dni účinnosti reorganizačního plánu a obdržet plnění, jehož **současná hodnota** ke dni účinnosti reorganizačního plánu se bude rovnat **nejméně hodnotě zajištění** stanovené ve znaleckém posudku.
@@ -1918,6 +3718,58 @@ Spravedlivost plánu vůči nepřijímající skupině (§ 349) je podmínkou cr
 **Typicky rozhodné důkazy / podklady:** znalecké posudky o hodnotě původní a náhradní zástavy a o likvidační hodnotě, propočet současné hodnoty nabízeného plnění (diskont), struktura a hodnota podílů společníků, reorganizační plán s rozdělením plnění mezi skupiny.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b574f4bcff02a211a8f9 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 349
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Reorganizační plán se považuje ve vztahu ke každé skupině zajištěných věřitelů, která ho nepřijala, za spravedlivý, mají-li podle něj věřitelé takové skupiny získat k zajištění svých pohledávek stejný nebo obdobný druh zajištění, v témže pořadí, ke stejnému nebo obdobnému majetku dlužníka, případně k jinému majetku dlužníka nejméně stejné hodnoty, stanovené ke dni účinnosti reorganizačního plánu a obdržet plnění, jehož současná hodnota ke dni účinnosti reorganizačního plánu se bude rovnat nejméně hodnotě zajištění stanovené ve znaleckém posudku.
+>
+> (2) Není-li dále stanoveno jinak, reorganizační plán se považuje ve vztahu ke každé skupině nezajištěných věřitelů, která ho nepřijala, za spravedlivý, jestliže podle něj má každý věřitel zařazený do takové skupiny získat plnění, jehož současná hodnota ke dni účinnosti reorganizačního plánu není nižší než jmenovitá hodnota jeho zjištěné pohledávky s úrokem ke dni účinnosti reorganizačního plánu, nebo jestliže podle něj žádný z věřitelů, jehož pohledávka je podřízena pohledávkám takové skupiny, neobdrží žádné plnění.
+>
+> (3) Reorganizační plán se považuje ve vztahu ke každé skupině věřitelů uvedených v [[#§ 335|§ 335]], která ho nepřijala, za spravedlivý, má-li podle něj každý z těchto věřitelů ke dni účinnosti reorganizačního plánu obdržet nejméně takové plnění, kterého by se mu zřejmě dostalo, kdyby po skončení insolvenčního řízení, ve kterém byl dlužníkův úpadek řešen konkursem, proběhla likvidace takového dlužníka.
+>
+> (4) Podmínka uvedená v odstavci 3 je splněna, jestliže na základě reorganizačního plánu některá skupina nezajištěných věřitelů nezíská plnění, jehož celková současná hodnota ke dni účinnosti reorganizačního plánu je alespoň stejná jako celková jmenovitá hodnota všech zjištěných pohledávek věřitelů zařazených do této skupiny včetně úroku k těmto pohledávkám ke dni účinnosti reorganizačního plánu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 335
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b574f4bcff02a211a8f9 -->
 
 ## § 350 — § 351 — Odvolání a změna plánu
 
@@ -2011,6 +3863,106 @@ V praxi platí tvrdé pravidlo: proti schválení plánu se odvolá jen ten, kdo
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2d33ece56b5495bf5145 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 350
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Proti rozhodnutí o schválení reorganizačního plánu mohou podat odvolání jen ti z věřitelů, kteří hlasovali pro odmítnutí reorganizačního plánu.
+>
+> (2) Až do rozhodnutí insolvenčního soudu o schválení reorganizačního plánu jej může jeho předkladatel vzít zpět. V takovém případě se k podanému reorganizačnímu plánu nepřihlíží.
+>
+> (3) Předkladatel reorganizačního plánu může až do rozhodnutí o schválení reorganizačního plánu reorganizační plán doplnit nebo změnit; v takovém případě hlasují věřitelé o reorganizačním plánu v podobě po jeho doplnění nebo změně. Schůze věřitelů, která má o reorganizačním plánu rozhodnout, se může konat nejdříve 15 dnů poté, co bylo věřitelům předloženo znění navrhovaných doplnění nebo změn reorganizačního plánu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2d33ece56b5495bf5145 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=0957a39ec034953faeaa generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 351
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Nejsou-li splněny všechny podmínky pro schválení reorganizačního plánu, insolvenční soud jej zamítne.
+>
+> (2) Proti rozhodnutí o zamítnutí reorganizačního plánu mohou podat odvolání dlužník, předkladatel tohoto plánu a věřitelé, kteří hlasovali pro jeho přijetí.
+>
+> (3) Osoba, jejíž reorganizační plán byl zamítnut, jej může podat znovu, jen neuplynula-li jí dosud lhůta k jeho předložení. Tuto lhůtu může insolvenční soud v odůvodněných případech před jejím uplynutím prodloužit v rozhodnutí, kterým zamítá reorganizační plán.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0957a39ec034953faeaa -->
+
 # Díl 6 — Provádění reorganizačního plánu (§ 352 — § 361)
 
 ## § 352 — Účinnost plánu
@@ -2064,6 +4016,56 @@ V praxi platí tvrdé pravidlo: proti schválení plánu se odvolá jen ten, kdo
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9bc5f38b40e13306df0a generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 352
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Reorganizační plán je účinný, jakmile rozhodnutí o jeho schválení nabylo právní moci, nebyla-li reorganizačním plánem jeho účinnost odložena na pozdější dobu nebo nerozhodl-li o jeho pozdější účinnosti insolvenční soud.
+>
+> (2) Rozhodnutí o schválení reorganizačního plánu je závazné pro všechny účastníky insolvenčního řízení i pro další osoby, jejichž práva a povinnosti jsou reorganizačním plánem dotčeny.
+>
+> (3) Účinností reorganizačního plánu se ruší zákaz započtení pohledávek uvedený v § 324 odst. 3.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 324
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9bc5f38b40e13306df0a -->
+
 ## § 353 — Dispozice po účinnosti
 
 **Po účinnosti plánu**:
@@ -2110,6 +4112,56 @@ Po účinnosti plánu se dlužníkovi obnovují a rozšiřují dispoziční opr�
 **Typicky rozhodné důkazy / podklady:** reorganizační plán (ustanovení o dispozicích, korporátních změnách a výhradách souhlasu), pravomocné usnesení o schválení plánu, návrh na zápis do OR a jeho přílohy, případný souhlas věřitelského výboru s konkrétním úkonem.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1b6953ea24ce5e4e8079 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 353
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Od účinnosti reorganizačního plánu je oprávněn nakládat s majetkovou podstatou dlužník. Toto jeho oprávnění může být omezeno ve prospěch jiných osob pouze reorganizačním plánem; jiná omezení, ke kterým došlo ze zákona nebo rozhodnutím insolvenčního soudu v dosavadním průběhu insolvenčního řízení, účinností reorganizačního plánu zanikají.
+>
+> (2) Od účinnosti reorganizačního plánu se obnovuje výkon funkce valné hromady nebo členské schůze družstva, pokud z reorganizačního plánu nevyplývá něco jiného. Hlasovací práva spojená s obchodním podílem, cennými papíry nebo členstvím vykonávají osoby uvedené v reorganizačním plánu za podmínek tam stanovených; pokud v reorganizačním plánu tyto osoby nejsou uvedeny nebo stanovené podmínky nebyly splněny, vykonávají je osoby, kterým tato práva až dosud náležela.
+>
+> (3) Od účinnosti reorganizačního plánu se mění zakladatelský dokument nebo stanovy anebo jiné dokumenty upravující vnitřní poměry dlužníka a údaje, které se zapisují do obchodního rejstříku nebo jiného rejstříku právnických osob, a to způsobem, který je uveden v reorganizačním plánu. Tyto skutečnosti se zapisují do obchodního rejstříku na základě reorganizačního plánu, který se ukládá do sbírky listin. Ustanovení právních předpisů, které obecně upravují způsob změny zapisovaných skutečností, se přitom nepoužijí.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1b6953ea24ce5e4e8079 -->
 
 ## § 354 — § 355 — Dohled správce a věřitelského výboru
 
@@ -2166,6 +4218,108 @@ Po účinnosti plánu vykonává insolvenční správce dohled nad dlužníkem (
 **Typicky rozhodné důkazy / podklady:** zprávy insolvenčního správce soudu a věřitelskému výboru, reorganizační plán a usnesení výboru vymezující vyhrazené úkony, doklady o (ne)plnění splátek a podstatných povinností, korespondence dlužníka se správcem, návrhy opatření podané výborem soudu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=46d31eb177910c055d23 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 354
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Insolvenční správce zajistí, aby byly provedeny procesní úkony spojené s účinností reorganizačního plánu. Dlužníku s dispozičními oprávněními předá zprávu o své dosavadní činnosti a provede další úkony potřebné k tomu, aby dlužník s dispozičními oprávněními mohl vykonávat svá oprávnění.
+>
+> (2) V průběhu provádění reorganizačního plánu vykonává insolvenční správce dohled nad činností dlužníka. Zaměřuje se na doplňování seznamu majetku a závazků podle stavu řízení a na evidování činnosti dlužníka s dispozičními oprávněními. O výsledcích své činnosti pravidelně, nejméně však jednou za 3 měsíce, informuje insolvenční soud a věřitelský výbor.
+>
+> (3) Dlužník s dispozičními oprávněními je povinen informovat insolvenčního správce o svých právních úkonech, o plnění reorganizačního plánu a o své jiné činnosti podle reorganizačního plánu. Zprávy o běžných úkonech při podnikatelské činnosti a zprávy o plnění dlouhodobých nebo opakujících se činností podává souhrnně za časové úseky, stanovené reorganizačním plánem nebo rozhodnutím insolvenčního soudu.
+>
+> (4) Pokud jsou dispoziční oprávnění dlužníka omezena, vykonává je insolvenční správce. Stanoví-li reorganizační plán právní úkony, které může dlužník provést jen se souhlasem insolvenčního správce, jsou tyto úkony neplatné, pokud byly provedeny bez tohoto souhlasu. Týká-li se omezení dispozičních práv dlužníka nemovitostí zapsaných v katastru nemovitostí, vyrozumí o tom insolvenční správce příslušné katastrální pracoviště.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=46d31eb177910c055d23 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=894dfbf0217e240daaf1 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 355
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Věřitelský výbor kontroluje provádění reorganizačního plánu dlužníkem s dispozičními oprávněními způsobem stanoveným v reorganizačním plánu, jakož i na základě zpráv insolvenčního správce.
+>
+> (2) Věřitelský výbor si může předem vyhradit, že některé právní úkony, které mají zásadní význam, může dlužník s dispozičními oprávněními uskutečnit jen s jeho předběžným souhlasem, i když nejsou uvedeny v reorganizačním plánu.
+>
+> (3) Věřitelský výbor je oprávněn navrhnout insolvenčnímu soudu opatření k odstranění nedostatků, které zjistil při své kontrolní činnosti, včetně opatření, která vedou ke skončení reorganizace.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=894dfbf0217e240daaf1 -->
 
 ## § 356 — Účinky plánu na pohledávky věřitelů — **KLÍČOVÝ**
 
@@ -2227,6 +4381,58 @@ Po účinnosti plánu vykonává insolvenční správce dohled nad dlužníkem (
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=0d5c385785e91c41ab06 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 356
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Není-li tímto zákonem nebo reorganizačním plánem stanoveno jinak, zanikají účinností tohoto plánu práva všech věřitelů vůči dlužníkovi, a to i v případě, že svou pohledávku do insolvenčního řízení nepřihlásili; za věřitele dlužníka se považují osoby uvedené v reorganizačním plánu za podmínek v něm stanovených, včetně rozsahu jejich práv.
+>
+> (2) Účinností reorganizačního plánu zanikají práva třetích osob k majetku, který náleží do majetkové podstaty, a tato práva vznikají osobám uvedeným v reorganizačním plánu za podmínek v něm stanovených, není-li v tomto zákoně nebo v reorganizačním plánu stanoveno jinak. To platí i pro majetek, který podle reorganizačního plánu má připadnout osobě odlišné od dlužníka. Právo třetích osob na vyloučení věci nebo jiné majetkové hodnoty z majetkové podstaty tím není dotčeno.
+>
+> (3) Práva věřitelů vůči spoludlužníkům a ručitelům dlužníka zůstávají reorganizačním plánem nedotčena.
+>
+> (4) Má-li účinností reorganizačního plánu dojít ke vzniku, změně nebo zániku práv k majetku v majetkové podstatě, lze potřebné projevy vůle jednajících osob zahrnout do reorganizačního plánu. Jsou-li reorganizačním plánem dotčena práva, která se zapisují do katastru nemovitostí nebo do jiného seznamu podle zvláštních právních předpisů, musí být tato práva v reorganizačním plánu přesně označena.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0d5c385785e91c41ab06 -->
+
 ## § 357 — Úvěrové financování v reorganizaci
 
 **Pohledávka z úvěrového financování** (§ 41) je *pohledávka za podstatou* s **prioritou před všemi**, *kromě odměny správce*.
@@ -2274,6 +4480,56 @@ Pohledávka z úvěrového financování poskytnutého v reorganizaci (§ 41) je
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=074e074a1b3e7e69e05a generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 357
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Pohledávka věřitele z úvěrového financování, kterou přijal dlužník s dispozičními oprávněními nebo insolvenční správce po povolení reorganizace k dosažení jejího účelu, je pohledávkou za majetkovou podstatou, která se uspokojí před všemi jinými pohledávkami, s výjimkou výdajů a odměny insolvenčního správce.
+>
+> (2) Je-li věřitelem z úvěrového financování osoba, která neměla přednostní právo k jeho poskytnutí podle § 41 odst. 2, má její pohledávka z úvěrového financování stejné pořadí jako pohledávky zajištěných věřitelů, kteří svého práva podle § 41 odst. 2 nevyužili. Mezi zajištěné věřitele, kteří svého práva podle § 41 odst. 2 nevyužili, se pohledávka věřitele z úvěrového financování rozdělí v poměru, v němž jsou ke dni poskytnutí úvěrového financování k sobě navzájem hodnoty věcí, práv a pohledávek sloužících k zajištění pohledávek zajištěných věřitelů, stanovené znaleckým posudkem.
+>
+> (3) Pohledávky podle odstavce 1, které podle reorganizačního plánu měly být uhrazeny až po skončení reorganizace, a k jejichž úhradě nedošlo pro opětovný úpadek dlužníka, který nastal do 2 let po skončení reorganizace, mají v novém insolvenčním řízení stejné postavení jako v původním insolvenčním řízení.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 41
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=074e074a1b3e7e69e05a -->
+
 ## § 358 — § 359 — Dílčí pravidla
 
 **§ 358** — evidence zaknihovaných cenných papírů — změny *na základě plánu*.
@@ -2318,6 +4574,98 @@ Změny v evidenci zaknihovaných cenných papírů se po reorganizaci prováděj
 **Typicky rozhodné důkazy / podklady:** reorganizační plán (ustanovení o cenných papírech a o osudu vyloučených pohledávek), výpis z evidence zaknihovaných cenných papírů, přehled přihlášených pohledávek s rozlišením povahy (úrok, smluvní pokuta, správní sankce), tituly jednotlivých sankčních pohledávek.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1dc1d84e8011cf7f2c54 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 358
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Osoba vedoucí evidenci zaknihovaných cenných papírů provede příslušné změny v této evidenci na základě schváleného reorganizačního plánu, a to na základě žádosti dlužníka nebo jiné osoby, které se taková změna týká.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1dc1d84e8011cf7f2c54 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=502e673b4395d0a38204 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 359
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Pohledávky, které se v insolvenčním řízení neuspokojují ([[#§ 170|§ 170]]), přijetím reorganizačního plánu zanikají, nejde-li o mimosmluvní sankce postihující majetek dlužníka nebo není-li v reorganizačním plánu uvedeno jinak. Odchylná úprava pohledávek podle věty první v reorganizačním plánu se může týkat krácení jejich výše, odkladu jejich splatnosti nebo jiného zásahu do práv věřitelů; odchylná úprava těchto pohledávek musí být v reorganizačním plánu uvedena výslovně, s přesným vymezením rozsahu a podmínek jejich uspokojení.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 170
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=502e673b4395d0a38204 -->
 
 ## § 360 — Výkon rozhodnutí po reorganizaci
 
@@ -2367,6 +4715,54 @@ Po účinnosti plánu je reorganizační plán exekučním titulem: věřitel m�
 **Typicky rozhodné důkazy / podklady:** reorganizační plán a pravomocné usnesení o jeho schválení (exekuční titul), doklady o úhradě a neúhradě jednotlivých splátek, u popřené pohledávky rozhodnutí o jejím zjištění, výpočet aktuálně vymahatelné částky.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9467c48f62436cfe3310 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 360
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Po účinnosti reorganizačního plánu lze proti dlužníku nařídit a provést výkon rozhodnutí nebo exekuci k vymožení pohledávky, stanovené reorganizačním plánem. Byla-li však tato pohledávka popřena, lze výkon rozhodnutí nebo exekuci vést pouze v případě právní moci rozhodnutí insolvenčního soudu o zjištění této pohledávky; toto rozhodnutí musí být k návrhu přiloženo.
+>
+> (2) Ustanovení odstavce 1 platí i pro výkon rozhodnutí nebo exekuci proti třetí osobě, která převzala na základě reorganizačního plánu povinnost za dlužníka nebo vedle něho.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9467c48f62436cfe3310 -->
 
 ## § 361 — Změna reorganizačního plánu
 
@@ -2420,6 +4816,74 @@ Změnu účinného plánu může navrhnout pouze předkladatel a jen pro lepší
 **Typicky rozhodné důkazy / podklady:** návrh změny plánu a doklad o jeho zveřejnění, stanovená lhůta k odmítnutí, protokol o jednání a hlasování s rozdělením do skupin, evidence vyjádření (a mlčení) jednotlivých nových věřitelů, původní reorganizační plán pro srovnání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=09f6147e877975248dde generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 361
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Navrhovatel reorganizačního plánu může navrhnout jeho změnu, v jejímž důsledku má být účel reorganizace lépe splnitelný. V návrhu popíše účel změny, navrhovaný způsob jejího provedení a dopady změny na jednotlivé skupiny původních věřitelů a na nové věřitele.
+>
+> (2) Návrh změny reorganizačního plánu zveřejní insolvenční soud v insolvenčním rejstříku. Současně stanoví věřitelům lhůtu, ve které mohou změněný plán odmítnout. Tato lhůta nesmí být kratší než 30 dnů ode dne doručení návrhu změn.
+>
+> (3) K projednání návrhu změny reorganizačního plánu nařídí insolvenční soud jednání, a to tak, aby se konalo nejpozději do 15 dnů po uplynutí lhůty podle odstavce 2, ne však dříve než v den následující po uplynutí této lhůty.
+>
+> (4) Ke schválení změny reorganizačního plánu se vyžaduje souhlas
+>
+> - a) všech skupin původních věřitelů,
+>
+> - b) většiny nových věřitelů, jejichž pohledávky jsou podle reorganizačního plánu zajištěny,
+>
+> - c) většiny nových věřitelů, jejichž pohledávky podle reorganizačního plánu nejsou zajištěny, a
+>
+> - d) většiny společníků dlužníka nebo jiné právnické osoby, na kterou podle reorganizačního plánu přešel majetek dlužníka.
+>
+> Ustanovení [[#§ 347|§ 347]] se použije obdobně.
+>
+> (5) Platí, že věřitelé, kteří ve lhůtě podle odstavce 2 ani při jednání podle odstavce 3 nevyjádřili nesouhlas s navrhovanou změnou plánu, se změnou souhlasí.
+>
+> (6) Změněný reorganizační plán insolvenční soud schválí, jestliže jej schválili věřitelé podle odstavce 4 nebo platí-li, že byl schválen podle odstavce 5.
+>
+> (7) Jestliže insolvenční soud změněný insolvenční plán neschválí, zůstává účinný dříve schválený reorganizační plán.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 347
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=09f6147e877975248dde -->
 
 # Díl 7 — Skončení reorganizace (§ 362 — § 364)
 
@@ -2480,6 +4944,56 @@ Insolvenční soud může zrušit schválení reorganizačního plánu ve dvou p
 **Typicky rozhodné důkazy / podklady:** doklady o poskytnutých zvláštních výhodách a (ne)souhlasu věřitelů skupiny, podklady prokazující podvodný způsob (zatajení aktiv, zkreslené údaje), pravomocný odsuzující rozsudek statutára, hlasovací protokol, evidence dat účinnosti a jednotlivých skutečností pro posouzení lhůt.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e99d694410212d2722cb generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 362
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Insolvenční soud zruší rozhodnutí o schválení reorganizačního plánu do 6 měsíců od jeho účinnosti, zjistí-li, že některému věřiteli byly poskytnuty zvláštní výhody, aniž s tím ostatní věřitelé stejné skupiny souhlasili, nebo že schválení reorganizačního plánu bylo dosaženo podvodným způsobem.
+>
+> (2) Insolvenční soud zruší rozhodnutí o schválení reorganizačního plánu do 3 let od jeho účinnosti, pokud byl dlužník, jeho statutární orgán nebo člen statutárního orgánu pravomocně odsouzen pro úmyslný trestný čin, kterým dosáhl schválení reorganizačního plánu nebo podstatně zkrátil věřitele.
+>
+> (3) Rozhodne-li insolvenční soud o zrušení reorganizačního plánu, mohou věřitelé bez dalšího požadovat uspokojení pohledávek a jiných práv, která měli před jeho schválením. Práva věřitelů a třetích osob založená reorganizačním plánem nejsou dotčena; je-li to nutné, přijme insolvenční soud opatření k ochraně oprávněných zájmů věřitelů.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e99d694410212d2722cb -->
 
 ## § 363 — Přeměna reorganizace v konkurs — **VÝZNAMNÝ INSTITUT**
 
@@ -2552,6 +5066,74 @@ Přeměna reorganizace v konkurs (§ 363) je krajním nástrojem při selhání 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=bfdaf71b36aaa552603c generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 363
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Insolvenční soud rozhodne o přeměně reorganizace v konkurs, jestliže
+>
+> - a) reorganizace byla povolena na návrh dlužníka a ten její přeměnu v konkurs po tomto povolení navrhl,
+>
+> - b) oprávněná osoba nebo osoba určená schůzí věřitelů nesestaví ve stanovené lhůtě reorganizační plán ani po jejím případném prodloužení insolvenčním soudem nebo předložený reorganizační plán vezme zpět, a do 30 dnů poté nebude podán návrh na svolání schůze věřitelů za účelem rozhodnutí o tom, která jiná osoba má přednostní právo sestavit reorganizační plán, anebo tato jiná osoba nesestaví ve stanovené lhůtě reorganizační plán nebo jej vezme zpět,
+>
+> - c) insolvenční soud neschválil reorganizační plán a oprávněným osobám uplynula lhůta k jeho předložení,
+>
+> - d) v průběhu provádění reorganizačního plánu dlužník neplní své podstatné povinnosti stanovené tímto plánem nebo ukáže-li se, že podstatnou část tohoto plánu nebude možné plnit,
+>
+> - e) dlužník neplatí řádně a včas úroky podle § 171 odst. 4, nebo v podstatném rozsahu neplní své jiné splatné peněžité závazky,
+>
+> - f) dlužník po schválení reorganizačního plánu přestal podnikat, ačkoli podle reorganizačního plánu podnikat měl, nebo
+>
+> - g) dlužník po schválení reorganizačního plánu neuhradil pohledávky za majetkovou podstatou a pohledávky postavené jim na roveň podle § 348 odst. 1 písm. e).
+>
+> (2) O přeměně reorganizace v konkurs v případech uvedených v odstavci 1 písm. a) až c) rozhodne insolvenční soud bez jednání. Proti tomuto rozhodnutí mohou podat odvolání jen dlužník, navrhovatel reorganizace, insolvenční správce a věřitelský výbor.
+>
+> (3) O přeměně reorganizace v konkurs podle odstavce 1 písm. d) až g) rozhodne insolvenční soud po jednání, k němuž předvolá všechny osoby uvedené v odstavci 2; odvolání proti tomuto rozhodnutí mohou podat jen osoby uvedené v odstavci 2.
+>
+> (4) O přeměně reorganizace v konkurs nemůže insolvenční soud rozhodnout, jestliže reorganizační plán byl v podstatných bodech splněn.
+>
+> (5) Rozhodnutím insolvenčního soudu o přeměně reorganizace v konkurs nastávají účinky spojené s prohlášením konkursu, pokud insolvenční soud ve svém rozhodnutí nestanoví podmínky této přeměny jinak. Tímto rozhodnutím se rovněž ruší zákaz započtení pohledávek uvedený v § 324 odst. 3.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 171, § 348, § 324
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bfdaf71b36aaa552603c -->
+
 ## § 364 — Splnění reorganizace
 
 > (3) Splnění reorganizačního plánu nebo jeho podstatných částí **vezme insolvenční soud na vědomí rozhodnutím, kterým reorganizace končí**; proti tomuto rozhodnutí není odvolání přípustné.
@@ -2605,3 +5187,54 @@ Splnění reorganizačního plánu nebo jeho podstatných částí bere insolven
 **Tímto je dokončena Hlava II — Reorganizace (§ 316—364).**
 
 **Pokračování:** [14-cast2-hlava3-zvlastni-financni-instituce.md](14-cast2-hlava3-zvlastni-financni-instituce.md) — Hlava III + IV — Zvláštní ustanovení o vyloučení účinků zákona a zvláštní způsoby řešení úpadku (§ 365 — § 388).
+
+<!-- LEGAL-REVISION:BEGIN id=68f823f54e0b17fbd3a8 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 364
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) V průběhu provádění reorganizačního plánu insolvenční soud bere na vědomí nebo projedná zprávy insolvenčního správce a věřitelského výboru o jeho plnění. Jiná opatření, zejména opatření k zajištění dodržování reorganizačního plánu, provádí jen tehdy, jsou-li navrhována.
+>
+> (2) Zprávy o plnění reorganizačního plánu se předkládají na elektronickém formuláři, jehož náležitosti a formát stanoví prováděcí právní předpis.
+>
+> (3) Splnění reorganizačního plánu nebo jeho podstatných částí vezme insolvenční soud na vědomí rozhodnutím, kterým reorganizace končí; proti tomuto rozhodnutí není odvolání přípustné.
+>
+> (4) Po skončení reorganizace rozhodne insolvenční soud o odměně insolvenčního správce a jeho nákladech.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=68f823f54e0b17fbd3a8 -->

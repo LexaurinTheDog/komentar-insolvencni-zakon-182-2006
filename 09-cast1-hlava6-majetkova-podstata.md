@@ -96,6 +96,58 @@ Ustanovení vymezuje časový a věcný rozsah podstaty: u dlužnického návrhu
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ae307870c8a150fb7448 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 205 — Pojem a rozsah majetkové podstaty
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Jestliže insolvenční návrh podal dlužník, náleží do majetkové podstaty majetek, který dlužníkovi patřil k okamžiku, kdy nastaly účinky spojené se zahájením insolvenčního řízení, jakož i majetek, který dlužník nabyl v průběhu insolvenčního řízení.
+>
+> (2) Podal-li insolvenční návrh věřitel, náleží do majetkové podstaty majetek, který dlužníkovi patřil k okamžiku, kdy nastaly účinky předběžného opatření, kterým insolvenční soud zcela nebo zčásti omezil právo dlužníka nakládat s jeho majetkem, majetek, který dlužníkovi patřil k okamžiku, kdy nastaly účinky rozhodnutí o úpadku dlužníka, a majetek, který dlužník nabyl v průběhu insolvenčního řízení poté, co nastaly účinky těchto rozhodnutí.
+>
+> (3) Je-li dlužník spoluvlastníkem majetku podle odstavců 1 a [[#§ 2|2]], náleží do majetkové podstaty podíl dlužníka na tomto majetku. Majetek podle odstavců 1 a [[#§ 2|2]] náleží do majetkové podstaty i tehdy, je-li ve společném jmění dlužníka a jeho manžela.
+>
+> (4) Majetek jiných osob než dlužníka náleží do majetkové podstaty, stanoví-li to zákon, zejména jde-li o plnění z neúčinných právních úkonů. Pro účely zpeněžení se na takový majetek pohlíží jako na majetek dlužníka.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ae307870c8a150fb7448 -->
+
 ## § 206 — Obsah majetkové podstaty
 
 > (1) Není-li v tomto zákoně stanoveno jinak, majetkovou podstatu podle § 205 tvoří **zejména**
@@ -183,6 +235,74 @@ Do podstaty patří prakticky vše s penězi ocenitelnou hodnotou (demonstrativn
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d3fc87091cfff091549e generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 206
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Není-li v tomto zákoně stanoveno jinak, majetkovou podstatu podle [[#§ 205|§ 205]] tvoří zejména
+>
+> - a) peněžní prostředky,
+>
+> - b) věci movité a nemovité,
+>
+> - c) podnik,
+>
+> - d) soubor věcí a věci hromadné,
+>
+> - e) vkladní knížky, vkladní listy a jiné formy vkladů,
+>
+> - f) akcie, směnky, šeky nebo jiné cenné papíry anebo jiné listiny, jejichž předložení je nutné k uplatnění práva,
+>
+> - g) obchodní podíl,
+>
+> - h) dlužníkovy peněžité i nepeněžité pohledávky, včetně pohledávek podmíněných a pohledávek, které dosud nejsou splatné,
+>
+> - i) dlužníkova mzda nebo plat, jeho pracovní odměna jako člena družstva a příjmy, které dlužníkovi nahrazují odměnu za práci, zejména důchod, nemocenské, peněžitá pomoc v mateřství, stipendia, náhrady ucházejícího výdělku, náhrady poskytované za výkon společenských funkcí, podpora v nezaměstnanosti a podpora při rekvalifikaci,
+>
+> - j) další práva a jiné majetkové hodnoty, mají-li penězi ocenitelnou hodnotu.
+>
+> (2) Majetkovou podstatu tvoří dále i příslušenství, přírůstky, plody a užitky majetku uvedeného v odstavci 1.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 205
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d3fc87091cfff091549e -->
+
 ## § 207 — Vyloučený majetek („nedotknutelné minimum")
 
 > (1) Nestanoví-li tento zákon jinak, do majetkové podstaty **nepatří majetek, který nelze postihnout výkonem rozhodnutí nebo exekucí**; věci sloužící k podnikání dlužníka však z majetkové podstaty vyloučeny nejsou.
@@ -264,6 +384,56 @@ Z podstaty je vyloučen nezabavitelný majetek (osobní věci, zdravotní pomůc
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=32fe61d4e82f1901a05e generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 207
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Nestanoví-li tento zákon jinak, do majetkové podstaty nepatří majetek, který nelze postihnout výkonem rozhodnutí nebo exekucí28); věci sloužící k podnikání dlužníka však z majetkové podstaty vyloučeny nejsou.
+>
+> (2) Příjmy dlužníka náleží do majetkové podstaty ve stejném rozsahu, v jakém z nich mohou být při výkonu rozhodnutí nebo při exekuci uspokojeny přednostní pohledávky29).
+>
+> (3) Je-li podle ustanovení o výkonu rozhodnutí nebo exekuci posouzení otázky, který majetek nelze postihnout výkonem rozhodnutí nebo exekucí, závislé na rozhodnutí soudu, pro účely insolvenčního řízení vydá takové rozhodnutí insolvenční soud.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=32fe61d4e82f1901a05e -->
+
 ## § 208 — Účelově vázaný majetek
 
 > Nestanoví-li tento zákon jinak, do majetkové podstaty nepatří též majetek, **se kterým lze podle zvláštního právního předpisu naložit pouze způsobem, k němuž byl určen**, zejména **účelové dotace** a návratné výpomoci ze státního rozpočtu, z Národního fondu, z rozpočtu územního samosprávního celku nebo státního fondu, **finanční rezervy** vytvářené podle zvláštních právních předpisů, majetek České národní banky, který byl na základě zvláštních dohod svěřen do správy jiné osobě, zboží propuštěné celním úřadem k dočasnému použití a majetek státu v rozsahu stanoveném zvláštním právním předpisem.
@@ -334,6 +504,52 @@ Z podstaty je vyloučen nezabavitelný majetek (osobní věci, zdravotní pomůc
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=94a39c5119662fae48e1 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 208
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Nestanoví-li tento zákon jinak, do majetkové podstaty nepatří též majetek, se kterým lze podle zvláštního právního předpisu naložit pouze způsobem, k němuž byl určen, zejména účelové dotace a návratné výpomoci ze státního rozpočtu, z Národního fondu, z rozpočtu územního samosprávního celku nebo státního fondu, finanční rezervy vytvářené podle zvláštních právních předpisů30), majetek České národní banky, který byl na základě zvláštních dohod svěřen do správy jiné osobě, zboží propuštěné celním úřadem k dočasnému použití a majetek státu v rozsahu stanoveném zvláštním právním předpisem31).
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=94a39c5119662fae48e1 -->
+
 # Zjišťování majetkové podstaty (§ 209 — § 216)
 
 ## § 209 — Zjišťování — kdo a jak
@@ -390,6 +606,54 @@ Zjišťování majetkové podstaty je samostatná funkce správce (či předbě�
 **Typicky rozhodné důkazy / podklady:** usnesení o ustanovení (předběžného) správce, žádosti a odpovědi v rámci součinnosti (§ 43), výpisy z registrů, pokyny soudu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8c364c92d9b5eab57a26 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 209
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Zjišťování majetkové podstaty zajišťuje od svého ustanovení insolvenční správce nebo předběžný správce, i když nejde o osobu s dispozičními oprávněními. Přitom je povinen řídit se pokyny insolvenčního soudu.
+>
+> (2) Dokud insolvenční správce nebo předběžný správce není ustanoven, může insolvenční soud rozhodnout o opatřeních potřebných ke zjištění podstaty a o způsobu jejich provedení.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8c364c92d9b5eab57a26 -->
 
 ## § 210 — § 212 — Součinnost dlužníka
 
@@ -554,6 +818,162 @@ Dlužník (u PO statutární orgány a jejich členové, včetně bývalých v o
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=acbc84a668c6109237e6 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 210
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Dlužník je povinen poskytnout insolvenčnímu správci nebo předběžnému správci při zjišťování majetkové podstaty všestrannou součinnost, zejména dbát pokynů insolvenčního správce nebo předběžného správce.
+>
+> (2) Je-li dlužníkem právnická osoba, mají povinnosti podle odstavce 1 její statutární orgány a jejich členové nebo likvidátor, jde-li o právnickou osobu v likvidaci. Jestliže postavení statutárního orgánu má více osob oprávněných jednat samostatně, lze splnění těchto povinností požadovat od kterékoli z nich. Uvedené osoby mají tuto povinnost i v případě, že jejich postavení zaniklo v posledních 3 měsících před zahájením insolvenčního řízení.
+>
+> (3) Insolvenční soud může vyžadovat splnění povinností podle odstavců 1 a [[#§ 2|2]] také od osob, které jsou společníky, zaměstnanci nebo členy právnické osoby, a to v rozsahu jejich oprávnění jednat za právnickou osobu.
+>
+> (4) Je-li dlužníkem fyzická osoba, mají povinnosti podle odstavců 1 a [[#§ 2|2]] i její zákonní zástupci; má-li fyzická osoba více zákonných zástupců oprávněných jednat jejím jménem samostatně, může insolvenční soud vyžadovat splnění těchto povinností od každého z nich.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=acbc84a668c6109237e6 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=ac16abc4a21029c31b04 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 211
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Východiskem zjišťování majetkové podstaty je seznam majetku, který je dlužník povinen předložit současně s insolvenčním návrhem, případně na základě rozhodnutí insolvenčního soudu.
+>
+> (2) Insolvenční správce nebo předběžný správce provede vlastní šetření o tom, zda do majetkové podstaty nepatří i jiné věci, práva, pohledávky a majetkové hodnoty než ty, které dlužník uvedl v seznamu majetku. Potřebnou součinnost mu jsou povinny poskytnout také věřitelské orgány.
+>
+> (3) Nemůže-li insolvenční správce nebo předběžný správce dosáhnout úplného zjištění majetkové podstaty proto, že mu nebyla poskytnuta požadovaná součinnost, oznámí to insolvenčnímu soudu a navrhne mu přijetí příslušného opatření.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ac16abc4a21029c31b04 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=201e5325832d63a1e3d6 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 212
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Dlužník musí umožnit insolvenčnímu správci přístup na všechna místa, kde má umístěn majetek náležející do majetkové podstaty.
+>
+> (2) Je-li to potřebné, zejména neposkytuje-li dlužník insolvenčnímu správci součinnost potřebnou ke zjištění a zajištění majetkové podstaty, může insolvenční soud na návrh insolvenčního správce nařídit prohlídku bytu, sídla a jiných místností dlužníka, jakož i jeho skříní nebo jiných schránek v nich umístěných, kde má dlužník svůj majetek; za tím účelem je insolvenční správce oprávněn zjednat si do bytu nebo do jiné místnosti dlužníka přístup, popřípadě uzavřené skříně nebo jiné schránky otevřít.
+>
+> (3) Písemné vyhotovení rozhodnutí podle odstavce 2 nemusí obsahovat odůvodnění; proti tomuto rozhodnutí není odvolání přípustné. Rozhodnutí se doručuje pouze insolvenčnímu správci a dlužníku. Insolvenční soud doručí rozhodnutí insolvenčnímu správci spolu se stejnopisem rozhodnutí, který má být doručen dlužníku. Dlužníku doručí rozhodnutí insolvenční správce při prohlídce místností, kterých se usnesení týká. Nepodaří-li se insolvenčnímu správci doručit rozhodnutí dlužníku při tomto úkonu, vrátí je k doručení insolvenčnímu soudu.
+>
+> (4) Každý, v jehož objektu má dlužník svůj byt, sídlo nebo jiné své místnosti, je povinen strpět, aby insolvenční správce, který provádí soupis nebo činí úkony směřující k řádnému zajištění a správě majetkové podstaty, provedl prohlídku bytu a jiných místností dlužníka. Nesplní-li tuto povinnost, je insolvenční správce oprávněn zjednat si k bytu nebo jiné místnosti dlužníka přístup.
+>
+> (5) Je-li to potřebné, přibere insolvenční správce k prohlídce vhodnou osobu, podle možnosti zástupce orgánu obce. O prohlídce sepíše insolvenční správce protokol, v němž musí být uveden majetek, který byl při prohlídce zjištěn, a majetek, který byl při prohlídce zajištěn. Protokol podepíše insolvenční správce, případně osoba, kterou k prohlídce přibral. Protokol předá insolvenční správce insolvenčnímu soudu s tím, že si ponechá opis. Opis protokolu insolvenční soud doručí dlužníkovi a věřitelskému výboru.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=201e5325832d63a1e3d6 -->
+
 ## § 213 — Třetí osoby s dlužníkovým majetkem
 
 > Ten, kdo má u sebe dlužníkův majetek náležející do majetkové podstaty, je povinen to **oznámit insolvenčnímu správci** nebo předběžnému správci, jakmile se dozví o vydání rozhodnutí o úpadku, a uvést právní důvod, na jehož základě má tento majetek u sebe. Na výzvu insolvenčního správce nebo předběžného správce mu musí umožnit prohlídku tohoto majetku a jeho ocenění.
@@ -605,6 +1025,52 @@ Každý, kdo má u sebe dlužníkův majetek náležející do podstaty, musí t
 **Typicky rozhodné důkazy / podklady:** zakázkové/skladové listy a smlouvy dokládající držbu, doklady o vlastnictví dlužníka, smlouva o úschově, výpis z insolvenčního rejstříku, korespondence se správcem.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=41cc00c6164bb22caef7 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 213
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Ten, kdo má u sebe dlužníkův majetek náležející do majetkové podstaty, je povinen to oznámit insolvenčnímu správci nebo předběžnému správci, jakmile se dozví o vydání rozhodnutí o úpadku, a uvést právní důvod, na jehož základě má tento majetek u sebe. Na výzvu insolvenčního správce nebo předběžného správce mu musí umožnit prohlídku tohoto majetku a jeho ocenění.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=41cc00c6164bb22caef7 -->
 
 ## § 214 — § 216 — Prohlášení o majetku
 
@@ -758,6 +1224,168 @@ Insolvenční soud může na návrh správce/věřitelského výboru předvolat 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=6c9ec55a789174f8d565 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 214
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Insolvenční soud může na návrh insolvenčního správce nebo věřitelského výboru předvolat dlužníka nebo osoby jednající za dlužníka k výslechu a vyzvat je k prohlášení o majetku. Předvolání k prohlášení o majetku musí obsahovat účel výslechu a poučení o následcích odmítnutí prohlášení nebo uvedení nepravdivých, neúplných nebo hrubě zkreslujících údajů. Předvolání se doručuje předvolanému do vlastních rukou, a to nejméně 10 dnů před výslechem.
+>
+> (2) Předvolaný je povinen dostavit se k insolvenčnímu soudu osobně. Jestliže se nedostaví bez včasné a důvodné omluvy, bude předveden; o tom musí být předvolaný poučen.
+>
+> (3) Před zahájením výslechu zopakuje insolvenční soud poučení podle odstavce 1. V prohlášení o majetku musí předvolaný uvést, který majetek náleží do majetkové podstaty.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6c9ec55a789174f8d565 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=d8d594b2cb69eeb7d388 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 215
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) V prohlášení o majetku je předvolaný vždy povinen uvést
+>
+> - a) plátce mzdy dlužníka nebo jiného jeho příjmu postižitelného srážkami ze mzdy a výši této pohledávky,
+>
+> - b) banky, pobočky zahraničních bank a spořitelní a úvěrní družstva, u kterých má dlužník účty, výši pohledávek a čísla účtů,
+>
+> - c) dlužníky, u nichž má dlužník jiné peněžité pohledávky, důvod a výši těchto pohledávek,
+>
+> - d) osoby, vůči nimž má dlužník jiná majetková práva nebo majetkové hodnoty, jejich důvod a hodnotu,
+>
+> - e) movité věci dlužníka nebo spoluvlastnický podíl na nich, a kde, popřípadě u koho se nacházejí; totéž platí o vkladních knížkách, vkladních listech a jiných formách vkladů, akciích, směnkách, šecích nebo jiných listinných cenných papírech anebo o jiných listinách, jejichž předložení je nutné k uplatnění práva, jakož i o zaknihovaných a imobilizovaných cenných papírech dlužníka,
+>
+> - f) nemovitosti dlužníka nebo spoluvlastnický podíl na nich,
+>
+> - g) podnik dlužníka a jeho části, a kde se nachází,
+>
+> - h) další práva a jiné majetkové hodnoty, mají-li penězi ocenitelnou hodnotu.
+>
+> (2) Pro označení osob v prohlášení o majetku platí § 103 odst. 1 obdobně.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 103
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d8d594b2cb69eeb7d388 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=7f34887f196edf630824 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 216
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) O prohlášení o majetku sepíše insolvenční soud protokol; předloží-li předvolaný seznam majetku, tvoří tento seznam přílohu protokolu, jestliže předvolaný o něm prohlásí, že obsahuje úplné a pravdivé údaje, popřípadě jestliže jej do protokolu doplní. V protokolu se dále uvede obsah poučení poskytnutého insolvenčním soudem podle [[#§ 214|§ 214]] a výslovné prohlášení předvolaného o tom, že v prohlášení uvedl jen úplné a pravdivé údaje o majetku dlužníka. Protokol podepíše soudce, zapisovatel a předvolaný. Úkony insolvenčního soudu podle tohoto odstavce může učinit jen soudce.
+>
+> (2) O výslechu k prohlášení o majetku vyrozumí insolvenční soud insolvenčního správce a věřitelský výbor. Insolvenční správce a věřitelský výbor má právo klást předvolanému otázky. Opis protokolu o výslechu se doručuje insolvenčnímu správci a věřitelskému výboru.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 214
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7f34887f196edf630824 -->
+
 # Soupis majetkové podstaty (§ 217 — § 224)
 
 ## § 217 — Pořízení soupisu
@@ -823,6 +1451,54 @@ Soupis je centrální listinou s konstitutivními účinky: zápisem vzniká re�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=69efa78c6dc792e77ba8 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 217 — Pořízení soupisu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Soupis majetkové podstaty (dále jen „soupis“) je listinou, do níž se zapisuje majetek náležející do majetkové podstaty. Jakmile dojde k zápisu do soupisu, lze se zapsanými majetkovými hodnotami nakládat jen způsobem stanoveným tímto zákonem; učinit tak může jen osoba s dispozičními oprávněními. Soupis provádí a soustavně doplňuje insolvenční správce v průběhu insolvenčního řízení, a to podle pokynů insolvenčního soudu a za součinnosti věřitelského výboru. Tato jeho povinnost nezaniká uplynutím doby.
+>
+> (2) Insolvenční správce vyřadí ze soupisu majetkové hodnoty, o kterých v průběhu insolvenčního řízení vyjde najevo, že nenáleží do majetkové podstaty; to platí bez zřetele k tomu, že v době vyřazení se již osoba, která má z vyřazení prospěch, nemůže domáhat vyloučení těchto majetkových hodnot z majetkové podstaty. Učiní tak po projednání s věřitelským výborem a poté, co vyrozumí insolvenční soud; tím není vyloučena možnost opětovného soupisu vyřazených majetkových hodnot do majetkové podstaty.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=69efa78c6dc792e77ba8 -->
+
 ## § 218 — Označení majetku
 
 > (1) Majetek náležející do majetkové podstaty se zapisuje do soupisu **samostatnými položkami**. Není-li to vyloučeno jeho povahou, musí být sepisovaný majetek v soupisu **označen způsobem, který umožňuje jeho identifikaci**; to neplatí, jde-li o majetek nepatrné hodnoty. Je-li zde překážka dočasné povahy bránící řádné identifikaci sepisovaného majetku, doplní insolvenční správce označení tohoto majetku neprodleně po jejím odpadnutí.
@@ -874,6 +1550,54 @@ Majetek se v soupisu zapisuje samostatnými, identifikovatelnými položkami; v�
 **Typicky rozhodné důkazy / podklady:** evidence dlouhodobého majetku a účetnictví, technické průkazy a registry vozidel, inventury skladů, podklady o složení závodu/hromadné věci ke dni zápisu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e89412732f00cd2276ba generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 218 — Označení majetku v soupisu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Majetek náležející do majetkové podstaty se zapisuje do soupisu samostatnými položkami. Není-li to vyloučeno jeho povahou, musí být sepisovaný majetek v soupisu označen způsobem, který umožňuje jeho identifikaci; to neplatí, jde-li o majetek nepatrné hodnoty. Je-li zde překážka dočasné povahy bránící řádné identifikaci sepisovaného majetku, doplní insolvenční správce označení tohoto majetku neprodleně po jejím odpadnutí.
+>
+> (2) Podnik32) nebo jiná hromadná věc a soubory věcí se zapisují jedinou položkou, ze které však musí být zřejmé, co všechno do podniku nebo souboru věcí náleží v den zápisu do soupisu podstaty.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e89412732f00cd2276ba -->
 
 ## § 219 — Ocenění položek
 
@@ -954,6 +1678,60 @@ Ocenění je součástí soupisu a provádí ho zásadně správce (z účetnict
 **Typicky rozhodné důkazy / podklady:** účetnictví a evidence majetku, znalecké posudky (zajištění, závod), přihlášky zajištěných pohledávek, podklady o tržních cenách (srovnatelné transakce).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8c3b260ba137809e188e generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 219 — Ocenění položek soupisu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Součástí soupisu je i ocenění provedené insolvenčním správcem, který přitom vychází z údajů v účetnictví dlužníka nebo v evidenci vedené podle zvláštního právního předpisu13) a z dalších dostupných informací. Ocenění se nepromítá do účetnictví dlužníka.
+>
+> (2) Požaduje-li to věřitelský výbor, provede se ocenění znalcem, za předpokladu, že to věřitelský výbor finančně zajistí.
+>
+> (3) Ocenění obtížně ocenitelného majetku může insolvenční správce zadat znalci i bez žádosti věřitelského výboru; to neplatí, lze-li důvodně předpokládat, že náklady na ocenění majetku znalcem budou vyšší než přínos pro majetkovou podstatu získaný tímto způsobem jeho ocenění.
+>
+> (4) Je-li uplatněno právo na uspokojení přihlášené pohledávky ze zajištění nebo má-li být majetková podstata zpeněžena podle [[#§ 290|§ 290]] nebo [[#§ 292|292]], insolvenční správce zadá znalci ocenění hodnoty zajištění a v případě podle [[#§ 290|§ 290]] nebo [[#§ 292|292]] ocenění hodnoty zpeněžovaného majetku vždy; odstavec 3 se použije přiměřeně.
+>
+> (5) Při ocenění podle odstavců 1 až 4 se majetek oceňuje obvyklou cenou. Postup podle odstavců 1 až 4 se neuplatní, byl-li ustanoven znalec podle § 153 odst. 1.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 290, § 292, § 153
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8c3b260ba137809e188e -->
 
 ## § 220 — § 223 — Další náležitosti soupisu
 
@@ -1119,6 +1897,192 @@ Soupis musí u každé položky obsahovat označení, ocenění, datum a důvod 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=38296647f0480756941f generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 220 — Důvod soupisu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Vedle označení sepisovaného majetku, jeho ocenění a uvedení dne, kdy byla příslušná položka sepsána, musí být v soupisu vždy uveden i důvod soupisu, případně den a důvod vyloučení sepsaného majetku ze soupisu. V pochybnostech se má za to, že insolvenční správce příslušnou položku sepsal nebo ji ze soupisu vyloučil v den, kdy tuto skutečnost oznámil insolvenčnímu soudu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=38296647f0480756941f -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=bc4186077157bef8a171 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 221 — Prohlášení o správnosti soupisu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Jestliže o to insolvenční správce požádá, je dlužník povinen písemně potvrdit úplnost a správnost soupisu. Prohlášení o správnosti soupisu nebo jeho části může dlužník písemně odmítnout, jen jestliže současně písemně uvede důvody, pro které soupis nebo jeho část nepovažuje za správný.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bc4186077157bef8a171 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=59472a9cc13e2a006ee6 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 222 — Zveřejnění soupisu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Soupis se předkládá pouze na elektronickém formuláři, jehož náležitosti a formát stanoví prováděcí právní předpis.
+>
+> (2) Soupis a doplněný soupis zveřejní insolvenční soud v insolvenčním rejstříku neprodleně po jeho sestavení nebo doplnění.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=59472a9cc13e2a006ee6 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=79d7a0fc81c01403b0d9 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 223 — Upuštění od soupisu nebo ocenění
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> V případech stanovených zákonem lze na základě rozhodnutí insolvenčního soudu upustit od soupisu nebo od ocenění sepsaného majetku. Po právní moci takového rozhodnutí insolvenční správce předloží insolvenčnímu soudu zprávu o stavu majetku náležejícího do majetkové podstaty.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=79d7a0fc81c01403b0d9 -->
+
 ## § 224 — Vyrozumění o soupisu třetích osob
 
 > (1) Insolvenční správce, který zapíše do soupisu věci, práva, pohledávky a jiné majetkové hodnoty, **které nenáleží dlužníku** nebo jejichž zahrnutí do majetkové podstaty je **sporné** zejména proto, že k nim třetí osoba uplatňuje práva, která to vylučují, do soupisu poznamená, komu sepisovaný majetek náleží, nebo kdo k němu uplatňuje své právo. Tuto osobu insolvenční správce **písemně vyrozumí** o zahrnutí majetku do soupisu a na její žádost jí o tom vydá osvědčení. Osvědčení musí vždy obsahovat i uvedení důvodu, pro který insolvenční správce tento majetek sepsal.
@@ -1182,6 +2146,58 @@ Zapíše-li správce do soupisu majetek, který dlužníku nenáleží nebo je s
 **Typicky rozhodné důkazy / podklady:** soupis s poznámkami, leasingové/výpůjční smlouvy a smlouvy o zápůjčce, výpisy z katastru a Rejstříku zástav, doklady o vyrozumění dotčených osob a registrů, osvědčení o soupisu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8900f51de5d235a11140 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 224 — Vyrozumění o soupisu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Insolvenční správce, který zapíše do soupisu věci, práva, pohledávky a jiné majetkové hodnoty, které nenáleží dlužníku nebo jejichž zahrnutí do majetkové podstaty je sporné zejména proto, že k nim třetí osoba uplatňuje práva, která to vylučují, do soupisu poznamená, komu sepisovaný majetek náleží, nebo kdo k němu uplatňuje své právo. Tuto osobu insolvenční správce písemně vyrozumí o zahrnutí majetku do soupisu a na její žádost jí o tom vydá osvědčení. Osvědčení musí vždy obsahovat i uvedení důvodu, pro který insolvenční správce tento majetek sepsal.
+>
+> (2) Vyrozumění podle odstavce 1 musí obsahovat i poučení o možnosti podat vylučovací žalobu a o následcích zmeškání lhůty k podání vylučovací žaloby; náležitosti tohoto vyrozumění stanoví prováděcí právní předpis.
+>
+> (3) Je-li do soupisu zapsána nemovitost, která podle katastru nemovitostí není ve vlastnictví dlužníka, vyrozumí o tom insolvenční správce příslušné katastrální pracoviště. Je-li do soupisu sepsána věc, která podle Rejstříku zástav není ve vlastnictví dlužníka, vyrozumí o tom insolvenční správce Notářskou komoru České republiky. Obdobně to platí o majetku uvedeném v jiných veřejných či neveřejných seznamech, jestliže podle zvláštních právních předpisů osvědčují vlastnictví nebo jiná věcná práva k tomuto majetku.
+>
+> (4) Je-li do soupisu zapsána kulturní památka33), sbírka muzejní povahy nebo předmět kulturní hodnoty, vyrozumí o tom insolvenční správce neprodleně Ministerstvo kultury.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8900f51de5d235a11140 -->
 
 # Vyloučení a vynětí z majetkové podstaty (§ 225 — § 227)
 
@@ -1282,6 +2298,62 @@ Vylučovací žaloba je jediným nástrojem třetí osoby k vyloučení jejího 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3017bd8204d8fdc2bf34 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 225
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Osoby, které tvrdí, že označený majetek neměl být do soupisu zahrnut proto, že to vylučuje jejich právo k majetku nebo že tu je jiný důvod, pro který neměl být zahrnut do soupisu, se mohou žalobou podanou u insolvenčního soudu domáhat rozhodnutí, že se tento majetek vylučuje z majetkové podstaty.
+>
+> (2) Žaloba musí být podána proti insolvenčnímu správci, a to ve lhůtě 30 dnů ode dne, kdy osobě uvedené v odstavci 1 bylo doručeno vyrozumění o soupisu majetku, k němuž uplatňuje právo. Lhůta je zachována, dojde-li žaloba nejpozději posledního dne lhůty insolvenčnímu soudu.
+>
+> (3) Nebyla-li žaloba podána včas, platí, že označený majetek je do soupisu pojat oprávněně. Totéž platí i tehdy, jestliže insolvenční soud žalobu zamítl, nebo jestliže řízení o žalobě zastavil nebo ji odmítl.
+>
+> (4) Od počátku běhu lhůty k podání žaloby podle odstavce 2 až do jejího skončení a po dobu řízení o podané žalobě až do jeho pravomocného skončení nesmí insolvenční správce zpeněžit majetek, který je předmětem žaloby, ani s ním jinak nakládat, ledaže tím odvrací újmu tomuto majetku bezprostředně hrozící nebo jestliže tak po podání žaloby činí se souhlasem žalobce. Ustanovení [[#§ 217|§ 217]] tím není dotčeno.
+>
+> (5) Před pravomocným skončením řízení o žalobě lze ke zpeněžení nebo jinému nakládání s majetkem podle odstavce 4 přistoupit, jestliže tak z důvodů hodných zvláštního zřetele určil insolvenční soud ve výroku rozhodnutí, jímž žalobu zamítl, řízení o ní zastavil nebo ji odmítl. Z výtěžku zpeněžení nebo jiného nakládání s takovým majetkem mohou být věřitelé uspokojeni až po pravomocném skončení řízení o žalobě.
+>
+> (6) Byla-li zpeněžena věc, která neměla být pojata do soupisu, má její vlastník právo na vydání výtěžku zpeněžení; jeho právo na náhradu škody tím není dotčeno.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 217
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3017bd8204d8fdc2bf34 -->
+
 ## § 226 — Vynětí na návrh dlužníka
 
 > (1) **Dlužník** může uplatnit vynětí majetku z majetkové podstaty jen tehdy, jde-li o věc, právo, pohledávku nebo jinou majetkovou hodnotu, která do majetkové podstaty nepatří podle § 207 a 208; učiní tak vůči insolvenčnímu správci bez zbytečného odkladu poté, co se dozvěděl nebo při náležité pečlivosti měl dozvědět, že došlo k zahrnutí takové věci, práva, pohledávky nebo jiné majetkové hodnoty do soupisu.
@@ -1351,6 +2423,60 @@ Vynětí na návrh dlužníka (§ 226) je obrana dlužníka omezená na majetek,
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ed558c69cd8b6d4a349a generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 226
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Dlužník může uplatnit vynětí majetku z majetkové podstaty jen tehdy, jde-li o věc, právo, pohledávku nebo jinou majetkovou hodnotu, která do majetkové podstaty nepatří podle [[#§ 207|§ 207]] a [[#§ 208|208]]; učiní tak vůči insolvenčnímu správci bez zbytečného odkladu poté, co se dozvěděl nebo při náležité pečlivosti měl dozvědět, že došlo k zahrnutí takové věci, práva, pohledávky nebo jiné majetkové hodnoty do soupisu.
+>
+> (2) V návrhu podle odstavce 1 musí dlužník kromě obecných náležitostí podání20) označit věc, právo, pohledávku nebo jinou majetkovou hodnotu, o jejíž vynětí ze soupisu žádá, a uvést skutečnosti, ze kterých vyplývá, že tento majetek neměl být sepsán. Je-li návrh neúplný nebo vadný a nelze-li jej pro tyto nedostatky projednat a rozhodnout o něm, vyzve insolvenční správce dlužníka, aby jej opravil nebo doplnil. K opravě nebo doplnění návrhu určí přiměřenou lhůtu a dlužníka poučí, jak je nutné opravu nebo doplnění provést. Poučí jej rovněž, že návrh, který nebude přes výzvu řádně opraven nebo doplněn, insolvenční soud odmítne.
+>
+> (3) Nezdaří-li se insolvenčnímu správci odstranit vady a neúplnost dlužníkova návrhu nebo má-li za to, že návrh je opožděný, předloží insolvenční správce návrh se zprávou o tom insolvenčnímu soudu. Pokládá-li to insolvenční soud za potřebné, může usnesením výzvu k odstranění vad návrhu zopakovat nebo vydat výzvu novou.
+>
+> (4) Nejde-li o případy uvedené v odstavci 3, insolvenční správce vyzve věřitelský výbor, aby se k návrhu v určené lhůtě vyjádřil; dospěje-li po uplynutí této lhůty k závěru, že návrhu nelze vyhovět, předloží jej s případným vyjádřením věřitelského výboru a se zprávou o důvodech, pro které majetek nevyloučil, insolvenčnímu soudu; dlužník má právo se k těmto důvodům vyjádřit.
+>
+> (5) O návrhu podle odstavce 1 rozhoduje insolvenční soud v rámci své dohlédací činnosti. Rozhodnutí, proti kterému je odvolání přípustné, se doručuje dlužníku, insolvenčnímu správci a věřitelskému výboru. V době od podání tohoto návrhu do rozhodnutí o něm nesmí insolvenční správce zpeněžit majetek, jehož se návrh týká; § 225 odst. 4 a [[#§ 5|5]] platí obdobně.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 207, § 208, § 225, § 5
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ed558c69cd8b6d4a349a -->
+
 ## § 227 — Vyřazení správcem (neprodejné, nedobytné)
 
 > Insolvenční správce může z majetkové podstaty kdykoli v průběhu insolvenčního řízení vyjmout věci, práva, pohledávky nebo jiné majetkové hodnoty, **které nemohou sloužit k uspokojení věřitelů**, zejména **neprodejné věci a nedobytné pohledávky** nebo majetek, na který se vztahuje rozhodnutí o zajištění vydané v trestním řízení a k jehož zpeněžení nebyl udělen souhlas příslušného orgánu činného v trestním řízení. Učiní tak **po předchozím souhlasu věřitelského výboru a insolvenčního soudu**.
@@ -1404,6 +2530,52 @@ Správce může kdykoli vyjmout z podstaty hodnoty, které nemohou sloužit k us
 **Typicky rozhodné důkazy / podklady:** doklady o neúspěšných pokusech o zpeněžení (nabídky, dražby), doklad o zániku poddlužníka bez nástupce, rozhodnutí o zajištění v trestním řízení a stanovisko orgánu, souhlasy věřitelského výboru a soudu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=87032b650eaf955f879c generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 227
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Insolvenční správce může z majetkové podstaty kdykoli v průběhu insolvenčního řízení vyjmout věci, práva, pohledávky nebo jiné majetkové hodnoty, které nemohou sloužit k uspokojení věřitelů, zejména neprodejné věci a nedobytné pohledávky nebo majetek, na který se vztahuje rozhodnutí o zajištění vydané v trestním řízení a k jehož zpeněžení nebyl udělen souhlas příslušného orgánu činného v trestním řízení. Učiní tak po předchozím souhlasu věřitelského výboru a insolvenčního soudu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=87032b650eaf955f879c -->
 
 # Nakládání s majetkovou podstatou a její správa (§ 228 — § 230)
 
@@ -1481,6 +2653,76 @@ Správce může kdykoli vyjmout z podstaty hodnoty, které nemohou sloužit k us
 **Typicky rozhodné důkazy / podklady:** pozvánky a zápisy z valných hromad, úvěrové smlouvy, pracovněprávní úkony, přihlášky průmyslových práv, doklady o postavení osoby s dispozičními oprávněními.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=cf7f27edd4ffe7911db2 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 228
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Nakládáním s majetkovou podstatou se rozumí zejména
+>
+> - a) právní úkony, které se týkají majetku náležejícího do majetkové podstaty,
+>
+> - b) výkon práv a povinností akcionáře ohledně akcií zahrnutých do majetkové podstaty, včetně práva hlasovat na valné hromadě akciové společnosti,
+>
+> - c) výkon práv a povinností společníka jiné obchodní společnosti spojených s obchodním podílem dlužníka zahrnutým do majetkové podstaty, včetně práva hlasovat na valné hromadě obchodní společnosti34),
+>
+> - d) výkon členských práv a povinností člena družstva,
+>
+> - e) rozhodování o výrobních, provozních a obchodních záležitostech podniku v majetkové podstatě, včetně úvěrového financování a jiných úkonů potřebných k zajištění financování podniku,
+>
+> - f) výkon práv a povinností zaměstnavatele ohledně zaměstnanců dlužníka,
+>
+> - g) výkon průmyslových práv,
+>
+> - h) rozhodování o obchodním tajemství a jiné povinnosti mlčenlivosti,
+>
+> - i) plnění povinností podle předpisů o daních, poplatcích a clech, jakož i podle předpisů o sociálním zabezpečení a veřejném zdravotním pojištění,
+>
+> - j) vedení účetnictví,
+>
+> - k) plnění evidenčních povinností,
+>
+> - l) výkon dalších práv a povinností, jestliže se týkají majetkové podstaty.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cf7f27edd4ffe7911db2 -->
 
 ## § 229 — Dispoziční oprávnění
 
@@ -1578,6 +2820,70 @@ Osoba s dispozičními oprávněními se mění podle fáze a způsobu řešení
 **Typicky rozhodné důkazy / podklady:** usnesení o úpadku a o způsobu jeho řešení (konkurs/reorganizace/oddlužení), soupis majetku/pohledávek, exekuční příkazy, doklady o postavení osoby s dispozičními oprávněními.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=99c00806176b62ca2528 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 229
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Zákon stanoví v závislosti na průběhu řízení, způsobech řešení úpadku a vlastnictví majetku náležejícího do majetkové podstaty, kdo je ve vztahu k majetkové podstatě osobou s dispozičními oprávněními, případně komu přísluší právo nakládat s majetkovou podstatou ohledně části těchto oprávnění nebo pouze ohledně některých z nich.
+>
+> (2) Je-li majetek náležející do majetkové podstaty ve vlastnictví jiné osoby než dlužníka, lze právo této osoby s takovým majetkem nakládat omezit jen zákonem nebo rozhodnutím insolvenčního soudu.
+>
+> (3) Nestanoví-li tento zákon jinak, je ve vztahu k majetkové podstatě osobou s dispozičními oprávněními
+>
+> - a) dlužník v době do rozhodnutí o úpadku,
+>
+> - b) dlužník v době od rozhodnutí o úpadku do rozhodnutí o způsobu řešení úpadku,
+>
+> - c) insolvenční správce v době od prohlášení konkursu,
+>
+> - d) dlužník v době od povolení reorganizace a
+>
+> - e) dlužník v době od povolení oddlužení.
+>
+> (4) Ustanovením odstavce 3 nejsou dotčena omezení uložená dlužníku s dispozičními oprávněními insolvenčním zákonem nebo rozhodnutím insolvenčního soudu v průběhu insolvenčního řízení. Má-li dispoziční oprávnění jiná osoba než dlužník, nejsou tím dotčeny povinnosti uložené dlužníku tímto zákonem.
+>
+> (5) Od rozhodnutí o úpadku a je-li dlužník insolvenčním navrhovatelem, od okamžiku, kdy se jím stal, platí o povinnostech dlužníka s dispozičními oprávněními ustanovení [[#§ 36|§ 36]] a [[#§ 37|37]] přiměřeně.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 36, § 37
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=99c00806176b62ca2528 -->
 
 ## § 230 — Správa podstaty + pokyny zajištěného věřitele
 
@@ -1693,3 +2999,64 @@ Správa směřuje k zachování hodnoty, účelovému využití, rozmnožení po
 ---
 
 **Pokračování:** [10-cast1-hlava7-neucinnost.md](10-cast1-hlava7-neucinnost.md) — § 231 až § 243 (Hlava VII: Neplatnost a neúčinnost právních úkonů — odpůrčí žaloba, neúčinné úkony zvýhodňující, znevýhodňující, bezplatné).
+
+<!-- LEGAL-REVISION:BEGIN id=6d38eea4ed53e88a35c7 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 230
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Správou majetkové podstaty se rozumí zejména činnost, jakož i právní úkony a opatření z ní vyplývající, pokud směřuje k tomu, aby
+>
+> - a) nedocházelo ke znehodnocení majetkové podstaty, zejména aby nedošlo k odstranění, zničení, poškození nebo odcizení majetku, který do ní náleží,
+>
+> - b) majetek náležející do majetkové podstaty byl využíván v souladu se svým určením, pokud tomu nebrání jiné okolnosti,
+>
+> - c) se majetková podstata rozmnožila, lze-li takovou činnost rozumně očekávat se zřetelem ke stavu majetkové podstaty a obvyklým obchodním příležitostem,
+>
+> - d) byly vymoženy pohledávky dlužníka včetně plnění z neplatných a neúčinných právních úkonů.
+>
+> (2) Jde-li o správu věci, práva, pohledávky nebo jiné majetkové hodnoty, která slouží k zajištění pohledávky, je osoba s dispozičními oprávněními vázána pokyny zajištěného věřitele směřujícími k řádné správě; je-li zajištěných věřitelů více, uděluje tyto pokyny zajištěný věřitel, jehož pohledávka se uspokojuje ze zajištění jako první v pořadí. Jestliže zajištěný věřitel neudělí příslušné pokyny ani ve lhůtě určené insolvenčním soudem, má právo je udělit zajištěný věřitel, jehož pohledávka se uspokojuje ze zajištění jako další v pořadí; jinak pokyny udělí v rámci dohlédací činnosti insolvenční soud, který současně rozhodne o nákladech spojených s provedením jeho pokynu. Osoba s dispozičními oprávněními může odmítnout pokyny zajištěného věřitele, má-li za to, že nesměřují k řádné správě; v takovém případě požádá insolvenční soud o jejich přezkoumání v rámci dohlédací činnosti.
+>
+> (3) Náklady spojené s provedením jeho pokynu podle odstavce 2 nese zajištěný věřitel ze svého.
+>
+> (4) Není-li k pokynům zajištěného věřitele podle odstavce 2 připojen písemný souhlas ostatních zajištěných věřitelů, jejichž pohledávka se uspokojuje ze stejného zajištění, osoba s dispozičními oprávněními neprodleně vyrozumí insolvenční soud. Insolvenční soud v takovém případě nařídí do 30 dnů jednání, při kterém rozhodne o tom, zda pokyny zajištěného věřitele schvaluje. Při jednání lze projednat pouze námitky proti pokynům zajištěného věřitele, které ostatní zajištění věřitelé uplatní písemně u insolvenčního soudu nejpozději do 7 dnů ode dne zveřejnění těchto pokynů v insolvenčním rejstříku; k později podaným námitkám se nepřihlíží. K jednání předvolá insolvenční soud insolvenčního správce a dlužníka a zajištěné věřitele, kterým poskytne poučení o námitkách podle věty třetí.
+>
+> (5) Proti rozhodnutí podle odstavce 4 není odvolání přípustné.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6d38eea4ed53e88a35c7 -->

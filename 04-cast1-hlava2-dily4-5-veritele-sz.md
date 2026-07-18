@@ -93,6 +93,56 @@ Díl 5 doplňuje Hlavu II o dva specifické procesní subjekty — **státní za
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7f83348f7646ae948453 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 46 — Schůze věřitelů, věřitelský výbor a zástupce věřitelů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Věřitelskými orgány jsou schůze věřitelů a věřitelský výbor nebo zástupce věřitelů.
+>
+> (2) Schůzi věřitelů přísluší volba a odvolání členů věřitelského výboru a jeho náhradníků nebo zástupce věřitelů; rozhoduje též o tom, zda ponechá ve funkci prozatímní věřitelský výbor. Schůze věřitelů si může vyhradit cokoli, co patří do působnosti věřitelských orgánů. Usnesení, jímž si schůze věřitelů vyhrazuje působnost jiných věřitelských orgánů, je přijato, jestliže pro ně hlasovala většina tvořená nejméně dvěma třetinami hlasů přítomných nebo řádně zastoupených věřitelů, počítaná podle výše jejich pohledávek. Není-li ustanoven věřitelský výbor ani zástupce věřitelů a není-li v tomto zákoně stanoveno jinak, vykonává schůze věřitelů i jejich působnost.
+>
+> (3) Věřitelský výbor vykonává působnost věřitelských orgánů s výjimkou věcí, které patří do působnosti schůze věřitelů nebo které si schůze věřitelů vyhradila.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7f83348f7646ae948453 -->
+
 ## § 47 — Schůze věřitelů: svolávání
 
 > (1) Schůzi věřitelů svolává a řídí insolvenční soud. Svolá ji z vlastní iniciativy, nebo na návrh insolvenčního správce, věřitelského výboru anebo, není-li způsobem řešení úpadku oddlužení, alespoň 2 věřitelů, jejichž pohledávky počítané podle výše (§ 49 odst. 1) činí alespoň desetinu přihlášených pohledávek; je-li způsobem řešení úpadku oddlužení, svolá ji na návrh nadpoloviční většiny všech věřitelů, jejichž pohledávky počítané podle výše (§ 49 odst. 1) činí zároveň nadpoloviční většinu přihlášených pohledávek. Insolvenční soud svolá schůzi věřitelů tak, aby se konala do 30 dnů poté, co byl o její svolání požádán, není-li navržen pozdější termín konání.
@@ -173,6 +223,54 @@ Svolání schůze ovládá soud, ale kvalifikovaná menšina (mimo oddlužení 2
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=bc359f30bcafba38f338 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 47 — Schůze věřitelů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Schůzi věřitelů svolává a řídí insolvenční soud. Svolá ji z vlastní iniciativy, nebo na návrh insolvenčního správce, věřitelského výboru anebo, není-li způsobem řešení úpadku oddlužení, alespoň 2 věřitelů, jejichž pohledávky počítané podle výše (§ 49 odst. 1) činí alespoň desetinu přihlášených pohledávek; je-li způsobem řešení úpadku oddlužení, svolá ji na návrh nadpoloviční většiny všech věřitelů, jejichž pohledávky počítané podle výše (§ 49 odst. 1) činí zároveň nadpoloviční většinu přihlášených pohledávek. Insolvenční soud svolá schůzi věřitelů tak, aby se konala do 30 dnů poté, co byl o její svolání požádán, není-li navržen pozdější termín konání.
+>
+> (2) Právo zúčastnit se schůze věřitelů mají přihlášení věřitelé, dlužník, insolvenční správce a státní zastupitelství, pokud se účastní insolvenčního řízení. Má-li dlužník zaměstnance, má právo zúčastnit se schůze věřitelů také odborová organizace, která u dlužníka působí. Působí-li u dlužníka vedle sebe více odborových organizací, má toto právo odborová organizace s největším počtem členů nebo sdružení odborových organizací s největším počtem členů, nedohodnou-li se odborové organizace působící u dlužníka jinak.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 49
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bc359f30bcafba38f338 -->
+
 ## § 48 — Vyhláška o svolání; předmět jednání; sankce za nedůvodný návrh
 
 > (1) Oznámení o svolání schůze věřitelů zveřejní insolvenční soud vyhláškou (§ 71 odst. 3), v níž musí být uveden předmět jednání, jakož i místo a termín konání schůze. Svolává-li schůzi věřitelů na návrh osoby uvedené v § 47 odst. 1, označí insolvenční soud jako předmět jednání vždy i záležitost, pro kterou byl tento návrh podán.
@@ -242,6 +340,56 @@ Schůze smí projednat jen body z vyhlášky; rozšíření je možné jen za fy
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2ad126fa18f8421f1e9f generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 48
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Oznámení o svolání schůze věřitelů zveřejní insolvenční soud vyhláškou (§ 71 odst. 3), v níž musí být uveden předmět jednání, jakož i místo a termín konání schůze. Svolává-li schůzi věřitelů na návrh osoby uvedené v § 47 odst. 1, označí insolvenční soud jako předmět jednání vždy i záležitost, pro kterou byl tento návrh podán.
+>
+> (2) Schůzí věřitelů může být projednán jen předmět jednání, který byl uveden v oznámení o jejím svolání. Jsou-li přítomni všichni věřitelé, mohou se usnést i na dalším předmětu jednání; za přítomného se pro tento účel nepovažuje věřitel, který hlasuje písemně (§ 50 odst. 2). Není-li způsobem řešení úpadku oddlužení, předmětem jednání první schůze věřitelů je vždy volba věřitelského výboru a usnesení věřitelů podle § 29 odst. 1, byl-li ustanoven insolvenční správce a koná-li se tato schůze po přezkumném jednání, zpráva insolvenčního správce o jeho dosavadní činnosti, a byl-li ustanoven prozatímní věřitelský výbor, zpráva tohoto výboru o jeho dosavadní činnosti. Jestliže insolvenční soud ještě nerozhodl o způsobu řešení dlužníkova úpadku, je předmětem jednání první schůze věřitelů také způsob řešení dlužníkova úpadku.
+>
+> (3) Věřitel, který podal opakovaně nedůvodně návrh na svolání schůze věřitelů, je povinen uhradit ostatním věřitelům na jejich žádost náklady, které jim vznikly v souvislosti s jejich účastí na schůzi věřitelů, konané na jeho návrh; takovému věřiteli uloží insolvenční soud zaplatit i paušální částku na náhradu nákladů spojených s projednáním nedůvodného návrhu na svolání schůze věřitelů ve výši 5 000 Kč; zaplacení této paušální částky, která je příjmem státu, nelze prominout.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 71, § 47, § 50, § 29
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2ad126fa18f8421f1e9f -->
+
 ## § 49 — Hlasovací právo: základní pravidlo
 
 > (1) Nestanoví-li tento zákon jinak, vyžaduje se k platnosti usnesení schůze věřitelů prostá většina hlasů přítomných nebo řádně zastoupených věřitelů, počítaná podle výše jejich pohledávek; přitom platí, že na každou 1 Kč pohledávky připadá jeden hlas.
@@ -308,6 +456,54 @@ Klíčové pravidlo: 1 Kč = 1 hlas; rozhoduje prostá většina přítomných p
 **Typicky rozhodné důkazy / podklady:** seznam přihlášených pohledávek s výší, listina přítomných, doklady o spoluvěřitelství a případné dohodě, podklady o popření/zjištění pro určení výše.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=186b4ea01151247e67e6 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 49
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Nestanoví-li tento zákon jinak, vyžaduje se k platnosti usnesení schůze věřitelů prostá většina hlasů přítomných nebo řádně zastoupených věřitelů, počítaná podle výše jejich pohledávek; přitom platí, že na každou 1 Kč pohledávky připadá jeden hlas.
+>
+> (2) Náleží-li pohledávka více osobám, musí se dohodnout, kdo bude vykonávat práva s ní spojená. Nedohodnou-li se, vykonávají tato práva jen ohledně svého dílu pohledávky; pro tyto účely platí, že každé z těchto osob náleží stejný díl pohledávky. Ustanovení [[občanského zákoníku|občanského zákoníku]]12) o spoluvlastnictví se použijí obdobně.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=186b4ea01151247e67e6 -->
 
 ## § 50 — Způsob hlasování
 
@@ -380,6 +576,56 @@ Hlasovat lze osobně (s ověřenou plnou mocí) nebo písemně hlasovacím líst
 **Typicky rozhodné důkazy / podklady:** samotný hlasovací lístek s ověřením podpisu, doklad o doručení soudu (datum), vzor dle vyhlášky č. 191/2017 Sb., případná plná moc.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=60579c83b2cf1631f09b generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 50
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Není-li dále stanoveno jinak, právo hlasovat mají všichni na schůzi přítomní věřitelé. Ke hlasu, který je vázán na splnění podmínky, se nepřihlíží.
+>
+> (2) Věřitelé mohou hlasovat také písemně, podáním výslovně označeným jako „Hlasovací lístek“, které nesmí obsahovat žádný jiný procesní úkon, ze kterého je nepochybné, jak hlasovali, a na kterém je úředně ověřena pravost jejich podpisu. K jejich hlasu se přihlíží, jen bylo-li podání obsahující všechny náležitosti doručeno insolvenčnímu soudu nejpozději v den předcházející schůzi věřitelů; [[§ 43|§ 43]] [[občanského soudního řádu|občanského soudního řádu]] se nepoužije.
+>
+> (3) Náležitosti hlasovacího lístku podle tohoto ustanovení stanoví prováděcí právní předpis.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 43
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=60579c83b2cf1631f09b -->
 
 ## § 51 — Hlasovací právo věřitelů s popřenou nebo nezjištěnou pohledávkou
 
@@ -462,6 +708,58 @@ Hlasovací právo popřené pohledávky závisí na tom, KDO popřel: popření 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=19208a0e6751a4455d27 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 51
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Věřitelé, jejichž pohledávka byla popřena, mohou v rozsahu popření hlasovat, usnese-li se na tom schůze věřitelů. Jestliže schůze věřitelů nepřizná hlasovací právo věřitelům, jejichž pohledávka byla popřena, rozhodne o hlasovacím právu těchto věřitelů na jejich návrh podle § 52 odst. 2 insolvenční soud.
+>
+> (2) Popření pohledávky přihlášeným věřitelem nebo dlužníkem nemá vliv na hlasovací právo věřitelů, jejichž pohledávka byla popřena.
+>
+> (3) Nejde-li o případy uvedené v odstavci 1, rozhodne o hlasovacím právu věřitelů, jejichž pohledávka nebyla ještě zjištěna nebo je sporná, insolvenční soud podle seznamu přihlášených pohledávek anebo na návrh dlužníka nebo některého z věřitelů podle § 52 odst. 2.
+>
+> (4) Není-li dále stanoveno jinak, nemají hlasovací právo věřitelé s pohledávkami za majetkovou podstatou ([[#§ 168|§ 168]]), věřitelé s pohledávkami postavenými na roveň pohledávkám za majetkovou podstatou ([[#§ 169|§ 169]]), věřitelé s pohledávkami vyloučenými ze způsobu řešení úpadku ([[#§ 170|§ 170]]), věřitelé s podřízenými pohledávkami ([[#§ 172|§ 172]]) a do doby splnění odkládací podmínky věřitelé, kteří přihlásili pohledávky vázané na odkládací podmínku.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 52, § 168, § 169, § 170, § 172
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=19208a0e6751a4455d27 -->
+
 ## § 52 — Zkoumání hlasovacího práva
 
 > (1) Hlasovací právo zkoumá insolvenční soud u každého z věřitelů jednotlivě.
@@ -525,6 +823,58 @@ Soud zkoumá hlasovací právo individuálně. Návrh na odlišné posouzení mu
 **Typicky rozhodné důkazy / podklady:** návrh dle § 52 odst. 2 s datem doručení, doklad o zveřejnění seznamu přihlášených, doplněné důkazy s datem, vyhláška o svolání s poučením, závislé usnesení (např. o způsobu řešení úpadku).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=01f750e324938a2f462a generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 52
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Hlasovací právo zkoumá insolvenční soud u každého z věřitelů jednotlivě.
+>
+> (2) Návrh, aby insolvenční soud rozhodl o hlasovacím právu odlišně od seznamu přihlášených pohledávek, musí být doručen insolvenčnímu soudu nejpozději 7 dní před schůzí věřitelů; tato lhůta však neskončí dříve než 5 dní po zveřejnění seznamu přihlášených pohledávek v insolvenčním rejstříku. Skutečnosti rozhodné pro hlasovací právo lze doplnit a důkazy k jejich osvědčení insolvenčnímu soudu předložit nejpozději 2 pracovní dny před schůzí věřitelů; soud o tom věřitele poučí ve vyhlášce o svolání schůze věřitelů.
+>
+> (3) Proti rozhodnutí insolvenčního soudu o hlasovacím právu věřitelů není přípustný opravný prostředek. Tímto rozhodnutím není insolvenční soud pro další schůzi věřitelů vázán.
+>
+> (4) Je-li na rozhodnutí insolvenčního soudu o hlasovacím právu věřitelů závislé jiné rozhodnutí insolvenčního soudu, proti kterému je odvolání přípustné, lze v mezích odvolání podaného proti takovému rozhodnutí přezkoumat i správnost rozhodnutí insolvenčního soudu o hlasovacím právu věřitelů; to platí jen pro první takové rozhodnutí vydané po rozhodnutí insolvenčního soudu o hlasovacím právu věřitelů.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=01f750e324938a2f462a -->
 
 ## § 53 — Zákaz hlasování (střet zájmů)
 
@@ -637,6 +987,72 @@ V praxi je zákaz hlasování spřízněných věřitelů jedním z nejdiskutova
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7542e52db29100d17826 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 53
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Věřitel, který s dlužníkem tvoří koncern anebo je osobou dlužníkovi blízkou, nesmí na schůzi věřitelů hlasovat, nestanoví-li zákon jinak; o reorganizačním plánu předloženém jinou osobou než dlužníkem nebo věřitelem podle věty před středníkem hlasovat může.
+>
+> (2) Věřitel nesmí hlasovat ve věcech, kterých se účastní nebo kterých je nebo má být stranou, které se týkají
+>
+> - a) nabývání majetku anebo jiného plnění z majetkové podstaty,
+>
+> - b) právního jednání ohledně práva, které je anebo může být součástí majetkové podstaty,
+>
+> - c) incidenčního sporu, nebo
+>
+> - d) rozhodnutí o hlasovacím právu.
+>
+> (3) Věřitel nesmí hlasovat ani ve věcech uvedených v odstavci 2, týkají-li se osoby, která je osobou věřiteli blízkou anebo s ním tvoří koncern.
+>
+> (4) Insolvenční soud může z důvodů hodných zvláštního zřetele, není-li to v rozporu se společným zájmem věřitelů a nehrozí-li střet zájmů, na návrh podle § 52 odst. 2 a po slyšení insolvenčního správce povolit věřiteli hlasovat i v případě podle odstavců 1 až 3.
+>
+> (5) Insolvenční soud může z důvodů hodných zvláštního zřetele, vyžaduje-li to ochrana společného zájmu věřitelů a hrozí-li střet zájmů, na návrh podle § 52 odst. 2 a po slyšení insolvenčního správce zakázat věřiteli hlasování i v případech neuvedených v odstavcích 1 až 3.
+>
+> (6) Při určení většiny hlasů potřebné pro přijetí rozhodnutí schůze věřitelů se nepřihlíží k hlasům věřitele, který nesmí hlasovat.
+>
+> (7) Odstavce 1 až 6 se použijí obdobně, hlasují-li věřitelé mimo schůzi věřitelů.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 52
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7542e52db29100d17826 -->
+
 ## § 54 — Zrušení usnesení schůze věřitelů
 
 > (1) Odporuje-li usnesení schůze věřitelů společnému zájmu věřitelů, může je insolvenční soud zrušit; to neplatí v případě uvedeném v § 29 odst. 1, § 51 odst. 1 a pro usnesení schůze věřitelů o způsobu řešení dlužníkova úpadku, o reorganizačním plánu nebo o způsobu oddlužení.
@@ -703,6 +1119,54 @@ Soud může zrušit usnesení schůze odporující společnému zájmu věřitel
 **Typicky rozhodné důkazy / podklady:** protokol o schůzi (jak kdo hlasoval), text napadeného usnesení, podklady o dopadu na výtěžek (nabídky, znalecké odhady), návrh na zrušení s časem podání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=57524dd823e43f0992c1 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 54 — Postup insolvenčního soudu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Odporuje-li usnesení schůze věřitelů společnému zájmu věřitelů, může je insolvenční soud zrušit; to neplatí v případě uvedeném v § 29 odst. 1, § 51 odst. 1 a pro usnesení schůze věřitelů o způsobu řešení dlužníkova úpadku, o reorganizačním plánu nebo o způsobu oddlužení.
+>
+> (2) Rozhodnutí o zrušení usnesení schůze věřitelů může insolvenční soud vydat jen do skončení schůze věřitelů, která usnesení přijala, a může tak učinit jen na návrh insolvenčního správce nebo věřitele, který hlasoval proti přijetí usnesení schůze věřitelů.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 29, § 51
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=57524dd823e43f0992c1 -->
 
 ## § 55 — Odvolání proti zrušení / zamítnutí návrhu
 
@@ -774,6 +1238,56 @@ Režim opravných prostředků dle § 55 je extrémně koncentrovaný: odvolán�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b62cfa9890d467d59731 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 55
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Po vyhlášení rozhodnutí, kterým zruší usnesení schůze věřitelů, insolvenční soud vyzve každého z přítomných věřitelů, kteří hlasovali pro přijetí usnesení schůze věřitelů, aby uvedl, zda se vzdává odvolání; současně je poučí, že odvolání, které nebude podáno do skončení schůze věřitelů, již nelze podat. Vyjádření věřitelů a jejich poučení se uvede v protokolu o jednání. Rozhodnutí insolvenční soud doručí pouze osobám, které proti němu podaly odvolání.
+>
+> (2) Jestliže insolvenční soud návrh na zrušení rozhodnutí schůze věřitelů zamítl, uplatní postup podle odstavce 1 přiměřeně ve vztahu k osobě, která návrh podala.
+>
+> (3) Osobou oprávněnou k podání odvolání proti rozhodnutí o zrušení usnesení schůze věřitelů je pouze věřitel, který hlasoval pro přijetí tohoto usnesení. K podání odvolání proti rozhodnutí o zamítnutí návrhu na zrušení usnesení schůze věřitelů je oprávněna pouze osoba, která návrh podala.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b62cfa9890d467d59731 -->
+
 # Věřitelský výbor (§ 56 — § 67)
 
 ## § 56 — Povinnost ustanovit výbor; složení
@@ -832,6 +1346,56 @@ Při více než 50 přihlášených věřitelích (mimo nepatrný konkurs a oddl
 **Typicky rozhodné důkazy / podklady:** seznam přihlášených pohledávek (počet věřitelů k datu schůze), rozhodnutí o způsobu řešení úpadku, protokol o volbě a usnesení o počtu členů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ac8236a2a246abfc74d2 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 56
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Je-li přihlášených věřitelů více než 50, je schůze věřitelů povinna ustanovit věřitelský výbor. Členy věřitelského výboru a jejich náhradníky volí schůze věřitelů.
+>
+> (2) Věřitelský výbor má nejméně 3 a nejvýše 7 členů. O počtu členů rozhoduje schůze věřitelů. Schůze věřitelů se může usnést, že každý člen věřitelského výboru má svého náhradníka; schůze věřitelů může rozhodnout o vyšším počtu náhradníků členů věřitelského výboru.
+>
+> (3) Je-li způsobem řešení úpadku nepatrný konkurs nebo oddlužení, není volba věřitelského výboru povinná.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ac8236a2a246abfc74d2 -->
 
 ## § 57 — Zastoupení zajištěných a nezajištěných ve výboru
 
@@ -894,6 +1458,56 @@ Výbor musí reprezentovat zajištěné i nezajištěné; nezajištěnými navr�
 **Typicky rozhodné důkazy / podklady:** seznam přihlášených s rozlišením zajištěných/nezajištěných (§ 2 písm. g), nominace jednotlivých skupin, protokol o oddělených volbách, potvrzení soudu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=155644f93ee8b5fefa74 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 57
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Ve věřitelském výboru mají být zastoupeni zajištění i nezajištění věřitelé. Členů věřitelského výboru navržených nezajištěnými věřiteli musí být vždy nejméně tolik, kolik členů navržených zajištěnými věřiteli; to neplatí, jestliže nezajištění věřitelé své členy nenavrhnou nebo jimi navržené osoby s tímto návrhem nesouhlasí anebo nejsou zvoleny z jiných důvodů.
+>
+> (2) Členové a náhradníci věřitelského výboru navržení nezajištěnými věřiteli se volí a odvolávají hlasy nezajištěných věřitelů. Členové a náhradníci věřitelského výboru navržení zajištěnými věřiteli se volí a odvolávají hlasy zajištěných věřitelů.
+>
+> (3) Volbu a odvolání členů a náhradníků věřitelského výboru potvrzuje insolvenční soud; jeho rozhodnutí se nedoručuje. Pro usnesení schůze věřitelů podle § 62 odst. 2 platí věta první obdobně.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 62
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=155644f93ee8b5fefa74 -->
 
 ## § 58 — Působnost věřitelského výboru
 
@@ -983,6 +1597,76 @@ Výbor je sborový orgán chránící společný zájem; rozhoduje většinou p�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=aaa3011a1c670a9186ea generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 58
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Věřitelský výbor chrání společný zájem věřitelů a v součinnosti s insolvenčním správcem přispívá k naplnění účelu insolvenčního řízení.
+>
+> (2) Věřitelský výbor zejména
+>
+> - a) dohlíží na činnost insolvenčního správce,
+>
+> - b) poskytuje insolvenčnímu správci podporu při jeho činnosti,
+>
+> - c) uděluje insolvenčnímu správci nebo dlužníku s dispozičními oprávněními souhlas k uzavírání smluv o úvěrovém financování,
+>
+> - d) schvaluje průběžně výši a správnost hotových výdajů insolvenčního správce a nákladů spojených s udržováním a správou majetkové podstaty,
+>
+> - e) může nahlížet do dlužníkova účetnictví nebo evidence vedené podle zvláštního právního předpisu13),
+>
+> - f) může rozhodnout o ověření řádné účetní závěrky nebo mimořádné účetní závěrky auditorem,
+>
+> - g) může nahlížet do dlužníkových písemností ve stejném rozsahu jako insolvenční správce,
+>
+> - h) plní úkoly stanovené tímto zákonem nebo uložené mu insolvenčním soudem,
+>
+> - i) je oprávněn podávat insolvenčnímu soudu návrhy týkající se průběhu insolvenčního řízení, včetně návrhů na uložení procesních sankcí.
+>
+> (3) Věřitelský výbor vykonává svou činnost jako sbor; ze svého středu volí předsedu, který svolává a řídí jeho schůze. Jestliže věřitelský výbor nezvolí předsedu ani při opakované volbě, určí ho z řad členů věřitelského výboru insolvenční soud. Věřitelský výbor se schází z vlastní iniciativy nebo jej svolá insolvenční soud anebo insolvenční správce. Rozhoduje většinou hlasů svých členů s tím, že nepřítomné členy zastupují jejich náhradníci; má-li člen věřitelského výboru více náhradníků (§ 56 odst. 2), zastupují jej v pořadí určeném schůzí věřitelů při jejich volbě. Při rovnosti hlasů rozhoduje hlas předsedy. Usnášet se věřitelský výbor může jen tehdy, je-li přítomna nadpoloviční většina jeho členů nebo jejich náhradníků. Ustanovení § 53 odst. 1 až 6 se na hlasování člena věřitelského výboru použije obdobně; při posuzování schopnosti věřitelského výboru se usnášet se § 53 odst. 6 použije přiměřeně. Připouští-li to povaha některé z činností, může věřitelský výbor jejím provedením nebo prováděním pověřit některého ze svých členů nebo jeho náhradníka.
+>
+> (4) Členové a náhradníci věřitelského výboru se mohou ve věřitelském výboru dát na své nebezpečí zastoupit kteroukoliv fyzickou osobou, která má způsobilost k právním úkonům v plném rozsahu; nejde-li o advokáta, může tento zástupce jednat jedině osobně. Náklady, které jim tím vzniknou, platí ze svého.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 56, § 53
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=aaa3011a1c670a9186ea -->
+
 ## § 59 — Kvalifikace členů výboru; vyloučení
 
 > (1) Členy a náhradníky věřitelského výboru mohou být jen přihlášení věřitelé, kteří se svým zvolením souhlasí. Stane-li se členem nebo náhradníkem věřitelského výboru právnická osoba, oznámí neprodleně insolvenčnímu soudu fyzickou osobu, která bude jejím jménem ve věřitelském výboru jednat.
@@ -1049,6 +1733,58 @@ Výbor je sborový orgán chránící společný zájem; rozhoduje většinou p�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c09eca95fb6960aa38d0 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 59
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Členy a náhradníky věřitelského výboru mohou být jen přihlášení věřitelé, kteří se svým zvolením souhlasí. Stane-li se členem nebo náhradníkem věřitelského výboru právnická osoba, oznámí neprodleně insolvenčnímu soudu fyzickou osobu, která bude jejím jménem ve věřitelském výboru jednat.
+>
+> (2) Členy ani náhradníky věřitelského výboru nemohou být osoby, u kterých je vzhledem k jejich vztahu k dlužníkovi důvod pochybovat o jejich nepodjatosti. Takto lze usuzovat zejména, jde-li o osoby dlužníkovi blízké, vedoucí zaměstnance dlužníka, podle [[§ 33 odst. 3|§ 33 odst. 3]] a [[§ 73 odst. 3|§ 73 odst. 3]] [[zákoníku práce|zákoníku práce]], společníky dlužníka, s výjimkou akcionářů, pokud nepůsobí v orgánech dlužníka nebo nevlastní dlužníkovy akcie anebo jiné jím vydané účastnické cenné papíry v souhrnné hodnotě více než desetiny základního kapitálu dlužníka, a osoby tvořící s dlužníkem koncern.
+>
+> (3) Insolvenční soud nepotvrdí volbu člena nebo náhradníka věřitelského výboru, je-li tu důvod pochybovat o jejich důvěryhodnosti nebo o tom, že budou k výkonu funkce způsobilí. Toto rozhodnutí musí insolvenční soud vyhlásit do skončení schůze věřitelů, na které k volbě došlo.
+>
+> (4) Po vyhlášení rozhodnutí podle odstavce 3 insolvenční soud vyzve každého z přítomných věřitelů, kteří hlasovali pro zvolení, aby uvedl, zda se vzdává odvolání, současně je poučí, že odvolání, které nebude podáno do skončení schůze věřitelů, již nelze podat. Vyjádření věřitelů a jejich poučení se uvede v protokolu o jednání. Rozhodnutí insolvenční soud doručí pouze osobám, které proti němu podaly odvolání.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 33, § 73
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c09eca95fb6960aa38d0 -->
+
 ## § 60 — Povinnosti a odpovědnost členů výboru
 
 > (1) Členové a náhradníci věřitelského výboru jsou povinni při výkonu své funkce postupovat s odbornou péčí a odpovídají za škodu nebo jinou újmu, kterou způsobili porušením svých povinností nebo neodborným výkonem své funkce. Společnému zájmu věřitelů jsou při výkonu funkce povinni dát přednost před zájmy vlastními i před zájmy jiných osob. Nabývat majetek z majetkové podstaty mohou jen se souhlasem schůze věřitelů. Odpovídají i za své zaměstnance a jiné osoby, jejichž prostřednictvím plnili či měli plnit své povinnosti.
@@ -1113,6 +1849,58 @@ Výbor je sborový orgán chránící společný zájem; rozhoduje většinou p�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5098af080cde714b34f2 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 60
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Členové a náhradníci věřitelského výboru jsou povinni při výkonu své funkce postupovat s odbornou péčí a odpovídají za škodu nebo jinou újmu, kterou způsobili porušením svých povinností nebo neodborným výkonem své funkce. Společnému zájmu věřitelů jsou při výkonu funkce povinni dát přednost před zájmy vlastními i před zájmy jiných osob. Nabývat majetek z majetkové podstaty mohou jen se souhlasem schůze věřitelů. Odpovídají i za své zaměstnance a jiné osoby, jejichž prostřednictvím plnili či měli plnit své povinnosti.
+>
+> (2) Členové a náhradníci věřitelského výboru mají právo na náhradu nutných výdajů spojených s výkonem funkce a na přiměřenou odměnu, jejíž výši určí insolvenční soud.
+>
+> (3) Věřitelský výbor může při své činnosti využívat služeb právních, ekonomických a jiných specializovaných odborníků. Náklady, které tím členům nebo náhradníkům věřitelského výboru vzniknou, lze hradit z majetkové podstaty pouze se souhlasem insolvenčního soudu. Při udělování souhlasu insolvenční soud zkoumá účelnost vynaložených nákladů, jejich rozsah v porovnání s celkovým rozsahem majetkové podstaty a přínos pro majetkovou podstatu. Je-li souhlas udělen, jde o pohledávku za majetkovou podstatou.
+>
+> (4) Způsob určení nutných výdajů a odměny členů a náhradníků věřitelského výboru a jejich nejvyšší přípustnou výši stanoví prováděcí právní předpis.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5098af080cde714b34f2 -->
+
 ## § 61 — Prozatímní věřitelský výbor
 
 > (1) Do doby, než dojde k ustanovení věřitelského výboru a k potvrzení volby jeho členů a náhradníků, může insolvenční soud, a to i před první schůzí věřitelů a před rozhodnutím o úpadku, jmenovat prozatímní věřitelský výbor; navrhne-li to dlužník, přihlášený věřitel nebo předběžný správce, učiní tak neprodleně.
@@ -1176,6 +1964,56 @@ Prozatímní výbor je interimní orgán pro ranou fázi řízení; soud jej jme
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9c2306d77ed798fc331e generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 61
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Do doby, než dojde k ustanovení věřitelského výboru a k potvrzení volby jeho členů a náhradníků, může insolvenční soud, a to i před první schůzí věřitelů a před rozhodnutím o úpadku, jmenovat prozatímní věřitelský výbor; navrhne-li to dlužník, přihlášený věřitel nebo předběžný správce, učiní tak neprodleně.
+>
+> (2) Jestliže věřitelský výbor neustanovila schůze věřitelů k tomu účelu svolaná, vykonává po jejím skončení působnost věřitelského výboru insolvenční soud; to platí obdobně, nebyla-li v oddlužení schůze věřitelů svolána. Novou schůzi věřitelů za účelem ustanovení věřitelského výboru svolá insolvenční soud jen na návrh oprávněné osoby (§ 47 odst. 1).
+>
+> (3) Proti rozhodnutí, jímž insolvenční soud jmenuje prozatímní věřitelský výbor, není odvolání přípustné.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 47
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9c2306d77ed798fc331e -->
+
 ## § 62 — Potvrzení prozatímního výboru
 
 > (1) Je-li to možné, jmenuje insolvenční soud prozatímní věřitelský výbor tak, aby v něm byli zastoupeni zajištění i nezajištění věřitelé.
@@ -1231,6 +2069,56 @@ O ponechání prozatímního výboru rozhoduje první schůze dvojím kvórem �
 **Typicky rozhodné důkazy / podklady:** usnesení soudu o jmenování prozatímního výboru, prezenční listina s rozlišením skupin a výší pohledávek, protokol o oddělených hlasováních, potvrzení soudu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=5f8385af1230c4aae191 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 62
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Je-li to možné, jmenuje insolvenční soud prozatímní věřitelský výbor tak, aby v něm byli zastoupeni zajištění i nezajištění věřitelé.
+>
+> (2) První schůze věřitelů konaná po jmenování prozatímního věřitelského výboru rozhodne o tom, zda ponechá ve funkci prozatímní věřitelský výbor. Usnesení je přijato, jestliže pro ně hlasovala většina přítomných nebo řádně zastoupených zajištěných věřitelů počítaná podle výše jejich pohledávek a většina přítomných nebo řádně zastoupených nezajištěných věřitelů počítaná podle výše jejich pohledávek. První schůze věřitelů konaná po jmenování prozatímního věřitelského výboru může též odvolat některého z jeho členů nebo jeho náhradníků nebo do něj zvolit dalšího člena a jeho náhradníka; přitom se postupuje podle § 57 odst. 2.
+>
+> (3) Prozatímní věřitelský výbor ukončí svou činnost, jakmile insolvenční soud potvrdí věřitelský výbor ustanovený schůzí věřitelů. Od okamžiku, kdy insolvenční soud potvrdí usnesení, jímž schůze věřitelů ponechá prozatímní věřitelský výbor ve funkci, se tento výbor považuje za věřitelský výbor ustanovený schůzí věřitelů.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 57
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5f8385af1230c4aae191 -->
 
 ## § 63 — Zánik funkce člena výboru
 
@@ -1303,6 +2191,56 @@ Funkce člena zaniká odvoláním, odstoupením nebo ukončením účasti v ří
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a9b7c59762aadf192fe8 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 63
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Funkce člena nebo náhradníka věřitelského výboru zaniká jeho odvoláním z funkce, odstoupením z funkce nebo ukončením jeho účasti v insolvenčním řízení.
+>
+> (2) Jestliže účast věřitele v insolvenčním řízení skončí postupem podle [[#§ 18|§ 18]], přechází na nabyvatele jeho pohledávky i členství tohoto věřitele ve věřitelském výboru; to neplatí, nabylo-li tímto způsobem pohledávku dosavadního věřitele více osob.
+>
+> (3) Z důležitých důvodů, zejména při porušování nebo zanedbávání povinností, může insolvenční soud odvolat věřitelský výbor nebo některého z jeho členů a náhradníků. Může tak učinit i bez návrhu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 18
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a9b7c59762aadf192fe8 -->
+
 ## § 64 — Odvolání proti rozhodnutí o odvolání
 
 > (1) Proti rozhodnutí o odvolání z funkce může podat odvolání každá z odvolaných osob.
@@ -1349,6 +2287,54 @@ Aktivní legitimace k odvolání je symetrická: proti výroku o odvolání z fu
 **Typicky rozhodné důkazy / podklady:** usnesení soudu s jednotlivými výroky, doklad o tom, kdo byl odvolán a kdo podal návrh na odvolání, případné podání odvolání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9c8ee8c7ce454e4cd8c8 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 64
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Proti rozhodnutí o odvolání z funkce může podat odvolání každá z odvolaných osob.
+>
+> (2) Proti rozhodnutí, kterým se návrh na odvolání z funkce zamítá, může podat odvolání osoba, která návrh podala.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9c8ee8c7ce454e4cd8c8 -->
 
 ## § 65 — Odstoupení; doplňující volba
 
@@ -1403,6 +2389,54 @@ U prozatímního výboru — *jmenování soudem*.
 **Typicky rozhodné důkazy / podklady:** písemná odstoupení adresovaná soudu, doklady o skončení účasti členů v řízení, usnesení o volbě výboru (počet členů a náhradníků), případné svolání schůze k doplňující volbě.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c32992ae687c143af1af generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 65
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Člen nebo náhradník věřitelského výboru může kdykoli ze své funkce odstoupit. Činí tak podáním adresovaným insolvenčnímu soudu, které nemusí obsahovat důvody.
+>
+> (2) Dojde-li k tomu, že věřitelský výbor nebo některý z jeho členů nebo náhradníků nemůže pro zánik funkce vykonávat svou činnost a věřitelský výbor již nemá počet členů ustanovený schůzí věřitelů, svolá insolvenční soud schůzi věřitelů za účelem provedení nové volby nebo doplňující volby. Zanikne-li funkce člena věřitelského výboru, nastoupí na jeho místo jeho náhradník a doplňující volbou bude určen nový náhradník. Jde-li o prozatímní věřitelský výbor jmenovaný insolvenčním soudem, který dosud nepotvrdila schůze věřitelů, pak nový prozatímní věřitelský výbor nebo některého z jeho členů anebo náhradníků jmenuje insolvenční soud.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c32992ae687c143af1af -->
 
 ## § 66 — Insolvenční soud jako věřitelský výbor
 
@@ -1462,6 +2496,56 @@ Není-li výbor ustanoven nebo klesne-li pod 3 členy/většinu, vykonává jeho
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d1762c22a2d5d6c385ed generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 66 — Insolvenční soud jako věřitelský výbor
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Jestliže v průběhu insolvenčního řízení poklesne počet členů věřitelského výboru ustanoveného schůzí věřitelů na méně než 3 nebo pod většinu, vykonává působnost věřitelského výboru až do potvrzení nové volby nebo doplňující volby členů věřitelského výboru do počtu nejméně 3 nebo do počtu většiny členů insolvenční soud.
+>
+> (2) Jestliže chybějící členy věřitelského výboru do počtu nejméně 3 nebo do počtu většiny členů nezvolila schůze věřitelů k tomu účelu svolaná, vykonává po jejím skončení působnost věřitelského výboru insolvenční soud; § 61 odst. 2 věta druhá a § 61 odst. 3 platí obdobně.
+>
+> (3) Úkon, který insolvenční soud provádí při výkonu působnosti věřitelského výboru, tak musí být označen.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 61
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d1762c22a2d5d6c385ed -->
+
 ## § 67 — Účast odborové organizace ve výboru
 
 > Má-li dlužník zaměstnance, má právo zúčastnit se jednání věřitelského výboru nebo prozatímního věřitelského výboru s hlasem poradním také odborová organizace, která u dlužníka působí. Působí-li u dlužníka vedle sebe více odborových organizací, má toto právo odborová organizace s největším počtem členů nebo sdružení odborových organizací s největším počtem členů, nedohodnou-li se odborové organizace působící u dlužníka jinak.
@@ -1512,6 +2596,52 @@ Má-li dlužník zaměstnance, má nejsilnější odborová organizace (nebo doh
 **Typicky rozhodné důkazy / podklady:** doklady o působení a počtu členů jednotlivých odborových organizací, případná dohoda organizací, pozvánka a protokol z jednání výboru.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=91f379a4a71d8b781dc0 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 67 — Účast odborové organizace ve věřitelském výboru
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Má-li dlužník zaměstnance, má právo zúčastnit se jednání věřitelského výboru nebo prozatímního věřitelského výboru s hlasem poradním také odborová organizace, která u dlužníka působí. Působí-li u dlužníka vedle sebe více odborových organizací, má toto právo odborová organizace s největším počtem členů nebo sdružení odborových organizací s největším počtem členů, nedohodnou-li se odborové organizace působící u dlužníka jinak.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=91f379a4a71d8b781dc0 -->
 
 ## § 68 — Zástupce věřitelů
 
@@ -1565,6 +2695,54 @@ Zástupce věřitelů je jednočlennou alternativou výboru pro řízení, kde v
 **Typicky rozhodné důkazy / podklady:** usnesení o volbě zástupce a náhradníka, doklady o počtu věřitelů a způsobu řešení úpadku, souhlas schůze/soudu k zamýšleným úkonům, podklady k případnému střetu zájmů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=584a2746675b4b45a142 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 68 — Zástupce věřitelů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Není-li volba věřitelského výboru povinná, může schůze věřitelů místo něho zvolit zástupce věřitelů a jeho náhradníka.
+>
+> (2) Ustanovení o věřitelském výboru platí pro zástupce věřitelů a jeho náhradníka obdobně.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=584a2746675b4b45a142 -->
 
 # DÍL 5 — Další procesní subjekty
 
@@ -1627,6 +2805,52 @@ Státní zastupitelství, které vstoupilo do insolvenčního řízení, inciden
 **Typicky rozhodné důkazy / podklady:** usnesení/oznámení o vstupu SZ do řízení (§ 35 OSŘ), napadené rozhodnutí soudu a poučení o opravném prostředku, podklady dokládající veřejný zájem.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1648539856b057c99333 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 69 — Státní zastupitelství
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Je-li proti rozhodnutí insolvenčního soudu přípustný opravný prostředek, může jej podat i státní zastupitelství, které vstoupilo do insolvenčního řízení, do incidenčního sporu nebo do moratoria.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1648539856b057c99333 -->
 
 ## § 70 — Likvidátor dlužníka
 
@@ -1709,3 +2933,54 @@ Likvidátor dlužníka zůstává po zahájení insolvence orgánem dlužníka v
 ---
 
 **Pokračování:** [05-cast1-hlava3-ustanoveni-o-IR.md](05-cast1-hlava3-ustanoveni-o-IR.md) — § 71 až § 96 (Ustanovení o insolvenčním řízení — doručování, insolvenční rejstřík, lhůty, soudní rozhodnutí, opravné prostředky, předběžná opatření).
+
+<!-- LEGAL-REVISION:BEGIN id=f99b617718ffbc6af5b9 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 70 — Likvidátor dlužníka
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Likvidátor dlužníka vykonává v insolvenčním řízení svou působnost v rozsahu, v jakém nepřešla na insolvenčního správce; do jeho působnosti patří i součinnost s insolvenčním správcem uložená zákonem dlužníkovi.
+>
+> (2) Působnost podle odstavce 1 vykonává likvidátor dlužníka od podání insolvenčního návrhu, a jde-li o insolvenční návrh věřitele, od rozhodnutí o úpadku.
+>
+> (3) V souvislosti se svou činností v insolvenčním řízení má likvidátor dlužníka právo na náhradu, nutných výdajů a na přiměřenou odměnu, jejíž výši určí insolvenční soud na návrh insolvenčního správce v souladu se zvláštním právním předpisem.
+>
+> (4) Pro osoby v postavení obdobném postavení likvidátora dlužníka platí odstavce 1 až 3 obdobně.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f99b617718ffbc6af5b9 -->

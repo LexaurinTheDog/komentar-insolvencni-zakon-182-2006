@@ -58,6 +58,52 @@ Závěrečná část komentáře obsahuje:
 
 **Typicky rozhodné důkazy / podklady:** smlouva o poskytnutí služby, doklad o platbě, samotný návrh s údajem o sepisovateli (§ 390a), reklama/nabídka služby, korespondence dlužníka s poskytovatelem.
 
+
+<!-- LEGAL-REVISION:BEGIN id=bb94d9e9b0d2967f2cbe generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 418a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Službami poskytovanými v oblasti oddlužení jsou sepis a podání návrhu na povolení oddlužení anebo také insolvenčního návrhu podle § 390 odst. 1 a další činnosti s tím nezbytně spojené, zejména porada s klientem a odstranění vad návrhu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 390
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bb94d9e9b0d2967f2cbe -->
+
 ## § 418b — § 418c — Podmínky a žádost o akreditaci
 
 **§ 418b — Podmínky pro akreditaci**:
@@ -109,6 +155,140 @@ Závěrečná část komentáře obsahuje:
 
 **Typicky rozhodné důkazy / podklady:** nájemní/vlastnická smlouva k prostorám, výpisy z rejstříku trestů (obstará MS), diplomy/osvědčení o zkoušce, pojistná smlouva, zakladatelská listina/stanovy prokazující veřejnou prospěšnost.
 
+
+<!-- LEGAL-REVISION:BEGIN id=6ecb6c829f0c24cae396 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 418b — Podmínky pro udělení akreditace
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) O udělení akreditace pro poskytování služeb v oblasti oddlužení (dále jen „akreditace“) rozhoduje ministerstvo na žádost právnické osoby.
+>
+> (2) Podmínkou pro udělení akreditace je
+>
+> - a) vlastnické nebo jiné užívací právo právnické osoby k prostorám, v nichž mají být poskytovány služby v oblasti oddlužení,
+>
+> - b) bezúhonnost právnické osoby, která poskytuje služby v oblasti oddlužení, jejích zakladatelů, členů, členů jejího statutárního orgánu, členů jejího kontrolního orgánu a těch zaměstnanců a jiných osob ve smluvním vztahu k právnické osobě, kteří se podílejí na poskytování služeb v oblasti oddlužení; za bezúhonnou osobu se pro účely tohoto zákona nepovažuje ten, kdo byl pravomocně odsouzen pro úmyslný trestný čin nebo trestný čin spáchaný z nedbalosti v souvislosti s vykonáváním činností při poskytování služeb v oblasti oddlužení nebo činností s nimi srovnatelných, pokud se na něj nehledí, jako by nebyl odsouzen,
+>
+> - c) skutečnost, že v posledních 5 letech předcházejících dni podání žádosti nebyla právnické osobě zrušena akreditace podle § 418f odst. 2,
+>
+> - d) odborná způsobilost alespoň jedné fyzické osoby, která je ve smluvním vztahu k právnické osobě; za odborně způsobilou osobu k poskytování služeb v oblasti oddlužení se považuje osoba, která získala vysokoškolské vzdělání v rámci magisterského studijního programu oborů práva nebo ekonomie na vysoké škole v České republice nebo pokud tak stanoví mezinárodní smlouva, která je součástí právního řádu, vzdělání v oborech práva nebo ekonomie na vysoké škole v zahraničí, anebo pokud je toto vzdělání uznáno podle zvláštních právních předpisů,
+>
+> - e) uzavření smlouvy o pojištění odpovědnosti za škodu, která by mohla vzniknout v souvislosti s poskytováním služeb v oblasti oddlužení,
+>
+> - f) veřejná prospěšnost právnické osoby.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 418f
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6ecb6c829f0c24cae396 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=b7717f4b7bbd442c24c7 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 418c — Žádost o akreditaci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Žádost o akreditaci kromě obecných náležitostí podle [[správního řádu|správního řádu]] obsahuje adresu místa, kde se nacházejí prostory, v nichž budou poskytovány služby v oblasti oddlužení.
+>
+> (2) K žádosti podle odstavce 1 se připojí
+>
+> - a) seznam osob podle § 418b písm. b) a, nejde-li o případ podle odstavce 3, doklad o splnění podmínky jejich bezúhonnosti, který není ke dni podání žádosti starší 3 měsíců,
+>
+> - b) zakladatelské právní jednání a výpis z veřejného rejstříku nebo jiné evidence podle zvláštního právního předpisu, který není ke dni podání žádosti starší než 1 měsíc, nejde-li o případ podle odstavce 6,
+>
+> - c) doklady prokazující odbornou způsobilost fyzických osob,
+>
+> - d) doklad o vlastnickém nebo jiném užívacím právu k prostorám, v nichž budou poskytovány služby v oblasti oddlužení, z nichž vyplývá oprávnění žadatele tyto objekty nebo prostory užívat,
+>
+> - e) doklad prokazující splnění podmínky pojištění odpovědnosti za škodu způsobenou při poskytování služeb v oblasti oddlužení.
+>
+> (3) Za účelem doložení bezúhonnosti osoby podle § 418b písm. b) si ministerstvo vyžádá podle zvláštního právního předpisu68) výpis z evidence Rejstříku trestů. Žádost o vydání výpisu z evidence Rejstříku trestů a výpis z evidence Rejstříku trestů se předávají v elektronické podobě, a to způsobem umožňujícím dálkový přístup.
+>
+> (4) Za účelem doložení bezúhonnosti osoby, která je cizincem nebo zahraniční právnickou osobou, předloží právnická osoba výpis z evidence trestů nebo rovnocenný doklad vydaný cizím státem,
+>
+> - a) jehož je fyzická osoba občanem, jakož i cizím státem, ve kterém se fyzická osoba v posledních 3 letech nepřetržitě zdržovala po dobu delší než 6 měsíců; za účelem doložení bezúhonnosti fyzické osoby, která je nebo byla občanem jiného členského státu Evropské unie nebo má nebo měla adresu bydliště v jiném členském státě Evropské unie, postačí předložit výpis z evidence Rejstříku trestů s přílohou obsahující informace o jejích pravomocných odsouzeních za trestné činy a o navazujících údajích o těchto odsouzeních zapsaných v evidenci tohoto státu,
+>
+> - b) v němž má nebo v posledních 3 letech měla zahraniční právnická osoba sídlo, jakož i cizím státem, ve kterém zahraniční právnická osoba má nebo v posledních 3 letech měla organizační složku obchodního závodu, pokud právní řád tohoto státu upravuje trestní odpovědnost právnických osob.
+>
+> (5) Nevydává-li cizí stát výpis z evidence trestů nebo rovnocenný doklad nebo existují-li právní nebo jiné překážky pro předložení výpisu z evidence trestů, předloží právnická osoba čestné prohlášení o bezúhonnosti
+>
+> - a) fyzické osoby učiněné před notářem nebo orgánem státu podle odstavce 4 písm. a),
+>
+> - b) zahraniční právnické osoby učiněné před notářem nebo orgánem státu podle odstavce 4 písm. b).
+>
+> (6) Ministerstvo si opatří podle zvláštního právního předpisu69) úředně ověřený elektronický opis zakladatelského právního jednání uloženého do sbírky listin podle zvláštního právního předpisu70) a údajů o právnické osobě zapsané do veřejného rejstříku podle zvláštního právního předpisu70), jsou-li ve veřejném rejstříku podle zvláštního právního předpisu69) uchovávány v elektronické podobě71).
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 418b
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b7717f4b7bbd442c24c7 -->
+
 ## § 418d — § 418e — Rozhodnutí, změna, prodloužení
 
 **§ 418d** — akreditace na **5 let**, *nepřevoditelná*, *bez přechodu* na nástupce.
@@ -150,6 +330,108 @@ Závěrečná část komentáře obsahuje:
 - [ ] Nedošlo k zániku/přeměně PO, který by vylučoval přechod akreditace (nepřevoditelnost)?
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o udělení akreditace, oznámení změn s datem, pracovní smlouvy odborně způsobilých osob, žádost o prodloužení s datem podání, pojistná smlouva.
+
+
+<!-- LEGAL-REVISION:BEGIN id=d421c6305d98df169e4f generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 418d — Rozhodnutí o udělení akreditace
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) O udělení akreditace rozhoduje na základě žádosti ministerstvo. Platnost akreditace je omezena na dobu 5 let od nabytí právní moci rozhodnutí o udělení akreditace. Akreditace je nepřevoditelná a nepřechází na právního nástupce.
+>
+> (2) Rozhodnutí o udělení akreditace kromě obecných náležitostí podle [[správního řádu|správního řádu]] obsahuje
+>
+> - a) identifikační číslo přidělené akreditované osobě,
+>
+> - b) adresu místa, kde se nacházejí prostory, v nichž budou poskytovány služby v oblasti oddlužení.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d421c6305d98df169e4f -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=620678663501416e85cc generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 418e — Změna a prodloužení akreditace
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Akreditovaná osoba je povinna písemně oznámit ministerstvu všechny změny týkající se údajů obsažených v rozhodnutí o udělení akreditace, a to nejpozději do 15 dnů ode dne, kdy k nim došlo.
+>
+> (2) Ministerstvo rozhoduje o změně rozhodnutí o udělení akreditace na žádost akreditované osoby; oznámení podle odstavce 1 se považuje za žádost.
+>
+> (3) O prodloužení platnosti akreditace rozhoduje ministerstvo na základě žádosti podané před koncem doby platnosti akreditace. Jsou-li splněny podmínky pro udělení akreditace a žádost o její prodloužení je doložena podle [[#§ 418c|§ 418c]], ministerstvo platnost akreditace prodlouží vždy o 5 let. Akreditace akreditované osoby, která podala žádost o prodloužení akreditace před koncem doby platnosti akreditace, se považuje za platnou až do právní moci rozhodnutí o žádosti o prodloužení akreditace.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 418c
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=620678663501416e85cc -->
 
 ## § 418f — Zrušení a zánik akreditace
 
@@ -201,6 +483,58 @@ Závěrečná část komentáře obsahuje:
 
 **Typicky rozhodné důkazy / podklady:** kontrolní protokoly, výzvy MS a reakce organizace, vzorky vadných návrhů, doklady o nadlimitní odměně, přehled rozpracovaných dlužníků, rozhodnutí o akreditaci.
 
+
+<!-- LEGAL-REVISION:BEGIN id=870de37184e1de9a4c28 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 418f — Zrušení a zánik akreditace
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Ministerstvo zruší akreditaci akreditované osobě, která nesplňuje podmínky pro udělení akreditace.
+>
+> (2) Ministerstvo může zrušit akreditaci akreditované osobě, která závažným způsobem porušila nebo opakovaně porušuje povinnost stanovenou tímto zákonem nebo kontrolním řádem.
+>
+> (3) Akreditace zaniká posledním dnem měsíce následujícího po měsíci, v němž byla ministerstvu doručena žádost o zrušení akreditace. Ukončení činnosti nesmí mít za následek poškození práv osob, kterým jsou poskytovány služby v oblasti oddlužení. Je-li zjevné, že ukončení činnosti vážně poškodí práva osob podle věty druhé, může v odůvodněných případech ministerstvo nejpozději do 20 dnů od podání žádosti o zrušení akreditace vydat rozhodnutí o pozastavení účinků spojených s podáním žádosti, a to nejdéle po dobu 1 měsíce ode dne, kdy byla podána, a nejvýše jednou. Rozklad proti rozhodnutí podle věty třetí nemá odkladný účinek.
+>
+> (4) Akreditace zaniká také uplynutím doby, na kterou byla vydána, nebo dnem zániku právnické osoby.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=870de37184e1de9a4c28 -->
+
 ## § 418g — Povinnosti akreditované osoby
 
 - *postupovat svědomitě a s odbornou péčí*,
@@ -251,6 +585,58 @@ Závěrečná část komentáře obsahuje:
 
 **Typicky rozhodné důkazy / podklady:** záznam z porady a poučení dlužníka, podaný návrh, příjmové a majetkové doklady dlužníka, rozhodnutí soudu o návrhu, pojistná smlouva akreditované osoby.
 
+
+<!-- LEGAL-REVISION:BEGIN id=5342053d1eb8c85c0bfe generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 418g — Povinnosti akreditované osoby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Akreditovaná osoba postupuje při poskytování služeb v oblasti oddlužení svědomitě a s odbornou péčí. Akreditovaná osoba poruší povinnost podle věty první zejména tím, že neupozorní dlužníka, že jeho poměry neodůvodňují podání návrhu na povolení oddlužení anebo také insolvenčního návrhu, nebo že nezohlední při sepisu takového návrhu zcela zjevně poměry dlužníka, nebo že sepíše a za dlužníka podá opakovaně návrh na povolení oddlužení anebo také insolvenční návrh s vadami, pro které je takový návrh odmítnut nebo zamítnut, nebo že způsobí pozdním sepsáním a podáním takového návrhu dlužníkovi škodu.
+>
+> (2) Prostory, ve kterých mají být akreditovanou osobou poskytovány služby v oblasti oddlužení, musí být trvale a zvenčí viditelně označeny jejím názvem a provozní dobou určenou pro styk s veřejností.
+>
+> (3) Akreditovaná osoba poskytuje služby v oblasti oddlužení zpravidla v prostorách podle odstavce 2.
+>
+> (4) Akreditovaná osoba oznámí ministerstvu všechny skutečnosti, které mohou vést ke zrušení akreditace podle § 418f odst. 1.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 418f
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5342053d1eb8c85c0bfe -->
+
 ## § 418h — Seznam akreditovaných osob
 
 **Veřejný seznam** vedený MS — *dálkový přístup*. Obsah:
@@ -293,6 +679,80 @@ Závěrečná část komentáře obsahuje:
 - [ ] Je pro řízení potřeba úředně ověřený výstup ze seznamu?
 
 **Typicky rozhodné důkazy / podklady:** výpis ze seznamu akreditovaných osob, úředně ověřený výstup, prezentace/reklama subjektu (pro porovnání se zápisem), rozhodnutí o akreditaci/jejím zrušení.
+
+
+<!-- LEGAL-REVISION:BEGIN id=f72a9c4bfb26314fa129 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 418h — Seznam akreditovaných osob
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Ministerstvo vede seznam akreditovaných osob (dále jen „seznam“), který je uveřejněný způsobem umožňujícím dálkový přístup.
+>
+> (2) Do seznamu se o akreditované osobě zapisuje
+>
+> - a) název právnické osoby, její sídlo a identifikační číslo jí přidělené rejstříkovým soudem,
+>
+> - b) identifikační číslo přidělené právnické osobě jako akreditované osobě ministerstvem,
+>
+> - c) adresa místa, kde se nacházejí prostory, v nichž budou poskytovány služby v oblasti oddlužení,
+>
+> - d) den, k němuž byla právnické osobě udělena akreditace,
+>
+> - e) den, k němuž byl proveden zápis právnické osoby do seznamu,
+>
+> - f) údaj o tom, že se akreditovaná osoba dopustila přestupku, za který jí byla uložena pokuta nejméně ve výši 5 000 Kč nebo sankce zákazu činnosti, s uvedením dne právní moci rozhodnutí o přestupku, označení přestupku, výše uložené pokuty nebo délky trvání zákazu činnosti,
+>
+> - g) den, k němuž akreditace právnické osoby zapsané do seznamu zanikla nebo byla zrušena.
+>
+> (3) Údaj o tom, že se akreditovaná osoba dopustila přestupku, se vyřadí ze seznamu
+>
+> - a) po uplynutí 3 let ode dne nabytí právní moci rozhodnutí o přestupku, za který byla akreditované osobě uložena pokuta nepřesahující částku 10 000 Kč,
+>
+> - b) po uplynutí 5 let ode dne nabytí právní moci rozhodnutí o přestupku, za který byla akreditované osobě uložena pokuta přesahující částku 10 000 Kč a nepřesahující částku 75 000 Kč nebo sankce zákazu činnosti v délce trvání nejvýše 2 let, a
+>
+> - c) po uplynutí 8 let ode dne nabytí právní moci rozhodnutí o přestupku, za který byla akreditované osobě uložena pokuta přesahující částku 75 000 Kč nebo sankce zákazu činnosti v délce trvání více než 2 roky;
+>
+> rozhodnutím o přestupku se pro tyto účely rozumí i rozhodnutí o přestupku v přezkumném řízení a rozhodnutí soudu o žalobě ve správním soudnictví.
+>
+> (4) Údaj podle odstavce 3 se ze seznamu vyřadí též, je-li rozhodnutí o tom, že se akreditovaná osoba dopustila přestupku, zrušeno rozhodnutím správního orgánu nebo soudu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f72a9c4bfb26314fa129 -->
 
 ## § 418i — § 418l — Dohled a přestupky
 
@@ -354,6 +814,216 @@ Závěrečná část komentáře obsahuje:
 **Typicky rozhodné důkazy / podklady:** webová/letáková nabídka služby, smlouvy s dlužníky a doklady o platbách, podané návrhy s údajem o sepisovateli (§ 390a), doklady o provizi za zprostředkování, kontrolní protokoly.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=910b9fa20881df304fea generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 418i — Dohled ministerstva
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Ministerstvo vykonává dohled nad poskytováním služeb v oblasti oddlužení z hlediska souladu s tímto zákonem. Pro potřeby dohledu ministerstvo provede kontrolu akreditované osoby.
+>
+> (2) Ministerstvo vyzve akreditovanou osobu, aby v přiměřené lhůtě odstranila zjištěné nedostatky.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=910b9fa20881df304fea -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=ce6845ed3a150c1c732a generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 418j — Přestupky právnických osob
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Akreditovaná osoba se dopustí přestupku tím, že
+>
+> - a) poruší povinnost podle § 418g odst. 1,
+>
+> - b) prostory, ve kterých mají být akreditovanou osobou poskytovány služby v oblasti oddlužení, nejsou označeny řádně podle § 418g odst. 2,
+>
+> - c) požaduje za poskytnutí služby v oblasti oddlužení odměnu nebo jiné plnění v rozporu s § 390a odst. 4, nebo
+>
+> - d) v rozporu s § 418g odst. 4 neoznámí ministerstvu všechny skutečnosti, které mohou vést ke zrušení akreditace podle § 418f odst. 1.
+>
+> (2) Právnická osoba se dopustí přestupku tím, že nabídne nebo poskytne služby v oblasti oddlužení bez akreditace.
+>
+> (3) Právnická osoba se dopustí přestupku tím, že v rozporu s § 390a odst. 7 sama nebo prostřednictvím jiného za úplatu nebo jiné zvýhodnění obstará, zprostředkuje nebo nabídne obstarání či zprostředkování služby v oblasti oddlužení.
+>
+> (4) Za přestupek
+>
+> - a) podle odstavce 1 písm. a) a c) lze uložit pokutu do 200 000 Kč nebo sankci zákazu činnosti poskytování služeb v oblasti oddlužení až na 5 let,
+>
+> - b) podle odstavce 1 písm. b) a d) lze uložit pokutu do 100 000 Kč,
+>
+> - c) podle odstavce 2 nebo [[#§ 3|3]] lze uložit pokutu do 500 000 Kč.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 418g, § 390a, § 418f, § 3
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ce6845ed3a150c1c732a -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=4aeae51adc0e611ddbaa generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 418k — Přestupky fyzických osob
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Fyzická osoba se dopustí přestupku tím, že neoprávněně nabídne nebo poskytne služby v oblasti oddlužení.
+>
+> (2) Fyzická osoba se dopustí přestupku tím, že v rozporu s § 390a odst. 7 sama nebo prostřednictvím jiného za úplatu nebo jiné zvýhodnění obstará, zprostředkuje nebo nabídne obstarání či zprostředkování služby v oblasti oddlužení.
+>
+> (3) Za přestupek podle odstavce 1 nebo 2 lze uložit pokutu do 500 000 Kč.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 390a
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4aeae51adc0e611ddbaa -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=49c4d68929a66221a0b1 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 418l — Společná ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Přestupky podle [[#§ 418j|§ 418j]] a [[#§ 418k|418k]] projednává ministerstvo.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 418j, § 418k
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=49c4d68929a66221a0b1 -->
 
 # ČÁST ČTVRTÁ — Společná, přechodná a závěrečná ustanovení (§ 419 — § 434)
 
@@ -428,6 +1098,58 @@ Závěrečná část komentáře obsahuje:
 
 **Typicky rozhodné důkazy / podklady:** výpis z insolvenčního rejstříku s datem a časem zveřejnění, úředně ověřený výstup, datum podání přihlášky, případně záznamy o výpadku oficiálního systému.
 
+
+<!-- LEGAL-REVISION:BEGIN id=e9800bb81e644a282032 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 419
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Insolvenční rejstřík je informačním systémem veřejné správy, jehož správcem je Ministerstvo spravedlnosti (dále jen „ministerstvo“).
+>
+> (2) Insolvenční rejstřík obsahuje seznam insolvenčních správců, seznam dlužníků a insolvenční spisy. Pro každého dlužníka se vede jeden insolvenční spis.
+>
+> (3) Insolvenční rejstřík je veřejně přístupný, s výjimkou údajů, o kterých tak stanoví tento zákon. Každý má právo do něj nahlížet a pořizovat si z něj kopie a výpisy. Soudce insolvenčního soudu má přístup ke všem údajům vedeným v insolvenčním rejstříku.
+>
+> (4) Na žádost vydá ministerstvo nebo insolvenční soud úředně ověřený výstup z informačního systému veřejné správy obsahující údaje z insolvenčního rejstříku nebo informaci o tom, že požadovaný údaj není veden v insolvenčním rejstříku.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e9800bb81e644a282032 -->
+
 ## § 420 — Seznam dlužníků
 
 **Obsah údajů**:
@@ -482,6 +1204,60 @@ Závěrečná část komentáře obsahuje:
 
 **Typicky rozhodné důkazy / podklady:** výpis ze seznamu dlužníků, vlastní evidence věřitele k porovnání identifikátorů, rozhodnutí o ustanovení správce, případně podnět k opravě zápisu.
 
+
+<!-- LEGAL-REVISION:BEGIN id=7f38acd1573eae146418 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 420
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Je-li dlužník fyzickou osobou, zapisuje se do seznamu dlužníků jeho jméno, příjmení, bydliště, rodné číslo, a nemá-li rodné číslo, datum narození; jde-li o fyzickou osobu, která má podle zvláštního právního předpisu sídlo, zapíše se do seznamu dlužníků i její sídlo.
+>
+> (2) Je-li dlužníkem fyzická osoba, která je podnikatelem, zapisuje se do seznamu dlužníků vedle údajů podle odstavce 1 i dodatek odlišující její firmu, používá-li jej při svém podnikání, dále sídlo, jestliže se liší od bydliště, a identifikační číslo.
+>
+> (3) Je-li dlužník právnickou osobou, zapisuje se do seznamu dlužníků jeho obchodní firma nebo název, sídlo a identifikační číslo.
+>
+> (4) Údaje podle odstavců 1 až 3 zapíše insolvenční soud do seznamu dlužníků, jakmile nastanou účinky spojené se zahájením insolvenčního řízení, nejpozději však do 7 dnů po tomto okamžiku; není-li mu některý z těchto údajů v uvedené době znám, zapíše jej insolvenční soud do seznamu dlužníků, jakmile v insolvenčním řízení vyjde najevo.
+>
+> (5) Neprodleně po ustanovení insolvenčního správce zapíše insolvenční soud údaj o tom do seznamu dlužníků. Je-li insolvenční správce fyzickou osobou, zapisuje se do seznamu dlužníků jeho jméno, příjmení, sídlo, identifikační číslo, a nemá-li identifikační číslo, datum narození; je-li insolvenční správce právnickou osobou, zapisuje se do seznamu dlužníků jeho obchodní firma nebo název, sídlo a identifikační číslo.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7f38acd1573eae146418 -->
+
 ## § 421 — Zveřejňování písemností
 
 **Insolvenční rejstřík obsahuje *chronologicky*** s časovým razítkem:
@@ -534,6 +1310,60 @@ Závěrečná část komentáře obsahuje:
 
 **Typicky rozhodné důkazy / podklady:** chronologický záznam v insolvenčním rejstříku s časovými razítky, úředně ověřený výstup, podací/doručovací údaje listinného podání, evidence podatelny soudu.
 
+
+<!-- LEGAL-REVISION:BEGIN id=9b0f38422e8f1324bcb7 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 421
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) V insolvenčním rejstříku insolvenční soud zveřejňuje chronologicky s uvedením okamžiku vložení tyto písemnosti a informace:
+>
+> - a) rozhodnutí insolvenčního soudu vydaná v insolvenčním řízení a v incidenčních sporech,
+>
+> - b) veškerá podání, která se vkládají do soudního spisu vedeného insolvenčním soudem ohledně dlužníka, nestanoví-li tento zákon jinak,
+>
+> - c) další informace, o kterých tak stanoví tento zákon nebo insolvenční soud.
+>
+> (2) Podání došlá insolvenčnímu soudu v elektronické podobě a písemnosti pořizované insolvenčním soudem se do insolvenčního rejstříku vkládají pomocí elektronického přenosu dat. Ostatní písemnosti a podání se vkládají přenesením jejich obrazové podoby do insolvenčního rejstříku.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9b0f38422e8f1324bcb7 -->
+
 ## § 422 — Ochrana osobních údajů
 
 **Žádost FO o nezveřejňování** některých údajů — typicky bydliště pro ochranu před šikanou. **Jméno a příjmení se vždy zveřejní** — *neslyšitelný požadavek anonymity*.
@@ -581,6 +1411,56 @@ Závěrečná část komentáře obsahuje:
 
 **Typicky rozhodné důkazy / podklady:** žádost dlužníka s odůvodněním, doklady o ohrožení (rozhodnutí o vykázání, trestní oznámení, výhrůžky), aktuální stav zveřejnění údajů v rejstříku, písemné rozhodnutí soudu o žádosti.
 
+
+<!-- LEGAL-REVISION:BEGIN id=7b3e13164dd044cdc527 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 422
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Na žádost fyzické osoby, která učinila příslušné podání, může insolvenční soud rozhodnout, že některé z osobních údajů této fyzické osoby, obsažené v podání, nebudou v insolvenčním rejstříku veřejně přístupné. Takovou žádost lze podat kdykoliv v průběhu insolvenčního řízení. Jméno a příjmení takové fyzické osoby insolvenční soud v insolvenčním rejstříku zveřejní vždy.
+>
+> (2) Nejde-li o fyzickou osobu, která učinila podání, zveřejní se u takové fyzické osoby v insolvenčním rejstříku jen její jméno a příjmení.
+>
+> (3) V případě postupu podle odstavců 1 a [[#§ 2|2]] insolvenční soud připojí ke vkládanému podání informaci o charakteru osobního údaje, který není zveřejňován.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7b3e13164dd044cdc527 -->
+
 ## § 423 — Utajení a maření účelu
 
 **Nevkládají se**:
@@ -623,6 +1503,54 @@ Závěrečná část komentáře obsahuje:
 
 **Typicky rozhodné důkazy / podklady:** návrh na předběžné opatření a posouzení rizika zmaření účelu, klasifikace utajované informace dle zvláštního předpisu, záznam o dočasném nezveřejnění a jeho následném zpřístupnění.
 
+
+<!-- LEGAL-REVISION:BEGIN id=274b0fa3b1e7756aa28f generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 423
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Do insolvenčního rejstříku se nevkládají podání či jiné písemnosti, které podléhají utajení podle zvláštního právního předpisu. Skutečnost, že se v soudním spisu nachází podání, které z uvedeného důvodu nebylo zveřejněno v insolvenčním rejstříku, však musí být v insolvenčním rejstříku vyznačena společně s údaji o charakteru podání; to před zahájením insolvenčního řízení neplatí pro řízení o návrhu na vyhlášení moratoria.
+>
+> (2) Do insolvenčního rejstříku se na nezbytně nutnou dobu nevkládají podání či jiné písemnosti, jejichž okamžité zveřejnění by mařilo účel insolvenčního řízení.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=274b0fa3b1e7756aa28f -->
+
 ## § 424 — Účinky zveřejnění
 
 **Okamžik zveřejnění = doručení** (pro vyhláškové doručení podle § 71). *Vždy uveden v rejstříku*.
@@ -662,6 +1590,54 @@ Závěrečná část komentáře obsahuje:
 - [ ] Je rozhodný okamžik doložitelný výpisem/úředně ověřeným výstupem z rejstříku?
 
 **Typicky rozhodné důkazy / podklady:** záznam v insolvenčním rejstříku o okamžiku zveřejnění (časové razítko), znění zveřejněného rozhodnutí, datum navazujícího úkonu (např. přihlášky), úředně ověřený výstup z rejstříku.
+
+
+<!-- LEGAL-REVISION:BEGIN id=095d110c5f9506820be0 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 424
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Stanoví-li tento zákon, že se písemnost doručuje zveřejněním v insolvenčním rejstříku, pokládá se písemnost za doručenou v okamžiku jejího zveřejnění v insolvenčním rejstříku.
+>
+> (2) Okamžik zveřejnění písemnosti musí být v insolvenčním rejstříku vždy uveden.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=095d110c5f9506820be0 -->
 
 ## § 425 — Vyškrtnutí dlužníka
 
@@ -711,6 +1687,58 @@ Závěrečná část komentáře obsahuje:
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o osvobození / o splnění oddlužení / o odmítnutí návrhu s vyznačenou právní mocí, žádost dlužníka o vyškrtnutí, případně opravný prostředek, aktuální stav zveřejnění v rejstříku.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=4ce7fde148b5051c1019 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 425 — Vyškrtnutí dlužníka ze seznamu dlužníků
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Po uplynutí 5 let od nabytí právní moci rozhodnutí, jímž bylo skončeno insolvenční řízení, vyškrtne insolvenční soud dlužníka ze seznamu dlužníků a údaje o něm v insolvenčním rejstříku znepřístupní. Skončí-li insolvenční řízení rozhodnutím podle [[#§ 142|§ 142]], vyškrtne insolvenční soud dlužníka ze seznamu dlužníků a údaje o něm v insolvenčním rejstříku znepřístupní do 15 dnů od doručení žádosti dlužníka; dlužník je oprávněn požádat o vyškrtnutí nejdříve po uplynutí 3 měsíců od právní moci rozhodnutí.
+>
+> (2) Je-li způsobem řešení úpadku oddlužení a je-li dlužník osvobozen podle [[#§ 414|§ 414]], vyškrtne insolvenční soud dlužníka ze seznamu dlužníků a údaje o něm v insolvenčním rejstříku znepřístupní po uplynutí 3 let od právní moci rozhodnutí o osvobození podle [[#§ 414|§ 414]], nejdříve však po nabytí právní moci rozhodnutí o splnění oddlužení podle [[#§ 413|§ 413]]; to neplatí, došlo-li k odejmutí nebo k zániku osvobození.
+>
+> (3) Při uchovávání znepřístupněných údajů se postupuje podle zvláštního právního předpisu58).
+>
+> (4) Je-li podán opravný prostředek proti pravomocnému rozhodnutí podle [[#§ 142|§ 142]], ponechá insolvenční soud dlužníka v seznamu dlužníků a údaje o něm přístupné v insolvenčním rejstříku po dobu projednání opravného prostředku.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 142, § 414, § 413
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4ce7fde148b5051c1019 -->
 
 # Hlava II — Vztah ke státům Evropské unie (§ 426 — § 430a)
 
@@ -765,6 +1793,54 @@ Závěrečná část komentáře obsahuje:
 
 **Typicky rozhodné důkazy / podklady:** doklady o faktickém řízení a správě podniku (smlouvy, korespondence, místo vedení), zápis sídla a jeho změny, seznam a sídlo věřitelů, umístění provozovny, zaměstnanců a majetku.
 
+
+<!-- LEGAL-REVISION:BEGIN id=e6d0227d5f6bebe30b2a generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 426
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Insolvenční řízení s evropským mezinárodním prvkem a jeho účinky se řídí přímo použitelným předpisem práva Evropské unie59) a ustanoveními právního řádu toho členského státu Evropské unie, na něž přímo použitelný předpis práva Evropské unie odkazuje.
+>
+> (2) Evropským mezinárodním prvkem se rozumí v souladu s přímo použitelným právním předpisem Evropské unie59) zejména skutečnost, že hlavní zájmy dlužníka jsou soustředěny v některém z členských států Evropské unie a současně alespoň jeden z věřitelů nebo část majetkové podstaty se nachází v některém z jiných členských států Evropské unie.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e6d0227d5f6bebe30b2a -->
+
 ## § 427 — Mezinárodní příslušnost
 
 **Rozhodnutí o úpadku** *s evropským prvkem* musí obsahovat **výrok o mezinárodní příslušnosti** soudu + *odkaz na ustanovení* Nařízení 2015/848.
@@ -809,6 +1885,58 @@ Závěrečná část komentáře obsahuje:
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o úpadku a jeho výroková část, údaje o COMI a o provozovně v jiném státě EU, doklady k typu řízení, případné dodatečné rozhodnutí o mezinárodní příslušnosti.
 
+
+<!-- LEGAL-REVISION:BEGIN id=d9bce7e06e0969254b95 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 427 — Mezinárodní příslušnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) V insolvenčním řízení s evropským mezinárodním prvkem musí rozhodnutí o úpadku obsahovat výrok o mezinárodní příslušnosti insolvenčního soudu podle přímo použitelného právního předpisu Evropské unie59) spolu s odkazem na ustanovení, jímž je jeho mezinárodní příslušnost založena.
+>
+> (2) Vyjde-li v průběhu insolvenčního řízení po rozhodnutí o úpadku najevo, že se jedná o insolvenční řízení s evropským mezinárodním prvkem, musí insolvenční soud rozhodnout o své mezinárodní příslušnosti. V rozhodnutí uvede rovněž odkaz na ustanovení, jímž je jeho mezinárodní příslušnost založena.
+>
+> (3) Dlužník a věřitelé mohou proti rozhodnutí podle odstavců 1 a [[#§ 2|2]] podat odvolání z důvodu nesprávného posouzení mezinárodní příslušnosti.
+>
+> (4) Údaj o ustanovení, jímž je mezinárodní příslušnost insolvenčního soudu založena, se zveřejní v insolvenčním rejstříku.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d9bce7e06e0969254b95 -->
+
 ## § 428 — Insolvenční správce z jiného členského státu
 
 Správce ustanovený v jiném EU státě se prokazuje **úředně ověřenou kopií rozhodnutí** + na žádost *překladem* do češtiny.
@@ -849,6 +1977,52 @@ Správce ustanovený v jiném EU státě se prokazuje **úředně ověřenou kop
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí cizího soudu o ustanovení správce, jeho úředně ověřená kopie, překlad do češtiny (na žádost), doklady o probíhajícím vedlejším řízení v ČR (je-li).
 
+
+<!-- LEGAL-REVISION:BEGIN id=88faee5689da53721c58 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 428 — Insolvenční správce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Insolvenční správce ustanovený do funkce rozhodnutím příslušného soudu některého z členských států Evropské unie s výjimkou Dánska se na území České republiky prokazuje úředně ověřenou kopií rozhodnutí o svém ustanovení; je-li o to požádán, je povinen předložit úředně ověřený překlad této kopie do českého jazyka.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=88faee5689da53721c58 -->
+
 ## § 429 — Zveřejnění cizích rozhodnutí
 
 Rozhodnutí o zahájení / ustanovení správce z **jiného EU státu** vůči dlužníkovi **s provozovnou v ČR** se *zveřejní vyhláškou* v ČR.
@@ -888,6 +2062,54 @@ Rozhodnutí o zahájení / ustanovení správce z **jiného EU státu** vůči d
 - [ ] Prokázal zahraniční správce své oprávnění dle § 428?
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí cizího soudu o zahájení řízení a o ustanovení správce, doklady o existenci provozovny v ČR, vyhláška zveřejněná v insolvenčním rejstříku.
+
+
+<!-- LEGAL-REVISION:BEGIN id=1b618b3869b77fff8a73 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 429 — Zveřejnění některých rozhodnutí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Rozhodnutí o zahájení insolvenčního řízení a rozhodnutí o ustanovení insolvenčního správce vydané v členském státě Evropské unie podle přímo použitelného předpisu práva Evropské unie59) vůči dlužníku, který má na území České republiky provozovnu, musí být zveřejněno v České republice. Insolvenční soud, v jehož obvodu je umístěna provozovna, rozhodnutí cizího orgánu zveřejní vyhláškou neprodleně poté, co mu bude doručeno insolvenčním správcem nebo jakýmkoliv jiným orgánem k tomu zmocněným v členském státě Evropské unie, v němž bylo rozhodnutí vydáno.
+>
+> (2) Rozhodnutí podle odstavce 1 zveřejní insolvenční soud vyhláškou také na žádost dlužníka s dispozičním oprávněním. Na žádost dlužníka s dispozičním oprávněním nebo insolvenčního správce soud zveřejní také údaj o ustanoveném insolvenčním správci a o ustanovení, jímž je založena mezinárodní příslušnost insolvenčního soudu vedoucího insolvenční řízení v jiném členském státě podle odstavce 1.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1b618b3869b77fff8a73 -->
 
 ## § 430 — Známí věřitelé v EU
 
@@ -938,6 +2160,54 @@ Rozhodnutí o zahájení / ustanovení správce z **jiného EU státu** vůči d
 
 **Typicky rozhodné důkazy / podklady:** seznam závazků a účetnictví dlužníka s identifikací zahraničních věřitelů, doklad o odeslání standardních formulářů, vyhláška v insolvenčním rejstříku, korespondence se zahraničními věřiteli.
 
+
+<!-- LEGAL-REVISION:BEGIN id=71e298057f17a51334e8 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 430 — Známí věřitelé
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Známé věřitele dlužníka, kteří mají své obvyklé místo pobytu, bydliště nebo sídlo v některém z členských států Evropské unie, vyrozumí insolvenční soud neprodleně o zahájení insolvenčního řízení a o vydání rozhodnutí o úpadku.
+>
+> (2) Povinnost vyrozumět známé věřitele podle odstavce 1 splní insolvenční soud tím, že jim zvlášť doručí rozhodnutí, kterým se oznamuje zahájení insolvenčního řízení, rozhodnutí o úpadku nebo jeho zkrácené znění, standardní formulář oznámení a standardní formulář pro přihlašování pohledávek podle přímo použitelného právního předpisu Evropské unie59).
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=71e298057f17a51334e8 -->
+
 ## § 430a — Jednostranný příslib
 
 **Jednostranný příslib** podle Nařízení 2015/848 — *institut zajištění místních věřitelů* v jiném EU státě. Správce v hlavním řízení může přislíbit místním věřitelům uspokojení odpovídající minimální úrovni, aby zabránil otevření vedlejšího řízení.
@@ -986,6 +2256,60 @@ Rozhodnutí o zahájení / ustanovení správce z **jiného EU státu** vůči d
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1c334f0978ac2f15173b generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 430a — Jednostranný příslib
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Učinil-li insolvenční správce v hlavním insolvenčním řízení jednostranný příslib podle přímo použitelného právního předpisu Evropské unie59), vyrozumí místní věřitele v jiném členském státu Evropské unie, jichž se jednostranný příslib týká, o konečné zprávě nebo o zprávě o reorganizačním plánu.
+>
+> (2) Místní věřitelé v jiném členském státu Evropské unie mohou proti konečné zprávě podat námitky do 15 dnů od jejího zveřejnění v insolvenčním rejstříku z důvodů podle přímo použitelného právního předpisu Evropské unie59).
+>
+> (3) Námitky podle odstavce 2 projedná insolvenční soud společně s námitkami podle § 304 odst. 2 na jednání o konečné zprávě a vyúčtování insolvenčního správce.
+>
+> (4) V případech podle odstavce 1 mohou místní věřitelé v jiném členském státu Evropské unie u insolvenčního soudu podat odvolání proti rozhodnutí o schválení reorganizačního plánu z důvodů podle přímo použitelného právního předpisu Evropské unie59).
+>
+> (5) V řízení o jednostranném příslibu a o předběžném opatření vztahujícím se k jednostrannému příslibu se postupuje přiměřeně podle ustanovení o insolvenčním řízení.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 304
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1c334f0978ac2f15173b -->
+
 # Hlava III — Formulář (§ 430b)
 
 ## § 430b — Vzory formulářů
@@ -1031,6 +2355,52 @@ Rozhodnutí o zahájení / ustanovení správce z **jiného EU státu** vůči d
 **Typicky rozhodné důkazy / podklady:** podaný formulář, platný vzor formuláře z portálu MS, výzva soudu k odstranění vad, vyhláška č. 191/2017 Sb. (náležitosti).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1435f31ab6212d09dc3d generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 430b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Ministerstvo uveřejní podobu formulářů a elektronických formulářů pro podání stanovená tímto zákonem způsobem umožňujícím dálkový přístup.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1435f31ab6212d09dc3d -->
 
 # Hlava IV — Závěrečná ustanovení (§ 431 — § 434)
 
@@ -1091,6 +2461,68 @@ Rozhodnutí o zahájení / ustanovení správce z **jiného EU státu** vůči d
 
 **Typicky rozhodné důkazy / podklady:** vyúčtování odměny správce a příslušná vyhláška, ocenění obydlí a nařízení vlády o jeho hodnotě, znění § 431 a navazujících prováděcích předpisů, případně rozbor souladu vyhlášky se zmocněním.
 
+
+<!-- LEGAL-REVISION:BEGIN id=473a85549a6611fe273d generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 431 — Zmocňovací ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Ministerstvo stanoví vyhláškou
+>
+> - a) náležitosti a formuláře návrhu na vstup do insolvenčního řízení místo věřitele, soupisu, vyrozumění o uplatnění pohledávky za majetkovou podstatou nebo pohledávky jí postavené na roveň, seznamu přihlášených pohledávek, přihlášky pohledávek, hlasovacích lístků, návrhu na povolení oddlužení, záznamu o jednání insolvenčního správce s dlužníkem v oddlužení, zprávy o přezkumu, zprávy pro oddlužení, zprávy o plnění oddlužení, zprávy pro osvobození, zprávy o splnění oddlužení, popření pohledávky přihlášeným věřitelem, konečné zprávy a zprávy o plnění reorganizačního plánu, dále náležitosti záznamu podle [[#§ 85|§ 85]], výzvy k podávání přihlášek pohledávek, vyrozumění o soupisu, reorganizačního plánu a zprávy o reorganizačním plánu a dále náležitosti manipulace s přihláškami pohledávek, pravidla pro jejich úschovu a nahlížení do nich,
+>
+> - b) způsob určení odměny a některých hotových výdajů insolvenčního správce, jejich nejvyšší přípustnou výši, nejvyšší přípustnou výši srážky ze mzdy podle § 136 odst. 3 a § 406 odst. 3 písm. g), minimální výši zálohy podle § 136 odst. 5, jakož i podmínky a rozsah hrazení odměny a hotových výdajů státem,
+>
+> - c) způsob určení nutných výdajů a odměny členů a náhradníků věřitelského výboru a jejich nejvyšší přípustnou výši,
+>
+> - d) jednací řád pro insolvenční řízení,
+>
+> - e) formuláře elektronických podání a druhy formátů,
+>
+> - f) obsah, rozsah a způsob sestavování výkazu stavu likvidity a výhledu vývoje likvidity a uspořádání, označování a obsahové vymezení jednotlivých položek majetku, závazků, nákladů, výnosů, příjmů a výdajů ve výkazu stavu likvidity a výhledu vývoje likvidity, délku období, na které se sestavuje výhled vývoje likvidity, požadavky na osoby, které jsou oprávněny k sestavení výkazu stavu likvidity anebo výhledu vývoje likvidity,
+>
+> - g) obsah požadavků na plnění povinností insolvenčního správce stanovených v [[#§ 31|§ 31]], [[#§ 36|36]], [[#§ 45|45]], [[#§ 136|136]], [[#§ 294|294]], [[#§ 313|313]], [[#§ 371|371]], [[#§ 373|373]], [[#§ 383|383]], [[#§ 385|385]] a [[#§ 430a|§ 430a]],
+>
+> - h) způsob určení hodnoty obydlí, které dlužník není povinen vydat ke zpeněžení.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 85, § 136, § 406, § 31, § 36, § 45, § 294, § 313, § 371, § 373, § 383, § 385, § 430a
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=473a85549a6611fe273d -->
+
 ## § 432 — Přechodné ustanovení
 
 > (1) Pro **konkursní a vyrovnací řízení zahájená před účinností tohoto zákona** se použijí dosavadní právní předpisy.
@@ -1132,6 +2564,58 @@ Rozhodnutí o zahájení / ustanovení správce z **jiného EU státu** vůči d
 - [ ] Nevztahují se na ně instituty IZ (insolvenční rejstřík apod.) nesprávně?
 
 **Typicky rozhodné důkazy / podklady:** usnesení o prohlášení konkursu / povolení vyrovnání podle ZKV s datem zahájení, procesní spis, znění ZKV účinné do 31. 12. 2007.
+
+
+<!-- LEGAL-REVISION:BEGIN id=b7f641a1b54371b47180 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 432 — Přechodné ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Pro konkursní a vyrovnací řízení zahájená před účinností tohoto zákona se použijí dosavadní právní předpisy.
+>
+> (2) Jestliže v době do 31. prosince 2008 dojde insolvenční návrh insolvenčnímu soudu mimo rozvrženou pracovní dobu insolvenčního soudu, nebo ve dnech pracovního klidu, pak se povinnost insolvenčního soudu zveřejnit vyhlášku, kterou se oznamuje zahájení insolvenčního řízení, v insolvenčním rejstříku do 2 hodin poté, kdy mu došel insolvenční návrh (§ 101 odst. 1), pokládá za splněnou i tehdy, učiní-li tak insolvenční soud do 2 hodin po zahájení rozvržené pracovní doby.
+>
+> (3) Do 31. prosince 2008 obsahuje insolvenční rejstřík seznam insolvenčních správců, seznam dlužníků a veřejně přístupné písemnosti a informace z insolvenčního spisu.
+>
+> (4) V případě postupu podle § 422 odst. 1 a [[#§ 2|2]] se do 31. prosince 2008 nepřipojují informace o charakteru osobního údaje, který není zveřejňován.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 101, § 422, § 2
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b7f641a1b54371b47180 -->
 
 ## § 433 — Zrušovací ustanovení
 
@@ -1177,6 +2661,70 @@ Rozhodnutí o zahájení / ustanovení správce z **jiného EU státu** vůči d
 
 **Typicky rozhodné důkazy / podklady:** text § 433 (zrušovací ustanovení), datum zahájení dotčeného řízení / vzniku vztahu, znění zrušeného ZKV a vyhlášky č. 476/1991 Sb., případně rozhodnutí dokládající aplikaci § 432.
 
+
+<!-- LEGAL-REVISION:BEGIN id=c45cf304042418539bd4 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 433 — Zrušovací ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Zrušuje se:
+>
+> - 1. [[Zákon č. 328/1991 Sb., o konkursu a vyrovnání|Zákon č. 328/1991 Sb., o konkursu a vyrovnání]].
+>
+> - 2. [[Zákon č. 122/1993 Sb., kterým se mění a doplňuje zákon č. 328/1991 Sb., o konkursu a vyrovnání|Zákon č. 122/1993 Sb., kterým se mění a doplňuje zákon č. 328/1991 Sb., o konkursu a vyrovnání]].
+>
+> - 3. [[Zákon č. 12/1998 Sb., kterým se mění a doplňuje zákon č. 328/1991 Sb., o konkursu a vyrovnání, ve znění pozdějších předpisů|Zákon č. 12/1998 Sb., kterým se mění a doplňuje zákon č. 328/1991 Sb., o konkursu a vyrovnání, ve znění pozdějších předpisů]].
+>
+> - 4. [[Zákon č. 214/2000 Sb., kterým se mění zákon č. 328/1991 Sb., o konkursu a vyrovnání, ve znění pozdějších předpisů|Zákon č. 214/2000 Sb., kterým se mění zákon č. 328/1991 Sb., o konkursu a vyrovnání, ve znění pozdějších předpisů]].
+>
+> - 5. [[Zákon č. 368/2000 Sb., kterým se mění zákon č. 530/1990 Sb., o dluhopisech, ve znění pozdějších předpisů, a zákon č. 328/1991 Sb., o konkursu a vyrovnání, ve znění pozdějších předpisů|Zákon č. 368/2000 Sb., kterým se mění zákon č. 530/1990 Sb., o dluhopisech, ve znění pozdějších předpisů, a zákon č. 328/1991 Sb., o konkursu a vyrovnání, ve znění pozdějších předpisů]].
+>
+> - 6. [[Vyhláška č. 476/1991 Sb., kterou se provádějí některá ustanovení zákona o konkursu a vyrovnání|Vyhláška č. 476/1991 Sb., kterou se provádějí některá ustanovení zákona o konkursu a vyrovnání]].
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- zákon č. 328/1991 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 122/1993 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 12/1998 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 214/2000 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 368/2000 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 530/1990 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 476/1991 Sb. (výslovně uvedeno v místním znění)
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c45cf304042418539bd4 -->
+
 ## § 434 — Účinnost
 
 > Tento zákon nabývá účinnosti dnem **1. ledna 2008**.
@@ -1220,6 +2768,52 @@ Podepsali: **Zaorálek** (předseda Poslanecké sněmovny), **Klaus** (prezident
 **Typicky rozhodné důkazy / podklady:** data zahájení řízení a jednotlivých úkonů, znění § 434 a § 432, přechodná ustanovení relevantních novel, příslušná časová verze zákona.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=3952defac5b2c6fbedc1 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 434 — Účinnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Tento zákon nabývá účinnosti dnem 1. ledna 2008.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3952defac5b2c6fbedc1 -->
 
 # Závěrečné shrnutí komentáře
 

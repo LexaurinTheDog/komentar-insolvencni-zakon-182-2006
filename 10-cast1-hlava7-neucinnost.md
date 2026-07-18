@@ -88,6 +88,58 @@ V průběhu IR rozhoduje o neplatnosti úkonů týkajících se majetku/závazk�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d9d0f239e47c41fee1c3 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 231
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Insolvenční soud není vázán rozhodnutím jiného soudu či jiného orgánu, kterým v průběhu insolvenčního řízení došlo ke zjištění neplatnosti právního úkonu týkajícího se majetku nebo závazků dlužníka, ani jiným způsobem tohoto zjištění.
+>
+> (2) V průběhu insolvenčního řízení posoudí neplatnost takového právního úkonu pouze insolvenční soud.
+>
+> (3) Je-li k neplatnosti právního úkonu nutné, aby ten, kdo je takovým úkonem dotčen, se jeho neplatnosti dovolal, může tak učinit i insolvenční správce.
+>
+> (4) V insolvenčním řízení nelze zjistit neplatnost právního úkonu spočívajícího v poskytnutí prozatímního financování, nového financování nebo dalších plateb souvisejících s preventivní restrukturalizací, pokud tento právní úkon splňuje podmínky podle [[§ 27|§ 27]] zákona [[o preventivní restrukturalizaci|o preventivní restrukturalizaci]]; to platí i na věcně právní účinky takového právního úkonu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 27
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d9d0f239e47c41fee1c3 -->
+
 ## § 232 — Pravomoc rozhodnutí před zahájením
 
 > Byla-li neplatnost právního úkonu týkajícího se majetku nebo závazků dlužníka zjištěna rozhodnutím soudu, které nabylo právní moci **před zahájením insolvenčního řízení**, považuje se právní úkon, jehož se rozhodnutí týká, **za neplatný i v insolvenčním řízení**.
@@ -139,6 +191,52 @@ Pravomocné soudní rozhodnutí o neplatnosti úkonu týkajícího se majetku/z�
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o neplatnosti s doložkou právní moci, údaj o okamžiku zahájení IR z insolvenčního rejstříku, spis předchozího řízení, smluvní dokumentace dotčeného úkonu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=dd45af10e4bb21362009 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 232
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Byla-li neplatnost právního úkonu týkajícího se majetku nebo závazků dlužníka zjištěna rozhodnutím soudu, které nabylo právní moci před zahájením insolvenčního řízení, považuje se právní úkon, jehož se rozhodnutí týká, za neplatný i v insolvenčním řízení.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dd45af10e4bb21362009 -->
 
 ## § 233 — Důsledky neplatnosti
 
@@ -205,6 +303,56 @@ Při zjištěné neplatnosti se vydává majetkový prospěch, avšak jen v rozs
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e09d28e528732291ed75 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 233
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Je-li pravomocným rozhodnutím zjištěna neplatnost právního úkonu týkajícího se majetku nebo závazků dlužníka, musí být vydán majetkový prospěch získaný plněním z neplatného právního úkonu. Insolvenční správce to však může odmítnout, jestliže nedošlo k obohacení majetkové podstaty nebo je-li požadováno více, než činí toto obohacení.
+>
+> (2) Odmítne-li insolvenční správce vydat majetkový prospěch získaný plněním z neplatného právního úkonu nebo nevyřídí-li žádost o jeho vydání v přiměřené lhůtě, lze se jeho vydání domáhat vylučovací žalobou podle tohoto zákona, která musí být podána nejpozději do 30 dnů ode dne, kdy insolvenční správce osobě, která o vydání majetkového prospěchu žádá, doručil písemné vyrozumění o odmítnutí její žádosti; právo na náhradu škody tím není dotčeno.
+>
+> (3) Platnost smluv, kterými došlo ke zpeněžení plnění, jehož se týká neplatný právní úkon, lze napadnout jen žalobou podanou u insolvenčního soudu nejpozději do skončení insolvenčního řízení; jde o incidenční spor.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e09d28e528732291ed75 -->
+
 ## § 234 — Kumulace neplatnosti a neúčinnosti
 
 > Byla-li zjištěna neplatnost právního úkonu týkajícího se majetku nebo závazků dlužníka, který lze současně považovat za neúčinný, postupuje se podle § 233.
@@ -250,6 +398,52 @@ Je-li tentýž úkon současně neplatný i neúčinný, má přednost neplatnos
 **Typicky rozhodné důkazy / podklady:** smluvní dokumentace dotčeného úkonu, doklady o vadě zakládající neplatnost, doklady o zkracujícím/zvýhodňujícím charakteru a o vztahu blízkosti/koncernu, znalecký posudek o ceně, výpis z katastru / rejstříku.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=abe57b5341b840ed6558 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 234
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Byla-li zjištěna neplatnost právního úkonu týkajícího se majetku nebo závazků dlužníka, který lze současně považovat za neúčinný, postupuje se podle [[#§ 233|§ 233]].
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 233
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=abe57b5341b840ed6558 -->
 
 # Díl 2 — Neúčinnost právních úkonů (§ 235 — § 243)
 
@@ -339,6 +533,56 @@ Neúčinné jsou úkony (i opomenutí) dlužníka zkracující věřitele nebo z
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1512271182b3a6301d15 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 235
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Neúčinnými jsou právní úkony, kterými dlužník zkracuje možnost uspokojení věřitelů nebo zvýhodňuje některé věřitele na úkor jiných. Za právní úkon se považuje též dlužníkovo opomenutí.
+>
+> (2) Neúčinnost dlužníkových právních úkonů, včetně těch, které tento zákon označuje za neúčinné a které dlužník učinil poté, co nastaly účinky spojené se zahájením insolvenčního řízení, se zakládá rozhodnutím insolvenčního soudu o žalobě insolvenčního správce, kterou bylo odporováno dlužníkovým právním úkonům (dále jen „odpůrčí žaloba“), není-li dále stanoveno jinak.
+>
+> (3) Za neúčinný nelze označit ani právní úkon spočívající v poskytnutí prozatímního financování, nového financování nebo dalších plateb souvisejících s preventivní restrukturalizací, pokud tento právní úkon splňuje podmínky podle [[§ 27|§ 27]] zákona [[o preventivní restrukturalizaci|o preventivní restrukturalizaci]]; to platí i na věcně právní účinky takového právního úkonu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 27
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1512271182b3a6301d15 -->
+
 ## § 236 — Účinky neúčinnosti
 
 > (1) Neúčinností právního úkonu **není dotčena jeho platnost**; v insolvenčním řízení však dlužníkovo plnění z neúčinných právních úkonů **náleží do majetkové podstaty**.
@@ -404,6 +648,54 @@ Neúčinnost nezneplatňuje úkon — mezi stranami trvá, ale dlužníkovo pln�
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o neúčinnosti, smluvní dokumentace neúčinného úkonu, doklady o osudu plnění (zcizení/zničení originálu), znalecký posudek o obvyklé ceně k rozhodnému okamžiku.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e74be83d76275d85195f generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 236
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Neúčinností právního úkonu není dotčena jeho platnost; v insolvenčním řízení však dlužníkovo plnění z neúčinných právních úkonů náleží do majetkové podstaty.
+>
+> (2) Není-li možné vydat do majetkové podstaty původní dlužníkovo plnění z neúčinného právního úkonu, musí být poskytnuta rovnocenná náhrada.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e74be83d76275d85195f -->
 
 ## § 237 — Povinnost vydat plnění + okruh osob
 
@@ -492,6 +784,62 @@ Plnění do podstaty vydávají primárně osoby, v jejichž prospěch byl úkon
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=69ab4a990a406f453753 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 237
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Povinnost vydat do majetkové podstaty dlužníkovo plnění z neúčinných právních úkonů mají osoby, v jejichž prospěch byl neúčinný právní úkon učiněn nebo které z něho měly prospěch.
+>
+> (2) Dědici nebo právní nástupci osob uvedených v odstavci 1, na které přešlo dlužníkovo plnění z neúčinných právních úkonů, mají povinnost vydat je do majetkové podstaty,
+>
+> - a) jestliže jim v době, kdy toto plnění nabyli, musely být známy okolnosti, které odůvodňují právo dovolávat se neúčinnosti vůči osobám uvedeným v odstavci 1, nebo
+>
+> - b) jde-li o osoby, které tvoří s dlužníkem koncern, anebo o osoby dlužníku blízké.
+>
+> (3) Osoby, které vydaly dlužníkovo plnění z neúčinného právního úkonu do majetkové podstaty, se mohou po skončení insolvenčního řízení domáhat jeho vrácení, jen nebylo-li použito k uspokojení věřitelů nebo nebylo-li s ním nakládáno jiným zákonem povoleným způsobem.
+>
+> (4) Bylo-li plnění z neúčinného právního úkonu vzájemné, vydá je insolvenční správce oprávněným osobám bez zbytečného odkladu poté, co tyto osoby vydaly dlužníkovo plnění z takového úkonu do majetkové podstaty. Není-li plnění poskytnuté dlužníku těmito osobami v majetkové podstatě rozpoznatelné nebo se v ní nenachází, považuje se pohledávka, která těmto osobám poskytnutím plnění dlužníku vznikla, za přihlášenou pohledávku a uspokojí se stejně jako tyto pohledávky.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=69ab4a990a406f453753 -->
+
 ## § 238 — Zákaz započtení
 
 > Proti pohledávce na vydání dlužníkova plnění z neúčinného právního úkonu do majetkové podstaty není přípustné započtení.
@@ -543,6 +891,52 @@ Proti povinnosti vydat plnění z neúčinného úkonu do podstaty nelze započ�
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o neúčinnosti, doklad o hodnotě vydávaného plnění, listiny k tvrzené pohledávce povinné osoby a k projevu započtení, přihláška pohledávky, doklady o případném vzájemném protiplnění.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1c75193dd554b67df1f1 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 238
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Proti pohledávce na vydání dlužníkova plnění z neúčinného právního úkonu do majetkové podstaty není přípustné započtení.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1c75193dd554b67df1f1 -->
 
 ## § 239 — Odpůrčí žaloba — **PROCESNÍ ÚSTŘEDNÍ PARAGRAF**
 
@@ -646,6 +1040,58 @@ Odpůrčí žalobu může podat výlučně správce, a to v prekluzivní lhůtě
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=32c4bd5e725b2c763809 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 239
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Odporovat právním úkonům dlužníka může v insolvenčním řízení pouze insolvenční správce, i když nejde o osobu s dispozičními oprávněními, a to odpůrčí žalobou podanou proti osobám, které mají povinnost vydat dlužníkovo plnění z neúčinných právních úkonů do majetkové podstaty. Jestliže v době zahájení insolvenčního řízení probíhá o téže věci řízení na základě odpůrčí žaloby jiné osoby, nelze v něm až do skončení insolvenčního řízení pokračovat.
+>
+> (2) Rozhodne-li o tom věřitelský výbor, podá insolvenční správce odpůrčí žalobu vždy. Nejsou-li v majetkové podstatě peněžní prostředky potřebné ke krytí nákladů na podání odpůrčí žaloby a vedení incidenčního sporu, může insolvenční správce podmínit podání odpůrčí žaloby nebo další vedení incidenčního sporu tím, aby mu věřitelé poskytli na úhradu těchto nákladů přiměřenou zálohu. Skončí-li incidenční spor úspěchem insolvenčního správce, mohou věřitelé, kteří zálohu poskytli, požadovat její náhradu jako pohledávku za majetkovou podstatou.
+>
+> (3) Insolvenční správce může podat odpůrčí žalobu ve lhůtě 1 roku ode dne, kdy nastaly účinky rozhodnutí o úpadku. Nepodá-li ji v této lhůtě, odpůrčí nárok zanikne.
+>
+> (4) Dlužníkovo plnění z neúčinných právních úkonů náleží do majetkové podstaty právní mocí rozhodnutí, kterým bylo odpůrčí žalobě vyhověno. Tím není dotčeno právo insolvenčního správce v případě, že šlo o peněžité plnění nebo že má jít o peněžitou náhradu za poskytnuté plnění, požadovat odpůrčí žalobou vedle určení neúčinnosti dlužníkova právního úkonu i toto peněžité plnění nebo peněžitou náhradu plnění. Vylučovací žaloba není přípustná.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=32c4bd5e725b2c763809 -->
+
 ## § 240 — Neúčinnost úkonů bez přiměřeného protiplnění
 
 > (1) Právním úkonem bez přiměřeného protiplnění se rozumí právní úkon, jímž se dlužník zavázal poskytnout plnění **bezúplatně** nebo za protiplnění, jehož obvyklá cena je **podstatně nižší** než obvyklá cena plnění, k jehož poskytnutí se zavázal dlužník.
@@ -745,6 +1191,66 @@ Aby byl úkon napadnutelný, musí:
 **Typicky rozhodné důkazy / podklady:** smlouva a doklad o protiplnění, znalecký posudek o obvyklé ceně, účetnictví a přehled splatných závazků v době úkonu, doklady o vztahu blízkosti/koncernu, podklady k tvrzené dobré víře protistrany.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=469534f1aad2ae807e8b generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 240 — Neúčinnost právních úkonů bez přiměřeného protiplnění
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Právním úkonem bez přiměřeného protiplnění se rozumí právní úkon, jímž se dlužník zavázal poskytnout plnění bezúplatně nebo za protiplnění, jehož obvyklá cena je podstatně nižší než obvyklá cena plnění, k jehož poskytnutí se zavázal dlužník.
+>
+> (2) Právním úkonem bez přiměřeného protiplnění se rozumí pouze právní úkon, který dlužník učinil v době, kdy byl v úpadku, nebo právní úkon, který vedl k dlužníkovu úpadku. Má se za to, že právní úkon bez přiměřeného protiplnění učiněný ve prospěch osoby dlužníku blízké nebo osoby, která tvoří s dlužníkem koncern21), je úkonem, který dlužník učinil v době, kdy byl v úpadku.
+>
+> (3) Právnímu úkonu bez přiměřeného protiplnění lze odporovat, byl-li učiněn v posledních 3 letech před zahájením insolvenčního řízení ve prospěch osoby dlužníku blízké nebo osoby, která tvoří s dlužníkem koncern, anebo v době 1 roku před zahájením insolvenčního řízení ve prospěch jiné osoby.
+>
+> (4) Právním úkonem bez přiměřeného protiplnění není
+>
+> - a) plnění uložené právním předpisem,
+>
+> - b) příležitostný dar v přiměřené výši,
+>
+> - c) poskytnutí plnění, kterým bylo vyhověno ohledům slušnosti, nebo
+>
+> - d) právní úkon, o kterém dlužník se zřetelem ke všem okolnostem důvodně předpokládal, že z něj bude mít přiměřený prospěch, a to za předpokladu, že nešlo o úkon učiněný ve prospěch osoby dlužníkovi blízké nebo osoby, která tvoří s dlužníkem koncern, a že osoba, v jejíž prospěch byl úkon učiněn, nemohla ani při náležité pečlivosti poznat, že dlužník je v úpadku, nebo že by tento úkon mohl vést k úpadku dlužníka.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=469534f1aad2ae807e8b -->
 
 ## § 241 — Neúčinnost zvýhodňujících právních úkonů
 
@@ -853,6 +1359,74 @@ Aby byl úkon napadnutelný, musí:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5dc969f7b068afe443d7 generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 241 — Neúčinnost zvýhodňujících právních úkonů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Zvýhodňujícím právním úkonem se rozumí právní úkon, v jehož důsledku se některému věřiteli dostane na úkor ostatních věřitelů vyššího uspokojení, než jaké by mu jinak náleželo v konkursu.
+>
+> (2) Zvýhodňujícím právním úkonem se rozumí pouze právní úkon, který dlužník učinil v době, kdy byl v úpadku, nebo právní úkon, který vedl k dlužníkovu úpadku. Má se za to, že zvýhodňující právní úkon učiněný ve prospěch osoby dlužníku blízké nebo osoby, která tvoří s dlužníkem koncern21), je úkonem, který dlužník učinil v době, kdy byl v úpadku.
+>
+> (3) Zvýhodňujícími právními úkony jsou zejména úkony, kterými dlužník
+>
+> - a) splnil dluh dříve, než se stal splatným,
+>
+> - b) dohodl změnu nebo nahrazení závazku ve svůj neprospěch,
+>
+> - c) prominul svému dlužníku splnění dluhu nebo jinak dohodl anebo umožnil zánik či nesplnění svého práva,
+>
+> - d) poskytl svůj majetek k zajištění již existujícího závazku, ledaže jde o vznik zajištění v důsledku změn vnitřního obsahu zastavené věci hromadné.
+>
+> (4) Zvýhodňujícímu právnímu úkonu lze odporovat, byl-li učiněn v posledních 3 letech před zahájením insolvenčního řízení ve prospěch osoby dlužníku blízké nebo osoby, která tvoří s dlužníkem koncern, anebo v době 1 roku před zahájením insolvenčního řízení ve prospěch jiné osoby.
+>
+> (5) Zvýhodňujícím právním úkonem není
+>
+> - a) zřízení zajištění závazku dlužníka, obdržel-li za ně dlužník současně přiměřenou protihodnotu,
+>
+> - b) právní úkon učiněný za podmínek obvyklých v obchodním styku, na základě kterého dlužník obdržel přiměřené protiplnění nebo jiný přiměřený majetkový prospěch, a to za předpokladu, že nešlo o úkon učiněný ve prospěch osoby dlužníkovi blízké nebo osoby, která tvoří s dlužníkem koncern, a že osoba, v jejíž prospěch byl úkon učiněn, nemohla ani při náležité pečlivosti poznat, že dlužník je v úpadku, nebo že by tento úkon mohl vést k úpadku dlužníka,
+>
+> - c) právní úkon, který dlužník učinil za trvání moratoria nebo po zahájení insolvenčního řízení za podmínek stanovených tímto zákonem.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5dc969f7b068afe443d7 -->
+
 ## § 242 — Neúčinnost úmyslně zkracujících úkonů
 
 > (1) Odporovat lze rovněž právnímu úkonu, kterým **dlužník úmyslně zkrátil uspokojení věřitele**, byl-li tento úmysl druhé straně **znám nebo jí se zřetelem ke všem okolnostem musel být znám**.
@@ -931,6 +1505,56 @@ Aby byl úkon napadnutelný, musí:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1f32b3c5b5f67dc7436e generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 242 — Neúčinnost úmyslně zkracujících právních úkonů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> (1) Odporovat lze rovněž právnímu úkonu, kterým dlužník úmyslně zkrátil uspokojení věřitele, byl-li tento úmysl druhé straně znám nebo jí se zřetelem ke všem okolnostem musel být znám.
+>
+> (2) Má se za to, že u úmyslně zkracujícího právního úkonu učiněného ve prospěch osoby dlužníku blízké nebo osoby, která tvoří s dlužníkem koncern21), byl dlužníkův úmysl této osobě znám.
+>
+> (3) Úmyslně zkracujícímu právnímu úkonu lze odporovat, byl-li učiněn v posledních 5 letech před zahájením insolvenčního řízení.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1f32b3c5b5f67dc7436e -->
+
 ## § 243 — Odpůrčí žaloba věřitele před úpadkem
 
 > Jestliže dlužníkův věřitel dosáhl na základě své **odpůrčí žaloby rozhodnutí o neúčinnosti právního úkonu, které nabylo právní moci před právní mocí rozhodnutí o úpadku**, může se domáhat toho, aby mu **do výše jeho pohledávky bylo vydáno plnění z tohoto neúčinného právního úkonu**; toto plnění **nemusí předat do majetkové podstaty**.
@@ -991,3 +1615,48 @@ Věřitel, který svou pauliánskou žalobou (§ 590 OZ) dosáhl pravomocného r
 **Tímto je dokončena ČÁST PRVNÍ — Obecná část insolvenčního zákona (§ 1 — § 243).**
 
 **Pokračování:** [11-cast2-hlava1-konkurs-a.md](11-cast2-hlava1-konkurs-a.md) — Část druhá, Hlava I — Konkurs (§ 244 — § 315). Vzhledem k rozsahu pravděpodobně rozdělím do 2 souborů.
+
+<!-- LEGAL-REVISION:BEGIN id=36ec1063b7d7dbe7b36e generator=2026-07-17.4 source_sha256=99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0 -->
+### Revizní doplnění k § 243
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/182-2006 Zákon o úpadku a způsobech jeho řešení (insolvenční zákon).md`; identifikátor verze: `SB-2006-00182_2026-01-01`; SHA-256: `99f460187e40fbcf5c5976a6e7fd187edcceb70585c4f96972b1c4c21aafd2b0`.
+
+#### Znění ustanovení
+
+> Jestliže dlužníkův věřitel dosáhl na základě své odpůrčí žaloby4) rozhodnutí o neúčinnosti právního úkonu, které nabylo právní moci před právní mocí rozhodnutí o úpadku, může se domáhat toho, aby mu do výše jeho pohledávky bylo vydáno plnění z tohoto neúčinného právního úkonu; toto plnění nemusí předat do majetkové podstaty.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=36ec1063b7d7dbe7b36e -->

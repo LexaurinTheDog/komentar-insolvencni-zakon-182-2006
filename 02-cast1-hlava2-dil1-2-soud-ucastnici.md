@@ -135,73 +135,62 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento ú
 
 ## § 11 — Obsah dohlédací činnosti
 
-> (1) Při výkonu dohlédací činnosti insolvenční soud rozhoduje o záležitostech, které se týkají průběhu insolvenčního řízení, činí opatření potřebná k zajištění jeho účelu a ukládá povinnosti, týkající se činnosti jednotlivých subjektů řízení.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> **(1)** Při výkonu dohlédací činnosti insolvenční soud rozhoduje o záležitostech, které se týkají průběhu insolvenčního řízení, činí opatření potřebná k zajištění jeho účelu a ukládá povinnosti, týkající se činnosti jednotlivých subjektů řízení.
 >
-> (2) Insolvenční soud je oprávněn vyžadovat od insolvenčního správce zprávy a vysvětlení o jeho postupu, nahlížet do jeho účtů a konat potřebná šetření. Je oprávněn dávat insolvenčnímu správci pokyny a uložit mu, aby si vyžádal k určitým otázkám stanovisko věřitelského výboru.
+> **(2)** Insolvenční soud je oprávněn vyžadovat od insolvenčního správce zprávy a vysvětlení o jeho postupu, nahlížet do jeho účtů a konat potřebná šetření. Je oprávněn dávat insolvenčnímu správci pokyny a uložit mu, aby si vyžádal k určitým otázkám stanovisko věřitelského výboru.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *ÚS* [III.ÚS 2432/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-2432-14_1) — usnesení, 29. 7. 2014
-  > „Z odůvodnění tohoto usnesení vyplývá, že zrušené rozhodnutí bylo učiněno při výkonu dohlédací činnosti ve smyslu § 11 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), pročež jím insolvenční soud nebyl vázán a mohl jej kdykoliv změnit, aniž by se k tomu vyžadoval opravný prostředek"
+Paragraf 11 vymezuje obsah dohlédací činnosti definované v § 10 písm. b). Odstavec 1 obsahuje obecný rámec opatření vztahujících se k průběhu a účelu řízení a k činnosti procesních subjektů. Odstavec 2 výslovně upravuje kontrolní a pokynová oprávnění soudu vůči insolvenčnímu správci. Dohled se však neomezuje jen na správce ani jen na vedení řízení v úzkém procesním smyslu. Současně nenahrazuje rozhodnutí, jejichž vydání zákon ukládá nebo předpokládá, ani zvláštní zákonné postupy.
+
+### Souvisící ustanovení
+
+- **§ 5** — zásady insolvenčního řízení, jejichž naplnění dohlédací činnost chrání.
+- **§ 9 a § 10** — okruh procesních subjektů a rozlišení rozhodovací a dohlédací činnosti soudu.
+- **§ 32 a § 36** — zproštění insolvenčního správce a jeho povinnost postupovat svědomitě, s odbornou péčí a poskytovat soudu součinnost.
+- **§ 58** — působnost věřitelského výboru a jeho součinnost s insolvenčním správcem.
+- **§ 88 a § 91** — forma usnesení a zásadní nepřípustnost odvolání proti dohlédacím rozhodnutím, nestanoví-li zákon jinak.
+
+### Souvisící předpisy
+
+- **Zákon č. 99/1963 Sb., občanský soudní řád** — použije se přiměřeně v mezích § 7 insolvenčního zákona; sám neurčuje, zda konkrétní rozhodnutí insolvenčního soudu je dohlédací.
+- **Zákon č. 312/2006 Sb., o insolvenčních správcích** — upravuje profesní postavení insolvenčního správce; konkrétní dohled soudu v probíhajícím insolvenčním řízení vychází z insolvenčního zákona.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva společně k § 10 až 13 popisuje dvojí roli insolvenčního soudu: rozhodovací činnost a dohled nad dalšími procesními subjekty. K § 11 odst. 2 zvlášť uvádí, že se výslovně zakotvuje oprávnění soudu nahlížet do účtů insolvenčního správce vedených v souvislosti s insolvenčním řízením. Důvodová zpráva nepodává uzavřený katalog jednotlivých dohlédacích opatření.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Nejde o negativní rešerši ani o závěr, že k ustanovení relevantní literatura neexistuje.
 
 ### Výklad
 
-Paragraf 11 konkretizuje rámec dohlédací činnosti. Skládá se ze dvou typů oprávnění:
+[1] **Funkce ustanovení.** Ustanovení § 11 navazuje na § 10 písm. b). Dohlédací činnost se uskutečňuje rozhodováním o záležitostech souvisejících s průběhem řízení, opatřeními k zajištění jeho účelu a ukládáním povinností týkajících se činnosti procesních subjektů. Pro určení povahy konkrétního aktu je třeba nejprve ověřit, zda nejde o rozhodnutí, jehož vydání zákon ukládá nebo předpokládá podle § 10 písm. a).
 
-**Odst. 1 — generální klauzule.** Soud rozhoduje o „záležitostech týkajících se průběhu", činí „opatření potřebná k zajištění účelu" a ukládá povinnosti subjektům. Velmi široké formulace dávají soudu *volnost*, ale zároveň jsou ústavně limitované zásadou *nullum onus sine lege* — povinnost lze ukládat jen na základě a v mezích zákona. Tedy soud nesmí ukládat povinnosti, které nemají oporu v IZ.
+[2] **Osobní rozsah dohledu.** Přestože odstavec 2 podrobně upravuje vztah soudu k insolvenčnímu správci, dohled podle odstavce 1 dopadá na činnost všech ostatních procesních subjektů uvedených v § 9. Nejvyšší soud v usnesení sen. zn. 29 ICdo 117/2022 výslovně zahrnul také věřitele uplatňující práva vůči dlužníku; v projednávané věci šlo o banku, která po zahájení řízení zablokovala prostředky na účtech dlužníka.
 
-**Odst. 2 — speciální oprávnění vůči správci.**
-- *Zprávy a vysvětlení* — soud může požadovat průběžné zprávy o stavu řízení (typicky 1× za 3 měsíce, dle § 36 odst. 2 vyhlášky), o jednotlivých úkonech, o stavu majetkové podstaty.
-- *Nahlížení do účtů správce* — speciálně do účtů vedených pro účely insolvenčního řízení (jednotlivé účty pro každý insolvenční spis — typicky § 36 odst. 4 vyhlášky o IS).
-- *Pokyny správci* — závazné.
-- *Uložení vyžádat stanovisko věřitelského výboru* — soud může nutit správce ke konzultaci s věřitelským výborem, pokud by jinak hrozilo, že správce postupuje izolovaně.
+[3] **Věcný rozsah.** Dohled není omezen jen na technické vedení řízení. Podle 29 ICdo 117/2022 zahrnuje také kontrolu, zda procesní subjekt nepřekračuje meze svých oprávnění nebo neporušuje zákon; dohlédací opatření proto může mít v konkrétním zákonném kontextu i dopad do jeho právních poměrů. Tento závěr však nelze číst jako obecné zmocnění soudu k nahrazování nalézacího řízení nebo zvláštních rozhodovacích režimů.
 
-### Vazby
+[4] **Dohled nad správcem.** Soud může od správce vyžadovat zprávy a vysvětlení o jeho postupu, nahlížet do jeho účtů, konat potřebná šetření, dávat mu pokyny a uložit mu, aby si k určité otázce vyžádal stanovisko věřitelského výboru. Rozsah konkrétního požadavku nebo pokynu musí souviset s výkonem funkce správce a s účelem insolvenčního řízení.
 
-- **§ 36** — povinnosti insolvenčního správce (postup s péčí řádného hospodáře).
-- **§ 81** — pořádková pokuta správci za nesplnění povinnosti.
-- **§ 32** — odvolání správce při zaviněném neplnění povinností.
-- **Vyhláška č. 311/2007 Sb.** o jednacím řádu pro insolvenční řízení.
+[5] **Meze pokynové pravomoci.** Dohlédací oprávnění nezbavuje správce zákonem svěřeného odborného úsudku. Nejvyšší soud v usnesení sen. zn. 29 NSČR 67/2023 uzavřel, že soud není oprávněn uložit správci, jaký postoj má zaujmout k přihlášeným pohledávkám. Jestliže však již vznikl nezákonný stav dvou zjištěných vzájemně se vylučujících pohledávek, soud musí při svých dalších postupech bránit jeho prohlubování.
 
-### Praktická poznámka
+[6] **Forma a opravný prostředek.** Insolvenční soud rozhoduje v insolvenčním řízení usnesením (§ 88 odst. 1). Proti rozhodnutím učiněným při výkonu dohlédací činnosti, včetně předběžných opatření, není podle § 91 odvolání přípustné, pokud zákon nestanoví jinak. Rozhodující je skutečná povaha aktu v systému insolvenčního zákona, nikoli jen jeho označení ani správnost jeho obsahu.
 
-V praxi soud dává pokyny velmi často prostřednictvím *usnesení o dohlédací činnosti*, proti kterému není podle § 91 odvolání přípustné. To je *axiom efektivnosti* — soud má rychle reagovat na potřeby řízení, opakované přezkumy by řízení paralyzovaly. Správce má však možnost s pokynem polemizovat (např. žádostí o jeho zrušení, návrhem na vyjasnění).
+[7] **Intertemporalita.** Obecné závěry 29 ICdo 117/2022 a 29 NSČR 67/2023 vycházejí z textu § 10, § 11 a § 91 použitelného i k 19. 7. 2026. Jejich skutkové závěry jsou v tomto komentáři použity jen k vymezení rozsahu a mezí dohledu; na jiné skutkové situace je nelze přenášet bez kontroly rozhodného znění zvláštních ustanovení.
 
-### F. Kazuistika
+### Judikatura
 
-**1. Modelová situace.** Soud má pochybnosti o hospodaření správce S: za pět měsíců nepodal žádnou zprávu, na účtu majetkové podstaty proběhly výběry bez zjevného účelu a věřitelský výbor si stěžuje, že s ním S nekonzultuje zpeněžení souboru zásob. Soud usnesením uloží S, aby (i) předložil zprávu o postupu a vyúčtování, (ii) umožnil nahlédnutí do účtu vedeného pro spis a (iii) vyžádal si k otázce zpeněžení zásob stanovisko věřitelského výboru. Důkazy: bankovní výpisy účtu podstaty, dosavadní (chybějící) zprávy, zápisy věřitelského výboru, jednací řád.
+- **Nejvyšší soud, usnesení ze dne 30. 6. 2023, sen. zn. 29 ICdo 117/2022, ECLI:CZ:NS:2023:29.ICDO.117.2022.1, R 52/2024.** V reorganizaci banka po zahájení insolvenčního řízení blokovala účty dlužníka. Nejvyšší soud v bodech 52 až 56 vymezil vztah rozhodovací a dohlédací činnosti, osobní i věcný rozsah dohledu a důvod zásadní nepřípustnosti odvolání; v bodech 57 až 64 posoudil konkrétní zásah vůči bance. Nosně potvrdil, že dohled zahrnuje také činnost věřitelů a není omezen jen na procedurální vedení řízení.
 
-**2. Právní otázka.** Má soud podle § 11 odst. 2 pravomoc uložit správci konkrétní povinnosti (zprávy, zpřístupnění účtu, vyžádání stanoviska výboru) a v jakých mezích, aniž porušuje zásadu, že povinnost lze ukládat jen na základě zákona?
+- **Nejvyšší soud, usnesení ze dne 29. 2. 2024, sen. zn. 29 NSČR 67/2023, ECLI:CZ:NS:2024:29.NSCR.67.2023.3.** Ve věci dvou zjištěných, vzájemně si konkurujících pohledávek Nejvyšší soud v bodě 39 vymezil mez pokynové pravomoci: soud nesmí správci určit postoj k přihlášeným pohledávkám. Zároveň musí svými dalšími postupy bránit prohlubování již vzniklého nezákonného stavu.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 11 — odst. 1 generální klauzule (rozhodování o průběhu, opatření k zajištění účelu, ukládání povinností), odst. 2 speciální oprávnění vůči správci (zprávy, nahlížení do účtů, pokyny, vyžádání stanoviska výboru).
-- *Související ustanovení téhož zákona:* § 36 (péče řádného hospodáře, zprávy správce), § 81 (pořádková pokuta), § 32 (odvolání správce), § 58 a násl. (věřitelský výbor).
-- *Související předpisy:* vyhláška č. 311/2007 Sb. (jednací řád); vyhláška o insolvenčních správcích (zprávy, oddělené účty pro spis); OSŘ subsidiárně.
-- *Judikatura:* nosný závěr (III.ÚS 2432/14) — opatření v rámci dohlédací činnosti dle § 11 soud neváže a může je kdykoli změnit.
-
-**4. Subsumpce.** Uložení zpráv a vysvětlení i nahlížení do účtu spadá doslovně pod § 11 odst. 2; pokyn ke zpeněžení a vyžádání stanoviska výboru rovněž. Vše má oporu v zákoně (zásada *nullum onus sine lege* je dodržena), nejde tedy o povinnost „nad rámec IZ".
-
-**5. Řešení.** Soud je oprávněn všechna tři opatření uložit. Generální klauzule odst. 1 je ústavně limitovaná — povinnost musí mít zákonný podklad; uvedená opatření jej mají v odst. 2. Při neuposlechnutí může soud sáhnout k pořádkové pokutě (§ 81), při zaviněném neplnění až k odvolání správce (§ 32). Riziko: soud nesmí ukládat povinnosti bez opory v IZ (např. nutit správce k obchodně nevýhodnému jednání bez zákonného důvodu).
-
-**6. Varianty.** (a) Kdyby soud uložil povinnost bez zákonné opory (např. osobní účast správce na všech jednáních výboru pod sankcí), opatření by bylo nezákonné a správce by mohl žádat jeho zrušení. (b) Kdyby správce řádně podával zprávy a konzultoval výbor, důvod pro dohlédací pokyn by odpadl.
-
-### G. Protiargumenty a rizika
-
-- *„Generální klauzule odst. 1 dává soudu neomezenou pravomoc."* Ne — je limitována zásadou zákonnosti; povinnost musí mít oporu v IZ. Neutralizace: ústavní mez ukládání povinností (čl. 4 Listiny).
-- *„Proti pokynu se nelze bránit."* Odvolání sice není přípustné (§ 91), ale správce může žádat o zrušení/změnu pokynu (soud jím není vázán — III.ÚS 2432/14) a polemizovat věcně.
-- *Slabé místo:* rozsah „potřebných šetření" a periodicita zpráv nejsou v zákoně přesně určeny; opírat se nutno o jednací řád a vyhlášku o IS.
-
-### H. Praktický závěr
-
-Paragraf 11 dává soudu konkrétní nástroje dohledu nad správcem: vyžadovat zprávy a vysvětlení, nahlížet do účtů spisu, dávat závazné pokyny a nutit ke konzultaci s věřitelským výborem. Vše v mezích zákonnosti — povinnost musí mít oporu v IZ.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověř, že ukládaná povinnost má oporu v § 11 odst. 2 nebo jiném ustanovení IZ (zásada zákonnosti).
-- [ ] Správce: veď oddělený účet pro spis a průběžné zprávy (vyhláška), buď připraven je předložit.
-- [ ] Při neplnění zvaž stupňování: pokyn → pořádková pokuta (§ 81) → odvolání správce (§ 32).
-- [ ] Pamatuj, že dohlédací opatření soud neváže a lze žádat jeho změnu/zrušení.
-
-**Typicky rozhodné důkazy / podklady:** zprávy a vyúčtování správce, bankovní výpisy odděleného účtu podstaty, zápisy a usnesení věřitelského výboru, dosavadní dohlédací usnesení, jednací řád a vyhláška o IS.
+- **Ústavní soud, usnesení ze dne 29. 7. 2014, sp. zn. III. ÚS 2432/14.** Stížnost směřovala proti zrušení souhlasu s prodejem nemovitostí mimo dražbu, pokynu nezpeněžovat a následnému přípisu soudu. Ústavní soud ji odmítl zčásti pro nepříslušnost a zčásti pro opožděnost (body 5 až 7). Popis názoru insolvenčního soudu o změnitelnosti dohlédacího opatření v bodě 1 proto není meritorním potvrzením obecné právní věty Ústavním soudem.
 
 ---
 

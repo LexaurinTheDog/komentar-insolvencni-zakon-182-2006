@@ -17,83 +17,65 @@ V této kapitole jde o **základní účastnickou strukturu**, která je rámcem
 
 ## § 9 — Procesní subjekty
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Procesními subjekty podle tohoto zákona jsou
+>
 > a) insolvenční soud,
+>
 > b) dlužník,
+>
 > c) věřitelé, kteří uplatňují svá práva vůči dlužníku,
+>
 > d) insolvenční správce, popřípadě další správce,
+>
 > e) státní zastupitelství, které vstoupilo do insolvenčního řízení nebo do incidenčního sporu, a
+>
 > f) likvidátor dlužníka.
 
-### Výklad / smysl ustanovení
+### Přehled výkladu
 
-Paragraf 9 obsahuje **taxativní výčet procesních subjektů** insolvenčního řízení. Pojem „procesní subjekt" je v insolvenčním právu **širší** než „účastník řízení". Účastníky řízení jsou dle § 14 jen dlužník a věřitelé; ostatní procesní subjekty (insolvenční soud, správce, státní zastupitelství, likvidátor) účastníky nejsou, mají však v řízení vlastní procesní postavení, práva a povinnosti.
+Paragraf 9 vymezuje šest kategorií procesních subjektů podle insolvenčního zákona. Nejde o totožnou kategorii s účastníky insolvenčního řízení: § 14 odst. 1 označuje za účastníky dlužníka a věřitele, kteří uplatňují své právo vůči dlužníku, zatímco § 9 zahrnuje také insolvenční soud, správce, státní zastupitelství po jeho vstupu a likvidátora dlužníka. Samotné zařazení do § 9 neurčuje úplný rozsah oprávnění daného subjektu; ten plyne z dalších ustanovení zákona.
 
-#### Po jednotlivých subjektech
+### Souvisící ustanovení
 
-**a) Insolvenční soud** — orgán vedoucí řízení a vykonávající nad ním dohled (§ 10, § 11). Není „účastníkem", ale je *procesním subjektem*, protože sám koná procesní úkony (rozhoduje, dává pokyny, doručuje). Věcná příslušnost — krajské soudy (§ 7a); místní — § 7b.
+- **§ 10 až 13** — činnost insolvenčního soudu a osoby oprávněné jednat a rozhodovat.
+- **§ 14 až 16** — účastníci insolvenčního řízení a incidenčních sporů.
+- **§ 21 až 45** — insolvenční správce a další správci.
+- **§ 69** — vstup státního zastupitelství do insolvenčního řízení nebo incidenčního sporu.
+- **§ 70** — oprávnění a povinnosti likvidátora dlužníka.
 
-**b) Dlužník** — osoba, jejíž úpadek (nebo hrozící úpadek) se v řízení řeší. Centrální subjekt, na jehož majetkové sféře se řízení projevuje. Postavení dlužníka v řízení závisí na zvoleném způsobu řešení úpadku — viz zejména § 229 odst. 3 (rozsah dispozičních oprávnění), § 246 (pozbytí dispozičních oprávnění při konkursu), § 330 (zachování dispozic při reorganizaci).
+### Souvisící předpisy
 
-**c) Věřitelé, kteří uplatňují svá práva vůči dlužníku** — jednotlivě, jako účastníci. Pozor — věřitelé jsou účastníky řízení **až okamžikem uplatnění práva** (typicky podáním přihlášky pohledávky podle § 173). Věřitel, který nepřihlásí pohledávku, není účastníkem řízení a nemůže např. podávat opravné prostředky ve věcech, které se ho netýkají.
+- **Zákon č. 99/1963 Sb., občanský soudní řád** — použije se v mezích subsidiarity stanovené § 7 insolvenčního zákona; § 9 však sám vymezuje procesní subjekty podle insolvenčního zákona.
 
-**d) Insolvenční správce, popřípadě další správce** — orgán řízení s vlastními procesními pravomocemi. „Další správci" jsou:
-- **odděleny správce** (§ 34) — zvláštní správce pro určitý okruh otázek (typicky střet zájmů),
-- **zvláštní správce** (§ 35) — pro určitou část majetkové podstaty,
-- **zástupce insolvenčního správce** (§ 33) — pro případ překážky správce,
-- **předběžný správce** (§ 27 odst. 2, § 113 odst. 2) — ustanovený pro období před rozhodnutím o úpadku jako součást předběžného opatření.
+### Z důvodové zprávy
 
-**e) Státní zastupitelství** — vstupuje do řízení nebo do incidenčního sporu na základě § 69 (oprávnění SZ vstoupit do řízení, vyjadřovat se, podávat opravné prostředky). Není stranou — působí ve veřejném zájmu.
+Zvláštní důvodová zpráva k § 9 vládního návrhu insolvenčního zákona uvádí, že procesní subjekty vypočtené v tomto ustanovení odpovídají procesním subjektům podle tehdejší úpravy. Jde o stručné vysvětlení kontinuity výčtu, nikoli o samostatný výklad konkrétních oprávnění jednotlivých subjektů (sněmovní tisk 1120/0, zvláštní část, k § 9, číslovaná strana 159).
 
-**f) Likvidátor dlužníka** — pokud byl dlužník (PO) v likvidaci před zahájením insolvenčního řízení, likvidátor zůstává jeho orgánem (s omezenými pravomocemi — ty převzal insolvenční správce v rozsahu majetkové podstaty). Je „procesním subjektem", protože činí úkony za dlužníka v rozsahu, který mu zbyl. Typický příklad: dlužník, na kterého byl prohlášen konkurs, byl už předtím v likvidaci — likvidátor pak vykonává jen úkony mimo majetkovou podstatu (zejména korporátní úkony PO, např. svolání valné hromady o případné transformaci, kdyby byla relevantní).
+### Literatura
 
-### Vazby a souvislosti
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento údaj neznamená negativní literární rešerši.
 
-- **§ 14** — kdo z procesních subjektů je *účastníkem* řízení.
-- **§ 21 — § 45** — insolvenční správce.
-- **§ 69 — § 70** — státní zastupitelství.
-- **§ 70** — postavení likvidátora dlužníka v insolvenci.
+### Výklad
 
-### Praktické dopady
+[1] Úvodní slova „procesními subjekty podle tohoto zákona jsou“ a navazující písmena a) až f) dávají § 9 funkci zákonného výčtu. Jeho položkami jsou soud, dlužník, kvalifikovaně vymezení věřitelé, správce nebo další správce, státní zastupitelství po vstupu a likvidátor dlužníka.
 
-- **Procesní subjekt může činit úkon, k němuž je oprávněn**, i když není účastníkem. Příklad: správce podává odpůrčí žalobu (§ 239) — vystupuje jako *žalobce* (procesní strana), nikoli jako *účastník* hlavního insolvenčního řízení.
-- **Likvidátor** se v praxi často přehlíží, ale může být důležitým hráčem v okamžiku zrušení konkursu (§ 313) — po zrušení konkursu se mu vrací správa zbytku majetku, není-li PO zrušena bez likvidace.
+[2] U věřitele zákon vyžaduje, aby uplatňoval své právo vůči dlužníku. Paragraf 9 sám nestanoví jedinou obecnou procesní formu takového uplatnění; konkrétní režim je třeba určit podle ustanovení upravujícího dané právo a procesní situaci. Proto nelze z § 9 bez dalšího dovodit, že jediným rozhodným úkonem je přihláška pohledávky.
 
-### F. Kazuistika
+[3] U státního zastupitelství je zařazení podmíněno vstupem do insolvenčního řízení nebo do incidenčního sporu. Oprávnění vstoupit a jeho procesní následky upravuje § 69. Naproti tomu u dlužníka, soudu, správce a likvidátora text § 9 obdobnou podmínku vstupu neformuluje.
 
-**1. Modelová situace.** Společnost Alfa, s. r. o., je v likvidaci (likvidátor L), když na ni věřitel V podá insolvenční návrh. Soud zjistí úpadek a prohlásí konkurs, ustaví insolvenčního správce S. Současně do řízení vstoupí státní zastupitelství (SZ), protože jde o podezření z vyvádění majetku. V průběhu řízení S zjistí, že před zahájením řízení byl z majetku Alfa převeden stroj na spřízněnou osobu, a podá odpůrčí žalobu. Sporné je, kdo má jaké procesní postavení a kdo je oprávněn které úkony činit. Důkazy: výpis z OR (zápis likvidátora), usnesení o úpadku a o konkursu, usnesení o vstupu SZ.
+[4] Srovnání s § 14 odst. 1 potvrzuje, že pojmy „procesní subjekt“ a „účastník insolvenčního řízení“ nejsou souznačné. Dlužník a věřitelé vymezení oběma ustanoveními se překrývají; další položky § 9 nejsou v § 14 odst. 1 jako účastníci uvedeny. Pro incidenční spory stanoví účastenství samostatně § 16.
 
-**2. Právní otázka.** Které z osob figurujících v řízení (soud, dlužník Alfa, věřitel V, správce S, SZ, likvidátor L) jsou procesními subjekty podle § 9 a jaké z toho plynou důsledky pro jejich oprávnění činit procesní úkony?
+[5] Uvedení subjektu v § 9 není samo o sobě pramenem každého jeho procesního oprávnění. Rozhodovací a dohlédací činnost soudu upravují § 10 a § 11, postavení správců zejména § 21 až 45 a postavení státního zastupitelství a likvidátora § 69 a § 70. Při posuzování konkrétního úkonu je proto nutno vycházet z příslušného zvláštního ustanovení.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 9 — taxativní výčet procesních subjektů (soud, dlužník, věřitelé uplatňující práva, správce/další správce, SZ po vstupu, likvidátor dlužníka).
-- *Související ustanovení téhož zákona:* § 14 (kdo z procesních subjektů je účastníkem — jen dlužník a věřitelé), § 21 a násl. (správce), § 27 odst. 2 a § 113 odst. 2 (předběžný správce), § 33–35 (zástupce, oddělený, zvláštní správce), § 69–70 (SZ a likvidátor), § 239 (odpůrčí žaloba).
-- *Související předpisy:* OSŘ (subsidiárně — § 7 IZ); ZOK / OZ (postavení likvidátora PO).
-- *Judikatura:* nosný závěr — věřitel se procesním subjektem/účastníkem stává až uplatněním práva (přihláškou nebo insolvenčním návrhem); SZ vstupem nenabývá postavení strany, působí ve veřejném zájmu.
+[6] Aktuální znění § 9 se obsahově shoduje se zněním vládního návrhu. Z této shody samotné však nelze dovozovat časovou použitelnost starších závěrů o konkrétních pravomocích jednotlivých subjektů; tu je nutno vždy kontrolovat podle tehdejšího znění příslušných souvisejících ustanovení.
 
-**4. Subsumpce.** Soud = písm. a) (koná procesní úkony, nikoli účastník). Dlužník Alfa = písm. b). Věřitel V = písm. c) — uplatnil právo insolvenčním návrhem, je procesním subjektem i účastníkem. Správce S = písm. d). SZ = písm. e) — vstoupilo, je procesním subjektem, nikoli účastníkem. Likvidátor L = písm. f) — zůstává orgánem dlužníka v rozsahu mimo majetkovou podstatu. Sporné: zda L může činit úkony za Alfa — jen v rozsahu, který nepřevzal správce (zejména korporátní úkony PO).
+### Judikatura
 
-**5. Řešení.** Postavení procesního subjektu zakládá oprávnění činit úkony, k nimž je subjekt oprávněn, i bez postavení účastníka. S podává odpůrčí žalobu jako žalobce (procesní strana), ne jako účastník hlavního řízení. SZ se může vyjadřovat a podávat opravné prostředky podle § 69, ale nemá dispozici s předmětem řízení. L vykonává jen zbytkovou působnost orgánu PO. Riziko: zaměňování postavení procesního subjektu a účastníka vede k chybnému posouzení legitimace k úkonu.
-
-**6. Varianty.** (a) Kdyby V pohledávku nepřihlásil ani nepodal návrh, není procesním subjektem dle písm. c) a nemá v řízení postavení. (b) Kdyby Alfa nebyla v likvidaci, písm. f) by se neuplatnilo a okruh procesních subjektů by byl o likvidátora užší.
-
-### G. Protiargumenty a rizika
-
-- *„Výčet je jen demonstrativní."* Není — § 9 je taxativní; subjekt, který v něm není uveden (např. soudní znalec, dražebník), není procesním subjektem, byť se na řízení podílí. Neutralizace: doslovné znění a systematika.
-- *„Likvidátor po prohlášení konkursu už nemá žádnou roli."* Nepřesné — působnost orgánu PO mu zůstává v rozsahu, který nepřevzal správce (korporátní úkony mimo majetkovou podstatu, význam zejména při zrušení konkursu dle § 313).
-- *Slabé místo:* hranice mezi úkony likvidátora a správce není zákonem ostře vymezena a v praxi vyvolává spory; nutno argumentovat rozsahem dispozičních oprávnění (§ 246).
-
-### H. Praktický závěr
-
-Paragraf 9 slouží jako vstupní mapa řízení: určuje, kdo do něj patří jako procesní subjekt, a tím rámcuje legitimaci k procesním úkonům. Klíčové je nezaměňovat „procesní subjekt" (širší) s „účastníkem" (užší, jen dlužník a věřitelé dle § 14).
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Identifikuj u každé osoby v řízení, pod které písmeno § 9 spadá (a zda je i účastníkem dle § 14).
-- [ ] U věřitele ověř, zda už uplatnil právo (přihláška / insolvenční návrh) — bez toho není procesním subjektem dle písm. c).
-- [ ] U likvidatora vymez zbytkovou působnost mimo majetkovou podstatu.
-- [ ] Úkony správce (např. odpůrčí žalobu) posuzuj jako úkony procesního subjektu/strany, ne účastníka hlavního řízení.
-
-**Typicky rozhodné důkazy / podklady:** výpis z OR (likvidátor, statutární orgán), usnesení o úpadku a o způsobu řešení, usnesení o ustanovení správce, usnesení o vstupu SZ, přihláška/insolvenční návrh věřitele.
+V tomto kole není uváděno konkrétní rozhodnutí. Původní obecné odkazy na údajné judikatorní závěry nebyly spojeny s identifikovaným a v plném textu ověřeným rozhodnutím, a proto byly odstraněny.
 
 ---
 

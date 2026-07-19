@@ -7,70 +7,59 @@ Hlava I je „vstupní brána" celého zákona: definuje, co IZ upravuje, co se 
 
 ## § 1 — Předmět úpravy
 
-> Tento zákon zapracovává příslušné předpisy Evropské unie a upravuje
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> Tento zákon zapracovává příslušné předpisy Evropské unie75) a upravuje
 > a) řešení úpadku a hrozícího úpadku dlužníka soudním řízením některým ze stanovených způsobů tak, aby došlo k uspořádání majetkových vztahů k osobám dotčeným dlužníkovým úpadkem nebo hrozícím úpadkem a k co nejvyššímu a zásadně poměrnému uspokojení dlužníkových věřitelů,
 > b) oddlužení dlužníka.
 
-### Výklad / smysl ustanovení
+Poznámka 75 odkazuje na směrnici Evropského parlamentu a Rady (EU) 2019/1023 (směrnici o restrukturalizaci a insolvenci).
 
-Paragraf 1 plní trojí roli:
+### Přehled výkladu
 
-1. **Transpoziční klauzule** — odkaz na předpisy EU (poznámka pod čarou č. 75). Konkrétně se jedná zejména o **Nařízení (EU) 2015/848** o insolvenčním řízení (přeshraniční insolvence v EU) a o **Směrnici (EU) 2019/1023** o restrukturalizaci a insolvenci (zejména pro úpravu oddlužení). Pozor — Nařízení EU je sice přímo použitelné, ale formální odkaz v § 1 plní informační funkci pro adresáta.
+Ustanovení vymezuje předmět a účel insolvenčního zákona. Písmeno a) spojuje kolektivní soudní řešení úpadku nebo hrozícího úpadku s uspořádáním dotčených majetkových vztahů a s co nejvyšším, zásadně poměrným uspokojením věřitelů. Písmeno b) samostatně ohlašuje úpravu oddlužení. Úvodní transpoziční věta byla doplněna s účinností od 1. 10. 2024.
 
-2. **Účelové vymezení zákona** — IZ neupravuje úpadek jako takový (to je pouze hmotněprávní stav definovaný v § 3), ale **soudní řešení úpadku** některým z taxativních způsobů (§ 4). To je důležitý dělící bod — řešení úpadku mimosoudní cestou (např. dohoda s věřiteli, prodej podniku) tento zákon neupravuje. Nově upravuje mimosoudní sanační řízení samostatný zákon č. 284/2023 Sb. o preventivní restrukturalizaci.
+### Souvisící ustanovení
 
-3. **Hlavní principy** — řešení úpadku má vést k **uspořádání majetkových vztahů** dotčených osob a k **co nejvyššímu a zásadně poměrnému uspokojení věřitelů**. Slovo „zásadně" je důležité: pravidlo *par condicio creditorum* (rovné zacházení s věřiteli téže třídy) je v IZ častokrát modifikováno — zákon zakládá řadu výjimek (zajištění věřitelé, pohledávky za podstatou, pohledávky postavené na roveň pohledávkám za podstatou).
+- § 2 písm. a) — vymezení insolvenčního řízení
+- § 3 — úpadek a hrozící úpadek
+- § 4 — konkurs, reorganizace, oddlužení a zákonem stanovené zvláštní způsoby řešení úpadku
+- § 5 — zásady insolvenčního řízení
+- § 389 a násl. — oddlužení
 
-Písmeno b) — **oddlužení** — je v § 1 zmíněno samostatně z historických důvodů. Oddlužení původně bylo systematicky pojato jako odlišný typ řízení (pro fyzické osoby), dnes je však jen jedním ze způsobů řešení úpadku (§ 4 odst. 1 písm. c)). Samostatná zmínka v § 1 zdůrazňuje politicko-právní význam tohoto institutu (sociální cíl — návrat dlužníka do ekonomického a společenského života).
+### Souvisící předpisy
 
-### Vazby a souvislosti
+- směrnice Evropského parlamentu a Rady (EU) 2019/1023 ze dne 20. 6. 2019 (CELEX 32019L1023)
+- zákon č. 252/2024 Sb., kterým byla do § 1 vložena transpoziční věta
+- nařízení Evropského parlamentu a Rady (EU) 2015/848 o insolvenčním řízení je přímo použitelným rámcem přeshraničních insolvencí; není předpisem transponovaným větou vloženou do § 1
 
-- **§ 3** — definice úpadku (na co se „řešení úpadku" v § 1 váže).
-- **§ 4** — výčet způsobů řešení úpadku.
-- **§ 5** — zásady, mezi nimi i ona „rychlost, hospodárnost a nejvyšší uspokojení".
-- **§ 7** — vztah k občanskému soudnímu řádu.
-- **Nařízení (EU) 2015/848** — přímo použitelné, výslovně transponováno.
+### Z důvodové zprávy
 
-### Praktické dopady
+Původní důvodová zpráva (sněmovní tisk 1120/0, zvláštní část, k § 1) zdůrazňuje zahrnutí hrozícího úpadku, uspořádání majetkových vztahů, maximální možné a zásadně poměrné uspokojení věřitelů a možnost osvobození od závazků neuspokojených v insolvenčním řízení. Důvodová zpráva k zákonu č. 252/2024 Sb. (sněmovní tisk 491/0, zvláštní část, k bodu 1) vysvětluje doplnění úvodní věty jako informaci o zapracování směrnice (EU) 2019/1023 požadovanou Legislativními pravidly vlády.
 
-- Při výkladu kteréhokoli ustanovení IZ se vždy ptejte, zda směřuje k naplnění některého z cílů uvedených v § 1 — pravidlo, které by těmto cílům odporovalo, by mělo být vykládáno restriktivně.
-- Pokud klient potřebuje řešit dluhy bez soudního řízení (např. konsolidace, dohoda s věřiteli, prodej majetku), IZ není namístě — je to oblast občanského práva a případně preventivní restrukturalizace.
+### Literatura
 
-### F. Kazuistika
+Odborná literatura je rozhodnutím editora odložena do druhého kola; tento oddíl nepředstavuje negativní rešerši.
 
-**1. Modelová situace.** Dlužník — společnost s ručením omezeným provozující výrobní podnik — má přechodné likviditní problémy a nabídku investora na převzetí podniku formou prodeje závodu (§ 2175 OZ) s tím, že kupní cena bude rozdělena mezi věřitele dohodou. Jednatel zvažuje, zda tuto transakci provést mimo soud, nebo zda iniciovat insolvenční řízení. Účastníci: dlužník (s. r. o.), jednatel, investor (kupující závodu), skupina věřitelů. Důkazy, které by bylo třeba obstarat: účetní výkazy, výkaz stavu likvidity, znalecký posudek na hodnotu závodu, návrh dohody s věřiteli.
+### Výklad
 
-**2. Právní otázka.** Spadá zamýšlené mimosoudní řešení (prodej závodu a rozdělení výtěžku dohodou) do předmětu úpravy insolvenčního zákona podle § 1, nebo jde o postup mimo IZ?
+[1] Těžiště písmene a) je v kolektivním soudním řešení úpadku nebo hrozícího úpadku. Úpadek a hrozící úpadek vymezuje § 3, insolvenční řízení § 2 písm. a) a způsoby řešení § 4. Základní výčet v § 4 odst. 1 zahrnuje konkurs, reorganizaci, oddlužení i zvláštní způsoby, které zákon stanoví pro určité subjekty nebo případy.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 1 — IZ upravuje pouze *soudní* řešení úpadku a hrozícího úpadku některým ze stanovených způsobů (§ 4), nikoli úpadek jako hmotněprávní stav ani mimosoudní postupy.
-- *Související ustanovení téhož zákona:* § 3 (definice úpadku — na co se „řešení úpadku" váže), § 4 (taxativní výčet soudních způsobů), § 5 (zásady).
-- *Související předpisy:* zákon č. 284/2023 Sb. o preventivní restrukturalizaci (mimosoudní sanace); § 2175 a násl. OZ (koupě závodu); Nařízení (EU) 2015/848 (přeshraniční insolvence).
-- *Judikatura:* nosný závěr, že IZ je *lex specialis* upravující jen soudní řešení úpadku, a že mimosoudní uspořádání závazků zůstává věcí obecného civilního práva — viz též ÚS I.ÚS 129/14 (cíle a smysl insolvenčního řízení dle § 5, citováno u § 5).
+[2] Požadavek co nejvyššího a zásadně poměrného uspokojení neznamená absolutní rovnost všech věřitelů. Zákon rozlišuje jejich postavení, zejména podle zajištění, pořadí a povahy pohledávky; § 5 písm. b) přiznává rovné možnosti věřitelům se zásadně stejným nebo obdobným postavením.
 
-**4. Subsumpce.** Znak „řešení úpadku soudním řízením některým ze stanovených způsobů" (§ 1 písm. a)) zamýšlená transakce **nenaplňuje** — nejde o konkurs, reorganizaci ani oddlužení. Znak „oddlužení" (písm. b)) je vyloučen (jde o PO). Mimosoudní prodej závodu tedy stojí mimo předmět IZ; IZ se aktivuje teprve podáním insolvenčního návrhu.
+[3] Písmeno b) nevyčleňuje oddlužení z katalogu způsobů řešení úpadku: § 4 odst. 1 písm. c) je mezi ně výslovně řadí. Samostatná zmínka v § 1 odpovídá tomu, že zákon upravuje také osvobození dlužníka od placení neuspokojeného zbytku zahrnutých pohledávek. Okruh osob oprávněných navrhnout oddlužení určuje § 389; samotná právnická forma dlužníka oddlužení nevylučuje.
 
-**5. Řešení.** Dokud není podán insolvenční návrh, je mimosoudní řešení přípustné a IZ nebrání jeho provedení. Pozor však na **riziko neúčinnosti** (§ 235 a násl.): je-li dlužník již v úpadku a prodej závodu zkrátí věřitele, může být později (po případném zahájení insolvence) napaden odpůrčí žalobou. Praktické kroky: doložit přiměřenost kupní ceny znaleckým posudkem, zajistit poměrné uspokojení věřitelů, vyhnout se zvýhodnění spřízněných osob.
+[4] Úvodní věta od 1. 10. 2024 deklaruje zapracování směrnice (EU) 2019/1023. Poznámka 75 jiný unijní předpis neuvádí. Nařízení (EU) 2015/848 se jako přímo použitelný předpis netransponuje a z této věty nelze dovozovat opak.
 
-**6. Varianty.** (a) Pokud již byl podán insolvenční návrh, nastupuje § 1 a celý režim IZ — prodej závodu lze provést jen v jeho rámci (zpeněžení podstaty správcem). (b) Pokud by dlužník byl fyzickou osobou s nepodnikatelskými dluhy, otevírá se navíc cesta oddlužení podle písm. b) a § 389.
+[5] Podle čl. II bodu 1 zákona č. 252/2024 Sb. se v insolvenčních řízeních zahájených před 1. 10. 2024 zásadně použije insolvenční zákon ve znění účinném před tímto dnem; body 2 a 3 stanoví dílčí výjimky. Pro taková řízení proto nelze mechanicky vycházet pouze z aktuálního znění.
 
-### G. Protiargumenty a rizika
+[6] Ustanovení je účelovým a systematickým vodítkem při volbě mezi textově možnými výklady. Neopravňuje však obejít jednoznačný text, zvláštní úpravu, zákonné pořadí ani procesní omezení.
 
-- *Protiargument:* „Nařízení (EU) 2015/848 je přímo použitelné, odkaz v § 1 je proto nadbytečný a může mást." — Neutralizace: odkaz plní informační (deklaratorní) funkci pro adresáta; přednost přímo použitelného předpisu tím není dotčena.
-- *Protiargument:* „Cíl ‚co nejvyššího uspokojení' znamená absolutní rovnost věřitelů." — Neutralizace: slovo „zásadně" v § 1 výslovně připouští výjimky (zajištění věřitelé, pohledávky za podstatou), princip *par condicio* je modifikován.
-- *Slabé místo:* hranice mezi přípustným mimosoudním řešením a neúčinným zkracujícím úkonem není v § 1 řešena — nutno doplnit analýzou § 235 a násl. a § 111 (omezení dispozic po zahájení řízení).
+### Judikatura
 
-### H. Praktický závěr
-
-Paragraf 1 vymezuje účel a předmět zákona: IZ se použije jen na *soudní* řešení (hrozícího) úpadku a na oddlužení. Při výkladu kteréhokoli ustanovení testujte, zda směřuje k cílům § 1; ustanovení odporující těmto cílům vykládejte restriktivně.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Jde skutečně o *soudní* řešení úpadku, nebo o mimosoudní postup mimo IZ?
-- [ ] Je transakce slučitelná s § 235 a násl. (neúčinnost) a § 111 (po zahájení řízení)?
-- [ ] Není namístě spíše preventivní restrukturalizace (zák. č. 284/2023 Sb.)?
-- [ ] Směřuje zvažovaný postup k poměrnému uspokojení věřitelů?
-
-**Typicky rozhodné důkazy / podklady:** účetní závěrka a výkaz likvidity, znalecký posudek na hodnotu majetku/závodu, návrh dohody s věřiteli, doklad o počtu věřitelů.
+**NS, rozsudek ze dne 31. 8. 2015, sen. zn. 29 ICdo 32/2013, ECLI:CZ:NS:2015:29.ICDO.32.2013.1, R 60/2016.** V incidenčním sporu o existenci pohledávky věřitele vůči manželce obligačního dlužníka Nejvyšší soud posuzoval úpravu účinnou do 31. 7. 2013. Odmítl dovodit přihlašovatelnou pohledávku jen z obecných zásad insolvenčního řízení; § 1 a § 5 tedy nepůsobí jako samostatný titul k rozšíření práv nad rámec zvláštní zákonné úpravy. Časový a skutkový kontext rozhodnutí omezuje jeho použití na tuto obecnou interpretační mez.
 
 ---
 

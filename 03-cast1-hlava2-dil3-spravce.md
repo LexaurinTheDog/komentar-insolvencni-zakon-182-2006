@@ -174,78 +174,62 @@ Do tohoto vydání není zařazeno žádné soudní rozhodnutí: nebyl použit p
 
 ## § 24 — Vyloučení správce z důvodu nepodjatosti a souběhu
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Insolvenční správce je z insolvenčního řízení vyloučen, jestliže se zřetelem na jeho poměr k věci nebo k osobám účastníků je tu důvod pochybovat o jeho nepodjatosti; to neplatí v případě uvedeném v § 34. Insolvenční správce je dále vyloučen, jestliže v posledních 3 letech před zahájením insolvenčního řízení vykonával podle zákona o preventivní restrukturalizaci funkci restrukturalizačního správce dlužníka nebo osoby tvořící s dlužníkem koncern. Jakmile se ustanovený insolvenční správce dozví, že jsou zde důvody pro jeho vyloučení, je povinen oznámit to neprodleně insolvenčnímu soudu.
 >
 > (2) Veřejná obchodní společnost, která je ustanovena insolvenčním správcem, oznámí insolvenčnímu soudu neprodleně, kdo z jejích společníků, prostřednictvím kterých vykonává činnost insolvenčního správce, bude jejím jménem funkci insolvenčního správce vykonávat; odstavec 1 platí pro tohoto společníka obdobně.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *NS* [29 NSCR 107/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3A50021C9A79F814C1257D330034D963?openDocument) — kat. A, 30. 6. 2014
-  > „Mezi skutečnosti, které se zřetelem k charakteru pohledávky dlužníkova věřitele a k jeho postavení v insolvenčním řízení zakládají důvod pochybovat, že tento vztah neovlivní celkový způsob výkonu práv a povinností insolvenčního správce (a které proto nedovolují řešit možnou podjatost insolvenčního správce pouhým ustanovením odděleného insolvenčního správce), typově patří skutečnost, že pohledávka je takového rozsahu, že věřitel má rozhodující vliv na průběh insolvenčního řízení, jakož i skutečnost, že stejný věřitel vede (byť v jiném procesním postavení) další spory, jež se významně týkají majetkové podstaty dlužníka… K takovým pochybnostem může vést i souhrn více skutečností, vztahujících se k charakteru pohledávky dlužníkova věřitele a k jeho postavení v insolvenčním řízení, byť by samy o sobě (při izolovaném posouzení) nebyly způsobilé ovlivnit celkový způsob výkonu práv a povinností insolvenčního správce"
+§ 24 rozlišuje obecný důvod pochybovat o nepodjatosti správce a zvláštní, časově vymezený důvod navázaný na předchozí výkon funkce restrukturalizačního správce. Poměr jen k některému věřiteli nebo jeho zástupci nemusí vést k vyloučení z celého řízení, jsou-li splněny předpoklady pro odděleného správce podle § 34. U veřejné obchodní společnosti se odstavec 1 použije obdobně na ohlášeného společníka, jehož společnost určila k výkonu funkce.
+
+### Souvisící ustanovení
+
+- **§ 26** — odvolání proti rozhodnutí o ustanovení správce; v odvolání lze namítat nesplnění podmínek pro ustanovení nebo nepodjatost.
+- **§ 29 odst. 2** — soud nepotvrdí nového správce zvoleného schůzí věřitelů, nesplňuje-li mimo jiné podmínky § 24.
+- **§ 31 odst. 1 a 5** — odvolání správce z funkce z důležitých důvodů a současné ustanovení nového správce.
+- **§ 32** — zproštění správce, který neplní řádně povinnosti nebo jinak závažně porušil důležitou povinnost; tento sankční režim nelze zaměňovat se samotným testem vyloučení.
+- **§ 34** — oddělený insolvenční správce při podjatosti omezené na některé úkony.
+- **§ 40 odst. 1** — veřejná obchodní společnost vykonává funkci ohlášeným společníkem podle § 24 odst. 2.
+
+### Souvisící předpisy
+
+- **Zákon č. 284/2023 Sb., o preventivní restrukturalizaci** — upravuje funkci restrukturalizačního správce, na niž odkazuje § 24 odst. 1.
+- **Zákon č. 285/2023 Sb.**, čl. I bod 1 — do § 24 odst. 1 vložil zvláštní tříletý důvod vyloučení; zákon nabyl účinnosti 23. 9. 2023.
+- **§ 14 odst. 1 občanského soudního řádu** — Nejvyšší soud jej v rozhodnutí 29 NSČR 107/2013 použil jako zásadní srovnávací východisko pro obecný test vyloučení správce.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva ke sněmovnímu tisku 1120/0 uvádí, že úprava zpřesňuje nepodjatost správce a výslovně počítá s tím, že důvody mohou vyplývat také z jeho poměru k věřitelům, nikoli jen k dlužníkovi. V návaznosti na to popisuje § 34 jako řešení vyloučení pouze z některých a nepočetných úkonů.
+
+Důvodová zpráva ke sněmovnímu tisku 372/0 vysvětluje nový tříletý důvod snahou předcházet potenciálnímu střetu zájmů restrukturalizačního správce, který by mohl být ekonomicky motivován k přechodu od restrukturalizace k insolvenčnímu řízení. Jde o vysvětlení zákonodárného účelu; samotné podmínky vyloučení je nutné číst z přijatého § 24 odst. 1.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento oddíl není výsledkem negativní literární rešerše.
 
 ### Výklad
 
-**Odst. 1 — dva důvody vyloučení:**
+[1] **Obecný test nepodjatosti.** Zákon nevyžaduje prokázání skutečné podjatosti; rozhodné je, zda poměr správce k věci nebo k osobám účastníků zakládá důvod pochybovat o jeho nepodjatosti. Nejvyšší soud v 29 NSČR 107/2013 uvedl jako možné zdroje takového poměru zejména příbuzenský nebo obdobný vztah a podle okolností také vztah přátelský či zjevně nepřátelský. Jde vždy o posouzení konkrétních okolností.
 
-(a) **Pochybnost o nepodjatosti** — typicky:
-- vlastní pohledávka správce za dlužníkem (nebo dlužníka za správcem),
-- příbuzenský / partnerský vztah ke statutárům, věřitelům, akcionářům,
-- předchozí poradenský / advokátní vztah ke dlužníkovi (zde však opatrně — formální historický vztah nemusí stačit, rozhodující je „důvod pochybovat" o nepodjatosti).
+[2] **Hranice § 24 a § 34.** Poměr jen k některému věřiteli nebo jeho zástupci se řeší odděleným správcem pouze tehdy, neovlivní-li vzhledem k charakteru pohledávky a postavení věřitele celkový výkon práv a povinností správce. Rozhodnutí 29 NSČR 107/2013 řadí mezi typově významné okolnosti rozhodující vliv věřitele plynoucí z rozsahu pohledávky a další spory významně se týkající majetkové podstaty; rozhodný může být i souhrn okolností, které by samostatně nestačily. Rozhodnutí nestanoví obecný procentní práh.
 
-Pro pouze **dílčí** podjatost (např. vůči jednomu věřiteli) platí výjimka — *odděleny správce* podle § 34.
+[3] **Zvláštní tříletý důvod.** Druhá věta odstavce 1 stanoví samostatný důvod vyloučení, jestliže správce v posledních třech letech před zahájením insolvenčního řízení vykonával funkci restrukturalizačního správce dlužníka nebo osoby tvořící s dlužníkem koncern. Rozhodným časovým bodem je zahájení insolvenčního řízení. Toto pravidlo vložil zákon č. 285/2023 Sb. s účinností od 23. 9. 2023.
 
-(b) **Předchozí funkce restrukturalizačního správce** — vložené novelou č. 284/2023 Sb. (preventivní restrukturalizace). Logika: kdo radil dlužníkovi (nebo koncernu) jako restrukturalizační správce, nemůže být téhož dlužníka insolvenčním správcem — *konflikt zájmů z principu*.
+[4] **Oznamovací povinnost.** Jakmile se již ustanovený správce dozví o důvodech svého vyloučení, musí je neprodleně oznámit insolvenčnímu soudu. Samotný § 24 neupravuje kárnou odpovědnost ani náhradu škody; případné další následky je nutné posuzovat podle jejich vlastních zákonných předpokladů.
 
-**Povinnost správce neprodleně oznámit důvody vyloučení** — pokud zjistí, že je vyloučen, **musí to soudu sdělit bez prodlení**. Zatajení může vést k jeho odvolání + disciplinárnímu postihu + odpovědnosti za škodu.
+[5] **Veřejná obchodní společnost.** Společnost musí neprodleně oznámit, který ohlášený společník bude jejím jménem funkci vykonávat, a odstavec 1 se na tohoto společníka použije obdobně. Změnu určeného společníka proto nelze bez posouzení všech vztahů společnosti a nového společníka prezentovat jako automatické odstranění každého důvodu vyloučení.
 
-**Odst. 2 — v.o.s. jako správce.** Veřejná obchodní společnost (typický typ právnické osoby — správce) musí soudu sdělit, který z jejích **ohlášených společníků** ji bude reprezentovat. Vyloučení / podjatost se pak posuzuje k tomuto společníkovi (nikoli k celé v.o.s.).
-
-### Vazby
-
-- **§ 34** — odděleny správce (částečná podjatost).
-- **Zákon č. 284/2023 Sb. o preventivní restrukturalizaci** — vyloučení překryvu funkcí.
-- **OSŘ § 14 a § 15a** — analogická pravidla pro vyloučení soudce.
+[6] **Intertemporální dosah judikatury.** Usnesení 29 NSČR 107/2013 posuzovalo § 24 a § 34 ve znění účinném do 31. 12. 2013. Jeho nosný závěr zůstává použitelný pro obecný test nepodjatosti a hranici odděleného správce, jejichž rozhodné normativní jádro se do 19. 7. 2026 nezměnilo. Nevztahuje se na zvláštní tříletý důvod doplněný až s účinností od 23. 9. 2023.
 
 ### Judikatura
 
-- **NS 29 NSČR 30/2010**: pro vyloučení postačí **objektivně způsobilá pochybnost** o nepodjatosti; nemusí se prokazovat skutečná podjatost.
-- **NS 29 NSČR 95/2014**: dříve poskytnuté právní poradenství dlužníkovi (advokátská činnost) je obvykle důvodem vyloučení; výjimky musí být úzce vyloženy.
+- **Usnesení Nejvyššího soudu ze dne 30. 6. 2014, sen. zn. 29 NSČR 107/2013, ECLI:CZ:NS:2014:29.NSCR.107.2013.1, R 114/2014.** V konkursu dlužníka měla dotčená věřitelka téměř polovinu přihlášených pohledávek, její pohledávka byla sporná a mezi propojenými insolvenčními řízeními probíhaly další významné spory. Nejvyšší soud uzavřel, že souhrn těchto okolností přesahoval rámec § 34 a vyžadoval odvolání správkyně a ustanovení nového správce. Současně vyložil, že postačí důvod pochybovat o nepodjatosti, nikoli důkaz skutečné podjatosti. Rozhodnutí bylo ověřeno v [plném textu Nejvyššího soudu](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3A50021C9A79F814C1257D330034D963?openDocument&Highlight=0).
 
-### F. Kazuistika
-
-**1. Modelová situace.** Insolvenčním správcem dlužníka (výrobní a.s.) je ustanovena v.o.s. Krátce po přezkumném jednání vyjde najevo, že ohlášený společník, jehož jménem v.o.s. funkci vykonává, je švagrem jednatele největšího nezajištěného věřitele, který drží 55 % přihlášených pohledávek a současně vede proti dlužníkovi spor o vyloučení nemovitosti z podstaty. Důkazy: matriční doklady o příbuzenství, přihláška a její výše, údaje o souvisejícím sporu, oznámení v.o.s. o ohlášeném společníku.
-
-**2. Právní otázka.** Je dán důvod vyloučení správce podle § 24 odst. 1 (pochybnost o nepodjatosti) ve vztahu k ohlášenému společníku v.o.s. (§ 24 odst. 2), nebo postačí ustanovit pouze odděleného správce podle § 34?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 24 odst. 1 (vyloučení při důvodu pochybovat o nepodjatosti; oznamovací povinnost správce), odst. 2 (posuzování podjatosti k ohlášenému společníku v.o.s.).
-- *Související ustanovení téhož zákona:* § 34 (oddělený správce při pouze dílčí podjatosti — hranice), § 26 (odvolání proti ustanovení z důvodu podjatosti), § 32 (zproštění při zatajení důvodů).
-- *Související předpisy:* § 14, § 15a OSŘ (analogická pravidla pro soudce); zákon č. 284/2023 Sb. o preventivní restrukturalizaci (souběh funkcí).
-- *Judikatura:* NS 29 NSČR 107/2013 (citováno výše) — souhrn skutečností (velikost pohledávky + vedení dalších sporů) vylučuje řešení pouhým odděleným správcem; NS 29 NSČR 30/2010 (postačí objektivní pochybnost), NS 29 NSČR 95/2014 (dřívější poradenství dlužníkovi).
-
-**4. Subsumpce.** Příbuzenský vztah k osobě ovládající dominantního věřitele + skutečnost, že tento věřitel má rozhodující vliv na řízení a současně vede související spor o podstatu → naplňují právě ty znaky, které dle NS 29 NSČR 107/2013 brání řešení formou odděleného správce. Jde tedy o vyloučení z celého řízení, nikoli o dílčí podjatost. Sporné: zda by samostatně (jen příbuzenství bez dominance věřitele) postačilo k vyloučení.
-
-**5. Řešení.** Ohlášený společník (a tím i v.o.s. v jeho zastoupení) je vyloučen podle § 24 odst. 1; § 34 se neuplatní pro intenzitu vlivu věřitele. Správce má povinnost vyloučení neprodleně oznámit soudu; soud rozhodne o odvolání a ustanovení nového (§ 31 odst. 5 přiměřeně). Alternativa: v.o.s. označí jiného ohlášeného společníka bez vztahu k věřiteli (§ 24 odst. 2), čímž lze vyloučení odvrátit.
-
-**6. Varianty.** (a) Věřitel by držel jen 3 % pohledávek a nevedl žádný spor → dílčí podjatost, postačí oddělený správce (§ 34 odst. 1). (b) Ohlášený společník by v posledních 3 letech působil jako restrukturalizační správce dlužníka → vyloučení ze zákona bez prostoru pro úvahu (§ 24 odst. 1 věta druhá).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Postačí oddělený správce jen pro úkony vůči tomuto věřiteli." — Neutralizace: dle NS 29 NSČR 107/2013 rozsah pohledávky a souběžné spory ovlivňují celkový výkon funkce, což oddělený správce neřeší; nutné je úplné vyloučení.
-- *Protiargument:* „Podjatost je u v.o.s. nutno posuzovat k celé společnosti, ne k jednomu společníkovi." — Neutralizace: § 24 odst. 2 výslovně posouvá test podjatosti na ohlášeného společníka; výměnou společníka lze vadu zhojit.
-- *Slabé místo:* hranice mezi § 24 a § 34 je skutkově citlivá; chybné zařazení (oddělený správce tam, kde měl být vyloučen celý) zakládá vadu řízení a riziko pozdějších námitek a odpovědnosti za škodu.
-
-### H. Praktický závěr
-
-Vyloučení správce nastává při objektivní pochybnosti o nepodjatosti i při souběhu s předchozí funkcí restrukturalizačního správce; u v.o.s. se podjatost váže k ohlášenému společníku a lze ji řešit jeho výměnou. Dílčí podjatost se řeší odděleným správcem (§ 34), silný vliv věřitele však oddělený správce vylučuje.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Prověřit vztahy správce/ohlášeného společníka k dlužníkovi, statutárům, akcionářům a klíčovým věřitelům.
-- [ ] Posoudit váhu věřitele (objem pohledávky, vliv, souběžné spory) — rozlišit § 24 vs. § 34.
-- [ ] Ověřit absenci výkonu funkce restrukturalizačního správce za poslední 3 roky (§ 24 odst. 1 věta druhá).
-- [ ] Zkontrolovat splnění oznamovací povinnosti správce; zatajení řešit i podle § 32.
-
-**Typicky rozhodné důkazy / podklady:** oznámení v.o.s. o ohlášeném společníku, matriční/obchodní doklady o vztazích, přihlášky a jejich výše, údaje o souběžných sporech, výpis ze seznamu o případné dřívější funkci restrukturalizačního správce.
+Nepravý odkaz na 29 NSČR 30/2010 byl odstraněn: toto rozhodnutí neobsahuje nosný výklad § 24. Odkaz na 29 NSČR 95/2014 nebyl převzat, protože pro tuto revizi nebyl opatřen a ověřen plný oficiální text.
 
 ---
 

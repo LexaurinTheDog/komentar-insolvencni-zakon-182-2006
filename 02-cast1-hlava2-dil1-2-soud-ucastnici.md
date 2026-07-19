@@ -81,71 +81,55 @@ V tomto kole není uváděno konkrétní rozhodnutí. Původní obecné odkazy n
 
 ## § 10 — Insolvenční soud
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Insolvenční soud v insolvenčním řízení
+>
 > a) vydává rozhodnutí, jejichž vydání zákon ukládá nebo předpokládá,
-> b) průběžně vykonává dohled nad postupem a činností ostatních procesních subjektů a rozhoduje o záležitostech s tím souvisejících (dále jen „dohlédací činnost").
+>
+> b) průběžně vykonává dohled nad postupem a činností ostatních procesních subjektů a rozhoduje o záležitostech s tím souvisejících (dále jen „dohlédací činnost“).
 
-### Výklad / smysl ustanovení
+### Přehled výkladu
 
-Paragraf 10 obsahuje **dvě základní funkce** insolvenčního soudu:
+Ustanovení rozlišuje dvě souběžné role insolvenčního soudu: vydávání rozhodnutí, s nimiž počítá insolvenční zákon, a průběžný dohled nad ostatními procesními subjekty. § 10 je rámcovým vymezením; obsah dohlédací činnosti konkretizuje § 11. Z § 10 samotného proto nelze bez dalšího dovozovat konkrétní procesní opatření ani řešit, zda je určitý úkon dohlédacím rozhodnutím. To je nutné posoudit podle ustanovení, na jehož základě soud v dané věci jedná.
 
-**a) Rozhodovací činnost** — výkon klasické soudní pravomoci. Rozhodnutí soudu mají různý charakter:
-- meritorní (rozhodnutí o úpadku — § 136, o způsobu řešení — § 148, o reorganizačním plánu — § 348, schválení oddlužení — § 405 atd.),
-- procesní (svolání schůze věřitelů, ustanovení správce, ukládání povinností),
-- dohlédací (viz níže).
+### Souvisící ustanovení
 
-**b) Dohlédací činnost** — typicky insolvenční specifikum. Soud **průběžně dohlíží** na chod řízení a má pravomoc:
-- ukládat pokyny správci (§ 11 odst. 2),
-- zasahovat do činnosti správce, jestliže tato porušuje zákon nebo zásady (§ 32 — odvolání správce; § 81 — pořádková pokuta),
-- rozhodovat o sporných záležitostech v rámci řízení (typicky o námitkách proti soupisu, o pokynech k zpeněžování, o vyloučení věci z podstaty atd.).
+- **§ 7** — přiměřené subsidiární použití občanského soudního řádu a zákona o zvláštních řízeních soudních.
+- **§ 9** — zařazení insolvenčního soudu mezi procesní subjekty.
+- **§ 11** — obsah a nástroje dohlédací činnosti, zejména oprávnění vůči insolvenčnímu správci.
+- **§ 12 a § 13** — osoby oprávněné za insolvenční soud jednat a rozhodovat.
+- **§ 91** — nepřípustnost odvolání proti rozhodnutím učiněným při výkonu dohlédací činnosti, nestanoví-li zákon jinak.
 
-> **Dohlédací činnost** je *koncepčně odlišná* od běžné soudní činnosti v civilním procesu. Insolvenční soud nemá pouze rozhodovat o předložených návrzích — má **aktivně sledovat** a usměrňovat proces. V tom je systémově podobnější soudu nesporného řízení (např. opatrovnickému) než sporné civilní agendě.
+### Souvisící předpisy
 
-### Vazby a souvislosti
+- **Zákon č. 99/1963 Sb., občanský soudní řád** — použije se v mezích § 7 insolvenčního zákona přiměřeně, nestanoví-li insolvenční zákon jinak a není-li takový postup v rozporu se zásadami insolvenčního řízení.
 
-- **§ 11** — obsah dohlédací činnosti.
-- **§ 32, § 81** — sankční nástroje soudu vůči správci.
-- **§ 84, § 91** — opravné prostředky proti rozhodnutím soudu (v podstatě podstatně omezené).
+### Z důvodové zprávy
 
-### Praktická poznámka
+Zvláštní část důvodové zprávy k vládnímu návrhu insolvenčního zákona, sněmovní tisk 1120/0, společně k § 10 až 13 uvádí, že úprava formulačně zpřesňuje postavení insolvenčního soudu a vystihuje jeho dvojí roli: rozhodovací činnost a dohled nad dalšími procesními subjekty. Návrh v této části navazoval na tehdejší úpravu; důvodová zpráva nepodává samostatný výčet úkonů podle písmene a) nebo b).
 
-V praxi je rozsah dohlédací činnosti velmi různý — některé soudy a soudce velmi aktivně sledují a usměrňují (zejména krajské soudy v Praze a Brně), jiné spíše čekají na podání. Pro správce to znamená potřebu pečlivě dokumentovat svůj postup a komunikovat se soudem proaktivně.
+### Literatura
 
-### F. Kazuistika
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní literární rešerše.
 
-**1. Modelová situace.** V konkursu na dlužníka D správce S předloží soupis majetkové podstaty a oznámí, že hodlá nemovitost zpeněžit z volné ruky za nabídnutou cenu. Věřitel V upozorní soud, že cena je podhodnocená a že existuje vyšší nabídka. Soud zvažuje, zda do postupu správce zasáhnout, ač žádný formální „návrh" o zpeněžení mu předložen nebyl. Důkazy: soupis podstaty, znalecký posudek o ceně, konkurující nabídka, zápis z věřitelského výboru.
+### Výklad
 
-**2. Právní otázka.** Opravňuje § 10 písm. b) (dohlédací činnost) soud k tomu, aby z vlastní iniciativy zasáhl do způsobu zpeněžování majetku správcem, i bez návrhu účastníka?
+[1] **Dvě role soudu.** Písmeno a) pokrývá vydávání rozhodnutí, jejichž vydání zákon ukládá nebo předpokládá. Písmeno b) zakládá průběžný dohled nad postupem a činností ostatních procesních subjektů a označuje rozhodování o souvisejících záležitostech jako dohlédací činnost. Jde o zákonné členění funkcí, nikoli o úplný katalog pravomocí.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 10 — dvě funkce soudu: rozhodovací činnost (písm. a) a průběžná dohlédací činnost (písm. b).
-- *Související ustanovení téhož zákona:* § 11 (obsah dohlédací činnosti — pokyny správci), § 32 (odvolání správce), § 81 (pořádková pokuta), § 84 a § 91 (omezené opravné prostředky proti rozhodnutím soudu), § 289 (zpeněžení z volné ruky se souhlasem soudu a věřitelského výboru).
-- *Související předpisy:* OSŘ subsidiárně (§ 7 IZ); vyhláška o jednacím řádu pro insolvenční řízení.
-- *Judikatura:* nosný závěr (III.ÚS 2432/14) — rozhodnutí učiněné při výkonu dohlédací činnosti soud neváže, může je kdykoli změnit, aniž je k tomu třeba opravný prostředek.
+[2] **§ 10 a § 11 je třeba číst společně.** § 10 písm. b) dohlédací činnost pojmenovává a vymezuje jejím předmětem. § 11 odst. 1 stanoví, že při ní soud rozhoduje o záležitostech průběhu řízení, činí opatření potřebná k zajištění jeho účelu a ukládá povinnosti týkající se činnosti subjektů řízení. Odstavec 2 pak výslovně vypočítává kontrolní a pokynová oprávnění vůči insolvenčnímu správci.
 
-**4. Subsumpce.** Postup zpeněžování spadá pod „činnost ostatních procesních subjektů", nad níž soud průběžně vykonává dohled (písm. b). Soud je proto oprávněn vyžadovat vysvětlení a dát pokyn i bez formálního návrhu. Zároveň jde o rozhodovací činnost (písm. a) tam, kde zákon vydání rozhodnutí předpokládá (souhlas se zpeněžením mimo dražbu — § 289).
+[3] **Kvalifikace rozhodnutí má procesní následky.** Proti rozhodnutím učiněným při výkonu dohlédací činnosti včetně předběžných opatření není podle § 91 odvolání přípustné, pokud zákon nestanoví jinak. Výjimku tedy nelze založit obecným tvrzením o spravedlivosti přezkumu; musí plynout ze zákona. Současně nelze každé rozhodnutí vydané v insolvenčním řízení označit za dohlédací jen proto, že ovlivňuje jeho průběh.
 
-**5. Řešení.** Soud může na základě dohlédací pravomoci vyzvat S k vysvětlení, uložit pokyn (např. neprodávat za nabídnutou cenu, vyžádat stanovisko věřitelského výboru) a v krajním případě užít sankční nástroje (§ 81, § 32). Dohlédací činnost je aktivní — soud nečeká pasivně na návrhy. Riziko: soud nesmí nahrazovat odbornou úvahu správce tam, kde mu zákon dispozici svěřuje; pokyn musí mít oporu v zákoně (zásada zákonnosti).
+[4] **Meze obecného rámce.** Konkrétní oprávnění či povinnost soudu je třeba spojit s příslušným ustanovením insolvenčního zákona. § 10 nepředstavuje samostatnou náhradu zvláštních podmínek, které zákon stanoví pro jednotlivá rozhodnutí. Stejně tak přiměřené použití občanského soudního řádu podléhá mezím § 7 insolvenčního zákona.
 
-**6. Varianty.** (a) Kdyby šlo o zpeněžení ve veřejné dražbě bez pochybností o ceně, prostor pro dohlédací zásah by byl minimální. (b) Kdyby správce postupoval podle závazného pokynu věřitelského výboru a v souladu s § 289, soud by zásah neodůvodnil pouhou odlišnou představou o ceně.
+[5] **Časová použitelnost.** Text § 10 v oficiálním úplném znění účinném od 1. 1. 2026 odpovídá dvojímu vymezení popsanému již původní důvodovou zprávou. Pro výklad k 19. 7. 2026 nebyla zjištěna zvláštní intertemporální otázka vztahující se přímo k tomuto ustanovení; časové znění zvláštních ustanovení, podle nichž soud konkrétně jedná, je však nutné posuzovat samostatně.
 
-### G. Protiargumenty a rizika
+### Judikatura
 
-- *„Soud rozhoduje jen o tom, co mu účastníci předloží."* To platí ve sporném civilním procesu, ne zde — insolvenční soud má z § 10 písm. b) aktivní dohlédací roli (systémově blíže nespornému řízení).
-- *„Dohlédací rozhodnutí je pravomocné a nezměnitelné."* Naopak — dle III.ÚS 2432/14 jím soud není vázán a může je kdykoli změnit; tomu odpovídá i nepřípustnost odvolání (§ 91).
-- *Slabé místo:* hranice mezi dohledem a nepřípustným zásahem do odborné dispozice správce je neostrá; argumentovat nutno zákonností pokynu a účelem řízení (§ 5).
-
-### H. Praktický závěr
-
-Paragraf 10 vymezuje dvojí roli soudu — rozhoduje (a) a zároveň průběžně dohlíží (b). Dohlédací činnost je nástroj rychlého a aktivního řízení procesu; rozhodnutí v jejím rámci soud nevážou a nelze proti nim zpravidla brojit opravným prostředkem.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Rozliš, zda jde o rozhodovací činnost (písm. a — zákon ukládá/předpokládá rozhodnutí) nebo dohlédací (písm. b).
-- [ ] U dohlédacího rozhodnutí počítej s tím, že soud jím není vázán a odvolání zpravidla není přípustné (§ 91).
-- [ ] Správce: dokumentuj postup proaktivně a komunikuj se soudem, počítej s možností pokynu.
-- [ ] Při návrhu na zásah soudu argumentuj účelem řízení a zákonností požadovaného pokynu, ne pouhou nespokojeností.
-
-**Typicky rozhodné důkazy / podklady:** soupis majetkové podstaty, zprávy a vysvětlení správce, znalecké posudky, zápisy věřitelského výboru, dosavadní usnesení soudu v řízení.
+- **Ústavní soud, usnesení ze dne 29. 7. 2014, sp. zn. III. ÚS 2432/14.** V insolvenční věci týkající se souhlasu s prodejem nemovitostí mimo dražbu a následného pokynu majetek nezpeněžovat Ústavní soud popsal, že insolvenční soud považoval své předchozí rozhodnutí za dohlédací a odvolací soud odmítl odvolání s odkazem na § 91. Ústavní stížnost však byla odmítnuta zčásti pro nepříslušnost a zčásti pro opožděnost. Usnesení proto není věcným přezkumem ani obecně nosnou autoritou pro závěr, že každé dohlédací rozhodnutí lze kdykoli změnit.
 
 ---
 

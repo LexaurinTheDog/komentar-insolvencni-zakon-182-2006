@@ -592,71 +592,66 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento ú
 
 ## § 7b — Místní příslušnost
 
-### Výklad
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
 
 > (1) Pro insolvenční řízení je příslušný soud, v jehož obvodu je obecný soud dlužníka. Pro insolvenční řízení proti dlužníku, který je zapsán v obchodním rejstříku, je příslušný soud, v jehož obvodu byl obecný soud dlužníka ke dni, který předchází o 6 měsíců okamžik zahájení insolvenčního řízení; není-li takový soud, je příslušný soud podle věty první.
-
-Místní příslušnost se odvíjí od **obecného soudu dlužníka** (zpravidla bydliště FO / sídlo PO podle § 84 — 88 OSŘ). Pro PO zapsanou v OR je rozhodný stav **6 měsíců před zahájením řízení** — protiopatření proti tzv. *forum shoppingu* (přesun sídla těsně před úpadkem).
-
-> (2) Jde-li o insolvenční řízení, v němž se má řešit úpadek nebo hrozící úpadek osoby tvořící s dlužníkem **koncern**, je vedle soudu uvedeného v odstavci 1 k řízení příslušný také insolvenční soud, u něhož probíhá insolvenční řízení řešící úpadek nebo hrozící úpadek dlužníka, který s touto osobou tvoří koncern.
-
-Odst. 2 umožňuje **koncentraci řízení v rámci koncernu** — pro „skupinovou insolvenci". Výhody: konzistentní rozhodování o vzájemně provázaných úpadcích, jeden správce může vidět celou skupinu, ekonomicky efektivnější (např. společný prodej skupiny jako going concern).
-
+>
+> (2) Jde-li o insolvenční řízení, v němž se má řešit úpadek nebo hrozící úpadek osoby tvořící s dlužníkem koncern, je vedle soudu uvedeného v odstavci 1 k řízení příslušný také insolvenční soud, u něhož probíhá insolvenční řízení řešící úpadek nebo hrozící úpadek dlužníka, který s touto osobou tvoří koncern.
+>
 > (3) Jde-li o insolvenční řízení, v němž se má řešit úpadek nebo hrozící úpadek dlužníka, který je zahraniční osobou, a nebrání-li tomu přímo použitelný předpis práva Evropské unie, lze insolvenční řízení zahájit i u insolvenčního soudu, v jehož obvodu je v České republice umístěn podnik nebo organizační složka podniku takového dlužníka.
-
-Odst. 3 řeší **přeshraniční insolvence** mimo režim Nařízení (EU) 2015/848 (např. dlužník ze třetího státu s pobočkou v ČR). Pro EU dlužníky platí přímo Nařízení 2015/848 (zejména pravidlo *COMI* — Center of Main Interests).
-
+>
 > (4) Insolvenční soud je příslušný ve věcech uvedených v § 7a písm. b) až e).
+>
+> (5) Insolvenční soud, u něhož insolvenční řízení probíhá, učiní i před rozhodnutím o místní příslušnosti opatření, která nesnesou odkladu, a rozhodne o jmenování prozatímního věřitelského výboru, o jmenování předběžného správce, o tom, že se insolvenční návrh ani jiné dokumenty v insolvenčním rejstříku nezveřejňují, o odmítnutí insolvenčního návrhu nebo o odmítnutí insolvenčního návrhu pro zjevnou bezdůvodnost.
 
-Místní příslušnost pro incidenční spory a další agendy podle § 7a — **tentýž** soud, který vede vlastní insolvenční řízení.
+### Přehled výkladu
 
-### Vazby
+Paragraf 7b určuje konkrétní místně příslušný insolvenční soud. Základním spojovacím kritériem je obvod obecného soudu dlužníka; u dlužníka zapsaného v obchodním rejstříku se však vychází ze stavu přesně šest měsíců před zahájením insolvenčního řízení. Odstavec 2 zakládá další, alternativní příslušnost pro koncernovou situaci. Odstavec 3 je v přeshraničních věcech použitelný jen tehdy, nebrání-li tomu přímo použitelné právo Evropské unie. Odstavec 4 navazuje na agendy § 7a písm. b) až e) a odstavec 5 zachovává taxativně vymezené neodkladné pravomoci soudu před vyřešením místní příslušnosti.
 
-- **Nařízení (EU) 2015/848**, čl. 3 — COMI test pro hlavní řízení v EU; čl. 3 odst. 2 — sekundární řízení.
-- **OSŘ § 84 — § 88** — obecná místní příslušnost.
-- **Zákon č. 90/2012 Sb., ZOK § 79** — definice koncernu.
+### Souvisící ustanovení
 
-### Praktická poznámka
+- § 2 písm. b) — pojem insolvenčního soudu.
+- § 7a — věcná příslušnost krajských soudů.
+- § 97 odst. 1 — zahájení insolvenčního řízení dnem, kdy insolvenční návrh dojde věcně příslušnému soudu.
+- § 100a, § 128 a § 128a — rozhodnutí výslovně uvedená v § 7b odst. 5.
+- § 160 odst. 1 — incidenční spor projedná a rozhodne insolvenční soud.
 
-- **Forum shopping** — strategický přesun sídla těsně před úpadkem nepomůže: rozhoduje stav 6 měsíců před zahájením řízení. Stejně tak pro evropské řízení platí *look-back period* 3 měsíců (čl. 3 odst. 1 Nařízení 2015/848).
-- **Skupinová insolvence** (odst. 2) je v praxi využívaná zřídka, ale otevírá zajímavé strategické možnosti pro restrukturalizace koncernů.
+### Souvisící předpisy
 
-### F. Kazuistika
+- § 84 až § 86 občanského soudního řádu, zejména § 85 a § 85a — obecný soud dlužníka a určení krajského soudu, řídí-li se místní příslušnost obecným soudem účastníka.
+- čl. 3 nařízení Evropského parlamentu a Rady (EU) 2015/848 — mezinárodní příslušnost k hlavnímu a územnímu insolvenčnímu řízení; v unijním rozsahu má toto přímo použitelné pravidlo přednost.
 
-**1. Modelová situace.** Dlužník — společnost zapsaná v obchodním rejstříku — přesune **dva měsíce** před podáním insolvenčního návrhu své sídlo z obvodu Krajského soudu v Ostravě do obvodu Krajského soudu v Praze (kde očekává příznivější praxi). Věřitel podává insolvenční návrh a řeší, který soud je místně příslušný. Dlužník je navíc součástí koncernu, jehož mateřská společnost už je v insolvenci u Krajského soudu v Ostravě. Důkazy: výpis z obchodního rejstříku s historií sídla, datum změny sídla, doklad o existenci koncernu (ovládací vztahy dle § 79 ZOK), spis o probíhající insolvenci mateřské společnosti.
+### Z důvodové zprávy
 
-**2. Právní otázka.** Který insolvenční soud je místně příslušný, přesunul-li dlužník zapsaný v OR sídlo 2 měsíce před zahájením řízení, a lze řízení vést u soudu, kde probíhá insolvence jiné osoby téhož koncernu?
+Důvodová zpráva k zákonu č. 294/2013 Sb. (sněmovní tisk 929/0, zvláštní část k bodům 3 a 4) vysvětlila, že § 7b převzal pravidla místní příslušnosti dříve obsažená v občanském soudním řádu. Odstavec 3 označila za pojistku pro případ, kdy nelze příslušnost zjistit podle obecného soudu dlužníka, a u odstavce 4 rozlišila příslušný insolvenční soud podle jednotlivých kategorií § 7a písm. b) až e).
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 7b odst. 1 (příslušnost dle obecného soudu dlužníka; u osoby zapsané v OR rozhodný stav **6 měsíců** před zahájením řízení — anti-forum-shopping), odst. 2 (koncentrace řízení v rámci koncernu), odst. 3 (přeshraniční prvek), odst. 4 (příslušnost pro věci § 7a písm. b)–e)).
-- *Související ustanovení téhož zákona:* § 7a (věcná příslušnost), § 97 a násl. (zahájení řízení).
-- *Související předpisy:* OSŘ § 84–88 (obecná místní příslušnost); zákon č. 90/2012 Sb. (ZOK) § 79 (definice koncernu); Nařízení (EU) 2015/848 čl. 3 (COMI test, *look-back* 3 měsíce u změny COMI).
-- *Judikatura:* nosný závěr, že účelová změna sídla těsně před úpadkem nemění příslušnost, neboť rozhoduje stav 6 měsíců před zahájením řízení (ochrana proti forum shoppingu).
+Šestiměsíční pravidlo a odstavec 5 pocházejí až ze zákona č. 64/2017 Sb. Důvodová zpráva k jeho vládnímu návrhu (sněmovní tisk 785/0, zvláštní část k bodům 1 a 2, str. 139 až 142 dokumentu) odůvodnila fixaci příslušnosti prevencí účelových změn sídla a dostupností historie sídla v obchodním rejstříku. Odstavec 5 měl zabránit tomu, aby spor o místní příslušnost znemožnil neodkladnou ochranu majetku nebo rychlé odmítnutí vadného či zjevně bezdůvodného návrhu. Jde o historické vysvětlení; rozsah oprávnění určuje taxativní text účinného zákona.
 
-**4. Subsumpce.** Dlužník je zapsán v OR → podle § 7b odst. 1 věty druhé je rozhodný obecný soud **ke dni 6 měsíců před zahájením řízení**. Změna sídla **2 měsíce** před zahájením spadá do *look-back* okna → příslušnost zůstává u **Krajského soudu v Ostravě** (původní sídlo). Existence koncernu navíc podle odst. 2 zakládá *vedle* soudu dle odst. 1 také příslušnost soudu, u něhož běží insolvence osoby téhož koncernu (zde rovněž Ostrava) — obojí směřuje ke koncentraci v Ostravě.
+### Literatura
 
-**5. Řešení.** Místně příslušný je Krajský soud v Ostravě. Účelový přesun sídla do Prahy je neúčinný pro určení příslušnosti. Věřitel podá návrh k ostravskému soudu; pro koncernovou provázanost lze koncentraci u téhož soudu i odůvodnit odst. 2 (jeden správce vidí celou skupinu, efektivnější prodej going concern). Riziko: podání k pražskému soudu by vedlo k řešení nepříslušnosti a průtahům.
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto sdělení není výsledkem negativní rešerše.
 
-**6. Varianty.** (a) Kdyby dlužník přesunul sídlo **více než 6 měsíců** před zahájením řízení, byl by rozhodný nový obecný soud (Praha) — *look-back* okno by uplynulo. (b) Kdyby šlo o dlužníka s COMI v jiném členském státě EU, použilo by se přímo Nařízení 2015/848 (čl. 3, *look-back* 3 měsíce u přesunu COMI), nikoli § 7b odst. 1.
+### Výklad
 
-### G. Protiargumenty a rizika
+[1] **Základní pravidlo.** „Obecný soud dlužníka“ je okresní soud určený zejména podle § 85 OSŘ. Protože insolvenční věci v prvním stupni rozhodují krajské soudy, konkrétní insolvenční soud se určí prostřednictvím § 85a OSŘ jako krajský soud, v jehož obvodu se tento obecný soud nachází. U osoby zapsané v obchodním rejstříku se obecný soud zjišťuje ke dni, který přesně o šest měsíců předchází okamžiku zahájení řízení. Jen pokud takový soud neexistuje, nastupuje stav podle první věty odstavce 1.
 
-- *Protiargument:* „Rozhoduje aktuální zapsané sídlo ke dni podání návrhu." — Neutralizace: u osoby zapsané v OR je dle § 7b odst. 1 věty druhé rozhodný stav **6 měsíců** před zahájením řízení; aktuální (účelově změněné) sídlo se neprosadí.
-- *Protiargument:* „Koncernová příslušnost (odst. 2) je výlučná a vždy přebíjí odst. 1." — Neutralizace: odst. 2 zakládá příslušnost **vedle** soudu dle odst. 1 (alternativně), nikoli výlučně; jde o možnost koncentrace, nikoli povinnost.
-- *Slabé místo:* prokázání existence koncernu (§ 79 ZOK) může být sporné; u přeshraničních případů je hranice mezi § 7b odst. 3 a přímo použitelným Nařízením 2015/848 zdrojem kolizí.
+[2] **Rozsah šestiměsíčního pravidla.** Text nerozhoduje podle motivu změny sídla a nevyžaduje dokazování, zda šlo o účelový přesun. Rozhodující je zápis dlužníka v obchodním rejstříku a historický obecný soud v zákonem určeném dni. Na dlužníka, který v obchodním rejstříku zapsán není, se druhá věta odstavce 1 nevztahuje.
 
-### H. Praktický závěr
+[3] **Koncern.** Odstavec 2 používá slovo „vedle“: příslušnost soudu podle odstavce 1 nezaniká, ale přistupuje k ní soud, u něhož již probíhá insolvenční řízení řešící úpadek nebo hrozící úpadek jiné osoby téhož koncernu. Ustanovení tedy vytváří alternativu, nikoli automatický převod všech koncernových řízení k jedinému soudu.
 
-Paragraf 7b určuje místní příslušnost podle obecného soudu dlužníka, přičemž u osob zapsaných v OR brání forum shoppingu *look-back* okno 6 měsíců. Odst. 2 umožňuje koncentraci koncernových insolvencí, odst. 3 řeší přeshraniční prvek mimo Nařízení 2015/848 a odst. 4 váže navazující agendy § 7a na týž soud.
+[4] **Zahraniční osoba a právo EU.** Odstavec 3 je vnitrostátním pravidlem podmíněným tím, že mu nebrání přímo použitelný předpis Evropské unie. V působnosti nařízení (EU) 2015/848 je proto nutné nejprve posoudit mezinárodní příslušnost podle jeho čl. 3, zejména středisko hlavních zájmů dlužníka a u územního řízení existenci provozovny. Teprve poté lze řešit vnitrostátní určení konkrétního českého soudu.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Je dlužník zapsán v OR → uplatní se rozhodný stav 6 měsíců před zahájením řízení?
-- [ ] Nedošlo k účelové změně sídla v *look-back* okně?
-- [ ] Je dlužník součástí koncernu (§ 79 ZOK) → možnost koncentrace dle odst. 2?
-- [ ] Má věc přeshraniční prvek → použije se přímo Nařízení 2015/848 (COMI) místo odst. 3?
-- [ ] Podává se incidenční/navazující agenda § 7a u téhož soudu (odst. 4)?
+[5] **Navazující věci.** Odstavec 4 určuje místní příslušnost ve věcech § 7a písm. b) až e) odkazem na „insolvenční soud“. Konkrétní vazba se liší podle povahy věci: u incidenčního sporu ji doplňuje § 160 odst. 1; u dalších kategorií jde o soud insolvenčního řízení, k němuž se daný nárok vztahuje.
 
-**Typicky rozhodné důkazy / podklady:** výpis z OR s historií sídla a daty změn, doklady o ovládacích vztazích (koncern), spisová značka probíhající insolvence osob koncernu, podklady k určení COMI u zahraničního prvku.
+[6] **Úkony před rozhodnutím o příslušnosti.** Odstavec 5 brání procesnímu vakuu. Soud, u něhož řízení probíhá, musí učinit opatření nesnesoucí odkladu a před rozhodnutím o místní příslušnosti rozhoduje jen ve výslovně vyjmenovaných věcech. Toto pravidlo z něj nečiní obecně místně příslušný soud pro meritorní rozhodnutí o úpadku.
+
+[7] **Intertemporalita.** Paragraf 7b byl vložen zákonem č. 294/2013 Sb. s účinností od 1. ledna 2014; novela se použila i na dříve zahájená insolvenční řízení při zachování již nastalých právních účinků. Zákon č. 64/2017 Sb., účinný od 1. července 2017, stejným procesním přechodným pravidlem doplnil druhou větu odstavce 1 a nový odstavec 5. U staršího řízení je proto nutné oddělit použitelné procesní pravidlo od účinků úkonů nastalých před účinností příslušné novely.
+
+### Judikatura
+
+- **Nejvyšší soud, rozsudek ze dne 23. 9. 2021, sen. zn. 29 ICdo 142/2019, ECLI:CZ:NS:2021:29.ICDO.142.2019.1, R 31/2022.** Ve vylučovacím sporu navazujícím na insolvenční řízení zahájené návrhem z 5. 9. 2014 Nejvyšší soud v odstavci 25 úplného odůvodnění reprodukoval rozhodná pravidla § 7a písm. b), § 7b odst. 4 a § 160 odst. 1 a v odstavci 33 podřadil případný spor o dané určení režimu incidenčního sporu. V odstavci 26 ověřil rozhodné časové znění. Rozhodnutí je proto použitelné pro vazbu odstavce 4 na incidenční spor; nepodporuje samostatné závěry o šestiměsíčním pravidle odstavce 1.
 
 ---
 

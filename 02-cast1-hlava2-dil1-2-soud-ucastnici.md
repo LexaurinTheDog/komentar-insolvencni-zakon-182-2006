@@ -362,61 +362,58 @@ Odborná literatura nebyla v tomto kole hodnocena; její zpracování je odlože
 
 ## § 15 — Účastenství jiných osob
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Nejde-li o přihlášené věřitele, jsou jiné osoby uplatňující své právo v insolvenčním řízení účastníky tohoto řízení jen po dobu, po kterou insolvenční soud o tomto právu jedná a rozhoduje.
+
+### Přehled výkladu
+
+Ustanovení vymezuje časově omezené účastenství osob, které nejsou přihlášenými věřiteli a v insolvenčním řízení uplatňují vlastní právo. Samotný právní nebo hospodářský zájem na průběhu řízení nestačí. Účastenství se vztahuje pouze na úsek, v němž insolvenční soud o uplatněném právu jedná a rozhoduje; § 15 z takové osoby nečiní účastníka celého insolvenčního řízení.
+
+Typickým zákonodárcem výslovně zamýšleným případem jsou věřitelé s pohledávkami za majetkovou podstatou a věřitelé s obdobnou pozicí. Jejich pohledávky se podle § 203 uplatňují jinak než přihláškou. Je však nutné oddělit účastenství podle § 15 v insolvenčním řízení od účastenství v samostatném incidenčním sporu, které určuje § 16.
+
+### Souvisící ustanovení
+
+- § 9 — výčet procesních subjektů; ne každý procesní subjekt je účastníkem řízení;
+- § 14 — základní vymezení účastníků insolvenčního řízení;
+- § 16 — účastníci incidenčních sporů;
+- § 168 a § 169 — pohledávky za majetkovou podstatou a pohledávky jim postavené na roveň;
+- § 203 — uplatnění a uspokojování těchto pohledávek; žaloba o jejich splnění není incidenčním sporem;
+- § 203a — incidenční spor o pořadí pohledávky uplatněné podle § 203;
+- § 224 a § 225 — vyrozumění o soupisu a vylučovací žaloba; účastníky tohoto incidenčního sporu určuje § 16.
+
+### Souvisící předpisy
+
+- § 201 a § 218 písm. b) občanského soudního řádu — oprávnění účastníka podat odvolání a odmítnutí odvolání podaného neoprávněnou osobou; použijí se přiměřeně prostřednictvím § 7 insolvenčního zákona, nestanoví-li insolvenční zákon jinak a není-li takový postup v rozporu se zásadami insolvenčního řízení.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, ve zvláštní části k § 15 označuje za zamýšlený případ věřitele za majetkovou podstatou a další věřitele s obdobnou pozicí. Jejich postavení popisuje jako účastenství jen pro určitý úsek řízení. Důvodová zpráva tak podporuje časové a věcné omezení účastenství; nerozšiřuje však text zákona na osoby, které v řízení vlastní právo neuplatňují.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto konstatování není výsledkem negativní rešerše.
 
 ### Výklad
 
-Paragraf 15 řeší situaci, kdy v insolvenčním řízení uplatní právo někdo, kdo není věřitel přihlášené pohledávky. Typicky:
-- **třetí osoba**, která se domáhá vyloučení věci ze soupisu majetkové podstaty (vylučovací žaloba — § 225; vyrozumění o soupisu adresované této osobě upravuje § 224),
-- **osoba uplatňující pohledávku za podstatou** (§ 168) nebo na roveň postavenou (§ 169) — tu nepřihlašuje, ale uplatňuje jiným způsobem,
-- **třetí osoba**, která se domáhá vrácení věci ze zajištění (§ 167 odst. 3 v některých případech).
+[1] **Předpoklady.** § 15 dopadá tehdy, jestliže osoba není přihlášeným věřitelem, v insolvenčním řízení uplatňuje své vlastní právo a insolvenční soud o tomto právu jedná a rozhoduje. Nestačí, že výsledek řízení může ovlivnit její faktické, profesní nebo hospodářské zájmy.
 
-Tyto osoby jsou účastníky **pouze ve vztahu k tomu konkrétnímu úkonu/rozhodnutí**, které jejich práva řeší — *účastenství ad hoc*. Skončením rozhodování jejich účastenství zaniká.
+[2] **Rozsah a trvání.** Zákon váže účastenství na dobu soudního jednání a rozhodování o konkrétním právu. Procesní oprávnění proto nelze bez dalšího přenášet do jiných úseků insolvenčního řízení ani z § 15 dovozovat obecné oprávnění napadat rozhodnutí, která se uplatněného práva netýkají.
 
-### Vazby
+[3] **Věřitelé bez přihlášky.** Pohledávky za majetkovou podstatou a pohledávky jim postavené na roveň vymezují § 168 a § 169. Není-li stanoveno jinak, věřitel je podle § 203 odst. 1 uplatňuje písemně vůči osobě s dispozičními oprávněními a současně vyrozumí insolvenčního správce. Nejsou-li včas a plně uspokojeny, žaloba podle § 203 odst. 4 není incidenčním sporem.
 
-- **§ 168, § 169** — pohledávky za podstatou a pohledávky postavené na roveň.
-- **§ 224, § 225** — vylučovací žaloba, excindace věcí ze soupisu.
+[4] **Spor o pořadí.** Vzniknou-li pochybnosti, zda pohledávka uplatněná podle § 203 má tvrzené přednostní pořadí, může následovat žaloba podle § 203a. Teprve řízení o této žalobě je incidenčním sporem; jeho účastníky určuje § 16, nikoli § 15.
 
-### Praktická poznámka
+[5] **Vylučovací spor.** Osoba, která tvrdí právo vylučující majetek ze soupisu, je v řízení o vylučovací žalobě žalobcem. Jde o incidenční spor podle § 159 odst. 1 písm. b) a § 225, takže jeho účastenství se řídí § 16. Z pouhého vyrozumění o soupisu ani z postavení žalobce v tomto sporu nelze bez samostatného zákonného důvodu dovodit účastenství v jiných úsecích insolvenčního řízení podle § 15.
 
-Při sporu o vyloučení věci z podstaty je třetí osoba účastníkem incidenčního sporu (§ 225 — vylučovací žaloba). To jí umožňuje plně bránit svá vlastnická práva.
+[6] **Procesní subjekt a účastník.** Výčet procesních subjektů v § 9 je širší než okruh účastníků. Například insolvenční správce je procesním subjektem, avšak jen tato kvalifikace mu nezakládá účastenství podle § 15. Rozhodující je uplatnění vlastního práva v konkrétním úseku řízení.
 
-### F. Kazuistika
+### Judikatura
 
-**1. Modelová situace.** Správce S sepíše do majetkové podstaty dlužníka osobní automobil, který však ve skutečnosti patří leasingové společnosti L (dlužník byl jen leasingovým nájemcem). L se domáhá vyřazení vozu, podává soudu podání, jímž uplatňuje své vlastnické právo, a žádá, aby v této věci jednal soud. Současně dodavatel P uplatňuje pohledávku za podstatou (§ 168) z titulu dodávek po rozhodnutí o úpadku. Důkazy: leasingová smlouva a doklad o vlastnictví vozu, soupis podstaty, vyrozumění o soupisu (§ 224), faktury dodavatele P.
-
-**2. Právní otázka.** V jakém rozsahu a po jakou dobu je osoba, která není přihlášeným věřitelem, ale uplatňuje v řízení své právo (vlastník sepsané věci, věřitel za podstatou), účastníkem insolvenčního řízení podle § 15?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 15 — jiné osoby uplatňující právo jsou účastníky jen po dobu, po kterou o tomto právu soud jedná a rozhoduje (účastenství ad hoc).
-- *Související ustanovení téhož zákona:* § 168 a § 169 (pohledávky za podstatou a postavené na roveň — neuplatňují se přihláškou), § 224 (vyrozumění o soupisu), § 225 (vylučovací žaloba), § 14 (účastníci řízení).
-- *Související předpisy:* OSŘ subsidiárně (§ 7 IZ); OZ (vlastnické právo, leasing).
-- *Judikatura:* nosný závěr — osoba domáhající se vyloučení věci ze soupisu je účastníkem incidenčního sporu o vyloučení (§ 225) a může plně hájit vlastnické právo; mimo rozsah svého práva účastníkem hlavního řízení není.
-
-**4. Subsumpce.** L není přihlášený věřitel — je „jinou osobou uplatňující právo" (vlastnictví vozu). Účastníkem je jen ve vztahu k otázce vyloučení věci, a to po dobu, kdy o ní soud jedná a rozhoduje. Totéž platí pro P ohledně jeho pohledávky za podstatou. Po skončení rozhodování o těchto právech jejich účastenství zaniká.
-
-**5. Řešení.** Postavení L se realizuje primárně cestou vylučovací žaloby (§ 225) — v tom incidenčním sporu je L plnohodnotným účastníkem (§ 16). V hlavním řízení má L účastenství jen ad hoc k otázce svého práva. P uplatní pohledávku za podstatou postupem dle § 168/§ 203, nikoli přihláškou; účastníkem je rovněž jen ve vztahu k této otázce. Riziko: zmeškání vylučovací žaloby ve lhůtě (§ 225 odst. 2) může vést k tomu, že platnost soupisu se již nepřezkoumá.
-
-**6. Varianty.** (a) Kdyby L byla naopak přihlášeným věřitelem s pohledávkou, řídilo by se její postavení § 14, ne § 15. (b) Kdyby věc nebyla sepsána do podstaty, L by neměla důvod uplatňovat právo v řízení a § 15 by se neaplikoval.
-
-### G. Protiargumenty a rizika
-
-- *„Kdo uplatní právo v insolvenci, je účastníkem celého řízení."* Ne — u jiných osob než přihlášených věřitelů je účastenství omezeno rozsahem a dobou rozhodování o jejich právu (§ 15, účastenství ad hoc).
-- *„Vlastník sepsané věci se brání jen podáním do hlavního řízení."* Nepřesné — řádnou obranou je vylučovací žaloba (§ 225), kde je plnohodnotným účastníkem incidenčního sporu.
-- *Slabé místo:* určení počátku a konce účastenství ad hoc může být sporné; nutno navázat na konkrétní úkon/rozhodnutí, jehož se právo osoby týká.
-
-### H. Praktický závěr
-
-Paragraf 15 zavádí účastenství ad hoc pro osoby, které nejsou přihlášenými věřiteli, ale uplatňují v řízení své právo (vlastníci sepsaných věcí, věřitelé za podstatou). Jsou účastníky jen po dobu rozhodování o tomto právu; řádnou obranou vlastníka je vylučovací žaloba.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Urči, zda osoba je přihlášený věřitel (§ 14) nebo „jiná osoba uplatňující právo" (§ 15 — účastenství ad hoc).
-- [ ] U vlastníka sepsané věci nasměruj obranu na vylučovací žalobu (§ 225) a hlídej lhůtu.
-- [ ] U pohledávek za podstatou/postavených na roveň (§ 168/§ 169) uplatňuj je mimo přihlášku, příslušným postupem.
-- [ ] Vymez počátek a konec účastenství ad hoc podle konkrétního úkonu/rozhodnutí o právu osoby.
-
-**Typicky rozhodné důkazy / podklady:** doklad o vlastnictví/oprávnění k věci, leasingová či jiná smlouva, soupis majetkové podstaty a vyrozumění o soupisu (§ 224), faktury a doklady k pohledávce za podstatou.
+- **Vrchní soud v Praze, usnesení ze dne 30. 5. 2011, sen. zn. 3 VSPH 9/2011, ECLI:CZ:VSPH:2011:3.VSPH.9.2011.1, R 132/2011.** Insolvenční správce jiného dlužníka se odvoláním domáhal, aby byl s ohledem na koncernové propojení ustanoven správcem také v posuzovaném řízení. Odvolací soud odvolání odmítl: § 25 odst. 2 mu nezakládal osobní právo na ustanovení, a proto v řízení neuplatňoval vlastní právo a nebyl účastníkem ani podle § 15. Rozhodnutí potvrzuje rozdíl mezi vlastním právem a pouhým zájmem na výsledku. Text § 15 použitý soudem odpovídá znění účinnému k 19. 7. 2026; pozdější úprava ustanovení nosný závěr nepřekonala.
+- **Nejvyšší soud, usnesení ze dne 16. 12. 2025, sen. zn. 29 ICdo 116/2025, ECLI:CZ:NS:2025:29.ICDO.116.2025.1, R 44/2026.** Ve sporu o pohledávku, kterou insolvenční správkyně přihlásila do insolvenčního řízení téhož dlužníka, Nejvyšší soud v odstavcích 23 až 28 vyložil okruh účastníků podle § 14 se zohledněním § 15 a současně oddělil účastenství v insolvenčním řízení od účastenství v incidenčním sporu podle § 16. Dlužník nemůže ve vlastním insolvenčním řízení vystupovat zároveň jako svůj vlastní věřitel; to platí i pro pohledávky uplatňované jinak než přihláškou. Odstavec 24 výslovně ověřuje rozhodné znění a přechodný režim zákona č. 252/2024 Sb.; závěr je použitelný i k rozhodnému dni komentáře.
 
 ---
 

@@ -303,57 +303,55 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento ú
 
 ## § 26 — Odvolání proti rozhodnutí o ustanovení správce
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Proti rozhodnutí o ustanovení insolvenčního správce je odvolání přípustné. V odvolání lze však namítat pouze to, že ustanovený insolvenční správce nesplňuje podmínky pro ustanovení nebo že není nepodjatý. Ke skutečnostem, které nastaly nebo vznikly po vydání rozhodnutí soudu prvního stupně, se v odvolacím řízení nepřihlíží.
+
+### Přehled výkladu
+
+§ 26 připouští odvolání proti rozhodnutí o ustanovení insolvenčního správce, ale omezuje jeho věcný rámec na dva důvody: nesplnění podmínek pro ustanovení konkrétní osoby a nedostatek její nepodjatosti. Současně vylučuje přihlížení ke skutečnostem, které nastaly nebo vznikly až po vydání prvostupňového rozhodnutí. Rozhodující je doba vzniku či nastání skutečnosti, nikoli sama doba, kdy ji odvolatel zjistil nebo doložil.
+
+### Souvisící ustanovení
+
+- **§ 21 až 23** — seznam, ustanovení osoby mimo seznam a pojištění jako osobní předpoklady ustanovení.
+- **§ 24** — vyloučení správce pro důvodné pochybnosti o nepodjatosti.
+- **§ 25** — postup ustanovení a určení osoby správce.
+- **§ 29** — změna správce rozhodnutím schůze věřitelů.
+- **§ 31 a § 32** — odvolání správce z důležitých důvodů a zproštění správce při neplnění povinností.
+
+### Souvisící předpisy
+
+- **Zákon č. 99/1963 Sb., občanský soudní řád** — obecná úprava odvolání se použije přiměřeně prostřednictvím § 7 insolvenčního zákona, nestanoví-li insolvenční zákon jinak.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva k § 26 vysvětluje, že osnova zachovala odvolání proti ustanovení správce, avšak omezila odvolací důvody tak, aby se odvolací soud nezabýval skutečnostmi nastalými až po ustanovení. Neadekvátní činnost správce po ustanovení měla být řešena zproštěním podle § 32, nikoli průběžným doplňováním odvolání; důvodová zpráva zdůraznila též riziko prodlužování odvolacího řízení a jednoinstančního posuzování nových skutečností. Jde o vysvětlení původní koncepce, nikoli o náhradu rozlišení aktuálních skutkových podstat § 24, § 31 a § 32.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Nejde o výsledek negativní rešerše.
 
 ### Výklad
 
-**Omezený opravný prostředek**. Odvolání je sice přípustné, ale **rozsah námitek je striktně omezen**:
-- nesplnění **podmínek pro ustanovení** (kvalifikace, zápis v seznamu, dostatečné povolení atd.),
-- **podjatost** (důvody podle § 24).
+[1] **Přípustnost a její meze.** První věta zakládá objektivní přípustnost odvolání proti výroku o ustanovení správce. Druhá věta taxativně vymezuje, co lze namítat. Neznamená to, že každá osoba může odvolání podat; subjektivní přípustnost se posuzuje podle jejího procesního postavení a újmy způsobené napadeným výrokem.
 
-Námitky vůči samotnému *výběru* (např. „proč soud nevybral X, ale Y") nejsou přípustné — to je doménou *rotačního systému* a věřitelského hlasování (§ 29).
+[2] **Podmínky pro ustanovení.** Tento odvolací důvod míří na osobní předpoklady konkrétního správce podle § 21 až 23. Nejvyšší soud v R 47/2018 výslovně odlišil tyto předpoklady od tvrzení, že předseda soudu při určení osoby nedodržel pořadí podle § 25. Samotná vada určení mimo pořadí nečiní jinak způsobilou osobu nezpůsobilou k ustanovení.
 
-**Koncentrace na okamžik prvostupňového rozhodnutí** — nové skutečnosti (např. střet zájmů zjištěný později) nelze v odvolacím řízení uplatnit. Tyto skutečnosti je nutno řešit cestou návrhu na odvolání správce podle § 31 nebo zproštění podle § 32.
+[3] **Nepodjatost.** Druhý důvod navazuje na § 24 odst. 1: rozhodný je poměr správce k věci nebo k osobám účastníků, který zakládá důvod pochybovat o jeho nepodjatosti. Ani samotné určení mimo pořadí bez dalšího takový poměr nezakládá.
 
-### Vazby
+[4] **Časová mez.** Třetí věta se vztahuje na skutečnosti, které po vydání rozhodnutí skutečně nastaly nebo vznikly. Skutečnost existující už při vydání rozhodnutí není vyloučena jen proto, že byla později zjištěna nebo doložena. Odvolatel proto musí přesně tvrdit nejen obsah námitky, ale také kdy rozhodná skutečnost vznikla či nastala.
 
-- **§ 24, § 25** — podmínky a postup ustanovení.
-- **§ 29, § 31, § 32** — pozdější odvolání / zproštění.
+[5] **Pozdější události.** K události vzniklé až po rozhodnutí se v tomto odvolacím řízení nepřihlíží, tím však není předem určen jediný náhradní procesní nástroj. Podle povahy věci může jít o rozhodnutí o vyloučení podle § 24, odvolání z důležitých důvodů bez sankční povahy podle § 31, nebo zproštění pro neplnění povinností podle § 32.
 
-### F. Kazuistika
+[6] **Vada výběru.** R 47/2018 uzavřelo, že tvrzenou nezákonnost opatření o určení správce mimo pořadí nelze samu účinně uplatnit jako důvod podle § 26. Podkladové opatření předsedy soudu je úkonem hybridní povahy, nikoli rozhodnutím přezkoumávaným v odvolacím řízení proti ustanovení správce. Jiný výsledek může vyžadovat až konkrétní tvrzení, že okolnosti výběru současně dokládají některý ze dvou zákonných důvodů, zejména skutečný poměr správce k věci či účastníkům.
 
-**1. Modelová situace.** V rozhodnutí o úpadku soud ustanoví správce. Dlužník podá odvolání, v němž namítá, že soud měl podle rotace ustanovit jinou osobu a že výběr byl „netransparentní"; teprve v odvolání (po vydání prvostupňového rozhodnutí) navíc tvrdí, že správce mezitím začal jednat ve prospěch jednoho z věřitelů, a dovozuje z toho podjatost. Důkazy: rozhodnutí o ustanovení, obsah odvolání, tvrzené následné úkony správce.
+[7] **Intertemporální dosah judikatury.** R 47/2018 vycházelo z oddlužovacího řízení zahájeného v roce 2014 a z tehdejšího znění § 25. Jeho výklad nezměněného textu § 26 o omezených odvolacích důvodech, nepřezkoumatelnosti podkladového opatření v tomto řízení a postavení opomenutého správce je použitelný i k 19. 7. 2026; historické znění územního pořadníku se nepřebírá.
 
-**2. Právní otázka.** Lze v odvolání proti ustanovení správce úspěšně namítat samotný výběr osoby a lze přihlížet k podjatosti opírané o skutečnosti, které nastaly až po vydání rozhodnutí soudu prvního stupně?
+### Judikatura
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 26 — odvolání přípustné, ale jen pro nesplnění podmínek ustanovení nebo podjatost; ke skutečnostem nastalým po prvostupňovém rozhodnutí se nepřihlíží.
-- *Související ustanovení téhož zákona:* § 24 (podjatost — vymezení důvodů), § 25 (postup ustanovení — výběr není odvolacím důvodem), § 31 a § 32 (cesta pro skutečnosti vzniklé později).
-- *Související předpisy:* § 212a OSŘ (rozsah přezkumu) ve spojení s § 7 IZ (přiměřené použití).
-- *Judikatura:* k podjatosti jako důvodu srov. NS 29 NSČR 30/2010 a 29 NSČR 95/2014 (citováno u § 24); k ústavní konformitě výběru ÚS Pl. ÚS 6/13.
-
-**4. Subsumpce.** Námitka „nesprávného výběru" nespadá pod žádný z taxativních důvodů § 26 → nepřípustná. Tvrzená podjatost se opírá o úkony nastalé až po vydání rozhodnutí → uplatní se koncentrace dle § 26 věty třetí a k těmto skutečnostem se v odvolacím řízení nepřihlíží. Sporné: zda některé tvrzení nesměřuje fakticky k podmínkám existujícím již v době rozhodnutí.
-
-**5. Řešení.** Odvolací soud námitku výběru zamítne jako nepřípustnou a k později vzniklým skutečnostem o podjatosti nepřihlédne. Dlužník není bez ochrany — později zjištěný střet zájmů musí uplatnit návrhem na odvolání správce (§ 31) nebo na zproštění (§ 32), kde se posuzují i nové skutečnosti. Procesní krok: podat samostatný návrh dle § 31/§ 32 namísto setrvání na odvolání.
-
-**6. Varianty.** (a) Podjatost by existovala již k datu prvostupňového rozhodnutí (např. příbuzenství doložené později) → přípustná námitka v odvolání, koncentrace nebrání. (b) Správce by nesplňoval kvalifikační podmínku (chybějící zvláštní povolení u § 3 odst. 2 dlužníka) → přípustný odvolací důvod dle § 26.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Právo na odvolání musí umožnit přezkum vhodnosti výběru." — Neutralizace: zákon vědomě omezuje rozsah námitek; vhodnost výběru je doménou rotace (§ 25) a věřitelské korekce (§ 29), nikoli odvolání.
-- *Protiargument:* „Koncentrace popírá ochranu proti dodatečně zjištěné podjatosti." — Neutralizace: ochrana se přesouvá do § 31/§ 32, které s novými skutečnostmi počítají; právo účastníka tedy nezaniká, mění se jen procesní nástroj.
-- *Slabé místo:* hranice mezi skutečností „existující, ale později zjištěnou" a „nově vzniklou" je výkladově sporná; nesprávné zařazení vede k zamítnutí pro koncentraci.
-
-### H. Praktický závěr
-
-Odvolání proti ustanovení správce je úzce omezeno na nesplnění podmínek a podjatost; výběr osoby napadnout nelze a k později vzniklým skutečnostem se nepřihlíží — ty patří do návrhu dle § 31 nebo § 32.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Posoudit, zda námitka spadá pod § 26 (podmínky/podjatost), nebo míří na nepřípustný výběr.
-- [ ] Určit rozhodný okamžik skutečností (před/po prvostupňovém rozhodnutí) kvůli koncentraci.
-- [ ] Pro později vzniklé důvody zvolit návrh dle § 31 (odvolání) nebo § 32 (zproštění).
-
-**Typicky rozhodné důkazy / podklady:** rozhodnutí o ustanovení správce, obsah odvolání, doklady o době vzniku tvrzené podjatosti, případné podklady o kvalifikaci/povolení správce.
+- **Nejvyšší soud, usnesení ze dne 22. 12. 2016, sen. zn. 29 NSČR 130/2014, ECLI:CZ:NS:2016:29.NSCR.130.2014.1, R 47/2018.** V oddlužovacím řízení opomenutý správce jako přihlášený věřitel napadl ustanovení jiné osoby a tvrdil nezákonné určení mimo pořadí. Nejvyšší soud v odstavcích 26 až 32 uzavřel, že taková vada sama nezakládá nepodjatost ani nesplnění osobních předpokladů podle § 21 až 24 a podkladové opatření nelze v odvolacím řízení podle § 26 přezkoumávat. V odstavci 30 potvrdil, že opomenutý správce není jen z tohoto titulu osobou oprávněnou k odvolání. Rozhodnutí se používá v tomto procesním rozsahu; historická pravidla pořadníku se nepřebírají.
 
 ---
 

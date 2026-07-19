@@ -308,74 +308,55 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto sd�
 
 ## § 14 — Účastníci insolvenčního řízení
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Účastníky insolvenčního řízení jsou dlužník a věřitelé, kteří uplatňují své právo vůči dlužníku.
+>
 > (2) Vedlejší účastenství není v insolvenčním řízení přípustné; ustanovení § 16 odst. 2 tím není dotčeno.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *NS* [29 Cdo 3123/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8869490AB41CD47EC1257E82003DAC4D?openDocument) — kat. A, 29. 4. 2015
-  > „Rozhodčí doložka sjednaná pozdějším dlužníkem se vztahuje také na insolvenčního správce, který v průběhu insolvenčního řízení uplatňuje pohledávku dlužníka z právního vztahu, jehož se rozhodčí doložka týká"
+Paragraf 14 procesně vymezuje základní okruh účastníků insolvenčního řízení. Dlužník je účastníkem ze zákona; věřitel nabývá účastnické postavení tím, že v insolvenčním řízení uplatní své právo vůči dlužníku. Přihláška pohledávky je typickým, nikoli jediným způsobem takového uplatnění. Vedlejší účastenství je v samotném insolvenčním řízení vyloučeno, avšak v incidenčních sporech je podle § 16 odst. 2 přípustné.
+
+### Souvisící ustanovení
+
+- § 2 písm. h) — přihláška pohledávky jako procesní úkon, jímž věřitel uplatňuje uspokojení svých práv v insolvenčním řízení.
+- § 15 — časově omezené účastenství jiných osob, nejde-li o přihlášené věřitele.
+- § 16 — samostatné vymezení účastníků incidenčních sporů a přípustnost vedlejšího účastenství.
+- § 17 až 19 — nepřípustnost obecného vstupu a záměny účastníka a zvláštní pravidla procesního nástupnictví u přihlášené pohledávky.
+- § 105 a § 107 — věřitelský insolvenční návrh a další insolvenční návrh.
+- § 173 až 185 — přihlášení pohledávky a skončení účasti přihlášeného věřitele.
+
+### Souvisící předpisy
+
+- Zákon č. 99/1963 Sb., občanský soudní řád, zejména § 19 (způsobilost být účastníkem řízení), § 90 (účastníci řízení) a § 93 (vedlejší účastenství); použijí se jen přiměřeně a není-li zvláštní úprava insolvenčního zákona.
+
+### Z důvodové zprávy
+
+Zvláštní část důvodové zprávy k vládnímu návrhu insolvenčního zákona (sněmovní tisk 1120/0, dokument s. 160–161, k § 14) označuje úpravu za procesní vymezení účastenství a výslovně uvádí, že věřitel může právo uplatnit nejen přihláškou pohledávky. Zákaz vedlejšího účastenství vztahuje na insolvenční řízení, nikoli na incidenční spory.
+
+### Literatura
+
+Odborná literatura nebyla v tomto kole hodnocena; její zpracování je odloženo do druhého kola revize.
 
 ### Výklad
 
-Klíčový vymezovací paragraf. **Účastníci** insolvenčního řízení jsou jen:
-- **dlužník**, a
-- **věřitelé**, kteří *uplatnili své právo*.
+[1] Ustanovení rozlišuje dvě základní skupiny účastníků: dlužníka a věřitele, kteří vůči němu v insolvenčním řízení uplatňují své právo. Samotná existence pohledávky ještě neodpovídá zákonnému znaku jejího procesního uplatnění. Současně však nelze uplatnění práva zúžit jen na přihlášku: takové zúžení odmítá již oficiální důvodová zpráva a zákon počítá rovněž s věřitelským insolvenčním návrhem či s dalšími zvláštními procesními režimy.
 
-Pojem „uplatnili své právo" je rozhodující — věřitel se stává účastníkem **až okamžikem, kdy uplatní pohledávku** (typicky podáním přihlášky podle § 173, případně podáním insolvenčního návrhu — § 105). Až do toho okamžiku není účastníkem (i kdyby měl uznanou pohledávku v dlužníkově účetnictví).
+[2] Přihláška je podle § 2 písm. h) procesním úkonem, jímž věřitel uplatňuje uspokojení svých práv v insolvenčním řízení. Nejvyšší soud v usnesení sen. zn. 29 NSČR 12/2009 potvrdil tuto vazbu mezi přihláškou a účastenstvím. Zároveň rozhodl, že podá-li přihlášku osoba, která již při jejím podání nemá způsobilost být účastníkem řízení, řízení o přihlášce se zastaví podle § 104 odst. 1 o. s. ř. Rozhodnutí vykládalo právní stav do 31. 12. 2008; uvedený závěr je pro nynější § 14 odst. 1 použitelný, protože jeho rozhodná dikce i konstrukce přihlášky zůstaly v tomto směru zachovány.
 
-> **Důsledek**: věřitel, který nepřihlásil pohledávku ve lhůtě (lhůta 2 měsíců stanovená rozhodnutím o úpadku — § 136 odst. 2 písm. d); přihlášky se podávají od zahájení řízení až do uplynutí této lhůty — § 173 odst. 1), nemá v řízení účastnické postavení a nemůže namítat ani brojit proti rozhodnutím soudu.
+[3] Účastenství podle § 14 je třeba odlišit od postavení jiných osob podle § 15 i od účastenství v incidenčních sporech podle § 16. Z účastenství v insolvenčním řízení proto nelze bez kontroly zvláštní úpravy dovozovat, kdo je stranou konkrétního incidenčního sporu ani kdo je oprávněn podat určitý opravný prostředek.
 
-**Odst. 2 — vyloučení vedlejšího účastenství** v hlavním insolvenčním řízení. Vedlejší účastenství podle § 93 OSŘ tedy v IR nepřichází v úvahu. Jediná výjimka — *incidenční spory* (§ 16 odst. 2 — vedlejší účastenství v IS je přípustné). Důvodem vyloučení v hlavním řízení je *masovost* — vstup desítek vedlejších účastníků by řízení paralyzoval.
+[4] Odstavec 2 vylučuje vedlejší účastenství v insolvenčním řízení. Odkaz na § 16 odst. 2 zachovává opačné pravidlo pro incidenční spory. Nejvyšší soud v usnesení sen. zn. 29 ICdo 96/2015 toto rozlišení použil v odpůrčím incidenčním sporu a uzavřel, že přihlášený věřitel může mít jako vedlejší účastník na straně insolvenčního správce právní zájem na výsledku takového sporu. Přípustnost podle § 16 odst. 2 tedy sama nenahrazuje posouzení podmínek § 93 o. s. ř.
 
-### Vazby
-
-- **§ 105** — insolvenční návrh věřitele (zahrnuje uplatnění pohledávky).
-- **§ 173 a násl.** — přihlášky pohledávek.
-- **§ 16 odst. 2** — výjimka pro IS.
-- **OSŘ § 90** — obecné účastenství.
-- **OSŘ § 93** — vedlejší účastenství (vyloučeno § 14 odst. 2).
+[5] Původní znění odst. 2 odkazovalo na tehdejší § 16 odst. 3. Zákon č. 69/2011 Sb. v souvislosti se zrušením dosavadního § 16 odst. 2 změnil s účinností od 31. 3. 2011 odkaz na § 16 odst. 2. Věcné rozlišení mezi zákazem vedlejšího účastenství v insolvenčním řízení a jeho přípustností v incidenčních sporech tím zůstalo zachováno.
 
 ### Judikatura
 
-- **NS 29 NSČR 4/2009 (R 26/2010)**: věřitel, který nepřihlásil pohledávku, nemá legitimaci k podání odvolání proti usnesení o úpadku.
-- **NS 29 NSČR 8/2011**: účastnictví věřitele *zaniká* zánikem (zánik znamená např. zpětvzetí přihlášky), nikoli pouhým neuspokojením pohledávky.
-
-### F. Kazuistika
-
-**1. Modelová situace.** Po vydání usnesení o úpadku dlužníka D podá věřitel V proti tomuto usnesení odvolání. V dlužníkově účetnictví je jeho pohledávka uznána, V ji však dosud nepřihlásil (lhůta k přihlášení podle § 136 odst. 2 písm. d) běží). Souběžně chce jiný subjekt vstoupit do řízení jako vedlejší účastník na podporu dlužníka. Důkazy: usnesení o úpadku, insolvenční rejstřík (zda a kdy V přihlásil), případná přihláška, odvolání.
-
-**2. Právní otázka.** Je věřitel, který dosud neuplatnil své právo (nepřihlásil pohledávku ani nepodal insolvenční návrh), účastníkem řízení s legitimací k odvolání? A je v hlavním insolvenčním řízení přípustné vedlejší účastenství?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 14 — účastníky jsou dlužník a věřitelé, kteří uplatňují právo vůči dlužníku (odst. 1); vedlejší účastenství je vyloučeno, s výjimkou § 16 odst. 2 (odst. 2).
-- *Související ustanovení téhož zákona:* § 105 (insolvenční návrh věřitele jako uplatnění práva), § 173 a násl. (přihlášky), § 136 odst. 2 písm. d) (lhůta k přihlášení), § 16 odst. 2 (vedlejší účastenství v IS), § 141 (odvolání proti rozhodnutí o úpadku).
-- *Související předpisy:* OSŘ § 90 (obecné účastenství), § 93 (vedlejší účastenství — zde vyloučeno).
-- *Judikatura:* NS 29 NSČR 4/2009 (R 26/2010) — věřitel, který nepřihlásil pohledávku, nemá legitimaci k odvolání proti usnesení o úpadku; NS 29 NSČR 8/2011 — účastenství trvá do zániku (např. zpětvzetí přihlášky), nezaniká pouhým neuspokojením; NS 29 Cdo 3123/2014 — rozhodčí doložka dlužníka váže i správce uplatňujícího pohledávku dlužníka.
-
-**4. Subsumpce.** V dosud neuplatnil právo (přihláška/návrh), proto není účastníkem dle § 14 odst. 1 — bez ohledu na to, že pohledávka je v účetnictví uznána. Legitimace k odvolání mu chybí. Vstup vedlejšího účastníka do hlavního řízení je vyloučen § 14 odst. 2.
-
-**5. Řešení.** Odvolání V soud odmítne pro nedostatek legitimace (není účastníkem). Návrh na vedlejší účastenství v hlavním řízení je nepřípustný (§ 14 odst. 2). V se musí nejprve stát účastníkem uplatněním práva — typicky včasnou přihláškou; teprve pak může brojit proti rozhodnutím, jež se ho týkají. Riziko: zmeškání přihlašovací lhůty znamená nejen neúčast, ale i ztrátu možnosti uspokojení.
-
-**6. Varianty.** (a) Kdyby V před podáním odvolání včas přihlásil pohledávku, stal by se účastníkem a legitimace by mu svědčila. (b) Kdyby šlo o incidenční spor, vedlejší účastenství by bylo přípustné (§ 16 odst. 2) — výjimka, na niž § 14 odst. 2 odkazuje.
-
-### G. Protiargumenty a rizika
-
-- *„Uznaná pohledávka v účetnictví činí věřitele účastníkem."* Ne — rozhodné je formální uplatnění práva (přihláška/návrh), ne existence pohledávky; potvrzuje NS 29 NSČR 4/2009.
-- *„Vedlejší účastenství je obecně přípustné podle OSŘ."* V hlavním IR je vyloučeno (§ 14 odst. 2) z důvodu masovosti; přípustné je jen v incidenčních sporech (§ 16 odst. 2).
-- *Slabé místo:* okamžik vzniku účastenství (podání návrhu vs. přihlášky) je třeba pečlivě navázat na § 105 a § 173; chybné určení vede k mylnému posouzení legitimace k úkonům.
-
-### H. Praktický závěr
-
-Paragraf 14 je vymezovacím ustanovením: účastníky hlavního insolvenčního řízení jsou pouze dlužník a věřitelé, kteří uplatnili právo. Bez uplatnění práva (přihláška/návrh) věřitel účastníkem není a nemá legitimaci k opravným prostředkům. Vedlejší účastenství je v hlavním řízení vyloučeno (výjimka jen v IS dle § 16 odst. 2).
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověř, zda věřitel uplatnil právo (přihláška dle § 173, nebo insolvenční návrh dle § 105) — bez toho není účastníkem.
-- [ ] Hlídej přihlašovací lhůtu (§ 136 odst. 2 písm. d) — její zmeškání = neúčast i ztráta uspokojení.
-- [ ] V hlavním řízení nenavrhuj vedlejší účastenství (vyloučeno § 14 odst. 2); v IS je přípustné.
-- [ ] Při zpochybnění legitimace k odvolání argumentuj (ne)uplatněním práva, ne existencí pohledávky.
-
-**Typicky rozhodné důkazy / podklady:** insolvenční rejstřík (datum a obsah přihlášky/návrhu), usnesení o úpadku se lhůtou k přihlášení, přihláška pohledávky, doklad o uplatnění práva věřitele.
+- **Nejvyšší soud, usnesení ze dne 31. 3. 2011, sen. zn. 29 NSČR 12/2009, ECLI:CZ:NS:2011:29.NSCR.12.2009.1, R 109/2011.** Přihláška je způsobem, jímž věřitel uplatňuje uspokojení svého práva a vstupuje do procesního postavení podle § 14 odst. 1; počáteční nedostatek způsobilosti přihlašovatele být účastníkem vede k zastavení řízení o přihlášce.
+- **Nejvyšší soud, usnesení ze dne 21. 12. 2016, sen. zn. 29 ICdo 96/2015, ECLI:CZ:NS:2016:29.ICDO.96.2015.1, R 51/2018.** Zákaz vedlejšího účastenství podle § 14 odst. 2 se nevztahuje na incidenční spory; v odpůrčím incidenčním sporu může mít přihlášený věřitel právní zájem na výsledku řízení na straně insolvenčního správce.
 
 ---
 

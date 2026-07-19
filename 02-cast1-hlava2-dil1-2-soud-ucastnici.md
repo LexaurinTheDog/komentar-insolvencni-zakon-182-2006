@@ -252,66 +252,55 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto sd�
 
 ## § 13 — Asistent soudce insolvenčního soudu
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Asistent soudce insolvenčního soudu činí jednotlivé úkony insolvenčního řízení z pověření soudce insolvenčního soudu.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *ÚS* [III.ÚS 834/08](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-834-08_1) — usnesení, 25. 11. 2008
-  > „Z ustanovení § 13 zákona č. 182/2006 Sb. se podává, že asistent soudce insolvenčního soudu činí jednotlivé úkony insolvenčního řízení z pověření soudce insolvenčního soudu; co do postavení asistenta soudce pak podle § 36a odst. 4 a 5 zákona č. 6/2002 Sb., o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů, platí, že asistent vykonává jednotlivé úkony soudního řízení z pověření soudce, pokud tak stanoví zvláštní zákon nebo rozvrh práce, přičemž je oprávněn podílet se na rozhodovací činnosti soudu v rozsahu stanoveném zvláštním právním předpisem pro vyšší soudní úředníky"
+Ustanovení je zvláštním zákonným základem pro pověření asistenta jednotlivým úkonem insolvenčního řízení. Rozsah jeho účasti na rozhodovací činnosti však neurčuje samotné pověření: § 36a zákona č. 6/2002 Sb. jej váže na zákonný rozsah činnosti vyššího soudního úředníka a na přiměřené použití zákona č. 121/2008 Sb.
+
+### Souvisící ustanovení
+
+- § 7 — subsidiární použití občanského soudního řádu,
+- § 10 a § 11 — rozhodovací a dohlédací činnost insolvenčního soudu,
+- § 12 — samosoudce a vyšší soudní úředník,
+- § 91 — nepřípustnost odvolání proti rozhodnutím při dohlédací činnosti.
+
+### Souvisící předpisy
+
+- § 3 odst. 2 a § 36a odst. 1 až 5 zákona č. 6/2002 Sb., o soudech a soudcích,
+- § 4 až 9, § 11 a § 13 zákona č. 121/2008 Sb., o vyšších soudních úřednících a vyšších úřednících státního zastupitelství.
+
+### Z důvodové zprávy
+
+Vládní návrh zachovával rozhodování v prvním stupni jediným soudcem, současně však počítal s tím, že na základě zvláštního předpisu budou jménem insolvenčního soudu jednat i jiné osoby. § 13 měl podle zvláštní části posílit odborný aparát insolvenčních soudců pro rozhodování s ekonomickým přesahem; obecná část tehdy předpokládala asistenta pro každého insolvenčního soudce. Jde o vysvětlení původního záměru, nikoli o pravidlo dnešního personálního obsazení soudů.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto sdělení není výsledkem negativní literární rešerše.
 
 ### Výklad
 
-Krátké, ale významné — paragraf zavádí možnost využití **asistentů soudce** (§ 36a zákona č. 6/2002 Sb. o soudech a soudcích) v insolvenčním řízení. Asistent činí úkony **z pověření soudce**, nikoli z vlastní iniciativy. Typicky:
-- příprava rozhodnutí (drafty),
-- prostudování návrhů a přihlášek,
-- komunikace s účastníky před vydáním rozhodnutí.
+[1] **Pověření jednotlivým úkonem.** § 13 vyžaduje pověření soudce insolvenčního soudu a vztahuje se textově na jednotlivé úkony insolvenčního řízení. Obecný § 36a odst. 4 zákona č. 6/2002 Sb. doplňuje, že asistent vykonává jednotlivé úkony z pověření soudce, stanoví-li tak zvláštní zákon nebo rozvrh práce. Z těchto ustanovení nelze dovodit obecné oprávnění jednat bez pověření.
 
-Asistent **nesmí samostatně rozhodovat ve věci samé** (na rozdíl od VSÚ s vymezenou kompetencí).
+[2] **Pověření není zdrojem neomezené pravomoci.** Podle § 36a odst. 5 zákona č. 6/2002 Sb. je asistent oprávněn podílet se na rozhodovací činnosti v rozsahu stanoveném pro vyšší soudní úředníky zákonem č. 121/2008 Sb.; jeho ustanovení se na asistenta použijí přiměřeně. Je proto nutné kumulativně ověřit pověření a to, zda daný úkon nepřekračuje zákonný kompetenční rámec.
 
-### Vazby
+[3] **Rozsah podle zákona o vyšších soudních úřednících.** § 11 zákona č. 121/2008 Sb. je vystavěn jako obecné oprávnění provádět úkony soudu prvního stupně s výslovnými výjimkami. Pro insolvenční řízení obsahuje písm. m) zvláštní výčet vyloučených jednání a rozhodnutí. Správná otázka proto nezní, zda jde obecně o „přípravný“ či „meritorní“ úkon, nýbrž zda úkon v rozhodné procesní situaci dovoluje aktuální zákonná úprava použitá přiměřeně na asistenta.
 
-- **§ 36a zák. č. 6/2002 Sb.** — postavení asistenta soudce.
-- **§ 12 IZ** — soudce a VSÚ.
+[4] **Složitá věc a výhrada soudce.** Přiměřené použití § 7, § 8 a § 13 zákona č. 121/2008 Sb. znamená, že právně nebo skutkově složitá věc má být předložena soudci, soudce ji může odejmout a vyřídit sám a může si vyhradit provedení úkonu jinak spadajícího do rozsahu § 11. Rozvrh práce ani individuální pověření nemohou odstranit zákonné výluky.
 
-### Praktická poznámka
+[5] **Procesní obrana.** Způsob přezkumu rozhodnutí asistenta nelze určit jen z označení rozhodující osoby. Vzhledem k přiměřenému použití úpravy vyšších soudních úředníků je třeba vyjít z § 9 zákona č. 121/2008 Sb., z povahy rozhodnutí a z přípustnosti prostředku podle insolvenčního a občanského soudního řádu; u dohlédacích rozhodnutí je současně nutné zohlednit § 91 insolvenčního zákona.
 
-V praxi insolvenční úseky krajských soudů extenzivně využívají asistenty pro přípravnou práci — bez nich by koncentrace agendy nebyla zvládnutelná. Při komunikaci se soudem počítejte s tím, že vaše podání primárně čte asistent.
+[6] **Rozsah § 13 a incidenční spory.** Na rozdíl od § 12 odst. 1 hovoří § 13 pouze o úkonech insolvenčního řízení, nikoli výslovně o incidenčních sporech. Případnou účast asistenta v incidenčním sporu proto nelze opřít pouze o § 13; musí mít oporu v obecné úpravě § 36a zákona č. 6/2002 Sb., v rozvrhu práce či jiném zvláštním zákonném základu a v mezích zákona č. 121/2008 Sb.
 
-### F. Kazuistika
+[7] **Intertemporalita judikatury.** Usnesení III. ÚS 834/08 vycházelo ze znění zákonů účinného v roce 2008, včetně tehdejšího § 97 odst. 2 insolvenčního zákona a předchozího zákona o vyšších soudních úřednících. Pro současný rozsah oprávnění a procesní obranu jsou rozhodná dnešní znění zákonů č. 6/2002 Sb. a č. 121/2008 Sb.; historické rozhodnutí je použitelné jen k jím skutečně posouzené procesní situaci.
 
-**1. Modelová situace.** Účastník obdrží usnesení o odmítnutí přihlášky pro opožděnost, které je podepsáno „asistentem soudce z pověření soudce". Účastník namítá, že asistent nesměl ve věci samostatně rozhodnout, neboť asistent koná jen jednotlivé úkony z pověření soudce a nesmí rozhodovat ve věci samé. Soud oponuje, že asistent jen připravil draft a rozhodnutí fakticky autorizoval soudce. Důkazy: napadené usnesení (kdo je podepsán a v jakém postavení), pověření soudce, rozvrh práce.
+### Judikatura
 
-**2. Právní otázka.** Mohl asistent soudce podle § 13 IZ samostatně vydat (autorizovat) rozhodnutí ve věci samé, nebo je jeho role omezena na úkony z pověření soudce bez samostatné rozhodovací pravomoci ve věci?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 13 — asistent činí jednotlivé úkony insolvenčního řízení z pověření soudce.
-- *Související ustanovení téhož zákona:* § 12 (soudce a VSÚ — rozdělení pravomocí), § 11 (dohlédací činnost).
-- *Související předpisy:* § 36a odst. 4 a 5 zákona č. 6/2002 Sb. (postavení asistenta — úkony z pověření, podíl na rozhodovací činnosti v rozsahu stanoveném pro VSÚ); zákon č. 121/2008 Sb. (kompetence VSÚ, na něž § 36a odkazuje).
-- *Judikatura:* nosný závěr (III.ÚS 834/08) — asistent činí jednotlivé úkony z pověření soudce a podílí se na rozhodovací činnosti v rozsahu stanoveném pro VSÚ; samostatná rozhodovací pravomoc ve věci samé mu nenáleží.
-
-**4. Subsumpce.** Odmítnutí přihlášky je rozhodnutí ve věci (procesní rozhodnutí s hmotněprávním dopadem na účastníka). Pokud je vydal samostatně asistent jako rozhodující osoba, překračuje to rámec § 13 (úkony z pověření) i § 36a zák. č. 6/2002 Sb. Pokud asistent pouze připravil draft a rozhodnutí autorizoval soudce, vada není dána.
-
-**5. Řešení.** Rozhodující je, kdo je nositelem rozhodnutí. Asistent může připravit a podepsat úkony z pověření a podílet se na rozhodování v rozsahu VSÚ, ale nemůže samostatně rozhodnout ve věci samé nad tento rámec. Je-li rozhodnutí ve věci samostatně vydáno asistentem, jde o vadu obsazení napravitelnou opravným prostředkem. Riziko: nejasné označení autorizující osoby v písemném vyhotovení komplikuje posouzení; nutno vyžádat ověření z pověření a rozvrhu práce.
-
-**6. Varianty.** (a) Kdyby šlo o čistě přípravný úkon (výzva k doplnění, příprava draftu pro soudce), pravomoc asistenta by byla v pořádku. (b) Kdyby úkon spadal do taxativní kompetence VSÚ a asistent jednal v jejím rozsahu dle § 36a, byl by rovněž v pořádku.
-
-### G. Protiargumenty a rizika
-
-- *„Asistent je jen pomocná síla bez jakékoli rozhodovací role."* Nepřesné — dle § 36a odst. 5 zák. č. 6/2002 Sb. se podílí na rozhodovací činnosti v rozsahu stanoveném pro VSÚ; jeho role tedy není nulová, jen ohraničená.
-- *„Asistent může rozhodnout cokoli, co mu soudce uloží."* Ne — pověření nemůže rozšířit pravomoc nad zákonný rámec (úkony z pověření + rozsah VSÚ); věc samá mu samostatně nenáleží.
-- *Slabé místo:* hranice mezi „přípravou rozhodnutí" a „rozhodnutím" je v praxi neostrá; klíčové je formální nositelství rozhodnutí (kdo je rozhodující osobou), nikoli kdo psal text.
-
-### H. Praktický závěr
-
-Paragraf 13 umožňuje zapojení asistentů soudce do insolvenční agendy, ovšem jen pro úkony z pověření soudce a v rozsahu rozhodovací činnosti stanoveném pro VSÚ. Samostatné rozhodování ve věci samé asistentovi nepřísluší; těžiště jeho práce je přípravné.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Zjisti z písemného vyhotovení, kdo je rozhodující osobou (soudce / VSÚ / asistent z pověření).
-- [ ] Ověř, zda úkon spadá pod „úkony z pověření" či rozsah VSÚ (§ 36a zák. č. 6/2002 Sb.), nebo jde o věc samou vyhrazenou soudci.
-- [ ] Při podezření na překročení pravomoci asistenta uplatni opravný prostředek a vyžádej si pověření a rozvrh práce.
-- [ ] Počítej s tím, že podání primárně zpracovává asistent — formuluj je srozumitelně a úplně.
-
-**Typicky rozhodné důkazy / podklady:** napadené rozhodnutí s identifikací autorizující osoby, pověření soudce, rozvrh práce soudu, § 36a zák. č. 6/2002 Sb.
+- **Usnesení Ústavního soudu ze dne 25. 11. 2008, sp. zn. III. ÚS 834/08.** Asistentka soudce vydala usnesení, že se k insolvenčnímu návrhu nepřihlíží. Ústavní soud dovodil, že proti tomuto deklaratornímu rozhodnutí bylo za tehdejší právní úpravy přípustné odvolání, a ústavní stížnost odmítl pro nevyčerpání procesního prostředku. Rozhodnutí potvrzuje nutnost určit prostředek podle povahy konkrétního rozhodnutí; vzhledem ke změně zákonné úpravy však neurčuje dnešní obecný rozsah pravomoci asistenta ani dnešní režim přezkumu všech jeho rozhodnutí.
 
 ---
 

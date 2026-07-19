@@ -73,61 +73,54 @@ Do tohoto výkladu nebylo zařazeno rozhodnutí, jehož nosný závěr by byl ne
 
 ## § 22 — Odmítnutí ustanovení; ustanovení mimo seznam
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Osoba zapsaná do seznamu insolvenčních správců může své ustanovení insolvenčním správcem odmítnout, jen má-li pro to důležité důvody.
 > (2) Nelze-li insolvenčního správce vybrat ze seznamu insolvenčních správců, je možné jím ustanovit i fyzickou osobu, která splňuje obecné a kvalifikační předpoklady pro zápis do seznamu insolvenčních správců a se svým ustanovením souhlasí.
 
+### Přehled výkladu
+
+Odstavec 1 omezuje možnost osoby zapsané v seznamu odmítnout konkrétní ustanovení: nestačí pouhý nesouhlas, nýbrž musí být dány důležité důvody. Odstavec 2 řeší jinou situaci — objektivní nemožnost vybrat správce ze seznamu — a dovoluje ustanovit pouze fyzickou osobu mimo seznam, splní-li zákonné předpoklady a výslovně souhlasí.
+
+### Souvisící ustanovení
+
+- § 21 — seznam insolvenčních správců jako standardní zdroj pro ustanovení;
+- § 23 — pojištění odpovědnosti po celou dobu výkonu funkce;
+- § 24 — vyloučení a oznamovací povinnost při pochybnostech o nepodjatosti;
+- § 25 — určení osoby správce podle pořadí nebo mimo pořadí;
+- § 26 — omezené odvolací důvody proti rozhodnutí o ustanovení.
+
+### Souvisící předpisy
+
+- zákon č. 312/2006 Sb., o insolvenčních správcích — vznik oprávnění, povolení, předpoklady fyzické osoby a vedení seznamu; při použití § 22 odst. 2 je nutné ověřovat jeho znění účinné v době ustanovení.
+
+### Z důvodové zprávy
+
+Zvláštní část důvodové zprávy k vládnímu návrhu pouze potvrzuje dvojí účel ustanovení: vymezit podmínky odmítnutí osobou zapsanou v seznamu a předpoklady ustanovení fyzické osoby mimo seznam. Konkrétní příklady „důležitých důvodů“ ani pořadí kroků při nemožnosti výběru neuvádí. Text obou odstavců v právním stavu k 19. 7. 2026 obsahově odpovídá původně navrženému znění.
+
+### Literatura
+
+Odborná literatura nebyla v tomto kole hodnocena; její zpracování je odloženo do druhého kola.
+
 ### Výklad
 
-**Odst. 1 — povinnost přijmout ustanovení.** Správce zapsaný v seznamu nemůže ustanovení libovolně odmítnout. Odmítnutí je možné **jen z důležitých důvodů**:
-- *podjatost* (vztah k dlužníkovi, věřiteli — § 24),
-- *přetížení* (nemůže řízení řádně vést pro množství stávající agendy),
-- *nemoc, dlouhodobá nepřítomnost*,
-- *konflikt s jiným probíhajícím řízením* (typicky restrukturalizace téhož dlužníka — § 24 odst. 1).
+[1] **Odmítnutí je zákonem omezeno.** Adresátem odstavce 1 je osoba zapsaná v seznamu, kterou soud hodlá ustanovit nebo ustanovil. Zákon jí nedává volnou možnost konkrétní ustanovení nepřijmout: odmítnutí váže na existenci důležitých důvodů. Proto musí být sdělený důvod konkrétní a způsobilý k posouzení ve vztahu k danému řízení; zákon však v § 22 uzavřený ani příkladmý katalog důvodů nestanoví.
 
-Bezdůvodné odmítnutí může vést k disciplinárnímu řízení (§ 36 zákona o IS).
+[2] **§ 22 a nepodjatost nejsou totožné režimy.** Vyjde-li po ustanovení najevo poměr správce k věci nebo k účastníkům, který zakládá důvod pochybovat o jeho nepodjatosti, § 24 odst. 1 stanoví vyloučení a ukládá správci neprodlenou oznamovací povinnost. Není proto přesné nahrazovat tento zvláštní režim obecným tvrzením, že každá namítaná podjatost je automaticky „odmítnutím“ podle § 22 odst. 1.
 
-**Odst. 2 — záložní mechanismus.** Pokud nelze nikoho ze seznamu ustanovit (typicky v malých regionech, kde všichni správci v seznamu odmítli pro podjatost), může soud ustanovit i osobu mimo seznam, která však musí splňovat **obecné a kvalifikační předpoklady** (vzdělání, bezúhonnost, zkouška). V praxi je tento postup raritní — pravidlo § 25 odst. 5 (určení mimo pořadí) běžně postačuje.
+[3] **Ustanovení mimo seznam má vlastní podmínky.** Odstavec 2 lze použít, jen nelze-li správce vybrat ze seznamu. Ustanovenou osobou smí být výhradně fyzická osoba; musí současně splňovat obecné i kvalifikační předpoklady pro zápis a s ustanovením souhlasit. Samotná absence zápisu tedy není překážkou, ale žádnou z ostatních výslovných podmínek nenahrazuje.
 
-### Vazby
+[4] **Vztah k § 25.** Určení mimo pořadí podle § 25 odst. 5 stále znamená určení insolvenčního správce v rámci zákonného systému seznamu; § 22 odst. 2 naproti tomu výslovně dovoluje fyzickou osobu nezapsanou. Z textu § 22 nelze bez další opory vytvořit pevné procesní pravidlo, že § 25 odst. 5 musí být vždy formálně „vyčerpán“, rozhodná však zůstává zákonná podmínka, že správce ze seznamu nelze vybrat.
 
-- **§ 24** — vyloučení správce.
-- **§ 25** — pořadí ustanovování.
-- **§ 36 zákona o IS** — kárné provinění.
+[5] **Procesní kontrola ustanovení.** Proti rozhodnutí o ustanovení je podle § 26 přípustné odvolání jen z důvodu, že ustanovený správce nesplňuje podmínky pro ustanovení nebo není nepodjatý. U osoby mimo seznam proto musí být ve spise ověřitelné splnění předpokladů a její souhlas; toto doporučení je autorským praktickým závěrem vyvozeným z § 22 odst. 2 a § 26.
 
-### F. Kazuistika
+### Judikatura
 
-**1. Modelová situace.** Soud určí podle pořadí (§ 25 odst. 2) správkyni X. Ta sdělí, že ustanovení odmítá, neboť dlužníkem je obchodní partner, jehož v jiné věci dříve zastupovala, a navíc má aktuálně 40 běžících oddlužení a personálně nestíhá. Soud zvažuje, zda jde o „důležité důvody". V témže (řídce obsazeném) regionu zbývající dva zapsaní správci rovněž odmítli pro podjatost. Důkazy: doložení dřívějšího vztahu k dlužníkovi, přehled rozpracované agendy, oznámení obou dalších správců.
+**Vrchní soud v Praze, usnesení ze dne 1. 6. 2011, sen. zn. 3 VSPH 237/2011, ECLI:CZ:VSPH:2011:3.VSPH.237.2011.1, R 133/2011.** V řízení o odvolání již činného správce, jemuž bylo po ustanovení pozastaveno právo vykonávat činnost samostatně, soud při popisu systému odkázal na § 22 odst. 2 jako na potvrzení, že samotný zápis v seznamu není nepřekročitelnou podmínkou výkonu konkrétní funkce, jsou-li splněny ostatní předpoklady. Nosným závěrem rozhodnutí však bylo, že tehdejší pozastavení činnosti samo o sobě nebylo důvodem odvolání podle § 31; rozhodnutí nevykládá pojem „důležité důvody“ v § 22 odst. 1. Jeho skutkový i intertemporální dosah je proto úzký.
 
-**2. Právní otázka.** Jsou tvrzené důvody (předchozí vztah k dlužníkovi + přetížení) „důležitými důvody" odmítnutí podle § 22 odst. 1, a pokud všichni zapsaní správci odmítnou, otevírá se postup ustanovení mimo seznam podle § 22 odst. 2?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 22 odst. 1 (odmítnutí jen z důležitých důvodů), odst. 2 (subsidiární ustanovení fyzické osoby mimo seznam).
-- *Související ustanovení téhož zákona:* § 24 (vyloučení pro podjatost — důvod, jenž odmítnutí ospravedlňuje), § 25 odst. 5 (určení mimo pořadí jako primární alternativa před § 22 odst. 2).
-- *Související předpisy:* § 36 zákona o IS (kárné provinění při bezdůvodném odmítnutí); kvalifikační předpoklady zápisu (§ 6 a násl. zákona o IS) pro osobu mimo seznam.
-- *Judikatura:* k objektivní pochybnosti o nepodjatosti jako důvodu srov. NS 29 NSČR 30/2010 (citováno u § 24).
-
-**4. Subsumpce.** Předchozí zastupování dlužníka zakládá důvod pochybovat o nepodjatosti (§ 24) → „důležitý důvod" je naplněn nezávisle na přetížení. Přetížení samo o sobě je důvodem hraničním (nutno doložit reálnou nemožnost řádného vedení). Odmítnou-li všichni zapsaní → znak „nelze vybrat ze seznamu" (§ 22 odst. 2) je naplněn, avšak teprve po vyčerpání § 25 odst. 5.
-
-**5. Řešení.** Soud odmítnutí X akceptuje (podjatost je důležitý důvod). Před aplikací § 22 odst. 2 musí předseda soudu zvážit určení mimo pořadí (§ 25 odst. 5) — např. správce ze sousedního obvodu. Teprve není-li to možné, ustanoví fyzickou osobu mimo seznam splňující kvalifikační a obecné předpoklady, s jejím souhlasem. Riziko: ustanovení nekvalifikované osoby je vadou s dopadem do § 26.
-
-**6. Varianty.** (a) X odmítne jen pro přetížení bez doložení → bezdůvodné odmítnutí, hrozí kárné řízení (§ 36 zákona o IS). (b) V obvodu zůstane jediný způsobilý zapsaný správce → § 22 odst. 2 se neuplatní, ustanoví se tento správce.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Správce má právo odmítnout, je to jeho podnikání." — Neutralizace: zápis do seznamu zakládá veřejnoprávní povinnost přijímat ustanovení; odmítnutí je výjimkou vázanou na důležité důvody, jinak hrozí kárný postih.
-- *Protiargument:* „Při odmítnutí všech lze rovnou jít mimo seznam (odst. 2)." — Neutralizace: odst. 2 je až ultima ratio; přednost má určení mimo pořadí (§ 25 odst. 5), které territoriální nedostatek řeší bez prolomení seznamu.
-- *Slabé místo:* dokazování „přetížení" je obtížné a subjektivní; soud má široký prostor k posouzení, výsledek je málo předvídatelný.
-
-### H. Praktický závěr
-
-Odmítnutí ustanovení je přípustné jen z důležitých důvodů (typicky podjatost, prokázané přetížení, nemoc); ustanovení mimo seznam je krajní řešení po vyčerpání rotace a určení mimo pořadí.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Doložit konkrétní důležitý důvod odmítnutí (vztah k věci/osobám, kapacitní výpadek, zdravotní překážka).
-- [ ] Před aplikací § 22 odst. 2 vyčerpat § 25 odst. 5 (určení mimo pořadí).
-- [ ] U osoby mimo seznam ověřit obecné i kvalifikační předpoklady a její souhlas.
-
-**Typicky rozhodné důkazy / podklady:** sdělení správce o důvodech odmítnutí, přehled rozpracované agendy, doklad o dřívějším vztahu k dlužníkovi, doklady kvalifikace u osoby mimo seznam.
+Rozhodnutí 29 NSČR 30/2010 se k § 22 nepoužívá: řeší způsob řešení úpadku a hlasování věřitelů, nikoli odmítnutí ustanovení ani nepodjatost správce.
 
 ---
 

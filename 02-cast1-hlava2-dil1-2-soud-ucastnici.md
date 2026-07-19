@@ -524,6 +524,10 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto odl
 
 ## § 18 — Vstup nabyvatele pohledávky
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Nastane-li v průběhu insolvenčního řízení skutečnost, se kterou právní předpisy spojují převod nebo přechod přihlášené pohledávky z původního věřitele na nabyvatele pohledávky, aniž původní věřitel ztrácí způsobilost být účastníkem řízení, insolvenční soud rozhodne, že místo tohoto věřitele vstupuje do insolvenčního řízení nabyvatel jeho pohledávky. Učiní tak na základě návrhu věřitele, který lze podat pouze na formuláři, jehož náležitosti stanoví prováděcí právní předpis, a po písemném souhlasu nabyvatele jeho pohledávky. Převod nebo přechod pohledávky, který nevyplývá přímo z právního předpisu, je nutné doložit veřejnou listinou nebo listinou, na které je úředně ověřena pravost podpisů osob, které ji podepsaly.
 >
 > (2) O návrhu podle odstavce 1 rozhodne insolvenční soud do 3 pracovních dnů ode dne, kdy mu takový návrh došel; ustanovení § 43 občanského soudního řádu se nepoužije. K návrhu, který nebude podán na formuláři podle odstavce 1, se nepřihlíží. Nerozhodne-li insolvenční soud ve lhůtě podle věty první, není již povinen o návrhu podle odstavce 1 rozhodnout a má se za to, že insolvenční soud vydal rozhodnutí, jímž návrhu vyhověl; toto rozhodnutí není soud povinen vyhotovit.
@@ -532,74 +536,60 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto odl
 >
 > (4) Rozhodnutí podle odstavců 1 a 3 se nedoručuje zvlášť dlužníku. Odvolání proti němu není přípustné, insolvenční soud však tímto rozhodnutím není vázán.
 
+### Přehled výkladu
+
+Paragraf 18 je zvláštní procesní úpravou singulární sukcese u přihlášené pohledávky. Ve standardním režimu rozhoduje soud jen na formulářový návrh původního věřitele, s písemným souhlasem nabyvatele a s předepsaným doložením právní skutečnosti. Rozhodnutí určuje osobu účastníka; samo meritorně neurčuje, zda pohledávka hmotněprávně skutečně přešla. Zvlášť je nutné posuzovat vstup osoby, která uspokojila věřitele podle § 183 odst. 3: tato osoba podává návrh sama a třídenní fikce vyhovění se neuplatní.
+
+### Souvisící ustanovení
+
+- § 17 — vyloučení obecných institutů vstupu a záměny účastníka.
+- § 19 — okamžik vstupu, převzetí stavu řízení, vstup do incidenčních sporů a následné doklady nabyvatele.
+- § 71 a § 74 — zveřejnění a účinky doručení v insolvenčním rejstříku.
+- § 177 odst. 2 až 6 — doklady nabyvatele, použité podle § 19 odst. 2 obdobně.
+- § 183 odst. 3 a § 184 odst. 3 — zvláštní vstup osoby, která uspokojila přihlášeného věřitele.
+
+### Souvisící předpisy
+
+- § 2 vyhlášky č. 191/2017 Sb. — náležitosti a přílohy formuláře návrhu na vstup nabyvatele.
+- § 43 občanského soudního řádu — postup k odstranění vad se podle § 18 odst. 2 nepoužije.
+- § 107a občanského soudního řádu — obecná úprava procesního nástupnictví; pro přihlášené věřitele ji nahrazují § 17 až § 19 insolvenčního zákona.
+- § 1879 a násl. občanského zákoníku — postoupení pohledávky; § 1937 a § 1938 občanského zákoníku — subrogace a její rozsah.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona označil obecnou úpravu procesního nástupnictví za příliš těžkopádnou pro řízení s vysokým počtem účastníků a § 18 pojal jako zjednodušený postup bez opravného prostředku. Požadované listiny měly posílit právní jistotu o právní skutečnosti; rozhodnutí však nemělo řešit, zda právo skutečně přešlo. Jde o zvláštní část důvodové zprávy k § 17 až § 19 ve sněmovním tisku 1120/0, číslovaná strana 161 až 162 (PDF strana 162 až 163).
+
+Historickou větu důvodové zprávy, že soud musí rozhodnutí vzniklé fikcí písemně vyhotovit, nelze použít pro stav k 19. 7. 2026: aktuální § 18 odst. 2 výslovně stanoví, že soud je vyhotovit nemusí. Zákon č. 294/2013 Sb. změnil tehdejší jednodenní lhůtu na tři dny; zákon č. 64/2017 Sb. zavedl povinný formulář, tři pracovní dny, nepoužití § 43 občanského soudního řádu a dnešní podobu fikce.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tato poznámka není výsledkem negativní rešerše.
+
 ### Výklad
 
-Paragraf 18 řeší **změnu věřitele v průběhu řízení**. Důvodem může být:
-- **postoupení pohledávky** (§ 1879 OZ),
-- **přechod pohledávky** (např. dědění, fúze PO, zákonný přechod — typicky regres ručitele po zaplacení podle § 2026 odst. 2 OZ),
-- **subrogace** (např. § 1937 OZ).
+[1] **Rozsah úpravy.** § 18 dopadá na převod nebo přechod již přihlášené pohledávky v průběhu insolvenčního řízení, jestliže původní věřitel neztratil způsobilost být účastníkem. Ztráta této způsobilosti je jinou procesní situací; § 18 není univerzální úpravou každého právního nástupnictví.
 
-#### Procesní pravidla
+[2] **Návrh a doložení.** Ve standardním režimu může rozhodnutí iniciovat původní přihlášený věřitel, nikoli soud z úřední povinnosti ani samotný nabyvatel. Návrh musí být na formuláři, musí jej doprovázet písemný souhlas nabyvatele a právní skutečnost, která neplyne přímo ze zákona, se dokládá veřejnou listinou nebo listinou s úředně ověřenou pravostí podpisů. Alternativou je společné prohlášení věřitele a nabyvatele do protokolu podle odstavce 3.
 
-- **Návrh:** podává **stávající věřitel** (nikoli nabyvatel). Vyžaduje se **písemný souhlas nabyvatele**.
-- **Formulář:** povinný — náležitosti stanoví prováděcí vyhláška (§ 18 odst. 1 in fine). K nesprávnému podání se *nepřihlíží*.
-- **Lhůta soudu:** 3 pracovní dny od doručení návrhu.
-- **Důsledek nečinnosti soudu:** *vyhovující rozhodnutí fikcí* — soud již není povinen vydávat usnesení. Tato fikce je jednou z mála procesních fikcí prospívajících navrhovateli a slouží k akceleraci řízení.
-- **Důkaz převodu:** veřejnou listinou (notářský zápis) nebo listinou s úředně ověřenými podpisy. *Nelze pouze tvrdit* — písemnost je nutná.
-- **Alternativa (odst. 3):** společné prohlášení převodce a nabyvatele do protokolu u insolvenčního soudu. Tím odpadá potřeba dokládat veřejnou listinu.
-- **Doručování (odst. 4):** rozhodnutí se *nedoručuje zvlášť dlužníku* — postačí zveřejnění v rejstříku (§ 71). Odvolání proti rozhodnutí *nepřípustné*. Soud však sám není rozhodnutím *vázán* — může je dodatečně přehodnotit, vyjdou-li najevo důvody pro odlišný závěr (typicky pochybnost o platnosti převodu).
+[3] **Procesní, nikoli meritorní rozhodnutí.** Předmětem rozhodování je procesní nástupnictví. Požadavek na doložení právní skutečnosti nelze zaměnit za konečné meritorní určení, komu pohledávka podle hmotného práva náleží. Právě proto zákon vylučuje odvolání, ale současně stanoví, že insolvenční soud svým rozhodnutím není vázán. Nové rozhodnutí předpokládá, že v řízení vyjde najevo jiný stav procesního nástupnictví; pouhá obecná pochybnost o platnosti smlouvy sama není zákonným testem pro dodatečnou revizi.
 
-### Vazby
+[4] **Lhůta a fikce ve standardním režimu.** Soud má rozhodnout do tří pracovních dnů od dojití návrhu. K návrhu mimo předepsaný formulář se nepřihlíží a § 43 občanského soudního řádu se nepoužije. Jestliže soud ve lhůtě nerozhodne o návrhu podaném ve standardním režimu, má se za to, že mu vyhověl; soud již nemusí rozhodnutí vydat ani vyhotovit.
 
-- **§ 19** — postavení nabyvatele.
-- **§ 173 odst. 2 — 6** — náležitosti přihlášky (přiměřeně se použije pro doklady nabyvatele).
-- **OZ § 1879 — § 1887** — postoupení pohledávky.
-- **OSŘ § 107a** — vstup nabyvatele do běžného civilního sporu (zde se naopak nepoužije přímo).
+[5] **Zvláštní režim § 183 odst. 3.** Osoba, která v některém z postavení uvedených v § 183 odst. 1 nebo 2 uspokojila v průběhu řízení přihlášeného věřitele, může v rozsahu plnění podat návrh sama. § 18 se použije jen přiměřeně: zachová se třídenní lhůta soudu, avšak pro potenciální spornost tvrzeného plnění nenastává fikce vyhovění. Navrhovatel musí úhradu pohledávky dosavadnímu věřiteli prokázat. Podle R 9/2023 se naproti tomu i zde uplatní odstavec 3 a pravidla odstavce 4.
+
+[6] **Účinky vstupu.** Podle § 19 nabyvatel přebírá stav řízení v okamžiku vstupu a na místo původního věřitele vstupuje i do incidenčních sporů týkajících se nabyté pohledávky. Změna věřitele sama neotevírá nový přezkum pohledávky: probíhající stav zjišťování pokračuje a již zjištěná pravost, výše nebo pořadí se jen kvůli vstupu nového věřitele nepřezkoumávají znovu.
 
 ### Judikatura
 
-- **NS 29 NSČR 41/2017**: postoupení pohledávky nabývá účinků vůči dlužníkovi až jeho oznámením; v insolvenčním kontextu rozhoduje okamžik rozhodnutí o vstupu, nikoli okamžik postoupení.
-- **NS 29 ICdo 56/2014**: insolvenční soud má v rámci řízení o vstupu nabyvatele pravomoc přezkoumat platnost a účinnost převodu (alespoň prima facie); není-li převod doložen, návrh zamítne.
+- **Nejvyšší soud, rozsudek ze dne 28. 2. 2022, sen. zn. 29 ICdo 7/2020, ECLI:CZ:NS:2022:29.ICDO.7.2020.1, R 9/2023.** Ve věci plnění banky z bankovní záruky a jejího vstupu podle § 183 odst. 3 Nejvyšší soud v odstavcích 23 až 34 vysvětlil, že standardní § 18 vyžaduje návrh původního věřitele a neumožňuje rozhodnutí z úřední povinnosti; ve zvláštním režimu § 183 odst. 3 podává návrh plnivší osoba, fikce vyhovění se neuplatní a vstup nemění stav přezkoumání pohledávky. Rozhodnutí vykládalo znění do 31. 12. 2013; závěry ke zvláštnímu režimu potvrdila pozdější judikatura pro dnešní konstrukci.
+- **Nejvyšší soud, usnesení ze dne 30. 7. 2025, sen. zn. 29 NSČR 62/2023, ECLI:CZ:NS:2025:29.NSCR.62.2023.1, R 26/2026.** Ve sporu o postavení banky, která plnila z bankovní záruky, Nejvyšší soud v odstavcích 61 až 69 znovu vyložil § 183 odst. 3 jako zvláštní odchylku od § 18, potvrdil absenci fikce, nutnost prokázat úhradu dosavadnímu věřiteli a zachování stavu přezkoumání.
 
-### Praktická poznámka
+### Praktický checklist
 
-V praxi se postupy a fúze v insolvenci řeší **velmi často** — věřitelé prodávají pohledávky specializovaným kupujícím (často offshore strukturám), kteří pak hlasují agresivněji za reorganizační plán nebo za jiný způsob řešení. Strategicky to ovlivňuje výsledek řízení. Fikce rozhodnutí pro nečinnost soudu je tedy *významným strategickým aktivem* nabyvatelů — soud má reálně lhůtu 3 dní a překročí ji častěji než ne.
-
-### F. Kazuistika
-
-**1. Modelová situace.** Věřitel V s přihlášenou pohledávkou ji postoupí kupujícímu N. V podá na předepsaném formuláři návrh na vstup N do řízení a doloží smlouvu o postoupení s úředně ověřenými podpisy; připojí písemný souhlas N. Soud návrh obdrží, ale do 3 pracovních dnů nerozhodne. N se domnívá, že je již účastníkem, a chce hlasovat na schůzi věřitelů, která se koná čtvrtý den. Důkazy: formulářový návrh s datem doručení soudu, smlouva o postoupení s ověřenými podpisy, souhlas N, insolvenční rejstřík.
-
-**2. Právní otázka.** Nastává při nečinnosti soudu fikce vyhovujícího rozhodnutí podle § 18 odst. 2, a jaké náležitosti (formulář, doklad o převodu, souhlas nabyvatele) musí být splněny, aby návrhu bylo lze vyhovět?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 18 — návrh podává stávající věřitel na formuláři, se souhlasem nabyvatele a doložením převodu (odst. 1); lhůta 3 pracovní dny, fikce vyhovění při nečinnosti, k vadnému návrhu se nepřihlíží (odst. 2); alternativa společným prohlášením do protokolu (odst. 3); rozhodnutí se nedoručuje zvlášť dlužníku, odvolání nepřípustné, soud jím není vázán (odst. 4).
-- *Související ustanovení téhož zákona:* § 19 (postavení nabyvatele — stav řízení, vstup do IS), § 173 a násl. / § 177 (doklady), § 71 (zveřejnění v rejstříku).
-- *Související předpisy:* OZ § 1879–§ 1887 (postoupení pohledávky), § 1937 (subrogace), § 2026 odst. 2 (regres ručitele); OSŘ § 43 (výslovně se nepoužije — § 18 odst. 2), § 107a (přímo se nepoužije).
-- *Judikatura:* NS 29 NSČR 41/2017 — v insolvenci je rozhodný okamžik rozhodnutí o vstupu, ne okamžik postoupení; NS 29 ICdo 56/2014 — soud má pravomoc přezkoumat platnost/účinnost převodu (prima facie); není-li doložen, návrh zamítne.
-
-**4. Subsumpce.** Návrh podal stávající věřitel V (správně), na formuláři, s ověřenými podpisy na smlouvě a se souhlasem N — náležitosti odst. 1 jsou splněny. Soud nerozhodl ve lhůtě 3 pracovních dnů → nastupuje fikce vyhovujícího rozhodnutí (odst. 2); soud již není povinen usnesení vyhotovit. N se tím stává účastníkem.
-
-**5. Řešení.** Po marném uplynutí lhůty se má za to, že soud návrhu vyhověl; N je účastníkem a může vykonávat práva (včetně hlasování) — s tím, že platí stav řízení k okamžiku vstupu (§ 19). Soud však fikcí není vázán a může později rozhodnout jinak, vyjdou-li najevo pochybnosti o platnosti převodu (odst. 4). Riziko: kdyby podpisy nebyly ověřeny nebo návrh nebyl na formuláři, k návrhu by se nepřihlíželo a fikce by nenastala.
-
-**6. Varianty.** (a) Kdyby V a N učinili společné prohlášení do protokolu (odst. 3), odpadla by potřeba dokládat veřejnou listinu/ověřené podpisy. (b) Kdyby návrh nebyl podán na formuláři, k němu by se nepřihlíželo (odst. 2) a N by se účastníkem nestal — fikce by nenastoupila.
-
-### G. Protiargumenty a rizika
-
-- *„Fikce nastane vždy, když soud mlčí."* Jen u bezvadného návrhu — k návrhu mimo formulář se nepřihlíží (odst. 2), takže fikce nenastoupí; nutno zajistit formální bezvadnost.
-- *„Po fikci je věc neměnná."* Ne — soud rozhodnutím (ani fikcí) není vázán (odst. 4) a může vstup přehodnotit při pochybnosti o převodu (NS 29 ICdo 56/2014).
-- *Slabé místo:* doložení převodu — bez veřejné listiny či ověřených podpisů (nebo prohlášení do protokolu) je převod neprokázán a soud návrh zamítne; pouhé tvrzení nestačí.
-
-### H. Praktický závěr
-
-Paragraf 18 upravuje procesní mechanismus změny věřitele po převodu pohledávky: formulářový návrh stávajícího věřitele, souhlas nabyvatele, doklad o převodu (veřejná listina/ověřené podpisy nebo prohlášení do protokolu), krátká lhůta soudu s fikcí vyhovění při nečinnosti. Rozhodnutí se dlužníku zvlášť nedoručuje, odvolání není přípustné, soud jím není vázán.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Návrh podává stávající věřitel na předepsaném formuláři (jinak se k němu nepřihlíží).
-- [ ] Doloží převod veřejnou listinou / listinou s ověřenými podpisy, nebo využij společné prohlášení do protokolu (odst. 3).
-- [ ] Připoji písemný souhlas nabyvatele.
-- [ ] Hlídej lhůtu 3 pracovních dnů — při nečinnosti soudu nastupuje fikce vyhovění (odst. 2); počítej s tím, že soud fikcí není vázán (odst. 4).
-
-**Typicky rozhodné důkazy / podklady:** vyplněný formulářový návrh s datem doručení soudu, smlouva o postoupení/doklad o přechodu s ověřenými podpisy (nebo veřejná listina), souhlas nabyvatele, protokol o společném prohlášení (alternativa), insolvenční rejstřík.
+- [ ] Určit, zda jde o standardní převod či přechod podle § 18, nebo o plnění třetí osoby podle § 183 odst. 3.
+- [ ] Ve standardním režimu podat návrh původním věřitelem na předepsaném formuláři, připojit souhlas nabyvatele a předepsanou listinu.
+- [ ] Evidovat okamžik dojití návrhu soudu a správně počítat tři pracovní dny; fikci nepoužít na návrh podle § 183 odst. 3.
+- [ ] Po vstupu převzít dosavadní stav přezkoumání a incidenčních sporů a v patnáctidenní lhůtě podle § 19 odst. 2 předložit insolvenčnímu správci požadované doklady.
 
 ---
 

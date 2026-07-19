@@ -315,79 +315,70 @@ Pro výše uvedené definiční závěry není použito žádné soudní rozhodn
 
 ## § 5 — Zásady insolvenčního řízení
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Insolvenční řízení spočívá zejména na těchto zásadách:
+>
 > a) insolvenční řízení musí být vedeno tak, aby žádný z účastníků nebyl nespravedlivě poškozen nebo nedovoleně zvýhodněn a aby se dosáhlo rychlého, hospodárného a co nejvyššího uspokojení věřitelů;
+>
 > b) věřitelé, kteří mají podle tohoto zákona zásadně stejné nebo obdobné postavení, mají v insolvenčním řízení rovné možnosti;
+>
 > c) nestanoví-li tento zákon jinak, nelze práva věřitele nabytá v dobré víře před zahájením insolvenčního řízení omezit rozhodnutím insolvenčního soudu ani postupem insolvenčního správce;
+>
 > d) věřitelé jsou povinni zdržet se jednání, směřujícího k uspokojení jejich pohledávek mimo insolvenční řízení, ledaže to dovoluje zákon.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *ÚS* [I.ÚS 129/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-129-14_1) — usnesení, 20. 10. 2014
-  > „Insolvenční řízení je specifická oblast práva s mnoha odchylkami od běžných postupů v civilním soudním procesu. Odlišnost insolvenčního řízení je usměrňována zásadami insolvenčního řízení. Na jejich základě je možno v kterémkoliv okamžiku insolvenčního řízení posoudit, zda prováděný úkon svým obsahem a povahou odpovídá cílům a smyslu insolvenčního řízení. Ustanovení § 5 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon) tyto základní zásady insolvenčního řízení formuluje"
-- *ÚS* [IV.ÚS 983/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-983-13_1) — usnesení, 14. 5. 2014
-  > „Insolvenční řízení podle insolvenčního zákona má především za cíl co nejvyšší poměrné uspokojení věřitelů. Musí být vedeno tak, aby žádný z účastníků nebyl nespravedlivě poškozen nebo nedovoleně zvýhodněn a aby se dosáhlo rychlého, hospodárného a co nejvyššího uspokojení věřitelů [§ 5 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), ve znění pozdějších předpisů]. Přesto je třeba v rámci insolvenčního řízení respektovat alespoň v minimální míře také práva dlužníka"
+Paragraf 5 obsahuje demonstrativní výčet základních zásad insolvenčního řízení. Slouží k výkladu a použití jednotlivých pravidel insolvenčního zákona a podle § 7 také vymezuje meze přiměřeného použití obecných procesních předpisů. Zásady však nenahrazují konkrétní zákonné předpoklady ani neopravňují soud nebo insolvenčního správce odchýlit se od jednoznačné zvláštní úpravy.
+
+### Souvisící ustanovení
+
+- **§ 1 písm. a)** — účel řešení úpadku a zásadně poměrné uspokojení věřitelů.
+- **§ 7** — přiměřené použití občanského soudního řádu a zákona o zvláštních řízeních soudních jen tehdy, není-li v rozporu se zásadami insolvenčního řízení.
+- **§ 109 až 111** — účinky zahájení řízení a omezení dlužníka při nakládání s majetkovou podstatou.
+- **§ 140** — pravidla započtení po rozhodnutí o úpadku.
+- **§ 165 až 170** — zákonné pořadí a způsoby uplatnění jednotlivých skupin pohledávek.
+- **§ 235 až 243** — neúčinnost právních úkonů a odpůrčí žaloba.
+- **§ 348** — podmínky schválení reorganizačního plánu.
+
+### Souvisící předpisy
+
+- **Zákon č. 99/1963 Sb., občanský soudní řád** — v rozsahu přiměřeného použití vymezeném § 7 insolvenčního zákona.
+- **Zákon č. 292/2013 Sb., o zvláštních řízeních soudních** — subsidiárně podle pořadí a mezí stanovených § 7 insolvenčního zákona.
+
+### Z důvodové zprávy
+
+Důvodová zpráva k vládnímu návrhu insolvenčního zákona (sněmovní tisk 1120/0, zvláštní část K § 5) označuje zásady za významné interpretační vodítko pro posouzení, zda procesní úkon odpovídá cíli a účelu řízení. Rovnost chápe v mezích skupiny věřitelů stejného nebo obdobného postavení, ochranu dobrověrně nabytých práv ilustruje postavením zajištěných věřitelů a zákaz individuálního uspokojování spojuje s ochranou společného zájmu věřitelů. Číslování „odstavců 1 až 4“ v důvodové zprávě odpovídá písmenům a) až d) přijatého § 5.
+
+### Literatura
+
+Odborná literatura nebyla v tomto kole hodnocena; její rešerše a případné doplnění jsou odloženy do druhého kola.
 
 ### Výklad
 
-Zásady mají **přímou normativní povahu** — soud k nim přihlíží při výkladu jednotlivých ustanovení i při rozhodování o žádostech a opravných prostředcích. NS opakovaně judikoval, že zásady § 5 jsou závazným interpretačním rámcem (např. 29 NSČR 22/2009).
+[1] Slovo „zejména“ ukazuje, že výčet není uzavřený. Pro aplikaci jsou však rozhodné zásady vyjádřené zákonem a jeho systematikou; § 5 není samostatným právním titulem k přiznání nároku, který konkrétní úprava nezná.
 
-- **Písmeno a)** spojuje *spravedlnost* (proceduralním standard) s *účinností* (rychlost, hospodárnost, maximální uspokojení). Soud musí umět mezi nimi vyvažovat — striktní formalismus, který by řízení zdržoval na úkor uspokojení, je v rozporu se zásadou.
-- **Písmeno b)** zakazuje diskriminaci věřitelů téže třídy. V kombinaci s § 1 („zásadně poměrné uspokojení") formuje princip *par condicio creditorum*.
-- **Písmeno c)** chrání **dobrověrná** předinsolvenční práva — zejména zajištění zřízené v dobré víře v rozumné lhůtě před zahájením řízení (§ 235 a násl. řeší neúčinnost zajištění zřízeného úmyslně k vyloučení/krácení věřitelů).
-- **Písmeno d)** je *materiální zákaz exekuce* — věřitel po zahájení řízení nesmí pohledávku vymáhat mimo insolvenční řízení (§ 109 odst. 1 písm. c) zakazuje provádění výkonu rozhodnutí; započtení pak § 140).
+[2] Písmeno a) spojuje zákaz nespravedlivého poškození či nedovoleného zvýhodnění s rychlostí, hospodárností a co nejvyšším uspokojením věřitelů. Žádná z těchto složek nepůsobí izolovaně: požadavek rychlosti nemůže sám zhojit nesplnění zákonné podmínky a maximalizace uspokojení neospravedlňuje nedovolené zvýhodnění účastníka.
 
-### Vazby
+[3] Písmeno b) zaručuje rovné možnosti jen věřitelům, kteří mají podle insolvenčního zákona zásadně stejné nebo obdobné postavení. Nezakládá absolutní rovnost všech pohledávek; rozdíly mezi zajištěnými a nezajištěnými věřiteli, pohledávkami za majetkovou podstatou a přihlášenými pohledávkami nebo pohledávkami vyloučenými z uspokojení vyplývají z konkrétních ustanovení zákona.
 
-- **§ 1, § 4** — zásady navazují na účel.
-- **§ 109** — účinky zahájení řízení (zákaz exekucí atd.).
-- **§ 235** — neúčinnost úkonů zkracujících věřitele.
-- **§ 348** — schválení reorganizačního plánu — *fair and equitable* test odvozený od zásad § 5.
+[4] Písmeno c) chrání práva věřitele nabytá v dobré víře před zahájením řízení, současně však výslovně připouští odlišnou zákonnou úpravu. Rozsah ochrany se proto posuzuje spolu s pravidly o zajištění, pořadí, účincích zahájení řízení a neúčinnosti právních úkonů; samotný odkaz na dobrou víru tato pravidla nevylučuje.
 
-### Praktický význam
+[5] Písmeno d) vyjadřuje kolektivní povahu řízení a ukládá věřitelům zdržet se individuálního uspokojování mimo ně, ledaže je zákon dovoluje. Konkrétní účinky a výjimky je nutno odvozovat zejména z § 109 a dalších zvláštních ustanovení, nikoli jen z obecného označení této zásady.
 
-V praxi se na § 5 odkazují především argumenty:
-- proti formálnímu zamítání pohledávek pro drobné vady přihlášek (zásada rychlosti a hospodárnosti),
-- proti zvýhodňujícím dohodám mezi některými věřiteli (zásada rovnosti),
-- proti pokusům dlužníka uniknout řízení převody majetku na blízké osoby (zásada ochrany věřitelů + § 235—243).
+[6] Paragraf 7 činí zásady výslovným limitem subsidiárního procesního práva. Z toho plyne korektivní funkce § 5 při volbě přiměřeného procesního postupu; neplyne z něj oprávnění nahradit zvláštní úpravu insolvenčního zákona obecnou úvahou o spravedlnosti nebo hospodárnosti.
 
-### F. Kazuistika
+[7] Text § 5 je k rozhodnému dni obsahově shodný s původním vyhlášeným zněním. Starší judikaturu lze proto použít k výkladu samotných zásad, ale její závěr je nutné znovu prověřit, závisí-li na navazujícím ustanovení ve znění rozhodném pro tehdejší skutkový stav.
 
-**1. Modelová situace.** V insolvenčním řízení správce odmítl přezkoumat přihlášku věřitele pro drobnou formální vadu (chybějící jeden údaj snadno doplnitelný) a navrhl k ní nepřihlížet. Týž věřitel zároveň zjistí, že dlužník před zahájením řízení uzavřel s jiným věřitelem dohodu o přednostním uspokojení mimo insolvenci. Věřitel se brání s odkazem na zásady § 5. Důkazy: přihláška a výzva k doplnění, obsah dohody mezi dlužníkem a zvýhodněným věřitelem, časová osa úkonů.
+[8] Při argumentaci § 5 je třeba určit konkrétní písmeno, srovnávané osoby nebo práva a zvláštní ustanovení, které řeší danou situaci. Teprve poté lze posoudit, zda výklad zachovává spravedlivé postavení účastníků, rovné možnosti srovnatelných věřitelů, ochranu dobrověrně nabytých práv a kolektivní způsob uspokojování.
 
-**2. Právní otázka.** Lze zásady § 5 (rychlost, hospodárnost, rovnost věřitelů, zákaz uspokojení mimo řízení) použít jako přímý normativní argument proti formálnímu odmítnutí přihlášky a proti zvýhodňující dohodě?
+### Judikatura
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 5 písm. a) (spravedlnost + rychlost, hospodárnost, nejvyšší uspokojení), písm. b) (rovné možnosti věřitelů téhož postavení), písm. c) (ochrana dobrověrných předinsolvenčních práv), písm. d) (zákaz uspokojení mimo řízení).
-- *Související ustanovení téhož zákona:* § 7 (subsidiarita OSŘ s materiálním limitem zásad), § 109 (účinky zahájení — zákaz exekucí), § 140 (započtení), § 235 a násl. (neúčinnost zkracujících úkonů), § 188 (odstranění vad přihlášky), § 348 (fair-and-equitable test u reorganizace).
-- *Související předpisy:* OSŘ (subsidiárně, jen není-li v rozporu se zásadami).
-- *Judikatura:* ÚS I.ÚS 129/14 — zásadami § 5 lze v každém okamžiku poměřit, zda úkon odpovídá cílům a smyslu insolvenčního řízení; ÚS IV.ÚS 983/13 — cíl nejvyššího poměrného uspokojení při současném respektu k minimálním právům dlužníka; NS 29 NSČR 22/2009 — zásady § 5 jsou závazným interpretačním rámcem.
-
-**4. Subsumpce.** Formální odmítnutí přihlášky pro snadno odstranitelnou vadu naráží na zásadu **rychlosti a hospodárnosti** (písm. a)) a na povinnost vyzvat k odstranění vad (§ 188); striktní formalismus, který by věřitele bezdůvodně vyloučil, je se zásadou v rozporu. Zvýhodňující dohoda o uspokojení mimo řízení porušuje zásadu **rovnosti** (písm. b)) a **zákaz uspokojení mimo insolvenci** (písm. d)); je-li navíc předinsolvenční a zkracující, otevírá odpůrčí žalobu (§ 235 a násl.). Ochrana dle písm. c) by svědčila jen *dobrověrným* předinsolvenčním právům, nikoli účelovému zvýhodnění.
-
-**5. Řešení.** Vůči přihlášce: trvat na výzvě k doplnění (§ 188) a na materiálním přezkumu; argumentovat zásadou hospodárnosti. Vůči dohodě: iniciovat odpůrčí žalobu (§ 239, je-li dán typ neúčinného úkonu dle § 240–242) a namítat porušení § 5 písm. b), d). Pravděpodobný výsledek: přihláška má být přezkoumána po doplnění; zvýhodnění je napadnutelné jako neúčinné. Riziko: zásady samy o sobě nejsou „samostatným nárokem" — musí být provázány s konkrétním ustanovením (§ 188, § 235 a násl.).
-
-**6. Varianty.** (a) Kdyby zajištění/plnění bylo zřízeno v dobré víře v rozumném předstihu a bez úmyslu zkrátit věřitele, chránila by je zásada písm. c) a odpůrčí žaloba by neuspěla. (b) Kdyby vada přihlášky byla neodstranitelná či podstatná (např. zmeškání lhůty), zásada hospodárnosti by ji nezhojila.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Zásady § 5 jsou jen proklamace bez normativní síly." — Neutralizace: judikatura (ÚS I.ÚS 129/14, NS 29 NSČR 22/2009) přiznává zásadám přímou interpretační závaznost; soud k nim přihlíží i při použití OSŘ (§ 7).
-- *Protiargument:* „Rychlost ospravedlní i odmítnutí přihlášky bez výzvy." — Neutralizace: písm. a) spojuje rychlost se *spravedlností*; nelze ji uplatnit na úkor práva věřitele odstranit vadu (§ 188).
-- *Slabé místo:* zásady působí výkladově, nikoli jako samostatný hmotný nárok; bez navázání na konkrétní ustanovení (§ 188, § 235 a násl., § 140) je argument neúčinný.
-
-### H. Praktický závěr
-
-Paragraf 5 obsahuje čtyři zásady s přímou normativní (interpretační) povahou: spravedlnost a efektivita, rovnost věřitelů, ochrana dobrověrných předinsolvenčních práv a zákaz uspokojení mimo řízení. Slouží jako materiální korektiv výkladu i subsidiárního použití OSŘ (§ 7).
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Odpovídá zamýšlený úkon cílům a smyslu řízení (test dle ÚS I.ÚS 129/14)?
-- [ ] Nezakládá postup nedůvodnou nerovnost mezi věřiteli téhož postavení (písm. b))?
-- [ ] Jde o dobrověrné předinsolvenční právo chráněné písm. c), nebo o zkracující úkon (§ 235 a násl.)?
-- [ ] Nedochází k uspokojení mimo řízení v rozporu s písm. d) (§ 109, § 140)?
-
-**Typicky rozhodné důkazy / podklady:** přihláška a výzva k odstranění vad, obsah a datace napadené dohody/zajištění, časová osa úkonů ve vztahu k zahájení řízení, doklady o (ne)dobré víře.
-
-*Systematický výklad všech zásad insolvenčního řízení s judikatorním vymezením z místních zdrojů podává [ZASADY.md](ZASADY.md); normativní rozbor příkazů, zákazů a dovolení v IZ viz [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md).*
+- **Ústavní soud, usnesení ze dne 20. 10. 2014, sp. zn. I. ÚS 129/14.** Stěžovatelka zmeškala lhůtu k přihlášení pohledávky a namítala mimo jiné diskriminaci pro zdravotní postižení. Ústavní soud stížnost odmítl jako zjevně neopodstatněnou; v tomto kontextu uvedl, že podle zásad lze posuzovat soulad procesního úkonu s cíli a smyslem insolvenčního řízení a zdůraznil rychlost řízení. Rozhodnutí nepřiznává zásadám moc prolomit zákonnou přihlašovací lhůtu.
+- **Ústavní soud, usnesení ze dne 14. 5. 2014, sp. zn. IV. ÚS 983/13.** Ve věci stanoviska insolvenčního správce k přihlášené pohledávce a tvrzeně nedostatečné dohlédací činnosti soudu Ústavní soud stížnost odmítl. Vedle cíle co nejvyššího poměrného uspokojení věřitelů připomněl nutnost respektovat také práva dlužníka; přezkum stanoviska správce vymezil jen proti formálním vadám a zjevné svévoli.
+- **Nejvyšší soud, rozsudek ze dne 31. 8. 2015, sen. zn. 29 ICdo 32/2013, ECLI:CZ:NS:2015:29.ICDO.32.2013.1, R 60/2016.** V incidenčním sporu o pohledávku z úvěrů a půjčky uzavřených pouze manželem dlužnice Nejvyšší soud uzavřel, že požadavky podle § 5 písm. a) a b) chrání skutečné věřitele insolvenčního dlužníka, nikoli osobu, která vůči němu pohledávku nemá. Zásady tedy samy nevytvářejí chybějící pohledávku ani věřitelské postavení.
 
 ---
 

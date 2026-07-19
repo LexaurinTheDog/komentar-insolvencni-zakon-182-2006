@@ -528,69 +528,65 @@ Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; její zpra
 
 ## § 7a — Věcná příslušnost
 
-### Výklad
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-> Krajské soudy rozhodují jako soudy prvního stupně:
+### Znění ustanovení
+
+> Krajské soudy rozhodují jako soudy prvního stupně
+>
 > a) v insolvenčním řízení,
+>
 > b) v incidenčních sporech,
+>
 > c) ve sporech o náhradu škody nebo jiné újmy, která vznikla porušením povinnosti podat insolvenční návrh,
+>
 > d) ve sporech o náhradu škody nebo jiné újmy, která vznikla zahájením insolvenčního řízení a opatřeními přijatými v jeho průběhu,
+>
 > e) ve věcech vyplývajících z právních vztahů mezi dlužníkem a insolvenčním správcem týkajících se majetku patřícího do dlužníkovy majetkové podstaty.
 
-**Krajský soud** je věcně příslušný — výjimka z obecné věcné příslušnosti okresních soudů podle § 9 OSŘ.
+### Přehled výkladu
 
-**Působnost se rozkládá na pět agend**:
-- a) samotné insolvenční řízení,
-- b) incidenční spory (procesní pravidla viz § 159 a násl.),
-- c) **náhrada škody / újmy za porušení povinnosti podat IN** (zejména § 98, § 99) — pohledávka věřitele proti statutárnímu orgánu PO,
-- d) **náhrada škody / újmy z neoprávněného návrhu** (proti navrhovateli, který podal nedůvodný návrh — § 147),
-- e) **spory ze vztahu dlužník — správce** týkající se majetku podstaty.
+Ustanovení svěřuje krajským soudům rozhodování v prvním stupni v pěti výslovně vymezených agendách. Pro písm. b) je rozhodující zákonné vymezení incidenčních sporů, zejména § 2 písm. d) a § 159 odst. 1; pouhá souvislost sporu s insolvenčním řízením ani samotná účast insolvenčního správce nepostačuje. Písmena c) až e) doplňují další zvláštní kategorie sporů. Konkrétní místně příslušný insolvenční soud určuje § 7b, nikoli § 7a.
 
-### Vazby
+### Souvisící ustanovení
 
-- **OSŘ § 9, § 9a** — věcná příslušnost — IZ je *lex specialis*.
-- **§ 98, § 99** — povinnost podat návrh a odpovědnost.
-- **§ 147** — odpovědnost insolvenčního navrhovatele.
+- § 2 písm. d) — pojem incidenčního sporu.
+- § 7 a § 7b odst. 4 — subsidiární procesní úprava a místní příslušnost ve věcech podle § 7a písm. b) až e).
+- § 98 a § 99 — povinnost podat insolvenční návrh a odpovědnost za její porušení.
+- § 147 — odpovědnost za škodu nebo jinou újmu vzniklou zahájením insolvenčního řízení a opatřeními přijatými v jeho průběhu.
+- § 159 a § 160 — druhy incidenčních sporů a jejich projednání u insolvenčního soudu.
 
-### Praktická poznámka
+### Souvisící předpisy
 
-I když by spor jinak věcně patřil k okresnímu soudu (např. žaloba s nízkou hodnotou plnění), pokud je věc „incidenční" nebo spadá pod § 7a písm. c)—e), je příslušný **krajský soud**. To je v praxi opakovaně přehlížený důvod nesprávně podaných žalob — okresní soud je zaslal krajskému (§ 104a OSŘ), což znamená ztrátu měsíců.
+- § 9 odst. 1 OSŘ — obecné pravidlo věcné příslušnosti okresních soudů, použitelné jen nestanoví-li zákon jinak.
+- § 104a OSŘ — zkoumání věcné příslušnosti a rozhodnutí vrchního soudu o tom, které soudy jsou příslušné v prvním stupni.
 
-### F. Kazuistika
+### Z důvodové zprávy
 
-**1. Modelová situace.** Věřitel utrpěl škodu 250 000 Kč tím, že statutární orgán dlužníka (PO) nepodal včas insolvenční návrh (§ 98). Věřitel podá žalobu na náhradu škody k **okresnímu** soudu podle bydliště žalovaného jednatele, neboť hodnota plnění je „nízká". Žalovaný namítá nepříslušnost. Důkazy: doklad o vzniku a výši pohledávky, časová osa úpadku a okamžiku, kdy se orgán o úpadku dozvěděl/měl dozvědět, údaj o (ne)podání návrhu.
+Důvodová zpráva k vládnímu návrhu zákona později vyhlášeného pod č. 294/2013 Sb. (sněmovní tisk 929/0, zvláštní část k bodům 3 a 4) vysvětlila přesun úpravy insolvenční věcné a místní příslušnosti z OSŘ do insolvenčního zákona. Uvedla, že § 7a převzal tehdejší pravidla § 9 odst. 3 písm. i) a § 9 odst. 4 OSŘ a nově přidal spory podle písm. c), aby o nich rozhodovali insolvenční specialisté. K § 7b odst. 4 současně rozlišila, který insolvenční soud je místně příslušný pro jednotlivé kategorie § 7a písm. b) až e). Jde o historický výklad novely účinné od 1. 1. 2014; aktuální rozsah vždy určuje platný text zákona.
 
-**2. Právní otázka.** Který soud je věcně příslušný k projednání žaloby na náhradu škody vzniklé porušením povinnosti podat insolvenční návrh — okresní soud podle obecných pravidel OSŘ, nebo krajský soud podle § 7a?
+### Literatura
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 7a písm. c) — krajské soudy rozhodují jako soudy prvního stupně ve sporech o náhradu škody nebo jiné újmy vzniklé porušením povinnosti podat insolvenční návrh.
-- *Související ustanovení téhož zákona:* § 98 (povinnost podat návrh bez zbytečného odkladu), § 99 (odpovědnost za škodu z porušení § 98), § 7a písm. b), d), e) (další agendy krajských soudů), § 147 (odpovědnost navrhovatele).
-- *Související předpisy:* OSŘ § 9, § 9a (věcná příslušnost — IZ je *lex specialis*), § 104a (postoupení při nepříslušnosti); ZOK/OZ (obecná odpovědnost členů orgánů).
-- *Judikatura:* nosný závěr, že příslušnost podle § 7a je výlučná a má přednost před obecnou věcnou příslušností okresních soudů; o postoupení rozhoduje vrchní soud podle § 104a OSŘ.
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní literární rešerše.
 
-**4. Subsumpce.** Žalovaný nárok je „náhrada škody vzniklá porušením povinnosti podat insolvenční návrh" — **přesně** znak § 7a písm. c). Nízká hodnota plnění je **irelevantní**; § 7a je *lex specialis* k § 9 OSŘ a zakládá věcnou příslušnost **krajského** soudu bez ohledu na výši. Žaloba podaná k okresnímu soudu je proto podána u věcně nepříslušného soudu.
+### Výklad
 
-**5. Řešení.** Správně mělo být žalováno u krajského soudu. Podal-li věřitel žalobu k okresnímu soudu, ten ji nemůže projednat; věc se postoupí (rozhodnutím vrchního soudu dle § 104a OSŘ) krajskému soudu — což znamená ztrátu měsíců. Praktický krok: u všech nároků navázaných na insolvenci (§ 7a písm. c)–e) i incidenční spory) podávat rovnou ke krajskému soudu. Riziko: promlčení a procesní průtahy z chybné volby soudu.
+[1] **Povaha pravidla.** Paragraf 7a je zvláštním pravidlem vůči § 9 odst. 1 OSŘ: naplní-li věc některé z písmen a) až e), rozhoduje v prvním stupni krajský soud. Hodnota předmětu sporu toto zákonné zařazení nemění. Ustanovení však samo neurčuje konkrétní soud; místní příslušnost upravuje § 7b.
 
-**6. Varianty.** (a) Jde-li o nárok na náhradu škody z *neoprávněného* insolvenčního návrhu (§ 147), spadá pod § 7a písm. d) — opět krajský soud. (b) Jde-li o běžný občanskoprávní spor bez vazby na insolvenci (např. nezaplacená kupní cena mimo režim podstaty), příslušnost se řídí obecně OSŘ a může být dána okresnímu soudu.
+[2] **Insolvenční řízení a incidenční spory.** Písmeno a) dopadá na vlastní insolvenční řízení. Písmeno b) je třeba číst spolu s § 2 písm. d), § 159 a § 160. Výčet v § 159 odst. 1 určuje, které spory jsou incidenční; § 159 odst. 2 výslovně vylučuje použití režimu incidenčních sporů na jiné spory jen proto, že je jejich účastníkem insolvenční správce.
 
-### G. Protiargumenty a rizika
+[3] **Odpovědnost za nepodání návrhu.** Písmeno c) zahrnuje spory o náhradu škody nebo jiné újmy vzniklé porušením povinnosti podat insolvenční návrh. Hmotněprávní základ typicky vymezují § 98 a § 99; § 7a písm. c) řeší pouze věcnou příslušnost, nikoli předpoklady nebo rozsah odpovědnosti.
 
-- *Protiargument:* „Při nízké hodnotě plnění je příslušný okresní soud podle § 9 OSŘ." — Neutralizace: § 7a je *lex specialis*; hodnota plnění věcnou příslušnost nemění, rozhoduje povaha nároku (vazba na insolvenci).
-- *Protiargument:* „Spor dlužník–správce o majetek je běžný civilní spor pro okresní soud." — Neutralizace: § 7a písm. e) jej výslovně svěřuje krajskému soudu.
-- *Slabé místo:* hranice mezi nárokem „vyplývajícím ze vztahu dlužník–správce ohledně majetku podstaty" (písm. e)) a běžným civilním nárokem může být sporná → riziko chybné volby soudu a postoupení.
+[4] **Újma spojená se zahájením řízení.** Písmeno d) se vztahuje na spory o újmu vzniklou zahájením insolvenčního řízení a opatřeními přijatými v jeho průběhu. Navazuje zejména na § 147. Také zde § 7a neurčuje, zda nárok po hmotněprávní stránce existuje; určuje soudní článek pro jeho projednání.
 
-### H. Praktický závěr
+[5] **Vztah dlužníka a správce.** Písmeno e) vyžaduje současně právní vztah mezi dlužníkem a insolvenčním správcem a souvislost věci s majetkem patřícím do dlužníkovy majetkové podstaty. Nelze je rozšiřovat na každý spor, v němž vystupuje správce, ani na každý spor týkající se majetkové podstaty bez splnění osobního vymezení.
 
-Paragraf 7a soustřeďuje do prvního stupně **krajských** soudů pět agend: insolvenční řízení, incidenční spory a tři typy navazujících sporů (škoda z nepodání návrhu, škoda ze zahájení řízení/opatření, spory dlužník–správce o majetek podstaty). Jde o *lex specialis* k věcné příslušnosti OSŘ; hodnota sporu je nerozhodná.
+[6] **Procesní kontrola.** Má-li okresní nebo krajský soud za to, že není věcně příslušný, postupuje podle § 104a OSŘ; o příslušném soudním článku rozhoduje za podmínek tohoto ustanovení nadřízený vrchní soud. Před použitím § 7a je proto nutné nejprve přesně kvalifikovat uplatněný nárok, nikoli vycházet jen z jeho hospodářské vazby na insolvenci.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Spadá nárok pod některé z písmen § 7a (a)–e))?
-- [ ] Jde o škodu z porušení povinnosti podat návrh (písm. c)) nebo ze zahájení řízení (písm. d))?
-- [ ] Týká se spor majetku patřícího do podstaty ve vztahu dlužník–správce (písm. e))?
-- [ ] Byla žaloba podána ke **krajskému** soudu (nikoli okresnímu)?
+### Judikatura
 
-**Typicky rozhodné důkazy / podklady:** doklad o vzniku a výši škody, časová osa úpadku a (ne)podání návrhu, údaje o osobě statutárního orgánu / navrhovatele / správce, vymezení vztahu k majetkové podstatě.
+- **Vrchní soud v Praze, usnesení ze dne 1. 6. 2015, sp. zn. 101 VSPH 174/2015, ECLI:CZ:VSPH:2015:101.VSPH.174.2015.1, č. 24/2017 Sb. rozh. obč.** Insolvenční správkyně spojila požadavek na určení vlastnictví dlužníka k nemovitostem s požadavkem na jejich vyklizení. Soud uzavřel, že určovací část může být incidenčním sporem podle § 159 odst. 1 písm. g), avšak požadavek na vyklizení incidenčním sporem není; v této části jsou v prvním stupni příslušné okresní soudy. Rozhodnutí názorně potvrzuje, že faktická souvislost nároků sama působnost § 7a písm. b) nerozšiřuje.
+- **Nejvyšší soud, rozsudek ze dne 23. 9. 2021, sen. zn. 29 ICdo 142/2019, ECLI:CZ:NS:2021:29.ICDO.142.2019.1, R 31/2022.** Ve sporu o vyloučení nemovitostí ze soupisu majetkové podstaty, zahájeném po insolvenčním návrhu z 5. 9. 2014, Nejvyšší soud v odstavcích 25, 26 a 33 vyšel z § 159 odst. 1 písm. b) a potvrdil, že jde o incidenční spor, pro který je podle § 7a písm. b) věcně příslušný krajský soud a podle § 7b odst. 4 a § 160 konkrétní insolvenční soud. Současně výslovně ověřil, že rozhodné znění těchto ustanovení platilo již při zahájení insolvenčního řízení a později se nezměnilo.
 
 ---
 

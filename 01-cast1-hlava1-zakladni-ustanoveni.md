@@ -250,78 +250,66 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento ú
 
 ## § 4 — Způsob řešení úpadku
 
-> (1) Způsobem řešení úpadku nebo hrozícího úpadku dlužníka v insolvenčním řízení (dále jen „způsob řešení úpadku") se rozumí
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Způsobem řešení úpadku nebo hrozícího úpadku dlužníka v insolvenčním řízení (dále jen „způsob řešení úpadku“) se rozumí
 > a) konkurs,
 > b) reorganizace,
 > c) oddlužení a
 > d) zvláštní způsoby řešení úpadku, které tento zákon stanoví pro určité subjekty nebo pro určité druhy případů.
 >
 > (2) Rozhodnutím insolvenčního soudu o způsobu řešení úpadku se rozumí,
-> a) jde-li o konkurs nebo o některý ze zvláštních způsobů řešení úpadku, rozhodnutí o prohlášení konkursu na majetek dlužníka (dále jen „rozhodnutí o prohlášení konkursu"),
+> a) jde-li o konkurs nebo o některý ze zvláštních způsobů řešení úpadku, rozhodnutí o prohlášení konkursu na majetek dlužníka (dále jen „rozhodnutí o prohlášení konkursu“),
 > b) jde-li o reorganizaci, rozhodnutí o povolení reorganizace a
 > c) jde-li o oddlužení, rozhodnutí o povolení oddlužení.
 
+### Přehled výkladu
+
+Ustanovení vymezuje uzavřený okruh zákonných způsobů řešení úpadku nebo hrozícího úpadku a současně určuje, které rozhodnutí soudu se pro každý z nich považuje za rozhodnutí o způsobu řešení úpadku. Samo však neurčuje přípustnost konkrétního způsobu ani postup jeho volby; tyto otázky upravují navazující části zákona.
+
+### Souvisící ustanovení
+
+- **§ 148 až 152** — čas a procesní postup rozhodování o způsobu řešení úpadku, včetně významu usnesení schůze věřitelů.
+- **§ 244 až 315** — konkurs a nepatrný konkurs.
+- **§ 316 až 364** — reorganizace; zejména osobní a věcné předpoklady její přípustnosti.
+- **§ 367 až 388** — zvláštní režimy úpadku finančních institucí.
+- **§ 389 až 418** — oddlužení, okruh oprávněných dlužníků a průběh tohoto způsobu řešení.
+
+### Souvisící předpisy
+
+- Zákon č. 182/2006 Sb. byl přijat jako celek s účinností od 1. 1. 2008; pro jednotlivé řízení je vždy nutné ověřit znění účinné v rozhodné době. Samotný § 4 je v rozhodném znění k 19. 7. 2026 obsahově shodný s původním vyhlášeným zněním.
+
+### Z důvodové zprávy
+
+Vládní návrh označil § 4 za vymezení dalšího základního pojmu zákona. Vedle tradičního konkursu představil reorganizaci jako soubor sanačních opatření směřujících ku prospěchu věřitelů k ozdravení dlužníkova podniku, oddlužení jako nový způsob určený podle tehdejší koncepce nepodnikatelským subjektům a mezi zvláštní způsoby zařadil nepatrný konkurs a úpadek finančních institucí. Historický popis oddlužení je nutné číst jen jako vysvětlení původní osnovy; aktuální osobní rozsah plyne z dnešního § 389.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento oddíl nepředstavuje negativní rešerši.
+
 ### Výklad
 
-Paragraf 4 obsahuje **taxativní výčet** způsobů řešení úpadku (odst. 1) a vymezuje, co se rozumí „rozhodnutím o způsobu řešení úpadku" (odst. 2). Toto rozhodnutí je zlomovým procesním okamžikem — od něj se odvíjejí dispoziční oprávnění, postavení insolvenčního správce, postup zpeněžování atd.
+[1] **Pojmová funkce.** Odstavec 1 stanoví čtyři zákonné kategorie: konkurs, reorganizaci, oddlužení a zvláštní způsoby, které musí mít oporu přímo v insolvenčním zákoně. Mimosoudní dohoda nebo preventivní restrukturalizace proto nejsou dalším způsobem řešení úpadku ve smyslu § 4, i když mohou sledovat příbuzný hospodářský účel.
 
-**Způsoby:**
-- **Konkurs** — likvidační (§ 244 a násl.). Univerzální způsob — použitelný na každého dlužníka (PO, FO, podnikatel i nepodnikatel).
-- **Reorganizace** — sanační, pouze pro **podnikatele** splňujícího ekonomický test (§ 316).
-- **Oddlužení** — sanační „sociální" způsob, pro **fyzické osoby** a vybrané OSVČ (§ 389).
-- **Zvláštní způsoby řešení úpadku** — modifikované verze pro určité subjekty/případy (např. úpadek finančních institucí podle Hlavy III/IV Části druhé).
+[2] **Úpadek i hrozící úpadek.** Úvodní věta zahrnuje oba stavy. Neznamená to však, že každý způsob je u obou stavů a u každého dlužníka přípustný. Přípustnost je třeba ověřit v úpravě daného způsobu, zejména v § 316 u reorganizace a v § 389 u oddlužení.
 
-### Vazby
+[3] **Konkurs.** Konkurs vymezuje § 244 jako zásadně poměrné uspokojení zjištěných pohledávek z výnosu zpeněžení majetkové podstaty. Za rozhodnutí o způsobu řešení úpadku se podle § 4 odst. 2 písm. a) považuje rozhodnutí o prohlášení konkursu. Stejné legislativní označení používá § 4 i pro zvláštní způsob, je-li uskutečněn prohlášením konkursu.
 
-- **§ 148, § 149** — rozhodnutí o způsobu řešení úpadku (spojené s rozhodnutím o úpadku, případně samostatné po projednání).
-- **§ 316** — věcné předpoklady reorganizace (1 mld. Kč obratu / 50 zaměstnanců / souhlas věřitelů s reorganizačním plánem).
-- **§ 389** — předpoklady oddlužení (fyzická osoba, kvalifikované dluhy).
-- **§ 365 a násl.** — zvláštní úprava pro úvěrové instituce.
+[4] **Reorganizace.** Reorganizace se podle § 316 týká podniku dlužníka, který je podnikatelem, a podléhá tam uvedeným výlukám a podmínkám přípustnosti. Aktuální kvantitativní práh činí nejméně 50 000 000 Kč ročního čistého obratu nebo nejméně 50 zaměstnanců; za podmínek § 316 odst. 5 se omezení prahy nepoužije. Rozhodnutím o způsobu řešení je rozhodnutí o povolení reorganizace, nikoli až schválení reorganizačního plánu.
 
-### Praktický pohled
+[5] **Oddlužení.** Podle aktuálního § 389 může oddlužení navrhnout fyzická osoba a také právnická osoba, která není podle zákona považována za podnikatele a nemá dluhy z podnikání. Dluh fyzické osoby z podnikání nebrání oddlužení bez dalšího; rozhodné jsou podmínky § 389 odst. 2. Rozhodnutím o způsobu řešení je rozhodnutí o povolení oddlužení, které je třeba odlišit od pozdějšího rozhodnutí o jeho schválení.
 
-Volba způsobu má **dramatické důsledky**:
-- Konkurs = obvykle velmi nízké uspokojení (5—15 % u nezajištěných v průměru), ztráta dispozic dlužníkem, likvidace podniku.
-- Reorganizace = potenciálně vysoké uspokojení (cíl: lepší než v konkursu — § 348), kontinuita podnikání.
-- Oddlužení = pro FO klíčový institut umožňující návrat do ekonomického života (osvobození od neuhrazených dluhů — § 414).
+[6] **Zvláštní způsoby.** Písmeno d) není zmocněním soudu vytvořit další způsob podle volné úvahy. Odkazuje jen na zvláštní úpravu obsaženou v insolvenčním zákoně pro určené subjekty nebo případy. Zákon takto upravuje zejména nepatrný konkurs a zvláštní režimy finančních institucí.
 
-Dlužník, jeho věřitelé i správce by měli volbu způsobu zvažovat *strategicky* — řada institutů (předjednaný reorganizační plán, prepack) předpokládá, že přípravu zahájíte ještě před podáním insolvenčního návrhu.
+[7] **Rozhodnutí o úpadku a o způsobu řešení.** Jde o pojmově rozdílná rozhodnutí. Zákon v § 148 stanoví případy, kdy se rozhodnutí o způsobu spojí s rozhodnutím o úpadku; mimo ně se postupuje samostatně podle § 149. Z pouhého rozhodnutí o úpadku proto nelze bez kontroly jeho výroku dovozovat, že byl současně určen i způsob řešení.
 
-### F. Kazuistika
+[8] **Intertemporální kontrola.** § 4 zůstal obsahově stabilní, navazující podmínky jednotlivých způsobů se však měnily. Pro právní posouzení proto nestačí převzít dnešní práh reorganizace nebo dnešní osobní rozsah oddlužení do řízení vedeného podle staršího znění; rozhodné znění je třeba určit zvlášť.
 
-**1. Modelová situace.** Dlužník — výrobní akciová společnost s ročním obratem 1,2 mld. Kč a 120 zaměstnanci — je v hrozícím úpadku. Podnik je životaschopný, ale zatížený dluhem. Management připravil s klíčovými věřiteli předjednaný reorganizační plán a chce, aby úpadek byl řešen reorganizací, nikoli konkursem. Současně menšinový věřitel tlačí na prohlášení konkursu. Důkazy: účetní výkazy a obrat, počet zaměstnanců, návrh reorganizačního plánu, souhlasy věřitelů, znalecký posudek o provozuschopnosti.
+### Judikatura
 
-**2. Právní otázka.** Který ze způsobů řešení úpadku podle § 4 odst. 1 přichází u tohoto dlužníka v úvahu a jaké rozhodnutí soudu (§ 4 odst. 2) tento způsob „aktivuje"?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 4 odst. 1 (taxativní výčet: konkurs, reorganizace, oddlužení, zvláštní způsoby), odst. 2 (rozhodnutí o způsobu řešení = rozhodnutí o prohlášení konkursu / o povolení reorganizace / o povolení oddlužení).
-- *Související ustanovení téhož zákona:* § 148, § 149 (spojení / oddělení rozhodnutí o úpadku a o způsobu řešení), § 316 (věcné předpoklady reorganizace — obrat 1 mld. Kč nebo 50 zaměstnanců, popř. souhlas věřitelů s plánem), § 244 a násl. (konkurs), § 389 (předpoklady oddlužení), § 348 (schválení reorganizačního plánu — test „lepší než konkurs").
-- *Související předpisy:* Směrnice (EU) 2019/1023 (restrukturalizace); ZOK (postavení statutárního orgánu).
-- *Judikatura:* nosný závěr, že volba způsobu řešení úpadku musí respektovat společný zájem věřitelů (§ 2 písm. j)) a zásady § 5 — viz ÚS IV.ÚS 983/13 (cíl nejvyššího uspokojení) citovaný u § 5.
-
-**4. Subsumpce.** Dlužník je podnikatelem (a. s.) → konkurs je přípustný vždy, reorganizace je přípustná, splní-li ekonomický test § 316. Obrat 1,2 mld. Kč **i** počet zaměstnanců 120 — **oba** kvantitativní prahy § 316 jsou splněny (stačí jeden), reorganizace je tedy věcně možná i bez předjednaného plánu; předjednaný plán navíc otevírá i cestu bez splnění prahů. Oddlužení (§ 389) je vyloučeno (jde o PO-podnikatele s podnikatelskými dluhy). Způsob „reorganizace" se aktivuje **rozhodnutím o povolení reorganizace** (§ 4 odst. 2 písm. b)).
-
-**5. Řešení.** Je-li dlužník v hrozícím úpadku, podá návrh sám (§ 98 ve spojení s § 3 odst. 5) a navrhne reorganizaci s předjednaným plánem. Tlak menšinového věřitele na konkurs sám o sobě reorganizaci nevylučuje — rozhodující je hlasování věřitelů a test § 348 (reorganizace musí věřitelům přinést alespoň tolik co konkurs). Praktické kroky: zajistit souhlasy potřebných skupin, doložit provozuschopnost, předložit reorganizační plán současně s návrhem (prepack). Riziko: nepřijetí plánu věřiteli → přeměna reorganizace v konkurs (§ 363).
-
-**6. Varianty.** (a) Kdyby dlužník nesplnil prahy § 316 a neměl předjednaný plán s potřebnými souhlasy, reorganizace by nebyla přípustná a úpadek by se řešil konkursem (§ 4 odst. 2 písm. a)). (b) Kdyby šlo o nepodnikající fyzickou osobu, jediné sanační řešení by bylo oddlužení a způsob by aktivovalo rozhodnutí o povolení oddlužení (písm. c)).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Výčet způsobů řešení je demonstrativní, lze zvolit i jiný (např. mimosoudní dohodu)." — Neutralizace: § 4 odst. 1 je *taxativní*; mimosoudní řešení nestojí pod IZ vůbec (§ 1). Jiný než vyjmenovaný způsob soud zvolit nemůže.
-- *Protiargument:* „Rozhodnutí o úpadku už samo určuje konkurs." — Neutralizace: rozhodnutí o způsobu řešení je *samostatný* akt (§ 4 odst. 2, § 148–149), byť může být s rozhodnutím o úpadku spojeno; reorganizaci/oddlužení aktivuje jiné rozhodnutí než konkurs.
-- *Slabé místo:* splnění předpokladů reorganizace (§ 316) a reálnost plánu jsou skutkově náročné; bez kvalitního ekonomického podkladu hrozí překlopení do konkursu.
-
-### H. Praktický závěr
-
-Paragraf 4 vymezuje taxativně čtyři způsoby řešení úpadku a určuje, kterým rozhodnutím se každý z nich aktivuje. Volba způsobu má dramatické dopady na míru uspokojení a osud podniku, a proto se připravuje strategicky, často ještě před podáním návrhu.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Je dlužník podnikatel (→ možná reorganizace) nebo FO (→ možné oddlužení)?
-- [ ] Splňuje dlužník ekonomický test reorganizace dle § 316 (obrat 1 mld. Kč / 50 zaměstnanců / souhlas věřitelů s plánem)?
-- [ ] Je k dispozici předjednaný reorganizační plán (prepack)?
-- [ ] Které rozhodnutí podle § 4 odst. 2 daný způsob aktivuje?
-
-**Typicky rozhodné důkazy / podklady:** účetní výkazy (obrat), evidence zaměstnanců, reorganizační plán a souhlasy věřitelů, znalecký posudek o provozuschopnosti / srovnání s konkursem (§ 348).
+Pro výše uvedené definiční závěry není použito žádné soudní rozhodnutí. Dřívější obecný odkaz na rozhodnutí Ústavního soudu uvedené u § 5 byl odstraněn, protože bez otevření a ověření plného textu nemůže sloužit jako pramen k § 4; nejde o tvrzení, že relevantní judikatura neexistuje.
 
 ---
 

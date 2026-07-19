@@ -65,81 +65,94 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola; tento od
 
 ## § 2 — Vymezení některých základních pojmů
 
-Paragraf 2 obsahuje **legislativní legendu** — definice klíčových pojmů, které zákon dále používá. Definice jsou výlučné pro účely IZ (formulace „pro účely tohoto zákona se rozumí"). Mimo IZ mohou mít tytéž pojmy odlišný obsah (typicky „věřitel" v občanském zákoníku má širší obsah než „věřitel" v IZ — viz omezení v § 165).
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-### Pojem po pojmu
+### Znění ustanovení
 
-**a) Insolvenční řízení** — soudní řízení, jehož předmětem je dlužníkův úpadek nebo hrozící úpadek a způsob jeho řešení. *Dvě komponenty předmětu řízení*: (i) zjištění úpadku a (ii) rozhodnutí o způsobu jeho řešení. Není to jediné řízení v rámci IZ — jsou tu i incidenční spory (písm. d), o nichž rozhoduje insolvenční soud zvlášť, ale procesně samostatně.
+> Pro účely tohoto zákona se rozumí
+>
+> a) insolvenčním řízením soudní řízení, jehož předmětem je dlužníkův úpadek nebo hrozící úpadek a způsob jeho řešení,
+>
+> b) insolvenčním soudem soud, před nímž probíhá insolvenční řízení, jakož i soud, který rozhoduje o opravném prostředku v insolvenčním řízení,
+>
+> c) insolvenčním návrhem u insolvenčního soudu podaný návrh na zahájení insolvenčního řízení,
+>
+> d) incidenčním sporem spory vyvolané insolvenčním řízením, o kterých tak stanoví tento zákon, projednávané v rámci insolvenčního řízení,
+>
+> e) majetkovou podstatou majetek určený k uspokojení dlužníkových věřitelů,
+>
+> f) osobou s dispozičními oprávněními osoba, které v průběhu insolvenčního řízení přísluší právo nakládat s majetkovou podstatou ohledně všech oprávnění, ze kterých se skládá,
+>
+> g) zajištěným věřitelem věřitel, jehož pohledávka je zajištěna majetkem, který náleží do majetkové podstaty, a to jen zástavním právem, zadržovacím právem, omezením převodu nemovitosti, zajišťovacím převodem práva nebo postoupením pohledávky k zajištění anebo obdobným právem podle zahraniční právní úpravy; zajištěným věřitelem je i agent pro zajištění podle zákona o dluhopisech,
+>
+> h) přihláškou pohledávky procesní úkon, kterým věřitel uplatňuje uspokojení svých práv v insolvenčním řízení,
+>
+> i) insolvenčním rejstříkem informační systém, který obsahuje údaje podle tohoto zákona,
+>
+> j) společným zájmem věřitelů zájem nadřazený jejich jednotlivým zájmům, je-li jeho cílem, aby zvolený způsob řešení úpadku byl pro ně spravedlivý a výnosnější než ostatní způsoby řešení úpadku; tím není dotčeno zákonem zaručené zvláštní postavení některých věřitelů,
+>
+> k) finanční institucí banka, spořitelní a úvěrní družstvo, obchodník s cennými papíry, který je investičním podnikem podle čl. 4 odstavce 1 bodu 2 nařízení Evropského parlamentu a Rady (EU) č. 575/2013 o obezřetnostních požadavcích na úvěrové instituce a investiční podniky (dále jen „obchodník s cennými papíry“), pojišťovna a zajišťovna, a za dále stanovených podmínek tohoto zákona i některé další osoby.
 
-**b) Insolvenční soud** — soud, před nímž probíhá insolvenční řízení, **i** soud rozhodující o opravném prostředku. Klíčová věta „jakož i soud, který rozhoduje o opravném prostředku" — i odvolací (vrchní) soud je tedy „insolvenčním soudem" ve smyslu zákona. Věcná příslušnost — viz § 7a (krajské soudy), místní — § 7b.
+### Přehled výkladu
 
-**c) Insolvenční návrh** — návrh na zahájení řízení. Formální požadavky stanoví § 97 a násl. (zejména § 103 — náležitosti návrhu věřitele).
+Ustanovení soustřeďuje jedenáct základních definic používaných v insolvenčním zákoně. Úvodní slova „pro účely tohoto zákona“ vymezují jejich zákonnou funkci; konkrétní právní následek však zpravidla plyne až z navazujícího ustanovení.
 
-**d) Incidenční spor** — *zvláštní procesní instituce IZ*. Jde o spory vyvolané insolvenčním řízením, o kterých to **stanoví výslovně** tento zákon (např. spor o pravost přihlášené pohledávky podle § 198, odpůrčí žaloba podle § 239, spor o vyloučení věci z majetkové podstaty podle § 225). Pravidlo „o kterých tak stanoví tento zákon" je důležité — spory, které IZ za incidenční výslovně neoznačí, se projednávají v běžném sporném řízení.
+Největší aplikační pozornost vyžadují incidenční spor, osoba s dispozičními oprávněními, zajištěný věřitel, přihláška pohledávky, společný zájem věřitelů a finanční instituce. U každého z těchto pojmů je nutno ověřit nejen definici, ale i zvláštní úpravu rozhodné fáze řízení.
 
-**e) Majetková podstata** — majetek určený k uspokojení dlužníkových věřitelů. Detailní úprava — Hlava VI (§ 205 a násl.). Pozor — majetková podstata není samostatným subjektem práva (nemá právní osobnost), je to jen souhrn majetku.
+### Souvisící ustanovení
 
-**f) Osoba s dispozičními oprávněními** — kdo má v daném okamžiku právo nakládat s majetkovou podstatou. **Klíčový pojem!** Po prohlášení konkursu jím je insolvenční správce (§ 246), v případě reorganizace zpravidla dlužník s dispozičními oprávněními (§ 330), při oddlužení splátkovým kalendářem dlužník (§ 409).
+- § 3 a 4 — úpadek, hrozící úpadek a způsoby řešení úpadku;
+- § 7a a 7b — věcná a místní příslušnost insolvenčního soudu;
+- § 16 a 159 — účastníci a zákonný výčet incidenčních sporů;
+- § 166 až 173 a § 203 — uplatňování pohledávek a práva na uspokojení ze zajištění;
+- § 205 až 229 — rozsah majetkové podstaty a dispoziční oprávnění;
+- § 246, § 330 a § 409 — dispoziční oprávnění při konkursu, reorganizaci a oddlužení;
+- § 230, § 293 a § 298 — správa a zpeněžení předmětu zajištění a vydání výtěžku;
+- § 419 až 425 — insolvenční rejstřík;
+- § 6 a část druhá hlava IV — osobní rozsah zákona a zvláštní pravidla pro některé finanční instituce.
 
-**g) Zajištěný věřitel** — věřitel, jehož pohledávka je zajištěna **majetkem** patřícím do majetkové podstaty, a to **jen** zástavním právem, zadržovacím právem, omezením převodu nemovitosti, zajišťovacím převodem práva, postoupením pohledávky k zajištění nebo obdobným zahraničním právem. *Taxativní výčet zajišťovacích titulů!* Ostatní formy zajištění (např. ručení, zajišťovací směnka, finanční záruka) nedávají věřiteli postavení zajištěného. Nově zahrnuje i **agenta pro zajištění** podle zákona o dluhopisech.
+### Souvisící předpisy
 
-Statut zajištěného věřitele je v IZ velmi výhodný: takový věřitel se uspokojuje z výtěžku zpeněžení zástavy (§ 298), nikoli z obecné podstaty, a má vyšší vliv na řízení (např. pokyny správci ke správě a zpeněžení zástavy podle § 230 odst. 2 a § 293).
+- zákon č. 190/2004 Sb., o dluhopisech, zejména § 20 a 20a — agent pro zajištění;
+- nařízení Evropského parlamentu a Rady (EU) č. 575/2013, čl. 4 odst. 1 bod 2 — pojem investičního podniku, na který odkazuje písm. k);
+- zákon č. 307/2018 Sb., část osmá čl. IX a část dvanáctá čl. XIII — doplnění agenta pro zajištění do § 2 písm. g) s účinností od 4. 1. 2019.
 
-**h) Přihláška pohledávky** — procesní úkon, kterým věřitel uplatňuje uspokojení v insolvenčním řízení. *Procesní povaha* — bez přihlášky neuspokojí věřitel své pohledávky v IZ (s výjimkou pohledávek za podstatou a pohledávek postavených na roveň — § 168, § 169). Pravidla přihlašování — § 173 a násl.
+### Z důvodové zprávy
 
-**i) Insolvenční rejstřík** — informační systém s údaji o insolvenčních řízeních. Veřejný, bezplatně přístupný (§ 419 a násl.). **Centrální nervová soustava insolvence** — bez funkčního rejstříku by celá soustava doručování zveřejněním (§ 71, § 75) zkolabovala.
+Původní důvodová zpráva vysvětluje, že § 2 neměl soustředit všechny pojmy či legislativní zkratky zákona, ale jen základní pojmy užívané často a od počátku. Nová terminologie měla podpořit koncepci jednotného soudního řízení bez ohledu na zvolený způsob řešení úpadku; odtud pocházejí zejména pojmy insolvenční řízení, insolvenční soud, insolvenční návrh a majetková podstata.
 
-**j) Společný zájem věřitelů** — zájem **nadřazený** jednotlivým zájmům jednotlivých věřitelů. Cíl: aby zvolený způsob řešení úpadku byl spravedlivý a *výnosnější než ostatní způsoby řešení úpadku*. Tento pojem je rozhodující při hlasování věřitelů (např. o reorganizačním plánu — § 348 odst. 1 písm. d), nebo o pokynu k vyloučení věci ze soupisu, § 224). Soud má pravomoc rozhodnout proti vůli většiny věřitelů, jestliže rozhodnutí odporuje společnému zájmu (typicky tzv. *cram-down* u reorganizace — § 348 odst. 2).
+### Literatura
 
-> **Klíčová judikatura k pojmu společný zájem věřitelů**: NS sp. zn. 29 NSČR 30/2010 (R 14/2011) a další rozhodnutí senátu 29 Cdo. Soud musí test společného zájmu uplatňovat materiálně, nikoli jen formálně podle hlasovacího výsledku.
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní literární rešerše.
 
-**k) Finanční instituce** — banka, spořitelní a úvěrní družstvo, obchodník s cennými papíry (investiční podnik podle nařízení 575/2013), pojišťovna, zajišťovna. *Důležité*: finanční instituce nepodléhají IZ po dobu trvání licence (§ 6 odst. 2), pro jejich krizi se použije zákon č. 374/2015 Sb. (banky a OCP) nebo zvláštní úprava ostatních finančních zákonů.
+### Výklad
 
-### Vazby a souvislosti
+[1] **Písmena a) až c).** Insolvenční řízení zahrnuje soudní projednání úpadku nebo hrozícího úpadku a způsobu jeho řešení. Insolvenčním soudem je v zákonném smyslu také soud rozhodující o opravném prostředku; pravidla příslušnosti určují § 7a a 7b. Insolvenční návrh je návrhem podaným u insolvenčního soudu, jehož oprávněné podatele, náležitosti a vady upravují zejména § 97, § 103 a § 128.
 
-- Definice se vrací v drtivé většině dalších paragrafů.
-- Definice „zajištěného věřitele" — § 167 (uspokojení), § 298 (výtěžek), § 293 (pokyny správci).
-- Definice „společného zájmu" — § 51, § 224, § 348.
+[2] **Písmeno d).** Incidenční je pouze spor vyvolaný insolvenčním řízením, který insolvenční zákon do této kategorie zařazuje. Základní výčet je v § 159 odst. 1; účastenství upravuje § 16. O konkrétním procesním režimu proto nelze rozhodovat jen podle věcné souvislosti sporu s insolvencí.
 
-### Praktická poznámka
+[3] **Písmena e) a f).** Definice majetkové podstaty vyjadřuje její účel; konkrétní rozsah určuje zejména § 205 až 208. Osoba s dispozičními oprávněními se může v průběhu řízení změnit. Zákon ji obecně určuje v § 229 a zvlášť při jednotlivých způsobech řešení úpadku, zejména v § 246, § 330 a § 409.
 
-Pokud klient v insolvenci uplatňuje pohledávku ze zajištění, **vždy** ověřte, zda jde o některou z forem v § 2 písm. g) — ručení a zajišťovací směnka mu status zajištěného nedají, byť hmotněprávně zajištění je. Důsledek je obrovský: nezajištění věřitelé v konkursu typicky dostanou jednotky procent, zajištění věřitelé desítky až sto procent.
+[4] **Písmeno g).** Postavení zajištěného věřitele předpokládá pohledávku zajištěnou majetkem náležejícím do majetkové podstaty některým z výslovně vyjmenovaných tuzemských práv nebo obdobným právem podle zahraniční úpravy. Osobní zajištění, například ručení, samo o sobě do tohoto výčtu nepatří. Zvláštní věta přiznává postavení zajištěného věřitele také agentu pro zajištění podle zákona o dluhopisech; do zákona byla doplněna s účinností od 4. 1. 2019.
 
-### F. Kazuistika
+[5] **Písmena h) a i).** Přihláška je zákonem kvalifikovaný procesní úkon; co se přihlašuje a co se uplatňuje jiným způsobem, určují zejména § 165 až 173 a § 203. Insolvenční rejstřík je informační systém s obsahem a funkcemi vymezenými zejména § 419 až 425; z pouhé definice písmene i) nelze dovozovat konkrétní účinky zveřejnění nebo doručení.
 
-**1. Modelová situace.** Věřitel poskytl dlužníkovi úvěr 10 mil. Kč, který je zajištěn (i) zástavním právem k nemovitosti dlužníka zapsaným v katastru a současně (ii) ručením třetí osoby (mateřské společnosti) a (iii) zajišťovací směnkou. Dlužník se dostal do úpadku, byl prohlášen konkurs. Věřitel přihlásil pohledávku a označil ji jako zajištěnou v celém rozsahu. Důkazy: úvěrová smlouva, zástavní smlouva a výpis z katastru, ručitelské prohlášení, zajišťovací směnka, soupis majetkové podstaty.
+[6] **Písmeno j).** Společný zájem věřitelů není prostým součtem individuálních zájmů. Zákonná definice spojuje jeho nadřazenost s cílem spravedlivějšího a výnosnějšího způsobu řešení úpadku a současně výslovně zachovává zákonem zaručené zvláštní postavení některých věřitelů. Definice sama nezakládá pravomoc soudu ani věřitelského orgánu; tu musí poskytovat konkrétní ustanovení.
 
-**2. Právní otázka.** V jakém rozsahu má věřitel v insolvenčním řízení postavení **zajištěného věřitele** podle § 2 písm. g), opírá-li se o zástavní právo, ručení i zajišťovací směnku zároveň?
+[7] **Písmeno k).** Definice zahrnuje výslovně uvedené regulované osoby a za dalších zákonných podmínek i osoby další. Nelze z ní bez kontroly § 6 a zvláštní části zákona dovodit, že každá osoba spadající pod písm. k) je vždy a v celém rozsahu vyloučena z působnosti insolvenčního zákona. To je významné zejména u obchodníků s cennými papíry, pro něž § 6 odst. 2 písm. a) stanoví další podmínku.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 2 písm. g) — taxativní výčet zajišťovacích titulů zakládajících status zajištěného věřitele (zástavní právo, zadržovací právo, omezení převodu nemovitosti, zajišťovací převod práva, postoupení pohledávky k zajištění, obdobné zahraniční právo).
-- *Související ustanovení téhož zákona:* § 167 (uspokojení zajištěných věřitelů), § 298 (vydání výtěžku zpeněžení zajištění), § 293 (pokyny zajištěného věřitele ke správě a zpeněžení), § 166 (povinnost uplatnit zajištění v přihlášce), § 183 (zajištění majetkem třetí osoby — ručení).
-- *Související předpisy:* OZ § 1309 a násl. (zástavní právo), § 2018 a násl. (ručení), zákon č. 190/2004 Sb. o dluhopisech (agent pro zajištění).
-- *Judikatura:* nosný závěr, že výčet zajišťovacích titulů v § 2 písm. g) je taxativní a že ručení ani zajišťovací směnka nezakládají postavení zajištěného věřitele *vůči majetku dlužníka v jeho insolvenci* (uspokojení z ručení se řeší vůči ručiteli, nikoli z podstaty dlužníka).
+[8] **Intertemporalita.** Pro právní poměry vzniklé před změnou definice je nutno zjistit znění účinné v rozhodné době a přechodná pravidla příslušné novely. Aktuální status agenta pro zajištění proto nelze bez této kontroly mechanicky přenášet před 4. 1. 2019.
 
-**4. Subsumpce.** Zástavní právo k nemovitosti dlužníka — **naplňuje** znak § 2 písm. g); věřitel je v tomto rozsahu zajištěným věřitelem a uspokojí se z výtěžku zpeněžení zástavy (§ 298). Ručení mateřské společnosti — **nenaplňuje** znak (není zajištěním majetkem v podstatě dlužníka); věřitel se hojí přímo na ručiteli. Zajišťovací směnka — rovněž **nenaplňuje** výčet; jde o samostatný hmotněprávní nárok, nikoli o věcné zajištění majetkem podstaty.
+**Praktický checklist k písmenu g):**
 
-**5. Řešení.** V přihlášce věřitel uplatní zajištění jen v rozsahu zástavního práva k nemovitosti (a to řádně — jinak hrozí, že bude uspokojen jako nezajištěný, § 166). Pro zbytek pohledávky (nekrytý hodnotou zástavy) má postavení nezajištěného věřitele. Ručení a směnku uplatní mimo režim zajištěného věřitele — vůči ručiteli žalobou, ze směnky směnečným platebním rozkazem. Riziko: opomenutí uplatnit zajištění v přihlášce nelze později zhojit.
+- Patří předmět zajištění do majetkové podstaty v posuzovaném řízení?
+- Jde o právo uvedené v písmenu g), případně o obdobné právo podle zahraniční úpravy?
+- Bylo právo na uspokojení ze zajištění včas a řádně uplatněno podle § 166 a násl.?
+- Nejde o agenta pro zajištění, u něhož je třeba ověřit § 20 a 20a zákona o dluhopisech?
 
-**6. Varianty.** (a) Kdyby zástava patřila třetí osobě (nikoli dlužníkovi), nešlo by o „majetek patřící do majetkové podstaty" a postavení zajištěného věřitele by v insolvenci dlužníka nevzniklo (řešení viz § 183, § 166). (b) Kdyby místo směnky šlo o zajišťovací převod práva k majetku dlužníka, status zajištěného věřitele by vznikl (písm. g) jej výslovně uvádí).
+### Judikatura
 
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Hmotněprávně jsme zajištěni více tituly, tedy musíme být ‚zajištěným věřitelem' v plném rozsahu." — Neutralizace: § 2 písm. g) je definice *pro účely IZ* a je taxativní; rozhoduje jen věcné zajištění majetkem v podstatě dlužníka, nikoli osobní zajištění (ručení) či směnka.
-- *Protiargument:* „Definice věřitele je v OZ širší, použijeme ji." — Neutralizace: § 165 a § 2 omezují okruh uspokojovaných pohledávek pro účely IZ; obecná občanskoprávní definice se neprosadí.
-- *Slabé místo:* posouzení, zda konkrétní „obdobné zahraniční právo" spadá pod písm. g), může být sporné u přeshraničních zajištění — nutná individuální kvalifikace podle Nařízení 2015/848.
-
-### H. Praktický závěr
-
-Paragraf 2 je legislativní legenda — definice platí jen pro účely IZ. Klíčové jsou pojmy „osoba s dispozičními oprávněními" (písm. f)), „zajištěný věřitel" (písm. g)) a „společný zájem věřitelů" (písm. j)); právě ony rozhodují o reálné míře uspokojení a vlivu na řízení.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Spadá zajištění klienta do taxativního výčtu § 2 písm. g)?
-- [ ] Bylo zajištění řádně uplatněno v přihlášce (§ 166)?
-- [ ] Kdo je v daném okamžiku osobou s dispozičními oprávněními (§ 2 písm. f))?
-- [ ] Je třeba poměřovat úkon „společným zájmem věřitelů" (§ 2 písm. j))?
-
-**Typicky rozhodné důkazy / podklady:** zajišťovací smlouvy a tituly (zástavní smlouva, výpis z katastru/rejstříku zástav), ručitelská prohlášení, směnky, přihláška pohledávky, soupis majetkové podstaty.
+**NS, usnesení ze dne 20. 1. 2011, sen. zn. 29 NSČR 30/2010, ECLI:CZ:NS:2011:29.NSCR.30.2010.1, R 96/2011.** Rozhodnutí se týkalo volby konkursu nebo reorganizace, účinků hlasování schůze věřitelů a přezkumu usnesení o prohlášení konkursu podle tehdejšího znění zákona. Neobsahuje obecný materiální test společného zájmu věřitelů podle § 2 písm. j) a není publikováno jako R 14/2011. Dřívější odkaz na něj jako na nosnou autoritu k tomuto pojmu byl proto odstraněn; rozhodnutí se uvádí pouze k transparentnímu vypořádání této nepravé citace.
 
 ---
 

@@ -419,56 +419,54 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto kon
 
 ## § 16 — Účastníci incidenčních sporů
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Účastníky řízení v incidenčních sporech jsou žalobce a žalovaný, není-li dále stanoveno jinak.
+>
 > (2) Vedlejší účastenství v incidenčních sporech je přípustné.
+
+### Přehled výkladu
+
+Paragraf 16 stanoví obecné procesní vymezení stran incidenčního sporu. Konkrétní druh sporu a osoby oprávněné či povinné v něm vystupovat je vždy nutné určit také podle zvláštní úpravy daného incidenčního sporu. Vedlejší účastenství je v incidenčním sporu přípustné, avšak osoba, která chce podporovat některou ze stran, musí splnit i podmínku právního zájmu podle § 93 o. s. ř. Toto pravidlo je třeba odlišit od zákazu vedlejšího účastenství v samotném insolvenčním řízení podle § 14 odst. 2.
+
+### Souvisící ustanovení
+
+- § 7 — přiměřené použití občanského soudního řádu;
+- § 14 odst. 2 — zákaz vedlejšího účastenství v insolvenčním řízení s výhradou § 16 odst. 2;
+- § 159 — zákonný výčet incidenčních sporů;
+- § 160 — zahájení, projednání a rozhodnutí incidenčního sporu;
+- § 198 a § 199 — zvláštní vymezení žalobce a žalovaného ve sporech o pravost, výši nebo pořadí pohledávky;
+- § 239 — výlučné oprávnění insolvenčního správce podat odpůrčí žalobu.
+
+### Souvisící předpisy
+
+- § 93 zákona č. 99/1963 Sb., občanský soudní řád — právní zájem, vstup vedlejšího účastníka a jeho procesní postavení.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona charakterizoval incidenční spory jako formálně integrované do insolvenčního řízení a současně jako sporná řízení, v nichž jsou účastníky žalobce a žalovaný. Výslovně počítal s vedlejším účastenstvím. Původní návrh navíc v § 16 odst. 2 stanovil zásadní účast insolvenčního správce na jedné ze stran; tento odstavec byl později zrušen zákonem č. 69/2011 Sb., takže původní odstavec 3 o vedlejším účastenství je od 31. 3. 2011 označen jako odstavec 2.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto odložení není závěrem o neexistenci nebo nerelevanci literatury.
 
 ### Výklad
 
-**Odst. 1** — *standardní sporné účastenství*. V incidenčním sporu (např. spor o pravost pohledávky, odpůrčí žaloba) je struktura prostá — žalobce (kterým je často správce nebo věřitel popírající pohledávku) a žalovaný. „Není-li dále stanoveno jinak" pokrývá případy, kdy IZ určuje specifické okruhy účastníků (např. spor o pohledávku se vede vůči správci i věřiteli současně).
+[1] **Hlavní účastníci.** Odstavec 1 vychází z procesního pojetí účastenství ve sporném řízení: hlavními účastníky jsou osoby označené jako žalobce a žalovaný. Samotný § 16 však neurčuje, kdo je v konkrétním sporu věcně legitimován. Výhrada „není-li dále stanoveno jinak“ vyžaduje kontrolu zvláštních ustanovení; u sporů o pohledávky jde zejména o § 198 a § 199, u odpůrčí žaloby o § 239.
 
-**Odst. 2** — *vedlejší účastenství přípustné*. Na rozdíl od hlavního IR. Důvod — IS je sporné řízení s typicky zúženým okruhem stran, kde vstup vedlejšího účastníka (např. ručitele zájemce na zpochybnění pohledávky) má smysl a neparalyzuje řízení.
+[2] **Oddělení od insolvenčního řízení.** Účastenství v insolvenčním řízení podle § 14 a § 15 nelze bez dalšího přenášet do incidenčního sporu. Jde o procesně odlišné okruhy: § 14 odst. 2 vedlejší účastenství v insolvenčním řízení zakazuje, zatímco § 16 odst. 2 je v incidenčních sporech připouští.
 
-### Vazby
+[3] **Vedlejší účastenství.** Přípustnost podle § 16 odst. 2 neznamená automatické přijetí každého zájemce. Přiměřeně použitelný § 93 odst. 1 o. s. ř. vyžaduje právní zájem na výsledku konkrétního sporu. Vedlejší účastník stojí na straně žalobce nebo žalovaného, jedná sám za sebe a rozhodnutí ve věci samé mu nemůže přímo přisoudit právo ani uložit povinnost, které tvoří předmět sporu.
 
-- **§ 159** — výčet incidenčních sporů.
-- **§ 198** — popření pohledávky a navazující incidenční spor.
-- **OSŘ § 93** — vedlejší účastenství.
+[4] **Odpůrčí spor a přihlášený věřitel.** Nejvyšší soud v usnesení sen. zn. 29 ICdo 96/2015 posuzoval odpůrčí žalobu insolvenčního správce a vstup přihlášeného věřitele na jeho straně. V odstavcích 20 až 22 spojil výsledek sporu s rozsahem uspokojení pohledávky a s tím, že věřitel sám zásadně nemůže odpůrčí žalobu podat; uzavřel proto, že tento věřitel má právní zájem na výsledku daného odpůrčího sporu. Závěr je vázán na tento procesní a skutkový kontext a nenahrazuje individuální test § 93 o. s. ř. v jiném incidenčním sporu.
 
-### F. Kazuistika
+[5] **Novelizace a časová použitelnost.** Původní § 16 odst. 2 stanovil, že není-li dále stanoveno jinak, je v incidenčním sporu buď žalobcem, nebo žalovaným insolvenční správce; pravidlo o vedlejším účastenství bylo v odstavci 3. Zákon č. 69/2011 Sb. dosavadní odstavec 2 zrušil a odstavec 3 přečísloval s účinností od 31. 3. 2011. Rozhodnutí 29 ICdo 96/2015 již pracuje s nynější konstrukcí § 14 odst. 2 a § 16 odst. 2; ta je k 19. 7. 2026 textově zachována.
 
-**1. Modelová situace.** Správce S popře pravost pohledávky věřitele V (z titulu směnky). V podá incidenční žalobu o určení pravosti pohledávky proti správci. Do sporu chce vstoupit ručitel R, který směnku avaloval a má zájem na tom, aby pohledávka byla uznána (tím by se snížil jeho regresní závazek), a navrhuje vedlejší účastenství na straně žalobce. Důkazy: přihláška a popěrný úkon správce (§ 198), směnka s avalem, žaloba o určení pravosti.
+### Judikatura
 
-**2. Právní otázka.** Kdo jsou účastníci incidenčního sporu o pravost pohledávky a je v něm přípustné vedlejší účastenství ručitele na straně žalobce?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 16 — účastníky IS jsou žalobce a žalovaný, není-li stanoveno jinak (odst. 1); vedlejší účastenství je v IS přípustné (odst. 2).
-- *Související ustanovení téhož zákona:* § 159 (výčet incidenčních sporů), § 198 (popření pohledávky a navazující spor), § 14 odst. 2 (vyloučení vedlejšího účastenství v hlavním řízení, s odkazem na výjimku § 16 odst. 2).
-- *Související předpisy:* OSŘ § 93 (vedlejší účastenství — podmínka právního zájmu na výsledku); OZ (ručení, regres), zákon směnečný a šekový (aval).
-- *Judikatura:* nosný závěr — v incidenčním sporu o pravost popřené pohledávky je struktura sporná (žalobce vs. žalovaný); zvláštní úprava IZ může okruh stran modifikovat (např. spor směřuje vůči správci i popírajícímu věřiteli).
-
-**4. Subsumpce.** Spor o pravost pohledávky je incidenčním sporem (§ 159, § 198). Účastníky jsou žalobce (V) a žalovaný (popírající — zde správce), případně i další osoby, stanoví-li tak IZ (klauzule „není-li dále stanoveno jinak"). Ručitel R má právní zájem na výsledku (ovlivnění regresu), a protože § 16 odst. 2 vedlejší účastenství v IS připouští, může do sporu vstoupit jako vedlejší účastník na straně žalobce.
-
-**5. Řešení.** Vedlejší účastenství R je přípustné — naplňuje podmínku právního zájmu (§ 93 OSŘ) a § 16 odst. 2 je výslovně dovoluje (na rozdíl od hlavního řízení dle § 14 odst. 2). Soud R připustí. Riziko: musí jít o reálný právní (nikoli jen ekonomický) zájem na výsledku; jinak by vedlejší účastenství nebylo namístě.
-
-**6. Varianty.** (a) Kdyby R chtěl vstoupit do hlavního insolvenčního řízení (ne do IS), bylo by to vyloučeno (§ 14 odst. 2). (b) Kdyby zvláštní ustanovení IZ určilo pro daný typ sporu jiný okruh účastníků (např. povinné společenství žalovaných), uplatnila by se výhrada „není-li dále stanoveno jinak".
-
-### G. Protiargumenty a rizika
-
-- *„Vedlejší účastenství je v insolvenci vždy vyloučeno (§ 14 odst. 2)."* Ne — vyloučeno je jen v hlavním řízení; v incidenčních sporech je výslovně přípustné (§ 16 odst. 2), na což § 14 odst. 2 sám odkazuje.
-- *„Stačí ekonomický zájem na výsledku."* Pro vedlejší účastenství je třeba právní zájem (§ 93 OSŘ); pouhý hospodářský prospěch nepostačí.
-- *Slabé místo:* okruh účastníků IS může být zákonem modifikován (klauzule „není-li dále stanoveno jinak"); je třeba ověřit zvláštní úpravu pro konkrétní typ sporu (§ 159, § 198 a násl.).
-
-### H. Praktický závěr
-
-Paragraf 16 stanoví spornou strukturu incidenčních sporů (žalobce vs. žalovaný) s možností odchylek danou IZ a — na rozdíl od hlavního řízení — připouští vedlejší účastenství. To umožňuje osobám s právním zájmem (typicky ručiteli) zapojit se do sporu o pravost/výši pohledávky.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Urči žalobce a žalovaného incidenčního sporu (§ 16 odst. 1) a ověř, zda IZ nestanoví jiný okruh účastníků.
-- [ ] Pro vedlejší účastenství doloží právní zájem na výsledku (§ 93 OSŘ); v IS je přípustné (§ 16 odst. 2).
-- [ ] Nezaměňuj IS s hlavním řízením — v hlavním řízení je vedlejší účastenství vyloučeno (§ 14 odst. 2).
-- [ ] U sporu z popření pohledávky navaž na § 198 a § 159 (typologie sporu, lhůty).
-
-**Typicky rozhodné důkazy / podklady:** přihláška a popěrný úkon (§ 198), listina o pohledávce (např. směnka, smlouva), doklad o právním zájmu vedlejšího účastníka (ručitelské prohlášení/aval), žaloba a vymezení okruhu stran.
+- **Nejvyšší soud, usnesení ze dne 21. 12. 2016, sen. zn. 29 ICdo 96/2015, ECLI:CZ:NS:2016:29.ICDO.96.2015.1, R 51/2018.** V odpůrčím incidenčním sporu se insolvenční správce domáhal určení neplatnosti či neúčinnosti právních úkonů a vydání plnění do majetkové podstaty. Přihlášený věřitel vstoupil na jeho straně; soud prvního stupně vstup nepřipustil, odvolací soud rozhodnutí změnil a Nejvyšší soud dovolání žalovaného zamítl. V odstavcích 14 až 23 vyložil § 93 o. s. ř., § 14 odst. 2 a § 16 odst. 2 a uzavřel, že přihlášený věřitel má v tomto odpůrčím sporu právní zájem na výsledku na straně insolvenčního správce. Rozhodnutí použilo právní úpravu vedlejšího účastenství odpovídající stavu k 19. 7. 2026.
 
 ---
 

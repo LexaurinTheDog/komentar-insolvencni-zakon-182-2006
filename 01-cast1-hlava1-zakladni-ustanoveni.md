@@ -707,61 +707,59 @@ V tomto kole není uváděno konkrétní rozhodnutí. Původní text obsahoval n
 
 ## § 8
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Ustanovení části první a čtvrté tohoto zákona se použijí, jen nestanoví-li tento zákon v části druhé ohledně některého ze způsobů řešení úpadku jinak.
+
+### Přehled výkladu
+
+Paragraf 8 upravuje vnitřní vztah částí insolvenčního zákona. Odchylné pravidlo, které část druhá stanoví pro určitý způsob řešení úpadku, má v rozsahu odchylky přednost před úpravou v části první a čtvrté. Nejde však o úplné vyloučení těchto částí: jejich ustanovení se nadále použijí, pokud část druhá pro daný způsob řešení úpadku nestanoví jinak.
+
+Toto pravidlo je nutno odlišit od § 7. Paragraf 8 řeší vztah částí téhož zákona, zatímco § 7 upravuje přiměřené použití občanského soudního řádu a zákona o zvláštních řízeních soudních.
+
+### Souvisící ustanovení
+
+- § 7 — subsidiární použití procesních předpisů mimo insolvenční zákon,
+- část první (§ 1 až 243) — obecná část,
+- část druhá (§ 244 až 418) — způsoby řešení úpadku,
+- § 244 až 315 — konkurs,
+- § 316 až 364 — reorganizace,
+- § 365 až 388e — úpadek finančních institucí,
+- § 389 až 418 — oddlužení,
+- část čtvrtá (§ 419 až 434) — společná ustanovení.
+
+### Souvisící předpisy
+
+- zákon č. 99/1963 Sb., občanský soudní řád,
+- zákon č. 292/2013 Sb., o zvláštních řízeních soudních.
+
+Tyto předpisy jsou pro výklad § 8 souvisící pouze prostřednictvím odlišného pravidla v § 7; § 8 sám jejich subsidiární použití neupravuje.
+
+### Z důvodové zprávy
+
+Zvláštní část důvodové zprávy k vládnímu návrhu insolvenčního zákona (sněmovní tisk 1120/0, 4. volební období, k § 8, číslovaná strana 159) označuje § 8 za interpretační pravidlo, podle něhož má úprava jednotlivých způsobů řešení úpadku v části druhé při odchylce přednost před obecnou úpravou.
+
+Důvodová zpráva používá původní označení „část třetí“ pro společná ustanovení. Zákon č. 64/2017 Sb. vložil s účinností od 1. 7. 2017 novou část třetí o akreditaci a dosavadní část třetí označil jako část čtvrtou. Proto dnešní § 8 i aktuální systematika zákona pracují s částí čtvrtou; význam interpretačního pravidla se tím nezměnil.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto konstatování není výsledkem negativní literární rešerše.
 
 ### Výklad
 
-Paragraf 8 obsahuje **subsidiární klauzuli vnitřního uspořádání zákona**. Vyjadřuje vztah mezi obecnou částí (Část první — § 1 až § 243) a závěrečnou částí (Část čtvrtá — § 419 a násl.) na jedné straně a **zvláštní úpravou** jednotlivých způsobů řešení úpadku (Část druhá — konkurs, reorganizace, oddlužení, zvláštní způsoby) na straně druhé.
+[1] Výraz „jen nestanoví-li ... jinak“ zakládá přednost zvláštní úpravy, nikoli obecnou nepoužitelnost částí první a čtvrté. Rozhodující je vždy konkrétní právní otázka a konkrétní způsob řešení úpadku. Odchylka v části druhé vytlačí obecné pravidlo pouze ve svém věcném rozsahu.
 
-**Lex specialis derogat legi generali** — pokud zvláštní úprava určitého způsobu řešení úpadku v Části druhé stanoví od obecné úpravy odchylku, použije se zvláštní úprava. Pravidla Části první a čtvrté nastupují jen tehdy, jestliže zvláštní úprava daný okruh otázek **neupravuje** nebo upravuje jen částečně.
+[2] Při aplikaci je proto třeba nejprve určit způsob řešení úpadku a porovnat pravidlo v příslušné hlavě části druhé s pravidlem části první nebo čtvrté. Jestliže část druhá stanoví odlišný režim, použije se tento režim. Jestliže odchylku nestanoví, § 8 zachovává použití části první a čtvrté; tím není dotčena případná jiná zvláštní úprava.
 
-### Vazby a souvislosti
+[3] Systematický příkaz § 8 nelze zaměňovat s § 7. Teprve po určení, co upravuje samotný insolvenční zákon a které jeho pravidlo má přednost, lze řešit případné přiměřené použití občanského soudního řádu nebo zákona o zvláštních řízeních soudních podle § 7.
 
-- **Část druhá** (§ 244 a násl.) — konkurs (Hlava I), reorganizace (Hlava II), zvláštní úprava pro finanční instituce (Hlavy III a IV), oddlužení (Hlava V).
-- **§ 244 a násl.** — konkurs, který typicky obsahuje zvláštní úpravu odlišnou od obecné (např. dispoziční oprávnění správce v § 246 vs. obecná pravidla v § 229).
-- **§ 316 a násl.** — reorganizace s vlastními pravidly o věřitelských skupinách, hlasování, reorganizačním plánu.
-- **§ 389 a násl.** — oddlužení s vlastním režimem zahájení, návrhu (přes akreditovanou osobu), schválení a osvobození.
+[4] Intertemporální pozornost vyžadují prameny vzniklé před 1. 7. 2017. Jejich odkaz na společná ustanovení v „části třetí“ odpovídá tehdejší systematice. Po vložení nové části třetí zákonem č. 64/2017 Sb. jsou společná ustanovení částí čtvrtou.
 
-### Praktické dopady
+### Judikatura
 
-- Při řešení jakékoliv právní otázky v konkrétním insolvenčním řízení **vždy nejprve** hledejte úpravu v Části druhé pro daný způsob řešení úpadku; teprve při absenci sahejte do obecné úpravy Části první.
-- Typický příklad: lhůty pro přihlášky pohledávek — obecná lhůta v § 136 odst. 3 (2 měsíce od rozhodnutí o úpadku) **nemusí platit** pro některé zvláštní způsoby řešení úpadku — vždy prověřte i § 173 a další ustanovení Části druhé pro daný způsob.
-
-### F. Kazuistika
-
-**1. Modelová situace.** V probíhajícím konkursu řeší správce rozsah svých dispozičních oprávnění k majetku podstaty. Obecná úprava Části první (např. § 229) stanoví jedno pravidlo, zvláštní úprava konkursu v Části druhé (§ 246) pravidlo odlišné. Současně účastník namítá obecnou přihlašovací lhůtu Části první, ač pro daný způsob řešení úpadku platí zvláštní úprava. Důkazy: usnesení o prohlášení konkursu, soupis podstaty, znění relevantních ustanovení Části první vs. druhé.
-
-**2. Právní otázka.** Použije se na konkrétní otázku obecná úprava Části první (a čtvrté), nebo zvláštní úprava daného způsobu řešení úpadku v Části druhé?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 8 — ustanovení Části první a čtvrté se použijí, **jen nestanoví-li** Část druhá ohledně některého ze způsobů řešení úpadku jinak (*lex specialis derogat legi generali* uvnitř zákona).
-- *Související ustanovení téhož zákona:* § 244 a násl. (konkurs — Hlava I Části druhé), § 246 (dispoziční oprávnění správce v konkursu) vs. § 229 (obecná pravidla), § 316 a násl. (reorganizace), § 389 a násl. (oddlužení), § 173 (přihlášky — zvláštní pravidla).
-- *Související předpisy:* obecná zásada *lex specialis derogat legi generali* (teorie práva).
-- *Judikatura:* nosný závěr, že při kolizi obecné a zvláštní úpravy uvnitř IZ má přednost zvláštní úprava způsobu řešení úpadku; obecná pravidla nastupují jen tam, kde zvláštní úprava mlčí nebo upravuje věc jen částečně.
-
-**4. Subsumpce.** Otázka dispozičních oprávnění je v Části druhé pro konkurs **výslovně** upravena (§ 246) → podle § 8 se použije tato zvláštní úprava, nikoli obecné § 229. Přihlašovací lhůta: je-li pro daný způsob řešení úpadku stanovena zvláštní úprava (§ 173 a další v Části druhé), má přednost před obecnou lhůtou Části první. Obecná úprava se uplatní jen pro otázky, které Část druhá neřeší.
-
-**5. Řešení.** Postup je dvoufázový: (1) **nejprve** hledat úpravu v Části druhé pro konkrétní způsob řešení úpadku; (2) teprve při její absenci sáhnout do Části první/čtvrté. V dané věci se dispozice řídí § 246 (Část druhá). Praktický krok: u každé sporné otázky ověřit, zda Hlava věnovaná danému způsobu (konkurs/reorganizace/oddlužení/zvláštní způsoby) neobsahuje speciální pravidlo. Riziko: mechanické použití obecného ustanovení Části první bez prověření Části druhé vede k věcně nesprávnému závěru.
-
-**6. Varianty.** (a) Kdyby Část druhá danou otázku **neupravovala** (mezera), použije se podle § 8 obecná úprava Části první/čtvrté. (b) U reorganizace či oddlužení mohou platit jiné zvláštní odchylky než u konkursu — § 8 vede k samostatnému prověření Části druhé pro **každý** způsob řešení úpadku zvlášť.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Část první jako ‚obecná část' platí vždy a přednostně." — Neutralizace: § 8 výslovně zakládá přednost zvláštní úpravy Části druhé (*lex specialis*); Část první je subsidiární.
-- *Protiargument:* „Zvláštní úprava způsobu řešení úpadku vylučuje Část první úplně." — Neutralizace: vylučuje ji jen v rozsahu, v němž stanoví *jinak*; pro neupravené otázky Část první nadále platí.
-- *Slabé místo:* rozpoznat, zda Část druhá danou otázku upravuje „jinak", nebo jen částečně (a kde je tedy mezera vyplněná Částí první), může být výkladově sporné; nutná pečlivá komparace ustanovení.
-
-### H. Praktický závěr
-
-Paragraf 8 je vnitřní subsidiární klauzule zákona: obecná úprava Části první a čtvrté ustupuje zvláštní úpravě jednotlivých způsobů řešení úpadku v Části druhé (*lex specialis derogat legi generali*). Při řešení každé otázky proto nejprve hledejte speciální pravidlo pro daný způsob řešení úpadku a teprve při jeho absenci aplikujte obecnou část.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] O který způsob řešení úpadku jde (konkurs / reorganizace / oddlužení / zvláštní)?
-- [ ] Upravuje danou otázku zvláštní úprava v Části druhé pro tento způsob?
-- [ ] Stanoví Část druhá „jinak" (přednost), nebo mlčí (nastupuje Část první/čtvrtá)?
-- [ ] Nebyla mechanicky použita obecná úprava bez prověření Části druhé?
-
-**Typicky rozhodné důkazy / podklady:** rozhodnutí o způsobu řešení úpadku, znění relevantních ustanovení Části první/čtvrté a Části druhé, dokumentace ke konkrétní sporné otázce (soupis, přihlášky, dispoziční úkony).
+V tomto kole není uváděno konkrétní rozhodnutí. Původní obecný judikatorní závěr nebyl spojen s identifikovaným rozhodnutím ani s ověřeným plným textem, a proto byl odstraněn.
 
 ---
 

@@ -384,86 +384,85 @@ Odborná literatura nebyla v tomto kole hodnocena; její rešerše a případné
 
 ## § 6 — Výjimky z působnosti zákona
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Tohoto zákona nelze použít, jde-li o
+>
 > a) stát,
-> b) územní samosprávný celek,
+>
+> b) územní samosprávný celek2),
+>
 > c) Českou národní banku,
+>
 > d) Všeobecnou zdravotní pojišťovnu České republiky,
+>
 > e) Garanční systém finančního trhu a jím spravované fondy,
+>
 > f) Garanční fond obchodníků s cennými papíry,
+>
 > g) veřejnou vysokou školu, nebo
-> h) právnickou osobu, jestliže stát nebo vyšší územní samosprávný celek před zahájením insolvenčního řízení převzal všechny její dluhy nebo se za ně zaručil.
+>
+> h) právnickou osobu, jestliže stát nebo vyšší územní samosprávný celek2) před zahájením insolvenčního řízení převzal všechny její dluhy nebo se za ně zaručil.
 >
 > (2) Tohoto zákona nelze dále použít, jde-li o
+>
 > a) finanční instituci, po dobu, po kterou je nositelem licence nebo povolení podle zvláštních právních předpisů, upravujících její činnost; toto se nevztahuje na obchodníka s cennými papíry,
-> b) zdravotní pojišťovnu zřízenou podle zvláštního právního předpisu, po dobu, po kterou je nositelem povolení k provádění veřejného zdravotního pojištění,
+>
+> b) zdravotní pojišťovnu zřízenou podle zvláštního právního předpisu3), po dobu, po kterou je nositelem povolení k provádění veřejného zdravotního pojištění,
+>
 > c) politickou stranu nebo politické hnutí v době vyhlášených voleb podle zvláštního právního předpisu.
+
+### Přehled výkladu
+
+Ustanovení negativně vymezuje osobní působnost insolvenčního zákona. Odstavec 1 obsahuje výluky nevázané na trvání licence, povolení nebo voleb; odstavec 2 váže nepoužitelnost zákona na výslovně určené období. Výčet je třeba aplikovat na konkrétního dlužníka, nikoli bez dalšího na jinou osobu jen pro její organizační, zakladatelské nebo skupinové spojení s vyjmenovaným subjektem.
+
+### Souvisící ustanovení
+
+- § 2 písm. k) — definice finanční instituce,
+- § 97 až 100a — zahájení insolvenčního řízení a insolvenční návrh,
+- § 108 — záloha na náklady insolvenčního řízení; nejde o úpravu procesního výsledku při výluce podle § 6,
+- § 142 a § 143 — druhy jiných rozhodnutí o insolvenčním návrhu a důvody jeho zamítnutí,
+- § 143 odst. 4 — převzetí všech dluhů nebo záruka státem či vyšším územním samosprávným celkem po zahájení řízení,
+- § 367 až 388 — zvláštní ustanovení o úpadku finančních institucí.
+
+### Souvisící předpisy
+
+- zákon č. 21/1992 Sb., o bankách,
+- zákon č. 87/1995 Sb., o spořitelních a úvěrních družstvech,
+- zákon č. 256/2004 Sb., o podnikání na kapitálovém trhu,
+- zákon č. 277/2009 Sb., o pojišťovnictví,
+- zákon č. 280/1992 Sb., o resortních, oborových, podnikových a dalších zdravotních pojišťovnách,
+- zákon č. 424/1991 Sb., o sdružování v politických stranách a v politických hnutích,
+- zákon č. 111/1998 Sb., o vysokých školách,
+- zákon č. 374/2015 Sb., o ozdravných postupech a řešení krize na finančním trhu.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva k vládnímu návrhu insolvenčního zákona, sněmovní tisk 1120/0, ve zvláštní části „K § 6“ vysvětluje snahu omezit výjimky na nezbytnou míru. Trvale vyňaté veřejnoprávní subjekty spojovala s jejich specifickým postavením a úkoly; u finančních institucí a zdravotních pojišťoven zdůvodňovala dočasnost výluky zvláštními režimy a trváním licence či povolení. U převzetí dluhů nebo záruky před zahájením řízení výslovně odkazovala na odlišné řešení pozdější garance, dnes obsažené v § 143 odst. 4. Protože původní výčet i označení institucí byly novelizovány, důvodová zpráva dokládá legislativní záměr původní úpravy, nikoli sama o sobě aktuální znění.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola revize.
 
 ### Výklad
 
-Paragraf 6 stanoví **osobní působnost** zákona negativně — vyjmenovává subjekty, na které IZ **nelze** použít vůbec (odst. 1) nebo jen dočasně (odst. 2).
+[1] Odstavec 1 stanoví nepoužitelnost zákona pro taxativně označené subjekty a pro právnickou osobu splňující podmínky písmene h). Samotná právní, majetková či organizační vazba na stát, územní samosprávný celek, banku nebo veřejnou vysokou školu výluku nezakládá; posuzovaná osoba musí sama odpovídat některé zákonné kategorii.
 
-#### Trvalé výjimky (§ 6 odst. 1)
-- **a) stát** — nepodléhá insolvenci (suverenita; státní dluhy se řeší rozpočtově/zákonem o rozpočtových pravidlech).
-- **b) územní samosprávný celek (ÚSC)** — kraj, obec; pro krizi obcí existují jiné mechanismy (§ 50 zákona č. 250/2000 Sb. o rozpočtových pravidlech územních rozpočtů).
-- **c) Česká národní banka** — centrální banka, vyloučena z principu (nezávislost, monetární funkce).
-- **d) Všeobecná zdravotní pojišťovna ČR** — pro VZP existuje speciální veřejnoprávní úprava (zákon č. 551/1991 Sb.).
-- **e) Garanční systém finančního trhu a jím spravované fondy** — instituce pro pojištění vkladů a krytí ztrát klientů obchodníků s cennými papíry.
-- **f) Garanční fond obchodníků s cennými papíry** — pozn.: písmena e) a f) se po reformě garančních systémů v letech 2015—2016 v praxi prolínají.
-- **g) veřejná vysoká škola** — VVŠ je veřejná instituce, případnou krizi řeší zřizovatel (stát) v rámci zákona o vysokých školách.
-- **h) PO, za jejíž dluhy stát nebo VÚSC převzal ručení / dluhy** — důvod: pokud stát garantuje, není věcný důvod insolvenci (věřitelé budou uspokojeni z garance).
+[2] Písmeno h) vyžaduje právnickou osobu, převzetí všech jejích dluhů nebo záruku za všechny dluhy a uskutečnění této skutečnosti před zahájením insolvenčního řízení. Nastane-li převzetí nebo záruka až po zahájení řízení, nejde o výluku podle § 6 odst. 1 písm. h); u věřitelského návrhu upravuje § 143 odst. 4 jeho zamítnutí.
 
-#### Dočasné výjimky (§ 6 odst. 2)
-- **a) finanční instituce s platnou licencí** — banky, spořitelní družstva, pojišťovny, zajišťovny (nikoli OCP). Důvod: pro tyto subjekty platí specializovaná veřejnoprávní úprava (Zákon č. 374/2015 Sb. o ozdravných postupech a řešení krize na finančním trhu, ZoB, ZoSDr atd.). Pokud licence zanikne, lze IZ použít.
-- **b) zdravotní pojišťovna s povolením** — speciální úprava v zákoně č. 280/1992 Sb.
-- **c) politická strana / hnutí v době vyhlášených voleb** — výjimka chrání politický proces; po volbách lze řízení zahájit.
+[3] Odstavec 2 obsahuje časově omezené výluky. U finanční instituce a zdravotní pojišťovny trvají jen po dobu příslušné licence nebo povolení; u politické strany nebo politického hnutí jen v době vyhlášených voleb podle zvláštního předpisu. Po zániku rozhodné okolnosti nelze pokračující nepoužitelnost insolvenčního zákona dovozovat jen z dřívějšího statusu.
 
-### Vazby
+[4] Pojem finanční instituce je třeba číst s § 2 písm. k). Obchodník s cennými papíry sice do zákonné definice finanční instituce patří, závěrečná věta § 6 odst. 2 písm. a) jej však z této dočasné výluky výslovně vyjímá. Jeho úpadek a úpadek dalších vyjmenovaných finančních subjektů upravují zvláštní ustanovení § 367 až 388.
 
-- **Zákon č. 374/2015 Sb.** — řešení krize bank, OCP, ústředních protistran.
-- **Nařízení (EU) 806/2014** (SRM) — pro významné úvěrové instituce v rámci eurozóny.
-- **Zákon č. 250/2000 Sb.** — krizové režimy pro obce.
+[5] Procesní následek nelze paušálně spojovat s § 108, který upravuje zálohu na náklady řízení. § 142 rozlišuje odmítnutí, zastavení a zamítnutí insolvenčního návrhu; správný výsledek závisí na procesní situaci a zákonném důvodu. Výslovné pravidlo pro garanci vzniklou až po zahájení řízení obsahuje § 143 odst. 4.
 
-### Praktický význam
+[6] Novelizace výčtu nemění základní intertemporální test pro rozhodný den: použije se znění účinné k posuzované době a ověří se identita dlužníka i časově proměnlivé znaky výluky. Historické názvy fondů a původní označení písmen v důvodové zprávě proto nelze zaměňovat s aktuálním normativním textem.
 
-- Před podáním insolvenčního návrhu **vždy** ověřte status dlužníka — pokus o zahájení řízení proti subjektu v § 6 vede k zamítnutí pro nedostatek podmínky řízení (§ 108).
-- U skupin (např. dceřinka banky) **dceřinka banky není „finanční institucí"** ve smyslu § 6 odst. 2 písm. a), pokud sama nemá bankovní licenci.
+### Judikatura
 
-### F. Kazuistika
-
-**1. Modelová situace.** Věřitel chce podat insolvenční návrh na společnost ALFA, a. s., která je dceřinou společností banky a poskytuje úvěrové služby, avšak **sama nemá bankovní licenci** (působí jen jako zprostředkovatel ve skupině). Souběžně jiný věřitel zvažuje insolvenční návrh na obecní příspěvkovou organizaci a na veřejnou vysokou školu. Důkazy: výpis z obchodního rejstříku ALFA, seznam licencí a povolení (registr ČNB), zřizovací listiny dotčených subjektů.
-
-**2. Právní otázka.** Na které z těchto subjektů **nelze** použít insolvenční zákon podle § 6, a s jakým procesním důsledkem pro podaný insolvenční návrh?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 6 odst. 1 (trvalé výjimky — mj. ÚSC, veřejná vysoká škola), odst. 2 písm. a) (dočasná výjimka pro finanční instituci po dobu licence; **nevztahuje se na obchodníka s cennými papíry**).
-- *Související ustanovení téhož zákona:* § 2 písm. k) (definice finanční instituce), § 108 (zamítnutí/odmítnutí pro nedostatek podmínky řízení — nezpůsobilý subjekt), § 97 a násl. (návrh).
-- *Související předpisy:* zákon č. 374/2015 Sb. o ozdravných postupech a řešení krize na finančním trhu; zákon č. 21/1992 Sb. o bankách; Nařízení (EU) 806/2014 (SRM); zákon č. 111/1998 Sb. o vysokých školách; zákon č. 250/2000 Sb. (rozpočtová pravidla územních rozpočtů).
-- *Judikatura:* nosný závěr, že nezpůsobilost subjektu podle § 6 je nedostatkem podmínky řízení vedoucím k zastavení/odmítnutí návrhu; status subjektu se posuzuje materiálně (rozhoduje skutečné držení licence, nikoli příslušnost ke skupině).
-
-**4. Subsumpce.** Společnost ALFA — ač je dcerou banky, **sama nedrží bankovní licenci**, není proto „finanční institucí" chráněnou § 6 odst. 2 písm. a); IZ na ni **lze** použít. Veřejná vysoká škola — spadá pod § 6 odst. 1 písm. g), IZ na ni **nelze** použít vůbec (trvalá výjimka). Obecní příspěvková organizace — *není* sama ÚSC ve smyslu písm. b); rozhodující je, zda jde o subjekt s vlastní právní osobností odlišný od obce a zda nespadá pod některé z písmen § 6 (např. písm. h), převzal-li dluhy ÚSC). Nejde-li o žádnou výjimku, IZ se použít může.
-
-**5. Řešení.** Návrh na ALFA je přípustný (ověřit v registru ČNB absenci licence). Návrh na veřejnou vysokou školu soud odmítne/zastaví pro nedostatek podmínky řízení (§ 108) — krizi řeší zřizovatel podle zákona o VŠ. U příspěvkové organizace nutno individuálně posoudit její status a vazbu na obec. Praktický krok: před podáním návrhu vždy ověřit status dlužníka v rejstřících a u ČNB; chybné podání proti subjektu z § 6 znamená ztrátu času a nákladů.
-
-**6. Varianty.** (a) Kdyby ALFA byla **obchodníkem s cennými papíry** s povolením, výjimka § 6 odst. 2 písm. a) by se na ni **nevztahovala** (OCP je výslovně vyňat z dočasné výjimky), IZ by se použil. (b) Kdyby stát nebo VÚSC převzal před zahájením řízení všechny dluhy ALFA nebo se za ně zaručil, nastoupila by trvalá výjimka § 6 odst. 1 písm. h) a IZ by se nepoužil.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Dceřiná společnost banky je součástí finanční skupiny, tedy ‚finanční institucí'." — Neutralizace: § 6 odst. 2 písm. a) chrání jen subjekt, který **sám** je nositelem licence/povolení; příslušnost ke skupině nestačí.
-- *Protiargument:* „Obchodník s cennými papíry je finanční instituce, tedy chráněn jako banka." — Neutralizace: závěr věty písm. a) OCP z dočasné výjimky **výslovně vyjímá**.
-- *Slabé místo:* status hraničních subjektů (příspěvkové organizace, subjekty s veřejnoprávními prvky, garanční fondy po reformě 2015–2016) je nejednoznačný; chybná kvalifikace vede k odmítnutí návrhu (§ 108).
-
-### H. Praktický závěr
-
-Paragraf 6 vymezuje osobní působnost zákona negativně: na vyjmenované subjekty IZ buď nelze použít vůbec (odst. 1), nebo jen dočasně po dobu licence/povolení či vyhlášených voleb (odst. 2). Rozhoduje materiální status dlužníka, nikoli příslušnost ke skupině.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Spadá dlužník pod některou trvalou výjimku § 6 odst. 1 (stát, ÚSC, ČNB, VZP, garanční systémy, VVŠ, subjekt s převzatými dluhy státu/VÚSC)?
-- [ ] Je dlužník finanční institucí **s platnou licencí** (odst. 2 písm. a)) — a nejde-li o OCP, který je vyňat?
-- [ ] Trvá u dlužníka licence/povolení, resp. probíhá období vyhlášených voleb (odst. 2)?
-- [ ] Byl status ověřen v rejstřících a u ČNB před podáním návrhu?
-
-**Typicky rozhodné důkazy / podklady:** výpis z obchodního/spolkového rejstříku, registr licencí a povolení ČNB, zřizovací listiny, doklady o převzetí dluhů/ručení státem či VÚSC, doklad o vyhlášení voleb.
+V oficiálních databázích Nejvyššího soudu a Ústavního soudu nebylo pro tento komentář ověřeno rozhodnutí, jehož plný text by nosně vykládal § 6 insolvenčního zákona a které by bylo potřebné k výše uvedeným závěrům. Komentář proto nepřebírá dřívější nedoloženou „právní větu“ o jediném procesním následku ani tvrzení, že rozhoduje pouhé členství ve skupině; uvedené závěry vycházejí přímo z § 2 písm. k), § 6, § 142, § 143 a § 367 až 388.
 
 ---
 

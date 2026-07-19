@@ -16,63 +16,58 @@ Tento komentář popisuje § 21 – § 45 IZ; pro otázky kvalifikace a profesn�
 
 ## § 21 — Seznam insolvenčních správců
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Insolvenční správce se ustanovuje ze seznamu insolvenčních správců, který vede Ministerstvo spravedlnosti (dále jen „ministerstvo").
+>
 > (2) Náležitosti seznamu insolvenčních správců, údaje do něj zapisované, jeho členění, vedení a podmínky zápisu do něj a vznik práva vykonávat činnost insolvenčního správce a hostujícího insolvenčního správce upravuje zvláštní právní předpis.
+>
 > (3) Insolvenčním správcem se pro účely tohoto zákona rozumí i hostující insolvenční správce.
+
+### Přehled výkladu
+
+Ustanovení spojuje procesní pravidlo výběru správce ze seznamu vedeného Ministerstvem spravedlnosti s mimoprocesní úpravou oprávnění, zápisu a obsahu seznamu v zákoně č. 312/2006 Sb., o insolvenčních správcích. Hostující insolvenční správce je pro účely insolvenčního zákona zahrnut do pojmu insolvenční správce; jeho dočasný nebo příležitostný výkon upravuje zákon o insolvenčních správcích.
+
+### Souvisící ustanovení
+
+- § 22 odst. 2 — subsidiární možnost ustanovit fyzickou osobu mimo seznam, nelze-li správce ze seznamu vybrat;
+- § 24 — vyloučení insolvenčního správce;
+- § 25 — určení osoby správce a zvláštní režim hostujícího insolvenčního správce;
+- § 31 odst. 3 a 4 — následky pozastavení nebo zániku práva a zrušení povolení;
+- § 419 odst. 1 a § 420 odst. 1 písm. a) — seznam jako součást insolvenčního rejstříku a jeho veřejná přístupnost.
+
+### Souvisící předpisy
+
+- zákon č. 312/2006 Sb., o insolvenčních správcích, zejména § 1 až 3, § 16 až 22 a § 26 až 35;
+- zákon č. 18/2004 Sb., o uznávání odborné kvalifikace, na který zákon o insolvenčních správcích navazuje při dočasném nebo příležitostném výkonu regulované činnosti.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva k insolvenčnímu zákonu vymezila § 21 jako procesní minimum a předpokládala samostatný zákon pro organizaci správců, kvalifikační požadavky a vedení seznamu. Počítala s celostátním elektronicky vedeným seznamem. Důvodová zpráva k zákonu č. 312/2006 Sb. následně popsala seznam jako veřejně dostupný informační systém vedený ministerstvem a samostatně upravila režim hostujících správců. Jde o historické vysvětlení koncepce; rozhodující je aktuální znění obou zákonů.
+
+### Literatura
+
+Odborná literatura nebyla v tomto kole hodnocena; je odložena do druhého kola.
 
 ### Výklad
 
-Paragraf 21 obsahuje **principiální omezení**: insolvenčním správcem může být **jen osoba zapsaná v seznamu**. Seznam vede Ministerstvo spravedlnosti, zpřístupňuje ho veřejně (online — https://isir.justice.cz). Jediná taxativní výjimka — § 22 odst. 2 (mimořádné ustanovení mimo seznam) — se v praxi téměř nevyskytuje.
+[1] Odstavec 1 určuje standardní zdroj, z něhož se správce ustanovuje: seznam vedený Ministerstvem spravedlnosti. Neřeší konkrétní způsob určení osoby; ten upravuje zejména § 25. Zákonnou odchylku obsahuje § 22 odst. 2 pro případ, kdy správce ze seznamu vybrat nelze.
 
-**Členění seznamu** (podle zákona č. 312/2006 Sb. + vyhlášky č. 312/2007 Sb.):
-- **obecní část** — pro běžná řízení (konkursy, oddlužení nepodnikatelů, drobné podniky),
-- **zvláštní část** — pro „velké" případy: dlužníci podle § 3 odst. 2 zákona o IS (osoby s ročním úhrnem pasiv > 100 mil. Kč nebo banky / pojišťovny — viz zvláštní povolení), reorganizace, zvláštní subjekty.
+[2] Seznam je součástí insolvenčního rejstříku a je veřejně přístupný. Zápis proto umožňuje ověřit nejen identitu správce, ale také údaje o vzniku, pozastavení a zániku jeho práva vykonávat činnost. Samotný historický nebo neaktuální výpis nemůže nahradit ověření stavu rozhodného pro ustanovení.
 
-**Hostující insolvenční správce** (odst. 3) — kategorie zavedená kvůli souladu s evropskou volností služeb (směrnice 2005/36/ES). Jde o osobu z jiného členského státu EU, která vykonává činnost správce v ČR **dočasně nebo příležitostně** na základě oznámení ministerstvu (§ 6 zákona o IS). Pro účely IZ má stejné postavení jako tuzemský správce.
+[3] Odstavec 2 je odkazovací norma. Zvláštním předpisem je zákon č. 312/2006 Sb., který upravuje vznik oprávnění, členění a obsah seznamu i zápis údajů. Insolvenční zákon naproti tomu upravuje ustanovení konkrétní osoby do funkce v jednotlivém řízení.
 
-### Vazby
+[4] Rozlišení obecné a zvláštní části seznamu souvisí s rozsahem oprávnění. Pro dlužníky vymezené v § 3 odst. 2 zákona o insolvenčních správcích vyžaduje § 25 odst. 3 insolvenčního zákona osobu zapsanou ve zvláštní části seznamu. Nestačí proto zjistit pouhou existenci zápisu; je třeba ověřit odpovídající rozsah oprávnění.
 
-- **Zákon č. 312/2006 Sb. o IS** — § 9 a násl. (zápis do seznamu), § 11 (zkouška), § 14 (zvláštní povolení).
-- **Vyhláška č. 312/2007 Sb.** o obsahu a dalších náležitostech zkoušek insolvenčních správců.
+[5] Hostujícím insolvenčním správcem je podle zákona č. 312/2006 Sb. osoba oprávněná vykonávat tuto činnost v jiném členském státě, která má právo vykonávat ji v České republice dočasně nebo příležitostně. Odstavec 3 ji pro účely insolvenčního zákona zahrnuje do pojmu insolvenční správce; podmínky vzniku a trvání jejího oprávnění se však posuzují podle zvláštního zákona.
 
-### Praktická poznámka
+[6] Při ustanovení je nutné oddělit tři otázky: zda osobě trvá oprávnění, zda je vedena v odpovídající části seznamu a zda splňuje podmínky pro konkrétní řízení podle § 24 a § 25. Pozdější pozastavení, zánik práva nebo zrušení povolení se řeší podle § 31 odst. 3 a 4.
 
-Při výběru správce v praxi vychází věřitel (resp. dlužník nebo soud při prepacku) typicky z **veřejně dostupných statistik** — počet vedených řízení, region působnosti, případné disciplinární kauzy v rejstříku ministerstva. Veřejně přístupný seznam (https://isir.justice.cz/InsSpravci/public/seznamFiltr.do) umožňuje filtrovat dle kraje, povolení (zvláštní/obecné), formy (FO/PO).
+### Judikatura
 
-### F. Kazuistika
-
-**1. Modelová situace.** Věřitel-banka podá insolvenční návrh na dlužníka (s.r.o.). Při přípravě věřitel zjistí, že osoba, kterou by si přál jako správce, není v ČR formálně zapsána v seznamu, jde však o slovenského „správcu konkurznej podstaty" působícího na Slovensku. Věřitel uvažuje, zda lze tuto osobu navrhnout/ustanovit v ČR. Důkazy: výpis ze slovenského seznamu správců, oznámení této osoby ministerstvu o dočasném výkonu v ČR (§ 6 zákona o IS), případně absence takového oznámení.
-
-**2. Právní otázka.** Může být insolvenčním správcem v českém řízení osoba, která není zapsána v seznamu vedeném Ministerstvem spravedlnosti podle § 21 odst. 1, a za jakých podmínek se uplatní kategorie hostujícího správce podle § 21 odst. 3?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 21 odst. 1 — správce se ustanovuje výlučně ze seznamu vedeného ministerstvem; odst. 3 — hostující správce má pro účely IZ stejné postavení.
-- *Související ustanovení téhož zákona:* § 22 odst. 2 (jediná výjimka — ustanovení mimo seznam), § 25 odst. 6 (určení hostujícího správce v souladu se zásadou dočasnosti/příležitostnosti).
-- *Související předpisy:* zákon č. 312/2006 Sb. o IS (§ 6 hostující správce, § 9 a násl. zápis); vyhláška č. 312/2007 Sb.; směrnice 2005/36/ES o volném pohybu služeb.
-- *Judikatura:* k povaze seznamu jako veřejného a konstitutivní funkci zápisu provozovny srov. NSS 14 A 122/2018 (citováno u § 25) — třetí osoby jednají v důvěře ve veřejný seznam.
-
-**4. Subsumpce.** Slovenský správce není zapsán v českém seznamu → znak „ze seznamu insolvenčních správců" není naplněn pro tuzemský zápis. Pokud však učinil řádné oznámení podle § 6 zákona o IS a je veden v příslušné části seznamu jako hostující správce, je podle § 21 odst. 3 pro účely IZ postaven naroveň tuzemskému správci. Sporné/neprokázané: zda oznámení skutečně podal a zda byl zapsán k datu určení.
-
-**5. Řešení.** Bez zápisu (byť v režimu hostujícího správce) ho ustanovit nelze; výjimkou je pouze § 22 odst. 2, jehož podmínky zde nejsou splněny (osoba ze seznamu vybrat lze). Správný postup: ověřit zápis hostujícího správce v seznamu na isir.justice.cz; je-li zapsán, lze ho určit postupem § 25 odst. 6. Není-li zapsán, soud ustanoví správce z české části seznamu rotačně (§ 25 odst. 2).
-
-**6. Varianty.** (a) Osoba je řádně oznámena a vedena jako hostující správce → ustanovení přípustné. (b) V daném (malém) obvodu odmítli všichni zapsaní správci pro podjatost → otevírá se cesta § 22 odst. 2 (ustanovení fyzické osoby mimo seznam splňující kvalifikační předpoklady).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Volnost služeb v EU znamená, že zahraniční správce nepotřebuje zápis." — Neutralizace: směrnice 2005/36/ES je transponována právě institutem hostujícího správce s oznamovací povinností (§ 6 zákona o IS); bez oznámení/zápisu nevzniká právo vykonávat funkci v ČR.
-- *Protiargument:* „§ 22 odst. 2 umožňuje obejít seznam." — Neutralizace: jde o subsidiární mechanismus podmíněný tím, že nelze nikoho ze seznamu vybrat; je raritní a v praxi nahrazený určením mimo pořadí (§ 25 odst. 5).
-- *Slabé místo:* aktuálnost a úplnost veřejného seznamu — k rozhodnému dni je nutné ověřit i pozastavení práva (§ 31 odst. 3) a územní působnost provozovny.
-
-### H. Praktický závěr
-
-Insolvenčním správcem může být jen osoba zapsaná v seznamu ministerstva (včetně hostujícího správce dle odst. 3); mimo seznam jen výjimečně podle § 22 odst. 2.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověřit zápis navrhované osoby v seznamu (obecná/zvláštní část) k rozhodnému dni.
-- [ ] U zahraniční osoby ověřit oznámení o dočasném/příležitostném výkonu (§ 6 zákona o IS) a zápis hostujícího správce.
-- [ ] Zkontrolovat územní působnost a požadované povolení (zvláštní povolení u § 3 odst. 2 zákona o IS).
-
-**Typicky rozhodné důkazy / podklady:** výpis ze seznamu insolvenčních správců, doklad o povolení (obecné/zvláštní), oznámení hostujícího správce ministerstvu.
+Do tohoto výkladu nebylo zařazeno rozhodnutí, jehož nosný závěr by byl nezbytný k výkladu § 21. Závěry výše vycházejí přímo z aktuálního znění § 21 a navazujících ustanovení insolvenčního zákona a zákona č. 312/2006 Sb.; dřívější obecný odkaz na rozhodnutí k provozovnám byl odstraněn, protože neprokazoval tvrzení přisuzované komentovanému ustanovení.
 
 ---
 

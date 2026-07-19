@@ -126,59 +126,49 @@ Rozhodnutí 29 NSČR 30/2010 se k § 22 nepoužívá: řeší způsob řešení 
 
 ## § 23 — Pojištění odpovědnosti správce
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Insolvenční správce uzavře na svůj náklad smlouvu o pojištění odpovědnosti za škodu, která by mohla vzniknout v souvislosti s výkonem jeho funkce nebo s činností jeho zaměstnanců pro celou dobu trvání jeho funkce.
+
+### Přehled výkladu
+
+§ 23 ukládá insolvenčnímu správci uzavřít na vlastní náklad pojištění odpovědnosti za škodu pro celou dobu funkce. Zákonná formulace výslovně spojuje pojištění se škodou, která by mohla vzniknout při výkonu funkce správce nebo činností jeho zaměstnanců. Ustanovení samo neurčuje limit pojistného plnění, spoluúčast ani výluky.
+
+### Souvisící ustanovení
+
+- **§ 36 odst. 1** — osobní výkon funkce s odbornou péčí.
+- **§ 37** — předpoklady a rozsah odpovědnosti správce za škodu nebo jinou újmu, včetně odpovědnosti za osoby uvedené v § 40 odst. 2.
+- **§ 40 odst. 2 a 5** — výkon funkce prostřednictvím zaměstnanců a v odůvodněných případech jiných osob, aniž jsou dotčeny povinnosti a odpovědnost správce.
+
+### Souvisící předpisy
+
+- **§ 5 až 8 zákona č. 312/2006 Sb., o insolvenčních správcích** — povolovací režim; u fyzické osoby je uzavření smlouvy o pojištění jedním z předpokladů povolení podle § 6 odst. 1 písm. f), zákon upravuje také dokládání této podmínky.
+
+### Z důvodové zprávy
+
+Vládní návrh odůvodnil pojištění tím, že na správce jeho ustanovením zásadně přechází oprávnění nakládat s majetkovou podstatou. Pojištění mělo krýt riziko škody vzniklé výkonem funkce nebo činností zaměstnanců správce a mělo být zajištěno již při zápisu do seznamu, popřípadě při ustanovení osoby mimo seznam. Původně navržený § 23 obsahoval vedle dnešní věty ještě výslovnou vazbu smlouvy na zápis do seznamu a na ustanovení podle tehdejšího § 22 odst. 2; tato druhá věta není součástí vyhlášeného ani aktuálního § 23 a dnešní povolovací vazbu upravuje zákon č. 312/2006 Sb.
+
+### Literatura
+
+Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; je odložena do druhého kola.
 
 ### Výklad
 
-**Povinnost povinného pojištění odpovědnosti** je systémový pojistný prvek — chrání věřitele i třetí osoby před případnou platební neschopností správce. Pojištění musí pokrývat:
-- výkon vlastní funkce správce,
-- jednání zaměstnanců správce (i právních partnerů, kteří se mu počítají do týmu).
+[1] **Povinná smlouva a její trvání.** Adresátem příkazu je insolvenční správce. Smlouvu uzavírá na svůj náklad a pojištění musí časově pokrývat celou dobu trvání funkce. Jednorázové uzavření smlouvy bez zachování pojištění po celou tuto dobu požadavku § 23 neodpovídá.
 
-**Limity pojištění** stanoví § 14 odst. 1 zákona o IS — minimálně 1 000 000 Kč na jednu pojistnou událost pro správce v obecné části seznamu, vyšší limity (od 10 mil. Kč) pro správce se zvláštním povolením.
+[2] **Vymezení rizika v § 23.** Text zahrnuje škodu, která by mohla vzniknout v souvislosti s výkonem funkce, a škodu související s činností zaměstnanců správce. Nelze jej bez dalšího přepsat tak, že výslovně zahrnuje každou jinou osobu použitou podle § 40 odst. 2: § 37 odst. 2 sice rozšiřuje odpovědnost správce i na tam uvedené osoby, avšak § 23 ve své vlastní formulaci vedle výkonu funkce jmenuje zaměstnance správce.
 
-### Vazby
+[3] **Pojištění není úpravou vzniku odpovědnosti.** Zda správce za konkrétní škodu nebo jinou újmu odpovídá, se posuzuje zejména podle § 37. § 23 stanoví povinnost sjednat pojištění; sám neurčuje všechny předpoklady odpovědnosti ani rozsah plnění pojistitele.
 
-- **§ 37** — odpovědnost správce.
-- **§ 14 zákona o IS** — minimální limity pojištění.
+[4] **Obsah konkrétního krytí.** Z § 23 nelze dovodit určitou částku limitu, spoluúčast nebo smluvní výluku. Pro posouzení konkrétní pojistné události je proto nutné odděleně ověřit pojistnou smlouvu a pojistné podmínky. Toto procesní doporučení je autorským praktickým závěrem.
 
-### Praktická poznámka
+[5] **Povolovací souvislost a legislativní vývoj.** Aktuální zákon č. 312/2006 Sb. váže povolení fyzické osoby na uzavření smlouvy o pojištění odpovědnosti a vyžaduje příslušný doklad. Tím je dnes normativně zachycena povolovací vazba, kterou původní vládní návrh vyjadřoval přímo v druhé větě navrženého § 23. Porovnání původního návrhu s aktuálním textem proto neodůvodňuje vložit vypuštěnou větu zpět do komentovaného znění.
 
-V praxi je pojištění uzavírané typicky u specializovaných pojistitelů (UNIQA, Generali, Slavia). Spoluúčast je obvykle 50—100 tis. Kč. Při velkých kauzách (reorganizace velkých podniků) je obvyklé dodatečné navýšení limitu.
+### Judikatura
 
-### F. Kazuistika
-
-**1. Modelová situace.** Insolvenční správce při zpeněžování chybně vyplatí výtěžek mimo pořadí, čímž vznikne zajištěnému věřiteli škoda 3 mil. Kč. Správce je v obecné části seznamu, sjednal pojištění s limitem 1 000 000 Kč na pojistnou událost a spoluúčastí 100 000 Kč. Věřitel uplatní nárok z odpovědnosti správce (§ 37). Důkazy: pojistná smlouva a pojistné podmínky, doklad o platbě pojistného, výše a příčina škody.
-
-**2. Právní otázka.** Jaký je dopad zákonem stanoveného minimálního limitu pojištění podle § 23 ve spojení s § 14 zákona o IS, pokčí škoda limit přesahuje — a hradí pojištění celou škodu, nebo jen do limitu?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 23 — povinnost správce uzavřít na vlastní náklad pojištění odpovědnosti za škodu z výkonu funkce i jednání zaměstnanců, na celou dobu funkce.
-- *Související ustanovení téhož zákona:* § 37 (odpovědnost správce — pojištění je zdrojem uspokojení), § 40 odst. 2 (osoby, jejichž jednáním správce odpovídá a jež musí pojištění krýt).
-- *Související předpisy:* § 14 odst. 1 zákona o IS (minimální limity — 1 mil. Kč obecná část, vyšší u zvláštního povolení); § 2861 a násl. OZ (pojištění odpovědnosti).
-- *Judikatura:* k regresu pojistitele při úmyslném porušení povinností správce srov. NS 25 Cdo 4096/2014 (citováno u § 37).
-
-**4. Subsumpce.** Povinnost pojištění (§ 23) je splněna co do existence smlouvy a limitu. Škoda 3 mil. Kč přesahuje sjednaný (i minimální) limit 1 mil. Kč → pojistné plnění kryje jen do limitu po odečtení spoluúčasti; zbytek nese správce z vlastního majetku. Sporné: zda měl správce u rizikovějšího řízení limit dobrovolně navýšit.
-
-**5. Řešení.** Věřitel dostane z pojištění cca 900 000 Kč (limit minus spoluúčast), zbývajících cca 2,1 mil. Kč musí vymáhat přímo na správci (jeho osobní odpovědnost dle § 37 limitem pojištění omezena není; viz též § 40a, který exekuci za škodu nevylučuje). Praktický krok: ověřit solventnost správce, případně vést výkon rozhodnutí na jeho majetek.
-
-**6. Varianty.** (a) Šlo by o správce se zvláštním povolením (§ 3 odst. 2 zákona o IS) s limitem od 10 mil. Kč → škoda by byla plně kryta. (b) Správce by pojištění vůbec neměl (lapsus v platbě pojistného) → porušení § 23 je důvodem zproštění (§ 32) i kárného postihu a může vést k zániku práva vykonávat činnost.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Pojištění do limitu vyčerpává odpovědnost správce." — Neutralizace: limit pojištění je hranicí plnění pojistitele, nikoli hranicí odpovědnosti správce; nad limit odpovídá správce osobně (§ 37).
-- *Protiargument:* „Minimální limit je dostačující pro každé řízení." — Neutralizace: u velkých podstat je 1 mil. Kč zjevně nedostatečný; odborná péče (§ 36 odst. 1) zahrnuje i přiměřené navýšení pojistného krytí.
-- *Slabé místo:* pojistné podmínky obvykle obsahují výluky (úmysl, hrubá nedbalost) a spoluúčast — skutečné krytí může být nižší, než se jeví z limitu.
-
-### H. Praktický závěr
-
-Pojištění odpovědnosti je obligatorní po celou dobu funkce; jeho limit chrání poškozené jen do sjednané výše, nad ni odpovídá správce osobně. U rizikovějších řízení je namístě limit navýšit.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověřit existenci a kontinuitu pojistné smlouvy po celou dobu funkce.
-- [ ] Zkontrolovat výši limitu vůči objemu podstaty a typu povolení (obecné/zvláštní).
-- [ ] Prověřit výluky a spoluúčast; u velkých kauz doporučit dodatečné navýšení.
-
-**Typicky rozhodné důkazy / podklady:** pojistná smlouva a pojistné podmínky, doklad o úhradě pojistného, vyčíslení škody a její příčina, doklad o limitu dle § 14 zákona o IS.
+Do tohoto vydání není zařazeno žádné soudní rozhodnutí: nebyl použit pramen, jehož plný oficiální text by poskytoval nosný výklad přímo k § 23. Dřívější odkaz na 25 Cdo 4096/2014 byl odstraněn, protože v jednotce nebyl opatřen a ověřen plný text a tvrzený závěr se týkal smluvních otázek přesahujících samotné znění § 23.
 
 ---
 

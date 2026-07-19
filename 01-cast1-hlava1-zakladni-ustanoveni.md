@@ -158,11 +158,15 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento ú
 
 ## § 3 — Úpadek
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Dlužník je v úpadku, jestliže má
 > a) více věřitelů a
 > b) peněžité závazky po dobu delší 30 dnů po lhůtě splatnosti a
 > c) tyto závazky není schopen plnit
-> (dále jen „platební neschopnost").
+> (dále jen „platební neschopnost“).
 >
 > (2) Má se za to, že dlužník není schopen plnit své peněžité závazky, jestliže
 > a) zastavil platby podstatné části svých peněžitých závazků, nebo
@@ -170,7 +174,7 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento ú
 > c) není možné dosáhnout uspokojení některé ze splatných peněžitých pohledávek vůči dlužníku výkonem rozhodnutí nebo exekucí, nebo
 > d) nesplnil povinnost předložit seznamy uvedené v § 104 odst. 1, kterou mu uložil insolvenční soud.
 >
-> (3) Má se za to, že dlužník, který je podnikatelem a vede účetnictví, je schopen plnit své peněžité závazky, jestliže rozdíl mezi výší jeho splatných peněžitých závazků a výší jeho disponibilních prostředků (dále jen „mezera krytí") stanovený ve výkazu stavu likvidity podle prováděcího právního předpisu představuje méně než desetinu výše jeho splatných peněžitých závazků, anebo pokud výhled vývoje likvidity sestavený podle prováděcího právního předpisu osvědčuje, že mezera krytí klesne v období, na které se výhled vývoje likvidity sestavuje, pod jednu desetinu výše jeho splatných peněžitých závazků. Výkaz stavu likvidity anebo výhled vývoje likvidity musí být sestavené v souladu s požadavky, které stanoví prováděcí právní předpis, auditorem, znalcem nebo osobou, která se zabývá ekonomickým poradenstvím v oblasti insolvencí a restrukturalizací a splňuje požadavky stanovené prováděcím právním předpisem.
+> (3) Má se za to, že dlužník, který je podnikatelem a vede účetnictví, je schopen plnit své peněžité závazky, jestliže rozdíl mezi výší jeho splatných peněžitých závazků a výší jeho disponibilních prostředků (dále jen „mezera krytí“) stanovený ve výkazu stavu likvidity podle prováděcího právního předpisu představuje méně než desetinu výše jeho splatných peněžitých závazků, anebo pokud výhled vývoje likvidity sestavený podle prováděcího právního předpisu osvědčuje, že mezera krytí klesne v období, na které se výhled vývoje likvidity sestavuje, pod jednu desetinu výše jeho splatných peněžitých závazků. Výkaz stavu likvidity anebo výhled vývoje likvidity musí být sestavené v souladu s požadavky, které stanoví prováděcí právní předpis, auditorem, znalcem nebo osobou, která se zabývá ekonomickým poradenstvím v oblasti insolvencí a restrukturalizací a splňuje požadavky stanovené prováděcím právním předpisem.
 >
 > (4) Dlužník, který je právnickou osobou nebo fyzickou osobou - podnikatelem, je v úpadku i tehdy, je-li předlužen. O předlužení jde tehdy, má-li dlužník více věřitelů a souhrn jeho závazků převyšuje hodnotu jeho majetku. Při stanovení hodnoty dlužníkova majetku se přihlíží také k další správě jeho majetku, případně k dalšímu provozování jeho podniku, lze-li se zřetelem ke všem okolnostem důvodně předpokládat, že dlužník bude moci ve správě majetku nebo v provozu podniku pokračovat.
 >
@@ -178,104 +182,69 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento ú
 >
 > (6) Obsah, rozsah a způsob sestavování výkazu stavu likvidity a výhledu vývoje likvidity a uspořádání, označování a obsahové vymezení jednotlivých položek majetku, závazků, nákladů, výnosů, příjmů a výdajů ve výkazu stavu likvidity a výhledu vývoje likvidity, délku období, na které se sestavuje výhled vývoje likvidity, a požadavky na osoby, které jsou oprávněny k sestavení výkazu stavu likvidity anebo výhledu vývoje likvidity, stanoví prováděcí právní předpis.
 
-Jeden z **klíčových paragrafů celého zákona**. Definuje hmotněprávní stav „úpadek" ve dvou formách (platební neschopnost a předlužení) a doplňkový stav „hrozící úpadek".
+### Přehled výkladu
 
-### Pravidlo: dlužník je v úpadku, pokud splňuje **jeden ze dvou testů**
+Ustanovení rozlišuje úpadek ve formě platební neschopnosti a u právnických osob a podnikajících fyzických osob také ve formě předlužení. Vedle toho vymezuje hrozící úpadek. Platební neschopnost vyžaduje současné naplnění všech tří znaků odstavce 1; odstavec 2 usnadňuje pouze závěr o neschopnosti plnit podle písmene c), nikoli o pluralitě věřitelů ani o délce prodlení.
 
-#### A) Platební neschopnost (§ 3 odst. 1)
-Kumulativně:
-1. **Více věřitelů** (alespoň dva — NS opakovaně, např. R 89/2009; jediný věřitel úpadek nezakládá),
-2. **Peněžité závazky po dobu delší 30 dnů po splatnosti**,
-3. **Neschopnost je plnit** (objektivní stav, nikoli pouhá neochota).
+Pro podnikatele vedoucí účetnictví obsahuje odstavec 3 vyvratitelnou domněnku schopnosti plnit založenou na řádném výkazu stavu likvidity nebo výhledu vývoje likvidity. Předlužení podle odstavce 4 je samostatnou formou úpadku a test mezery krytí je nenahrazuje.
 
-> **Vyvratitelné domněnky neschopnosti plnit (§ 3 odst. 2):**
-> a) zastavení plateb podstatné části závazků,
-> b) neplnění déle než 3 měsíce po splatnosti,
-> c) neúspěšný výkon rozhodnutí / exekuce na splatnou pohledávku,
-> d) nesplnění povinnosti předložit seznamy podle § 104 odst. 1.
+### Souvisící ustanovení
 
-Domněnka **přesouvá důkazní břemeno** — věřitel tedy nemusí prokazovat „neschopnost" jako pozitivní fakt, postačí prokázat splnění jedné z domněnek; dlužník pak musí prokázat opak.
+- § 1 písm. a) a § 4 — účel insolvenčního řízení a způsoby řešení úpadku;
+- § 97 odst. 5 — insolvenční návrh pro hrozící úpadek může podat jen dlužník;
+- § 98 a 99 — povinnost podat insolvenční návrh a odpovědnost za její porušení;
+- § 103 až 105 — náležitosti návrhu, seznamy a požadavky na věřitelského navrhovatele;
+- § 128 odst. 3 a § 104 odst. 1 — výzva k předložení seznamů a jejich obsah;
+- § 136 odst. 1 — rozhodnutí o úpadku nebo hrozícím úpadku;
+- § 143 — zamítnutí věřitelského insolvenčního návrhu.
 
-#### B) Test mezery krytí (§ 3 odst. 3) — pouze pro podnikatele vedoucí účetnictví
-**Vyvratitelná domněnka SCHOPNOSTI plnit**, tedy opačná logika než odst. 2. Podnikatel není v platební neschopnosti, jestliže:
-- **mezera krytí** (rozdíl mezi splatnými závazky a disponibilními prostředky) < 10 % splatných závazků **podle aktuálního výkazu**, nebo
-- **výhled vývoje likvidity** osvědčuje, že mezera krytí klesne pod 10 % v dohlédnutelném horizontu (stanoví prováděcí předpis — vyhláška č. 190/2017 Sb.).
+### Souvisící předpisy
 
-Výkazy musí sestavit **auditor, znalec nebo kvalifikovaný ekonomický poradce v insolvencích/restrukturalizacích** splňující kvalifikační požadavky vyhlášky.
+- vyhláška č. 190/2017 Sb., k provedení § 3 odst. 3 insolvenčního zákona (vyhláška o platební neschopnosti podnikatele) — obsah a sestavování výkazu stavu likvidity a výhledu vývoje likvidity a požadavky na zpracovatele;
+- zákon č. 64/2017 Sb., čl. I body 1 a 2 — doplnění testu mezery krytí a prováděcího zmocnění s účinností od 1. 7. 2017.
 
-> **Klíč k pochopení**: § 3 odst. 3 byl vložen novelou 2017/64 Sb. jako reakce na praxi, kdy věřitelé „lovili" platebně neschopné podniky jen na základě formálního splnění domněnek odst. 2, aniž by dlužník byl skutečně v reálné platební krizi. Test mezery krytí dává podnikateli nástroj, jak se proti šikanózním insolvenčním návrhům bránit doložením aktuální likviditní pozice.
+### Z důvodové zprávy
 
-#### C) Předlužení (§ 3 odst. 4) — pouze pro PO a FO-podnikatele
-Kumulativně:
-1. **Více věřitelů**,
-2. **Souhrn závazků převyšuje hodnotu majetku**.
+Původní důvodová zpráva vycházela ze dvou forem úpadku, platební neschopnosti a předlužení. U platební neschopnosti záměrně oddělila tři kumulativní znaky: nejméně dva věřitele, peněžité závazky déle než 30 dnů po splatnosti a objektivní neschopnost je plnit. Domněnky měly ulehčit dokazování posledního znaku, nikoli nahradit pluralitu věřitelů nebo třicetidenní dobu po splatnosti.
 
-Při ocenění majetku se přihlíží i k **going concern** — k pokračující správě / provozu podniku, je-li to důvodně předpokládatelné.
+### Literatura
 
-> **Pozor na rozdíl od § 3 odst. 1**: u předlužení **není** podmínkou platební neschopnost. Předlužený podnik může být cash-flow pozitivní, ale účetně předlužený.
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní literární rešerše.
 
-#### D) Hrozící úpadek (§ 3 odst. 5)
-Dlužník **nebude** schopen řádně a včas plnit podstatnou část závazků — *prospektivní stav*. Návrh pro hrozící úpadek může podat **jen dlužník** (§ 98 — nikoli věřitel).
+### Výklad
 
-> Význam — dlužník může inicioval řízení dříve, než nastane úpadek, a má lepší pozici pro **reorganizaci** (na hrozícím úpadku je reorganizace standardně postavena).
+[1] **Platební neschopnost.** Znaky odstavce 1 jsou kumulativní. „Více věřitelů“ znamená nejméně dva věřitele; zároveň musí existovat peněžité závazky déle než 30 dnů po splatnosti a objektivní neschopnost tyto závazky plnit. Samotné prodlení, byť delší než 30 dnů, proto bez dalšího úpadek neprokazuje.
 
-### Vazby a souvislosti
+[2] **Domněnky neschopnosti plnit.** Každá z alternativ odstavce 2 zakládá vyvratitelnou domněnku jen ke znaku podle odstavce 1 písm. c). Ani naplněná domněnka sama neosvědčuje více věřitelů a závazky déle než 30 dnů po splatnosti. Dlužník ji může vyvracet osvědčením nebo prokázáním schopnosti uhradit všechny splatné závazky věřitelů, které soud pro rozhodnutí o věřitelském návrhu považuje za osvědčené.
 
-- **§ 98** — povinnost dlužníka — PO/podnikatele — podat insolvenční návrh bez zbytečného odkladu poté, co se o úpadku dozvěděl nebo měl dozvědět.
-- **§ 99** — odpovědnost za škodu / jinou újmu vzniklou nesplněním povinnosti podle § 98.
-- **§ 128** — soud zamítne insolvenční návrh, jestliže úpadek nebyl osvědčen.
-- **Vyhláška č. 190/2017 Sb.** — provádí § 3 odst. 3 (výkaz stavu likvidity, výhled vývoje likvidity, kvalifikace osob).
-- **Trestní zákoník** — § 224 (předlužení), § 226 (pletichy v insolvenčním řízení), § 227 (zvýhodnění věřitele).
+[3] **Jednotlivé domněnky.** Zákon rozlišuje zastavení plateb podstatné části peněžitých závazků, neplnění peněžitých závazků déle než tři měsíce po splatnosti, nemožnost dosáhnout uspokojení některé splatné peněžité pohledávky výkonem rozhodnutí nebo exekucí a nesplnění soudem uložené povinnosti předložit seznamy podle § 104 odst. 1. Jde o alternativy; jejich skutkový základ však musí být v řízení osvědčen nebo prokázán.
 
-### Praktické dopady
+[4] **Majetek použitelný k úhradě.** Při posuzování platební schopnosti není rozhodující jen aktuální hotovost nebo zůstatek na účtu. Přihlíží se i k jinému majetku, který lze skutečně využít k úhradě osvědčených splatných závazků. Pouhá účetní nebo odhadní hodnota nestačí, je-li dispozice omezena nebo je-li majetek obtížně zpeněžitelný či pohledávka obtížně dobytná.
 
-- **Insolvenční návrh věřitele** musí věřitel doložit splnění alespoň jedné domněnky podle odst. 2 a uvést nejméně dva věřitele (sebe a alespoň jednoho dalšího) — § 105.
-- **Dlužník-podnikatel** se může bránit insolvenčnímu návrhu prokázáním splnění testu mezery krytí (§ 3 odst. 3) — vyžaduje to ovšem připravený výkaz, jehož sestavení trvá dny až týdny; v praxi je proto vhodné mít likviditní výkaz „v zásobě".
-- **Statutární orgán PO** odpovídá za škodu věřitelům, jestliže nepodal návrh včas (§ 99 + obecná odpovědnost podle ZOK / OZ).
-- **Trestní rovina** — zatajení úpadku, zvýhodnění věřitele před úpadkem, pletichy v insolvenci — § 222 — 227 TZ.
+[5] **Mezera krytí.** Odstavec 3 se vztahuje jen na dlužníka, který je podnikatelem a vede účetnictví. Domněnka schopnosti plnit nastane při mezeře krytí nižší než desetina splatných peněžitých závazků nebo při řádném výhledu osvědčujícím její pokles pod tuto hranici v předepsaném období. Rozhodný výkaz nebo výhled musí odpovídat vyhlášce č. 190/2017 Sb. a sestavit jej zákonem a vyhláškou kvalifikovaná osoba.
 
-### Judikatura (znalost mimo lokální archiv)
+[6] **Předlužení.** Tato forma úpadku dopadá jen na právnickou osobu nebo fyzickou osobu-podnikatele. Vyžaduje více věřitelů a převahu souhrnu závazků nad hodnotou majetku. Hodnota majetku se neurčuje mechanicky podle účetních položek: zákon přikazuje přihlédnout také k další správě majetku nebo pokračování provozu podniku, lze-li pokračování se zřetelem ke všem okolnostem důvodně předpokládat.
 
-- **NS 29 NSČR 38/2010 (R 83/2011)** — k pojmu „neschopnost plnit závazky" — musí jít o objektivní neschopnost, nikoli o neochotu. Sporná pohledávka, kterou dlužník v dobré víře rozporuje, nezakládá úpadek.
-- **ÚS Pl. ÚS 19/13** — k ústavněprávní mezi platební neschopnosti a předlužení; soudní rozhodnutí o úpadku musí mít materiální základ.
-- **NS 29 NSČR 113/2013** — k domněnce podle § 3 odst. 2 písm. b): déletrvající neplnění splatných závazků (3 měsíce) zakládá silnou domněnku, kterou je obtížné vyvrátit, pokud dlužník nedoloží spor o pohledávku nebo dohodu o odkladu plnění.
+[7] **Hrozící úpadek.** Jde o prospektivní stav, v němž lze důvodně předpokládat budoucí neschopnost řádně a včas splnit podstatnou část peněžitých závazků. Insolvenční návrh založený na hrozícím úpadku je podle § 97 odst. 5 vyhrazen dlužníkovi; nejde o právní základ věřitelského návrhu.
 
-### F. Kazuistika
+[8] **Procesní význam.** Věřitelský navrhovatel musí podle § 105 doložit svou splatnou pohledávku a uvést zákonem požadované skutečnosti o dalším věřiteli. Pro osvědčení neschopnosti plnit může tvrdit a dokládat některou domněnku odstavce 2, není však správné chápat domněnky jako další povinný znak úpadku. Soud vydá rozhodnutí podle § 136 odst. 1 jen tehdy, zjistí-li úpadek nebo hrozící úpadek osvědčením či dokazováním.
 
-**1. Modelová situace.** Věřitel A (dodavatel) má vůči dlužníkovi (s. r. o., vede účetnictví) splatnou pohledávku 600 000 Kč, neuhrazenou 4 měsíce. Dlužník současně neplatí věřiteli B (banka) splátky úvěru více než 30 dnů. Věřitel A podává insolvenční návrh a opírá ho o domněnku § 3 odst. 2 písm. b). Dlužník namítá, že je solventní, a předkládá výkaz stavu likvidity podle § 3 odst. 3, podle něhož mezera krytí činí 7 % splatných závazků. Důkazy: faktury a doklady o splatnosti, korespondence, výkaz stavu likvidity sestavený znalcem, účetní výkazy, výpisy z účtu.
+[9] **Intertemporalita.** Test mezery krytí a navazující prováděcí úprava byly do systému doplněny s účinností od 1. 7. 2017. Na dřívější rozhodnou dobu je nelze použít zpětně. Níže uvedená rozhodnutí vykládala § 3 odst. 1 a 2 před touto novelou; jejich nosné závěry jsou použitelné i pro současné znění těchto odstavců, protože novela dotčená pravidla nezměnila.
 
-**2. Právní otázka.** Je dlužník v úpadku ve formě platební neschopnosti podle § 3 odst. 1, jestliže jsou naplněny domněnky odst. 2, avšak dlužník předloží výkaz stavu likvidity podle odst. 3 s mezerou krytí pod 10 %?
+**Praktický checklist:**
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 3 odst. 1 (znaky platební neschopnosti — více věřitelů, závazky > 30 dnů po splatnosti, neschopnost plnit), odst. 2 (vyvratitelné domněnky neschopnosti), odst. 3 (vyvratitelná domněnka *schopnosti* — test mezery krytí pro podnikatele vedoucího účetnictví).
-- *Související ustanovení téhož zákona:* § 105 (doložení splatné pohledávky a dalšího věřitele navrhovatelem), § 128 (zamítnutí návrhu při neosvědčení úpadku), § 131 (osvědčování úpadku), § 143 (zamítnutí, není-li dlužník v úpadku), § 104 odst. 1 (seznamy).
-- *Související předpisy:* vyhláška č. 190/2017 Sb. (výkaz stavu likvidity, výhled vývoje likvidity, kvalifikace osob); § 224, § 226, § 227 TZ (úpadkové trestné činy).
-- *Judikatura:* NS 29 NSČR 38/2010 (R 83/2011) — „neschopnost plnit" musí být objektivní, sporná pohledávka rozporovaná v dobré víře úpadek nezakládá; NS 29 NSČR 113/2013 — déletrvající (3 měsíce) neplnění zakládá silnou domněnku; ÚS Pl. ÚS 19/13 — rozhodnutí o úpadku musí mít materiální základ.
+- Jsou osvědčeni nejméně dva věřitelé a jejich peněžité závazky déle než 30 dnů po splatnosti?
+- Je neschopnost plnit zjištěna přímo, nebo prostřednictvím konkrétní domněnky odstavce 2?
+- Jaké prostředky a reálně použitelné majetkové hodnoty může dlužník využít k úhradě všech rozhodných splatných závazků?
+- Je-li uplatněn odstavec 3, splňuje dlužník osobní podmínky a výkaz či výhled všechny požadavky vyhlášky?
+- U právnické osoby nebo podnikající fyzické osoby: je třeba samostatně posoudit také předlužení?
+- Jaké znění § 3 platilo v době rozhodné pro posuzovaný stav?
 
-**4. Subsumpce.** Znak „více věřitelů" — **splněn** (A i B). Znak „závazky > 30 dnů po splatnosti" — **splněn**. Domněnka neschopnosti dle odst. 2 písm. b) (neplnění > 3 měsíce) — **naplněna**, čímž se přenáší důkazní břemeno na dlužníka. Dlužník však uplatní **protidůkaz domněnkou opačnou** (odst. 3): doloží-li řádně sestavený výkaz s mezerou krytí 7 % (< 10 %), nastupuje domněnka *schopnosti* plnit, kterou musí překonat navrhovatel.
+### Judikatura
 
-**5. Řešení.** Soud poměří obě domněnky. Klíčová je **řádnost a věrohodnost výkazu** podle vyhlášky č. 190/2017 Sb. (sestavený auditorem/znalcem/kvalifikovaným poradcem, v předepsané struktuře). Obstojí-li výkaz, není dlužník v platební neschopnosti a návrh bude zamítnut (§ 143). Neobstojí-li (formální či obsahové vady, nereálné vstupy), domněnka schopnosti se neprosadí a úpadek zůstane osvědčen. Navrhovatel by měl výkaz zpochybnit (nesprávné zahrnutí nedisponibilních prostředků, opomenuté splatné závazky). Riziko pro dlužníka: výkaz nelze sestavit přes noc — bez „výkazu v zásobě" hrozí, že obranu nestihne.
+**NS, usnesení ze dne 1. 3. 2012, sen. zn. 29 NSČR 38/2010, ECLI:CZ:NS:2012:29.NSCR.38.2010.1, R 83/2012.** Ve věci věřitelského návrhu proti společnosti, v níž soudy vycházely mimo jiné z neúspěšné exekuce a vadných seznamů závazků, Nejvyšší soud vyložil účinek domněnek odstavce 2. Domněnka se týká neschopnosti plnit, nikoli plurality věřitelů ani třicetidenní splatnosti. Dlužník ji vyvrátí, osvědčí-li nebo prokáže schopnost uhradit všechny splatné závazky věřitelů, které soud pro rozhodnutí o návrhu považuje za osvědčené. Rozhodnutí neobsahuje dříve uváděné kategorické pravidlo, že pohledávka popřená v dobré víře úpadek nezakládá; bylo také chybně citováno jako R 83/2011.
 
-**6. Varianty.** (a) Kdyby šlo o předlužení (§ 3 odst. 4) — PO s více věřiteli a závazky převyšujícími hodnotu majetku — byl by dlužník v úpadku **bez ohledu** na cash-flow a test mezery krytí by se neuplatnil. (b) Kdyby dlužník nebyl podnikatelem vedoucím účetnictví, test mezery krytí dle odst. 3 by mu vůbec nesvědčil a obrana by se omezila na vyvrácení domněnek odst. 2.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument (dlužníka):* „Domněnka odst. 2 je vyvrácena pouhým tvrzením o solventnosti." — Neutralizace: domněnku lze vyvrátit jen důkazem (řádným výkazem dle odst. 3 nebo doložením sporu o pohledávku / dohody o odkladu); pouhé tvrzení nestačí (NS 29 NSČR 113/2013).
-- *Protiargument (navrhovatele):* „Stačí jediná nezaplacená faktura." — Neutralizace: nutné jsou *minimálně dva* věřitelé a osvědčení neschopnosti plnit; jediný věřitel úpadek nezakládá (§ 3 odst. 1 písm. a)).
-- *Slabé místo:* hranice „podstatné části" závazků (odst. 2 písm. a)) a kvalita vstupů výhledu likvidity (odst. 3) jsou skutkově sporné — vyžadují znalecké a účetní podklady, jejichž absence oslabuje obě strany.
-
-### H. Praktický závěr
-
-Paragraf 3 je definičním jádrem zákona: úpadek je dán *buď* platební neschopností (odst. 1–3), *nebo* předlužením (odst. 4, jen PO a FO-podnikatel); hrozící úpadek (odst. 5) je prospektivní a návrh na něj smí podat jen dlužník. Domněnky odst. 2 přenášejí důkazní břemeno; test mezery krytí odst. 3 je obranným nástrojem podnikatele proti šikanózním návrhům.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Jsou nejméně dva věřitelé a závazky > 30 dnů po splatnosti?
-- [ ] Která domněnka § 3 odst. 2 je naplněna a doložena?
-- [ ] Je dlužník podnikatelem vedoucím účetnictví → lze nasadit test mezery krytí (odst. 3)?
-- [ ] Je výkaz stavu likvidity sestaven dle vyhl. č. 190/2017 Sb. oprávněnou osobou?
-- [ ] Nejde současně/alternativně o předlužení (odst. 4)?
-
-**Typicky rozhodné důkazy / podklady:** faktury a doklady o splatnosti, seznam závazků a věřitelů (§ 104), účetní závěrka, výkaz stavu likvidity a výhled vývoje likvidity, výpisy z účtů, doklady o neúspěšné exekuci (odst. 2 písm. c)).
+**NS, usnesení ze dne 12. 12. 2013, sen. zn. 29 NSČR 113/2013, ECLI:CZ:NS:2013:29.NSCR.113.2013.1, R 45/2014.** V řízení o věřitelských návrzích proti společnosti, jejíž majetek podle zjištění výrazně převyšoval osvědčené splatné závazky, Nejvyšší soud zrušil rozhodnutí odvolacího soudu. Pro schopnost uhradit osvědčené pohledávky není rozhodné, zda věřitelé již mají exekuční titul, ale zda by při jeho existenci mohli pohledávky bez obtíží vymoci z dlužníkova majetku. Rozhodnutí současně vyžaduje skutečnou použitelnost majetku k úhradě; neformuluje dříve připisovanou „silnou, obtížně vyvratitelnou“ domněnku ani taxativní obranu sporem či dohodou o odkladu.
 
 ---
 

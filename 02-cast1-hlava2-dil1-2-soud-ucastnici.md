@@ -595,66 +595,58 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola. Tato poz
 
 ## § 19 — Postavení nabyvatele
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Nabyvatel pohledávky se stává účastníkem insolvenčního řízení, jakmile insolvenční soud podle § 18 rozhodne o jeho vstupu do insolvenčního řízení, a platí pro něj stav insolvenčního řízení v době, kdy se stal jeho účastníkem. Nabyvatel takto vstupuje na místo původního věřitele i do incidenčních sporů, které se týkají jím nabyté pohledávky.
 > (2) Ustanovení § 177 odst. 2 až 6 se použije obdobně. Požadované doklady předloží nabyvatel pohledávky insolvenčnímu správci ve lhůtě 15 dní od vstupu do insolvenčního řízení.
 
+### Přehled výkladu
+
+Paragraf 19 upravuje účinky rozhodnutí podle § 18, nikoli hmotněprávní platnost převodu pohledávky. Nabyvatel vstupuje do již probíhajícího řízení v dosaženém procesním stavu a u dotčené pohledávky nahrazuje původního věřitele také jako hlavního účastníka incidenčního sporu. Odstavec 2 navíc ukládá některým nabyvatelům informační povinnost o jejich skutečném majiteli; nejde o nové dokládání důvodu, výše nebo vykonatelnosti pohledávky.
+
+### Souvisící ustanovení
+
+- **§ 18** — rozhodnutí o vstupu nabyvatele do insolvenčního řízení.
+- **§ 16** — účastníci incidenčních sporů.
+- **§ 177 odst. 2 až 6** — informace a prohlášení o skutečném majiteli, výjimky a dočasný zákaz výkonu hlasovacích práv.
+- **§ 183 odst. 3** — zvláštní vstup osoby, která za dlužníka uspokojila přihlášeného věřitele.
+- **§ 192 až 201** — přezkum, popření a zjištění přihlášených pohledávek.
+
+### Souvisící předpisy
+
+- **§ 107 odst. 4 a § 107a odst. 3 občanského soudního řádu** — převzetí stavu sporného řízení procesním nástupcem; inspirační zdroj původní úpravy.
+- **Zákon upravující evidenci skutečných majitelů** — evidence, na kterou navazuje § 177 odst. 2 a 6.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva k vládnímu návrhu insolvenčního zákona (sněmovní tisk 1120/0, zvláštní část, k § 17 až 19) vycházela z potřeby rychlé singulární procesní sukcese. K § 19 výslovně spojila převzetí stavu řízení s § 107 odst. 4 a § 107a odst. 3 občanského soudního řádu a automatický přesah do incidenčního sporu odůvodnila jeho závislostí na insolvenčním řízení.
+
+Odstavec 2 doplnil s účinností od 1. 7. 2017 zákon č. 64/2017 Sb. Důvodová zpráva k této novele (sněmovní tisk 785/0, zvláštní část k tehdejším bodům 5, 31 a 52, PDF s. 143–146) vysvětluje, že povinnost míří pouze na nabyvatele, na něhož by dopadla, kdyby pohledávku přihlašoval sám; účelem je identifikace skutečného majitele, nikoli opakovaný přezkum pohledávky.
+
+### Literatura
+
+Odborná literatura bude doplněna ve druhém kole revize.
+
 ### Výklad
 
-**Odst. 1 — okamžik a rozsah vstupu:**
-- *Okamžik:* až rozhodnutím soudu (nebo nastoupením fikce dle § 18 odst. 2). Do té doby je věřitelem stále převodce.
-- *Stav řízení:* nabyvatel **přejímá řízení v aktuálním stavu** — nemůže např. znovu otevřít přezkumné jednání, prodloužit lhůty, popírat výši pohledávky, kterou převodce uznal.
-- *Incidenční spory:* nabyvatel vstupuje *automaticky* i do incidenčních sporů týkajících se převáděné pohledávky.
+[1] **Vznik účastenství.** Nabyvatel se účastníkem nestává již samotným hmotněprávním převodem či přechodem. Procesní změna nastává rozhodnutím insolvenčního soudu podle § 18; zahrnuje i zákonnou fikci vyhovujícího rozhodnutí, nastanou-li její podmínky. Paragraf 19 navazuje na procesní rozhodnutí a sám neposuzuje, zda pohledávka hmotněprávně přešla.
 
-**Odst. 2 — povinnost doložit doklady:**
-- Aplikuje se obdobně § 177 odst. 2 — 6 (náležitosti přihlášky, doklady o pohledávce).
-- **Lhůta 15 dní** od vstupu — relativně krátká, ale pro nabyvatele zpravidla splnitelná, protože doklady má od převodce už při uzavření cession.
-- *Sankce za nedodržení?* Zákon výslovně nestanoví — v praxi to vede k popření pohledávky pro nedoložení.
+[2] **Převzetí stavu řízení.** Nabyvatel přijímá řízení ve stavu dosaženém při svém vstupu. Již nastalé účinky, proběhlé procesní úkony a výsledek přezkumu se pouhou změnou věřitele neruší. Je-li zjišťování pohledávky dosud otevřené, pokračuje nabyvatel v té fázi, v níž se nacházelo; byla-li pravost, výše a pořadí již zjištěna, samotný vstup není důvodem k novému přezkumu.
 
-### Vazby
+[3] **Incidenční spory.** Byl-li původní věřitel hlavním účastníkem incidenčního sporu týkajícího se nabyté pohledávky, promítne se změna provedená podle § 18 bez dalšího i do tohoto sporu. Zákonné pravidlo sleduje jednotu osoby věřitele v insolvenčním řízení a v na něm závislém sporu.
 
-- **§ 18** — vstup.
-- **§ 177** — náležitosti přihlášky.
-- **§ 192** a další — popírání pohledávky.
+[4] **Rozsah odstavce 2.** Odkaz na § 177 odst. 2 až 6 se týká skutečného majitele nabyvatele. Dopadá na pohledávku nabytou postoupením nebo obdobným způsobem po zahájení insolvenčního řízení anebo v posledních šesti měsících před jeho zahájením. Fyzická osoba je z této povinnosti vyňata; další výjimky stanoví § 177 odst. 3 a 6. Požadované prohlášení či údaje nabyvatel předkládá insolvenčnímu správci do 15 dnů od vstupu.
 
-### Praktická poznámka
+[5] **Následek nesplnění.** U nabyvatele, na nějž povinnost dopadá, se obdobně uplatní § 177 odst. 5: dokud ji nesplní, nesmí vykonávat hlasovací práva spojená s pohledávkou. Z § 19 odst. 2 nelze dovodit automatické popření pohledávky ani povinnost znovu dokládat listiny o jejím důvodu, výši či vykonatelnosti.
 
-Pro nabyvatele je důležité bezprostředně po vstupu *aktualizovat údaje* u správce, doložit smlouvu o postoupení a původní listinu o pohledávce. Praxe ukazuje, že opomenutí této povinnosti vede k tomu, že správce při následných úkonech komunikuje stále s převodcem (typicky doručením zpráv, vyúčtování), což může vést k procesnímu opomenutí.
+[6] **Intertemporalita.** Odstavec 1 je součástí zákona od jeho původního znění. Odstavec 2 byl vložen zákonem č. 64/2017 Sb. a je třeba jej používat podle přechodného režimu této novely. Rozsudek 29 ICdo 7/2020 vycházel ze znění do 31. 12. 2013, kdy § 19 ještě odstavec 2 neobsahoval; jeho závěr o zachování stavu přezkoumání se týká odstavce 1 a Nejvyšší soud jej znovu potvrdil v usnesení 29 NSČR 62/2023 v poměrech pozdější úpravy.
 
-### F. Kazuistika
+### Judikatura
 
-**1. Modelová situace.** Po rozhodnutí soudu o vstupu (§ 18) se nabyvatel N stává účastníkem v okamžiku, kdy pohledávka už prošla přezkumným jednáním a původní věřitel V její výši uznal tak, jak byla zjištěna. N chce nyní popřít část pohledávky jako příliš nízkou a znovu otevřít přezkum. Současně N do 15 dnů od vstupu nepředloží správci doklady o pohledávce. Probíhá také incidenční spor o pravost této pohledávky, zahájený ještě za V. Důkazy: usnesení o vstupu N, protokol o přezkumném jednání, výzva správce k doložení dokladů, spis incidenčního sporu.
-
-**2. Právní otázka.** Přebírá nabyvatel řízení v aktuálním stavu (bez možnosti znovu otevřít již proběhlé úkony) a vstupuje automaticky i do incidenčních sporů týkajících se nabyté pohledávky? Jaký je následek nedoložení dokladů ve lhůtě 15 dnů?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 19 — nabyvatel se stává účastníkem rozhodnutím soudu dle § 18 a platí pro něj stav řízení k okamžiku vstupu; vstupuje na místo věřitele i do incidenčních sporů o nabytou pohledávku (odst. 1); obdobně § 177 odst. 2–6, doklady předloží správci do 15 dnů od vstupu (odst. 2).
-- *Související ustanovení téhož zákona:* § 18 (vstup), § 177 (náležitosti přihlášky/doklady), § 192 a násl. (popírání pohledávky), § 173 (přihlášky).
-- *Související předpisy:* OZ § 1879 a násl. (postoupení — nabyvatel nabývá v rozsahu práva převodce); OSŘ subsidiárně.
-- *Judikatura:* nosný závěr — nabyvatel je vázán dosavadním stavem řízení (mj. výší pohledávky zjištěnou při přezkumu) a nemůže jej zvrátit; do incidenčních sporů o nabytou pohledávku nastupuje na místo převodce.
-
-**4. Subsumpce.** N vstoupil rozhodnutím soudu → platí pro něj stav řízení k okamžiku vstupu (odst. 1). Přezkumné jednání již proběhlo a V výši uznal; N je tímto stavem vázán a nemůže znovu otevřít přezkum ani popřít výši, kterou převodce uznal. Do probíhajícího incidenčního sporu o pravost pohledávky N nastupuje automaticky na místo V. Nedoložení dokladů do 15 dnů (odst. 2) zákon výslovně nesankcionuje, fakticky však hrozí popření pro nedoložení.
-
-**5. Řešení.** Snaha N znovu otevřít přezkum je neúspěšná — přejímá řízení ve stavu, v jakém je (odst. 1). V incidenčním sporu pokračuje N jako procesní nástupce V. Doklady je třeba předložit správci do 15 dnů (odst. 2); jejich nedoložení sice nemá výslovnou sankci, ale v praxi vede k popření pohledávky pro nedoloženost a k riziku, že správce komunikuje dál s převodcem. Riziko: opomenutí aktualizace údajů u správce → procesní opomenutí (nedoručené zprávy, vyúčtování).
-
-**6. Varianty.** (a) Kdyby N vstoupil ještě před přezkumným jednáním, mohl by uplatnit procesní práva k přezkumu (stav řízení by byl jiný). (b) Kdyby incidenční spor o pohledávku neexistoval, automatický vstup do něj by se neuplatnil; N by řešil jen samotnou přihlášenou pohledávku.
-
-### G. Protiargumenty a rizika
-
-- *„Nabyvatel může popřít výši pohledávky a otevřít přezkum znovu."* Ne — platí pro něj stav řízení k okamžiku vstupu (odst. 1); je vázán tím, co převodce uznal/zmeškal.
-- *„Do incidenčního sporu musí nabyvatel vstupovat zvlášť."* Ne — nastupuje automaticky na místo převodce ve sporech o nabytou pohledávku (odst. 1 in fine).
-- *Slabé místo:* odst. 2 nestanoví výslovnou sankci za nedoložení dokladů ve lhůtě 15 dnů; argumentace následkem (popření pro nedoloženost) se opírá o praxi a § 177, ne o výslovné znění — nutno doklady raději doložit včas.
-
-### H. Praktický závěr
-
-Paragraf 19 určuje, že nabyvatel pohledávky přejímá řízení v aktuálním stavu (bez možnosti revidovat již proběhlé úkony) a automaticky vstupuje i do souvisejících incidenčních sporů. Do 15 dnů od vstupu musí správci doložit doklady o pohledávce (obdoba § 177), jinak fakticky riskuje popření.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Zjisti stav řízení k okamžiku vstupu (odst. 1) — nabyvatel je jím vázán (přezkum, uznaná výše, lhůty).
-- [ ] Ověř probíhající incidenční spory o nabytou pohledávku — nabyvatel do nich nastupuje automaticky.
-- [ ] Do 15 dnů od vstupu předlož správci doklady o pohledávce (obdoba § 177), jinak hrozí popření pro nedoloženost.
-- [ ] Bezodkladně aktualizuj kontaktní údaje u správce, ať komunikace nesměřuje dál k převodci.
-
-**Typicky rozhodné důkazy / podklady:** usnesení o vstupu nabyvatele, protokol o přezkumném jednání (zjištěná výše a uznání), smlouva o postoupení a původní listina o pohledávce, výzva správce k doložení a doklady dle § 177, spis incidenčního sporu.
+- **Nejvyšší soud, rozsudek ze dne 28. 2. 2022, sen. zn. 29 ICdo 7/2020, ECLI:CZ:NS:2022:29.ICDO.7.2020.1, R 9/2023.** Záruční banka po plnění vstoupila podle § 183 odst. 3 ve spojení s § 18 na místo původní banky a domáhala se určení pořadí své pohledávky. Nejvyšší soud v bodech 19 a 30–33 vyložil, že procesní změna věřitele nemění stav přezkoumání: probíhající zjišťování pokračuje a již zjištěnou pravost, výši ani pořadí nelze jen kvůli vstupu znovu přezkoumat. Rozhodné bylo znění do 31. 12. 2013.
+- **Nejvyšší soud, usnesení ze dne 30. 7. 2025, sen. zn. 29 NSČR 62/2023, ECLI:CZ:NS:2025:29.NSCR.62.2023.1, R 26/2026.** Ve věci vydání výtěžku zpeněžení zajištění a postavení banky, která plnila z bankovní záruky, Nejvyšší soud v bodech 64–69 navázal na R 9/2023. Potvrdil, že vstup podle § 183 odst. 3 a § 18 je procesním nástupnictvím, promítá se do odporového incidenčního sporu a nemění dosažený stav přezkoumání; výjimku připustil pro pozdější zákonný zánik práva na uspokojení ze zajištění mimo insolvenční řízení.
 
 ---
 

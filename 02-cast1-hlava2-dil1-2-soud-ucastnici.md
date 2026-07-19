@@ -196,60 +196,57 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola. Nejde o 
 
 ## § 12 — Rozhodující soudní osoba
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) V insolvenčním řízení a v incidenčních sporech jedná a rozhoduje v prvním stupni jediný soudce (samosoudce).
 >
 > (2) Zákon upravující vyšší soudní úředníky a vyšší úředníky státního zastupitelství stanoví, kdy je v insolvenčním řízení oprávněn jednat a rozhodovat vyšší soudní úředník.
 
+### Přehled výkladu
+
+Odstavec 1 určuje obsazení soudu prvního stupně: insolvenční řízení i incidenční spor projednává a rozhoduje samosoudce. Odstavec 2 současně připouští, aby jednotlivé úkony soudu vykonal vyšší soudní úředník v mezích zákona č. 121/2008 Sb. Nejde tedy o rozpor mezi oběma odstavci, nýbrž o kombinaci pravidla o obsazení soudu a zákonného rozdělení práce uvnitř soudního oddělení.
+
+### Souvisící ustanovení
+
+- **§ 7** — přiměřené použití občanského soudního řádu a zákona o zvláštních řízeních soudních.
+- **§ 10 a § 11** — rozhodovací a dohlédací činnost insolvenčního soudu.
+- **§ 13** — jednotlivé úkony asistenta soudce insolvenčního soudu z pověření soudce.
+- **§ 159** — vymezení incidenčních sporů, na něž dopadá odstavec 1.
+
+### Souvisící předpisy
+
+- **Zákon č. 121/2008 Sb.**, zejména § 4 až 9, § 11 a § 13 — zařazení vyššího soudního úředníka v soudním oddělení, pověření a pokyny, předložení složité věci soudci, procesní obrana proti rozhodnutí, negativní výčet vyloučených úkonů a možnost soudce vyhradit si úkon.
+- **Občanský soudní řád**, § 36a, § 36b a § 38a — obecná pravidla o samosoudci u soudu prvního stupně, senátním rozhodování vrchních soudů a účasti vyššího soudního úředníka.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva ke sněmovnímu tisku 1120/0 uvádí v části k § 9 až 13, že se zachovává rozhodování v prvním stupni jediným soudcem a že zvláštní předpis může dovolit jednání jiných osob jménem insolvenčního soudu. Tento legislativní záměr nelze číst jako samostatné zmocnění: konkrétní rozsah činnosti vyššího soudního úředníka dnes určuje zákon č. 121/2008 Sb.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto sdělení není výsledkem negativní rešerše.
+
 ### Výklad
 
-**Odst. 1** — výslovně **samosoudcovský model** v prvním stupni. Žádné senátní rozhodování u krajského soudu (na rozdíl od některých jiných agend). Důvod — rychlost a koncentrace odpovědnosti. V druhém stupni naopak rozhoduje senát vrchního soudu (zpravidla 3 členný).
+[1] **Samosoudce v prvním stupni.** Pravidlo odstavce 1 dopadá na vlastní insolvenční řízení i na všechny incidenční spory. Určuje, že soud prvního stupně není obsazen senátem. Navazuje na obecné pravidlo § 36a odst. 2 OSŘ pro krajský soud jako soud prvního stupně; pro vrchní soud stanoví § 36b OSŘ senátní rozhodování.
 
-**Odst. 2** — odkaz na zákon č. 121/2008 Sb. o vyšších soudních úřednících. VSÚ v insolvenci může činit řadu úkonů (např. usnesení o nahlédnutí do spisu, o nákladech řízení, o ustanovení znalce, o doručení atd. — taxativní výčet stanoví § 11 zákona č. 121/2008 Sb. a další předpisy). Meritorní rozhodnutí (o úpadku, o způsobu řešení, o reorganizačním plánu) zůstávají vyhrazena soudci.
+[2] **Obsazení soudu a provedení jednotlivého úkonu.** Z toho, že je věc podle odstavce 1 přidělena samosoudci, neplyne, že každý jednotlivý úkon musí osobně vykonat soudce. Odstavec 2 je výslovným odkazem na zvláštní zákonnou úpravu činnosti vyšších soudních úředníků.
 
-### Vazby
+[3] **Konstrukce zákona o vyšších soudních úřednících.** § 11 zákona č. 121/2008 Sb. vychází z obecného oprávnění vyššího soudního úředníka provádět úkony soudu prvního stupně a z negativního výčtu výjimek. Není proto správné hledat v něm taxativní seznam dovolených insolvenčních úkonů. Vždy je třeba současně zkontrolovat zvláštní zákon, rozvrh práce, případné pověření a pokyn soudce.
 
-- **Zákon č. 121/2008 Sb.**, § 11 — kompetence VSÚ v insolvenci.
-- **OSŘ § 36a** — obecný princip samosoudce u krajských soudů v civilních věcech I. stupně.
+[4] **Insolvenční výhrady.** Podle § 11 písm. m) zákona č. 121/2008 Sb. vyšší soudní úředník nesmí v insolvenčním řízení jednat a rozhodovat mimo jiné o ustanovení, odvolání a zproštění insolvenčního správce, o úpadku, zamítnutí insolvenčního návrhu, konkursu, konečné zprávě a rozvrhu, reorganizaci, oddlužení ani ve věci samé v incidenčním sporu. Rozvrh práce ani pověření nemohou tuto zákonnou výhradu rozšířit v jeho prospěch.
 
-### Praktická poznámka
+[5] **Složitá věc a výhrada soudce.** I úkon, který není z působnosti vyššího soudního úředníka vyloučen, musí být podle § 7 zákona č. 121/2008 Sb. předložen soudci, je-li věc právně nebo skutkově složitá. Soudce ji v takovém případě podle § 8 odejme a vyřídí sám; podle § 13 si navíc může vyhradit provedení úkonu uvedeného v § 11.
 
-V praxi naprostá většina dohlédací agendy projde rukama VSÚ, soudce řeší meritum a sporné otázky. To je důležité pro načasování — komunikace s VSÚ je často rychlejší, ale ve významných otázkách trvejte na rozhodnutí soudce.
+[6] **Kontrola rozhodnutí vyššího soudního úředníka.** Způsob obrany nelze určit jen z § 12 insolvenčního zákona. § 9 zákona č. 121/2008 Sb. rozlišuje odvolání a patnáctidenní námitky podle toho, zda je proti danému rozhodnutí odvolání, odpor nebo námitky podle procesního předpisu přípustné. Před procesním krokem je proto nutné ověřit druh rozhodnutí, poučení a použitelnou zvláštní úpravu.
 
-### F. Kazuistika
+[7] **Intertemporalita.** Původní znění § 12 odst. 2 odkazovalo poznámkou pod čarou na zákon č. 189/1994 Sb. Ten byl nahrazen zákonem č. 121/2008 Sb. Pro současnou kompetenci vyššího soudního úředníka je rozhodné aktuální znění nového zákona, nikoli historický rozsah oprávnění jeho předchůdce.
 
-**1. Modelová situace.** V insolvenčním řízení vydá vyšší soudní úředník (VSÚ) usnesení, jímž rozhodne o úpadku dlužníka a o prohlášení konkursu. Dlužník namítá, že takové rozhodnutí nemohl vydat VSÚ, neboť jde o meritorní rozhodnutí vyhrazené samosoudci. Současně v jiném usnesení VSÚ rozhodl o nákladech řízení a o ustanovení znalce — proti tomu dlužník nebrojí. Důkazy: napadené usnesení s podpisem VSÚ, rozvrh práce soudu, obsah pověření.
+### Judikatura
 
-**2. Právní otázka.** Bylo rozhodnutí o úpadku a o způsobu jeho řešení v pravomoci VSÚ, nebo je dle § 12 IZ vyhrazeno samosoudci, a jaký to má důsledek pro zákonnost rozhodnutí?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 12 — v prvním stupni jedná a rozhoduje jediný soudce (samosoudce); odst. 2 odkazuje na zákon o VSÚ pro vymezení úkonů VSÚ.
-- *Související ustanovení téhož zákona:* § 11 (dohlédací činnost, kterou zčásti vykonává VSÚ), § 136 (rozhodnutí o úpadku), § 148 (spojení s rozhodnutím o způsobu řešení), § 84/§ 91 (opravné prostředky).
-- *Související předpisy:* zákon č. 121/2008 Sb. o vyšších soudních úřednících (§ 11 — kompetence VSÚ v insolvenci, výhrada meritorních rozhodnutí soudci); OSŘ § 36a (samosoudce u krajských soudů); zákon č. 6/2002 Sb. (rozvrh práce).
-- *Judikatura:* nosný závěr — meritorní rozhodnutí (o úpadku, o způsobu řešení, o reorganizačním plánu) náleží soudci; rozhodne-li o nich VSÚ, jde o vadu, již lze napravit opravným prostředkem (námitkami / odvoláním).
-
-**4. Subsumpce.** Rozhodnutí o úpadku a o konkursu je meritorní — spadá pod výhradu samosoudce dle § 12 odst. 1 a není v taxativním okruhu úkonů VSÚ. Naproti tomu usnesení o nákladech a o ustanovení znalce do kompetence VSÚ patří (§ 11 zák. č. 121/2008 Sb.).
-
-**5. Řešení.** Vydal-li meritorní rozhodnutí VSÚ, jde o vadu obsazení/pravomoci; náprava cestou opravného prostředku (u rozhodnutí o úpadku odvolání podle § 141, s omezeními). Usnesení o nákladech a o znalci jsou v pořádku. Riziko: opomenutí včasné námitky vady může vést k jejímu zhojení; naopak meritorní agendu nelze paušálně přenášet na VSÚ.
-
-**6. Varianty.** (a) Kdyby VSÚ vydal jen procesní/dohlédací usnesení (doručení, nahlížení do spisu), bylo by v pořádku a nešlo by o vadu. (b) Kdyby ve druhém stupni rozhodoval samosoudce místo senátu vrchního soudu, šlo by rovněž o vadu obsazení (II. stupeň = senát).
-
-### G. Protiargumenty a rizika
-
-- *„VSÚ může vydat jakékoli usnesení, je-li tak v rozvrhu práce."* Ne — meritorní rozhodnutí jsou zákonem vyhrazena soudci (§ 12 odst. 1 IZ, § 11 zák. č. 121/2008 Sb.); rozvrh práce výhradu nepřekoná.
-- *„Insolvenční věc může v I. stupni rozhodovat senát."* Ne — § 12 odst. 1 stanoví samosoudcovský model; senát rozhoduje až ve druhém stupni.
-- *Slabé místo:* hranice mezi „úkonem" v kompetenci VSÚ a meritorním rozhodnutím není u všech typů usnesení ostrá; nutno vycházet z § 11 zák. č. 121/2008 Sb. a povahy rozhodnutí.
-
-### H. Praktický závěr
-
-Paragraf 12 zakotvuje samosoudcovský model v prvním stupni a otevírá prostor pro úkony VSÚ vymezené zvláštním zákonem. Meritorní rozhodnutí (úpadek, způsob řešení, reorganizační plán) zůstávají soudci; většinu dohlédací agendy fakticky vyřizuje VSÚ.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověř, kdo rozhodnutí vydal (soudce vs. VSÚ) a zda jde o meritorní rozhodnutí vyhrazené soudci.
-- [ ] U úkonů VSÚ porovnej s taxativním výčtem § 11 zák. č. 121/2008 Sb.
-- [ ] V I. stupni počítej se samosoudcem, ve II. stupni se senátem vrchního soudu.
-- [ ] Vadu obsazení/pravomoci uplatni včas opravným prostředkem, jinak hrozí její zhojení.
-
-**Typicky rozhodné důkazy / podklady:** napadené rozhodnutí s identifikací rozhodující osoby, rozvrh práce soudu, pověření VSÚ, zákon č. 121/2008 Sb.
+- **Nález Ústavního soudu ze dne 22. 5. 2013, sp. zn. Pl. ÚS 31/10.** Ústavní soud při přezkumu tehdejšího § 11 zákona č. 121/2008 Sb. zdůraznil, že vyšší soudní úředník je pomocníkem soudce a že složité či meritorní rozhodování vyžaduje soudcovské garance; tehdejší § 11 zrušil uplynutím 31. 12. 2013. Nález je významný pro ústavní východisko, nikoli jako přímý katalog dnešních kompetencí: současné znění § 11 je výsledkem pozdější legislativní reakce a musí být použito samo o sobě.
 
 ---
 

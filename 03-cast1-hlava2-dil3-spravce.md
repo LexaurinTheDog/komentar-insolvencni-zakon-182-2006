@@ -357,72 +357,62 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola. Nejde o 
 
 ## § 27 — Okamžik ustanovení; předběžný správce
 
-> (1) Insolvenční soud ustanoví insolvenčního správce nejpozději v rozhodnutí o úpadku. Za podmínek stanovených tímto zákonem může insolvenční soud ustanovit před rozhodnutím o úpadku předběžného insolvenčního správce (dále jen „předběžný správce"); toto rozhodnutí se zveřejní stejným způsobem jako rozhodnutí o úpadku.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Insolvenční soud ustanoví insolvenčního správce nejpozději v rozhodnutí o úpadku. Za podmínek stanovených tímto zákonem může insolvenční soud ustanovit před rozhodnutím o úpadku předběžného insolvenčního správce (dále jen „předběžný správce“); toto rozhodnutí se zveřejní stejným způsobem jako rozhodnutí o úpadku.
 >
 > (2) Předběžný správce vykonává před rozhodnutím o úpadku činnosti stanovené v tomto zákoně a uložené mu insolvenčním soudem a má práva a povinnosti, které mu tento soud vymezí. Tato práva a povinnosti nemůže insolvenční soud vymezit v širším rozsahu, než v jakém náleží insolvenčnímu správci po rozhodnutí o úpadku. Nestanoví-li insolvenční soud o osobě insolvenčního správce jinak v rozhodnutí o úpadku, stává se předběžný správce po tomto rozhodnutí insolvenčním správcem s plnou působností.
 >
 > (3) Ustanovení o insolvenčním správci platí přiměřeně i pro předběžného správce.
 
+### Přehled výkladu
+
+§ 27 rozlišuje standardní ustanovení správce nejpozději v rozhodnutí o úpadku a dřívější ustanovení předběžného správce v zákonem předvídaných situacích. Samotné ustanovení předběžného správce neznamená, že dlužník automaticky pozbývá dispoziční oprávnění; konkrétní omezení a působnost musí plynout ze zákona a z výroku soudu. Neustanoví-li soud v rozhodnutí o úpadku jinou osobu, dosavadní předběžný správce se ze zákona stává insolvenčním správcem s plnou působností.
+
+### Souvisící ustanovení
+
+- **§ 25 a 26** — určení osoby správce a omezené odvolací důvody proti jejímu ustanovení.
+- **§ 71 a 74** — doručení zveřejněním v insolvenčním rejstříku a vztah ke zvláštnímu doručení.
+- **§ 82 odst. 1 a 2 písm. a), § 84 odst. 2** — obecný režim předběžných opatření a další případ ustanovení předběžného správce.
+- **§ 112 až 114** — důvody ustanovení, úkoly předběžného správce, omezení dispozic, doručování, odvolání a účinky plnění v rozporu s opatřením.
+- **§ 136 odst. 2 písm. b)** — povinný výrok o ustanovení správce v rozhodnutí o úpadku.
+- **§ 168 odst. 1 písm. a)** — odměna a hotové výdaje předběžného správce jako pohledávka za majetkovou podstatou; výjimka při jeho následném ustanovení insolvenčním správcem.
+
+### Souvisící předpisy
+
+- **Zákon č. 99/1963 Sb., občanský soudní řád, zejména § 169** — náležitosti usnesení; v insolvenčním řízení se použije přiměřeně za podmínek § 7 insolvenčního zákona.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva označila za účel § 27 vymezení nejzazšího okamžiku ustanovení insolvenčního správce a úpravu předběžného správce, převzatou s rozšířením a upřesněním z dřívějšího práva. Její odkazy na tehdejší znění § 84 odst. 2 a § 123 odst. 1 jsou historické; aktuální podmínky je nutno číst výlučně z právního stavu k 19. 7. 2026.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola; tento oddíl nepředstavuje negativní rešerši.
+
 ### Výklad
 
-**Časový rámec ustanovování:**
-- **standardně** — *spolu s rozhodnutím o úpadku* (§ 136 — výrok rozhodnutí o úpadku obsahuje i výrok o ustanovení správce),
-- **dříve** — *předběžný správce* (§ 27 odst. 1) jako součást předběžného opatření (§ 113).
+[1] **Nejzazší okamžik.** Soud může insolvenčního správce ustanovit dříve, avšak nejpozději tak musí učinit v rozhodnutí o úpadku. Tomu odpovídá § 136 odst. 2 písm. b), podle něhož rozhodnutí o úpadku obsahuje výrok o ustanovení insolvenčního správce.
 
-#### Předběžný správce (§ 27 odst. 2)
+[2] **Dřívější ustanovení.** Před rozhodnutím o úpadku lze ustanovit předběžného správce jen za podmínek insolvenčního zákona. § 82 odst. 2 písm. a) připouští jeho ustanovení předběžným opatřením; konkrétní důvody a úkoly rozvádějí zejména § 84 odst. 2 a § 112 až 114.
 
-Typický scénář — věřitel podá insolvenční návrh, dlužník popírá úpadek, je obava, že do rozhodnutí o úpadku bude majetek rozprodán nebo schován. Soud nařídí *předběžné opatření* (§ 82), kterým může omezit dispozice dlužníka a/nebo ustanovit **předběžného správce**, který dohlíží na majetek.
+[3] **Ustanovení není omezením samo o sobě.** Z pouhého ustanovení předběžného správce nelze dovodit plošný zákaz dlužníkových dispozic. Například § 113 odst. 1 dovoluje soudu při splnění tam uvedené podmínky zakázat nakládání s určitými věcmi či právy, podmínit dispozice souhlasem předběžného správce nebo přesměrovat plnění dlužníkových dlužníků. Rozhodující je konkrétní výrok předběžného opatření.
 
-**Rozsah pravomocí předběžného správce:**
-- nesmí být širší než pravomoci řádného správce (princip subsidiarity),
-- konkrétní rozsah vymezuje **soud v rozhodnutí**,
-- typicky: dozor nad dlužníkovou činností, povinnost dlužníka konzultovat významnější transakce, oprávnění správce „blokovat" některé dispozice.
+[4] **Obsah funkce.** Předběžný správce vykonává činnosti přímo stanovené zákonem a činnosti uložené soudem; soud zároveň vymezuje jeho práva a povinnosti. Jejich horní hranicí je rozsah práv a povinností insolvenčního správce po rozhodnutí o úpadku. § 112 odst. 3 mu výslovně ukládá opatření ke zjištění a zajištění majetku a přezkoumání účetnictví nebo jiné evidence.
 
-**Přechod do plné funkce** (odst. 2 *in fine*) — *automatický*. Pokud soud při rozhodnutí o úpadku neurčí jiného správce, předběžný správce se stává řádným. To je důležitá kontinuita — odpadá zacvičovací doba.
+[5] **Procesní záruky.** Rozhodnutí o ustanovení se zveřejňuje jako rozhodnutí o úpadku, tedy v insolvenčním rejstříku. U opatření podle § 113 zákon navíc upravuje zvláštní doručení a okruh osob oprávněných k odvolání. Vrchní soud v Praze v rozhodnutí 3 VSPH 17/2010 zdůraznil, že opatření podle § 113, které významně omezuje dispozice dlužníka, musí být náležitě odůvodněno konkrétními zjištěními, uloženými omezeními a potřebou ochrany věřitelů.
 
-### Vazby
+[6] **Kontinuita osoby.** Jestliže soud v rozhodnutí o úpadku neustanoví jinou osobu, nastává přímo ze zákona přechod předběžného správce do postavení insolvenčního správce s plnou působností. Jde o kontinuitu osoby a funkce; rozsah dispozičních oprávnění po rozhodnutí o úpadku se nadále řídí způsobem řešení úpadku a příslušnými zvláštními ustanoveními, nikoli samotným § 27.
 
-- **§ 82, § 113** — předběžná opatření a předběžný správce.
-- **§ 136** — rozhodnutí o úpadku.
+[7] **Jiná osoba a skončení předběžné fáze.** Ustanoví-li soud v rozhodnutí o úpadku jinou osobu, zákonný přechod podle odstavce 2 nenastane. Zruší-li soud ještě před rozhodnutím o úpadku opatření, kterým byl předběžný správce ustanoven, § 112 odst. 4 ukládá předběžnému správci podat zprávu o činnosti a vyúčtovat vzniklé náklady.
 
-### Praktická poznámka
+[8] **Přiměřené použití.** Odkaz v odstavci 3 přenáší úpravu insolvenčního správce na předběžného správce jen přiměřeně. Vždy je proto nutno zohlednit dočasnost funkce před rozhodnutím o úpadku, konkrétní zákonné ustanovení a rozsah vymezený soudem.
 
-Ustanovení **předběžného správce** je dnes v ČR poměrně časté zejména u větších dlužníků, kde věřitelé mají reálnou obavu z rychlého převodu majetku. Pro dlužníka je to *brzkové* opatření — okamžitě ztrácí část operační volnosti.
+### Judikatura
 
-### F. Kazuistika
-
-**1. Modelová situace.** Věřitel podá insolvenční návrh na dlužníka (s.r.o.) a současně tvrdí, že dlužník vyvádí majetek (prodává stroje spřízněné osobě). Soud nařídí předběžné opatření a ustanoví předběžného správce, jemuž v rozhodnutí vymezí oprávnění dohlížet na nakládání s majetkem a povinnost dlužníka konzultovat transakce nad 100 000 Kč. Po měsíci soud rozhodne o úpadku, aniž by v něm o osobě správce výslovně rozhodl jinak. Důkazy: insolvenční návrh, rozhodnutí o předběžném opatření a ustanovení předběžného správce, rozhodnutí o úpadku.
-
-**2. Právní otázka.** Jaký je rozsah pravomocí předběžného správce před rozhodnutím o úpadku a stává se tato osoba automaticky insolvenčním správcem s plnou působností, jestliže soud v rozhodnutí o úpadku osobu správce nezmění?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 27 odst. 1 (ustanovení nejpozději v rozhodnutí o úpadku; možnost dřívějšího předběžného správce), odst. 2 (rozsah pravomocí nepřesahující řádného správce; automatický přechod do plné funkce), odst. 3 (přiměřené použití úpravy o správci).
-- *Související ustanovení téhož zákona:* § 82 a § 113 (předběžná opatření a předběžný správce), § 136 (obsah rozhodnutí o úpadku), § 246 (přechod dispozičních oprávnění po prohlášení konkursu).
-- *Související předpisy:* § 74 a násl. OSŘ (předběžná opatření — přiměřeně přes § 7 IZ).
-- *Judikatura:* k povaze úkonů správce a označení srov. NS 29 NSČR 47/2013 (citováno u § 40).
-
-**4. Subsumpce.** Vymezení dozoru a konzultační povinnosti nepřesahuje pravomoci řádného správce → respektuje princip subsidiarity dle § 27 odst. 2. Jelikož soud v rozhodnutí o úpadku osobu správce nezměnil, je naplněn znak „nestanoví-li soud jinak" → předběžný správce se stává správcem s plnou působností. Sporné/neúplné: zda některé z vymezených oprávnění (např. blokace dispozic) nepřekročilo rámec řádného správce.
-
-**5. Řešení.** Předběžný správce přechází automaticky do plné funkce; odpadá zacvičovací doba a využije se jeho informační náskok (využitelný i pro pozdější určení mimo pořadí dle § 25 odst. 5). Procesní kroky: po rozhodnutí o úpadku správce neprodleně přebírá dispoziční oprávnění (po prohlášení konkursu dle § 246), zřizuje účet (§ 36 odst. 5), zahajuje součinnostní dožádání (§ 43–44).
-
-**6. Varianty.** (a) Soud v rozhodnutí o úpadku ustanoví jiného správce (např. z důvodu specializace) → automatický přechod se neuplatní, předběžný správce končí a podá vyúčtování (§ 38 odst. 5 přiměřeně). (b) Soud by předběžnému správci vymezil pravomoci širší než řádnému správci → překročení § 27 odst. 2, takové vymezení je v rozsahu excesu neúčinné.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Předběžný správce je provizorní, proto nemůže automaticky pokračovat." — Neutralizace: § 27 odst. 2 in fine výslovně stanoví automatický přechod do plné funkce, nerozhodne-li soud jinak; kontinuita je záměrem zákona.
-- *Protiargument:* „Předběžný správce může činit cokoli, co soud uzná." — Neutralizace: jeho pravomoci nesmí být širší než u řádného správce; exces je nepřípustný a může založit odpovědnost.
-- *Slabé místo:* zásah do dispozic dlužníka před rozhodnutím o úpadku je citlivý (dlužník úpadek popírá) — při neúspěchu návrhu hrozí odpovědnost navrhovatele i správce za škodu z předběžného opatření.
-
-### H. Praktický závěr
-
-Správce se ustanovuje nejpozději v rozhodnutí o úpadku; předběžný správce může nastoupit dříve s pravomocemi nepřesahujícími řádného správce a — nerozhodne-li soud jinak — přechází automaticky do plné funkce.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Vymezit pravomoci předběžného správce tak, aby nepřesáhly rozsah řádného správce.
-- [ ] V rozhodnutí o úpadku výslovně řešit, zda osoba správce zůstává, či se mění.
-- [ ] Po rozhodnutí o úpadku zajistit převzetí dispozic, účet a součinnostní dožádání.
-
-**Typicky rozhodné důkazy / podklady:** insolvenční návrh a tvrzení o vyvádění majetku, rozhodnutí o předběžném opatření a ustanovení předběžného správce, rozhodnutí o úpadku, soupis úkonů předběžného správce.
+- **Vrchní soud v Praze, usnesení ze dne 8. 2. 2010, sp. zn. 3 VSPH 17/2010, ECLI:CZ:VSPH:2010:3.VSPH.17.2010.1, č. 87/2010 Sbírky soudních rozhodnutí a stanovisek.** Městský soud ustanovil předběžného správce, podmínil veškeré dispozice dlužníka jeho souhlasem a přesměroval plnění, avšak usnesení neodůvodnil. Odvolací soud je zrušil. V odůvodnění vyložil, že soud musí uvést osvědčené či prokázané skutečnosti, konkrétní omezení a důvody jejich potřebnosti k ochraně věřitelů. Rozhodnutí vycházelo z tehdejšího § 7, § 82 odst. 1 a § 113 odst. 1; jeho závěr o nutnosti odůvodnit takto závažný zásah je použitelný i při aktuálně zachovaném normativním základu. Nejde o obecný výklad všech způsobů ustanovení předběžného správce.
 
 ---
 

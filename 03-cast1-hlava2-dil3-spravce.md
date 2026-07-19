@@ -235,6 +235,10 @@ Nepravý odkaz na 29 NSČR 30/2010 byl odstraněn: toto rozhodnutí neobsahuje n
 
 ## § 25 — Pořadí ustanovování (rotační systém)
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Insolvenčního správce pro insolvenční řízení ustanovuje insolvenční soud. Je-li s rozhodnutím o úpadku spojeno rozhodnutí o povolení reorganizace podle § 148 odst. 2 a je-li v předloženém reorganizačním plánu určena osoba insolvenčního správce, ustanoví insolvenční soud insolvenčním správcem tuto osobu; to neplatí, nesplňuje-li takto určený insolvenční správce podmínky uvedené v § 21 až 24 a odstavci 3. Ustanovení § 29 tím není dotčeno.
 >
 > (2) Nejde-li o případ podle odstavce 1, insolvenční soud ustanoví insolvenčním správcem osobu, kterou určí předseda insolvenčního soudu podle pořadí určeného dnem zápisu jejího sídla nebo provozovny do příslušné části seznamu insolvenčních správců vedené
@@ -249,86 +253,51 @@ Nepravý odkaz na 29 NSČR 30/2010 byl odstraněn: toto rozhodnutí neobsahuje n
 >
 > (6) Odstavce 2 a 3 se nepoužijí v případě určení osoby insolvenčního správce, který je hostujícím insolvenčním správcem. Předseda insolvenčního soudu určí pro insolvenční řízení osobu insolvenčního správce, který je hostujícím insolvenčním správcem, z příslušné části seznamu postupem, který je v souladu se zásadou dočasnosti nebo příležitostnosti, je-li to vhodné se zřetelem k dosavadnímu stavu insolvenčního řízení, k osobě dlužníka a k jeho majetkovým poměrům, jakož i k odborné způsobilosti osoby insolvenčního správce, který je hostujícím insolvenčním správcem.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *NSS* [14 A 122/2018 - 39](https://vyhledavac.nssoud.cz/DokumentDetail/Index/427355) — 20. 12. 2019
-  > „Smyslem a hlavním cílem této právní úpravy provozoven bylo přiblížit výkon činnosti insolvenčního správce dlužníkům, úspora nákladů obou stran a rovnoměrné rozložení insolvenčních správců v tom kterém obvodu podle požadavku trhu. […] Konstitutivní charakter zápisu a výmazu provozovny insolvenčního správce takto chrání práva třetích osob (primárně účastníků řízení), které tak mohou jednat (navštívit provozovnu) v důvěře v údaj zveřejněný ve veřejném seznamu, čemuž koresponduje povinnost insolvenčního správce […] vykonávat činnost v provozovně v úředních hodinách zapsaných do seznamu (srov. § 25 odst. 2 insolvenčního zákona)"
+Ustanovení rozlišuje rozhodnutí insolvenčního soudu o ustanovení správce od předchozího určení konkrétní osoby předsedou insolvenčního soudu. Základní pořadí se odvíjí od dne zápisu sídla nebo provozovny do příslušné části seznamu; zákon současně upravuje zvláštní režim reorganizace a vybraných dlužníků, společné určení pro koncern a manžele, odchylku od pořadí a hostující správce.
 
-### Výklad — **JEDEN Z KLÍČOVÝCH PARAGRAFŮ ZÁKONA**
+### Souvisící ustanovení
 
-Paragraf 25 zavádí **rotační systém ustanovování správců** — důležitou systémovou obranu proti subjektivnímu výběru („nákupu" správce některou ze stran).
+- **§ 21 až 24** — předpoklady osoby, která má být ustanovena, včetně nepodjatosti.
+- **§ 26** — omezené odvolací důvody proti rozhodnutí o ustanovení správce.
+- **§ 29** — možnost první schůze věřitelů odvolat soudem ustanoveného správce a ustanovit nového.
+- **§ 31** — odvolání správce z funkce a ustanovení nového správce.
+- **§ 148 odst. 2** — spojení rozhodnutí o úpadku s povolením reorganizace.
 
-#### Tři varianty (priority od nejvyšší):
+### Souvisící předpisy
 
-**(1) Předjednaný reorganizační plán (prepack)** — § 25 odst. 1, věta druhá ve spojení s § 148 odst. 2: pokud dlužník (nebo věřitelská skupina) podá současně s návrhem na úpadek také reorganizační plán s určenou osobou správce, soud ustanoví **tuto osobu** (pokud splňuje podmínky). Důvod — efektivita restrukturalizace, sladěnost správce s plánem.
+- **Zákon č. 312/2006 Sb., o insolvenčních správcích** — jeho § 3 odst. 2 je v § 25 odst. 2 a 3 použit k rozlišení režimu určení správce.
 
-**(2) Pořadí podle dne zápisu provozovny / sídla** — § 25 odst. 2:
-- *Obecná část seznamu*: pro obvod krajského soudu dlužníka — pro konkursy.
-- *Specifický oddíl pro oddlužení*: pro oddlužovací řízení — § 25 odst. 2 písm. b).
+### Z důvodové zprávy
 
-Soud ustanovuje **vždy dalšího v pořadí** — princip "*round robin*". Účelem je vyloučit subjektivní výběr a zajistit rovnoměrné rozdělování práce.
+Původní vládní návrh svěřoval výběr konkrétní osoby předsedovi insolvenčního soudu, aby zvýšil objektivitu výběru a oslabil vliv soudce vedoucího dané řízení. Důvodová zpráva zároveň zasazovala ustanovení do koncepce, která věřitelům umožňuje následnou výměnu správce, ale brání ovládnutí funkce partikulární skupinou věřitelů. Jde o vysvětlení původní koncepce: návrh ještě neobsahoval dnešní podrobný rotační algoritmus odstavců 2 až 6, a proto z něj nelze dovozovat jejich současný přesný obsah.
 
-**(3) Zvláštní část seznamu** — § 25 odst. 3: pro reorganizace a dlužníky se zvláštním povolením (§ 3 odst. 2 zák. o IS — typicky banky, pojišťovny, dlužníci s pasivy > 100 mil. Kč).
+### Literatura
 
-#### Speciální pravidla
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní rešerše.
 
-**Koncern a manželé** (odst. 4) — *stejný správce* pro všechny dlužníky v koncernu, případně pro oba manžele. Účel: konzistence rozhodování, lepší přehled o vzájemných pohledávkách, společné zpeněžování.
+### Výklad
 
-**Výjimka z pořadí** (odst. 5) — *předseda soudu může určit mimo pořadí*, ale **vždy s odůvodněním**. Důvody jsou taxativně nastíněny: stav řízení, osoba a poměry dlužníka, odborná způsobilost, dosavadní činnost, zatížení. V praxi se tato cesta používá:
-- pro velmi rozsáhlé / komplikované konkursy (kde běžný správce by nestíhal),
-- pro dlužníky, jejichž obor (např. zdravotnictví, energetika) vyžaduje specializaci,
-- pro pokračování práce předběžného správce, který má informační náskok.
+[1] **Ustanovení osoby a její určení jsou dvě navazující fáze.** Insolvenčního správce ustanovuje insolvenční soud. Mimo případ reorganizačního plánu podle odstavce 1 však konkrétní osobu pro běžný režim určuje předseda insolvenčního soudu a soud ji následně ustanoví.
 
-> **Klíčová ústavněprávní otázka** — nálezem **ÚS Pl. ÚS 6/13** byla potvrzena ústavní konformita rotačního systému. Soud uzavřel, že systém je legitimní obranou proti korupci a klientelismu; mimořádné určení musí být řádně odůvodněno.
+[2] **Reorganizační plán s určenou osobou.** Jsou-li splněny podmínky § 25 odst. 1 ve spojení s § 148 odst. 2, soud ustanoví osobu určenou v předloženém reorganizačním plánu. Musí však splňovat požadavky § 21 až 24 a pro danou věc také požadavek odstavce 3; možnost věřitelské změny podle § 29 zůstává zachována.
 
-### Vazby
+[3] **Pořadí podle odstavce 2.** Rozhodný je den zápisu sídla nebo provozovny do příslušné části seznamu vedené pro obvod krajského soudu, který je insolvenčním soudem dlužníka. Písmeno a) dopadá na tam popsané konkursní situace bez zvláštního dlužníka; písmeno b) na situaci, kdy je v době určení podán návrh na povolení oddlužení. Nelze proto pracovat s jediným nerozlišeným pořadníkem.
 
-- **§ 148 odst. 2** — předjednaný reorganizační plán.
-- **§ 26** — odvolání proti ustanovení.
-- **§ 29** — odvolání správce schůzí věřitelů (může revidovat rozhodnutí soudu).
-- **Zákon o IS § 3 odst. 2** — kvalifikované dlužníky pro zvláštní povolení.
+[4] **Zvláštní část seznamu.** Je-li v době určení podán návrh na povolení reorganizace nebo je-li dlužník osobou podle § 3 odst. 2 zákona o insolvenčních správcích, použije se bez ohledu na způsob řešení úpadku pořadí podle dne zápisu sídla do zvláštní části seznamu. Samotný § 25 výši pasiv jako samostatné kritérium nestanoví.
 
-### Praktická poznámka
+[5] **Koncern a manželé.** Nebrání-li tomu jiné okolnosti, má předseda soudu určit pro dlužníky tvořící koncern stejnou osobu; obdobné pravidlo platí pro manžele. Formulace „nebrání-li tomu jiné okolnosti“ vyžaduje posouzení konkrétní věci a nečiní ze společného určení bezvýjimečný příkaz.
 
-V praxi je rotační systém klíčový pro **předvídatelnost**. Strany insolvenčního řízení nemohou „nakoupit" konkrétního správce. Existují však strategie:
-- **prepack reorganizace** — výběr přes § 25 odst. 1 (vyžaduje souhlas předem),
-- **podání u soudu s vhodnou rotací** — pokud dlužník má sídlo na hranici více krajských obvodů, lze fakticky vybírat (před aktivací režimu pro forum shopping podle § 7b odst. 1 věty druhé).
+[6] **Určení mimo pořadí.** Odstavec 5 dovoluje odchylku, nelze-li postupovat podle odstavce 2 nebo je-li nezbytná se zřetelem ke všem v něm uvedeným hlediskům. Předseda insolvenčního soudu musí takový postup vždy odůvodnit. Z textu nelze předem vytvořit uzavřený seznam oborů či typů řízení, v nichž se odchylka automaticky použije.
 
-### F. Kazuistika
+[7] **Procesní meze přezkumu.** Nejvyšší soud v R 47/2018 dovodil, že tvrzená nezákonnost opatření o určení osoby mimo pořadí sama není odvolacím důvodem podle § 26: neznamená bez dalšího podjatost ani nesplnění osobních předpokladů ustanoveného správce. Opatření je podkladovým úkonem hybridní povahy, nikoli rozhodnutím přezkoumávaným v odvolacím řízení proti usnesení o ustanovení; opomenutý správce navíc není jen z tohoto titulu oprávněn podat odvolání. Rozhodnutí se týkalo právního stavu a oddlužovacího řízení z roku 2014; jeho procesní závěr je použitelný i nyní, nikoli však tehdejší znění územního pořadníku.
 
-**1. Modelová situace.** Předseda insolvenčního soudu při rozhodnutí o úpadku (konkurs) určí mimo stanovené pořadí (§ 25 odst. 5) zkušeného správce specializovaného na energetiku, neboť dlužník provozuje teplárnu a dosavadní předběžný správce už má informační náskok. Rozhodnutí odůvodní jen jednou větou „s ohledem na složitost věci". Nejbližší správce v rotaci se cítí poškozen a uvažuje o obraně. Důkazy: rozhodnutí o určení, seznam pořadí provozoven v obvodu, povaha podnikání dlužníka.
+[8] **Hostující správce.** Pro hostujícího insolvenčního správce se odstavce 2 a 3 nepoužijí. Osobu vybírá předseda soudu z příslušné části seznamu způsobem slučitelným s dočasností nebo příležitostností a podle konkrétních hledisek vyjmenovaných v odstavci 6.
 
-**2. Právní otázka.** Za jakých podmínek smí předseda soudu určit správce mimo pořadí podle § 25 odst. 5 a jaké jsou požadavky na odůvodnění takového postupu, aby obstál z hlediska ústavní konformity rotačního systému?
+### Judikatura
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 25 odst. 2 (rotace dle data zápisu provozovny/sídla), odst. 3 (zvláštní část seznamu), odst. 5 (určení mimo pořadí — vždy s odůvodněním), odst. 1 (prepack), odst. 4 (koncern a manželé).
-- *Související ustanovení téhož zákona:* § 26 (omezené odvolání proti ustanovení), § 29 (následná korekce věřiteli), § 148 odst. 2 (reorganizační plán s určenou osobou).
-- *Související předpisy:* zákon o IS § 3 odst. 2 (kvalifikovaní dlužníci); § 7b IZ (místní příslušnost — riziko forum shopping).
-- *Judikatura:* ÚS Pl. ÚS 6/13 (ústavní konformita rotačního systému; mimořádné určení musí být řádně odůvodněno); NSS 14 A 122/2018 (citováno výše — účel provozoven a důvěra v seznam).
-
-**4. Subsumpce.** Odst. 5 dovoluje určení mimo pořadí mj. z důvodu odborné způsobilosti, povahy dlužníka a kontinuity dosavadní činnosti (předběžný správce) — tyto důvody jsou v dané věci dány. Znak „takový postup vždy odůvodní" však jednovětým odůvodněním naplněn není; odůvodnění musí být konkrétní a přezkoumatelné. Sporné: dostatečnost odůvodnění, nikoli existence důvodu.
-
-**5. Řešení.** Výběr osoby je věcně udržitelný (specializace + náskok předběžného správce), avšak rozhodnutí je vadné pro nedostatek odůvodnění. Náprava: doplnění/zrušení a nové odůvodněné určení. Námitka nejbližšího správce v rotaci proti samotnému výběru je však v režimu § 26 nepřípustná (lze namítat jen nesplnění podmínek nebo podjatost), takže primární obranou je apel na řádné odůvodnění, nikoli zpochybnění volby.
-
-**6. Varianty.** (a) Dlužník je banka/pojišťovna nebo má pasiva > 100 mil. Kč → ustanovuje se ze zvláštní části (§ 25 odst. 3), nikoli z obecné rotace. (b) Dlužník současně předloží reorganizační plán s určenou osobou správce (§ 148 odst. 2) → soud ustanoví tuto osobu (§ 25 odst. 1), splňuje-li podmínky.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Určení mimo pořadí porušuje právo na zákonného správce a je protiústavní." — Neutralizace: ÚS Pl. ÚS 6/13 potvrdil ústavnost systému i institutu výjimky; podmínkou je řádné odůvodnění, nikoli zákaz výjimky.
-- *Protiargument:* „Strany si fakticky vybírají správce volbou soudu na hranici obvodů." — Neutralizace: korekcí je § 7b (místní příslušnost) a věřitelská korekce (§ 29); rotace navíc znemožňuje cílený výběr konkrétní osoby.
-- *Slabé místo:* nedostatečné odůvodnění mimořádného určení je nejčastější vadou; absence přezkoumatelných důvodů otevírá pochybnost o klientelismu, byť výběr byl věcně správný.
-
-### H. Praktický závěr
-
-Rotační systém je obranou proti subjektivnímu výběru; prepack (odst. 1), zvláštní část (odst. 3) a určení mimo pořadí (odst. 5) jsou výjimky, přičemž mimořádné určení musí být vždy konkrétně odůvodněno.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Identifikovat správnou variantu (prepack / obecná rotace / oddlužovací část / zvláštní část / koncern–manželé).
-- [ ] U postupu dle odst. 5 vyžadovat konkrétní, přezkoumatelné odůvodnění (stav řízení, poměry dlužníka, způsobilost, zatížení).
-- [ ] Ověřit, zda dlužník není osobou dle § 3 odst. 2 zákona o IS (pak zvláštní část).
-- [ ] U koncernu/manželů zvážit ustanovení téhož správce (odst. 4).
-
-**Typicky rozhodné důkazy / podklady:** výpis pořadí provozoven/sídel v obvodu, rozhodnutí o určení správce a jeho odůvodnění, doklady o povaze a velikosti dlužníka, případný reorganizační plán s určenou osobou.
+- **Nejvyšší soud, usnesení ze dne 22. 12. 2016, sen. zn. 29 NSČR 130/2014, ECLI:CZ:NS:2016:29.NSCR.130.2014.1, R 47/2018.** V oddlužovací věci řešil odvolání osoby, která tvrdila, že byla opatřením předsedkyně soudu nezákonně přeskočena. Nosně uzavřel, že nezákonnost určení mimo pořadí nelze sama o sobě účinně uplatnit jako odvolací důvod podle § 26, podkladové opatření není rozhodnutím přezkoumávaným v tomto odvolacím řízení a opomenutý správce není osobou oprávněnou k odvolání proti ustanovení jiné osoby. Pro současný výklad je rozhodnutí použito v tomto procesním rozsahu; historická formulace pořadí pro oddlužení se nepřebírá.
 
 ---
 

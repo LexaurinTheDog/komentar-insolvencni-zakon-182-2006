@@ -418,50 +418,52 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola; tento od
 
 ## § 28 — Změna v osobě insolvenčního správce
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Za podmínek stanovených tímto zákonem rozhodují o změně v osobě insolvenčního správce i věřitelské orgány; pro jejich rozhodnutí platí § 21 až 24 a § 25 odst. 3 obdobně.
+
+### Přehled výkladu
+
+§ 28 je rámcovou normou. Sám neurčuje, který věřitelský orgán, kdy a jak o změně správce rozhoduje; podmínky konkretizují navazující ustanovení. Pro změnu podle § 29 přenáší na rozhodování věřitelů osobní předpoklady a pravidla výběru vyjmenovaná v § 21 až 24 a § 25 odst. 3. Insolvenční soud podle § 29 odst. 2 potvrzuje usnesení o ustanovení nového správce a nepotvrdí je pouze pro nesplnění těchto podmínek.
+
+### Souvisící ustanovení
+
+- **§ 21 až 24** — seznam, obecné předpoklady a nepodjatost insolvenčního správce.
+- **§ 25 odst. 3** — určení osoby správce ze zvláštní části seznamu při návrhu na povolení reorganizace nebo u dlužníka uvedeného v tomto ustanovení.
+- **§ 29** — schůze věřitelů, její rozhodnutí o odvolání dosavadního a ustanovení nového správce a soudní potvrzení ustanovení.
+- **§ 30** — postup, není-li spolu s odvoláním ustanoven nový správce, a možnost nového hlasování po rozhodné změně v přihlášených pohledávkách.
+- **§ 31 a § 32** — odvolání správce z důvodů bez původu v porušení jeho povinností a zproštění správce pro porušení povinností.
+
+### Souvisící předpisy
+
+- **Zákon č. 312/2006 Sb., o insolvenčních správcích** — předpis, na který odkazuje § 25 odst. 3 při vymezení určitého okruhu dlužníků.
+- **Zákon č. 185/2013 Sb.** — s účinností od 1. 8. 2013 doplnil do § 28 i § 29 odst. 2 odkaz na § 25 odst. 3.
+
+### Z důvodové zprávy
+
+Vládní návrh chápal § 28 jako posílení přímého vlivu věřitelů na osobu správce, nikoli jako změnu jeho procesního postavení: správce nemá být zástupcem dlužníka ani věřitelů. Zvláštní část důvodové zprávy spojuje rámec § 28 s mechanismem § 29 a zdůrazňuje, že soudní kontrola se týká ustanovení nového správce a zákonných předpokladů jeho osoby. Původní návrh odkazoval jen na § 21 až 24; odkaz na § 25 odst. 3 byl doplněn až zákonem č. 185/2013 Sb.
+
+### Literatura
+
+Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; je odložena do druhého kola.
 
 ### Výklad
 
-Krátký systémový paragraf — připomíná, že **změnu správce mohou inicializovat věřitelské orgány** (zejména schůze věřitelů — § 29). Pro výběr nového správce platí stejná pravidla, jaká platí pro ustanovení soudem (kvalifikace, vyloučení, příslušnost ke správné části seznamu).
+[1] Slovo „i“ vyjadřuje, že změna v osobě správce není vyhrazena pouze věřitelským orgánům. Vedle mechanismu věřitelské změny podle § 29 zákon upravuje také rozhodování insolvenčního soudu, zejména odvolání podle § 31 a zproštění podle § 32.
 
-### Vazby
+[2] Oprávnění věřitelských orgánů není založeno samostatně a bez omezení. Úvodní podmínka „za podmínek stanovených tímto zákonem“ vyžaduje konkrétní navazující zákonný mechanismus. U § 29 rozhoduje schůze věřitelů v čase, způsobem a většinami stanovenými v tomto ustanovení; podrobnosti hlasování proto nelze dovozovat pouze z § 28.
 
-- **§ 29** — odvolání správce schůzí věřitelů.
+[3] Obdobné použití § 21 až 24 a § 25 odst. 3 se vztahuje k osobě nového správce. Podle § 29 odst. 2 potvrzuje insolvenční soud právě usnesení o jeho ustanovení a nepotvrdí je pouze tehdy, jestliže tato osoba nesplňuje vyjmenované podmínky. Text § 28 proto nepodporuje volnou soudní kontrolu vhodnosti kandidáta nad rámec zákonných předpokladů.
 
-### F. Kazuistika
+[4] Odkaz na § 25 odst. 3 nelze zúžit jen na velikost nebo druh dlužníka. Toto ustanovení zahrnuje také situaci, kdy je v době určení podán návrh na povolení reorganizace. Stejně tak nelze obecně tvrdit, že se v oddlužení § 25 odst. 3 nikdy neuplatní; rozhodný je celý skutkový rámec, který § 25 odst. 3 vymezuje.
 
-**1. Modelová situace.** Schůze věřitelů v reorganizaci dlužníka (osoba podle § 3 odst. 2 zákona o IS — pasiva přes 100 mil. Kč) se usnese, že odvolává dosavadního správce a ustanovuje nového. Navržený nový správce je sice zkušený, ale je zapsán pouze v obecné části seznamu a nemá zvláštní povolení. Soud má usnesení potvrdit. Důkazy: zápis ze schůze a hlasování, výpis ze seznamu k osobě nového správce (rozsah povolení), údaj o velikosti pasiv dlužníka.
+[5] Dnešní znění § 28 je výsledkem jedné věcně významné změny oproti původnímu vládnímu návrhu: zákon č. 185/2013 Sb. vložil s účinností od 1. 8. 2013 odkaz na § 25 odst. 3 a souběžně jej doplnil také do § 29 odst. 2. Tím byla zachována shoda mezi rámcovým pravidlem § 28 a rozsahem soudní kontroly při potvrzení nového správce.
 
-**2. Právní otázka.** Platí pro výběr nového správce věřitelskými orgány stejné kvalifikační a příslušnostní požadavky jako pro ustanovení soudem, zejména požadavek zvláštního povolení a zápisu ve zvláštní části seznamu podle § 25 odst. 3?
+### Judikatura
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 28 — o změně v osobě správce rozhodují i věřitelské orgány; pro jejich rozhodnutí platí § 21 až 24 a § 25 odst. 3 obdobně.
-- *Související ustanovení téhož zákona:* § 29 odst. 2 (soud usnesení nepotvrdí, nesplňuje-li nový správce podmínky § 21–24 a § 25 odst. 3), § 25 odst. 3 (zvláštní část seznamu), § 21 (seznam), § 24 (vyloučení).
-- *Související předpisy:* § 3 odst. 2 a § 14 zákona o IS (kvalifikovaní dlužníci, zvláštní povolení, vyšší limity pojištění).
-- *Judikatura:* k formální bezvadnosti usnesení o (od)volání správce srov. NS 29 NSČR 27/2014 (citováno u § 29).
-
-**4. Subsumpce.** Dlužník je osobou dle § 3 odst. 2 zákona o IS → uplatní se § 25 odst. 3 i pro volbu věřiteli (přes § 28). Nový správce nemá zvláštní povolení a není ve zvláštní části seznamu → nesplňuje podmínky, jejichž obdobné použití § 28 vyžaduje. Sporné není nic zásadního: podmínka povolení je objektivní a doložitelná z výpisu.
-
-**5. Řešení.** Soud usnesení schůze nepotvrdí (§ 29 odst. 2), neboť zvolený správce nesplňuje § 25 odst. 3 ve spojení s § 28. Věřitelé mohou zvolit jiného správce ze zvláštní části seznamu. Procesní krok: soud vydá rozhodnutí o nepotvrzení do skončení schůze (§ 29 odst. 3), proti němuž se může odvolat věřitel, který hlasoval pro.
-
-**6. Varianty.** (a) Dlužník by byl běžný nepodnikatel v oddlužení → § 25 odst. 3 se neuplatní, postačí obecná část a kvalifikace dle § 21–24. (b) Nový správce by byl podjatý vůči dominantnímu věřiteli (§ 24) → soud usnesení nepotvrdí i z tohoto důvodu.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Volba správce je suverénním právem věřitelů, soud do ní nemůže zasahovat." — Neutralizace: § 28 i § 29 odst. 2 výslovně podřizují volbu kvalifikačním a příslušnostním podmínkám; soud nepřezkoumává vhodnost, ale zákonné předpoklady.
-- *Protiargument:* „Zvláštní povolení je formalita, kterou lze doplnit později." — Neutralizace: jde o hmotnou podmínku výkonu funkce u kvalifikovaných dlužníků; bez ní nelze usnesení potvrdit.
-- *Slabé místo:* pokud soud přehlédne, že dlužník je osobou dle § 3 odst. 2, a potvrdí nezpůsobilého správce, vzniká vada s nutností pozdější korekce (§ 31 odst. 4) a rizikem zdržení řízení.
-
-### H. Praktický závěr
-
-I při změně správce z vůle věřitelů platí stejné požadavky jako pro ustanovení soudem (§ 21–24 a u kvalifikovaných dlužníků § 25 odst. 3); nesplnění podmínek brání potvrzení volby soudem.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověřit, zda dlužník není osobou dle § 3 odst. 2 zákona o IS (pak nutné zvláštní povolení a zvláštní část seznamu).
-- [ ] Prověřit kvalifikaci a nepodjatost (§ 21–24) nově voleného správce před hlasováním.
-- [ ] Zkontrolovat formální bezvadnost usnesení (kvórum, evidence) s ohledem na navazující § 29.
-
-**Typicky rozhodné důkazy / podklady:** zápis ze schůze věřitelů a výsledek hlasování, výpis ze seznamu k osobě nového správce (rozsah povolení), doklad o velikosti pasiv/charakteru dlužníka.
+Do tohoto vydání není zařazeno žádné soudní rozhodnutí. Dřívější odkaz na 29 NSČR 27/2014 byl odstraněn, protože v podkladech jednotky nebyl doložen ověřeným oficiálním plným textem ani přesným nosným bodem; nebyl proto použit jako autorita pro výklad § 28.
 
 ---
 

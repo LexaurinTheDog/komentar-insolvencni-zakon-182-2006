@@ -472,58 +472,53 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto odl
 
 ## § 17 — Vyloučení vstupu a záměny účastníka
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Vstup do řízení a záměna účastníka řízení nejsou v insolvenčním řízení přípustné.
+
+### Přehled výkladu
+
+Paragraf 17 vylučuje v insolvenčním řízení přistoupení dalšího účastníka podle § 92 odst. 1 občanského soudního řádu i záměnu účastníka podle § 92 odst. 2 téhož zákona. Nejde však o zákaz každého procesního nástupnictví: § 18 a § 19 insolvenčního zákona zvlášť upravují vstup nabyvatele přihlášené pohledávky a při ztrátě způsobilosti být účastníkem po zahájení řízení může být přiměřeně použit § 107 občanského soudního řádu. Zákaz se vztahuje i na fázi přihlašování pohledávek.
+
+### Souvisící ustanovení
+
+- § 7 — přiměřené použití občanského soudního řádu, nestanoví-li insolvenční zákon jinak nebo není-li takový postup v rozporu se zásadami insolvenčního řízení.
+- § 14 — vymezení účastníků insolvenčního řízení.
+- § 18 a § 19 — zvláštní procesní nástupnictví při převodu nebo přechodu přihlášené pohledávky a postavení nabyvatele.
+- § 183 odst. 3 — přiměřené použití § 18 pro vstup osoby, která uspokojila věřitele.
+- § 7c a § 9 písm. e) — vstup státního zastupitelství jako procesního subjektu, nikoli jako účastníka podle § 14.
+
+### Souvisící předpisy
+
+- § 92 odst. 1 a 2 zákona č. 99/1963 Sb., občanský soudní řád — přistoupení dalšího účastníka a záměna účastníka, jejichž použití § 17 v insolvenčním řízení vylučuje.
+- § 107 občanského soudního řádu — procesní nástupnictví při ztrátě způsobilosti být účastníkem v průběhu řízení.
+- § 107a občanského soudního řádu — vstup nabyvatele práva nebo povinnosti; pro insolvenční řízení jej nahrazuje úprava § 18 a § 19 insolvenčního zákona.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona spojil § 17 až § 19 se singulární sukcesí v průběhu insolvenčního řízení. Obecnou úpravu občanského soudního řádu označil vzhledem k vysokému počtu účastníků za těžkopádnou; proto její použití v § 17 vyloučil a v § 18 zavedl zjednodušený zvláštní postup. Jde o zvláštní část důvodové zprávy k § 17 až § 19 ve sněmovním tisku 1120/0, číslovaná strana 161 (PDF strana 162). Text § 17 je od původního návrhu do rozhodného dne obsahově nezměněn.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto odložení není závěrem o neexistenci nebo nerelevanci literatury.
 
 ### Výklad
 
-Striktní pravidlo: **vstup do řízení podle § 92 OSŘ a záměna účastníka podle § 92 odst. 2 OSŘ v hlavním IR nepřicházejí v úvahu**. Důvod systémový — masovost účastníků a potřeba procesní stability. Změna v okruhu věřitelů se *nikdy* nedeje cestou OSŘ instrumentů, ale jen cestou speciální úpravy v § 18 (vstup nabyvatele pohledávky).
+[1] **Rozsah zákazu.** Poznámky pod čarou u § 17 odkazují přímo na § 92 odst. 1 a 2 občanského soudního řádu. Vyloučeno je tedy jak přistoupení dalšího účastníka na návrh žalobce, tak záměna dosavadního účastníka za jinou osobu. § 7 nemůže otevřít prostor pro jejich přiměřené použití, protože insolvenční zákon zde výslovně stanoví jinak.
 
-> **Pozor** — neplést se „vstupem státního zastupitelství" podle § 69 IZ. To je vstup *procesního subjektu*, ne účastníka.
+[2] **Přihlašovací fáze.** Nejvyšší soud v usnesení sen. zn. 29 NSČR 12/2009 vztáhl § 17 i na proces přihlašování pohledávek. Přihlášku v posuzované věci podala právnická osoba až po svém zániku; tento počáteční nedostatek způsobilosti nebylo možné napravit vstupem nebo záměnou a řízení o přihlášce bylo zastaveno. Závěr nelze bez dalšího přenášet na pouhou opravitelnou chybu v označení existujícího věřitele.
 
-### Vazby
+[3] **Odlišení procesního nástupnictví.** § 17 nevylučuje postupy, které zákon upravuje z jiného důvodu. Pro převod nebo přechod přihlášené pohledávky při zachované způsobilosti původního věřitele stanoví § 18 a § 19 vlastní režim namísto § 107a občanského soudního řádu. Jestliže účastník ztratí způsobilost až v průběhu řádně zahájeného řízení, rozhodnutí 29 NSČR 12/2009 připouští přiměřené použití § 107 občanského soudního řádu.
 
-- **OSŘ § 92** — vstup a záměna.
-- **§ 18** — speciální úprava pro nabyvatele pohledávky.
+[4] **Jiné zákonné vstupy.** Vstup státního zastupitelství podle § 7c není přistoupením dalšího účastníka podle § 92 odst. 1 občanského soudního řádu. Státní zastupitelství je po vstupu procesním subjektem podle § 9 písm. e), zatímco účastníky insolvenčního řízení vymezuje § 14. Zvláštní možnost osoby, která uspokojila věřitele, domáhat se pohledávky místo něj podléhá podle § 183 odst. 3 přiměřeně § 18.
 
-### Praktická poznámka
+[5] **Časová použitelnost.** Rozhodnutí 29 NSČR 12/2009 posuzovalo insolvenční zákon ve znění účinném do 31. 12. 2008 a občanský soudní řád ve znění do 30. 6. 2009. Nosné rozlišení § 92, § 107, § 107a a § 17 až § 19 je přesto použitelné i k 19. 7. 2026: zákaz v § 17 zůstal obsahově stejný a aktuální § 18 a § 19 nadále obsahují zvláštní režim vstupu nabyvatele přihlášené pohledávky.
 
-V praxi znamená — pokud věřitel chce „přivést" do řízení např. ručitele, nemůže ho zavázat účastnictvím v IR. Musí jít cestou vlastní žaloby (nebo regresního nároku po skončení IR).
+### Judikatura
 
-### F. Kazuistika
-
-**1. Modelová situace.** Věřitel V s přihlášenou pohledávkou ji v průběhu insolvenčního řízení postoupí společnosti N. N podá soudu návrh, aby „vstoupila do řízení" podle § 92 OSŘ na místo V. Současně jiný subjekt navrhuje záměnu účastníka s odůvodněním, že původně přihlásil „omylem" nesprávný věřitel. Důkazy: smlouva o postoupení pohledávky, přihláška V, návrhy na vstup/záměnu.
-
-**2. Právní otázka.** Lze v insolvenčním řízení provést vstup do řízení nebo záměnu účastníka podle § 92 OSŘ, nebo je to vyloučeno a změna v osobě věřitele se děje výlučně postupem dle IZ?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 17 — vstup do řízení a záměna účastníka nejsou v insolvenčním řízení přípustné.
-- *Související ustanovení téhož zákona:* § 18 (vstup nabyvatele pohledávky — speciální úprava), § 14 (účastníci řízení), § 69 (vstup státního zastupitelství — vstup procesního subjektu, ne účastníka).
-- *Související předpisy:* OSŘ § 92 (vstup a záměna účastníka — zde vyloučeno); OSŘ § 107a (vstup nabyvatele v běžném sporu — neaplikuje se přímo).
-- *Judikatura:* nosný závěr — změna v osobě věřitele v insolvenci se neprovádí instrumenty OSŘ, nýbrž výlučně postupem podle § 18 (rozhodnutí soudu o vstupu nabyvatele).
-
-**4. Subsumpce.** Návrh N podle § 92 OSŘ naráží na § 17 — vstup do řízení je vyloučen. Změna věřitele po postoupení se řeší výhradně podle § 18 (návrh stávajícího věřitele na formuláři + souhlas nabyvatele). Návrh na záměnu účastníka je rovněž nepřípustný (§ 17).
-
-**5. Řešení.** Soud návrhy podle § 92 OSŘ odmítne/zamítne pro nepřípustnost (§ 17). N se může stát účastníkem jen postupem dle § 18 — návrh podá stávající věřitel V na předepsaném formuláři, s písemným souhlasem N a doložením převodu. „Omylem přihlásivší" subjekt nelze zaměnit; řešením je dispozice s přihláškou (zpětvzetí), ne záměna. Riziko: snaha obejít § 17 instrumenty OSŘ vede ke zbytečné ztrátě času; nutno rovnou volit cestu § 18.
-
-**6. Varianty.** (a) Kdyby šlo o vstup státního zastupitelství (§ 69), nešlo by o vstup účastníka, ale procesního subjektu — § 17 by se neuplatnil. (b) Kdyby k převodu pohledávky došlo a postupovalo se podle § 18, změna věřitele by byla možná (právě a jen touto cestou).
-
-### G. Protiargumenty a rizika
-
-- *„Subsidiárně platí OSŘ, takže § 92 OSŘ lze použít."* Ne — § 17 je výslovná speciální úprava vylučující vstup i záměnu; subsidiarita OSŘ se zde neuplatní.
-- *„Vstup nabyvatele = vstup do řízení podle OSŘ."* Nepřesné — nabyvatel vstupuje výhradně postupem § 18, nikoli podle § 92/§ 107a OSŘ.
-- *Slabé místo:* pojem „vstup" se snadno zamění se vstupem státního zastupitelství (§ 69); je třeba rozlišovat vstup účastníka (vyloučen) a vstup procesního subjektu (přípustný).
-
-### H. Praktický závěr
-
-Paragraf 17 striktně vylučuje obecné instrumenty OSŘ pro změnu okruhu účastníků (vstup, záměna). Změna v osobě věřitele po převodu pohledávky se provádí výlučně speciálním postupem podle § 18. Procesní stabilita má v insolvenci přednost.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Nepoužívej § 92 OSŘ (vstup/záměna) — v insolvenci je vyloučen (§ 17).
-- [ ] Změnu věřitele po postoupení/přechodu řeš výhradně cestou § 18 (návrh věřitele na formuláři + souhlas nabyvatele + doklad o převodu).
-- [ ] Rozliš vstup účastníka (vyloučen) od vstupu státního zastupitelství jako procesního subjektu (§ 69 — přípustný).
-- [ ] Chybnou přihlášku řeš dispozicí s ní (zpětvzetí), ne záměnou účastníka.
-
-**Typicky rozhodné důkazy / podklady:** smlouva o postoupení pohledávky (s ověřenými podpisy / veřejná listina), přihláška původního věřitele, formulářový návrh na vstup nabyvatele (§ 18), souhlas nabyvatele.
+- **Nejvyšší soud, usnesení ze dne 31. 3. 2011, sen. zn. 29 NSČR 12/2009, ECLI:CZ:NS:2011:29.NSCR.12.2009.1, R 109/2011.** Pohledávku přihlásila právnická osoba, která před podáním přihlášky zanikla fúzí; insolvenční soud řízení o přihlášce zastavil a odvolací soud rozhodnutí potvrdil. Nejvyšší soud dovolání nástupnické společnosti zamítl. V odůvodnění vyložil, že § 17 dopadá i na přihlašovací fázi, § 18 a § 19 nahrazují § 107a občanského soudního řádu a § 107 občanského soudního řádu se přiměřeně použije tehdy, nastane-li ztráta způsobilosti až po zahájení řízení. Rozhodnutí vycházelo ze staršího znění procesních předpisů; jeho zde použitý závěr stojí na ustanoveních, která jsou v rozhodném rozsahu zachována i k 19. 7. 2026.
 
 ---
 

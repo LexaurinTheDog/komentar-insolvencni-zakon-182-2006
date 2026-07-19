@@ -468,76 +468,61 @@ V oficiálních databázích Nejvyššího soudu a Ústavního soudu nebylo pro 
 
 ## § 7 — Použití občanského soudního řádu a zákona o zvláštních řízeních soudních
 
-**Judikatura (z místních zdrojů):**
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-- *ÚS* [III.ÚS 834/08](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-834-08_1) — usnesení, 25. 11. 2008
-  > „Ustanovení § 7 odst. 1 zákona č. 182/2006 Sb. předepisuje pro insolvenční řízení a pro incidenční spory přiměřené použití ustanovení občanského soudního řádu, nestanoví-li tento zákon jinak nebo není-li takový postup v rozporu se zásadami, na kterých spočívá insolvenční řízení"
+### Znění ustanovení
+
+Nestanoví-li tento zákon jinak nebo není-li takový postup v rozporu se zásadami, na kterých spočívá insolvenční řízení, použijí se pro insolvenční řízení a pro incidenční spory přiměřeně ustanovení občanského soudního řádu týkající se sporného řízení, a není-li to možné, ustanovení zákona o zvláštních řízeních soudních; ustanovení týkající se výkonu rozhodnutí nebo exekuce se však použijí přiměřeně jen tehdy, jestliže na ně tento zákon odkazuje.
+
+### Přehled výkladu
+
+Paragraf 7 je kolizním pravidlem pro procesní otázky, které insolvenční zákon neupravuje úplně. Test má pevné pořadí: nejprve zvláštní úprava insolvenčního zákona; poté přiměřené použití ustanovení občanského soudního řádu o sporném řízení, neodporuje-li zásadám insolvenčního řízení; teprve není-li takové použití možné, zákon o zvláštních řízeních soudních. Ustanovení o výkonu rozhodnutí nebo exekuci mají zvláštní uzávěru: bez odkazu insolvenčního zákona se nepoužijí ani analogicky.
+
+### Souvisící ustanovení
+
+- § 5 — zásady insolvenčního řízení jako materiální mez subsidiarity;
+- § 8 — přednost zvláštní úpravy jednotlivých způsobů řešení úpadku;
+- § 10 a § 11 — rozhodovací a dohlédací činnost insolvenčního soudu;
+- § 91 — nepřípustnost odvolání proti rozhodnutím učiněným při dohlédací činnosti;
+- § 159 a § 160 — incidenční spory a jejich zvláštní procesní režim;
+- § 207, § 286 odst. 1 písm. b) a § 406 odst. 5 — příklady výslovných odkazů na pravidla výkonu rozhodnutí.
+
+### Souvisící předpisy
+
+- zákon č. 99/1963 Sb., občanský soudní řád — subsidiárně jeho ustanovení týkající se sporného řízení;
+- zákon č. 292/2013 Sb., o zvláštních řízeních soudních — až není-li možné přiměřeně použít ustanovení OSŘ o sporném řízení;
+- zákon č. 120/2001 Sb., exekuční řád — jeho ustanovení týkající se exekuce podléhají uzávěře poslední části § 7;
+- zákon č. 294/2013 Sb. — novela, která s účinností od 1. 1. 2014 dala § 7 dnešní základní strukturu.
+
+### Z důvodové zprávy
+
+Původní vládní důvodová zpráva ke sněmovnímu tisku 1120/0, zvláštní část K § 7, vysvětlovala „přiměřené“ použití OSŘ zkušenostmi se zákonem o konkursu a vyrovnání a zdůraznila, že použití OSŘ nesmí popřít zásady insolvenčního řízení. Její pasáž o tehdejším § 7 odst. 2 se týkala příslušnosti a dnešní § 7 již nepopisuje: zákon č. 294/2013 Sb. od 1. 1. 2014 celé ustanovení nahradil a příslušnost upravil v § 7a a § 7b.
+
+### Literatura
+
+Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; její zpracování je rozhodnutím editora odloženo do druhého kola.
 
 ### Výklad
 
-Paragraf 7 řeší **vztah IZ k obecnému procesnímu právu**:
+[1] § 7 se použije až po vymezení konkrétní procesní otázky. Upravuje-li ji insolvenční zákon sám, subsidiární předpis nenastupuje. Zvláštní pravidlo může být v obecné části, v úpravě incidenčních sporů i u konkrétního způsobu řešení úpadku; u posledně uvedeného je třeba současně respektovat § 8.
 
-> Nestanoví-li tento zákon jinak nebo není-li takový postup v rozporu se zásadami, na kterých spočívá insolvenční řízení, použijí se pro insolvenční řízení a pro incidenční spory přiměřeně ustanovení občanského soudního řádu týkající se sporného řízení, a není-li to možné, ustanovení zákona o zvláštních řízeních soudních; ustanovení týkající se výkonu rozhodnutí nebo exekuce se však použijí přiměřeně jen tehdy, jestliže na ně tento zákon odkazuje.
+[2] Není-li otázka v insolvenčním zákoně upravena, hledá se nejprve použitelné ustanovení OSŘ týkající se sporného řízení. „Přiměřeně“ znamená, že se nepřebírá mechanicky: jeho rozsah a případná modifikace se určují podle povahy insolvenčního řízení nebo incidenčního sporu a podle účelu konkrétního institutu.
 
-**Subsidiarita** je dvoustupňová:
-1. Primárně: **IZ**.
-2. Sekundárně: **OSŘ** — pravidla **sporného** řízení (kontradiktorní proces s rovností stran).
-3. Terciárně: **ZŘS** (zákon č. 292/2013 Sb.) — pravidla nesporného řízení (ofic. iniciativa soudu).
+[3] Použití OSŘ má dvě výslovné meze. Nesmí obcházet zvláštní úpravu insolvenčního zákona a nesmí vést k výsledku odporujícímu zásadám, na kterých insolvenční řízení spočívá, zejména zásadám v § 5. Nestačí proto obecný odkaz na rychlost nebo hospodárnost; je nutno vysvětlit rozpor konkrétního procesního pravidla s konkrétní zásadou a s povahou projednávané otázky.
 
-**Klauzule rozporu se zásadami** — i kdyby se OSŘ jinak použil, není-li to slučitelné se zásadami § 5, soud OSŘ nepoužije. Tato klauzule dává soudu poměrně širokou diskreci a vyvolává opakované interpretační spory.
+[4] ZŘS není rovnocennou volbou vedle OSŘ. Nastupuje až tehdy, není-li možné přiměřeně použít ustanovení OSŘ o sporném řízení. Tento sled platí jak v hlavním insolvenčním řízení, tak v incidenčních sporech, avšak výsledek testu se může lišit podle povahy konkrétního institutu.
 
-**Zvláštní pravidlo o výkonu rozhodnutí / exekuci** — *negativní subsidiarita*: pravidla VR/exekuce se použijí **jen** tehdy, když IZ na ně výslovně odkazuje. Důvod — insolvenční řízení je samo o sobě „uspokojovacím" řízením, princip výkonu rozhodnutí by zde nedával smysl.
+[5] Poslední část § 7 obsahuje přísnější zvláštní pravidlo. Ustanovení týkající se výkonu rozhodnutí nebo exekuce lze použít jen tehdy, odkazuje-li na ně insolvenční zákon. Samotná podobnost situace ani obecná úvaha o mezeře v zákoně odkaz nenahrazuje. Výslovné odkazy obsahují například § 207, § 286 odst. 1 písm. b) a § 406 odst. 5; vždy je rozhodný rozsah konkrétního odkazu.
 
-### Vazby
+[6] Zákon č. 294/2013 Sb. nahradil § 7 s účinností od 1. 1. 2014. Podle jeho čl. II se nové znění obecně použije i na dříve zahájená insolvenční řízení, avšak právní účinky úkonů nastalé před účinností zůstávají zachovány. U starší věci se proto určí datum procesního úkonu či rozhodnutí a zachované účinky; závěr vyslovený k původnímu § 7 odst. 1 nelze bez tohoto testu přenést do dnešní struktury.
 
-- **§ 5** — zásady, které tvoří materiální limit subsidiárního použití OSŘ.
-- **OSŘ § 79—§ 200za** — sporné řízení.
-- **ZŘS** — nesporné řízení, opatrovnictví atd.
-- **§ 159 odst. 1** — výčet incidenčních sporů.
+### Judikatura
 
-### Praktická poznámka
+- **Stanovisko Nejvyššího soudu ze dne 11. 6. 2025, sp. zn. Cpjn 202/2025, ECLI:CZ:NS:2025:CPJN.202.2025.1, č. 2/2025 Sb. rozh. obč.** Stanovisko řešilo zálohy na odměnu a hotové výdaje insolvenčního správce před schválením oddlužení a povahu rozhodnutí o nich. V bodech 44–45 dovodilo, že rozhodnutí o záloze podle § 136 odst. 3 a 5 není rozhodnutím v dohlédací činnosti, a vyložilo pořadí pramenů pro přípustnost odvolání podle § 7. V bodech 50–52 na příkladu práv a povinností plátce příjmu potvrdilo, že bez odkazu insolvenčního zákona nelze použít ani analogicky ustanovení OSŘ nebo exekučního řádu týkající se výkonu rozhodnutí či exekuce. Stanovisko pracuje s aktuálním zněním § 7 a je k rozhodnému dni použitelné.
 
-V insolvenčním řízení **nelze automaticky předpokládat** všechna pravidla civilního procesu. Příklady, kdy se OSŘ liší od IZ:
-- doručování — IZ má vlastní pravidla (§ 71 a násl.),
-- lhůty — typicky kratší, počítané často hodinami (§ 71 odst. 2),
-- opravné prostředky — řada usnesení v IZ je dle § 91 nezvratná.
+- **Usnesení Nejvyššího soudu ze dne 29. 3. 2023, sen. zn. 29 ICdo 23/2023, ECLI:CZ:NS:2023:29.ICDO.23.2023.1, č. 24/2024 Sb. rozh. obč.** V konkursu dlužnice posuzoval Nejvyšší soud pokus dlužnice vstoupit prostřednictvím hlavní intervence podle § 91a OSŘ do incidenčního sporu o pravost pohledávek. V bodech 23–27 poměřil institut OSŘ zvláštní úpravou incidenčních sporů a uzavřel, že dlužnice, která není oprávněna zahájit odporový spor, nemůže nedostatek procesního oprávnění obejít hlavní intervencí. Rozhodnutí ukazuje, že samotná existence institutu ve sporném řízení OSŘ ještě neznamená jeho přiměřenou použitelnost v insolvenčním režimu.
 
-### F. Kazuistika
-
-**1. Modelová situace.** V incidenčním sporu o pravost přihlášené pohledávky (§ 198) navrhne žalovaná strana provedení dokazování a aplikaci pravidel sporného řízení podle OSŘ (koncentrace, rozložení důkazního břemene). Protistrana naopak namítá, že by se mělo postupovat podle zákona o zvláštních řízeních soudních (vyšetřovací zásada). Současně účastník očekává obecné odvolací lhůty podle OSŘ, ač IZ stanoví lhůty vlastní. Důkazy: obsah incidenční žaloby, procesní návrhy stran, lhůtová ujednání zákona.
-
-**2. Právní otázka.** Která procesní pravidla se v incidenčním sporu použijí přednostně — IZ, sporné řízení dle OSŘ, nebo ZŘS — a kde leží mez subsidiárního použití OSŘ?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 7 — dvoustupňová subsidiarita (IZ → přiměřeně OSŘ o sporném řízení → není-li možné, ZŘS), s materiálním limitem zásad § 5 a se *zvláštním pravidlem* o výkonu rozhodnutí/exekuci (jen odkáže-li na ně IZ).
-- *Související ustanovení téhož zákona:* § 5 (zásady jako limit subsidiarity), § 71 a násl. (doručování), § 91 (nezvratnost některých usnesení), § 159 a násl. (incidenční spory), § 198 (spor o pravost pohledávky).
-- *Související předpisy:* OSŘ (§ 79–200za sporné řízení); zákon č. 292/2013 Sb. o zvláštních řízeních soudních.
-- *Judikatura:* ÚS III.ÚS 834/08 — § 7 odst. 1 předepisuje pro insolvenční řízení a incidenční spory **přiměřené** použití OSŘ, nestanoví-li IZ jinak nebo není-li to v rozporu se zásadami insolvenčního řízení.
-
-**4. Subsumpce.** Incidenční spor je kontradiktorní → přednostně se použijí pravidla **sporného** řízení OSŘ (přiměřeně), neupravuje-li věc IZ jinak. ZŘS by nastoupil teprve, není-li použití sporných pravidel možné. Aplikace OSŘ je vždy poměřena zásadami § 5: pravidlo, které by jim odporovalo, soud nepoužije. Lhůty a doručování se řídí *přednostně* IZ (§ 71 a násl.), obecné lhůty OSŘ se neprosadí tam, kde IZ stanoví vlastní.
-
-**5. Řešení.** Soud aplikuje na incidenční spor přiměřeně sporné řízení OSŘ (dokazování, důkazní břemeno), s korekcí zásadami § 5. Očekávání obecných odvolacích lhůt OSŘ je nesprávné — platí lhůty IZ. Pravidla výkonu rozhodnutí/exekuce se nepoužijí, neodkazuje-li na ně IZ výslovně. Riziko: přehlédnutí vlastních (kratších) lhůt IZ vede ke zmeškání úkonu; spoléhání na ZŘS tam, kde lze použít sporné řízení, je metodicky chybné.
-
-**6. Varianty.** (a) Jde-li o otázku, kterou IZ výslovně upravuje (např. doručování vyhláškou, § 71), subsidiarita OSŘ se vůbec neuplatní. (b) Vyžadoval-li by konkrétní postup OSŘ výsledek odporující zásadě rychlosti/hospodárnosti (§ 5), soud jej nepoužije i tam, kde by jinak OSŘ dopadalo.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „OSŘ se v insolvenci použije v plném rozsahu jako v běžném civilním sporu." — Neutralizace: § 7 stanoví použití jen **přiměřené**, subsidiární a limitované zásadami § 5; IZ má řadu vlastních odchylek (doručování, lhůty, § 91).
-- *Protiargument:* „Na vymáhání v insolvenci se použijí pravidla exekuce dle OSŘ." — Neutralizace: ta se použijí *jen* tam, kde na ně IZ výslovně odkazuje (negativní subsidiarita); insolvence je samo uspokojovacím řízením.
-- *Slabé místo:* „rozpor se zásadami" je neurčitý pojem dávající soudu širokou diskreci → opakované interpretační spory; argumentaci je třeba vždy navázat na konkrétní zásadu § 5.
-
-### H. Praktický závěr
-
-Paragraf 7 určuje subsidiární procesní rámec: primárně IZ, sekundárně přiměřeně sporné řízení OSŘ, terciárně ZŘS — vždy s materiálním limitem zásad § 5. Pravidla výkonu rozhodnutí/exekuce se použijí jen na výslovný odkaz. V insolvenci proto nelze automaticky předpokládat všechna pravidla civilního procesu (zejména lhůty a doručování mají vlastní úpravu).
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Upravuje danou otázku přímo IZ? (Pak OSŘ nenastupuje.)
-- [ ] Lze použít pravidla sporného řízení OSŘ, nebo až ZŘS?
-- [ ] Není výsledek aplikace OSŘ v rozporu se zásadami § 5?
-- [ ] Jde o lhůty/doručování s vlastní úpravou IZ (§ 71 a násl.)?
-- [ ] Odkazuje IZ výslovně na pravidla výkonu rozhodnutí/exekuce?
-
-**Typicky rozhodné důkazy / podklady:** obsah procesního úkonu (žaloba/návrh), znění relevantních ustanovení IZ vs. OSŘ/ZŘS, doklady o doručení a počítání lhůt v insolvenčním rejstříku.
+- **Usnesení Nejvyššího soudu ze dne 30. 4. 2014, sen. zn. 29 NSČR 45/2014, ECLI:CZ:NS:2014:29.NSCR.45.2014.1, č. 80/2014 Sb. rozh. obč.** Insolvenční řízení bylo zahájeno před 1. 1. 2014, insolvenční soud je zastavil pro nezaplacení zálohy a odvolací soud rozhodl 2. 1. 2014. Nejvyšší soud dovodil, že možnost přiměřené aplikace OSŘ v dovolacím řízení se poměřuje § 7 ve znění účinném od 1. 1. 2014 a použije se OSŘ v tehdy aktuálním znění. Jde o konkrétní intertemporální závěr k přechodu na rekodifikační úpravu, nikoli o pravidlo, které by rušilo výhradu zachovaných právních účinků podle čl. II zákona č. 294/2013 Sb.
 
 ---
 

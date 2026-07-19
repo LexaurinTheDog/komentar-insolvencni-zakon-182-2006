@@ -657,60 +657,51 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto sd�
 
 ## § 7c — Účast státního zastupitelství
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Státní zastupitelství může vstoupit do zahájeného insolvenčního řízení, včetně incidenčních sporů, a moratoria.
+
+### Přehled výkladu
+
+Paragraf 7c zakládá státnímu zastupitelství možnost, nikoli povinnost, vstoupit do již zahájeného insolvenčního řízení. Výslovně zahrnuje incidenční spory a moratorium. Samotný § 7c nezakládá oprávnění zahájit insolvenční řízení.
+
+Po vstupu se rozsah procesních oprávnění posuzuje podle § 35 odst. 2 občanského soudního řádu ve spojení s § 7 insolvenčního zákona: státní zastupitelství může činit úkony účastníka, kromě úkonů, které může vykonat jen účastník právního poměru. Není proto přesné označovat je za vedlejšího účastníka. Právo podat přípustný opravný prostředek upravuje pro insolvenční poměry výslovně § 69.
+
+### Souvisící ustanovení
+
+- **§ 7** — přiměřené a subsidiární použití občanského soudního řádu.
+- **§ 69** — opravný prostředek státního zastupitelství, které do řízení, incidenčního sporu nebo moratoria vstoupilo.
+- **§ 115 až 127a** — moratorium.
+
+### Souvisící předpisy
+
+- **§ 35 odst. 1 a 2 zákona č. 99/1963 Sb., občanský soudní řád** — zákonný základ vstupu a rozsah procesních oprávnění státního zastupitelství.
+
+### Z důvodové zprávy
+
+Vládní návrh později vyhlášený jako zákon č. 294/2013 Sb. vložil § 7c s účinností od 1. 1. 2014. Zvláštní část důvodové zprávy uvádí, že nové ustanovení v návaznosti na předpokládanou změnu občanského soudního řádu pouze přenáší úpravu účasti státního zastupitelství původně obsaženou v občanském soudním řádu do insolvenčního zákona. Novela se použila i na dříve zahájená insolvenční řízení, avšak zachovala právní účinky úkonů nastalé před její účinností.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto sdělení není výsledkem negativní literární rešerše.
 
 ### Výklad
 
-Paragraf 7c zakotvuje **fakultativní intervenční oprávnění státního zastupitelství**. SZ není stranou ani účastníkem ex lege, ale **může** vstoupit do již zahájeného insolvenčního řízení, do incidenčních sporů a do moratoria. Po vstupu má postavení vedlejšího účastníka s vlastními procesními právy (právo navrhovat důkazy, podávat opravné prostředky atd.).
+[1] Sloveso „může“ vyjadřuje fakultativní oprávnění. Vstup předpokládá již zahájené řízení; z § 7c nelze dovodit oprávnění státního zastupitelství podat insolvenční návrh.
 
-Ustanovení je provedením obecné úpravy § 35 OSŘ ve specifickém režimu insolvenčního řízení. Bez výslovného zmocnění by SZ do insolvence vstoupit nemohlo (insolvenční řízení je *sui generis* a § 7 odkazuje na OSŘ jen subsidiárně).
+[2] Obrat „včetně incidenčních sporů“ výslovně zahrnuje tyto spory do rozsahu oprávnění. Moratorium zákon uvádí samostatně vedle insolvenčního řízení.
 
-### Praktický význam
+[3] Procesní postavení nelze zaměňovat s vedlejším účastenstvím. § 35 odst. 2 OSŘ vymezuje státnímu zastupitelství vlastní rozsah úkonů: může činit úkony účastníka, ne však úkony vyhrazené pouze účastníku právního poměru.
 
-V praxi SZ vstupuje **velmi zřídka** — typicky v případech podezření na trestnou činnost (zatajení majetku, zvýhodnění věřitele, podvodný úpadek, pletichy v insolvenci podle § 222—227 TZ) nebo v řízeních s významným veřejným zájmem (úpadek subjektu s veřejnoprávní funkcí, rozsáhlé skupinové insolvence). Vstup SZ posiluje vyšetřovací zásadu (§ 86) a může mít signál pro orgány činné v trestním řízení.
+[4] Pro opravné prostředky obsahuje insolvenční zákon zvláštní pravidlo. Podle § 69 může státní zastupitelství, které vstoupilo do insolvenčního řízení, incidenčního sporu nebo moratoria, podat opravný prostředek, jen je-li proti danému rozhodnutí přípustný.
 
-### Vazby
+[5] § 7c byl do zákona vložen s účinností od 1. 1. 2014. Procesní přechodné ustanovení zákona č. 294/2013 Sb. rozšířilo nové znění i na dříve zahájená insolvenční řízení a současně zachovalo již nastalé právní účinky.
 
-- **§ 35 OSŘ** — obecná účast SZ v civilním řízení.
-- **§ 86** — vyšetřovací zásada při zjišťování úpadku.
-- **§ 222—227 TZ** — trestné činy úpadkové.
-- **Zákon č. 283/1993 Sb. o státním zastupitelství.**
+### Judikatura
 
-### F. Kazuistika
-
-**1. Modelová situace.** V rozsáhlé skupinové insolvenci se objeví indicie, že dlužník před zahájením řízení zatajil část majetku a zvýhodnil spřízněného věřitele. Krajské státní zastupitelství zvažuje vstup do již zahájeného insolvenčního řízení i do navazujícího incidenčního sporu (odpůrčí žaloba podle § 239) a do moratoria, aby uplatnilo veřejný zájem a podpořilo zjišťování skutečného stavu. Důkazy: soupis a účetnictví dlužníka, podněty věřitelů, výsledky šetření OČTŘ, doklady o sporných převodech majetku.
-
-**2. Právní otázka.** Může státní zastupitelství vstoupit do insolvenčního řízení, incidenčních sporů a moratoria, a jaké procesní postavení tím získá?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 7c — SZ **může vstoupit** do zahájeného insolvenčního řízení, včetně incidenčních sporů, a moratoria (fakultativní intervenční oprávnění).
-- *Související ustanovení téhož zákona:* § 35 OSŘ (obecná účast SZ, zde aplikovaná specificky), § 86 (vyšetřovací zásada při zjišťování úpadku), § 239 (odpůrčí žaloba), § 115 a násl. (moratorium).
-- *Související předpisy:* zákon č. 283/1993 Sb. o státním zastupitelství; § 222–227 TZ (úpadkové trestné činy — zatajení, zvýhodnění věřitele, pletichy); § 35 OSŘ.
-- *Judikatura:* nosný závěr, že vstup SZ podle zvláštního zmocnění zakládá postavení obdobné vedlejšímu účastníku s vlastními procesními právy (navrhovat důkazy, podávat opravné prostředky), nikoli postavení strany sporu.
-
-**4. Subsumpce.** Řízení je již zahájeno → podmínka „vstupu do zahájeného řízení" je splněna. Předmětem zájmu je insolvenční řízení, incidenční spor (§ 239) i moratorium — **všechny tři** výslovně pokrývá § 7c. Indicie trestné činnosti a veřejný zájem (skupinová insolvence) jsou typickými, byť ne zákonnými, důvody vstupu. Bez výslovného zmocnění § 7c by SZ vstoupit nemohlo (insolvence je *sui generis*, § 7 odkazuje na OSŘ jen subsidiárně).
-
-**5. Řízení/řešení.** SZ oznámí vstup soudu; od té chvíle má procesní práva vedlejšího účastníka (navrhovat důkazy, podávat opravné prostředky), posiluje vyšetřovací zásadu (§ 86) a může předat poznatky OČTŘ. Vstup je fakultativní a v praxi vzácný — typicky u podezření na trestnou činnost nebo významný veřejný zájem. Riziko/limit: SZ nedisponuje s předmětem řízení (nemůže nahrazovat insolvenční návrh věřitelů ani dispoziční úkony), jeho role je podpůrná a kontrolní.
-
-**6. Varianty.** (a) Kdyby řízení dosud nebylo zahájeno, § 7c se neuplatní — vstoupit lze jen do *zahájeného* řízení. (b) Kdyby šlo o spor, který IZ za incidenční výslovně neoznačuje, opora pro vstup SZ podle § 7c by chyběla (vstup je vázán na insolvenční řízení, incidenční spory a moratorium).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „SZ se může stát plnoprávnou stranou a podat insolvenční návrh." — Neutralizace: § 7c zakládá jen *vstup* do již zahájeného řízení s postavením vedlejšího účastníka, nikoli aktivní legitimaci k návrhu ani dispozici s předmětem řízení.
-- *Protiargument:* „SZ vstupuje běžně, je to standardní nástroj kontroly." — Neutralizace: v praxi je vstup vzácný, vázaný na podezření z trestné činnosti (§ 222–227 TZ) či významný veřejný zájem.
-- *Slabé místo:* § 7c neupravuje detailně rozsah práv SZ po vstupu — dovozuje se z § 35 OSŘ; hranice mezi podpůrnou rolí a nepřípustným zásahem do dispozic účastníků může být sporná.
-
-### H. Praktický závěr
-
-Paragraf 7c dává státnímu zastupitelství fakultativní oprávnění vstoupit do zahájeného insolvenčního řízení, incidenčních sporů a moratoria; po vstupu má postavení obdobné vedlejšímu účastníku. Vstup je podpůrný a kontrolní, v praxi vzácný a typicky motivovaný podezřením z úpadkové trestné činnosti nebo veřejným zájmem.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Je řízení (incidenční spor, moratorium) již **zahájeno** (podmínka vstupu)?
-- [ ] Existuje veřejný zájem či podezření z trestné činnosti (§ 222–227 TZ) odůvodňující vstup?
-- [ ] Jaká procesní práva SZ po vstupu uplatní (důkazy, opravné prostředky) dle § 35 OSŘ?
-- [ ] Nezaměňuje se vstup SZ s aktivní legitimací k podání návrhu (kterou SZ nemá)?
-
-**Typicky rozhodné důkazy / podklady:** spisový materiál insolvenčního řízení, podněty a poznatky o sporných úkonech dlužníka, výsledky šetření OČTŘ, účetnictví a soupis majetku dlužníka.
+V tomto kole není uváděno konkrétní rozhodnutí. Původní text obsahoval neidentifikovaný judikatorní závěr o postavení „obdobném vedlejšímu účastníku“; bez ověřeného plného textu byl odstraněn a výklad je vystavěn přímo na § 7c a § 69 insolvenčního zákona a § 35 odst. 2 OSŘ.
 
 ---
 

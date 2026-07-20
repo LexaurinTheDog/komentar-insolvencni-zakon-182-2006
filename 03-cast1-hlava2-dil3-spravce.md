@@ -469,6 +469,10 @@ Do tohoto vydání není zařazeno žádné soudní rozhodnutí. Dřívější o
 
 ## § 29 — Odvolání správce schůzí věřitelů
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Na schůzi věřitelů, která nejblíže následuje po přezkumném jednání, se mohou věřitelé usnést, že insolvenčním soudem ustanoveného insolvenčního správce odvolávají z funkce a že ustanovují nového insolvenčního správce. O odvolání insolvenčního správce, kterým byla v rámci reorganizace povolené podle § 148 odst. 2 insolvenčním soudem ustanovena osoba určená v předloženém reorganizačním plánu podle § 25 odst. 1, a o ustanovení nového insolvenčního správce se mohou věřitelé usnést také na schůzi věřitelů, která nejblíže následuje po přeměně reorganizace v konkurs. Toto usnesení je přijato, jestliže pro ně hlasovala nejméně polovina všech věřitelů přihlášených ke dni předcházejícímu konání schůze věřitelů, počítaná podle výše jejich pohledávek, kteří mají právo hlasovat. Je-li způsobem řešení úpadku oddlužení, je toto usnesení přijato, jestliže pro ně hlasovala nadpoloviční většina všech věřitelů přihlášených ke dni předcházejícímu konání schůze věřitelů, jejichž pohledávky počítané podle výše (§ 49 odst. 1) zároveň činí nadpoloviční většinu přihlášených pohledávek.
 >
 > (2) Usnesení o ustanovení insolvenčního správce podle odstavce 1 potvrzuje insolvenční soud; nepotvrdí je pouze tehdy, nesplňuje-li insolvenční správce podmínky uvedené v § 21 až 24 a § 25 odst. 3; § 54 odst. 1 se nepoužije.
@@ -477,81 +481,63 @@ Do tohoto vydání není zařazeno žádné soudní rozhodnutí. Dřívější o
 >
 > (4) Insolvenčnímu správci odvolanému postupem podle odstavce 1 insolvenční soud uloží, aby mu ve stanovené lhůtě podal zprávu o své činnosti, zejména o stavu majetku, který spravoval, a aby vyúčtoval odměnu, hotové výdaje a náklady, které mu vznikly v souvislosti se správou a udržováním majetku.
 
+### Přehled výkladu
+
+Ustanovení dává schůzi věřitelů v přesně vymezeném časovém okamžiku pravomoc odvolat soudem ustanoveného insolvenčního správce a ustanovit správce nového. Přijetí usnesení podléhá zvláštním většinám; v oddlužení se uplatní současně většina podle počtu věřitelů a podle výše pohledávek. Soud potvrzuje část usnesení o ustanovení nového správce a důvody nepotvrzení jsou v odstavci 2 vymezeny taxativně. Odvolání je přípustné jen proti nepotvrzení a může je podat jen věřitel, který hlasoval pro přijetí usnesení.
+
+### Souvisící ustanovení
+
+- § 21 až 24 a § 25 odst. 3 — předpoklady osoby nového insolvenčního správce,
+- § 30 — postup, jestliže schůze odvolá správce bez ustanovení nového, a nové hlasování po rozhodné změně přihlášek,
+- § 31 odst. 2 — možnost správce ustanoveného podle § 29 požádat do tří dnů o odvolání,
+- § 34 odst. 3 — ustanovení odvolaného správce odděleným správcem pro jím popřenou pohledávku,
+- § 38 odst. 5 — projednání zprávy a vyúčtování odvolaného správce,
+- § 47, § 49, § 51 a § 53 — svolání schůze a hlasovací právo,
+- § 54 odst. 1 a § 55 odst. 1 — vyloučený obecný přezkum usnesení schůze a obdobné použití odvolacího pravidla.
+
+### Souvisící předpisy
+
+- zákon č. 312/2006 Sb., o insolvenčních správcích — povolení a další předpoklady výkonu činnosti,
+- vyhláška č. 313/2007 Sb. — odměna a náhrada hotových výdajů insolvenčního správce.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva k § 28 až 30 zdůraznila posílení práv věřitelů při změně osoby správce, přičemž správce nadále není zástupcem dlužníka ani věřitelů. Potvrzovací zásah soudu měla omezit na ustanovení nového správce a na jeho zákonné předpoklady; urychlení řízení odůvodňovalo také úzké vymezení odvolání. Důvodová zpráva k revizní novele č. 294/2013 Sb. vysvětlila doplnění hlasovacího práva do kvora a nový odstavec 4 potřebou kontroly výdajů v reálném čase a návaznosti práce nového správce.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto sdělení není výsledkem negativní literární rešerše.
+
 ### Výklad
 
-**„Věřitelské veto"** — jeden z institutů ochrany věřitelů. Schůze věřitelů (která se koná typicky po přezkumném jednání — § 47) může ustanoveného správce **odvolat** a nahradit jiným.
+[1] **Předmět rozhodnutí schůze.** § 29 rozlišuje odvolání dosavadního správce a ustanovení správce nového. Odstavec 2 svěřuje soudu potvrzení usnesení o ustanovení nového správce. Jestliže schůze přijme jen usnesení o odvolání, nastupuje § 30 odst. 1 a nového správce ustanoví soud.
 
-#### Procedurální požadavky
+[2] **Rozhodná schůze.** Základním časovým oknem je schůze věřitelů, která nejblíže následuje po přezkumném jednání. Zákon neříká „kterákoli pozdější schůze“. Zvláštní druhé okno se týká pouze správce ustanoveného v reorganizaci za podmínek § 148 odst. 2 a § 25 odst. 1; otevírá se na schůzi nejblíže následující po přeměně této reorganizace v konkurs.
 
-- **Časové okno**: schůze, **která nejblíže následuje po přezkumném jednání** (typicky tatáž schůze, na níž se přezkum koná, nebo bezprostředně další).
-- **Pro reorganizaci**: i schůze, která nejblíže následuje po přeměně reorganizace v konkurs (specifický scénář).
+[3] **Standardní většina.** Mimo oddlužení je usnesení přijato, hlasovala-li pro ně nejméně polovina všech věřitelů přihlášených ke dni předcházejícímu schůzi, počítaná podle výše jejich pohledávek, kteří mají právo hlasovat. Jde o váženou většinu z takto zákonem určené základny, nikoli jen o většinu přítomných hlasujících.
 
-#### Hlasovací kvórum
+[4] **Oddlužení.** Je-li způsobem řešení úpadku oddlužení, musí být současně splněny dva testy: pro usnesení hlasuje nadpoloviční většina všech věřitelů přihlášených ke dni předcházejícímu schůzi a jejich pohledávky počítané podle § 49 odst. 1 tvoří nadpoloviční většinu přihlášených pohledávek. Před výpočtem je nutno určit hlasovací právo podle souvisejících ustanovení; text čtvrté věty nelze redukovat na jedinou kapitálovou většinu.
 
-- **Standardní řízení** (konkurs/reorganizace): **nejméně polovina všech přihlášených věřitelů ke dni předcházejícímu schůzi, počítáno podle výše pohledávek**, kteří mají hlasovací právo. *Pozor — počítá se z celku přihlášených, nikoli jen z přítomných!* Vysoká kvórumová laťka.
-- **Oddlužení**: nadpoloviční většina všech přihlášených věřitelů + nadpoloviční většina podle výše. *Dvojí test — počet věřitelů i objem pohledávek.*
+[5] **Potvrzení soudem.** Soud rozhodne do skončení schůze. Podle výslovného „nepotvrdí pouze tehdy“ může odmítnout potvrzení z důvodu, že nový správce nesplňuje podmínky § 21 až 24 a § 25 odst. 3. § 54 odst. 1 se nepoužije, takže nelze tento taxativní přezkum rozšiřovat obecným dohledem nad výhodností personální volby. Otázka, zda vůbec bylo přijato usnesení podle odstavce 1, logicky předchází potvrzování osoby nového správce; není však dalším důvodem nepotvrzení osoby podle odstavce 2.
 
-#### Potvrzení soudem (odst. 2)
+[6] **Odvolání.** Odvolání je přípustné jen tehdy, jestliže soud usnesení schůze nepotvrdil. Aktivně legitimován je pouze věřitel, který na schůzi hlasoval pro přijetí usnesení. Pro potvrzující rozhodnutí § 29 odst. 3 odvolání nepřipouští.
 
-Soud rozhodnutí věřitelů **potvrzuje** v zjednodušeném režimu — nepotvrdí jen tehdy, pokud nový správce nesplňuje podmínky. Nelze ho přezkoumávat věcně (např. „byla volba moudrá?").
+[7] **Zpráva a vyúčtování.** Soud odvolanému správci stanoví lhůtu ke zprávě o činnosti a stavu spravovaného majetku a k vyúčtování odměny, hotových výdajů a nákladů správy a udržování majetku. Další proces projednání této zprávy upravuje § 38 odst. 5; odpovědnost správce za dobu výkonu funkce změnou osoby nezaniká (§ 31 odst. 6).
 
-#### Opravný prostředek (odst. 3)
+[8] **Novelizace a časová použitelnost.** Zákon č. 294/2013 Sb. s účinností od 1. 1. 2014 doplnil do standardního kvora požadavek hlasovacího práva a přidal odstavec 4. Zákon č. 64/2017 Sb. s účinností od 1. 7. 2017 vložil zvláštní pravidlo pro přeměnu reorganizace v konkurs a dvojí většinu pro oddlužení. U řízení zahájených před těmito daty je nutno použitelné znění určit podle přechodných ustanovení příslušné novely; nynější znění nelze bez této kontroly přenést na starší procesní situaci.
 
-Odvolání je **omezené** — přípustné je jen *proti rozhodnutí o nepotvrzení*. Hlasující věřitel, který hlasoval **pro**, může podat odvolání, pokud soud rozhodnutí věřitelů nepotvrdil. Pokud soud rozhodnutí věřitelů potvrdí, nemá nikdo odvolání.
+### Judikatura
 
-#### Reziduální povinnosti odvolaného správce (odst. 4)
+Pro výše uvedené materiální závěry nebylo v tomto kole použito žádné soudní rozhodnutí. Dříve uváděná spisová značka 29 NSČR 27/2014 byla odstraněna: agregovaný audit ji označil za neověřenou nebo pravděpodobně chybně použitou a nebyl doložen plný oficiální text, který by podporoval tvrzení připisovaná tomuto rozhodnutí.
 
-Odvolaný správce musí podat **zprávu o činnosti, stavu majetku, vyúčtování odměny a nákladů**. To je důležité pro **kontinuitu** řízení a pro určení odměny do data odvolání.
+### Praktický checklist
 
-### Vazby
-
-- **§ 47, § 49** — schůze věřitelů, hlasovací pravidla.
-- **§ 30** — nepřítomnost nového při odvolání.
-- **§ 34 odst. 3** — odvolaný správce může být ustanoven odděleným správcem pro vedení sporů týkajících se popření pohledávky.
-
-### Judikatura a praxe
-
-V praxi je odvolání správce schůzí věřitelů **vzácné** — vyžaduje koordinaci věřitelů, kteří mají dohromady polovinu pohledávek. Spíše se uplatňuje:
-- u velkých kauz, kde dominantní věřitel (banka, kartel věřitelů) chce „vlastního" správce,
-- v reorganizacích, kde má smysl spojit správce s reorganizačním plánem.
-
-> **NS 29 NSČR 27/2014**: odvolání správce schůzí věřitelů musí být formálně bezvadné — vady (nedostatek kvora, chybná evidence) vedou k nepotvrzení soudem.
-
-### F. Kazuistika
-
-**1. Modelová situace.** Na schůzi věřitelů konané bezprostředně po přezkumném jednání v konkursu dominantní věřitel (banka s 52 % přihlášených pohledávek) prosadí usnesení o odvolání soudem ustanoveného správce a o ustanovení nového. Druhý největší věřitel namítá, že kvórum bylo počítáno jen z přítomných věřitelů, nikoli ze všech přihlášených ke dni předcházejícímu schůzi. Důkazy: prezenční listina, seznam přihlášených pohledávek ke dni D-1, zápis o hlasování a výpočtu kvóra.
-
-**2. Právní otázka.** Z jaké základny se počítá kvórum pro odvolání správce schůzí věřitelů podle § 29 odst. 1 v konkursu — ze všech přihlášených věřitelů s hlasovacím právem ke dni předcházejícímu schůzi, nebo jen z přítomných?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 29 odst. 1 (kvórum „nejméně polovina všech věřitelů přihlášených ke dni předcházejícímu konání schůze, počítaná podle výše pohledávek"; zvláštní pravidlo pro oddlužení), odst. 2 (potvrzení soudem), odst. 3 (omezený opravný prostředek), odst. 4 (reziduální povinnosti odvolaného správce).
-- *Související ustanovení téhož zákona:* § 47 (schůze po přezkumném jednání), § 49 (hlasovací pravidla), § 30 (odvolání bez ustanovení nového), § 34 odst. 3 (odvolaný správce jako oddělený).
-- *Související předpisy:* —
-- *Judikatura:* NS 29 NSČR 27/2014 (citováno výše) — odvolání správce schůzí musí být formálně bezvadné; vady (nedostatek kvóra, chybná evidence) vedou k nepotvrzení soudem.
-
-**4. Subsumpce.** Zákon výslovně stanoví základnu „všech věřitelů přihlášených ke dni předcházejícímu schůzi", nikoli přítomných. Výpočet jen z přítomných tedy znak kvóra nenaplňuje → usnesení je vadné. Sporné: zda banka skutečně dosáhla poloviny i z širší (správné) základny — nutno přepočítat.
-
-**5. Řešení.** Soud usnesení nepotvrdí pro vadu kvóra (§ 29 odst. 2 ve spojení s NS 29 NSČR 27/2014), nebylo-li dosaženo poloviny ze všech přihlášených. Proti nepotvrzení se může odvolat jen věřitel, který hlasoval pro (§ 29 odst. 3). Pokud by přepočet ukázal dosažení správného kvóra, soud potvrdí a odvolaný správce splní povinnosti dle § 29 odst. 4 (zpráva, vyúčtování).
-
-**6. Varianty.** (a) Způsobem řešení je oddlužení → uplatní se dvojí test: nadpoloviční většina počtu věřitelů i podle výše pohledávek (§ 29 odst. 1 věta čtvrtá). (b) Schůze správce odvolá, ale neusnese se na novém → soud ustanoví nového sám dle § 30 odst. 1 a § 29 odst. 1 se na něj již nepoužije.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Hlasovat mohou jen přítomní, proto se kvórum počítá z nich." — Neutralizace: § 29 odst. 1 výslovně váže kvórum na všechny přihlášené ke dni D-1; absence se počítá fakticky jako hlas proti odvolání (vysoká laťka je záměrem).
-- *Protiargument:* „Drobné evidenční nepřesnosti by neměly bránit potvrzení." — Neutralizace: dle NS 29 NSČR 27/2014 musí být usnesení formálně bezvadné; vady evidence/kvóra vedou k nepotvrzení.
-- *Slabé místo:* určení správné základny závisí na přesné evidenci přihlášek a hlasovacích práv k rozhodnému dni; chyby v evidenci přímo zakládají neúspěch.
-
-### H. Praktický závěr
-
-Odvolání správce schůzí věřitelů vyžaduje vysoké kvórum počítané ze všech přihlášených věřitelů ke dni předcházejícímu schůzi (v oddlužení dvojí test); soud volbu nového správce potvrzuje jen při formální bezvadnosti a splnění kvalifikace, odvolaný správce poté podává zprávu a vyúčtování.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Stanovit správnou hlasovací základnu (všichni přihlášení ke dni D-1 s hlasovacím právem).
-- [ ] U oddlužení ověřit splnění obou většin (počet i objem pohledávek).
-- [ ] Zkontrolovat kvalifikaci nově voleného správce (§ 21–24, § 25 odst. 3) před potvrzením.
-- [ ] Zajistit u odvolaného správce zprávu o činnosti a vyúčtování (§ 29 odst. 4).
-
-**Typicky rozhodné důkazy / podklady:** seznam přihlášených pohledávek a hlasovacích práv ke dni D-1, prezenční listina, zápis o hlasování a výpočtu kvóra, výpis ze seznamu k novému správci.
+- [ ] Určit, zda jde o zákonem vymezenou nejbližší schůzi po přezkumném jednání, popřípadě o zvláštní schůzi po přeměně reorganizace v konkurs.
+- [ ] Uzavřít seznam věřitelů a hlasovacích práv ke dni předcházejícímu schůzi.
+- [ ] Použít správný většinový test; v oddlužení ověřit samostatně počet věřitelů i výši pohledávek.
+- [ ] Oddělit usnesení o odvolání od usnesení o ustanovení nového správce a ověřit předpoklady nové osoby.
+- [ ] Zachytit hlasování v zápisu tak, aby bylo zřejmé, kdo hlasoval pro případné odvolání proti nepotvrzení.
+- [ ] Stanovit odvolanému správci lhůtu ke zprávě a vyúčtování a navázat postupem podle § 38 odst. 5.
 
 ---
 

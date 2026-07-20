@@ -1051,7 +1051,9 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto odl
 
 ## § 38 — Odměna a hotové výdaje správce
 
-Klíčový **„finanční"** paragraf — vymezuje, na co má správce nárok a jak se nárok určuje.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
 
 > (1) Insolvenční správce má právo na odměnu a náhradu hotových výdajů. V případě konkursu se výše odměny určí z počtu přezkoumaných přihlášek pohledávek a z výtěžku zpeněžení určeného k rozdělení mezi věřitele. Je-li insolvenční správce plátcem daně z přidané hodnoty, náleží mu k odměně a k náhradě hotových výdajů částka odpovídající této dani, kterou je insolvenční správce povinen z odměny a z náhrady hotových výdajů odvést podle zvláštního právního předpisu.
 >
@@ -1069,95 +1071,50 @@ Klíčový **„finanční"** paragraf — vymezuje, na co má správce nárok a
 >
 > (8) Způsob určení odměny, některých hotových výdajů insolvenčního správce a způsob jejich úhrady státem stanoví prováděcí právní předpis.
 
-### Struktura odměny
+### Přehled výkladu
 
-**Konkurs** — *dvousložková odměna* (§ 1 vyhlášky č. 313/2007 Sb.):
-1. **z výtěžku** zpeněžení určeného k rozdělení mezi věřitele — *procentní sazba*, klesající s velikostí (typicky 9 % z prvních milionů, klesá k 1 % nad 500 mil. Kč),
-2. **z počtu přezkoumaných přihlášek** — *fixní složka* (typicky 1 000 Kč za přihlášku, nejméně však 45 000 Kč úhrnem).
+Ustanovení odděluje vznik a určení nároku správce, zdroje jeho úhrady, proces vyúčtování a zvláštní pravidla pro změnu osoby správce a oddlužení. Konkrétní výpočet odměny a některých hotových výdajů ponechává prováděcímu předpisu; při aplikaci je proto nutné použít jeho časově rozhodné znění.
 
-**Oddlužení** — odměna **měsíčně** ze splátky (typicky 750 Kč / měs. + DPH, 1 250 Kč při společném oddlužení manželů), + jednorázová odměna ze zpeněžení podstaty.
+### Souvisící ustanovení
 
-**Reorganizace** — odměna dohodnutá v reorganizačním plánu, případně určená soudem.
+- § 36 odst. 5 — zvláštní účet, na který se ukládá rezerva podle § 38 odst. 6.
+- § 168 odst. 2 písm. a) — hotové výdaje a odměna správce jako pohledávky za majetkovou podstatou.
+- § 304 — přezkum a projednání konečné zprávy a vyúčtování; přiměřeně také zpráva podle § 38 odst. 5.
+- § 305 odst. 2 — pořadí úhrady při nedostatku konkursního výtěžku.
 
-**DPH** — pokud je správce plátcem DPH (drtivá většina v.o.s.-správců a větších kanceláří), náleží mu k odměně i k náhradě výdajů částka DPH navíc.
+### Souvisící předpisy
 
-### Pořadí uspokojení (odst. 2)
+- Prováděcí právní předpis podle § 38 odst. 8 — určuje způsob odměny, některých hotových výdajů a jejich úhrady státem.
+- Zákon č. 235/2004 Sb., o dani z přidané hodnoty — zvláštní předpis uvedený v poznámce 10 k § 38 odst. 1.
+- Zákon č. 280/2009 Sb., daňový řád — postup při správě placení náhrady státu podle § 38 odst. 7.
 
-1. **z majetkové podstaty** (jako pohledávka za podstatou — § 168),
-2. ze **zálohy** na náklady řízení (typicky 50 000 Kč složená dlužníkem-navrhovatelem),
-3. **stát** — *jen do limitu* 50 000 Kč na odměně + 50 000 Kč na výdajích.
+### Z důvodové zprávy
 
-> *Riziko správce* — pokud podstata nevynese a záloha nestačí, dostane správce **pouze státní limit**. To je v praxi důvod, proč správci některé „prázdné" konkursy odmítají (§ 22 odst. 1) — odměna nepokrývá ani část jejich nákladů.
+Původní důvodová zpráva spojila konkursní odměnu s výtěžkem určeným věřitelům a výslovně řešila DPH. Subsidiární úhradu státem zamýšlela jako výjimečnou pro případy, kdy nárok nelze uhradit z podstaty ani ze zálohy. Jde o vysvětlení původní čtyřodstavcové úpravy; není samo o sobě výkladem později doplněných odstavců 5 až 7 ani dnešních dvou samostatných limitů v odstavci 2.
 
-### Změna odměny (odst. 3)
+### Literatura
 
-Soud může po projednání s věřitelským výborem odměnu **přiměřeně zvýšit nebo snížit**. Důvody:
-- *zvýšení* — neobvyklá náročnost, nadprůměrný výtěžek, mimořádné výsledky,
-- *snížení* — *porušení povinností* (především), nenavržení částečného rozvrhu, kdy to bylo možné.
+Odborná literatura je rozhodnutím editora odložena do druhého kola; tento oddíl nepředstavuje negativní rešerši.
 
-### Záloha (odst. 4)
+### Výklad
 
-Soud může v průběhu řízení rozhodnout o *vyplacení zálohy* na odměnu / výdaje. Důležitý cash-flow nástroj — správce nemusí čekat až do konečné zprávy.
+[1] Odstavec 1 zakládá právo správce na odměnu a náhradu hotových výdajů. Jen pro konkurs současně stanoví dvě zákonná kritéria určení odměny: počet přezkoumaných přihlášek a výtěžek zpeněžení určený k rozdělení věřitelům. Částka odpovídající DPH náleží navíc pouze správci, který je jejím plátcem a je povinen ji z těchto plnění odvést.
 
-### Vyúčtování při odvolání (odst. 5)
+[2] Odstavec 2 stanoví posloupnost zdrojů: majetková podstata, poté záloha na náklady řízení a teprve při nemožnosti úhrady z těchto zdrojů stát. Státní plnění je omezeno odděleně částkou 50 000 Kč na odměnu a 50 000 Kč na náhradu hotových výdajů. Nedostatek prostředků však sám není důvodem ke snížení odměny podle odstavce 3.
 
-Odvolaný / zproštěný správce provede vyúčtování *ve zprávě o činnosti*. Soud o ní rozhoduje (přiměřeně § 304). Možnost odvolání pro odvolaného i nového správce, věřitele a dlužníka, jejichž námitkám nebylo vyhověno.
+[3] Vyúčtování se provádí v konečné zprávě, a není-li jí, ve zprávě o činnosti. Zvýšení nebo snížení odměny podle odstavce 3 vyžaduje posouzení okolností konkrétního případu a projednání s věřitelským výborem. Zákonný výčet důvodů ke snížení je demonstrativní.
 
-### Splátkový kalendář — záloha na 6 měsíců (odst. 6)
+[4] Zálohu na odměnu i hotové výdaje může soud vyplatit v průběhu řízení opakovaně. U odvolaného nebo zproštěného správce odstavec 5 upravuje samostatné vyúčtování ve zprávě o činnosti, možnost rozhodnout o ní již za řízení a okruh osob oprávněných k odvolání.
 
-Specifické pravidlo pro oddlužení splátkovým kalendářem — správce **odkládá** ze splátek částku *odpovídající jeho odměně + výdajům za 6 měsíců* na zvláštní účet. *Zajištění likvidity* pro správce.
+[5] V oddlužení plněním splátkového kalendáře se zpeněžením ukládá odstavec 6 správci vytvořit ze splátek šestiměsíční rezervu na zvláštním účtu. Uhradil-li v oddlužení odměnu a hotové výdaje stát, musí konečné rozhodnutí uložit dlužníku jejich náhradu státu; placení se spravuje podle daňového řádu.
 
-### Hradí-li odměnu stát (odst. 7)
+[6] Sazby a další podrobnosti nelze dovozovat jen z § 38: odstavec 8 je svěřuje prováděcímu předpisu. U starších řízení a rozhodnutí je nutné kontrolovat tehdejší znění zákona i vyhlášky. Složka odměny za přezkoumané přihlášky byla do konkursního pravidla doplněna s účinností od 1. 1. 2014.
 
-Pokud stát zaplatil odměnu (typicky při bezvýtěžkovém oddlužení), uloží soud v konečném rozhodnutí dlužníkovi povinnost **nahradit státu** vyplacenou částku. Vymáhá daňový úřad podle daňového řádu.
+### Judikatura
 
-### Prováděcí předpis (odst. 8)
-
-Detailní výpočet — **vyhláška č. 313/2007 Sb. o odměně insolvenčního správce, o náhradách jeho hotových výdajů, o odměně členů a náhradníků věřitelského výboru a o náhradách jejich nutných výdajů**.
-
-### Vazby
-
-- **§ 168 odst. 2 písm. a)** — odměna jako pohledávka za podstatou.
-- **§ 304** — projednání konečné zprávy a vyúčtování.
-- **Vyhláška č. 313/2007 Sb.** — sazby.
-
-### F. Kazuistika
-
-**1. Modelová situace.** V konkursu správce zpeněžil podstatu, přezkoumal 80 přihlášek a v konečné zprávě vyúčtoval odměnu z výtěžku i z počtu přihlášek. Věřitelský výbor i soud zjistí, že správce v průběhu řízení nenavrhl částečný rozvrh, ačkoli stav zpeněžení to dávno umožňoval, čímž věřitelé po dobu dvou let neobdrželi plnění; navíc opožděně podával zprávy. Správce žádá odměnu v plné vyhláškové výši. Důkazy: konečná zpráva a vyúčtování, přehled stavu zpeněžení v čase, spisový přehled o podaných zprávách.
-
-**2. Právní otázka.** Může insolvenční soud po projednání s věřitelským výborem odměnu insolvenčního správce přiměřeně snížit podle § 38 odst. 3, jestliže správce porušil povinnosti a nenavrhl částečný rozvrh, ačkoli to stav zpeněžení umožňoval?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 38 odst. 1 (právo na odměnu a náhradu výdajů; určení v konkursu z počtu přezkoumaných přihlášek a z výtěžku; DPH u plátce), odst. 3 (vyúčtování v konečné zprávě; možnost soudu odměnu přiměřeně zvýšit/snížit; snížení zejména při porušení povinností nebo nenavržení částečného rozvrhu), odst. 2 (pořadí uspokojení; subsidiární úhrada státem do limitu).
-- *Související ustanovení téhož zákona:* § 36 (povinnosti — reporting), § 168 odst. 2 písm. a) (odměna jako pohledávka za podstatou), § 304 (projednání konečné zprávy a vyúčtování), § 301 a násl. (rozvrh; částečný rozvrh).
-- *Související předpisy:* vyhláška č. 313/2007 Sb. (sazby odměny a náhrad výdajů).
-- *Judikatura:* k souvislosti porušení povinností a důsledků v odměňování srov. systémově NS 29 NSČR 4/2018 (citováno u § 32).
-
-**4. Subsumpce.** Nenavržení částečného rozvrhu, ačkoli to stav zpeněžení umožňoval, je výslovně uvedeným důvodem snížení (§ 38 odst. 3 věta třetí); opožděné podávání zpráv je porušením povinností (§ 36) rovněž zakládajícím snížení. Naplněn je tedy znak „důvod ke snížení odměny". Sporné: míra (přiměřenost) snížení — soud ji určuje s ohledem na závažnost a dopad na věřitele po projednání s výborem.
-
-**5. Řešení.** Soud po projednání s věřitelským výborem odměnu přiměřeně sníží (§ 38 odst. 3) — nejde o úplné odepření, nýbrž o korekci reflektující porušení a poškození věřitelů prodlením s rozvrhem. Vyúčtování se projedná v rámci konečné zprávy (§ 304). Procesní krok: soud snížení odůvodní; proti rozhodnutí o schválení vyúčtování je přípustné odvolání oprávněných osob.
-
-**6. Varianty.** (a) Správce by naopak dosáhl mimořádného výtěžku při neobvyklé náročnosti řízení → soud může odměnu přiměřeně zvýšit (§ 38 odst. 3). (b) Podstata i záloha by nestačily → odměnu hradí stát jen do limitu 50 000 Kč na odměně a 50 000 Kč na výdajích (§ 38 odst. 2); zbytek správce nedostane (riziko „prázdných" konkursů).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Odměna podle vyhlášky je nároková a nelze ji krátit." — Neutralizace: § 38 odst. 3 výslovně umožňuje přiměřené zvýšení i snížení; vyhlášková sazba je východiskem, nikoli nedotknutelným nárokem.
-- *Protiargument:* „Částečný rozvrh nebyl povinný." — Neutralizace: zákon spojuje jeho nenavržení (umožňoval-li to stav zpeněžení) přímo s důvodem ke snížení odměny; jde o měřítko řádného výkonu funkce.
-- *Slabé místo:* „přiměřenost" snížení je neurčitý pojem se širokou diskrecí soudu; výsledek je málo předvídatelný a závisí na projednání s výborem a odůvodnění.
-
-### H. Praktický závěr
-
-Správce má nárok na odměnu (v konkursu z výtěžku a z počtu přezkoumaných přihlášek) a náhradu výdajů, soud ji však po projednání s věřitelským výborem může přiměřeně zvýšit či snížit — snížení typicky při porušení povinností nebo nenavržení částečného rozvrhu; subsidiárně hradí odměnu stát jen do zákonného limitu.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Vyúčtovat odměnu a výdaje v konečné zprávě (či ve zprávě o činnosti) s doložením počtu přihlášek a výtěžku.
-- [ ] Posoudit důvody pro zvýšení/snížení (náročnost, výtěžek vs. porušení povinností, nenavržení částečného rozvrhu).
-- [ ] Projednat změnu odměny s věřitelským výborem a snížení odůvodnit.
-- [ ] Ověřit pořadí úhrady (podstata → záloha → stát do limitu) a status pohledávky za podstatou.
-
-**Typicky rozhodné důkazy / podklady:** konečná zpráva a vyúčtování odměny/výdajů, doklad o počtu přezkoumaných přihlášek a o výtěžku zpeněžení, přehled stavu zpeněžení v čase, spisový přehled o podaných zprávách.
-
----
+- **NS, usnesení ze dne 28. 7. 2020, sen. zn. 29 NSČR 122/2018, ECLI:CZ:NS:2020:29.NSCR.122.2018.1:** vyložil vztah konkursní odměny z výtěžku a z počtu přezkoumaných přihlášek a zachytil změnu účinnou od 1. 1. 2014. Historické sazby citované v rozhodnutí nelze bez dalšího přenášet.
+- **NS, usnesení ze dne 22. 12. 2022, sen. zn. 29 NSČR 2/2022, ECLI:CZ:NS:2022:29.NSCR.2.2022.1:** v reorganizaci odmítl snížení odměny založené na neexistující povinnosti správce vyčlenit prostředky na svou budoucí odměnu; potvrdil též povahu nároku podle § 168 odst. 2 písm. a).
+- **NS, usnesení ze dne 24. 7. 2014, sen. zn. 29 NSČR 53/2012, ECLI:CZ:NS:2014:29.NSCR.53.2012.1:** v tehdejším oddlužení uzavřel, že majetkové poměry dlužníka samy neodůvodňují korekci odměny podle § 38 odst. 3. Procesní a sazební pasáže odpovídají starší úpravě.
 
 ## § 39 — Náklady správce; záloha věřitelů
 

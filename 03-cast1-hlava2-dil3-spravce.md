@@ -853,61 +853,67 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento od
 
 ## § 35 — Zvláštní insolvenční správce
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) V případech, kdy je nutné v rámci insolvenčního řízení řešit zvláštní problematiku vyžadující odborné specializace, může insolvenční soud ustanovit i zvláštního insolvenčního správce a upravit jeho vztah k insolvenčnímu správci. Není-li dále stanoveno jinak, není důvodem pro ustanovení zvláštního insolvenčního správce činnost týkající se zpeněžení majetkové podstaty.
+>
 > (2) Pro ustanovení do funkce, odměňování a zprošťování funkce zástupce insolvenčního správce, odděleného insolvenčního správce a zvláštního insolvenčního správce platí ustanovení o insolvenčním správci obdobně.
+>
 > (3) Zvláštního insolvenčního správce ustanoví soud pro výplatu nároku uživatelů platebních služeb nebo držitelů elektronických peněz postupem stanoveným zákonem upravujícím platební styk, pro vydání svěřených prostředků postupem stanoveným zákonem upravujícím digitalizaci finančního trhu a pro vydání majetku zákazníka postupem stanoveným zákonem o podnikání na kapitálovém trhu.
+
+### Přehled výkladu
+
+Odstavec 1 upravuje fakultativní ustanovení dalšího správce pro konkrétní zvláštní problematiku vyžadující odbornou specializaci; soud současně vymezí jeho vztah k insolvenčnímu správci. Samotná činnost týkající se zpeněžení majetkové podstaty takovým důvodem zásadně není. Odstavec 2 přikazuje obdobně použít pravidla o insolvenčním správci ve třech výslovně uvedených otázkách. Odstavec 3 naproti tomu stanoví tři obligatorní mandáty zvláštního správce.
+
+### Souvisící ustanovení
+
+- **§ 21 až 25, § 29 až 32** — výběr, ustanovení, odvolání a zproštění insolvenčního správce; v rozsahu § 35 odst. 2 se použijí obdobně.
+- **§ 33 a 34** — zástupce a oddělený správce, na něž rovněž dopadá odstavec 2.
+- **§ 36 odst. 1** — obecný standard výkonu funkce.
+- **§ 38** — odměna a hotové výdaje insolvenčního správce.
+- **§ 286 až 305** — zákonný režim zpeněžování majetkové podstaty.
+
+### Souvisící předpisy
+
+- **Zákon č. 370/2017 Sb., o platebním styku** — zvláštní postup při úpadku platební instituce a instituce elektronických peněz.
+- **Zákon č. 31/2025 Sb., o digitalizaci finančního trhu** — vydání svěřených prostředků v režimu, na který odkazuje odstavec 3.
+- **Zákon č. 256/2004 Sb., o podnikání na kapitálovém trhu** — vydání majetku zákazníka obchodníka s cennými papíry.
+- **Zákon č. 294/2013 Sb.** — s účinností od 1. 1. 2014 doplnil do odstavce 1 zákaz použít institut jen pro činnost týkající se zpeněžení; podle přechodného ustanovení se novelizované znění použilo i na dříve zahájená řízení se zachováním dřívějších právních účinků.
+
+### Z důvodové zprávy
+
+Původní vládní návrh označil za jádro institutu řešení otázek vyžadujících specializaci a jako příklad uvedl autorské právo. Další části tehdejšího návrhu § 35, popsané ve stejné důvodové zprávě, však nebyly přijaty v podobě dnešního ustanovení, a nelze je proto používat k výkladu současných odstavců 2 a 3. Důvodová zpráva k zákonu č. 294/2013 Sb. vysvětluje doplnění druhé věty odstavce 1 snahou zabránit obcházení vůle věřitelů ustanovit nového insolvenčního správce; zpeněžování označuje za vlastní podstatu výkonu správy hlavním správcem tam, kde je provádí správce.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní literární rešerše.
 
 ### Výklad
 
-**Zvláštní správce** — *specializace*, nikoli vyloučení. Příklady situací, kdy se ustanovuje:
-- specifická právní problematika (např. mezinárodní arbitráž, právo duševního vlastnictví, regulační záležitosti),
-- specifická hospodářská problematika (např. specializovaný obor — letecká doprava, telekomunikace, zdravotnictví),
-- *zvláštní zákonné mandáty* — odst. 3:
-  - **platební služby** podle ZPS (zákon č. 370/2017 Sb.) — výplata klientských prostředků,
-  - **digitalizace finančního trhu** — svěřené prostředky,
-  - **podnikání na kapitálovém trhu** — vydání majetku zákazníka OCP.
+[1] **Předpoklady fakultativního ustanovení.** Soud může postupovat podle odstavce 1 jen tehdy, je-li v konkrétním řízení nutné řešit zvláštní problematiku a tato problematika vyžaduje odbornou specializaci. Rozhodnutí musí současně upravit vztah zvláštního a insolvenčního správce; zákon nepředpokládá nevymezenou souběžnou působnost dvou správců.
 
-**Vyloučení důvodu pro zpeněžování** (odst. 1, věta druhá) — pro **prosté zpeněžení podstaty** se zvláštní správce *neustanovuje*. Důvod — zpeněžování je „rutinní" činnost správce a samotná velikost nebo komplikovanost majetku není důvodem pro paralelní specializaci.
+[2] **Specializace, nikoli řešení podjatosti.** Zvláštní správce podle § 35 odst. 1 řeší odborně zvláštní problematiku. Vyloučení insolvenčního správce z některých úkonů pro poměr k věci nebo osobám řeší oddělený správce podle § 34; jde o odlišný zákonný důvod.
 
-### Vazby
+[3] **Zpeněžení.** Druhá věta odstavce 1 vylučuje, aby důvodem pro ustanovení zvláštního správce byla sama činnost týkající se zpeněžení majetkové podstaty, nestanoví-li zákon dále jinak. Rozsah nebo náročnost zpeněžování proto bez další zvláštní problematiky vyžadující odbornou specializaci zákonnou podmínku nenahrazuje.
 
-- **§ 286 a násl.** — zpeněžování podstaty (úkol řádného správce).
-- **Zákon č. 370/2017 Sb. o platebním styku, § 124 a násl.** — výplata klientských prostředků.
+[4] **Rozsah odkazu v odstavci 2.** Obdobné použití ustanovení o insolvenčním správci je výslovně omezeno na ustanovení do funkce, odměňování a zprošťování funkce. Dopadá vedle zvláštního správce také na zástupce a odděleného správce; nejde o obecný příkaz mechanicky přenést na tyto osoby všechna pravidla bez ohledu na jejich vymezený úkol.
 
-### F. Kazuistika
+[5] **Obligatorní případy.** Sloveso „ustanoví“ v odstavci 3 zakládá povinnost soudu ustanovit zvláštního správce pro každý ze tří uvedených účelů: výplatu nároků podle zákona o platebním styku, vydání svěřených prostředků podle zákona o digitalizaci finančního trhu a vydání majetku zákazníka podle zákona o podnikání na kapitálovém trhu. Konkrétní okruh oprávněných osob, majetku a postup určuje vždy odkazovaný zvláštní zákon.
 
-**1. Modelová situace.** V konkursu poskytovatele platebních služeb (úpadek licencované platební instituce) drží dlužník na klientských účtech prostředky uživatelů platebních služeb. Insolvenční správce řeší zpeněžení rozsáhlé podstaty a současně nutnost vyplatit klientské prostředky podle zákona o platebním styku. Věřitelský výbor navrhuje ustanovit zvláštního správce pro samotné zpeněžení, neboť je objemné. Důkazy: doklad o licenci a typu instituce, evidence klientských prostředků, návrh věřitelského výboru.
+[6] **Intertemporální dosah.** Odstavce 1 a 2 tvoří původní základ ustanovení. Odstavec 3 byl doplněn v souvislosti s úpravou platebního styku a později rozšiřován spolu se zvláštními režimy finančního trhu; jeho současné znění zahrnuje také digitalizaci finančního trhu. Zákaz použít zvláštního správce pouze pro zpeněžování se podle zákona č. 294/2013 Sb. uplatnil od 1. 1. 2014 i v dříve zahájených řízeních, aniž byly dotčeny dříve nastalé právní účinky.
 
-**2. Právní otázka.** Kdy soud ustanoví zvláštního insolvenčního správce podle § 35 — je důvodem objemné či komplikované zpeněžení podstaty, nebo se zvláštní správce ustanovuje (a obligatorně dle odst. 3) jen pro specializované zákonné mandáty typu výplaty klientských prostředků?
+### Judikatura
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 35 odst. 1 (zvláštní správce pro zvláštní problematiku vyžadující odbornou specializaci; zpeněžení podstaty není důvodem), odst. 2 (ustanovení, odměňování a zproštění obdobně jako u správce), odst. 3 (obligatorní ustanovení pro výplatu nároků uživatelů platebních služeb / držitelů elektronických peněz, vydání svěřených prostředků a vydání majetku zákazníka).
-- *Související ustanovení téhož zákona:* § 286 a násl. (zpeněžování — úkol řádného správce), § 34 (oddělený správce — kontrast: vyloučení vs. specializace).
-- *Související předpisy:* zákon č. 370/2017 Sb. o platebním styku (§ 124 a násl. — výplata klientských prostředků); zákon o podnikání na kapitálovém trhu (vydání majetku zákazníka OCP); úprava digitalizace finančního trhu (svěřené prostředky).
-- *Judikatura:* k obecnému standardu odborné péče srov. NS 29 NSČR 9/2014 (citováno u § 37).
+V rámci revize primárních pramenů nebylo nalezeno rozhodnutí vrcholného soudu, jehož plný text by poskytoval nosný a pro současné znění § 35 přímo použitelný výklad nad rámec zákonného textu a ověřených důvodových zpráv. Dřívější obecný odkaz na rozhodnutí 29 NSČR 9/2014 byl proto odstraněn; tento oddíl nepředstavuje negativní rešerši odborné literatury.
 
-**4. Subsumpce.** Výplata klientských prostředků uživatelů platebních služeb spadá pod zákonný mandát § 35 odst. 3 → soud ustanoví zvláštního správce obligatorně. Naproti tomu samotné zpeněžení (byť objemné) výslovně nezakládá důvod pro zvláštního správce (§ 35 odst. 1 věta druhá) → návrh výboru na zvláštního správce „pro zpeněžení" je nedůvodný. Sporné: zda určitá dílčí agenda (např. mezinárodní arbitráž) nevyžaduje specializaci dle odst. 1.
+**Praktický checklist:**
 
-**5. Řešení.** Soud ustanoví zvláštního správce pro výplatu klientských prostředků (§ 35 odst. 3 ve spojení se zákonem o platebním styku) a upraví jeho vztah k řádnému správci; zpeněžení podstaty ponechá řádnému správci (§ 286 a násl.). Pro ustanovení, odměnu a zproštění zvláštního správce platí obdobně úprava o správci (§ 35 odst. 2). Procesní krok: vymezit rozsah a součinnost mezi řádným a zvláštním správcem.
-
-**6. Varianty.** (a) Dlužník je obchodník s cennými papíry držící majetek zákazníků → zvláštní správce pro vydání majetku zákazníka dle zákona o podnikání na kapitálovém trhu (§ 35 odst. 3). (b) Jediným důvodem návrhu by byla velikost/komplikovanost majetku ke zpeněžení → ustanovení zvláštního správce nepřípustné (odst. 1 věta druhá), řeší řádný správce.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Velký a složitý majetek odůvodňuje zvláštního správce pro zpeněžení." — Neutralizace: § 35 odst. 1 věta druhá to výslovně vylučuje; složitost se řeší externími odborníky (§ 39 odst. 3), nikoli paralelním správcem.
-- *Protiargument:* „Výplata klientů je jen běžná agenda správce." — Neutralizace: u platebních institucí/OCP jde o zvláštní zákonný mandát s obligatorním ustanovením zvláštního správce (§ 35 odst. 3).
-- *Slabé místo:* nejasné rozhraní mezi specializací (odst. 1) a vyloučením (§ 34) a mezi zvláštním správcem a externími odborníky (§ 39); nesprávná volba zvyšuje náklady podstaty.
-
-### H. Praktický závěr
-
-Zvláštní správce slouží specializaci, nikoli vyloučení; pro pouhé zpeněžení podstaty se neustanovuje, naopak pro výplatu klientských prostředků, svěřených prostředků a majetku zákazníka je jeho ustanovení obligatorní (§ 35 odst. 3).
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověřit, zda jde o zákonný mandát dle § 35 odst. 3 (platební služby, elektronické peníze, svěřené prostředky, majetek zákazníka) → obligatorní zvláštní správce.
-- [ ] Vyloučit ustanovení zvláštního správce jen kvůli rozsahu/složitosti zpeněžení (odst. 1 věta druhá).
-- [ ] Vymezit vztah a součinnost zvláštního a řádného správce; odměnu řešit dle § 35 odst. 2.
-
-**Typicky rozhodné důkazy / podklady:** doklad o licenci/typu instituce (platební instituce, OCP), evidence klientských/svěřených prostředků, návrh na ustanovení a vymezení specializované problematiky.
+- [ ] Vymezit zvláštní problematiku, požadovanou specializaci a hranici působnosti obou správců.
+- [ ] Ověřit, zda skutečným důvodem není pouze zpeněžování majetkové podstaty.
+- [ ] Prověřit, zda nejde o některý z obligatorních mandátů odstavce 3, a použít příslušný zvláštní zákon.
+- [ ] U ustanovení, odměny a zproštění použít pravidla o insolvenčním správci obdobně, nikoli mechanicky.
 
 ---
 

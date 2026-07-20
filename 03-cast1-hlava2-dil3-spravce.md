@@ -1303,48 +1303,68 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola. Tato poz
 
 ---
 
-## § 41 — § 42 — Úvěrové financování
+## § 41 — Úvěrové financování
 
-### § 41
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-> (1) Insolvenční správce může pro udržení nebo obnovení provozu podniku, který je součástí majetkové podstaty, uzavřít za obvyklých obchodních podmínek smlouvy o úvěru a smlouvy obdobné, jakož i smlouvy na dodávky energií a surovin, včetně smluv o zajištění splnění těchto smluv (dále jen „úvěrové financování").
+### Znění ustanovení
+
+> (1) Insolvenční správce může pro udržení nebo obnovení provozu podniku, který je součástí majetkové podstaty, uzavřít za obvyklých obchodních podmínek smlouvy o úvěru a smlouvy obdobné, jakož i smlouvy na dodávky energií11) a surovin, včetně smluv o zajištění splnění těchto smluv (dále jen „úvěrové financování“).
+>
 > (2) Nenabídnou-li horší podmínky než nejlepší nabídka, mají dosavadní zajištění věřitelé přednostní právo, aby smlouvy podle odstavce 1 byly uzavřeny s nimi; to platí obdobně pro věřitele ze smluv na dodávky energií a surovin podle odstavce 1.
 
-#### F. Kazuistika
+### Přehled výkladu
 
-**1. Modelová situace.** Insolvenční správce ve „going concern" konkursu (resp. dlužník s dispozičními oprávněními v reorganizaci) potřebuje obnovit provoz výrobní haly: zajistit dodávky energií, surovin a krátkodobý provozní úvěr. Oslovené banky nabídnou úvěr; obdobnou nabídku ale předloží i dosavadní zajištěný věřitel Z (financující banka), který se dovolává přednostního práva uzavřít smlouvu se sebou. Správce zvažuje, zda smí smlouvy o úvěrovém financování vůbec uzavřít bez souhlasu věřitelského výboru a za jakých podmínek musí dát přednost věřiteli Z. Důkazy: nabídky financování, srovnání jejich podmínek, doklad o účelu (udržení/obnovení provozu), souhlas věřitelského orgánu (§ 289 obdobně), zástavní pozice věřitele Z.
+§ 41 vymezuje účel, smluvní okruh a obchodní podmínky úvěrového financování uzavíraného insolvenčním správcem. Před uzavřením smlouvy je třeba souhlasu věřitelského výboru podle § 58 odst. 2 písm. c). Dosavadní zajištění věřitelé, a obdobně dosavadní dodavatelé energií a surovin, mají přednostní právo jen tehdy, není-li jejich nabídka horší než nejlepší nabídka.
 
-**2. Právní otázka.** Za jakých podmínek smí správce uzavřít smlouvy o úvěrovém financování podle § 41 odst. 1 a kdy musí přednostně uzavřít smlouvu s dosavadními zajištěnými věřiteli podle § 41 odst. 2?
+### Souvisící ustanovení
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 41 odst. 1 (správce může pro udržení/obnovení provozu podniku uzavřít za obvyklých obchodních podmínek smlouvy o úvěru a smlouvy obdobné, na dodávky energií a surovin a smlouvy zajišťovací — „úvěrové financování"); odst. 2 (dosavadní zajištění věřitelé mají přednostní právo, aby smlouvy byly uzavřeny s nimi, nenabídnou-li horší podmínky než nejlepší nabídka; obdobně pro dodavatele energií a surovin).
-- *Související ustanovení téhož zákona:* § 168 odst. 2 písm. g) (pohledávky z úvěrového financování jako pohledávky za podstatou), § 124 (moratorium), § 316 (reorganizace), § 330 (dlužník s dispozičními oprávněními), § 42 (režim majetku a vázanost účelem — viz dále).
-- *Související předpisy:* § 2395 a násl. OZ (smlouva o úvěru — obvyklé obchodní podmínky).
-- *Judikatura:* institut je v praxi vzácný; nosné publikované rozhodnutí k § 41 není v komentáři citováno — vychází se ze znění a účelu (DIP financing).
+- **§ 37** — odpovědnost insolvenčního správce za škodu nebo jinou újmu.
+- **§ 58 odst. 2 písm. c) a § 66** — souhlas věřitelského výboru s úvěrovým financováním; výkon jeho působnosti insolvenčním soudem.
+- **§ 168 odst. 1 písm. f)** — pohledávky věřitelů z úvěrového financování jako pohledávky za majetkovou podstatou, vznikly-li po zahájení insolvenčního řízení nebo po vyhlášení moratoria.
+- **§ 305 odst. 2** — pořadí pohledávek z úvěrového financování při nedostatku výtěžku v konkursu.
+- **§ 330 odst. 2 a 3 a § 42 odst. 3** — jednání dlužníka s dispozičními oprávněními a okruh dalších osob oprávněných uzavřít smlouvu o úvěrovém financování.
 
-**4. Subsumpce.** Smlouvy směřují k udržení/obnovení provozu podniku, který je součástí majetkové podstaty, a jsou sjednány za obvyklých obchodních podmínek → naplňují hypotézu § 41 odst. 1; správce je proto uzavřít smí (v rámci dispozic s podstatou se souhlasem věřitelského orgánu, je-li vyžadován). Dosavadní zajištěný věřitel Z má přednostní právo uzavřít smlouvu se sebou pouze tehdy, nenabídne-li horší podmínky než nejlepší nabídka (§ 41 odst. 2) — jde o právo dorovnání nejlepší nabídky, nikoli o automatickou prioritu. Sporné: srovnatelnost (cena, zajištění, splatnost) konkurujících nabídek.
+### Souvisící předpisy
 
-**5. Řešení.** Správce transparentně shromáždí a porovná nabídky, určí nejlepší z nich a umožní dosavadním zajištěným věřitelům ji dorovnat; dorovná-li věřitel Z, uzavře smlouvu s ním (§ 41 odst. 2), jinak s nejlepším nabízejícím. Smlouvy musí být za obvyklých obchodních podmínek (bez „extra ziskovosti") a účelově určené k udržení/obnovení provozu (§ 41 odst. 1). Procesní krok: dokumentovat výběr a srovnání nabídek a vyžádat souhlas věřitelského orgánu.
+- **Zákon č. 294/2013 Sb., čl. I bod 20, čl. II a čl. IV** — doplnění možnosti financovat obnovení provozu, přechodné ustanovení a účinnost novely.
 
-**6. Varianty.** (a) Jde o dodávky energií a surovin → přednostní právo dosavadních dodavatelů se uplatní obdobně (§ 41 odst. 2 in fine). (b) Financování poskytuje za moratoria nebo v reorganizaci sám dlužník s dispozičními oprávněními → je k uzavření smluv oprávněn (§ 42 odst. 3), režim § 41 platí obdobně. (c) Podmínky nejsou „obvyklé" (lichvářský úrok) → smlouva vybočuje z § 41 odst. 1 a hrozí odpovědnost správce za škodu (§ 37).
+### Z důvodové zprávy
 
-#### G. Protiargumenty a rizika
+Původní důvodová zpráva k §§ 41 a 42 uvádí, že úvěrové financování slouží k zajištění dalšího provozu dlužníkova podniku a zahrnuje i dodávky energií nezbytné k zachování provozu. Důvodová zpráva k bodu 20 zákona č. 294/2013 Sb. vysvětluje doplnění slova „obnovení“ potřebou odstranit pochybnosti při obnovení provozu, který dlužník fakticky přerušil nebo ukončil, zejména za účelem dosažení lepší prodejnosti podniku. Jde o legislativní vysvětlení, nikoli samostatné normativní pravidlo.
 
-- *Protiargument:* „Jako zajištěný věřitel máme automaticky právo financovat my." — Neutralizace: § 41 odst. 2 zakládá pouze právo dorovnat nejlepší nabídku; nepřijdou-li dosavadní věřitelé alespoň se stejně dobrými podmínkami, smlouva se uzavře s nejlepším nabízejícím.
-- *Protiargument:* „Správce nesmí zadlužovat podstatu novým úvěrem." — Neutralizace: § 41 odst. 1 výslovně opravňuje správce uzavřít úvěrové financování pro udržení/obnovení provozu; pohledávky z něj jsou pohledávkami za podstatou (§ 168 odst. 2 písm. g).
-- *Slabé místo:* posouzení „obvyklých obchodních podmínek" a srovnatelnosti nabídek je hodnotící; chybná volba může vést k námitkám věřitelů i k odpovědnosti správce za škodu (§ 37).
+### Literatura
 
-#### H. Praktický závěr
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto odložení není negativní literární rešerší.
 
-Správce (resp. dlužník s dispozičními oprávněními či za moratoria) může pro udržení nebo obnovení provozu uzavřít za obvyklých obchodních podmínek smlouvy o úvěrovém financování a o dodávkách energií a surovin (§ 41 odst. 1); dosavadním zajištěným věřitelům svědčí právo dorovnat nejlepší nabídku a uzavřít smlouvu se sebou (§ 41 odst. 2). Klíčem je transparentní výběr nabídek a doložení účelu.
+### Výklad
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Doložit, že financování slouží udržení/obnovení provozu podniku v majetkové podstatě (§ 41 odst. 1).
-- [ ] Sjednat smlouvy za obvyklých obchodních podmínek a získat souhlas věřitelského orgánu, je-li vyžadován.
-- [ ] Shromáždit a transparentně porovnat nabídky a umožnit dosavadním zajištěným věřitelům dorovnání (§ 41 odst. 2).
-- [ ] U dodávek energií a surovin respektovat přednostní právo dosavadních dodavatelů (§ 41 odst. 2 in fine).
+[1] **Účel a osoba uzavírající smlouvu.** Insolvenční správce smí použít § 41 jen k udržení nebo obnovení provozu podniku, který je součástí majetkové podstaty. Komentované ustanovení samo neupravuje obecné financování libovolné činnosti dlužníka. Další oprávněné osoby stanoví § 42 odst. 3.
 
-**Typicky rozhodné důkazy / podklady:** konkurující nabídky financování a jejich srovnání, doklad o účelu (reorganizační plán / provozní rozpočet), souhlas věřitelského orgánu, zástavní pozice dosavadních věřitelů.
+[2] **Smluvní okruh.** Zákon zahrnuje smlouvu o úvěru, smlouvy obdobné, dodávky energií a surovin i zajištění splnění těchto smluv. O zařazení smlouvy obdobné úvěru rozhoduje její konkrétní obsah, ekonomická funkce financování a vazba na zákonný účel; samotný typový název smlouvy nestačí.
+
+[3] **Obvyklé obchodní podmínky.** Obvyklost se posuzuje u celého smluvního balíčku v podmínkách srovnatelného účelu, objemu, času a rizika. Prakticky je třeba hodnotit zejména cenu a poplatky, splatnost a čerpání, zajištění, smluvní omezení, sankce a reálnou disponibilitu financování. Vyšší riziková cena sama o sobě neznamená, že podmínky nejsou obvyklé.
+
+[4] **Přednostní právo.** Dosavadní zajištění věřitelé mají přednost, nabídnou-li podmínky, které nejsou horší než nejlepší nabídka; stejné pravidlo se obdobně vztahuje na dosavadní dodavatele energií a surovin. Zákon nestanoví formalizované výběrové řízení ani samostatnou proceduru „dorovnání“. **Doporučení autora:** správce by měl nabídky porovnat transparentně a písemně v celém jejich ekonomickém balíčku, aby doložil odbornou péči a respektování přednostního práva.
+
+[5] **Souhlas věřitelského orgánu.** Věřitelský výbor uděluje insolvenčnímu správci nebo dlužníku s dispozičními oprávněními souhlas k uzavírání smluv o úvěrovém financování přímo podle § 58 odst. 2 písm. c); nejde o analogii s prodejem mimo dražbu. Vykonává-li působnost výboru podle § 66 insolvenční soud, musí být jeho úkon takto označen. U dlužníka v reorganizaci se navíc u úkonu zásadního významu uplatní § 330 odst. 2 a 3.
+
+[6] **Postavení pohledávky.** Pohledávka věřitele z úvěrového financování je podle § 168 odst. 1 písm. f) pohledávkou za majetkovou podstatou, pokud vznikla po zahájení insolvenčního řízení nebo po vyhlášení moratoria. Při nedostatku výtěžku v konkursu určuje její místo v zákonném pořadí § 305 odst. 2; označení za pohledávku za podstatou proto samo neznamená bezpodmínečné plné uspokojení.
+
+[7] **Historie a intertemporalita.** Zákon č. 294/2013 Sb. doplnil do § 41 odst. 1 slova „nebo obnovení“ s účinností od 1. 1. 2014. Podle čl. II se nové znění použije i na insolvenční řízení zahájená před tímto dnem, avšak právní účinky úkonů, které nastaly před účinností novely, zůstávají zachovány. U smlouvy či úkonu z doby před 1. 1. 2014 je proto nutné nejprve určit rozhodné znění a zachované právní účinky.
+
+### Praktický checklist
+
+- [ ] Ověřit, že financování skutečně slouží udržení nebo obnovení provozu podniku v majetkové podstatě.
+- [ ] Posoudit celý balíček obchodních podmínek se zohledněním účelu, objemu, času a rizika.
+- [ ] Získat před uzavřením smlouvy souhlas orgánu vykonávajícího působnost věřitelského výboru.
+- [ ] Zjistit dosavadní zajištěné věřitele a dotčené dosavadní dodavatele; jejich nabídky porovnat s nejlepší nabídkou.
+- [ ] Zachytit nabídky, jejich porovnání, souhlas a účel financování ve spise správce.
+- [ ] U starších případů provést intertemporální kontrolu k 1. 1. 2014.
+
+### Judikatura
+
+- **NS, rozsudek ze dne 27. 3. 2018, sen. zn. 29 ICdo 17/2016, ECLI:CZ:NS:2018:29.ICDO.17.2016.1, R 56/2019** — v incidenčním sporu o neúčinnost plateb za zámečnické, stěhovací, úklidové, bezpečnostní a IT služby poskytnuté při rušení dílčích provozoven uzavřel, že pouhé poskytnutí služeb bez požadavku na okamžité zaplacení nezakládá pohledávku z úvěrového financování. Nosný závěr je v pasáži od citace § 168 po posouzení námitek k § 41, zejména v odstavci začínajícím „V poměrech projednávané věci“. Soud posuzoval platby z roku 2013 podle znění účinného do 31. 12. 2013; závěr o nutnosti podřadit plnění pod smluvní kategorie § 41 odst. 1 je použitelný i při nezměněném jádru dnešního znění.
 
 ### § 42
 

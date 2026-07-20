@@ -790,70 +790,64 @@ V tomto kole není citováno rozhodnutí, které by bylo použito jako nosný pr
 
 ## § 34 — Oddělený insolvenční správce
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Je-li insolvenční správce vyloučen z některých úkonů pro svůj poměr jen k některému z dlužníkových věřitelů nebo jen k některému ze zástupců dlužníkových věřitelů a není-li se zřetelem k charakteru pohledávky dlužníkova věřitele a jeho postavení v insolvenčním řízení důvod pochybovat, že tento vztah ovlivní celkový způsob výkonu práv a povinností insolvenčního správce, může insolvenční soud ustanovit pro tyto úkony odděleného insolvenčního správce.
 > (2) Je-li insolvenční správce vyloučen z některých úkonů proto, že mohou odporovat společnému zájmu věřitelů v insolvenčním řízení, ve kterém byl rovněž ustanoven insolvenčním správcem, ustanoví insolvenční soud pro tyto úkony odděleného insolvenčního správce vždy.
 > (3) Byl-li insolvenční správce odvolán postupem podle § 29 z funkce, insolvenční soud jej s jeho souhlasem ustanoví odděleným insolvenčním správcem k přezkumu pohledávky, kterou před svým odvoláním popřel, a k vedení s tím souvisejících incidenčních sporů a uplatňování majetkových práv vůči věřiteli, který hlasoval pro jeho odvolání z funkce, nestanoví-li insolvenční soud jinak.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *NS* [29 NSCR 107/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3A50021C9A79F814C1257D330034D963?openDocument) — kat. A, 30. 6. 2014
-  > „Mezi skutečnosti, které se zřetelem k charakteru pohledávky dlužníkova věřitele a k jeho postavení v insolvenčním řízení zakládají důvod pochybovat, že tento vztah neovlivní celkový způsob výkonu práv a povinností insolvenčního správce (a které proto nedovolují řešit možnou podjatost insolvenčního správce pouhým ustanovením odděleného insolvenčního správce), typově patří skutečnost, že pohledávka je takového rozsahu, že věřitel má rozhodující vliv na průběh insolvenčního řízení, jakož i skutečnost, že stejný věřitel vede (byť v jiném procesním postavení) další spory, jež se významně týkají majetkové podstaty dlužníka… K takovým pochybnostem může vést i souhrn více skutečností, vztahujících se k charakteru pohledávky dlužníkova věřitele a k jeho postavení v insolvenčním řízení, byť by samy o sobě (při izolovaném posouzení) nebyly způsobilé ovlivnit celkový způsob výkonu práv a povinností insolvenčního správce"
+§ 34 zachovává správce ve funkci, ale vyčleňuje z jeho působnosti přesně určené úkony. Odstavec 1 dává soudu možnost ustanovit odděleného správce při vztahu jen k některému věřiteli nebo jeho zástupci, pokud tento vztah nevyvolává pochybnost o celkovém výkonu funkce. Odstavec 2 ustanovení odděleného správce přikazuje, jsou-li dotčené úkony ve střetu se společným zájmem věřitelů v jiném řízení, v němž působí tentýž správce. Odstavec 3 upravuje zvláštní mandát správce odvolaného podle § 29; vyžaduje jeho souhlas a připouští, aby insolvenční soud stanovil jinak.
+
+### Souvisící ustanovení
+
+- **§ 24** — obecný test vyloučení správce a výjimka pro případ podle § 34.
+- **§ 29** — odvolání správce a ustanovení nového správce schůzí věřitelů.
+- **§ 31 odst. 1 a 5** — odvolání správce z důležitých důvodů a současné ustanovení nového správce.
+- **§ 35 odst. 2** — obdobné použití ustanovení o správci na ustanovení, odměňování a zprošťování odděleného správce.
+- **§ 36 odst. 1** — povinnost správce upřednostnit společný zájem věřitelů.
+- **§ 159 odst. 1, § 198 až 201** — incidenční spory a následky popření pohledávky.
+
+### Souvisící předpisy
+
+- **Zákon č. 64/2017 Sb.**, čl. I bod 12 — doplnění § 34 odst. 3; čl. II bod 1 — použití nové úpravy i na dříve zahájená insolvenční řízení při zachování právních účinků úkonů nastalých před 1. 7. 2017.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva ke sněmovnímu tisku 1120/0, zvláštní část K § 34, představuje odděleného správce jako nový institut navazující na úpravu nepodjatosti v § 24 pro případy, kdy je správce vyloučen pouze z některých a nepočetných úkonů. Vládní návrh novely ve sněmovním tisku 785/0 obsahoval doplnění nynějšího odstavce 3; samostatné zvláštní odůvodnění tohoto bodu však tisk neobsahuje, a proto mu nelze připisovat další účel nad rámec přijatého textu.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento oddíl nepředstavuje negativní rešerši literatury.
 
 ### Výklad
 
-**Oddělený správce** — řešení **dílčí podjatosti** správce. Mechanismus:
-- správce vykonává funkci v celém řízení,
-- ale pro **specifické úkony** (vůči konkrétnímu věřiteli, ohledně konkrétní transakce, v souběžných insolvencích spřízněných osob) je vyloučen,
-- pro tyto úkony soud ustanoví odděleného správce.
+[1] **Funkce odděleného správce.** Institut neznamená rozdělení celé správy mezi rovnocenné správce. Rozhodnutí soudu vymezuje úkony, z nichž je ustanovený správce vyloučen a pro něž jedná oddělený správce; v ostatním zůstává působnost ustanoveného správce zachována.
 
-#### Tři typové situace
+[2] **Odstavec 1 a mez § 24.** Poměr jen k některému věřiteli nebo jeho zástupci lze řešit odděleným správcem, pouze není-li vzhledem k charakteru pohledávky a postavení věřitele důvod pochybovat o celkovém způsobu výkonu funkce. Nejvyšší soud v 29 NSČR 107/2013 mezi typově významné okolnosti zařadil rozhodující vliv věřitele plynoucí z rozsahu pohledávky, významné další spory týkající se majetkové podstaty a jejich souhrn. Rozhodnutí nestanoví obecný procentní práh.
 
-**Odst. 1 — vztah k jednomu věřiteli.** Příklad: správce má drobnou pohledávku za jedním z věřitelů (čerstvě převedenou ze starého případu). Soud zhodnotí, zda **celkový výkon funkce** tím není ohrožen — pokud ne, ustanoví odděleného správce jen pro úkony vůči onomu věřiteli (např. přezkum jeho pohledávky, hlasování o jeho přihlášce).
+[3] **Rozsah působnosti podle odstavce 1.** Již pravomocně určený rozsah úkonů odděleného správce lze následně rozšířit; podle 29 NSČR 107/2013 je rozhodné, zda všechny původní i nově přidané úkony stále splňují meze § 34. Je-li věřitel současně dlužníkovým dlužníkem, přihlíží se i k charakteru vzájemné pohledávky a případně k postavení osob v obou insolvenčních řízeních.
 
-**Odst. 2 — souběžné insolvence.** Pokud správce vede více řízení a v jednom z nich má dlužník postavení věřitele druhého dlužníka, vzniká *strukturální střet*. *Obligatorní* ustanovení odděleného správce — soud nemá diskreci.
+[4] **Odstavec 2.** Je-li správce vyloučen z některých úkonů, protože mohou odporovat společnému zájmu věřitelů v jiném insolvenčním řízení, v němž byl rovněž ustanoven, soud odděleného správce ustanoví vždy. Na rozdíl od odstavce 1 zde zákon soudu nedává volbu, zda institut použije.
 
-**Odst. 3 — popírací spor po odvolání.** Speciální scénář: správce v rámci řízení popřel přihlášenou pohledávku věřitele. Tento věřitel pak na schůzi věřitelů hlasoval pro odvolání správce (typický odvetný úkon). Soud pak může původního správce ustanovit jako *odděleného* správce **pro vedení incidenčního sporu o popřenou pohledávku** (s jeho souhlasem). Smysl — kontinuita a odbornost správce, který spor inicioval, nemá být přerušena věřitelovou „pomstou".
+[5] **Odstavec 3.** Po odvolání správce postupem podle § 29 jej soud s jeho souhlasem ustanoví odděleným správcem v zákonem vymezeném rozsahu: k přezkumu jím popřené pohledávky, souvisejícím incidenčním sporům a uplatňování majetkových práv vůči věřiteli, který hlasoval pro jeho odvolání. Závěrečná výhrada „nestanoví-li insolvenční soud jinak“ brání formulovat výsledek jako bezvýjimečný; stejně tak nelze zákonné „ustanoví“ nahrazovat pouhou možností soudu.
 
-### Vazby
+[6] **Postavení a standard výkonu.** Pro ustanovení, odměňování a zprošťování odděleného správce se podle § 35 odst. 2 obdobně použijí ustanovení o insolvenčním správci. Také oddělený správce je při svěřených úkonech vázán standardem § 36 odst. 1, včetně přednosti společného zájmu věřitelů.
 
-- **§ 24** — vyloučení správce z celého řízení (kontrast).
-- **§ 198** — popírací spor.
-- **§ 29** — odvolání správce schůzí věřitelů.
+[7] **Intertemporální dosah.** Odstavce 1 a 2 pocházejí z původního zákona. Odstavec 3 doplnil zákon č. 64/2017 Sb. s účinností od 1. 7. 2017; podle jeho čl. II bodu 1 se nové znění použilo i na dříve zahájená řízení, avšak účinky úkonů nastalé před účinností zůstaly zachovány. Usnesení 29 NSČR 107/2013 posuzovalo § 24 a § 34 ve znění účinném do 31. 12. 2013. Je použitelné pro nezměněné normativní jádro odstavců 1 a 2, nikoli jako autorita k později doplněnému odstavci 3.
 
-### F. Kazuistika
+### Judikatura
 
-**1. Modelová situace.** Insolvenční správce v konkursu popřel přihlášenou pohledávku věřitele V ve výši 8 mil. Kč. Věřitel V poté na schůzi věřitelů prosadil odvolání správce z funkce (§ 29) — fakticky jako odvetu. Soud má rozhodnout, kdo povede incidenční spor o popřenou pohledávku V a zda lze tímto úkonem pověřit původního (nyní odvolaného) správce. Důkazy: protokol o přezkumném jednání a popření, zápis ze schůze o odvolání, souhlas odvolaného správce s ustanovením odděleným správcem.
+- **Usnesení Nejvyššího soudu ze dne 30. 6. 2014, sen. zn. 29 NSČR 107/2013, ECLI:CZ:NS:2014:29.NSCR.107.2013.1, R 114/2014.** V konkursu byly správkyně dvou propojených řízení ve vzájemném vztahu; dotčená sporná pohledávka tvořila téměř polovinu přihlášených pohledávek a probíhaly další významné spory. Nejvyšší soud připustil změnu rozsahu působnosti odděleného správce, jen pokud souhrn svěřených úkonů zůstane v mezích § 34. V daném skutkovém souhrnu již tyto meze překročeny byly, takže bylo namístě odvolání správkyně a ustanovení nové podle § 31, nikoli další rozšiřování působnosti odděleného správce. [Plný text Nejvyššího soudu](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3A50021C9A79F814C1257D330034D963?openDocument&Highlight=0).
 
-**2. Právní otázka.** Lze správce odvolaného postupem podle § 29 ustanovit odděleným insolvenčním správcem k přezkumu jím popřené pohledávky a k vedení souvisejících incidenčních sporů vůči věřiteli, který hlasoval pro jeho odvolání (§ 34 odst. 3), a kdy je naopak nutné/možné použít odst. 1 či odst. 2?
+**Praktický checklist:**
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 34 odst. 1 (oddělený správce při dílčí podjatosti k jednomu věřiteli — fakultativně, není-li ohrožen celkový výkon funkce), odst. 2 (obligatorní oddělený správce při rozporu se společným zájmem věřitelů v jiném řízení), odst. 3 (odvolaný správce jako oddělený pro popírací spor s jeho souhlasem).
-- *Související ustanovení téhož zákona:* § 24 (vyloučení z celého řízení — kontrast s dílčí podjatostí), § 198 (popírací incidenční spor), § 29 (odvolání správce schůzí věřitelů).
-- *Související předpisy:* —
-- *Judikatura:* NS 29 NSČR 107/2013 (citováno výše) — souhrn skutečností (rozsah pohledávky, souběžné spory) může bránit řešení pouhým odděleným správcem a vést k vyloučení dle § 24.
-
-**4. Subsumpce.** Odvolání správce věřitelem, jehož pohledávku správce popřel, je typovým scénářem § 34 odst. 3 → soud může (s jeho souhlasem) původního správce ustanovit odděleným správcem pro tento popírací spor, nestanoví-li jinak. Naopak odst. 1 dopadá na situaci, kdy nejde o odvolání, ale o pouhý dílčí vztah k jednomu věřiteli neohrožující celkový výkon funkce; odst. 2 na obligatorní rozpor se společným zájmem věřitelů v jiném řízení. Sporné: zda intenzita vztahu nepřekračuje dílčí podjatost (pak by šlo o § 24, srov. NS 29 NSČR 107/2013).
-
-**5. Řešení.** Soud (se souhlasem správce) využije § 34 odst. 3 a pověří původního správce vedením incidenčního sporu o popřenou pohledávku V; smyslem je kontinuita a odbornost správce, který spor inicioval, nepřerušená věřitelovou „pomstou". Pro běžný chod řízení jedná nový správce; pro popírací spor oddělený (původní) správce. Procesní krok: vymezit v rozhodnutí rozsah úkonů svěřených oddělenému správci.
-
-**6. Varianty.** (a) Správce by měl jen drobnou pohledávku za jedním z věřitelů bez vlivu na celek → fakultativní oddělený správce dle § 34 odst. 1 jen pro úkony vůči tomuto věřiteli. (b) Tentýž věřitel by měl rozhodující vliv a vedl další spory o podstatu → namístě je vyloučení z celého řízení (§ 24), nikoli oddělený správce (NS 29 NSČR 107/2013).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Odvolaný správce už nemá s řízením nic společného, nemůže vést spor." — Neutralizace: § 34 odst. 3 výslovně umožňuje jeho ustanovení odděleným správcem pro popírací spor; účelem je zamezit obstrukci věřitele, jenž správce odvolal.
-- *Protiargument:* „Stačí oddělený správce i tam, kde má věřitel dominantní vliv." — Neutralizace: dle NS 29 NSČR 107/2013 silný vliv věřitele a souběžné spory vylučují řešení odděleným správcem a vedou k vyloučení dle § 24.
-- *Slabé místo:* hranice mezi dílčí podjatostí (§ 34) a podjatostí vylučující z celého řízení (§ 24) je skutkově citlivá; nesprávné zařazení zakládá vadu a riziko zpochybnosti o nestrannosti.
-
-### H. Praktický závěr
-
-Oddělený správce řeší dílčí podjatost: fakultativně u vztahu k jednomu věřiteli (odst. 1), obligatorně při rozporu se společným zájmem věřitelů v jiném řízení (odst. 2) a specificky u popíracího sporu odvolaného správce (odst. 3). Silný vliv věřitele však namísto odděleného správce vede k vyloučení dle § 24.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Rozlišit dílčí podjatost (§ 34) od podjatosti vylučující z celého řízení (§ 24) podle vlivu věřitele a souběžných sporů.
-- [ ] U odst. 2 pamatovat na obligatorní ustanovení odděleného správce (bez uvážení soudu).
-- [ ] U odst. 3 zajistit souhlas odvolaného správce a vymezit rozsah svěřených úkonů (popírací spor).
-
-**Typicky rozhodné důkazy / podklady:** protokol o přezkumném jednání a popření pohledávky, zápis ze schůze o odvolání správce, doklady o vztahu správce k věřiteli a o jeho vlivu, souhlas správce s ustanovením odděleným správcem.
+- [ ] Přesně vymezit úkony odděleného správce a ověřit, zda jejich souhrn nepřekračuje mez § 34 odst. 1.
+- [ ] U odstavce 2 ověřit působení téhož správce v obou řízeních a možný rozpor se společným zájmem věřitelů.
+- [ ] U odstavce 3 doložit popření pohledávky před odvoláním, hlas dotčeného věřitele, souhlas odvolaného správce a obsah případného jiného stanovení soudu.
 
 ---
 

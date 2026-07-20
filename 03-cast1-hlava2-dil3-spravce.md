@@ -1366,74 +1366,71 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto odl
 
 - **NS, rozsudek ze dne 27. 3. 2018, sen. zn. 29 ICdo 17/2016, ECLI:CZ:NS:2018:29.ICDO.17.2016.1, R 56/2019** — v incidenčním sporu o neúčinnost plateb za zámečnické, stěhovací, úklidové, bezpečnostní a IT služby poskytnuté při rušení dílčích provozoven uzavřel, že pouhé poskytnutí služeb bez požadavku na okamžité zaplacení nezakládá pohledávku z úvěrového financování. Nosný závěr je v pasáži od citace § 168 po posouzení námitek k § 41, zejména v odstavci začínajícím „V poměrech projednávané věci“. Soud posuzoval platby z roku 2013 podle znění účinného do 31. 12. 2013; závěr o nutnosti podřadit plnění pod smluvní kategorie § 41 odst. 1 je použitelný i při nezměněném jádru dnešního znění.
 
-### § 42
+## § 42 — Úvěrové financování
+
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
 
 > (1) Majetek získaný z prostředků poskytnutých v rámci úvěrového financování není předmětem zajištění podle dříve uzavřených smluv.
+>
 > (2) Prostředky získané z úvěrového financování lze použít jen k účelu uvedenému ve smlouvách o úvěrovém financování.
+>
 > (3) K uzavření smluv o úvěrovém financování je oprávněn také dlužník s dispozičními oprávněními nebo dlužník po dobu trvání moratoria.
+
+### Přehled výkladu
+
+§ 42 upravuje tři následky úvěrového financování vymezeného v § 41: vylučuje dosah dříve smluveného zajištění na majetek získaný z poskytnutých prostředků, váže použití prostředků na smluvní účel a rozšiřuje okruh osob oprávněných smlouvu uzavřít. Odstavec 1 sám nezřizuje novému věřiteli zajištění ani mu nevyhrazuje majetek nebo jeho výtěžek.
+
+### Souvisící ustanovení
+
+- **§ 41 odst. 1 a 2** — vymezení úvěrového financování a přednostní právo tam uvedených dosavadních věřitelů a dodavatelů.
+- **§ 58 odst. 2 písm. c) a § 66** — souhlas věřitelského výboru a výkon jeho působnosti, není-li výbor ustaven.
+- **§ 124 odst. 2 a § 125** — dispoziční oprávnění dlužníka a omezení některých jednání za moratoria.
+- **§ 168 odst. 1 písm. f) a § 305 odst. 2** — kvalifikace pohledávky z úvěrového financování a pořadí jejího uspokojení při nedostatku výtěžku.
+- **§ 330 odst. 2 a 3** — právní jednání zásadního významu a souhlas věřitelského výboru při reorganizaci.
+
+### Souvisící předpisy
+
+- **Zákon č. 294/2013 Sb., čl. I bod 20, čl. II a čl. IV** — od 1. 1. 2014 rozšířil účel v § 41 odst. 1 také na obnovení provozu a stanovil přechodný režim; text § 42 nezměnil.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva k vládnímu návrhu insolvenčního zákona (sněmovní tisk 1120/0, zvláštní část „K § 41 a 42“, číslovaná s. 168, PDF s. 169) uvádí, že § 41 upravuje postup správce při úvěrovém financování sloužícím k zajištění dalšího provozu dlužníkova podniku a zahrnuje i smlouvy o dodávkách energií nezbytných k zachování provozu. Samostatné vysvětlení jednotlivých odstavců § 42 tato pasáž neobsahuje.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola; tato poznámka není výsledkem negativní literární rešerše.
 
 ### Výklad
 
-**Úvěrové financování (DIP financing — Debtor-In-Possession)** je *anglosaský institut*, převzatý do IZ pro zachování provozu podniku během řízení. Smysl: aby podnik mohl pokračovat (zejména v reorganizaci nebo „going concern" konkursu), potřebuje *pracovní kapitál* (energie, suroviny, mzdy). Bez nového financování by se zastavil — *cyklický kolaps*.
+[1] **Vztah k § 41.** Komentované ustanovení navazuje na smlouvy spadající pod zákonné vymezení úvěrového financování v § 41. Samo nerozšiřuje jejich typy ani podmínky uzavření. Při aplikaci § 42 je proto nejprve nutné ověřit, zda jde skutečně o úvěrové financování podle § 41.
 
-#### Pravidla:
+[2] **Dřívější zajištění.** Odstavec 1 stanoví negativní zákonný následek: majetek získaný z prostředků poskytnutých v rámci úvěrového financování není předmětem zajištění podle smluv uzavřených dříve. Rozhodné je tedy doložit původ prostředků, vazbu mezi prostředky a nabytým majetkem a časové pořadí zajišťovací smlouvy a financování.
 
-**§ 41 odst. 1 — typy smluv**: úvěr a smlouvy obdobné (factoring, leasing), dodávky energií a surovin, zajišťovací smlouvy. *Obvyklé obchodní podmínky* — bez „extra ziskovosti" pro poskytovatele.
+[3] **Co odstavec 1 nezpůsobuje.** Vyloučení dřívějšího smluvního zajištění neznamená, že majetek přestává náležet do majetkové podstaty, že automaticky vzniká nové zajištění nebo že je výtěžek vyhrazen poskytovateli financování. § 42 odst. 1 sám není titulem vzniku nového věcného zajištění; jeho vznik je třeba doložit z jiného právního titulu. Bez nového zajištění má věřitel pouze postavení odpovídající jeho pohledávce; pohledávka z úvěrového financování je podle § 168 odst. 1 písm. f) pohledávkou za majetkovou podstatou, vznikla-li po zahájení insolvenčního řízení nebo po vyhlášení moratoria. Při nedostatku výtěžku se uplatní pořadí podle § 305 odst. 2.
 
-**§ 41 odst. 2 — přednostní právo zajištěných věřitelů**: pokud dosavadní zajištění věřitelé nabídnou *podmínky alespoň stejně dobré jako nejlepší nabídka*, mají *přednostní právo* uzavřít smlouvu. Smysl — zachovat ekonomickou pozici stávajících financujících věřitelů.
+[4] **Účelová vázanost.** Odstavec 2 zakazuje použít získané prostředky k jinému než smluvně uvedenému účelu. § 42 sám nestanoví automatické právo smlouvu vypovědět. Smluvní následky je nutné určit podle konkrétní smlouvy a použitelného obecného práva. Odpovědnost insolvenčního správce se posuzuje zejména podle § 37; jedná-li dlužník, nelze § 37 bez dalšího použít jako jeho odpovědnostní titul.
 
-**§ 42 odst. 1 — *anti-stacking* zajištění**: majetek pořízený z úvěrového financování *nepřechází* do existujícího zajištění starých věřitelů. Důvod — nový věřitel musí mít *prioritu* na to, co sám financoval.
+[5] **Oprávněná osoba.** Vedle insolvenčního správce, jehož oprávnění plyne z § 41 odst. 1, může smlouvu podle odstavce 3 uzavřít dlužník s dispozičními oprávněními nebo dlužník po dobu moratoria. Označení celého institutu jako financování dlužníka ponechaného ve správě by proto bylo nepřesné: zákon počítá i s jednáním insolvenčního správce.
 
-**§ 42 odst. 2 — vázanost účelem**: prostředky lze použít *jen* na sjednaný účel. Porušení by mohlo vést k vypovězení smlouvy a k odpovědnosti správce za škodu.
+[6] **Souhlas věřitelského orgánu.** Podle § 58 odst. 2 písm. c) uděluje věřitelský výbor insolvenčnímu správci nebo dlužníku s dispozičními oprávněními souhlas k uzavírání smluv o úvěrovém financování. Není-li výbor ustaven, je třeba určit osobu nebo orgán vykonávající jeho působnost podle § 66; v reorganizaci je nutné současně zohlednit § 330 odst. 2 a 3.
 
-**§ 42 odst. 3 — okruh oprávněných**: kromě správce též *dlužník s dispozičními oprávněními* (typicky v reorganizaci — § 330) a *dlužník během moratoria* (§ 124).
+[7] **Intertemporalita.** § 42 měl všechny tři nynější odstavce již ve vyhlášeném znění zákona č. 182/2006 Sb. Zákon č. 294/2013 Sb. jej nezměnil, ale od 1. 1. 2014 rozšířil v § 41 odst. 1 účel financování z udržení také na obnovení provozu. Podle čl. II novely se nové znění použilo i v dříve zahájených řízeních, zatímco právní účinky úkonů nastalé před účinností zůstaly zachovány.
 
-### Vazby
+### Judikatura
 
-- **§ 168 odst. 2 písm. g)** — pohledávky z úvěrového financování jako pohledávky za podstatou.
-- **§ 124** — moratorium.
-- **§ 316** — reorganizace.
-- **§ 330** — dlužník s dispozičními oprávněními.
+- **NS, rozsudek ze dne 27. 3. 2018, sen. zn. 29 ICdo 17/2016, ECLI:CZ:NS:2018:29.ICDO.17.2016.1, R 56/2019** — v incidenčním sporu o neúčinnost plateb za služby poskytnuté při ukončování provozu některých provozoven vyložil hranici úvěrového financování podle § 41 odst. 1: pouhé poskytnutí služby bez požadavku na okamžité zaplacení pohledávku z úvěrového financování nezakládá. Rozhodnutí posuzovalo poměry roku 2013 podle znění účinného do 31. 12. 2013 a nevykládalo jednotlivé následky § 42; je významné jen pro předběžnou kvalifikaci, zda lze § 42 vůbec použít.
 
-### Praktická poznámka
+Při revizi nebylo do tohoto vydání zařazeno rozhodnutí, jehož nosný závěr by přímo vykládal některý z odstavců § 42. Toto redakční vymezení není tvrzením, že taková judikatura neexistuje.
 
-V ČR je úvěrové financování v insolvenci stále poměrně **vzácné** — banky se zdráhají poskytovat „čerstvé peníze" do insolventních dlužníků, byť mají statut pohledávky za podstatou (vyšší priorita než přihlášené pohledávky). Typicky se používá při reorganizacích větších výrobních podniků, kde je *going concern* mnohonásobně výhodnější než likvidace.
+### Praktický checklist
 
-### F. Kazuistika
-
-**1. Modelová situace.** V reorganizaci výrobního podniku potřebuje správce (resp. dlužník s dispozičními oprávněními) zachovat provoz: pořídit suroviny a zajistit pracovní kapitál. Banka B nabídne úvěrové financování zajištěné nově pořízenými zásobami. Dosavadní zajištěný věřitel Z, který má zástavní právo k veškerým „současným i budoucím" zásobám, namítá, že nové zásoby spadají pod jeho zajištění, a dále se domáhá přednostního práva uzavřít financování sám. Důkazy: reorganizační plán, nabídka banky B a věřitele Z, zástavní smlouva věřitele Z, doklad o účelovém určení prostředků.
-
-**2. Právní otázka.** Spadá majetek pořízený z úvěrového financování pod dříve zřízené zajištění (§ 42 odst. 1) a za jakých podmínek mají dosavadní zajištění věřitelé přednostní právo uzavřít smlouvy o úvěrovém financování (§ 41 odst. 2)?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 41 odst. 1 (uzavírání smluv o úvěru/dodávkách za obvyklých podmínek pro udržení/obnovení provozu), odst. 2 (přednostní právo dosavadních zajištěných věřitelů, nenabídnou-li horší podmínky než nejlepší nabídka); § 42 odst. 1 (anti-stacking — majetek z financování není předmětem dřívějšího zajištění), odst. 2 (vázanost účelem), odst. 3 (okruh oprávněných — i dlužník s dispozičními oprávněními a za moratoria).
-- *Související ustanovení téhož zákona:* § 168 odst. 2 písm. g) (pohledávky z úvěrového financování jako pohledávky za podstatou), § 124 (moratorium), § 316 (reorganizace), § 330 (dlužník s dispozičními oprávněními).
-- *Související předpisy:* § 1309 a násl. OZ (zástavní právo — systémově k rozsahu zajištění).
-- *Judikatura:* institut je v praxi vzácný; nosné publikované rozhodnutí k § 41–42 není v komentáři citováno — vychází se ze znění a účelu (DIP financing).
-
-**4. Subsumpce.** Nové zásoby byly pořízeny z prostředků úvěrového financování → dle § 42 odst. 1 nejsou předmětem dřívějšího zajištění věřitele Z, byť jeho zástavní smlouva pokrývá „budoucí" zásoby (anti-stacking má přednost, jinak by nové financování nebylo možné). Věřitel Z má přednostní právo uzavřít financování sám pouze tehdy, nenabídne-li horší podmínky než nejlepší nabídka (§ 41 odst. 2). Prostředky lze použít jen k účelu dle smluv (§ 42 odst. 2). Sporné: srovnatelnost nabídek Z a banky B.
-
-**5. Řešení.** Financování od banky B je přípustné; nové zásoby jsou vyhrazeny novému věřiteli (§ 42 odst. 1) a pohledávka B má status pohledávky za podstatou (§ 168 odst. 2 písm. g). Věřiteli Z svědčí přednostní právo, jen pokud dorovná nejlepší nabídku; jinak se uzavře smlouva s B. Prostředky musí být použity účelově (§ 42 odst. 2). Procesní krok: transparentně porovnat nabídky a umožnit Z dorovnání.
-
-**6. Varianty.** (a) Věřitel Z nabídne podmínky alespoň stejně dobré jako B → uplatní přednostní právo a financování uzavře sám (§ 41 odst. 2). (b) Prostředky by správce/dlužník použil na jiný účel (např. mimořádné platby spřízněným osobám) → porušení § 42 odst. 2 s rizikem vypovězení smlouvy a odpovědnosti správce za škodu (§ 37).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Nové zásoby spadají pod naše ‚budoucí' zajištění." — Neutralizace: § 42 odst. 1 výslovně vylučuje majetek pořízený z financování z dřívějšího zajištění; jinak by nový věřitel neměl prioritu a financování by nevzniklo.
-- *Protiargument:* „Jako zajištěný věřitel máme automaticky právo financovat my." — Neutralizace: přednostní právo dle § 41 odst. 2 je podmíněno tím, že nenabídnete horší podmínky než nejlepší nabídka; jde o právo dorovnání, nikoli o automatickou prioritu.
-- *Slabé místo:* institut je v ČR vzácný a judikaturně málo ukotvený; banky se zdráhají poskytovat „čerstvé peníze", takže reálná dostupnost financování a srovnatelnost nabídek bývají sporné.
-
-### H. Praktický závěr
-
-Úvěrové financování (DIP) umožňuje udržet provoz podniku v podstatě; majetek z něj pořízený nepodléhá dřívějšímu zajištění (§ 42 odst. 1), prostředky jsou vázány účelem (§ 42 odst. 2) a dosavadní zajištění věřitelé mají právo dorovnat nejlepší nabídku (§ 41 odst. 2). Pohledávky z financování jsou pohledávkami za podstatou.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Sjednat financování za obvyklých obchodních podmínek a doložit jeho účelnost pro udržení/obnovení provozu.
-- [ ] Umožnit dosavadním zajištěným věřitelům dorovnání nejlepší nabídky (§ 41 odst. 2).
-- [ ] Zajistit účelové použití prostředků (§ 42 odst. 2) a status pohledávky za podstatou (§ 168 odst. 2 písm. g).
-- [ ] Ověřit okruh oprávněných (správce / dlužník s dispozičními oprávněními / dlužník za moratoria).
-
-**Typicky rozhodné důkazy / podklady:** reorganizační plán, srovnatelné nabídky financování, zástavní smlouvy dosavadních věřitelů, smlouva o úvěrovém financování s vymezením účelu.
+- [ ] Ověřit, že smlouva spadá pod § 41, a identifikovat osobu s dispozičním oprávněním.
+- [ ] Před uzavřením smlouvy doložit souhlas orgánu vykonávajícího působnost věřitelského výboru.
+- [ ] Zachytit tok prostředků k nabytému majetku a data dřívějších i nových zajišťovacích smluv.
+- [ ] Oddělit zákonné vyloučení starého zajištění od vzniku případného nového zajištění.
+- [ ] Kontrolovat použití prostředků podle smluvně vymezeného účelu.
 
 ---
 

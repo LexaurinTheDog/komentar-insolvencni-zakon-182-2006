@@ -919,7 +919,9 @@ V rámci revize primárních pramenů nebylo nalezeno rozhodnutí vrcholného so
 
 ## § 36 — Povinnosti insolvenčního správce
 
-Klíčový **„povinnostní"** paragraf. Vymezuje obecný standard činnosti a konkrétní povinnosti zpráv.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
 
 > (1) Insolvenční správce je povinen při výkonu funkce postupovat svědomitě a s odbornou péčí; je povinen vyvinout veškeré úsilí, které lze po něm spravedlivě požadovat, aby věřitelé byli uspokojeni v co nejvyšší míře. Společnému zájmu věřitelů je povinen dát při výkonu funkce přednost před zájmy vlastními i před zájmy jiných osob.
 >
@@ -935,96 +937,54 @@ Klíčový **„povinnostní"** paragraf. Vymezuje obecný standard činnosti a 
 >
 > (7) Obsah požadavků na plnění povinností insolvenčního správce podle odstavců 1 a 2, § 31 odst. 6, § 136 odst. 6, § 246 odst. 1, § 313 odst. 2, § 371, § 373 odst. 2, § 383 odst. 1, § 385 odst. 2 a § 430a odst. 1 stanoví prováděcí právní předpis.
 
-### Standard činnosti — odst. 1
+### Přehled výkladu
 
-**Obecný standard:**
-- *svědomitost* — etický rozměr (čestnost, spolehlivost, transparentnost),
-- *odborná péče* — *bonus pater familias* + profesní standard (správce je profesionál, posuzuje se podle standardů profesního stavu),
-- *maximální úsilí pro uspokojení věřitelů* — výkonový standard.
+§ 36 spojuje obecný standard výkonu funkce s konkrétními informačními, evidenčními a oznamovacími povinnostmi. Odstavec 1 chrání společný zájem věřitelů; odstavce 2 až 4 upravují součinnost a zprávy, odstavec 5 oddělené vedení majetku na účtu, odstavec 6 zvláštní komunikaci při výkonu trestu nebo zabezpečovací detence a odstavec 7 zmocnění k provedení zákona.
 
-**Hierarchie zájmů:**
-1. Společný zájem věřitelů (§ 2 písm. j) — **vždy přednost**,
-2. zájmy vlastní — *podřazeny*,
-3. zájmy jiných osob (dlužníka, individuálních věřitelů) — *podřazeny*.
+### Souvisící ustanovení
 
-> Toto je **fiduciární standard** — správce je *trustee*, nikoli *agent* dlužníka ani věřitele.
+- § 2 písm. j) — společný zájem věřitelů.
+- § 11 — dohlédací činnost soudu, včetně vyžadování zpráv a vysvětlení a nahlížení do účtů.
+- § 32 — zproštění správce funkce pro neplnění povinností nebo nedostatek odborné péče.
+- § 37 — odpovědnost správce za škodu nebo jinou újmu.
+- § 38 odst. 3 a 6 — snížení odměny a záloha na zvláštním účtu.
+- § 81 — pořádková pokuta.
+- § 407 odst. 3, § 412a, § 412b, § 414 a § 418 — změna schváleného oddlužení, jeho průběh, osvobození a zrušení.
 
-### Reporting (odst. 2 — 4)
+### Souvisící předpisy
 
-**Pravidelné zprávy** — minimálně **každé 3 měsíce** (soud může prodloužit max. na 12 měsíců). Zpráva obsahuje:
-- stav řízení,
-- stav majetkové podstaty,
-- soupis pohledávek za podstatou a postavených na roveň,
-- aktuální seznam přihlášek a jejich stav,
-- popis úkonů od minulé zprávy.
+- Zákon č. 294/2013 Sb., čl. I bod 13, čl. II a čl. IV — změna periodicity zpráv s účinností od 1. 1. 2014 a přechodné pravidlo.
+- Zákon č. 252/2024 Sb. — od 1. 10. 2024 komplexně změnil pravidla zpráv v oddlužení; na dříve zahájená řízení je nutné použít jeho přechodná ustanovení.
 
-**Speciální oddlužení (odst. 3):**
-- *neprodlené hlášení* v případě podmínek pro prodloužení (§ 412b odst. 6), zrušení oddlužení (§ 418) nebo jiné významné události,
-- po každém roce plnění splátkového kalendáře *2-měsíční okno* pro návrhy na prodloužení / zrušení.
+### Z důvodové zprávy
 
-**Zpráva pro osvobození (odst. 4):**
-- po splnění předpokladů pro osvobození podle § 412a (typicky uplynutí oddlužovací doby + splnění minimálního uspokojení),
-- správce hodnotí, zda dlužník plnil všechny podstatné povinnosti,
-- *2-měsíční okno* pro návrhy na prodloužení nebo zrušení.
+Původní důvodová zpráva označuje § 36 za výslovné vyjádření obecných požadavků na činnost správce, zdůrazňuje přednost společného zájmu věřitelů a u odstavce 2 základní míru součinnosti s věřitelským orgánem. Důvodová zpráva k novele z roku 2013 vysvětluje, že soudem určená periodicita má odpovídat potřebám konkrétního řízení. Důvodová zpráva k novele z roku 2024 spojuje nové zprávy a navazující návrhové lhůty s průběžným řešením porušování povinností dlužníka a se zefektivněním dohledu.
 
-### Účet pro každé řízení (odst. 5)
+### Literatura
 
-Správce **zřizuje zvláštní účet u banky / SÚD** pro každé řízení. Smysl — *transparentnost*, oddělené vedení majetku, ochrana proti přelití prostředků mezi spisy.
+Odborná literatura je rozhodnutím editora odložena do druhého kola; tato poznámka není negativní rešerší literatury.
 
-### Speciálka pro vězně (odst. 6)
+### Výklad
 
-Pokud je dlužník ve výkonu trestu nebo zabezpečovací detence — komunikace s věznicí o:
-- zasílaných penězích,
-- povinnostech k výživnému,
-- aktualizace čísla účtu.
+[1] Odstavec 1 obsahuje čtyři vzájemně spojené příkazy: svědomitý postup, odbornou péči, veškeré spravedlivě požadovatelné úsilí o co nejvyšší uspokojení věřitelů a přednost společného zájmu věřitelů před vlastními i jinými zájmy správce. „Společný zájem“ je třeba číst v zákonné definici § 2 písm. j), nikoli jako zájem kteréhokoli jednotlivého věřitele.
 
-### Prováděcí předpis (odst. 7)
+[2] Součinnost podle odstavce 2 náleží věřitelským orgánům. Pravidelná zpráva se předkládá jim i insolvenčnímu soudu nejméně jednou za tři měsíce, avšak soud může určit jinou dobu, nejvýše dvanáct kalendářních měsíců. Text § 36 sám nestanoví obecný katalog položek každé takové zprávy; její konkrétní obsah je nutné určit podle zákona, prováděcí úpravy, formuláře a pokynů soudu.
 
-Detaily plnění povinností stanoví prováděcí předpis — **vyhláška č. 191/2017 Sb.** o náležitostech podání a formulářů a podrobnostech pro výkon činnosti insolvenčního správce.
+[3] Zpráva pro osvobození je samostatný závěrečný report. Správce ji podává bez zbytečného odkladu po splnění předpokladů § 412a, nejpozději po uplynutí rozhodné doby oddlužení, zohledněné o přerušení nebo prodloužení podle § 412b. V ní hodnotí plnění všech podstatných povinností dlužníka a odůvodní své doporučení.
 
-### Vazby
+[4] Odstavec 3 vyžaduje neprodlenou zprávu již při důvodném předpokladu rozhodných skutečností. Po každých dvanácti měsících plnění schváleného oddlužení běží z obsahu zpráv podaných v daném období dvouměsíční lhůta pro návrh na prodloužení nebo zrušení; odstavec 4 stanoví obdobnou dvouměsíční lhůtu po zprávě pro osvobození. K pozdějším návrhům se nepřihlíží. Tato pravidla je nutné intertemporálně oddělit od režimů řízení zahájených před účinností novely č. 252/2024 Sb.
 
-- **§ 37** — odpovědnost za škodu při porušení povinností.
-- **§ 81** — pořádková pokuta.
-- **§ 32** — zproštění.
-- **§ 412a, § 412b** — oddlužení.
-- **§ 414, § 418** — osvobození, zrušení oddlužení.
+[5] Zvláštní účet podle odstavce 5 musí být zřízen v každém insolvenčním řízení u banky nebo spořitelního a úvěrního družstva. Zákonným účelem je oddělené vedení majetku náležejícího do majetkové podstaty; účet proto nelze nahradit společným účtem pro více řízení.
 
-### F. Kazuistika
+[6] Odstavec 6 ukládá správci při postižení majetku nebo příjmů vězněného či detinovaného dlužníka konkrétní informační povinnosti vůči věznici nebo ústavu. Zákon upravuje též kvalifikaci prostředků zaslaných po rozhodnutí o úpadku na účet určený správcem jako příjmu dlužníka, nestanoví-li insolvenční soud jinak.
 
-**1. Modelová situace.** V oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty správce po dobu roku nepředkládá soudu a věřitelskému výboru tříměsíční zprávy o stavu řízení; zároveň nezaložil zvláštní účet pro dané řízení a prostředky dlužníka vede na sběrném účtu spolu s jinými spisy. Po roce vyjde najevo, že dlužník přestal plnit a byly dány podmínky pro zrušení oddlužení (§ 418), na což správce včas neupozornil. Důkazy: spisový přehled o (ne)podaných zprávách, výpisy z účtu/účtů správce, údaje o plnění dlužníka.
+[7] Porušení § 36 nelze automaticky ztotožnit s konkrétní sankcí. Soud posuzuje podmínky příslušného institutu: § 32 pro zproštění, § 81 pro pořádkové opatření, § 38 odst. 3 pro snížení odměny a § 37 pro náhradu škody nebo jiné újmy. Pro posledně uvedený nárok musí být splněny všechny zákonné předpoklady odpovědnosti.
 
-**2. Právní otázka.** Jaké povinnosti správci ukládá § 36 v oddlužení (reporting v intervalech, neprodlené zprávy o rozhodných skutečnostech, zvláštní účet) a jaké jsou důsledky jejich porušení?
+[8] Praktická kontrola správce má proto odděleně sledovat: kolizi zájmů podle odstavce 1; kalendář pravidelných a mimořádných zpráv; samostatný účet každého řízení; a u vězněného dlužníka úplnost a aktualizaci oznámení adresovaného příslušnému zařízení.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 36 odst. 1 (svědomitost, odborná péče, přednost společného zájmu věřitelů), odst. 2 (zprávy nejméně jednou za 3 měsíce, nejvýše po 12 měsících; zpráva pro osvobození), odst. 3 (neprodlené zprávy při podmínkách pro prodloužení/zrušení oddlužení; lhůty pro návrhy), odst. 5 (zvláštní účet pro každé řízení).
-- *Související ustanovení téhož zákona:* § 37 (odpovědnost za škodu při porušení povinností), § 32 (zproštění), § 81 (pořádková pokuta), § 412a, § 412b (oddlužení), § 414, § 418 (osvobození, zrušení oddlužení).
-- *Související předpisy:* vyhláška č. 191/2017 Sb. (náležitosti podání a výkon činnosti správce); vyhláška č. 313/2007 Sb. (odměna — možnost snížení).
-- *Judikatura:* NS 29 NSČR 4/2018 (citováno u § 32) — opakované nezveřejnění zprávy ve lhůtě s vlivem na řízení může vést ke zproštění; NS 29 NSČR 93/2014 (citováno výše) — rozsah informační povinnosti vůči dlužníku ve výkonu trestu.
+### Judikatura
 
-**4. Subsumpce.** Nepodávání tříměsíčních zpráv po dobu roku = porušení § 36 odst. 2; nezaložení zvláštního účtu a vedení prostředků na sběrném účtu = porušení § 36 odst. 5 (ohrožení transparentnosti a oddělení majetku); neupozornění na podmínky pro zrušení oddlužení = porušení § 36 odst. 3. Všechna porušení současně zakládají odklon od odborné péče (§ 36 odst. 1). Sporné: vznik a výše konkrétní škody (otázka pro § 37).
-
-**5. Řešení.** Soud uloží správci podat zprávu, případně využije pořádkovou pokutu (§ 81) a při závažnosti/opakování zprostí správce funkce (§ 32; srov. NS 29 NSČR 4/2018); odměnu lze snížit (§ 38 odst. 3). Porušení povinností je rovněž podkladem odpovědnosti za škodu (§ 37), prokáže-li se příčinná souvislost (např. opožděné zrušení oddlužení s majetkovou újmou věřitelů). Procesní krok: bezodkladně zřídit zvláštní účet a převést prostředky, doplnit reporting.
-
-**6. Varianty.** (a) Jednorázové mírné zpoždění jediné zprávy bez vlivu na řízení → spíše pokyn nebo pořádková pokuta, nikoli zproštění. (b) Dlužník je ve výkonu trestu → správce nemá vůči němu širší informační povinnost než vůči „neomezenému" dlužníku (NS 29 NSČR 93/2014), avšak plní povinnosti dle § 36 odst. 6 (vyrozumění věznice).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Sběrný účet je efektivnější a zákon je formalistický." — Neutralizace: § 36 odst. 5 vyžaduje zvláštní účet pro každé řízení; oddělení majetku chrání před přeléváním prostředků mezi spisy a je podmínkou transparentnosti.
-- *Protiargument:* „Zprávy lze dodat zpětně, škoda nevznikla." — Neutralizace: i bez prokázané škody jde o porušení povinností (§ 32, § 81); navíc opožděné upozornění na zrušení oddlužení může škodu způsobit (§ 37).
-- *Slabé místo:* pro odpovědnost za škodu (§ 37) je nutné prokázat příčinnou souvislost mezi porušením a újmou; samotné porušení reportingu k náhradě škody bez kauzality nestačí.
-
-### H. Praktický závěr
-
-§ 36 ukládá svědomitost a odbornou péči, přednost společného zájmu věřitelů, pravidelný i neprodlený reporting a zvláštní účet pro každé řízení; porušení vede k pořádkové pokutě, zproštění, snížení odměny a případně odpovědnosti za škodu.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Dodržet intervaly zpráv (nejméně 1×/3 měsíce, neprodleně při rozhodných skutečnostech) a lhůty pro návrhy v oddlužení.
-- [ ] Zřídit zvláštní účet pro každé jednotlivé řízení (§ 36 odst. 5).
-- [ ] Dát při kolizi přednost společnému zájmu věřitelů před zájmy vlastními i třetích osob.
-- [ ] U dlužníka ve výkonu trestu splnit vyrozumění věznice (§ 36 odst. 6).
-
-**Typicky rozhodné důkazy / podklady:** spisový přehled o podaných zprávách, výpisy ze zvláštního účtu řízení, údaje o plnění dlužníka a podmínkách pro prodloužení/zrušení oddlužení.
+**NS 29 NSČR 2/2014, usnesení ze dne 26. 8. 2015, ECLI:CZ:NS:2015:29.NSČR.2.2014.1, R 48/2016.** V oddlužení dlužník neuspěl s návrhem na zproštění správce, založeným zejména na tvrzeném nedostatku informací a výhradách k přípravě zpeněžení zajištění. Nejvyšší soud v odstavcích 18 až 30 vyložil procesní rámec § 32 a v odstavci 26 uvedl, že svědomitý a odborně pečlivý postup se zpravidla projevuje jeho dokumentací; nedostatky tak mohou být patrné ze spisu. Rozhodnutí vychází ze staršího právního stavu. Pro současný § 36 je použitelné k nezměněnému obecnému standardu odstavce 1 a k jeho vazbě na § 32, nikoli jako výklad později vložených pravidel reportingu, zvláštního účtu nebo komunikace s vězeňským zařízením.
 
 ---
 

@@ -990,99 +990,62 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola; tato poz
 
 ## § 37 — Odpovědnost insolvenčního správce
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Insolvenční správce odpovídá za škodu nebo jinou újmu, kterou dlužníku, věřitelům nebo třetím osobám způsobil tím, že při výkonu své funkce porušil povinnosti, které jsou mu uloženy zákonem nebo rozhodnutím soudu, jakož i tím, že při jejím výkonu nepostupoval s odbornou péčí. Této odpovědnosti se insolvenční správce zprostí, jen když prokáže, že škodě nebo jiné újmě nemohl zabránit ani při vynaložení veškerého úsilí, které po něm bylo možné spravedlivě požadovat se zřetelem k průběhu insolvenčního řízení.
 > (2) Podle odstavce 1 insolvenční správce odpovídá i za škodu nebo jinou újmu způsobenou osobami uvedenými v § 40 odst. 2, kterých použil při výkonu své funkce. To platí i pro zaměstnance dlužníka, působící v rozsahu své dosavadní činnosti, nebo pro jiné osoby ve smluvním vztahu s dlužníkem.
 > (3) Insolvenční správce odpovídá za škodu nebo jinou újmu, která věřiteli s pohledávkou za majetkovou podstatou vznikla tím, že nemohla být uspokojena jeho pohledávka vzniklá na základě právního úkonu insolvenčního správce; této odpovědnosti se insolvenční správce zprostí, jen když prokáže, že v době, kdy tento právní úkon činil, nemohl poznat, že majetková podstata nebude stačit k úhradě jím vzniklé pohledávky za majetkovou podstatou.
 > (4) Právo na náhradu škody nebo jiné újmy proti insolvenčnímu správci se promlčí do 2 let poté, kdy se poškozený dozvěděl o výši škody a odpovědnosti insolvenčního správce, nejpozději však do 3 let, a jde-li o škodu způsobenou úmyslným trestným činem, za který byl insolvenční správce pravomocně odsouzen, nejpozději do 10 let od skončení insolvenčního řízení.
 
-### Výklad — JEDEN Z NEJDŮLEŽITĚJŠÍCH PARAGRAFŮ DÍLU
+### Přehled výkladu
 
-**Profesní odpovědnost správce** — *speciální deliktní odpovědnost*. Vůči komu odpovídá:
-- *dlužník*,
-- *věřitelé* (jednotliví, ne jako kolektiv),
-- *třetí osoby* (např. nájemníci nemovitosti v podstatě, kupci, externí dodavatelé).
+Odstavec 1 upravuje osobní objektivní odpovědnost insolvenčního správce s liberačním důvodem. Odpovědnost nevzniká již samotným nepříznivým výsledkem správy: musí být současně zjištěno porušení povinnosti při výkonu funkce, škoda nebo jiná újma a příčinná souvislost. Odstavec 2 rozšiřuje tento režim na újmu způsobenou vymezenými použitými osobami. Odstavec 3 obsahuje zvláštní skutkovou podstatu pro neuspokojenou pohledávku za majetkovou podstatou vzniklou z právního úkonu správce. Odstavec 4 stanoví vlastní promlčecí režim.
 
-#### Skutkové předpoklady (odst. 1)
+### Souvisící ustanovení
 
-(a) Vznik škody nebo nemajetkové újmy,
-(b) **Porušení povinnosti** — zákonné nebo soudní + porušení standardu odborné péče,
-(c) **Příčinná souvislost** mezi (b) a (a).
+- **§ 23** — povinné pojištění odpovědnosti správce.
+- **§ 36 odst. 1** — svědomitost, odborná péče a přednost společného zájmu věřitelů.
+- **§ 40 odst. 1 a 2** — jednání správce vlastním jménem na účet dlužníka a osoby použité při výkonu funkce.
+- **§ 168** — pohledávky za majetkovou podstatou, k nimž se vztahuje zvláštní skutková podstata odstavce 3.
+- **§ 286 až 293** — pravidla zpeněžení, jejichž porušení může být v konkrétní věci tvrzeným základem odpovědnosti.
 
-**Liberační důvod**: správce prokáže, že **škodě nemohl zabránit ani při vynaložení veškerého úsilí, které po něm bylo možné spravedlivě požadovat**. Standard je vysoký — nestačí prokázat „nezavinění", musí prokázat, že **vynaložil veškeré úsilí**.
+### Souvisící předpisy
 
-> *Objektivní odpovědnost s liberací* — koncepčně bližší kvázi-objektivní (jako u odpovědnosti za škodu z provozu vozidla, § 2927 OZ).
+- **§ 79 odst. 1 občanského soudního řádu** — identifikační údaje účastníků žaloby; ve sporu podle § 37 se žaluje osobně odpovědná fyzická nebo právnická osoba.
+- **Zákon č. 312/2006 Sb., o insolvenčních správcích** — povolení k výkonu činnosti insolvenčního správce a související profesní režim.
 
-#### Vikariální odpovědnost (odst. 2)
+### Z důvodové zprávy
 
-Správce odpovídá i za **své zaměstnance, externí spolupracovníky** (právníky, auditory, znalce — § 40 odst. 2), a dokonce za **zaměstnance dlužníka**, které pověřil úkony. Tato přísnost je důsledkem **delegabilní povahy funkce** — pokud správce úkoly outsourcuje, neminulé riziko nese.
+Vládní návrh označil odpovědnost podle § 37 za nově koncipovanou odpovědnost správce na principu obdobném tehdejší odpovědnosti statutárních orgánů obchodních společností. Výslovně vyčlenil zvláštní skutkovou podstatu pro neuspokojenou pohledávku za majetkovou podstatou v odstavci 3 a subjektivní i objektivní promlčecí lhůtu v odstavci 4; délkou lhůt se návrh inspiroval tehdejší občanskoprávní úpravou.
 
-#### Speciální odpovědnost vůči věřiteli pohledávek za podstatou (odst. 3)
+### Literatura
 
-Velmi specifická úprava. Pokud správce uzavře smlouvu, která vyvolá pohledávku za podstatou (např. nájem skladu, dodávky služeb, externí odborníci), a tato pohledávka **není uspokojena** kvůli nedostatku majetku v podstatě, odpovídá správce **osobně**. Liberace: prokáže, že v okamžiku uzavření smlouvy nemohl poznat, že podstata nebude stačit.
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto odložení není negativní rešerší.
 
-*Důsledek pro praxi*: správce **musí pečlivě sledovat likviditu podstaty** a neuzavírat smlouvy, jejichž plnění by ji vyčerpalo (zejména ve fázi po vyúčtování, kdy je už znám výhled).
+### Výklad
 
-#### Promlčení (odst. 4)
+[1] **Povaha odpovědnosti.** Nejvyšší soud vyložil § 37 odst. 1 jako objektivní odpovědnost, tedy bez zřetele na zavinění. Objektivní povaha však nenahrazuje zákonné předpoklady odpovědnosti. Musí být současně zjištěny porušení povinnosti při výkonu funkce, vznik škody a příčinná souvislost mezi nimi.
 
-- **2 roky** od okamžiku, kdy se poškozený dozvěděl o výši škody a odpovědnosti,
-- **maximum 3 roky** od vzniku škody,
-- **10 let** u úmyslného trestného činu (s podmínkou pravomocného odsouzení) — počítáno od skončení insolvenčního řízení.
+[2] **Porušení povinnosti.** Zdrojem porušené povinnosti může být zákon, rozhodnutí soudu nebo zákonný požadavek odborné péče. Nepříznivý hospodářský výsledek sám o sobě porušení povinnosti neprokazuje. Nejvyšší soud proto v konkrétním sporu o prodej provozovny odmítl závěr, že již volba některého ze zákonných způsobů zpeněžení znamená porušení povinnosti nebo odborné péče.
 
-### Vazby
+[3] **Liberace.** Prokáže-li poškozený předpoklady odpovědnosti, nese správce důkazní břemeno k liberačnímu důvodu: musí prokázat, že újmě nemohl zabránit ani při veškerém úsilí, které po něm bylo možné spravedlivě požadovat se zřetelem k průběhu daného insolvenčního řízení. Pouhé tvrzení o absenci zavinění tedy zákonnému liberačnímu důvodu neodpovídá.
 
-- **§ 36** — povinnosti.
-- **§ 23** — povinné pojištění (zdroj uhrazení škody).
-- **§ 40 odst. 2** — externí osoby.
-- **§ 168, § 169** — pohledávky za podstatou a postavené na roveň.
+[4] **Použité osoby.** Odstavec 2 zachovává odpovědnost správce i tehdy, byla-li újma způsobena osobou uvedenou v § 40 odst. 2, kterou použil při výkonu funkce, zaměstnancem dlužníka působícím v rozsahu dosavadní činnosti nebo jinou osobou ve smluvním vztahu s dlužníkem. Před použitím odstavce 2 je třeba konkrétní osobu a její činnost podřadit pod některou zákonnou skupinu; samotné obecné označení „externí spolupracovník“ nestačí.
+
+[5] **Pohledávka za majetkovou podstatou.** Odstavec 3 chrání věřitele, jehož pohledávka za majetkovou podstatou vznikla na základě právního úkonu správce a nemohla být uspokojena. Liberační otázka se váže k době, kdy správce právní úkon činil: rozhoduje, zda tehdy nemohl poznat, že majetková podstata nebude k úhradě stačit.
+
+[6] **Promlčení.** Subjektivní lhůta činí dva roky od chvíle, kdy se poškozený dozvěděl o výši škody a odpovědnosti insolvenčního správce. Zákonná věta váže nejzazší tříletou lhůtu — a při škodě způsobené úmyslným trestným činem, za který byl správce pravomocně odsouzen, desetiletou lhůtu — na skončení insolvenčního řízení. Nelze ji proto bez dalšího popsat jako tři roky od vzniku škody.
+
+[7] **Osobní majetková odpovědnost.** Nárok podle § 37 odst. 1 směřuje proti fyzické nebo právnické osobě, která funkci vykonávala, nikoli proti správci pouze jako procesnímu představiteli majetkové podstaty. Nejvyšší soud dovodil, že fyzická osoba musí být v žalobě identifikována jako jiná žalovaná fyzická osoba; označení jen funkcí a sídlem správce zakládá v popsaném případě vadu žaloby.
+
+[8] **Intertemporalita judikatury.** Rozsudek 29 ICdo 49/2014 posuzoval zpeněžení z roku 2010 a vedle § 37 pracoval s tehdejším zněním § 293. Do tohoto výkladu jsou proto převzaty pouze jeho obecné závěry přímo k § 37 a závěr, že samotná volba zákonného způsobu zpeněžení neprokazuje porušení povinnosti. Rozsudek 29 Cdo 2772/2016 vycházel z úkonů správce z let 2009 až 2011; jeho procesní závěr se týká osobní odpovědnosti podle § 37 odst. 1.
 
 ### Judikatura
 
-- **NS 29 NSČR 9/2014**: standard odborné péče správce odpovídá standardu *profesionálního* správce, nikoli laika. Hodnotí se s ohledem na komplexnost konkrétního řízení.
-- **NS 29 NSČR 60/2017**: liberace správce je restriktivně vykládána — pouhé „udělal jsem, co bylo v mých silách" nestačí; je nutno doložit konkrétní úkony.
-- **NS 25 Cdo 4096/2014**: pojistitelé správce mají právo regresu proti správci v případě úmyslného porušení povinností.
-
-### Praktická poznámka
-
-Žaloby na odpovědnost správce jsou v praxi řidčí, ale závažné. Typické scénáře:
-- *opomenutá inkasní povinnost* — správce nevybral pohledávku, která se promlčela,
-- *prodej majetku za podhodnotu* — bez zajištění více nabídek nebo bez znaleckého posudku,
-- *nedostatečná kontrola dlužníka* v reorganizaci, který v mezičase „rozprodal" majetek.
-
-### F. Kazuistika
-
-**1. Modelová situace.** Insolvenční správce v konkursu pověřil zpeněžením stroje externí dražební firmu (§ 40 odst. 2) a spolehl se na její ocenění. Stroj byl prodán za 200 000 Kč, ačkoli jeho tržní hodnota byla podle pozdějšího znaleckého posudku 900 000 Kč; dražební firma postupovala nedbale (neoslovила specializované zájemce). Zajištěný věřitel, jehož uspokojení se tím snížilo, podá po roce od zjištění škody žalobu na náhradu škody proti správci. Důkazy: smlouva s dražební firmou, dražební dokumentace, znalecký posudek hodnoty stroje, vyčíslení snížení uspokojení věřitele.
-
-**2. Právní otázka.** Odpovídá insolvenční správce podle § 37 za škodu způsobenou nedbalostí externí osoby, kterou použil při výkonu funkce (§ 40 odst. 2), a může se liberovat poukazem na to, že pochybila třetí osoba?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 37 odst. 1 (odpovědnost za porušení povinností a absenci odborné péče; liberace jen při vynaložení veškerého úsilí), odst. 2 (odpovědnost i za osoby dle § 40 odst. 2 použité při výkonu funkce), odst. 4 (promlčení — 2 roky subjektivní, 3 roky objektivní, 10 let u úmyslného trestného činu).
-- *Související ustanovení téhož zákona:* § 36 odst. 1 (standard odborné péče a přednost společného zájmu věřitelů), § 40 odst. 2 (výkon funkce prostřednictvím externích osob při zachování odpovědnosti), § 23 (pojištění jako zdroj úhrady), § 298 a násl. (zpeněžení zajištění — postup vůči zajištěnému věřiteli).
-- *Související předpisy:* § 2913 OZ (náhrada škody — přiměřeně systémově).
-- *Judikatura:* NS 29 NSČR 9/2014 (standard odborné péče = profesionál, nikoli laik); NS 29 NSČR 60/2017 (liberace restriktivně — „udělal jsem, co bylo v silách" nestačí, nutné doložit konkrétní úkony); NS 25 Cdo 4096/2014 (regres pojistitele při úmyslném porušení).
-
-**4. Subsumpce.** Vznik škody (rozdíl 700 000 Kč v uspokojení) + porušení odborné péče (správce přejal cizí ocenění bez kontroly a nezajistil oslovení zájemců) + příčinná souvislost → předpoklady § 37 odst. 1 jsou dány. Odpovědnost se vztahuje i na nedbalost dražební firmy coby osoby použité při výkonu funkce (§ 37 odst. 2 ve spojení s § 40 odst. 2). Liberace (nemohl škodě zabránit ani při veškerém úsilí) zde neobstojí — kontrola ocenění a výběr zájemců byly v jeho možnostech (NS 29 NSČR 60/2017). Žaloba je podána včas (2 roky od zjištění, § 37 odst. 4).
-
-**5. Řešení.** Správce odpovídá za škodu; plnění se primárně hradí z jeho pojištění (§ 23), nad limit z osobního majetku (exekuce za škodu není vyloučena § 40a). Liberace neúspěšná pro absenci doložení veškerého úsilí. Procesní kroky věřitele: doložit tržní hodnotu, nedbalost externí firmy a kauzalitu; uplatnit nárok v promlčecí době dle § 37 odst. 4.
-
-**6. Varianty.** (a) Správce by zajistil řádné znalecké ocenění a otevřené výběrové řízení a stroj přesto prodal za nižší (avšak tehdy nejvyšší dosažitelnou) cenu → liberace by mohla obstát, chybí porušení péče. (b) Škoda by byla způsobena úmyslným trestným činem správce, za který byl pravomocně odsouzen → prodloužení promlčecí doby na 10 let od skončení řízení (§ 37 odst. 4) a regres pojistitele (NS 25 Cdo 4096/2014).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Pochybila dražební firma, ne já." — Neutralizace: § 37 odst. 2 ve spojení s § 40 odst. 2 zakládá odpovědnost správce i za osoby, jichž použil; outsourcing nezbavuje odpovědnosti (riziko delegace nese správce).
-- *Protiargument:* „Vynaložil jsem běžnou péči, víc nelze žádat." — Neutralizace: standard je profesionální (NS 29 NSČR 9/2014) a liberace restriktivní (NS 29 NSČR 60/2017) — nutné doložit konkrétní úkony (znalecké ocenění, oslovení zájemců).
-- *Slabé místo:* spornou bývá výše škody a kauzalita (jakou cenu by stroj reálně dosáhl); věřitel nese důkazní břemeno tržní hodnoty a příčinné souvislosti.
-
-### H. Praktický závěr
-
-Správce nese kvázi-objektivní odpovědnost za škodu způsobenou porušením povinností či absencí odborné péče, a to i za osoby, jichž při výkonu funkce použil; liberace je restriktivní (nutno doložit veškeré úsilí) a nároky se promlčují ve 2/3 letech, u úmyslného trestného činu v 10 letech.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Prokázat škodu, porušení povinnosti/odborné péče a příčinnou souvislost.
-- [ ] U delegovaných úkonů ověřit odpovědnost za osoby dle § 40 odst. 2.
-- [ ] Posoudit liberaci podle doložení konkrétních úkonů (nikoli obecných tvrzení).
-- [ ] Hlídat promlčecí lhůty (2 roky subjektivní / 3 roky objektivní / 10 let u úmyslného trestného činu).
-
-**Typicky rozhodné důkazy / podklady:** smlouvy s externími osobami a dokumentace jejich úkonů, znalecké ocenění a doklady o výběru nabídek, vyčíslení škody/snížení uspokojení, pojistná smlouva správce.
+- **NS, rozsudek ze dne 28. 7. 2016, sen. zn. 29 ICdo 49/2014, ECLI:CZ:NS:2016:29.ICDO.49.2014.1, R 16/2018:** ve sporu, v němž dlužník požadoval náhradu za údajně podhodnocené zpeněžení provozovny, Nejvyšší soud v bodech 19 až 29 vymezil objektivní odpovědnost, její tři kumulativní předpoklady a liberační důkazní břemeno. Současně uzavřel, že pouhá volba zákonem předepsaného způsobu zpeněžení sama o sobě porušení povinnosti ani odborné péče nedokládá. Dobový výklad § 293 není bez dalšího přenášen na současné znění.
+- **NS, rozsudek ze dne 7. 6. 2018, sp. zn. 29 Cdo 2772/2016, ECLI:CZ:NS:2018:29.CDO.2772.2016.1, R 72/2019:** ve sporu z postupu správce při narovnání a započtení pohledávek Nejvyšší soud v bodech 26 až 28 odlišil jednání správce na účet dlužníka od jeho osobní majetkové odpovědnosti podle § 37 odst. 1 a určil, jak má být žalovaná fyzická nebo právnická osoba označena.
 
 ---
 

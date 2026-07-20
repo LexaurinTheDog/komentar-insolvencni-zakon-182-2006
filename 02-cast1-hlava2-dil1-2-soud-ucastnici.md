@@ -652,69 +652,61 @@ Odborná literatura bude doplněna ve druhém kole revize.
 
 ## § 20 — Zastoupení účastníků
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Ustanovení části první hlavy třetí občanského soudního řádu, která se týkají jednání za právnickou osobu, stát a územní samosprávní celky a zastoupení účastníků řízení, platí obdobně pro insolvenční řízení a incidenční spory.
+>
 > (2) Odborová organizace může v insolvenčním řízení a v incidenčních sporech zastupovat dlužníkova zaměstnance, jde-li o uplatňování jeho pracovněprávních pohledávek.
+
+### Přehled výkladu
+
+Odstavec 1 je zvláštním odkazem na vymezenou část procesní úpravy občanského soudního řádu. Pro insolvenční řízení i incidenční spory se tato pravidla použijí **obdobně**, nikoli pouze přiměřeně podle obecné subsidiární klauzule § 7. Odstavec 2 zakládá samostatný titul zastoupení dlužníkova zaměstnance odborovou organizací; omezuje jej osobou zastoupeného a pracovněprávní povahou uplatňované pohledávky, nikoli členstvím zaměstnance v odborové organizaci.
+
+### Souvisící ustanovení
+
+- **§ 7** — obecná subsidiární použitelnost občanského soudního řádu se liší od zvláštního odkazu v § 20 odst. 1.
+- **§ 14 a § 16** — účastníci insolvenčního řízení a incidenčních sporů.
+- **§ 169 odst. 1 písm. a)** — pracovněprávní pohledávky dlužníkových zaměstnanců postavené na roveň pohledávkám za majetkovou podstatou.
+- **§ 203 odst. 1, 2 a 4** — uplatnění těchto pohledávek a žaloba na jejich splnění; spor podle odstavce 4 není incidenčním sporem.
+- **§ 75 odst. 1 a 2 a § 138 odst. 1** — zvláštní způsob doručení a doručení rozhodnutí o úpadku dlužníku do vlastních rukou.
+
+### Souvisící předpisy
+
+- **Zákon č. 99/1963 Sb., občanský soudní řád, část první hlava třetí**, zejména § 21 až § 21b (jednání za právnickou osobu, stát a územní samosprávné celky), § 22 až § 28a (zastoupení na základě zákona a plné moci) a § 29 až § 30 (zastoupení založené rozhodnutím soudu).
+- **§ 26 odst. 1 o. s. ř.** — obecné zastupování členů odborovou organizací; § 20 odst. 2 insolvenčního zákona je pro vymezené insolvenční poměry zvláštní úpravou.
+
+### Z důvodové zprávy
+
+Vládní návrh vysvětloval odstavec 1 jako zdůraznění přímého zvláštního odkazu na § 21 až § 21b a § 22 a násl. o. s. ř. Oproti § 26 odst. 1 o. s. ř. měl odstavec 2 rozšířit možnost odborového zastoupení při uplatňování pracovněprávních pohledávek také na dlužníkovy zaměstnance, kteří nejsou členy odborové organizace. Důvodová zpráva tento krok spojila s úlohou odborů při ochraně zaměstnanců, jejíž význam se v insolvenčním řízení zvyšuje (sněmovní tisk 1120/0, zvláštní část, K § 20, číslovaná s. 162, PDF s. 163).
+
+### Literatura
+
+Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; je odložena do druhého kola.
 
 ### Výklad
 
-**Odst. 1 — odkaz na OSŘ.** Pro otázky:
-- *Jednání za PO* (statutární orgán, prokurista, zaměstnanec pověřený jednáním — § 21 OSŘ),
-- *Jednání za stát* (Úřad pro zastupování státu ve věcech majetkových, ministerstva — § 21a OSŘ),
-- *Jednání za ÚSC* (starosta, primátor — § 21b OSŘ),
-- *Zastoupení účastníků* (advokát, opatrovník, zástupce ze zákona, prokurista, zaměstnanec — § 22 — § 28a OSŘ),
+[1] Odkaz v odstavci 1 nepřebírá bez rozlišení celou část první hlavu třetí o. s. ř. Dopadá na ustanovení o jednání za právnickou osobu, stát a územní samosprávné celky a na ustanovení o zastoupení účastníků. Aktuálně tak zahrnuje zejména pravidla, kdo a za jakých podmínek jedná za uvedené subjekty, zastoupení ze zákona, na základě plné moci a na základě rozhodnutí soudu, rozsah procesní plné moci i její odvolání nebo výpověď.
 
-platí pravidla OSŘ. *Lex specialis IZ* tedy v této oblasti nemá.
+[2] Slovo „obdobně“ vyjadřuje zvláštní zákonný příkaz. Nejvyšší soud proto výslovně odlišuje tento režim od pouhého „přiměřeného“ použití o. s. ř. podle § 7 insolvenčního zákona. Zároveň je vždy třeba ověřit, zda posuzovaná otázka skutečně spadá do věcného rozsahu § 20 odst. 1 a zda insolvenční zákon pro konkrétní procesní situaci nestanoví další zvláštní pravidlo.
 
-**Odst. 2 — speciální zastoupení odborovou organizací.** Jde o významnou ochranu zaměstnance — odborová organizace ho může zastupovat při uplatňování pracovněprávních pohledávek v insolvenci (mzdové nároky, nároky z náhrady škody, odstupné, dovolená atd.). Tato možnost je systémově důležitá, neboť mzdové pohledávky jsou pohledávkami postavenými na roveň pohledávkám za podstatou (§ 169 odst. 1 písm. a) — výjimečně silný status), ale zaměstnanci sami často nemají kapacitu uplatňovat je formálně.
+[3] Při jednání za právnickou osobu nelze používat zkratku, že za ni jedná jen statutární orgán, prokurista nebo pověřený zaměstnanec. § 21 o. s. ř. obsahuje více titulů a výjimky pro zvláštní zákonnou úpravu; jednající osoba musí své oprávnění prokázat a nesmí být ve střetu zájmů s právnickou osobou. Obdobně je nutné vycházet z přesného aktuálního znění § 21a a § 21b o. s. ř. při jednání za stát a územní samosprávné celky.
 
-### Vazby
+[4] Odstavec 2 opravňuje odborovou organizaci zastupovat pouze **dlužníkova zaměstnance** a pouze při **uplatňování jeho pracovněprávních pohledávek** v insolvenčním řízení nebo v incidenčním sporu. Nezakládá oprávnění zastupovat jiného věřitele ani zaměstnance v jeho nepracovněprávní pohledávce.
 
-- **OSŘ § 21 — § 28a** — zastoupení a jednání za subjekty.
-- **§ 169 odst. 1 písm. a)** — mzdové pohledávky jako pohledávky postavené na roveň pohledávkám za podstatou.
-- **Zákon č. 118/2000 Sb.**, o ochraně zaměstnanců při platební neschopnosti zaměstnavatele — paralelní mechanismus uspokojení mzdových nároků z Úřadu práce, který se aktivuje při zahájení insolvence.
+[5] Členství zaměstnance v zastupující odborové organizaci není podmínkou § 20 odst. 2. Právě v tom se zvláštní úprava liší od obecného § 26 odst. 1 o. s. ř. Procesní titul a rozsah zastoupení však musí být soudu doloženy; ze samotného § 20 odst. 2 nelze dovodit oprávnění bez projevu vůle zastoupeného.
 
-### Praktická poznámka
+[6] Zastoupení nemění způsob uplatnění pohledávky. U pracovněprávních pohledávek podle § 169 odst. 1 písm. a) je proto nutné současně respektovat § 203. Zejména žaloba na splnění podle § 203 odst. 4 není incidenčním sporem; § 20 odst. 2 však vedle incidenčních sporů výslovně pokrývá i insolvenční řízení, v němž se pohledávka uplatňuje.
 
-V praxi mají zaměstnanci insolventních zaměstnavatelů několik vrstev ochrany:
-1. **Zákon č. 118/2000 Sb.** — Úřad práce vyplatí nedoplatky mezd až za 3 měsíce předcházející insolvenci (max. limit) z prostředků státu. Tím přejde regresně pohledávka na ÚP.
-2. **Pohledávky postavené na roveň** podle § 169 — zbývající nedoplatky a běžící mzdy během insolvence se uspokojují přednostně z majetkové podstaty.
-3. **Zastoupení odborovou organizací** (§ 20 odst. 2) — pomoc s administrací.
+[7] Procesní plná moc má konkrétní důsledky pro doručování. Je-li účastník nebo jiný procesní subjekt zastoupen pro celé řízení a zákon vyžaduje zvláštní doručení, doručuje se zásadně pouze zástupci. Nejvyšší soud tento závěr vztáhl i na rozhodnutí o úpadku doručované dlužníku zvlášť do vlastních rukou; současně zdůraznil, že doručení do datové schránky advokátní společnosti samo nedokládá doručení do vlastních rukou konkrétního advokáta-zmocněnce.
 
-### F. Kazuistika
+[8] Pravidla o zastoupení založeném rozhodnutím soudu se uplatní rovněž obdobně. V řízení nevidomé dlužnice Nejvyšší soud připomněl použití § 29 o. s. ř. prostřednictvím § 20 odst. 1 a přezkoumal návaznost ustanoveného zástupce, opatrovníka a později zvoleného advokáta. Tento závěr podporuje zahrnutí § 29 a § 30 o. s. ř. do komentovaného odkazu; neznamená však, že zastoupení má být ustanoveno bez splnění podmínek těchto ustanovení.
 
-**1. Modelová situace.** Zaměstnanci Z1 a Z2 mají vůči dlužníku-zaměstnavateli D neuhrazené mzdy a odstupné. Z1 nemá kapacitu uplatnit nárok formálně a požádá odborovou organizaci O, aby ho v insolvenčním řízení zastupovala. Dlužník je obchodní společnost a v řízení za něj jedná osoba, u níž je sporné, zda je oprávněna (zaměstnanec bez pověření). Část mezd vyplatil Z1 předem Úřad práce podle zákona č. 118/2000 Sb. Důkazy: pracovní smlouvy a mzdové listy, doklad o členství/pověření O, výpis z OR (statutární orgán dlužníka), rozhodnutí Úřadu práce o výplatě.
+### Judikatura
 
-**2. Právní otázka.** Může odborová organizace zastupovat zaměstnance při uplatňování jeho pracovněprávních pohledávek v insolvenci a podle jakých pravidel se posuzuje jednání za dlužníka-právnickou osobu a zastoupení účastníků?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 20 — pro jednání za PO/stát/ÚSC a zastoupení účastníků platí obdobně část první hlava třetí OSŘ (odst. 1); odborová organizace může zastupovat zaměstnance při uplatňování pracovněprávních pohledávek (odst. 2).
-- *Související ustanovení téhož zákona:* § 169 odst. 1 písm. a) (mzdové pohledávky jako pohledávky postavené na roveň pohledávkám za podstatou), § 173 a násl. (uplatnění pohledávky), § 14 (účastníci).
-- *Související předpisy:* OSŘ § 21 (jednání za PO), § 21a (za stát), § 21b (za ÚSC), § 22–§ 28a (zastoupení účastníků); zákon č. 118/2000 Sb. (ochrana zaměstnanců při platební neschopnosti zaměstnavatele — výplata z Úřadu práce a regres); zákoník práce (mzdové a související nároky).
-- *Judikatura:* nosný závěr — zastoupení a jednání za subjekty se v insolvenci řídí obecnými pravidly OSŘ (lex specialis IZ zde chybí); zvláštní oprávnění odborové organizace zastupovat zaměstnance je samostatným titulem zastoupení.
-
-**4. Subsumpce.** Zastoupení Z1 odborovou organizací O je výslovně přípustné (§ 20 odst. 2), neboť jde o uplatňování pracovněprávní pohledávky. Jednání za D (PO) se posuzuje podle § 21 OSŘ (statutární orgán, prokurista, pověřený zaměstnanec) — jedná-li osoba bez pověření, není oprávněna za D jednat. Mzdové pohledávky Z1/Z2 mají status pohledávek postavených na roveň (§ 169 odst. 1 písm. a)).
-
-**5. Řešení.** O může Z1 v řízení i v incidenčních sporech zastupovat v rozsahu jeho pracovněprávních nároků. Jednání za D je platné jen činí-li je oprávněná osoba dle § 21 OSŘ; jinak je třeba vadu zastoupení/jednání odstranit. V rozsahu, v jakém mzdy vyplatil Úřad práce, přešel nárok regresně na stát (zákon č. 118/2000 Sb.); zbytek uplatní zaměstnanec (či O za něj) s přednostním statusem dle § 169. Riziko: souběh nároků (Úřad práce vs. zaměstnanec) je třeba správně rozdělit, aby nedošlo k dvojímu uplatnění téže částky.
-
-**6. Varianty.** (a) Kdyby šlo o nárok nepracovněprávní povahy (např. půjčka zaměstnance zaměstnavateli), odborová organizace by ho podle § 20 odst. 2 zastupovat nemohla. (b) Kdyby za D jednal řádně pověřený zaměstnanec či prokurista (§ 21 OSŘ), námitka neoprávněného jednání by neobstála.
-
-### G. Protiargumenty a rizika
-
-- *„Odborová organizace může zastupovat zaměstnance ve všech jeho nárocích."* Ne — jen při uplatňování pracovněprávních pohledávek (§ 20 odst. 2); u jiných nároků toto zvláštní oprávnění neplatí.
-- *„Za právnickou osobu může jednat kterýkoli její zaměstnanec."* Ne — jen statutární orgán, prokurista nebo pověřený zaměstnanec (§ 21 OSŘ); jinak jde o vadu jednání.
-- *Slabé místo:* rozhraní mezi nárokem uspokojeným Úřadem práce (regres státu) a zbývajícím nárokem zaměstnance je třeba pečlivě doložit; bez toho hrozí spor o rozsah a dvojí uplatnění.
-
-### H. Praktický závěr
-
-Paragraf 20 odkazuje pro jednání za PO/stát/ÚSC a pro zastoupení účastníků na obecná pravidla OSŘ (IZ zde nemá vlastní úpravu) a navíc zakotvuje zvláštní oprávnění odborové organizace zastupovat zaměstnance při uplatňování pracovněprávních pohledávek. To je součást vícevrstvé ochrany zaměstnanců insolventního zaměstnavatele (vedle zákona č. 118/2000 Sb. a přednostního statusu mzdových pohledávek dle § 169).
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] U jednání za PO/stát/ÚSC ověř oprávnění jednající osoby podle § 21–§ 21b OSŘ.
-- [ ] U zastoupení účastníků aplikuj § 22–§ 28a OSŘ; u zaměstnance zvaž zastoupení odborovou organizací (§ 20 odst. 2) — jen pro pracovněprávní pohledávky.
-- [ ] Mzdové pohledávky uplatňuj s vědomím přednostního statusu dle § 169 odst. 1 písm. a).
-- [ ] Rozliš část nároku vyplacenou Úřadem práce (regres státu dle zák. č. 118/2000 Sb.) od zbytku uplatňovaného zaměstnancem.
-
-**Typicky rozhodné důkazy / podklady:** pracovní smlouva a mzdové listy, doklad o pověření/členství pro zastoupení odborovou organizací, výpis z OR (oprávnění jednat za dlužníka), rozhodnutí a doklady Úřadu práce o výplatě dle zák. č. 118/2000 Sb., přihláška/uplatnění pohledávky.
+- **NS, usnesení ze dne 31. 8. 2020, sen. zn. 29 ICdo 2/2019, ECLI:CZ:NS:2020:29.ICDO.2.2019.1, R 49/2021.** V řízení o žalobě pro zmatečnost navazujícím na rozhodnutí o úpadku fyzické osoby Nejvyšší soud posuzoval mimo jiné účinky výpovědi procesní plné moci a doručení rozhodnutí o úpadku. V bodech 45 až 47 vyložil, že § 28 odst. 2 o. s. ř. se přes § 20 odst. 1 použije obdobně a že písemnost doručovaná zvláštním způsobem se při zastoupení pro celé řízení doručuje zástupci; doručení advokátní společnosti není bez dalšího doručením konkrétnímu advokátovi. Rozhodné řízení bylo zahájeno v roce 2015; nosný mechanismus § 20 odst. 1 je použitelný i k 19. 7. 2026, konkrétní doručovací pravidla je však třeba číst v aktuálním znění.
+- **NS, usnesení ze dne 30. 11. 2021, sen. zn. 29 NSČR 28/2020, ECLI:CZ:NS:2021:29.NSCR.28.2020.1, R 91/2022.** V insolvenčním řízení nevidomé dlužnice, v němž se řešilo vynětí bytové jednotky z majetkové podstaty, Nejvyšší soud v bodech 19 a 33 až 35 ověřil posloupnost zastoupení a připomněl, že § 29 o. s. ř. platí v insolvenčním řízení a incidenčních sporech „obdobně“ podle § 20 odst. 1, nikoli jen přiměřeně podle § 7. Rozhodnutí vycházelo z řízení zahájeného v roce 2016; uvedené rozlišení obou odkazovacích režimů zůstává při nezměněném mechanismu § 20 odst. 1 použitelné.
 
 ---
 

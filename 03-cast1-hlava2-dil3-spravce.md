@@ -1181,84 +1181,66 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola; tento od
 
 ## § 40 — Osobní výkon funkce, jednání
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Insolvenční správce vykonává svou funkci osobně. Veřejná obchodní společnost vykonává funkci insolvenčního správce ohlášeným společníkem podle § 24 odst. 2.
 > (2) Insolvenční správce může svou funkci vykonávat také prostřednictvím svého zaměstnance nebo zaměstnance dlužníka. Ve zvlášť odůvodněných případech může svou funkci vykonávat prostřednictvím jiných osob, zejména právních, ekonomických a jiných specializovaných odborníků; tím nejsou dotčeny jeho povinnosti ani odpovědnost podle tohoto zákona.
 > (3) Insolvenční správce jedná svým jménem na účet dlužníka, pokud na něho přešlo oprávnění nakládat s majetkovou podstatou. Označuje se způsobem, z něhož je patrno, že tak činí při výkonu funkce insolvenčního správce; součástí jeho označení je i nezaměnitelné označení dlužníka, s jehož majetkovou podstatou nakládá.
 > (4) Jednáním podle odstavce 3 jsou zejména právní úkony, jimiž insolvenční správce zpeněžuje majetkovou podstatu nebo s ní jinak nakládá, a jeho úkony v incidenčních sporech, jakož i v dalších sporech, kterých se účastní místo dlužníka.
 > (5) Insolvenční správce může pověřit svého zaměstnance i zaměstnance dlužníka, aby za něho jednal v jiných soudních a dalších řízeních; tím není dotčena jeho odpovědnost podle tohoto zákona.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *NS* [20 Cdo 4879/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3230B452174C2142C125822F002B7F5F?openDocument) — 1. 12. 2017, kat. A
-  > „V exekučním řízení vedeném pro pohledávku dlužníka za povinným nelze exekučním příkazem soudního exekutora ve smyslu ustanovení § 312 a násl. o. s. ř. postihnout pohledávku povinného týkající se majetkové podstaty dlužníka to platí bez zřetele k tomu, že oprávněným je insolvenční správce dlužníka"
+Ustanovení odděluje dvě otázky. Odstavce 1, 2 a 5 určují, kdo smí funkci nebo jednotlivé úkony vykonávat; odstavce 3 a 4 vymezují, v jakém právním postavení správce jedná poté, co na něj přešlo oprávnění nakládat s majetkovou podstatou. Výkon prostřednictvím zaměstnance zákon připouští obecně, kdežto použití jiné osoby jen ve zvlášť odůvodněném případě. Povinnosti a odpovědnost správce tím nezanikají.
+
+### Souvisící ustanovení
+
+- **§ 24 odst. 2** — určení ohlášeného společníka veřejné obchodní společnosti.
+- **§ 37 odst. 2** — odpovědnost správce za újmu způsobenou osobami použitými při výkonu funkce.
+- **§ 39 odst. 2 a 3** — hrazení činností jiných osob a specializovaných odborníků.
+- **§ 40a** — oddělení majetku správce od titulů týkajících se majetkové podstaty.
+- **§ 45** — mlčenlivost osob, jejichž prostřednictvím správce funkci vykonává.
+- **§ 229 odst. 3 a § 246 odst. 1** — osoba s dispozičními oprávněními a jejich přechod při konkursu.
+
+### Souvisící předpisy
+
+- **§ 1401 odst. 1 a 2 občanského zákoníku** — osobní výkon správce cizího majetku a následek pověření jiné osoby; význam zejména pro řízení podle znění insolvenčního zákona účinného do 31. 5. 2019.
+- **Zákon č. 31/2019 Sb., čl. I body 12 až 15 a čl. VII** — vložení odstavců 1 a 2, přečíslování dosavadních odstavců a navazující změny s účinností od 1. 6. 2019.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva k vládnímu návrhu insolvenčního zákona popisuje dnešní odstavce 3 a 4 jako úpravu právních a procesních úkonů správce po přechodu dispozičních oprávnění. Přirovnává jeho obecné postavení ke komisionáři: správce jedná vlastním jménem na účet dlužníka a při smluvním zpeněžení vystupuje jako prodávající. K vložení dnešních odstavců 1 a 2 vládní důvodová zpráva není; změna byla přijata až na základě poslaneckého pozměňovacího návrhu, jak výslovně zaznamenává R 35/2026 v odstavci 48.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní literární rešerše.
 
 ### Výklad
 
-**Odst. 1 — osobní výkon.** Princip — správce funkci vykonává osobně. V.o.s. — *prostřednictvím ohlášeného společníka*. Funkce není přenositelná na třetí osoby — je vázána na ustanovenou osobu / společníka.
+[1] **Osobní výkon.** Výchozím pravidlem je osobní výkon funkce. Je-li správcem veřejná obchodní společnost, vykonává funkci ohlášeným společníkem oznámeným podle § 24 odst. 2. R 35/2026 vykládá osobní výkon jako znak insolvenční správy majetku, nikoli však jako požadavek, aby správce bez pomoci jiných osob fakticky provedl každou dílčí činnost.
 
-**Odst. 2 — výkon prostřednictvím zaměstnanců a externistů.** Praktický kompromis — správce může:
-- zaměstnance vlastní,
-- zaměstnance dlužníka (zachování know-how),
-- *ve zvlášť odůvodněných případech* — externí odborníky.
+[2] **Zaměstnanci a jiné osoby.** Jednání prostřednictvím vlastního zaměstnance nebo zaměstnance dlužníka se podle R 35/2026, odst. 52, obecně považuje za osobní výkon, neurčuje-li insolvenční zákon pro určitou situaci jinak. Jinou osobu lze použít jen ve zvlášť odůvodněném případě; demonstrativně zákon uvádí právní, ekonomické a jiné specializované odborníky.
 
-> *Pozor*: rozsah pověření *neomezuje odpovědnost* správce. Bez ohledu na to, kdo úkon fakticky provedl, *právní účinky a odpovědnost* dopadají na správce.
+[3] **Povinnosti, odpovědnost a náklady.** Použití osoby podle odstavce 2 se nedotýká povinností ani odpovědnosti správce; § 37 odst. 2 výslovně upravuje jeho odpovědnost za újmu způsobenou těmito osobami. Otázka, zda lze náklady jejich činnosti hradit z majetkové podstaty, se posuzuje samostatně podle § 39 odst. 2 nebo 3.
 
-**Odst. 3 — jednání svým jménem na účet dlužníka.** Toto je **konstrukčně klíčové**:
-- správce **nejedná za dlužníka** (nejde o zastoupení v klasickém smyslu),
-- jedná **svým jménem** (např. uzavírá kupní smlouvu),
-- *účinky* však dopadají na účet dlužníka (resp. majetkovou podstatu).
+[4] **Jednání na účet dlužníka.** Odstavec 3 se uplatní, jen přešlo-li na správce oprávnění nakládat s majetkovou podstatou. Správce pak jedná vlastním jménem, nikoli jménem dlužníka, avšak na jeho účet. Musí být z označení patrný výkon funkce a musí obsahovat nezaměnitelné označení dlužníka.
 
-> *Označení správce*: smluvní strana musí být označena tak, aby bylo zřejmé, že jde o správce v insolvenčním řízení dlužníka X. Formulace typu „JUDr. Jan Novák, insolvenční správce dlužníka ABC s.r.o., IČO 12345678".
+[5] **Rozsah jednání.** Výčet v odstavci 4 je demonstrativní. Zahrnuje hmotněprávní jednání při zpeněžení nebo jiném nakládání s podstatou i procesní úkony v incidenčních a dalších sporech, v nichž správce vystupuje místo dlužníka. Rozsudek 29 Cdo 2772/2016 v odstavcích 26 a 27 odlišuje závazky vzniklé správci jako správci na účet dlužníka od jeho osobní odpovědnosti za újmu podle § 37.
 
-**Odst. 4** — výčet typických úkonů: zpeněžování, incidenční spory, vstup do běžících sporů (kdy nahrazuje dlužníka).
+[6] **Pověření pro jiná řízení.** Odstavec 5 výslovně dovoluje pověřit vlastního zaměstnance nebo zaměstnance dlužníka k jednání za správce v jiných soudních a dalších řízeních. Ani takové pověření neomezuje odpovědnost správce.
 
-**Odst. 5** — pověření zaměstnance k zastoupení v *jiných* řízeních (mimo IZ — typicky civilní spory dlužníka, exekuční řízení vůči dlužníkovým dlužníkům).
+[7] **Následek nepřípustného zmocnění.** Podle R 35/2026, odst. 51, porušení povinnosti zásadně osobního výkonu samo nezpůsobuje neplatnost, zdánlivost ani neúčinnost hmotněprávního jednání nesprávně zmocněné osoby. Nejvyšší soud pro tento případ dovodil společnou a nerozdílnou odpovědnost správce a neoprávněného zmocněnce za vše, co zmocněnec učinil. Tento závěr nelze zaměňovat s následky pouhé vady označení správce podle odstavce 3.
 
-### Vazby
-
-- **§ 24 odst. 2** — v.o.s. a ohlášený společník.
-- **§ 37 odst. 2** — odpovědnost za externí osoby.
-- **§ 246** — přechod dispozičních oprávnění v konkursu.
+[8] **Intertemporalita.** Nové odstavce 1 a 2 platí od 1. 6. 2019. R 35/2026 v odstavci 47 rozlišuje řízení podle dřívějšího znění, pro něž zásadu osobního výkonu opřel o subsidiární § 1401 odst. 1 občanského zákoníku, a řízení podle znění od 1. 6. 2019, kde ji stanoví § 40 odst. 1 přímo. Starší rozhodnutí proto vyžadují kontrolu tehdejšího číslování: dnešní odstavce 3 až 5 byly do 31. 5. 2019 odstavci 1 až 3.
 
 ### Judikatura
 
-- **NS 29 NSČR 47/2013**: úkon správce učiněný bez označení „insolvenční správce dlužníka X" je jeho úkonem osobním, nikoli jako správce. Vede k osobní odpovědnosti.
+- **NS, usnesení ze dne 28. 8. 2025, sen. zn. 29 NSČR 64/2024, ECLI:CZ:NS:2025:29.NSCR.64.2024.1, R 35/2026** — v řízení o schválení konečné zprávy a nákladů správce vyložil osobní výkon funkce, meze použití jiných osob, následek nepřípustného zmocnění a rozdíl mezi režimy před a od 1. 6. 2019; pro § 40 jsou nosné zejména odstavce 47 až 53.
+- **NS, rozsudek ze dne 7. 6. 2018, sp. zn. 29 Cdo 2772/2016, ECLI:CZ:NS:2018:29.CDO.2772.2016.1** — ve sporu z osobní odpovědnosti insolvenčního správce za újmu odlišil v odstavcích 26 a 27 jednání správce vlastním jménem na účet dlužníka od jeho osobní odpovědnosti podle § 37; pracoval s tehdejším zněním § 40, tedy s dnešními odstavci 3 a 4 označenými jako odstavce 1 a 2.
 
-### F. Kazuistika
-
-**1. Modelová situace.** Insolvenční správce v konkursu prodává nemovitost z majetkové podstaty. Kupní smlouvu podepíše jako „Jan Novák", bez uvedení, že jedná jako insolvenční správce dlužníka ABC s.r.o. Po několika měsících kupující požaduje plnění ze smlouvy a žaluje „Jana Nováka" osobně, neboť ze smlouvy není patrné, že šlo o úkon při výkonu funkce na účet dlužníka. Důkazy: kupní smlouva s označením stran, údaj o přechodu dispozičních oprávnění na správce (po prohlášení konkursu), výpis z insolvenčního rejstříku.
-
-**2. Právní otázka.** Jaké účinky má jednání insolvenčního správce „svým jménem na účet dlužníka" podle § 40 odst. 3 a 4 a jaké jsou důsledky toho, neuvede-li správce v označení, že jedná při výkonu funkce a nezamění-li dlužníka?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 40 odst. 1 (osobní výkon; v.o.s. ohlášeným společníkem), odst. 2 (výkon prostřednictvím zaměstnanců/externistů bez dotčení odpovědnosti), odst. 3 (jednání svým jménem na účet dlužníka; povinné označení s nezaměnitelným označením dlužníka), odst. 4 (typové úkony — zpeněžení, incidenční a jiné spory místo dlužníka), odst. 5 (pověření zaměstnance v jiných řízeních).
-- *Související ustanovení téhož zákona:* § 24 odst. 2 (v.o.s. a ohlášený společník), § 37 odst. 2 (odpovědnost za externí osoby), § 246 (přechod dispozičních oprávnění v konkursu).
-- *Související předpisy:* § 436 a násl. OZ (zastoupení — systémové vymezení; zde však jde o jednání vlastním jménem na cizí účet).
-- *Judikatura:* NS 29 NSČR 47/2013 (citováno výše) — úkon správce bez označení „insolvenční správce dlužníka X" je jeho úkonem osobním, vede k osobní odpovědnosti; NS 20 Cdo 4879/2017 (citováno výše) — pohledávku týkající se majetkové podstaty nelze v exekuci vedené pro dlužníka postihnout, byť oprávněným je správce.
-
-**4. Subsumpce.** Správce sice po přechodu dispozičních oprávnění (§ 246) jednal v rámci funkce, avšak v označení neuvedl, že jde o výkon funkce, a nezaměnitelně neoznačil dlužníka → nesplnil požadavek § 40 odst. 3 věty druhé. Dle NS 29 NSČR 47/2013 je proto úkon považován za osobní úkon Jana Nováka. Sporné: zda lze vůli jednat jako správce dovodit z jiných okolností (např. z odkazu na spisovou značku) — výklad je restriktivní.
-
-**5. Řešení.** Vada označení vede k tomu, že smlouva zavazuje správce osobně, nikoli majetkovou podstatu; hrozí osobní odpovědnost a riziko mimo ochranu § 40a. Náprava: oprava/doplnění označení dohodou stran, případně řešení následků osobní odpovědnosti. Procesní krok do budoucna: důsledně užívat formulaci typu „JUDr. Jan Novák, insolvenční správce dlužníka ABC s.r.o., IČO …".
-
-**6. Varianty.** (a) Správcem je v.o.s. → jedná ohlášeným společníkem (§ 40 odst. 1, § 24 odst. 2); chybné označení společníka může mít obdobné následky. (b) Úkon by se týkal jiného soudního řízení dlužníka → správce může pověřit zaměstnance (§ 40 odst. 5), aniž tím dotkne svou odpovědnost.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Z okolností bylo zřejmé, že jednám jako správce, označení je formalita." — Neutralizace: § 40 odst. 3 vyžaduje výslovné označení; dle NS 29 NSČR 47/2013 jeho absence činí úkon osobním, ochrana přechodu účinků na podstatu se neuplatní.
-- *Protiargument:* „Odpovědnost stejně nesu jen v rámci funkce." — Neutralizace: bez správného označení jde o osobní závazek mimo režim jednání na účet dlužníka; věřitel se může domáhat plnění přímo po fyzické osobě.
-- *Slabé místo:* hranice mezi „jednáním na účet dlužníka" a osobním úkonem závisí na formulaci označení; nejednotná praxe a opomenutí vedou ke sporům o pasivní legitimaci.
-
-### H. Praktický závěr
-
-Správce jedná vlastním jménem na účet dlužníka a musí být označen tak, aby bylo patrné, že jedná při výkonu funkce, včetně nezaměnitelného označení dlužníka; chybné označení činí úkon osobním (osobní odpovědnost). Delegace na zaměstnance/externisty nedotýká odpovědnosti správce.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] V každém úkonu uvést, že správce jedná při výkonu funkce, a nezaměnitelně označit dlužníka (název, IČO).
-- [ ] U v.o.s. jednat ohlášeným společníkem a správně jej označit (§ 24 odst. 2).
-- [ ] Ověřit, že na správce přešla dispoziční oprávnění (§ 246), než jedná na účet dlužníka.
-- [ ] Při delegaci úkonů pamatovat na trvající odpovědnost správce (§ 37 odst. 2).
-
-**Typicky rozhodné důkazy / podklady:** listina s označením jednajícího (smlouva, podání), výpis z insolvenčního rejstříku o ustanovení správce a přechodu dispozic, doklady o pověření zaměstnance/externisty.
+Rozhodnutí 29 NSČR 47/2013 není judikaturou k § 40: týká se povinností dlužníka v oddlužení. Z § 40 odst. 3 proto nelze s odkazem na toto rozhodnutí mechanicky dovozovat, že každá vada označení mění jednání na osobní závazek správce; právní následky vyžadují posouzení konkrétního projevu vůle a použitelných pravidel.
 
 ---
 

@@ -735,54 +735,56 @@ Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; je rozhodn
 
 ## § 33 — Zástupce insolvenčního správce
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Je-li to účelné, může insolvenční soud ustanovit insolvenčnímu správci zástupce pro případ, že by ze závažných důvodů nemohl přechodně svou funkci vykonávat. Pro zástupce insolvenčního správce platí § 29 až 31 přiměřeně.
+
+### Přehled výkladu
+
+§ 33 umožňuje insolvenčnímu soudu ustanovit insolvenčnímu správci zástupce. Jde o fakultativní opatření: zákon je váže na účelnost a na možnost, že správce ze závažných důvodů nebude moci přechodně vykonávat funkci. Právní režim zástupce dotváří přiměřené použití § 29 až 31 a zvláštní pravidlo § 35 odst. 2.
+
+### Souvisící ustanovení
+
+- **§ 21 až 25** — ustanovení insolvenčního správce, odmítnutí funkce, nepodjatost a určení osoby správce.
+- **§ 29 až 31** — ustanovení správce schůzí věřitelů, ustanovení soudem po odvolání a odvolání správce z funkce; § 33 na tato ustanovení výslovně odkazuje přiměřeně.
+- **§ 34** — oddělený insolvenční správce pro úkony, z nichž je ustanovený správce vyloučen.
+- **§ 35 odst. 1** — zvláštní insolvenční správce pro zvláštní problematiku vyžadující odbornou specializaci.
+- **§ 35 odst. 2** — obdobné použití ustanovení o správci na ustanovení, odměňování a zprošťování zástupce, odděleného správce a zvláštního správce.
+- **§ 36 a 37** — povinnosti insolvenčního správce a odpovědnost za škodu nebo jinou újmu.
+
+### Souvisící předpisy
+
+- **Zákon č. 312/2006 Sb., o insolvenčních správcích** — upravuje právo vykonávat činnost insolvenčního správce, seznam insolvenčních správců a dohled nad výkonem této činnosti.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona uváděl k § 33 jedinou věcnou informaci: institut zástupce insolvenčního správce se zachovává ve stávající podobě. Jde o zvláštní část důvodové zprávy ke sněmovnímu tisku 1120/0, číslovaná i PDF strana 166. Důvodová zpráva dále nerozvádí znaky účelnosti, závažného důvodu ani přechodnosti.
+
+### Literatura
+
+Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; je rozhodnutím editora odložena do druhého kola.
 
 ### Výklad
 
-*Připravený náhradník* pro situace přechodné překážky (nemoc, dovolená, dlouhodobá nepřítomnost). Soud ustanovuje **preventivně** — zástupce je „v pohotovosti", nastupuje, až nastane překážka.
+[1] **Účel a povaha opatření.** Zástupce má zajistit výkon funkce pro případ přechodné nemožnosti insolvenčního správce. Ustanovení není automatické: slova „je-li to účelné“ a „může“ vyžadují, aby insolvenční soud účelnost posoudil v poměrech konkrétního řízení.
 
-### Vazby
+[2] **Předpokládaná překážka.** Zákon spojuje zástupce s kumulativně vyjádřenými znaky: důvody nemožnosti výkonu musejí být závažné a nemožnost musí být přechodná. § 33 sám neobsahuje výčet závažných důvodů ani jejich domněnky. Nelze proto bez dalšího vytvářet pevný katalog situací, v nichž má být zástupce ustanoven.
 
-- **§ 35 odst. 2** — pravidla pro odměňování a zproštění zástupce.
+[3] **Přechodnost oproti změně správce.** Institut předpokládá, že překážka výkonu funkce pomine. Jestliže je namístě trvalé ukončení funkce správce, systematicky se uplatní pravidla o odvolání nebo zproštění a o ustanovení nového správce, nikoli § 33 jako trvalá náhrada správce.
 
-### Praxe
+[4] **Přiměřené použití § 29 až 31.** Odkaz neznamená mechanické převzetí každého pravidla. Použije se jen taková část odkazovaných ustanovení a v takové podobě, která odpovídá povaze zástupce a účelu § 33. § 35 odst. 2 tuto vazbu doplňuje výslovným obdobným použitím ustanovení o insolvenčním správci při ustanovení do funkce, odměňování a zprošťování funkce zástupce.
 
-V běžných řízeních se zástupce neustanovuje — pro krátkodobou nepřítomnost stačí standardní agenda v.o.s.-správce nebo kanceláře. Spíše pro reorganizace dlouhodobé (12+ měsíců), kde personální výpadek by mohl být kritický.
+[5] **Odlišení od jiných osob.** Zástupce podle § 33 není odděleným správcem podle § 34 ani zvláštním správcem podle § 35 odst. 1. První z těchto institutů řeší vyloučení správce z určitých úkonů a druhý zvláštní problematiku vyžadující odbornou specializaci; § 33 naproti tomu míří na přechodnou nemožnost výkonu funkce ze závažných důvodů.
 
-### F. Kazuistika
+[6] **Meze výkladu.** Samotný § 33 neurčuje typ řízení, v němž má být zástupce ustanoven, nestanoví minimální předpokládanou délku překážky a neupravuje zvláštní formální „aktivaci“ zástupce. Takové požadavky proto nelze prezentovat jako obecná zákonná pravidla bez opory v konkrétním rozhodnutí soudu a okolnostech věci.
 
-**1. Modelová situace.** V náročné reorganizaci výrobního podniku s předpokládanou délkou 18 měsíců soud uváží, že hrozí riziko personálního výpadku jediného ustanoveného správce (zdravotní stav, dlouhé zahraniční jednání s věřiteli). Věřitelský výbor navrhne, aby soud preventivně ustanovil zástupce správce pro případ přechodné překážky. Důkazy: rozhodnutí o povolení reorganizace, harmonogram plnění plánu, odůvodnění účelnosti (komplexita, délka).
+[7] **Intertemporální poznámka.** Znění § 33 v aktuální oficiální verzi účinné od 1. ledna 2026 odpovídá textu § 33 v původním vládním návrhu. Původní důvodová zpráva je proto použitelná k omezenému historickému závěru o zachování institutu; neposkytuje však podrobnější výklad jeho neurčitých znaků.
 
-**2. Právní otázka.** Za jakých podmínek je „účelné" ustanovit insolvenčnímu správci zástupce podle § 33 a jaký je jeho právní režim, zejména ve vztahu k ustanovení, odměňování a zproštění?
+### Judikatura
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 33 — soud může ustanovit zástupce „je-li to účelné" pro případ, že by správce ze závažných důvodů nemohl přechodně funkci vykonávat; přiměřené použití § 29 až 31.
-- *Související ustanovení téhož zákona:* § 35 odst. 2 (pro ustanovení, odměňování a zproštění zástupce platí úprava o správci obdobně), § 31 (odvolání), § 32 (zproštění).
-- *Související předpisy:* zákon o IS (kvalifikační předpoklady i pro zástupce — musí být osoba ze seznamu).
-- *Judikatura:* k obecnému standardu výkonu funkce (jenž platí i pro zástupce) srov. NS 29 NSČR 9/2014 (citováno u § 37).
-
-**4. Subsumpce.** Reorganizace dlouhého trvání s rizikem personálního výpadku naplňuje znak „účelnosti" preventivního ustanovení zástupce; „závažné důvody" přechodné překážky jsou předvídatelné (zdraví, dlouhá jednání). Zástupce musí splňovat kvalifikaci jako správce (§ 35 odst. 2 ve spojení s § 21). Sporné: zda u řízení standardní délky a složitosti by účelnost byla dána (spíše ne).
-
-**5. Řešení.** Soud ustanoví zástupce, který je „v pohotovosti" a nastupuje teprve při vzniku překážky; jeho ustanovení, odměňování a zproštění se řídí obdobně úpravou o správci (§ 35 odst. 2). U běžných řízení se zástupce neustanovuje (postačí agenda kanceláře/v.o.s.). Procesní krok: vymezit v rozhodnutí okamžik aktivace zástupce a jeho vztah ke správci.
-
-**6. Varianty.** (a) Krátkodobá nepřítomnost správce v běžném konkursu → zástupce není účelný; postačí standardní zastoupení v rámci kanceláře. (b) Trvalé odpadnutí správce (nikoli přechodné) → neaplikuje se § 33 (zástupce), nýbrž odvolání a ustanovení nového dle § 31.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Zástupce je zbytečná duplicita zvyšující náklady." — Neutralizace: ustanovuje se jen „je-li to účelné" a aktivuje se teprve při překážce; u dlouhých reorganizací předchází kritickému výpadku.
-- *Protiargument:* „Zástupce může nastoupit kdykoli místo správce." — Neutralizace: nastupuje pouze pro případ přechodné nemožnosti výkonu ze závažných důvodů, nikoli libovolně.
-- *Slabé místo:* nejasné vymezení okamžiku „nastoupení" zástupce a dělby odpovědnosti mezi správcem a zástupcem může vést ke sporům; je vhodné je upravit přímo v rozhodnutí.
-
-### H. Praktický závěr
-
-Zástupce správce je preventivní institut pro přechodnou nemožnost výkonu funkce ze závažných důvodů; ustanovuje se jen je-li to účelné (typicky dlouhé/složité reorganizace) a řídí se obdobně úpravou o správci.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Posoudit účelnost (délka a složitost řízení, riziko výpadku) před ustanovením zástupce.
-- [ ] Ověřit kvalifikaci zástupce jako řádného správce (§ 35 odst. 2, § 21).
-- [ ] V rozhodnutí vymezit okamžik aktivace zástupce a jeho vztah ke správci.
-
-**Typicky rozhodné důkazy / podklady:** rozhodnutí o způsobu řešení úpadku (zejm. reorganizace), harmonogram řízení, odůvodnění účelnosti, výpis ze seznamu k osobě zástupce.
+V tomto kole není citováno rozhodnutí, které by bylo použito jako nosný pramen výkladu § 33. Cílené vyhledání na oficiálních webech nevedlo k zařazení rozhodnutí, jehož plný text by přímo vykládal podmínky ustanovení zástupce podle tohoto ustanovení. Obecná rozhodnutí o osobním výkonu funkce nebo o zastoupení při jednotlivém úkonu nebyla na § 33 přenášena.
 
 ---
 

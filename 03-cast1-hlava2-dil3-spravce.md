@@ -1246,59 +1246,60 @@ Rozhodnutí 29 NSČR 47/2013 není judikaturou k § 40: týká se povinností dl
 
 ## § 40a — Vyloučení exekuce na majetek správce
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Na základě rozhodnutí a jiných exekučních titulů vzniklých v průběhu insolvenčního řízení proti insolvenčnímu správci pro pohledávky nebo jiná práva, která se týkají majetkové podstaty nebo která mají být uspokojena z majetkové podstaty, nelze vést výkon rozhodnutí na majetek insolvenčního správce; to neplatí, jde-li o pořádková opatření uložená insolvenčnímu správci v souvislosti s takovými řízeními, a o rozhodnutí, jimiž bylo insolvenčnímu správci uloženo nahradit náklady řízení, které způsobil svým zaviněním nebo které vznikly náhodou, která se mu přihodila.
+
+### Přehled výkladu
+
+Ustanovení odděluje majetek, který insolvenční správce spravuje na účet dlužníka, od vlastního majetku správce. Z titulu vzniklého v průběhu insolvenčního řízení proti správci nelze postihnout jeho vlastní majetek, jestliže se přiznaná pohledávka nebo jiné právo týká majetkové podstaty nebo má být z podstaty uspokojeno. Zákaz neplatí pro pořádková opatření ani pro náhradu nákladů řízení způsobených zaviněním správce nebo náhodou, která se mu přihodila. Samotný titul proti správci ještě neurčuje, z kterého majetku lze plnění vymoci; rozhodný je jeho obsah a právní důvod.
+
+### Souvisící ustanovení
+
+- **§ 37** — osobní majetková odpovědnost insolvenčního správce za škodu nebo jinou újmu.
+- **§ 40 odst. 3 a 4** — jednání správce vlastním jménem na účet dlužníka a jeho procesní vystupování místo dlužníka.
+- **§ 81 odst. 2** — pořádková pokuta insolvenčnímu správci.
+- **§ 168 odst. 2 a 3** — pohledávky za majetkovou podstatou a jejich uspokojování.
+- **§ 202 odst. 2** — náklady řízení způsobené zaviněním správce nebo náhodou, která se mu přihodila.
+- **§ 203 odst. 1 a 3 až 5** — uplatnění pohledávek za podstatou, žaloba při jejich neuspokojení a určení majetku podstaty použitelného k uspokojení.
+- **§ 267** — návrh na výkon rozhodnutí nebo exekuci v konkursu a vztah k insolvenčnímu správci.
+
+### Souvisící předpisy
+
+- **§ 251 a násl. občanského soudního řádu** — výkon rozhodnutí.
+- **§ 268 odst. 1 písm. h) občanského soudního řádu** — zastavení nepřípustného výkonu rozhodnutí; Nejvyšší soud jej použil při zastavení exekuce odporující § 40a.
+- **Zákon č. 120/2001 Sb., exekuční řád** — exekuční řízení; § 40a je zvláštním insolvenčním omezením postihu majetku správce.
+- **Zákon č. 294/2013 Sb.** — přesunul pravidlo z § 267 odst. 3 do § 40a s účinností od 1. 1. 2014.
+
+### Z důvodové zprávy
+
+Důvodová zpráva k vládnímu návrhu pozdějšího zákona č. 294/2013 Sb. výslovně uvádí, že pravidlo nového § 40a přebírá z dosavadního § 267 odst. 3. Přesun z konkursní části do obecné části odůvodňuje tím, že pravidlo má platit bez zřetele ke zvolenému způsobu řešení úpadku. Nešlo tedy o zavedení nové osobní výsady správce, ale o zobecnění již existujícího oddělení spravované podstaty od jeho vlastního majetku.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tato poznámka není výsledkem negativní literární rešerše.
 
 ### Výklad
 
-**Personální imunita správce** — pokud věřitel získá exekuční titul vůči správci (z pohledávky vzniklé v řízení, mířící proti podstatě), **nemůže vést exekuci na osobní majetek správce**. Exekuce by se měla vést jen vůči majetkové podstatě dlužníka.
+[1] **Předpoklady zákazu.** § 40a vyžaduje titul vzniklý v průběhu insolvenčního řízení proti insolvenčnímu správci a současně pohledávku nebo jiné právo, které se týká majetkové podstaty nebo má být z podstaty uspokojeno. Nestačí tedy ani samotná časová souvislost s řízením, ani pouhé označení správce jako povinného.
 
-**Výjimky**:
-- *pořádková opatření* (pokuty uložené správci za nesplnění povinností),
-- *náhrada nákladů řízení* zaviněně způsobených správcem.
+[2] **Chráněný majetek.** Zákaz míří na vlastní majetek insolvenčního správce. Nejvyšší soud zdůrazňuje, že správce majetkovou podstatu pouze spravuje jako cizí majetek; titul ukládající mu plnit jako představiteli podstaty nelze bez dalšího interpretovat jako jeho osobní majetkovou povinnost.
 
-### Smysl
+[3] **Pohledávky za podstatou.** Jestliže jde o pohledávku za majetkovou podstatou, věřitel ji nejprve písemně uplatní vůči osobě s dispozičními oprávněními (§ 203 odst. 1). Není-li plně a včas uspokojena, může podat žalobu podle § 203 odst. 4; po právní moci rozhodnutí insolvenční soud na návrh určí lhůtu k uspokojení a část podstaty, kterou lze použít (§ 203 odst. 5). § 40a proto nelze číst jako samostatné oprávnění k přímému postihu kteréhokoli majetku podstaty.
 
-Bez této imunity by správce nesl *neúměrné riziko* — žaloby věřitelů za pohledávky podstaty by mohly ohrozit jeho osobní majetek. Zákon však chrání oprávněné nároky věřitelů (§ 37 — odpovědnost za škodu).
+[4] **Náklady řízení.** Náklady přiznané proti osobě s dispozičními oprávněními ve sporu vedeném při správě nebo vymáhání majetku dlužníka mohou být pohledávkou za majetkovou podstatou. Výjimku tvoří rozhodnutí o nákladech, které insolvenční správce způsobil svým zaviněním nebo které vznikly náhodou, která se mu přihodila; takový titul zákazem postihu jeho majetku chráněn není. Rozlišení musí vycházet z konkrétního nákladového výroku a jeho důvodu.
 
-### Vazby
+[5] **Osobní odpovědnost.** Nárok na náhradu škody nebo jiné újmy podle § 37 je osobním nárokem proti fyzické či právnické osobě vykonávající funkci správce. Nejvyšší soud proto požaduje, aby žalovaný nebyl v takovém sporu označen jen jako představitel podstaty; z pravomocně přiznaného osobního nároku se plní z vlastního majetku správce. Jde o odlišnou sféru od titulů chráněných § 40a.
 
-- **§ 37** — odpovědnost za škodu (toto omezení se neuplatní — exekuce za škodu je možná z osobního majetku správce).
-- **§ 81** — pořádková pokuta.
+[6] **Historie a intertemporalita.** Od 1. 1. 2008 obsahoval stejné pravidlo § 267 odst. 3, avšak v úpravě účinků konkursu. Zákon č. 294/2013 Sb. je od 1. 1. 2014 přesunul do § 40a a vztáhl na všechny způsoby řešení úpadku. Podle čl. II novely se nové znění použilo i v dříve zahájených insolvenčních řízeních, přičemž právní účinky dřívějších úkonů zůstaly zachovány.
 
-### F. Kazuistika
+### Judikatura
 
-**1. Modelová situace.** Insolvenční správce v rámci provozu podniku v majetkové podstatě uzavřel za řízení smlouvu o dodávce energií; dodavatel za neuhrazené dodávky (pohledávka za podstatou) získá proti správci platební rozkaz a navrhne exekuci na osobní bankovní účet správce. Souběžně soud uložil témuž správci pořádkovou pokutu za opožděnou zprávu a náhradu nákladů incidenčního sporu, který správce zavinil procesním pochybením. Důkazy: exekuční titul a jeho právní důvod (pohledávka týkající se podstaty vs. pořádková pokuta vs. zaviněné náklady), exekuční návrh.
-
-**2. Právní otázka.** Lze proti insolvenčnímu správci vést výkon rozhodnutí na jeho osobní majetek pro pohledávky týkající se majetkové podstaty (§ 40a), a na které tituly se vyloučení exekuce nevztahuje?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 40a — vyloučení výkonu rozhodnutí na majetek správce pro pohledávky/práva týkající se podstaty nebo uspokojitelné z podstaty; výjimky pro pořádková opatření a pro náhradu nákladů řízení způsobených zaviněním správce nebo vzniklých náhodou, jež se mu přihodila.
-- *Související ustanovení téhož zákona:* § 37 (odpovědnost za škodu — exekuce na osobní majetek za škodu vyloučena není), § 81 (pořádková pokuta), § 168 (pohledávky za podstatou — uspokojení z podstaty).
-- *Související předpisy:* § 251 a násl. OSŘ, zákon č. 120/2001 Sb. (exekuční řád) — přiměřeně.
-- *Judikatura:* NS 20 Cdo 4879/2017 (citováno u § 40) — pohledávku týkající se majetkové podstaty nelze v exekuci postihnout, byť oprávněným je správce — potvrzuje oddělení sféry podstaty od osobní sféry správce.
-
-**4. Subsumpce.** Pohledávka dodavatele energií je pohledávkou týkající se majetkové podstaty (vznikla z úkonu správce při provozu podniku) → výkon rozhodnutí na osobní majetek správce je dle § 40a vyloučen; věřitel se uspokojí z podstaty (§ 168). Naproti tomu pořádková pokuta a náhrada nákladů zaviněně způsobených správcem spadají pod výjimky § 40a → pro ně lze exekuci na osobní majetek vést. Sporné: zařazení konkrétního titulu (zda náklady vznikly zaviněním správce).
-
-**5. Řešení.** Exekuce dodavatele na osobní účet správce je nepřípustná (§ 40a); dodavatel musí svou pohledávku za podstatou uspokojit v insolvenčním řízení. Pro pořádkovou pokutu a zaviněně způsobené náklady naopak exekuce na osobní majetek možná je. Procesní krok správce: bránit se proti nepřípustné exekuci (zastavení výkonu) s poukazem na § 40a a NS 20 Cdo 4879/2017.
-
-**6. Varianty.** (a) Titul by zněl na náhradu škody způsobené správcem (§ 37) → § 40a se neuplatní, exekuce na osobní majetek je přípustná (chrání oprávněné nároky poškozených). (b) Pohledávka by nesouvisela s podstatou ani by neměla být z podstaty uspokojena → § 40a nedopadá, jde o běžný osobní dluh správce.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Mám exekuční titul proti správci, mohu vést exekuci na jeho majetek." — Neutralizace: § 40a vylučuje výkon na osobní majetek u titulů týkajících se podstaty; uspokojení patří do insolvenčního řízení (§ 168), jak potvrzuje NS 20 Cdo 4879/2017.
-- *Protiargument:* „Vyloučení exekuce kryje správce i za jeho pochybení." — Neutralizace: výjimky § 40a (pořádková opatření, zaviněné náklady) a samostatně § 37 (škoda) osobní majetek správce exekuci vystavují; imunita není absolutní.
-- *Slabé místo:* správné zařazení titulu (pohledávka podstaty vs. výjimka) je klíčové; nesprávné posouzení vede buď k nepřípustné exekuci, nebo k nedůvodnému odepření výkonu.
-
-### H. Praktický závěr
-
-Pro pohledávky týkající se majetkové podstaty nelze vést exekuci na osobní majetek správce — uspokojují se z podstaty; výjimkou jsou pořádková opatření a náklady zaviněně způsobené správcem a samostatně odpovědnost za škodu (§ 37), u nichž je výkon na osobní majetek přípustný.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Určit právní důvod titulu (pohledávka týkající se podstaty vs. pořádkové opatření / zaviněné náklady / náhrada škody).
-- [ ] U pohledávek podstaty směřovat uspokojení do insolvenčního řízení (§ 168), nikoli do exekuce na správce.
-- [ ] Proti nepřípustné exekuci uplatnit § 40a (návrh na zastavení výkonu).
-
-**Typicky rozhodné důkazy / podklady:** exekuční titul a jeho odůvodnění (právní důvod pohledávky), doklady o vzniku pohledávky z úkonu správce při výkonu funkce, případně rozhodnutí o pořádkové pokutě či o nákladech zaviněných správcem.
+- **NS, usnesení ze dne 28. 4. 2022, sp. zn. 29 Cdo 3391/2020, ECLI:CZ:NS:2022:29.CDO.3391.2020.1, R 97/2022** — v exekuci vedené bývalým správcem proti aktuální správkyni pro přiznaný podíl na jediné celkové odměně správců uzavřel, že jde o pohledávku za podstatou, nikoli osobní dluh správkyně; exekuci na její majetek zastavil. Nosné jsou body 25 až 44, zejména 41 až 43.
+- **NS, rozsudek ze dne 17. 2. 2021, sen. zn. 29 ICdo 34/2020, ECLI:CZ:NS:2021:29.ICDO.34.2020.1, R 76/2021** — ve sporu o pořadí nákladů přiznaných po rozhodnutí o úpadku vyložil, že náklady vzniklé při vymáhání pohledávky dlužníka osobou s dispozičními oprávněními jsou pohledávkou za podstatou, nejde-li o výjimku za středníkem § 40a. Nosné jsou body 14 až 21; bod 16 obsahuje intertemporální kontrolu.
+- **NS, rozsudek ze dne 7. 6. 2018, sp. zn. 29 Cdo 2772/2016, ECLI:CZ:NS:2018:29.CDO.2772.2016.1, R 72/2019** — ve sporu o náhradu škody podle § 37 odlišil osobní majetkovou odpovědnost správce od jeho vystupování jako představitele podstaty; vadné označení žalovaného v této druhé roli by vylučovalo exekuční uspokojení z jeho osobního majetku. Nosné jsou body 20 a 26 až 28. Rozhodnutí pracovalo s tehdejším § 40 odst. 1 a 2, které odpovídají dnešnímu § 40 odst. 3 a 4.
 
 ---
 

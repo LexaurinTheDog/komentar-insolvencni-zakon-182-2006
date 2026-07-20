@@ -607,6 +607,10 @@ Pro výše uvedené materiální závěry nebylo v tomto kole použito žádné 
 
 ## § 31 — Odvolání správce soudem (bez porušení povinností)
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Z důležitých důvodů, které nemají původ v porušení povinností insolvenčního správce, může insolvenční soud na návrh insolvenčního správce nebo věřitelského orgánu anebo i bez tohoto návrhu odvolat insolvenčního správce z funkce. Učiní tak zpravidla po slyšení insolvenčního správce; o podaném návrhu rozhodne neprodleně.
 >
 > (2) Insolvenčního správce ustanoveného postupem podle § 29 odst. 1 až 3 insolvenční soud odvolá z funkce i tehdy, požádá-li o to do 3 dnů poté, co se o svém ustanovení dozvěděl; to neplatí, jestliže insolvenční správce se svým ustanovením předem souhlasil.
@@ -621,85 +625,49 @@ Pro výše uvedené materiální závěry nebylo v tomto kole použito žádné 
 >
 > (7) Ustanovení § 29 odst. 4 platí obdobně.
 
+### Přehled výkladu
+
+§ 31 upravuje změnu v osobě správce rozhodnutím insolvenčního soudu. Odstavec 1 vyžaduje důležitý důvod bez původu v porušení povinností správce; odstavec 3 zvlášť reaguje na zánik nebo pozastavení práva vykonávat činnost. V těchto případech zákon užívá sloveso „může“. Naproti tomu při včasné žádosti správce ustanoveného věřiteli podle odstavce 2 a v případech odstavce 4 soud správce „odvolá“.
+
+### Souvisící ustanovení
+
+- **§ 25 odst. 3** — výběr správce se zvláštním povolením pro vymezené dlužníky.
+- **§ 26** — důvody samostatného odvolání proti výroku o ustanovení nového správce.
+- **§ 29 odst. 1 až 4** — ustanovení správce schůzí věřitelů; zpráva a vyúčtování odvolaného správce.
+- **§ 30 odst. 1** — ustanovení správce soudem po odvolání správce podle § 31 odst. 2.
+- **§ 32** — zproštění správce pro porušování nebo závažné porušení povinností.
+- **§ 33** — zástupce pro přechodnou nemožnost výkonu funkce.
+- **§ 37** — odpovědnost insolvenčního správce za škodu nebo jinou újmu.
+
+### Souvisící předpisy
+
+- **Zákon č. 312/2006 Sb., o insolvenčních správcích** — upravuje povolení, zvláštní povolení, pozastavení a zánik práva vykonávat činnost, na něž § 31 odst. 3 a 4 výslovně navazuje.
+
+### Z důvodové zprávy
+
+Zvláštní část důvodové zprávy k původnímu vládnímu návrhu vysvětluje § 31 a § 32 společně: záměrem bylo odlišit odvolání z důležitých důvodů bez původu v pochybeních správce od zproštění, jímž je sankcionován správce neplnící řádně povinnosti. Jde o vysvětlení původní koncepce; dnešní jednotlivé případy a jejich procesní následky je nutno určit podle aktuálního znění zákona. (Sněmovní tisk 1120/0, 4. volební období, zvláštní část „K § 31 a 32“, číslovaná s. 166, PDF s. 167.)
+
+### Literatura
+
+Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; její zpracování je odloženo do druhého kola.
+
 ### Výklad
 
-**„Odvolání" vs. „zproštění"** — *terminologie:*
-- **Odvolání** (§ 31) — *bez vlastního zavinění* správce (např. ztráta povolení, ze zdravotních důvodů, na vlastní žádost).
-- **Zproštění** (§ 32) — *sankční* — pro porušení povinností.
+[1] **Dvě samostatné právní situace.** Odstavec 1 je obecnou úpravou důležitého důvodu, který nemá původ v porušení povinností správce. Tím se liší od § 32. Odstavec 3 naproti tomu výslovně zachycuje zánik práva ze zákona nebo jeho pozastavení podle zákona o insolvenčních správcích. U obou ustanovení zákon ponechává soudu rozhodnutí, zda správce odvolá („může“); nelze proto samotný vznik podmínky textově zaměnit za automatický zánik funkce v konkrétním řízení.
 
-#### Odst. 1 — odvolání pro „důležité důvody" bez porušení povinností
+[2] **Návrh a slyšení.** Podle odstavce 1 mohou návrh podat správce nebo věřitelský orgán, soud však může postupovat i bez návrhu. Odstavec 3 přidává dlužníka. U odstavce 1 soud správce zpravidla slyší; u odstavce 3 jej slyší, pokud to okolnosti dovolují. O podaném návrhu má v obou případech rozhodnout neprodleně.
 
-Typicky:
-- *zdravotní stav* znemožňující výkon funkce,
-- *odchod do důchodu, ukončení činnosti* správce,
-- *organizační důvody* (např. v.o.s.-správce se rozdělí, společník odejde),
-- *kvalifikační překážky* (změna oboru činnosti).
+[3] **Správce ustanovený věřiteli.** Odstavec 2 poskytuje správci ustanovenému postupem podle § 29 odst. 1 až 3 třídenní lhůtu od chvíle, kdy se o ustanovení dozvěděl. Požádá-li včas, soud jej odvolá; toto právo nemá správce, který s ustanovením předem souhlasil. Následné ustanovení správce soudem upravuje § 30 odst. 1.
 
-Iniciativa: správce sám / věřitelský orgán / soud z úřední povinnosti. Před rozhodnutím *zpravidla* slyšení správce (procesní garance).
+[4] **Obligatorní případy odstavce 4.** Je-li naplněna některá ze situací výslovně popsaných v odstavci 4, zákon soudu neuděluje uvážení a ukládá mu správce odvolat. Poslední věta současně ukládá správci informační povinnost, vyjde-li dodatečně najevo zvláštní status dlužníka a správce nebyl ustanoven postupem podle § 25 odst. 3.
 
-#### Odst. 2 — okamžité odvolání správce ustanoveného schůzí věřitelů
+[5] **Nový správce a opravný prostředek.** Při odvolání podle § 31 soud současně ustanoví nového správce. Proti rozhodnutí je odvolání přípustné, avšak proti samotnému výroku o ustanovení nového správce lze podat samostatné odvolání jen z důvodů podle § 26.
 
-Pokud schůze ustanovila správce, který nedal předem souhlas, může do **3 dnů** požádat o odvolání. Smysl — ochrana proti nechtěnému vnucení funkce.
+[6] **Kontinuita agendy a odpovědnost.** Odvolaný správce musí bez zbytečného odkladu informovat nástupce a předat mu všechny doklady související s výkonem funkce. Jeho odpovědnost za dobu výkonu funkce nezaniká. Prostřednictvím odstavce 7 se obdobně použije § 29 odst. 4, tedy povinnost podat soudu zprávu o činnosti a vyúčtovat odměnu, hotové výdaje a náklady.
 
-#### Odst. 3 — pozastavení / zánik práva podle zákona o IS
+### Judikatura
 
-Pokud správci zaniká nebo bylo pozastaveno právo vykonávat činnost správce (např. nezaplacení pojistného, nesložení doškolovací zkoušky, věkový limit), soud ho z funkce *může* odvolat.
-
-#### Odst. 4 — zrušení povolení ministerstvem
-
-*Obligatorní* odvolání. Pokud ministerstvo zrušilo povolení nebo zaniklo právo dočasné/příležitostné činnosti hostujícího správce, soud správce **musí** odvolat. Stejně tak pro správce s zvláštním povolením, které bylo zrušeno (§ 25 odst. 3).
-
-**Sebenahláška správce** — pokud správce dodatečně zjistí, že dlužník je osobou podle § 3 odst. 2 zák. o IS (kvalifikovaný dlužník), ale on sám nemá zvláštní povolení, *musí* to soudu sdělit a soud ho odvolá.
-
-#### Odst. 5 — automatické ustanovení náhradníka
-
-Soud odvolává a *současně* ustanovuje nového. Odvolání proti ustanovení nového je možné jen z důvodů § 26 (kvalifikace, podjatost).
-
-#### Odst. 6 — předání agendy
-
-Důležitá kontinuita — odvolaný správce **musí předat veškeré doklady, informace** novému. **Odpovědnost za období jeho výkonu nezaniká** — případné nároky věřitelů (např. za škodu) lze uplatnit i po odvolání.
-
-### Vazby
-
-- **§ 25** — ustanovení nového správce.
-- **§ 32** — zproštění (sankční odvolání).
-- **§ 37** — odpovědnost správce za škodu.
-
-### F. Kazuistika
-
-**1. Modelová situace.** Insolvenčnímu správci, který řádně vede 60 řízení, ministerstvo pozastaví právo vykonávat činnost (nesložil v termínu povinné doškolení a opožděně doložil pojištění). V jednom z jeho řízení (konkurs uprostřed zpeněžování) podá věřitelský výbor návrh na odvolání správce. Správce namítá, že nejde o porušení povinností vůči danému řízení a že pozastavení je dočasné. Důkazy: rozhodnutí ministerstva o pozastavení práva, doklad o stavu řízení, návrh věřitelského výboru.
-
-**2. Právní otázka.** Je pozastavení práva vykonávat činnost insolvenčního správce podle zákona o IS důvodem pro odvolání podle § 31 (bez porušení povinností ve smyslu § 32), a jde o odvolání fakultativní, nebo obligatorní?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 31 odst. 1 (odvolání z důležitých důvodů bez původu v porušení povinností), odst. 3 (zánik/pozastavení práva dle zákona o IS — soud „může" odvolat), odst. 4 (zrušení povolení — soud „odvolá", obligatorně; sebenahláška u § 3 odst. 2 dlužníka), odst. 5 (současné ustanovení nového; opravný prostředek), odst. 6 (předání agendy, trvání odpovědnosti).
-- *Související ustanovení téhož zákona:* § 32 (zproštění — sankční, pro porušení povinností), § 25 (ustanovení nového), § 29 odst. 4 (zpráva a vyúčtování — přiměřeně dle § 31 odst. 7), § 37 (přetrvávající odpovědnost).
-- *Související předpisy:* zákon o IS (pozastavení a zánik práva, zrušení povolení), § 3 odst. 2 zákona o IS (kvalifikovaní dlužníci).
-- *Judikatura:* k odlišení sankčního a nesankčního odchodu z funkce srov. systémově NS 29 NSČR 7/2012 (citováno u § 32) — drobná pochybení nejsou důvodem zproštění.
-
-**4. Subsumpce.** Pozastavení práva je důvodem nemajícím původ v porušení povinností vůči konkrétnímu řízení → spadá pod § 31 odst. 3, nikoli pod § 32. Jelikož jde o pozastavení (nikoli zrušení povolení dle odst. 4), je odvolání fakultativní („může"). Sporné: zda dočasnost pozastavení a pokročilý stav zpeněžování neodůvodňují vyčkání či ustanovení zástupce (§ 33).
-
-**5. Řešení.** Soud zpravidla po slyšení správce rozhodne dle § 31 odst. 3 — vzhledem k tomu, že správce nesmí dočasně vykonávat činnost, je namístě odvolání a současné ustanovení nového (§ 31 odst. 5); alternativně, jde-li o krátkou přechodnou překážku, lze využít zástupce dle § 33. Odvolaný správce předá agendu (§ 31 odst. 6) a jeho odpovědnost za dobu výkonu nezaniká. Odvolání proti rozhodnutí je přípustné (proti ustanovení nového jen z důvodů § 26).
-
-**6. Varianty.** (a) Ministerstvo by povolení zrušilo (nikoli pozastavilo) → odvolání je obligatorní (§ 31 odst. 4), soud nemá uvážení. (b) Dodatečně by vyšlo najevo, že dlužník je osobou dle § 3 odst. 2 a správce nemá zvláštní povolení → správce to musí soudu oznámit a soud ho odvolá (§ 31 odst. 4 in fine).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Odvolání = sankce, proto se mě nemůže týkat, když jsem nic neporušil v tomto řízení." — Neutralizace: § 31 je nesankční nástroj; odvolání zde reaguje na ztrátu/pozastavení oprávnění, nikoli na pochybení, a od § 32 (zproštění) se liší.
-- *Protiargument:* „Pozastavení je dočasné, soud má vyčkat." — Neutralizace: i dočasná nezpůsobilost ohrožuje řízení; soud volí mezi odvoláním (odst. 3) a zástupcem (§ 33) podle délky překážky a stavu řízení.
-- *Slabé místo:* záměna § 31 a § 32 má praktické důsledky (kárná a odpovědnostní konotace, okruh navrhovatelů); nesprávné označení může být napadeno odvoláním.
-
-### H. Praktický závěr
-
-§ 31 řeší nesankční odchod správce (ztráta/pozastavení oprávnění, zdravotní a organizační důvody, vlastní žádost); při zrušení povolení je odvolání obligatorní, soud současně ustanoví nového a odpovědnost odvolaného za minulé období trvá.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Odlišit důvod dle § 31 (bez porušení povinností) od sankčního zproštění dle § 32.
-- [ ] Určit, zda jde o fakultativní (odst. 3) či obligatorní (odst. 4) odvolání.
-- [ ] Zvážit zástupce (§ 33) u krátkodobé přechodné překážky.
-- [ ] Zajistit předání agendy novému správci a vyúčtování (§ 31 odst. 6, 7).
-
-**Typicky rozhodné důkazy / podklady:** rozhodnutí ministerstva o pozastavení/zrušení práva či povolení, doklad o stavu řízení a zpeněžování, návrh oprávněné osoby, protokol o předání agendy.
+Do tohoto vydání není zařazeno žádné soudní rozhodnutí. Dřívější odkaz na 29 NSČR 7/2012 nebyl po otevření dostupných primárních podkladů použit jako autorita k § 31; bez ověřeného plného textu, skutkového a procesního kontextu a přímé vazby na vykládanou otázku nelze jeho údajný závěr převzít.
 
 ---
 

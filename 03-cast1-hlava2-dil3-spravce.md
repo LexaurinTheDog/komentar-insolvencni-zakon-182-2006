@@ -543,49 +543,65 @@ Pro výše uvedené materiální závěry nebylo v tomto kole použito žádné 
 
 ## § 30 — Odvolání bez ustanovení nového správce
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Přijme-li schůze věřitelů usnesení o odvolání ustanoveného insolvenčního správce, aniž se usnese na ustanovení insolvenčního správce nového, nebo byl-li touto schůzí ustanovený insolvenční správce odvolán z funkce podle § 31 odst. 2, ustanoví insolvenčního správce svým rozhodnutím insolvenční soud; pro takto ustanoveného insolvenčního správce se § 29 odst. 1 nepoužije.
 > (2) Jestliže v důsledku rozhodnutí insolvenčního soudu o odmítnutí přihlášky pohledávky dojde k takové změně v osobách věřitelů nebo výši jejich pohledávek, která by měla vliv na výsledek usnesení schůze věřitelů podle odstavce 1, může usnesení podle § 29 odst. 1 přijmout i schůze věřitelů, která nejblíže následuje po této změně.
 
+### Přehled výkladu
+
+Ustanovení odstraňuje personální mezeru ve dvou případech: schůze odvolá dosavadního správce, ale neustanoví nového, anebo správce ustanovený schůzí následně dosáhne odvolání podle § 31 odst. 2. Nástupce ustanoví soud. Na tohoto nástupce se nepoužije § 29 odst. 1; úzce vymezenou možnost nového usnesení otevírá odstavec 2.
+
+### Souvisící ustanovení
+
+- § 25 — ustanovení insolvenčního správce soudem a zvláštní povolení,
+- § 28 — obecná účast věřitelských orgánů na změně v osobě správce,
+- § 29 odst. 1 až 3 — odvolání soudem ustanoveného správce, ustanovení nástupce schůzí a potvrzení soudem,
+- § 31 odst. 2 — odvolání správce ustanoveného schůzí na jeho včasnou žádost,
+- § 47, § 49, § 51 a § 53 až 55 — schůze věřitelů a hlasovací právo.
+
+### Souvisící předpisy
+
+Pro vlastní rozhodovací mechanismus § 30 není třeba použít jiný předpis; způsobilost a povolení osoby správce upravuje zákon č. 312/2006 Sb., o insolvenčních správcích, na který navazuje § 21 a násl. insolvenčního zákona.
+
+### Z důvodové zprávy
+
+Zvláštní část důvodové zprávy k § 28 až 30 vysvětluje, že odvolání dosavadního správce a ustanovení nového mohou být přijata dvěma samostatnými usneseními, přičemž první je podmínkou druhého. Odstavec 1 řeší případ, kdy je platně přijato jen první usnesení. Odstavec 2 má umožnit nové hlasování při nejbližší příležitosti, jestliže dřívější výměnu ovlivnil hlas věřitele, jehož pohledávka se nakonec neprosadila vůbec nebo v původní výši. Jde o shrnutí oficiální důvodové zprávy, nikoli o rozšíření zákonných podmínek.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola; tato poznámka není výsledkem negativní literární rešerše.
+
 ### Výklad
 
-**Odst. 1 — záložní pravidlo.** Pokud věřitelé odvolají správce, ale neusnesou se na náhradě, soud ustanoví jiného (cestou § 25). Pro tohoto nového správce **nemohou věřitelé znovu hlasovat o odvolání** podle § 29 — jednorázové „věřitelské veto" je vyčerpáno.
+[1] **Dvě vstupní situace.** Soud ustanoví nového správce jednak tehdy, když schůze přijme pouze usnesení o odvolání dosavadního správce, jednak tehdy, když správce ustanovený schůzí podle § 29 dosáhne odvolání na vlastní žádost podle § 31 odst. 2. Ve druhém případě musí jít právě o správce ustanoveného touto schůzí.
 
-**Odst. 2 — opětovné hlasování po změně poměrů.** Pokud následně dojde k odmítnutí pohledávek, které posune hlasovací poměry, je možné nové hlasování o odvolání. Smysl — chránit věřitele před manipulací (např. fiktivní spřízněnou pohledávkou, která byla později odmítnuta).
+[2] **Samostatnost usnesení.** Zákon připouští, aby schůze rozhodla o odvolání a o ustanovení nástupce odděleně. Jestliže však nového správce neustanoví, personální návaznost zajistí bez další volby soud podle odstavce 1.
 
-### F. Kazuistika
+[3] **Postavení soudem ustanoveného nástupce.** Pro správce ustanoveného soudem podle § 30 odst. 1 se § 29 odst. 1 nepoužije. Nejde proto o obecné oprávnění schůze opakovat vůči němu mechanismus § 29 odst. 1; zvláštní korekci obsahuje pouze odstavec 2 při splnění všech jeho podmínek.
 
-**1. Modelová situace.** Schůze věřitelů v konkursu odvolá soudem ustanoveného správce, ale neusnese se na ustanovení nového (návrh na konkrétní osobu neprošel kvórem). Soud následně ustanoví nového správce postupem podle § 25. O dva měsíce později soud rozhodne o odmítnutí přihlášky velkého věřitele, který původně hlasoval pro odvolání, čímž se výrazně změní hlasovací poměry. Skupina věřitelů chce znovu hlasovat o odvolání. Důkazy: zápisy ze schůzí, rozhodnutí o odmítnutí přihlášky, přepočet pohledávek po odmítnutí.
+[4] **Uzavřený spouštěč odstavce 2.** Nové hlasování nepovoluje jakákoli změna přihlášených pohledávek. Text vyžaduje rozhodnutí insolvenčního soudu o odmítnutí přihlášky pohledávky, jehož důsledkem je změna v osobách věřitelů nebo ve výši jejich pohledávek. Popření pohledávky ani jiná změna nejsou v odstavci 2 uvedeny.
 
-**2. Právní otázka.** Může schůze věřitelů znovu hlasovat o odvolání správce podle § 29 odst. 1, byl-li nový správce ustanoven soudem podle § 30 odst. 1, a jaký vliv má na to dodatečné odmítnutí přihlášky měnící hlasovací poměry?
+[5] **Test vlivu na výsledek.** Změna musí být způsobilá ovlivnit výsledek dřívějšího usnesení schůze podle odstavce 1. Je proto nutné rekonstruovat hlasovací základ před a po odmítnutí přihlášky a posoudit výsledek podle pravidel použitelných na původní hlasování; pouhá změna seznamu věřitelů nestačí.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 30 odst. 1 (ustanovení správce soudem při absenci volby; vyloučení § 29 odst. 1 pro takto ustanoveného správce), odst. 2 (možnost nového hlasování po změně poměrů v důsledku odmítnutí přihlášky).
-- *Související ustanovení téhož zákona:* § 29 odst. 1 (původní „věřitelské veto"), § 25 (postup ustanovení soudem), § 31 odst. 2 (odvolání správce ustanoveného schůzí na jeho žádost).
-- *Související předpisy:* —
-- *Judikatura:* k formální bezvadnosti hlasování srov. NS 29 NSČR 27/2014 (citováno u § 29).
+[6] **Časové omezení.** Při splnění podmínek může usnesení podle § 29 odst. 1 přijmout schůze, která po rozhodné změně následuje nejblíže. Ustanovení nedává možnost odložit nové hlasování na libovolnou pozdější schůzi.
 
-**4. Subsumpce.** Nový správce byl ustanoven soudem dle § 30 odst. 1 → § 29 odst. 1 se na něj zásadně nepoužije (jednorázové veto je vyčerpáno). Současně však došlo k odmítnutí přihlášky věřitele, jež mění hlasovací poměry → naplňuje se výjimka § 30 odst. 2 umožňující nové hlasování na nejbližší schůzi po této změně. Sporné: zda změna poměrů „má vliv na výsledek" původního usnesení (nutný přepočet).
+[7] **Rozsah odkazu na § 29.** Odkaz na usnesení podle § 29 odst. 1 znamená společné rozhodnutí o odvolání správce a ustanovení nového při splnění tam stanovených hlasovacích podmínek. Na potvrzení osoby nového správce a opravný prostředek navazují § 29 odst. 2 a 3.
 
-**5. Řešení.** Pravidlem je vyčerpání práva odvolat (§ 30 odst. 1), avšak změna v osobách/výši pohledávek po odmítnutí přihlášky otevírá nové hlasování dle § 30 odst. 2 — ovšem jen tehdy, kdyby tato změna mohla ovlivnit výsledek původního usnesení. Procesní krok: ověřit, zda po odmítnutí přihlášky nově dosažitelné kvórum mění výsledek; pokud ano, zařadit bod na nejbližší schůzi.
+[8] **Časová použitelnost.** Text § 30 v původním vládním návrhu odpovídá textu účinnému k 19. 7. 2026. Při řešení starší věci je přesto nutné samostatně ověřit tehdy účinné znění souvisejících ustanovení, zejména § 29 a § 31, a přechodná ustanovení jejich novel.
 
-**6. Varianty.** (a) Odmítnutí přihlášky by hlasovací poměry neovlivnilo → § 30 odst. 2 se neuplatní, opětovné hlasování není možné. (b) Schůze by při prvním hlasování rovnou zvolila nového správce → ustanovuje ho soud potvrzením dle § 29 odst. 2, nikoli dle § 30, a režim § 30 se neuplatní.
+### Praktický checklist
 
-### G. Protiargumenty a rizika
+- [ ] Ověřit, zda schůze platně přijala usnesení o odvolání a zda současně neustanovila nového správce.
+- [ ] U odvolání podle § 31 odst. 2 ověřit, že správce ustanovila právě schůze podle § 29 a že byly splněny podmínky tohoto ustanovení.
+- [ ] Pro případ odstavce 2 založit rozhodnutí o odmítnutí přihlášky, přepočet hlasovacího základu a srovnání výsledku před a po změně.
+- [ ] Nové hlasování podle § 29 odst. 1 zařadit na schůzi nejblíže následující po rozhodné změně.
 
-- *Protiargument:* „Věřitelé mohou správce odvolávat opakovaně, kdykoli se jim nelíbí." — Neutralizace: § 30 odst. 1 omezuje veto na jediné uplatnění; opětovné hlasování umožňuje jen § 30 odst. 2 a jen po kvalifikované změně poměrů.
-- *Protiargument:* „Jakákoli změna v přihláškách otevírá nové hlasování." — Neutralizace: musí jít o změnu, která by měla vliv na výsledek původního usnesení; bagatelní posun nestačí.
-- *Slabé místo:* riziko zneužití fiktivními/spřízněnými pohledávkami k dosažení kvóra; korekcí je právě možnost nového hlasování po jejich odmítnutí (ochranný smysl odst. 2).
+### Judikatura
 
-### H. Praktický závěr
-
-Ustanoví-li nového správce soud (protože věřitelé volbu neprovedli), je věřitelské veto vyčerpáno; opětovné hlasování o odvolání je možné jen po odmítnutí přihlášky, které mění hlasovací poměry s vlivem na výsledek.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Rozlišit, zda nového správce ustanovil soud (§ 30) či potvrdil volbu věřitelů (§ 29 odst. 2).
-- [ ] Při tvrzené změně poměrů ověřit, zda odmítnutí přihlášky mohlo ovlivnit výsledek původního usnesení.
-- [ ] Nové hlasování zařadit na nejbližší schůzi po rozhodné změně.
-
-**Typicky rozhodné důkazy / podklady:** zápisy ze schůzí věřitelů, rozhodnutí o odmítnutí přihlášky, přepočet hlasovacích poměrů před a po odmítnutí.
+Pro výše uvedené materiální závěry nebylo v tomto kole použito žádné soudní rozhodnutí. Dřívější odkaz na 29 NSČR 27/2014 byl odstraněn, protože nebyl doložen ověřeným plným oficiálním textem podporujícím tvrzení k § 30; nejde o tvrzení, že relevantní judikatura neexistuje.
 
 ---
 

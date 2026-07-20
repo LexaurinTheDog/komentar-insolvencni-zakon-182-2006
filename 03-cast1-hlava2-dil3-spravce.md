@@ -1118,70 +1118,64 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola; tento od
 
 ## § 39 — Náklady správce; záloha věřitelů
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Věřitelé jsou oprávněni se souhlasem insolvenčního soudu na základě rozhodnutí věřitelského výboru poskytnout insolvenčnímu správci zálohu k úhradě jeho výdajů, a to i opětovně. Při poskytnutí zálohy se určí podmínky jejího vyúčtování; určit lze též účel, na který má být záloha vynaložena.
 >
 > (2) Náklady na činnosti, ke kterým je insolvenční správce povinen podle zákona nebo podle rozhodnutí insolvenčního soudu, jsou zahrnuty v jeho odměně a nese je ze svého. Výjimečně lze splnění těchto činností jinými osobami podle § 40 odst. 2 hradit z majetkové podstaty se souhlasem insolvenčního soudu a věřitelského výboru.
 >
 > (3) Náklady insolvenčního správce spojené s využitím právních, ekonomických a jiných specializovaných odborníků lze hradit z majetkové podstaty, jen je-li jejich využití účelné vzhledem k rozsahu a náročnosti insolvenčního řízení a jsou-li předem schváleny věřitelským výborem.
 
+### Přehled výkladu
+
+Ustanovení rozlišuje tři situace: věřitelskou zálohu na výdaje správce (odstavec 1), náklady činností, které má správce plnit v rámci své odměny (odstavec 2), a náklady na odborníky pro činnosti, k nimž správce osobně povinen není (odstavec 3). Rozhodující není samotné označení dodavatele za advokáta, znalce nebo účetního, ale povaha zajišťované činnosti a zákonné podmínky její úhrady.
+
+### Souvisící ustanovení
+
+- **§ 11 odst. 1 a 2** — dohlédací působnost insolvenčního soudu; toto ustanovení samo nenahrazuje působnost věřitelského výboru.
+- **§ 38** — odměna, hotové výdaje a jejich vyúčtování.
+- **§ 40 odst. 1 a 2** — zásadně osobní výkon funkce a výkon prostřednictvím jiných osob.
+- **§ 58 odst. 2 písm. d), § 66 a § 68 odst. 2** — kontrola výdajů a osoby vykonávající působnost věřitelského výboru; vykonává-li ji soud, musí být jeho úkon takto označen.
+- **§ 168 odst. 2 písm. a) a b)** — odměna a hotové výdaje správce a náklady udržování a správy podstaty.
+- **§ 219 odst. 2 až 4** — zvláštní pravidla znaleckého ocenění položek soupisu.
+- **§ 302 až 304** — konečná zpráva, vyúčtování a jejich soudní přezkum.
+
+### Souvisící předpisy
+
+- **Zákon č. 31/2019 Sb., čl. I bod 11 a čl. VII** — s účinností od 1. 6. 2019 změnil druhou větu § 39 odst. 2 a propojil ji s novou úpravou osobního výkonu funkce v § 40 odst. 2.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva k vládnímu návrhu insolvenčního zákona, sněmovní tisk 1120/0, ve zvláštní části k § 39 na číslované straně 168 vysvětluje odstavec 1 jako pokračování možnosti věřitelů poskytnout správci zálohu. U odstavce 2 označuje za nežádoucí, aby správce za úplatu přenášel na jiné osoby činnosti, pro jejichž zvládání byl ustanoven, a zatížil tím místo své odměny majetkovou podstatu a věřitele. Důvodová zpráva k pozdější změně § 39 odst. 2 zákonem č. 31/2019 Sb. chybí, protože změna vzešla z pozměňovacího návrhu.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola; tento oddíl není výsledkem negativní rešerše.
+
 ### Výklad
 
-**Odst. 1 — věřitelská záloha**: věřitelé mohou (po schválení věřitelským výborem a soudem) poskytnout správci zálohu. V praxi velmi důležité při kauzách, kde výtěžek bude pomalý a správce potřebuje předfinancovat náklady (advokáti, znalci, doprava).
+[1] **Věřitelská záloha.** Zálohu podle odstavce 1 poskytují věřitelé na základě rozhodnutí věřitelského výboru a se souhlasem insolvenčního soudu. Lze ji poskytnout opětovně; vždy se určí podmínky vyúčtování a lze určit účel. Jde o jiný institut než soudem uložená záloha na náklady insolvenčního řízení podle § 108 a než záloha odměny a hotových výdajů podle § 38 odst. 4.
 
-**Odst. 2 — pravidlo „from own pocket"**: rutinní činnosti správce (administrativa kanceláře, vlastní právní práce, vlastní účetnictví) jsou zahrnuty v odměně. Správce je nesmí účtovat zvlášť z podstaty.
+[2] **Osobní činnosti a odměna.** Odstavec 2 dopadá na činnosti, které je správce povinen vykonat podle zákona nebo rozhodnutí soudu. Jejich náklady jsou zásadně obsaženy v odměně. Podle R 35/2026 sem patří i vedení sporů o pravost, výši nebo pořadí pohledávek, včetně nákladů právního zastoupení advokátem, kterého si správce zvolil.
 
-**Odst. 3 — externí odborníci** — *výjimka z pravidla*. Pokud správce potřebuje:
-- **právní zastoupení** (specializované, např. soudní spory v zahraničí),
-- **ekonomické poradce** (oceňování, restrukturalizační analýza),
-- **technické znalce** (oceňování specializovaného majetku),
+[3] **Výjimka podle odstavce 2.** Splnění osobní činnosti jinou osobou lze výjimečně hradit z podstaty jen se souhlasem insolvenčního soudu i věřitelského výboru. R 35/2026 vyložilo, že zákon zde nevyžaduje souhlas předchozí: oba souhlasy mohou být uděleny i následně. Do té doby však správce nesmí náklad účtovat podstatě a nese jej ze svého. Vykonává-li působnost věřitelského výboru soud podle § 66, musí být úkon v této působnosti označen; nejde o analogické použití § 11 odst. 2.
 
-mohou být náklady hrazeny z podstaty, ale **jen při schválení věřitelským výborem předem** a *účelnosti* vzhledem k rozsahu řízení.
+[4] **Odborníci podle odstavce 3.** Tento režim se podle R 35/2026 týká činností, k nimž správce osobně povinen není, ale pro zdárný průběh řízení je účelné využít právního, ekonomického nebo jiného specializovaného odborníka. Úhrada z podstaty vyžaduje účelnost vzhledem k rozsahu a náročnosti řízení a předchozí schválení věřitelským výborem. Dodatečné schválení zde nedostatek předchozího souhlasu nezhojí.
 
-### Vazby
+[5] **Povaha činnosti před profesí dodavatele.** Advokát může zajišťovat osobní činnost správce podléhající odstavci 2; účetní kancelář naopak nemusí spadat ani pod odstavec 2, ani pod odstavec 3. R 35/2026 považuje běžné externí vedení účetnictví dlužníkova závodu za možný náklad udržování a správy podstaty, jehož účelnost soud přezkoumá nejpozději při schválení konečné zprávy. Nelze tedy automaticky podřadit každý externí náklad pod § 39.
 
-- **§ 38** — odměna.
-- **§ 58 — § 68** — věřitelský výbor.
-- **§ 168** — pohledávky za podstatou.
+[6] **Zvláštní zákonný režim.** R 21/2021 dovodilo přednost § 219 odst. 3 před § 39 odst. 3: u obtížně ocenitelného majetku lze za podmínek § 219 odst. 3 hradit znalečné z podstaty bez předchozího souhlasu podle § 39 odst. 3. Brání-li však zadání znalci negativní podmínka v § 219 odst. 3, lze znalečné hradit jen při splnění § 39 odst. 3. Toto rozhodnutí vykládalo § 39 ve znění do 31. 5. 2019; jeho závěr o vztahu § 219 a § 39 odst. 3 zůstává použitelný, protože rozhodná znění těchto pravidel se v uvedeném ohledu nezměnila.
 
-### Praktická poznámka
+[7] **Intertemporalita novely z roku 2019.** Zákon č. 31/2019 Sb. od 1. 6. 2019 formulačně změnil § 39 odst. 2 a současně vložil do § 40 výslovnou zásadu osobního výkonu funkce. R 35/2026 rozlišuje řízení podle znění účinného do 31. 5. 2019 a od 1. 6. 2019 a své nosné závěry o § 39 odst. 2 a 3 formuluje pro současnou strukturu zákona. Při posuzování starších nákladů je proto nutné nejprve určit rozhodné znění.
 
-Schválení externích nákladů věřitelským výborem je v praxi formalita ve většině řízení s aktivním výborem; bez výboru (malá řízení) musí schvalovat soud (analogicky § 11 odst. 2).
+[8] **Praktický postup.** Před úhradou externího nákladu je třeba určit: (a) zda jde o osobní činnost správce podle odstavce 2, odbornou činnost mimo jeho osobní povinnosti podle odstavce 3, běžný náklad správy podstaty, nebo zvláštní režim jiného ustanovení; (b) kdo vykonává působnost věřitelského výboru; (c) zda zákon vyžaduje předchozí schválení; a (d) jak bude účelnost a výše nákladu doložena v konečné zprávě a vyúčtování.
 
-### F. Kazuistika
+### Judikatura
 
-**1. Modelová situace.** Ve složitém konkursu s aktivy v zahraničí správce najme specializovanou advokátní kancelář pro vedení sporu o majetek v Rakousku a znalecký ústav pro ocenění průmyslového areálu. Náklady (1,2 mil. Kč) chce hradit z majetkové podstaty. Část věřitelů namítá, že jde o běžnou činnost správce, kterou má nést ze své odměny. Důkazy: mandátní smlouvy s advokáty a znalci, doklad o předchozím schválení věřitelským výborem (či jeho absenci), odůvodnění účelnosti vzhledem k rozsahu řízení.
-
-**2. Právní otázka.** Lze náklady na právní, ekonomické a jiné specializované odborníky hradit z majetkové podstaty podle § 39 odst. 3, nebo jsou součástí odměny správce (§ 39 odst. 2), a jaké jsou podmínky takové úhrady?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 39 odst. 1 (věřitelská záloha na výdaje se souhlasem soudu a výboru), odst. 2 (náklady na činnosti, k nimž je správce povinen, jsou zahrnuty v odměně a nese je ze svého; výjimečně úhrada z podstaty u osob dle § 40 odst. 2 se souhlasem soudu a výboru), odst. 3 (náklady na specializované odborníky z podstaty jen při účelnosti vzhledem k rozsahu/náročnosti a předchozím schválení věřitelským výborem).
-- *Související ustanovení téhož zákona:* § 38 (odměna), § 40 odst. 2 (výkon funkce prostřednictvím jiných osob), § 58–68 (věřitelský výbor), § 168 (pohledávky za podstatou).
-- *Související předpisy:* § 11 odst. 2 IZ (rozhoduje-li tam, kde jinak výbor, soud — pro řízení bez výboru).
-- *Judikatura:* k tomu, že odpovědnost správce trvá i při delegaci, srov. NS 29 NSČR 47/2013 (citováno u § 40) a NS 29 NSČR 9/2014 (citováno u § 37).
-
-**4. Subsumpce.** Vedení zahraničního sporu specializovanými advokáty a ocenění znaleckým ústavem nejsou rutinní činností správce, nýbrž využitím specializovaných odborníků → spadají pod § 39 odst. 3, nikoli pod „from own pocket" pravidlo odst. 2. Úhrada z podstaty je však podmíněna účelností vzhledem k rozsahu/náročnosti řízení a předchozím schválením věřitelským výborem. Sporné/neúplné: zda byl souhlas výboru udělen předem (jinak nelze náklady z podstaty hradit).
-
-**5. Řešení.** Je-li dán předchozí souhlas výboru a účelnost (rozsáhlé řízení s aktivy v zahraničí), lze náklady 1,2 mil. Kč hradit z podstaty (§ 39 odst. 3). Chybí-li předchozí souhlas, úhrada z podstaty není přípustná a náklady jdou k tíži správce (resp. je třeba dodatečně řešit cestou § 11 odst. 2, není-li výbor). Procesní krok: doložit účelnost (porovnání nákladů a očekávaného přínosu pro podstatu) a předchozí schválení.
-
-**6. Varianty.** (a) Šlo by o vlastní právní práci správce a běžnou administrativu kanceláře → odst. 2: zahrnuto v odměně, nelze účtovat z podstaty. (b) V řízení není ustanoven věřitelský výbor → souhlas dává soud (§ 11 odst. 2 analogicky), jak uvádí praktická poznámka u tohoto paragrafu.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Spory a oceňování jsou běžná agenda správce hrazená z odměny." — Neutralizace: specializované právní/ekonomické/technické služby spadají pod výjimku § 39 odst. 3; rozhodující je specializovaná povaha a účelnost, nikoli to, že jde formálně o úkony v řízení.
-- *Protiargument:* „Souhlas výboru lze doplnit dodatečně." — Neutralizace: § 39 odst. 3 vyžaduje předchozí schválení; dodatečné schválení nezakládá nárok na úhradu z podstaty.
-- *Slabé místo:* „účelnost vzhledem k rozsahu a náročnosti" je neurčitý pojem; bez doložení přiměřenosti nákladů hrozí jejich neuznání a přenesení na správce.
-
-### H. Praktický závěr
-
-Rutinní činnosti správce jsou zahrnuty v odměně a nese je ze svého; náklady na specializované odborníky lze hradit z podstaty jen při účelnosti vzhledem k rozsahu řízení a předchozím souhlasu věřitelského výboru (bez výboru rozhoduje soud). Věřitelé mohou správci poskytnout zálohu na výdaje.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Rozlišit rutinní činnost správce (odst. 2 — z odměny) od specializovaných odborníků (odst. 3 — z podstaty).
-- [ ] Zajistit předchozí schválení nákladů věřitelským výborem (bez výboru soudem dle § 11 odst. 2).
-- [ ] Doložit účelnost a přiměřenost nákladů vzhledem k rozsahu a náročnosti řízení.
-- [ ] U věřitelské zálohy ověřit souhlas soudu a podmínky vyúčtování (odst. 1).
-
-**Typicky rozhodné důkazy / podklady:** mandátní/příkazní smlouvy s odborníky, rozhodnutí věřitelského výboru o předchozím schválení, odůvodnění účelnosti (poměr nákladů a přínosu pro podstatu), doklady o věřitelské záloze.
+- **NS, usnesení ze dne 28. 8. 2025, sen. zn. 29 NSČR 64/2024, ECLI:CZ:NS:2025:29.NSCR.64.2024.1, R 35/2026**, zejména odstavce 47 až 74 a 78 až 87 — schvalování konečné zprávy v konkursu; rozlišení osobních činností správce, odborníků a běžných nákladů provozu dlužníkova závodu; právní zastoupení v odporových sporech; možnost následného souhlasu podle odstavce 2 a nutnost předchozího souhlasu podle odstavce 3. Rozhodnutí pracuje se zněním účinným od 1. 6. 2019 a nebylo k rozhodnému dni překonáno.
+- **NS, usnesení ze dne 28. 5. 2020, sen. zn. 29 NSČR 94/2018, ECLI:CZ:NS:2020:29.NSČR.94.2018.1, R 21/2021**, zejména odstavce 12 až 27 — schvalování konečné zprávy, náklady inzerce a znaleckého ocenění obtížně ocenitelného majetku; vztah § 39 odst. 2 a 3 k § 219 odst. 3. Rozhodnutí vykládalo § 39 ve znění do 31. 5. 2019; jeho závěr o přednosti zvláštního § 219 je nadále použitelný.
 
 ---
 

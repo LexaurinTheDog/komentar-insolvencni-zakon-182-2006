@@ -673,81 +673,63 @@ Do tohoto vydání není zařazeno žádné soudní rozhodnutí. Dřívější o
 
 ## § 32 — Zproštění správce (sankční odvolání)
 
-> (1) Insolvenčního správce, který neplní řádně své povinnosti nebo který nepostupuje při výkonu své funkce s odbornou péčí anebo který závažně porušil důležitou povinnost, uloženou mu zákonem nebo soudem, může insolvenční soud na návrh věřitelského orgánu nebo dlužníka anebo i bez tohoto návrhu jeho funkce zprostit. Učiní tak zpravidla po slyšení insolvenčního správce; o podaném návrhu rozhodne neprodleně.
-> (2) Proti rozhodnutí podle odstavce 1 se mohou odvolat insolvenční správce a osoby oprávněné podat návrh podle odstavce 1. Ustanovení § 29 odst. 4 a § 31 odst. 5 a 6 platí obdobně.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**Judikatura (z místních zdrojů):**
+### Znění ustanovení
 
-- *NS* [29 NSCR 93/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2107EA0DE7F45F65C1257EF900416DFA?openDocument) — 26. 8. 2015, kat. A
-  > „Skutečnost, že dlužník je ve výkonu trestu odnětí svobody, nezakládá sama o sobě povinnost insolvenčního správce informovat takového dlužníka o svém postupu v insolvenčním řízení jinak (šířeji)než dlužníka, který zmíněným způsobem "omezen" není"
+> **(1)** Insolvenčního správce, který neplní řádně své povinnosti nebo který nepostupuje při výkonu své funkce s odbornou péčí anebo který závažně porušil důležitou povinnost, uloženou mu zákonem nebo soudem, může insolvenční soud na návrh věřitelského orgánu nebo dlužníka anebo i bez tohoto návrhu jeho funkce zprostit. Učiní tak zpravidla po slyšení insolvenčního správce; o podaném návrhu rozhodne neprodleně.
+>
+> **(2)** Proti rozhodnutí podle odstavce 1 se mohou odvolat insolvenční správce a osoby oprávněné podat návrh podle odstavce 1. Ustanovení § 29 odst. 4 a § 31 odst. 5 a 6 platí obdobně.
+
+### Přehled výkladu
+
+§ 32 upravuje sankční ukončení funkce pro pochybení insolvenčního správce. Odstavec 1 obsahuje tři alternativní důvody zproštění, ponechává soudu uvážení podle okolností konkrétní věci a upravuje návrhové oprávnění, postup bez návrhu, slyšení správce a rychlost rozhodnutí. Odstavec 2 vymezuje odvolací legitimaci a navazuje zproštění na zprávu a vyúčtování odcházejícího správce, ustanovení nástupce a předání agendy.
+
+### Souvisící ustanovení
+
+- **§ 11** — dohlédací oprávnění insolvenčního soudu, včetně zpráv, vysvětlení a pokynů správci.
+- **§ 29 odst. 4** — zpráva o činnosti a vyúčtování odměny, hotových výdajů a nákladů po skončení funkce.
+- **§ 31 odst. 5 a 6** — současné ustanovení nového správce, předání informací a dokladů a zachování odpovědnosti za dobu výkonu funkce.
+- **§ 36 odst. 1** — svědomitý postup s odbornou péčí a úsilí o co nejvyšší uspokojení věřitelů při přednosti společného zájmu věřitelů.
+- **§ 37** — odpovědnost insolvenčního správce za škodu nebo jinou újmu.
+- **§ 40** — osobní výkon funkce a meze zastoupení správce.
+- **§ 81 odst. 2** — pořádková pokuta insolvenčnímu správci za nesplnění povinnosti uložené soudem nebo za řádné nesplnění jiné povinnosti.
+
+### Souvisící předpisy
+
+- **Zákon č. 312/2006 Sb., o insolvenčních správcích** — upravuje právo vykonávat činnost insolvenčního správce, jeho výkon fyzickou osobou a veřejnou obchodní společností a dohled Ministerstva spravedlnosti.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona výslovně rozlišoval odvolání podle § 31 pro důležité důvody bez původu v pochybení správce a zproštění podle § 32 jako sankci za neřádné plnění povinností. Současně uváděl, že obě ustanovení upravují procesní postup soudu. Jde o společnou zvláštní část k § 31 a 32 ve sněmovním tisku 1120/0, číslovaná strana 166 (PDF strana 167).
+
+### Literatura
+
+Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; je rozhodnutím editora odložena do druhého kola.
 
 ### Výklad
 
-**Sankční odvolání** za závažné selhání správce. Důvody:
-- *neplnění řádně povinností* (nedodržení lhůt, neúplné zprávy, ignorování pokynů soudu),
-- *nepostupování s odbornou péčí* (objektivní standard — *bonus pater familias* + profesní standard),
-- *závažné porušení důležité povinnosti* (typicky střet zájmů, zatajení informací, neoprávněné dispozice s podstatou).
+[1] **Povaha institutu a soudní uvážení.** Zproštění podle § 32 reaguje na pochybení při výkonu funkce, na rozdíl od odvolání podle § 31. Sloveso „může“ neznamená automatické zproštění při každém zjištěném nedostatku. Nejvyšší soud označuje § 32 odst. 1 za normu s relativně neurčitou hypotézou: soud posuzuje všechny okolnosti případu a zejména povahu, míru a intenzitu pochybení.
 
-**Iniciativa**: věřitelský orgán / dlužník / soud ex offo.
+[2] **Tři zákonné alternativy.** Důvodem může být (a) neřádné plnění povinností, (b) postup bez odborné péče nebo (c) závažné porušení důležité povinnosti uložené zákonem či soudem. Třetí alternativa výslovně spojuje jednorázové porušení se závažností; judikatura současně připouští zproštění i pro ojedinělé, avšak závažné porušení důležité povinnosti. Méně závažné pochybení nemusí samo o sobě odůvodnit změnu v osobě správce a může vést k použití jiného dohlédacího nebo sankčního nástroje podle okolností věci.
 
-**Procesní garance**: *zpravidla* slyšení správce.
+[3] **Podnět a navrhovatelé.** Návrh může podat věřitelský orgán nebo dlužník. Soud však není návrhem podmíněn a může správce zprostit i bez něj. Jednotlivý věřitel, který není věřitelským orgánem, není v odstavci 1 uveden jako navrhovatel; může soudu sdělit skutečnosti významné pro jeho postup z úřední povinnosti.
 
-**Důsledky zproštění**:
-- ustanovení nového správce (§ 31 odst. 5 obdobně),
-- povinnost předání (§ 31 odst. 6 obdobně),
-- povinnost závěrečné zprávy (§ 29 odst. 4 obdobně),
-- *disciplinární řízení* podle zákona o IS (často následuje),
-- *odpovědnost za škodu* (§ 37).
+[4] **Slyšení správce.** Soud správce zpravidla slyší a o podaném návrhu rozhodne neprodleně. Slyšení znamená možnost správce podat vysvětlení k tvrzeným důvodům zproštění; není totožné s povinným osobním výslechem. Podle Nejvyššího soudu může být vysvětlení písemné, není-li pro rozhodnutí nutný výslech kvůli přetrvávajícím skutkovým rozporům.
 
-**Odvolání proti rozhodnutí** — *přípustné* správci i navrhovateli. Vrchní soud rozhoduje rychle.
+[5] **Podklad rozhodnutí.** Vysvětlení správce se hodnotí spolu s obsahem insolvenčního spisu. Soud zásadně nemusí formálně provádět důkaz listinami, které již tvoří obsah tohoto spisu. Dokumentace činnosti správce je přitom významná právě proto, že řádný či vadný postup se zpravidla projeví ve spise; tomuto procesnímu uspořádání odpovídá požadavek neprodleného rozhodnutí.
 
-### Vazby
+[6] **Odvolání a bezprostřední následky.** Proti rozhodnutí o zproštění i proti zamítnutí návrhu se mohou odvolat správce, věřitelský orgán a dlužník. Obdobné použití § 31 odst. 5 a 6 znamená současné ustanovení nového správce a povinnost zproštěného správce bez zbytečného odkladu informovat nástupce a předat mu doklady; odpovědnost za dobu výkonu funkce nezaniká. Podle § 29 odst. 4 podá odcházející správce zprávu o činnosti a vyúčtování.
 
-- **§ 36** — povinnosti správce.
-- **§ 37** — odpovědnost za škodu.
-- **§ 81** — pořádková pokuta (mírnější sankce).
-- **Zákon o IS § 36 a násl.** — disciplinární řízení.
+[7] **Intertemporální poznámka.** Jádro odstavce 1, z něhož vycházejí níže uvedená rozhodnutí z let 2015 a 2023, zůstává pro současný výklad použitelné. Zákon č. 294/2013 Sb. doplnil s účinností od 1. ledna 2014 do odstavce 2 odkaz na § 29 odst. 4. Rozhodnutí 29 NSČR 208/2022 výslovně rozlišuje úpravu osobního výkonu funkce před a od 1. června 2019; jeho závěr o nepřípustnosti paušálního přenosu všech povinností a o možnosti zproštění platí i v pozdějším režimu.
 
 ### Judikatura
 
-- **NS 29 NSČR 7/2012**: pro zproštění musí jít o *závažné* porušení; drobné nedostatky se řeší pokynem nebo pořádkovou pokutou.
-- **NS 29 NSČR 4/2018**: nesplnění povinnosti zveřejnit zprávu ve lhůtě (§ 36 odst. 2) může být důvodem zproštění, pokud je opakované a má vliv na řízení.
+- **Nejvyšší soud, usnesení ze dne 26. 8. 2015, sen. zn. 29 NSČR 2/2014, ECLI:CZ:NS:2015:29.NSCR.2.2014.1, R 48/2016.** Dlužník v oddlužení neuspěl s návrhem na zproštění založeným zejména na tvrzeném nedostatku informací o zamýšleném zpeněžení zajištění a na pochybnostech o souvisejících nákladech. Nejvyšší soud v odstavcích 18–30 vyložil soudní uvážení, význam intenzity pochybení, rozsah informování dlužníka a procesní podklad rozhodnutí tvořený vysvětlením správce a obsahem spisu. Samotná nespokojenost dlužníka s informováním a předčasné obavy o účelnost budoucích nákladů v daném skutkovém stavu důvod zproštění nezaložily.
 
-### F. Kazuistika
+- **Nejvyšší soud, usnesení ze dne 26. 8. 2015, sen. zn. 29 NSČR 93/2014, ECLI:CZ:NS:2015:29.NSCR.93.2014.1, R 58/2016.** Návrh vězněného dlužníka na zproštění byl zamítnut; správce podle zjištění podával zprávy, aktualizoval soupis a postupoval bez průtahů. Nejvyšší soud v odstavcích 17–29 navázal na obecný informační standard z rozhodnutí 29 NSČR 2/2014 a uzavřel, že samotný výkon trestu nezakládá širší informační povinnost správce. Rozhodnutí proto nelze číst jako obecné oslabení povinnosti reagovat na vážný a legitimní zájem dlužníka o postup při zpeněžování.
 
-**1. Modelová situace.** V konkursu správce po dobu osmi měsíců nepodal žádnou ze zákonem požadovaných tříměsíčních zpráv (§ 36 odst. 2), opakovaně nereaguje na výzvy soudu a nezveřejnil soupis majetkové podstaty ve lhůtě; současně bez souhlasu věřitelského výboru prodal vozidlo z podstaty spřízněné osobě za zjevně podhodnocenou cenu. Věřitelský výbor podá návrh na zproštění. Důkazy: spisový přehled o (ne)podaných zprávách a výzvách soudu, kupní smlouva a znalecké ocenění vozidla, zápis věřitelského výboru.
-
-**2. Právní otázka.** Naplňují popsané skutečnosti důvod zproštění správce podle § 32 odst. 1 (neplnění povinností / absence odborné péče / závažné porušení důležité povinnosti), nebo postačí mírnější nástroj (pokyn, pořádková pokuta)?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 32 odst. 1 (zproštění při neplnění povinností, absenci odborné péče nebo závažném porušení důležité povinnosti; zpravidla po slyšení správce), odst. 2 (opravný prostředek; přiměřené použití § 29 odst. 4 a § 31 odst. 5, 6).
-- *Související ustanovení téhož zákona:* § 36 (porušené povinnosti — reporting, společný zájem věřitelů), § 37 (odpovědnost za škodu), § 81 (pořádková pokuta jako mírnější sankce), § 31 odst. 5, 6 (ustanovení nového, předání agendy).
-- *Související předpisy:* zákon o IS § 36 a násl. (kárné provinění, často navazuje).
-- *Judikatura:* NS 29 NSČR 7/2012 (pro zproštění musí jít o závažné porušení; drobnosti se řeší pokynem/pokutou); NS 29 NSČR 4/2018 (opakované nezveřejnění zprávy ve lhůtě s vlivem na řízení může být důvodem zproštění); NS 29 NSČR 93/2014 (citováno výše — rozsah informační povinnosti vůči dlužníku ve výkonu trestu).
-
-**4. Subsumpce.** Opakované nepodání zpráv po dobu osmi měsíců + ignorování výzev soudu = neplnění povinností a absence odborné péče (§ 36 odst. 1, 2). Prodej majetku pod cenou spřízněné osobě bez souhlasu výboru = závažné porušení důležité povinnosti se znaky střetu zájmů. Na rozdíl od bagatelních pochybení (NS 29 NSČR 7/2012) jde o kumulaci závažných selhání s vlivem na řízení (srov. NS 29 NSČR 4/2018). Sporné: výše skutečné škody z podhodnoceného prodeje (otázka pro § 37).
-
-**5. Řešení.** Soud zpravidla po slyšení správce rozhodne o zproštění (§ 32 odst. 1) a současně ustanoví nového (§ 31 odst. 5 přiměřeně); odvolání je přípustné správci i navrhovateli (§ 32 odst. 2). Navazuje předání agendy (§ 31 odst. 6), závěrečná zpráva a vyúčtování (§ 29 odst. 4), pravděpodobně kárné řízení (zákon o IS) a uplatnění odpovědnosti za škodu (§ 37). Procesní krok: paralelně zvážit pořádkovou pokutu (§ 81) za jednotlivá prodlení.
-
-**6. Varianty.** (a) Šlo by o jediné mírné překročení lhůty bez dopadu na řízení → namístě jen pokyn nebo pořádková pokuta (§ 81), nikoli zproštění (NS 29 NSČR 7/2012). (b) Správce by prodlení napravil a prodej majetku by proběhl řádně se souhlasem výboru → chybí znak závažnosti, zproštění by neobstálo.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Zpoždění zpráv je formální pochybení, nikoli důvod zproštění." — Neutralizace: dle NS 29 NSČR 4/2018 opakované a řízení ovlivňující nezveřejnění zpráv důvodem zproštění být může; zde navíc přistupuje neoprávněná dispozice s podstatou.
-- *Protiargument:* „Cena vozidla byla tržní, znalec se mýlí." — Neutralizace: chybí souhlas věřitelského výboru a transparentní výběr nabídek; i bez prokázané škody jde o porušení postupu (řešitelné i § 38 odst. 3 — snížení odměny).
-- *Slabé místo:* zproštění vyžaduje „závažnost"; izolované drobné nedostatky by neobstály — návrh je proto třeba opřít o kumulaci a doložené dopady na řízení.
-
-### H. Praktický závěr
-
-Zproštění je sankční nástroj pro závažné selhání správce (neplnění povinností, absence odborné péče, závažné porušení důležité povinnosti); drobná pochybení se řeší pokynem či pořádkovou pokutou. Po zproštění následuje ustanovení nového, předání agendy, kárná a odpovědnostní rovina.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Posoudit závažnost a kumulaci pochybení (nikoli izolovanou drobnost).
-- [ ] Doložit dopad porušení na průběh řízení a zájmy věřitelů.
-- [ ] Zachovat procesní garanci (zpravidla slyšení správce) a zvážit mírnější nástroj (§ 81).
-- [ ] Zajistit ustanovení nového, předání agendy a vyúčtování (§ 31 odst. 5, 6; § 29 odst. 4).
-
-**Typicky rozhodné důkazy / podklady:** spisový přehled o (ne)podaných zprávách a výzvách soudu, kupní smlouva a znalecké ocenění zpeněženého majetku, zápisy věřitelského výboru, doklady o střetu zájmů.
+- **Nejvyšší soud, usnesení ze dne 30. 6. 2023, sen. zn. 29 NSČR 208/2022, ECLI:CZ:NS:2023:29.NSCR.208.2022.1, R 60/2024.** Veřejná obchodní společnost dlouhodobě přenesla výkon funkce na neohlášeného společníka prostřednictvím generálního pověření. Nejvyšší soud v odstavcích 40–66 potvrdil zproštění: paušální přenos všech povinností na osobu, která by funkci sama vykonávat nemohla, je hrubým porušením základní povinnosti osobního výkonu. Současně upřesnil, že slyšení není nutně výslechem, a odlišil přípustné zastoupení při jednotlivém úkonu od soustavného přenosu funkce.
 
 ---
 

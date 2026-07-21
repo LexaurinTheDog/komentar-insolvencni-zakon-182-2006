@@ -1529,81 +1529,60 @@ Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k výk
 
 ## § 70 — Likvidátor dlužníka
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Likvidátor dlužníka vykonává v insolvenčním řízení svou působnost v rozsahu, v jakém nepřešla na insolvenčního správce; do jeho působnosti patří i součinnost s insolvenčním správcem uložená zákonem dlužníkovi.
 > (2) Působnost podle odstavce 1 vykonává likvidátor dlužníka od podání insolvenčního návrhu, a jde-li o insolvenční návrh věřitele, od rozhodnutí o úpadku.
 > (3) V souvislosti se svou činností v insolvenčním řízení má likvidátor dlužníka právo na náhradu, nutných výdajů a na přiměřenou odměnu, jejíž výši určí insolvenční soud na návrh insolvenčního správce v souladu se zvláštním právním předpisem.
 > (4) Pro osoby v postavení obdobném postavení likvidátora dlužníka platí odstavce 1 až 3 obdobně.
 
+### Přehled výkladu
+
+- § 70 rozděluje působnost mezi likvidátora a insolvenčního správce: likvidátor ji vykonává pouze v rozsahu, který na správce nepřešel.
+- Zákon výslovně zahrnuje do působnosti likvidátora také součinnost uloženou dlužníkovi.
+- Počátek působnosti se liší podle navrhovatele: u dlužnického návrhu jde o jeho podání, u věřitelského návrhu až o rozhodnutí o úpadku.
+- O náhradě nutných výdajů a přiměřené odměně rozhoduje insolvenční soud na návrh insolvenčního správce; § 168 současně určuje pořadí těchto nároků.
+- Odstavce 1 až 3 se obdobně použijí na osoby v postavení obdobném postavení likvidátora.
+
+### Souvisící ustanovení
+
+- **§ 9 písm. f)** — likvidátor dlužníka je dalším procesním subjektem.
+- **§ 98 odst. 2** — povinnost likvidátora právnické osoby v likvidaci podat za zákonných podmínek insolvenční návrh.
+- **§ 168 odst. 1 písm. b) a odst. 2 písm. c)** — náhrada nutných výdajů a odměna jako pohledávky za majetkovou podstatou v zákonem vymezeném rozsahu.
+- **§ 210 odst. 2** — povinnost likvidátora poskytnout správci součinnost při zjišťování majetkové podstaty.
+- **§ 245 odst. 2 a § 246 odst. 1** — přerušení likvidace prohlášením konkursu a přechod oprávnění souvisejících s majetkovou podstatou na správce.
+
+### Souvisící předpisy
+
+V tomto kole nebyl další předpis použit jako samostatný podklad materiálního výkladového závěru. Obecný status likvidátora se vždy určí podle předpisu upravujícího konkrétní právní formu dlužníka; § 70 řeší pouze jeho působnost v insolvenčním řízení.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona vysvětloval zvláštní úpravu tím, že likvidátor, ačkoli není statutárním orgánem, v určitém rozsahu jedná za dlužníka a plní úkoly potřebné zejména k zajištění součinnosti dlužníka s věřitelskými orgány, insolvenčním správcem a insolvenčním soudem. Důvodová zpráva je ověřena v oficiálním sněmovním tisku 1120/0, zvláštní část „K § 69 a 70“, číslovaná s. 174 (PDF s. 175).
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento údaj není negativní rešerší literatury.
+
 ### Výklad
 
-**Scénář:** dlužník byl PO v likvidaci *před* zahájením insolvenčního řízení. Likvidátor byl jmenován (typicky podle § 187 OZ — soudem, nebo společníky). Po zahájení insolvence:
+[1] **Rozdělení působnosti.** § 70 nevytváří souběžné oprávnění likvidátora a správce k témuž úkonu. U každého jednání je třeba určit, zda příslušná působnost přešla podle insolvenčního zákona na správce. Výslovným příkladem je § 246 odst. 1: prohlášením konkursu přechází na správce nakládání s majetkovou podstatou a výkon práv a povinností dlužníka, které s ní souvisejí.
 
-- **Dispozice s majetkovou podstatou** přecházejí na insolvenčního správce (zejména po prohlášení konkursu — § 246).
-- **Likvidátor však zůstává orgánem dlužníka** v rozsahu, který nepřešel na správce.
+[2] **Součinnost namísto dlužníka.** I když určitá majetková působnost přešla na správce, likvidátorovi zůstává součinnost, kterou zákon ukládá dlužníkovi. Konkrétní obsah nelze dovozovat jen z § 70; musí se určit podle ustanovení zakládajícího danou povinnost, například podle § 210 odst. 2.
 
-#### Působnost likvidátora po zahájení insolvence
+[3] **Počátek působnosti.** U návrhu podaného dlužníkem se režim § 70 uplatní již podáním insolvenčního návrhu. U věřitelského návrhu jej odstavec 2 odsouvá do rozhodnutí o úpadku. Toto pravidlo se týká působnosti podle odstavce 1 a nelze je zaměňovat s účinky zahájení řízení nebo prohlášení konkursu upravenými jinde.
 
-- *korporátní úkony* — svolávání orgánů dlužníka (valná hromada, dozorčí rada), reprezentace dlužníka v korporátních věcech,
-- *součinnost se správcem* — *povinná* (předávání dokumentů, informací).
+[4] **Náhrada a odměna.** Likvidátor má za činnost v insolvenčním řízení právo na náhradu nutných výdajů a přiměřenou odměnu. Jejich výši určuje insolvenční soud na návrh insolvenčního správce. § 168 odst. 1 písm. b) zvlášť upravuje nároky soudem jmenovaného likvidátora za součinnost poskytnutou předběžnému nebo insolvenčnímu správci a § 168 odst. 2 písm. c) nároky za činnost po rozhodnutí o úpadku; při určení pořadí je proto rozhodný titul, osoba a doba činnosti.
 
-#### Časový rámec (odst. 2)
+[5] **Obdobné postavení.** Odstavec 4 je normou o obdobném použití, nikoli otevřeným výčtem konkrétních funkcí. U jiné osoby je nutné nejprve odůvodnit srovnatelnost jejího právního postavení s likvidátorem; bez takového odůvodnění nelze automaticky přenést působnost ani nárok na odměnu.
 
-- *u dlužnického návrhu* — od podání návrhu,
-- *u věřitelského návrhu* — od rozhodnutí o úpadku.
+[6] **Historie a intertemporalita.** § 70 byl přijat v nynějším obsahovém znění zákonem č. 182/2006 Sb. a následnými novelami nebyl změněn. U jednotlivých souvisejících otázek se však vždy použije časově rozhodné znění navazujících ustanovení, zejména pravidel o pohledávkách za majetkovou podstatou a účincích konkursu.
 
-#### Odměna (odst. 3)
+### Judikatura
 
-Likvidátor má právo na **odměnu a náhradu nutných výdajů**. *Určuje soud* na návrh insolvenčního správce. Sazby — *zvláštní právní předpis* (typicky vyhláška o odměně likvidátora obecně podle § 195 OZ).
-
-#### Analogická aplikace (odst. 4)
-
-Pro osoby v *obdobném postavení* (nucený správce, soudní opatrovník dlužníka — PO) platí obdobně.
-
-### Vazby
-
-- **§ 9 písm. f)** — likvidátor jako procesní subjekt.
-- **§ 187 OZ** — jmenování likvidátora.
-- **§ 246** — přechod dispozičních oprávnění na správce.
-
-### Praktická poznámka
-
-V praxi je likvidátor dlužníka procesně **vzácnou postavou** — většina insolventních PO nebyla před insolvencí v likvidaci. Když ale je (typicky: dceřinka mateřského podniku v likvidaci, kde se ukáže úpadek), je situace operativně komplikovaná — likvidátor a správce musí konstruktivně spolupracovat na korporátních úkonech (např. zápisy do OR po skončení konkursu).
-
-### F. Kazuistika
-
-**1. Modelová situace.** Dceřiná společnost mateřského holdingu byla společníky uvedena do likvidace a byl jmenován likvidátor (§ 187 OZ). Během likvidace se ukáže úpadek a je podán dlužnický insolvenční návrh. Po prohlášení konkursu přejdou dispoziční oprávnění k majetkové podstatě na insolvenčního správce. Likvidátor přesto musí provést korporátní úkon (svolat valnou hromadu k rozhodnutí o jiné korporátní záležitosti) a předat správci účetnictví. Spor vznikne o odměnu likvidátora. Důkazně rozhodné jsou usnesení o jmenování likvidátora, datum podání návrhu/rozhodnutí o úpadku a rozsah úkonů.
-
-**2. Právní otázka.** V jakém rozsahu vykonává likvidátor svou působnost po zahájení insolvenčního řízení, od kdy, a jak se určí jeho odměna?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 70 odst. 1 (likvidátor vykonává působnost v rozsahu, v jakém nepřešla na správce, vč. součinnosti se správcem), odst. 2 (působnost od podání insolvenčního návrhu; u věřitelského návrhu od rozhodnutí o úpadku), odst. 3 (právo na náhradu nutných výdajů a přiměřenou odměnu určenou soudem na návrh správce dle zvláštního předpisu), odst. 4 (obdoba pro osoby v obdobném postavení).
-- *Související ustanovení téhož zákona:* § 9 písm. f) (likvidátor jako procesní subjekt), § 246 (přechod dispozičních oprávnění na správce po prohlášení konkursu).
-- *Související předpisy:* § 187 a § 195 OZ (jmenování a odměna likvidátora), vyhláška o odměně likvidátora.
-- *Judikatura:* —.
-
-**4. Subsumpce.** Šlo o dlužnický návrh — působnost likvidátora v insolvenčním rámci se odvíjí od podání návrhu (odst. 2). Dispozice s podstatou přešly na správce (§ 246), takže likvidátor je v této části vyřazen; zůstává mu však korporátní působnost (svolání valné hromady) a povinná součinnost se správcem (odst. 1). Odměnu určí soud na návrh správce dle zvláštního předpisu (odst. 3).
-
-**5. Řešení.** Likvidátor provede korporátní úkon (svolání valné hromady) a poskytne správci povinnou součinnost (předání účetnictví). Nesmí disponovat majetkovou podstatou (to náleží správci). O jeho odměně a náhradě nutných výdajů rozhodne soud na návrh správce. Procesní krok: správce podá návrh na určení odměny likvidátora; likvidátor doloží provedené úkony a výdaje.
-
-**6. Varianty.** (a) Kdyby šlo o věřitelský návrh, působnost likvidátora v insolvenčním rámci by se počítala až od rozhodnutí o úpadku (odst. 2), nikoli od podání návrhu. (b) Kdyby šlo o osobu v obdobném postavení (nucený správce, soudní opatrovník PO), použila by se úprava obdobně (odst. 4).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument 1:* „Po prohlášení konkursu likvidátor zaniká a veškerou působnost přebírá správce." Neutralizace: likvidátor zůstává orgánem dlužníka v rozsahu, který na správce nepřešel (odst. 1) — typicky korporátní úkony; přechází jen dispozice s podstatou (§ 246).
-- *Protiargument 2:* „Odměnu likvidátora si stanoví společníci, nikoli soud." Neutralizace: v insolvenčním rámci určuje odměnu a náhradu nutných výdajů soud na návrh správce dle zvláštního předpisu (odst. 3).
-- *Slabé místo:* hranice mezi působností, jež přešla na správce, a tou, jež zůstala likvidátorovi, bývá v praxi nejasná; je nutné vymezit konkrétní úkony (dispozice vs. korporátní agenda).
-
-### H. Praktický závěr
-
-Likvidátor dlužníka zůstává po zahájení insolvence orgánem dlužníka v rozsahu, který nepřešel na správce (zejm. korporátní úkony), a je povinen se správcem spolupracovat. Působnost počítá od podání návrhu (u věřitelského návrhu od rozhodnutí o úpadku). Odměnu určuje soud na návrh správce.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Byl dlužník před insolvencí v likvidaci a je jmenován likvidátor (§ 187 OZ)?
-- [ ] Které úkony přešly na správce (dispozice s podstatou, § 246) a které zůstaly likvidátorovi (korporátní agenda)?
-- [ ] Od kdy se počítá působnost (podání návrhu × rozhodnutí o úpadku u věřitelského návrhu)?
-- [ ] Byl podán návrh správce na určení odměny a náhrady nutných výdajů likvidátora?
-
-**Typicky rozhodné důkazy / podklady:** usnesení o jmenování likvidátora, insolvenční návrh a rozhodnutí o úpadku (data), doklady o provedených korporátních úkonech a součinnosti, vyúčtování výdajů a návrh správce na odměnu.
+Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k výkladu § 70. Rozsudek Nejvyššího soudu ze dne 27. 3. 2018, sen. zn. 29 ICdo 17/2016, reprodukuje tehdejší § 168 v rozhodnutí nosně zaměřeném na nakládání dlužníka podle § 111; neposkytuje proto samostatný nosný výklad § 70. Jde o redakční omezení na plnotextově ověřené primární prameny, nikoli o negativní rešerši judikatury.
 
 ---
 

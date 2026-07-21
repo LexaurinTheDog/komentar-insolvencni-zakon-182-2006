@@ -869,67 +869,72 @@ Do této revize nebylo zařazeno rozhodnutí, jehož oficiální plný text by o
 
 ## § 59 — Kvalifikace členů výboru; vyloučení
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Členy a náhradníky věřitelského výboru mohou být jen přihlášení věřitelé, kteří se svým zvolením souhlasí. Stane-li se členem nebo náhradníkem věřitelského výboru právnická osoba, oznámí neprodleně insolvenčnímu soudu fyzickou osobu, která bude jejím jménem ve věřitelském výboru jednat.
 > (2) Členy ani náhradníky věřitelského výboru nemohou být osoby, u kterých je vzhledem k jejich vztahu k dlužníkovi důvod pochybovat o jejich nepodjatosti. Takto lze usuzovat zejména, jde-li o osoby dlužníkovi blízké, vedoucí zaměstnance dlužníka, podle § 33 odst. 3 a § 73 odst. 3 zákoníku práce, společníky dlužníka, s výjimkou akcionářů, pokud nepůsobí v orgánech dlužníka nebo nevlastní dlužníkovy akcie anebo jiné jím vydané účastnické cenné papíry v souhrnné hodnotě více než desetiny základního kapitálu dlužníka, a osoby tvořící s dlužníkem koncern.
 > (3) Insolvenční soud nepotvrdí volbu člena nebo náhradníka věřitelského výboru, je-li tu důvod pochybovat o jejich důvěryhodnosti nebo o tom, že budou k výkonu funkce způsobilí. Toto rozhodnutí musí insolvenční soud vyhlásit do skončení schůze věřitelů, na které k volbě došlo.
 > (4) Po vyhlášení rozhodnutí podle odstavce 3 insolvenční soud vyzve každého z přítomných věřitelů, kteří hlasovali pro zvolení, aby uvedl, zda se vzdává odvolání, současně je poučí, že odvolání, které nebude podáno do skončení schůze věřitelů, již nelze podat. Vyjádření věřitelů a jejich poučení se uvede v protokolu o jednání. Rozhodnutí insolvenční soud doručí pouze osobám, které proti němu podaly odvolání.
 
+### Přehled výkladu
+
+Ustanovení odděluje tři otázky: kdo může být zvolen a jak jedná právnická osoba (odstavec 1), kdo je pro vztah k dlužníkovi z členství vyloučen (odstavec 2) a kdy soud volbu nepotvrdí pro pochybnost o důvěryhodnosti nebo způsobilosti zvoleného (odstavec 3). Odstavec 4 soustřeďuje odvolání proti nepotvrzení do konce schůze a omezuje okruh adresátů rozhodnutí.
+
+### Souvisící ustanovení
+
+- **§ 55** — obdobně soustředěný odvolací režim po rozhodnutí vyhlášeném na schůzi věřitelů.
+- **§ 57 odst. 3** — potvrzení volby a odvolání členů a náhradníků insolvenčním soudem.
+- **§ 60** — povinnosti, odpovědnost, výdaje a odměna členů a náhradníků.
+- **§ 62 odst. 2 a § 68 odst. 2** — prozatímní věřitelský výbor a obdobné použití úpravy výboru na zástupce věřitelů.
+
+### Souvisící předpisy
+
+- **§ 22 zákona č. 89/2012 Sb., občanského zákoníku** — pojem osoby blízké.
+- **§ 33 odst. 3 a § 73 odst. 3 zákona č. 262/2006 Sb., zákoníku práce** — ustanovení, na něž § 59 odst. 2 výslovně odkazuje u vedoucích zaměstnanců.
+- **§ 79 zákona č. 90/2012 Sb., o obchodních korporacích** — pojem koncernu.
+
+Tyto pojmy je třeba v konkrétní věci posuzovat podle znění příslušného předpisu účinného v rozhodné době; tato revize je dále hmotněprávně nerozvíjí.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, ve zvláštní části „K § 59“ na číslované straně 172 vysvětluje, že ustanovení formuluje předpoklady účasti věřitele ve výboru, nově podrobněji pojmenovává vyloučené osoby, zachovává soudní nepotvrzení z vymezených důvodů a připouští proti němu časově soustředěné odvolání.
+
+### Literatura
+
+Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; je odložena do druhého kola. Nejde o negativní rešerši literatury.
+
 ### Výklad
 
-**Pasivní volební právo:**
-- jen **přihlášený věřitel** se *souhlasem*,
-- PO — oznámí FO, která bude jednat.
+[1] **Předpoklady členství.** Členem nebo náhradníkem může být jen přihlášený věřitel, který se zvolením souhlasí. Je-li zvolena právnická osoba, členem je tato právnická osoba; soudu neprodleně oznámí fyzickou osobu, která za ni bude ve výboru jednat.
 
-**Vyloučení (odst. 2)** — *demonstrativní* výčet podjatosti:
-- osoby dlužníkovi blízké,
-- vedoucí zaměstnanci dlužníka (manažeři podle ZP),
-- společníci dlužníka *s výjimkou* nedrobných akcionářů (< 10 % kapitálu) bez orgánové role,
-- osoby v koncernu s dlužníkem.
+[2] **Nepodjatost vůči dlužníkovi.** Odstavec 2 nevyžaduje důkaz skutečné podjatosti. Překážkou je již vztah k dlužníkovi, který dává důvod pochybovat o nepodjatosti. Slovo „zejména“ činí následný katalog příkladmým, nikoli uzavřeným; u osoby mimo katalog proto musí být rozhodný vztah ke konkrétnímu dlužníkovi samostatně zjištěn a posouzen.
 
-**Nepotvrzení soudem (odst. 3)** — soud nepotvrdí volbu, pokud má **pochybnost o důvěryhodnosti nebo způsobilosti**. Rozhodnutí *do skončení schůze*.
+[3] **Příklady vyloučených osob.** Zákon uvádí osoby dlužníkovi blízké, vymezené vedoucí zaměstnance dlužníka, společníky dlužníka a osoby tvořící s dlužníkem koncern. Nestačí jen označení ekonomické nebo personální vazby bez zjištění, zda jde o osobu a vztah popsané zákonem nebo o jiný vztah, který zakládá důvodnou pochybnost o nepodjatosti.
 
-**Koncentrovaný režim odvolání (odst. 4)** — *jako § 55*.
+[4] **Akcionářská výjimka.** U akcionářů je nutné zachovat přesnou podmínku zákona: výjimku váže na to, že akcionář nepůsobí v orgánech dlužníka nebo nevlastní dlužníkovy akcie anebo jiné jím vydané účastnické cenné papíry v souhrnné hodnotě více než desetiny základního kapitálu. Tuto větu nelze nahrazovat obecným označením „drobný“ či „nedrobný“ akcionář. Výjimka sama nevylučuje posouzení jiného konkrétního vztahu k dlužníkovi podle obecné věty odstavce 2.
 
-### Vazby
+[5] **Nepotvrzení volby.** Odstavec 3 stanoví jiné kontrolní hledisko než odstavec 2: soud volbu nepotvrdí, je-li důvod pochybovat o důvěryhodnosti zvoleného nebo o jeho způsobilosti k výkonu funkce. Rozhodnutí o nepotvrzení musí vyhlásit do skončení schůze, na níž se volilo. Samotné porušení oznamovací povinnosti právnické osoby podle odstavce 1 zákon výslovně neprohlašuje za automatický důvod nepotvrzení.
 
-- **§ 22 OZ** — osoby blízké.
-- **§ 33, § 73 ZP** — vedoucí zaměstnanci.
+[6] **Odvolání a doručení.** Po vyhlášení nepotvrzení soud jednotlivě vyzve přítomné věřitele, kteří hlasovali pro zvolení, k vyjádření, zda se vzdávají odvolání, a poučí je, že po skončení schůze již odvolání podat nelze. Vyjádření a poučení patří do protokolu. Rozhodnutí se doručuje jen osobám, které proti němu podaly odvolání.
 
-### F. Kazuistika
+[7] **Vztah k potvrzení volby.** § 57 odst. 3 ukládá soudu potvrdit volbu členů a náhradníků; § 59 odst. 3 a 4 upravuje zvláštní postup, jestliže soud volbu nepotvrdí. Oba režimy je proto třeba číst společně, zejména při posouzení vyhlášení, odvolání a doručení.
 
-**1. Modelová situace.** Na schůzi věřitelů je do výboru zvolen mj. věřitel X, který je zároveň jednatelem sesterské společnosti dlužníka (obě ovládá tatáž matka — koncern). Jiný zvolený člen Y je obchodní společnost, která soudu neoznámí, kdo za ni bude jednat. Třetí kandidát Z je drobný akcionář dlužníka (vlastní 3 % akcií, nepůsobí v orgánech). Důkazně rozhodné jsou doklady o koncernovém propojení X, výpis z OR k Y a údaj o podílu a roli Z.
+[8] **Časová působnost.** Výklad odpovídá znění účinnému k 19. 7. 2026. Původní návrh již obsahoval nosnou strukturu komentovaných pravidel. U starší volby, rozhodnutí o nepotvrzení nebo odvolání je nutné ověřit tehdy účinné znění § 59, souvisejících ustanovení a přechodná ustanovení příslušných novel.
 
-**2. Právní otázka.** Koho z kandidátů (X, Y, Z) může insolvenční soud do výboru nepotvrdit pro pochybnost o nepodjatosti či způsobilosti?
+### Judikatura
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 59 odst. 1 (členem jen přihlášený věřitel se souhlasem; PO oznámí jednající FO), odst. 2 (vyloučení osob, u nichž je důvod pochybovat o nepodjatosti — zejm. osoby blízké, vedoucí zaměstnanci, společníci s výjimkou drobných akcionářů bez orgánové role pod 10 % kapitálu, osoby v koncernu), odst. 3 (soud nepotvrdí volbu při pochybnosti o důvěryhodnosti/způsobilosti, a to do skončení schůze), odst. 4 (koncentrovaný režim odvolání jako § 55).
-- *Související ustanovení téhož zákona:* § 53 (zákaz hlasování spřízněných — paralela), § 60 (odpovědnost členů), § 55 (vzor koncentrace odvolání).
-- *Související předpisy:* § 22 OZ (osoby blízké), § 33 a § 73 ZP (vedoucí zaměstnanci), § 79 ZOK (koncern).
-- *Judikatura:* —.
+Do této revize nebylo zařazeno rozhodnutí, jehož oficiální plný text by obsahoval přímo nosný závěr k výkladu § 59 a současně prošel kontrolou skutkového a procesního kontextu i intertemporality. Tato poznámka není negativní rešerší veškeré judikatury.
 
-**4. Subsumpce.** X je v koncernu s dlužníkem (přes sesterskou společnost) — spadá pod vylučovací důvod (koncern). Y je PO, která neoznámila jednající FO — porušuje odst. 1; do nápravy nemůže reálně funkci vykonávat. Z je drobný akcionář (3 % < 10 %) bez orgánové role — výslovná výjimka z vyloučení, není vyloučen.
+### Praktický checklist
 
-**5. Řešení.** Soud nepotvrdí volbu X (koncernové propojení zakládá pochybnost o nepodjatosti) a učiní tak do skončení schůze (odst. 3); nastoupí koncentrovaný režim odvolání dle odst. 4. U Y soud vyzve k bezodkladnému oznámení jednající FO; bez toho volbu fakticky nelze potvrdit. Z může být potvrzen. Procesní krok: prověřit u každého kandidáta vztah k dlužníkovi ještě před hlasováním.
-
-**6. Varianty.** (a) Kdyby Z vlastnil 15 % akcií nebo byl členem představenstva, spadl by mezi vyloučené společníky a soud by jej nepotvrdil. (b) Kdyby X svou koncernovou vazbu na dlužníka pozbyl (např. prodejem podílu) ještě před volbou, pochybnost o nepodjatosti by odpadla.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument 1:* „Výčet vyloučených v odst. 2 je taxativní, X tam výslovně není." Neutralizace: výčet je demonstrativní („zejména"); rozhodující je, zda je důvod pochybovat o nepodjatosti — koncernová vazba jej zakládá.
-- *Protiargument 2:* „Neoznámení jednající FO u Y je formalita, kterou lze doplnit kdykoli." Neutralizace: bez určení jednající FO PO reálně nemůže ve výboru jednat; soud potvrzení podmíní nápravou a může volbu nepotvrdit pro pochybnost o způsobilosti.
-- *Slabé místo:* posouzení „důvodu pochybovat o nepodjatosti" je hodnotící; je třeba je opřít o konkrétní listinné doklady o vztahu k dlužníkovi.
-
-### H. Praktický závěr
-
-Členem výboru může být jen přihlášený věřitel se souhlasem; PO musí oznámit jednající FO. Soud nepotvrdí volbu osob, u nichž je důvod pochybovat o nepodjatosti (osoby blízké, vedoucí zaměstnanci, koncern, společníci mimo drobné akcionáře) nebo o jejich způsobilosti, a to do skončení schůze.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
 - [ ] Je kandidát přihlášeným věřitelem a souhlasí se zvolením?
-- [ ] Oznámila PO bezodkladně FO, která bude jejím jménem ve výboru jednat?
-- [ ] Není u kandidáta důvod pochybovat o nepodjatosti (osoba blízká, vedoucí zaměstnanec, koncern, společník mimo drobného akcionáře pod 10 %)?
-- [ ] Vyhlásil soud případné nepotvrzení do skončení schůze a poučil o prekluzi odvolání (odst. 4)?
-
-**Typicky rozhodné důkazy / podklady:** výpisy z OR a údaje o vlastnické struktuře (podíl, orgánová role), doklady o koncernu (§ 79 ZOK) a vztazích blízkosti, oznámení jednající FO za PO, souhlas kandidáta se zvolením.
+- [ ] Oznámila zvolená právnická osoba neprodleně fyzickou osobu, která za ni bude jednat?
+- [ ] Byl konkrétně zjištěn vztah kandidáta k dlužníkovi a případný důvod pochybovat o nepodjatosti?
+- [ ] Byly samostatně posouzeny důvěryhodnost a způsobilost kandidáta?
+- [ ] Bylo nepotvrzení vyhlášeno a případné odvolání podáno před skončením schůze?
+- [ ] Obsahuje protokol jednotlivá vyjádření a poučení a doručuje se jen odvolatelům?
 
 ---
 

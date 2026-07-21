@@ -677,58 +677,56 @@ Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita. Kandi
 
 ## § 56 — Povinnost ustanovit výbor; složení
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Je-li přihlášených věřitelů více než 50, je schůze věřitelů povinna ustanovit věřitelský výbor. Členy věřitelského výboru a jejich náhradníky volí schůze věřitelů.
 > (2) Věřitelský výbor má nejméně 3 a nejvýše 7 členů. O počtu členů rozhoduje schůze věřitelů. Schůze věřitelů se může usnést, že každý člen věřitelského výboru má svého náhradníka; schůze věřitelů může rozhodnout o vyšším počtu náhradníků členů věřitelského výboru.
 > (3) Je-li způsobem řešení úpadku nepatrný konkurs nebo oddlužení, není volba věřitelského výboru povinná.
 
+### Přehled výkladu
+
+Při více než 50 přihlášených věřitelích musí schůze věřitelů ustanovit věřitelský výbor, ledaže je úpadek řešen nepatrným konkursem nebo oddlužením. Schůze volí členy i případné náhradníky a určuje počet členů v zákonném rozmezí tří až sedmi. Náhradník není povinnou součástí každého mandátu.
+
+### Souvisící ustanovení
+
+- **§ 46 odst. 1 až 3** — postavení schůze, výboru a zástupce věřitelů a rozdělení jejich působnosti.
+- **§ 48 odst. 2** — v řízeních mimo oddlužení je volba výboru vždy předmětem první schůze věřitelů.
+- **§ 57 až 60** — zastoupení zajištěných a nezajištěných věřitelů, potvrzení volby, působnost, způsobilost členů a výkon funkce.
+- **§ 61 odst. 2 a § 66** — výkon působnosti výboru insolvenčním soudem, nebyl-li výbor ustanoven nebo nemůže-li vykonávat svou působnost.
+- **§ 68** — zástupce věřitelů tam, kde ustanovení výboru není povinné.
+- **§ 314** — podmínky nepatrného konkursu.
+
+### Souvisící předpisy
+
+- **Zákon č. 294/2013 Sb., čl. I body 28 a 29, čl. II a čl. IV** — od 1. 1. 2014 změnil povinné náhradnictví na fakultativní a doplnil odstavec 3; přechodné ustanovení použilo novelizovaný zákon i na dříve zahájená řízení se zachováním již nastalých právních účinků.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva k vládnímu návrhu insolvenčního zákona (sněmovní tisk 1120/0, zvláštní část K § 56) spojila povinnost ustanovit výbor s více než 50 přihlášenými věřiteli a snížení maximálního počtu členů z devíti na sedm odůvodnila větší akceschopností orgánu. Tehdejší návrh však ještě vycházel z povinného náhradníka každého člena. Důvodová zpráva k novele č. 294/2013 Sb. (sněmovní tisk 929/0, zvláštní část k bodům 28 a 29) vysvětlila fakultativnost náhradníků i výjimku pro oddlužení a nepatrný konkurs malým zájmem věřitelů o sestavování výborů a potřebou pružnějšího fungování věřitelských orgánů.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola; tento oddíl nepředstavuje negativní rešerši.
+
 ### Výklad
 
-**Povinnost zřídit výbor**: > 50 přihlášených věřitelů. Pod 50 *fakultativně* (jako alternativu lze zvolit *zástupce věřitelů* — § 68).
+[1] Ustanovení rozlišuje ustanovení věřitelského výboru jako orgánu a volbu osob, které v něm budou působit. Obě rozhodnutí náležejí schůzi věřitelů: schůze ustanoví výbor, určí počet jeho členů v rozmezí tří až sedmi a zvolí členy i náhradníky, rozhodla-li se náhradníky zřídit.
 
-**Velikost výboru**: 3 — 7 členů + možnost náhradníků.
+[2] Povinnost podle odstavce 1 vzniká jen při počtu vyšším než 50; přesně 50 přihlášených věřitelů ji nezakládá. Zákon zde pracuje s počtem přihlášených věřitelů, nikoli s počtem přihlášek nebo s celkovou výší pohledávek. Text § 56 sám neurčuje zvláštní časový okamžik pro zjištění tohoto počtu, proto nelze bez další pramenné opory převzít dřívější kategorickou vazbu výlučně na datum schůze.
 
-**Výjimka**: *nepatrný konkurs* (§ 314) a *oddlužení* — *fakultativní*, výbor i bez 50+ věřitelů.
+[3] Odstavec 3 je výjimkou z povinnosti, nikoli zákazem volby. V nepatrném konkursu a oddlužení tedy může být výbor zvolen i při více než 50 přihlášených věřitelích, schůze však k tomu není povinna. Není-li ustanoven výbor ani zástupce věřitelů, uplatní se rozdělení působnosti podle § 46 odst. 2 a zvláštní pravidla § 61 odst. 2 a § 66.
 
-### Vazby
+[4] Náhradnictví je od 1. 1. 2014 fakultativní. Jestliže se schůze rozhodne, že člen má náhradníka, může určit i více náhradníků; jejich pořadí pro zastupování člena se určuje při volbě podle § 58 odst. 3. Samotné rozmezí tří až sedmi se vztahuje na členy výboru, nikoli na náhradníky.
 
-- **§ 314** — nepatrný konkurs.
-- **§ 68** — zástupce věřitelů.
+[5] Zákonné složení výboru nelze vyčerpat pouhým dodržením počtu členů. Volba dále podléhá pravidlům § 57 o zastoupení a odděleném hlasování zajištěných a nezajištěných věřitelů, souhlasu a způsobilosti volených osob podle § 59 a potvrzení volby insolvenčním soudem podle § 57 odst. 3.
 
-### F. Kazuistika
+[6] Pro procesní program je rozhodný § 48 odst. 2: není-li způsobem řešení úpadku oddlužení, volba věřitelského výboru je vždy předmětem první schůze věřitelů. Toto pravidlo je širší než povinnost podle § 56 odst. 1; zařazení bodu na program samo neznamená, že při 50 nebo méně věřitelích musí být výbor ustanoven.
 
-**1. Modelová situace.** V konkursu výrobní společnosti je přihlášeno 73 věřitelů; způsobem řešení úpadku je „velký" (nikoli nepatrný) konkurs. Na první schůzi se objeví spor, zda je nutné výbor vůbec volit, a kolik má mít členů — banka navrhuje 3 členy, skupina nezajištěných 7 členů. Důkazně rozhodný je seznam přihlášených pohledávek (počet věřitelů) a rozhodnutí o způsobu řešení úpadku.
+### Judikatura
 
-**2. Právní otázka.** Je při více než 50 přihlášených věřitelích volba věřitelského výboru povinná a kdo rozhoduje o počtu jeho členů?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 56 odst. 1 (více než 50 přihlášených věřitelů → povinná volba výboru), odst. 2 (3 až 7 členů, o počtu rozhoduje schůze; možnost náhradníků), odst. 3 (u nepatrného konkursu a oddlužení volba nepovinná).
-- *Související ustanovení téhož zákona:* § 57 (paritní složení, oddělené volby), § 68 (zástupce věřitelů jako alternativa), § 314 (nepatrný konkurs), § 46 (hierarchie orgánů).
-- *Související předpisy:* —.
-- *Judikatura:* —.
-
-**4. Subsumpce.** Počet přihlášených věřitelů (73) přesahuje 50 a nejde o nepatrný konkurs ani oddlužení → volba výboru je povinná (znak naplněn). O počtu členů (v rozmezí 3—7) rozhoduje schůze věřitelů usnesením; jde o její kompetenci, nikoli o věc, kterou by určoval jednotlivý věřitel.
-
-**5. Řešení.** Schůze je povinna výbor ustanovit a sama usnesením určí počet členů v rozmezí 3—7 (i počet náhradníků). Spor banky a nezajištěných o počet se vyřeší hlasováním schůze; přitom je třeba respektovat paritu dle § 57. Pokud schůze výbor přes povinnost nezvolí, nastupuje náhradní výkon (soud — § 61 odst. 2, § 66). Procesní krok: zařadit volbu výboru jako obligatorní bod (§ 48 odst. 2).
-
-**6. Varianty.** (a) Kdyby šlo o nepatrný konkurs nebo oddlužení, volba by byla nepovinná a postačil by i zástupce věřitelů (§ 68), případně by funkci vykonával soud. (b) Kdyby bylo přihlášeno jen 40 věřitelů, výbor by povinný nebyl, ač by jej schůze fakultativně zvolit mohla.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument 1:* „Výbor není potřeba, agendu zvládne sama schůze." Neutralizace: při více než 50 věřitelích je volba ze zákona povinná (odst. 1); schůze se nemůže povinnosti zprostit, leda jde o nepatrný konkurs/oddlužení.
-- *Protiargument 2:* „Počet členů si může vynutit dominantní věřitel." Neutralizace: o počtu rozhoduje schůze jako kolektiv, navíc je vázána paritou nezajištěných dle § 57 — dominantní zajištěný věřitel nemůže obsadit všechna místa.
-- *Slabé místo:* hranice „více než 50" se váže na počet přihlášených, který se v čase mění (přihlášky, zpětvzetí); rozhodný okamžik je třeba ukotvit ke konání schůze.
-
-### H. Praktický závěr
-
-Při více než 50 přihlášených věřitelích (mimo nepatrný konkurs a oddlužení) je volba věřitelského výboru povinná; výbor má 3—7 členů, o počtu rozhoduje schůze. Jinak lze volit zástupce věřitelů nebo funkci vykonává soud.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Je přihlášeno více než 50 věřitelů a nejde o nepatrný konkurs/oddlužení (→ povinná volba výboru)?
-- [ ] Rozhodla schůze usnesením o počtu členů v rozmezí 3—7 (a o náhradnících)?
-- [ ] Byla volba výboru zařazena jako obligatorní bod první schůze?
-- [ ] Pokud výbor nebyl ustanoven — nastupuje náhradní výkon (zástupce/soud)?
-
-**Typicky rozhodné důkazy / podklady:** seznam přihlášených pohledávek (počet věřitelů k datu schůze), rozhodnutí o způsobu řešení úpadku, protokol o volbě a usnesení o počtu členů.
+Do produkčního výkladu nebylo zařazeno rozhodnutí jako samostatná nosná autorita. Otevřené rozhodnutí vztahující se k volbě výboru nebylo použito jako opora materiálních tvrzení, protože v tomto pracovním prostředí nebylo možné uložit jeho nový oficiální snapshot do centrálního adresáře pramenů.
 
 ---
 

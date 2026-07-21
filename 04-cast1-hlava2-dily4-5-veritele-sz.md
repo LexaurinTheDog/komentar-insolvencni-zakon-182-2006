@@ -414,65 +414,66 @@ Do tohoto kola není zařazeno žádné rozhodnutí jako nosná autorita. Dřív
 
 ## § 52 — Zkoumání hlasovacího práva
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Hlasovací právo zkoumá insolvenční soud u každého z věřitelů jednotlivě.
 > (2) Návrh, aby insolvenční soud rozhodl o hlasovacím právu odlišně od seznamu přihlášených pohledávek, musí být doručen insolvenčnímu soudu nejpozději 7 dní před schůzí věřitelů; tato lhůta však neskončí dříve než 5 dní po zveřejnění seznamu přihlášených pohledávek v insolvenčním rejstříku. Skutečnosti rozhodné pro hlasovací právo lze doplnit a důkazy k jejich osvědčení insolvenčnímu soudu předložit nejpozději 2 pracovní dny před schůzí věřitelů; soud o tom věřitele poučí ve vyhlášce o svolání schůze věřitelů.
 > (3) Proti rozhodnutí insolvenčního soudu o hlasovacím právu věřitelů není přípustný opravný prostředek. Tímto rozhodnutím není insolvenční soud pro další schůzi věřitelů vázán.
 > (4) Je-li na rozhodnutí insolvenčního soudu o hlasovacím právu věřitelů závislé jiné rozhodnutí insolvenčního soudu, proti kterému je odvolání přípustné, lze v mezích odvolání podaného proti takovému rozhodnutí přezkoumat i správnost rozhodnutí insolvenčního soudu o hlasovacím právu věřitelů; to platí jen pro první takové rozhodnutí vydané po rozhodnutí insolvenčního soudu o hlasovacím právu věřitelů.
 
+### Přehled výkladu
+
+Ustanovení ukládá soudu posoudit hlasovací právo každého věřitele jednotlivě. Seznam přihlášených pohledávek je výchozím podkladem; odlišné rozhodnutí se vyžaduje návrhem podaným a doloženým ve zvláštních lhůtách. Samostatný opravný prostředek zákon vylučuje, ale připouští omezený přezkum v odvolání proti prvnímu závislému rozhodnutí.
+
+### Souvisící ustanovení
+
+- **§ 48 odst. 1** — svolání schůze vyhláškou; § 52 odst. 2 vyžaduje, aby v ní soud poučil o doplnění rozhodných skutečností a důkazů.
+- **§ 49** — váha hlasu; použije se až poté, co je určeno, zda a v jakém rozsahu věřitel hlasovací právo má.
+- **§ 51** — věcně vymezuje hlasovací právo u popřených, dosud nezjištěných a sporných pohledávek a odkazuje na návrh podle § 52 odst. 2.
+- **§ 53 odst. 4 a 5** — návrh podle § 52 odst. 2 je procesní cestou také pro povolení nebo zákaz hlasování při střetu zájmů.
+- **§ 91 a § 150** — obecné pravidlo opravných prostředků v insolvenčním řízení a příklad rozhodnutí, jehož výsledek může záviset na hlasování schůze.
+
+### Souvisící předpisy
+
+- **Zákon č. 99/1963 Sb., občanský soudní řád, zejména § 201 a násl.** — obecná úprava odvolání se v insolvenčním řízení uplatní podpůrně podle § 7 insolvenčního zákona; § 52 odst. 3 však přímý opravný prostředek vylučuje a odstavec 4 vymezuje zvláštní nepřímý přezkum.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva ke sněmovnímu tisku 1120/0 označila individuální zkoumání hlasovacího práva i nepřípustnost opravného prostředku a nevázanost pro další schůzi za výslovné zakotvení zásad známých již dřívější úpravě. Důvodová zpráva k novele č. 294/2013 Sb. vysvětlila doplnění nepřímého přezkumu potřebou právní jistoty: správnost rozhodnutí o hlasovacím právu má být zkoumatelná v odvolání proti rozhodnutí, na něž mohlo mít hlasování vliv, avšak pouze poprvé. Novela č. 64/2017 Sb. následně vložila dnešní návrhový a důkazní režim odstavce 2.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola; tento údaj není výsledkem negativní rešerše.
+
 ### Výklad
 
-**Individuální zkoumání** — soud kontroluje hlasovací právo *u každého věřitele zvlášť*. Není možné generální „skupinové" rozhodnutí.
+[1] **Jednotlivé posouzení.** Předmětem zkoumání je hlasovací právo konkrétního věřitele v konkrétním rozsahu. Hlasová váha podle § 49 proto nemůže být určena mechanickým převzetím všech částek ze seznamu bez kontroly režimů § 51 a § 53.
 
-**Lhůty pro návrh na odlišné rozhodnutí (odst. 2):**
-- *návrh* — **7 dní před schůzí** (alespoň 5 dní po zveřejnění seznamu přihlášených),
-- *doplnění důkazů* — **2 pracovní dny před schůzí**.
+[2] **Seznam a návrh na odchylku.** § 51 odst. 3 počítá s rozhodnutím podle seznamu přihlášených pohledávek nebo, žádá-li se odlišný výsledek, na návrh dlužníka či některého z věřitelů podle § 52 odst. 2. Stejný návrhový režim výslovně používají § 51 odst. 1 a § 53 odst. 4 a 5.
 
-**Soud poučí věřitele** ve vyhlášce o svolání (§ 48).
+[3] **Lhůta návrhu.** Návrh musí být soudu doručen nejpozději 7 dní před schůzí. Korektiv druhé části věty chrání prostor po zveřejnění seznamu: sedmidenní lhůta neskončí dříve než 5 dní po jeho zveřejnění. Text neříká, že návrh lze podat až po uplynutí pěti dnů od zveřejnění; jde o nejzazší konec lhůty, nikoli o počátek přípustnosti návrhu.
 
-**Neopravitelnost rozhodnutí (odst. 3)** — proti rozhodnutí o hlasovacím právu **není odvolání**. Toto je *axiom efektivnosti* — schůze by jinak nemohla rozhodovat. Soud však *není vázán* pro další schůze.
+[4] **Doplnění podkladů.** Rozhodné skutečnosti lze doplnit a důkazy předložit nejpozději 2 pracovní dny před schůzí. Jde o samostatnou pozdější mez než pro doručení samotného návrhu. O této mezi musí soud věřitele poučit ve vyhlášce o svolání schůze.
 
-**Doložená přezkoumatelnost (odst. 4)** — pokud na rozhodnutí o hlasovacím právu závisí *jiné* odvolatelné rozhodnutí (např. usnesení o způsobu řešení), v rámci odvolání proti onomu *jinému* rozhodnutí lze přezkoumat i správnost rozhodnutí o hlasovacím právu. Toto však jen pro *první* takové rozhodnutí (aby se nedoprovázelo opakovaným přezkumem).
+[5] **Bez přímého opravného prostředku.** Proti rozhodnutí o hlasovacím právu není přípustný opravný prostředek. Rozhodnutí se vztahuje k dané schůzi; pro další schůzi jím soud není vázán a musí hlasovací právo znovu posoudit podle tehdejšího stavu.
 
-### Vazby
+[6] **Nepřímý přezkum.** Závisí-li na rozhodnutí o hlasovacím právu jiné rozhodnutí insolvenčního soudu, které je odvolatelné, lze v mezích odvolání proti němu přezkoumat také správnost určení hlasovacího práva. Zákon tuto cestu omezuje na první takové rozhodnutí vydané po rozhodnutí o hlasovacím právu; nejde tedy o samostatné odvolání proti určení hlasovacího práva.
 
-- **§ 51** — věcný rámec hlasovacího práva.
-- **§ 91** — opravné prostředky obecně.
+[7] **Intertemporalita.** Zákon č. 294/2013 Sb., účinný od 1. 1. 2014, doplnil tehdejší odstavec 3, který je dnes odstavcem 4. Zákon č. 64/2017 Sb., účinný od 1. 7. 2017, vložil dnešní odstavec 2 a dosavadní odstavce přečísloval. Pro řízení a rozhodnutí vztahující se ke starším schůzím je proto nutné ověřit tehdy účinné znění; zejména dnešní lhůty nelze zpětně promítat do schůzí před 1. 7. 2017.
 
-### F. Kazuistika
+### Judikatura
 
-**1. Modelová situace.** Schůze věřitelů má 10. dubna rozhodnout o způsobu řešení úpadku (konkurs × reorganizace). Věřitel s pohledávkou popřenou co do výše podá 8. dubna (tj. 2 dny před schůzí) soudu návrh, aby mu soud přiznal hlasovací právo odlišně od seznamu přihlášených, a důkazy doplní až ráno v den schůze. Soud na schůzi rozhodne o hlasovacím právu v jeho neprospěch. Na tomto rozhodnutí závisí následné usnesení o způsobu řešení úpadku, proti němuž je přípustné odvolání. Důkazně rozhodné jsou data podání návrhu a doplnění důkazů.
+Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita. Dříve citovaný nález Ústavního soudu sp. zn. IV. ÚS 3112/13 byl odstraněn, protože pro tuto jednotku nebyl uložen fyzický oficiální plný text s přesnými locatory a intertemporálním vyhodnocením. Při rešerši bylo jako tematicky relevantní identifikováno též usnesení Nejvyššího soudu ze dne 27. 11. 2020, sen. zn. 29 NSČR 55/2019, 29 NSČR 111/2019 a 29 NSČR 141/2019 (R 66/2021), avšak bez fyzického snapshotu nebylo použito jako pramen žádného závěru; nejde o tvrzení, že relevantní judikatura neexistuje.
 
-**2. Právní otázka.** Byl návrh na odlišné rozhodnutí o hlasovacím právu podán včas a lze správnost rozhodnutí o hlasovacím právu přezkoumat, je-li proti samostatnému opravnému prostředku jinak nepřípustné?
+### Praktický checklist
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 52 odst. 2 (návrh nejpozději 7 dní před schůzí, lhůta neskončí dříve než 5 dní po zveřejnění seznamu; doplnění důkazů nejpozději 2 pracovní dny před schůzí), odst. 3 (proti rozhodnutí o hlasovacím právu není opravný prostředek; soud jím není vázán pro další schůzi), odst. 4 (incidenční přezkoumatelnost v rámci odvolání proti závislému rozhodnutí — jen pro první takové rozhodnutí).
-- *Související ustanovení téhož zákona:* § 51 (věcný rámec), § 48 (poučení ve vyhlášce), § 150 (usnesení o způsobu řešení úpadku), § 91 (opravné prostředky).
-- *Související předpisy:* —.
-- *Judikatura:* ÚS IV.ÚS 3112/13 — i nepřezkoumatelné rozhodnutí o hlasovacím právu musí být řádně odůvodněno; ústavní ochrana zůstává.
-
-**4. Subsumpce.** Návrh podaný 8. 4. (2 dny před schůzí) nesplňuje lhůtu 7 dnů před schůzí — je opožděný. Doplnění důkazů „ráno v den schůze" rovněž porušuje lhůtu 2 pracovních dnů. Samotné rozhodnutí o hlasovacím právu je dle odst. 3 bez opravného prostředku. Protože však na něm závisí odvoláním napadnutelné usnesení o způsobu řešení úpadku, otevírá se incidenční přezkum dle odst. 4 (a jde o první takové závislé rozhodnutí).
-
-**5. Řešení.** Soud k opožděnému návrhu a opožděným důkazům nepřihlédne a rozhodne podle seznamu přihlášených. Přímé odvolání proti rozhodnutí o hlasovacím právu není přípustné. Věřitel však může jeho správnost napadnout nepřímo — v odvolání proti usnesení o způsobu řešení úpadku, v jehož mezích lze přezkoumat i správnost rozhodnutí o hlasovacím právu (poprvé). Procesní krok: podat řádné odvolání proti závislému rozhodnutí a v něm vznést námitky k hlasovacímu právu.
-
-**6. Varianty.** (a) Kdyby věřitel podal návrh 1. 4. (více než 7 dní předem) a důkazy doplnil 7. 4., byl by návrh včasný a soud by jej musel věcně posoudit. (b) Kdyby na rozhodnutí o hlasovacím právu nezáviselo žádné odvoláním napadnutelné rozhodnutí, byla by cesta incidenčního přezkumu dle odst. 4 uzavřena.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument 1:* „Vyloučení opravného prostředku porušuje právo na soudní ochranu." Neutralizace: jde o axiom efektivnosti schůze; ochrana je zachována incidenčně (odst. 4) a požadavkem řádného odůvodnění (ÚS IV.ÚS 3112/13).
-- *Protiargument 2:* „Lhůty jsou pořádkové, opožděný návrh lze zohlednit." Neutralizace: lhůty § 52 odst. 2 jsou prekluzivní a navázané na nutnost rozhodnout do schůze; jejich nedodržení vylučuje zohlednění.
-- *Slabé místo:* incidenční přezkum je omezen na „první" závislé rozhodnutí — pozdější dopady chybného posouzení hlasovacího práva už nemusí být napravitelné.
-
-### H. Praktický závěr
-
-Soud zkoumá hlasovací právo individuálně. Návrh na odlišné posouzení musí dojít 7 dní (důkazy 2 pracovní dny) před schůzí. Proti rozhodnutí o hlasovacím právu není přímý opravný prostředek, jen incidenční přezkum v odvolání proti prvnímu závislému rozhodnutí.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Byl návrh na odlišné rozhodnutí o hlasovacím právu podán nejpozději 7 dní před schůzí (a po 5 dnech od zveřejnění seznamu)?
-- [ ] Byly důkazy doplněny nejpozději 2 pracovní dny před schůzí?
-- [ ] Existuje odvoláním napadnutelné rozhodnutí závislé na hlasovacím právu (otevírá incidenční přezkum dle odst. 4)?
-- [ ] Je rozhodnutí o hlasovacím právu řádně odůvodněno (přes vyloučení odvolání)?
-
-**Typicky rozhodné důkazy / podklady:** návrh dle § 52 odst. 2 s datem doručení, doklad o zveřejnění seznamu přihlášených, doplněné důkazy s datem, vyhláška o svolání s poučením, závislé usnesení (např. o způsobu řešení úpadku).
+- [ ] Odpovídá požadované hlasovací právo seznamu přihlášených pohledávek, nebo je nutný návrh na odchylné rozhodnutí?
+- [ ] Došel návrh soudu nejpozději 7 dní před schůzí a byl zohledněn pětidenní korektiv po zveřejnění seznamu?
+- [ ] Byly rozhodné skutečnosti a důkazy doplněny nejpozději 2 pracovní dny před schůzí?
+- [ ] Obsahovala vyhláška o svolání zákonné poučení?
+- [ ] Jde při případném přezkumu o první odvolatelné rozhodnutí závislé na určení hlasovacího práva?
 
 ---
 

@@ -997,64 +997,60 @@ K 19. 7. 2026 nebylo do této revize zařazeno rozhodnutí, jehož plný text by
 
 ## § 61 — Prozatímní věřitelský výbor
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Do doby, než dojde k ustanovení věřitelského výboru a k potvrzení volby jeho členů a náhradníků, může insolvenční soud, a to i před první schůzí věřitelů a před rozhodnutím o úpadku, jmenovat prozatímní věřitelský výbor; navrhne-li to dlužník, přihlášený věřitel nebo předběžný správce, učiní tak neprodleně.
+>
 > (2) Jestliže věřitelský výbor neustanovila schůze věřitelů k tomu účelu svolaná, vykonává po jejím skončení působnost věřitelského výboru insolvenční soud; to platí obdobně, nebyla-li v oddlužení schůze věřitelů svolána. Novou schůzi věřitelů za účelem ustanovení věřitelského výboru svolá insolvenční soud jen na návrh oprávněné osoby (§ 47 odst. 1).
+>
 > (3) Proti rozhodnutí, jímž insolvenční soud jmenuje prozatímní věřitelský výbor, není odvolání přípustné.
+
+### Přehled výkladu
+
+Odstavec 1 umožňuje soudu překlenout dobu do ustanovení věřitelského výboru a potvrzení volby jeho členů a náhradníků. Bez návrhu jde o oprávnění soudu; na návrh některé ze tří výslovně uvedených osob soud prozatímní věřitelský výbor jmenuje neprodleně. Odstavec 2 upravuje odlišnou situaci, v níž působnost věřitelského výboru vykonává přímo insolvenční soud. Odstavec 3 vylučuje odvolání pouze proti rozhodnutí o jmenování prozatímního věřitelského výboru.
+
+### Souvisící ustanovení
+
+- **§ 27** — předběžný správce jako osoba oprávněná podat návrh podle odstavce 1.
+- **§ 47 odst. 1** — osoby oprávněné navrhnout svolání schůze věřitelů.
+- **§ 56 až 60** — ustavení, složení, činnost, způsobilost a odpovědnost věřitelského výboru.
+- **§ 62** — složení prozatímního výboru, rozhodnutí první následující schůze věřitelů a ukončení jeho činnosti.
+- **§ 66** — doplnění výboru a další případy, v nichž jeho působnost vykonává soud.
+
+### Souvisící předpisy
+
+- **Zákon č. 64/2017 Sb.** — doplnil do § 61 odst. 2 pravidlo pro případ, kdy v oddlužení nebyla svolána schůze věřitelů; změna nabyla účinnosti 1. 7. 2017.
+- Žádný další předpis nebyl v této revizi použit jako přímý zdroj výkladu § 61.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva označila oprávnění soudu ustavit prozatímní věřitelský výbor za prostředek k překlenutí doby, kdy se schůze věřitelů v některých fázích řízení fakticky nemůže sejít. Důvodová zpráva k zákonu č. 64/2017 Sb. spojila doplnění odstavce 2 se zjednodušením oddlužení: nebyla-li schůze svolána a výbor proto nemohl být ustanoven, vykonává jeho působnost soud.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní literární rešerše.
 
 ### Výklad
 
-**Prozatímní výbor** — *interimní řešení* pro fázi mezi zahájením řízení a první (řádnou) schůzí věřitelů. Soud ho jmenuje:
-- *fakultativně* z vlastní iniciativy,
-- *obligatorně* na návrh dlužníka, přihlášeného věřitele nebo předběžného správce.
+[1] **Časový rámec prozatímního výboru.** Prozatímní věřitelský výbor může být jmenován do doby, než je věřitelský výbor ustanoven a insolvenční soud potvrdí volbu jeho členů a náhradníků. Zákon výslovně dovoluje jmenování před první schůzí věřitelů i před rozhodnutím o úpadku; žádná z těchto událostí proto sama o sobě není podmínkou jmenování.
 
-**Soud jako náhrada výboru** (odst. 2) — pokud řádný výbor nebyl ustanoven (typicky: schůze ho nezvolila, v oddlužení se schůze nesvolala), **soud sám vykonává jeho působnost** až do případné nové volby.
+[2] **Návrh a iniciativa soudu.** Bez návrhu může soud prozatímní výbor jmenovat z vlastní iniciativy. Navrhne-li jmenování dlužník, přihlášený věřitel nebo předběžný správce, mění se modalita na povinnost soudu učinit tak neprodleně. Zákon pro tento návrh nejmenuje jinou osobu.
 
-> Toto je v praxi *velmi časté* u oddlužení a malých konkursů, kde se výbor reálně nikdy nezvolí.
+[3] **Složení a další osud.** Při jmenování se uplatní § 62: je-li to možné, mají být zastoupeni zajištění i nezajištění věřitelé. První schůze věřitelů konaná po jmenování rozhoduje o ponechání prozatímního výboru ve funkci a může měnit jeho personální složení. Jeho činnost končí způsobem vymezeným v § 62 odst. 3, nikoli automaticky samotným konáním první schůze.
 
-**Neopravitelnost jmenování prozatímního výboru** (odst. 3) — odvolání nepřípustné.
+[4] **Soud vykonávající působnost výboru.** Odstavec 2 nezakládá další prozatímní věřitelský výbor. Neustanovila-li výbor schůze svolaná k tomuto účelu, vykonává po jejím skončení jeho působnost soud. Totéž platí v oddlužení, nebyla-li schůze věřitelů svolána.
 
-### Vazby
+[5] **Nová schůze.** Po vzniku režimu podle odstavce 2 soud svolá novou schůzi za účelem ustanovení výboru jen na návrh osoby oprávněné podle § 47 odst. 1. Toto omezení se týká nové schůze s uvedeným účelem; nelze je bez dalšího zobecnit na svolávání schůzí věřitelů k jiným otázkám.
 
-- **§ 27** — předběžný správce.
-- **§ 47** — návrh na svolání schůze.
-- **§ 62** — potvrzení prozatímního výboru.
-- **§ 66** — soud jako výbor (jiný případ).
+[6] **Odvolání.** Výluka odvolání v odstavci 3 je textově omezena na rozhodnutí, jímž soud prozatímní věřitelský výbor jmenuje. Nelze ji rozšiřovat na jiné rozhodnutí soudu jen proto, že se týká věřitelského orgánu; případný opravný prostředek se posoudí podle úpravy konkrétního rozhodnutí.
 
-### F. Kazuistika
+[7] **Intertemporální pravidlo.** Pravidlo pro případ, kdy v oddlužení nebyla svolána schůze věřitelů, bylo do odstavce 2 doplněno zákonem č. 64/2017 Sb. s účinností od 1. 7. 2017. Podle přechodného ustanovení se novelizované znění použilo i na dříve zahájená insolvenční řízení, avšak právní účinky úkonů nastalé před účinností novely zůstaly zachovány.
 
-**1. Modelová situace.** Krátce po zahájení insolvenčního řízení s velkým provozovaným podnikem (ještě před rozhodnutím o úpadku a před první schůzí věřitelů) hrozí, že bude třeba neodkladně rozhodovat o pokračování provozu a o úvěrovém financování. Přihlášený věřitel (banka) navrhne, aby soud jmenoval prozatímní věřitelský výbor. Soud návrhu vyhoví a výbor jmenuje. Jiný věřitel chce proti jmenování podat odvolání. Důkazně rozhodný je návrh na jmenování a usnesení soudu.
+### Judikatura
 
-**2. Právní otázka.** Může soud jmenovat prozatímní věřitelský výbor ještě před rozhodnutím o úpadku a první schůzí, a je proti jeho jmenování přípustný opravný prostředek?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 61 odst. 1 (soud může jmenovat prozatímní výbor i před první schůzí a před rozhodnutím o úpadku; na návrh dlužníka, přihlášeného věřitele nebo předběžného správce tak učiní neprodleně), odst. 2 (nezvolí-li výbor schůze, vykonává jeho působnost soud), odst. 3 (proti jmenování prozatímního výboru není odvolání).
-- *Související ustanovení téhož zákona:* § 27 (předběžný správce), § 47 (svolání schůze), § 62 (potvrzení prozatímního výboru schůzí), § 66 (soud jako výbor).
-- *Související předpisy:* —.
-- *Judikatura:* —.
-
-**4. Subsumpce.** Návrh podal přihlášený věřitel — soud proto výbor jmenuje neprodleně (odst. 1). Časová podmínka „před rozhodnutím o úpadku a před první schůzí" je výslovně dovolena. Proti usnesení o jmenování prozatímního výboru zákon odvolání nepřipouští (odst. 3).
-
-**5. Řešení.** Soud prozatímní výbor jmenuje (zde dokonce neprodleně, protože návrh podal oprávněný subjekt); výbor začne vykonávat působnost do ustanovení a potvrzení řádného výboru. Odvolání věřitele proti jmenování je nepřípustné (odst. 3) a soud je odmítne. Procesní krok: případné výhrady k osobám lze uplatnit až na první schůzi při rozhodování o ponechání/úpravě prozatímního výboru (§ 62 odst. 2).
-
-**6. Varianty.** (a) Kdyby žádná oprávněná osoba návrh nepodala, soud by mohl výbor jmenovat fakultativně z vlastní iniciativy, ale nebyl by povinen jednat „neprodleně". (b) Kdyby schůze následně řádný výbor nezvolila, vykonával by jeho působnost soud (odst. 2, resp. § 66).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument 1:* „Před rozhodnutím o úpadku ještě nejsou ‚věřitelé', takže výbor nelze jmenovat." Neutralizace: odst. 1 výslovně umožňuje jmenování i před rozhodnutím o úpadku a před první schůzí — institut slouží právě překlenutí této rané fáze.
-- *Protiargument 2:* „Proti jmenování musí být opravný prostředek, jde o zásah do práv věřitelů." Neutralizace: odst. 3 odvolání výslovně vylučuje; ochrana je zajištěna tím, že schůze prozatímní výbor potvrzuje, mění či nahrazuje (§ 62).
-- *Slabé místo:* prozatímní výbor jmenovaný soudem nemusí odrážet skutečné rozložení věřitelů (ti ještě nejsou všichni přihlášeni) — proto je jeho mandát dočasný a podléhá potvrzení schůzí.
-
-### H. Praktický závěr
-
-Prozatímní výbor je interimní orgán pro ranou fázi řízení; soud jej jmenuje fakultativně, na návrh dlužníka, přihlášeného věřitele či předběžného správce neprodleně. Proti jmenování není odvolání. Nezvolí-li schůze řádný výbor, vykonává jeho působnost soud.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Je dán důvod pro jmenování prozatímního výboru v rané fázi (neodkladná rozhodnutí před první schůzí)?
-- [ ] Podala návrh oprávněná osoba (dlužník, přihlášený věřitel, předběžný správce) — pak soud jmenuje neprodleně?
-- [ ] Je zřejmé, že proti jmenování není odvolání (odst. 3)?
-- [ ] Je připraveno potvrzení/úprava prozatímního výboru na první schůzi (§ 62)?
-
-**Typicky rozhodné důkazy / podklady:** návrh na jmenování prozatímního výboru, usnesení soudu o jmenování, doklad o postavení navrhovatele (přihláška, ustanovení předběžného správce), podklady k neodkladným úkonům.
+V rámci revize primárních pramenů nebylo zařazeno rozhodnutí vrcholného soudu, jehož ověřený plný text by poskytoval přímo nosný a pro současné znění § 61 použitelný výklad nad rámec zákona a ověřených důvodových zpráv. Tento údaj není výsledkem negativní rešerše odborné literatury.
 
 ---
 

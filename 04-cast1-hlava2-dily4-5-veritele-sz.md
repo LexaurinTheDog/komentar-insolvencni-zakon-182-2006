@@ -552,68 +552,59 @@ Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k § 5
 
 ## § 54 — Zrušení usnesení schůze věřitelů
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Odporuje-li usnesení schůze věřitelů společnému zájmu věřitelů, může je insolvenční soud zrušit; to neplatí v případě uvedeném v § 29 odst. 1, § 51 odst. 1 a pro usnesení schůze věřitelů o způsobu řešení dlužníkova úpadku, o reorganizačním plánu nebo o způsobu oddlužení.
+>
 > (2) Rozhodnutí o zrušení usnesení schůze věřitelů může insolvenční soud vydat jen do skončení schůze věřitelů, která usnesení přijala, a může tak učinit jen na návrh insolvenčního správce nebo věřitele, který hlasoval proti přijetí usnesení schůze věřitelů.
+
+### Přehled výkladu
+
+Ustanovení umožňuje soudu zrušit usnesení schůze věřitelů pro rozpor se společným zájmem věřitelů. Pravomoc je omezena výslovnými věcnými výlukami, časovou mezí do skončení téže schůze a uzavřeným okruhem navrhovatelů. Na rozhodnutí navazuje zvláštní odvolací režim § 55.
+
+### Souvisící ustanovení
+
+- **§ 2 písm. j)** — definice společného zájmu věřitelů.
+- **§ 29 odst. 1 až 3 a § 51 odst. 1** — rozhodnutí schůze výslovně vyňatá z § 54 odst. 1 a jejich vlastní kontrolní režimy.
+- **§ 55** — vyhlášení, poučení, doručení a aktivní legitimace k odvolání.
+- **§ 59 odst. 2 a 3** — potvrzení volby členů a náhradníků věřitelského výboru a následky nepotvrzení.
+- **§ 150 až 152, § 348 až 351 a § 399 až 406** — rozhodování o způsobu řešení úpadku, reorganizačním plánu a způsobu oddlužení.
+
+### Souvisící předpisy
+
+Komentované ustanovení nemá samostatný prováděcí předpis. Procesní použití občanského soudního řádu se řídí obecnou subsidiaritou podle § 7 insolvenčního zákona, nestanoví-li insolvenční zákon jinak nebo není-li takový postup v rozporu se zásadami insolvenčního řízení.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva označila možnost zrušit usnesení schůze odporující společnému zájmu za zásadní změnu oproti dřívější úpravě. Jejím účelem měla být ochrana věřitelů před prosazováním partikulárních zájmů některých z nich, které odporují cílům a účelu insolvenčního řízení. Odkaz zprávy na § 2 písm. i) je historický; v aktuálním znění je definice společného zájmu v § 2 písm. j). Zpráva současně spojuje podmínky opravného prostředku podle § 55 s potřebou urychlit řízení.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola; tento údaj není výsledkem negativní literární rešerše.
 
 ### Výklad
 
-**Materiální korekce hlasování** — soud může **zrušit usnesení odporující společnému zájmu věřitelů** (§ 2 písm. j). Jde o klíčový instrument *ochrany menšiny věřitelů* proti zneužití hlasovací většiny.
+[1] **Předmět kontroly.** § 54 dopadá na usnesení schůze věřitelů, nestanoví-li zákon pro určité usnesení výluku nebo jiný kontrolní režim. Podmínkou zrušení je rozpor se společným zájmem věřitelů, jímž § 2 písm. j) rozumí zájem nadřazený jednotlivým zájmům věřitelů, jehož cílem je, aby zvolený způsob řešení úpadku byl pro ně spravedlivý a výnosnější než ostatní způsoby řešení úpadku. Samotná existence rozdílných dílčích zájmů proto ještě nenahrazuje posouzení zákonného kritéria.
 
-#### Pravomoc soudu
+[2] **Povaha pravomoci.** Slovesa „odporuje-li“ a „může“ vyžadují nejprve zjištění zákonné materiální podmínky a poté rozhodnutí soudu o zrušení. § 54 není obecnou pravomocí přepisovat ekonomickou volbu schůze; soud posuzuje napadené usnesení právě podle společného zájmu vymezeného zákonem.
 
-- *kritérium*: usnesení **odporuje společnému zájmu věřitelů**,
-- *věci, kde soud nemůže zrušit* (taxativně):
-  - odvolání správce (§ 29 odst. 1) — protože proti tomu má speciální opravný prostředek,
-  - hlasovací právo popřených pohledávek (§ 51 odst. 1),
-  - **způsob řešení úpadku, reorganizační plán, způsob oddlužení** — nejdůležitější věcná rozhodnutí, kde soud nemůže suplovat věřitele.
+[3] **Věcné výluky.** Soud tímto postupem nemůže zrušit usnesení podle § 29 odst. 1 ani rozhodnutí o hlasovacím právu podle § 51 odst. 1. Výslovně jsou vyňata také usnesení o způsobu řešení úpadku, o reorganizačním plánu a o způsobu oddlužení. U každého z nich je nutné použít jeho vlastní zákonný režim; výluka z § 54 neznamená, že soud může realizovat usnesení odporující jiným kogentním podmínkám zákona.
 
-#### Procesní rámec
+[4] **Návrhový princip.** Rozhodnutí lze vydat jen na návrh insolvenčního správce nebo věřitele, který hlasoval proti přijetí konkrétního usnesení. Věřitel, který hlasoval pro nebo se hlasování zdržel, podmínku formulovanou pro věřitele v § 54 odst. 2 nesplňuje. Zákon však tuto podmínku nestanoví insolvenčnímu správci.
 
-- *lhůta*: **do skončení schůze**, která usnesení přijala (extrémně krátké okno!),
-- *legitimace k návrhu*: **insolvenční správce nebo věřitel, který hlasoval proti**.
+[5] **Časová mez.** Zákon váže na skončení schůze možnost soudu vydat rozhodnutí, nikoli výslovně jen okamžik podání návrhu. Aby mohl soud návrh projednat a rozhodnutí vydat včas, musí být návrh uplatněn ještě za trvání schůze s dostatečným prostorem pro rozhodnutí. Po skončení schůze již rozhodnutí podle § 54 odst. 2 vydat nelze.
 
-> Toto je *koncentrační princip* — věřitel, který nepodal námitku ve schůzi, ztrácí možnost. Smysl: rozhodnutí musí být co nejdříve definitivní.
+[6] **Odvolání.** Podle § 55 soud po zrušení usnesení vyzve přítomné věřitele, kteří hlasovali pro, k vyjádření, zda se vzdávají odvolání, a poučí je o mezní době do skončení schůze. Proti zrušení je oprávněn odvolat se jen věřitel, který hlasoval pro; proti zamítnutí návrhu jen jeho navrhovatel. § 55 upravuje i omezené doručování rozhodnutí.
 
-### Vazby
+[7] **Jiné kontrolní režimy.** Volbu nebo odvolání členů a náhradníků věřitelského výboru soud posuzuje v režimu § 59 odst. 2 a 3. Nelze ji proto bez dalšího podřadit obecnému postupu podle § 54 a § 55. Obdobně § 29 a § 51 obsahují vlastní rozhodovací mechanismy, na které odkazuje výluka v § 54 odst. 1.
 
-- **§ 2 písm. j)** — společný zájem věřitelů.
-- **§ 55** — procesní úprava odvolání proti zrušení.
+[8] **Intertemporalita.** Pro konkrétní řízení je třeba ověřit znění insolvenčního zákona účinné v rozhodné době. Níže uvedené usnesení 29 NSČR 30/2010 vykládalo právní stav účinný do 30. 6. 2010; zde je použito jen pro závěr odpovídající i aktuálnímu výslovnému vynětí usnesení o způsobu řešení úpadku z § 54 odst. 1.
 
-### F. Kazuistika
+### Judikatura
 
-**1. Modelová situace.** Na schůzi věřitelů dominantní zajištěná banka prosadí usnesení, že majetková podstata (provozovaná pekárna) se má okamžitě zpeněžit po částech, ačkoli existuje vážný zájemce o koupi celého závodu jako going concern za podstatně vyšší cenu, z níž by se uspokojili i nezajištění. Správce i jeden nezajištěný věřitel (který hlasoval proti) považují usnesení za odporující společnému zájmu věřitelů. Schůze ještě probíhá. Důkazně rozhodné jsou nabídka na koupi závodu, protokol o hlasování a porovnání očekávaného výtěžku.
-
-**2. Právní otázka.** Může insolvenční soud zrušit usnesení schůze pro rozpor se společným zájmem věřitelů a za jakých procesních podmínek?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 54 odst. 1 (soud může zrušit usnesení odporující společnému zájmu věřitelů; výjimky — § 29 odst. 1, § 51 odst. 1, způsob řešení úpadku, RP, způsob oddlužení) a odst. 2 (jen do skončení schůze, jen na návrh správce nebo věřitele, který hlasoval proti).
-- *Související ustanovení téhož zákona:* § 2 písm. j) (společný zájem věřitelů), § 55 (koncentrovaný režim odvolání), § 49 (hlasování).
-- *Související předpisy:* —.
-- *Judikatura:* ÚS I.ÚS 2431/09 (citováno u § 55) — zrušení dle § 54 soud vydá jen na návrh oprávněné osoby a jen při rozporu se společným zájmem; je-li usnesení v souladu, žádné rozhodnutí se nevydává.
-
-**4. Subsumpce.** Usnesení o způsobu zpeněžení (rozprodej po částech vs. prodej závodu) není usnesením o způsobu řešení úpadku ani o RP/oddlužení — nespadá tedy do taxativních výjimek odst. 1. Pokud rozprodej po částech zjevně snižuje výtěžek oproti prodeji závodu, odporuje společnému zájmu. Návrh podává správce nebo věřitel, jenž hlasoval proti — obě podmínky legitimace jsou splněny. Schůze dosud trvá — okno pro rozhodnutí je otevřené.
-
-**5. Řešení.** Soud může usnesení ještě v průběhu schůze zrušit, shledá-li rozpor se společným zájmem (vyšší výtěžek z prodeje závodu). Po vyhlášení zrušení nastupuje koncentrovaný režim § 55 (odvolání jen do skončení schůze). Pokud návrh nepodá oprávněná osoba do skončení schůze, možnost zaniká. Procesní krok: správce/„proti"-věřitel musí návrh podat okamžitě, ještě před uzavřením schůze.
-
-**6. Varianty.** (a) Kdyby šlo o usnesení o způsobu řešení úpadku (konkurs × reorganizace), soud by je dle odst. 1 zrušit nemohl — věcné rozhodnutí o směru řízení náleží věřitelům. (b) Kdyby návrh podal věřitel, který hlasoval pro usnesení (nebo se zdržel), nebyl by aktivně legitimován a soud by návrh odmítl.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument 1:* „Soud nesmí nahrazovat ekonomické úvahy věřitelů." Neutralizace: soud nehodnotí obchodní vhodnost obecně, nýbrž jen rozpor se společným zájmem věřitelů (§ 2 písm. j); zjevné snížení výtěžku takový rozpor zakládá.
-- *Protiargument 2:* „Lhůta ‚do skončení schůze' je nereálně krátká." Neutralizace: krátkost je záměrná (koncentrace, rychlá definitivnost); proto musí být správce/věřitel připraven reagovat okamžitě, jinak právo zaniká.
-- *Slabé místo:* „společný zájem věřitelů" je neurčitý pojem; je nutné jej podložit konkrétním srovnáním výtěžků a doložit, že většina hlasovala proti zájmu celku.
-
-### H. Praktický závěr
-
-Soud může zrušit usnesení schůze odporující společnému zájmu věřitelů, vyjma taxativních věcí (odvolání správce, hlasovací právo popřených, způsob řešení úpadku, RP, oddlužení). Jen do skončení schůze a jen na návrh správce nebo věřitele hlasujícího proti.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Odporuje usnesení společnému zájmu věřitelů (§ 2 písm. j)?
-- [ ] Nejde o věc vyňatou z přezkumu (§ 29 odst. 1, § 51 odst. 1, způsob řešení, RP, oddlužení)?
-- [ ] Je návrh podán do skončení schůze, která usnesení přijala?
-- [ ] Podává návrh oprávněná osoba — správce nebo věřitel, který hlasoval proti?
-
-**Typicky rozhodné důkazy / podklady:** protokol o schůzi (jak kdo hlasoval), text napadeného usnesení, podklady o dopadu na výtěžek (nabídky, znalecké odhady), návrh na zrušení s časem podání.
+- **NS, usnesení ze dne 20. 1. 2011, sen. zn. 29 NSČR 30/2010, ECLI:CZ:NS:2011:29.NSCR.30.2010.1, R 96/2011.** Ve věci rozhodování o konkursu a reorganizaci Nejvyšší soud vyložil závaznost usnesení schůze o způsobu řešení úpadku při splnění zákonných předpokladů a současně potvrdil, že při objektivní nepřípustnosti zvoleného způsobu jím soud vázán není. Rozhodnutí podporuje rozlišení mezi výlukou přezkumu podle § 54 a kontrolou kogentních podmínek zvoleného způsobu řešení úpadku; neformuluje obecný test společného zájmu věřitelů.
 
 ---
 

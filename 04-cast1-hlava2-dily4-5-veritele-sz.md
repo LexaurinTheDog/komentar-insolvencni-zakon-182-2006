@@ -1416,54 +1416,56 @@ Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k výk
 
 ## § 68 — Zástupce věřitelů
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Není-li volba věřitelského výboru povinná, může schůze věřitelů místo něho zvolit zástupce věřitelů a jeho náhradníka.
 > (2) Ustanovení o věřitelském výboru platí pro zástupce věřitelů a jeho náhradníka obdobně.
 
+### Přehled výkladu
+
+Zástupce věřitelů je alternativou věřitelského výboru pouze tehdy, není-li jeho volba povinná. Volí jej schůze věřitelů spolu s náhradníkem. Jeho postavení se neurčuje izolovaně: § 68 odst. 2 přikazuje obdobně použít ustanovení o věřitelském výboru, vždy však jen v rozsahu slučitelném s jednočlenným uspořádáním.
+
+### Souvisící ustanovení
+
+- § 46 odst. 1 a 2 — věřitelský orgán a jeho působnost;
+- § 56 odst. 1 a 3 — povinná volba výboru při více než 50 přihlášených věřitelích a výjimka pro nepatrný konkurs nebo oddlužení;
+- § 57 — volba, odvolání a potvrzení volby soudem;
+- § 58 — působnost věřitelského výboru;
+- § 59 a 60 — osobní předpoklady, odborná péče, odpovědnost, náhrada výdajů a odměna;
+- § 63 až 65 — zánik funkce, odvolání a odstoupení;
+- § 66 — výkon působnosti věřitelského výboru insolvenčním soudem v zákonem vymezených situacích.
+
+### Souvisící předpisy
+
+- Vyhláška č. 313/2007 Sb., o odměně insolvenčního správce, o náhradách jeho hotových výdajů, o odměně členů a náhradníků věřitelského výboru a o náhradách jejich nutných výdajů — prováděcí předpis předvídaný § 60 odst. 4; při použití na zástupce věřitelů je určující obdobné použití podle § 68 odst. 2.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva potvrzuje, že zástupce lze zvolit jen tam, kde ustanovení výboru není povinné, a že pravidla o výboru se použijí obdobně. Výslovně odmítá možnost, aby zástupce a jeho náhradníka jmenoval insolvenční soud; tento závěr spojuje s historickou zkušeností s opatrovníkem věřitelů podle dřívějšího zákona o konkursu a vyrovnání.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento oddíl nepředstavuje negativní rešerši literatury.
+
 ### Výklad
 
-**Zástupce věřitelů** — *one-person* alternativa výboru pro malá řízení (< 50 věřitelů, nepatrný konkurs, oddlužení).
+[1] **Předpoklad volby.** Rozhodující není obecné označení řízení jako „malého“, nýbrž zákonná odpověď na otázku, zda je volba výboru povinná. Podle § 56 odst. 1 je zásadně povinná při více než 50 přihlášených věřitelích; podle § 56 odst. 3 však povinná není, je-li způsobem řešení úpadku nepatrný konkurs nebo oddlužení. Právě při nepovinné volbě může schůze místo výboru zvolit zástupce a jeho náhradníka.
 
-**Subsidiární aplikace** ustanovení o výboru — odpovědnost, povinnosti, odměna, vyloučení.
+[2] **Volba náleží schůzi věřitelů.** § 68 odst. 1 svěřuje volbu schůzi věřitelů. Z textu nelze dovodit oprávnění insolvenčního soudu zástupce jmenovat; tento zákaz výslovně potvrzuje i původní důvodová zpráva. Je třeba jej odlišit od zákonem upraveného výkonu působnosti výboru insolvenčním soudem podle § 66.
 
-### Praktická poznámka
+[3] **Obdobné použití není mechanické.** Na zástupce a náhradníka dopadají zejména pravidla o volbě a jejím potvrzení, osobních předpokladech, nepodjatosti a důvěryhodnosti, působnosti, odborné péči, přednosti společného zájmu věřitelů, odpovědnosti, náhradě nutných výdajů, odměně a zániku funkce. Nepoužijí se mechanicky pravidla, která předpokládají sborové rozhodování, předsedu, usnášeníschopnost nebo hlasování více členů; jejich použitelnost je nutno poměřit povahou jednočlenného orgánu.
 
-V praxi u oddlužení se ani zástupce věřitelů typicky nevolí — funkci „výboru/zástupce" vykonává soud (§ 66). U malých konkursů (např. po fyzických osobách, které nemají oddlužení) bývá zástupce někdy zvolen jedním dominantním věřitelem (typicky bankou).
+[4] **Povinnosti a majetkové omezení.** Obdobné použití § 60 znamená povinnost odborné péče a přednost společného zájmu věřitelů před vlastním zájmem i zájmem jiných osob. Také nabytí majetku z majetkové podstaty vyžaduje souhlas schůze věřitelů a náklady specializovaných odborníků lze hradit z majetkové podstaty pouze se souhlasem insolvenčního soudu za podmínek § 60 odst. 3.
 
-### F. Kazuistika
+[5] **Náhradník.** Zákon vyžaduje, aby byl vedle zástupce zvolen i jeho náhradník. Funkci zástupce proto nelze popsat bez kontroly pravidel o náhradnících a o zániku funkce v § 63 až 65; konkrétní procesní následek závisí na tom, která skutečnost nastala.
 
-**1. Modelová situace.** V nepatrném konkursu (méně než 50 věřitelů, fyzická osoba bez oddlužení) zvolí schůze místo věřitelského výboru jednočlenného zástupce věřitelů — kandidáta nominovaného dominantní bankou. Zástupce následně chce z podstaty koupit nemovitost dlužníka a najmout si odhadce na náklady podstaty. Drobní věřitelé namítají střet zájmů. Důkazně rozhodné jsou usnesení o volbě zástupce a doklady o zamýšlených úkonech.
+[6] **Intertemporalita.** § 68 je součástí původního zákona č. 182/2006 Sb. a jeho text v aktuálním znění odpovídá původnímu návrhu. Pro jednotlivé řízení je přesto nutné ověřit časové znění všech obdobně použitelných ustanovení; jejich pozdější změny nelze přenášet na starší skutkový a procesní stav bez kontroly přechodných pravidel.
 
-**2. Právní otázka.** Za jakých podmínek lze místo výboru zvolit zástupce věřitelů a jaký režim povinností a omezení se na něj vztahuje?
+### Judikatura
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 68 odst. 1 (není-li volba výboru povinná, může schůze místo něho zvolit zástupce věřitelů a jeho náhradníka), odst. 2 (ustanovení o věřitelském výboru platí pro zástupce obdobně).
-- *Související ustanovení téhož zákona:* § 56 odst. 3 (nepovinná volba u nepatrného konkursu/oddlužení), § 59 (kvalifikace a vyloučení — obdobně), § 60 (povinnosti a odpovědnost, zákaz nabývání majetku z podstaty bez souhlasu schůze, externí odborníci se souhlasem soudu — obdobně), § 66 (soud jako náhrada).
-- *Související předpisy:* vyhláška č. 313/2007 Sb. (odměna — obdobně).
-- *Judikatura:* —.
-
-**4. Subsumpce.** Volba výboru nebyla povinná (nepatrný konkurs) → schůze mohla zvolit zástupce (odst. 1). Na zástupce se obdobně použijí ustanovení o výboru (odst. 2), tedy i § 60 — zákaz nabývat majetek z podstaty bez souhlasu schůze a hrazení externích odborníků jen se souhlasem soudu. Záměr zástupce koupit nemovitost bez souhlasu schůze tento režim porušuje.
-
-**5. Řešení.** Zástupce smí nemovitost z podstaty nabýt jen se souhlasem schůze věřitelů (§ 60 obdobně); bez něj je úkon vadný. Odhadce může najmout na náklady podstaty jen se souhlasem soudu, jinak náklady nese ze svého. Při střetu zájmů se obdobně uplatní § 53. Procesní krok: drobní věřitelé mohou navrhnout soudu odvolání zástupce (§ 63 obdobně) a brojit proti úkonům ve střetu zájmů.
-
-**6. Varianty.** (a) Kdyby byla volba výboru povinná (více než 50 věřitelů, „velký" konkurs), nešlo by zástupce místo výboru zvolit. (b) Kdyby se zástupce ani nezvolil (časté u oddlužení), vykonával by jeho působnost soud (§ 66).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument 1:* „Zástupce věřitelů je jen jednotlivec, nevztahují se na něj fiduciární povinnosti jako na výbor." Neutralizace: odst. 2 nařizuje obdobné použití ustanovení o výboru — tedy i odbornou péči, přednost společného zájmu a odpovědnost dle § 60.
-- *Protiargument 2:* „Dominantní věřitel si zvolí svého zástupce a ten může jednat v jeho zájmu." Neutralizace: zástupce je vázán společným zájmem věřitelů a zákazy střetu (§ 53, § 60 obdobně); jeho úkony ve vlastním/cizím zájmu jsou postižitelné (odvolání, náhrada škody).
-- *Slabé místo:* u jednočlenného orgánu je kontrola slabší než u sboru; o to důležitější je dohled soudu a aktivita drobných věřitelů.
-
-### H. Praktický závěr
-
-Zástupce věřitelů je jednočlennou alternativou výboru pro řízení, kde volba výboru není povinná (nepatrný konkurs, oddlužení, méně než 50 věřitelů). Platí pro něj obdobně úprava výboru — povinnosti, odpovědnost, vyloučení, odměna i zákaz nabývání majetku z podstaty bez souhlasu schůze.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Je volba výboru nepovinná (předpoklad pro volbu zástupce)?
-- [ ] Splňuje zástupce kvalifikaci a není vyloučen (§ 59 obdobně)?
-- [ ] Dodržuje zástupce povinnosti dle § 60 obdobně (přednost společného zájmu, souhlas schůze k nabytí majetku, souhlas soudu k externím odborníkům)?
-- [ ] Není zástupce ve střetu zájmů (§ 53 obdobně); není namístě jeho odvolání?
-
-**Typicky rozhodné důkazy / podklady:** usnesení o volbě zástupce a náhradníka, doklady o počtu věřitelů a způsobu řešení úpadku, souhlas schůze/soudu k zamýšleným úkonům, podklady k případnému střetu zájmů.
+Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k výkladu § 68. Jde o redakční omezení na plnotextově ověřené primární prameny, nikoli o negativní rešerši nebo závěr, že relevantní judikatura neexistuje.
 
 ---
 

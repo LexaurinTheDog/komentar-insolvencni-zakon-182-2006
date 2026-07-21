@@ -1056,57 +1056,59 @@ V rámci revize primárních pramenů nebylo zařazeno rozhodnutí vrcholného s
 
 ## § 62 — Potvrzení prozatímního výboru
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Je-li to možné, jmenuje insolvenční soud prozatímní věřitelský výbor tak, aby v něm byli zastoupeni zajištění i nezajištění věřitelé.
+>
 > (2) První schůze věřitelů konaná po jmenování prozatímního věřitelského výboru rozhodne o tom, zda ponechá ve funkci prozatímní věřitelský výbor. Usnesení je přijato, jestliže pro ně hlasovala většina přítomných nebo řádně zastoupených zajištěných věřitelů počítaná podle výše jejich pohledávek a většina přítomných nebo řádně zastoupených nezajištěných věřitelů počítaná podle výše jejich pohledávek. První schůze věřitelů konaná po jmenování prozatímního věřitelského výboru může též odvolat některého z jeho členů nebo jeho náhradníků nebo do něj zvolit dalšího člena a jeho náhradníka; přitom se postupuje podle § 57 odst. 2.
+>
 > (3) Prozatímní věřitelský výbor ukončí svou činnost, jakmile insolvenční soud potvrdí věřitelský výbor ustanovený schůzí věřitelů. Od okamžiku, kdy insolvenční soud potvrdí usnesení, jímž schůze věřitelů ponechá prozatímní věřitelský výbor ve funkci, se tento výbor považuje za věřitelský výbor ustanovený schůzí věřitelů.
+
+### Přehled výkladu
+
+Ustanovení upravuje složení prozatímního věřitelského výboru, rozhodnutí první následující schůze věřitelů o jeho dalším osudu a okamžik skončení jeho prozatímního režimu. Nezakládá požadavek početní parity zajištěných a nezajištěných věřitelů; požaduje, je-li to možné, zastoupení obou skupin.
+
+### Souvisící ustanovení
+
+- **§ 49 až 52** — hlasování schůze věřitelů a hlasovací právo.
+- **§ 56 a § 57** — ustanovení, složení, skupinová volba a soudní potvrzení věřitelského výboru.
+- **§ 61** — jmenování prozatímního věřitelského výboru.
+- **§ 65 a § 66** — doplnění věřitelského výboru a výkon jeho působnosti insolvenčním soudem.
+- **§ 68 odst. 2** — obdobné použití ustanovení o věřitelském výboru na zástupce věřitelů a jeho náhradníka.
+
+### Souvisící předpisy
+
+Komentované pravidlo je úplně upraveno insolvenčním zákonem; pro jeho obsah nebyl identifikován prováděcí ani přímo použitelný unijní předpis.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva vymezila § 62 jako pravidlo o složení prozatímního výboru, právu první schůze rozhodnout o jeho osudu a okamžiku skončení jeho činnosti. Zákon č. 294/2013 Sb. pak od 1. 1. 2014 nahradil obecné zastoupení skupin výslovným zastoupením zajištěných a nezajištěných věřitelů a doplnil samostatné většiny obou skupin i odkaz na § 57 odst. 2. Důvodová zpráva k novele uvádí, že změna § 62 navazuje na změny § 57.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola; tento oddíl není negativní rešerší literatury.
 
 ### Výklad
 
-**Soud při jmenování usiluje o paritu** zajištěných / nezajištěných.
+[1] **Složení při jmenování.** Formule „je-li to možné“ ukládá soudu usilovat o zastoupení zajištěných i nezajištěných věřitelů, připouští však, že okolnosti konkrétního řízení zastoupení obou skupin neumožní. Z textu neplyne požadavek stejného počtu členů za každou skupinu.
 
-**Schůze věřitelů potvrzuje prozatímní výbor (odst. 2)** — kvalifikované *dvojí kvórum*: většina zajištěných **i** většina nezajištěných (každá skupina podle výše pohledávek). Tím se chrání obě skupiny.
+[2] **Povinný bod první následující schůze.** O ponechání prozatímního výboru rozhoduje první schůze věřitelů konaná po jeho jmenování. Pro přijetí usnesení musejí současně hlasovat pro dvě většiny: většina přítomných nebo řádně zastoupených zajištěných věřitelů a většina takto přítomných nebo zastoupených nezajištěných věřitelů; v obou skupinách se většina počítá podle výše pohledávek. Hlasy obou skupin nelze sečíst do jediné společné většiny.
 
-**Možnost dílčí úpravy** — schůze může odvolat jednotlivé členy nebo doplnit (s rozlišením podle § 57 odst. 2 — každá skupina své zástupce).
+[3] **Personální změny.** První následující schůze může jednotlivého člena nebo náhradníka odvolat anebo zvolit dalšího člena a jeho náhradníka. Odkaz na § 57 odst. 2 znamená, že osoby navržené nezajištěnými věřiteli volí a odvolávají nezajištění věřitelé a osoby navržené zajištěnými věřiteli zajištění věřitelé.
 
-**Konec mandátu prozatímního výboru** (odst. 3):
-- *automaticky* — jakmile soud potvrdí řádný výbor zvolený schůzí,
-- *transformace* — pokud schůze prozatímní výbor *potvrdí*, stává se řádným výborem (bez nové volby).
+[4] **Soudní potvrzení.** Podle § 57 odst. 3 se soudní potvrzení vyžaduje obdobně i pro usnesení podle § 62 odst. 2. Samotné hlasování schůze proto ještě nevyvolává přeměnu prozatímního výboru na výbor ustanovený schůzí.
 
-### F. Kazuistika
+[5] **Dva způsoby skončení prozatímního režimu.** Je-li schůzí ustanoven jiný věřitelský výbor, činnost prozatímního výboru končí potvrzením tohoto výboru soudem. Ponechá-li schůze prozatímní výbor ve funkci, považuje se dosavadní výbor od soudního potvrzení tohoto usnesení za věřitelský výbor ustanovený schůzí.
 
-**1. Modelová situace.** Soud jmenoval čtyřčlenný prozatímní věřitelský výbor (2 zajištění, 2 nezajištění). Na první schůzi po jmenování se hlasuje o jeho ponechání ve funkci. Zajištění věřitelé (podle výše pohledávek) jsou pro, nezajištění (podle výše pohledávek) jsou většinově proti, protože chtějí jiné složení. Část věřitelů navrhuje rovnou odvolat jednoho člena a zvolit nového. Důkazně rozhodné jsou prezenční listina, výše pohledávek obou skupin a výsledky hlasování v každé skupině.
+[6] **Nepřijetí usnesení.** Nedosažení jedné ze dvou skupinových většin znamená pouze, že usnesení o ponechání nebylo přijato. § 62 odst. 3 váže konec činnosti prozatímního výboru až na soudní potvrzení výboru ustanoveného schůzí; nelze proto bez dalšího dovozovat jeho okamžitý zánik už negativním výsledkem hlasování.
 
-**2. Právní otázka.** Jakou většinou schůze rozhoduje o ponechání prozatímního výboru ve funkci a může na téže schůzi výbor personálně upravit?
+[7] **Časová použitelnost.** Dnešní skupinové pojetí odstavců 1 a 2 platí od 1. 1. 2014. Zákon č. 294/2013 Sb. stanovil, že insolvenční zákon ve znění účinném od tohoto dne se použije i na řízení zahájená před účinností novely, přičemž právní účinky úkonů nastalé dříve zůstaly zachovány.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 62 odst. 2 (o ponechání prozatímního výboru rozhoduje první schůze; usnesení přijato, hlasovala-li pro většina přítomných zajištěných i většina přítomných nezajištěných, obojí podle výše pohledávek; schůze může člena odvolat či doplnit dle § 57 odst. 2), odst. 1 (soud usiluje o paritu), odst. 3 (transformace potvrzeného prozatímního výboru na řádný).
-- *Související ustanovení téhož zákona:* § 57 odst. 2 (oddělené volby skupin), § 61 (jmenování prozatímního výboru), § 56 (velikost výboru).
-- *Související předpisy:* —.
-- *Judikatura:* —.
+### Judikatura
 
-**4. Subsumpce.** Usnesení o ponechání prozatímního výboru vyžaduje dvojí kvórum — souhlas většiny zajištěných i většiny nezajištěných (každá skupina podle výše pohledávek). Zde zajištění jsou pro, ale nezajištění většinově proti — jedna z požadovaných většin chybí. Usnesení o ponechání tedy přijato není. Personální úpravu (odvolání/doplnění) provádí schůze dle § 57 odst. 2 (oddělené skupiny).
-
-**5. Řešení.** Protože nezajištění většinou nesouhlasí, prozatímní výbor není ponechán ve funkci — schůze musí zvolit řádný výbor (oddělené volby skupin dle § 57 odst. 2). Případnou dílčí úpravu (odvolání jednoho člena, doplnění) lze provést na téže schůzi se zachováním pravidel oddělených skupin. Procesní krok: hlasovat odděleně v každé skupině a zaznamenat obě většiny.
-
-**6. Varianty.** (a) Kdyby pro ponechání hlasovaly většiny obou skupin, prozatímní výbor by se potvrzením (po potvrzení soudem) transformoval na řádný výbor bez nové volby (odst. 3). (b) Kdyby nezajištění vůbec nebyli na schůzi přítomni, chyběl by základ pro jejich většinu a dvojí kvórum by nebylo možné naplnit — výbor by bylo nutné ustavit řádnou volbou.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument 1:* „Stačí prostá většina podle výše všech pohledávek jako u § 49." Neutralizace: § 62 odst. 2 zavádí speciální dvojí kvórum (zajištění i nezajištění zvlášť), které má přednost před obecným pravidlem § 49.
-- *Protiargument 2:* „Zajištění mohou doplnit i nezajištěné členy, mají-li převahu." Neutralizace: personální úprava se řídí § 57 odst. 2 — nezajištěné členy volí/odvolávají jen nezajištění a naopak; převaha zajištěných se neuplatní.
-- *Slabé místo:* dvojí kvórum může vést k patové situaci (jedna skupina blokuje); řešením je řádná volba výboru, případně náhradní výkon soudem.
-
-### H. Praktický závěr
-
-O ponechání prozatímního výboru rozhoduje první schůze dvojím kvórem — většinou přítomných zajištěných i většinou přítomných nezajištěných (podle výše pohledávek). Schůze může výbor personálně upravit dle § 57 odst. 2. Potvrzený prozatímní výbor se transformuje na řádný.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Hlasovalo se o ponechání prozatímního výboru na první schůzi po jeho jmenování?
-- [ ] Bylo dosaženo dvojího kvóra — většina zajištěných i většina nezajištěných (podle výše pohledávek)?
-- [ ] Probíhala případná personální úprava odděleně podle skupin (§ 57 odst. 2)?
-- [ ] Byl potvrzený výbor (po potvrzení soudem) považován za řádný výbor bez nové volby?
-
-**Typicky rozhodné důkazy / podklady:** usnesení soudu o jmenování prozatímního výboru, prezenční listina s rozlišením skupin a výší pohledávek, protokol o oddělených hlasováních, potvrzení soudu.
+Do tohoto vydání nebylo zařazeno rozhodnutí, jehož ověřený plný text by podával přímo nosný výklad § 62 nad rámec zákonného textu a ověřených legislativních materiálů. Toto konstatování není negativní rešerší odborné literatury ani tvrzením, že takové rozhodnutí neexistuje.
 
 ---
 

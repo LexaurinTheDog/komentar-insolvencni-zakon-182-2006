@@ -1229,55 +1229,60 @@ Do tohoto kola nebylo zařazeno žádné rozhodnutí jako přímo nosná autorit
 
 ## § 65 — Odstoupení; doplňující volba
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Člen nebo náhradník věřitelského výboru může kdykoli ze své funkce odstoupit. Činí tak podáním adresovaným insolvenčnímu soudu, které nemusí obsahovat důvody.
+>
 > (2) Dojde-li k tomu, že věřitelský výbor nebo některý z jeho členů nebo náhradníků nemůže pro zánik funkce vykonávat svou činnost a věřitelský výbor již nemá počet členů ustanovený schůzí věřitelů, svolá insolvenční soud schůzi věřitelů za účelem provedení nové volby nebo doplňující volby. Zanikne-li funkce člena věřitelského výboru, nastoupí na jeho místo jeho náhradník a doplňující volbou bude určen nový náhradník. Jde-li o prozatímní věřitelský výbor jmenovaný insolvenčním soudem, který dosud nepotvrdila schůze věřitelů, pak nový prozatímní věřitelský výbor nebo některého z jeho členů anebo náhradníků jmenuje insolvenční soud.
+
+### Přehled výkladu
+
+Ustanovení rozlišuje odstoupení člena nebo náhradníka, obnovení složení výboru ustanoveného schůzí věřitelů a doplnění dosud nepotvrzeného prozatímního výboru. Po zániku funkce člena nastupuje jeho náhradník; další postup závisí na druhu výboru a na podmínkách odstavce 2. Převzetí působnosti výboru insolvenčním soudem upravuje samostatně § 66 a nelze je spojovat s každým poklesem pod počet určený schůzí.
+
+### Souvisící ustanovení
+
+- § 46 odst. 1 až 3 — druhy věřitelských orgánů a jejich působnost,
+- § 47 a § 48 — svolání schůze věřitelů a vymezení předmětu jejího jednání,
+- § 56 odst. 1 a 2 — volba členů a náhradníků a určení jejich počtu,
+- § 57 odst. 2 a 3 — oddělené hlasování zajištěných a nezajištěných věřitelů a potvrzení volby soudem,
+- § 61 a § 62 — jmenování, potvrzení a ukončení činnosti prozatímního věřitelského výboru,
+- § 63 — způsoby zániku funkce člena nebo náhradníka,
+- § 66 — dočasný výkon působnosti věřitelského výboru insolvenčním soudem,
+- § 68 odst. 2 — obdobné použití pravidel o věřitelském výboru na zástupce věřitelů a jeho náhradníka.
+
+### Souvisící předpisy
+
+Pro vlastní mechanismus odstoupení a doplnění věřitelského orgánu není třeba uvádět další předpis; rozhodná pravidla obsahuje insolvenční zákon.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva vymezuje účel § 65 stručně jako úpravu ukončení účasti člena nebo náhradníka ve věřitelském výboru jeho jednostranným úkonem (odstoupením) a jako úpravu mechanismu doplňující nebo nové volby. Jde o zvláštní část k § 65 vládního návrhu insolvenčního zákona, sněmovní tisk 1120/0, číslovaná strana 173 (PDF strana 173).
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola; tato poznámka není výsledkem negativní rešerše.
 
 ### Výklad
 
-**Odstoupení** — *jednostranný úkon* bez nutnosti odůvodnění. Nabývá účinnosti doručením soudu (případně, byla-li by sjednána pozdější účinnost, k onomu datu).
+[1] **Odstoupení.** Odstoupit může člen i náhradník kdykoli. Zákon pro tento krok vyžaduje podání adresované insolvenčnímu soudu a výslovně vylučuje povinnost uvádět důvody. Nezakládá schvalovací pravomoc soudu ani schůze věřitelů.
 
-**Doplnění výboru:**
-- *primárně*: nastupuje **náhradník** (pokud byl zvolen),
-- *sekundárně*: **doplňující volba** nového náhradníka,
-- *terciálně*: pokud výbor klesl pod počet ustanovený schůzí — **nová volba** celého výboru.
+[2] **Vztah k zániku funkce.** Odstoupení je jedním ze způsobů zániku funkce vyjmenovaných v § 63 odst. 1. Odlišuje se od odvolání z funkce a od ukončení účasti věřitele v insolvenčním řízení; zvláštní pravidlo procesního nástupnictví podle § 63 odst. 2 proto nelze na odstoupení přenášet.
 
-U prozatímního výboru — *jmenování soudem*.
+[3] **Nástup náhradníka.** Zanikne-li funkce člena, nastupuje na jeho místo jeho náhradník. Doplňující volbou se poté určí nový náhradník. Má-li člen více náhradníků, je pro zastupování relevantní pořadí určené schůzí při jejich volbě podle § 58 odst. 2; konkrétní volební postup současně respektuje rozdělení hlasů podle § 57 odst. 2 a volbu potvrzuje soud podle § 57 odst. 3.
 
-### F. Kazuistika
+[4] **Svolání schůze.** Povinnost soudu svolat schůzi k nové nebo doplňující volbě váže první věta § 65 odst. 2 na současné splnění popsaných podmínek: pro zánik funkce nemůže výbor, jeho člen nebo náhradník vykonávat činnost a výbor již nemá počet členů ustanovený schůzí. Oznámení o svolání musí jako předmět jednání uvést příslušnou volbu (§ 48 odst. 1 a 2).
 
-**1. Modelová situace.** Pětičlenný věřitelský výbor (zvolený schůzí, bez zvolených náhradníků) se ocitne ve složení 3 členů poté, co jeden člen odstoupil a u druhého skončila účast v řízení (pohledávka byla pravomocně popřena). Po dalším odstoupení klesne počet na 2. Insolvenční soud řeší, jak výbor doplnit. Důkazně rozhodná jsou odstoupení adresovaná soudu a doklad o skončení účasti člena.
+[5] **Prozatímní výbor.** U prozatímního věřitelského výboru jmenovaného soudem, který schůze dosud nepotvrdila, se volební mechanismus schůze neuplatní: nový výbor, jeho člena nebo náhradníka jmenuje insolvenční soud. Po potvrzení se podle § 62 odst. 3 prozatímní výbor považuje za výbor ustanovený schůzí věřitelů.
 
-**2. Právní otázka.** Jak probíhá doplnění výboru po zániku funkce člena, není-li zvolen náhradník, a co se stane, klesne-li počet členů pod úroveň stanovenou schůzí?
+[6] **Meze záskoku soudu.** § 65 sám nepřenáší na soud působnost řádného věřitelského výboru při každém neúplném obsazení. Podle § 66 odst. 1 ji soud dočasně vykonává, poklesne-li počet členů výboru ustanoveného schůzí na méně než tři nebo pod většinu, a to do potvrzení volby, která obnoví alespoň zákonem stanovený práh.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 65 odst. 1 (člen může kdykoli odstoupit podáním soudu bez uvedení důvodů), odst. 2 (nemůže-li výbor pro zánik funkce fungovat a nemá počet členů stanovený schůzí, soud svolá schůzi k nové/doplňující volbě; primárně nastupuje náhradník a doplňující volbou se určí nový náhradník; u prozatímního výboru jmenuje soud).
-- *Související ustanovení téhož zákona:* § 63 (zánik funkce), § 56 (počet členů), § 66 (soud jako výbor při poklesu pod 3/většinu), § 57 odst. 2 (oddělené volby).
-- *Související předpisy:* —.
-- *Judikatura:* —.
+[7] **Zástupce věřitelů a časová použitelnost.** Pravidla o věřitelském výboru se podle § 68 odst. 2 použijí obdobně také na zástupce věřitelů a jeho náhradníka. Výklad zde popisuje znění účinné k 19. 7. 2026; při hodnocení starších úkonů je nutné ověřit tehdy účinné znění dotčených ustanovení. Žádný starší judikatorní závěr se v tomto kole nepoužívá.
 
-**4. Subsumpce.** Odstoupení je jednostranný úkon účinný doručením soudu (odst. 1). Protože nebyli zvoleni náhradníci, nelze místa obsadit nástupem náhradníka — nastupuje doplňující/nová volba (odst. 2). Klesl-li počet pod úroveň stanovenou schůzí (zde z 5 na 2), je soud povinen svolat schůzi k volbě; do té doby může nastoupit režim § 66 (soud jako výbor).
+### Judikatura
 
-**5. Řešení.** Soud svolá schůzi věřitelů k doplňující (případně nové) volbě členů a náhradníků se zachováním pravidel § 57 odst. 2. Do obnovení funkčního počtu, klesl-li počet pod 3 nebo pod většinu, vykonává působnost výboru soud (§ 66). Procesní krok: ověřit, zda byli zvoleni náhradníci; pokud ne, neprodleně iniciovat volbu.
-
-**6. Varianty.** (a) Kdyby schůze při původní volbě zvolila náhradníky, nastoupili by automaticky na uvolněná místa a doplňující volba by určila jen nové náhradníky (bez nutnosti rekonstruovat celý výbor). (b) Kdyby šlo o prozatímní výbor, doplnění/jmenování by provedl přímo soud (odst. 2 in fine), bez svolávání schůze.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument 1:* „Odstoupení musí být odůvodněno a schváleno soudem." Neutralizace: odst. 1 výslovně stanoví, že podání nemusí obsahovat důvody; odstoupení je účinné bez schválení.
-- *Protiargument 2:* „Pokles počtu členů ochromí výbor a zablokuje řízení." Neutralizace: zákon na to reaguje — nastupuje náhradník/doplňující volba (odst. 2), případně přebírá působnost soud (§ 66), takže kontinuita je zajištěna.
-- *Slabé místo:* opakovaná odstoupení mohou být obstrukční; soud však může výbor doplnit a v krajním případě funkci vykonávat sám (§ 66).
-
-### H. Praktický závěr
-
-Člen výboru může kdykoli odstoupit (bez důvodů, účinné doručením soudu). Uvolněné místo obsadí primárně náhradník, jinak doplňující/nová volba svolaná soudem; klesne-li počet pod úroveň dle schůze, působnost výboru přebírá soud. U prozatímního výboru doplňuje soud.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Bylo odstoupení učiněno podáním soudu (důvody nejsou nutné) a je účinné?
-- [ ] Jsou zvoleni náhradníci, kteří mohou nastoupit, nebo je třeba doplňující/nová volba?
-- [ ] Klesl počet členů pod úroveň stanovenou schůzí (nutnost svolat schůzi k volbě)?
-- [ ] Klesl počet pod 3 nebo pod většinu (přebírá působnost soud dle § 66)?
-
-**Typicky rozhodné důkazy / podklady:** písemná odstoupení adresovaná soudu, doklady o skončení účasti členů v řízení, usnesení o volbě výboru (počet členů a náhradníků), případné svolání schůze k doplňující volbě.
+Do tohoto kola nebylo zařazeno žádné rozhodnutí jako přímo nosná autorita k výkladu § 65. Kandidátní judikatura k věřitelským orgánům nebyla použita jako náhrada přesného textu § 65, § 66 ani pravidel o volbě a potvrzení členů.
 
 ---
 

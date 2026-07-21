@@ -732,63 +732,58 @@ Do produkčního výkladu nebylo zařazeno rozhodnutí jako samostatná nosná a
 
 ## § 57 — Zastoupení zajištěných a nezajištěných ve výboru
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Ve věřitelském výboru mají být zastoupeni zajištění i nezajištění věřitelé. Členů věřitelského výboru navržených nezajištěnými věřiteli musí být vždy nejméně tolik, kolik členů navržených zajištěnými věřiteli; to neplatí, jestliže nezajištění věřitelé své členy nenavrhnou nebo jimi navržené osoby s tímto návrhem nesouhlasí anebo nejsou zvoleny z jiných důvodů.
 > (2) Členové a náhradníci věřitelského výboru navržení nezajištěnými věřiteli se volí a odvolávají hlasy nezajištěných věřitelů. Členové a náhradníci věřitelského výboru navržení zajištěnými věřiteli se volí a odvolávají hlasy zajištěných věřitelů.
 > (3) Volbu a odvolání členů a náhradníků věřitelského výboru potvrzuje insolvenční soud; jeho rozhodnutí se nedoručuje. Pro usnesení schůze věřitelů podle § 62 odst. 2 platí věta první obdobně.
 
+### Přehled výkladu
+
+Ustanovení kombinuje tři pravidla: zastoupení obou skupin a nejméně stejné početní zastoupení kandidátů nezajištěných věřitelů; oddělené hlasování obou skupin při volbě i odvolání jejich kandidátů; a soudní potvrzení výsledku. Početní pravidlo má výslovné výjimky, pokud nezajištění věřitelé své členy nenavrhnou, kandidáti nesouhlasí nebo nejsou zvoleni z jiných důvodů.
+
+### Souvisící ustanovení
+
+- **§ 2 písm. g)** — vymezení zajištěného věřitele.
+- **§ 49 až 53** — obecná pravidla hlasování a hlasovacího práva schůze věřitelů.
+- **§ 56** — ustanovení výboru a počet jeho členů.
+- **§ 59 odst. 1 až 4** — způsobilost a souhlas kandidáta, důvody nepotvrzení volby a zvláštní odvolací režim.
+- **§ 61 a 62** — prozatímní věřitelský výbor; § 62 odst. 2 výslovně navazuje na skupinové hlasování.
+- **§ 63 až 66** — další způsoby zániku funkce, doplňující volba a dočasný výkon působnosti výboru insolvenčním soudem.
+
+### Souvisící předpisy
+
+Komentované pravidlo je procesně úplně upraveno insolvenčním zákonem; pro jeho skupinové a početní uspořádání nebyl identifikován zvláštní přímo navazující prováděcí předpis.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva k vládnímu návrhu insolvenčního zákona vysvětlila požadavek početně alespoň stejného zastoupení nezajištěných věřitelů a skupinové rozhodování o obsazení výboru. Důvodová zpráva k novele č. 294/2013 Sb. uvádí, že změna výslovně určila skupiny zajištěných a nezajištěných věřitelů a vyřešila spornou otázku odvolání člena hlasy druhé skupiny záporně.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto odložení není negativní rešerší literatury.
+
 ### Výklad
 
-**Paritní složení** — výbor musí mít nejméně tolik nezajištěných jako zajištěných členů. Důvod — *systémová ochrana nezajištěných*, jejichž zájmy se často divergují od zajištěných (zajištění mají větší vliv jinde — pokyny k zástavám apod.).
+[1] **Dvě skupiny a početní pravidlo.** Zákon vyžaduje zastoupení zajištěných i nezajištěných věřitelů. Současně porovnává počet členů podle toho, která skupina je navrhla: členů navržených nezajištěnými věřiteli nesmí být méně než členů navržených zajištěnými věřiteli. Nejde proto o pravidlo založené na celkové výši pohledávek jednotlivých skupin.
 
-> *Výjimka*: pokud nezajištění nenavrhnou kandidáty (typicky u malých dlužníků, kde nezajištěných je málo a nejsou organizovaní), parita se neuplatní.
+[2] **Výslovné výjimky.** Druhá věta odstavce 1 dovoluje odchylku od početního pravidla, jestliže nezajištění věřitelé své členy nenavrhnou, jimi navržené osoby s návrhem nesouhlasí nebo nejsou zvoleny z jiných důvodů. Před potvrzením výsledku je proto nutné zaznamenat nejen počet nominací, ale i souhlas kandidátů a výsledek skupinové volby; samotný nepoměr bez zjištění jeho příčiny nestačí.
 
-**Oddělené volební skupiny** (odst. 2):
-- zajištěné členy volí jen zajištění věřitelé,
-- nezajištěné členy jen nezajištění věřitelé.
+[3] **Oddělené hlasování.** O kandidátech navržených nezajištěnými věřiteli hlasují při volbě i odvolání pouze nezajištění věřitelé; totéž zrcadlově platí pro kandidáty zajištěných věřitelů. Obecná hlasovací pravidla § 49 až 53 se uplatní uvnitř hranic, které pro tuto zvláštní volbu stanoví § 57 odst. 2.
 
-> *Důsledek*: každá skupina si nominuje a volí **své zastoupení samostatně**.
+[4] **Soudní potvrzení a nepotvrzení.** Insolvenční soud potvrzuje volbu i odvolání členů a náhradníků. U volby musí být § 57 odst. 3 čten společně s § 59: soud volbu nepotvrdí, je-li důvod pochybovat o důvěryhodnosti kandidáta nebo o jeho způsobilosti k výkonu funkce; rozhodnutí o nepotvrzení musí vyhlásit do skončení schůze a § 59 odst. 4 pro ně stanoví zvláštní režim odvolání a doručení. Věta § 57 odst. 3, že rozhodnutí se nedoručuje, proto neodůvodňuje obecný závěr, že se nedoručuje ani rozhodnutí o nepotvrzení.
 
-**Potvrzení soudem** (odst. 3) — volba **nabývá účinnosti až potvrzením soudem** (rozhodnutí se nedoručuje — okamžitě ve schůzi).
+[5] **Prozatímní výbor.** Schůze podle § 62 odst. 2 rozhoduje oddělenými většinami zajištěných a nezajištěných věřitelů o ponechání prozatímního výboru ve funkci; volí-li dalšího člena nebo odvolává-li člena či náhradníka, postupuje podle § 57 odst. 2. Také usnesení o ponechání prozatímního výboru ve funkci podléhá podle § 57 odst. 3 soudnímu potvrzení.
 
-### Vazby
+[6] **Novelizace a časová použitelnost.** Původní zákon č. 182/2006 Sb. pracoval obecně se všemi skupinami věřitelů podle povahy pohledávek a výslovně upravoval skupinově jen volbu. Zákon č. 294/2013 Sb. s účinností od 1. 1. 2014 nahradil obecné označení skupin zajištěnými a nezajištěnými věřiteli a doplnil odvolávání do odstavců 2 a 3. Pro úkony před tímto datem nelze bez dalšího používat pozdější výslovné znění; pro rozhodný stav k 19. 7. 2026 platí text citovaný výše.
 
-- **§ 2 písm. g)** — zajištěný věřitel.
+[7] **Praktická kontrola.** Z protokolu o schůzi by mělo být zjistitelné, která skupina kandidáta navrhla, kdo v příslušné skupině hlasoval, zda kandidát se zvolením souhlasil, jak hlasování dopadlo a zda soud výsledek potvrdil. Tím lze odlišit zákonnou výjimku podle odstavce 1 od chybného sloučení obou volebních skupin.
 
-### F. Kazuistika
+### Judikatura
 
-**1. Modelová situace.** Schůze věřitelů volí pětičlenný věřitelský výbor. Zajištění věřitelé (banky) navrhnou tři kandidáty, nezajištění obchodní věřitelé navrhnou dva. Zajištění hlasy chtějí prosadit, aby všech pět členů byli jejich nominanti, protože mají hlasovou převahu. Nezajištění namítají paritu. Důkazně rozhodné jsou nominace jednotlivých skupin a rozdělení věřitelů na zajištěné a nezajištěné (§ 2 písm. g).
-
-**2. Právní otázka.** Mohou zajištění věřitelé díky hlasové převaze obsadit většinu nebo všechna místa ve výboru, nebo je složení vázáno paritou a oddělenými volbami skupin?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 57 odst. 1 (zastoupení zajištěných i nezajištěných; nezajištěnými navržených členů musí být nejméně tolik jako zajištěnými navržených — neplatí, nenavrhnou-li nezajištění své kandidáty), odst. 2 (oddělené volební skupiny: zajištěné členy volí zajištění, nezajištěné nezajištění), odst. 3 (volbu potvrzuje soud, rozhodnutí se nedoručuje).
-- *Související ustanovení téhož zákona:* § 56 (povinnost a velikost výboru), § 2 písm. g) (zajištěný věřitel), § 62 odst. 2 (obdoba u prozatímního výboru).
-- *Související předpisy:* —.
-- *Judikatura:* —.
-
-**4. Subsumpce.** Výbor má 5 členů; nezajištění navrhli 2, zajištění 3. Pravidlo parity vyžaduje, aby členů navržených nezajištěnými bylo nejméně tolik jako navržených zajištěnými. Pokud nezajištění reálně navrhli jen 2 a zajištění 3, parita by byla porušena (2 < 3) — ledaže nezajištění více kandidátů nenavrhli. Klíčové je, že zajištění svým hlasem nemohou volit nezajištěné členy a naopak (oddělené skupiny).
-
-**5. Řešení.** Zajištění nemohou obsadit místa vyhrazená nezajištěným — jejich hlasy o nezajištěných členech vůbec nehlasují (odst. 2). Není-li dosažena parita proto, že nezajištění nenavrhli dost kandidátů, výjimka v odst. 1 paritu vylučuje a výbor se ustaví v navrženém složení. Soud volbu potvrzuje (odst. 3). Procesní krok: zajistit, aby každá skupina volila výhradně své nominanty.
-
-**6. Varianty.** (a) Kdyby nezajištění navrhli rovněž 3 kandidáty, parita by byla zachována (3 : 3 by u sudého výboru, u pětičlenného by nezajištění museli mít alespoň tolik jako zajištění). (b) Kdyby nezajištění nenavrhli nikoho ani po výzvě, parita se neuplatní a výbor mohou tvořit pouze nominanti zajištěných.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument 1:* „Kdo má víc hlasů (zajištění), má právo obsadit celý výbor." Neutralizace: § 57 odst. 2 zavádí oddělené volební skupiny — zajištění o nezajištěných členech nehlasují vůbec; hlasová převaha se zde neuplatní.
-- *Protiargument 2:* „Parita blokuje vznik výboru, nenavrhnou-li nezajištění kandidáty." Neutralizace: odst. 1 in fine paritu pro tento případ výslovně vylučuje, takže výbor lze ustavit i bez nezajištěných nominantů.
-- *Slabé místo:* zařazení věřitele mezi zajištěné/nezajištěné může být sporné u částečně zajištěných pohledávek; je nutné vyjít z § 2 písm. g) a stavu zajištění.
-
-### H. Praktický závěr
-
-Výbor musí reprezentovat zajištěné i nezajištěné; nezajištěnými navržených členů musí být nejméně tolik jako zajištěnými navržených (nenavrhnou-li nezajištění své, parita odpadá). Každou skupinu volí jen příslušní věřitelé; volbu potvrzuje soud.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Jsou ve výboru zastoupeni zajištění i nezajištění věřitelé (parita: nezajištění ≥ zajištění)?
-- [ ] Navrhli nezajištění své kandidáty (jinak se parita neuplatní)?
-- [ ] Volila každá skupina pouze své nominanty (oddělené volby dle odst. 2)?
-- [ ] Potvrdil insolvenční soud volbu (bez doručování rozhodnutí)?
-
-**Typicky rozhodné důkazy / podklady:** seznam přihlášených s rozlišením zajištěných/nezajištěných (§ 2 písm. g), nominace jednotlivých skupin, protokol o oddělených volbách, potvrzení soudu.
+Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k § 57. Kandidátní zmínky bez ověřeného plného textu, skutkového a procesního kontextu a přesného nosného závěru nebyly použity.
 
 ---
 

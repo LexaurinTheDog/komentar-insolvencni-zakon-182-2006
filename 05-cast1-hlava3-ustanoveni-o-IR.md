@@ -139,49 +139,54 @@ Do této revize nebylo zařazeno rozhodnutí jako přímá autorita k § 72. Kan
 
 ## § 73 — Doručování před a po insolvenčním řízení
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Nestanoví-li tento zákon jinak, doručuje insolvenční soud vyhláškou také soudní rozhodnutí, která podle tohoto zákona vydává před zahájením insolvenčního řízení nebo po jeho skončení; totéž platí pro doručení předvolání, vyrozumění nebo jiné písemnosti, která s vydáním takového soudního rozhodnutí souvisí.
+
+### Přehled výkladu
+
+§ 73 zachovává doručení vyhláškou i mimo dobu trvání insolvenčního řízení. Jeho rozsah je však vymezen kumulativně: musí jít o rozhodnutí insolvenčního soudu vydané podle insolvenčního zákona před zahájením řízení nebo po jeho skončení. U jiných písemností navíc musí být dána souvislost s vydáním právě takového rozhodnutí. Zvláštní pravidlo téhož zákona má přednost.
+
+### Souvisící ustanovení
+
+- **§ 7** — subsidiární použití občanského soudního řádu a zákona o zvláštních řízeních soudních.
+- **§ 71** — vymezení doručení vyhláškou a okamžiku doručení.
+- **§ 74** — průkaz doručení a počátek procesní lhůty při zvláštním doručení.
+- **§ 75** — vymezení zvláštního způsobu doručení a jeho adresátů.
+
+### Souvisící předpisy
+
+- **Zákon č. 99/1963 Sb., občanský soudní řád, zejména § 45 až 50l** — obecná pravidla doručování se uplatní jen v mezích subsidiarity podle § 7 insolvenčního zákona.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva projednává § 73 pouze ve společném výkladu k § 71 až 80. Doručování označuje za oblast, v níž insolvenční zákon zavádí zvláštnosti oproti občanskému soudnímu řádu, zejména doručení vyhláškou. Samostatný výklad konkrétních hranic § 73 zpráva nepodává; ty proto nelze rozšiřovat nad jeho text.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto odložení není negativní rešerší literatury.
 
 ### Výklad
 
-Rozšíření doručování vyhláškou *i mimo časový rámec hlavního řízení*:
-- **před zahájením** — typicky předběžná opatření před podáním insolvenčního návrhu (vzácné, ale možné — § 113),
-- **po skončení** — typicky rozhodnutí v souvisejících řízeních o odpovědnosti správce, o náhradě škody insolvenčnímu navrhovateli atd.
+[1] **Působnost mimo probíhající řízení.** § 71 odst. 1 formuluje doručení vyhláškou pro písemnosti doručované „v insolvenčním řízení“. § 73 doplňuje tento režim pro dvě časové situace vně probíhajícího řízení: před jeho zahájením a po jeho skončení.
 
-### F. Kazuistika
+[2] **Rozhodnutí vydané podle insolvenčního zákona.** Pouhá věcná souvislost rozhodnutí s dřívější nebo budoucí insolvencí nestačí. Text vyžaduje, aby soudní rozhodnutí vydával insolvenční soud podle insolvenčního zákona. § 73 proto bez dalšího neurčuje způsob doručování rozhodnutí vydaných v samostatném civilním sporu.
 
-**1. Modelová situace.** Insolvenční řízení dlužníka Gama s. r. o. bylo pravomocně skončeno (zrušení konkursu). Následně soud vydává rozhodnutí v souvisejícím řízení o náhradě škody, kterou způsobil insolvenční navrhovatel nedůvodným návrhem (§ 147). Účastník namítá, že rozhodnutí mu mělo být doručeno klasicky do datové schránky, protože hlavní insolvenční řízení už neběží. Důkazy: výpis z rejstříku se zveřejněním rozhodnutí, doklad o skončení insolvenčního řízení.
+[3] **Související písemnosti.** Předvolání, vyrozumění nebo jiná písemnost spadá pod § 73 jen tehdy, souvisí-li s vydáním rozhodnutí vymezeného v první části ustanovení. Zákon tedy nepracuje s neomezenou souvislostí písemnosti s insolvenčním řízením jako takovým.
 
-**2. Právní otázka.** Doručuje se vyhláškou i rozhodnutí vydané až po pravomocném skončení insolvenčního řízení, souvisí-li s ním?
+[4] **Výhrada jiné úpravy.** Slova „nestanoví-li tento zákon jinak“ brání mechanickému použití § 73. Pro každé rozhodnutí nebo související písemnost je nutné nejprve ověřit, zda insolvenční zákon nestanoví odlišný režim.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 73 IZ — vyhláškou se doručují i rozhodnutí vydaná před zahájením nebo po skončení řízení, jakož i související předvolání/vyrozumění/písemnosti, nestanoví-li zákon jinak.
-- *Související ustanovení téhož zákona:* § 71 (doručení vyhláškou jako standard), § 113 (předběžná opatření před návrhem), § 147 (odpovědnost navrhovatele za nedůvodný návrh).
-- *Související předpisy:* OSŘ obecně subsidiárně, jeho pravidla doručování se však pro tyto související písemnosti nepoužijí, pokud IZ stanoví vyhlášku.
-- *Judikatura:* nosně NS k povaze rejstříkového doručování jako výlučného režimu v insolvenčních souvislostech (transparentnost a operativnost úkonů).
+[5] **Vztah ke zvláštnímu doručení.** Stanoví-li zákon vedle zveřejnění také zvláštní doručení, je třeba rozlišit doklad o doručení podle § 74 odst. 1 od počátku lhůty k opravnému prostředku nebo jinému procesnímu úkonu podle § 74 odst. 2. U takové lhůty je rozhodné zvláštní doručení adresátu, nikoli samotné dřívější zveřejnění.
 
-**4. Subsumpce.** Rozhodnutí o náhradě škody podle § 147 „souvisí" s insolvenčním řízením a bylo vydáno „po jeho skončení" — oba znaky § 73 jsou naplněny. Doručení vyhláškou je tedy správné; námitka účastníka o nutnosti doručení do datové schránky není důvodná, ledaže zákon pro konkrétní písemnost stanoví zvláštní způsob.
+[6] **Subsidiární procesní úprava.** V otázkách, které § 71 až 80 ani jiné ustanovení insolvenčního zákona neřeší, se postupuje v mezích § 7 přiměřeně podle občanského soudního řádu. Subsidiarita nemůže přepsat zvláštní pravidlo § 73.
 
-**5. Řešení.** Doručení vyhláškou je platné, lhůty běží od zveřejnění (§ 71 odst. 2). Pokud by však pro toto rozhodnutí zákon vyžadoval zvláštní doručení, uplatní se § 74 odst. 2 (lhůta od zvláštního doručení). Praktický krok účastníka: i po skončení řízení sledovat rejstřík ve věcech navazujících sporů.
+[7] **Intertemporalita.** Text § 73 je od původního zákona do rozhodného dne stabilní. Pro posouzení konkrétního doručení je přesto nutné ověřit znění souvisejících procesních pravidel použitelné v době doručování; dnešní podoba § 71, § 74 a § 75 se bez takové kontroly nepřenáší na starší skutkové stavy.
 
-**6. Varianty.** (a) Předběžné opatření vydané před zahájením řízení (§ 113) — doručuje se rovněž vyhláškou podle § 73. (b) Pokud by související rozhodnutí bylo vydáno ve zcela samostatném civilním sporu, který už není „v souvislosti" s insolvencí, použila by se obecná pravidla OSŘ.
+### Judikatura
 
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Po skončení insolvence rejstřík ztrácí doručovací funkci." — Neutralizace: § 73 výslovně rozšiřuje vyhláškové doručování i na dobu po skončení řízení u souvisejících písemností; rejstřík zůstává funkční a dostupný.
-- *Protiargument:* „Účastník už neměl důvod rejstřík sledovat." — Neutralizace: souvislost s insolvencí je objektivní; subjektivní očekávání nemění zákonem stanovený způsob doručení.
-- *Slabé místo:* hranice „souvislosti" může být sporná; u písemností bez zjevné vazby na insolvenci je vyhláškové doručení rizikové a je třeba souvislost odůvodnit.
-
-### H. Praktický závěr
-
-Vyhláškové doručování pokrývá i písemnosti vydané před zahájením a po skončení insolvenčního řízení, pokud s ním souvisejí.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Posouzeno, zda písemnost „souvisí" s insolvenčním řízením (vazba na § 113, § 147 apod.).
-- [ ] Ověřeno, zda pro ni zákon nestanoví zvláštní způsob doručení (pak § 74 odst. 2).
-- [ ] Účastník poučen, že rejstřík je třeba sledovat i ve fázi před zahájením a po skončení řízení.
-- [ ] Počátek lhůty navázán na okamžik zveřejnění (§ 71 odst. 2), nestanoví-li zvláštní doručení jinak.
-
-**Typicky rozhodné důkazy / podklady:** výpis z ISIR se zveřejněním rozhodnutí, doklad o zahájení/skončení řízení, odůvodnění souvislosti písemnosti s insolvencí.
+Do tohoto kola nebylo zařazeno žádné rozhodnutí jako přímá nosná autorita k § 73. Stávající obecný odkaz na judikaturu Nejvyššího soudu nebyl opatřen spisovou značkou ani ověřeným plným textem, a proto byl odstraněn; nejde o negativní rešerši judikatury.
 
 ---
 

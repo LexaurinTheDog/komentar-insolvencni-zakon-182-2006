@@ -789,13 +789,17 @@ Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k § 5
 
 ## § 58 — Působnost věřitelského výboru
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Věřitelský výbor chrání společný zájem věřitelů a v součinnosti s insolvenčním správcem přispívá k naplnění účelu insolvenčního řízení.
 > (2) Věřitelský výbor zejména
 > a) dohlíží na činnost insolvenčního správce,
 > b) poskytuje insolvenčnímu správci podporu při jeho činnosti,
 > c) uděluje insolvenčnímu správci nebo dlužníku s dispozičními oprávněními souhlas k uzavírání smluv o úvěrovém financování,
 > d) schvaluje průběžně výši a správnost hotových výdajů insolvenčního správce a nákladů spojených s udržováním a správou majetkové podstaty,
-> e) může nahlížet do dlužníkova účetnictví nebo evidence vedené podle zvláštního právního předpisu,
+> e) může nahlížet do dlužníkova účetnictví nebo evidence vedené podle zvláštního právního předpisu13),
 > f) může rozhodnout o ověření řádné účetní závěrky nebo mimořádné účetní závěrky auditorem,
 > g) může nahlížet do dlužníkových písemností ve stejném rozsahu jako insolvenční správce,
 > h) plní úkoly stanovené tímto zákonem nebo uložené mu insolvenčním soudem,
@@ -804,74 +808,62 @@ Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k § 5
 >
 > (4) Členové a náhradníci věřitelského výboru se mohou ve věřitelském výboru dát na své nebezpečí zastoupit kteroukoliv fyzickou osobou, která má způsobilost k právním úkonům v plném rozsahu; nejde-li o advokáta, může tento zástupce jednat jedině osobně. Náklady, které jim tím vzniknou, platí ze svého.
 
+### Přehled výkladu
+
+§ 58 spojuje obecné poslání věřitelského výboru, demonstrativní katalog jeho činností a vnitřní pravidla sborového rozhodování. Při použití ustanovení je třeba oddělit působnost výboru, usnášeníschopnost, většinu potřebnou k rozhodnutí, zákaz hlasování konkrétního člena a pouhé pověření člena provedením činnosti.
+
+### Souvisící ustanovení
+
+- **§ 2 písm. j), § 46 odst. 2 a 3** — společný zájem věřitelů a postavení věřitelského výboru mezi věřitelskými orgány.
+- **§ 41 a § 42** — úvěrové financování, k němuž výbor uděluje souhlas podle § 58 odst. 2 písm. c).
+- **§ 53 odst. 1 až 6** — pravidla hlasování použitelná podle § 58 odst. 3 obdobně, při posuzování usnášeníschopnosti zčásti přiměřeně.
+- **§ 56 odst. 2** — počet členů a možnost více náhradníků.
+- **§ 59 a § 60** — předpoklady členství, odborná péče, přednost společného zájmu, odpovědnost, výdaje a odborníci.
+- **§ 61, § 66 a § 68** — prozatímní výbor, výkon působnosti soudem v zákonných případech a obdobná pravidla pro zástupce věřitelů.
+
+### Souvisící předpisy
+
+Přímo použitá pravidla působnosti a rozhodování obsahuje insolvenční zákon. V této revizi nebyl k materiálním závěrům § 58 použit jiný předpis; obecná pravidla zastoupení mohou dopadat podpůrně jen po ověření konkrétní otázky a rozhodného časového znění.
+
+### Z důvodové zprávy
+
+Zvláštní část důvodové zprávy k původnímu vládnímu návrhu uvádí, že výčet činností věřitelského výboru není taxativní a je rozšířen dalšími ustanoveními zákona. Pravidlo o rozhodném hlasu předsedy vysvětluje jako pojistku pro sudý počet členů; možnost soudu určit předsedu nastupuje, nezvolí-li jej výbor ani opakovaně. Jde o sněmovní tisk 1120/0, zvláštní část „K § 58“, číslovaná strana 172 (PDF strana 173).
+
+### Literatura
+
+Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; její zpracování je odloženo do druhého kola.
+
 ### Výklad
 
-**Generální klauzule (odst. 1)**: výbor chrání **společný zájem** a *spolupracuje se správcem*. Není to opoziční orgán, ale spolutvůrce procesu.
+[1] **Poslání výboru.** Odstavec 1 vymezuje dvě souběžné složky činnosti: ochranu společného zájmu věřitelů a součinnost s insolvenčním správcem směřující k naplnění účelu řízení. Konkrétní povinnost nebo oprávnění je však nutné opřít o odstavec 2 nebo o jiné ustanovení zákona; odstavec 1 je obecným měřítkem výkonu působnosti.
 
-#### Demonstrativní výčet kompetencí (odst. 2)
+[2] **Otevřený katalog.** Slovo „zejména“ v odstavci 2 znamená, že písmena a) až i) nejsou uzavřeným výčtem. Výbor dohlíží na správce a podporuje jej, uděluje souhlas k úvěrovému financování, průběžně schvaluje vymezené výdaje a náklady, má informační a kontrolní oprávnění, plní zákonné i soudem uložené úkoly a může soudu podávat návrhy týkající se průběhu řízení včetně návrhů na procesní sankce. Další kompetence musí mít oporu v insolvenčním zákoně nebo v konkrétním úkolu uloženém soudem.
 
-- (a) **dohled nad správcem** — největší kompetence,
-- (b) **podpora** činnosti správce,
-- (c) **souhlas k úvěrovému financování** (§ 41 — důležitý finanční nástroj),
-- (d) **schvalování hotových výdajů správce** + nákladů na správu podstaty,
-- (e) — (g) — **informační kompetence** (účetnictví, audit, dlužníkovy písemnosti),
-- (h) — *catch-all* (úkoly podle zákona či soudu),
-- (i) — **iniciativa vůči soudu** (návrhy procesní, vč. sankcí).
+[3] **Předseda a svolání.** Výbor volí předsedu ze svého středu. Předseda schůze svolává a řídí; pokud jej výbor nezvolí ani při opakované volbě, určí jej soud z členů výboru. Výbor se může sejít z vlastní iniciativy a svolat jej může také soud nebo insolvenční správce.
 
-#### Procesní pravidla (odst. 3)
+[4] **Rozhodnutí a kvórum.** Výbor rozhoduje většinou hlasů svých členů. Nepřítomného člena zastupuje náhradník; při více náhradnících nastupují v pořadí určeném schůzí věřitelů při volbě. Rovnost hlasů řeší hlas předsedy. Usnášeníschopnost vyžaduje přítomnost nadpoloviční většiny členů nebo jejich náhradníků. Kvórum a většina pro přijetí rozhodnutí jsou dvě odlišné otázky.
 
-- *sborový orgán*,
-- *předseda* — volený, svolává a řídí,
-- usnášení **většinou hlasů**,
-- *kvórum* — nadpoloviční většina členů (nebo náhradníků),
-- *zákazy hlasování* — § 53 obdobně,
-- *delegace* — výbor může pověřit jednotlivého člena prováděním činnosti.
+[5] **§ 53 při hlasování výboru.** Na hlasování člena se § 53 odst. 1 až 6 použije obdobně; při posouzení usnášeníschopnosti se § 53 odst. 6 použije přiměřeně. Zákon tedy sám rozlišuje způsob použití těchto pravidel. Zákaz hlasování a jeho dopad nelze dovozovat jen z obecného označení určitého vztahu za střet zájmů; musí být posouzeny podmínky příslušného pravidla § 53.
 
-#### Zastoupení (odst. 4)
+[6] **Pověření jednotlivce.** Připouští-li to povaha činnosti, výbor může jejím provedením nebo prováděním pověřit člena či jeho náhradníka. Text dovoluje delegovat výkon činnosti, nikoli bez dalšího nahradit sborové rozhodnutí jednotlivcem tam, kde má rozhodnout výbor.
 
-Člen výboru **se může nechat zastoupit** *jakoukoli FO* (advokát osobně i písemně, ne-advokát jen osobně). *Náklady nese ze svého* — výbor nemůže přefakturovat na podstatu.
+[7] **Zastoupení.** Člen i náhradník se může ve výboru na své nebezpečí nechat zastoupit kteroukoliv fyzickou osobou splňující zákonný požadavek plné způsobilosti; zástupce, který není advokátem, musí jednat osobně. Náklady tohoto zastoupení nese zastoupený ze svého. Toto individuální zastoupení je odlišné od zastupování nepřítomného člena jeho zvoleným náhradníkem podle odstavce 3.
 
-### Vazby
+[8] **Časová působnost.** Výklad odpovídá znění účinnému k 19. 7. 2026. Původní návrh již obsahoval nosnou strukturu § 58 i vysvětlení demonstrativního výčtu a role předsedy. U staršího úkonu nebo rozhodnutí je vždy třeba ověřit tehdy účinné znění § 58, souvisejících ustanovení a přechodná ustanovení případné novely.
 
-- **§ 41 — § 42** — úvěrové financování.
-- **§ 53** — zákazy hlasování (obdobně pro výbor).
-- **§ 60** — odpovědnost členů výboru.
+### Judikatura
 
-### F. Kazuistika
+Do této revize nebylo zařazeno rozhodnutí, jehož oficiální plný text by obsahoval přímo nosný závěr k výkladu § 58 a současně prošel kontrolou skutkového a procesního kontextu i intertemporality. Tato poznámka není negativní rešerší veškeré judikatury.
 
-**1. Modelová situace.** Insolvenční správce provozovaného podniku potřebuje překlenovací úvěrové financování (§ 41), aby udržel výrobu do prodeje závodu. Předloží věci pětičlennému výboru. Na jednání jsou přítomni 3 členové (z toho jeden zastoupen advokátem na základě plné moci). Jeden z přítomných členů je zároveň věřitelem, jehož sesterská společnost je potenciálním poskytovatelem úvěru. Důkazně rozhodné jsou prezenční listina jednání výboru, plná moc zástupce a doklady o propojení člena s poskytovatelem úvěru.
+### Praktický checklist
 
-**2. Právní otázka.** Je výbor usnášeníschopný a smí dotčený člen hlasovat o udělení souhlasu k úvěrovému financování, je-li jeho spřízněná osoba poskytovatelem úvěru?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 58 odst. 2 písm. c) (souhlas k úvěrovému financování), odst. 3 (sborový orgán, usnášení většinou hlasů, kvórum nadpoloviční většiny členů/náhradníků, obdobné použití § 53 odst. 1—6 na hlasování člena, delegace činnosti na člena), odst. 4 (zastoupení člena jakoukoli FO; ne-advokát jen osobně).
-- *Související ustanovení téhož zákona:* § 41—42 (úvěrové financování), § 53 (zákaz hlasování při střetu zájmů — obdobně), § 60 (odpovědnost členů).
-- *Související předpisy:* § 79 ZOK (koncern), § 22 OZ (osoby blízké) pro posouzení střetu.
-- *Judikatura:* —.
-
-**4. Subsumpce.** Přítomni jsou 3 z 5 členů — nadpoloviční většina, výbor je usnášeníschopný (zastoupení advokátem je přípustné, odst. 4). Souhlas k úvěrovému financování patří výboru (odst. 2 písm. c). Člen, jehož sesterská společnost je poskytovatelem, je ve střetu zájmů — na jeho hlasování se obdobně použije § 53 (zákaz hlasování ve věci, jíž se účastní jeho spřízněná osoba).
-
-**5. Řešení.** Výbor o souhlasu rozhodne, ale dotčený člen nesmí hlasovat (§ 53 obdobně dle § 58 odst. 3); k jeho hlasu se nepřihlíží a usnášeníschopnost se posoudí přiměřeně bez něj. Souhlas musí být přijat většinou zbývajících oprávněných hlasů. Procesní krok: zaznamenat vyloučení dotčeného člena z hlasování do protokolu; ověřit, že i bez něj je zachováno kvórum.
-
-**6. Varianty.** (a) Kdyby člen ani jeho spřízněná osoba s úvěrem nesouviseli, mohl by hlasovat a kvórum by bylo nesporné. (b) Kdyby se na jednání dostavili jen 2 z 5 členů, výbor by nebyl usnášeníschopný a souhlas by udělit nemohl; rozhodnutí by se muselo odložit nebo by věc převzal soud (§ 66, klesl-li by trvale počet).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument 1:* „Zákaz hlasování dle § 53 platí jen pro schůzi věřitelů, ne pro výbor." Neutralizace: § 58 odst. 3 výslovně nařizuje obdobné použití § 53 odst. 1—6 na hlasování člena výboru.
-- *Protiargument 2:* „Zastoupení advokátem nestačí pro usnášeníschopnost, člen musí být osobně." Neutralizace: odst. 4 dovoluje zastoupení kteroukoli FO; advokát může jednat i bez osobní přítomnosti zastoupeného a počítá se do kvóra.
-- *Slabé místo:* posouzení střetu zájmů člena (vazba na poskytovatele úvěru) může být skutkově sporné; nutno doložit propojení a povahu plnění.
-
-### H. Praktický závěr
-
-Výbor je sborový orgán chránící společný zájem; rozhoduje většinou při kvóru nadpoloviční většiny členů/náhradníků, uděluje mj. souhlas k úvěrovému financování a dohlíží na správce. Na hlasování členů se obdobně vztahuje zákaz dle § 53; člen se může nechat zastoupit.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Je výbor usnášeníschopný (přítomna nadpoloviční většina členů/náhradníků, vč. řádně zastoupených)?
-- [ ] Spadá rozhodovaná věc do působnosti výboru (např. souhlas k úvěrovému financování dle písm. c)?
-- [ ] Není některý člen ve střetu zájmů (§ 53 obdobně) a vyloučen z hlasování?
-- [ ] Je hlasování a případné vyloučení zaznamenáno; rozhodl výbor potřebnou většinou?
-
-**Typicky rozhodné důkazy / podklady:** prezenční listina a protokol jednání výboru, plné moci zástupců, podklady k navrhovanému úkonu (smlouva o úvěrovém financování), doklady o případném propojení člena se stranou věci.
+- [ ] Má zamýšlený úkon výboru konkrétní oporu v § 58 odst. 2, jiném ustanovení zákona nebo v úkolu uloženém soudem?
+- [ ] Byl výbor řádně svolán a je přítomna nadpoloviční většina členů nebo jejich náhradníků?
+- [ ] Bylo při více náhradnících dodrženo pořadí určené schůzí věřitelů?
+- [ ] Byl samostatně posouzen zákaz hlasování podle § 53 a jeho dopad na kvórum?
+- [ ] Rozhodla většina hlasů členů a byl při rovnosti správně použit hlas předsedy?
+- [ ] Jde při pověření jednotlivce jen o provedení činnosti, kterou lze podle její povahy delegovat?
+- [ ] Nese náklady individuálního zástupce zastoupený člen nebo náhradník ze svého?
 
 ---
 

@@ -23,73 +23,59 @@ Díl 5 doplňuje Hlavu II o dva specifické procesní subjekty — **státní za
 
 ## § 46 — Věřitelské orgány a jejich poměr
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Věřitelskými orgány jsou schůze věřitelů a věřitelský výbor nebo zástupce věřitelů.
 > (2) Schůzi věřitelů přísluší volba a odvolání členů věřitelského výboru a jeho náhradníků nebo zástupce věřitelů; rozhoduje též o tom, zda ponechá ve funkci prozatímní věřitelský výbor. Schůze věřitelů si může vyhradit cokoli, co patří do působnosti věřitelských orgánů. Usnesení, jímž si schůze věřitelů vyhrazuje působnost jiných věřitelských orgánů, je přijato, jestliže pro ně hlasovala většina tvořená nejméně dvěma třetinami hlasů přítomných nebo řádně zastoupených věřitelů, počítaná podle výše jejich pohledávek. Není-li ustanoven věřitelský výbor ani zástupce věřitelů a není-li v tomto zákoně stanoveno jinak, vykonává schůze věřitelů i jejich působnost.
 > (3) Věřitelský výbor vykonává působnost věřitelských orgánů s výjimkou věcí, které patří do působnosti schůze věřitelů nebo které si schůze věřitelů vyhradila.
 
+### Přehled výkladu
+
+§ 46 rozděluje působnost mezi schůzi věřitelů a věřitelský výbor, popřípadě zástupce věřitelů. Schůzi výslovně svěřuje personální rozhodnutí uvedená v odstavci 2 a dovoluje jí vyhradit si působnost jiného věřitelského orgánu. Samotné vyhrazení vyžaduje nejméně dvě třetiny hlasů přítomných nebo řádně zastoupených věřitelů, počítaných podle výše pohledávek. Věřitelskému výboru náleží zbývající působnost, pokud ji zákon nesvěřuje schůzi nebo si ji schůze nevyhradila.
+
+### Souvisící ustanovení
+
+- § 47 až 55 — svolání, jednání a rozhodování schůze věřitelů, hlasovací právo a soudní kontrola usnesení,
+- § 56 až 60 — ustanovení, složení, působnost a činnost věřitelského výboru,
+- § 61 a 62 — prozatímní věřitelský výbor a rozhodnutí o jeho ponechání ve funkci,
+- § 66 — výkon působnosti věřitelského výboru insolvenčním soudem v zákonem stanovených případech,
+- § 68 — zástupce věřitelů a obdobné použití ustanovení o věřitelském výboru.
+
+### Souvisící předpisy
+
+- zákon č. 294/2013 Sb., čl. I bod 22 a čl. II — doplnění kvalifikované většiny pro vyhrazení působnosti jiných věřitelských orgánů s účinností od 1. 1. 2014.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva k vládnímu návrhu insolvenčního zákona označila za zásadní změnu výslovnou úpravu vztahů a působnosti jednotlivých věřitelských orgánů. Vládní návrh § 46 ještě neobsahoval zvláštní kvórum pro vyhrazení působnosti. Důvodová zpráva k novele č. 294/2013 Sb. vysvětlila zvýšení kvóra snahou omezit zneužívání atrakce věřiteli s rozhodujícím počtem hlasů k vyloučení minoritních věřitelů z aktivní účasti ve věřitelských orgánech.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola; nejde o negativní rešerši.
+
 ### Výklad
 
-**Hierarchie věřitelských orgánů:**
+[1] **Soustava orgánů.** Odstavec 1 rozlišuje schůzi věřitelů a druhý, alternativně obsazovaný orgán: věřitelský výbor, nebo zástupce věřitelů. Zástupce lze podle § 68 odst. 1 zvolit místo výboru jen tehdy, není-li volba výboru povinná; ustanovení o výboru se na něj a jeho náhradníka použijí obdobně (§ 68 odst. 2).
 
-1. **Schůze věřitelů** — *nejvyšší orgán*. Má **rezervované kompetence** (taxativní) a **obecnou kompetenci** — může si vyhradit cokoli, co jinak patří výboru. Pro „atrakční usnesení" (vyhrazení kompetence) potřebuje **kvalifikované kvórum 2/3 přítomných hlasů**.
+[2] **Personální působnost schůze.** Schůzi přísluší volit a odvolávat členy věřitelského výboru, jejich náhradníky nebo zástupce věřitelů a rozhodnout, zda ponechá ve funkci prozatímní věřitelský výbor. Podrobnosti a další podmínky těchto rozhodnutí upravují zejména § 56, § 57 a § 62; § 46 proto nelze používat bez těchto zvláštních pravidel.
 
-2. **Věřitelský výbor / zástupce věřitelů** — „výkonný orgán" mezi schůzemi. *Subsidiárně* vykonává vše, co není výslovně schůzi, není-li si schůze vyhradila.
+[3] **Vyhrazení působnosti.** Schůze si může vyhradit věc, která patří do působnosti věřitelských orgánů. Usnesení o samotném vyhrazení je přijato jen při dosažení kvalifikované většiny nejméně dvou třetin hlasů přítomných nebo řádně zastoupených věřitelů, počítané podle výše jejich pohledávek. Toto kvórum se vztahuje na usnesení o vyhrazení působnosti; podmínky následného rozhodnutí ve vyhrazené věci je nutné určit podle ustanovení upravujícího danou věc.
 
-3. **Schůze věřitelů jako „suplement"** — pokud výbor / zástupce nejsou ustanoveni, **vykonává jejich působnost přímo schůze**. To je v praxi *teoretická konstrukce* — schůze se schází zřídka, takže se v takových řízeních místo výboru řídí postupy přímo soud (§ 66 — soud jako věřitelský výbor).
+[4] **Program a hlasovací právo.** Možnost vyhradit si působnost neodstraňuje pravidla jednání schůze. Podle § 48 odst. 2 může schůze zásadně projednat jen předmět uvedený v oznámení o jejím svolání; kdo a v jakém rozsahu hlasuje, určují zejména § 49 až 53. Z počtu přítomných osob proto nelze bez ověření jejich hlasovacího práva a výše pohledávek dovodit dosažení dvoutřetinové většiny.
 
-### Reservované kompetence schůze (z § 46 odst. 2 ve spojení s dalšími paragrafy)
+[5] **Zbytková působnost výboru.** Věřitelský výbor vykonává působnost věřitelských orgánů, nejde-li o věc svěřenou schůzi nebo o věc, kterou si schůze vyhradila. Konkrétní úkoly výboru vymezuje především § 58 a další ustanovení insolvenčního zákona. § 46 odst. 3 sám neurčuje obsah jednotlivého oprávnění ani jeho podmínky.
 
-- volba a odvolání členů věřitelského výboru / zástupce věřitelů,
-- potvrzení / nepotvrzení prozatímního věřitelského výboru,
-- rozhodnutí o způsobu řešení úpadku (§ 150 a násl.),
-- schvalování reorganizačního plánu (§ 348),
-- usnesení o oddlužení (§ 402, § 403),
-- odvolání insolvenčního správce (§ 29),
-- usnesení o hlasovacím právu sporných pohledávek (§ 51),
-- atrakce kompetencí výboru (§ 46 odst. 2 věta druhá).
+[6] **Není-li výbor ani zástupce.** Závěrečná věta § 46 odst. 2 svěřuje jejich působnost schůzi, avšak výslovně jen tehdy, nestanoví-li zákon jinak. Takovými zvláštními pravidly jsou zejména § 61 odst. 2 a § 66, podle nichž v popsaných situacích vykonává působnost věřitelského výboru insolvenční soud. Nelze tedy obecně předpokládat, že každou mezeru v obsazení výboru vždy nahrazuje schůze.
 
-### Vazby
+[7] **Soudní kontrola.** Rozdělení působnosti podle § 46 je třeba odlišit od kontroly výsledku rozhodování. § 54 dovoluje insolvenčnímu soudu za stanovených podmínek a s výslovnými výjimkami zrušit usnesení schůze odporující společnému zájmu věřitelů. Z § 46 samotného nelze dovozovat konkrétní následek každé vady usnesení ani odpovědnost insolvenčního správce.
 
-- **§ 47 — § 55** — schůze věřitelů.
-- **§ 56 — § 67** — věřitelský výbor.
-- **§ 68** — zástupce věřitelů.
-- **§ 66** — soud jako věřitelský výbor.
+[8] **Intertemporalita.** Zvláštní dvoutřetinové kvórum vložil do § 46 odst. 2 zákon č. 294/2013 Sb. s účinností od 1. 1. 2014. Při hodnocení staršího usnesení schůze je proto nutné vycházet ze znění účinného v době, kdy schůze rozhodovala; současné kvórum nelze bez dalšího promítat do dřívějšího procesního úkonu.
 
-### F. Kazuistika
+### Judikatura
 
-**1. Modelová situace.** V konkursu velkého výrobního podniku se sešla schůze věřitelů, na níž dominantní zajištěná banka (pohledávka 400 mil. Kč) chce přímo schválit prodej klíčové výrobní haly konkrétnímu zájemci a obejít přitom dosud nezvolený věřitelský výbor. Schůze nemá v programu vyhrazení působnosti výboru, jen bod „informace o zpeněžování". Banka přesto navrhne, aby schůze „rozhodla" o pokynu ke zpeněžení. Účastníky jsou banka, několik desítek nezajištěných obchodních věřitelů a správce. Důkazně by bylo třeba obstarat protokol o schůzi, znění svolávací vyhlášky (§ 48) a listinu přítomných.
-
-**2. Právní otázka.** Může schůze věřitelů platně rozhodnout ve věci spadající do působnosti věřitelského výboru, aniž si tuto působnost předem kvalifikovaným usnesením (2/3) vyhradila a aniž byl bod na programu?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 46 — hierarchie věřitelských orgánů; schůze má rezervované i obecné kompetence, atrakce působnosti výboru vyžaduje 2/3 hlasů přítomných počítaných podle výše pohledávek (odst. 2 věta třetí).
-- *Související ustanovení téhož zákona:* § 48 odst. 2 (vázanost předmětem jednání), § 58 (působnost výboru), § 49 (výpočet hlasů), § 54 (zrušení usnesení odporujícího společnému zájmu).
-- *Související předpisy:* § 79 ZOK (koncern) a § 22 OZ (osoby blízké) pro posouzení případného střetu zájmů banky.
-- *Judikatura:* Ústavní soud opakovaně zdůrazňuje řídící a dohledovou roli insolvenčního soudu nad rozhodováním věřitelských orgánů (srov. nález IV.ÚS 3112/13 cit. u § 51) — soud nesmí pasivně aprobovat usnesení obcházející zákonný procesní rámec.
-
-**4. Subsumpce.** Věc (pokyn ke zpeněžení významného majetku) náleží primárně výboru, případně schůzi až po atrakci. Schůze si však kompetenci nevyhradila kvalifikovaným usnesením, a bod navíc nebyl v programu — chybí tedy jak hmotněprávní podmínka (2/3 atrakce), tak procesní podmínka (§ 48 odst. 2). Znak „platné usnesení o vyhrazené věci" tudíž není naplněn.
-
-**5. Řešení.** Usnesení o pokynu ke zpeněžení by bylo zatíženo vadou — schůze rozhodla mimo svou působnost a mimo program. Správce by takový pokyn neměl respektovat; soud by k němu při dohledu neměl přihlížet. Správný postup: nejprve nechat zvolit výbor, nebo na řádně svolané schůzi s tímto bodem přijmout atrakční usnesení 2/3 většinou, a teprve poté rozhodovat o zpeněžení. Riziko: pokud správce přesto zpeněží, vystavuje se odpovědnosti za škodu vůči podstatě.
-
-**6. Varianty.** (a) Pokud by byl bod „vyhrazení působnosti výboru a pokyn ke zpeněžení" v programu a hlasovaly by pro něj 2/3 přítomných podle výše, usnesení by bylo platné. (b) Pokud by byl výbor již ustanoven a souhlasil, schůze by do věci vůbec zasahovat nemusela.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument 1:* „Schůze je nejvyšší orgán, může rozhodnout o čemkoli." Neutralizace: nejvyšší postavení neznamená bezformální atrakci — zákon výslovně podmiňuje vyhrazení působnosti výboru kvalifikovaným kvórem 2/3 (§ 46 odst. 2) a vázaností programem (§ 48 odst. 2).
-- *Protiargument 2:* „Výbor stejně není ustanoven, takže působnost vykonává schůze (§ 46 odst. 2 in fine)." Neutralizace: to platí, jen není-li ustanoven ani výbor, ani zástupce, a i tehdy musí být věc v programu schůze; navíc v praxi za nečinný výbor nastupuje soud (§ 66), nikoli ad hoc usnesení dominantního věřitele.
-- *Slabé místo:* hranice mezi „rezervovanou" a „atrahovanou" kompetencí bývá ve sporných případech vykládána různě; chybí jednotná kasuistika k tomu, co vše spadá výlučně schůzi.
-
-### H. Praktický závěr
-
-§ 46 tvoří kostru věřitelské samosprávy: schůze (nejvyšší, rezervované + atrahovatelné kompetence, atrakce za 2/3), výbor/zástupce (subsidiární výkonný orgán), a náhradní výkon schůzí/soudem. V praxi je třeba hlídat, zda konkrétní rozhodnutí spadá schůzi nebo výboru, a zda byla dodržena kvóra a program.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Spadá zamýšlené rozhodnutí do působnosti schůze, nebo výboru/zástupce?
-- [ ] Jde-li o věc výboru a má rozhodnout schůze — bylo přijato atrakční usnesení 2/3 hlasů přítomných podle výše pohledávek?
-- [ ] Byl příslušný bod uveden v programu (vyhlášce o svolání, § 48)?
-- [ ] Je-li výbor i zástupce neustanoven — kdo fakticky vykonává jejich působnost (schůze × soud dle § 66)?
-
-**Typicky rozhodné důkazy / podklady:** svolávací vyhláška s programem, protokol o schůzi, listina přítomných věřitelů a výše jejich pohledávek, doklad o (ne)ustanovení výboru.
+V tomto kole není zařazeno rozhodnutí, jehož plný text by poskytoval nezbytnou a přesně lokalizovanou oporu pro další materiální závěr nad rámec ověřeného zákonného textu a legislativní historie. Jde o redakční vymezení tohoto kola, nikoli o tvrzení, že relevantní judikatura neexistuje.
 
 ---
 

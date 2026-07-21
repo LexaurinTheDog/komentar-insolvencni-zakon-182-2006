@@ -1584,71 +1584,56 @@ Do tohoto vydání není zařazeno žádné soudní rozhodnutí. V tomto kole ne
 
 ## § 45 — Mlčenlivost správce
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Insolvenční správce zachovává mlčenlivost o skutečnostech, o kterých zvláštní právní předpis stanoví povinnost mlčenlivosti, pokud se o nich dozvěděl při výkonu své funkce, a to i po jejím skončení; této mlčenlivosti jej v rozsahu výkonu této funkce může zprostit ten, v jehož zájmu ji má, nebo insolvenční soud. Totéž platí pro osoby, prostřednictvím kterých insolvenční správce vykonává svou funkci.
+
+### Přehled výkladu
+
+Ustanovení nepředstavuje obecnou povinnost zachovat každou neveřejnou informaci. Navazuje na zvláštní právní předpis, který pro určité skutečnosti stanoví povinnost mlčenlivosti, a vztahuje tuto ochranu na správce, dozví-li se o nich při výkonu funkce. Povinnost pokračuje po skončení funkce. Zproštění může v rozsahu výkonu funkce udělit nositel chráněného zájmu nebo insolvenční soud. Stejná pravidla přímo dopadají na osoby, jejichž prostřednictvím správce funkci vykonává.
+
+### Souvisící ustanovení
+
+- **§ 37 odst. 1 a 2** — odpovědnost správce za porušení zákonné povinnosti a za újmu způsobenou osobami podle § 40 odst. 2.
+- **§ 40 odst. 2** — zaměstnanci správce, zaměstnanci dlužníka a ve zvlášť odůvodněných případech jiné osoby, jejichž prostřednictvím lze funkci vykonávat.
+- **§ 43 a § 44** — součinnost, při níž může správce získat údaje podléhající zvláštní zákonné mlčenlivosti.
+- **§ 423** — nezveřejňování podání a jiných písemností podléhajících utajení podle zvláštního právního předpisu; nejde o obecné pravidlo pro každou skutečnost chráněnou § 45.
+
+### Souvisící předpisy
+
+Konkrétní povinnost mlčenlivosti, její věcný rozsah i osobu, v jejímž zájmu je stanovena, je nutno určit vždy podle příslušného zvláštního právního předpisu. V tomto kole nejsou uváděny příkladové zvláštní předpisy, protože jejich úplné aktuální texty nebyly pro tuto jednotku použity jako pramen materiálních tvrzení.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona obsahoval § 45 v dnešní věcné podobě. Zvláštní část důvodové zprávy pojednala §§ 43 až 45 společně: uvedla, že úprava součinnosti a mlčenlivosti byla v zásadě převzata s dílčími doplněními, v praxi se osvědčila a nebyl důvod ji měnit. Samostatný výklad rozsahu nebo zproštění mlčenlivosti důvodová zpráva nepodala.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Nejde o negativní rešerši ani o závěr, že k § 45 literatura neexistuje.
 
 ### Výklad
 
-**Profesní mlčenlivost** — správce váže mlčenlivost o **skutečnostech, k jejichž ochraně se vztahuje zvláštní zákon**:
-- *bankovní tajemství* (§ 38 ZoB),
-- *advokátní tajemství* (§ 21 ZoA — pokud správce dříve dlužníka zastupoval; ale obvykle ho to z funkce vyloučí podle § 24),
-- *notářské tajemství* (§ 56 NotŘ),
-- *zdravotnické tajemství* (§ 51 ZoZdr),
-- *daňové tajemství* (§ 52 a násl. DaňŘ),
-- *obchodní tajemství* (§ 504 OZ).
+[1] **Předmět ochrany.** § 45 dopadá pouze na skutečnosti, o nichž zvláštní právní předpis stanoví povinnost mlčenlivosti. Nestačí proto samotná neveřejnost, hospodářská hodnota informace ani obecná potřeba diskrétnosti. Před použitím § 45 je třeba určit konkrétní zvláštní předpis a ověřit, že právě posuzovaná skutečnost spadá do jeho věcného rozsahu.
 
-**Zproštění**:
-- *osoba, v jejímž zájmu je mlčenlivost* (typicky dlužník u obchodního tajemství),
-- *insolvenční soud* — v rozsahu výkonu funkce.
+[2] **Funkční souvislost.** Správce musí chráněnou skutečnost zjistit při výkonu funkce. § 45 sám nerozšiřuje povinnost na informace získané mimo výkon funkce; jejich ochrana se posuzuje podle jiného použitelného právního základu.
 
-**Personální rozsah**: mlčenlivost váže i **osoby, prostřednictvím kterých správce funkci vykonává** (zaměstnance, externí odborníky).
+[3] **Časový rozsah.** Povinnost trvá i po skončení funkce. Odvolání, zproštění správce, skončení insolvenčního řízení ani jiný zánik funkce proto samy o sobě mlčenlivost neruší.
 
-**Trvání**: i **po skončení funkce** (správce není mlčenlivosti zproštěn ukončením řízení).
+[4] **Zproštění.** Zákon stanoví dvě alternativy: zprostit může ten, v jehož zájmu správce mlčenlivost má, nebo insolvenční soud. Zproštění je podle textu § 45 omezeno rozsahem výkonu funkce. Určení nositele chráněného zájmu nelze paušalizovat na dlužníka; musí vycházet ze zvláštního předpisu a povahy konkrétní chráněné skutečnosti.
 
-### Vazby
+[5] **Osoby použité správcem.** Poslední věta § 45 vztahuje stejný režim přímo na osoby, prostřednictvím nichž správce vykonává funkci. Okruh konkretizuje § 40 odst. 2. Nejde jen o zaměstnance správce, ale za zákonných podmínek také o zaměstnance dlužníka a jiné osoby, zejména specializované odborníky.
 
-- **§ 33 zákona o IS** — kárná odpovědnost za porušení.
-- **§ 180 TZ** — neoprávněné nakládání s osobními údaji (trestný čin).
-- **GDPR** — paralelní povinnost mlčenlivosti u osobních údajů.
+[6] **Odpovědnost správce.** Přímá povinnost těchto osob podle § 45 není dotčena tím, že § 37 odst. 2 současně přičítá správci odpovědnost za škodu nebo jinou újmu způsobenou osobami uvedenými v § 40 odst. 2, kterých použil při výkonu funkce. Vznik nároku však vyžaduje splnění předpokladů § 37; samotné porušení mlčenlivosti automaticky neprokazuje vznik ani rozsah újmy.
 
-### Praktická poznámka
+[7] **Součinnost a další nakládání s údaji.** § 43 a § 44 umožňují správci získávat údaje v zákonném rozsahu. Získání údaje při součinnosti neodstraňuje případnou mlčenlivost podle § 45. Zda je určitá informace chráněna a kdo může správce zprostit, se však neposuzuje jen podle zdroje informace, nýbrž podle příslušného zvláštního předpisu.
 
-Mlčenlivost vůči **veřejnosti** — zpravidla je obtížné zachovat při povinné publicitě insolvenčního rejstříku. Zveřejňované přílohy spisu mohou obsahovat obchodní tajemství (typicky inventura zásob, klientské seznamy). Správce by měl při ukládání do spisu **vždy zvážit anonymizaci / odstranění chráněných údajů**, případně žádat soud o utajení dílčích listin (§ 423 — utajení dílčích údajů).
+[8] **Meze závěrů k insolvenčnímu rejstříku.** § 423 upravuje podání a písemnosti podléhající utajení podle zvláštního předpisu a dočasně také písemnosti, jejichž okamžité zveřejnění by mařilo účel řízení. Z pouhé existence mlčenlivosti podle § 45 nelze bez dalšího dovodit, že vždy nastupuje § 423, ani že soud může obecně „utajit dílčí údaje“. Konkrétní publikační režim je nutno posoudit podle §§ 419 až 423 a povahy písemnosti.
 
-### F. Kazuistika
+### Judikatura
 
-**1. Modelová situace.** Insolvenční správce získal v rámci součinnosti (§ 43–44) od banky kompletní pohyby na účtech dlužníka a od dlužníka klientskou databázi a kalkulace marží (obchodní tajemství). Část těchto údajů vloží jako přílohu zprávy do insolvenčního rejstříku bez anonymizace; konkurent dlužníka si je stáhne. Dlužník namítá porušení mlčenlivosti. Důkazy: obsah zveřejněné přílohy, povaha údajů (obchodní/bankovní tajemství), absence souhlasu se zproštěním, doklad o stažení třetí osobou.
-
-**2. Právní otázka.** Váže insolvenčního správce mlčenlivost o skutečnostech chráněných zvláštním zákonem (bankovní a obchodní tajemství) podle § 45 i při povinné publicitě insolvenčního rejstříku a kdo ho může mlčenlivosti zprostit?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 45 — mlčenlivost o skutečnostech, u nichž zvláštní předpis stanoví povinnost mlčenlivosti, dozvěděl-li se je při výkonu funkce (i po jejím skončení); zproštění tím, v jehož zájmu mlčenlivost je, nebo soudem; vázanost i osob, jejichž prostřednictvím správce funkci vykonává.
-- *Související ustanovení téhož zákona:* § 43–44 (součinnost — zdroj chráněných údajů), § 423 (utajení dílčích údajů ve spise), § 40 odst. 2 (osoby, jejichž prostřednictvím správce jedná — rovněž vázány).
-- *Související předpisy:* § 504 OZ (obchodní tajemství); § 38 zákona o bankách (bankovní tajemství); § 52 a násl. daňového řádu (daňové tajemství); § 180 TZ (neoprávněné nakládání s osobními údaji); GDPR (paralelní povinnost u osobních údajů).
-- *Judikatura:* k profesnímu standardu a důsledkům jeho porušení srov. systémově NS 29 NSČR 9/2014 (citováno u § 37); ke specifickému porušení mlčenlivosti není v komentáři citováno nosné rozhodnutí — vychází se ze znění § 45 a § 423.
-
-**4. Subsumpce.** Bankovní pohyby a klientská databáze s kalkulacemi marží jsou skutečnostmi chráněnými zvláštním zákonem (bankovní a obchodní tajemství) → spadají pod mlčenlivost dle § 45. Zveřejnění bez anonymizace a bez zproštění (souhlasu dlužníka jako osoby, v jejímž zájmu je, nebo bez rozhodnutí soudu) je porušením mlčenlivosti; publicita rejstříku ji neruší — řešením je § 423 (utajení dílčích údajů). Sporné: zda některý z údajů byl již veřejně dostupný (pak ochrana odpadá).
-
-**5. Řešení.** Správce měl před vložením do spisu chráněné údaje anonymizovat či požádat soud o utajení dílčích listin (§ 423); jejich zveřejněním porušil § 45, což zakládá kárnou odpovědnost (§ 33 zákona o IS), případně trestní (§ 180 TZ) a odpovědnost za škodu (§ 37), prokáže-li se újma. Zprostit mlčenlivosti ho mohl jen dlužník (u obchodního tajemství) nebo soud v rozsahu výkonu funkce. Procesní krok do budoucna: standardně posuzovat anonymizaci a navrhovat utajení dílčích údajů.
-
-**6. Varianty.** (a) Údaje by byly nezbytné pro spis a správce by k jejich zařazení získal rozhodnutí soudu o utajení (§ 423) → mlčenlivost porušena není. (b) Mlčenlivost by porušil zaměstnanec/externista správce → vázanost se vztahuje i na něj (§ 45 věta druhá ve spojení s § 40 odst. 2), odpovídá současně správce (§ 37 odst. 2).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Povinná publicita rejstříku vylučuje mlčenlivost — vše patří do spisu." — Neutralizace: § 45 mlčenlivost zachovává i při publicitě; kolizi řeší § 423 (utajení dílčích údajů) a anonymizace, nikoli paušální zveřejnění.
-- *Protiargument:* „Jako správce mohu s údaji nakládat volně." — Neutralizace: ke zproštění je nutný souhlas osoby, v jejímž zájmu mlčenlivost je, nebo soudu; bez něj hrozí kárná, trestní (§ 180 TZ) i odpovědnostní rovina.
-- *Slabé místo:* hranice mezi nezbytným obsahem spisu a chráněným údajem je nejasná; přílišná anonymizace může snížit přezkoumatelnost zprávy, nedostatečná porušuje mlčenlivost.
-
-### H. Praktický závěr
-
-Správce je vázán mlčenlivostí o skutečnostech chráněných zvláštním zákonem (bankovní, obchodní, daňové aj. tajemství), a to i po skončení funkce a i při publicitě rejstříku; zprostit ho může jen osoba, v jejímž zájmu mlčenlivost je, nebo soud. Kolizi s publicitou řeší anonymizace a utajení dílčích údajů (§ 423); mlčenlivost váže i osoby, jejichž prostřednictvím správce jedná.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Před vložením do spisu posoudit, zda údaje nepodléhají zvláštní mlčenlivosti (bankovní/obchodní/daňové tajemství).
-- [ ] Chráněné údaje anonymizovat nebo navrhnout soudu utajení dílčích údajů (§ 423).
-- [ ] Zproštění mlčenlivosti zajistit jen od oprávněné osoby nebo soudu v rozsahu funkce.
-- [ ] Zavázat mlčenlivostí zaměstnance a externisty (§ 45, § 40 odst. 2) a dbát GDPR.
-
-**Typicky rozhodné důkazy / podklady:** obsah zveřejněné/zařazené listiny, povaha údajů a právní základ jejich ochrany, případné rozhodnutí soudu o utajení (§ 423) či souhlas se zproštěním, doklad o přístupu třetí osoby a o vzniklé újmě.
+Do tohoto vydání není zařazeno žádné soudní rozhodnutí. V tomto kole nebyl použit plný text oficiálního rozhodnutí s nosným výkladem přímo k § 45; toto redakční vymezení není tvrzením, že taková judikatura neexistuje. Dřívější systémový odkaz na 29 NSČR 9/2014 byl odstraněn jako nedoložený a nenosný ke komentovanému ustanovení.
 
 ---
 

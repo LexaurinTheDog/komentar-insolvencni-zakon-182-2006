@@ -150,70 +150,68 @@ Do tohoto kola nebylo zařazeno rozhodnutí, jehož plný text by byl z oficiál
 
 ## § 48 — Vyhláška o svolání; předmět jednání; sankce za nedůvodný návrh
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Oznámení o svolání schůze věřitelů zveřejní insolvenční soud vyhláškou (§ 71 odst. 3), v níž musí být uveden předmět jednání, jakož i místo a termín konání schůze. Svolává-li schůzi věřitelů na návrh osoby uvedené v § 47 odst. 1, označí insolvenční soud jako předmět jednání vždy i záležitost, pro kterou byl tento návrh podán.
 > (2) Schůzí věřitelů může být projednán jen předmět jednání, který byl uveden v oznámení o jejím svolání. Jsou-li přítomni všichni věřitelé, mohou se usnést i na dalším předmětu jednání; za přítomného se pro tento účel nepovažuje věřitel, který hlasuje písemně (§ 50 odst. 2). Není-li způsobem řešení úpadku oddlužení, předmětem jednání první schůze věřitelů je vždy volba věřitelského výboru a usnesení věřitelů podle § 29 odst. 1, byl-li ustanoven insolvenční správce a koná-li se tato schůze po přezkumném jednání, zpráva insolvenčního správce o jeho dosavadní činnosti, a byl-li ustanoven prozatímní věřitelský výbor, zpráva tohoto výboru o jeho dosavadní činnosti. Jestliže insolvenční soud ještě nerozhodl o způsobu řešení dlužníkova úpadku, je předmětem jednání první schůze věřitelů také způsob řešení dlužníkova úpadku.
 > (3) Věřitel, který podal opakovaně nedůvodně návrh na svolání schůze věřitelů, je povinen uhradit ostatním věřitelům na jejich žádost náklady, které jim vznikly v souvislosti s jejich účastí na schůzi věřitelů, konané na jeho návrh; takovému věřiteli uloží insolvenční soud zaplatit i paušální částku na náhradu nákladů spojených s projednáním nedůvodného návrhu na svolání schůze věřitelů ve výši 5 000 Kč; zaplacení této paušální částky, která je příjmem státu, nelze prominout.
 
+### Přehled výkladu
+
+§ 48 určuje formu a minimální obsah oznámení o svolání, váže jednání schůze na oznámený program, stanoví podmínky jeho rozšíření a vyjmenovává zákonnou agendu první schůze mimo oddlužení. Odstavec 3 spojuje opakovaně nedůvodný věřitelský návrh se dvěma odlišnými následky: náhradou nákladů ostatních věřitelů na jejich žádost a povinným paušálem 5 000 Kč ve prospěch státu.
+
+### Souvisící ustanovení
+
+- § 29 odst. 1 — možnost první schůze po přezkumném jednání odvolat soudem ustanoveného správce a ustanovit nového,
+- § 47 — svolání, řízení a účast na schůzi věřitelů,
+- § 49 až 53 — hlasovací právo, písemné hlasování a jeho přezkum,
+- § 54 a 55 — zrušení usnesení odporujícího společnému zájmu a opravný režim,
+- § 56 až 66 — ustanovení a náhradní výkon působnosti věřitelského výboru,
+- § 136 odst. 2 písm. f) a § 137 — spojení rozhodnutí o úpadku se svoláním schůze,
+- § 150 — usnesení schůze o způsobu řešení úpadku,
+- § 399 až 402 — zvláštní svolání a hlasování o způsobu oddlužení.
+
+### Souvisící předpisy
+
+- zákon č. 294/2013 Sb., čl. I body 23 a 24, čl. II a čl. IV — změny odstavců 2 a 3 účinné od 1. 1. 2014; nové znění se použilo i na dříve zahájená řízení, právní účinky dřívějších procesních úkonů zůstaly zachovány,
+- zákon č. 64/2017 Sb., čl. I bod 18, čl. II bod 1 a čl. VII — výjimka pro oddlužení účinná od 1. 7. 2017 se stejným základním intertemporálním pravidlem.
+
+### Z důvodové zprávy
+
+Původní vládní návrh označil § 48 za úpravu způsobu svolání a předmětu jednání, povinnou agendu první schůze spojil s očekávaným průběhem řízení a odstavec 3 popsal jako sankci za opakovaně bezdůvodný návrh. Novela z roku 2013 doplnila projednání způsobu řešení úpadku a nahradila náhradu skutečných nákladů soudu paušálem 5 000 Kč; důvodová zpráva jej spojila se snížením administrativy a předvídatelností. Novela z roku 2017 vyňala oddlužení z obecné povinné agendy první schůze v rámci širšího zjednodušení a urychlení oddlužení.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto redakční rozhodnutí není negativní rešerší literatury.
+
 ### Výklad
 
-**Odst. 1 — vyhláška o svolání.** Svolání **vyhláškou** zveřejňovanou v insolvenčním rejstříku (§ 71 odst. 3) — *publicita ve veřejném systému* nahrazuje individuální doručování. Náležitosti: předmět, místo, termín.
+[1] **Vyhláška a její obsah.** Oznámení zveřejňuje insolvenční soud vyhláškou podle § 71 odst. 3. Musí uvést předmět jednání, místo a termín. Je-li schůze svolána na návrh osoby podle § 47 odst. 1, soud musí do programu zahrnout také záležitost, pro kterou byl návrh podán.
 
-**Odst. 2 — vázanost předmětem jednání.** Schůze **nemůže projednávat nic, co nebylo v oznámení**. Důvod — věřitelé musí mít čas na přípravu (typicky 15—30 dnů). Pouze pokud jsou **přítomni VŠICHNI věřitelé** (vyjma písemně hlasujících), může schůze projednat i další body.
+[2] **Vázanost programem.** Schůze zásadně může projednat jen oznámený předmět. Výjimka vyžaduje přítomnost všech věřitelů a jejich usnesení na dalším předmětu; nejde tedy o volnou možnost doplnit program pouhou většinou běžně přítomných věřitelů.
 
-#### Obligatorní body **první schůze** (s výjimkou oddlužení):
-- volba věřitelského výboru,
-- *případně* usnesení o odvolání správce (§ 29 — pokud se schůze koná po přezkumu),
-- zpráva správce o dosavadní činnosti,
-- *případně* zpráva prozatímního výboru,
-- *pokud soud ještě nerozhodl o způsobu řešení úpadku*: rozhodnutí o tomto způsobu.
+[3] **Písemně hlasující věřitel.** Pro jediný účel rozšíření programu se věřitel hlasující písemně podle § 50 odst. 2 nepovažuje za přítomného. Jeho hlasovací lístek proto nemůže nahradit osobní přítomnost požadovanou druhou větou odstavce 2.
 
-**Odst. 3 — sankce za zlovolné svolávání.** Věřitel, který *opakovaně nedůvodně* podává návrhy na svolání, hradí:
-- ostatním věřitelům **náklady jejich účasti** (na jejich žádost),
-- **paušální 5 000 Kč** do státního rozpočtu (nelze prominout).
+[4] **První schůze mimo oddlužení.** Zákonná povinná agenda se uplatní, jen není-li způsobem řešení úpadku oddlužení. Patří do ní volba věřitelského výboru. Usnesení podle § 29 odst. 1 a zpráva správce jsou povinnými body tehdy, byl-li správce ustanoven a první schůze se koná po přezkumném jednání. Zpráva prozatímního věřitelského výboru je bodem jen tehdy, byl-li tento výbor ustanoven.
 
-Smysl — obrana proti zneužití institutu k obstrukci.
+[5] **Způsob řešení úpadku.** Nerozhodl-li soud dosud o způsobu řešení dlužníkova úpadku, patří tato otázka rovněž na první schůzi. Obsah a účinky usnesení věřitelů upravuje zejména § 150; v oddlužení platí zvláštní režim § 399 až 402.
 
-### Vazby
+[6] **Dva následky opakovaně nedůvodného návrhu.** Odstavec 3 vyžaduje opakovanost i nedůvodnost věřitelského návrhu. Ostatním věřitelům vzniká právo na náhradu nákladů jejich účasti na schůzi konané na takový návrh, avšak jen na jejich žádost. Vedle toho soud uloží navrhovateli paušál 5 000 Kč; ten je příjmem státu a nelze jej prominout.
 
-- **§ 71 odst. 3** — vyhláška v insolvenčním rejstříku.
-- **§ 29** — odvolání správce.
-- **§ 150** — usnesení o způsobu řešení úpadku.
+[7] **Intertemporalita.** Současná podoba není původní. Od 1. 1. 2014 se do první schůze doplnil způsob řešení úpadku a skutečné náklady soudu nahradil pevný paušál. Od 1. 7. 2017 se povinná agenda třetí věty odstavce 2 neuplatní při oddlužení. Obě novely zachovaly právní účinky procesních úkonů učiněných před svou účinností.
 
-### F. Kazuistika
+### Praktický checklist
 
-**1. Modelová situace.** Soud svolá první schůzi věřitelů (konkurs, nejde o oddlužení) a ve vyhlášce uvede jako program „volba věřitelského výboru a zpráva správce". Na schůzi dominantní věřitel navrhne, aby se navíc rozhodlo o odvolání insolvenčního správce (§ 29). Část věřitelů hlasuje písemně (hlasovací lístky) a nejsou fyzicky přítomni. Mimoto jiný věřitel již potřetí podal nedůvodný návrh na svolání schůze, který soud musel vyřídit. Důkazně rozhodné jsou vyhláška o svolání, listina přítomných a evidence dřívějších návrhů téhož věřitele.
+- [ ] Obsahuje vyhláška předmět jednání, místo a termín a při svolání na návrh také navrženou záležitost?
+- [ ] Je každý projednávaný bod oznámen, nebo jsou osobně přítomni všichni věřitelé a usnesli se na jeho doplnění?
+- [ ] Byla povinná agenda první schůze posouzena podle způsobu řešení úpadku a všech podmínek § 48 odst. 2?
+- [ ] U následků podle odstavce 3 jsou doloženy opakovanost i nedůvodnost a je rozlišena žádost věřitele od povinného paušálu státu?
 
-**2. Právní otázka.** Může schůze projednat bod neuvedený ve vyhlášce (odvolání správce) a za jakých podmínek; a jaké následky stíhají věřitele opakovaně nedůvodně svolávajícího schůzi?
+### Judikatura
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 48 odst. 2 (vázanost programem; rozšíření programu jen jsou-li přítomni všichni věřitelé, přičemž písemně hlasující se za přítomné nepovažují) a obligatorní body první schůze; odst. 3 (sankce 5 000 Kč + náhrada nákladů).
-- *Související ustanovení téhož zákona:* § 29 (odvolání správce — patří na první schůzi po přezkumu), § 50 odst. 2 (písemné hlasování), § 47 (svolání).
-- *Související předpisy:* § 71 odst. 3 (vyhláška v insolvenčním rejstříku).
-- *Judikatura:* obecně uznáváno, že rozšíření programu mimo vyhlášku je výjimkou podmíněnou úplnou účastí; jinak hrozí vada usnesení odstranitelná postupem dle § 54.
-
-**4. Subsumpce.** Pokud se schůze koná po přezkumném jednání, je usnesení podle § 29 obligatorním bodem první schůze ze zákona — pak je projednatelné i bez výslovného uvedení nad rámec toho, co § 48 odst. 2 vyžaduje. Není-li tomu tak, lze bod projednat jen za přítomnosti všech věřitelů; protože část hlasuje písemně, nejsou „přítomni" a podmínka úplné účasti splněna není. U opakovaně nedůvodného návrhu jsou znaky odst. 3 (opakovanost + nedůvodnost) naplněny.
-
-**5. Řešení.** Jde-li o první schůzi po přezkumu, odvolání správce projednatelné je. Jinak schůze bod projednat nemůže (chybí úplná účast). Obstrukčnímu věřiteli soud uloží paušál 5 000 Kč (příjem státu, neprominutelný) a na žádost ostatních věřitelů i náhradu nákladů jejich účasti. Procesní krok: ostatní věřitelé musí náhradu nákladů aktivně uplatnit.
-
-**6. Varianty.** (a) Kdyby byli fyzicky přítomni úplně všichni věřitelé (nikdo nehlasoval písemně), mohli by se usnést i na bodu mimo program. (b) Kdyby šlo o první nedůvodný návrh (nikoli opakovaný), paušál 5 000 Kč by nebylo možné uložit — sankce stíhá až opakování.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument 1:* „Předmět jednání byl ve vyhlášce vymezen široce (‚různé'), takže pokrývá i odvolání správce." Neutralizace: program musí být určitý; obecné „různé" nesplňuje požadavek § 48 odst. 1, aby věřitelé mohli posoudit, zda se účastnit, a nenahrazuje konkrétní bod.
-- *Protiargument 2:* „Sankce 5 000 Kč je nepřiměřená drobnému věřiteli." Neutralizace: jde o pevnou zákonnou paušální částku, jejíž prominutí zákon výslovně vylučuje; přiměřenost se neposuzuje, podmínkou je jen opakovaná nedůvodnost.
-- *Slabé místo:* posouzení „nedůvodnosti" návrhu je do jisté míry hodnotící; je třeba doložit, že předchozí návrhy nesměřovaly k žádné reálné agendě.
-
-### H. Praktický závěr
-
-Schůze smí projednat jen body z vyhlášky; rozšíření je možné jen za fyzické účasti všech (písemně hlasující se nepočítají). První schůze (mimo oddlužení) má povinné body (volba výboru, § 29, zprávy, příp. způsob řešení úpadku). Opakované nedůvodné svolávání je sankcionováno.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Obsahuje vyhláška určitý předmět jednání, místo a termín?
-- [ ] Je projednávaný bod ve vyhlášce, nebo jsou splněny podmínky pro jeho doplnění (úplná účast)?
-- [ ] Jsou na první schůzi (mimo oddlužení) zařazeny obligatorní body (volba výboru, § 29, zprávy, příp. způsob řešení)?
-- [ ] U opakovaného návrhu na svolání — je nedůvodný a opakovaný (podmínka sankce a paušálu 5 000 Kč)?
-
-**Typicky rozhodné důkazy / podklady:** vyhláška o svolání, protokol a listina přítomných (rozlišení osobní × písemné účasti), evidence dřívějších návrhů téhož věřitele, vyúčtování nákladů ostatních věřitelů.
+Do tohoto kola nebylo zařazeno rozhodnutí, jehož plný text by byl z oficiálního soudního zdroje ověřen jako nosný právě pro výše uvedené závěry k § 48. Jde o redakční vymezení tohoto kola, nikoli o tvrzení, že relevantní judikatura neexistuje.
 
 ---
 

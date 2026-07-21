@@ -348,82 +348,67 @@ Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k § 5
 
 ## § 51 — Hlasovací právo věřitelů s popřenou nebo nezjištěnou pohledávkou
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Věřitelé, jejichž pohledávka byla popřena, mohou v rozsahu popření hlasovat, usnese-li se na tom schůze věřitelů. Jestliže schůze věřitelů nepřizná hlasovací právo věřitelům, jejichž pohledávka byla popřena, rozhodne o hlasovacím právu těchto věřitelů na jejich návrh podle § 52 odst. 2 insolvenční soud.
 > (2) Popření pohledávky přihlášeným věřitelem nebo dlužníkem nemá vliv na hlasovací právo věřitelů, jejichž pohledávka byla popřena.
 > (3) Nejde-li o případy uvedené v odstavci 1, rozhodne o hlasovacím právu věřitelů, jejichž pohledávka nebyla ještě zjištěna nebo je sporná, insolvenční soud podle seznamu přihlášených pohledávek anebo na návrh dlužníka nebo některého z věřitelů podle § 52 odst. 2.
 > (4) Není-li dále stanoveno jinak, nemají hlasovací právo věřitelé s pohledávkami za majetkovou podstatou (§ 168), věřitelé s pohledávkami postavenými na roveň pohledávkám za majetkovou podstatou (§ 169), věřitelé s pohledávkami vyloučenými ze způsobu řešení úpadku (§ 170), věřitelé s podřízenými pohledávkami (§ 172) a do doby splnění odkládací podmínky věřitelé, kteří přihlásili pohledávky vázané na odkládací podmínku.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *ÚS* [IV.ÚS 3112/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-3112-13_1) — nález, 15. 4. 2014
-  > „Ústavní soud dále konstatuje důležitost postavení insolvenčního soudu jako procesního subjektu s řídící a dohledovou pravomocí v insolvenčním řízení. To, že Ústavní soud této pravomoci připisuje velkou důležitost i ve vztahu k rozhodování o hlasovacích právech věřitelů […] traktoval nezbytnost a důležitost náležitého odůvodnění rozhodnutí insolvenčního soudu týkajícího rozhodování o hlasovacích právech věřitelů. […] vzhledem k důsledkům takového rozhodnutí spočívajícím v zásadním a závažném omezení vlivu stěžovatelky a ostatních věřitelů na insolvenční řízení a v ovlivnění insolvenčního řízení hlasováním vedlejšího účastníka, a to zejména stran složení věřitelského výboru a určení osoby insolvenčního správce dlužníka. Takové počínání soudu v posuzované věci z hlediska řídící a dohledové činnosti nad insolvenčním řízení nemůže obstát"
+§ 51 rozlišuje čtyři situace: popření pohledávky insolvenčním správcem, popření přihlášeným věřitelem nebo dlužníkem, dosud nezjištěnou či jinak spornou pohledávku a zákonem vyjmenované kategorie pohledávek bez hlasovacího práva. Toto rozlišení určuje, zda věřitel hlasuje bez dalšího, zda může hlasovací právo přiznat schůze věřitelů, nebo zda rozhoduje insolvenční soud.
 
-### Výklad — Důležitý paragraf
+### Souvisící ustanovení
 
-#### Odst. 1 — popřené pohledávky a hlasování *schůzí*
+- § 49 — počet hlasů podle výše pohledávky.
+- § 52 — individuální zkoumání hlasovacího práva, návrh, lhůty a přezkum navazujícího rozhodnutí.
+- § 53 a 54 — další zákazy hlasování a meze zrušení usnesení schůze.
+- § 168 až 172 — kategorie pohledávek uvedené v odstavci 4.
+- § 189, § 192 a § 201 — seznam přihlášených pohledávek, popěrné úkony a zjištění pohledávky.
+- § 336 odst. 4, § 399 odst. 1 a § 410 odst. 2 — zvláštní vazby v reorganizaci a oddlužení.
 
-Pokud byla pohledávka popřena (správcem či věřitelem — § 192 a násl.), věřitel **nemá automaticky hlasovací právo**. Schůze věřitelů však může pohledávku přiznat (popř. jen v rozsahu popření). Pokud nepřizná, věřitel může požádat insolvenční soud (cestou § 52 odst. 2).
+### Souvisící předpisy
 
-#### Odst. 2 — popření *jiným věřitelem* nebo *dlužníkem*
+Bezprostřední věcný a procesní režim je soustředěn v insolvenčním zákoně. Obecná procesní pravidla se použijí jen podpůrně podle § 7 a nesmějí nahradit zvláštní návrhový a lhůtový režim § 52.
 
-Pohledávka popřená jen jiným věřitelem nebo dlužníkem **nadále má hlasovací právo**. *Pouze popření správcem* má vliv na hlasovací právo. Logika — věřitelské nebo dlužnické popření je „strana sporu", správcovo popření je „odborné stanovisko orgánu řízení".
+### Z důvodové zprávy
 
-#### Odst. 3 — nezjištěné / sporné pohledávky
+Původní důvodová zpráva vycházela z toho, že bez dalšího hlasují věřitelé se zjištěnou pohledávkou. Schůzi svěřila jednotlivé rozhodování o hlasovacím právu pohledávek popřených po přezkumném jednání; odstavec 3 měl zachytit pohledávky dosud nepřezkoumané a pohledávky, které se staly spornými až v průběhu řízení. Novela č. 294/2013 Sb. doplnila dnešní odstavec 2, aby popření přihlášeným věřitelem nebo dlužníkem nemohlo být takticky použito k vychýlení hlasovacích poměrů. Zákon č. 64/2017 Sb. poté navázal rozhodování soudu na návrh a lhůty podle § 52 odst. 2.
 
-O hlasovacím právu pohledávek, které nebyly přezkoumány nebo jsou sporné, rozhoduje **soud** — *podle seznamu přihlášených*, nebo na návrh.
+### Literatura
 
-#### Odst. 4 — pohledávky bez hlasovacího práva
+Odborná literatura je rozhodnutím editora odložena do druhého kola; tento údaj není výsledkem negativní rešerše.
 
-**Taxativní výčet bez hlasovacího práva:**
-- *pohledávky za podstatou* (§ 168) — jsou uspokojovány přednostně, nemají hlasovat,
-- *pohledávky postavené na roveň* (§ 169) — totéž,
-- *vyloučené pohledávky* (§ 170 — typicky úroky vzniklé po rozhodnutí o úpadku),
-- *podřízené pohledávky* (§ 172 — kterých uspokojení je podmíněno uspokojením všech jiných),
-- *pohledávky s odkládací podmínkou* (do splnění podmínky).
+### Výklad
 
-> *Důvod*: hlasovat mají jen ti, kterých se hlasování věcně dotýká — ti, jejichž pohledávky budou „normálně" uspokojeny v rozvrhu.
+[1] **Výchozí pravidlo a rozsah.** Zjištěná pohledávka zakládá hlasovací právo podle § 49. Je-li pohledávka popřena insolvenčním správcem, odstavec 1 řeší jen rozsah popření; v nepopřené části se postupuje podle obecného pravidla. O přiznání hlasovacího práva v popřeném rozsahu se usnáší schůze věřitelů.
 
-### Vazby
+[2] **Následné rozhodnutí soudu.** Nepřizná-li schůze hlasovací právo, soud nerozhoduje automaticky. Popřený věřitel musí podat návrh podle § 52 odst. 2 a dodržet tam stanovené lhůty. Procesní podmínky je proto nutné posuzovat přímo podle aktuálního § 52, nikoli podle starších verzí § 51.
 
-- **§ 192, § 198** — popírání pohledávek.
-- **§ 52** — zkoumání hlasovacího práva soudem.
-- **§ 168 — § 172** — kategorie pohledávek.
+[3] **Popření věřitelem nebo dlužníkem.** Odstavec 2 výslovně vylučuje vliv těchto popěrných úkonů na hlasovací právo. Samotné popření přihlášeným věřitelem nebo dlužníkem tedy není důvodem, aby o hlasovacím právu rozhodovala schůze podle odstavce 1. Tím nejsou dotčeny jiné zákonné důvody, pro které věřitel hlasovat nesmí.
 
-### F. Kazuistika
+[4] **Dosud nezjištěné a jinak sporné pohledávky.** Odstavec 3 dopadá na případy mimo odstavec 1, zejména na pohledávku dosud nepřezkoumanou nebo na pohledávku, která se stala spornou jinak než popřením insolvenčního správce. Soud může vyjít ze seznamu přihlášených pohledávek; žádá-li dlužník nebo věřitel rozhodnutí odlišné od seznamu, uplatní se návrh podle § 52 odst. 2.
 
-**1. Modelová situace.** Před první schůzí věřitelů insolvenční správce popře pohledávku věřitele A (40 mil. Kč) co do pravosti. Současně věřitel B popře pohledávku věřitele C (20 mil. Kč). Na schůzi se má rozhodovat o složení výboru a osobě správce — věřitel A i C chtějí hlasovat. Schůze odmítne přiznat A hlasovací právo. Důkazně rozhodné jsou protokol o přezkumném jednání, seznam přihlášených pohledávek a usnesení schůze o hlasovacím právu.
+[5] **Kategorie bez hlasovacího práva.** Odstavec 4 vylučuje hlasování u pohledávek za majetkovou podstatou, pohledávek jim postavených na roveň, pohledávek vyloučených ze způsobu řešení úpadku, podřízených pohledávek a do splnění podmínky také pohledávek vázaných na odkládací podmínku. Slova „není-li dále stanoveno jinak“ vyžadují před kategorickým závěrem kontrolu zvláštní úpravy; odstavec proto nelze popsat jako bezvýjimečný zákaz.
 
-**2. Právní otázka.** Mohou hlasovat věřitelé A (pohledávka popřená správcem) a C (pohledávka popřená jiným věřitelem), a kdo o jejich hlasovacím právu rozhodne, nepřizná-li je schůze?
+[6] **Rozhodné podklady.** Prakticky je třeba odděleně zjistit osobu popírajícího, druh a rozsah popření, stav přezkumu, obsah seznamu přihlášených pohledávek, usnesení schůze a včasnost návrhu i důkazů podle § 52 odst. 2. Teprve poté lze určit hlasový základ podle § 49.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 51 odst. 1 (popřený věřitel hlasuje, jen usnese-li se na tom schůze; jinak rozhodne soud dle § 52 odst. 2), odst. 2 (popření jiným věřitelem nebo dlužníkem nemá vliv na hlasovací právo), odst. 4 (taxativní výčet pohledávek bez hlasovacího práva).
-- *Související ustanovení téhož zákona:* § 52 (zkoumání a rozhodování soudem), § 192 a násl. (popírání), § 168—172 (kategorie bez hlasovacího práva), § 29 a § 56 (věci, jichž se hlasování týká).
-- *Související předpisy:* —.
-- *Judikatura:* nález ÚS IV.ÚS 3112/13 (citován výše) — rozhodnutí insolvenčního soudu o hlasovacím právu musí být řádně odůvodněno, protože zásadně ovlivňuje vliv věřitelů, zejména na složení výboru a osobu správce.
+[7] **Intertemporalita.** Dnešní strukturu § 51 vytvořila zejména novela č. 294/2013 Sb. účinná od 1. 1. 2014; procesní vazbu na dnešní § 52 odst. 2 změnila novela č. 64/2017 Sb. účinná od 1. 7. 2017. Starší rozhodnutí o hlasovacím právu proto lze použít jen po ověření tehdejšího textu, procesní situace a toho, zda jeho nosný závěr přežil následné změny.
 
-**4. Subsumpce.** Pohledávka A byla popřena správcem — A proto automaticky hlasovací právo nemá; přiznat je může schůze, jinak (zde nepřiznala) rozhodne na návrh soud. Pohledávka C byla popřena jen jiným věřitelem (B) — to dle odst. 2 na hlasovací právo nemá vliv, C hlasuje normálně. Ani jedna z pohledávek nespadá do taxativního výčtu odst. 4.
+### Judikatura
 
-**5. Řešení.** C hlasuje bez omezení. A, jemuž schůze hlasovací právo nepřiznala, podá soudu návrh dle § 52 odst. 2; soud rozhodne (s řádným odůvodněním dle ÚS) — typicky podle pravděpodobnosti existence pohledávky. Vzhledem k tomu, že rozhodnutí o hlasovacím právu A ovlivní volbu výboru i správce, je odůvodnění nezbytné. Procesní krok: A musí návrh podat včas (lhůty § 52 odst. 2).
+Do tohoto kola není zařazeno žádné rozhodnutí jako nosná autorita. Dříve citovaný nález Ústavního soudu sp. zn. IV. ÚS 3112/13 byl z textu odstraněn, protože jednotka neměla uložený fyzický oficiální plný text s přesnými locatory a intertemporálním vyhodnocením; nejde o tvrzení, že relevantní judikatura neexistuje.
 
-**6. Varianty.** (a) Kdyby pohledávku A popřel jen dlužník, A by hlasoval bez omezení (odst. 2). (b) Kdyby pohledávka A byla podřízená (§ 172) nebo vyloučená (§ 170), nehlasoval by vůbec a žádné usnesení schůze ani rozhodnutí soudu by to nezměnilo (odst. 4).
+### Praktický checklist
 
-### G. Protiargumenty a rizika
-
-- *Protiargument 1:* „Popření správcem nemá být přísnější než popření věřitelem — obojí je jen tvrzení." Neutralizace: zákon vědomě rozlišuje: popření správcem (orgánem řízení) má vliv na hlasovací právo, popření věřitelem/dlužníkem (stranou) nikoli (odst. 1 vs. 2).
-- *Protiargument 2:* „Soud rozhodl o hlasovacím právu A stručně, ale věcně správně, takže vada odůvodnění je bezvýznamná." Neutralizace: dle ÚS IV.ÚS 3112/13 je u rozhodnutí s tak zásadními důsledky (vliv na výbor a správce) náležité odůvodnění samostatnou podmínkou ústavní konformity.
-- *Slabé místo:* hranice mezi „spornou" a „nezjištěnou" pohledávkou (odst. 3) bývá v praxi neostrá; je nutné provázat s protokolem o přezkumu.
-
-### H. Praktický závěr
-
-Hlasovací právo popřené pohledávky závisí na tom, KDO popřel: popření správcem hlasovací právo blokuje (přiznat může schůze/soud), popření věřitelem či dlužníkem nikoli. Pohledávky dle § 168—172 a podmíněné nehlasují vždy. Rozhodnutí soudu musí být řádně odůvodněno.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Kdo pohledávku popřel — správce (vliv na hlasovací právo), nebo věřitel/dlužník (bez vlivu)?
-- [ ] Usnesla se schůze o přiznání hlasovacího práva popřené pohledávce; pokud ne, byl podán návrh soudu dle § 52 odst. 2?
-- [ ] Nespadá pohledávka do bezhlasých kategorií (§ 168—172, odkládací podmínka)?
-- [ ] Je rozhodnutí o hlasovacím právu řádně odůvodněno (zejména s dopadem na výbor a osobu správce)?
-
-**Typicky rozhodné důkazy / podklady:** protokol o přezkumném jednání (kdo popřel a v jakém rozsahu), seznam přihlášených pohledávek, usnesení schůze o hlasovacím právu, návrh dle § 52 odst. 2 a podklady k pravděpodobnosti pohledávky.
+- [ ] Kdo pohledávku popřel a v jakém rozsahu?
+- [ ] Je pohledávka zjištěná, dosud nepřezkoumaná, nebo se stala spornou jinak?
+- [ ] Odpovídá zamýšlené hlasování seznamu přihlášených pohledávek?
+- [ ] Je-li nutný návrh podle § 52 odst. 2, byl podán a doložen včas?
+- [ ] Nejde o kategorii podle odstavce 4 nebo o jiný zákaz podle § 53?
 
 ---
 

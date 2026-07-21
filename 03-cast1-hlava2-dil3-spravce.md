@@ -1500,6 +1500,88 @@ Do tohoto vydání není zařazeno žádné soudní rozhodnutí. V tomto kole ne
 
 ---
 
+## § 44 — Součinnost orgánů a osob
+
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Součinnost podle [[#§ 43|§ 43]] se poskytuje zejména tak, že
+>
+> - a) orgány sociálního zabezpečení sdělí insolvenčnímu správci údaje o příjmech dlužníka náležejících za dobu 36 měsíců před zahájením insolvenčního řízení a za dobu trvání účinků spojených se zahájením insolvenčního řízení do přiznání osvobození podle [[#§ 414|§ 414]],
+>
+> - b) osoby vedoucí evidenci cenných papírů sdělí insolvenčnímu správci údaje o tam evidovaných cenných papírech, které náleží do majetku dlužníka,
+>
+> - c) banky, spořitelní a úvěrní družstva a pobočky zahraničních bank sdělí insolvenčnímu správci čísla dlužníkových účtů, informují jej o stavech těchto účtů a pohybech peněžních prostředků na nich a podají mu informace o dlužníkových úschovách a vkladních knížkách,
+>
+> - d) poskytovatelé úvěru sdělí insolvenčnímu správci údaje o příjmech dlužníka zjištěné při posouzení jeho schopnosti splácet úvěr,
+>
+> - e) provozovatelé poštovních služeb a jiné osoby, které se zabývají přepravou zásilek, informují insolvenčního správce o dlužníkových doručovacích místech, rozsahu a povaze doručovaných zásilek a úhrnu peněžních prostředků, které dlužník přijímá jejich prostřednictvím,
+>
+> - f) poskytovatelé služeb elektronických komunikací oznámí insolvenčnímu správci údaje o dlužníkových telefonních, dálnopisných, telefaxových a jiných elektronických stanicích a adresách, které nejsou uvedeny v dostupných seznamech,
+>
+> - g) pojišťovny sdělí insolvenčnímu správci údaje o dlužníkových pojistných smlouvách a pojistných plněních,
+>
+> - h) vydavatelé tisku sdělí insolvenčnímu správci údaje o inzerci, která se týká majetkové podstaty,
+>
+> - i) dopravci sdělí insolvenčnímu správci údaje o přepravovaných dlužníkových věcech a jejich příjemci,
+>
+> - j) zaměstnavatelé sdělí insolvenčnímu správci údaje o příjmech dlužníka za dobu podle § 43 odst. 1.
+>
+> (2) Na žádost orgánů a osob, od nichž vyžaduje součinnost, insolvenční správce doloží své ustanovení do funkce rozhodnutím insolvenčního soudu.
+>
+> (3) Osoby a orgány, které jsou povinny poskytnout insolvenčnímu soudu nebo insolvenčnímu správci součinnost, odpovídají za škodu nebo jinou újmu, kterou způsobily, v případě, že tuto součinnost neposkytnou řádně a včas.
+>
+
+### Přehled výkladu
+
+§ 44 demonstrativně konkretizuje, jak jednotliví adresáti plní součinnost založenou § 43. Podmínky žádosti, čas plnění, obecný rozsah údajů, dálkový přístup, bezplatnost a náhrada hotových výdajů proto nelze číst z § 44 izolovaně. Odstavec 2 upravuje doložení funkce správce na žádost adresáta. Odstavec 3 zakládá odpovědnost povinného subjektu za škodu nebo jinou újmu způsobenou vadnou součinností; samotné prodlení ještě neprokazuje vznik újmy, příčinnou souvislost ani aktivní legitimaci konkrétního žalobce.
+
+### Souvisící ustanovení
+
+- **§ 7** — podpůrné použití občanského soudního řádu, jen nestanoví-li insolvenční zákon jinak a není-li to v rozporu se zásadami insolvenčního řízení.
+- **§ 37** — odlišná odpovědnost insolvenčního správce za škodu nebo jinou újmu při výkonu funkce.
+- **§ 43** — okruh povinných subjektů, písemná žádost, standard „bez zbytečného odkladu“, obecný rozsah a nákladový režim součinnosti.
+- **§ 45** — mlčenlivost správce o skutečnostech chráněných zvláštní zákonnou mlčenlivostí.
+- **§ 209 až 212** — zjišťování majetkové podstaty, soupis a povinnosti dlužníka při zjišťování majetku.
+- **§ 414** — mez rozhodného období v § 44 odst. 1 písm. a) a prostřednictvím § 43 odst. 1 také v písm. j).
+
+### Souvisící předpisy
+
+- **Zákon č. 252/2024 Sb., čl. I body 12 až 15, čl. II bod 1 a čl. XI** — od 1. 10. 2024 rozšířil osobní i věcný rozsah součinnosti o orgány sociálního zabezpečení, poskytovatele úvěru a zaměstnavatele; pro řízení zahájená před účinností obecně zachoval dosavadní znění insolvenčního zákona.
+
+### Z důvodové zprávy
+
+Původní vládní návrh ve sněmovním tisku 1120/0 uváděl společně k §§ 43 až 45 pouze to, že úprava součinnosti a mlčenlivosti byla v zásadě převzata s dílčími doplněními. Důvodová zpráva k vládnímu návrhu později vyhlášenému jako zákon č. 252/2024 Sb. vysvětluje navrženou zaměstnavatelskou součinnost potřebou ověřit údaje významné pro posouzení příjmového potenciálu dlužníka. Návrh však ještě neobsahoval konečnou podobu písm. a), d) a j); pro výsledný normativní text jsou rozhodné čl. I body 12 až 15 vyhlášeného zákona.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola; tato poznámka není výsledkem negativní literární rešerše.
+
+### Výklad
+
+[1] **Vztah k § 43.** Obrat „zejména tak“ činí výčet v odstavci 1 demonstrativní konkretizací způsobů součinnosti. Nezakládá však samostatnou součinnost bez podmínek § 43: správce žádá písemně, povinný plní bez zbytečného odkladu a poskytuje údaje nutné pro výkon správy nejvýše v rozsahu, v jakém by je poskytl přímo dlužníku. U elektronických údajů platí dálkový přístup. Součinnost je bezplatná, avšak subjektu, který není orgánem veřejné správy, náleží náhrada spojených hotových výdajů.
+
+[2] **Příjmové údaje.** Orgány sociálního zabezpečení podle písm. a) sdělují příjmy náležející za 36 měsíců před zahájením řízení a za dobu od zahájení až do přiznání osvobození podle § 414. Poskytovatelé úvěru podle písm. d) sdělují právě údaje o příjmech, které zjistili při posouzení schopnosti dlužníka splácet úvěr. Zaměstnavatelé podle písm. j) poskytují údaje o příjmech za dobu vymezenou § 43 odst. 1; osobní působnost tak zahrnuje tam vymezené současné a minulé zaměstnavatele.
+
+[3] **Majetek a finanční vztahy.** Osoby vedoucí evidenci cenných papírů poskytují údaje o evidovaných cenných papírech náležejících do majetku dlužníka. Banky, spořitelní a úvěrní družstva a pobočky zahraničních bank sdělují čísla účtů, jejich stavy a pohyby a informace o úschovách a vkladních knížkách. Pojišťovny sdělují údaje o pojistných smlouvách a pojistných plněních. Zákonný obsah žádosti je třeba držet v mezích konkrétního písmene a obecných omezení § 43 odst. 2.
+
+[4] **Komunikační, zásilkové, inzertní a dopravní údaje.** Písmeno e) zahrnuje doručovací místa, rozsah a povahu zásilek i úhrn peněžních prostředků přijímaných jejich prostřednictvím. Písmeno f) se týká neveřejných elektronických stanic a adres. Vydavatelé tisku poskytují údaje o inzerci týkající se majetkové podstaty. Dopravci podle písm. i) sdělují jak údaje o přepravovaných dlužníkových věcech, tak o jejich příjemci.
+
+[5] **Doložení funkce.** Povinnost doložit ustanovení nevzniká automaticky s každou žádostí o součinnost. Vyžádá-li si adresát doklad, § 44 odst. 2 výslovně požaduje rozhodnutí insolvenčního soudu. Prakticky lze přiložit kopii tohoto rozhodnutí dostupnou v insolvenčním spise; bez zvláštního podkladu nelze tvrdit, že rozhodnutí vždy nahradí pouhý obecný výpis z insolvenčního rejstříku.
+
+[6] **Vadná součinnost a újma.** Odpovědnost podle odstavce 3 předpokládá, že povinný subjekt neposkytl součinnost řádně a včas a tím způsobil konkrétní škodu nebo jinou újmu. Je nutné prokázat příčinnou souvislost: jaký průběh by při řádné a včasné součinnosti nastal, zda mohl oprávněný účinně zasáhnout a která újma by nevznikla. Ustanovení samo neřeší všechny další předpoklady a rozsah náhrady, proto bez ověřené nosné judikatury nelze odpovědnost označit kategoricky za objektivní nebo subjektivní.
+
+[7] **Nositel nároku.** Nárok uplatňuje konkrétní nositel újmy. Patří-li nárok dlužníku a náleží-li do majetkové podstaty, jedná za podmínek dispozičního režimu insolvenční správce. Majetková podstata sama není osobou a jednotlivému věřiteli § 44 odst. 3 automaticky nezakládá nárok na poměrnou část újmy vzniklé na majetku dlužníka; věřitel uplatňující vlastní nárok musí doložit vlastní újmu, příčinnou souvislost a svou legitimaci.
+
+[8] **Intertemporalita.** Zákon č. 252/2024 Sb. vložil s účinností od 1. 10. 2024 nové písm. a), d) a j) a souběžně rozšířil § 43 odst. 1. Podle čl. II bodu 1 se v řízeních zahájených před tímto dnem použije insolvenční zákon ve znění účinném před 1. 10. 2024; výjimky v bodu 2 se § 43 ani § 44 netýkají. Nové povinnosti proto nelze mechanicky použít v dříve zahájeném řízení.
+
+### Judikatura
+
+Do tohoto vydání není zařazeno žádné soudní rozhodnutí. V tomto kole nebyl opatřen plný text oficiálního rozhodnutí s nosným výkladem přímo k § 44; toto redakční vymezení není tvrzením, že taková judikatura neexistuje. Dřívější systémový odkaz na 29 NSČR 9/2014 byl odstraněn jako nedoložený a nenosný k komentovanému ustanovení.
+
+---
+
 ## § 45 — Mlčenlivost správce
 
 > Insolvenční správce zachovává mlčenlivost o skutečnostech, o kterých zvláštní právní předpis stanoví povinnost mlčenlivosti, pokud se o nich dozvěděl při výkonu své funkce, a to i po jejím skončení; této mlčenlivosti jej v rozsahu výkonu této funkce může zprostit ten, v jehož zájmu ji má, nebo insolvenční soud. Totéž platí pro osoby, prostřednictvím kterých insolvenční správce vykonává svou funkci.

@@ -19,83 +19,62 @@ Pochopení této hlavy je *kritické pro praxi* — chybné spoléhání na bě�
 
 ## § 71 — Doručení vyhláškou jako standard
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Soudní rozhodnutí, předvolání, vyrozumění nebo jiná písemnost insolvenčního soudu nebo účastníků se v insolvenčním řízení doručují pouze zveřejněním písemnosti v insolvenčním rejstříku (dále jen „doručení vyhláškou"), ledaže zákon stanoví pro určité případy nebo pro určité osoby i zvláštní způsob doručení.
 > (2) Při doručení vyhláškou se písemnost považuje za doručenou dnem, popřípadě okamžikem jejího zveřejnění v insolvenčním rejstříku; okamžikem zveřejnění písemnosti v insolvenčním rejstříku se rozumí den, hodina a minuta zveřejnění.
 > (3) Povinnost insolvenčního soudu zveřejnit vyhláškou různé údaje, stanovená v tomto zákoně, je splněna zveřejněním příslušné písemnosti v insolvenčním rejstříku; při zveřejnění písemnosti v insolvenčním rejstříku platí odstavec 2 obdobně.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *NS* [29 NSCR 41/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/16612C9B3D6F5EC8C1257E7E0030CFD0?openDocument) — kat. A, 27. 5. 2015
-  > „Případné pochybení poskytovatele webové služby insolvenčního rejstříku, spočívající v opožděném "oznámení" úpadku dlužníka, nemá vliv na běh lhůty k přihlášení pohledávky věřitele"
-- *NS* [29 NSCR 4/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3BAE3A971938E7BEC1257A4E0065EFF6?openDocument) — kat. A, 4. 9. 2008
-  > „Nejde-li o známé věřitele dlužníka, kteří mají své obvyklé místo pobytu, bydliště nebo sídlo v některém z členských států Evropské unie s výjimkou Dánska (§ 430 zákona č. 182/2006 Sb. ve znění pozdějších předpisů), nedoručuje insolvenční soud známým věřitelům dlužníka zvlášť (jinak než vyhláškou podle § 71 a násl. uvedeného zákona) ani vyhlášku, kterou se oznamuje zahájení insolvenčního řízení, ani rozhodnutí o úpadku"
-- *NSS* [8 As 33/2019 - 48](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/654441) — 24. 4. 2020
-  > „… odlišný účel insolvenčního rejstříku. Tím je transparentnost úkonů v rámci insolvenčního řízení a veřejná a operativní dostupnost údajů v něm obsažených, případně komunikace mezi subjekty insolvenčního řízení podle § 71 zákona č. 182/2006 Sb., insolvenční zákon …"
+§ 71 zakládá výchozí způsob doručování v insolvenčním řízení: zveřejnění písemnosti v insolvenčním rejstříku. Nejde však o režim bez výjimek. Stanoví-li zákon pro určitou písemnost nebo osobu také zvláštní způsob doručení, uplatní se vedle vyhlášky § 74 a § 75; právě zvláštní doručení může být rozhodné pro počátek procesní lhůty konkrétního adresáta.
 
-### Výklad — **JEDEN Z NEJDŮLEŽITĚJŠÍCH PARAGRAFŮ ZÁKONA**
+### Souvisící ustanovení
 
-#### „Doručení vyhláškou" = doručení zveřejněním v insolvenčním rejstříku
+- **§ 7** — přiměřené použití občanského soudního řádu.
+- **§ 73 až 75** — časový rozsah doručování vyhláškou, souběh se zvláštním doručením a jeho způsoby.
+- **§ 83** — nepřípustnost prominutí zmeškání lhůty v insolvenčním řízení.
+- **§ 173 odst. 1 a § 185** — následky opožděné přihlášky; nejde o rozhodnutí o existenci ani zániku pohledávky.
+- **§ 419 až 421** — povaha, veřejnost a obsah insolvenčního rejstříku a chronologické zveřejňování.
+- **§ 430** — zvláštní vyrozumění známých věřitelů z členských států Evropské unie.
 
-Insolvenční rejstřík (https://isir.justice.cz) je *veřejně přístupný informační systém* spravovaný Ministerstvem spravedlnosti. Obsahuje všechny insolvenční spisy v ČR od roku 2008. Jeho funkčním účelem je *substituovat individuální doručování* — místo aby soud rozeslal 200 dopisů 200 věřitelům, **jednou** publikuje v rejstříku, a tím se rozhodnutí pokládá za doručené **všem najednou**.
+### Souvisící předpisy
 
-#### Okamžik doručení (odst. 2)
+- **§ 45 až 50l občanského soudního řádu** — obecná úprava doručování, použitelná jen v rozsahu slučitelném se zvláštní úpravou insolvenčního zákona.
+- **§ 57 občanského soudního řádu** — počítání procesních lhůt; u lhůty určené podle dnů se nezapočítává den rozhodné skutečnosti.
+- **Nařízení Evropského parlamentu a Rady (EU) 2015/848**, zejména čl. 53 až 55 — informování známých zahraničních věřitelů a přihlašování jejich pohledávek; konkrétní přeshraniční věc vyžaduje samostatné určení působnosti nařízení.
 
-Doručení nastává **okamžikem zveřejnění** — tedy konkrétním dnem, hodinou, minutou. To je v ČR **unikátní úroveň přesnosti** — žádný jiný procesní předpis nepočítá lhůty na minuty.
+### Z důvodové zprávy
 
-> *Důsledek pro lhůty*: pokud rozhodnutí bylo zveřejněno v rejstříku v 14:23, lhůta k odvolání (např. 15 dnů) běží **od okamžiku zveřejnění**, nikoli od půlnoci. Toto pravidlo má dopad zejména u krátkých procesních lhůt v insolvenci (§ 75 — zkrácené lhůty).
+Původní důvodová zpráva k § 71 až 80 označila doručení vyhláškou za zvláštnost insolvenčního řízení a současně vysvětlila souběh se zvláštním doručením: má-li zvláštním doručením začít běžet lhůta konkrétní osobě, je rozhodné právě toto doručení. Původní návrh ještě požadoval i vyvěšení na úřední desce. Zákon č. 294/2013 Sb. tento požadavek od 1. 1. 2014 vypustil; důvodová zpráva k novele jej po zkušenostech s provozem rejstříku označila za administrativně náročný a bez přidané hodnoty.
 
-#### Vztah ke „zveřejnění vyhláškou" pro účely jiných povinností (odst. 3)
+### Literatura
 
-Pokud zákon ukládá *jakoukoli* publikační povinnost (oznámení o svolání schůze, zveřejnění seznamu pohledávek atd.), je splněna **zveřejněním v insolvenčním rejstříku**. Žádné jiné publikační kanály (Obchodní věstník, úřední deska soudu) nejsou nutné.
+Odborná literatura je rozhodnutím editora odložena do druhého kola; toto odložení není negativní rešerší.
 
-### Vazby
+### Výklad
 
-- **§ 419 a násl.** — insolvenční rejstřík (právní úprava systému).
-- **§ 75** — zvláštní způsoby doručení (vlastní ruka, zvlášť doručení).
-- **OSŘ § 49 a násl.** — obecná pravidla doručování (NEPLATÍ v insolvenci).
+[1] Odstavec 1 stanoví pravidlo a současně jeho mez. Doručení vyhláškou nastává zveřejněním písemnosti v insolvenčním rejstříku; individuální doručení však není obecně vyloučeno, protože zákon pro vymezené případy a osoby ukládá i zvláštní způsob doručení.
 
-### Praktická poznámka
+[2] Při souběhu obou způsobů se den nebo okamžik doručení obecně odvozuje od zveřejnění v rejstříku (§ 74 odst. 1). Má-li však zvláštně doručovanou písemností začít běžet lhůta k opravnému prostředku nebo jinému procesnímu úkonu osoby, které se doručuje zvlášť, začíná jí podle § 74 odst. 2 běžet až od zvláštního doručení. Nelze proto bez kontroly konkrétní písemnosti a adresáta určit počátek lhůty pouze z časového údaje v rejstříku.
 
-V praxi to znamená:
-- *Účastníci insolvenčního řízení musí pravidelně kontrolovat rejstřík* (typicky denně). Spoléhání na klasické doručení do datové schránky je riskantní — některé písemnosti se doručují **jen** vyhláškou.
-- *Profesionální monitoring rejstříku* — banky, velcí věřitelé, advokátní kanceláře používají specializované služby (např. CRIBIS, Insolvenční Justice IS).
-- *Důsledky propásnutí lhůty*: typicky **zánik práva** (např. ztráta práva přihlásit pohledávku po lhůtě podle § 173 odst. 1, ztráta práva podat odvolání podle § 83 — prominutí lhůty nepřípustné).
+[3] Odstavec 2 rozlišuje doručení „dnem“ a „okamžikem“ zveřejnění. Okamžik je určen dnem, hodinou a minutou tam, kde zákon váže právní účinek právě na okamžik zveřejnění. Toto pravidlo samo nemění způsob počítání běžné procesní lhůty určené podle dnů: podle § 57 odst. 1 občanského soudního řádu se den rozhodné skutečnosti do takové lhůty nezapočítává.
 
-### F. Kazuistika
+[4] Odstavec 3 řeší zákonné povinnosti zveřejnit vyhláškou údaje. Jejich splnění se váže na zveřejnění příslušné písemnosti v rejstříku a časový účinek se posuzuje obdobně podle odstavce 2. Z toho však nelze dovozovat, že zákon nemůže pro konkrétní situaci stanovit další informační nebo doručovací povinnost.
 
-**1. Modelová situace.** Obchodní společnost Alfa s. r. o. (dlužník) je v insolvenci. Insolvenční soud zveřejní v insolvenčním rejstříku usnesení o úpadku dne 3. 3. v 11:47. Věřitel Beta a. s. má pohledávku 1,2 mil. Kč z neuhrazené faktury. Beta nemá zřízenou žádnou službu monitoringu rejstříku a o úpadku se dozví až po dvou měsících od svého obchodního partnera. Přihlášku podá až 70. den. Důkazy: výpis z insolvenčního rejstříku s časovým razítkem zveřejnění (den, hodina, minuta), doručenka/potvrzení o podání přihlášky, smlouva a faktura prokazující pohledávku.
+[5] Insolvenční rejstřík je podle § 419 veřejně přístupným informačním systémem veřejné správy spravovaným Ministerstvem spravedlnosti. Zákonné účinky podle § 71 se vážou na zveřejnění v tomto rejstříku. Pro konkrétní spor o technickou vadu je nutné přesně zjistit, zda byla vadná publikace v samotném rejstříku, nebo jen výstup navazující služby; § 71 sám druhou situaci neupravuje.
 
-**2. Právní otázka.** Od kterého okamžiku se rozhodnutí (a tím i počátek lhůty pro přihlášení pohledávky) považuje za doručené věřiteli, který písemnost reálně nezaznamenal — od okamžiku zveřejnění v rejstříku, nebo až od faktického seznámení?
+[6] Opožděná přihláška má procesní následky vyjádřené v § 173 odst. 1 a § 185: nepřihlíží se k ní, pohledávka se v insolvenčním řízení neuspokojuje a právní mocí rozhodnutí končí účast přihlašovatele. Z těchto ustanovení neplyne, že by odmítnutím přihlášky zanikla samotná pohledávka.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 71 IZ — doručení vyhláškou je v insolvenci standardem; písemnost je doručena okamžikem zveřejnění v rejstříku (odst. 2), a to s přesností na den, hodinu a minutu.
-- *Související ustanovení téhož zákona:* § 73 (doručování vyhláškou i před/po řízení), § 74 (vztah vyhlášky a zvláštního doručení), § 75 (zvláštní způsoby doručení), § 173 odst. 1 (lhůta k přihlášení), § 419 a násl. (insolvenční rejstřík).
-- *Související předpisy:* § 49 a násl. OSŘ — obecná pravidla doručování, která se v insolvenci NEPOUŽIJÍ.
-- *Judikatura:* NS 29 NSČR 41/2015 — pochybení poskytovatele webové služby rejstříku (opožděné „oznámení") nemá vliv na běh lhůty k přihlášení; NS 29 NSČR 4/2008 — neznámým věřitelům se nedoručuje jinak než vyhláškou.
+[7] U známých věřitelů z jiného členského státu Evropské unie je nutné samostatně ověřit § 430 a přímo použitelné unijní právo. Starší judikatorní zkratku nelze mechanicky použít bez posouzení, zda jde o známého věřitele, kde má rozhodné místo pobytu či sídlo a jaký přeshraniční režim se použije.
 
-**4. Subsumpce.** Znak „doručení vyhláškou" je naplněn zveřejněním usnesení v rejstříku (3. 3. v 11:47). Okamžik doručení tedy nastal, bez ohledu na to, že se Beta s obsahem fakticky neseznámila. Subjektivní nevědomost věřitele ani absence monitoringu nejsou právně významné skutečnosti — zákon spojuje účinky s objektivním aktem zveřejnění. Sporné není nic; pohledávka existuje, ale přihláška je opožděná.
+[8] Intertemporálně je podstatné, že od 1. 1. 2014 již § 71 nevyžaduje současné vyvěšení na úřední desce insolvenčního soudu. Starší rozhodnutí citující předchozí znění jsou nadále použitelná jen pro závěry, které na vypuštěném požadavku nestojí; vždy je třeba zkontrolovat také tehdy rozhodné znění souvisejících ustanovení a unijního předpisu.
 
-**5. Řešení.** Přihláška podaná po lhůtě se odmítá (§ 185), právo věřitele na uspokojení v řízení zaniká. Beta nemá účinnou obranu — argumentace „nezaznamenal jsem zveřejnění" je s ohledem na § 71 odst. 2 a NS 29 NSČR 41/2015 neúspěšná. Praktický krok: žádný opravný prostředek nemá reálnou šanci; jediná teoretická cesta by byla, pokud by zveřejnění samo bylo vadné (nezveřejněno vůbec, nečitelně), což zde není.
+### Judikatura
 
-**6. Varianty.** (a) Kdyby rejstřík usnesení vůbec nezveřejnil (technické selhání na straně soudu, nikoli poskytovatele služby), doručení by nenastalo a lhůta by neběžela. (b) Kdyby Beta byla známým zahraničním věřitelem se sídlem v jiném členském státu EU (mimo Dánsko) podle § 430, soud by jí musel doručit i zvlášť, a počátek lhůty by se posunul.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Doručení fikcí bez reálného seznámení porušuje právo na spravedlivý proces." — Neutralizace: rejstřík je veřejně a nepřetržitě dostupný, publicita nahrazuje individuální doručení ústavně konformně (smysl § 71 je masová komunikace s mnoha věřiteli); ÚS opakovaně tento model aproboval.
-- *Protiargument:* „Opožděné zobrazení v komerční monitorovací službě posouvá počátek lhůty." — Neutralizace: rozhodný je okamžik zveřejnění přímo v rejstříku (ISIR), nikoli v navazujících službách; NS 29 NSČR 41/2015.
-- *Slabé místo:* prokazování přesného okamžiku zveřejnění — nutno vždy doložit výpisem s časovým razítkem; spoléhání na nepřímé indicie je riskantní.
-
-### H. Praktický závěr
-
-Doručení v insolvenci se děje zveřejněním v rejstříku okamžikem (den/hodina/minuta), nikoli individuálně. Účastník musí rejstřík aktivně a pravidelně sledovat; nečinnost jde k jeho tíži.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Zaveden denní monitoring ISIR (vlastní nebo komerční služba) pro všechny relevantní dlužníky.
-- [ ] U každé lhůty zjištěn přesný okamžik zveřejnění (časové razítko), ne jen datum.
-- [ ] Ověřeno, zda se pro danou písemnost nevyžaduje i zvláštní doručení (§ 74, § 75).
-- [ ] Podání připraveno s časovou rezervou, bez spoléhání na „poslední chvíli".
-
-**Typicky rozhodné důkazy / podklady:** výpis z ISIR s časem zveřejnění, doručenka/potvrzení o podání přihlášky, doklady o pohledávce.
+V tomto kole není žádné rozhodnutí použito jako nosná autorita. Kandidátní rozhodnutí k technickému fungování rejstříku a ke známým věřitelům nebyla zařazena, protože pro jednotku nebylo možné uložit jejich fyzické oficiální snapshoty do centrálního adresáře pramenů. To není negativní rešerše judikatury.
 
 ---
 

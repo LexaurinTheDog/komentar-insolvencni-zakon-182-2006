@@ -940,65 +940,58 @@ Do této revize nebylo zařazeno rozhodnutí, jehož oficiální plný text by o
 
 ## § 60 — Povinnosti a odpovědnost členů výboru
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Členové a náhradníci věřitelského výboru jsou povinni při výkonu své funkce postupovat s odbornou péčí a odpovídají za škodu nebo jinou újmu, kterou způsobili porušením svých povinností nebo neodborným výkonem své funkce. Společnému zájmu věřitelů jsou při výkonu funkce povinni dát přednost před zájmy vlastními i před zájmy jiných osob. Nabývat majetek z majetkové podstaty mohou jen se souhlasem schůze věřitelů. Odpovídají i za své zaměstnance a jiné osoby, jejichž prostřednictvím plnili či měli plnit své povinnosti.
 > (2) Členové a náhradníci věřitelského výboru mají právo na náhradu nutných výdajů spojených s výkonem funkce a na přiměřenou odměnu, jejíž výši určí insolvenční soud.
 > (3) Věřitelský výbor může při své činnosti využívat služeb právních, ekonomických a jiných specializovaných odborníků. Náklady, které tím členům nebo náhradníkům věřitelského výboru vzniknou, lze hradit z majetkové podstaty pouze se souhlasem insolvenčního soudu. Při udělování souhlasu insolvenční soud zkoumá účelnost vynaložených nákladů, jejich rozsah v porovnání s celkovým rozsahem majetkové podstaty a přínos pro majetkovou podstatu. Je-li souhlas udělen, jde o pohledávku za majetkovou podstatou.
 >
 > (4) Způsob určení nutných výdajů a odměny členů a náhradníků věřitelského výboru a jejich nejvyšší přípustnou výši stanoví prováděcí právní předpis.
 
+### Přehled výkladu
+
+Ustanovení upravuje osobní povinnosti členů i náhradníků věřitelského výboru, jejich odpovědnost, odměnu a výdaje a podmínky, za nichž lze z majetkové podstaty hradit náklady odborných služeb využitých výborem. Je třeba rozlišovat oprávnění výboru odborníky využít od souhlasu insolvenčního soudu s úhradou vzniklých nákladů z majetkové podstaty.
+
+### Souvisící ustanovení
+
+- § 58 — působnost věřitelského výboru.
+- § 63 odst. 3 — odvolání člena nebo náhradníka insolvenčním soudem z důležitých důvodů.
+- § 66 — výkon působnosti věřitelského výboru insolvenčním soudem.
+- § 168 odst. 2 písm. f) — náklady podle § 60 odst. 3 jako pohledávky za majetkovou podstatou.
+- § 295 odst. 2 písm. f) a odst. 3 — nabývání majetku členy a náhradníky a možnost výjimky.
+- § 431 písm. c) — zmocnění k vydání prováděcího předpisu.
+
+### Souvisící předpisy
+
+- Prováděcí právní předpis vydaný na základě § 431 písm. c) insolvenčního zákona upravuje způsob určení a nejvyšší přípustnou výši odměny a nutných výdajů.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva označuje § 60 odst. 1 za obecné požadavky na činnost členů a náhradníků. Výslovně zdůrazňuje přednost společného zájmu věřitelů, omezení nabývání majetku z podstaty a možnost využít specializované odborníky; úhradu nákladů z podstaty váže na souhlas soudu a jeho přezkum účelnosti a rozsahu. Současně uvádí, že návrh na obecnou mlčenlivost obdobnou insolvenčnímu správci přijat nebyl. Jde o vysvětlení původního návrhu; rozhodující je účinné znění zákona.
+
+### Literatura
+
+Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; je odložena do 2. kola.
+
 ### Výklad
 
-**Fiduciární standard členů výboru** — analogický standardu správce (§ 36):
-- *odborná péče*,
-- *přednost společného zájmu* před vlastními,
-- *odpovědnost za škodu* (vč. zaměstnanců a externistů).
+[1] Povinnost odborné péče a přednosti společného zájmu dopadá podle textu zákona na každého člena i náhradníka při výkonu funkce. Funkce proto není pouhým prosazováním individuálního zájmu věřitele, který člena nominoval nebo jehož pohledávku člen reprezentuje. Konkrétní požadavky odborné péče se posuzují podle povahy rozhodnutí, dostupných informací a významu následků pro věřitele.
 
-**Zákaz nabývání majetku z podstaty** — bez souhlasu schůze věřitelů. Důvod — předcházet střetu zájmů (člen výboru by si mohl „objednat" výhodný prodej sobě).
+[2] Odpovědnost podle odstavce 1 vzniká za škodu nebo jinou újmu způsobenou porušením povinností nebo neodborným výkonem funkce. Text ustanovení přičítá členům a náhradníkům také jednání jejich zaměstnanců a jiných osob, jejichž prostřednictvím povinnosti plnili nebo měli plnit. Samotný nepříznivý hospodářský výsledek však bez zjištění porušení povinnosti a příčinné souvislosti závěr o odpovědnosti neodůvodňuje.
 
-**Náhrada nákladů a odměna** (odst. 2) — určuje **soud**. Sazby a horní hranice — *prováděcí předpis* (vyhláška č. 313/2007 Sb., § 7 — 9). V praxi pro běžné výbory řádově **stovky až jednotky tisíc Kč** za řízení; ve velkých řízeních (reorganizace) výrazně víc.
+[3] Člen nebo náhradník může nabýt majetek z majetkové podstaty jen se souhlasem schůze věřitelů. Toto pravidlo je nutné číst spolu s § 295 odst. 2 písm. f) a odst. 3; § 60 sám neupravuje všechny následky porušení ani postup při povolení výjimky.
 
-**Externí odborníci** (odst. 3) — výbor je může najímat *jen se souhlasem soudu*. Pohledávka externisty je *pohledávkou za podstatou* (po schválení soudem).
+[4] Právo na náhradu se týká nutných výdajů spojených s výkonem funkce. Přiměřenou odměnu určuje insolvenční soud; způsob určení a nejvyšší přípustnou výši svěřuje odstavec 4 prováděcímu právnímu předpisu.
 
-### Vazby
+[5] Výbor může využívat právní, ekonomické a jiné specializované odborníky bez toho, aby § 60 odst. 3 podmiňoval samotné využití jejich služeb předchozím souhlasem soudu. Souhlas soudu je podmínkou úhrady nákladů vzniklých členům nebo náhradníkům z majetkové podstaty. Při rozhodování soud zkoumá účelnost, rozsah nákladů ve vztahu k celkovému rozsahu podstaty a přínos pro podstatu. Je-li souhlas udělen, zákon náklad kvalifikuje jako pohledávku za majetkovou podstatou.
 
-- **§ 36, § 37** — analogie ke správci.
-- **Vyhláška č. 313/2007 Sb. § 7—9** — odměna výboru.
+[6] Zákon výslovně neříká, že souhlas podle odstavce 3 musí vždy předcházet objednání služby, ani sám nestanoví, kdo definitivně ponese náklad, nebude-li úhrada z podstaty schválena. Bezpečný postup výboru je proto vyžádat si souhlas před vznikem významného nákladu a v návrhu doložit potřebnost služby, přiměřenost ceny a očekávaný přínos. Toto doporučení je autorským názorem, nikoli další zákonnou podmínkou.
 
-### F. Kazuistika
+### Judikatura
 
-**1. Modelová situace.** Předseda věřitelského výboru (zástupce velké banky) opakovaně udělí souhlas k prodejům majetku podstaty zájemci, kterým je jiná dceřiná společnost téže banky, za ceny pod znaleckým odhadem. Současně si člen výboru bez souhlasu schůze sám koupí z podstaty firemní vozidlo. Výbor také najal poradenskou firmu za 800 000 Kč bez předchozího souhlasu soudu. Nezajištění věřitelé tvrdí, že tím vznikla podstatě škoda. Důkazně rozhodné jsou znalecké odhady, kupní smlouvy, smlouva s poradci a usnesení výboru.
-
-**2. Právní otázka.** Odpovídají členové výboru za škodu způsobenou neodborným výkonem funkce a upřednostněním vlastních/cizích zájmů; lze náklady na externí poradce hradit z podstaty bez souhlasu soudu?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 60 odst. 1 (odborná péče, přednost společného zájmu, odpovědnost za škodu i za pomocníky; nabývání majetku z podstaty jen se souhlasem schůze), odst. 2 (náhrada nutných výdajů a odměna určená soudem), odst. 3 (externí odborníci jen se souhlasem soudu — pak pohledávka za podstatou; soud zkoumá účelnost a přínos).
-- *Související ustanovení téhož zákona:* § 36, § 37 (analogie ke správci — fiduciární standard), § 58 (působnost výboru), § 53 (střet zájmů — obdobně), § 168 (pohledávky za podstatou).
-- *Související předpisy:* vyhláška č. 313/2007 Sb. § 7—9 (odměna a výdaje výboru).
-- *Judikatura:* —.
-
-**4. Subsumpce.** Předseda upřednostnil zájem spřízněného zájemce (dceřiné společnosti banky) před společným zájmem věřitelů a prodával pod cenou — porušení povinnosti přednosti společného zájmu a odborné péče (odst. 1). Člen, který koupil vozidlo bez souhlasu schůze, porušil zákaz nabývání majetku z podstaty. Najmutí poradců za 800 000 Kč bez souhlasu soudu nesplňuje podmínku odst. 3.
-
-**5. Řešení.** Členové odpovídají za škodu (rozdíl mezi dosaženou a tržní cenou) i za své pomocníky. Koupě vozidla bez souhlasu schůze je vadná (lze se domáhat nápravy/náhrady). Náklady na poradce bez souhlasu soudu nelze hradit z podstaty jako pohledávku za podstatou — nesou je členové ze svého. Procesní krok: nezajištění věřitelé/správce iniciují náhradu škody a navrhnou soudu odvolání členů (§ 63 odst. 3).
-
-**6. Varianty.** (a) Kdyby výbor o najmutí poradců předem požádal a soud souhlasil po posouzení účelnosti a přínosu, šlo by o pohledávku za podstatou hrazenou z podstaty. (b) Kdyby člen koupil vozidlo s předchozím souhlasem schůze za tržní cenu, zákaz dle odst. 1 by porušen nebyl.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument 1:* „Člen výboru jedná jen jako zástupce svého věřitele, nemá fiduciární povinnost vůči celku." Neutralizace: odst. 1 výslovně ukládá dát přednost společnému zájmu věřitelů před zájmy vlastními i cizími a stanoví odpovědnost za škodu.
-- *Protiargument 2:* „Souhlas soudu s poradci lze dodat dodatečně." Neutralizace: odst. 3 váže hrazení z podstaty na (předchozí) souhlas soudu zkoumající účelnost a přínos; bez něj jde k tíži členů.
-- *Slabé místo:* výše škody (rozdíl cen) i účelnost nákladů na poradce se prokazují obtížně — nutné znalecké posouzení a porovnání s rozsahem podstaty.
-
-### H. Praktický závěr
-
-Členové výboru nesou fiduciární standard obdobný správci: odborná péče, přednost společného zájmu, odpovědnost za škodu i za pomocníky. Majetek z podstaty smějí nabývat jen se souhlasem schůze; externí poradce hradí z podstaty jen se souhlasem soudu (jinak ze svého). Odměnu a výdaje určuje soud.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Postupoval člen s odbornou péčí a dal přednost společnému zájmu věřitelů?
-- [ ] Nabýval člen majetek z podstaty pouze se souhlasem schůze věřitelů?
-- [ ] Byl k najmutí externích odborníků udělen souhlas soudu (účelnost, přínos) — jinak náklady nese člen?
-- [ ] Je odměna a náhrada nutných výdajů určena soudem v mezích vyhlášky č. 313/2007 Sb.?
-
-**Typicky rozhodné důkazy / podklady:** usnesení a protokoly výboru, znalecké odhady a kupní smlouvy (porovnání cen), smlouva s externími poradci a doklad o souhlasu soudu, souhlas schůze s nabytím majetku členem.
+K 19. 7. 2026 nebylo do této revize zařazeno rozhodnutí, jehož plný text by poskytoval dostatečně přímý a stále použitelný nosný závěr specificky k § 60. To není tvrzení o neexistenci judikatury; judikatorní oddíl zůstává omezen na výsledek této revize primárních pramenů.
 
 ---
 

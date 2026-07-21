@@ -280,73 +280,69 @@ Do tohoto kola nebylo zařazeno rozhodnutí, jehož plný text by byl z oficiál
 
 ## § 50 — Způsob hlasování
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Není-li dále stanoveno jinak, právo hlasovat mají všichni na schůzi přítomní věřitelé. Ke hlasu, který je vázán na splnění podmínky, se nepřihlíží.
-> (2) Věřitelé mohou hlasovat také písemně, podáním výslovně označeným jako „Hlasovací lístek", které nesmí obsahovat žádný jiný procesní úkon, ze kterého je nepochybné, jak hlasovali, a na kterém je úředně ověřena pravost jejich podpisu. K jejich hlasu se přihlíží, jen bylo-li podání obsahující všechny náležitosti doručeno insolvenčnímu soudu nejpozději v den předcházející schůzi věřitelů; § 43 občanského soudního řádu se nepoužije.
+>
+> (2) Věřitelé mohou hlasovat také písemně, podáním výslovně označeným jako „Hlasovací lístek“, které nesmí obsahovat žádný jiný procesní úkon, ze kterého je nepochybné, jak hlasovali, a na kterém je úředně ověřena pravost jejich podpisu. K jejich hlasu se přihlíží, jen bylo-li podání obsahující všechny náležitosti doručeno insolvenčnímu soudu nejpozději v den předcházející schůzi věřitelů; § 43 občanského soudního řádu se nepoužije.
+>
 > (3) Náležitosti hlasovacího lístku podle tohoto ustanovení stanoví prováděcí právní předpis.
+
+### Přehled výkladu
+
+Ustanovení rozlišuje hlasování přítomného věřitele na schůzi a písemné hlasování. Podmíněný hlas se v obou případech nezapočte. Písemný hlas je účinný pro rozhodování schůze jen tehdy, splní-li hlasovací lístek všechny zákonné i prováděcí náležitosti a dojde-li soudu nejpozději den před schůzí.
+
+### Souvisící ustanovení
+
+- § 47 a 48 — svolání schůze, okruh účastníků a předmět jednání; písemně hlasující věřitel se pro rozšíření předmětu jednání podle § 48 odst. 2 nepovažuje za přítomného.
+- § 49 — většina a počet hlasů podle výše pohledávky.
+- § 51 až 53 — existence, přiznání, přezkum a zákonné vyloučení hlasovacího práva.
+- § 54 — postup soudu při rozporu usnesení schůze se společným zájmem věřitelů.
+- § 346 a § 401 — zvláštní pravidla písemného hlasování o reorganizačním plánu a o způsobu oddlužení.
+- § 431 — zmocnění k vydání prováděcího předpisu.
+
+### Souvisící předpisy
+
+- § 43 zákona č. 99/1963 Sb., občanský soudní řád — obecný postup při vadném podání; § 50 odst. 2 jeho použití na hlasovací lístek výslovně vylučuje.
+- § 3 až 7 vyhlášky č. 191/2017 Sb. — obsah hlasovacího lístku, vymezení předmětu hlasování, informace o hlasu a příloha při zastoupení na základě plné moci.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva označuje odstavec 2 za zavedení možnosti korespondenčního hlasování věřitelů na schůzi a odstavec 3 za zmocnění upravit podrobnosti hlasovacího lístku prováděcím předpisem; odkazuje přitom také na § 431. Tato stručná charakteristika odpovídá přijatému i dnešnímu textu.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola; tento údaj není výsledkem negativní rešerše.
 
 ### Výklad
 
-**Dvě cesty hlasování:**
+[1] Odstavec 1 vychází z účasti na schůzi, avšak sám neurčuje počet hlasů ani všechny případy, kdy věřitel hlasovací právo nemá. Tyto otázky je nutné posoudit zejména podle § 49 a § 51 až 53. Slova „není-li dále stanoveno jinak“ proto brání číst přítomnost jako samostatný a bezvýjimečný titul k hlasování.
 
-(a) **Přítomnost na schůzi** — osobně nebo prostřednictvím řádného zástupce (plná moc s úředně ověřeným podpisem). Hlas „s podmínkou" (např. „hlasuji pro, pokud správce předloží zprávu") se ignoruje.
+[2] Podmíněný hlas zákon neumožňuje započíst. Rozhodný je objektivní obsah projevu: je-li hlas vázán na splnění podmínky, zákonným následkem je, že se k němu nepřihlíží. Není důvod tento následek nahrazovat pojmem neplatnosti, který § 50 nepoužívá.
 
-(b) **Písemné hlasování — „hlasovací lístek"**. Náležitosti:
-- *označení* „Hlasovací lístek" (povinné, jasné),
-- **nesmí obsahovat jiný procesní úkon** (typicky popírání pohledávky, námitku — to musí být samostatné podání),
-- *nepochybný* obsah (jasná volba),
-- **úředně ověřený podpis**,
-- doručení soudu **nejpozději v den předcházející schůzi**.
+[3] Písemné hlasování je alternativou k hlasování na schůzi, nikoli fikcí osobní přítomnosti. To výslovně potvrzuje § 48 odst. 2: pro usnesení o dalším, předem neoznámeném předmětu jednání se písemně hlasující věřitel za přítomného nepovažuje.
 
-> *Klauzule § 43 OSŘ se nepoužije* — to znamená, že soud **nevyzývá** k odstranění vad lístku. *Striktně formální koncentrace*. Vadný lístek = neplatný hlas.
+[4] Zákonné náležitosti písemného hlasu jsou kumulativní. Podání musí být výslovně označeno „Hlasovací lístek“, nesmí obsahovat jiný procesní úkon, musí z něj být nepochybné, jak věřitel hlasoval, a pravost podpisu musí být úředně ověřena. Prováděcí vyhláška doplňuje identifikační a obsahové údaje, včetně vymezení předmětu hlasování a informace, zda věřitel hlasuje pro nebo proti.
 
-**Prováděcí předpis** — vyhláška č. 191/2017 Sb. obsahuje vzor hlasovacího lístku.
+[5] Rozhodující je doručení úplného podání insolvenčnímu soudu nejpozději v kalendářní den předcházející schůzi. Doručení až v den schůze zákonné pravidlo nesplňuje. Protože se § 43 občanského soudního řádu nepoužije, nelze počítat s postupem podle tohoto ustanovení, tedy s výzvou soudu k opravě nebo doplnění vadného hlasovacího lístku.
 
-### Vazby
+[6] Zastoupení je třeba odlišit od ověření podpisu na hlasovacím lístku. Vyhláška vyžaduje, aby byla při zastoupení na základě plné moci plná moc přiložena a její první strana byla označena jako příloha hlasovacího lístku; § 50 sám však nestanoví obecné pravidlo, že každá plná moc pro osobní účast na schůzi musí mít úředně ověřený podpis.
 
-- **Vyhláška č. 191/2017 Sb.** — formulář hlasovacího lístku.
+[7] Úprava korespondenčního hlasování byla obsažena již v původním zákoně č. 182/2006 Sb. a důvodová zpráva ji představila jako nový institut. Pozdější změny insolvenčního zákona ponechaly znění § 50 beze změny; pro právní stav k 19. 7. 2026 proto nevzniká zvláštní intertemporální problém uvnitř komentovaného ustanovení. V konkrétním řízení je ovšem vždy nutné použít znění souvisejících ustanovení účinné v rozhodné době.
 
-### Praktická poznámka
+### Judikatura
 
-Hlasovací lístek je v praxi důležitý — zejména u rozsáhlých řízení s mnoha věřiteli. Banky a velcí institucionální věřitelé typicky hlasují písemně. Je třeba dbát na:
-- aktuální plnou moc pro podepisujícího,
-- úředně ověřený podpis (notář, Czech POINT),
-- doručení do soudu *před* termínem (nejlépe 2—3 dny předem, kvůli administraci).
+Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k § 50. Původní blok neuváděl konkrétní spisovou značku a obecné tvrzení o „striktně formální koncentraci“ nemohlo nahradit ověření plného textu rozhodnutí; výklad je proto omezen na ověřené právní předpisy a důvodovou zprávu.
 
-### F. Kazuistika
+### Praktický checklist
 
-**1. Modelová situace.** Institucionální věřitel (banka) chce hlasovat o klíčovém usnesení schůze, ale jeho zástupce se nemůže dostavit. Banka proto zašle soudu podání nadepsané „Hlasovací lístek", v němž zároveň popírá pohledávku jiného věřitele a uvádí svůj hlas „pro, pokud bude schválena reorganizace". Podpis je ověřen, podání dojde soudu v den schůze v 9:00, schůze začíná tentýž den ve 13:00. Důkazně rozhodné je razítko doručení soudu a obsah lístku.
-
-**2. Právní otázka.** Přihlédne soud k tomuto hlasovacímu lístku, obsahuje-li navíc jiný procesní úkon a podmíněný hlas a byl-li doručen až v den konání schůze?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 50 odst. 1 (k podmíněnému hlasu se nepřihlíží) a odst. 2 (lístek nadepsaný „Hlasovací lístek", bez jiného procesního úkonu, s ověřeným podpisem, doručený nejpozději v den předcházející schůzi; § 43 OSŘ se nepoužije — bez výzvy k odstranění vad).
-- *Související ustanovení téhož zákona:* § 49 (váha hlasu), § 192 a násl. (popírání pohledávek musí být samostatným úkonem), § 53 (zákaz hlasování).
-- *Související předpisy:* vyhláška č. 191/2017 Sb. (náležitosti hlasovacího lístku); § 43 OSŘ (jehož aplikace je vyloučena).
-- *Judikatura:* obecně přijímané, že jde o striktně formální koncentraci — vadný lístek je neúčinný bez možnosti zhojení.
-
-**4. Subsumpce.** Lístek je nadepsán správně a podpis je ověřen, avšak (i) obsahuje jiný procesní úkon (popření pohledávky), (ii) hlas je vázán na podmínku, (iii) byl doručen až v den schůze, nikoli nejpozději v den předcházející. Každá z těchto vad je samostatně fatální.
-
-**5. Řešení.** Soud k hlasu nepřihlédne: doručení je opožděné (mělo být nejpozději den před schůzí), hlas je podmíněný (§ 50 odst. 1) a lístek nepřípustně kombinuje jiný procesní úkon. Soud nevyzývá k nápravě (§ 43 OSŘ vyloučen). Správný postup banky: poslat čistý, nepodmíněný lístek bez popření v dostatečném předstihu, popření učinit samostatným podáním. Procesní krok: kontrola lhůty a obsahu před odesláním.
-
-**6. Varianty.** (a) Kdyby lístek neobsahoval popření ani podmínku a došel den před schůzí, byl by plně účinný. (b) Kdyby se zástupce banky dostavil osobně s ověřenou plnou mocí, hlasoval by přímo na schůzi a formalismus lístku by odpadl.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument 1:* „Soud měl vyzvat k odstranění vad lístku jako u jiných podání." Neutralizace: § 50 odst. 2 výslovně vylučuje § 43 OSŘ; koncentrace je záměrná, aby schůze mohla rozhodovat s jistotou o platných hlasech.
-- *Protiargument 2:* „Podmínka byla jen formulační, vůle hlasovat ‚pro' je zřejmá." Neutralizace: k podmíněnému hlasu se ze zákona nepřihlíží (odst. 1) bez ohledu na to, jak ‚zřejmá' vůle je — jistota výsledku má přednost.
-- *Slabé místo:* hranice mezi přípustným odůvodněním hlasu a nepřípustným „jiným procesním úkonem" může být v hraničních případech sporná; bezpečné je psát výhradně volbu.
-
-### H. Praktický závěr
-
-Hlasovat lze osobně (s ověřenou plnou mocí) nebo písemně hlasovacím lístkem s přísnými náležitostmi: nadpis, žádný jiný úkon, ověřený podpis, doručení nejpozději den před schůzí; podmíněný hlas je neúčinný a vady se nezhojují (§ 43 OSŘ vyloučen).
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Je lístek nadepsán „Hlasovací lístek" a neobsahuje žádný jiný procesní úkon?
-- [ ] Je podpis úředně ověřen (notář / Czech POINT) a vyplývá z lístku nepochybně volba (bez podmínky)?
-- [ ] Byl lístek doručen soudu nejpozději v den předcházející schůzi?
-- [ ] U osobní účasti — má zástupce plnou moc s ověřeným podpisem?
-
-**Typicky rozhodné důkazy / podklady:** samotný hlasovací lístek s ověřením podpisu, doklad o doručení soudu (datum), vzor dle vyhlášky č. 191/2017 Sb., případná plná moc.
+- [ ] Je podání výslovně označeno „Hlasovací lístek“ a neobsahuje jiný procesní úkon?
+- [ ] Je hlas bezpodmínečný a z jeho obsahu nepochybně plyne volba pro nebo proti?
+- [ ] Obsahuje lístek údaje vyžadované § 3 až 6 vyhlášky č. 191/2017 Sb. a úředně ověřený podpis?
+- [ ] Je při zastoupení připojena a označena plná moc podle § 7 vyhlášky?
+- [ ] Dojde úplný lístek insolvenčnímu soudu nejpozději v den předcházející schůzi?
 
 ---
 

@@ -1473,61 +1473,57 @@ Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k výk
 
 ## § 69 — Státní zastupitelství
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Je-li proti rozhodnutí insolvenčního soudu přípustný opravný prostředek, může jej podat i státní zastupitelství, které vstoupilo do insolvenčního řízení, do incidenčního sporu nebo do moratoria.
+
+### Přehled výkladu
+
+- § 69 zakládá oprávnění podat opravný prostředek státnímu zastupitelství, které již vstoupilo do insolvenčního řízení, incidenčního sporu nebo moratoria.
+- Rozhodující je objektivní přípustnost konkrétního opravného prostředku proti konkrétnímu rozhodnutí; § 69 sám žádný jinak nepřípustný opravný prostředek nezavádí.
+- Vstup státního zastupitelství upravuje přímo § 7c insolvenčního zákona. Obecné procesní postavení po vstupu doplňuje § 35 občanského soudního řádu.
+- Od 1. 1. 2014 není oprávnění státního zastupitelství vázáno na to, zda mohou opravný prostředek podat všichni účastníci řízení.
+
+### Souvisící ustanovení
+
+- **§ 7 a § 7c** — přiměřené použití občanského soudního řádu a vstup státního zastupitelství do zahájeného insolvenčního řízení, včetně incidenčních sporů, a moratoria.
+- **§ 9 písm. e)** — státní zastupitelství, které vstoupilo do insolvenčního řízení nebo incidenčního sporu, je procesním subjektem.
+- **§ 47 odst. 2** — právo státního zastupitelství účastnit se schůze věřitelů, účastní-li se insolvenčního řízení.
+- **§ 91** — nepřípustnost odvolání proti rozhodnutím učiněným při výkonu dohlédací činnosti, nestanoví-li zákon jinak.
+
+### Souvisící předpisy
+
+- **§ 35 odst. 1 a 2 občanského soudního řádu** — obecný rámec zákonem dovoleného vstupu státního zastupitelství a jeho oprávnění k procesním úkonům s výjimkou úkonů vyhrazených účastníku právního poměru.
+- **§ 203 odst. 2 občanského soudního řádu** — obecná úprava odvolání státního zastupitelství a časové podmínky jeho vstupu.
+- **Zákon č. 294/2013 Sb., čl. I bod 44, čl. II a čl. IV** — nové znění § 69, přechodné pravidlo a účinnost od 1. 1. 2014.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva k vládnímu návrhu insolvenčního zákona vycházela z procesní úpravy občanského soudního řádu a zamýšlela nad její rámec vyjasnit legitimaci státního zastupitelství k opravnému prostředku. Tehdejší návrh ji však ještě podmiňoval tím, že opravný prostředek náleží všem účastníkům; tato část zprávy proto nevysvětluje dnešní rozsah oprávnění. Důvodová zpráva k zákonu č. 294/2013 Sb. výslovně uvádí, že podmínka oprávnění všech účastníků byla odstraněna a že napříště postačí objektivní přípustnost opravného prostředku.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento oddíl nepředstavuje negativní rešerši literatury.
 
 ### Výklad
 
-**Vstup SZ do insolvenčního řízení** je upraven v § 35 OSŘ. Podmínka — *zákonem stanovený důvod veřejného zájmu* (např. ochrana spotřebitelů, věřitelů). Po vstupu SZ:
+[1] **Dvě kumulativní podmínky.** Státní zastupitelství musí vstoupit do toho procesního rámce, v němž bylo napadené rozhodnutí vydáno, a proti tomuto rozhodnutí musí být opravný prostředek podle použitelné procesní úpravy přípustný. Samotný § 69 neupravuje druh opravného prostředku, jeho náležitosti ani lhůtu.
 
-- má *právo se vyjadřovat* k podstatným otázkám,
-- má *právo na nahlížení* do spisu,
-- má *právo podávat opravné prostředky* (§ 69 IZ).
+[2] **Vstup podle § 7c.** Zvláštním zákonným základem vstupu je § 7c insolvenčního zákona, nikoli § 35 občanského soudního řádu. § 35 odst. 1 a 2 občanského soudního řádu poskytuje obecný rámec: vstup musí být dovolen zákonem a po vstupu může státní zastupitelství činit procesní úkony účastníka s výjimkou úkonů vyhrazených účastníku právního poměru.
 
-**Praxe:** SZ vstupuje vzácně — typicky:
-- u velkých kauz s podezřením na trestnou činnost (zatajení majetku, krácení věřitelů),
-- u kauz s veřejným zájmem (např. úpadek stavební firmy s mnoha drobnými spotřebiteli — zájem na ochraně),
-- u koncernových restrukturalizací, kde existuje pochybnost o legalitě.
+[3] **Objektivní přípustnost.** Formulace „je-li ... přípustný“ vyžaduje ověřit přípustnost konkrétního opravného prostředku proti konkrétnímu rozhodnutí. Jestliže jej zákon vylučuje, § 69 výluku neprolamuje. To je prakticky významné zejména u rozhodnutí učiněných při dohlédací činnosti, proti nimž § 91 zásadně odvolání nepřipouští.
 
-### Vazby
+[4] **Samostatné oprávnění.** Současné znění neváže podání státního zastupitelství na podání jiného procesního subjektu ani na oprávnění všech účastníků podat tentýž prostředek. Odlišovat je třeba existenci legitimace podle § 69 od dodržení obecných pravidel pro daný opravný prostředek, včetně časových podmínek § 203 odst. 2 občanského soudního řádu u odvolání.
 
-- **OSŘ § 35** — vstup SZ.
-- **§ 9 písm. e)** — SZ jako procesní subjekt.
+[5] **Rozsah procesních rámců.** Výčet zahrnuje insolvenční řízení, incidenční spor a moratorium. Pro každý opravný prostředek je proto nutné spojit vstup právě s řízením nebo zvláštním procesním rámcem, v němž bylo rozhodnutí vydáno; pouhá obecná existence působnosti státního zastupitelství nenahrazuje uskutečněný vstup požadovaný § 69.
 
-### F. Kazuistika
+[6] **Intertemporalita.** Zákon č. 294/2013 Sb. nahradil § 69 dnešním zněním s účinností od 1. 1. 2014. Nová úprava se podle čl. II použila i na dříve zahájená insolvenční řízení, avšak právní účinky úkonů nastalé před účinností zůstaly zachovány. Při hodnocení staršího opravného prostředku je proto rozhodný okamžik procesního úkonu a přechodné pravidlo, nikoli pouze datum zahájení řízení.
 
-**1. Modelová situace.** V insolvenčním řízení stavební firmy s mnoha drobnými spotřebiteli (zálohy na nedokončené stavby) vstoupí do řízení státní zastupitelství z důvodu veřejného zájmu (podezření na zatajení majetku a krácení věřitelů). Insolvenční soud vydá rozhodnutí, proti němuž je přípustné odvolání (např. usnesení dotýkající se rozsahu majetkové podstaty). SZ chce podat odvolání, ačkoli žádný z věřitelů je nepodal. Důkazně rozhodné je usnesení o vstupu SZ do řízení a charakter napadeného rozhodnutí.
+### Judikatura
 
-**2. Právní otázka.** Může státní zastupitelství, které vstoupilo do insolvenčního řízení, podat opravný prostředek proti rozhodnutí soudu, i když žádný účastník-věřitel je nepodal?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 69 (je-li proti rozhodnutí soudu přípustný opravný prostředek, může jej podat i SZ, které vstoupilo do insolvenčního řízení, do incidenčního sporu nebo do moratoria).
-- *Související ustanovení téhož zákona:* § 9 písm. e) (SZ jako procesní subjekt), § 47 odst. 2 (právo účasti SZ na schůzi), § 91 (opravné prostředky).
-- *Související předpisy:* § 35 OSŘ (vstup SZ do řízení a podmínky veřejného zájmu).
-- *Judikatura:* —.
-
-**4. Subsumpce.** SZ do řízení vstoupilo postupem dle § 35 OSŘ (veřejný zájem) — je procesním subjektem (§ 9 písm. e). Napadené rozhodnutí je takové, proti němuž je odvolání přípustné. Podmínky § 69 jsou naplněny: vstup SZ + přípustnost opravného prostředku. Legitimace SZ není závislá na tom, zda odvolání podal některý věřitel.
-
-**5. Řešení.** SZ může odvolání podat samostatně, nezávisle na věřitelích, je-li opravný prostředek proti danému rozhodnutí přípustný. Soud odvolání projedná. Procesní krok: ověřit, že SZ skutečně vstoupilo do řízení (usnesení dle § 35 OSŘ) a že napadené rozhodnutí je odvoláním napadnutelné.
-
-**6. Varianty.** (a) Kdyby SZ do řízení nevstoupilo, oprávnění podat opravný prostředek dle § 69 by nemělo. (b) Kdyby proti rozhodnutí nebyl opravný prostředek přípustný vůbec (např. rozhodnutí o vedení řízení), nemohlo by je podat ani SZ.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument 1:* „SZ je jen ‚dozorovým' subjektem, nemůže aktivně podávat opravné prostředky." Neutralizace: § 69 výslovně přiznává SZ právo podat opravný prostředek, je-li přípustný a SZ do řízení vstoupilo.
-- *Protiargument 2:* „Opravný prostředek SZ je nadbytečný, když věřitelé sami nebrojí." Neutralizace: SZ chrání veřejný zájem (ochrana věřitelů/spotřebitelů, odhalování krácení) nezávisle na vůli jednotlivých věřitelů; jeho legitimace je samostatná.
-- *Slabé místo:* rozsah veřejného zájmu odůvodňujícího vstup SZ je vykládán restriktivně; je třeba doložit zákonný důvod vstupu dle § 35 OSŘ.
-
-### H. Praktický závěr
-
-Státní zastupitelství, které vstoupilo do insolvenčního řízení, incidenčního sporu nebo moratoria, může podat opravný prostředek, je-li proti rozhodnutí přípustný — a to nezávisle na věřitelích. Vstup SZ se řídí § 35 OSŘ a podmínkou veřejného zájmu.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Vstoupilo SZ do insolvenčního řízení (incidenčního sporu / moratoria) dle § 35 OSŘ?
-- [ ] Je proti napadenému rozhodnutí přípustný opravný prostředek?
-- [ ] Je dán veřejný zájem odůvodňující aktivitu SZ (ochrana věřitelů/spotřebitelů, podezření z krácení)?
-- [ ] Je legitimace SZ uplatněna nezávisle na tom, zda opravný prostředek podali věřitelé?
-
-**Typicky rozhodné důkazy / podklady:** usnesení/oznámení o vstupu SZ do řízení (§ 35 OSŘ), napadené rozhodnutí soudu a poučení o opravném prostředku, podklady dokládající veřejný zájem.
+Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k výkladu § 69. Jde o redakční omezení na plnotextově ověřené primární prameny, nikoli o negativní rešerši nebo závěr, že relevantní judikatura neexistuje.
 
 ---
 

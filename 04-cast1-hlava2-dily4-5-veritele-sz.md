@@ -1173,48 +1173,57 @@ Do tohoto vydání nebylo zařazeno rozhodnutí, jehož fyzicky zachycený plný
 
 ## § 64 — Odvolání proti rozhodnutí o odvolání
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Proti rozhodnutí o odvolání z funkce může podat odvolání každá z odvolaných osob.
+>
 > (2) Proti rozhodnutí, kterým se návrh na odvolání z funkce zamítá, může podat odvolání osoba, která návrh podala.
+
+### Přehled výkladu
+
+§ 64 taxativně určuje osoby oprávněné podat odvolání proti dvěma opačným výsledkům rozhodování o odvolání z funkce. Proti vyhovujícímu rozhodnutí se může odvolat každá osoba, která jím byla odvolána; proti zamítnutí návrhu osoba, která návrh podala. Legitimace se posuzuje ve vztahu ke konkrétnímu výroku, nikoli podle obecného zájmu věřitele na složení věřitelského orgánu.
+
+### Souvisící ustanovení
+
+- **§ 11** — dohlédací činnost insolvenčního soudu nad postupem a činností ostatních procesních subjektů.
+- **§ 57 odst. 2 a 3** — odvolání členů a náhradníků schůzí věřitelů a jeho potvrzení insolvenčním soudem.
+- **§ 63 odst. 3** — odvolání věřitelského výboru, člena nebo náhradníka insolvenčním soudem z důležitých důvodů, i bez návrhu.
+- **§ 65 a 66** — následky zániku funkce, doplňující volba a dočasný výkon působnosti výboru insolvenčním soudem.
+- **§ 91** — obecná nepřípustnost odvolání proti dohlédacím rozhodnutím, nestanoví-li zákon jinak.
+
+### Souvisící předpisy
+
+- **Zákon č. 99/1963 Sb., občanský soudní řád:** § 201 (obecné právo účastníka napadnout prvostupňové rozhodnutí, nevylučuje-li to zákon), § 204 a 205 (lhůta a náležitosti odvolání) a § 218 písm. b) (odmítnutí odvolání podaného neoprávněnou osobou); použijí se přiměřeně prostřednictvím § 7 insolvenčního zákona.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva uvádí, že § 64 přiznává odvolaným členům nebo náhradníkům věřitelského výboru právo odvolat se proti rozhodnutí o jejich odvolání. Jde o vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, zvláštní část „K § 64“, číslovaná s. 172 (PDF s. 173).
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola; tato poznámka není výsledkem negativní rešerše.
 
 ### Výklad
 
-Klasické symetrické pravidlo — *aktivní legitimace pouze pro toho, koho rozhodnutí zatěžuje*.
+[1] **Předmět úpravy.** Ustanovení neupravuje důvody odvolání z funkce, nýbrž výhradně osobní rozsah oprávnění napadnout rozhodnutí odvoláním. Důvody soudního odvolání vymezuje § 63 odst. 3; odvolání člena nebo náhradníka schůzí věřitelů a potvrzení tohoto odvolání soudem upravuje § 57 odst. 2 a 3.
 
-### F. Kazuistika
+[2] **Vyhovující rozhodnutí.** Je-li z funkce odvoláno více osob, může podle odstavce 1 podat odvolání každá z nich. Oprávnění se váže na to, že napadený výrok odvolal právě danou osobu; jiný věřitel je nezískává jen proto, že nesouhlasí se změnou složení věřitelského orgánu.
 
-**1. Modelová situace.** Insolvenční soud usnesením odvolá dva členy věřitelského výboru (X a Y) pro zanedbávání povinností (§ 63 odst. 3). Současně zamítne návrh schůze na odvolání třetího člena Z. Odvolaný X chce podat odvolání; rovněž věřitel W, který s odvoláním X nesouhlasí, ale sám odvolán nebyl, chce brojit proti usnesení. Navrhovatel odvolání Z (schůze, resp. jí pověřený věřitel) chce napadnout zamítavý výrok. Důkazně rozhodné je samotné usnesení s jednotlivými výroky a identifikace navrhovatelů.
+[3] **Zamítnutí návrhu.** Podle odstavce 2 náleží oprávnění osobě, která zamítnutý návrh skutečně podala. Je proto nutné odlišit procesní návrh na odvolání od pouhého podnětu soudu, aby využil pravomoc podle § 63 odst. 3 z úřední povinnosti. Z textu § 64 nelze dovodit, že se jednotlivý věřitel stává navrhovatelem návrhu přijatého jiným procesním subjektem.
 
-**2. Právní otázka.** Kdo je oprávněn podat odvolání proti výroku o odvolání člena z funkce a proti výroku o zamítnutí návrhu na odvolání?
+[4] **Posouzení po výrocích.** Obsahuje-li usnesení více výroků nebo rozhoduje-li o více osobách, zkoumá se oprávnění každého odvolatele samostatně vůči napadenému výroku. Odvolaná osoba má legitimaci podle odstavce 1 k výroku o svém odvolání; navrhovatel podle odstavce 2 k výroku, jímž byl jeho návrh zamítnut.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 64 odst. 1 (proti rozhodnutí o odvolání z funkce může odvolání podat každá z odvolaných osob), odst. 2 (proti zamítnutí návrhu na odvolání může odvolání podat osoba, která návrh podala).
-- *Související ustanovení téhož zákona:* § 63 odst. 3 (odvolání člena soudem i bez návrhu), § 65 (doplnění výboru), § 91 (opravné prostředky).
-- *Související předpisy:* OSŘ (subsidiárně).
-- *Judikatura:* ÚS II.ÚS 885/12 (citováno u § 63) — otázku odvolání členů výboru lze u soudu kdykoli vznést oprávněnými subjekty.
+[5] **Vztah k § 91.** Rozhodování podle § 63 odst. 3 náleží do dohlédací činnosti insolvenčního soudu. § 64 však pro zde vymezené osoby výslovně otevírá odvolání, a představuje tak zvláštní pravidlo vůči obecné větě § 91. Tuto výjimku nelze rozšiřovat na jiná rozhodnutí o věřitelském orgánu, pro která zákon stanoví vlastní režim.
 
-**4. Subsumpce.** X je odvolanou osobou — je aktivně legitimován k odvolání proti výroku o svém odvolání (odst. 1). W odvolán nebyl a návrh nepodal — nespadá pod žádnou z legitimovaných kategorií, odvolání podat nemůže. Proti zamítavému výroku ohledně Z je legitimován pouze ten, kdo návrh na odvolání Z podal (odst. 2).
+[6] **Subsidiární procesní režim.** Insolvenční zákon v § 64 určuje oprávněné osoby; další otázky odvolání se řeší podle insolvenčního zákona a přiměřeně podle o. s. ř. (§ 7 insolvenčního zákona), zejména podle § 204 a 205 o. s. ř. Odvolání osoby, které § 64 oprávnění nesvědčí, odvolací soud odmítne podle § 218 písm. b) o. s. ř. Konkrétní počátek lhůty je nutno určit podle způsobu doručení použitelného v dané věci, nikoli pouze z textu § 64.
 
-**5. Řešení.** Odvolání X je přípustné (odvolaná osoba). Odvolání W soud odmítne pro nedostatek aktivní legitimace. Proti zamítnutí návrhu na odvolání Z může brojit jen navrhovatel; jiní (vč. Z, jemuž výrok prospívá) legitimováni nejsou. Procesní krok: ověřit u každého odvolatele, zda je odvolanou osobou (odst. 1), resp. navrhovatelem (odst. 2).
+[7] **Novelizace a intertemporalita.** Aktuální dvouvěté znění neobsahuje dřívější dovětky o zvláštním doručování: část odstavce 2 za středníkem odstranil zákon č. 294/2013 Sb.; zákon č. 31/2019 Sb. poté odstranil část odstavce 1 za středníkem a druhou větu odstavce 2. Starší rozhodnutí a procesní úkony je proto nutné posuzovat podle tehdy účinného znění; historickou citační podobu § 64 nelze použít jako popis doručování k 19. 7. 2026.
 
-**6. Varianty.** (a) Kdyby Y (druhý odvolaný) také podal odvolání, byl by rovněž legitimován (každá z odvolaných osob). (b) Kdyby soud naopak člena Z odvolal (místo zamítnutí), legitimaci by měl Z jako odvolaná osoba, nikoli navrhovatel.
+### Judikatura
 
-### G. Protiargumenty a rizika
-
-- *Protiargument 1:* „Každý věřitel má zájem na složení výboru, takže by měl mít právo odvolání." Neutralizace: § 64 přiznává legitimaci úzce — jen odvolané osobě (odst. 1), resp. navrhovateli (odst. 2); obecný zájem nezakládá aktivní legitimaci.
-- *Protiargument 2:* „Proti zamítnutí by se měl odvolat i ten, jehož se odvolání mělo týkat." Neutralizace: zamítavý výrok dotčenému členu prospívá, nezatěžuje jej; legitimován je proto jen navrhovatel.
-- *Slabé místo:* symetrické pravidlo neřeší situaci, kdy je usnesení smíšené (odvolá jednoho, zamítne u druhého) — je třeba rozlišovat legitimaci výrok od výroku.
-
-### H. Praktický závěr
-
-Aktivní legitimace k odvolání je symetrická: proti výroku o odvolání z funkce ji má jen odvolaná osoba, proti výroku o zamítnutí návrhu na odvolání jen navrhovatel. Obecný zájem věřitele na složení výboru legitimaci nezakládá.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Směřuje odvolání proti výroku o odvolání z funkce — je odvolatel odvolanou osobou?
-- [ ] Směřuje odvolání proti zamítnutí návrhu — je odvolatel tím, kdo návrh podal?
-- [ ] Není odvolatel jen věřitelem s obecným zájmem (bez aktivní legitimace)?
-- [ ] U smíšeného usnesení — je legitimace posouzena samostatně k jednotlivým výrokům?
-
-**Typicky rozhodné důkazy / podklady:** usnesení soudu s jednotlivými výroky, doklad o tom, kdo byl odvolán a kdo podal návrh na odvolání, případné podání odvolání.
+Do tohoto kola nebylo zařazeno žádné rozhodnutí jako přímo nosná autorita k výkladu § 64. Kandidátní odkazy buď řešily jiné otázky věřitelských orgánů, nebo citovaly historické znění ustanovení; nebyly proto použity k podpoře materiálních tvrzení.
 
 ---
 

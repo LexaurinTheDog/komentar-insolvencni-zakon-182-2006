@@ -192,62 +192,59 @@ Do tohoto kola nebylo zařazeno žádné rozhodnutí jako přímá nosná autori
 
 ## § 74 — Vztah vyhláškového a zvláštního doručení
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Zveřejnění písemnosti v insolvenčním rejstříku je dokladem o doručení i při zvláštním způsobu doručení této písemnosti.
 > (2) Je-li s doručením písemnosti, pro kterou zákon stanoví zvláštní způsob doručení, spojen začátek běhu lhůty k podání opravného prostředku nebo k jinému procesnímu úkonu, začíná lhůta běžet ode dne, kdy byla písemnost doručena adresátu zvláštním způsobem. O tom musí být adresát poučen.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *NS* [29 NSCR 4/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3BAE3A971938E7BEC1257A4E0065EFF6?openDocument) — kat. A, 4. 9. 2008
-  > „Nejde-li o známé věřitele dlužníka, kteří mají své obvyklé místo pobytu, bydliště nebo sídlo v některém z členských států Evropské unie s výjimkou Dánska (§ 430 zákona č. 182/2006 Sb. ve znění pozdějších předpisů), nedoručuje insolvenční soud známým věřitelům dlužníka zvlášť (jinak než vyhláškou podle § 71 a násl. uvedeného zákona) ani vyhlášku, kterou se oznamuje zahájení insolvenčního řízení, ani rozhodnutí o úpadku"
+§ 74 řeší souběh dvou způsobů doručení. Zveřejnění v insolvenčním rejstříku zůstává dokladem o doručení písemnosti; neprokazuje však samo, že proběhlo také zvláštní doručení. Má-li zvlášť doručovaná písemnost spustit adresátovi lhůtu k opravnému prostředku nebo jinému procesnímu úkonu, počátek této lhůty se posouvá ke dni zvláštního doručení.
+
+### Souvisící ustanovení
+
+- **§ 7** — subsidiární použití občanského soudního řádu a zákona o zvláštních řízeních soudních.
+- **§ 71** — doručení vyhláškou zveřejněním v insolvenčním rejstříku a určení dne či okamžiku doručení.
+- **§ 75** — vymezení zvláštního způsobu doručení a osob, jimž se doručuje zvlášť.
+- **§ 80 odst. 1** — při zákonem vymezeném neúspěchu zvláštního doručení se doručuje znovu vyhláškou a § 74 odst. 2 se nepoužije.
+- **§ 83** — zmeškání lhůty v insolvenčním řízení nelze prominout.
+
+### Souvisící předpisy
+
+- **§ 45 až § 50l občanského soudního řádu** — obecná pravidla doručování použitelná v mezích § 7 insolvenčního zákona.
+- **§ 57 občanského soudního řádu** — počítání procesních lhůt.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona vysvětloval § 71 až § 80 jako zvláštní doručovací systém. Při časovém rozchodu zveřejnění a zvláštního doručení měl být pro den či okamžik doručení zásadně určující insolvenční rejstřík, avšak lhůta zvlášť obesílané osoby k opravnému prostředku nebo jinému procesnímu úkonu měla začít až zvláštním doručením. Důvodová zpráva tento model spojovala se sjednocením doby doručení. Jde o historické vysvětlení původního návrhu; aktuální následky je nutno odvozovat z účinného znění zákona.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto odložení není negativní rešerší literatury.
 
 ### Výklad
 
-**Vztah dvou doručovacích kolejí** (vyhláška × zvláštní doručení):
+[1] **Dvě právně odlišné otázky.** Odstavec 1 určuje, co je při souběhu obou způsobů dokladem o doručení písemnosti. Odstavec 2 naproti tomu určuje počátek vymezené procesní lhůty konkrétního adresáta. Zveřejnění tedy může založit doručení písemnosti, zatímco individuální lhůta zvlášť obesílané osoby začne později.
 
-**Odst. 1 — vyhláška = i důkaz o zvláštním doručení.** Pokud zákon vyžaduje zvláštní způsob (do vlastních rukou), zveřejnění v rejstříku je *průkazem*, že došlo i ke zvláštnímu doručení. Praxe: spis obsahuje *doručenku* (např. od pošty), ale ve vztahu k třetím osobám platí *publicita rejstříku*.
+[2] **Význam „dokladu o doručení“.** Zákon nepřikazuje z veřejného údaje v rejstříku dovozovat, že písemnost byla také fakticky nebo fikcí doručena zvláštním způsobem. Pro zjištění dne zvláštního doručení je třeba vyhodnotit příslušný doklad a pravidla použitého způsobu doručování, včetně zastoupení adresáta.
 
-**Odst. 2 — pro lhůty rozhoduje zvláštní doručení.** Pokud zákon spojuje s doručením začátek lhůty (např. odvolací 15 dnů), počítá se lhůta **od zvláštního doručení adresátu**, ne od zveřejnění v rejstříku. *Adresát musí být poučen* o této lhůtě.
+[3] **Podmínky odstavce 2.** Pozdější počátek nastává jen tehdy, jestliže zákon pro danou písemnost stanoví zvláštní způsob doručení a současně s jejím doručením spojuje začátek lhůty k opravnému prostředku nebo jinému procesnímu úkonu. Nestačí, že soud písemnost fakticky rozeslal nad rámec zákonné povinnosti, ani že na doručení navazuje jiný právní účinek než vymezená procesní lhůta.
 
-### Vazby
+[4] **Adresát a poučení.** Lhůta podle odstavce 2 se váže na zvláštní doručení adresátu; při procesním zastoupení se adresát doručení určuje podle subsidiárních pravidel občanského soudního řádu. Poslední věta odstavce 2 ukládá povinnost adresáta o tomto režimu poučit. Další následek chybného nebo chybějícího poučení nelze stanovit paušálně bez kontroly povahy písemnosti a použitelného procesního pravidla.
 
-- **§ 75** — zvláštní způsoby doručení.
-- **OSŘ § 204** — odvolací lhůta.
+[5] **Počítání lhůty.** § 74 určuje rozhodnou událost, nikoli celý výpočet lhůty. U lhůty určené podle dnů se podle § 57 odst. 1 občanského soudního řádu den zvláštního doručení do běhu lhůty nezapočítává; konec lhůty a zachování lhůty se posuzují podle dalších odstavců § 57.
 
-### F. Kazuistika
+[6] **Výslovná výjimka § 80 odst. 1.** Nepodaří-li se písemnost doručit zvlášť na adresu splňující podmínky § 80 odst. 1 a soud ji doručí znovu vyhláškou, zákon použití § 74 odst. 2 výslovně vylučuje. Nejde o obecné pravidlo pro každý neúspěšný pokus o doručení; musí být splněny znaky § 80.
 
-**1. Modelová situace.** Soud vydá rozhodnutí, které je dlužníku Delta s. r. o. třeba doručit do vlastních rukou (zvláštní způsob). Rozhodnutí zveřejní v rejstříku dne 5. 5. v 9:00; do vlastních rukou jednatele dlužníka je doručeno poštou až 12. 5. Dlužník chce podat odvolání (lhůta 15 dnů) a počítá ji od 5. 5.; soud naopak tvrdí, že lhůta běží od 12. 5. Důkazy: výpis z rejstříku (5. 5.), doručenka pošty (12. 5.), poučení o lhůtě připojené k písemnosti.
+[7] **Intertemporalita.** Pro konkrétní doručení je rozhodné znění insolvenčního zákona a subsidiárních procesních předpisů účinné v době doručování a běhu lhůty. Starší rozhodnutí pracující s doručením vyhláškou ještě prostřednictvím úřední desky a insolvenčního rejstříku nelze v této historické části mechanicky přenést na právní stav po 1. lednu 2014; rozlišení funkcí odstavců 1 a 2 však musí být vždy ověřeno proti rozhodnému znění.
 
-**2. Právní otázka.** Od kterého okamžiku běží odvolací lhůta u písemnosti, pro kterou zákon stanoví zvláštní způsob doručení — od zveřejnění v rejstříku, nebo od zvláštního doručení adresátu?
+### Judikatura
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 74 IZ — zveřejnění v rejstříku je dokladem o doručení i u zvláštního způsobu (odst. 1), ale je-li s doručením spojen počátek lhůty, běží lhůta ode dne zvláštního doručení adresátu a o tom musí být adresát poučen (odst. 2).
-- *Související ustanovení téhož zákona:* § 71 (vyhláška a okamžik doručení), § 75 (zvláštní způsoby doručení), § 80 odst. 1 (selhání zvláštního doručení — pak § 74 odst. 2 se nepoužije).
-- *Související předpisy:* § 204 OSŘ — odvolací lhůta (15 dnů).
-- *Judikatura:* NS 29 NSČR 4/2008 — neznámým věřitelům se doručuje jen vyhláškou; pro adresáty se zvláštním doručením však platí odlišný počátek lhůty dle § 74 odst. 2.
+**NS, usnesení ze dne 31. 8. 2020, sen. zn. 29 ICdo 2/2019, ECLI:CZ:NS:2020:29.ICDO.2.2019.1, R 49/2021.** Ve věci žaloby dlužníka pro zmatečnost proti rozhodnutí o úpadku Nejvyšší soud posuzoval mimo jiné včasnost žaloby a účinky doručování zastoupenému dlužníkovi. V odstavcích 42 až 47 odůvodnění rozlišil doručení rozhodnutí zveřejněním podle § 71 a § 74 odst. 1 od počátku lhůty k mimořádnému opravnému prostředku podle § 74 odst. 2. Zvláštní doručení rozhodnutí o úpadku zastoupenému dlužníkovi se uskutečňuje jeho procesnímu zástupci; doručení jiné osobě nebo do datové schránky advokátní kanceláře samo nenahrazuje doručení advokátovi, který dlužníka zastupuje. Rozhodnutí vycházelo z doručování v roce 2015; jeho zde použitý závěr odpovídá znění § 74 a § 75 účinnému k rozhodnému dni.
 
-**4. Subsumpce.** Jde o písemnost se zvláštním doručením (do vlastních rukou). Naplněn je znak odst. 2 — s doručením je spojen počátek odvolací lhůty. Lhůta proto běží od zvláštního doručení (12. 5.), nikoli od zveřejnění (5. 5.). Zveřejnění v rejstříku slouží jen jako doklad o doručení (odst. 1), nikoli jako počátek lhůty. Předpokladem je, že adresát byl o lhůtě poučen.
-
-**5. Řešení.** Odvolací lhůta běží od 12. 5.; odvolání podané do 27. 5. je včasné. Tvrzení soudu o počátku 5. 5. je nesprávné. Pokud poučení o lhůtě chybělo, je to vada, která může mít vliv na běh lhůty v neprospěch soudu. Praktický krok: dlužník doloží doručenku a poučení a trvá na pozdějším počátku.
-
-**6. Varianty.** (a) Kdyby se zvláštní doručení nezdařilo (adresa vadná) a soud doručil opakovaně vyhláškou podle § 80 odst. 1, § 74 odst. 2 by se NEPOUŽIL a lhůta by běžela od vyhláškového doručení. (b) Kdyby u písemnosti nebyl s doručením spojen žádný počátek lhůty, uplatnil by se prostý okamžik zveřejnění (§ 71 odst. 2).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Zveřejnění v rejstříku je rozhodující pro všechno, tedy i pro počátek lhůty." — Neutralizace: odst. 1 přiznává zveřejnění jen důkazní roli; odst. 2 výslovně váže počátek lhůty na zvláštní doručení adresátu.
-- *Protiargument:* „Absence poučení o lhůtě je bezvýznamná." — Neutralizace: odst. 2 poučovací povinnost ukládá výslovně; její porušení jde k tíži soudu a může bránit počátku/zmeškání lhůty.
-- *Slabé místo:* nutnost prokázat den zvláštního doručení (doručenka) i obsah poučení; bez doručenky se počátek lhůty hůře dokládá.
-
-### H. Praktický závěr
-
-Rozhodněte podle dvou kolejí: rejstřík je důkaz o doručení, ale počátek lhůty u zvláštního doručení se počítá od skutečného doručení adresátu (s poučením).
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Zjištěno, zda písemnost vyžaduje zvláštní způsob doručení (do vlastních rukou / zvlášť).
-- [ ] U počátku lhůty rozlišeno: zvláštní doručení (§ 74 odst. 2) vs. pouhé zveřejnění (§ 71 odst. 2).
-- [ ] Ověřeno připojení poučení o lhůtě k písemnosti se zvláštním doručením.
-- [ ] Při selhání zvláštního doručení a opakované vyhlášce aplikován § 80 odst. 1 (bez § 74 odst. 2).
-
-**Typicky rozhodné důkazy / podklady:** doručenka o zvláštním doručení, výpis z ISIR (doklad o doručení), text poučení o lhůtě.
+Rozhodnutí 29 NSČR 4/2008, uvedené v původním textu, nebylo ponecháno jako autorita k obecnému výkladu § 74: řeší zvláštní režim známých věřitelů z jiných členských států, nikoli obecně všechny případy souběhu obou způsobů doručení.
 
 ---
 

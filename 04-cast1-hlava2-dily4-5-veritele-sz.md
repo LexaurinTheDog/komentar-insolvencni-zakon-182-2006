@@ -610,71 +610,66 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola; tento ú
 
 ## § 55 — Odvolání proti zrušení / zamítnutí návrhu
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Po vyhlášení rozhodnutí, kterým zruší usnesení schůze věřitelů, insolvenční soud vyzve každého z přítomných věřitelů, kteří hlasovali pro přijetí usnesení schůze věřitelů, aby uvedl, zda se vzdává odvolání; současně je poučí, že odvolání, které nebude podáno do skončení schůze věřitelů, již nelze podat. Vyjádření věřitelů a jejich poučení se uvede v protokolu o jednání. Rozhodnutí insolvenční soud doručí pouze osobám, které proti němu podaly odvolání.
+>
 > (2) Jestliže insolvenční soud návrh na zrušení rozhodnutí schůze věřitelů zamítl, uplatní postup podle odstavce 1 přiměřeně ve vztahu k osobě, která návrh podala.
+>
 > (3) Osobou oprávněnou k podání odvolání proti rozhodnutí o zrušení usnesení schůze věřitelů je pouze věřitel, který hlasoval pro přijetí tohoto usnesení. K podání odvolání proti rozhodnutí o zamítnutí návrhu na zrušení usnesení schůze věřitelů je oprávněna pouze osoba, která návrh podala.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *ÚS* [I.ÚS 2431/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-2431-09_1) — usnesení, 26. 9. 2012
-  > „[R]ozhodnutí podle § 54 IZ o zrušení schůze věřitelů může (nikoliv musí) vydat insolvenční soud jen tehdy, shledá-li (a to jen na návrh insolvenčního správce nebo věřitele, jenž hlasoval proti jejímu přijetí) usnesení schůze věřitelů v rozporu se společným zájmem věřitelů; proti takovému usnesení insolvenčního soudu se lze odvolat jen za podmínek uvedených v § 55 IZ. Pokud je usnesení schůze věřitelů v souladu se společným zájmem věřitelů, a proto je není třeba rušit, ponechá se v platnosti a žádné rozhodnutí podle § 54 IZ se nevydává; dal-li však insolvenční soud účastníkům schůze věřitelů na vědomí svůj názor (nadbytečně) formou usnesení, učinil tak usnesením, jímž se upravuje vedení řízení a proti němu není odvolání přípustné"
+§ 55 upravuje zvláštní postup bezprostředně po vyhlášení rozhodnutí podle § 54. Určuje výlučný okruh odvolatelů, nejzazší okamžik pro podání odvolání, povinné poučení a protokolaci i omezené doručování rozhodnutí. Obecná úprava odvolání v občanském soudním řádu se použije jen potud, pokud ji tento zvláštní režim nevylučuje nebo nemění.
+
+### Souvisící ustanovení
+
+- § 2 písm. j) — společný zájem věřitelů,
+- § 7 — podpůrné použití občanského soudního řádu,
+- § 29 odst. 3 — obdobné použití § 55 odst. 1 při nepotvrzení usnesení o ustanovení insolvenčního správce,
+- § 54 — podmínky, návrhové oprávnění a časová mez zrušení usnesení schůze věřitelů,
+- § 91 — obecná úprava přípustnosti opravných prostředků v insolvenčním řízení.
+
+### Souvisící předpisy
+
+- zákon č. 99/1963 Sb., občanský soudní řád, zejména § 40 (protokol), § 41 (procesní úkony), § 201 (přípustnost odvolání) a § 205 (náležitosti odvolání); podpůrně podle § 7 insolvenčního zákona a s předností zvláštní úpravy § 55.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva k § 54 a 55 vykládá možnost zrušit usnesení odporující společnému zájmu věřitelů jako ochranu před prosazováním partikulárních zájmů. Možnost napadnout zrušující rozhodnutí opravným prostředkem váže na předem stanovené podmínky odůvodněné potřebou co nejvíce urychlit průběh řízení. Jde o sněmovní tisk 1120/0, zvláštní část „K § 54 a 55“, číslovaná s. 170 (PDF s. 171).
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola; tento údaj není výsledkem negativní rešerše.
 
 ### Výklad
 
-**Extrémně koncentrovaný režim opravných prostředků:**
+[1] § 55 navazuje výhradně na rozhodování podle § 54: soud buď usnesení schůze věřitelů zruší, nebo návrh na jeho zrušení zamítne. V obou případech se procesní reakce odehrává ještě na schůzi věřitelů, protože již po jejím skončení odvolání podat nelze.
 
-#### Po zrušení usnesení (odst. 1)
-- soud vyzve **všechny přítomné věřitele, kteří hlasovali pro**, zda se vzdávají odvolání,
-- **odvolání lze podat jen do skončení schůze!**
-- po skončení schůze už nikdo nemůže odvolání podat,
-- rozhodnutí se doručuje **jen těm, kteří odvolání podali**.
+[2] Zruší-li soud usnesení, vyzývá pouze přítomné věřitele, kteří pro přijetí zrušeného usnesení hlasovali. Výzva směřuje k vyjádření, zda se odvolání vzdávají; současně musí obsahovat poučení o zvláštní časové mezi. Vyjádření i poučení se zachytí v protokolu.
 
-#### Po zamítnutí návrhu na zrušení (odst. 2)
-- *obdobně* — soud vyzve **navrhovatele** (která hlasovala proti původnímu usnesení).
+[3] Aktivní legitimaci proti zrušujícímu rozhodnutí má pouze věřitel, který hlasoval pro přijetí zrušeného usnesení. Zákon tak nezakládá odvolací oprávnění věřiteli, který hlasoval proti, zdržel se nebo nehlasoval, ani jiné osobě jen z důvodu její účasti v insolvenčním řízení.
 
-#### Legitimace (odst. 3)
-- proti zrušení — *jen ten, kdo hlasoval pro*,
-- proti zamítnutí — *jen ten, kdo podal návrh*.
+[4] Zamítne-li soud návrh na zrušení, použije se postup odstavce 1 přiměřeně vůči navrhovateli. Navrhovatelem podle § 54 odst. 2 může být insolvenční správce nebo věřitel, který hlasoval proti přijetí usnesení; právě osoba, která návrh podala, je podle § 55 odst. 3 jediným oprávněným odvolatelem.
 
-### Praktická poznámka
+[5] Formulace „odvolání, které nebude podáno do skončení schůze věřitelů, již nelze podat“ je zvláštní zákonnou časovou mezí, jež nahrazuje obecný režim odvolací lhůty podle § 204 občanského soudního řádu. Pozdější doručení písemného vyhotovení proto neotevírá osobě, která na schůzi odvolání nepodala, novou lhůtu.
 
-Tento extrémně koncentrovaný režim klade vysoké nároky na účast na schůzi a okamžitou reakci. Pro velké instituce — *vždy* zastoupit zkušeným právníkem, který umí na místě formálně podat odvolání. Pro malé věřitele to znamená *de facto* ztrátu opravného prostředku, pokud osobně neúčastní.
+[6] Rozhodnutí se doručuje pouze osobám, které proti němu podaly odvolání. Pro posouzení oprávnění a včasnosti jsou proto podstatné zejména protokol o schůzi, údaj o hlasování, návrh podle § 54 odst. 2 a zachycení podaného odvolání.
 
-### F. Kazuistika
+[7] Jádro § 55 bylo přijato již zákonem č. 182/2006 Sb. a v rozhodném znění k 19. 7. 2026 zůstává obsahově zachováno. Starší judikatorní závěr by přesto bylo nutné před použitím ověřit proti tehdy rozhodnému znění souvisejících ustanovení a procesnímu kontextu konkrétní věci.
 
-**1. Modelová situace.** Insolvenční soud na schůzi věřitelů vyhlásí, že zrušuje usnesení schůze (přijaté většinou banky) pro rozpor se společným zájmem. Banka, která pro usnesení hlasovala, je na schůzi zastoupena právním zástupcem; ten chce podat odvolání. Soud vyzve všechny věřitele, kteří hlasovali pro, zda se vzdávají odvolání, a poučí je, že odvolání nepodané do skončení schůze už nelze podat. Banka odvolání ústně do protokolu podá ještě na schůzi. Důkazně rozhodný je protokol o jednání s poučením a projevem banky.
+### Praktický checklist
 
-**2. Právní otázka.** Kdo je oprávněn podat odvolání proti rozhodnutí soudu o zrušení usnesení schůze a do kdy lze odvolání účinně podat?
+- [ ] Určit, zda soud usnesení zrušil, nebo návrh na zrušení zamítl.
+- [ ] Ověřit oprávněnou osobu podle § 55 odst. 3 a její hlasování, popřípadě podání návrhu.
+- [ ] Podat odvolání nejpozději do skončení schůze a zajistit jeho zachycení v protokolu.
+- [ ] Zkontrolovat výzvu, poučení, vyjádření o vzdání se odvolání a okruh adresátů rozhodnutí.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 55 odst. 1 (po zrušení soud vyzve věřitele hlasující pro, poučí o prekluzi odvolání do skončení schůze; rozhodnutí doručí jen těm, kdo odvolání podali), odst. 2 (obdobně při zamítnutí návrhu — vůči navrhovateli), odst. 3 (legitimace: proti zrušení jen ten, kdo hlasoval pro; proti zamítnutí jen navrhovatel).
-- *Související ustanovení téhož zákona:* § 54 (hmotněprávní podmínky zrušení), § 2 písm. j) (společný zájem), § 91 (opravné prostředky).
-- *Související předpisy:* OSŘ (subsidiárně k odvolání).
-- *Judikatura:* ÚS I.ÚS 2431/09 (citováno výše) — proti rozhodnutí dle § 54 se lze odvolat jen za podmínek § 55; dal-li soud najevo souhlasné stanovisko nadbytečně formou usnesení o vedení řízení, odvolání proti němu přípustné není.
+### Judikatura
 
-**4. Subsumpce.** Banka hlasovala pro zrušené usnesení — je tedy aktivně legitimována k odvolání (odst. 3). Soud řádně vyzval a poučil o prekluzi. Banka podala odvolání do protokolu ještě v průběhu schůze — tedy „do skončení schůze". Podmínky včasnosti i legitimace jsou naplněny; rozhodnutí jí bude doručeno (jako tomu, kdo odvolání podal).
-
-**5. Řešení.** Odvolání banky je včasné a přípustné; soud rozhodnutí o zrušení doručí bance (a dalším, kdo odvolání podali) a věc předloží odvolacímu soudu. Věřitelé, kteří odvolání do skončení schůze nepodali, je již podat nemohou. Procesní krok: zástupce musí být na schůzi přítomen a schopen odvolání ihned formálně podat do protokolu.
-
-**6. Varianty.** (a) Kdyby soud návrh na zrušení zamítl, legitimaci k odvolání by měl pouze navrhovatel (správce nebo „proti"-věřitel), nikoli banka (odst. 2 a 3). (b) Kdyby banka odvolání nepodala do skončení schůze a chtěla je podat až písemně druhý den, bylo by opožděné a nepřípustné.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument 1:* „Prekluze odvolání ‚do skončení schůze' je v rozporu s právem na opravný prostředek." Neutralizace: jde o ústavně aprobovaný koncentrovaný režim sloužící rychlé definitivnosti; ÚS I.ÚS 2431/09 jej akceptuje a vykládá.
-- *Protiargument 2:* „I věřitel, který se zdržel, by měl mít právo odvolání." Neutralizace: odst. 3 jednoznačně přiznává legitimaci jen tomu, kdo hlasoval pro (proti zrušení), resp. navrhovateli (proti zamítnutí); jiní oprávnění nejsou.
-- *Slabé místo:* malí věřitelé bez právního zastoupení reálně přicházejí o opravný prostředek; je vhodné je předem poučit o nutnosti osobní/zastoupené účasti.
-
-### H. Praktický závěr
-
-Režim opravných prostředků dle § 55 je extrémně koncentrovaný: odvolání lze podat jen do skončení schůze a jen oprávněnou osobou (proti zrušení ten, kdo hlasoval pro; proti zamítnutí navrhovatel). Rozhodnutí se doručuje pouze odvolatelům. Účast zkušeného zástupce je nezbytná.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Je odvolatel aktivně legitimován (proti zrušení hlasoval pro; proti zamítnutí je navrhovatelem)?
-- [ ] Bylo odvolání podáno do skončení schůze (jinak prekluze)?
-- [ ] Vyzval soud dotčené osoby a poučil je o prekluzi (záznam v protokolu)?
-- [ ] Doručuje se rozhodnutí jen těm, kdo odvolání podali?
-
-**Typicky rozhodné důkazy / podklady:** protokol o jednání s poučením a projevy k odvolání, doklad o tom, jak odvolatel hlasoval, případný návrh na zrušení (u zamítnutí), text rozhodnutí soudu.
+Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita. Kandidátní rozhodnutí uvedené v předchozí verzi nebylo převzato bez nového otevření fyzického snapshotu úplného textu z oficiálního webu; nejde o tvrzení, že relevantní judikatura neexistuje.
 
 ---
 

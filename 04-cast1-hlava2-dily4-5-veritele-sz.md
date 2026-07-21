@@ -1288,59 +1288,74 @@ Do tohoto kola nebylo zařazeno žádné rozhodnutí jako přímo nosná autorit
 
 ## § 66 — Insolvenční soud jako věřitelský výbor
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Jestliže v průběhu insolvenčního řízení poklesne počet členů věřitelského výboru ustanoveného schůzí věřitelů na méně než 3 nebo pod většinu, vykonává působnost věřitelského výboru až do potvrzení nové volby nebo doplňující volby členů věřitelského výboru do počtu nejméně 3 nebo do počtu většiny členů insolvenční soud.
+>
 > (2) Jestliže chybějící členy věřitelského výboru do počtu nejméně 3 nebo do počtu většiny členů nezvolila schůze věřitelů k tomu účelu svolaná, vykonává po jejím skončení působnost věřitelského výboru insolvenční soud; § 61 odst. 2 věta druhá a § 61 odst. 3 platí obdobně.
+>
 > (3) Úkon, který insolvenční soud provádí při výkonu působnosti věřitelského výboru, tak musí být označen.
+
+### Přehled výkladu
+
+Ustanovení zajišťuje nepřerušený výkon působnosti již ustanoveného věřitelského výboru, který ztratil zákonné minimum členů nebo většinu potřebnou k usnášení. Do potvrzení úspěšné nové nebo doplňující volby, a při neúspěchu schůze i po jejím skončení, vykonává působnost výboru insolvenční soud. Každý úkon v této zvláštní roli musí soud jako takový označit. § 66 nelze bez dalšího použít na každou situaci, kdy věřitelský výbor vůbec nebyl ustanoven; tyto situace upravují zejména § 46 odst. 2 a § 61 odst. 2.
+
+### Souvisící ustanovení
+
+- **§ 11** — dohlédací činnost insolvenčního soudu.
+- **§ 46 odst. 2 a 3** — rozdělení působnosti věřitelských orgánů a výkon působnosti, není-li ustanoven výbor ani zástupce věřitelů.
+- **§ 47 a § 48** — svolání schůze věřitelů a vymezení předmětu jejího jednání.
+- **§ 56 odst. 2 a 3** — počet členů výboru a případy, v nichž jeho volba není povinná.
+- **§ 57 odst. 3** — potvrzení volby členů a náhradníků insolvenčním soudem.
+- **§ 58** — působnost, činnost a usnášeníschopnost věřitelského výboru.
+- **§ 61 odst. 2 a 3** — výkon působnosti soudem po neustanovení výboru, svolání nové schůze a nepřípustnost odvolání.
+- **§ 65 odst. 2** — svolání schůze k nové nebo doplňující volbě po zániku funkce.
+- **§ 68 odst. 2** — obdobné použití ustanovení o výboru na zástupce věřitelů.
+
+### Souvisící předpisy
+
+Komentované pravidlo je procesním mechanismem vytvořeným insolvenčním zákonem. Pro jeho základní výklad nebyl v tomto kole identifikován jiný předpis, který by doplňoval jeho spouštěče, dobu trvání nebo povinnost označit úkon.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva ke sněmovnímu tisku 1120/0 zdůraznila, že soud nemá nahrazovat pouhou pasivitu fungujícího věřitelského výboru. Výjimku spojila s poklesem počtu členů pod zákonné minimum; původní návrh však po neúspěšné schůzi předpokládal, že soud chybějící členy jmenuje.
+
+Zákon č. 294/2013 Sb. nahradil § 66 s účinností od 1. 1. 2014 dnešním zněním. Důvodová zpráva ke sněmovnímu tisku 929/0 změnu spojila s opuštěním automatického jmenování prozatímního výboru, s náhradním výkonem působnosti soudem po vyčerpání možnosti volby a nově i s případem, kdy výbor poklesne pod nadpoloviční většinu a není usnášeníschopný. Současně vysvětlila požadavek přesného označení úkonů soudu. Podle přechodného ustanovení novely se nové znění použilo i na dříve zahájená insolvenční řízení, právní účinky úkonů nastalé před 1. 1. 2014 však zůstaly zachovány.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola; tento údaj není výsledkem negativní rešerše.
 
 ### Výklad
 
-**Soud jako záložní orgán**:
-- pokud výbor klesne **pod 3 členy** nebo pod nadpoloviční většinu, soud automaticky převzme funkci výboru,
-- pokud se nepodaří doplnit ani v nové schůzi, soud funkci výboru vykonává **trvale**.
+[1] **Předmět úpravy.** § 66 řeší výpadek akceschopnosti věřitelského výboru, který ustanovila schůze věřitelů. Jeho východiskem tedy není prostá neexistence jakéhokoli věřitelského orgánu, nýbrž pokles obsazení již ustanoveného výboru. Není-li výbor ani zástupce věřitelů vůbec ustanoven, je nutné nejprve posoudit § 46 odst. 2 a § 61 odst. 2.
 
-**Formální označení** (odst. 3) — soud musí při úkonu *označit*, že jedná v roli věřitelského výboru. To je důležité pro rozlišení dohlédací činnosti od činnosti výboru (jiný režim — výbor např. *uděluje souhlas*, soud v dohlédací činnosti *rozhoduje*).
+[2] **Dva alternativní spouštěče.** Náhradní výkon soudem nastává, jestliže počet členů klesne buď na méně než tři, nebo pod většinu členů výboru. Druhá alternativa zachycuje i výbor, který by formálně měl alespoň tři členy, ale vzhledem k počtu stanovenému schůzí již nedosahuje většiny; § 58 odst. 3 totiž váže usnášeníschopnost na přítomnost nadpoloviční většiny členů nebo jejich náhradníků.
 
-> *Praktický důsledek*: v drtivé většině menších řízení (oddlužení, malé konkursy) **funkci výboru fakticky vykonává soud**. To soustřeďuje rozhodování — souhlas k úvěrovému financování, souhlas k použití externistů atd. — do rukou soudce.
+[3] **První časový úsek.** Podle odstavce 1 vykonává soud působnost výboru od rozhodného poklesu do potvrzení nové nebo doplňující volby, která obnoví alespoň tři členy nebo většinu členů. Nestačí samotné hlasování schůze: konec tohoto úseku zákon spojuje s potvrzením volby podle § 57 odst. 3.
 
-### Vazby
+[4] **Neúspěšná schůze.** Nezvolí-li za tím účelem svolaná schůze potřebné členy, pokračuje po jejím skončení výkon působnosti výboru soudem podle odstavce 2. Obdobný odkaz na § 61 odst. 2 větu druhou znamená, že další schůzi za účelem ustanovení výboru svolá soud jen na návrh oprávněné osoby podle § 47 odst. 1. Zákon tento stav neoznačuje za trvalý; může skončit potvrzením pozdější volby.
 
-- **§ 11** — dohlédací činnost.
+[5] **Rozsah přebírané působnosti.** Soud vykonává působnost věřitelského výboru vymezenou zejména § 46 odst. 3 a § 58 a dalšími jednotlivými ustanoveními insolvenčního zákona. Před konkrétním úkonem je proto nutné určit, zda jej zákon svěřuje výboru, schůzi věřitelů, nebo insolvenčnímu soudu v jeho vlastní rozhodovací či dohlédací působnosti.
 
-### F. Kazuistika
+[6] **Označení role.** Odstavec 3 ukládá, aby úkon prováděný soudem při výkonu působnosti výboru byl tak označen. Tím se v procesním záznamu odlišuje zvláštní náhradní role soudu od jeho vlastních pravomocí, zejména od dohlédací činnosti podle § 11. Samotný text § 66 nestanoví zvláštní následek nesprávného nebo chybějícího označení; bez dalšího pramene jej proto nelze kategoricky dovozovat.
 
-**1. Modelová situace.** V oddlužení (a stejně tak v menším konkursu) nebyl ustanoven věřitelský výbor ani zástupce věřitelů — schůze se reálně nesešla. Insolvenční správce potřebuje souhlas „věřitelského orgánu" k úvěrovému financování a k využití externího odhadce. Obrací se na soud. Současně v jiném řízení klesl řádně zvolený výbor pod 3 členy. Důkazně rozhodné jsou stav ustanovení orgánů a obsah úkonů, které soud činí.
+[7] **Intertemporalita.** Do 31. 12. 2013 počítal § 66 po neúspěšné schůzi se jmenováním chybějících členů soudem. Od 1. 1. 2014 jej nahradil dnešní náhradní výkon působnosti soudem. Nová úprava se použila i v tehdy probíhajících řízeních, avšak se zachováním právních účinků dřívějších úkonů; při hodnocení úkonu z přelomu let 2013 a 2014 je proto rozhodné i datum, kdy jeho účinky nastaly.
 
-**2. Právní otázka.** Kdo vykonává působnost věřitelského výboru, není-li výbor ustanoven nebo klesl-li pod minimální počet, a jak musí být takové úkony soudu označeny?
+### Praktický checklist
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 66 odst. 1 (klesne-li počet členů pod 3 nebo pod většinu, vykonává působnost výboru soud až do doplnění), odst. 2 (nezvolí-li schůze chybějící členy, vykonává po jejím skončení působnost soud; obdoba § 61 odst. 2 a 3), odst. 3 (úkon soudu při výkonu působnosti výboru musí být tak označen).
-- *Související ustanovení téhož zákona:* § 11 (dohlédací činnost — odlišný režim), § 61 (prozatímní výbor a náhradní výkon), § 58 (působnost výboru, např. souhlas k úvěrovému financování), § 68 (zástupce věřitelů).
-- *Související předpisy:* —.
-- *Judikatura:* —.
+- [ ] Ustanovila věřitelský výbor schůze věřitelů, nebo jde o jiný režim podle § 46 či § 61?
+- [ ] Klesl počet členů pod tři nebo pod většinu členů výboru?
+- [ ] Byla podle § 65 odst. 2 svolána schůze k nové nebo doplňující volbě a jak dopadla?
+- [ ] Potvrdil soud volbu v rozsahu, který obnovil alespoň tři členy nebo většinu?
+- [ ] Patří zamýšlený úkon skutečně do působnosti věřitelského výboru?
+- [ ] Je úkon soudu výslovně označen jako výkon působnosti věřitelského výboru?
 
-**4. Subsumpce.** Není-li ustanoven výbor ani zástupce (typicky oddlužení, malý konkurs), případně klesl-li výbor pod 3 členy/většinu, vykonává jeho působnost soud (odst. 1 a 2). Úkon, jímž soud jedná v roli výboru (např. souhlas k úvěrovému financování), musí být výslovně označen jako výkon působnosti věřitelského výboru (odst. 3), aby se odlišil od dohlédací činnosti dle § 11.
+### Judikatura
 
-**5. Řešení.** Souhlas k úvěrovému financování a k využití externího odhadce udělí v těchto řízeních soud jako věřitelský výbor; v rozhodnutí to výslovně označí (odst. 3). U výboru, který klesl pod 3 členy, vykonává soud působnost do doplnění/nové volby. Procesní krok: správce adresuje žádost soudu a soud rozhodne s explicitním označením role.
-
-**6. Varianty.** (a) Kdyby byl ustanoven zástupce věřitelů (§ 68), souhlasy by uděloval on, nikoli soud. (b) Kdyby výbor měl stále alespoň 3 členy (resp. většinu), jednal by sám a soud by do jeho působnosti nevstupoval — vykonával by jen dohled dle § 11.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument 1:* „Soud v roli výboru a soud v dohlédací činnosti je totéž." Neutralizace: jde o odlišné režimy — výbor uděluje souhlas, soud v dohledu rozhoduje; proto odst. 3 vyžaduje výslovné označení úkonu jako výkonu působnosti výboru.
-- *Protiargument 2:* „Soud nemůže zároveň schvalovat úkony správce i dohlížet na něj — je to střet rolí." Neutralizace: zákon tento dvojí výkon výslovně předpokládá pro řízení bez výboru; oddělení je zajištěno formálním označením a transparentností úkonů.
-- *Slabé místo:* koncentrace rozhodování do rukou soudce zvyšuje jeho zátěž a riziko formálních pochybení v označení úkonů; chybné označení může zpochybnit povahu rozhodnutí.
-
-### H. Praktický závěr
-
-Není-li výbor ustanoven nebo klesne-li pod 3 členy/většinu, vykonává jeho působnost insolvenční soud (typické u oddlužení a malých konkursů). Každý takový úkon musí být výslovně označen jako výkon působnosti věřitelského výboru, aby se odlišil od dohlédací činnosti (§ 11).
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Je ustanoven výbor nebo zástupce věřitelů, nebo působnost výboru vykonává soud?
-- [ ] Klesl počet členů výboru pod 3 nebo pod většinu (→ výkon soudem do doplnění)?
-- [ ] Je úkon soudu v roli výboru výslovně tak označen (odst. 3)?
-- [ ] Je odlišena dohlédací činnost soudu (§ 11) od výkonu působnosti výboru?
-
-**Typicky rozhodné důkazy / podklady:** doklad o (ne)ustanovení výboru/zástupce, stav počtu členů výboru, žádost správce o souhlas, rozhodnutí soudu s označením výkonu působnosti výboru.
+Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita. Jde o redakční omezení na plnotextově ověřené primární prameny, nikoli o závěr, že k § 66 relevantní judikatura neexistuje.
 
 ---
 

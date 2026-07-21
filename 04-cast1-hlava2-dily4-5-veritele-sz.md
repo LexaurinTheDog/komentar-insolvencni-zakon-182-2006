@@ -479,6 +479,10 @@ Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita. Dří
 
 ## § 53 — Zákaz hlasování (střet zájmů)
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Věřitel, který s dlužníkem tvoří koncern anebo je osobou dlužníkovi blízkou, nesmí na schůzi věřitelů hlasovat, nestanoví-li zákon jinak; o reorganizačním plánu předloženém jinou osobou než dlužníkem nebo věřitelem podle věty před středníkem hlasovat může.
 > (2) Věřitel nesmí hlasovat ve věcech, kterých se účastní nebo kterých je nebo má být stranou, které se týkají
 > a) nabývání majetku anebo jiného plnění z majetkové podstaty,
@@ -491,100 +495,58 @@ Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita. Dří
 > (6) Při určení většiny hlasů potřebné pro přijetí rozhodnutí schůze věřitelů se nepřihlíží k hlasům věřitele, který nesmí hlasovat.
 > (7) Odstavce 1 až 6 se použijí obdobně, hlasují-li věřitelé mimo schůzi věřitelů.
 
-### Výklad — **VELMI DŮLEŽITÝ PARAGRAF**
+### Přehled výkladu
 
-**Dvě skupiny zákazů:**
+Ustanovení kombinuje zákonné zákazy hlasování podle vztahu věřitele k dlužníkovi (odstavec 1) a podle předmětu konkrétního hlasování (odstavce 2 a 3). Odstavce 4 a 5 dovolují insolvenčnímu soudu za rozdílných kumulativních podmínek zákonný zákaz zúžit nebo zákaz rozšířit. Odstavec 6 upravuje hlasový základ a odstavec 7 přenáší pravidla na hlasování mimo schůzi.
 
-#### A) Strukturální zákaz (odst. 1) — spřízněné osoby s dlužníkem
+### Souvisící ustanovení
 
-Věřitel, který:
-- *tvoří s dlužníkem koncern* (§ 79 ZOK — ovládací vztah),
-- *je osobou dlužníkovi blízkou* (§ 22 OZ — příbuzní, partneři, osoby s blízkým vztahem),
+- **§ 2 písm. j)** — společný zájem věřitelů.
+- **§ 49 až 52** — hlasová váha, hlasovací právo a návrhový režim rozhodnutí soudu.
+- **§ 58 odst. 3** — obdobné použití § 53 odst. 1 až 6 při hlasování věřitelského výboru.
+- **§ 189 odst. 1** — vyznačení známého propojení v seznamu přihlášených pohledávek.
+- **§ 344 až 347** — hlasování o reorganizačním plánu, včetně hlasování mimo schůzi.
 
-**nesmí hlasovat**. Důvod — *předjímaný střet zájmů*. Spřízněný věřitel by hlasoval ve prospěch dlužníka, ne ve prospěch věřitelské kolektivity.
+### Souvisící předpisy
 
-> **Výjimka** — u **reorganizačního plánu předloženého třetí osobou** (ne dlužníkem ani spřízněným věřitelem) spřízněný věřitel hlasovat **může**. Logika — pokud plán předkládá outsider, není nebezpečí kolize zájmů.
+- **Zákon č. 89/2012 Sb., občanský zákoník, § 22** — zákonný pojem osoby blízké, na který § 53 navazuje.
+- **Zákon č. 90/2012 Sb., o obchodních korporacích, § 79** — zákonný pojem koncernu, na který § 53 navazuje.
 
-#### B) Situační zákaz (odst. 2) — věřitel jako strana věci
+### Z důvodové zprávy
 
-Věřitel **nesmí hlasovat** ve věcech:
-- *nabývání majetku z podstaty* — typicky pokud sám usiluje o koupi,
-- *právní jednání ohledně práva, které je součástí podstaty* — pokud je věřitel jeho protistranou,
-- *incidenčního sporu* — pokud je jeho stranou,
-- *rozhodnutí o hlasovacím právu* — pokud se ho týká.
+Původní důvodová zpráva k § 53 ponechávala vymezení „vlastní věci“ judikatuře. Novela provedená zákonem č. 294/2013 Sb. naopak vyšla z požadavku, aby zákaz ve věci osoby blízké nebo koncernové působil jen tam, kde jej zákon výslovně stanoví. Dnešní koncepci zavedl zákon č. 64/2017 Sb.: důvodová zpráva zdůraznila střet zájmů osob spřízněných s dlužníkem, nahradila neurčitý pojem „vlastní věc“ výčtem v odstavci 2 a vysvětlila soudní diskreci podle odstavců 4 a 5 i vyřazení zakázaných hlasů z většinového základu.
 
-#### C) Rozšíření na spřízněné osoby věřitele (odst. 3)
+### Literatura
 
-Zákaz situační se vztahuje i na případy, kdy stranou je osoba **blízká věřiteli** nebo **s ním v koncernu**.
+Odborná literatura je rozhodnutím editora odložena do druhého kola; tento údaj není výsledkem negativní literární rešerše.
 
-#### D) Diskreční výjimky soudu (odst. 4 — 5)
+### Výklad
 
-- **Odst. 4** — soud může **povolit hlasování** i jinak zakázanému věřiteli, pokud:
-  - existují důvody hodné zvláštního zřetele,
-  - není to v rozporu se společným zájmem věřitelů,
-  - nehrozí střet zájmů.
+[1] **Zákaz podle vztahu k dlužníkovi.** Věřitel tvořící s dlužníkem koncern nebo osoba dlužníkovi blízká nesmí zásadně hlasovat na schůzi věřitelů. Výjimka v druhé části odstavce 1 je omezena na hlasování o reorganizačním plánu předloženém jinou osobou než dlužníkem nebo takto spřízněným věřitelem; nejde o obecnou výjimku pro ostatní předměty hlasování.
 
-- **Odst. 5** — soud může **zakázat hlasování** i tam, kde to zákon výslovně nezakazuje, pokud:
-  - existují důvody hodné zvláštního zřetele,
-  - ochrana společného zájmu to vyžaduje,
-  - hrozí střet zájmů.
+[2] **Zákaz podle předmětu hlasování.** Odstavec 2 nepoužívá obecný pojem „vlastní věc“, nýbrž uzavřeně popisuje čtyři okruhy: nabývání plnění z majetkové podstaty, právní jednání o právu náležejícím nebo potenciálně náležejícím do podstaty, incidenční spor a rozhodnutí o hlasovacím právu. Rozhodná je účast věřitele na věci nebo jeho postavení současné či budoucí strany.
 
-#### E) Výpočet většiny (odst. 6)
+[3] **Osoby spřízněné s věřitelem.** Odstavec 3 rozšiřuje zákaz z odstavce 2 na stejné věci týkající se osoby věřiteli blízké nebo osoby, která s ním tvoří koncern. Samotnou ekonomickou vazbu, která nenaplňuje zákonný pojem ani není podkladem rozhodnutí podle odstavce 5, nelze bez dalšího vydávat za zákonný zákaz podle odstavce 3.
 
-Zakázané hlasy se **nezapočítávají do základu** (jakoby věřitel nebyl). Tím se efektivně zvyšuje váha ostatních hlasů.
+[4] **Povolení hlasovat.** Podle odstavce 4 může soud na návrh podle § 52 odst. 2 a po slyšení insolvenčního správce povolit hlasování navzdory odstavcům 1 až 3. Podmínky jsou kumulativní: důvody hodné zvláštního zřetele, absence rozporu se společným zájmem věřitelů a absence hrozícího střetu zájmů.
 
-#### F) Mimoschůzové hlasování (odst. 7)
+[5] **Dodatečný zákaz.** Odstavec 5 umožňuje za stejného procesního rámce zakázat hlasování i mimo odstavce 1 až 3. Také zde jsou podmínky kumulativní, avšak opačně orientované: zvláštní důvody, potřeba ochrany společného zájmu věřitelů a hrozící střet zájmů. Tento mechanismus nelze nahrazovat pouhým neformálním konstatováním, že věřitel je ekonomicky propojen.
 
-Stejná pravidla platí *obdobně* pro hlasování mimo schůzi (typicky o reorganizačním plánu — § 344).
+[6] **Většina a hlasování mimo schůzi.** K hlasům věřitele, který nesmí hlasovat, se při určení potřebné většiny nepřihlíží; většina se proto určuje z hlasů věřitelů, na které zákaz nedopadá. Odstavce 1 až 6 se obdobně použijí také při hlasování mimo schůzi. Pro věřitelský výbor stanoví § 58 odst. 3 zvláštní obdobné, resp. přiměřené použití.
 
-### Vazby
+[7] **Časová působnost.** Současná sedmiodstavcová podoba je účinná od 1. 7. 2017. Starší rozhodnutí a procesní úkony je nutno posuzovat podle tehdy účinného textu: původní úprava pracovala s „vlastní věcí“ a osobou jednající s věřitelem ve shodě, zatímco od 1. 1. 2014 zněl § 53 podstatně užší. Dnešní závěry proto nelze bez intertemporálního mostu přenášet na dřívější řízení.
 
-- **§ 22 OZ** — osoby blízké.
-- **§ 79 ZOK** — koncern.
-- **§ 52 odst. 2** — procesní cesta pro návrhy diskrečních výjimek.
-- **§ 344** — hlasování o reorganizačním plánu mimo schůzi.
+### Judikatura
 
-### Praktická poznámka
+Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k § 53. Dřívější citace **29 NSČR 75/2014** byla odstraněna: v oficiální databázi Nejvyššího soudu nebyl ověřen plný text, který by podporoval připisovaný závěr o zachování „statusu spřízněné pohledávky“ po postoupení. Absence judikatury v tomto oddílu není vydávána za negativní rešerši.
 
-V praxi je zákaz hlasování spřízněných věřitelů jedním z nejdiskutovanějších institutů. Důvod: **strukturování pohledávek pro „získání hlasů"** — typicky postoupením pohledávky spřízněného věřitele na třetí osobu (která pak není formálně spřízněná). Insolvenční soudy a NS judikatura však *materiálně přezkoumávají* — formální postoupení nepomáhá, pokud zůstává **ekonomický substrát** spřízněný (např. „nákup pohledávek SPV strukturou" za nominál).
+### Praktický checklist
 
-> **NS 29 NSČR 75/2014**: postoupení pohledávky na třetí osobu, která v ekonomickém smyslu zůstává napojena na původního spřízněného věřitele, nezbavuje pohledávku statusu „spřízněné" pro účely zákazu hlasování. Soud zkoumá *materiální vztah*.
-
-### F. Kazuistika
-
-**1. Modelová situace.** Dlužníkem je obchodní společnost. Jejím největším věřitelem (pohledávka 300 mil. Kč) je mateřská společnost, která s dlužníkem tvoří koncern. Mateřská společnost krátce před schůzí postoupí pohledávku na nově založenou SPV, kterou ovládá tatáž osoba, a SPV se přihlásí hlasovat o volbě výboru a o reorganizačním plánu předloženém samotným dlužníkem. Důkazně rozhodné jsou smlouva o postoupení, struktura vlastnictví SPV a doklady o koncernovém propojení (§ 79 ZOK).
-
-**2. Právní otázka.** Smí SPV jako formálně „nespřízněný" nabyvatel hlasovat, je-li ekonomicky napojena na původního koncernového věřitele, a vztahuje se zákaz i na hlasování o reorganizačním plánu?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 53 odst. 1 (zákaz hlasování koncernového věřitele a osoby blízké; výjimka pro RP předložený třetí osobou — ne dlužníkem ani spřízněným věřitelem), odst. 6 (k zakázaným hlasům se nepřihlíží při výpočtu většiny), odst. 7 (obdoba pro hlasování mimo schůzi).
-- *Související ustanovení téhož zákona:* § 49 (základ hlasování), § 344 (hlasování o RP mimo schůzi), § 52 odst. 2 (návrh na diskreční výjimku/zákaz dle odst. 4—5).
-- *Související předpisy:* § 79 ZOK (koncern), § 22 OZ (osoby blízké).
-- *Judikatura:* NS 29 NSČR 75/2014 (citováno výše) — formální postoupení na osobu ekonomicky napojenou na spřízněného věřitele nezbavuje pohledávku statusu spřízněné; soud zkoumá materiální vztah.
-
-**4. Subsumpce.** SPV je sice formálně samostatným subjektem, ekonomicky však zůstává napojena na koncernového věřitele — materiálně tedy jde stále o spřízněný hlas. Reorganizační plán předkládá sám dlužník, takže výjimka z věty za středníkem odst. 1 (RP třetí osoby) se neuplatní. Znak „spřízněnost" je naplněn materiálně, výjimka pro RP nikoli.
-
-**5. Řešení.** SPV nesmí hlasovat o volbě výboru ani o reorganizačním plánu předloženém dlužníkem; k jejím hlasům se při výpočtu většiny nepřihlíží (odst. 6), čímž se zvyšuje váha ostatních. Postoupení na SPV obejití zákazu nezajistí (materiální test dle NS). Procesní krok: dotčený věřitel/správce navrhne dle § 52 odst. 2, aby soud zákaz hlasování konstatoval (případně rozšířil dle odst. 5).
-
-**6. Varianty.** (a) Kdyby reorganizační plán předkládala nezávislá třetí osoba (ne dlužník ani spřízněný věřitel), směla by SPV/koncernový věřitel o něm hlasovat (výjimka odst. 1). (b) Kdyby SPV byla skutečně nezávislá (ovládaná jinou osobou, za tržní cenu, bez zpětných vazeb), materiální test by spřízněnost nepotvrdil a hlasovat by mohla.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument 1:* „SPV je samostatná právnická osoba a netvoří s dlužníkem koncern, formálně tedy zákaz neplatí." Neutralizace: dle NS 29 NSČR 75/2014 se zkoumá materiální (ekonomický) substrát; formální postoupení status spřízněnosti neruší.
-- *Protiargument 2:* „Zákaz hlasování je zásahem do vlastnického práva věřitele." Neutralizace: jde o cílenou ochranu společného zájmu věřitelů před předjímaným střetem zájmů; soud má navíc diskreci povolit hlasování dle odst. 4, jsou-li podmínky.
-- *Slabé místo:* dokazování „ekonomické napojenosti" SPV může být obtížné (skryté ovládání, nominees); je třeba shromáždit listiny o vlastnické a personální struktuře.
-
-### H. Praktický závěr
-
-§ 53 vylučuje z hlasování koncernové a blízké věřitele (strukturální zákaz) a věřitele-strany konkrétní věci (situační zákaz), včetně jejich spřízněných osob. Účelové postoupení obchází zákaz jen formálně — rozhoduje materiální test. Soud má diskreci zákaz prolomit i rozšířit.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Tvoří věřitel s dlužníkem koncern nebo je osobou blízkou (strukturální zákaz)?
-- [ ] Je věřitel (nebo jeho blízká/koncernová osoba) stranou věci dle odst. 2 (nabývání majetku, jednání o právu z podstaty, incidenční spor, hlasovací právo)?
-- [ ] Nejde o účelové postoupení, kde ekonomický substrát zůstává spřízněný (materiální test)?
-- [ ] Byly zakázané hlasy vyňaty ze základu pro výpočet většiny (odst. 6); nepodán návrh na diskreční výjimku/zákaz dle odst. 4—5?
-
-**Typicky rozhodné důkazy / podklady:** doklady o koncernovém a personálním propojení (§ 79 ZOK), smlouva o postoupení pohledávky a cena, vlastnická struktura nabyvatele, údaje o tom, kdo předložil reorganizační plán.
+- [ ] Je zákaz dán přímo odstavcem 1, 2 nebo 3, nebo je třeba včasný návrh na rozhodnutí podle odstavce 5 ve spojení s § 52 odst. 2?
+- [ ] Jsou u návrhu podle odstavce 4 nebo 5 splněny všechny zákonné podmínky a byl slyšen insolvenční správce?
+- [ ] Byly zakázané hlasy vyloučeny z většinového základu podle odstavce 6?
+- [ ] Jde o schůzi, hlasování mimo schůzi, nebo hlasování věřitelského výboru podle § 58 odst. 3?
+- [ ] Je použitelná úprava účinná od 1. 7. 2017, nebo starší časové znění?
 
 ---
 

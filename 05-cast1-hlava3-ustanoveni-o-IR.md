@@ -80,54 +80,60 @@ V tomto kole není žádné rozhodnutí použito jako nosná autorita. Kandidát
 
 ## § 72 — Doplňková zveřejnění a předvolání
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Vedle doručení vyhláškou nebo zveřejnění vyhláškou může insolvenční soud písemnost nebo údaje zveřejnit i prostřednictvím hromadných sdělovacích prostředků anebo sítě nebo služby elektronických komunikací, je-li to účelné vzhledem k počtu účastníků a povaze věci; toto zveřejnění nemusí obsahovat odůvodnění.
 > (2) Předvolání účastníků k insolvenčnímu soudu učiněné vyhláškou musí být zveřejněno nejméně 15 dnů přede dnem, kdy se má jednání nebo jiný úkon insolvenčního soudu konat.
 
+### Přehled výkladu
+
+Odstavec 1 dovoluje soudu rozšířit publicitu již doručované nebo zveřejňované písemnosti či údajů. Odstavec 2 stanoví zvláštní časové minimum pouze pro předvolání účastníků učiněné vyhláškou: zveřejnění musí předcházet jednání nebo jinému úkonu soudu alespoň o 15 dnů.
+
+### Souvisící ustanovení
+
+- **§ 7** — podpůrné použití občanského soudního řádu, nestanoví-li insolvenční zákon jinak a není-li to v rozporu se zásadami insolvenčního řízení.
+- **§ 48 odst. 1** — svolání schůze věřitelů vyhláškou s uvedením předmětu jednání, místa a termínu konání.
+- **§ 71** — vymezení doručení a zveřejnění vyhláškou prostřednictvím insolvenčního rejstříku.
+- **§ 73 až 75** — doručování před zahájením a po skončení řízení, doklad o doručení a zvláštní způsob doručení.
+- **§ 85** — pravidla pro nařízení jednání v insolvenčním řízení.
+
+### Souvisící předpisy
+
+- **§ 115 odst. 2 občanského soudního řádu** — obecné pravidlo, podle něhož má být předvolání doručeno tak, aby účastníci měli zpravidla nejméně deset dnů k přípravě; pro předvolání účastníků učiněné vyhláškou obsahuje § 72 odst. 2 insolvenčního zákona zvláštní patnáctidenní minimum.
+
+### Z důvodové zprávy
+
+Zvláštní část důvodové zprávy k vládnímu návrhu insolvenčního zákona (sněmovní tisk 1120/0, K § 71 až 80, číslované strany 174–176) vysvětluje doručování jako celek. Zdůrazňuje doručení vyhláškou a jeho tehdejší spojení s insolvenčním rejstříkem a úřední deskou a odlišuje je od zvláštního způsobu doručení. Samostatné odůvodnění patnáctidenního minima ani doplňkové publicity k § 72 zpráva neobsahuje. Původní návrh navíc obsahoval úpravu úřední desky, která byla později změněna; pro současný mechanismus je proto rozhodné aktuální znění zákona.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní literární rešerše.
+
 ### Výklad
 
-**Odst. 1** — soud může *navíc* (nikoli místo) publikovat v médiích (typicky periodika typu Hospodářské noviny, regionální tisk) nebo elektronicky (např. webová stránka soudu) **u významnějších kauz**. *Pouze doplňková publicita*, nemá samostatnou doručovací funkci.
+[1] **Doplňková povaha zveřejnění.** Slovo „vedle“ v odstavci 1 vyjadřuje, že zveřejnění hromadným sdělovacím prostředkem nebo sítí či službou elektronických komunikací přistupuje k doručení nebo zveřejnění vyhláškou podle § 71. Samo nenahrazuje zveřejnění v insolvenčním rejstříku ani neposouvá okamžik doručení určený § 71 odst. 2.
 
-**Odst. 2** — **lhůta 15 dnů** pro předvolání k jednání. Tato lhůta je tvrdá — kratší lhůta by ohrozila právo na přípravu obhajoby (právo na spravedlivý proces, čl. 36 LZPS).
+[2] **Podmínky uvážení soudu.** Doplňkovou publicitu volí insolvenční soud; zákonnými hledisky účelnosti jsou počet účastníků a povaha věci. Ustanovení neurčuje konkrétní médium ani nezakládá účastníkovi nárok na zvolený publikační kanál.
 
-### Vazby
+[3] **Rozsah zveřejněného obsahu.** Doplňkově lze zveřejnit písemnost nebo údaje a toto zveřejnění nemusí obsahovat odůvodnění. Jde o oprávnění zkrátit obsah právě pro doplňkový kanál, nikoli o obecnou výjimku z povinného obsahu písemnosti zveřejňované v insolvenčním rejstříku.
 
-- **§ 48** — vyhláška o svolání schůze věřitelů (jiná lhůta — typicky se řídí povahou jednání).
+[4] **Osobní a věcný rozsah patnáctidenního minima.** Odstavec 2 dopadá jen tehdy, jsou-li kumulativně splněny tři znaky: jde o předvolání účastníků, předvolání je učiněno vyhláškou a směřuje k jednání nebo jinému úkonu insolvenčního soudu. Nelze jej bez dalšího vztahovat na každé předvolání, každou zveřejněnou písemnost ani na pouhé vyrozumění.
 
-### F. Kazuistika
+[5] **Časový požadavek.** Předvolání musí být zveřejněno nejméně 15 dnů přede dnem konání. Text stanoví minimum a nedává soudu oprávnění tuto dobu zkrátit. Z § 72 samotného však nelze bez posouzení konkrétního úkonu, účasti dotčené osoby a dostupného opravného prostředku dovodit automatický následek případného porušení pro navazující rozhodnutí.
 
-**1. Modelová situace.** Insolvenční soud chce předvolat účastníky k jednání o návrhu na nařízení předběžného opatření. Předvolání učiní vyhláškou (zveřejněním v rejstříku) dne 1. 4.; jednání nařídí na 12. 4. Jeden z věřitelů namítá, že nebyl řádně předvolán, protože mezi zveřejněním a jednáním uplynulo jen 11 dnů. Důkazy: výpis z rejstříku s datem zveřejnění předvolání, protokol o nařízeném jednání s datem konání.
+[6] **Vztah obou odstavců.** Doplňková publicita podle odstavce 1 nemůže nahradit včasné zveřejnění předvolání vyhláškou podle odstavce 2. Pro kontrolu splnění patnáctidenního minima je rozhodný záznam o zveřejnění předvolání v insolvenčním rejstříku a den plánovaného jednání nebo jiného úkonu.
 
-**2. Právní otázka.** Bylo předvolání učiněné vyhláškou platné, byla-li dodržena lhůta kratší než 15 dnů podle § 72 odst. 2?
+### Praktický checklist
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 72 odst. 2 IZ — předvolání učiněné vyhláškou musí být zveřejněno nejméně 15 dnů přede dnem jednání; odst. 1 — doplňková publicita v médiích/elektronicky je možná, ale nemá samostatnou doručovací funkci.
-- *Související ustanovení téhož zákona:* § 71 (doručení vyhláškou jako standard), § 48 (svolání schůze věřitelů — jiná lhůta), § 85 (nařizování jednání).
-- *Související předpisy:* čl. 36 odst. 1 Listiny — právo na spravedlivý proces, jehož součástí je dostatečný čas na přípravu.
-- *Judikatura:* obecně nosný závěr ÚS, že procesní lhůty k přípravě jednání chrání reálnou možnost účasti a obhajoby; nedodržení tvrdé minimální lhůty zakládá vadu řízení.
+- [ ] Ověřit, zda jde skutečně o předvolání účastníka učiněné vyhláškou, nikoli o jinou písemnost nebo jiný způsob doručení.
+- [ ] Porovnat datum zveřejnění v insolvenčním rejstříku se dnem jednání nebo jiného úkonu; zachovat nejméně 15 dnů.
+- [ ] Doplňkový publikační kanál použít jen při účelnosti vzhledem k počtu účastníků a povaze věci a nezaměnit jej za doručení či zveřejnění podle § 71.
 
-**4. Subsumpce.** Znak „zveřejnění nejméně 15 dnů předem" naplněn NENÍ — uplynulo jen 11 dnů. Lhůta podle § 72 odst. 2 je tvrdá (minimální), nepřipouští zkrácení dle úvahy soudu. Námitka věřitele je tedy důvodná.
+### Judikatura
 
-**5. Řešení.** Jednání nařízené při nedodržení 15denní lhůty je stiženo procesní vadou; rozhodnutí na něm přijaté je napadnutelné (zpravidla tam, kde je odvolání přípustné). Správný postup soudu: jednání odročit a předvolat znovu s dodržením lhůty. Riziko: pokud soud na vadném jednání rozhodne, hrozí zrušení rozhodnutí pro porušení práva na spravedlivý proces.
-
-**6. Varianty.** (a) Pokud by šlo o úkon, k němuž zákon jednání vůbec nevyžaduje (§ 85 odst. 1) a soud rozhodoval bez jednání, lhůta § 72 odst. 2 by se neuplatnila. (b) Pokud by soud vedle vyhlášky účastníky i doplňkově vyrozuměl médii a elektronicky, nic to nemění — doplňková publicita podle odst. 1 nenahrazuje a neprodlužuje 15denní lhůtu pro předvolání vyhláškou.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Lhůta 15 dnů je jen pořádková, její nedodržení nezpůsobuje vadu." — Neutralizace: jde o minimální zákonnou lhůtu chránící ústavní právo na přípravu; její účel (čl. 36 Listiny) vylučuje výklad jako pouhé instrukce bez následků.
-- *Protiargument:* „Doplňková publicita podle odst. 1 dorovnala informovanost účastníků." — Neutralizace: odst. 1 výslovně přiznává médiím/elektronice jen doplňkovou roli bez doručovacích účinků; nelze jí nahradit chybějící dny.
-- *Slabé místo:* je třeba prokázat přesné datum zveřejnění předvolání; pokud byl účastník fakticky přítomen a vady se nedovolal, může být vada zhojena.
-
-### H. Praktický závěr
-
-U předvolání vyhláškou vždy hlídejte tvrdou minimální lhůtu 15 dnů; doplňková publicita v médiích je nadstavba bez doručovacího účinku.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] U předvolání vyhláškou ověřeno, že mezi zveřejněním a dnem jednání je alespoň 15 dnů.
-- [ ] Rozlišeno předvolání k jednání (§ 72 odst. 2) od svolání schůze věřitelů (§ 48 — jiný režim).
-- [ ] Doplňková publicita (média/elektronika) použita jen jako nadstavba, ne jako náhrada vyhlášky.
-- [ ] Při nedodržení lhůty zvážena námitka vady řízení / odročení jednání.
-
-**Typicky rozhodné důkazy / podklady:** výpis z ISIR s datem zveřejnění předvolání, protokol/usnesení o nařízení jednání, doklad o případné doplňkové publicitě.
+Do této revize nebylo zařazeno rozhodnutí jako přímá autorita k § 72. Kandidátní materiály neobsahovaly plný oficiální text rozhodnutí s nosným závěrem k podmínkám nebo následkům porušení § 72 odst. 2; obecné teze o spravedlivém procesu proto nejsou vydávány za judikaturu k tomuto ustanovení.
 
 ---
 

@@ -1434,10 +1434,12 @@ Při revizi nebylo do tohoto vydání zařazeno rozhodnutí, jehož nosný záv�
 
 ---
 
-## § 43 — § 44 — Součinnost orgánů a osob
+## § 43 — Součinnost orgánů a osob
 
-> **§ 43**
->
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Orgány veřejné správy, zejména katastrální úřady, orgány evidující motorová vozidla a jiné správní úřady, jakož i notáři, soudní exekutoři, osoby vedoucí evidenci cenných papírů, finanční instituce, poskytovatelé úvěru, provozovatelé telekomunikačních služeb, provozovatelé poštovních služeb a jiné osoby, které se zabývají přepravou zásilek, vydavatelé tisku a dopravci, jakož i zaměstnavatelé dlužníka, kteří byli s dlužníkem v základním pracovněprávním vztahu v době 12 měsíců před zahájením insolvenčního řízení nebo v době trvání účinků spojených se zahájením insolvenčního řízení do přiznání osvobození podle § 414, poskytnou insolvenčnímu správci na jeho písemnou žádost bez zbytečného odkladu součinnost dále uvedeným způsobem.
 >
 > (2) Součinnost podle odstavce 1 spočívá v tom, že orgány a osoby v něm uvedené poskytují insolvenčnímu správci údaje o majetku dlužníka a některé další údaje, které jsou nutné pro výkon správy, a to ve stejném rozsahu, v jakém by je poskytly přímo dlužníku. Tato součinnost spočívá také v tom, že uvedené orgány a osoby, které mají u sebe listiny nebo jiné věci, které mohou sloužit ke zjištění dlužníkova majetku, je bez zbytečného odkladu po doručení žádosti vydají nebo zapůjčí insolvenčnímu správci. Jde-li o údaje vedené v elektronické podobě, splní orgány a osoby uvedené v odstavci 1 povinnost poskytnout součinnost tím, že k nim insolvenčnímu správci umožní dálkový přístup. Součinnost se poskytuje bezplatně; nejde-li o orgány veřejné správy, přísluší tomu, kdo součinnost poskytl, právo na náhradu s tím spojených hotových výdajů.
@@ -1445,123 +1447,56 @@ Při revizi nebylo do tohoto vydání zařazeno rozhodnutí, jehož nosný záv�
 > (3) Soudní exekutor pověřený provedením exekuce v řízení, kde je povinným dlužník, poskytne insolvenčnímu správci součinnost podle odstavce 1 také tak, že na jeho písemnou žádost poskytne insolvenčnímu správci údaje o majetku a závazcích a o jiných zjištěních k hospodářské situaci dlužníka získané v exekučním řízení. Na písemnou žádost vydá nebo zapůjčí insolvenčnímu správci také znalecký posudek vypracovaný k ocenění majetku dlužníka nebo jeho části. Náklady na vypracování znaleckého posudku jsou pohledávkou postavenou na roveň pohledávkám za majetkovou podstatou, jestliže nebyly v exekučním řízení uhrazeny.
 >
 > (4) Povinnost orgánů a osob uvedených v odstavci 1 poskytnout insolvenčnímu správci součinnost podle jiných ustanovení tohoto zákona, případně podle ustanovení zvláštního právního předpisu, tím není dotčena.
->
-> **§ 44**
->
-> (1) Součinnost podle § 43 se poskytuje zejména tak, že
-> a) orgány sociálního zabezpečení sdělí insolvenčnímu správci údaje o příjmech dlužníka náležejících za dobu 36 měsíců před zahájením insolvenčního řízení a za dobu trvání účinků spojených se zahájením insolvenčního řízení do přiznání osvobození podle § 414,
-> b) osoby vedoucí evidenci cenných papírů sdělí insolvenčnímu správci údaje o tam evidovaných cenných papírech, které náleží do majetku dlužníka,
-> c) banky, spořitelní a úvěrní družstva a pobočky zahraničních bank sdělí insolvenčnímu správci čísla dlužníkových účtů, informují jej o stavech těchto účtů a pohybech peněžních prostředků na nich a podají mu informace o dlužníkových úschovách a vkladních knížkách,
-> d) poskytovatelé úvěru sdělí insolvenčnímu správci údaje o příjmech dlužníka zjištěné při posouzení jeho schopnosti splácet úvěr,
-> e) provozovatelé poštovních služeb a jiné osoby, které se zabývají přepravou zásilek, informují insolvenčního správce o dlužníkových doručovacích místech, rozsahu a povaze doručovaných zásilek a úhrnu peněžních prostředků, které dlužník přijímá jejich prostřednictvím,
-> f) poskytovatelé služeb elektronických komunikací oznámí insolvenčnímu správci údaje o dlužníkových telefonních, dálnopisných, telefaxových a jiných elektronických stanicích a adresách, které nejsou uvedeny v dostupných seznamech,
-> g) pojišťovny sdělí insolvenčnímu správci údaje o dlužníkových pojistných smlouvách a pojistných plněních,
-> h) vydavatelé tisku sdělí insolvenčnímu správci údaje o inzerci, která se týká majetkové podstaty,
-> i) dopravci sdělí insolvenčnímu správci údaje o přepravovaných dlužníkových věcech a jejich příjemci,
-> j) zaměstnavatelé sdělí insolvenčnímu správci údaje o příjmech dlužníka za dobu podle § 43 odst. 1.
->
-> (2) Na žádost orgánů a osob, od nichž vyžaduje součinnost, insolvenční správce doloží své ustanovení do funkce rozhodnutím insolvenčního soudu.
->
-> (3) Osoby a orgány, které jsou povinny poskytnout insolvenčnímu soudu nebo insolvenčnímu správci součinnost, odpovídají za škodu nebo jinou újmu, kterou způsobily, v případě, že tuto součinnost neposkytnou řádně a včas.
 
-Velmi důležitý praktický institut — **povinnost třetích osob a orgánů poskytnout správci informace a doklady**.
+Znění výše odpovídá právnímu stavu účinnému k 19. 7. 2026. Pro řízení zahájená před 1. 10. 2024 je nutné zohlednit přechodné ustanovení zákona č. 252/2024 Sb.; rozšíření odstavce 1 o zaměstnavatele se na ně obecně nepoužije.
 
-### § 43 odst. 1 — okruh povinných
+### Přehled výkladu
 
-Taxativní výčet (s otevřeným seznamem „jiné osoby"):
-- *orgány veřejné správy* (katastr, evidence vozidel, daňové úřady atd.),
-- *notáři, soudní exekutoři*,
-- *osoby vedoucí evidenci cenných papírů* (CDCP),
-- *finanční instituce* (banky, OCP, pojišťovny),
-- *poskytovatelé úvěru* (i nebankovní — typicky pro zjištění příjmů dlužníka),
-- *provozovatelé telekomunikačních služeb*,
-- *provozovatelé poštovních a přepravních služeb*,
-- *vydavatelé tisku, dopravci*,
-- *zaměstnavatelé dlužníka* (i bývalí — 12 měsíců před zahájením).
+§ 43 zakládá insolvenčnímu správci zvláštní informační a ediční součinnost vymezených orgánů a osob. Předpokladem je písemná žádost a plnění bez zbytečného odkladu. Rozsah údajů omezuje jejich nezbytnost pro výkon správy i rozsah, v němž by je povinný poskytl přímo dlužníku. Elektronické údaje se zpřístupňují dálkově; součinnost je bezplatná, avšak osobám mimo orgány veřejné správy náleží náhrada spojených hotových výdajů.
 
-### § 43 odst. 2 — rozsah součinnosti
+### Souvisící ustanovení
 
-- *informace o majetku* dlužníka (a další pro správu nezbytné),
-- *vydání / zápůjčka listin a věcí* (typicky účetnictví, smlouvy, doklady),
-- *dálkový přístup* k elektronickým evidencím,
-- *bezplatně* (s výjimkou náhrady hotových výdajů u soukromých subjektů — orgány veřejné správy bez náhrady).
+- **§ 44** — demonstrativně konkretizuje obsah součinnosti, doložení funkce rozhodnutím soudu a odpovědnost za neřádnou nebo opožděnou součinnost.
+- **§ 45** — mlčenlivost správce o skutečnostech získaných při výkonu funkce.
+- **§ 168 odst. 2 písm. j)** — náhrada hotových výdajů osob poskytujících součinnost je pohledávkou za majetkovou podstatou.
+- **§ 169 odst. 1 písm. h)** — obecná kategorie pohledávek, které zákon staví na roveň pohledávkám za majetkovou podstatou; § 43 odst. 3 takto výslovně kvalifikuje neuhrazené náklady exekutorova znaleckého posudku.
+- **§ 209 až 212** — zjišťování a zajišťování majetkové podstaty, včetně oznámení nedosažené součinnosti soudu.
 
-### § 43 odst. 3 — speciální součinnost exekutora
+### Souvisící předpisy
 
-Exekutor pověřený exekucí proti dlužníkovi sděluje *údaje o majetku a závazcích* + *zapůjčuje znalecké posudky*. Náklady na znalecký posudek (pokud nebyly uhrazeny v exekučním řízení) jsou pohledávkou postavenou na roveň pohledávkám za podstatou.
+- **Zákon č. 120/2001 Sb., exekuční řád** — procesní rámec exekuce, z níž pocházejí údaje a posudek podle odstavce 3.
+- **Zákon č. 64/2017 Sb.**, čl. I bod 16, čl. II bod 1 a čl. VII — vložení dnešního odstavce 3 s účinností od 1. 7. 2017 a jeho intertemporální dosah.
+- **Zákon č. 252/2024 Sb.**, čl. I bod 10, čl. II bod 1 a čl. V — doplnění zaměstnavatelů s účinností od 1. 10. 2024 a zachování dřívějšího znění pro dříve zahájená řízení.
 
-### § 44 odst. 1 — konkrétní obsah součinnosti
+### Z důvodové zprávy
 
-Demonstrativní výčet konkrétních typů údajů:
-- *SSZ, ČSSZ* — příjmy za 36 měsíců před zahájením + běh do osvobození,
-- *CDCP* — evidované cenné papíry,
-- *banky a SÚD* — čísla účtů, stavy, pohyby, úschovy, vkladní knížky,
-- *poskytovatelé úvěru* — příjmové údaje z žádostí o úvěr,
-- *pošta a přepravci* — doručovací místa, rozsah zásilek, příchozí platby,
-- *elektronické komunikace* — neuvedené telefonní / elektronické adresy,
-- *pojišťovny* — smlouvy a plnění,
-- *tisk* — inzerce týkající se podstaty,
-- *dopravci* — přepravované věci dlužníka,
-- *zaměstnavatelé* — příjmy dlužníka.
+Původní vládní návrh ve sněmovním tisku 1120/0 uváděl společně k §§ 43 až 45 jen to, že úprava součinnosti správci a jeho mlčenlivosti byla v zásadě převzata s dílčími doplněními. Důvodová zpráva ke sněmovnímu tisku 491/0 vysvětluje doplnění zaměstnavatelů potřebou ověřovat údaje významné pro posouzení příjmového potenciálu dlužníka; povinnost měla zahrnout současné i vymezené minulé zaměstnavatele.
 
-### § 44 odst. 2 — legitimace
+### Literatura
 
-Správce **doloží své ustanovení** rozhodnutím soudu (postačí výtah z insolvenčního rejstříku — § 419).
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento oddíl není výsledkem negativní literární rešerše.
 
-### § 44 odst. 3 — odpovědnost povinných
+### Výklad
 
-Osoby a orgány, které součinnost neposkytnou řádně a včas, **odpovídají za škodu**. Tato odpovědnost je hmotněprávní — věřitelé / dlužník mohou žalovat banku, která nesdělila pohyby na účtu, pokud tím vznikla škoda (např. promlčená pohledávka).
+[1] **Okruh povinných.** Odstavec 1 vymezuje povinné kategorie. Slovo „zejména“ otevírá příklady orgánů veřejné správy, nikoli neomezený okruh soukromých osob; výraz „jiné osoby“ se váže jen k osobám zabývajícím se přepravou zásilek. U zaměstnavatelů je rozhodný základní pracovněprávní vztah v zákonem určené době.
 
-### Vazby
+[2] **Forma a čas.** Součinnost se poskytuje na písemnou žádost správce bez zbytečného odkladu. § 43 nestanoví pevnou početní lhůtu. Na žádost povinného správce podle § 44 odst. 2 dokládá ustanovení rozhodnutím insolvenčního soudu; samotný § 43 ani § 44 neříká, že je vždy nahradí prostý výpis z insolvenčního rejstříku.
 
-- **§ 33 zákona o IS** — disciplinární odpovědnost správce za zneužití získaných údajů.
-- **GDPR (Nařízení EU 2016/679)** — zpracování osobních údajů; součinnost je *zákonný titul* podle čl. 6 odst. 1 písm. c) GDPR.
-- **§ 169 odst. 1 písm. d)** — náklady na znalecký posudek exekutora jako pohledávka postavená na roveň.
+[3] **Meze údajové součinnosti.** Vedle údajů o majetku lze žádat jen další údaje nutné pro výkon správy a pouze v rozsahu, v němž by je povinný poskytl přímo dlužníku. Zákon tedy nedává správci neomezené oprávnění k libovolným údajům. Konkrétní typy údajů demonstrativně rozvádí § 44 odst. 1.
 
-### Praktická poznámka
+[4] **Listiny, věci a elektronické údaje.** Listiny a jiné věci u povinného musejí být způsobilé sloužit ke zjištění dlužníkova majetku; po doručení žádosti se bez zbytečného odkladu vydají nebo zapůjčí. U elektronicky vedených údajů zákon předepisuje umožnění dálkového přístupu.
 
-V praxi je hlavní problém **prodlení institucí**, zejména:
-- bank (formálně 1 měsíc na odpověď — v praxi často delší),
-- ČSSZ (až 2—3 měsíce),
-- katastrálních úřadů (rychlé — dálkový přístup).
+[5] **Náklady.** Součinnost se poskytuje bezplatně. Nejde-li však o orgán veřejné správy, má poskytovatel právo na náhradu spojených hotových výdajů; tato náhrada je podle § 168 odst. 2 písm. j) pohledávkou za majetkovou podstatou.
 
-Správce by měl součinnost vyžadovat **ihned po ustanovení**, ne ji odkládat — promlčení pohledávek dlužníka nebo zánik důkazů jsou reálné. *Pořádková pokuta* (§ 81) na osoby, které součinnost odmítly, je *teoretická možnost*, v praxi vzácně uplatňovaná.
+[6] **Zvláštní režim exekutora.** Odstavec 3 dopadá jen na soudního exekutora pověřeného v exekuci, v níž je dlužník povinným. Na písemnou žádost poskytne údaje o majetku, závazcích a dalších zjištěních o hospodářské situaci získaných v exekučním řízení a vydá nebo zapůjčí znalecký posudek k ocenění majetku dlužníka. Neuhrazené náklady posudku jsou přímo podle § 43 odst. 3 pohledávkou postavenou na roveň pohledávkám za majetkovou podstatou; v systematice § 169 spadají pod odst. 1 písm. h), nikoli písm. d).
 
-### F. Kazuistika
+[7] **Jiné tituly součinnosti.** Odstavec 4 zachovává povinnosti podle dalších ustanovení insolvenčního zákona a zvláštních předpisů. § 43 proto není vyčerpávajícím katalogem veškeré možné součinnosti, ale ani sám nerozšiřuje osobní působnost odstavce 1 na libovolnou třetí osobu.
 
-**1. Modelová situace.** Insolvenční správce po ustanovení písemně požádá banku B o sdělení čísel účtů dlužníka, jejich stavů a pohybů a o informace o úschovách (§ 44 odst. 1 písm. c). Banka odpoví až po čtyřech měsících a mezitím dlužník stačí vyvést prostředky; navíc se ukáže, že dlužník měl u banky pohledávku, která se v důsledku prodlení promlčela. Věřitelé namítají, že banka neposkytla součinnost řádně a včas. Důkazy: písemná žádost správce a doklad o jejím doručení, datum odpovědi banky, výpisy o pohybech a o promlčené pohledávce, vyčíslení škody.
+[8] **Intertemporalita.** Odstavec 3 vložený zákonem č. 64/2017 Sb. se podle jeho čl. II bodu 1 použil i v dříve zahájených řízeních, se zachováním již nastalých právních účinků. Naproti tomu čl. II bod 1 zákona č. 252/2024 Sb. obecně ponechal řízení zahájená před 1. 10. 2024 v dosavadním znění; u nich proto nelze nové zařazení zaměstnavatelů mechanicky použít.
 
-**2. Právní otázka.** Jaký je rozsah a lhůta povinné součinnosti banky podle § 43 a § 44 a odpovídá banka za škodu, neposkytne-li součinnost insolvenčnímu správci řádně a včas (§ 44 odst. 3)?
+### Judikatura
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 43 odst. 1 (okruh povinných osob a orgánů; součinnost „bez zbytečného odkladu"), odst. 2 (rozsah — údaje o majetku, vydání/zápůjčka listin, dálkový přístup, bezplatnost s náhradou hotových výdajů u soukromých subjektů); § 44 odst. 1 písm. c) (banky sdělí čísla účtů, stavy, pohyby, úschovy, vkladní knížky), odst. 2 (legitimace správce rozhodnutím soudu), odst. 3 (odpovědnost povinných za škodu při neposkytnutí součinnosti řádně a včas).
-- *Související ustanovení téhož zákona:* § 45 (mlčenlivost správce o získaných údajích), § 81 (pořádková pokuta při odmítnutí součinnosti), § 169 odst. 1 písm. d) (náklady znaleckého posudku exekutora jako pohledávka postavená na roveň), § 419 (insolvenční rejstřík — doložení ustanovení).
-- *Související předpisy:* § 38 zákona č. 21/1992 Sb. o bankách (bankovní tajemství — prolomené součinností); GDPR (čl. 6 odst. 1 písm. c) — zákonný titul zpracování).
-- *Judikatura:* k povaze povinností správce a důsledkům jejich neplnění srov. systémově NS 29 NSČR 9/2014 (citováno u § 37); k součinnosti se v komentáři neuvádí konkrétní nosné rozhodnutí — vychází se ze znění § 44 odst. 3.
-
-**4. Subsumpce.** Banka je osobou povinnou poskytnout součinnost (§ 43 odst. 1, § 44 odst. 1 písm. c) „bez zbytečného odkladu"; odpověď po čtyřech měsících tomuto požadavku neodpovídá → součinnost nebyla poskytnuta včas. Vznik škody (promlčená pohledávka, vyvedené prostředky) + porušení povinnosti součinnosti + příčinná souvislost → naplňují odpovědnost dle § 44 odst. 3. Sporné: zda by včasná odpověď reálně zabránila vyvedení/promlčení (kauzalita).
-
-**5. Řešení.** Banka odpovídá za škodu způsobenou neposkytnutím součinnosti řádně a včas (§ 44 odst. 3), prokáže-li se kauzalita; nárok mohou uplatnit poškození (věřitelé/dlužník, resp. podstata). Vůči otálející instituci lze (teoreticky) využít pořádkovou pokutu (§ 81). Správce je povinen získané údaje chránit mlčenlivostí (§ 45). Procesní krok: vyžadovat součinnost ihned po ustanovení, doložit legitimaci výpisem z rejstříku (§ 44 odst. 2, § 419) a doručení žádosti.
-
-**6. Varianty.** (a) Banka by poskytla dálkový přístup/odpověď bez zbytečného odkladu → odpovědnost dle § 44 odst. 3 nevzniká. (b) Šlo by o znalecký posudek od exekutora (§ 43 odst. 3) → jeho náklady jsou pohledávkou postavenou na roveň pohledávkám za podstatou (§ 169 odst. 1 písm. d), nebyly-li uhrazeny v exekuci.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Bankovní tajemství brání sdělení údajů o účtech." — Neutralizace: § 43–44 IZ jsou zvláštním zákonným prolomením bankovního tajemství (§ 38 ZoB) a zákonným titulem dle GDPR; banka je povinna součinnost poskytnout.
-- *Protiargument:* „Lhůta není výslovně stanovena, prodlení tedy není porušením." — Neutralizace: zákon vyžaduje součinnost „bez zbytečného odkladu"; nepřiměřené prodlení je porušením zakládajícím odpovědnost dle § 44 odst. 3.
-- *Slabé místo:* prokázání příčinné souvislosti mezi prodlením instituce a škodou je obtížné; pořádková pokuta (§ 81) je v praxi vzácně uplatňovaná a málo účinná páka.
-
-### H. Praktický závěr
-
-Vyjmenované orgány a osoby (banky, ČSSZ, katastr, pošta aj.) jsou povinny poskytnout správci součinnost bez zbytečného odkladu a bezplatně; za neposkytnutí součinnosti řádně a včas odpovídají za škodu (§ 44 odst. 3). Správce má součinnost vyžadovat ihned po ustanovení a získané údaje chránit mlčenlivostí (§ 45).
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Vyžádat součinnost písemně ihned po ustanovení a doložit legitimaci výpisem z insolvenčního rejstříku (§ 44 odst. 2, § 419).
-- [ ] Specifikovat rozsah (údaje o majetku, listiny, dálkový přístup) podle § 44 odst. 1.
-- [ ] Při prodlení/odmítnutí zvážit pořádkovou pokutu (§ 81) a uplatnění odpovědnosti za škodu (§ 44 odst. 3).
-- [ ] Chránit získané údaje mlčenlivostí (§ 45) a v souladu s GDPR.
-
-**Typicky rozhodné důkazy / podklady:** písemná žádost o součinnost a doklad o doručení, datum a obsah odpovědi povinné osoby, výpisy/údaje o majetku dlužníka, vyčíslení škody z prodlení.
+Do tohoto vydání není zařazeno žádné soudní rozhodnutí. V tomto kole nebyl opatřen plný text oficiálního rozhodnutí s nosným výkladem přímo k § 43; toto redakční vymezení není tvrzením, že taková judikatura neexistuje. Dřívější systémový odkaz na 29 NSČR 9/2014 byl odstraněn, protože nebyl doložen plným textem a nebyl představen jako nosný výklad komentovaného ustanovení.
 
 ---
 

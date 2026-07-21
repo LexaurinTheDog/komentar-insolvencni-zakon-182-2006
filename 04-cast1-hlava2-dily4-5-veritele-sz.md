@@ -1114,72 +1114,60 @@ Do tohoto vydání nebylo zařazeno rozhodnutí, jehož ověřený plný text by
 
 ## § 63 — Zánik funkce člena výboru
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Funkce člena nebo náhradníka věřitelského výboru zaniká jeho odvoláním z funkce, odstoupením z funkce nebo ukončením jeho účasti v insolvenčním řízení.
+>
 > (2) Jestliže účast věřitele v insolvenčním řízení skončí postupem podle § 18, přechází na nabyvatele jeho pohledávky i členství tohoto věřitele ve věřitelském výboru; to neplatí, nabylo-li tímto způsobem pohledávku dosavadního věřitele více osob.
+>
 > (3) Z důležitých důvodů, zejména při porušování nebo zanedbávání povinností, může insolvenční soud odvolat věřitelský výbor nebo některého z jeho členů a náhradníků. Může tak učinit i bez návrhu.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *ÚS* [II.ÚS 885/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-885-12_1) — usnesení, 31. 7. 2012
-  > „Ve smyslu ustanovení § 63 odst. 3 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), […] z důležitých důvodů, zejména při porušování nebo zanedbávání povinností, může insolvenční soud odvolat věřitelský výbor nebo některého z jeho členů a náhradníků. Může tak učinit i bez návrhu; podá-li však tento návrh schůze věřitelů, insolvenční soud mu vyhoví, je-li návrh v souladu se zákonem. Je zde třeba poukázat na to, že podnět k odvolání členů věřitelského výboru se nevyčerpává rozhodnutím o jednom takovém návrhu ze strany insolvenčního soudu. […] otázka odvolání členů věřitelského výboru může být u insolvenčního soudu kdykoli vznesena oprávněnými k tomu subjekty"
+§ 63 odděluje obecné důvody zániku funkce, zvláštní následek procesního nástupnictví jediného nabyvatele a soudní odvolání z důležitých důvodů. Přechod členství podle odstavce 2 není obecným následkem každého převodu pohledávky; váže se na skončení účasti dosavadního věřitele postupem podle § 18.
+
+### Souvisící ustanovení
+
+- **§ 18 a § 19** — rozhodnutí o vstupu nabyvatele do řízení a jeho procesní postavení.
+- **§ 57 odst. 1 až 3** — odvolání a volba členů nebo náhradníků schůzí věřitelů a soudní potvrzení.
+- **§ 59 a § 60** — způsobilost, povinnosti, odpovědnost a náklady členů a náhradníků.
+- **§ 64** — osoby oprávněné podat odvolání proti rozhodnutí podle § 63 odst. 3.
+- **§ 65 a § 66** — odstoupení, nástup náhradníka, doplňující nebo nová volba a dočasný výkon působnosti výboru soudem.
+- **§ 68 odst. 2** — obdobné použití § 63 na zástupce věřitelů.
+
+### Souvisící předpisy
+
+Pro vyložené otázky není třeba vedle insolvenčního zákona samostatného souvisícího předpisu; procesní následky upravují přímo § 18, § 19 a § 57 až 68 insolvenčního zákona.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva vysvětluje odstavec 2 snahou zachovat akceschopnost výboru a připouští, že členství může ovlivnit hodnotu postupované pohledávky. Přechod členství proto spojuje jen s jediným nabyvatelem. K odstavci 3 uvádí zachování oprávnění soudu odvolat výbor, člena nebo náhradníka a posílení role schůze věřitelů. Jde o zvláštní část vládního návrhu insolvenčního zákona, sněmovní tisk 1120/0, K § 63, číslovaná s. 172 (PDF s. 173).
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola; tento údaj není výsledkem negativní rešerše.
 
 ### Výklad
 
-**Tři způsoby zániku funkce:**
-- *odvolání* (soudem nebo schůzí),
-- *odstoupení* (jednostranný úkon),
-- *ukončení účasti v řízení* (typicky: pohledávka uspokojena, popřena s konečnou platností, věřitel zpětvzal přihlášku).
+[1] **Způsoby zániku.** Odstavec 1 vymezuje odvolání, odstoupení a ukončení účasti člena nebo náhradníka v insolvenčním řízení. Odvolání schůzí věřitelů se řídí § 57, soudní odvolání z důležitých důvodů odstavcem 3 a odstoupení § 65 odst. 1.
 
-**Přechod členství při převodu pohledávky (odst. 2)** — *automaticky* na nabyvatele. *Výjimka* — pokud pohledávka přejde na **více osob**, členství zaniká (nedělitelnost funkce).
+[2] **Procesní nástupnictví jako výjimka.** Skončí-li účast člena výboru postupem podle § 18, jeho funkce nezanikne podle obecného pravidla odstavce 1, nýbrž členství přejde na jediného nabyvatele pohledávky. Procesní účinky vstupu nastávají podle § 19 dnem právní moci rozhodnutí podle § 18; teprve k tomuto procesnímu nástupnictví § 63 odst. 2 připojuje přechod členství.
 
-**Odvolání soudem (odst. 3)** — *z důležitých důvodů*, typicky:
-- porušování nebo zanedbávání povinností,
-- ztráta důvěryhodnosti,
-- objektivní neschopnost vykonávat funkci.
+[3] **Více nabyvatelů.** Nabylo-li pohledávku postupem podle § 18 více osob, členství na ně nepřechází. Následné personální doplnění výboru se posuzuje podle § 65 a při poklesu počtu členů také podle § 66; § 63 odst. 2 sám neurčuje nového člena.
 
-**Iniciativa**: i *bez návrhu* — soud z úřední povinnosti.
+[4] **Důležitý důvod.** Odstavec 3 obsahuje otevřený standard a jako výslovné příklady uvádí porušování nebo zanedbávání povinností. Zda je důvod natolik závažný, aby odůvodnil odvolání celého výboru, člena nebo náhradníka, musí soud posoudit podle zjištěných okolností; zákonný text neopravňuje vytvářet další automatické kategorie.
 
-### Vazby
+[5] **Řízení bez návrhu.** Insolvenční soud může podle odstavce 3 jednat i bez návrhu. To je třeba odlišit od personální pravomoci schůze věřitelů podle § 57; oba mechanismy mají odlišný zákonný základ. Opravné prostředky proti rozhodnutí soudu upravuje § 64.
 
-- **§ 18, § 19** — vstup nabyvatele pohledávky.
-- **§ 64** — odvolání proti rozhodnutí o odvolání člena.
-- **§ 65** — odstoupení a doplňující volba.
+[6] **Následky zániku.** Zánik funkce sám neurčuje, kdo bude funkci dále vykonávat. Podle § 65 odst. 2 nastupuje na místo člena jeho náhradník a soud svolá schůzi k nové nebo doplňující volbě, jsou-li splněny tam uvedené podmínky; § 66 řeší dočasný výkon působnosti soudem při stanoveném poklesu počtu členů.
 
-### F. Kazuistika
+[7] **Intertemporalita.** Znění § 63 účinné k 19. 7. 2026 odpovídá původně vyhlášenému textu. Při použití starší judikatury je přesto nutné ověřit tehdejší znění souvisejících ustanovení a procesní kontext; samotná textová stabilita § 63 takovou kontrolu nenahrazuje.
 
-**1. Modelová situace.** Člen věřitelského výboru (banka A) postoupí celou svou přihlášenou pohledávku jediné třetí osobě (fond B). Současně jiný člen výboru dlouhodobě ignoruje jednání, nereaguje na výzvy předsedy a blokuje schvalování úkonů správce. Insolvenční soud zvažuje odvolání tohoto nečinného člena i bez návrhu. Důkazně rozhodné jsou smlouva o postoupení a vstup nabyvatele dle § 18, jakož i protokoly o (ne)účasti člena.
+### Judikatura
 
-**2. Právní otázka.** Přechází členství ve výboru na nabyvatele pohledávky a může soud odvolat nečinného člena i bez návrhu?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 63 odst. 1 (zánik funkce odvoláním, odstoupením nebo ukončením účasti v řízení), odst. 2 (skončí-li účast věřitele postupem dle § 18, přechází na nabyvatele i členství; neplatí, nabylo-li pohledávku více osob), odst. 3 (z důležitých důvodů, zejm. porušování/zanedbávání povinností, může soud odvolat výbor či člena i bez návrhu).
-- *Související ustanovení téhož zákona:* § 18, § 19 (vstup nabyvatele pohledávky), § 64 (odvolání proti rozhodnutí o odvolání), § 65 (doplňující volba), § 60 (povinnosti členů).
-- *Související předpisy:* —.
-- *Judikatura:* ÚS II.ÚS 885/12 (citováno výše) — dle § 63 odst. 3 může soud odvolat výbor/člena i bez návrhu; podá-li návrh schůze, soud mu vyhoví, je-li v souladu se zákonem; otázku odvolání lze u soudu kdykoli vznést.
-
-**4. Subsumpce.** Banka A postoupila pohledávku jediné osobě (fond B) — členství tedy přechází na B (odst. 2), neboť nejde o nabytí více osobami. U nečinného člena jsou dány „důležité důvody" (zanedbávání povinností, blokace činnosti) ve smyslu odst. 3; soud může jednat i bez návrhu.
-
-**5. Řešení.** Členství A ve výboru přejde na fond B automaticky (B vstupuje do řízení dle § 18 a stává se členem). Nečinného člena soud může odvolat i bez návrhu pro zanedbávání povinností (odst. 3); dle ÚS lze otázku odvolání vznést kdykoli a opakovaně. Procesní krok: doložit soudu vstup nabyvatele a podklady o nečinnosti člena (případně podnět schůze dle ÚS).
-
-**6. Varianty.** (a) Kdyby A postoupila pohledávku více osobám současně, členství by na ně nepřešlo a zaniklo by (odst. 2 in fine) — nastoupil by náhradník či doplňující volba (§ 65). (b) Kdyby člen jen jednou chyběl bez vážnějšího dopadu, „důležitý důvod" k odvolání by zpravidla dán nebyl.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument 1:* „Členství ve výboru je osobní funkce, nemůže přejít na nabyvatele pohledávky." Neutralizace: odst. 2 výslovně stanoví přechod členství na nabyvatele při ukončení účasti dle § 18 (s výjimkou nabytí více osobami).
-- *Protiargument 2:* „Soud nemůže odvolat člena bez návrhu schůze." Neutralizace: odst. 3 a ÚS II.ÚS 885/12 jednoznačně připouštějí odvolání i bez návrhu; návrh schůze je jen jednou z cest.
-- *Slabé místo:* „důležité důvody" jsou hodnotící; je třeba doložit soustavnost porušování/zanedbávání, nikoli ojedinělý exces.
-
-### H. Praktický závěr
-
-Funkce člena zaniká odvoláním, odstoupením nebo ukončením účasti v řízení. Při postoupení pohledávky jedné osobě přechází i členství; při více nabyvatelích zaniká. Soud může z důležitých důvodů (zejm. zanedbávání povinností) odvolat výbor/člena i bez návrhu.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Z jakého důvodu funkce zanikla (odvolání / odstoupení / ukončení účasti)?
-- [ ] Přešla pohledávka na jednu osobu (členství přechází), nebo na více osob (členství zaniká)?
-- [ ] Jsou u návrhu na odvolání dány důležité důvody (zejm. porušování/zanedbávání povinností)?
-- [ ] Je řešeno doplnění výboru (náhradník, doplňující volba dle § 65)?
-
-**Typicky rozhodné důkazy / podklady:** smlouva o postoupení pohledávky a doklad o vstupu nabyvatele (§ 18), protokoly o (ne)účasti a činnosti člena, podnět/návrh na odvolání, případné usnesení schůze.
+Do tohoto vydání nebylo zařazeno rozhodnutí, jehož fyzicky zachycený plný text z oficiálního webu by byl znovu otevřen a ověřen v požadovaném skutkovém, procesním a intertemporálním rozsahu. Kandidátní výtah z usnesení Ústavního soudu sp. zn. II. ÚS 885/12 proto nebyl použit jako pramen. Toto redakční omezení není tvrzením, že relevantní judikatura neexistuje, ani negativní rešerší odborné literatury.
 
 ---
 

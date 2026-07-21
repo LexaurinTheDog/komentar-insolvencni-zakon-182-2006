@@ -217,68 +217,64 @@ Do tohoto kola nebylo zařazeno rozhodnutí, jehož plný text by byl z oficiál
 
 ## § 49 — Hlasovací právo: základní pravidlo
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Nestanoví-li tento zákon jinak, vyžaduje se k platnosti usnesení schůze věřitelů prostá většina hlasů přítomných nebo řádně zastoupených věřitelů, počítaná podle výše jejich pohledávek; přitom platí, že na každou 1 Kč pohledávky připadá jeden hlas.
 > (2) Náleží-li pohledávka více osobám, musí se dohodnout, kdo bude vykonávat práva s ní spojená. Nedohodnou-li se, vykonávají tato práva jen ohledně svého dílu pohledávky; pro tyto účely platí, že každé z těchto osob náleží stejný díl pohledávky. Ustanovení občanského zákoníku o spoluvlastnictví se použijí obdobně.
 
-### Výklad — **KLÍČOVÝ PARAGRAF**
+### Přehled výkladu
 
-**Princip: 1 Kč = 1 hlas.** Tedy *value voting*, nikoli *one creditor one vote*. Důsledek — **velcí věřitelé dominují**. Drobní věřitelé (např. mzdové pohledávky 50 000 Kč) mají proti bance s pohledávkou 500 mil. Kč matematicky nulový vliv.
+§ 49 stanoví výchozí způsob přijetí usnesení schůze věřitelů: rozhoduje prostá většina hlasů přítomných nebo řádně zastoupených věřitelů a váha hlasu odpovídá výši pohledávky, jeden hlas za každou 1 Kč. Toto pravidlo ustupuje každému zvláštnímu pravidlu insolvenčního zákona. Náleží-li jedna pohledávka více osobám, zákon přednostně vyžaduje jejich dohodu o tom, kdo bude vykonávat spojená práva; bez dohody vykonává každá práva jen ohledně svého dílu a pro tento účel se díly považují za stejné.
 
-#### Kvórum
-- *implicitní* — žádný explicitní minimální počet věřitelů. Stačí, aby byl alespoň jeden přítomen.
-- **většina:** *prostá většina podle výše* přítomných / řádně zastoupených věřitelů.
+### Souvisící ustanovení
 
-> *Důsledek:* dominantní věřitel může reálně určit výsledek hlasování. To je systémový rys insolvenčního práva ve většině jurisdikcí (US Chapter 11, něm. InsO atd.). Sociální korektury jsou:
-> - kvalifikované kvórum pro některé úkony (např. odvolání správce — § 29: 50 % všech přihlášených, ne přítomných),
-> - hlasování v třídách u reorganizace (§ 337 — každá třída zvlášť),
-> - zákaz hlasování spřízněných osob (§ 53).
+- § 29 odst. 1 a § 46 odst. 2 — zvláštní většiny pro odvolání a ustanovení správce a pro vyhrazení působnosti jiného věřitelského orgánu,
+- § 50 až 53 — způsob hlasování, určení hlasovacího práva a případy, kdy věřitel hlasovat nesmí,
+- § 54 a 55 — soudní kontrola usnesení schůze a opravný režim,
+- § 57 odst. 2 — oddělená volba a odvolání členů výboru navržených zajištěnými a nezajištěnými věřiteli,
+- § 337 až 348 — skupiny věřitelů a hlasování o reorganizačním plánu,
+- § 399 až 402 — zvláštní režim projednání a hlasování o způsobu oddlužení.
 
-#### Spoluvlastníci pohledávky (odst. 2)
-- *primárně*: dohodou určí, kdo hlasuje za celou pohledávku,
-- *bez dohody*: hlasuje každý jen za **svůj díl** (stejné díly).
+### Souvisící předpisy
 
-### Vazby
+- zákon č. 89/2012 Sb., občanský zákoník — ustanovení o spoluvlastnictví, jejichž obdobné použití § 49 odst. 2 výslovně předepisuje.
 
-- **§ 50** — způsob hlasování (osobně/písemně).
-- **§ 51** — popřené pohledávky.
-- **§ 53** — zákaz hlasování spřízněných.
-- **§ 337** — hlasování v třídách u reorganizace.
+### Z důvodové zprávy
 
-### F. Kazuistika
+Vládní návrh insolvenčního zákona označil § 49 za základní ustanovení o hlasovacím právu. U odstavce 2 vysvětlil, že při společné peněžité pohledávce uplatňované více věřiteli by započtení celé nominální hodnoty každému z nich zkreslilo výsledek hlasování. Tato pasáž objasňuje účel pravidla proti vícenásobnému započtení téže hodnoty; při použití je však rozhodný přijatý text § 49 odst. 2, který obecně mluví o pohledávce náležející více osobám.
 
-**1. Modelová situace.** Na schůzi věřitelů se rozhoduje o personálním obsazení věřitelského výboru. Přítomna je banka s přihlášenou pohledávkou 480 mil. Kč a dvanáct nezajištěných obchodních věřitelů s pohledávkami v součtu 20 mil. Kč. Jedna pohledávka ve výši 6 mil. Kč náleží společně dvěma osobám (dědicům), které se nedohodly, kdo bude hlasovat. Důkazně rozhodný je seznam přihlášených pohledávek a doklad o spoluvěřitelství (dědické rozhodnutí).
+### Literatura
 
-**2. Právní otázka.** Jak se vypočte většina při hlasování podle výše pohledávek a jak hlasují spoluvěřitelé jedné pohledávky, kteří se nedohodli na společném výkonu práva?
+Odborná literatura je rozhodnutím editora odložena do druhého kola; nejde o negativní rešerši.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 49 odst. 1 (prostá většina podle výše pohledávek přítomných/zastoupených, 1 Kč = 1 hlas) a odst. 2 (spoluvěřitelé — dohoda, jinak hlasování po dílech, obdobné použití úpravy spoluvlastnictví).
-- *Související ustanovení téhož zákona:* § 50 (způsob hlasování), § 51 (hlasovací právo popřených/sporných), § 53 (zákaz hlasování spřízněných — nestartuje zde, ale ovlivňuje základ), § 337 (třídy v reorganizaci).
-- *Související předpisy:* § 1872 a násl. OZ (solidarita věřitelů), úprava spoluvlastnictví v OZ (§ 1115 a násl.) použitá obdobně.
-- *Judikatura:* obecně přijímané, že systém „value voting" je ústavně konformním rysem insolvenčního práva, korigovaným kvalifikovanými kvóry a zákazem hlasování spřízněných.
+### Výklad
 
-**4. Subsumpce.** Banka disponuje 480 mil. hlasů, nezajištění dohromady 20 mil. (z toho sporných 6 mil. spoluvěřitelské pohledávky). Prostá většina = nadpoloviční většina přítomných hlasů podle výše. Spoluvěřitelé bez dohody hlasují každý jen za svůj díl (3 mil. + 3 mil.) a mohou hlasovat odlišně.
+[1] **Výchozí, nikoli univerzální pravidlo.** Slova „nestanoví-li tento zákon jinak“ znamenají, že § 49 odst. 1 se použije až po ověření, zda ustanovení upravující konkrétní rozhodnutí nestanoví jinou většinu, jiný okruh hlasujících nebo skupinové hlasování. Příklady zvláštních pravidel obsahují § 29 odst. 1, § 46 odst. 2, § 57 odst. 2 a úprava reorganizace a oddlužení.
 
-**5. Řešení.** Banka má matematickou většinu a fakticky určí výsledek volby. To je v souladu se zákonem; korektivem je oddělená volba zástupců nezajištěných (§ 57 odst. 2) — banka nemůže přehlasovat nominace nezajištěných do jejich kvóty. Spoluvěřitelé bez dohody se „rozdělí" po 3 mil.; pokud jeden hlasuje pro a druhý proti, započtou se obě poloviny do příslušných táborů. Procesní krok: prokázat spoluvěřitelství a absenci dohody.
+[2] **Prostá většina.** Pro obecné usnesení se porovnává počet hlasů pro návrh s hlasovým základem přítomných nebo řádně zastoupených věřitelů. Nejde o většinu osob: každá 1 Kč pohledávky představuje jeden hlas. Samotný § 49 nestanoví zvláštní minimální počet přítomných věřitelů, ale z toho nelze dovozovat usnášeníschopnost pro věc, pro kterou zákon stanoví zvláštní podmínky.
 
-**6. Varianty.** (a) Kdyby se dědici dohodli, kdo vykonává práva, hlasovala by celá pohledávka 6 mil. jednotně. (b) Kdyby šlo o reorganizaci s hlasováním v třídách (§ 337), drobní nezajištění by ve své třídě měli reálný vliv, protože banka by hlasovala ve své vlastní (zajištěné) třídě.
+[3] **Určení hlasového základu.** Do výpočtu nelze mechanicky převzít každou přihlášenou částku. § 51 a § 52 upravují hlasovací právo u popřených, nezjištěných nebo sporných pohledávek a § 53 odst. 6 výslovně přikazuje při určení potřebné většiny nepřihlížet k hlasům věřitele, který nesmí hlasovat. Nejprve se proto určí, kdo a v jakém rozsahu hlasovací právo má, a teprve poté se použije váha podle § 49 odst. 1.
 
-### G. Protiargumenty a rizika
+[4] **Řádné zastoupení a písemný hlas.** § 49 zahrnuje hlasy přítomných a řádně zastoupených věřitelů. Samostatný § 50 stanoví, kdo na schůzi hlasuje a za jakých náležitostí se přihlédne k písemnému hlasovacímu lístku. § 49 sám neřeší formu plné moci ani náležitosti a včasnost hlasovacího lístku.
 
-- *Protiargument 1:* „Drobní věřitelé jsou systémem znevýhodněni, což porušuje rovnost." Neutralizace: rovnost v insolvenci znamená poměrné uspokojení, nikoli rovnou váhu hlasů; korekce zajišťují § 53, § 57, § 337 a § 54.
-- *Protiargument 2:* „Spoluvěřitelská pohledávka by se měla počítat jako celek pro jeden hlas." Neutralizace: bez dohody zákon výslovně dělí hlasování na díly (odst. 2), takže celistvý hlas nelze vynutit.
-- *Slabé místo:* určení „výše pohledávky" pro hlasování může být sporné u pohledávek s příslušenstvím nebo zčásti popřených — nutno provázat s § 51 a § 52.
+[5] **Pohledávka náležející více osobám.** Dohodnou-li se oprávněné osoby, určí, kdo bude vykonávat práva spojená s pohledávkou. Bez dohody vykonává každá tato práva jen ohledně svého dílu. Domněnku stejných dílů zákon váže slovy „pro tyto účely“ na výkon práv podle § 49 odst. 2; sama proto neurčuje skutečné majetkové podíly pro jiné právní vztahy.
 
-### H. Praktický závěr
+[6] **Ochrana před vícenásobným započtením.** Součet hlasů odvozených od jediné pohledávky náležející více osobám nemá být znásoben tím, že by každá z nich hlasovala celou nominální hodnotou. To odpovídá výslovnému dělení výkonu práv podle dílů a legislativnímu účelu popsanému v původní důvodové zprávě.
 
-Klíčové pravidlo: 1 Kč = 1 hlas; rozhoduje prostá většina přítomných podle výše pohledávek. Velcí věřitelé dominují, korekce poskytují kvalifikovaná kvóra, oddělené volby skupin, zákaz hlasování spřízněných a soudní zrušení usnesení. Spoluvěřitelé bez dohody hlasují po dílech.
+[7] **Intertemporalita.** Základní pravidlo § 49 je nutné vždy spojit se zněním zvláštního ustanovení účinným pro posuzované hlasování. Pozdější novely měnily mimo jiné zvláštní většiny a rozsah hlasovacího práva v navazujících ustanoveních. Dnešní podobu těchto zvláštních pravidel proto nelze bez kontroly přechodných ustanovení použít na dřívější schůzi.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Je správně určena výše přihlášené pohledávky každého hlasujícího (základ hlasů)?
-- [ ] Jde o prostou většinu, nebo zákon u dané věci vyžaduje kvalifikované kvórum?
-- [ ] U spoluvěřitelské pohledávky — existuje dohoda o výkonu práv, nebo se hlasuje po dílech?
-- [ ] Nejsou ve hře hlasy, k nimž se nepřihlíží (§ 53), jež by měnily základ pro většinu?
+### Praktický checklist
 
-**Typicky rozhodné důkazy / podklady:** seznam přihlášených pohledávek s výší, listina přítomných, doklady o spoluvěřitelství a případné dohodě, podklady o popření/zjištění pro určení výše.
+- [ ] Určit konkrétní předmět hlasování a ověřit, zda pro něj zákon nestanoví zvláštní většinu nebo skupinu.
+- [ ] Ověřit u každého věřitele existenci a rozsah hlasovacího práva podle § 50 až 53.
+- [ ] Z hlasového základu vyloučit hlasy, k nimž se podle zákona nepřihlíží.
+- [ ] U pohledávky náležející více osobám doložit dohodu o výkonu práv; bez ní počítat výkon jen podle dílů ve smyslu § 49 odst. 2.
+
+### Judikatura
+
+Do tohoto kola nebylo zařazeno rozhodnutí, jehož plný text by byl z oficiálního soudního zdroje ověřen jako nezbytná a přesně lokalizovaná opora pro další materiální závěr k § 49. Jde o redakční vymezení tohoto kola, nikoli o tvrzení, že relevantní judikatura neexistuje.
 
 ---
 

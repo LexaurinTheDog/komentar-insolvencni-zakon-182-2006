@@ -1361,52 +1361,56 @@ Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita. Jde o
 
 ## § 67 — Účast odborové organizace ve výboru
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Má-li dlužník zaměstnance, má právo zúčastnit se jednání věřitelského výboru nebo prozatímního věřitelského výboru s hlasem poradním také odborová organizace, která u dlužníka působí. Působí-li u dlužníka vedle sebe více odborových organizací, má toto právo odborová organizace s největším počtem členů nebo sdružení odborových organizací s největším počtem členů, nedohodnou-li se odborové organizace působící u dlužníka jinak.
+
+### Přehled výkladu
+
+§ 67 přiznává při souběhu dvou podmínek — dlužník má zaměstnance a působí u něj odborová organizace — této organizaci právo účastnit se jednání věřitelského nebo prozatímního věřitelského výboru s poradním hlasem. Při pluralitě odborových organizací má přednost jejich dohoda; bez ní zákon určuje oprávněnou organizaci nebo sdružení podle největšího počtu členů. Poradní hlas nezakládá postavení člena výboru ani hlasovací právo.
+
+### Souvisící ustanovení
+
+- § 20 odst. 2 — zastoupení zaměstnance dlužníka odborovou organizací v insolvenčním řízení a incidenčních sporech,
+- § 47 odst. 2 — účast odborové organizace na schůzi věřitelů,
+- § 56 až 58 — ustanovení, složení, působnost a jednání věřitelského výboru,
+- § 61 a 62 — prozatímní věřitelský výbor.
+
+### Souvisící předpisy
+
+- zákon č. 262/2006 Sb., zákoník práce, zejména § 286 — působení odborových organizací u zaměstnavatele a pravidla při jejich pluralitě. § 67 insolvenčního zákona však sám určuje, která z více organizací vykoná právě právo účasti ve výboru.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona (sněmovní tisk 1120/0, zvláštní část k § 67, číslovaná s. 173, PDF s. 174) spojoval poradní účast s postavením odborů při ochraně práv zaměstnanců a výslovně uváděl, že právo jediné u dlužníka působící organizace nezávisí na počtu zaměstnanců, kteří jsou jejími členy. Tuto větu nelze přenést na výběr mezi více organizacemi, pro který účinný text stanoví samostatné pravidlo podle počtu členů, není-li dosaženo jiné dohody. Vládní návrh navíc pro případ plurality obsahoval odlišnou formulaci o dohodnutém zástupci; rozhodující je proto vyhlášené a aktuální znění zákona, nikoli návrhový text.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola; nejde o negativní rešerši ani o tvrzení, že k § 67 neexistuje.
 
 ### Výklad
 
-**Hlas poradní** odborové organizace — má právo se účastnit jednání výboru, vyjadřovat se, ale **nehlasovat**. Smysl — zájmy zaměstnanců (typicky o pokračování provozu, prodej podniku jako going concern, zachování pracovních míst).
+[1] **Podmínky práva účasti.** Právo vzniká jen tehdy, má-li dlužník zaměstnance a současně u něj působí odborová organizace. Ustanovení nečiní z odborové organizace člena věřitelského výboru; zakládá jí zvláštní účast na jeho jednání.
 
-### Vazby
+[2] **Rozsah účasti.** Zákon výslovně přiznává hlas poradní. Podle redakčního výkladu založeného na odlišení členství a hlasování výboru v § 56 až 58 může oprávněná odborová organizace při jednání prezentovat stanovisko, avšak její hlas se nezapočítává při rozhodování výboru. § 67 sám neupravuje svolávání jednání, pořizování zápisu ani sankci za neumožnění účasti.
 
-- **§ 47 odst. 2** — analogie pro schůzi věřitelů.
-- **§ 20 odst. 2** — odborové zastoupení zaměstnanců v incidenčním sporu.
+[3] **Věřitelský a prozatímní výbor.** Právo se vztahuje výslovně na jednání obou uvedených orgánů. Účast na schůzi věřitelů má samostatný právní základ v § 47 odst. 2; nejde o analogii § 67.
 
-### F. Kazuistika
+[4] **Jediná organizace.** Působí-li u dlužníka jediná odborová organizace, počet jejích členů není podle textu § 67 podmínkou vzniku práva. Musí však být splněna samostatná podmínka, že dlužník má zaměstnance.
 
-**1. Modelová situace.** U dlužníka (výrobní podnik se 120 zaměstnanci) působí dvě odborové organizace — větší ZO (90 členů) a menší ZO (30 členů). Věřitelský výbor projednává prodej závodu jako going concern, který by zachoval pracovní místa, versus rozprodej po částech s propouštěním. Větší ZO se chce účastnit jednání výboru a vyjádřit se. Důkazně rozhodné jsou doklady o působení a počtu členů obou ZO a pozvánka na jednání výboru.
+[5] **Více odborových organizací.** Dohodnou-li se organizace působící u dlužníka jinak, jejich dohoda má podle závěrečné části ustanovení přednost. Není-li taková dohoda, vykoná právo organizace s největším počtem členů nebo sdružení odborových organizací s největším počtem členů. Text nepřiznává bez dohody souběžné zákonné právo účasti všem organizacím.
 
-**2. Právní otázka.** Která odborová organizace má právo účastnit se jednání věřitelského výboru a v jakém rozsahu (hlasování × poradní hlas)?
+[6] **Zjištění oprávněné organizace.** Tvrdí-li právo více organizací, je nutné odděleně zjistit jejich působení u dlužníka, existenci případné dohody a — není-li dohoda — údaje potřebné k použití zákonného kritéria počtu členů. § 67 nestanoví zvláštní dokazovací postup ani rozhodný den; kategorické procesní pravidlo nelze bez další opory doplnit výkladem.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 67 (má-li dlužník zaměstnance, právo účastnit se jednání výboru/prozatímního výboru s hlasem poradním má odborová organizace u dlužníka působící; při více organizacích ta s největším počtem členů, nedohodnou-li se jinak).
-- *Související ustanovení téhož zákona:* § 47 odst. 2 (obdoba pro schůzi věřitelů), § 20 odst. 2 (odborové zastoupení v incidenčním sporu), § 58 (jednání výboru).
-- *Související předpisy:* zákoník práce (postavení odborové organizace u zaměstnavatele).
-- *Judikatura:* —.
+[7] **Ochranný účel a jeho mez.** Důvodová zpráva vysvětluje úpravu ochranou práv zaměstnanců. Tento účel podporuje možnost odborové organizace sdělit výboru stanovisko, nemění však poradní hlas na hlas rozhodovací a nemůže obejít pravidlo pro pluralitu organizací.
 
-**4. Subsumpce.** Dlužník má zaměstnance — vzniká právo účasti odborové organizace (znak naplněn). Působí-li více organizací, právo náleží té s největším počtem členů (zde větší ZO s 90 členy), nedohodnou-li se jinak. Účast je s hlasem poradním — organizace se může vyjadřovat, ale nehlasuje.
+[8] **Intertemporalita.** Návrhové znění sněmovního tisku 1120/0 se v řešení plurality lišilo od vyhlášeného a dnešního textu. Pro právní posouzení je nutné použít znění účinné v rozhodné době; důvodová zpráva slouží jen jako interpretační podklad v mezích textu zákona.
 
-**5. Řešení.** Větší ZO (90 členů) má právo účastnit se jednání výboru s poradním hlasem a vyjádřit se k otázce going concern vs. rozprodej. Hlasovat nemůže; její stanovisko je poradní. Menší ZO toto právo nemá, ledaže se obě dohodnou jinak. Procesní krok: předseda výboru zve na jednání nejsilnější ZO a umožní jí vyjádření; její stanovisko zaznamená do protokolu.
+### Judikatura
 
-**6. Varianty.** (a) Kdyby se obě ZO dohodly, že právo účasti vykoná menší ZO (nebo jejich sdružení), nastoupila by tato dohodnutá organizace. (b) Kdyby dlužník neměl žádné zaměstnance, právo účasti odborové organizace by vůbec nevzniklo.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument 1:* „Odborová organizace by měla mít při rozhodování o osudu podniku hlasovací právo." Neutralizace: § 67 přiznává výslovně jen hlas poradní; hlasovací právo mají věřitelé podle výše pohledávek (§ 49), nikoli zaměstnanci.
-- *Protiargument 2:* „Účastnit se mohou všechny odborové organizace u dlužníka." Neutralizace: zákon přiznává právo jen organizaci s největším počtem členů (resp. dohodnuté), nikoli všem současně.
-- *Slabé místo:* určení „největšího počtu členů" může být sporné (kolísavé členství); rozhodný je doložitelný stav, případně dohoda organizací.
-
-### H. Praktický závěr
-
-Má-li dlužník zaměstnance, má nejsilnější odborová organizace (nebo dohodnutá) právo účastnit se jednání věřitelského výboru s hlasem poradním — vyjadřuje zájmy zaměstnanců (pokračování provozu, going concern), ale nehlasuje.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Má dlužník zaměstnance (podmínka vzniku práva účasti odborové organizace)?
-- [ ] Působí u dlužníka více organizací — která má největší počet členů (nebo existuje dohoda)?
-- [ ] Je organizaci umožněna účast na jednání výboru s hlasem poradním (bez hlasování)?
-- [ ] Je stanovisko odborové organizace zaznamenáno (protokol jednání výboru)?
-
-**Typicky rozhodné důkazy / podklady:** doklady o působení a počtu členů jednotlivých odborových organizací, případná dohoda organizací, pozvánka a protokol z jednání výboru.
+Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k výkladu § 67. Jde o redakční omezení na plnotextově ověřené primární prameny, nikoli o negativní rešerši nebo závěr, že relevantní judikatura neexistuje.
 
 ---
 

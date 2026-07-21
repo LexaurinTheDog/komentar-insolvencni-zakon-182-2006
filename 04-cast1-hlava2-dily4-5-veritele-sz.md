@@ -81,81 +81,70 @@ V tomto kole není zařazeno rozhodnutí, jehož plný text by poskytoval nezbyt
 
 ## § 47 — Schůze věřitelů: svolávání
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Schůzi věřitelů svolává a řídí insolvenční soud. Svolá ji z vlastní iniciativy, nebo na návrh insolvenčního správce, věřitelského výboru anebo, není-li způsobem řešení úpadku oddlužení, alespoň 2 věřitelů, jejichž pohledávky počítané podle výše (§ 49 odst. 1) činí alespoň desetinu přihlášených pohledávek; je-li způsobem řešení úpadku oddlužení, svolá ji na návrh nadpoloviční většiny všech věřitelů, jejichž pohledávky počítané podle výše (§ 49 odst. 1) činí zároveň nadpoloviční většinu přihlášených pohledávek. Insolvenční soud svolá schůzi věřitelů tak, aby se konala do 30 dnů poté, co byl o její svolání požádán, není-li navržen pozdější termín konání.
 > (2) Právo zúčastnit se schůze věřitelů mají přihlášení věřitelé, dlužník, insolvenční správce a státní zastupitelství, pokud se účastní insolvenčního řízení. Má-li dlužník zaměstnance, má právo zúčastnit se schůze věřitelů také odborová organizace, která u dlužníka působí. Působí-li u dlužníka vedle sebe více odborových organizací, má toto právo odborová organizace s největším počtem členů nebo sdružení odborových organizací s největším počtem členů, nedohodnou-li se odborové organizace působící u dlužníka jinak.
 
+### Přehled výkladu
+
+Ustanovení svěřuje svolání i řízení schůze výlučně insolvenčnímu soudu. Rozlišuje svolání z vlastní iniciativy a svolání na návrh; u věřitelského návrhu stanoví rozdílné kvórum podle toho, zda je způsobem řešení úpadku oddlužení. Od práva schůzi navrhnout je třeba oddělit právo účasti podle odstavce 2 a od něj zase hlasovací právo podle § 49 až 53.
+
+### Souvisící ustanovení
+
+- § 46 — postavení schůze mezi věřitelskými orgány,
+- § 48 — vyhláška, místo, termín a předmět jednání,
+- § 49 až 53 — počítání hlasů a hlasovací právo,
+- § 61 odst. 2 a § 66 — svolání nové schůze k ustanovení věřitelského výboru,
+- § 69 — účast státního zastupitelství,
+- § 136 odst. 2 písm. f) a i), § 137 — první schůze po rozhodnutí o úpadku a odlišnost oddlužení,
+- § 399 — zvláštní schůze a osobní účast dlužníka a správce při projednání způsobu oddlužení.
+
+### Souvisící předpisy
+
+- zákon č. 64/2017 Sb., čl. I bod 17 — zavedení zvláštního kvóra pro svolání schůze v oddlužení; čl. II bod 1 — přechodné pravidlo; čl. VII — účinnost od 1. 7. 2017.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona (sněmovní tisk 1120/0, zvláštní část k § 47, číslovaná s. 168) spojil návrhové oprávnění správce, věřitelského výboru nebo kvalifikovaných věřitelů s povinností soudu schůzi svolat ve stanovené lhůtě; odstavec 2 měl samostatně formulovat právo účasti včetně odborové organizace. Vládní návrh pozdější novely (sněmovní tisk 785/0, návrhový bod 12 a obecná část na číslovaných s. 8–9) odůvodnil zvláštní režim oddlužení nízkou angažovaností věřitelů, náklady schůzí a procesní ekonomií. Nejde o negativní rešerši dalších legislativních materiálů.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola; nejde o tvrzení, že k § 47 neexistuje.
+
 ### Výklad
 
-**Schůzi svolává a řídí soud.** To je významné — schůze není „věřitelská" v tom smyslu, že by si ji věřitelé organizovali sami. Soud má kontrolu nad termínem, místem, agendou.
+[1] **Svolání a řízení.** Schůzi svolává a řídí insolvenční soud. Správce, věřitelský výbor a věřitelé splňující zákonné kvórum mají návrhové oprávnění, nikoli oprávnění schůzi sami svolat nebo řídit. Soud může schůzi svolat také bez návrhu.
 
-#### Kdo může navrhnout svolání:
-- **insolvenční soud** *ex offo*,
-- **insolvenční správce**,
-- **věřitelský výbor**,
-- **kvalifikovaná menšina věřitelů**:
-  - *konkurs/reorganizace*: nejméně **2 věřitelé** s ≥ **10 %** přihlášených pohledávek,
-  - *oddlužení*: **nadpoloviční většina věřitelů** + **nadpoloviční většina pohledávek** (dvojí test — vyšší laťka).
+[2] **Kvórum mimo oddlužení.** Není-li způsobem řešení úpadku oddlužení, musí návrh podat alespoň dva věřitelé a jejich pohledávky, počítané způsobem podle § 49 odst. 1, musí činit alespoň jednu desetinu přihlášených pohledávek. Jde o současné splnění osobního i hodnotového prahu.
 
-#### Lhůta pro svolání
+[3] **Kvórum v oddlužení.** Je-li způsobem řešení úpadku oddlužení, návrh musí podat nadpoloviční většina všech věřitelů a jejich pohledávky musí současně představovat nadpoloviční většinu přihlášených pohledávek. Text § 47 zde pracuje se všemi věřiteli; zvláštní § 399 odst. 1 naproti tomu upravuje schůzi k projednání způsobu oddlužení a výslovně vychází z nezajištěných přihlášených pohledávek.
 
-**30 dnů** od žádosti (nebo pozdější termín, je-li navržen). Soud nemůže žádost ignorovat — je vázán svolat. *Sankce* za nesvolání: stížnost na předsedu soudu, ústavní stížnost.
+[4] **Rozhodná výše pohledávek.** Odkaz na § 49 odst. 1 znamená počítání podle výše pohledávek, tedy jeden hlas na jednu korunu, nestanoví-li zákon jinak. § 47 sám neřeší spory o hlasovací právo; ty upravují zejména § 51 a 52.
 
-#### Účastníci schůze
+[5] **Lhůta.** Je-li soud o svolání oprávněnou osobou řádně požádán, musí schůzi svolat tak, aby se konala do 30 dnů od žádosti. Pozdější termín připouští poslední věta odstavce 1, je-li navržen. U návrhu je proto podstatné datum jeho doručení, splnění kvóra a formulace navrženého termínu; § 47 sám neupravuje zvláštní sankci za překročení lhůty.
 
-**Aktivně účastní:**
-- přihlášení věřitelé (samozřejmě),
-- *dlužník* (i nepřihlášený — má právo se vyjadřovat),
-- *insolvenční správce* (povinně),
-- *státní zastupitelství* (pokud vstoupilo — § 69),
-- *odborová organizace* (pokud dlužník má zaměstnance; preferuje se ta s nejvíce členy).
+[6] **Účast není hlasování.** Odstavec 2 přiznává právo účasti přihlášeným věřitelům, dlužníkovi, insolvenčnímu správci a státnímu zastupitelství, účastní-li se řízení. Samotné uvedení osoby v odstavci 2 jí nezakládá hlasovací právo; to se posuzuje podle § 49 až 53. Z § 47 odst. 2 rovněž nelze dovodit obecnou povinnost správce nebo dlužníka osobně se účastnit každé schůze; zvláštní povinnosti pro schůzi podle § 399 stanoví § 399 odst. 2.
 
-> *Odborová organizace nemá hlasovací právo*, jen *právo se účastnit a vyjadřovat* (zájem zaměstnanců — typicky o budoucí řešení podniku).
+[7] **Odborová organizace.** Má-li dlužník zaměstnance, zákon přiznává právo účasti odborové organizaci působící u dlužníka. Působí-li jich více, účastní se organizace nebo sdružení s největším počtem členů, ledaže se působící odborové organizace dohodnou jinak. Ani toto participační právo není samo o sobě hlasovacím právem věřitele.
 
-### Vazby
+[8] **Program a zvláštní svolání.** Podle § 48 odst. 1 musí soud při svolání na návrh zahrnout do oznámeného předmětu jednání také záležitost, pro kterou byl návrh podán. Vedle obecného § 47 zákon upravuje případy, kdy je schůze spojena s rozhodnutím o úpadku (§ 136 a 137), se způsobem oddlužení (§ 399) nebo s ustanovením či doplněním věřitelského výboru (§ 61 odst. 2 a § 66).
 
-- **§ 48** — formální požadavky na svolání.
-- **§ 49 — § 53** — hlasovací pravidla.
-- **§ 69** — vstup SZ.
+[9] **Intertemporalita.** Zvláštní kvórum při oddlužení vložil zákon č. 64/2017 Sb. s účinností od 1. 7. 2017. Podle čl. II bodu 1 se nové znění použilo i na dříve zahájená insolvenční řízení, avšak právní účinky úkonů nastalé před účinností zůstaly zachovány. U starších návrhů proto rozhoduje právě toto přechodné pravidlo.
 
-### Praktická poznámka
+### Praktický checklist
 
-V praxi má dominantní vliv na svolání **insolvenční správce** — fakticky inicializuje většinu schůzí. Menšinové věřitelské svolání je *vzácné* a typicky strategicky motivované (např. snaha věřitelské skupiny změnit směr řízení).
+- [ ] Určit, zda již je způsobem řešení úpadku oddlužení.
+- [ ] Ověřit osobní i hodnotový práh navrhovatelů podle § 47 odst. 1 a § 49 odst. 1.
+- [ ] Přesně označit požadovaný předmět jednání a případný pozdější termín.
+- [ ] Zaznamenat datum doručení návrhu; od něj se odvíjí třicetidenní limit pro konání.
+- [ ] Nezaměnit právo účasti, hlasovací právo a zvláštní povinnost osobní účasti podle § 399 odst. 2.
 
-### F. Kazuistika
+### Judikatura
 
-**1. Modelová situace.** V konkursu s celkovou výší přihlášených pohledávek 50 mil. Kč podají dva nezajištění věřitelé (pohledávky 3 mil. a 2,5 mil. Kč, dohromady 11 % přihlášených) návrh na svolání schůze věřitelů s cílem odvolat dosavadní věřitelský výbor a zvolit nový. Soud návrh přijme 1. 3., ale schůzi nařídí až na 30. 4. Navrhovatelé se domáhají dřívějšího termínu. Důkazně rozhodný je obsah seznamu přihlášených pohledávek (§ 49 odst. 1) a datum doručení návrhu soudu.
-
-**2. Právní otázka.** Splnili navrhovatelé zákonný kvórový práh pro vynucení svolání schůze a v jaké lhůtě je soud povinen schůzi konat?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 47 odst. 1 — okruh navrhovatelů a kvórum (mimo oddlužení: ≥ 2 věřitelé s ≥ 10 % přihlášených pohledávek); 30denní lhůta pro konání od žádosti.
-- *Související ustanovení téhož zákona:* § 49 odst. 1 (výpočet výše pohledávek pro práh), § 48 (vyhláška, program — soud musí pojmout do programu i věc, pro kterou byl návrh podán), § 63 odst. 3 (odvolání výboru soudem i bez návrhu).
-- *Související předpisy:* zákon o soudech a soudcích — stížnost na průtahy; § 174a téhož zákona (návrh na určení lhůty k provedení úkonu).
-- *Judikatura:* obecně přijímané, že kvalifikovaná menšina má subjektivní procesní právo na svolání, jemuž odpovídá vázanost soudu; nesvolání zakládá průtah.
-
-**4. Subsumpce.** Navrhovatelé jsou dva (≥ 2) a jejich pohledávky činí 11 % (≥ 10 %) — kvórum mimo oddlužení je splněno. Soud je proto svolat povinen. Lhůta „do 30 dnů poté, co byl požádán" se počítá od 1. 3.; termín 30. 4. tuto lhůtu překračuje (cca 60 dnů), není-li navržen pozdější termín samotnými navrhovateli.
-
-**5. Řešení.** Navrhovatelé mají právo na konání schůze nejpozději do 31. 3. (30 dnů od žádosti). Mohou soud upozornit, případně podat stížnost na průtah a návrh na určení lhůty. Pozdější termín by byl přípustný jen tehdy, navrhli-li by jej sami. Procesní krok: písemná urgence s odkazem na § 47 odst. 1 větu poslední.
-
-**6. Varianty.** (a) Kdyby šlo o oddlužení, práh by byl výrazně vyšší (nadpoloviční většina všech věřitelů i pohledávek) a dva věřitelé s 11 % by jej nesplnili. (b) Kdyby pohledávky navrhovatelů činily jen 9 %, návrh by kvórum nesplnil a soud by jím nebyl vázán (mohl by ovšem svolat ex offo).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument 1:* „Soud má diskreci termín odložit kvůli zatížení rozvrhu." Neutralizace: 30denní lhůta je zákonná a kogentní; pozdější termín připouští zákon jen na návrh osoby, která svolání žádá, nikoli z vůle soudu.
-- *Protiargument 2:* „Procento se počítá z přihlášených, ale řada přihlášek je popřena, takže reálně práh splněn není." Neutralizace: pro práh se vychází z výše dle § 49 odst. 1 (přihlášené pohledávky), nikoli ze zjištěných; popření samo o sobě práh nesnižuje.
-- *Slabé místo:* u oddlužení je dvojí většinový test prakticky nesplnitelný pro malé věřitele, takže jejich vliv na svolání je iluzorní — to je třeba klientovi předem sdělit.
-
-### H. Praktický závěr
-
-Svolání schůze ovládá soud, ale kvalifikovaná menšina (mimo oddlužení 2 věřitelé s 10 % pohledávek) má vynutitelné právo na svolání do 30 dnů. U oddlužení je práh řádově vyšší. Účast mají i dlužník, správce, SZ a nejsilnější odborová organizace (bez hlasu).
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Patří navrhovatel do okruhu oprávněných (soud ex offo, správce, výbor, kvalifikovaná menšina)?
-- [ ] Je splněn kvórový práh podle režimu (mimo oddlužení 2 věřitelé + 10 %; v oddlužení dvojí nadpoloviční většina)?
-- [ ] Je dodržena 30denní lhůta od žádosti (nebo navržen pozdější termín)?
-- [ ] Byly obeslány/zohledněny všechny oprávněné osoby účasti (dlužník, správce, SZ, odbory)?
-
-**Typicky rozhodné důkazy / podklady:** návrh na svolání s datem doručení, seznam přihlášených pohledávek a jejich výše, doklad o existenci a velikosti odborové organizace.
+Do tohoto kola nebylo zařazeno rozhodnutí, jehož plný text by byl z oficiálního soudního zdroje ověřen jako nosný právě pro výše uvedené závěry k § 47. Jde o redakční vymezení tohoto kola, nikoli o tvrzení, že relevantní judikatura neexistuje.
 
 ---
 

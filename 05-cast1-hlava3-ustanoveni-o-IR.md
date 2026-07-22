@@ -352,9 +352,53 @@ K § 76 se necituje rozhodnutí, jehož nosný význam nebyl ověřen z oficiál
 
 ### § 77 — Doručování insolvenčnímu správci
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+#### Znění ustanovení
+
 > (1) Písemnost určenou insolvenčnímu správci doručuje insolvenční soud do datové schránky insolvenčního správce. Není-li možné doručit písemnost tímto způsobem, předá insolvenční soud písemnost doručujícímu orgánu k doručení na adresu jeho sídla zapsanou v seznamu insolvenčních správců. Jestliže insolvenční správce o to požádá, insolvenční soud předá písemnost k doručení na jinou adresu v České republice, kterou sdělil insolvenčnímu soudu. Na jinou adresu nebo elektronickou adresu lze doručovat jen tehdy, nelze-li doručovat do datové schránky.
 >
 > (2) Písemnost určenou insolvenčnímu správci včetně písemnosti doručované do vlastních rukou mohou přijmout také jeho zaměstnanci, jakož i jiné fyzické osoby, které k tomu insolvenční správce zmocnil.
+
+#### Přehled výkladu
+
+§ 77 upravuje zvláštní doručování písemností insolvenčního soudu insolvenčnímu správci. Odstavec 1 stanoví jako výchozí způsob doručení datovou schránku správce a vymezuje náhradní adresy použitelné jen tehdy, nelze-li do datové schránky doručovat. Odstavec 2 rozšiřuje okruh osob oprávněných přijmout písemnost pro správce, a to i při doručování do vlastních rukou.
+
+#### Souvisící ustanovení
+
+- § 7 — přiměřené použití občanského soudního řádu,
+- § 21 — seznam insolvenčních správců,
+- § 71 až 75 — obecná pravidla doručování v insolvenčním řízení a zvláštní způsob doručení,
+- § 78 — odchylný postup u insolvenčního správce, jemuž se vzhledem k jeho postavení doručuje podle občanského soudního řádu jinak.
+
+#### Souvisící předpisy
+
+- zákon č. 99/1963 Sb., občanský soudní řád, zejména § 45 až 50a,
+- zákon č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi dokumentů; na jeho úpravu doručování do datové schránky odkazuje poznámka pod čarou 16a k § 77 odst. 1.
+
+#### Z důvodové zprávy
+
+Zvláštní část vládního návrhu insolvenčního zákona uváděla, že úprava doručování písemností insolvenčnímu správci v § 77 a 78 vychází z ustanovení občanského soudního řádu. Tento historický podklad nepopisuje dnešní prioritu datové schránky; ta se vykládá přímo z aktuálního znění zákona.
+
+#### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola; nejde o závěr negativní rešerše.
+
+#### Výklad
+
+[1] Adresátem podle § 77 je insolvenční správce. Ustanovení upravuje postup insolvenčního soudu při doručování správci; nelze je zaměňovat s § 76, který upravuje postup správce jako doručující osoby.
+
+[2] Zákonným výchozím kanálem je datová schránka insolvenčního správce. Předání doručujícímu orgánu na adresu sídla zapsanou v seznamu insolvenčních správců nastupuje, jen není-li možné doručit do této datové schránky.
+
+[3] Jiná adresa v České republice předpokládá žádost správce a sdělení této adresy insolvenčnímu soudu. Poslední věta odstavce 1 podmiňuje doručování na jinou adresu nebo elektronickou adresu nemožností doručování do datové schránky; samotná žádost správce proto zákonné pořadí nemění.
+
+[4] Odstavec 2 výslovně připouští převzetí písemnosti zaměstnancem správce. U jiné fyzické osoby vyžaduje zmocnění insolvenčním správcem. Toto pravidlo zahrnuje i písemnost doručovanou do vlastních rukou.
+
+[5] Je-li správcem fyzická osoba, které se vzhledem k jejímu postavení doručuje podle občanského soudního řádu jinak, je nutné současně posoudit § 78 odst. 1. Za tam uvedených podmínek se § 77 nepoužije.
+
+#### Judikatura
+
+V rámci revize primárních pramenů nebylo do komentáře zařazeno rozhodnutí, jehož nosný závěr by přímo vykládal § 77 a byl ověřen z oficiálního plného textu. Tím není vyslovován závěr o neexistenci související judikatury.
 
 ### § 78 — Speciální úprava pro správce-FO v zvláštním postavení
 

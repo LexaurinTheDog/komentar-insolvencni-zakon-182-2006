@@ -1081,55 +1081,52 @@ Do tohoto kola není zařazeno žádné rozhodnutí. Neurčitý odkaz na judikat
 
 ## § 88 — Forma rozhodnutí
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Insolvenční soud rozhoduje v insolvenčním řízení usnesením.
 > (2) Nestanoví-li tento zákon jinak, v záhlaví písemného vyhotovení usnesení vydaného v insolvenčním řízení se uvede označení insolvenčního soudu, jména a příjmení soudců, označení dlužníka a jeho zástupce, označení osoby, o jejímž podání se rozhoduje, a jejího zástupce a označení věci. Je-li to možné, uvede se v označení dlužníka též jeho datum narození nebo jeho identifikační číslo osoby (dále jen „identifikační číslo").
 
+### Přehled výkladu
+
+Ustanovení určuje jednotnou formu rozhodování insolvenčního soudu v insolvenčním řízení: soud rozhoduje usnesením. Pro záhlaví písemného vyhotovení stanoví § 88 odst. 2 zvláštní skladbu údajů, která se použije, nestanoví-li insolvenční zákon jinak. Úprava záhlaví nenahrazuje ostatní náležitosti usnesení ani zvláštní náležitosti jednotlivých rozhodnutí stanovené insolvenčním zákonem.
+
+### Souvisící ustanovení
+
+- **§ 7** — subsidiární použití občanského soudního řádu.
+- **§ 71 a § 74** — zveřejnění soudních rozhodnutí v insolvenčním rejstříku a zvláštní doručení.
+- **§ 89** — účinnost rozhodnutí insolvenčního soudu.
+- **§ 136** — zvláštní obsah rozhodnutí o úpadku.
+
+### Souvisící předpisy
+
+- **§ 167 odst. 1 a 2 o. s. ř.** — obecná forma usnesení a přiměřené použití ustanovení o rozsudku.
+- **§ 169 odst. 1 o. s. ř.** — obecné náležitosti písemného vyhotovení usnesení.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva označuje usnesení za formu rozhodování převzatou z dosavadní úpravy. Odstavec 2 vysvětluje jako odchylku od § 169 odst. 1 o. s. ř., vyvolanou především množstvím účastníků insolvenčního řízení. Jde o vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, 4. volební období, zvláštní část „K § 88“, číslovaná strana 177 (PDF strana 178).
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní literární rešerše.
+
 ### Výklad
 
-**Forma**: *usnesení* (nikoli rozsudek). I rozhodnutí ve věci samé (rozhodnutí o úpadku) jsou formálně *usnesení*. Důvod — *procesní povaha* insolvenčního řízení.
+[1] Odstavec 1 se vztahuje na rozhodování insolvenčního soudu v insolvenčním řízení bez rozlišení podle předmětu rozhodnutí. Také rozhodnutí o úpadku, jehož zvláštní obsah upravuje § 136, má proto formu usnesení.
 
-**Náležitosti záhlaví** — obvyklé + identifikace dlužníka (datum narození/IČO). Důležité pro propojení s veřejnými rejstříky.
+[2] Odstavec 2 upravuje záhlaví písemného vyhotovení usnesení. Povinně se v něm uvádí insolvenční soud, jména a příjmení soudců, dlužník a jeho zástupce, osoba, o jejímž podání se rozhoduje, a její zástupce, jakož i označení věci. Datum narození nebo identifikační číslo dlužníka se doplní, je-li to možné.
 
-### Vazby
+[3] Úvodní výhrada „nestanoví-li tento zákon jinak“ zachovává přednost zvláštních pravidel insolvenčního zákona. § 88 odst. 2 současně řeší jen záhlaví; další obecné náležitosti písemného vyhotovení usnesení vyplývají při subsidiárním použití o. s. ř. zejména z § 169 odst. 1 a další zvláštní obsah může stanovit insolvenční zákon, například v § 136.
 
-- **OSŘ § 167** — usnesení.
-- **§ 136** — rozhodnutí o úpadku (specifické náležitosti).
+[4] Z textu § 88 samotného nelze dovodit procesní následek konkrétní chyby v záhlaví ani pravidlo, že každé opomenutí identifikačního údaje způsobuje neúčinnost, neurčitost nebo naopak vždy jen odstranitelnou vadu. Takový následek vyžaduje posouzení konkrétního rozhodnutí podle použitelné procesní úpravy; komentované ustanovení jej výslovně neupravuje.
 
-### F. Kazuistika
+[5] Komentář vychází ze znění účinného k 19. 7. 2026. U dříve vydaného rozhodnutí je nutno ověřit právní úpravu účinnou v době jeho vydání; úplná genealogie změn § 88 zde není vydávána za dokončenou.
 
-**1. Modelová situace.** Insolvenční soud rozhoduje ve věci samé (rozhodnutí o úpadku) a vyhotoví je ve formě rozsudku, nikoli usnesení; v záhlaví navíc neuvede datum narození ani IČO dlužníka, ač jsou známy. Účastník namítá nesprávnou formu a vadu náležitostí. Důkazy: vyhotovení rozhodnutí (forma, záhlaví), údaje o dlužníkovi (datum narození/IČO) dostupné z rejstříku.
+### Judikatura
 
-**2. Právní otázka.** Jakou formu má mít rozhodnutí insolvenčního soudu ve věci samé a jaké jsou náležitosti jeho záhlaví?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 88 IZ — insolvenční soud rozhoduje usnesením (odst. 1); v záhlaví písemného vyhotovení se uvede označení soudu, jména soudců, označení dlužníka a jeho zástupce, označení osoby, o jejímž podání se rozhoduje, a věci; je-li to možné, i datum narození / IČO dlužníka (odst. 2).
-- *Související ustanovení téhož zákona:* § 136 (specifické náležitosti rozhodnutí o úpadku), § 89 (účinnost rozhodnutí).
-- *Související předpisy:* § 167 OSŘ — usnesení a jeho náležitosti (přiměřeně).
-- *Judikatura:* nosně NS k tomu, že rozhodnutí v insolvenci mají procesní povahu usnesení i ve věci samé; vady formálních náležitostí záhlaví jsou zpravidla odstranitelné, nezpůsobují-li neurčitost rozhodnutí.
-
-**4. Subsumpce.** Forma „rozsudek" znaku „usnesení" (odst. 1) NEodpovídá — i meritorní rozhodnutí má být usnesením. Chybějící datum narození/IČO sice odporuje doporučení odst. 2 („je-li to možné"), ale jde o náležitost, jejíž absence při jinak určitém označení dlužníka zpravidla nezpůsobuje neúčinnost.
-
-**5. Řešení.** Formální označení „rozsudek" je vadou formy; rozhodující je však obsah a procesní povaha aktu — soud uvede správnou formu (usnesení). Chybějící identifikátory dlužníka soud doplní; nejde o vadu způsobilou zneplatnost rozhodnutí, pokud je dlužník jinak nezaměnitelně označen. Praktický krok: u rozhodnutí o úpadku dbát i na zvláštní náležitosti § 136.
-
-**6. Varianty.** (a) Kdyby chybělo i samo jednoznačné označení dlužníka (nezaměnitelná identifikace), šlo by o podstatnou vadu způsobující neurčitost. (b) Kdyby rozhodnutí mělo všechny náležitosti, jen by bylo nesprávně nadepsáno, postačí oprava záhlaví/označení.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Rozhodnutí ve věci samé musí být rozsudkem." — Neutralizace: § 88 odst. 1 stanoví formu usnesení pro všechna rozhodnutí v insolvenci, včetně meritorních (procesní povaha řízení).
-- *Protiargument:* „Chybějící datum narození/IČO činí rozhodnutí neúčinným." — Neutralizace: odst. 2 ukládá uvést je „je-li to možné"; při jinak určitém označení dlužníka jde o odstranitelnou náležitost.
-- *Slabé místo:* je-li dlužník v záhlaví zaměnitelný (shoda jména), absence identifikátoru může vést k nejistotě a měla by být odstraněna.
-
-### H. Praktický závěr
-
-Insolvenční soud rozhoduje vždy usnesením (i ve věci samé); záhlaví musí dlužníka nezaměnitelně označit, pokud možno s datem narození/IČO. Vady formy jsou zpravidla odstranitelné.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Rozhodnutí vydáno ve formě usnesení (i u meritorních rozhodnutí).
-- [ ] Záhlaví obsahuje označení soudu, soudců, dlužníka a zástupce, dotčené osoby a věci.
-- [ ] Doplněno datum narození / IČO dlužníka, je-li to možné.
-- [ ] U rozhodnutí o úpadku ověřeny i zvláštní náležitosti dle § 136.
-
-**Typicky rozhodné důkazy / podklady:** vyhotovení rozhodnutí (forma a záhlaví), identifikační údaje dlužníka z veřejných rejstříků.
+Do této revize nebylo převzato žádné rozhodnutí, protože pro dříve uváděné obecné závěry o následcích vad formy a záhlaví nebyl v podkladech doložen ověřený plný text nosného rozhodnutí. Tím se nevyslovuje závěr o neexistenci relevantní judikatury; judikatorní rešerše zůstává otevřena pro další kolo.
 
 ---
 

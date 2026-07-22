@@ -250,69 +250,57 @@ Rozhodnutí 29 NSČR 4/2008, uvedené v původním textu, nebylo ponecháno jako
 
 ## § 75 — Zvláštní způsob doručení
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) O zvláštní způsob doručení jde tehdy, jestliže zákon ukládá, aby písemnost byla doručena zvlášť nebo do vlastních rukou adresáta.
+>
 > (2) Nestanoví-li tento zákon jinak, doručuje se písemnost v insolvenčním řízení zvlášť dlužníku, osobám, o jejichž podání insolvenční soud rozhoduje, a osobám, které mají v insolvenčním řízení něco osobně vykonat.
+>
 > (3) Vedle doručení vyhláškou mohou být v určitých případech zvlášť doručeny i písemnosti, o kterých tak stanoví předseda senátu. Tento postup insolvenčního soudu však nesmí být v rozporu s principem rovnosti účastníků insolvenčního řízení.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *NS* [29 NSCR 93/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2107EA0DE7F45F65C1257EF900416DFA?openDocument) — kat. A, 26. 8. 2015
-  > „Skutečnost, že dlužník je ve výkonu trestu odnětí svobody, nezakládá sama o sobě povinnost insolvenčního správce informovat takového dlužníka o svém postupu v insolvenčním řízení jinak (šířeji) než dlužníka, který zmíněným způsobem "omezen" není"
+§ 75 vymezuje zvláštní způsob doručení a tři jeho základy: výslovný příkaz zákona doručit písemnost zvlášť nebo do vlastních rukou, obecné pravidlo pro osoby uvedené v odstavci 2 a rozhodnutí předsedy senátu podle odstavce 3. Zvláštní doručení může probíhat vedle doručení vyhláškou; pro běh procesní lhůty je rozhodující § 74 odst. 2.
+
+### Souvisící ustanovení
+
+- **§ 7** — přiměřené použití občanského soudního řádu, nestanoví-li insolvenční zákon jinak nebo není-li takový postup v rozporu se zásadami insolvenčního řízení.
+- **§ 71 až 74** — doručování vyhláškou a vztah vyhláškového a zvláštního doručení.
+- **§ 76 až 80** — doručování insolvenčním správcem, správci a věřitelskému výboru a postup při neúspěšném zvláštním doručení.
+- **§ 138 odst. 1** — zvláštní doručení rozhodnutí o úpadku vyjmenovaným adresátům; dlužníku do vlastních rukou.
+- **§ 160 odst. 3** — zvláštní pravidlo doručování v incidenčních sporech a výslovné vyloučení § 75 odst. 2 pro tam uvedené vyrozumění správce.
+
+### Souvisící předpisy
+
+- **Zákon č. 99/1963 Sb., občanský soudní řád, zejména § 45 až 50f** — obecná úprava způsobů doručování, doručování do vlastních rukou, doručování zástupci a průkazu doručení, použitelná prostřednictvím § 7 insolvenčního zákona.
+
+### Z důvodové zprávy
+
+Zvláštní část vládního návrhu insolvenčního zákona k § 71 až 80 označila zvláštní doručení za tradiční způsob používaný vedle doručení vyhláškou, pokud je ukládá zákon nebo je stanoví soudce. Současně vysvětlila, že jeho účelem není obecně zajistit informovanost všech účastníků či dalších osob; u písemnosti spouštějící procesní lhůtu spojila počátek lhůty se zvláštním doručením podle § 74. Popis tehdejšího návrhu zahrnoval i zvláštní doručování některým procesním subjektům upravené navazujícími § 77 až 79, a proto jej nelze mechanicky zaměňovat s dnešním výčtem v § 75 odst. 2.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola; tato poznámka není výsledkem negativní literární rešerše.
 
 ### Výklad
 
-**Definice zvláštního doručení (odst. 1)**: zákon ho ukládá explicitně — typicky:
-- *do vlastních rukou* (rozhodnutí o úpadku — § 138 odst. 1),
-- *zvlášť* (např. dlužníkovi, navrhovateli — § 75 odst. 2).
+[1] Odstavec 1 je definiční. „Zvláštní způsob doručení“ není označením každého individuálního předání písemnosti, nýbrž zákonnou kategorií pro případy, kdy insolvenční zákon ukládá doručit písemnost „zvlášť“ nebo „do vlastních rukou“.
 
-**Automatické zvláštní doručení (odst. 2)** — vždy:
-- **dlužníkovi** (nejdůležitější adresát řízení),
-- **osobám, o jejichž podání rozhoduje** (např. žadatel o nahlédnutí, popíraný věřitel),
-- **osobám, které mají něco osobně vykonat** (typicky předvolaný svědek, znalec).
+[2] Odstavec 2 zakládá, s výhradou jiné úpravy v insolvenčním zákoně, zvláštní doručování dlužníku, osobě, o jejímž podání soud rozhoduje, a osobě, která má v řízení něco osobně vykonat. Rozhodující je procesní role adresáta ve vztahu ke konkrétní písemnosti; text ustanovení nezakládá obecné zvláštní doručování každému účastníku.
 
-**Diskreční zvláštní doručení (odst. 3)** — předseda senátu může nařídit. Limity:
-- *princip rovnosti účastníků* — nelze diskriminovat (např. doručit jen některým věřitelům určité kategorie a jiným ne).
+[3] Zvláštní doručení nenahrazuje zveřejnění v insolvenčním rejstříku. Podle § 74 odst. 1 je zveřejnění dokladem o doručení i při zvláštním způsobu doručení. Jestliže však zákon spojuje se zvláštním doručením počátek lhůty k opravnému prostředku nebo jinému procesnímu úkonu, běží podle § 74 odst. 2 od zvláštního doručení adresátu a adresát o tom musí být poučen.
 
-### Vazby
+[4] Odstavec 3 umožňuje předsedovi senátu stanovit zvláštní doručení i nad rámec výslovných zákonných případů. Jde o doručení vedle doručení vyhláškou. Výslovnou mezí této volby je princip rovnosti účastníků; samotný § 75 však neurčuje konkrétní následky případného porušení této meze, a ty proto nelze bez dalšího paušalizovat.
 
-- **§ 138** — doručení rozhodnutí o úpadku.
-- **§ 173** — doručení výzvy k přihlášení pohledávek.
+[5] Neúspěch zvláštního doručení se neposuzuje jen podle § 75. Jsou-li splněny podmínky § 80 odst. 1, soud doručí písemnost znovu vyhláškou a § 74 odst. 2 se nepoužije. Pro konkrétní běh lhůty je proto nutné ověřit druh písemnosti, zákonný důvod zvláštního doručení, adresáta, způsob a výsledek doručování i poučení.
 
-### F. Kazuistika
+[6] Nejvyšší soud v usnesení ze dne 26. 8. 2015, sen. zn. 29 NSČR 93/2014 (R 58/2016), posuzoval návrh vězněného dlužníka na zproštění insolvenčního správce. V bodech 20 až 27 vyšel mimo jiné z toho, že dlužníku se podle § 75 odst. 2 doručuje zvlášť, a uzavřel, že samotný výkon trestu nezakládá správci povinnost informovat dlužníka o svém postupu šířeji než jiného dlužníka. Rozhodnutí se týká informační povinnosti správce v tomto konkrétním kontextu; není nosnou autoritou k diskreci předsedy senátu podle odstavce 3.
 
-**1. Modelová situace.** Předseda senátu rozhodne, že vedle vyhláškového doručení nechá zvlášť doručit usnesení jen jedné skupině věřitelů (velkým bankám), zatímco ostatním věřitelům téže kategorie zvlášť nedoručuje. Drobný věřitel Epsilon namítá nerovné zacházení, neboť velké banky tím získaly informační náskok. Důkazy: usnesení předsedy senátu o zvláštním doručení, seznam adresátů zvláštního doručení, doklad o postavení dotčených věřitelů ve stejné kategorii.
+### Judikatura
 
-**2. Právní otázka.** Je diskreční zvláštní doručení podle § 75 odst. 3 přípustné, jestliže zvýhodňuje jen některé věřitele stejné kategorie na úkor ostatních?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 75 IZ — vymezuje zvláštní způsob doručení (odst. 1), okruh osob, jimž se vždy doručuje zvlášť (odst. 2 — dlužník, osoby, o jejichž podání se rozhoduje, osoby s osobním úkonem), a diskreční zvláštní doručení předsedy senátu (odst. 3) s limitem principu rovnosti účastníků.
-- *Související ustanovení téhož zákona:* § 71 (vyhláška), § 74 (vztah vyhlášky a zvláštního doručení a počátek lhůty), § 138 (doručení rozhodnutí o úpadku do vlastních rukou), § 173 (výzva k přihlášení).
-- *Související předpisy:* § 18 OSŘ a čl. 37 odst. 3 Listiny — rovnost účastníků řízení.
-- *Judikatura:* NS 29 NSČR 93/2014 — výkon trestu dlužníka sám o sobě nezakládá povinnost správce/soudu informovat ho šíře než jiné dlužníky (zákaz svévolného odlišení).
-
-**4. Subsumpce.** Odst. 3 zvláštní doručení připouští, ale výslovně podmiňuje souladem s principem rovnosti účastníků. Selektivní zvláštní doručení jen některým věřitelům téže kategorie tento znak NEnaplňuje — vytváří neodůvodněnou nerovnost. Námitka Epsilonu je důvodná.
-
-**5. Řešení.** Postup předsedy senátu je vadný; buď zvlášť doručit všem věřitelům srovnatelného postavení, nebo nikomu (a ponechat jen vyhlášku). Praktický krok: soud sjedná nápravu, případně dotčení věřitelé namítají porušení rovnosti. Pozn.: u dlužníka a u osob dle odst. 2 je zvláštní doručení obligatorní, tam diskrece nehraje roli.
-
-**6. Varianty.** (a) Kdyby předseda senátu doručil zvlášť všem věřitelům dané kategorie stejně, postup by byl v pořádku (rovnost zachována). (b) Kdyby šlo o doručení dlužníku do vlastních rukou rozhodnutí o úpadku (§ 138), nešlo by o diskreci podle odst. 3, ale o zákonem nařízené zvláštní doručení (odst. 2).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Předseda senátu má diskreci, kterou nelze přezkoumávat." — Neutralizace: diskrece odst. 3 je zákonem výslovně limitována principem rovnosti; její překročení je vadou, nikoli nepřezkoumatelným uvážením.
-- *Protiargument:* „Velké banky potřebovaly zvláštní doručení z provozních důvodů." — Neutralizace: provozní pohodlí věřitele neospravedlňuje nerovné zacházení; všichni mají rovný přístup přes rejstřík (§ 71).
-- *Slabé místo:* je-li okruh adresátů odlišen objektivním zákonným kritériem (např. osoby s osobním úkonem dle odst. 2), o porušení rovnosti nejde — hranici je nutno pečlivě odůvodnit.
-
-### H. Praktický závěr
-
-Zvláštní doručení je buď zákonem nařízené (dlužník, osoby dle odst. 2), nebo diskreční (odst. 3) — diskrece však nesmí narušit rovnost účastníků.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Rozlišeno obligatorní zvláštní doručení (odst. 2) od diskrečního (odst. 3).
-- [ ] U diskrečního doručení ověřeno zachování rovnosti účastníků (žádné selektivní zvýhodnění).
-- [ ] U dlužníka a osob s osobním úkonem zajištěno zvláštní doručení vždy.
-- [ ] Zohledněn dopad na počátek lhůty (§ 74 odst. 2) u písemností doručovaných zvlášť.
-
-**Typicky rozhodné důkazy / podklady:** usnesení/pokyn o zvláštním doručení, seznam adresátů, doklad o postavení a kategorii dotčených osob.
+- **NS, usnesení ze dne 26. 8. 2015, sen. zn. 29 NSČR 93/2014, ECLI:CZ:NS:2015:29.NSČR.93.2014.1, R 58/2016, body 20–28** — § 75 odst. 2 je jedním z prostředků ochrany procesních práv dlužníka; samotný výkon trestu odnětí svobody nezakládá širší informační povinnost insolvenčního správce. Dovolání dlužníka proti nezproštění správce Nejvyšší soud zamítl.
 
 ---
 

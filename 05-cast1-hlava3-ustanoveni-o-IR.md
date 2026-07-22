@@ -914,61 +914,55 @@ Původní blok uváděl neurčený závěr Nejvyššího soudu bez spisové zna�
 
 ## § 85 — Jednání
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) V insolvenčním řízení nařizuje insolvenční soud jednání jen tehdy, stanoví-li to zákon, nebo jestliže to považuje za nutné. O úkonech, při nichž insolvenční soud jedná s ostatními procesními subjekty o skutkové podstatě projednávané věci nebo o procesních otázkách, které na ni mohou mít vliv, se vždy sepisuje protokol; není-li to možné vzhledem ke způsobu, jakým se procesní subjekt obrátil na insolvenční soud a je-li jednostranné přijetí nebo podání informace insolvenčním soudem ve společném zájmu věřitelů, je insolvenční soud povinen o takto přijaté nebo poskytnuté informaci vždy pořídit záznam do insolvenčního spisu. Náležitosti takového záznamu stanoví prováděcí právní předpis.
+>
 > (2) Návrhy, které mohou být podle tohoto zákona podány, a procesní úkony, které mají být provedeny při jednání, při jiném soudním úkonu nebo na schůzi věřitelů, nemohou dodatečně provést osoby, které se nedostavily, ač byly řádně obeslány.
+
+### Přehled výkladu
+
+Ustanovení upravuje, kdy se v insolvenčním řízení nařizuje jednání, jak se zachycují obsahově významné kontakty soudu s procesními subjekty a jaký následek má neúčast řádně obeslané osoby na úkonu, při němž měla návrh nebo procesní úkon provést.
+
+### Souvisící ustanovení
+
+- **§ 7** — subsidiární použití občanského soudního řádu.
+- **§ 47 až 55** — svolání, průběh a rozhodování schůze věřitelů.
+- **§ 83** — nepřípustnost prominutí zmeškání procesní lhůty a zmeškání soudního jednání.
+- **§ 190** — přezkumné jednání.
+
+### Souvisící předpisy
+
+- **§ 115 a § 117 zákona č. 99/1963 Sb., občanský soudní řád** — nařízení jednání a průběh jednání.
+- **Vyhláška č. 311/2007 Sb.** — prováděcí úprava náležitostí záznamu podle § 85 insolvenčního zákona.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva vysvětluje odchylku od obecného požadavku rozhodování po jednání zvláštnostmi insolvenčního řízení: vůle zúčastněných osob se v něm utváří jinak a rozhodnutí soudu se z větší části zakládají na skutečnostech nezískávaných dokazováním při soudním jednání. Jde o zvláštní část k § 85, číslovanou s. 177 (PDF s. 178) sněmovního tisku 1120/0. Tato pasáž objasňuje původní pravidlo o nařizování jednání; sama není podkladem pro později doplněnou úpravu protokolu a záznamu.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola; nejde o negativní rešerši.
 
 ### Výklad
 
-**Fakultativnost jednání** (odst. 1) — soud nařizuje jednání **jen pokud:**
-- *zákon to ukládá* (např. schůze věřitelů — § 47, přezkumné jednání — § 190),
-- *považuje to za nutné*.
+[1] **Nařízení jednání.** Insolvenční soud nařizuje jednání ve dvou případech: ukládá-li mu to zákon, nebo považuje-li je za nutné. § 85 odst. 1 tedy sám neurčuje, že každému rozhodnutí ve věci musí předcházet jednání; vždy je třeba zkoumat zvláštní úpravu rozhodované otázky a potřebu jednání v konkrétní věci.
 
-> *Důsledek*: drtivá většina rozhodnutí v insolvenci se vydává **bez jednání** (na základě listinného materiálu).
+[2] **Protokol.** Jedná-li soud s jiným procesním subjektem o skutkové podstatě projednávané věci nebo o procesní otázce, která ji může ovlivnit, pořizuje se vždy protokol. Rozhodný je obsah komunikace, nikoli její neformální označení.
 
-**Protokolace** — povinná u jednání o **skutkové podstatě věci** nebo o **procesních otázkách**. Pokud je úkon jednostranný (typicky telefonický dotaz správce) a je *ve společném zájmu věřitelů*, soud pořizuje **záznam do spisu**.
+[3] **Záznam v insolvenčním spise.** Není-li protokolace možná vzhledem ke způsobu kontaktu a jednostranné přijetí nebo podání informace soudem je ve společném zájmu věřitelů, musí soud informaci zachytit záznamem v insolvenčním spise. Kumulativně tak musí být splněna nemožnost sepsat protokol daná způsobem kontaktu a společný zájem věřitelů.
 
-**Koncentrace osobní účasti (odst. 2)** — návrhy / úkony, které měly být provedeny při jednání nebo schůzi, **nelze provést dodatečně**. Kdo se nedostavil (byť řádně obeslán), právo ztrácí.
+[4] **Prováděcí úprava.** Zákonné zmocnění k úpravě náležitostí záznamu provádí vyhláška č. 311/2007 Sb. Komentované ustanovení samo obsah těchto náležitostí nevyjmenovává.
 
-### Vazby
+[5] **Následek neúčasti.** Odstavec 2 dopadá jen na návrhy přípustné podle insolvenčního zákona a na procesní úkony, které měly být provedeny při jednání, jiném soudním úkonu nebo schůzi věřitelů. Řádně obeslaná osoba, která se nedostavila, je nemůže provést dodatečně. Text ustanovení tento následek neváže na absenci omluvy; případné odročení nebo jiné procesní řešení je nutno posoudit před skončením příslušného úkonu podle okolností věci.
 
-- **§ 47 — § 55** — schůze věřitelů.
-- **§ 190** — přezkumné jednání.
+[6] **Intertemporalita.** Pravidla o protokolu a záznamu je nutno vykládat podle znění účinného v době kontaktu soudu s procesním subjektem. Původní důvodová zpráva proto slouží jen k objasnění původního pravidla o nařizování jednání, nikoli jako doklad současného znění celého odstavce 1.
 
-### F. Kazuistika
+### Judikatura
 
-**1. Modelová situace.** Insolvenční soud nařídí přezkumné jednání a schůzi věřitelů; věřitel Sigma a. s. je řádně obeslán, ale na jednání se nedostaví a nezašle ani vyjádření. Po jednání chce dodatečně uplatnit hlasovací návrh a vznést námitky, které měly zaznít na schůzi. Souběžně správce telefonicky sdělí soudu významnou informaci o majetku dlužníka. Důkazy: doklad o řádném obeslání Sigmy, protokol z jednání, záznam soudu o telefonicky poskytnuté informaci správce.
-
-**2. Právní otázka.** (a) Může účastník, který se bez omluvy nedostavil přes řádné obeslání, provést dodatečně úkony, které měly být provedeny při jednání/schůzi? (b) Jak se procesně zachytí jednostranně poskytnutá informace správce?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 85 IZ — soud nařizuje jednání jen, stanoví-li to zákon nebo považuje-li to za nutné; o úkonech k skutkové podstatě/procesních otázkách se sepisuje protokol, jinak (u jednostranně přijaté informace ve společném zájmu věřitelů) se pořizuje záznam do spisu (odst. 1); úkony, které měly být provedeny při jednání/schůzi, nemohou dodatečně provést osoby, které se nedostavily, ač byly řádně obeslány (odst. 2).
-- *Související ustanovení téhož zákona:* § 47–§ 55 (schůze věřitelů), § 190 (přezkumné jednání), § 83 (nepřípustnost prominutí zmeškání jednání/schůze).
-- *Související předpisy:* prováděcí předpis k náležitostem záznamu; OSŘ subsidiárně.
-- *Judikatura:* nosně NS k zásadě koncentrace osobní účasti — kdo se bez omluvy nedostaví, ač řádně obeslán, ztrácí možnost dotčené úkony provést dodatečně.
-
-**4. Subsumpce.** Sigma byla řádně obeslána a nedostavila se bez omluvy — naplněn znak odst. 2, takže dodatečné provedení úkonů (hlasovací návrh, námitky vázané na schůzi) je vyloučeno. Telefonická informace správce je jednostranně přijatá informace ve společném zájmu věřitelů — naplňuje znak pro pořízení záznamu do spisu (odst. 1).
-
-**5. Řešení.** Soud dodatečné úkony Sigmy nepřipustí (odst. 2); ve spojení s § 83 nelze ani prominout zmeškání schůze/jednání. Informaci správce soud zaznamená do spisu se zákonnými náležitostmi (odst. 1). Praktický krok: účast na jednání/schůzi je třeba zajistit osobně či zástupcem; pasivita znamená ztrátu možnosti úkon učinit.
-
-**6. Varianty.** (a) Kdyby se Sigma řádně omluvila a soud jednání odročil, mohla by úkony provést později. (b) Kdyby šlo o úkon o skutkové podstatě věci (např. výpověď při jednání), pořizoval by se protokol, nikoli jen záznam do spisu.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Účastník může své návrhy doplnit kdykoli později písemně." — Neutralizace: odst. 2 vylučuje dodatečné provedení úkonů vázaných na jednání/schůzi u toho, kdo se bez omluvy nedostavil, ač byl řádně obeslán.
-- *Protiargument:* „Telefonická informace správce nemá žádnou procesní hodnotu, nelze ji použít." — Neutralizace: odst. 1 ukládá pořídit o ní záznam do spisu (je-li ve společném zájmu věřitelů), čímž se procesně zachytí.
-- *Slabé místo:* nutno doložit řádné obeslání a absenci omluvy; je-li obeslání vadné, koncentrace dle odst. 2 nenastává.
-
-### H. Praktický závěr
-
-Jednání se nařizuje jen, je-li nutné; o podstatných úkonech se sepisuje protokol, o jednostranných informacích záznam. Kdo se bez omluvy nedostaví, ač řádně obeslán, ztrácí možnost dotčené úkony provést.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Zajištěna osobní účast či zastoupení na jednání/schůzi; pasivita znamená ztrátu úkonu.
-- [ ] U úkonů o skutkové podstatě/procesních otázkách sepsán protokol.
-- [ ] U jednostranně přijaté informace ve společném zájmu věřitelů pořízen záznam do spisu.
-- [ ] Ověřeno řádné obeslání a (ne)existence omluvy před aplikací koncentrace (odst. 2).
-
-**Typicky rozhodné důkazy / podklady:** doklad o řádném obeslání, protokol z jednání/schůze, záznam o jednostranně poskytnuté informaci, případná omluva účastníka.
+Do tohoto kola není zařazeno žádné rozhodnutí: kandidátní rozhodnutí vztahující se k jednotlivým druhům rozhodování nebo schůzi věřitelů nepřinášejí samostatný nosný závěr potřebný pro výklad zde formulovaných pravidel. Tím se nevyslovuje závěr o neexistenci relevantní judikatury.
 
 ---
 

@@ -572,68 +572,97 @@ V rámci této revize primárních pramenů nebylo do komentáře zařazeno rozh
 
 ## § 80a — Elektronická forma podání
 
+> Revize: 2026-07-22 | Znění předpisu k: 19. 7. 2026 | Stav: revidováno
+
+### Znění ustanovení
+
 > (1) Osoby, kterým se podle zvláštního právního předpisu zřizuje datová schránka bez žádosti, činí podání včetně příloh v elektronické podobě do datové schránky soudu nebo v elektronické podobě podepsané uznávaným elektronickým podpisem. Není-li v odůvodněných případech možné učinit podání podle věty první, lze je výjimečně a s uvedením důvodu učinit v listinné podobě.
 > (2) Insolvenční správce činí podání včetně příloh na elektronických formulářích, jejichž náležitosti stanoví prováděcí právní předpis; to neplatí pro podání nebo přílohy, které je třeba opatřit podpisem dlužníka.
 > (3) Není-li podání učiněno na stanoveném formuláři, ve stanoveném formátu nebo stanoveným způsobem, postupuje insolvenční soud podle § 43 občanského soudního řádu, nestanoví-li tento zákon jinak.
 > (4) Odstavce 1 a 3 se použijí také tehdy, zřizuje-li se podle zvláštního právního předpisu datová schránka bez žádosti pouze zástupci osoby, která činí podání, nebo činí-li za dlužníka podání osoba podle § 390a odst. 1.
 
+### Přehled výkladu
+
+- osobní působnost a přípustné komunikační kanály — marg. č. 1–5;
+- elektronické formuláře insolvenčního správce — marg. č. 6–7;
+- vady podání a přednost zvláštních následků — marg. č. 8–11;
+- elektronický insolvenční návrh a plná moc — marg. č. 12;
+- intertemporální, procesní a praktické otázky — marg. č. 13–16.
+
+### Souvisící ustanovení
+
+- § 7 — podpůrné použití občanského soudního řádu;
+- § 18, § 50, § 97, § 128, § 200 a § 401 — zvláštní následky vad formuláře, formátu, způsobu nebo podpisu, které mají přednost před § 80a odst. 3;
+- § 176 a § 188 odst. 2 — formulář přihlášky pohledávky a odstraňování vad bránících přezkumu;
+- § 160 odst. 3 — pro incidenční spory přebírá z části první hlavy třetí jen ustanovení o doručování, nikoli § 80a;
+- § 189 odst. 4, § 222 odst. 1, § 302 odst. 5 a § 364 odst. 2 — podání insolvenčního správce, u nichž zákon výslovně vyžaduje elektronický formulář;
+- § 390a, § 391 odst. 4 a § 393 — osoba sepisující a podávající návrh za dlužníka, formulář návrhu na povolení oddlužení a zvláštní režim jeho oprav;
+- § 410 odst. 2 — podpis dlužníka na stanoviscích k pohledávkám a na záznamu o jednání se správcem.
+
+### Souvisící předpisy
+
+- zákon č. 99/1963 Sb., občanský soudní řád, § 42 a § 43 — obecné formy podání a postup při vadách;
+- zákon č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi dokumentů, § 3 až 6 a § 18 — způsob zřízení datové schránky a účinky úkonu učiněného jejím prostřednictvím;
+- zákon č. 297/2016 Sb., o službách vytvářejících důvěru pro elektronické transakce, § 6 — uznávaný elektronický podpis;
+- vyhláška č. 191/2017 Sb., zejména § 1, § 9, § 12, § 13, § 16 a § 18 až 23 — náležitosti a formáty formulářových podání.
+
+### Z důvodové zprávy
+
+> Vládní návrh pozdějšího zákona č. 64/2017 Sb. odůvodnil § 80a snahou přesunout komunikaci osob s datovou schránkou zřízenou bez žádosti do elektronického prostředí, umožnit listinnou formu jen z vážných důvodů a získat strojově zpracovatelná podání při nižší administrativní zátěži soudů. Současně výslovně rozlišil obecnou opravu podle § 43 občanského soudního řádu od zvláštních následků stanovených insolvenčním zákonem (sněmovní tisk 785/0, zvláštní část k bodu 20 — § 80a, číslované i PDF s. 158–160).
+>
+> Povinnost insolvenčního správce podle nynějšího odstavce 2 byla do návrhu zákona č. 31/2019 Sb. vložena pozměňovacím návrhem ústavně právního výboru. Tisk 71/5 obsahuje přesné znění změny v bodu 27.5 (číslovaná s. 11–12, PDF s. 12–13), nikoli však samostatné věcné odůvodnění nad rámec označení „legislativně technická úprava a další změny“.
+
+### Literatura
+
+- V dostupných místních zdrojích nebyla nalezena literatura, jejíž bibliografické údaje i konkrétní pasáž k § 80a by bylo možné ověřit z plného textu. Nepřímá literární citace obsažená v rozhodnutí Nejvyššího soudu nebyla převzata jako samostatný pramen. Tato zdrojová mezera nebrání uzavření níže řešené otázky elektronického insolvenčního návrhu, kterou Nejvyšší soud vyřešil přímo.
+
 ### Výklad
 
-**Povinná elektronická forma** pro osoby s povinně zřízenou datovou schránkou (typicky PO, OSVČ, advokáti, daňoví poradci):
-- *primárně* — datovou schránkou nebo s uznávaným elektronickým podpisem,
-- *výjimečně* (s odůvodněním) — listinně.
+[1] **Funkce a meze normy.** § 80a je zvláštní procesní pravidlo pro podobu, formát a způsob některých podání v insolvenčním řízení. Sám neurčuje jejich obsah ani lhůtu a konečný procesní následek může upravovat zvláštní norma konkrétního podání. Přes systematické umístění za ustanoveními o doručování nejde o doručovací normu a podle § 160 odst. 3 se nepoužije v incidenčních sporech. Z věty „nestanoví-li tento zákon jinak“ dále plyne metodické pořadí: nejprve zvláštní úprava daného úkonu, teprve poté obecný režim § 80a odst. 3 a § 43 občanského soudního řádu.
 
-**Správce — formulářová podání (odst. 2)**: drtivá většina podání správce musí být na **elektronickém formuláři** (vyhláška č. 191/2017 Sb.). Výjimka — podání podepsaná dlužníkem (typicky dlužníkovo prohlášení o majetku).
+[2] **Rozhoduje způsob zřízení schránky.** Osobní působnost odstavce 1 není založena pouhou existencí datové schránky. Dopadá na osobu, které se schránka podle zákona č. 300/2008 Sb. zřizuje bez žádosti; dobrovolně zřízená schránka fyzické osoby sama tento zvláštní režim nezakládá. Okruh povinných osob je dynamický a je třeba jej k okamžiku podání ověřit zejména podle § 4 až 6 uvedeného zákona, nikoli podle neaktuálního profesního výčtu.
 
-**Postup při vadě formuláře (odst. 3)** — § 43 OSŘ (výzva k odstranění vady ve lhůtě).
+[3] **Zástupce a sepisovatel návrhu.** Odstavec 4 přesouvá rozhodné hledisko také na zástupce: povinná elektronická forma se uplatní, i když schránku bez žádosti nemá zastoupený, ale pouze jeho zástupce. Stejný režim zákon ukládá každé osobě, která činí podání za dlužníka podle § 390a odst. 1; tato větev není podmíněna tím, že jí byla schránka zřízena bez žádosti.
 
-**Aplikace i pro zástupce / sepisovatele oddlužovacího návrhu** (odst. 4) — advokáti, akreditované oddlužovací osoby (§ 390a).
+[4] **Dvě alternativní elektronické cesty.** Povinný podatel může zvolit datovou schránku soudu, nebo jiné elektronické podání opatřené uznávaným elektronickým podpisem. Úkon oprávněné či řádně pověřené osoby učiněný datovou schránkou má podle § 18 odst. 2 zákona č. 300/2008 Sb. účinky písemného a podepsaného úkonu; další elektronický podpis datové zprávy proto § 80a nevyžaduje. Tím nejsou dotčeny zvláštní podpisové náležitosti konkrétního úkonu. Uznávaným elektronickým podpisem je podle § 6 odst. 2 zákona č. 297/2016 Sb. zaručený podpis založený na kvalifikovaném certifikátu nebo kvalifikovaný elektronický podpis.
 
-### Vazby
+[5] **Listinná výjimka.** Druhá věta odstavce 1 vyžaduje současně odůvodněný případ, skutečnou nemožnost elektronického podání, výjimečnost a uvedení důvodu. Zákon nestanoví katalog důvodů ani zvláštní dodatečnou lhůtu. Podle mého názoru musí podatel popsat konkrétní překážku, která mu v rozhodné době reálně bránila použít obě elektronické alternativy; pouhá preference papíru nebo obecný odkaz na technické obtíže nestačí. Tomu odpovídá i historický účel, jenž hovoří o vážných důvodech.
 
-- **§ 43 OSŘ** — odstraňování vad podání.
-- **§ 390a** — sepisovatelé oddlužovacího návrhu.
-- **Vyhláška č. 191/2017 Sb.** — formuláře.
+[6] **Formuláře insolvenčního správce.** Odstavec 2 váže správce na elektronické formuláře, jejichž náležitosti stanoví vyhláška č. 191/2017 Sb. Podle mého názoru nelze toto pravidlo vykládat tak, že i pro podání, pro které právní řád žádný formulář nestanoví, musí správce použít neexistující formulář. Povinnost se konkretizuje vždy spojením § 80a odst. 2, ustanovení upravujícího dané podání a odpovídající části prováděcí vyhlášky.
 
-### Praktická poznámka
+[7] **Rozsah formulářové povinnosti a podpis dlužníka.** Insolvenční zákon výslovně předepisuje elektronický formulář zejména pro seznam přihlášených pohledávek (§ 189 odst. 4), soupis majetkové podstaty (§ 222 odst. 1), konečnou zprávu (§ 302 odst. 5) a zprávu o plnění reorganizačního plánu (§ 364 odst. 2); vyhláška upravuje také formulářové zprávy v oddlužení. Podle mého názoru je třeba výjimku pro podání nebo přílohu, kterou musí podepsat dlužník, vztáhnout jen na podpisově vázanou část, nikoli paušálně na celé jiné podání správce. Typickými příklady jsou přehled stanovisek dlužníka k pohledávkám a záznam o jednání s dlužníkem podle § 410 odst. 2 a § 9 odst. 6 a § 20 vyhlášky.
 
-V praxi je toto pravidlo zdrojem **mnoha procesních ztrát** — drobní podnikatelé / OSVČ podávají listinné přihlášky a jsou vyzýváni k doplnění; profesionální správci občas zase použijí neaktuální formulář. Vždy **stahujte aktuální formuláře** z portálu Ministerstva spravedlnosti.
+[8] **Obecný následek vady.** Není-li předepsaný formulář, formát nebo způsob dodržen a insolvenční zákon nestanoví zvláštní režim, použije se § 43 občanského soudního řádu. Soud usnesením určí lhůtu, poučí o způsobu opravy a teprve po marné výzvě nastoupí následky podle § 43 odst. 2: zahajovací podání lze odmítnout, nelze-li pro vadu pokračovat, zatímco k jinému podání se do opravy nepřihlíží. Není proto správný ani závěr o automatické definitivní neúčinnosti každé vady, ani závěr, že oprava vždy zpětně zachrání všechny lhůty a účinky původního podání.
 
-### F. Kazuistika
+[9] **Přednost zvláštních režimů.** Výzva podle § 43 se nepoužije tam, kde insolvenční zákon stanoví jinak. Patří sem zejména neformulářový návrh na vstup nabyvatele pohledávky (§ 18), vadný hlasovací lístek (§ 50, § 346 a § 401), obsahově vadný insolvenční návrh (§ 128) a vadné popření pohledávky přihlášeným věřitelem (§ 200). U přihlášky pohledávky a návrhu na povolení oddlužení navíc působí vlastní opravné mechanismy podle § 188 odst. 2 a § 393. Prakticky je proto nebezpečné začínat analýzu samotným § 43.
 
-**1. Modelová situace.** Společnost Kappa s. r. o. (s povinně zřízenou datovou schránkou) podá přihlášku pohledávky v listinné podobě poštou, bez uvedení důvodu, proč nemohla podat elektronicky. Současně insolvenční správce odešle dlužníkův soupis majetku na zastaralém papírovém formuláři. Soud řeší, jak s oběma podáními naložit. Důkazy: doručené listinné podání, výpis o existenci datové schránky podatele, použitý formulář a jeho srovnání s aktuálním vzorem dle prováděcí vyhlášky.
+[10] **Insolvenční návrh.** K insolvenčnímu návrhu podanému v nesprávném formátu nebo nesprávným způsobem se podle § 97 odst. 4 nepřihlíží; soud navrhovatele pouze vyrozumí usnesením, proti němuž není opravný prostředek přípustný (§ 97 odst. 7). Jde o přímou výjimku z odstavce 3 bez předchozí výzvy podle § 43. Odlišnou otázkou jsou chybějící obsahové náležitosti nebo nesrozumitelnost: § 128 odst. 1 ukládá za stanovených podmínek neprodlené odmítnutí a použití § 43 výslovně vylučuje; vady zákonných příloh řeší § 128 odst. 2 zvláštní, zpravidla nejvýše sedmidenní lhůtou.
 
-**2. Právní otázka.** Jaký je následek, učiní-li osoba s povinně zřízenou datovou schránkou podání listinně bez odůvodnění, resp. nepoužije-li správce stanovený elektronický formulář?
+[11] **Přihláška a oddlužení.** Přihlášku lze podat jen na formuláři (§ 176), ale vady bránící jejímu přezkumu odstraňuje na výzvu insolvenčního správce věřitel v režimu § 188 odst. 2. Návrh na povolení oddlužení se podává na formuláři (§ 391 odst. 4) a jeho formální i obsahové vady se opravují ve zvláštní lhůtě nejvýše sedmi dnů podle § 393. Ani jeden mechanismus neléčí opožděnost: u přihlášky nastupuje procesní následek § 173 odst. 1, u návrhu na povolení oddlužení odmítnutí podle § 390 odst. 3.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 80a IZ — osoby s povinně zřízenou datovou schránkou činí podání elektronicky (do datové schránky soudu nebo s uznávaným podpisem), listinně jen výjimečně a s uvedením důvodu (odst. 1); správce podává na elektronických formulářích dle prováděcího předpisu (odst. 2); při vadě formy/formuláře se postupuje dle § 43 OSŘ (odst. 3); režim platí i pro zástupce a sepisovatele dle § 390a (odst. 4).
-- *Související ustanovení téhož zákona:* § 173 (přihláška pohledávky), § 390a (sepisovatelé oddlužovacího návrhu).
-- *Související předpisy:* § 43 OSŘ (odstraňování vad podání); vyhláška č. 191/2017 Sb. (formuláře); zákon č. 300/2008 Sb. o datových schránkách.
-- *Judikatura:* nosně NS/ÚS k tomu, že nesplnění předepsané formy podání je vadou odstranitelnou postupem dle § 43 OSŘ, nikoli důvodem k automatickému odmítnutí bez výzvy (u přihlášek se zohledňuje povaha lhůty).
+[12] **Autentizace návrhu a vůle zmocnitele.** Nejvyšší soud rozlišil dvě otázky. Elektronický insolvenční návrh učiněný datovou schránkou nebo s uznávaným elektronickým podpisem nepotřebuje úředně ověřený podpis, protože § 97 odst. 2 jej vyžaduje jen u listiny a elektronický způsob dostatečně identifikuje podatele. Podává-li však návrh pouze zástupce, jeho datová schránka či podpis neprokazují vůli zmocnitele. K elektronickému návrhu proto musí být připojena plná moc opatřená úředně ověřeným podpisem nebo uznávaným elektronickým podpisem navrhovatele; je-li podkladem listina, musí být její elektronická podoba výsledkem autorizované konverze. Tento závěr řeší zvláštní požadavek § 97 odst. 3; nelze jej zaměnit s prostou volbou komunikačního kanálu podle § 80a.
 
-**4. Subsumpce.** Kappa je osoba s povinnou datovou schránkou, podala listinně bez odůvodnění — znak „výjimečně a s uvedením důvodu" naplněn NENÍ, jde tedy o vadu formy. Správcovo podání na neaktuálním formuláři rovněž nesplňuje stanovený formulář (odst. 2). V obou případech je dán znak odst. 3 (vada formuláře/formy) → postup dle § 43 OSŘ.
+[13] **Časová působnost.** § 80a byl zaveden zákonem č. 64/2017 Sb. s účinností od 1. 7. 2017. Nová úprava se použila i na dříve zahájená insolvenční řízení, avšak účinky dřívějších úkonů zůstaly zachovány. Nynější odstavec 2 doplnil zákon č. 31/2019 Sb. s účinností od 1. 6. 2019; podle přechodného ustanovení se podle staršího znění pokračuje jen v řízeních, která byla před tímto datem zahájena a v nichž bylo před tímto datem zároveň vydáno rozhodnutí o úpadku. U historického podání je proto rozhodný nejen den jeho učinění, ale i příslušné přechodné pravidlo.
 
-**5. Řešení.** Soud nevyřídí podání odmítnutím bez dalšího, ale vyzve k odstranění vady (§ 43 OSŘ) ve stanovené lhůtě; bude-li vada odstraněna, podání má účinky. U přihlášky je třeba dbát na hmotněprávní lhůtu (§ 173) — opožděnost se neléčí výzvou. Praktický krok: podatelé z řad PO/OSVČ a profesionálové vždy ověří aktuální formulář a primárně podávají elektronicky.
+[14] **Procesní zařazení.** § 80a nezakládá samostatný nárok, petit, důkazní břemeno, věcnou příslušnost ani soudní poplatek. Jeho porušení se posuzuje uvnitř řízení o konkrétním podání a způsob přezkumu určuje zvláštní norma tohoto podání; například proti vyrozumění podle § 97 odst. 7 není opravný prostředek přípustný.
 
-**6. Varianty.** (a) Kdyby Kappa v listinném podání uvedla relevantní důvod nemožnosti elektronického podání, postup by mohl být přípustný (odst. 1 věta druhá). (b) Jde-li o přílohu/podání vyžadující podpis dlužníka, formulářová povinnost správce (odst. 2) se neuplatní.
+[15] **Modelová situace.** Advokát odešle insolvenční návrh ze své datové schránky a připojí prostý sken plné moci podepsané navrhovatelem. Komunikační kanál odpovídá § 80a odst. 1 a 4, ale sám neověřuje vůli navrhovatele udělit plnou moc. Podle závěru Nejvyššího soudu je třeba doložit autentizovanou plnou moc; naproti tomu úředně ověřený podpis na samotném elektronickém návrhu požadován není. Příklad ukazuje, proč se kontrola způsobu podání a kontrola zvláštní podpisové náležitosti nesmějí sloučit.
 
-### G. Protiargumenty a rizika
+[16] **Praktická kontrola.** Před odesláním je třeba určit osobu skutečného podatele a způsob zřízení její či zástupcovy schránky, vyhledat zvláštní následek pro daný typ podání, použít aktuální předepsaný formulář a samostatně ověřit podpisy a plné moci. Pro případ sporu je vhodné uchovat datovou zprávu včetně obálky a potvrzení o dodání, elektronický originál, výsledek validace podpisu, doložku autorizované konverze, použitou verzi formuláře a — při listinné výjimce — konkrétní popis i doklady překážky elektronického podání.
 
-- *Protiargument:* „Listinné podání osoby s datovou schránkou je bez dalšího neúčinné." — Neutralizace: jde o odstranitelnou vadu formy řešenou postupem dle § 43 OSŘ (odst. 3), nikoli automaticky neúčinné podání.
-- *Protiargument:* „Použití staršího formuláře je jen formalita bez následku." — Neutralizace: odst. 2 vyžaduje stanovený formulář; vadu je nutno odstranit, jinak podání nemá zamýšlené účinky.
-- *Slabé místo:* u přihlášek hrozí, že výzva k odstranění vady nezachrání zmeškání hmotněprávní lhůty (§ 173); je třeba rozlišovat vadu formy od opožděnosti.
+### Judikatura
 
-### H. Praktický závěr
+#### Meze působnosti v incidenčních sporech
 
-Osoby s povinnou datovou schránkou a správci musí dodržet elektronickou formu a stanovené formuláře; vady formy se řeší výzvou dle § 43 OSŘ, ale neléčí zmeškání lhůt.
+§ 80a upravuje podání činěná vůči insolvenčnímu soudu, nikoli doručování. Odkaz § 160 odst. 3, který z části první hlavy třetí přebírá do incidenčních sporů jen ustanovení o doručování, proto § 80a nezahrnuje. Včasná vylučovací žaloba podaná advokátkou v listinné podobě nebyla vadná, přestože měla datovou schránku zřízenou bez žádosti — usnesení Nejvyššího soudu ze dne 14. 12. 2022, sen. zn. 29 ICdo 123/2021, ECLI:CZ:NS:2022:29.ICDO.123.2021.1, zejména body 25–32.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověřeno, zda podatel má povinně zřízenou datovou schránku (pak elektronická forma).
-- [ ] U správce použit aktuální elektronický formulář dle vyhlášky č. 191/2017 Sb.
-- [ ] Při vadě formy/formuláře vydána výzva dle § 43 OSŘ se lhůtou.
-- [ ] U přihlášek odlišena odstranitelná vada formy od neodstranitelné opožděnosti (§ 173).
+#### Neodstraněná vada elektronické formy
 
-**Typicky rozhodné důkazy / podklady:** doručené podání, doklad o existenci datové schránky podatele, použitý formulář a aktuální vzor, případné odůvodnění listinné formy.
+Věřitel-právnická osoba podal dovolání listinně, ačkoli mu byla datová schránka zřízena bez žádosti. Po řádné výzvě s pětidenní lhůtou ani později podání elektronicky nedoplnil a neuvedl důvod listinné formy; Nejvyšší soud proto dovolání podle § 80a odst. 3 ve spojení s § 43 odst. 2 občanského soudního řádu odmítl. Rozhodnutí dokládá obecný opravný režim, nikoli jeho použití tam, kde insolvenční zákon stanoví zvláštní následek — usnesení Nejvyššího soudu ze dne 27. 5. 2021, sen. zn. 29 NSČR 65/2019, ECLI:CZ:NS:2021:29.NSCR.65.2019.1.
+
+#### Elektronický insolvenční návrh a plná moc zástupce
+
+Elektronický insolvenční návrh podaný datovou schránkou nebo opatřený uznávaným elektronickým podpisem nemusí mít úředně ověřený podpis; jinak je tomu u prokázání autentické vůle zmocnitele, podává-li návrh jen jeho zástupce. V posuzované věci byly návrhy odeslány z datových schránek advokátů a připojené plné moci s úředně ověřenými podpisy navrhovatelů byly převedeny autorizovanou konverzí, takže požadavky splněny byly. Závěr byl přijat k § 80a a § 97 ve znění, které je použitelné i k rozhodnému dni této revize — usnesení Nejvyššího soudu ze dne 29. 5. 2026, sen. zn. 29 ICdo 138/2024, ECLI:CZ:NS:2026:29.ICDO.138.2024.1, zejména body 22–46.
 
 ---
 

@@ -688,6 +688,10 @@ Do tohoto kola nebylo zařazeno rozhodnutí bez ověřeného oficiálního plné
 
 ## § 82 — Předběžná opatření v insolvenčním řízení
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Předběžné opatření v insolvenčním řízení může insolvenční soud nařídit i bez návrhu, nestanoví-li zákon jinak. Navrhovatel předběžného opatření, které by insolvenční soud mohl nařídit i bez návrhu, není povinen složit jistotu. Povinnost složit jistotu jako navrhovatel předběžného opatření nemá dlužník.
 > (2) Předběžným opatřením může insolvenční soud v době do rozhodnutí o insolvenčním návrhu také
 > a) ustanovit předběžného správce,
@@ -701,101 +705,55 @@ Do tohoto kola nebylo zařazeno rozhodnutí bez ověřeného oficiálního plné
 >
 > (5) Rozhodnutí o návrhu na předběžné opatření podle odstavce 2 písm. b) nebo c) doručí insolvenční soud do vlastních rukou dlužníkovi, insolvenčnímu správci, osobě, která takový návrh podala, a insolvenčnímu navrhovateli. Předběžné opatření podle odstavce 3 doručí insolvenční soud do vlastních rukou dlužníkovi, insolvenčnímu správci, osobě, která takový návrh podala, a v případě, že se předběžné opatření vztahuje na pohledávky jednotlivých věřitelů, i těmto věřitelům.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *ÚS* [I.ÚS 622/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-622-14_1) — usnesení, 25. 9. 2014
-  > „Právní úprava umožňuje soudu podle ustanovení § 82 odst. 2 písm. b) insolvenčního zákona nařídit (a to i bez návrhu) z důvodů zvláštního zřetele hodných předběžné opatření k omezení účinků spojených se zahájením insolvenčního řízení, mimo jiné za účelem připuštění provedení nařízeného výkonu rozhodnutí nebo exekuce [jež je jinak zakázáno z titulu § 109 odst. 1 písm. c) insolvenčního zákona], neodporuje-li to společnému zájmu věřitelů"
+§ 82 je zvláštní procesní rámec pro předběžná opatření v insolvenčním řízení. Odstavec 1 připouští postup bez návrhu, nestanoví-li zákon jinak, a upravuje výjimky z povinnosti navrhovatele složit jistotu. Odstavec 2 vymezuje tři opatření použitelná jen do rozhodnutí o insolvenčním návrhu. Odstavec 3 upravuje zásahy do započtení. Odstavce 4 a 5 určují výlučnou návrhovou legitimaci u některých opatření, podmínky jistoty proti nedůvodnému návrhu a zvláštní doručování.
 
-### Výklad — **KLÍČOVÝ PARAGRAF, SLOŽITÝ**
+### Souvisící ustanovení
 
-#### Obecné rysy předběžných opatření v insolvenci
+- § 7 — přiměřené použití občanského soudního řádu,
+- § 27 — ustanovení předběžného správce,
+- § 109 odst. 1 písm. b) a c) — účinky zahájení řízení, které lze podle § 82 odst. 2 písm. b) omezit,
+- § 122 odst. 3 — zákaz započtení po dobu moratoria,
+- § 140 — trvání předběžného opatření po rozhodnutí o úpadku a režim započtení,
+- § 147 — náhrada škody nebo jiné újmy způsobené zahájením insolvenčního řízení a opatřeními přijatými v jeho průběhu,
+- § 202 odst. 5 a 6 — pravidla, na něž § 82 odst. 4 výslovně odkazuje,
+- § 112 a § 113 — další předběžná opatření před rozhodnutím o insolvenčním návrhu.
 
-- *fakultativní vydání ex offo* (bez návrhu) — pokud zákon nestanoví jinak,
-- *bez jistoty* — pokud soud může vydat opatření i bez návrhu (typicky proti zlovolnému zatajování majetku) nebo pokud je navrhovatelem **dlužník**,
-- *jiné navrhovatele* — *jistota podle obecných pravidel* (§ 75b OSŘ).
+### Souvisící předpisy
 
-#### Předběžná opatření v období do rozhodnutí o úpadku (odst. 2)
+- zákon č. 99/1963 Sb., občanský soudní řád, zejména § 74 až 77a; v insolvenčním řízení se uplatní jen v mezích § 7 insolvenčního zákona a zvláštní úpravy § 82,
+- zákon č. 31/2019 Sb., čl. I bod 22; od 1. 6. 2019 vypustil z § 82 odst. 5 tehdejší poslední větu. Pro dřívější procesní úkony je nutno použít znění účinné v rozhodné době.
 
-Klíčové specifické možnosti:
+### Z důvodové zprávy
 
-**a) Ustanovení předběžného správce** (§ 27 odst. 1) — již rozebráno. Dohlížecí nástroj.
+Původní důvodová zpráva označila za hlavní odchylky od občanského soudního řádu možnost nařídit předběžné opatření bez návrhu a možnost ustanovit v jeho rámci předběžného insolvenčního správce; další odchylky spojila s § 112 a § 113. Jde o historické vysvětlení původního návrhu, nikoli o popis všech prvků dnešního znění. Pramen: vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, zvláštní část „K § 82“, číslovaná s. 176 (PDF s. 177).
 
-**b) Omezení účinků zahájení řízení (§ 109 odst. 1 písm. b, c)**:
-- *§ 109 odst. 1 písm. b)*: zákaz uplatňování práv k majetku dlužníka (zákaz exekucí na zástavy),
-- *§ 109 odst. 1 písm. c)*: zákaz nabytí a realizace zástavního práva.
+### Literatura
 
-Soud může tyto účinky **omezit** (typicky pro pokračování provozu dlužníka, kde by úplný zákaz blokoval potřebné transakce). Podmínky: *důvody hodné zvláštního zřetele* + *neodporuje společnému zájmu věřitelů*.
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento údaj nepředstavuje negativní rešerši.
 
-**c) Uložení jistoty insolvenčnímu navrhovateli** (typicky věřiteli, který podává návrh):
-- *vylučeno*: zaměstnanci dlužníka, věřitelé s čistě pracovněprávními pohledávkami,
-- *účel*: zajištění náhrady škody dlužníkovi za nedůvodné zahájení řízení (§ 147 odst. 4).
+### Výklad
 
-> *Praxe*: tento institut je v praxi *zřídka* uplatňován, ale je *zásadní obranou* dlužníků proti šikanózním návrhům konkurenčních věřitelů. Dlužník musí *zjevně hrozící škodu* doložit (odst. 4) — typicky ztráta klíčových obchodních partnerů, pověst, hodnotové znehodnocení akcií.
+[1] Základní pravidlo dovoluje insolvenčnímu soudu nařídit předběžné opatření i bez návrhu. Výhrada „nestanoví-li zákon jinak“ je podstatná: tam, kde § 82 odst. 4 vyžaduje návrh určité osoby, nelze tuto podmínku obejít postupem z úřední povinnosti.
 
-#### Předběžná opatření o započtení (odst. 3)
+[2] Od povinnosti složit jistotu za předběžné opatření je podle odstavce 1 osvobozen navrhovatel opatření, které by soud mohl nařídit i bez návrhu, a vždy dlužník. U ostatních návrhů je třeba posoudit obecnou úpravu jistoty, zejména § 75b občanského soudního řádu, s přihlédnutím k § 7 insolvenčního zákona.
 
-Tří speciální oprávnění:
+[3] Opatření podle odstavce 2 jsou časově omezena dobou do rozhodnutí o insolvenčním návrhu. Soud může ustanovit předběžného správce; omezit některý z účinků podle § 109 odst. 1 písm. b) a c), jsou-li dány důvody hodné zvláštního zřetele a opatření neodporuje společnému zájmu věřitelů; nebo uložit kvalifikovanému insolvenčnímu navrhovateli jistotu k zajištění náhrady škody či jiné újmy z nedůvodného zahájení řízení a navazujících opatření.
 
-**a) Udělit souhlas se započtením v moratoriu** (§ 124 a násl.) — moratorium standardně započtení zakazuje (§ 122 odst. 3), ale soud může pro konkrétní případ povolit (typicky vzájemné pohledávky s klíčovým dodavatelem).
+[4] § 109 odst. 1 písm. b) se týká vzniku práva na uspokojení ze zajištění vztahujícího se k majetku dlužníka a jeho uplatnění; písm. c) omezuje provedení výkonu rozhodnutí nebo exekuce postihující majetek dlužníka a jiný majetek náležející do majetkové podstaty. Předchozí text tyto dva účinky popisoval obráceně. § 82 odst. 2 písm. b) dovoluje pouze jejich konkrétní omezení způsobem určeným ve výroku předběžného opatření, nikoli jejich obecné pominutí.
 
-**b) Udělit souhlas se započtením po zveřejnění návrhu na reorganizaci** — analogicky pro fázi po podání reorganizačního návrhu.
+[5] Jistotu podle odstavce 2 písm. c) nelze uložit navrhovateli, který je zaměstnancem dlužníka a jehož pohledávka spočívá pouze v pracovněprávních nárocích. Opatření lze nařídit jen na návrh dlužníka podaný při jeho prvním úkonu po podání insolvenčního návrhu a jen při doložení zjevné hrozby škody nebo jiné újmy. Lze-li podle dosavadních výsledků očekávat osvědčení úpadku, soud návrh zamítne. Zákon sám zde neurčuje, že výše jistoty automaticky odpovídá celé tvrzené škodě; takový závěr proto nelze bez dalšího dávat jako procesní návod.
 
-**c) Zakázat započtení** — preventivní nástroj proti tomu, aby věřitelé „rychlým započtením" *snížili majetkovou podstatu*.
+[6] Odstavec 3 dovoluje za podmínky důvodů hodných zvláštního zřetele a souladu se společným zájmem věřitelů povolit započtení v době moratoria, povolit je po zveřejnění návrhu na povolení reorganizace, nebo je pro určité případy či dobu zakázat. Okruh navrhovatelů je uzavřen odstavcem 4: dlužník, insolvenční správce, dotčený věřitel nebo osoba s právním zájmem.
 
-#### Procesní úprava jistoty pro dlužníka (odst. 4)
+[7] Odstavec 5 stanoví vlastní okruh osob, jimž se do vlastních rukou doručuje rozhodnutí o návrhu podle odstavce 2 písm. b) nebo c), a vlastní okruh pro opatření podle odstavce 3. U opatření vztahujícího se na pohledávky jednotlivých věřitelů se doručuje do vlastních rukou také těmto věřitelům.
 
-- *iniciativa*: **dlužník při prvním úkonu** po podání insolvenčního návrhu,
-- *průkazní břemeno*: dlužník **zjevně hrozící škodu**,
-- *negativní podmínka*: pokud podle dosavadních výsledků se očekává **osvědčení úpadku**, soud návrh **zamítne**.
-
-### Vazby
-
-- **§ 27** — předběžný správce.
-- **§ 109** — účinky zahájení řízení.
-- **§ 122 — § 127** — moratorium.
-- **§ 147 odst. 4** — odpovědnost za nedůvodný insolvenční návrh.
-- **OSŘ § 74 — § 77a** — obecná pravidla předběžných opatření.
+[8] Intertemporálně je nutno oddělit procesní poměry podle znění účinného v rozhodné době. Aktuální odstavec 5 již neobsahuje poslední větu vypuštěnou zákonem č. 31/2019 Sb.; při hodnocení staršího doručování nelze dnešní znění mechanicky promítat zpětně.
 
 ### Judikatura
 
-- **NS 29 NSČR 38/2014**: žádost o jistotu podle § 82 odst. 2 písm. c) musí mít *konkrétní doložení rizika* — obecné tvrzení o „možné škodě" nestačí.
-- **ÚS Pl. ÚS 14/10**: ústavní konformita zveřejňování insolvenčního návrhu v rejstříku (i šikanózního) — kompenzační mechanismus je § 147 + jistota podle § 82 odst. 4.
-
-### F. Kazuistika
-
-**1. Modelová situace.** Konkurent podá proti zdravé společnosti Lambda a. s. insolvenční návrh založený na sporné pohledávce, zjevně s cílem poškodit její pověst v době tendru. Lambda při prvním úkonu po podání návrhu navrhne, aby soud uložil navrhovateli (který není zaměstnancem ani nemá jen pracovněprávní nárok) složit jistotu k zajištění náhrady škody za nedůvodné zahájení řízení; doloží zjevně hrozící ztrátu klíčové zakázky. Souběžně banka navrhne, aby soud předběžným opatřením zakázal věřitelům započtení proti podstatě. Důkazy: insolvenční návrh a podklady k pohledávce, podání Lambdy s doložením hrozící škody (smlouvy, oznámení zadavatele), podklady k započítávaným pohledávkám.
-
-**2. Právní otázka.** Za jakých podmínek soud uloží insolvenčnímu navrhovateli složit jistotu podle § 82 odst. 2 písm. c) / odst. 4 a kdy naopak návrh dlužníka zamítne?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 82 IZ — předběžná opatření i bez návrhu a bez jistoty u dlužníka (odst. 1); v době do rozhodnutí o návrhu lze ustanovit předběžného správce, omezit účinky zahájení dle § 109 odst. 1 písm. b), c), nebo uložit navrhovateli jistotu (odst. 2); opatření o započtení v moratoriu / po reorganizačním návrhu / zákaz započtení (odst. 3); jistota na návrh dlužníka při prvním úkonu a jen při zjevně hrozící škodě, se zamítnutím, lze-li očekávat osvědčení úpadku (odst. 4).
-- *Související ustanovení téhož zákona:* § 27 (předběžný správce), § 109 (účinky zahájení), § 122–§ 127 (moratorium), § 147 odst. 4 (odpovědnost za nedůvodný návrh), § 202 odst. 5, 6 (přiměřeně).
-- *Související předpisy:* § 74–§ 77a OSŘ (obecná pravidla předběžných opatření), § 75b OSŘ (jistota).
-- *Judikatura:* ÚS I. ÚS 622/14 — § 82 odst. 2 písm. b) umožňuje i bez návrhu omezit účinky zahájení (např. připustit exekuci) z důvodů zvláštního zřetele, neodporuje-li to společnému zájmu věřitelů; NS 29 NSČR 38/2014 — jistota dle písm. c) vyžaduje konkrétní doložení rizika; ÚS Pl. ÚS 14/10 — kompenzační mechanismus proti šikanóznímu návrhu.
-
-**4. Subsumpce.** U jistoty (odst. 2 písm. c, odst. 4) jsou znaky: navrhovatel není zaměstnanec ani nemá jen pracovněprávní nárok (splněno), dlužník podal návrh při prvním úkonu (splněno) a doložil zjevně hrozící škodu (splněno — ztráta zakázky). Negativní podmínka odst. 4 (očekávané osvědčení úpadku) zde naplněna NENÍ — společnost je zdravá. U zákazu započtení (odst. 3 písm. c) je znakem soulad se společným zájmem věřitelů a důvody zvláštního zřetele.
-
-**5. Řešení.** Soud uloží navrhovateli složit jistotu podle § 82 odst. 2 písm. c) ve výši odpovídající hrozící škodě; nedoplnění jistoty má procesní následky (přiměřeně dle OSŘ). Návrh dlužníka by zamítl jen tehdy, pokud by dosavadní výsledky nasvědčovaly osvědčení úpadku (odst. 4). Zákaz započtení soud nařídí, je-li to v souladu se společným zájmem věřitelů. Praktický krok: dlužník musí riziko doložit konkrétně (NS 29 NSČR 38/2014), obecné tvrzení nestačí.
-
-**6. Varianty.** (a) Kdyby dlužníkův úpadek byl podle dosavadních výsledků pravděpodobný, soud návrh na jistotu zamítne (odst. 4). (b) Kdyby návrh na jistotu podal věřitel-zaměstnanec s čistě pracovněprávní pohledávkou, jistotu uložit nelze (vyloučení v odst. 2 písm. c).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument (navrhovatele):* „Uložení jistoty omezuje právo věřitele podat insolvenční návrh." — Neutralizace: jistota není zákazem návrhu, jen zajištěním náhrady škody za nedůvodné zahájení; ústavně aprobováno (Pl. ÚS 14/10).
-- *Protiargument:* „Hrozící škoda je zřejmá ze samotného zveřejnění návrhu." — Neutralizace: NS 29 NSČR 38/2014 vyžaduje konkrétní doložení rizika; paušální odkaz na publicitu nestačí.
-- *Slabé místo:* soud musí vážit společný zájem věřitelů (zejm. u omezení účinků a zákazu/povolení započtení); chybné vyhodnocení může poškodit podstatu nebo provoz dlužníka.
-
-### H. Praktický závěr
-
-§ 82 dává soudu silné, ale podmíněné nástroje: opatření i bez návrhu (dlužník bez jistoty), omezení účinků zahájení, režim započtení a jistotu proti nedůvodnému návrhu — vždy s testem společného zájmu věřitelů a konkrétního doložení.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] U návrhu na jistotu ověřeno: navrhovatel není zaměstnanec / nemá jen pracovněprávní nárok; návrh dlužníka podán při prvním úkonu; zjevně hrozící škoda konkrétně doložena.
-- [ ] Posouzena negativní podmínka odst. 4 (pravděpodobné osvědčení úpadku → zamítnutí).
-- [ ] U omezení účinků (§ 109) a u započtení (odst. 3) ověřen soulad se společným zájmem věřitelů a důvody zvláštního zřetele.
-- [ ] Rozhodnutí dle odst. 2 písm. b), c) a odst. 3 doručeno do vlastních rukou stanoveným osobám (odst. 5).
-
-**Typicky rozhodné důkazy / podklady:** insolvenční návrh a podklady k pohledávce, doložení hrozící škody (smlouvy, oznámení zadavatele, znalecké ocenění), podklady k započítávaným pohledávkám, doklad o prvním úkonu dlužníka.
+V této revizi není citováno žádné soudní rozhodnutí. Dříve uvedené odkazy nebyly převzaty, protože pro tvrzení, která měla podpírat, nebyl v podkladech doložen odpovídající nosný závěr z ověřeného oficiálního plného textu. Tím se nevyslovuje závěr o neexistenci relevantní judikatury; její cílené doplnění vyžaduje samostatnou plnotextovou rešerši.
 
 ---
 

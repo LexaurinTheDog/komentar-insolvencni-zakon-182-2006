@@ -1026,58 +1026,54 @@ Do tohoto kola není zařazeno žádné rozhodnutí. Kandidátní obecné odkazy
 
 ## § 87 — Upuštění od slyšení dlužníka
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) I v případě, že podle tohoto zákona může insolvenční soud vydat příslušné rozhodnutí nebo učinit jiný úkon v insolvenčním řízení až po slyšení dlužníka, lze od slyšení dlužníka upustit, jestliže se dlužník zdržuje v cizině a je-li zde nebezpečí nepřiměřeného prodlení; totéž platí, není-li znám pobyt dlužníka. Je-li to možné, insolvenční soud v takovém případě vyslechne zástupce dlužníka nebo osobu dlužníkovi blízkou.
 > (2) Je-li dlužníkem právnická osoba, platí odstavec 1 přiměřeně pro výslech fyzických osob, které jsou oprávněny za ni jednat.
 
+### Přehled výkladu
+
+§ 87 je výjimkou použitelnou jen tam, kde jiné ustanovení insolvenčního zákona podmiňuje rozhodnutí nebo jiný úkon předchozím slyšením dlužníka. Od slyšení lze upustit ve dvou alternativách: dlužník se zdržuje v cizině a současně hrozí nepřiměřené prodlení, anebo není znám jeho pobyt. Je-li možný výslech zástupce či osoby blízké, soud jej provede. U dlužníka-právnické osoby se pravidlo přiměřeně vztahuje na výslech fyzických osob oprávněných za ni jednat.
+
+### Souvisící ustanovení
+
+- § 85 — nařízení jednání a záznam soudních úkonů,
+- § 124 odst. 3 — slyšení dlužníka před zrušením moratoria bez návrhu,
+- § 133 odst. 3 — možnost dlužníka vyjádřit se k insolvenčnímu návrhu před rozhodnutím o úpadku.
+
+### Souvisící předpisy
+
+Bezprostřední podmínky upuštění i náhradního výslechu upravuje insolvenční zákon sám. Obecné procesní předpisy se použijí jen v mezích subsidiarity podle § 7 IZ; § 87 nelze rozšiřovat obecným odkazem mimo situace, v nichž insolvenční zákon vyžaduje slyšení dlužníka.
+
+### Z důvodové zprávy
+
+Zvláštní část důvodové zprávy označuje postup za výjimečný. Potvrzuje dvě alternativy: pobyt v cizině spojený s nebezpečím nepřiměřeného prodlení, nebo neznámý pobyt; u právnické osoby vztahuje obdobnou úpravu k osobám oprávněným za ni jednat. Viz vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, zvláštní část K § 87, číslovaná s. 178 (PDF s. 179).
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola; nejde o negativní rešerši.
+
 ### Výklad
 
-**Výjimka z práva na slyšení** — soud může upustit pokud:
-- *dlužník v cizině* + nebezpečí nepřiměřeného prodlení,
-- *neznámý pobyt dlužníka*.
+[1] **Rozsah výjimky.** § 87 sám nezakládá obecnou možnost rozhodovat bez účasti dlužníka. Uplatní se pouze tehdy, jestliže jiné ustanovení insolvenčního zákona váže rozhodnutí nebo jiný úkon na předchozí slyšení dlužníka. Neřeší samostatně nařízení jednání, dokazování ani doručování.
 
-**Substituce**: výslech zástupce nebo osoby blízké (je-li to možné).
+[2] **Pobyt v cizině.** Zdržuje-li se dlužník v cizině, lze od jeho slyšení upustit jen při současném nebezpečí nepřiměřeného prodlení. Samotný pobyt v cizině tedy nestačí. Zákonné slovo „lze“ dává soudu možnost upustit; nepřikazuje mu tak postupovat v každém takovém případě.
 
-**PO**: obdobné pravidlo pro výslech statutárních orgánů.
+[3] **Neznámý pobyt.** Druhou, samostatnou alternativou je neznámý pobyt dlužníka. Gramatické oddělení větou „totéž platí“ znamená, že zákon u této alternativy výslovně nepřipojuje další podmínku nebezpečí nepřiměřeného prodlení. Jde o redakční výklad struktury zákonného textu, nikoli o rozšíření výjimky.
 
-### Praktická poznámka
+[4] **Náhradní výslech.** Upustí-li soud od slyšení dlužníka a je-li náhradní výslech možný, zákon stanoví, že vyslechne zástupce dlužníka nebo osobu dlužníkovi blízkou. Podmínka „je-li to možné“ se vztahuje k proveditelnosti náhradního výslechu; není důvodem automaticky pominout zjištění, zda taková dostupná osoba existuje.
 
-V praxi se použije zejména u *zatajeného* dlužníka — typicky FO, která se zdržuje v cizině, aby se vyhnula insolvenci. Soud postupuje s opatrnost (uvědomí zástupce, osoby blízké, doručuje vyhláškou).
+[5] **Právnická osoba.** U právnické osoby se odstavec 1 použije přiměřeně na výslech fyzických osob oprávněných za ni jednat. Text není omezen jen na členy statutárního orgánu; rozhodné je oprávnění konkrétní fyzické osoby jednat za právnickou osobu a přiměřenost použití pravidla v dané procesní situaci.
 
-### F. Kazuistika
+[6] **Systematické meze.** § 124 odst. 3 je příkladem ustanovení, které výslovně požaduje rozhodnutí po slyšení dlužníka. Naproti tomu § 133 odst. 3 požaduje, aby dlužník dostal možnost vyjádřit se před rozhodnutím o úpadku. Při použití § 87 je proto třeba nejprve přesně určit povahu povinnosti v navazujícím ustanovení; slyšení, možnost písemně se vyjádřit a jednání nejsou bez dalšího totožné procesní instituty.
 
-**1. Modelová situace.** Insolvenční řízení je vedeno proti dlužníku-FO Fí, který se trvale zdržuje v zahraničí a jeho pobyt je neznámý; reálně hrozí nepřiměřené prodlení, protože do vydání potřebného rozhodnutí by jinak bylo nutné dlužníka vyslechnout. Dlužník má v ČR zástupce a osobu blízkou (manželku). Soud zvažuje, zda od slyšení dlužníka upustit. Variantně je dlužníkem PO Chí s. r. o., jejíž jednatel je nedosažitelný. Důkazy: doklady o pobytu dlužníka v cizině / o neznámém pobytu, podklady k hrozícímu prodlení, kontaktní údaje zástupce a osoby blízké.
+[7] **Intertemporalita.** Původní vládní návrh a znění účinné k 19. 7. 2026 obsahují shodný text § 87. Pro konkrétní věc je přesto nutné ověřit také časově rozhodné znění ustanovení, které slyšení vyžaduje, a ostatního procesního rámce; shoda samotného § 87 tuto kontrolu nenahrazuje.
 
-**2. Právní otázka.** Za jakých podmínek lze upustit od slyšení dlužníka a koho je třeba vyslechnout namísto něj, jde-li o FO, resp. o PO?
+### Judikatura
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 87 IZ — od slyšení dlužníka lze upustit, zdržuje-li se v cizině a hrozí-li nebezpečí nepřiměřeného prodlení, nebo není-li znám jeho pobyt; je-li to možné, soud vyslechne zástupce dlužníka nebo osobu blízkou (odst. 1); u PO platí odst. 1 přiměřeně pro výslech osob oprávněných za ni jednat (odst. 2).
-- *Související ustanovení téhož zákona:* § 86 (vyšetřovací povinnost o úpadku), § 71 a § 80 (doručování vyhláškou u nedosažitelného dlužníka).
-- *Související předpisy:* čl. 38 odst. 2 Listiny — právo vyjádřit se; § 49 OSŘ (doručování) subsidiárně.
-- *Judikatura:* nosně NS/ÚS k tomu, že upuštění od slyšení je výjimkou, již nutno odůvodnit (cizina + prodlení, nebo neznámý pobyt) a nahradit, je-li to možné, výslechem zástupce/osoby blízké.
-
-**4. Subsumpce.** U FO Fí jsou naplněny znaky odst. 1: pobyt v cizině (případně neznámý) + nebezpečí nepřiměřeného prodlení. Soud proto může od slyšení dlužníka upustit, ale je-li to možné, vyslechne zástupce nebo osobu blízkou (zde jsou k dispozici). U PO Chí se odst. 1 použije přiměřeně na výslech jednatele (osoby oprávněné jednat).
-
-**5. Řešení.** Soud odůvodněně upustí od slyšení dlužníka a místo toho vyslechne dostupného zástupce/osobu blízkou; písemnosti doručuje vyhláškou (§ 71), případně postupuje dle § 80. U PO obdobně vyslechne dostupný statutární orgán. Praktický krok: upuštění vždy řádně odůvodnit, jinak hrozí vada řízení pro porušení práva vyjádřit se.
-
-**6. Varianty.** (a) Kdyby byl dlužník dosažitelný a nehrozilo prodlení, od slyšení upustit nelze — musí být vyslechnut. (b) Kdyby nebyl k dispozici zástupce ani osoba blízká, soud upustí od slyšení bez náhrady, ale o to pečlivěji odůvodní a využije vyšetřovací povinnost (§ 86).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Upuštění od slyšení porušuje právo dlužníka vyjádřit se." — Neutralizace: jde o zákonnou výjimku pro vymezené situace (cizina + prodlení / neznámý pobyt), s náhradním výslechem zástupce/osoby blízké, je-li možný.
-- *Protiargument:* „U PO nelze odst. 1 použít, protože míří jen na FO." — Neutralizace: odst. 2 výslovně přikazuje přiměřené použití na výslech osob oprávněných za PO jednat.
-- *Slabé místo:* nutno doložit pobyt v cizině/neznámý pobyt a hrozící prodlení; nedostatečné odůvodnění výjimky zakládá vadu řízení.
-
-### H. Praktický závěr
-
-Od slyšení dlužníka lze upustit jen ve vymezených situacích (cizina + prodlení, neznámý pobyt); je-li to možné, nahradí se výslechem zástupce/osoby blízké, u PO statutárního orgánu. Výjimku vždy řádně odůvodněte.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Doložen pobyt dlužníka v cizině / neznámý pobyt a nebezpečí nepřiměřeného prodlení.
-- [ ] Zváženo a (je-li možné) provedeno náhradní slyšení zástupce nebo osoby blízké.
-- [ ] U PO aplikován odst. 2 (výslech osob oprávněných jednat).
-- [ ] Upuštění od slyšení v rozhodnutí řádně odůvodněno; doručováno vyhláškou (§ 71).
-
-**Typicky rozhodné důkazy / podklady:** doklady o pobytu/neznámém pobytu dlužníka, podklady k hrozícímu prodlení, kontaktní údaje a doklad o postavení zástupce/osoby blízké/statutárního orgánu.
+Do tohoto kola není zařazeno žádné rozhodnutí. Neurčitý odkaz na judikaturu Nejvyššího a Ústavního soudu ze stávajícího textu nebyl převzat, protože neidentifikoval rozhodnutí ani neumožňoval plnotextově ověřit skutkový a procesní kontext a nosný závěr. Tím se nevyslovuje závěr o neexistenci relevantní judikatury.
 
 ---
 

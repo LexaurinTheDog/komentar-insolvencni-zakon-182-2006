@@ -402,9 +402,55 @@ V rámci revize primárních pramenů nebylo do komentáře zařazeno rozhodnut�
 
 ### § 78 — Speciální úprava pro správce-FO v zvláštním postavení
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+#### Znění ustanovení
+
 > (1) Je-li insolvenčním správcem fyzická osoba, které se podle občanského soudního řádu písemnosti vzhledem k jejímu postavení doručují jinak než ostatním fyzickým osobám, a není-li možné doručit písemnost do datové schránky insolvenčního správce, předá insolvenční soud písemnost určenou insolvenčnímu správci doručujícímu orgánu k doručení tímto způsobem; § 77 se nepoužije.
 >
 > (2) Nejde-li o případ uvedený v odstavci 1, insolvenční soud v písemnosti, kterou předá k doručení doručujícímu orgánu, připojí k označení insolvenčního správce dodatek „insolvenční správce“.
+
+#### Přehled výkladu
+
+§ 78 řeší listinné doručování insolvenčnímu správci, který je fyzickou osobou. Odstavec 1 chrání zvláštní doručovací režim spojený s jiným postavením této osoby podle občanského soudního řádu; uplatní se však až tehdy, není-li možné doručit do datové schránky správce. V ostatních případech odstavec 2 ukládá soudu při předání písemnosti doručujícímu orgánu označit adresáta dodatkem „insolvenční správce“.
+
+#### Souvisící ustanovení
+
+- § 7 — podpůrné použití občanského soudního řádu,
+- § 71 až 75 — doručení vyhláškou a zvláštní způsob doručení,
+- § 77 — obecný režim doručování insolvenčnímu správci,
+- § 79 odst. 3 — obdobné použití § 78 odst. 1 při doručování věřitelskému výboru.
+
+#### Souvisící předpisy
+
+- zákon č. 99/1963 Sb., občanský soudní řád, zejména § 45, § 46b, § 48 a § 50a,
+- zákon č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi dokumentů — doručování do datových schránek.
+
+#### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona ve sněmovním tisku 1120/0 vysvětloval § 77 a 78 společně jako úpravu doručování insolvenčnímu správci vycházející z tehdejšího režimu občanského soudního řádu. Původní návrh § 78 ještě nepodmiňoval zvláštní postup nemožností doručení do datové schránky. Důvodová zpráva proto dokládá historické východisko ustanovení, nikoli dnešní pořadí doručovacích kanálů.
+
+#### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní rešerše.
+
+#### Výklad
+
+[1] Ustanovení dopadá jen na správce, který je fyzickou osobou. Samotné postavení insolvenčního správce však nestačí: tatáž osoba musí mít ještě postavení, s nímž občanský soudní řád spojuje jiný režim doručování než u ostatních fyzických osob.
+
+[2] Zda takové postavení existuje a jak se má doručit, se určuje podle občanského soudního řádu. Ten rozlišuje zejména adresy pro doručování některým profesním skupinám a osobám v určitých zařízeních (§ 46b), příslušné doručující orgány (§ 48) a osoby oprávněné přijímat písemnosti za advokáta, notáře, soudního exekutora nebo patentového zástupce (§ 50a odst. 4 a 5). § 78 nevytváří samostatný seznam těchto postavení.
+
+[3] Podmínky odstavce 1 jsou kumulativní. I správci-fyzické osobě ve zvláštním postavení se nejprve doručuje do datové schránky insolvenčního správce. Teprve není-li to možné, soud předá písemnost doručujícímu orgánu k doručení způsobem odpovídajícím tomuto zvláštnímu postavení a § 77 se pro tento postup nepoužije.
+
+[4] Odstavec 2 upravuje zbývající případy předání písemnosti doručujícímu orgánu. Soud k označení fyzické osoby připojí dodatek „insolvenční správce“, aby při doručování vyznačil, v jaké procesní roli je písemnost určena. Text ustanovení s tímto dodatkem nespojuje změnu adresáta ani samostatný způsob doručení.
+
+[5] § 79 odst. 3 přikazuje použít § 78 odst. 1 obdobně při doručování věřitelskému výboru. Při této aplikaci je třeba posuzovat postavení jeho předsedy, jehož datovou schránku a adresu pro doručování používá § 79 odst. 1.
+
+[6] Výklad odpovídá znění účinnému k 19. 7. 2026. U staršího doručování je nutné ověřit tehdy účinné znění § 78 i občanského soudního řádu; původní návrh zákona neobsahoval dnešní prioritu datové schránky.
+
+#### Judikatura
+
+V rámci revize primárních pramenů nebylo do komentáře zařazeno rozhodnutí, jehož nosný závěr by přímo vykládal § 78 a byl ověřen z oficiálního plného textu. Tím není vyslovován závěr o neexistenci související judikatury.
 
 ### § 79 — Doručování věřitelskému výboru
 

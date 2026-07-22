@@ -970,59 +970,57 @@ Do tohoto kola není zařazeno žádné rozhodnutí: kandidátní rozhodnutí vz
 
 ## § 86 — Vyšetřovací povinnost soudu o úpadku
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > V insolvenčním řízení je insolvenční soud povinen provést i jiné důkazy potřebné k osvědčení dlužníkova úpadku nebo jeho hrozícího úpadku, než byly účastníky navrhovány.
 
-### Výklad — **VÝZNAMNÉ ODKLONĚNÍ OD SPORNÉHO ŘÍZENÍ**
+### Přehled výkladu
 
-**Insolvenční soud má vyšetřovací povinnost** o úpadku — *materiální zjišťovací zásada* (na rozdíl od sporného řízení, kde platí **dispoziční** zásada, OSŘ § 120).
+§ 86 pro fázi zjišťování úpadku nebo hrozícího úpadku prolamuje vázanost soudu důkazními návrhy účastníků. Povinnost se však týká jen dalších důkazů, které jsou potřebné k osvědčení některé z těchto dvou skutečností; ustanovení samo nerozšiřuje předmět řízení ani nenahrazuje zákonné náležitosti insolvenčního návrhu.
 
-#### Důvod
+### Souvisící ustanovení
 
-Insolvenční řízení **není pouhým sporem mezi věřitelem a dlužníkem** — má **objektivní cíl** zjistit, zda je dlužník v úpadku (zájem všech věřitelů, zaměstnanců, hospodářského provozu). Proto soud:
-- nemůže být vázán jen návrhy účastníků,
-- musí aktivně vyhledávat důkazy,
-- typicky: nahlížení do veřejných rejstříků (OR, katastr), dotazování bank (s pomocí součinnosti — § 43), znalecké posudky ex offo.
+- **§ 3** — znaky úpadku a hrozícího úpadku, k nimž dokazování směřuje.
+- **§ 7** — subsidiární použití občanského soudního řádu a zákona o zvláštních řízeních soudních.
+- **§ 43** — součinnost orgánů veřejné správy a dalších osob s insolvenčním soudem a insolvenčním správcem.
+- **§ 103 odst. 2 a 3** — povinnost navrhovatele uvést rozhodující skutečnosti, označit důkazy a připojit listinné důkazy, kterých se dovolává.
+- **§ 128 odst. 1** — odmítnutí vadného insolvenčního návrhu bez použití § 43 o. s. ř.
+- **§ 131, § 132 a § 133** — dokazování a jednání o insolvenčním návrhu a zvláštnosti dlužnického a věřitelského návrhu.
+- **§ 136, § 142 a § 143** — rozhodnutí o úpadku a jiná rozhodnutí o insolvenčním návrhu.
 
-### Vazby
+### Souvisící předpisy
 
-- **OSŘ § 120** — dispoziční zásada v civilním procesu.
-- **§ 43** — součinnost orgánů a osob.
+- **§ 120 odst. 1 o. s. ř.** — obecné pravidlo dokazování ve sporném řízení, použitelné jen v mezích § 7 insolvenčního zákona.
 
-### F. Kazuistika
+### Z důvodové zprávy
 
-**1. Modelová situace.** Věřitel Tau a. s. podá insolvenční návrh proti dlužníku Ypsilon s. r. o. a osvědčuje jen jedinou splatnou pohledávku; existence druhého věřitele (podmínka mnohosti) je sporná a dlužník ji popírá. Tau navrhuje jen výslech svého jednatele. Soud má pochybnosti o úpadku a zvažuje, zda provést další důkazy, které účastníci nenavrhli (dotaz do veřejných rejstříků, součinnost bank). Důkazy: insolvenční návrh a doklady k pohledávce navrhovatele, popírající vyjádření dlužníka, podklady z rejstříků a od bank, které by soud opatřil z úřední povinnosti.
+Původní důvodová zpráva označuje § 86 za zvláštní ustanovení o zjišťování skutkového stavu. „Osvědčení“ chápe jako zjištění založené na pravděpodobnosti, při němž nemusí být zachován postup stanovený pro jednotlivé důkazní prostředky, a výslovně uvádí možnost provádět důkazy k osvědčení úpadku bez návrhu. Jde o zvláštní část K § 86, číslovanou s. 177 (PDF s. 178) sněmovního tisku 1120/0. Text navrženého § 86 odpovídá znění účinnému k 19. 7. 2026, takže tato pasáž je pro vyložení původního účelu nadále použitelná.
 
-**2. Právní otázka.** Je insolvenční soud oprávněn a povinen provést k osvědčení úpadku i důkazy, které účastníci nenavrhli?
+### Literatura
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 86 IZ — soud je povinen provést i jiné důkazy potřebné k osvědčení úpadku/hrozícího úpadku, než které navrhli účastníci (vyšetřovací/materiální zjišťovací zásada).
-- *Související ustanovení téhož zákona:* § 43 (součinnost orgánů a osob při zjišťování), § 3 (úpadek a jeho znaky — mnohost věřitelů), § 105–§ 143 (návrh a rozhodnutí o úpadku).
-- *Související předpisy:* § 120 OSŘ — dispoziční zásada v civilním sporu, která se v této otázce neuplatní.
-- *Judikatura:* nosně NS k tomu, že zjišťování úpadku není ovládáno dispoziční zásadou; soud musí aktivně objasnit, zda jsou znaky úpadku (zejm. mnohost věřitelů) dány.
+Odborná literatura je rozhodnutím editora odložena do druhého kola; nejde o negativní rešerši.
 
-**4. Subsumpce.** Úpadek je objektivní skutečnost v zájmu všech věřitelů; znak „potřeba osvědčit úpadek" je dán, protože mnohost věřitelů je sporná. Soud proto NENÍ vázán jen návrhem navrhovatele (výslech jednatele) a je povinen provést i další důkazy (rejstříky, součinnost bank), nasvědčují-li potřebě objasnit úpadek.
+### Výklad
 
-**5. Řešení.** Soud z úřední povinnosti opatří potřebné důkazy (využije součinnost dle § 43, nahlédne do veřejných rejstříků, případně ustanoví znalce). Teprve na jejich základě posoudí, zda je úpadek osvědčen. Praktický krok: navrhovatel by měl počítat s aktivní rolí soudu a sám doložit mnohost věřitelů co nejúplněji.
+[1] **Předmět povinnosti.** Soud musí provést také účastníky nenavržený důkaz, je-li potřebný k osvědčení dlužníkova úpadku nebo hrozícího úpadku. Potřebnost se posuzuje ve vztahu ke znakům § 3 a k dosavadnímu obsahu spisu; § 86 nestanoví katalog důkazních prostředků ani povinnost mechanicky provést každý dostupný důkaz.
 
-**6. Varianty.** (a) Kdyby šlo o čistě sporné řízení (např. incidenční spor o pravost pohledávky), uplatnila by se v zásadě dispoziční zásada (§ 120 OSŘ), nikoli vyšetřovací povinnost dle § 86. (b) Kdyby účastníci sami doložili úpadek dostatečně, potřeba dalšího dokazování ex offo by nevznikla.
+[2] **Osvědčení.** Zákon používá nižší míru skutkového závěru než úplné prokázání: podle ověřené důvodové zprávy postačuje pravděpodobnost zjištění. To nemění požadavek, aby rozhodnutí mělo konkrétní skutkový podklad a aby soud vyhodnotil, zda jsou osvědčeny všechny rozhodné znaky příslušné formy úpadku.
 
-### G. Protiargumenty a rizika
+[3] **Důkazy bez návrhu.** Důkazní návrhy účastníků nevymezují konečný okruh důkazů. Ukáže-li obsah spisu potřebu dalšího důkazu k osvědčení úpadku nebo hrozícího úpadku, soud jej provede i bez návrhu. Konkrétní prostředek musí odpovídat zjišťované skutečnosti a zákonným možnostem jeho opatření; samotný § 86 proto neodůvodňuje paušální požadavek na dotazy bankám, veřejným rejstříkům nebo na znalecké dokazování v každé věci.
 
-- *Protiargument:* „Soud je vázán návrhy účastníků jako ve sporu (§ 120 OSŘ)." — Neutralizace: § 86 zakládá vyšetřovací povinnost ke zjištění úpadku; dispoziční zásada se zde neuplatní.
-- *Protiargument:* „Aktivní dokazování soudu nahrazuje povinnost navrhovatele tvrdit a dokládat." — Neutralizace: vyšetřovací povinnost soudu nezbavuje navrhovatele břemene tvrzení; jde o objasnění úpadku, ne o suplování pasivního navrhovatele.
-- *Slabé místo:* rozsah dokazování ex offo musí být přiměřený a zaměřený na znaky úpadku; nadměrné dokazování by řízení neúčelně prodlužovalo.
+[4] **Meze věcného rozsahu.** Zvláštní povinnost je textem omezena na osvědčení úpadku nebo hrozícího úpadku. Nelze ji bez dalšího přenášet na všechny otázky insolvenčního řízení ani na incidenční spory. Pro ně se procesní režim určuje podle zvláštních ustanovení insolvenčního zákona a subsidiárně podle § 7.
 
-### H. Praktický závěr
+[5] **Povinnosti navrhovatele.** § 86 neruší § 103 odst. 2 a 3. Insolvenční navrhovatel musí v návrhu uvést rozhodující skutečnosti, označit důkazy a připojit listiny, kterých se dovolává. Vyšetřovací prvek dokazování neléčí návrh, pro jehož vady nelze pokračovat; na takovou situaci dopadá § 128 odst. 1.
 
-Při zjišťování úpadku soud nečeká jen na návrhy účastníků — má vyšetřovací povinnost a opatří i nenavržené důkazy (rejstříky, součinnost). Navrhovatel přesto musí mnohost věřitelů a úpadek řádně doložit.
+[6] **Procesní výsledek.** Ani možnost doplnit dokazování bez návrhu neznamená, že úpadek musí být nakonec zjištěn. Výsledek závisí na tom, zda provedené podklady osvědčí zákonné znaky; jinak soud vydá odpovídající jiné rozhodnutí o insolvenčním návrhu podle § 142 a násl.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] U sporných znaků úpadku (zejm. mnohost věřitelů) zváženo dokazování ex offo.
-- [ ] Využita součinnost orgánů a osob (§ 43), nahlédnutí do veřejných rejstříků.
-- [ ] Navrhovatel doložil úpadek co nejúplněji (nespoléhal jen na aktivitu soudu).
-- [ ] Rozsah dokazování ex offo udržen přiměřený a zaměřený na znaky úpadku.
+[7] **Intertemporalita.** Původní návrh zákona i znění účinné k 19. 7. 2026 obsahují tutéž větu § 86. Při použití starší judikatury nebo procesních závěrů je přesto třeba zvlášť prověřit tehdy účinné znění navazujících ustanovení, zejména úpravu projednání insolvenčního návrhu; shoda samotného § 86 nezaručuje shodu celého procesního rámce.
 
-**Typicky rozhodné důkazy / podklady:** doklady k pohledávkám více věřitelů, výpisy z veřejných rejstříků, údaje od bank (součinnost), případný znalecký posudek.
+### Judikatura
+
+Do tohoto kola není zařazeno žádné rozhodnutí. Kandidátní obecné odkazy nebyly převzaty, protože bez samostatného plnotextového ověření neposkytovaly přesně vymezený nosný závěr nad rámec zákonného textu a oficiální důvodové zprávy. Tím se nevyslovuje závěr o neexistenci relevantní judikatury.
 
 ---
 

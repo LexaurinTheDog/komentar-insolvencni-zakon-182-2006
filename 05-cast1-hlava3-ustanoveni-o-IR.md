@@ -632,64 +632,57 @@ Do tohoto kola nebylo zařazeno rozhodnutí bez ověřeného oficiálního plné
 
 ## § 81 — Pořádková pokuta
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Pořádkovou pokutu může insolvenční soud uložit i členům nebo náhradníkům věřitelského výboru, kteří se bez řádné omluvy neúčastní jeho schůzí nebo jinak neplní své povinnosti.
+>
 > (2) Insolvenčnímu správci, který nesplnil povinnost uloženou mu soudem nebo řádně neplní jiné své povinnosti, může insolvenční soud uložit pořádkovou pokutu, a to i opakovaně, nejvýše však do úhrnné částky 200 000 Kč.
+
+### Přehled výkladu
+
+Ustanovení rozlišuje dvě skupiny adresátů. Členu nebo náhradníku věřitelského výboru lze pokutu uložit za neúčast na schůzích bez řádné omluvy nebo za jiné neplnění povinností. Insolvenčnímu správci ji lze uložit za nesplnění povinnosti uložené soudem nebo za jiné povinnosti, které řádně neplní; u správce zákon výslovně připouští opakované uložení, avšak jen do úhrnu 200 000 Kč. Sloveso „může“ v obou odstavcích vyjadřuje oprávnění soudu, nikoli automatický následek každého zjištěného pochybení.
+
+### Souvisící ustanovení
+
+- **§ 7** — subsidiární použití občanského soudního řádu.
+- **§ 11 odst. 2** — dohledová oprávnění soudu vůči insolvenčnímu správci, včetně pokynů a požadavků na zprávy a vysvětlení.
+- **§ 32** — zproštění insolvenčního správce funkce pro neplnění povinností nebo nepostupování s odbornou péčí.
+- **§ 36 a § 37** — povinnosti insolvenčního správce a jeho odpovědnost za škodu nebo jinou újmu.
+- **§ 58 až 60** — působnost, povinnosti a jednání věřitelského výboru.
+
+### Souvisící předpisy
+
+- **§ 53 zákona č. 99/1963 Sb., občanský soudní řád** — obecná úprava pořádkové pokuty do 50 000 Kč, možnosti jejího dodatečného prominutí, příjmu státu a správy placení; § 81 odst. 1 na tuto úpravu odkazuje poznámkou pod čarou č. 17 a § 7 IZ určuje subsidiární použití o. s. ř.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, ve zvláštní části k § 81 vysvětluje, že procesní sankce v zásadě navazují na tehdejší úpravu. Vyšší odpovědnost správce spojuje s jeho procesním postavením; jako novinku popisuje možnost ukládat správci pokutu opakovaně, při zachování úhrnného stropu 200 000 Kč. Přetrvávající neplnění povinností přes uložené pokuty dává zpráva do souvislosti se zproštěním správce podle § 32 (dokumentová s. 176–177).
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní rešerše.
 
 ### Výklad
 
-**Sankční nástroj soudu** — pořádková pokuta. Limity:
+[1] **Dvě samostatné skutkové podstaty.** Odstavec 1 míří výlučně na členy a náhradníky věřitelského výboru. Vedle neúčasti na schůzi bez řádné omluvy zahrnuje i jiné neplnění jejich povinností. Odstavec 2 upravuje výlučně insolvenčního správce a rozlišuje nesplnění konkrétní povinnosti uložené soudem od jiného neřádného plnění jeho povinností.
 
-#### Vůči členům věřitelského výboru (odst. 1)
-- *důvody*: nedostavení se bez omluvy / neplnění povinností,
-- *limit*: dle § 53 OSŘ — **až 50 000 Kč**, **opakovaně** lze.
+[2] **Fakultativní rozhodnutí.** Zákon v obou případech stanoví, že soud pokutu uložit „může“. Samotné zjištění formálního nedostatku proto ještě neznamená, že pokuta musí být uložena. Rozhodnutí musí vycházet z konkrétně zjištěného jednání a z právní povinnosti, která měla být splněna.
 
-#### Vůči správci (odst. 2)
-- *důvody*: neplnění povinností uložených soudem / jiné porušení povinností,
-- *limit*: **opakovaně, nejvýše úhrnně 200 000 Kč**.
+[3] **Členové a náhradníci výboru.** U neúčasti na schůzi je zákonným negativním znakem absence řádné omluvy. U druhé alternativy musí soud určit jinou povinnost plynoucí z postavení člena či náhradníka výboru a popsat, v čem nebyla plněna. Zvláštní strop pro tuto skupinu § 81 nestanoví; obecný § 53 odst. 1 o. s. ř. dovoluje pořádkovou pokutu do 50 000 Kč.
 
-> *Vztah ke zproštění (§ 32)*: pořádková pokuta je *mírnější sankce* — pro drobné nebo střednězávažné prohřešky. Pro závažné porušení následuje zproštění a případně disciplinární řízení (zákon o IS) a žaloba na škodu (§ 37).
+[4] **Insolvenční správce.** První alternativa odstavce 2 předpokládá identifikovatelnou povinnost uloženou soudem a její nesplnění. Druhá dopadá na jiné povinnosti správce, nejsou-li plněny řádně; jejich pramen musí být v rozhodnutí určitelný. Dohledové oprávnění soudu vyžadovat zprávy a vysvětlení a dávat pokyny upravuje zejména § 11 odst. 2, obecné povinnosti správce § 36.
 
-### Vazby
+[5] **Opakování a úhrnný strop.** Jen u insolvenčního správce § 81 odst. 2 výslovně stanoví, že pokutu lze uložit i opakovaně. Součet pokut uložených tomuto správci podle odstavce 2 nesmí překročit 200 000 Kč. Jde o úhrnnou mez, nikoli o limit každé jednotlivé pokuty.
 
-- **§ 53 OSŘ** — pořádková pokuta obecně.
-- **§ 32** — zproštění správce.
-- **§ 36** — povinnosti správce.
+[6] **Odlišnost dalších následků.** Zproštění správce podle § 32 a odpovědnost za škodu nebo jinou újmu podle § 37 mají vlastní zákonné předpoklady. Pořádková pokuta je nenahrazuje ani jejich použití automaticky nevylučuje. Důvodová zpráva výslovně předpokládá, že přetrvávající neplnění povinností přes uložené pokuty může být důvodem ke zproštění funkce; splnění podmínek § 32 je však nutné posoudit samostatně.
 
-### F. Kazuistika
+[7] **Intertemporalita.** Pro jednání a rozhodování z dřívější doby je třeba ověřit tehdy účinné znění § 81, subsidiárně použitelného § 53 o. s. ř. a přechodná ustanovení relevantních novel. Shoda současného textu s původním vládním návrhem sama nenahrazuje tuto kontrolu.
 
-**1. Modelová situace.** Insolvenční správce opakovaně nepodá soudem požadovanou zprávu o stavu řízení a ignoruje výzvy soudu; jeho nečinnost zdržuje přezkum pohledávek. Soud mu uloží pořádkovou pokutu, a protože pochybení trvá, ukládá ji opakovaně. Souběžně člen věřitelského výboru se bez omluvy nedostavuje na schůze výboru. Důkazy: výzvy soudu a doklady o jejich nesplnění, prezenční listiny ze schůzí výboru, korespondence o omluvách.
+### Judikatura
 
-**2. Právní otázka.** Za jakých podmínek a v jaké výši lze uložit pořádkovou pokutu správci a členu věřitelského výboru a jak se liší limity?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 81 IZ — pořádkovou pokutu lze uložit členům/náhradníkům věřitelského výboru za bezdůvodnou neúčast či neplnění povinností (odst. 1) a správci za nesplnění soudem uložené povinnosti či neplnění jiných povinností, a to i opakovaně, nejvýše úhrnně do 200 000 Kč (odst. 2).
-- *Související ustanovení téhož zákona:* § 32 (zproštění správce — přísnější sankce), § 36 (povinnosti správce), § 37 (odpovědnost za škodu), § 58 a násl. (věřitelský výbor a jeho povinnosti).
-- *Související předpisy:* § 53 OSŘ — pořádková pokuta obecně (pro člena výboru limit až 50 000 Kč, opakovaně).
-- *Judikatura:* nosně NS k zásadě přiměřenosti pořádkové pokuty a k tomu, že jde o sankci za porušení procesní disciplíny, nikoli o náhradu škody.
-
-**4. Subsumpce.** U správce je naplněn znak „nesplnění soudem uložené povinnosti" (nepodání zpráv přes výzvy) i „neplnění jiných povinností"; opakované uložení je přípustné s úhrnným stropem 200 000 Kč (odst. 2). U člena výboru je naplněn znak „bezdůvodná neúčast na schůzích" (odst. 1) — limit dle § 53 OSŘ do 50 000 Kč, opakovaně.
-
-**5. Řešení.** Soud uloží správci pořádkovou pokutu, opakovaně, dokud nepřekročí úhrnný strop 200 000 Kč; trvá-li závažné porušování, posune se k přísnějším nástrojům — zproštění (§ 32), odpovědnosti za škodu (§ 37), případně kárnému řízení. Členu výboru uloží pokutu do 50 000 Kč. Praktický krok: pokuta musí být odůvodněná a přiměřená; má motivační, ne likvidační účel.
-
-**6. Varianty.** (a) Kdyby pochybení správce bylo závažné a nenapravitelné, vhodným nástrojem by nebyla (jen) pokuta, ale zproštění (§ 32). (b) Kdyby se člen výboru řádně omluvil, znak „bez řádné omluvy" by nebyl naplněn a pokutu uložit nelze.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Opakované pokuty správci jsou nepřípustnou kumulací sankcí." — Neutralizace: odst. 2 opakované uložení výslovně připouští, limituje jej však úhrnnou částkou 200 000 Kč.
-- *Protiargument:* „Pořádková pokuta nahrazuje řešení závažných pochybení." — Neutralizace: pokuta je mírnější nástroj; pro závažné porušení slouží zproštění (§ 32) a žaloba na škodu (§ 37).
-- *Slabé místo:* nutno doložit porušení povinnosti a jeho přičitatelnost; u člena výboru je třeba prokázat absenci řádné omluvy.
-
-### H. Praktický závěr
-
-Pořádková pokuta je mírnější disciplinární nástroj: vůči správci opakovaně do úhrnných 200 000 Kč, vůči členu výboru dle § 53 OSŘ do 50 000 Kč; pro závažná pochybení slouží zproštění a náhrada škody.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Doloženo konkrétní porušení povinnosti (správce / člen výboru) a jeho přičitatelnost.
-- [ ] U správce respektován úhrnný strop 200 000 Kč při opakovaném ukládání.
-- [ ] U člena výboru ověřena absence řádné omluvy a limit dle § 53 OSŘ.
-- [ ] Zváženo, zda závažnost nevyžaduje místo pokuty zproštění (§ 32) či žalobu na škodu (§ 37).
-
-**Typicky rozhodné důkazy / podklady:** výzvy soudu a doklady o jejich (ne)splnění, prezenční listiny schůzí výboru, korespondence o omluvách, předchozí rozhodnutí o pokutách.
+Do tohoto kola nebylo zařazeno rozhodnutí bez ověřeného oficiálního plného textu, přímé nosnosti k § 81 a vyřešené intertemporality. Tím se nevyslovuje závěr o neexistenci související judikatury.
 
 ---
 

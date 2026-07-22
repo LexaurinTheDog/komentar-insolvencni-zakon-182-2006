@@ -513,59 +513,60 @@ V rámci této revize primárních pramenů nebylo do komentáře zařazeno rozh
 
 ## § 80 — Selhání zvláštního doručení
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Jestliže se osobě, které se písemnost doručuje zvlášť, nepodařilo doručit písemnost na adresu uvedenou v podání, které učinila v insolvenčním řízení, jako adresa jejího bydliště nebo sídla anebo jako adresa v České republice, na kterou jí má být písemnost doručována, doručí insolvenční soud písemnost znovu vyhláškou; ustanovení § 74 odst. 2 se v takovém případě nepoužije. Neobsahovala-li písemnost označení adresáta, opatří ji insolvenční soud před doručením vyhláškou i tímto údajem.
 > (2) Učinila-li osoba, které se písemnost doručuje zvlášť, v insolvenčním řízení více podání, doručuje se jí písemnost podle odstavce 1 na adresu bydliště nebo sídla anebo na adresu v České republice, na kterou má být písemnost doručována, kterou uvedla v posledním podání insolvenčnímu soudu.
 > (3) Osoba, které bylo rozhodnutí insolvenčního soudu doručeno vyhláškou nebo které bylo doručeno pouze zkrácené znění takového rozhodnutí, má právo na bezplatné vyhotovení stejnopisu rozhodnutí. Insolvenční soud tak učiní na její žádost.
 
+### Přehled výkladu
+
+§ 80 upravuje následný postup pro přesně vymezený případ: zvláštní doručení se nezdařilo na adrese, kterou sám adresát uvedl ve svém podání v insolvenčním řízení. Soud poté písemnost doručí znovu vyhláškou. Pro počátek lhůty se neuplatní § 74 odst. 2; rozhodný je režim doručení vyhláškou podle § 71 odst. 2. Při více podáních je rozhodná příslušná adresa z posledního podání. Odstavec 3 samostatně zaručuje na žádost bezplatný stejnopis rozhodnutí osobě, které bylo rozhodnutí doručeno vyhláškou nebo pouze ve zkráceném znění.
+
+### Souvisící ustanovení
+
+- **§ 7** — subsidiární použití procesních předpisů jen v mezích insolvenčního zákona a jeho zásad.
+- **§ 71 odst. 1 a 2** — vymezení doručení vyhláškou a okamžik jeho účinků.
+- **§ 74 odst. 2** — obecné pravidlo počátku lhůty při zvláštním doručení, které § 80 odst. 1 pro daný případ výslovně vylučuje.
+- **§ 75** — vymezení zvláštního způsobu doručení a okruhu případů zvláštního doručování.
+- **§ 89 odst. 3** — zveřejnění zkráceného znění vyhlášeného rozhodnutí; zákon současně výslovně stanoví, že takové zveřejnění samo nemá účinky doručení rozhodnutí.
+- **§ 160 odst. 3** — výslovná vazba § 80 odst. 1 na doručování rozhodnutí ve věci samé účastníkům incidenčního sporu.
+
+### Souvisící předpisy
+
+- **Zákon č. 99/1963 Sb., občanský soudní řád** — použije se přiměřeně pouze subsidiárně podle § 7 insolvenčního zákona; zvláštní pravidlo § 80 má přednost.
+
+### Z důvodové zprávy
+
+Zvláštní část důvodové zprávy k vládnímu návrhu insolvenčního zákona pojednává o § 71 až 80 společně. U § 80 výslovně uvádí, že ustanovení doplňuje doručení vyhláškou a možnost doručit jen zkrácené znění rozhodnutí tak, aby účastníku zůstalo právo na bezplatné vydání písemné podoby (stejnopisu) rozhodnutí. Jde o historické vysvětlení původního návrhu, nikoli o náhradu kontroly dnešního konsolidovaného znění. *(Sněmovní tisk 1120/0, 4. volební období, zvláštní část „K § 71 až 80“, číslovaná s. 175–176, zejména s. 176; PDF s. 176–177.)*
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento oddíl proto nepředstavuje negativní rešerši literatury.
+
 ### Výklad
 
-**Záchranný mechanismus:** pokud zvláštní doručení selže, soud doručí **opakovaně vyhláškou** — a tím se písemnost pokládá za doručenou (*okamžikem zveřejnění*, § 71 odst. 2). § 74 odst. 2 (lhůta běží od zvláštního doručení) **se nepoužije** — lhůta běží od vyhláškového doručení.
+[1] Použití § 80 odst. 1 předpokládá souběh tří znaků: písemnost se doručuje zvlášť, pokus o doručení nebyl úspěšný a použitá adresa je některou z adres vyjmenovaných v ustanovení, kterou adresát sám uvedl v podání učiněném v insolvenčním řízení. Samotný neúspěch doručení na jiné adrese tyto podmínky bez dalšího nenaplňuje.
 
-> *Důsledek*: účastník, který má v adrese vady (např. uvedl neexistující adresu), nese **plnou odpovědnost** — soud nečeká, doručí vyhláškou.
+[2] Jsou-li podmínky splněny, insolvenční soud doručí tutéž písemnost znovu vyhláškou. Jde o zveřejnění v insolvenčním rejstříku podle § 71 odst. 1. Doručení nastává dnem, popřípadě okamžikem zveřejnění vymezeným v § 71 odst. 2.
 
-**Adresa pro doručování** (odst. 2): rozhodující je **posledně uvedená** v podáních.
+[3] Výslovné vyloučení § 74 odst. 2 znamená, že v tomto zvláštním případě se počátek lhůty neodvíjí od neuskutečněného zvláštního doručení. Zda a jaká lhůta je s doručením konkrétní písemnosti spojena, je však vždy nutné určit podle ustanovení upravujícího příslušný procesní úkon; § 80 sám délku lhůty nestanoví.
 
-**Právo na bezplatný stejnopis** (odst. 3) — kompenzace za to, že vyhláškové doručení doručí typicky jen *zkrácené znění*. Účastník si může vyžádat *úplný stejnopis* zdarma.
+[4] Neobsahuje-li písemnost označení adresáta, soud je musí doplnit ještě před opakovaným doručením vyhláškou. Toto pravidlo brání tomu, aby byl režim § 80 použit zveřejněním neadresné písemnosti.
 
-### Vazby
+[5] Při více podáních adresáta se podle odstavce 2 vychází z adresy bydliště, sídla nebo adresy pro doručování v České republice uvedené v jeho posledním podání insolvenčnímu soudu. Pro kontrolu postupu podle § 80 je proto podstatný nejen obsah vrácené zásilky, ale i časová posloupnost podání a adres v nich uvedených.
 
-- **§ 89 odst. 3** — zveřejnění zkráceného znění rozhodnutí.
+[6] Odstavec 3 zakládá právo na bezplatné vyhotovení stejnopisu rozhodnutí ve dvou alternativách: rozhodnutí bylo osobě doručeno vyhláškou, nebo jí bylo doručeno pouze jeho zkrácené znění. Soud stejnopis vyhotoví na žádost; ustanovení nezakládá automatické zasílání stejnopisu bez žádosti.
 
-### F. Kazuistika
+[7] § 89 odst. 3 je třeba číst přesně: připouští zveřejnění vhodně zkráceného znění vyhlášeného rozhodnutí, ale současně stanoví, že takové zveřejnění samo nemá účinky doručení. Nelze proto bez ověření konkrétního postupu zaměňovat zveřejnění zkráceného znění, doručení vyhláškou podle § 80 odst. 1 a doručení pouze zkráceného znění ve smyslu § 80 odst. 3.
 
-**1. Modelová situace.** Věřitel Jota v přihlášce uvedl jako adresu pro doručování v ČR adresu, na které se ve skutečnosti nezdržuje (uvedl chybné číslo popisné). Soud mu zvlášť doručuje rozhodnutí, zásilka se vrátí jako nedoručitelná. Soud proto doručí písemnost opakovaně vyhláškou. Jota později namítá, že mu nikdy nebylo řádně doručeno a žádá počítat lhůtu od (neexistujícího) zvláštního doručení. Důkazy: přihláška s uvedenou adresou, vrácená zásilka, výpis z rejstříku o opakovaném vyhláškovém doručení.
+[8] U doručování uskutečněného v minulosti je nutné ověřit tehdy účinné znění § 80, navazujících ustanovení insolvenčního zákona i subsidiárně použitelných procesních pravidel. Tento výklad odpovídá právnímu stavu k 19. 7. 2026.
 
-**2. Právní otázka.** Jaké jsou účinky, selže-li zvláštní doručení na adresu uvedenou samotným adresátem, a od kterého okamžiku běží lhůta po opakovaném doručení vyhláškou?
+### Judikatura
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 80 IZ — při neúspěchu zvláštního doručení na adresu uvedenou adresátem soud doručí znovu vyhláškou a § 74 odst. 2 se nepoužije (odst. 1); rozhodná je adresa z posledního podání (odst. 2); osoba, jíž bylo doručeno jen vyhláškou nebo zkrácené znění, má právo na bezplatný stejnopis (odst. 3).
-- *Související ustanovení téhož zákona:* § 71 odst. 2 (okamžik doručení vyhláškou), § 74 odst. 2 (počátek lhůty při zvláštním doručení — zde vyloučen), § 89 odst. 3 (zkrácené znění).
-- *Související předpisy:* OSŘ — náhradní doručení (v insolvenci nahrazeno vyhláškou).
-- *Judikatura:* NS 29 NSČR 4/2008 — neznámým věřitelům se doručuje jen vyhláškou; obecně NS k tomu, že vady v adrese uvedené účastníkem jdou k jeho tíži.
-
-**4. Subsumpce.** Zvláštní doručení selhalo na adrese, kterou uvedl sám adresát — naplněn znak odst. 1. Proto soud doručí opakovaně vyhláškou a § 74 odst. 2 se NEpoužije; lhůta běží od vyhláškového doručení (§ 71 odst. 2), nikoli od (neuskutečněného) zvláštního doručení. Námitka Joty není důvodná.
-
-**5. Řešení.** Doručení vyhláškou je platné, lhůta běží od zveřejnění; Jota nemá nárok na posun počátku lhůty. Má však právo požádat o bezplatný stejnopis rozhodnutí (odst. 3), bylo-li zveřejněno jen zkrácené znění. Praktický krok: účastník musí udržovat aktuální a správnou doručovací adresu; chybná adresa jde plně k jeho tíži.
-
-**6. Varianty.** (a) Kdyby Jota v pozdějším podání uvedl novou (správnou) adresu, soud by doručoval na ni (odst. 2 — adresa z posledního podání). (b) Kdyby zvláštní doručení selhalo z důvodu na straně soudu (chyba v adresování, ač ji adresát uvedl správně), úvaha o tíži účastníka by neplatila a bylo by nutné doručit znovu řádně.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Po selhání zvláštního doručení musí lhůta běžet až od skutečného doručení adresátu." — Neutralizace: odst. 1 výslovně vylučuje § 74 odst. 2; lhůta běží od opakovaného vyhláškového doručení.
-- *Protiargument:* „Vyhláškou se doručilo jen zkrácené znění, proto je doručení vadné." — Neutralizace: zkrácené znění je přípustné (§ 89 odst. 3); adresát má právo na bezplatný stejnopis, doručení tím není zpochybněno.
-- *Slabé místo:* je třeba doložit, že adresa pochází z podání adresáta a že selhání nezavinil soud; pochybení soudu v adresování by závěr obrátilo.
-
-### H. Praktický závěr
-
-Selže-li zvláštní doručení na adresu uvedenou adresátem, soud doručí znovu vyhláškou a lhůta běží od zveřejnění; vadná adresa jde k tíži účastníka, který má jen právo na bezplatný stejnopis.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověřeno, že adresa pro zvláštní doručení pochází z podání adresáta (poslední podání — odst. 2).
-- [ ] Při selhání doručeno znovu vyhláškou; lhůta navázána na zveřejnění (bez § 74 odst. 2).
-- [ ] Adresát poučen / vyřízeno právo na bezplatný stejnopis při zkráceném znění (odst. 3).
-- [ ] Vyloučeno pochybení soudu v adresování (jinak nutno doručit řádně znovu).
-
-**Typicky rozhodné důkazy / podklady:** přihláška/podání s uvedenou adresou, vrácená nedoručitelná zásilka, výpis z ISIR o vyhláškovém doručení, případná žádost o stejnopis.
+V rámci této revize primárních pramenů nebylo do komentáře zařazeno rozhodnutí, jehož nosný závěr by přímo vykládal § 80 a byl ověřen z plného textu na oficiálním webu soudu. Dřívější odkaz na 29 NSČR 4/2008 byl odstraněn, protože v komentáři nepodporoval přímo výklad podmínek § 80. Tím se nevyslovuje závěr o neexistenci související judikatury.
 
 ---
 

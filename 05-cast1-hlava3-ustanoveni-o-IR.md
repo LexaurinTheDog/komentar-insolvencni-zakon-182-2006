@@ -861,59 +861,54 @@ Stávající blok odkazoval jen obecně na neurčené rozhodnutí Nejvyššího 
 
 ## § 84 — Vyloučení přerušení řízení
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Přerušení insolvenčního řízení není přípustné; po dobu, po kterou Česká národní banka pozastavila obchodování se všemi investičními nástroji na regulovaném trhu podle zvláštního právního předpisu18), však nelze vydat rozhodnutí o úpadku dlužníka, který je podnikatelem.
 >
 > (2) Jde-li o případ podle odstavce 1 a navrhne-li to přihlášený věřitel, insolvenční soud ustanoví dlužníku předběžného správce. Nejde-li o insolvenčního navrhovatele, může insolvenční soud takovému věřiteli uložit, aby ve stanovené lhůtě zaplatil zálohu na náklady předběžného správce; § 108 se použije přiměřeně.
 
+### Přehled výkladu
+
+Ustanovení vylučuje přerušení insolvenčního řízení. Zvláštní situace při pozastavení obchodování Českou národní bankou řízení nepřerušuje; při splnění zákonných podmínek pouze dočasně brání vydání rozhodnutí o úpadku podnikatele a umožňuje ochranu prostřednictvím předběžného správce.
+
+### Souvisící ustanovení
+
+- **§ 7** — subsidiární použití občanského soudního řádu jen tehdy, nestanoví-li insolvenční zákon jinak.
+- **§ 27** — postavení, práva a povinnosti předběžného správce.
+- **§ 108** — režim zálohy na náklady insolvenčního řízení, který se podle § 84 odst. 2 použije přiměřeně.
+
+### Souvisící předpisy
+
+- **§ 109 až 111 zákona č. 99/1963 Sb., občanský soudní řád** — obecné důvody a účinky přerušení řízení; pro insolvenční řízení je přerušení výslovně vyloučeno § 84 odst. 1.
+- **§ 55 odst. 2 zákona č. 256/2004 Sb., o podnikání na kapitálovém trhu** — ustanovení označené poznámkou pod čarou 18 v aktuálním znění insolvenčního zákona.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva uvádí, že zákaz přerušení byl převzat z dřívější úpravy konkursu a vyrovnání. Pro situaci popsanou v odstavci 1 vysvětluje požadavek nevydat rozhodnutí o úpadku podnikatele a možnost přihlášeného věřitele dosáhnout ustanovení předběžného správce. Jde o sněmovní tisk 1120/0, zvláštní část „K § 84“, číslovaná strana 177 (PDF strana 178).
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tato poznámka není výsledkem negativní literární rešerše.
+
 ### Výklad
 
-**Princip nepřerušitelnosti** — insolvenční řízení **nelze přerušit** (na rozdíl od civilního procesu, kde § 109—112 OSŘ umožňuje řadu důvodů přerušení).
+[1] **Zákaz přerušení.** První část odstavce 1 je zvláštní procesní pravidlo vůči obecnému režimu § 109 až 111 o. s. ř. Proto insolvenční soud nepřeruší insolvenční řízení ani z důvodů, pro které by se obecné civilní řízení přerušovalo. Subsidiarita podle § 7 nemůže překonat výslovnou úpravu § 84.
 
-**Jediná výjimka — moratorium ČNB**: pokud ČNB **pozastavila obchodování se všemi investičními nástroji na regulovaném trhu** (§ 134 zákona č. 256/2004 Sb. o podnikání na kapitálovém trhu), **nelze vydat rozhodnutí o úpadku dlužníka-podnikatele**. To je systémová ochrana finančního trhu před kaskádovým efektem.
+[2] **Pozastavení obchodování není přerušením řízení.** Část věty za středníkem nezakládá výjimku ze zákazu přerušení. Při pozastavení obchodování se všemi investičními nástroji na regulovaném trhu Českou národní bankou pouze stanoví, že po dobu tohoto pozastavení nelze vydat rozhodnutí o úpadku dlužníka, který je podnikatelem. Ostatní procesní postup není samotným § 84 zastaven.
 
-**Substituce** — soud může ustanovit *předběžného správce* (dohlížecí funkce do skončení pozastavení obchodování).
+[3] **Podmínky zákazu rozhodnout o úpadku.** Rozhodné jsou kumulativně pozastavení obchodování Českou národní bankou v zákonem popsaném rozsahu, jeho trvání a postavení dlužníka jako podnikatele. Text § 84 naproti tomu nestanoví jako další podmínku, že právě dlužníkovy investiční nástroje musí být přijaty k obchodování na dotčeném regulovaném trhu.
 
-### Vazby
+[4] **Předběžný správce.** Trvá-li případ podle odstavce 1 a podá-li návrh přihlášený věřitel, soud předběžného správce ustanoví; nejde o volnou úvahu soudu o tom, zda jej ustanoví. Rozsah jeho činnosti, práv a povinností vymezí soud v mezích § 27 odst. 2.
 
-- **§ 134 ZPKT** — pozastavení obchodování ČNB.
-- **§ 27** — předběžný správce.
-- **§ 108** — záloha na náklady řízení (přiměřené použití).
+[5] **Záloha.** Je-li navrhující přihlášený věřitel současně insolvenčním navrhovatelem, § 84 odst. 2 neumožňuje uložit mu touto cestou zálohu na náklady předběžného správce. Jinému navrhujícímu přihlášenému věřiteli ji soud uložit může; § 108 se použije přiměřeně, nikoli bez dalšího doslovně.
 
-### F. Kazuistika
+[6] **Intertemporální mez.** Procesní postup je nutno posuzovat podle znění účinného v rozhodné době. Závěry výše vycházejí z konsolidovaného znění účinného k 19. 7. 2026; původní důvodová zpráva slouží k objasnění původního účelu a sama nedokládá pozdější právní stav.
 
-**1. Modelová situace.** Proti dlužníku-podnikateli Ró a. s., jehož investiční nástroje jsou na regulovaném trhu, je vedeno insolvenční řízení. ČNB pozastaví obchodování se všemi investičními nástroji na daném regulovaném trhu. Současně jeden z účastníků navrhuje přerušení insolvenčního řízení do skončení souvisejícího trestního řízení proti statutárnímu orgánu. Přihlášený věřitel navrhne ustanovení předběžného správce. Důkazy: rozhodnutí ČNB o pozastavení obchodování, doklad o tom, že dlužník je podnikatel a má nástroje na regulovaném trhu, návrh věřitele na předběžného správce.
+### Judikatura
 
-**2. Právní otázka.** (a) Lze insolvenční řízení přerušit kvůli souvisejícímu trestnímu řízení? (b) Jaké jsou důsledky pozastavení obchodování ČNB pro vydání rozhodnutí o úpadku?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 84 IZ — přerušení insolvenčního řízení není přípustné; po dobu pozastavení obchodování se všemi investičními nástroji na regulovaném trhu ČNB nelze vydat rozhodnutí o úpadku dlužníka-podnikatele (odst. 1); na návrh přihlášeného věřitele soud ustanoví předběžného správce, případně uloží zálohu na jeho náklady (odst. 2).
-- *Související ustanovení téhož zákona:* § 27 (předběžný správce), § 108 (záloha na náklady — přiměřeně).
-- *Související předpisy:* § 134 zákona č. 256/2004 Sb. o podnikání na kapitálovém trhu (pozastavení obchodování); § 109–§ 112 OSŘ (přerušení řízení — v insolvenci vyloučeno).
-- *Judikatura:* nosně NS k tomu, že taxativní výluky přerušení v insolvenci nelze rozšiřovat; jedinou zákonnou modifikací je dočasný zákaz vydání rozhodnutí o úpadku dle odst. 1.
-
-**4. Subsumpce.** Návrh na přerušení kvůli trestnímu řízení nesplňuje žádný zákonný důvod — přerušení je v insolvenci nepřípustné (odst. 1 věta první). Pozastavení obchodování ČNB je naplněno (rozhodnutí ČNB, dlužník-podnikatel s nástroji na regulovaném trhu), proto po dobu pozastavení NELZE vydat rozhodnutí o úpadku; řízení však běží dál (nepřerušuje se).
-
-**5. Řešení.** Soud návrh na přerušení zamítne (institut v insolvenci neexistuje). Po dobu pozastavení obchodování ČNB nevydá rozhodnutí o úpadku dlužníka-podnikatele; na návrh přihlášeného věřitele ustanoví předběžného správce (odst. 2) jako dohlížecí nástroj a případně uloží zálohu na jeho náklady (§ 108 přiměřeně). Praktický krok: účastníci nemohou spoléhat na „pauzu" řízení; běží dál vyjma vydání rozhodnutí o úpadku.
-
-**6. Varianty.** (a) Kdyby dlužník nebyl podnikatel (nebo neměl nástroje na regulovaném trhu), výluka odst. 1 by se neuplatnila a rozhodnutí o úpadku by vydat šlo. (b) Kdyby pozastavení obchodování skončilo, překážka pro vydání rozhodnutí o úpadku odpadá a soud může rozhodnout.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Souběžné trestní řízení je důvodem k přerušení dle OSŘ." — Neutralizace: § 84 odst. 1 přerušení v insolvenci výslovně vylučuje; § 109–§ 112 OSŘ se nepoužijí.
-- *Protiargument:* „Pozastavení obchodování zastavuje celé insolvenční řízení." — Neutralizace: brání pouze vydání rozhodnutí o úpadku dlužníka-podnikatele; ostatní úkony pokračují, řízení se nepřerušuje.
-- *Slabé místo:* je třeba doložit, že jde o pozastavení obchodování se VŠEMI investičními nástroji na regulovaném trhu a že dlužník je podnikatel; jinak výluka odst. 1 nenastává.
-
-### H. Praktický závěr
-
-Insolvenční řízení nelze přerušit; jedinou modifikací je dočasný zákaz vydat rozhodnutí o úpadku dlužníka-podnikatele po dobu pozastavení obchodování ČNB, kdy lze ustanovit předběžného správce.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Vyloučeny návrhy na přerušení řízení (institut v insolvenci neexistuje).
-- [ ] Ověřeno, zda jde o pozastavení obchodování se všemi nástroji na regulovaném trhu a dlužník je podnikatel (pak zákaz vydat rozhodnutí o úpadku).
-- [ ] Na návrh přihlášeného věřitele zváženo ustanovení předběžného správce (odst. 2).
-- [ ] Případně uložena záloha na náklady předběžného správce (§ 108 přiměřeně).
-
-**Typicky rozhodné důkazy / podklady:** rozhodnutí ČNB o pozastavení obchodování, doklad o postavení dlužníka jako podnikatele a o nástrojích na regulovaném trhu, návrh věřitele na předběžného správce.
+Původní blok uváděl neurčený závěr Nejvyššího soudu bez spisové značky a bez ověřitelného plného textu. Nebyl proto převzat. Judikatura bude doplněna jen po samostatném plnotextovém ověření; tím se nevyslovuje závěr o neexistenci relevantních rozhodnutí.
 
 ---
 

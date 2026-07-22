@@ -454,57 +454,60 @@ V rámci revize primárních pramenů nebylo do komentáře zařazeno rozhodnut�
 
 ### § 79 — Doručování věřitelskému výboru
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+#### Znění ustanovení
+
 > (1) Písemnost určenou věřitelskému výboru insolvenční soud doručuje do datové schránky jeho předsedy. Není-li možné doručit písemnost tímto způsobem, předá písemnost doručujícímu orgánu k doručení na adresu pro doručování jeho předsedy.
 >
 > (2) Jestliže o to věřitelský výbor požádá, insolvenční soud předá písemnost k doručení na jinou adresu v České republice, kterou věřitelský výbor sdělil insolvenčnímu soudu. Na jinou adresu nebo elektronickou adresu lze doručovat jen tehdy, nelze-li doručovat do datové schránky.
 >
 > (3) Pro doručování věřitelskému výboru platí § 78 odst. 1 obdobně.
 
-### Přehled výkladu
+#### Přehled výkladu
 
-Ustanovení rozlišují doručování prováděné insolvenčním správcem (§ 76), doručování správci (§ 77 a 78) a doručování věřitelskému výboru prostřednictvím jeho předsedy (§ 79). Pro soud je u správce i předsedy výboru výchozím kanálem datová schránka; zákonné náhradní způsoby nastupují teprve tehdy, není-li takové doručení možné. § 76 naproti tomu upravuje postavení a postup správce jako odesílatele.
+§ 79 upravuje zvláštní doručování písemností určených věřitelskému výboru. Výbor zůstává adresátem, avšak soud doručuje prostřednictvím jeho předsedy: přednostně do předsedovy datové schránky a teprve při nemožnosti tohoto způsobu prostřednictvím zákonem určených náhradních kanálů. Odstavec 3 připojuje úzký zvláštní režim pro předsedu, jemuž se vzhledem k jeho postavení doručuje podle občanského soudního řádu jinak.
 
-### Souvisící ustanovení
+#### Souvisící ustanovení
 
 - § 7 — přiměřené použití občanského soudního řádu,
 - § 56 až 60 — věřitelský výbor a způsob jeho jednání,
 - § 71 až 75 — doručení vyhláškou a zvláštní způsob doručení,
+- § 78 odst. 1 — zvláštní způsob doručení fyzické osobě vzhledem k jejímu postavení,
 - § 80 — postup po neúspěšném zvláštním doručení.
 
-### Souvisící předpisy
+#### Souvisící předpisy
 
 - zákon č. 99/1963 Sb., občanský soudní řád, zejména § 45 až 50a — způsoby doručování, adresy, doručující orgány, doručování do vlastních rukou a příjemci písemností,
-- zákon č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi dokumentů — režim doručování do datových schránek, na který odkazují poznámky pod čarou k § 77 až 79.
+- zákon č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi dokumentů — režim doručování do datových schránek, na který odkazuje poznámka pod čarou 16a.
 
-### Z důvodové zprávy
+#### Z důvodové zprávy
 
-Vládní návrh insolvenčního zákona označil § 76 za zvláštní úpravu postupu správce při doručování a výslovně vysvětlil, že při osobním doručování má správce postavení soudního doručovatele. Úprava doručování správci v § 77 a 78 a věřitelskému výboru v § 79 podle zprávy vycházela z občanského soudního řádu. Tento historický popis legislativního záměru je použit jen v rozsahu, v němž odpovídá aktuálnímu znění; konkrétní dnešní pořadí datové schránky a náhradních kanálů je vyvozováno přímo ze zákona.
+Vládní návrh insolvenčního zákona zařadil § 79 do společně odůvodněného bloku § 71 až 80. Zpráva označila úpravu doručování za zásadně konformní s tehdejší úpravou jiných procesních předpisů a současně zdůraznila zvláštnosti insolvenčního řízení. Jde o historický podklad (sněmovní tisk 1120/0, zvláštní část K § 71 až 80, číslovaná s. 176); konkrétní dnešní priorita datové schránky a pořadí náhradních kanálů se vyvozují z aktuálního znění zákona, nikoli z původní zprávy.
 
-### Literatura
+#### Literatura
 
 Odborná literatura je rozhodnutím editora odložena do druhého kola; nejde o závěr negativní rešerše.
 
-### Výklad
+#### Výklad
 
-[1] § 76 odst. 1 přiznává správci postavení soudního doručovatele pouze tehdy, doručuje-li osobně písemnost týkající se insolvenčního řízení. Ustanovení samo nerozšiřuje toto postavení na jiné činnosti správce ani nestanoví obecný následek každé vady osobního doručování.
+[1] Adresátem písemnosti podle § 79 je věřitelský výbor. Předseda je osobou, jejíž datovou schránku nebo adresu pro doručování zákon používá jako doručovací bod. Z textu § 79 neplyne, že by soud měl tutéž písemnost samostatně doručovat každému členu výboru.
 
-[2] Při využití provozovatele poštovních služeb musí správce nejprve posoudit, zda je pro insolvenční řízení nutný doklad o doručení konkrétní písemnosti. Je-li nutný, § 76 odst. 2 předepisuje zásilku s dodejkou nebo zásilku určenou k dodání do vlastních rukou. Ze samotné volby jiné formy však nelze bez posouzení konkrétní písemnosti, skutečného průběhu doručení a navazující procesní úpravy automaticky dovodit, zda a kdy nastal určitý procesní následek.
+[2] Odstavec 1 stanoví pořadí způsobů. Insolvenční soud nejprve doručuje do datové schránky předsedy. Jen není-li tento způsob možný, předá písemnost doručujícímu orgánu k doručení na adresu pro doručování předsedy.
 
-[3] Žádost insolvenčnímu soudu podle § 76 odst. 3 je možností následující po neúspěchu doručení některým ze způsobů vyjmenovaných zákonem. Text neukládá správci, aby bez dalšího postupně vyčerpal každý z těchto způsobů, ani nezaměňuje tuto žádost s postupem soudu podle § 80.
+[3] Jiná adresa v České republice podle odstavce 2 předpokládá žádost věřitelského výboru a sdělení této adresy insolvenčnímu soudu. I při takové žádosti zákon dovoluje doručovat na jinou adresu nebo elektronickou adresu jen tehdy, nelze-li doručovat do datové schránky. Žádost tedy sama neodstraňuje zákonnou prioritu datové schránky.
 
-[4] § 77 odst. 1 stanoví pořadí doručování písemnosti správci: nejprve do jeho datové schránky; není-li to možné, prostřednictvím doručujícího orgánu na adresu sídla zapsanou v seznamu insolvenčních správců. Jiná adresa v České republice sdělená na žádost správce nebo elektronická adresa přichází v úvahu jen při nemožnosti doručení do datové schránky.
+[4] O žádosti podle odstavce 2 jedná výbor způsobem upraveným zejména v § 58. § 79 sám nestanoví zvláštní formu žádosti ani pravidlo, které by předsedovi dovolovalo bez projevu vůle výboru zvolit jinou adresu jménem výboru.
 
-[5] Podle § 77 odst. 2 mohou písemnost pro správce, včetně písemnosti do vlastních rukou, přijmout také jeho zaměstnanci a jiné fyzické osoby, které k tomu zmocnil. Zda písemnost převzala osoba spadající do některé z těchto skupin, je skutkovou otázkou; u jiné fyzické osoby je rozhodné zmocnění k přijetí.
+[5] Obdobné použití § 78 odst. 1 míří na situaci, kdy je předsedou fyzická osoba, které se vzhledem k jejímu postavení doručuje podle občanského soudního řádu jinak než ostatním fyzickým osobám, a současně není možné doručit do datové schránky. Odkaz v § 79 odst. 3 se nevztahuje na § 78 odst. 2.
 
-[6] § 78 odst. 1 řeší úzkou náhradní situaci: správcem je fyzická osoba, které se vzhledem k jejímu postavení doručuje podle občanského soudního řádu jinak, a současně nelze doručit do datové schránky správce. Tehdy se doručuje způsobem odpovídajícím tomuto postavení a § 77 se nepoužije. Nelze-li případ podřadit pod odstavec 1 a soud předává písemnost doručujícímu orgánu, připojí podle odstavce 2 k označení adresáta dodatek „insolvenční správce“. Zákon zde sám nestanoví paušální následek opomenutí dodatku.
+[6] § 79 je součástí systému, v němž se rozlišuje doručení vyhláškou a zvláštní způsob doručení (§ 71 až 75). Případné procesní následky vady proto nelze dovozovat izolovaně jen z volby kanálu; závisí také na druhu písemnosti, skutečném průběhu doručení a navazujících ustanoveních, včetně § 74 a § 80.
 
-[7] Adresátem podle § 79 je věřitelský výbor, avšak zákonným doručovacím bodem je datová schránka jeho předsedy. Není-li tento způsob možný, nastupuje adresa pro doručování předsedy; jiná adresa v České republice sdělená výborem nebo elektronická adresa je opět podmíněna nemožností doručení do datové schránky. § 79 nestanoví samostatné doručování každému členu výboru.
+[7] Výklad odpovídá znění účinnému k 19. 7. 2026. Při posouzení dřívějšího doručování je nutné ověřit tehdy účinné znění § 79, souvisejících ustanovení insolvenčního zákona i použitelných pravidel občanského soudního řádu.
 
-[8] Obdobné použití § 78 odst. 1 podle § 79 odst. 3 znamená, že při splnění jeho podmínek se zohlední zvláštní způsob doručování daný postavením předsedy výboru. Obdobnost nelze rozšířit na § 78 odst. 2, který § 79 odst. 3 neuvádí.
+#### Judikatura
 
-### Judikatura
-
-K výše uvedeným závěrům se necituje rozhodnutí, jehož nosný význam by nebyl pro tuto jednotku ověřen z plného textu na oficiálním webu soudu. Výklad proto stojí na aktuálním znění zákona, přiměřeně použitelné obecné procesní úpravě a ověřené oficiální důvodové zprávě.
+V rámci této revize primárních pramenů nebylo do komentáře zařazeno rozhodnutí, jehož nosný závěr by přímo vykládal § 79 a byl ověřen z plného textu na oficiálním webu soudu. Tím se nevyslovuje závěr o neexistenci související judikatury.
 
 ---
 

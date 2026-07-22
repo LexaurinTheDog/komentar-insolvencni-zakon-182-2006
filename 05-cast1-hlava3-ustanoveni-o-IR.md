@@ -306,198 +306,115 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola; tato poz
 
 ## § 76 — § 79 — Doručování konkrétním subjektům
 
-### § 76 — Doručování ze strany insolvenčního správce
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+**§ 76**
 
 > (1) Doručuje-li insolvenční správce písemnosti týkající se insolvenčního řízení osobně, má přitom postavení soudního doručovatele.
+>
 > (2) Písemnosti doručované prostřednictvím provozovatelů poštovních služeb insolvenční správce zasílá, je-li pro insolvenční řízení nutný doklad o doručení písemnosti, jako poštovní zásilku s dodejkou nebo jako poštovní zásilku určenou k dodání do vlastních rukou adresáta.
+>
 > (3) Nepodaří-li se insolvenčnímu správci písemnost doručit prostřednictvím sítě nebo služby elektronických komunikací, osobně nebo prostřednictvím provozovatelů poštovních služeb, může požádat o doručení insolvenční soud.
+
+### Přehled výkladu
+
+§ 76 upravuje postavení a postup insolvenčního správce jako odesílatele: při osobním doručování mu přiznává postavení soudního doručovatele, pro průkazné poštovní doručování stanoví předepsané formy a po neúspěchu dovoluje požádat o doručení insolvenční soud.
+
+### Souvisící ustanovení
+
+- § 7 a § 71 až 80 insolvenčního zákona.
+
+### Souvisící předpisy
+
+- zákon č. 99/1963 Sb., občanský soudní řád, zejména § 45 až 50a.
+
+### Z důvodové zprávy
+
+Vládní návrh označil § 76 za zvláštní úpravu postupu správce při doručování a výslovně vysvětlil jeho postavení soudního doručovatele při osobním doručování.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola; nejde o závěr negativní rešerše.
 
 ### Výklad
 
-**Správce může doručovat sám** — má postavení **soudního doručovatele** (kvazi-orgán). Možnosti:
-- *osobně* (např. písemnost o popření pohledávky),
-- *poštou* (s dodejkou nebo do vlastních rukou),
-- *elektronicky* (datová schránka, e-mail).
+[1] Postavení soudního doručovatele náleží správci podle odstavce 1 jen při osobním doručování písemnosti týkající se insolvenčního řízení.
 
-**Selhání doručení** — *eskalace na soud*. Praxe: typicky pro neznámé adresy, nepřevzaté zásilky.
+[2] Je-li pro insolvenční řízení nutný doklad o doručení poštou, odstavec 2 předepisuje zásilku s dodejkou nebo zásilku do vlastních rukou. Konkrétní procesní následek nelze určit bez povahy písemnosti a skutečného průběhu doručení.
 
-#### F. Kazuistika
+[3] Žádost soudu podle odstavce 3 následuje po neúspěchu doručení některým ze zákonem vyjmenovaných způsobů; text nevyžaduje postupné vyčerpání všech.
 
-**1. Modelová situace.** Insolvenční správce dlužníka Zeta s. r. o. potřebuje doručit věřiteli Theta písemnost o popření jeho pohledávky, na níž závisí běh lhůty k podání incidenční žaloby. Správce ji zašle běžnou listovní zásilkou bez dodejky; věřitel později tvrdí, že nic neobdržel. Důkazy: kopie odeslané písemnosti, podací lístek (chybí dodejka/doručenka), záznam o pokusech o doručení.
+### Judikatura
 
-**2. Právní otázka.** Splnil správce požadavek na doklad o doručení, zaslal-li písemnost, u níž je doklad o doručení nutný, jako obyčejnou zásilku bez dodejky?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 76 IZ — správce doručující osobně má postavení soudního doručovatele (odst. 1); je-li nutný doklad o doručení, zasílá poštou s dodejkou nebo do vlastních rukou (odst. 2); při neúspěchu může požádat o doručení soud (odst. 3).
-- *Související ustanovení téhož zákona:* § 77 (doručování správci), § 80 (selhání zvláštního doručení), § 197/§ 198 a navazující úprava incidenčních lhůt.
-- *Související předpisy:* OSŘ — pravidla o doručovateli a doručence (přiměřeně), předpisy o poštovních službách.
-- *Judikatura:* nosně NS k tomu, že běh lhůty navázané na doručení vyžaduje řádný a prokazatelný způsob doručení; bez doručenky nelze počátek lhůty postavit najisto.
-
-**4. Subsumpce.** Písemnost je taková, u níž je doklad o doručení nutný (běží od ní lhůta). Znak odst. 2 (zaslání s dodejkou / do vlastních rukou) NENÍ naplněn — obyčejná zásilka nezajišťuje doklad. Doručení proto nelze považovat za prokázané; lhůta nezačala bezpečně běžet.
-
-**5. Řešení.** Správce musí doručit znovu řádně — s dodejkou nebo do vlastních rukou — nebo požádat soud (odst. 3). Riziko: pokud správce na neprokázaném doručení založí počátek lhůty a věřitel ji „zmešká", incidenční spor o pohledávce nelze v jeho neprospěch uzavřít. Praktický krok: vždy archivovat doručenku jako důkaz.
-
-**6. Varianty.** (a) Kdyby správce doručoval osobně a sepsal o předání záznam (postavení soudního doručovatele, odst. 1), doklad o doručení by byl zajištěn. (b) Kdyby u dané písemnosti doklad o doručení nutný nebyl, postačila by i obyčejná zásilka.
-
-#### G. Protiargumenty a rizika
-
-- *Protiargument:* „Písemnost byla odeslána, tím je doručena." — Neutralizace: odeslání není doručení; u písemností vyžadujících doklad musí být doručení prokázáno dodejkou/vlastními rukama.
-- *Protiargument:* „Správce nemá kapacitu na formální doručování." — Neutralizace: odst. 3 umožňuje eskalaci na soud; nedostatek kapacity neomlouvá neprokazatelný postup.
-- *Slabé místo:* spory o převzetí zásilky; bez dodejky či záznamu o osobním předání je důkazní pozice správce slabá.
-
-#### H. Praktický závěr
-
-Doručuje-li správce písemnost, od níž běží lhůta, musí volit formu s dokladem (dodejka / do vlastních rukou), jinak při neúspěchu požádat soud.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] U písemnosti správce posouzeno, zda je nutný doklad o doručení.
-- [ ] Zvolena forma s dodejkou nebo do vlastních rukou; doručenka archivována.
-- [ ] Při neúspěchu doručení využita eskalace na soud (§ 76 odst. 3).
-- [ ] Při osobním doručení sepsán záznam (postavení soudního doručovatele).
-
-**Typicky rozhodné důkazy / podklady:** dodejka/doručenka, kopie písemnosti, podací lístek, případný záznam o osobním předání.
+K § 76 se necituje rozhodnutí, jehož nosný význam nebyl ověřen z oficiálního plného textu.
 
 ### § 77 — Doručování insolvenčnímu správci
 
 > (1) Písemnost určenou insolvenčnímu správci doručuje insolvenční soud do datové schránky insolvenčního správce. Není-li možné doručit písemnost tímto způsobem, předá insolvenční soud písemnost doručujícímu orgánu k doručení na adresu jeho sídla zapsanou v seznamu insolvenčních správců. Jestliže insolvenční správce o to požádá, insolvenční soud předá písemnost k doručení na jinou adresu v České republice, kterou sdělil insolvenčnímu soudu. Na jinou adresu nebo elektronickou adresu lze doručovat jen tehdy, nelze-li doručovat do datové schránky.
+>
 > (2) Písemnost určenou insolvenčnímu správci včetně písemnosti doručované do vlastních rukou mohou přijmout také jeho zaměstnanci, jakož i jiné fyzické osoby, které k tomu insolvenční správce zmocnil.
-
-### Výklad
-
-**Pořadí doručovacích kanálů správci:**
-1. **datová schránka správce** (povinná pro správce),
-2. *adresa sídla* zapsaná v seznamu IS,
-3. *jiná adresa v ČR* na žádost správce.
-
-**Doručení zaměstnancem správce** — *přípustné* i u písemností do vlastních rukou. *Praxe*: v kancelářích správců přijímají zásilky asistenti, koncipienti apod.
-
-#### F. Kazuistika
-
-**1. Modelová situace.** Insolvenční soud doručuje insolvenčnímu správci usnesení, kterým mu ukládá povinnost (do vlastních rukou). Datová schránka správce je z technických důvodů dočasně nedostupná, proto soud nechá doručit na adresu sídla zapsanou v seznamu insolvenčních správců; zásilku do vlastních rukou převezme asistentka v kanceláři správce. Správce později namítá, že mu nebylo řádně doručeno, protože zásilku nepřevzal osobně. Důkazy: protokol o nedostupnosti datové schránky, doručenka s podpisem asistentky, výpis ze seznamu IS s adresou sídla.
-
-**2. Právní otázka.** Bylo doručení správci řádné, jestliže (a) bylo doručováno na adresu sídla namísto datové schránky a (b) zásilku do vlastních rukou převzala zaměstnankyně správce?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 77 IZ — primárně se správci doručuje do datové schránky; není-li to možné, na adresu sídla v seznamu IS, příp. na jinou adresu na žádost (odst. 1); písemnost včetně doručované do vlastních rukou mohou přijmout i zaměstnanci či zmocněné osoby správce (odst. 2).
-- *Související ustanovení téhož zákona:* § 76 (doručování ze strany správce), § 78 (správce-FO ve zvláštním postavení), § 80 (selhání zvláštního doručení).
-- *Související předpisy:* zákon č. 300/2008 Sb. o datových schránkách (povinná schránka správce); OSŘ přiměřeně.
-- *Judikatura:* nosně NS k tomu, že doručení do vlastních rukou je řádné i tehdy, převezme-li je osoba oprávněná zákonem za adresáta jednat/přijímat.
-
-**4. Subsumpce.** Znak „nelze doručit do datové schránky" je naplněn (doložená nedostupnost), proto byl postup na adresu sídla v souladu s pořadím odst. 1. Znak odst. 2 (převzetí zaměstnancem i u zásilek do vlastních rukou) je rovněž naplněn — asistentka je zaměstnankyní správce. Doručení je tedy řádné; námitka správce není důvodná.
-
-**5. Řešení.** Doručení nastalo převzetím zásilky zaměstnankyní; lhůty a povinnosti běží od tohoto okamžiku. Praktický krok: správce nese organizační odpovědnost za příjem zásilek v kanceláři a nemůže se dovolávat, že je nepřevzal osobně.
-
-**6. Varianty.** (a) Kdyby datová schránka byla funkční, doručení mimo ni (na adresu sídla) by bylo vadné — pořadí kanálů je závazné. (b) Kdyby šlo o správce-FO ve zvláštním postavení (§ 78), použila by se speciální úprava a § 77 by se nepoužil.
-
-#### G. Protiargumenty a rizika
-
-- *Protiargument:* „Do vlastních rukou znamená výlučně osobní převzetí správcem." — Neutralizace: odst. 2 výslovně připouští převzetí zaměstnanci či zmocněnci i u zásilek do vlastních rukou.
-- *Protiargument:* „Soud měl počkat na obnovení datové schránky." — Neutralizace: odst. 1 umožňuje doručit na adresu sídla, není-li doručení do schránky možné; soud nemusí vyčkávat neurčitě.
-- *Slabé místo:* je třeba doložit nemožnost doručení do datové schránky; bez tohoto doložení by přednostní doručení na adresu sídla bylo zpochybné.
-
-#### H. Praktický závěr
-
-Správci se doručuje primárně do datové schránky; jinak na adresu sídla. Zásilky včetně těch do vlastních rukou platně přebírají i zaměstnanci/zmocněnci správce.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Doručeno přednostně do datové schránky správce; jiný kanál jen při doložené nemožnosti.
-- [ ] Při doručení na adresu použita adresa sídla ze seznamu IS (nebo žádaná jiná adresa).
-- [ ] Akceptováno převzetí zaměstnancem/zmocněncem správce i u zásilek do vlastních rukou.
-- [ ] Správce zajistil organizaci příjmu zásilek v kanceláři.
-
-**Typicky rozhodné důkazy / podklady:** doklad o (ne)dostupnosti datové schránky, doručenka, výpis ze seznamu IS s adresou sídla, případné zmocnění k přebírání.
 
 ### § 78 — Speciální úprava pro správce-FO v zvláštním postavení
 
 > (1) Je-li insolvenčním správcem fyzická osoba, které se podle občanského soudního řádu písemnosti vzhledem k jejímu postavení doručují jinak než ostatním fyzickým osobám, a není-li možné doručit písemnost do datové schránky insolvenčního správce, předá insolvenční soud písemnost určenou insolvenčnímu správci doručujícímu orgánu k doručení tímto způsobem; § 77 se nepoužije.
-> (2) Nejde-li o případ uvedený v odstavci 1, insolvenční soud v písemnosti, kterou předá k doručení doručujícímu orgánu, připojí k označení insolvenčního správce dodatek „insolvenční správce".
-
-### Výklad
-
-Speciálka pro správce-FO s **zvláštním postavením** (typicky soudci, prokurátoři, vyšší úředníci — § 49 OSŘ). Tehdy se použijí pravidla jejich postavení (typicky doručování na úřední adresu).
-
-#### F. Kazuistika
-
-**1. Modelová situace.** Insolvenčním správcem je fyzická osoba, která je zároveň v postavení, jemuž OSŘ přiznává zvláštní způsob doručování (např. soudce). Datová schránka správce je nedostupná. Soud má doručit písemnost a řeší, zda postupovat podle obecného § 77 (adresa sídla v seznamu IS), nebo podle zvláštního režimu jejího postavení. Současně v jiné, listinně doručované písemnosti soud opomene k označení správce připojit dodatek „insolvenční správce". Důkazy: doklad o postavení správce, doklad o nedostupnosti datové schránky, vyhotovení písemnosti předané k doručení.
-
-**2. Právní otázka.** (a) Jak se doručuje správci-FO ve zvláštním postavení, není-li možné doručit do datové schránky? (b) Jaký následek má opomenutí dodatku „insolvenční správce" u běžné listinné písemnosti?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 78 IZ — u správce-FO se zvláštním způsobem doručování dle OSŘ se při nemožnosti doručení do datové schránky předá písemnost doručujícímu orgánu k doručení tímto zvláštním způsobem a § 77 se nepoužije (odst. 1); jinak soud připojí k označení správce dodatek „insolvenční správce" (odst. 2).
-- *Související ustanovení téhož zákona:* § 77 (obecné doručování správci — zde vyloučeno v případě odst. 1), § 79 odst. 3 (obdobné použití na věřitelský výbor).
-- *Související předpisy:* § 49 OSŘ — zvláštní způsob doručování určitým osobám podle jejich postavení.
-- *Judikatura:* nosně NS k tomu, že zvláštní způsob doručování podle postavení adresáta má přednost před obecným režimem, je-li zákonem takto stanoven.
-
-**4. Subsumpce.** Správce je FO se zvláštním postavením a datová schránka je nedostupná — naplněn znak odst. 1, proto se doručí zvláštním způsobem dle postavení a § 77 se nepoužije. U druhé písemnosti nejde o případ odst. 1, takže měl být připojen dodatek „insolvenční správce" (odst. 2); jeho opomenutí je vada označení.
-
-**5. Řešení.** První písemnost se doručí zvláštním způsobem podle postavení správce (typicky na úřední adresu), nikoli na adresu sídla dle § 77. U druhé písemnosti soud zjedná nápravu doplněním dodatku; samotné opomenutí dodatku zpravidla nezpůsobuje neúčinnost doručení, pokud nevzbudí pochybnost o adresátovi, ale je vhodné je odstranit. Praktický krok: soud rozliší oba režimy předem.
-
-**6. Varianty.** (a) Kdyby datová schránka správce byla funkční, doručilo by se do ní bez ohledu na zvláštní postavení (odst. 1 se aktivuje až při nemožnosti doručení do schránky). (b) Týž režim se obdobně použije pro doručování věřitelskému výboru (§ 79 odst. 3).
-
-#### G. Protiargumenty a rizika
-
-- *Protiargument:* „I u správce-FO ve zvláštním postavení platí § 77 (adresa sídla)." — Neutralizace: odst. 1 výslovně § 77 vylučuje, je-li nemožné doručit do datové schránky.
-- *Protiargument:* „Chybějící dodatek ‚insolvenční správce' činí doručení neúčinným." — Neutralizace: jde o náležitost označení; rozhodující je, zda nevznikla pochybnost o adresátovi, jinak je to odstranitelná vada.
-- *Slabé místo:* nutno doložit jak zvláštní postavení správce, tak nemožnost doručení do datové schránky; bez toho nelze odst. 1 aktivovat.
-
-#### H. Praktický závěr
-
-U správce-FO se zvláštním postavením a nedostupnou datovou schránkou se doručuje zvláštním způsobem dle jeho postavení (§ 77 se nepoužije); jinak se k označení připojuje dodatek „insolvenční správce".
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Zjištěno, zda je správce-FO v postavení se zvláštním způsobem doručování (§ 49 OSŘ).
-- [ ] Ověřena (ne)možnost doručení do datové schránky správce.
-- [ ] Při aktivaci odst. 1 doručeno zvláštním způsobem, § 77 nepoužit.
-- [ ] V ostatních případech připojen k označení správce dodatek „insolvenční správce".
-
-**Typicky rozhodné důkazy / podklady:** doklad o zvláštním postavení správce, doklad o stavu datové schránky, vyhotovení a označení doručované písemnosti.
+>
+> (2) Nejde-li o případ uvedený v odstavci 1, insolvenční soud v písemnosti, kterou předá k doručení doručujícímu orgánu, připojí k označení insolvenčního správce dodatek „insolvenční správce“.
 
 ### § 79 — Doručování věřitelskému výboru
 
 > (1) Písemnost určenou věřitelskému výboru insolvenční soud doručuje do datové schránky jeho předsedy. Není-li možné doručit písemnost tímto způsobem, předá písemnost doručujícímu orgánu k doručení na adresu pro doručování jeho předsedy.
+>
 > (2) Jestliže o to věřitelský výbor požádá, insolvenční soud předá písemnost k doručení na jinou adresu v České republice, kterou věřitelský výbor sdělil insolvenčnímu soudu. Na jinou adresu nebo elektronickou adresu lze doručovat jen tehdy, nelze-li doručovat do datové schránky.
 >
 > (3) Pro doručování věřitelskému výboru platí § 78 odst. 1 obdobně.
 
+### Přehled výkladu
+
+Ustanovení rozlišují doručování prováděné insolvenčním správcem (§ 76), doručování správci (§ 77 a 78) a doručování věřitelskému výboru prostřednictvím jeho předsedy (§ 79). Pro soud je u správce i předsedy výboru výchozím kanálem datová schránka; zákonné náhradní způsoby nastupují teprve tehdy, není-li takové doručení možné. § 76 naproti tomu upravuje postavení a postup správce jako odesílatele.
+
+### Souvisící ustanovení
+
+- § 7 — přiměřené použití občanského soudního řádu,
+- § 56 až 60 — věřitelský výbor a způsob jeho jednání,
+- § 71 až 75 — doručení vyhláškou a zvláštní způsob doručení,
+- § 80 — postup po neúspěšném zvláštním doručení.
+
+### Souvisící předpisy
+
+- zákon č. 99/1963 Sb., občanský soudní řád, zejména § 45 až 50a — způsoby doručování, adresy, doručující orgány, doručování do vlastních rukou a příjemci písemností,
+- zákon č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi dokumentů — režim doručování do datových schránek, na který odkazují poznámky pod čarou k § 77 až 79.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona označil § 76 za zvláštní úpravu postupu správce při doručování a výslovně vysvětlil, že při osobním doručování má správce postavení soudního doručovatele. Úprava doručování správci v § 77 a 78 a věřitelskému výboru v § 79 podle zprávy vycházela z občanského soudního řádu. Tento historický popis legislativního záměru je použit jen v rozsahu, v němž odpovídá aktuálnímu znění; konkrétní dnešní pořadí datové schránky a náhradních kanálů je vyvozováno přímo ze zákona.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola; nejde o závěr negativní rešerše.
+
 ### Výklad
 
-**Doručování výboru = doručování předsedovi** (typicky největší věřitel, banka). Pořadí — datová schránka předsedy, adresa pro doručování, jiná adresa na žádost.
+[1] § 76 odst. 1 přiznává správci postavení soudního doručovatele pouze tehdy, doručuje-li osobně písemnost týkající se insolvenčního řízení. Ustanovení samo nerozšiřuje toto postavení na jiné činnosti správce ani nestanoví obecný následek každé vady osobního doručování.
 
-#### F. Kazuistika
+[2] Při využití provozovatele poštovních služeb musí správce nejprve posoudit, zda je pro insolvenční řízení nutný doklad o doručení konkrétní písemnosti. Je-li nutný, § 76 odst. 2 předepisuje zásilku s dodejkou nebo zásilku určenou k dodání do vlastních rukou. Ze samotné volby jiné formy však nelze bez posouzení konkrétní písemnosti, skutečného průběhu doručení a navazující procesní úpravy automaticky dovodit, zda a kdy nastal určitý procesní následek.
 
-**1. Modelová situace.** Insolvenční soud potřebuje doručit věřitelskému výboru vyrozumění s krátkou lhůtou k vyjádření. Předsedou výboru je banka. Soud nedoručí do datové schránky předsedy, ale rozešle písemnost jednotlivým členům výboru na jejich soukromé adresy; předseda písemnost nezaznamená a lhůta uplyne. Člen výboru namítá, že doručení výboru nebylo řádné. Důkazy: zápis o ustavení výboru a osobě předsedy, výpis datové schránky předsedy, doklady o způsobu rozeslání písemnosti.
+[3] Žádost insolvenčnímu soudu podle § 76 odst. 3 je možností následující po neúspěchu doručení některým ze způsobů vyjmenovaných zákonem. Text neukládá správci, aby bez dalšího postupně vyčerpal každý z těchto způsobů, ani nezaměňuje tuto žádost s postupem soudu podle § 80.
 
-**2. Právní otázka.** Je doručení věřitelskému výboru řádné, doručil-li soud jednotlivým členům namísto předsedovi (do jeho datové schránky, příp. na jeho adresu)?
+[4] § 77 odst. 1 stanoví pořadí doručování písemnosti správci: nejprve do jeho datové schránky; není-li to možné, prostřednictvím doručujícího orgánu na adresu sídla zapsanou v seznamu insolvenčních správců. Jiná adresa v České republice sdělená na žádost správce nebo elektronická adresa přichází v úvahu jen při nemožnosti doručení do datové schránky.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 79 IZ — písemnost určená věřitelskému výboru se doručuje do datové schránky předsedy; není-li to možné, na adresu pro doručování předsedy (odst. 1); na žádost na jinou adresu v ČR (odst. 2); pro doručování výboru platí § 78 odst. 1 obdobně (odst. 3).
-- *Související ustanovení téhož zákona:* § 77 (doručování správci — analogická logika kanálů), § 78 odst. 1 (zvláštní postavení — obdobně), § 56 a násl. (věřitelský výbor a jeho předseda).
-- *Související předpisy:* zákon č. 300/2008 Sb. o datových schránkách; OSŘ přiměřeně.
-- *Judikatura:* nosně NS k zásadě, že doručení kolektivnímu orgánu se uskutečňuje prostřednictvím jeho předsedy/oprávněné osoby, nikoli rozesláním jednotlivým členům.
+[5] Podle § 77 odst. 2 mohou písemnost pro správce, včetně písemnosti do vlastních rukou, přijmout také jeho zaměstnanci a jiné fyzické osoby, které k tomu zmocnil. Zda písemnost převzala osoba spadající do některé z těchto skupin, je skutkovou otázkou; u jiné fyzické osoby je rozhodné zmocnění k přijetí.
 
-**4. Subsumpce.** Zákon určuje adresátem doručení předsedu výboru (jeho datovou schránku, příp. adresu). Rozeslání jednotlivým členům na soukromé adresy znak řádného doručení výboru NEnaplňuje. Doručení proto nenastalo řádně; lhůta výboru nezačala bezpečně běžet.
+[6] § 78 odst. 1 řeší úzkou náhradní situaci: správcem je fyzická osoba, které se vzhledem k jejímu postavení doručuje podle občanského soudního řádu jinak, a současně nelze doručit do datové schránky správce. Tehdy se doručuje způsobem odpovídajícím tomuto postavení a § 77 se nepoužije. Nelze-li případ podřadit pod odstavec 1 a soud předává písemnost doručujícímu orgánu, připojí podle odstavce 2 k označení adresáta dodatek „insolvenční správce“. Zákon zde sám nestanoví paušální následek opomenutí dodatku.
 
-**5. Řešení.** Soud doručí znovu do datové schránky předsedy (nebo na jeho adresu, není-li schránka možná). Námitka člena výboru je důvodná. Praktický krok: výbor by měl mít jednoznačně určeného předsedu a aktuální doručovací údaje; soud doručuje výlučně přes něj.
+[7] Adresátem podle § 79 je věřitelský výbor, avšak zákonným doručovacím bodem je datová schránka jeho předsedy. Není-li tento způsob možný, nastupuje adresa pro doručování předsedy; jiná adresa v České republice sdělená výborem nebo elektronická adresa je opět podmíněna nemožností doručení do datové schránky. § 79 nestanoví samostatné doručování každému členu výboru.
 
-**6. Varianty.** (a) Kdyby datová schránka předsedy byla nedostupná a soud doručil na adresu pro doručování předsedy, šlo by o řádné doručení (odst. 1 věta druhá). (b) Kdyby byl předseda v postavení dle § 78 odst. 1, použil by se obdobně zvláštní režim (odst. 3).
+[8] Obdobné použití § 78 odst. 1 podle § 79 odst. 3 znamená, že při splnění jeho podmínek se zohlední zvláštní způsob doručování daný postavením předsedy výboru. Obdobnost nelze rozšířit na § 78 odst. 2, který § 79 odst. 3 neuvádí.
 
-#### G. Protiargumenty a rizika
+### Judikatura
 
-- *Protiargument:* „Doručení všem členům je dokonalejší než jen předsedovi." — Neutralizace: zákon stanoví doručení výboru přes předsedu; rozesílání členům není zákonný způsob a nezakládá účinky doručení výboru.
-- *Protiargument:* „Předseda měl písemnost zaznamenat sám." — Neutralizace: povinnost sledovat doručení má předseda jen tehdy, bylo-li doručeno zákonným kanálem (jeho schránka/adresa).
-- *Slabé místo:* nutno doložit, kdo je aktuálním předsedou a jaké jsou jeho doručovací údaje; změny v osobě předsedy je třeba sledovat.
-
-#### H. Praktický závěr
-
-Věřitelskému výboru se doručuje výhradně prostřednictvím předsedy — primárně do jeho datové schránky, jinak na jeho adresu; rozesílání jednotlivým členům není řádné doručení výboru.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Zjištěn aktuální předseda výboru a jeho doručovací údaje.
-- [ ] Doručeno přednostně do datové schránky předsedy; jinak na jeho adresu.
-- [ ] Vyloučeno „náhradní" rozesílání jednotlivým členům namísto předsedy.
-- [ ] Při zvláštním postavení předsedy aplikován § 78 odst. 1 obdobně (§ 79 odst. 3).
-
-**Typicky rozhodné důkazy / podklady:** zápis o ustavení výboru a osobě předsedy, výpis/doklad o datové schránce předsedy, doklady o způsobu doručení.
+K výše uvedeným závěrům se necituje rozhodnutí, jehož nosný význam by nebyl pro tuto jednotku ověřen z plného textu na oficiálním webu soudu. Výklad proto stojí na aktuálním znění zákona, přiměřeně použitelné obecné procesní úpravě a ověřené oficiální důvodové zprávě.
 
 ---
 

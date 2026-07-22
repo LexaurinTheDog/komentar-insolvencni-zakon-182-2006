@@ -812,57 +812,50 @@ Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento 
 
 ## § 83a — Vyloučení spojení věcí
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Není-li dále stanoveno jinak, není v insolvenčním řízení přípustné spojení věcí různých dlužníků ke společnému řízení.
+
+### Přehled výkladu
+
+Ustanovení je zvláštním procesním pravidlem: věci různých dlužníků nelze spojit jen proto, že spolu skutkově souvisejí, týkají se propojených osob nebo by společné projednání bylo hospodárné. Úvodní výhrada „není-li dále stanoveno jinak“ ponechává prostor výslovné zvláštní úpravě. Dnešní § 394a však nestanoví prosté spojení dvou již zahájených věcí; upravuje společný návrh manželů na povolení oddlužení a po dobu řízení je považuje za jednoho dlužníka.
+
+### Souvisící ustanovení
+
+- **§ 7** — subsidiární použití občanského soudního řádu; § 83a je speciální úpravou bránící použití obecného pravidla o spojení věcí různých dlužníků.
+- **§ 25 odst. 4** — nebrání-li tomu jiné okolnosti, určí se dlužníkům tvořícím koncern stejný insolvenční správce; obdobně se postupuje u manželů. Jde o koordinaci osobou správce, nikoli o spojení řízení.
+- **§ 394a** — společný návrh manželů na povolení oddlužení; manželé mají postavení nerozlučných společníků a považují se za jednoho dlužníka.
+
+### Souvisící předpisy
+
+- **§ 112 zákona č. 99/1963 Sb., občanský soudní řád** — obecně dovoluje z důvodu hospodárnosti spojit skutkově související věci nebo věci týchž účastníků; pro spojení insolvenčních věcí různých dlužníků jeho použití vylučuje § 83a.
+- **Zákon č. 294/2013 Sb.** — vložil § 83a do insolvenčního zákona s účinností od 1. 1. 2014.
+
+### Z důvodové zprávy
+
+Zvláštní část důvodové zprávy k zákonu č. 294/2013 Sb. vysvětlila, že před vložením § 83a byla přiměřená aplikace § 112 odst. 1 o. s. ř. na věci různých dlužníků pokládána za vyloučenou. Tehdejší praxe připustila spojování oddlužení manželů; navržená úprava tuto výjimku spojovala se současně zaváděným společným návrhem manželů, jinak však chtěla v zájmu právní jistoty výslovně zachovat obecný zákaz. (Sněmovní tisk 929/0, 6. volební období, zvláštní část, k bodu 50 [§ 83a], číslovaná s. 121, PDF s. 122.)
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Nejde o závěr, že k ustanovení neexistuje relevantní literatura.
 
 ### Výklad
 
-**Princip jednoho řízení na jednoho dlužníka.** Spojování insolvenčních řízení dvou nebo více dlužníků **vyloučeno**. Výjimky:
-- *manželé* — společné oddlužení manželů (§ 394a),
-- *koncern* — jeden správce, ale řízení formálně samostatná (§ 25 odst. 4).
+[1] **Předmět zákazu.** § 83a dopadá na procesní spojení věcí různých dlužníků ke společnému řízení. Totožnost nebo propojení věřitelů, skutková souvislost ani hospodárnost samy zákonný zákaz neprolamují.
 
-> *Praktický důsledek*: úpadek mateřské společnosti a její dcery vede ke **dvěma samostatným řízením**, byť obě vede tentýž správce a věřitelé jsou často titíž.
+[2] **Vztah k občanskému soudnímu řádu.** Podle § 7 se občanský soudní řád použije jen subsidiárně. Protože § 83a otázku spojení věcí různých dlužníků řeší výslovně, nelze přípustnost takového spojení založit na § 112 o. s. ř.
 
-### Vazby
+[3] **Manželé.** § 394a umožňuje manželům, z nichž je každý samostatně oprávněn podat návrh na povolení oddlužení, podat návrh společně. Po dobu insolvenčního řízení mají postavení nerozlučných společníků a zákon je považuje za jednoho dlužníka. Tento režim je třeba odlišit od dodatečného spojení dvou samostatně zahájených insolvenčních věcí.
 
-- **§ 25 odst. 4** — stejný správce pro koncern a manžele.
-- **§ 394a** — společné oddlužení manželů.
-- **OSŘ § 112** — spojení věcí v civilním procesu (zde *neaplikuje se*).
+[4] **Koncern a stejný správce.** § 25 odst. 4 předpokládá, že dlužníkům tvořícím koncern bude určena stejná osoba insolvenčního správce, nebrání-li tomu jiné okolnosti; obdobné pravidlo platí pro manžele. Toto personální sjednocení nemění počet dlužníků ani samo o sobě nespojuje jejich řízení, majetkové podstaty či okruhy věřitelů.
 
-### F. Kazuistika
+[5] **Intertemporální poznámka.** § 83a byl vložen zákonem č. 294/2013 Sb. s účinností od 1. 1. 2014. Historické závěry o spojování samostatných řízení manželů proto nelze bez dalšího přenášet na dnešní úpravu společného návrhu podle § 394a.
 
-**1. Modelová situace.** V úpadku je mateřská společnost Ný a. s. i její dceřiná Omikron s. r. o. (koncern). Věřitel navrhne spojení obou insolvenčních řízení do jednoho „pro hospodárnost", neboť věřitelé i správce jsou v obou věcech titíž. Souběžně manželé Pí navrhnou společné řešení svého úpadku. Důkazy: doklady o koncernovém propojení Ný/Omikron, oddací list a doklady o společném jmění u manželů Pí, přehled věřitelů obou dlužníků.
+### Judikatura
 
-**2. Právní otázka.** Lze v insolvenci spojit ke společnému řízení věci různých dlužníků (koncern), resp. existuje výjimka pro manžele?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 83a IZ — není-li stanoveno jinak, není přípustné spojení věcí různých dlužníků ke společnému řízení.
-- *Související ustanovení téhož zákona:* § 25 odst. 4 (tentýž správce pro koncern a manžele, ale řízení zůstávají samostatná), § 394a (společné oddlužení manželů jako zákonná výjimka).
-- *Související předpisy:* § 112 OSŘ — spojení věcí v civilním procesu, jehož aplikace je v insolvenci § 83a vyloučena.
-- *Judikatura:* nosně NS k zásadě „jedno řízení na jednoho dlužníka" a k tomu, že personální propojení správce/věřitelů nezakládá důvod ke spojení řízení.
-
-**4. Subsumpce.** U koncernu Ný/Omikron jde o různé dlužníky — znak přípustnosti spojení NENÍ dán (§ 83a); shoda správce a věřitelů na tom nic nemění. U manželů Pí je naplněna zákonná výjimka (§ 394a — společné oddlužení manželů), takže společné řešení je přípustné.
-
-**5. Řešení.** Návrh na spojení řízení Ný a Omikron soud nepřipustí; obě řízení poběží samostatně, byť je povede tentýž správce (§ 25 odst. 4) a věřitelé jsou titíž. Manželům Pí soud umožní společné oddlužení (§ 394a). Praktický krok: u koncernu se hospodárnost řeší jednotou správce a koordinací, nikoli formálním spojením spisů.
-
-**6. Varianty.** (a) Kdyby šlo o společné oddlužení manželů (§ 394a), výjimka ze zákazu spojení by se uplatnila. (b) Kdyby věřitel chtěl jen sjednotit osobu správce pro koncern, lze toho dosáhnout dle § 25 odst. 4 bez spojení řízení.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Spojení koncernových řízení je hospodárné, a proto přípustné." — Neutralizace: § 83a zakazuje spojení věcí různých dlužníků bez ohledu na hospodárnost; hospodárnost se řeší jednotou správce, ne spojením.
-- *Protiargument:* „Manželé jsou ‚jeden dlužník', takže jde o jedno řízení automaticky." — Neutralizace: i u manželů jde o zvláštní institut (§ 394a), nikoli o popření § 83a; mimo oddlužení manželů platí samostatnost.
-- *Slabé místo:* koordinace samostatných koncernových řízení může být náročná; je třeba ji zajistit procesně (tentýž správce, sladění úkonů), nikoli spojením.
-
-### H. Praktický závěr
-
-Platí zásada „jedno řízení na jednoho dlužníka"; spojení věcí různých dlužníků je vyloučeno, s výjimkou společného oddlužení manželů. Koncern se řeší jednotou správce, ne spojením spisů.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověřeno, zda jde o různé dlužníky (pak spojení nepřípustné — § 83a).
-- [ ] U manželů posouzeny podmínky společného oddlužení (§ 394a) jako jediné výjimky.
-- [ ] U koncernu zvážena jednota správce (§ 25 odst. 4) namísto spojení řízení.
-- [ ] Vyloučena aplikace § 112 OSŘ (spojení věcí) v insolvenci.
-
-**Typicky rozhodné důkazy / podklady:** doklady o koncernovém propojení dlužníků, oddací list a doklady o společném jmění u manželů, přehled věřitelů a osoby správce.
+Stávající blok odkazoval jen obecně na neurčené rozhodnutí Nejvyššího soudu, aniž uvedl spisovou značku nebo ověřitelný nosný závěr. Taková citace nebyla převzata. Judikatura bude doplněna pouze po samostatném ověření plného textu; tím se nevyslovuje závěr o neexistenci relevantních rozhodnutí.
 
 ---
 

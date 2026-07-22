@@ -759,60 +759,54 @@ V této revizi není citováno žádné soudní rozhodnutí. Dříve uvedené od
 
 ## § 83 — Vyloučení prominutí lhůty
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Prominutí zmeškání lhůty v insolvenčním řízení není přípustné; totéž platí, jde-li o zmeškání soudního jednání, včetně zmeškání schůze věřitelů nebo přezkumného jednání.
 
-### Výklad — **TVRDÉ PRAVIDLO**
+### Přehled výkladu
 
-**Absolutní zákaz prominutí zmeškání:**
-- procesních lhůt (např. lhůta pro odvolání, pro přihlášku),
-- soudních jednání,
-- schůzí věřitelů,
-- přezkumných jednání.
+Ustanovení vylučuje, aby insolvenční soud prominul zmeškání lhůty v insolvenčním řízení. Stejný režim výslovně vztahuje na zmeškání soudního jednání, schůze věřitelů a přezkumného jednání. Samotný § 83 však neurčuje, jaký konkrétní následek má zmeškání jednotlivého úkonu; ten je nutno zjistit z ustanovení, které danou lhůtu nebo účast upravuje.
 
-**Důvod**: *koncentrace řízení*. Insolvenční řízení by se nemohlo systémově řídit, kdyby se mohly lhůty libovolně prodlužovat. Jednou propásnutá lhůta = **definitivní ztráta práva**.
+### Souvisící ustanovení
 
-> *Důsledek pro praxi*: nikdy nečekejte „do poslední chvíle" — vždy podávejte s rezervou. Zvláštní pozor u krátkých lhůt v insolvenci (např. 7denní lhůta pro návrh na rozhodnutí o hlasovacím právu — § 52 odst. 2).
+- § 7 — subsidiární použití občanského soudního řádu,
+- § 85 odst. 2 — nemožnost dodatečně provést úkony vyhrazené jednání nebo schůzi za podmínek tohoto ustanovení,
+- § 173 odst. 1 — lhůta k podání přihlášky a následek opožděného podání,
+- § 185 — rozhodnutí o odmítnutí přihlášky, nastane-li skutečnost, pro kterou se k ní nepřihlíží.
 
-### Vazby
+### Souvisící předpisy
 
-- **OSŘ § 58** — prominutí zmeškání lhůty (v civilním procesu možné).
-- **§ 173** — lhůta pro přihlášku.
+- § 58 zákona č. 99/1963 Sb., občanský soudní řád — obecná úprava prominutí zmeškání lhůty, jejíž použití v insolvenčním řízení § 83 vylučuje.
 
-### F. Kazuistika
+### Z důvodové zprávy
 
-**1. Modelová situace.** Věřitel My s. r. o. zmešká o jeden den lhůtu k přihlášení pohledávky (§ 173). Příčinou byla pracovní neschopnost jednatele a výpadek interního IT. My podá přihlášku den po lhůtě spolu s návrhem na prominutí zmeškání lhůty, v němž tvrdí omluvitelné překážky. Důkazy: doklad o pracovní neschopnosti, záznam o IT výpadku, datum konce lhůty a datum podání přihlášky.
+Vládní návrh insolvenčního zákona uváděl, že se pro insolvenční řízení stejně jako v dosavadní úpravě konstruuje nepřípustnost prominutí zmeškání lhůty. Jde o zvláštní část důvodové zprávy k § 83 ve sněmovním tisku 1120/0, číslovaná strana 176 (PDF strana 177).
 
-**2. Právní otázka.** Lze v insolvenčním řízení prominout zmeškání lhůty k přihlášení pohledávky, byly-li překážky omluvitelné?
+### Literatura
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 83 IZ — prominutí zmeškání lhůty v insolvenčním řízení není přípustné; totéž platí pro zmeškání jednání, schůze věřitelů či přezkumného jednání.
-- *Související ustanovení téhož zákona:* § 173 (lhůta k přihlášení), § 185 (odmítnutí opožděné přihlášky), § 52 odst. 2 (krátké lhůty — např. k hlasovacímu právu).
-- *Související předpisy:* § 58 OSŘ — prominutí zmeškání lhůty (v civilním procesu přípustné), jehož aplikace je v insolvenci § 83 vyloučena.
-- *Judikatura:* nosně NS k absolutní povaze koncentrace v insolvenci — zmeškání propadné lhůty znamená definitivní zánik práva bez možnosti prominutí.
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní literární rešerše.
 
-**4. Subsumpce.** Návrh na prominutí zmeškání lhůty směřuje proti zmeškání lhůty k přihlášení — to § 83 výslovně vylučuje. Omluvitelnost překážek (nemoc, IT výpadek) je právně bezvýznamná, neboť zákaz prominutí je absolutní. Znak „přípustnost prominutí" naplněn být nemůže.
+### Výklad
 
-**5. Řešení.** Soud návrh na prominutí zamítne (resp. mu nevyhoví) a opožděnou přihlášku odmítne (§ 185); právo věřitele na uspokojení v řízení zaniká. My nemá účinný procesní prostředek nápravy. Praktický krok: u všech insolvenčních lhůt podávat s rezervou a budovat zálohu na výpadky (zástup, náhradní kanál podání).
+[1] § 83 je zvláštním pravidlem vůči § 58 občanského soudního řádu. Přiměřené použití občanského soudního řádu podle § 7 insolvenčního zákona je možné jen tehdy, nestanoví-li insolvenční zákon jinak; zde jinak stanoví výslovně. Insolvenční soud proto nemůže zmeškání prominout postupem podle § 58 o. s. ř., ani když účastník tvrdí omluvitelný důvod.
 
-**6. Varianty.** (a) Kdyby My podal přihlášku ještě poslední den lhůty (byť na poslední chvíli), byla by včasná a otázka prominutí by nevznikla. (b) Kdyby šlo o lhůtu v navazujícím civilním sporu mimo insolvenční řízení, mohl by se uplatnit § 58 OSŘ (prominutí možné) — v insolvenci však nikoli.
+[2] Zákaz se týká zmeškání lhůty „v insolvenčním řízení“. Nelze jej bez dalšího přenášet na samostatné řízení mimo insolvenční řízení. Před použitím § 83 je proto třeba určit povahu řízení a úkonu, nikoli vycházet pouze z toho, že věc skutkově souvisí s insolvencí.
 
-### G. Protiargumenty a rizika
+[3] Druhá část ustanovení staví zmeškání soudního jednání na roveň zmeškání lhůty a výslovně zahrnuje schůzi věřitelů i přezkumné jednání. Konkrétní procesní dopad neúčasti však plyne také z úpravy daného jednání; například § 85 odst. 2 váže nemožnost dodatečného úkonu na vlastní podmínky včetně řádného obeslání.
 
-- *Protiargument:* „Absolutní zákaz prominutí je nepřiměřeně tvrdý a protiústavní." — Neutralizace: slouží koncentraci a funkčnosti hromadného řízení; ústavně je akceptován, neboť účastníci mají rovný a předvídatelný přístup přes rejstřík.
-- *Protiargument:* „Omluvitelná překážka musí být zohledněna alespoň analogicky dle § 58 OSŘ." — Neutralizace: § 83 je speciální a aplikaci § 58 OSŘ vylučuje; analogii nelze použít proti výslovnému zákazu.
-- *Slabé místo:* žádná — pro adresáta normy je riziko jednostranné; jedinou obranou je včasnost, nikoli dodatečné omluvy.
+[4] § 83 sám nestanoví, že zmeškáním vždy zaniká hmotné právo nebo že každý opožděný úkon musí být odmítnut. Zakazuje pouze prominutí zmeškání. Následek se určí podle zvláštní úpravy konkrétního úkonu.
 
-### H. Praktický závěr
+[5] U přihlášky pohledávky stanoví § 173 odst. 1, že k později podané přihlášce insolvenční soud nepřihlíží a takto uplatněná pohledávka se v insolvenčním řízení neuspokojuje; § 185 upravuje odmítnutí přihlášky, nastala-li skutečnost, pro kterou se k ní nepřihlíží. To není totéž jako obecný zánik pohledávky mimo insolvenční řízení.
 
-V insolvenci nelze prominout zmeškání žádné lhůty ani neúčast na jednání/schůzi; jednou zmeškaná lhůta znamená definitivní ztrátu práva. Klíčem je výhradně včasnost.
+[6] Při posouzení tvrzené překážky je třeba oddělit dvě otázky: zda byl úkon skutečně opožděný podle pravidel o běhu a zachování lhůty, a zda zákon pro danou situaci stanoví zvláštní režim. Teprve je-li zmeškání postaveno najisto a nejde-li o zvláštní zákonnou úpravu, dopadá zákaz jeho prominutí.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Všechny insolvenční lhůty evidovány s rezervou; vyloučeno spoléhání na prominutí.
-- [ ] Zajištěn zástup a náhradní kanál podání pro případ nemoci/IT výpadku.
-- [ ] U krátkých lhůt (např. § 52 odst. 2) zvýšená kontrola počítání od okamžiku zveřejnění.
-- [ ] Návrh na prominutí zmeškání se v insolvenci nepodává jako řešení opožděnosti (je bezúspěšný).
+[7] Intertemporálně se konkrétní lhůta i následek jejího zmeškání posuzují podle právní úpravy rozhodné pro dané řízení a úkon. Starší rozhodnutí o opožděných přihláškách proto nelze mechanicky použít pro dnešní délku lhůty nebo pro později zavedené výjimky v § 173 odst. 1.
 
-**Typicky rozhodné důkazy / podklady:** datum konce lhůty (z rejstříku), datum a doklad o podání, případné (právně nerozhodné) doklady o překážkách.
+### Judikatura
+
+**ÚS, usnesení ze dne 20. 10. 2014, sp. zn. I. ÚS 129/14.** V řízení zahájeném podle tehdejší úpravy věřitelka podala přihlášku až po třicetidenní lhůtě a namítala, že jí zdravotní postižení znemožnilo sledovat insolvenční rejstřík. Ústavní soud stížnost odmítl: u konkrétně tvrzeného postižení jednoho oka neshledal objektivní nemožnost se s výzvou seznámit ani diskriminaci. Rozhodnutí nepodává obecný závěr o všech zdravotních překážkách a vzhledem k řízení z roku 2012 nedokládá dnešní délku přihlašovací lhůty; ukazuje nutnost hodnotit tvrzenou překážku v jejím konkrétním skutkovém a časovém kontextu.
 
 ---
 

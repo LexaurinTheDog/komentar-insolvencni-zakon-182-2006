@@ -17,6 +17,10 @@ Vlastní **rozhodnutí o úpadku** (§ 136 a násl.) — *věřitelské přihlá
 
 ## § 97 — Insolvenční návrh: jen na návrh, formální požadavky
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Insolvenční řízení lze zahájit jen na návrh; zahajuje se dnem, kdy insolvenční návrh dojde věcně příslušnému soudu.
 > (2) Insolvenční návrh musí být v listinné podobě opatřen úředně ověřeným podpisem osoby, která jej podala; jinak se k němu nepřihlíží.
 > (3) Je-li insolvenční návrh podepsán způsobem uvedeným v odstavci 2 pouze zástupcem insolvenčního navrhovatele na základě procesní plné moci, je podmínka uvedená v odstavci 2 splněna jen tehdy, je-li úředně ověřeným podpisem opatřena k insolvenčnímu návrhu připojená procesní plná moc. To platí obdobně, jedná-li za insolvenčního navrhovatele, jímž je právnická osoba, jeho zaměstnanec (člen), který tím byl pověřen statutárním orgánem, nebo byl-li insolvenční návrh podle § 390 odst. 1 podán za dlužníka osobou podle § 390a odst. 1 na základě zvláštní plné moci.
@@ -26,85 +30,55 @@ Vlastní **rozhodnutí o úpadku** (§ 136 a násl.) — *věřitelské přihlá
 > (7) O tom, že se k insolvenčnímu návrhu nepřihlíží, insolvenční soud vyrozumí insolvenčního navrhovatele a, byl-li insolvenční návrh podán podle § 390 odst. 1, také osobu, která jej za insolvenčního navrhovatele podala podle § 390a odst. 1, usnesením, proti němuž nejsou opravné prostředky přípustné.
 > (8) Insolvenční návrh je oprávněn podat dlužník nebo jeho věřitel; jde-li o hrozící úpadek, může insolvenční návrh podat jen dlužník.
 
-### Výklad — **JEDEN Z NEJVÝZNAMNĚJŠÍCH PARAGRAFŮ**
+### Přehled výkladu
 
-#### Dispoziční zásada o zahájení (odst. 1)
+§ 97 odděluje pět otázek: kdo může návrh podat, kdy je řízení zahájeno, jaké formální požadavky musí návrh splnit, kdy se k návrhu nepřihlíží a jak soud tento následek oznamuje. Listinný režim odstavců 2 a 3 je třeba odlišit od pravidel elektronického podání podle § 80a. U návrhu spojeného s oddlužením přistupují požadavky § 390 a § 390a; věřitelský návrh je navíc blokován trvajícími účinky moratoria preventivní restrukturalizace podle odstavce 6.
 
-**Insolvenční řízení se zahajuje *výhradně na návrh*** — nikdy ex offo. Důvod — *autonomie majetkové sféry*. I když by soud nebo státní orgán dozvěděl o úpadku dlužníka, **nemůže** řízení iniciovat sám.
+### Souvisící ustanovení
 
-*Okamžik zahájení*: **den, kdy návrh dojde věcně příslušnému soudu**. To je *přesný* okamžik (datum + čas příjmu — typicky razítkem podatelny). Tento okamžik je rozhodující pro účinky zahájení (§ 109 odst. 4 — nastávají zveřejněním vyhlášky, *nikoli* okamžikem podání).
+- **§ 7** — subsidiární použití občanského soudního řádu.
+- **§ 80a** — elektronická podání osob s datovou schránkou zřízenou bez žádosti; výjimečné listinné podání a postup při vadě formátu nebo způsobu.
+- **§ 98 až 100** — povinnost dlužníka podat návrh a následky jejího porušení.
+- **§ 103 až 105** — obsahové náležitosti návrhu a jeho přílohy.
+- **§ 109 odst. 4** — okamžik vzniku účinků spojených se zahájením insolvenčního řízení.
+- **§ 128 a § 128a** — odmítnutí vadného nebo zjevně bezdůvodného insolvenčního návrhu; jde o jiné procesní režimy než nepřihlížení podle § 97.
+- **§ 390 odst. 1 a § 390a** — spojení insolvenčního návrhu s návrhem na povolení oddlužení a osoby oprávněné jej sepsat a podat.
 
-#### Formální požadavky (odst. 2 — 6)
+### Souvisící předpisy
 
-**Tvrdé formální podmínky** pod sankcí *nepřihlížení* (= návrh „jakoby neexistuje"):
+- **Zákon č. 99/1963 Sb., občanský soudní řád** — § 9 odst. 4 písm. a) o věcné příslušnosti krajských soudů, § 28 o procesní plné moci a § 42 o formách podání; použije se jen v mezích § 7 insolvenčního zákona.
+- **Zákon č. 300/2008 Sb.** — § 18 upravuje provádění úkonů fyzických osob, podnikajících fyzických osob a právnických osob prostřednictvím datové schránky.
+- **Zákon č. 284/2023 Sb., o preventivní restrukturalizaci** — všeobecné a individuální moratorium, na něž navazuje § 97 odst. 6.
 
-(a) **Úředně ověřený podpis** (odst. 2):
-- na listinném podání,
-- pokud podepisuje zástupce, **musí být ověřena i procesní plná moc**,
-- analogie i pro pověřeného zaměstnance PO.
+### Z důvodové zprávy
 
-(b) **Stanovený formát a způsob** (odst. 4) — pro povinné subjekty (advokáti, daňoví poradci, PO) **elektronicky** s uznávaným elektronickým podpisem nebo datovou schránkou.
+Původní vládní návrh vysvětloval § 97 jako vyjádření zásady, že řízení se zahajuje výlučně na návrh a dnem dojití věcně příslušnému soudu. Aktivní legitimaci spojil s ekonomickým zájmem dlužníka nebo věřitele na výsledku řízení; u hrozícího úpadku ji vyhradil dlužníku kvůli riziku nátlakových věřitelských návrhů. Jde o historický podklad k původní úpravě, nikoli o vysvětlení později doplněných odstavců 2 až 7. Pramen: vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, 4. volební období, zvláštní část „K § 97“, číslovaná s. 179–180 (PDF s. 180–181).
 
-(c) **Návrh dlužníka-oddluženého musí podat akreditovaná osoba** (odst. 5) — viz § 390a (advokát, notář, soudní exekutor, akreditovaná osoba pro oddlužení, insolvenční správce).
+### Literatura
 
-(d) **Návrh věřitele proti dlužníkovi v moratoriu preventivní restrukturalizace** (odst. 6) — nepřípustný. Důvod — *koordinace s preventivní restrukturalizací* (zákon č. 284/2023 Sb.) — kdo je v moratoriu, nemůže být současně v insolvenčním řízení.
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Toto odložení není negativní rešerší a nevypovídá o neexistenci relevantních publikací.
 
-**Sankce za vady (odst. 7)**: soud *nepřihlíží* — vyrozumí navrhovatele *usnesením bez opravného prostředku*. Návrh tedy *zaniká* — nelze jej dodatečně doplnit.
+### Výklad
 
-#### Aktivní legitimace (odst. 8)
+[1] **Zahájení jen na návrh.** Insolvenční soud nemůže zahájit insolvenční řízení z úřední povinnosti. Podle odstavce 1 je řízení zahájeno dnem, kdy návrh dojde věcně příslušnému soudu. Zákon zde určuje den zahájení; tento údaj nelze zaměňovat s okamžikem, kdy podle § 109 odst. 4 nastávají účinky spojené se zahájením řízení.
 
-- *dlužník nebo věřitel* (běžný úpadek + platební neschopnost),
-- *jen dlužník* (hrozící úpadek — *prospektivní stav*, kde věřitel nemá osvědčovací titul).
+[2] **Aktivní legitimace.** Odstavec 8 opravňuje podat návrh dlužníka nebo jeho věřitele. Tvrdí-li se pouze hrozící úpadek, je navrhovatelem jen dlužník. Zda věřitelský navrhovatel své oprávnění obsahově osvědčil, se posuzuje také podle § 103 odst. 2 a § 105.
 
-### Vazby
+[3] **Listinný návrh a zastoupení.** U listinného návrhu vyžaduje odstavec 2 úředně ověřený podpis osoby, která jej podala. Podepíše-li jej pouze procesní zástupce, musí být podle odstavce 3 úředně ověřeným podpisem opatřena také připojená procesní plná moc. Stejné pravidlo zákon výslovně vztahuje na pověřeného zaměstnance či člena právnické osoby a na zvláštní plnou moc osoby podávající za dlužníka návrh podle § 390 odst. 1.
 
-- **§ 98** — povinnost dlužníka podat IN.
-- **§ 103** — náležitosti návrhu.
-- **§ 109** — účinky zahájení.
-- **§ 390, § 390a** — speciální pravidla pro oddlužení.
-- **Zákon č. 284/2023 Sb. o preventivní restrukturalizaci** — moratoria.
+[4] **Elektronický způsob je samostatná otázka.** Pro osoby, jimž se datová schránka zřizuje bez žádosti, stanoví § 80a odst. 1 elektronické podání do datové schránky soudu nebo elektronické podání podepsané uznávaným elektronickým podpisem; výjimečné listinné podání musí být odůvodněno. Odstavec 4 komentovaného ustanovení spojuje s nedodržením stanoveného formátu nebo způsobu následek nepřihlížení. Samotná volba elektronického kanálu však bez dalšího neřeší správnost zastoupení ani obsah a formu plné moci.
+
+[5] **Návrh spojený s oddlužením.** Jestliže dlužník podává insolvenční návrh spolu s návrhem na povolení oddlužení podle § 390 odst. 1, musí být splněn osobní režim § 390a odst. 1 nebo 2. Nesplnění vede podle odstavce 5 k nepřihlížení. Odstavec 3 navíc upravuje zvláštní plnou moc při podání osobou podle § 390a odst. 1.
+
+[6] **Preventivní restrukturalizace.** Trvají-li vůči věřiteli účinky všeobecného nebo individuálního moratoria podle zákona o preventivní restrukturalizaci, k jeho insolvenčnímu návrhu se podle odstavce 6 nepřihlíží. Norma míří na návrh věřitele dotčeného moratoriem; sama neříká, že po dobu moratoria nemůže být zahájeno žádné insolvenční řízení z jiného návrhu.
+
+[7] **Procesní následek.** V případech výslovně uvedených v odstavcích 2, 4, 5 a 6 zákon stanoví, že se k návrhu nepřihlíží. Podle odstavce 7 o tom soud vyrozumí určené osoby usnesením, proti němuž nejsou opravné prostředky přípustné. Tento režim je nutno odlišovat od odmítnutí návrhu podle § 128 nebo § 128a; nelze mezi nimi bez opory přenášet pravidla o odstraňování vad.
+
+[8] **Intertemporalita.** Formální režim § 97 vznikal v několika novelizačních vrstvách: zákon č. 294/2013 Sb. doplnil podpisové požadavky a plnou moc, zákon č. 64/2017 Sb. doplnil vazby na § 80a a oddlužení a zákon č. 284/2023 Sb. moratorium preventivní restrukturalizace. U staršího podání je proto třeba určit znění účinné v době podání a příslušná přechodná ustanovení; dnešní číslování odstavců nelze automaticky použít zpětně.
 
 ### Judikatura
 
-- **NS 29 NSČR 60/2014**: nepřihlíží se i k návrhu s drobnou vadou (chybějící ověření) — sankce je tvrdá, ale nelze ji obejít.
-- **ÚS Pl. ÚS 22/14**: ústavní konformita zveřejňování zahájení v rejstříku (i u věřitelských návrhů) — kompenzační mechanismus dostatečný.
-
-### F. Kazuistika
-
-**1. Modelová situace.** Společnost ALFA s. r. o. má vůči BETA a. s. splatnou pohledávku 2 mil. Kč. Advokát BETA sepíše věřitelský insolvenční návrh a podá jej v listinné podobě s úředně ověřeným podpisem advokáta; k návrhu připojí procesní plnou moc, na níž však podpis statutára BETA ověřen **není**. Soud má dokument datovaný razítkem podatelny na 14:03 dne X. Důkazy k obstarání: originál návrhu, plná moc, evidenční otisk podatelny (datum + čas), výpis z datové schránky.
-
-**2. Právní otázka.** Je splněna podmínka úředně ověřeného podpisu podle § 97 odst. 2 a 3, podepisuje-li návrh advokát na základě plné moci, jejíž podpis zmocnitele ověřen není — a jaký je následek?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 97 odst. 2 a 3 — listinný návrh musí mít úředně ověřený podpis; je-li podepsán zástupcem na základě procesní plné moci, musí být ověřen i podpis na plné moci.
-- *Související ustanovení téhož zákona:* § 97 odst. 4 (formát a způsob podání — pro advokáta povinně elektronicky), § 97 odst. 7 (vyrozumění usnesením bez opravného prostředku), § 109 odst. 4 (účinky až zveřejněním vyhlášky), § 103 (náležitosti návrhu).
-- *Související předpisy:* zákon č. 300/2008 Sb. o elektronických úkonech (povinná datová schránka advokáta), § 28 OSŘ (procesní plná moc).
-- *Judikatura:* NS 29 NSČR 60/2014 (citováno v komentáři) — i drobná vada ověření vede k nepřihlížení, sankce je tvrdá a nelze ji obejít.
-
-**4. Subsumpce.** Návrh sám má ověřený podpis advokáta — znak „úředně ověřený podpis osoby, která jej podala" je formálně dotčen, ale odst. 3 vyžaduje **navíc** ověření podpisu na připojené plné moci. Tento znak splněn není. Vada se přitom týká samotného návrhu, nikoli jen přílohy (§ 128 odst. 2), proto se neuplatní výzva k doplnění.
-
-**5. Řešení.** K návrhu se **nepřihlíží** (§ 97 odst. 2 ve spojení s odst. 3). Soud vydá usnesení dle odst. 7, proti němuž není opravný prostředek; návrh „zaniká" a nelze jej dodatečně sanovat. Praktický krok: BETA musí podat zcela nový návrh — řádně (advokát fakticky elektronicky datovou schránkou s uznávaným podpisem, čímž otázka ověření plné moci odpadá). Riziko: ztráta časové priority a běhu lhůt; konkurenční navrhovatel může mezitím zahájit řízení sám.
-
-**6. Varianty.** (a) Advokát podá návrh elektronicky datovou schránkou s uznávaným elektronickým podpisem — odst. 2/3 o ověření plné moci se fakticky nehrotí (požadavek listinného ověření míří na listinnou podobu) a návrh je perfektní. (b) Návrh podá proti dlužníkovi, vůči němuž trvá všeobecné moratorium podle ZPR — pak se k němu nepřihlíží již podle odst. 6 bez ohledu na ověření.
-
-### G. Protiargumenty a rizika
-
-- *„Vada je marginální, soud měl vyzvat k odstranění."* Neobstojí: § 97 spojuje vadu přímo se sankcí nepřihlížení, výzva podle § 43 OSŘ ani § 128 odst. 2 (přílohy) se neuplatní, jde o vadu návrhu samotného. Neutralizace: podat nový bezvadný návrh, netrvat na záchraně vadného.
-- *„Soud o úpadku ví, měl by konat."* Vyvráceno odst. 1 — řízení lze zahájit jen na návrh; ex offo nikdy. Soud nesmí suplovat navrhovatele.
-- Slabé místo: přesný okamžik dojití (datum + čas) je pro priority a lhůty zásadní — chybí-li spolehlivý záznam podatelny, je sporné, kdy řízení vzniklo; doporučeno spoléhat na elektronické podání s automatickou časovou stopou.
-
-### H. Praktický závěr
-
-Zahájení jen na návrh, k okamžiku dojití soudu; listinný návrh vyžaduje ověřený podpis a (u zástupce) i ověřenou plnou moc, jinak se nepřihlíží. Pro povinné subjekty fakticky podávat elektronicky.
-
-**Checklist (advokát / soud / navrhovatel):**
-- [ ] Je navrhovatel aktivně legitimován (u hrozícího úpadku jen dlužník — odst. 8)?
-- [ ] Listinný návrh: ověřený podpis + (u zástupce) ověřená procesní plná moc?
-- [ ] Povinný subjekt: podáno ve stanoveném formátu/způsobu (datová schránka / uznávaný podpis)?
-- [ ] Netrvá vůči dlužníkovi moratorium podle ZPR (odst. 6)?
-- [ ] Zafixován okamžik dojití soudu (datum + čas)?
-
-**Typicky rozhodné důkazy / podklady:** originál/elektronická stopa návrhu, procesní plná moc s ověřením, evidenční záznam podatelny (datum + čas), výpis z datové schránky, ověření absence moratoria v rejstříku.
+Do tohoto kola nebyla zařazena žádná judikatorní citace. Dříve uváděná rozhodnutí 29 NSČR 60/2014 a Pl. ÚS 22/14 nebyla v podkladech doložena plným oficiálním textem podporujícím připsané závěry, a proto byla odstraněna. Tím se nevyslovuje závěr o neexistenci relevantní judikatury.
 
 ---
 

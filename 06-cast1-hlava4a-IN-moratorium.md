@@ -762,114 +762,89 @@ Do produkčního výkladu tohoto kola nebylo zařazeno rozhodnutí bez fyzickéh
 
 ## § 109 — Účinky zahájení — **JEDEN Z NEJDŮLEŽITĚJŠÍCH PARAGRAFŮ CELÉHO IZ**
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Se zahájením insolvenčního řízení se spojují tyto účinky:
+>
 > a) pohledávky a jiná práva týkající se majetkové podstaty nemohou být uplatněny žalobou, lze-li je uplatnit přihláškou,
+>
 > b) právo na uspokojení ze zajištění, které se týká majetku ve vlastnictví dlužníka nebo majetku náležejícího do majetkové podstaty, lze uplatnit a nově nabýt jen za podmínek stanovených tímto zákonem, to platí i pro zřízení soudcovského zástavního práva na nemovitostech nebo exekutorského zástavního práva na nemovitostech, které bylo navrženo po zahájení insolvenčního řízení; právo na uspokojení ze zajištění přitom náleží v případě zajištěné podmíněné pohledávky i dojde-li ke splnění odkládací podmínky pro vznik takové pohledávky po zahájení insolvenčního řízení; to platí obdobně v případě zajištěné budoucí pohledávky, dojde-li ke vzniku takové zajištěné budoucí pohledávky po zahájení insolvenčního řízení,
+>
 > c) výkon rozhodnutí či exekuci, která by postihovala majetek ve vlastnictví dlužníka, jakož i jiný majetek, který náleží do majetkové podstaty, lze nařídit nebo zahájit, nelze jej však provést. Pro pohledávky za majetkovou podstatou (§ 168) a pohledávky jim na roveň postavené (§ 169) však lze provést nebo vést výkon rozhodnutí či exekuci, která by postihovala majetek náležející do majetkové podstaty dlužníka, na základě rozhodnutí insolvenčního soudu vydaného podle § 203 odst. 5 a s omezeními tímto rozhodnutím založenými. Pro pohledávky věřitelů na výživném ze zákona vzniklé po zahájení insolvenčního řízení však lze provést nebo vést výkon rozhodnutí či exekuci srážkami ze mzdy do prohlášení konkursu nebo schválení oddlužení, ledaže insolvenční soud rozhodne jinak kvůli důvodné pochybnosti, že takový výkon rozhodnutí nebo exekuce sleduje zneužití práva na úkor ostatních věřitelů. Není-li dále stanoveno jinak, výkon rozhodnutí nebo exekuce se i nadále nařizuje nebo zahajuje a provádí proti povinnému,
+>
 > d) nelze uplatnit dohodou věřitele a dlužníka založené právo na výplatu srážek ze mzdy nebo jiných příjmů, s nimiž se při výkonu rozhodnutí nakládá jako se mzdou nebo platem.
+>
 > (2) Úkonem, jímž se provádí výkon rozhodnutí nebo exekuce, není úkon učiněný k zajištění dlužníkova majetku pro účely jeho postižení takovým výkonem rozhodnutí nebo exekucí. Se zahájením insolvenčního řízení se spojují také další účinky stanovené zákonem.
+>
 > (3) Lhůty k uplatnění práv, která lze podle odstavce 1 uplatnit pouze přihláškou, po zahájení insolvenčního řízení nezačínají nebo dále neběží.
+>
 > (4) Účinky zahájení insolvenčního řízení nastávají okamžikem zveřejnění vyhlášky, kterou se oznamuje zahájení insolvenčního řízení, v insolvenčním rejstříku.
+>
 > (5) Nestanoví-li zákon u některého ze způsobů řešení úpadku jinak, trvají účinky spojené se zahájením insolvenčního řízení do skončení insolvenčního řízení, a jde-li o reorganizaci, do schválení reorganizačního plánu.
+>
 > (6) K rozhodnutím a opatřením přijatým při provádění výkonu rozhodnutí nebo exekuce v rozporu s omezením podle odstavce 1 písm. c) se v insolvenčním řízení nepřihlíží. Je-li to nezbytné k naplnění účelu insolvenčního řízení, může insolvenční soud kdykoli i bez návrhu pozastavit vykonatelnost nebo odložit právní moc rozhodnutí nebo opatření přijatých při provádění výkonu rozhodnutí nebo exekuce v rozporu s omezením podle odstavce 1 písm. c); může také zakázat přijetí rozhodnutí nebo opatření připravovaných při provádění výkonu rozhodnutí nebo exekuce v rozporu s omezením podle odstavce 1 písm. c). Proti rozhodnutí insolvenčního soudu podle věty druhé mohou podat odvolání účastníci řízení o výkon rozhodnutí nebo exekučního řízení. Rozhodnutí insolvenčního soudu podle věty druhé se doručuje zvlášť také orgánu nebo osobě, která rozhodnutí nebo opatření při provádění výkonu rozhodnutí nebo exekuce přijala nebo připravovala.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *ÚS* [II.ÚS 2444/10](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2444-10_2) — usnesení, 2. 12. 2010
-  > „Základním účelem úpadkového práva upraveného insolvenčním zákonem, je kromě uspokojení pohledávek věřitelů dlužníka z majetkové podstaty dlužníka i celkové vyřešení majetkových vztahů dlužníka, který je v úpadku. Smyslem § 109 odst. 1 písm. a) insolvenčního zákona je tedy docílit, aby zde po celou dobu trvání řízení existoval právní režim umožňující co nejefektivnější uspokojení věřitelů, a to z hlediska kvantitativního i časového. To se děje pokud možno co nejpřesnějším zjištěním majetku úpadce, k čemuž slouží jednotný režim přihlašování pohledávek spojený právě se zákazem podávání žalob mimo rámec insolvenčního řízení, pročež má tato právní úprava své opodstatnění"
-- *NS* [36 Co 13/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A2CED057B7766889C1257A4E0066B361?openDocument) — kat. A, 13. 6. 2011
-  > „Řízení o žalobě podané věřitelem po zahájení insolvenčního řízení soud zastaví po právní moci rozhodnutí o úpadku, je-li předmětem žaloby pohledávka, kterou věřitel mohl přihlásit do insolvenčního řízení (§ 104 odst. 1 o. s. ř., § 109 odst. 1 písm. a/ insolvenčního zákona) to platí i tehdy, byl-li již prohlášen konkurs na majetek dlužníka"
+Paragraf soustřeďuje základní ochranu kolektivního insolvenčního řízení od zveřejnění vyhlášky o jeho zahájení. Omezuje nové individuální žaloby, uplatnění a nabývání práv na uspokojení ze zajištění, provedení exekuce a smluvní srážky; současně upravuje stavění některých lhůt, dobu trvání účinků a reakci insolvenčního soudu na kolidující exekuční rozhodnutí nebo opatření.
 
-### Výklad — **CENTRÁLNÍ PARAGRAF**
+### Souvisící ustanovení
 
-Účinky zahájení = **automaticky** se aktivované suspenzivní účinky **okamžikem zveřejnění vyhlášky**. Jde o *kvazi-automatický systém ochrany* majetkové podstaty.
+- § 97 odst. 1 a § 101 — zahájení řízení a zveřejnění vyhlášky.
+- § 110, § 136 odst. 2 písm. d), § 173 až 173a — přihlášení pohledávky a konec stavění lhůt podle § 109 odst. 3.
+- § 111 až 114 — omezení dispozic dlužníka a další účinky zahájení.
+- § 140a až 141a — účinky rozhodnutí o úpadku na nalézací řízení a exekuce.
+- § 146 — zánik účinků při jiném rozhodnutí o insolvenčním návrhu.
+- § 168, § 169 a § 203 odst. 5 — výjimka pro nucené uspokojení pohledávek za majetkovou podstatou a jim na roveň postavených.
 
-#### Čtyři typy účinků (odst. 1)
+### Souvisící předpisy
 
-**a) Zákaz uplatňování pohledávek žalobou** (písm. a):
-- Pohledávky, které mají být uplatněny *přihláškou*, **nelze žalovat**.
-- Důsledek: probíhající civilní spory o pohledávky proti dlužníkovi se **přerušují** (nebo zastavují, viz judikatura).
-- Cíl: koncentrace uspokojení v IR.
+- Zákon č. 99/1963 Sb., občanský soudní řád, část šestá — výkon rozhodnutí.
+- Zákon č. 120/2001 Sb., exekuční řád — exekuční řízení a jednotlivá exekuční opatření.
+- Zákon č. 252/2024 Sb., čl. I bod 13 a čl. II body 1 a 2 — výjimka pro zákonné výživné a její intertemporální použití.
 
-**b) Suspenze zajišťovacích práv** (písm. b):
-- Nové zajištění (zástavní právo, zadržovací právo) lze **nabývat jen podle pravidel IZ**.
-- *Soudcovské / exekutorské zástavní právo* navržené po zahájení — **nelze zřídit**.
-- *Zajištěné podmíněné a budoucí pohledávky* — *zachovávají si* zajištění i po zahájení.
+### Z důvodové zprávy
 
-**c) Zákaz provedení exekuce** (písm. c) — **NEJVÝZNAMNĚJŠÍ**:
-- Exekuce *nelze provést* (lze ji nařídit/zahájit, ale ne fakticky vykonat — *suspendováno*).
-- *Výjimky*:
-  - *pohledávky za majetkovou podstatou (§ 168) a postavené na roveň (§ 169)* — exekuci lze provést **na základě rozhodnutí soudu dle § 203 odst. 5** s omezeními,
-  - *pohledávky výživného vzniklé po zahájení řízení* — exekuce *srážkami ze mzdy* je možná do prohlášení konkursu/schválení oddlužení (ledaže soud rozhodne jinak pro zneužití práva).
+Původní vládní návrh označil účinky zahájení za jeden ze základních stavebních kamenů jednotného insolvenčního řízení. Zvolil okamžitě zveřejněný režim, který má před rozhodnutím o návrhu chránit dlužníkův majetek před nekoordinovaným postihem a umožnit spravedlivé zacházení se všemi věřiteli. Zpráva výslovně spojovala § 109 se zákazem nových žalob, pravidly pro zajištění a zákazem dalšího provádění exekuce. Jde o vysvětlení původní koncepce, nikoli o popis všech prvků dnešního, opakovaně novelizovaného znění. (Vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, 4. volební období, zvláštní část „K § 109 a 110“, číslované s. 184–186, PDF s. 185–187.)
 
-**d) Zákaz dohod o srážkách ze mzdy** (písm. d) — *kvazi-zajištění srážkami* (typicky úvěrové dohody — „odečíst přímo ze mzdy"). **Zakázáno** od zahájení — mzdové prostředky musí jít do podstaty.
+Důvodová zpráva k zákonu č. 252/2024 Sb. vysvětluje, že nová výjimka pro běžné zákonné výživné má zabránit tomu, aby se před schválením oddlužení srážky pouze deponovaly a dlužník musel výživné hradit z nezabavitelné částky. Podle přechodného ustanovení se nové znění § 109 odst. 1 písm. c) použije i v dříve zahájených řízeních, avšak dříve nastalé právní účinky zůstávají zachovány. (Sněmovní tisk 491/0, 9. volební období, zvláštní část k bodu 13, číslované s. 45–46, PDF s. 46–47; čl. II body 1 a 2 návrhu, číslovaná s. 7, PDF s. 8.)
 
-#### Účinnost (odst. 4)
+### Literatura
 
-**Okamžik účinků** = *zveřejnění vyhlášky* (§ 101). Účinky nejsou *retrospektivní* — pohledávka uplatněná žalobou *před zahájením* zůstává, jen se *přerušuje* dále.
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento oddíl nepředstavuje negativní rešerši.
 
-#### Trvání (odst. 5)
+### Výklad
 
-- *konkurs / oddlužení*: účinky trvají do **skončení řízení**,
-- *reorganizace*: účinky trvají **do schválení reorganizačního plánu** (poté se nahrazují účinky plánu).
+[1] **Vznik účinků.** Insolvenční řízení je podle § 97 odst. 1 zahájeno dojitím návrhu věcně příslušnému soudu, ale účinky vypočtené v § 109 vznikají až skutečným okamžikem zveřejnění vyhlášky podle § 101 v insolvenčním rejstříku. Pro posouzení úkonu je proto rozhodný přesný čas zveřejnění, nikoli jen den podání návrhu.
 
-#### „Nepřihlíží se" k porušení (odst. 6)
+[2] **Nové žaloby.** Písmeno a) zakazuje po vzniku účinků žalobou uplatnit jen takovou pohledávku nebo jiné právo týkající se majetkové podstaty, které lze uplatnit přihláškou. Samotný § 109 neříká, že dříve zahájené řízení automaticky přerušuje nebo zastavuje; jeho další osud se posuzuje zejména podle § 140a až 141a po rozhodnutí o úpadku. Lhůta k uplatnění práva, které lze podle odstavce 1 uplatnit pouze přihláškou, nezačne nebo dále neběží; podle § 173a tento účinek zaniká uplynutím přihlašovací lhůty stanovené rozhodnutím o úpadku.
 
-K *rozhodnutím / opatřením* v exekuci provedeným *v rozporu* se zákazem podle písm. c) se **nepřihlíží**. Soud může:
-- pozastavit vykonatelnost,
-- odložit právní moc,
-- zakázat přijetí připravovaných rozhodnutí,
-- na návrh účastníci řízení o výkon mohou podat odvolání.
+[3] **Zajištění.** Písmeno b) není obecným zánikem ani „zmrazením“ již existujícího zajištění. Určuje, že právo na uspokojení ze zajištění dotčeného majetku lze uplatnit a nově nabýt jen podle insolvenčního zákona. Výslovně zahrnuje soudcovské a exekutorské zástavní právo navržené po zahájení a zachovává právo na uspokojení ze zajištění u podmíněných a budoucích pohledávek, vzniknou-li po zahájení za popsaných podmínek.
 
-### Vazby
+[4] **Exekuce před rozhodnutím o úpadku.** U majetku vymezeného v písmenu c) lze výkon rozhodnutí nebo exekuci nařídit či zahájit, ale zásadně jej nelze provést. Odstavec 2 přitom vyjímá úkon učiněný pouze k zajištění dlužníkova majetku pro budoucí postižení. Po rozhodnutí o úpadku je nutné zohlednit přísnější § 140e, který zásadně zakazuje již nařízení nebo zahájení nového výkonu či exekuce.
 
-- **§ 110** — věřitelé mohou přihlašovat pohledávky.
-- **§ 111** — zákaz dispozice dlužníka.
-- **§ 168, § 169** — pohledávky za podstatou.
-- **§ 203 odst. 5** — výjimečné provádění exekuce.
+[5] **Výjimky.** První výjimka dovoluje výkon pro pohledávky podle § 168 a § 169 jen na základě rozhodnutí insolvenčního soudu podle § 203 odst. 5 a v jeho mezích. Druhá dovoluje pro zákonné výživné vzniklé po zahájení vést srážky ze mzdy do prohlášení konkursu nebo schválení oddlužení; insolvenční soud je může zastavit při důvodné pochybnosti o zneužití práva na úkor ostatních věřitelů. Zákon č. 252/2024 Sb. tuto druhou výjimku vztáhl od 1. 10. 2024 i na dříve zahájená řízení se zachováním již nastalých účinků.
+
+[6] **Smluvní srážky a následky kolize.** Písmeno d) brání uplatnění práva na výplatu srážek založeného dohodou věřitele a dlužníka; nelze je zaměňovat s exekučními srážkami a jejich zákonnými výjimkami. Odstavec 6 se týká rozhodnutí a opatření přijatých nebo připravovaných při provádění výkonu či exekuce v rozporu s písmenem c). V insolvenčním řízení se k nim nepřihlíží a insolvenční soud může za podmínek zákona zasáhnout i bez návrhu; odvolání náleží účastníkům dotčeného vykonávacího nebo exekučního řízení.
+
+[7] **Trvání a intertemporalita.** Není-li pro konkrétní způsob řešení úpadku stanoveno jinak, účinky trvají do skončení insolvenčního řízení, u reorganizace do schválení reorganizačního plánu. Skončí-li řízení jinak než rozhodnutím o úpadku, je třeba použít zvláštní § 146. U starších řízení se vždy ověřuje rozhodné znění a přechodná ustanovení; výslovná výjimka zákona č. 252/2024 Sb. je uvedena v [5].
 
 ### Judikatura
 
-- **NS 29 NSČR 76/2014**: vyhláška o zahájení automaticky *zastaví* (resp. způsobí přerušení) probíhající civilní spory o pohledávky proti dlužníkovi.
-- **NS 20 Cdo 1817/2015**: exekutor, který provede srážku ze mzdy v rozporu s § 109 odst. 1 písm. c), je *povinen prostředky vrátit* do podstaty.
-- **ÚS Pl. ÚS 9/15**: ústavnost suspenze exekucí — kompenzační mechanismus (přihláška + uspokojení v IR) je ústavně dostatečný.
+[8] **Žaloba zástavního věřitele proti poddlužníku.** Nejvyšší soud v rozsudku ze dne 7. 6. 2018, sp. zn. 29 Cdo 2772/2016, R 72/2019, v řízení o odpovědnosti insolvenčního správce a o nakládání se zastavenou pohledávkou uzavřel, že po vzniku účinků podle § 109 odst. 1 nemůže zástavní věřitel žalovat poddlužníka o zaplacení pohledávky zastavené osobním dlužníkem, je-li zajištění tvořeno majetkem tohoto dlužníka; právo na uspokojení uplatní přihláškou. Nosný závěr je v odstavcích 39 a 40. Rozhodnutí vycházelo z řízení zahájeného v roce 2009 a z tehdejší úpravy, avšak citovaný mechanismus § 109 odst. 1 písm. a) a odst. 4 je pro popsanou otázku použitelný i v rozhodném znění k 19. 7. 2026.
 
-### F. Kazuistika
+[9] **Blokace bankovních účtů.** Nejvyšší soud v usnesení ze dne 30. 11. 2023, sen. zn. 29 ICdo 117/2022, R 52/2024, řešil blokaci účtů bankou po zahájení insolvenčního řízení a procesní přípustnost zásahu insolvenčního soudu. Potvrdil, že odvolání proti rozhodnutí, které zasahuje do hmotněprávní sféry banky, nelze odmítnout jen jako odvolání proti dohlédacímu opatření; současně uzavřel, že pohledávka z účtu není způsobilým předmětem zadržovacího práva, takže samotná blokace takové právo nevytvořila. Rozhodnutí proto nelze citovat pro obecnou tezi, že každá blokace účtu po zahájení porušuje § 109 odst. 1 písm. b). Rozhodné skutkové okolnosti jsou v odstavcích 38 až 47 a nosné závěry v odstavcích 52 až 64; soud výslovně pracoval se zněním použitelným v řízení zahájeném v roce 2017.
 
-**1. Modelová situace.** Proti dlužníku TAU s. r. o. běží exekuce; exekutor po zveřejnění vyhlášky o zahájení insolvenčního řízení přesto provede srážku ze mzdy a vyplatí ji oprávněnému. Současně jiný věřitel podá proti dlužníku u okresního soudu žalobu o zaplacení smluvní pohledávky, kterou lze přihlásit do insolvence. Důkazy: výpis z rejstříku s okamžikem zveřejnění vyhlášky, protokol exekutora o srážce, žaloba a její datum.
+### Praktický checklist
 
-**2. Právní otázka.** Smí exekutor po zahájení insolvenčního řízení provést srážku ze mzdy a lze pohledávku, kterou lze přihlásit, uplatnit žalobou?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 109 odst. 1 písm. a) (zákaz uplatnění žalobou, lze-li přihláškou), písm. c) (exekuci lze nařídit/zahájit, nelze provést — s výjimkami pro pohledávky za podstatou a výživné), odst. 4 (účinky od zveřejnění vyhlášky), odst. 5 (trvání účinků), odst. 6 (k úkonům v rozporu se nepřihlíží; pozastavení vykonatelnosti).
-- *Související ustanovení téhož zákona:* § 110 (přihlášky), § 111 (zákaz dispozic dlužníka), § 168 a § 169 (pohledávky za podstatou), § 203 odst. 5 (výjimečné provádění exekuce).
-- *Související předpisy:* exekuční řád, OSŘ (§ 104 — zastavení řízení o žalobě).
-- *Judikatura:* ÚS II.ÚS 2444/10 a NS 36 Co 13/2011 (citováno) — koncentrace uspokojení v IR, zastavení žaloby po právní moci rozhodnutí o úpadku; NS 20 Cdo 1817/2015 (citováno) — exekutor musí vrácenou srážku vrátit do podstaty; ÚS Pl. ÚS 9/15 (citováno) — ústavnost suspenze exekucí.
-
-**4. Subsumpce.** Znak „účinky od zveřejnění vyhlášky" (odst. 4) — naplněn okamžikem zveřejnění. Srážka ze mzdy je „provedením" exekuce, které je zakázáno (odst. 1 písm. c), nejde-li o zákonné výjimky (pohledávky za podstatou na základě § 203 odst. 5, příp. výživné po zahájení). Žaloba o pohledávku, kterou lze přihlásit, naráží na zákaz dle písm. a).
-
-**5. Řešení.** K provedené srážce se **nepřihlíží** (odst. 6) a exekutor je povinen prostředky vrátit do majetkové podstaty (NS 20 Cdo 1817/2015); soud může pozastavit vykonatelnost či odložit právní moc exekučních úkonů. Řízení o žalobě se po právní moci rozhodnutí o úpadku zastaví (NS 36 Co 13/2011), věřitel musí pohledávku **přihlásit**. Praktický krok: doložit okamžik zveřejnění vyhlášky a uplatnit § 109 odst. 6.
-
-**6. Varianty.** (a) Jde o exekuci pro pohledávku za majetkovou podstatou (§ 168) na základě rozhodnutí dle § 203 odst. 5 — provedení je výjimečně přípustné v mezích tohoto rozhodnutí. (b) Jde o výživné ze zákona vzniklé po zahájení řízení — exekuci srážkami ze mzdy lze vést do prohlášení konkursu/schválení oddlužení, ledaže soud rozhodne jinak pro zneužití práva.
-
-### G. Protiargumenty a rizika
-
-- *„Exekuce byla nařízena dříve, lze ji dokončit."* Neobstojí — rozhodné je provedení po zahájení; po zveřejnění vyhlášky nelze exekuci provést (odst. 1 písm. c), byť byla nařízena dříve. Neutralizace: namítnout účinky zahájení a § 109 odst. 6.
-- *„Pohledávku vymohu žalobou, je to rychlejší."* Vyloučeno písm. a) — lze-li uplatnit přihláškou, žaloba je nepřípustná a řízení se zastaví. Neutralizace: přihlásit pohledávku do insolvence.
-- Slabé místo: hranice výjimek (pohledávky za podstatou, výživné) je úzká a vázaná na rozhodnutí soudu (§ 203 odst. 5); účinky jsou vázány na okamžik zveřejnění vyhlášky — bez jeho doložení je spor o to, zda úkon spadá do režimu § 109.
-
-### H. Praktický závěr
-
-Zveřejněním vyhlášky nastávají suspenzivní účinky: pohledávky, jež lze přihlásit, nelze žalovat a probíhající žaloby se zastaví; exekuci nelze provést (k úkonům v rozporu se nepřihlíží a prostředky se vracejí do podstaty). Výjimky platí jen pro pohledávky za podstatou (dle § 203 odst. 5) a výživné vzniklé po zahájení.
-
-**Checklist (věřitel / dlužník / exekutor / soud):**
-- [ ] Je zjištěn okamžik zveřejnění vyhlášky (počátek účinků dle odst. 4)?
-- [ ] Lze pohledávku uplatnit přihláškou (pak zákaz žaloby — písm. a)?
-- [ ] Nebyla po zahájení provedena exekuce v rozporu s písm. c) (pak se nepřihlíží — odst. 6)?
-- [ ] Nejde o výjimku (pohledávka za podstatou dle § 203 odst. 5 / výživné po zahájení)?
-- [ ] Byly neoprávněně sražené prostředky vráceny do majetkové podstaty?
-
-**Typicky rozhodné důkazy / podklady:** výpis z insolvenčního rejstříku s okamžikem zveřejnění vyhlášky, exekuční protokoly a doklady o srážkách, žaloba a její datum, rozhodnutí soudu dle § 203 odst. 5, doklady o povaze pohledávky (za podstatou / výživné).
+- [ ] Zjistit přesný okamžik zveřejnění vyhlášky podle § 101.
+- [ ] Určit, zda právo lze uplatnit přihláškou a zda žaloba byla podána před, nebo po vzniku účinků.
+- [ ] U zajištění rozlišit jeho vznik, uplatnění a druh majetku, který je předmětem zajištění.
+- [ ] U exekuce rozlišit nařízení či zahájení, pouhé zajištění majetku a vlastní provedení.
+- [ ] Po rozhodnutí o úpadku přejít na režim § 140a až 141a.
+- [ ] Uplatňuje-li se výjimka, ověřit rozhodnutí podle § 203 odst. 5 nebo všechny podmínky výjimky pro zákonné výživné.
 
 ---
 

@@ -1533,65 +1533,58 @@ V tomto kole nebylo do výkladu zařazeno žádné rozhodnutí. Dřívější ob
 
 ## § 96 — Vyloučení obnovy řízení; specifika žaloby pro zmatečnost
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Obnova insolvenčního řízení není přípustná.
+>
 > (2) V řízení o žalobě pro zmatečnost podané proti rozhodnutí insolvenčního soudu vydanému v insolvenčním řízení se nepoužije § 235 odst. 2 občanského soudního řádu. Rozhodnutí, jímž bylo na základě žaloby pro zmatečnost zrušeno rozhodnutí insolvenčního soudu vydané v insolvenčním řízení, je účinné ode dne právní moci.
+
+### Přehled výkladu
+
+Odstavec 1 bezvýjimečně vylučuje obnovu insolvenčního řízení. Odstavec 2 obnovu neupravuje: stanoví dvě zvláštnosti řízení o žalobě pro zmatečnost proti rozhodnutí insolvenčního soudu vydanému v insolvenčním řízení. Zaprvé se nepoužije § 235 odst. 2 o. s. ř., tedy pravidlo o nezapočtení doby dovolacího řízení do běhu lhůt podle § 234 odst. 1 až 4 o. s. ř. Zadruhé je rozhodnutí rušící napadené insolvenční rozhodnutí účinné až ode dne své právní moci. Přípustnost konkrétní žaloby pro zmatečnost je nutno posoudit podle § 229 a násl. o. s. ř. a zvláštních pravidel insolvenčního zákona; § 96 odst. 2 ji sám nezakládá proti každému insolvenčnímu rozhodnutí.
+
+### Souvisící ustanovení
+
+- **§ 7 IZ** — přiměřené použití občanského soudního řádu, nestanoví-li insolvenční zákon jinak a není-li takový postup v rozporu se zásadami insolvenčního řízení.
+- **§ 69 IZ** — oprávnění státního zastupitelství, které vstoupilo do řízení, podat přípustný opravný prostředek.
+- **§ 89 IZ** — obecná pravidla účinnosti rozhodnutí insolvenčního soudu; § 96 odst. 2 obsahuje zvláštní okamžik účinnosti zrušujícího rozhodnutí.
+- **§ 90 IZ** — vyloučení použití ustanovení o odkladu vykonatelnosti nebo právní moci rozhodnutí insolvenčního soudu vydaného v insolvenčním řízení.
+
+### Souvisící předpisy
+
+- **§ 228 až 235i o. s. ř.** — přípustnost, důvody, legitimace, náležitosti, lhůty, řízení a rozhodnutí o žalobě na obnovu řízení a o žalobě pro zmatečnost.
+- **§ 229 o. s. ř.** — jednotlivé zmatečnostní důvody a okruh napadnutelných rozhodnutí.
+- **§ 234 o. s. ř.** — lhůty pro žalobu pro zmatečnost.
+- **§ 235 odst. 2 o. s. ř.** — pravidlo o nezapočtení doby od právní moci napadeného rozhodnutí do právní moci rozhodnutí dovolacího soudu do běhu lhůt podle § 234 odst. 1 až 4; právě jeho použití § 96 odst. 2 IZ vylučuje.
+- **§ 235c o. s. ř.** — obecná možnost odkladu vykonatelnosti napadeného rozhodnutí při pravděpodobném úspěchu žaloby; pro rozhodnutí insolvenčního soudu vydaná v insolvenčním řízení je rozhodující zvláštní § 90 IZ.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona uváděl k § 96, že ustanovení „stejně jako dosud“ vylučuje obnovu ze systému mimořádných opravných prostředků pro insolvenční řízení a nově též pro incidenční spory. Jde o historické vysvětlení návrhu; aktuální rozsah zákazu je třeba vyvozovat z platného textu a systematiky zákona, nikoli rozšiřovat samotnou citací důvodové zprávy.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento oddíl nepředstavuje negativní rešerši literatury.
 
 ### Výklad
 
-**Absolutní zákaz obnovy** (odst. 1) — *jeden ze základních rysů insolvence*. Skončilo-li insolvenční řízení (např. zrušení konkursu, splnění reorganizačního plánu, splnění oddlužení a osvobození), **nelze ho obnovit** ani z důvodů, které by v civilním procesu obnovu opravňovaly (§ 228 OSŘ).
+[1] **Zákaz obnovy.** Obnovu insolvenčního řízení nelze povolit ani tehdy, byly-li by jinak tvrzeny důvody odpovídající § 228 o. s. ř. Ustanovení § 96 odst. 1 je zvláštní normou vůči obecné úpravě obnovy, která by se jinak mohla uplatnit prostřednictvím § 7 IZ.
 
-#### Důvod
+[2] **Odlišení žaloby pro zmatečnost.** Zákaz obnovy nelze zaměňovat se zákazem žaloby pro zmatečnost. Odstavec 2 s řízením o této žalobě výslovně počítá, avšak upravuje jen dvě odchylky. Z toho neplyne, že žaloba je přípustná proti každému rozhodnutí vydanému v insolvenčním řízení: vždy se zkoumá napadnutelné rozhodnutí, uplatněný důvod, oprávnění žalobce, lhůta a další podmínky § 229 a násl. o. s. ř. ve spojení s insolvenčním zákonem.
 
-*Princip právní jistoty* — věřitelé i třetí osoby (kupci, smluvní partneři dlužníka po skončení insolvence) musí spoléhat na konečnost rozhodnutí. Obnova by destabilizovala již uspořádané majetkové poměry.
+[3] **Význam vyloučení § 235 odst. 2 o. s. ř.** Vyloučené ustanovení neupravuje odklad vykonatelnosti. Upravuje vliv souběžného dovolání na běh lhůt pro žalobu pro zmatečnost. V poměrech § 96 odst. 2 IZ se proto doba dovolacího řízení způsobem předvídaným § 235 odst. 2 o. s. ř. z běhu lhůty nevyjímá. Lhůtu je třeba určit podle konkrétního odstavce § 234 o. s. ř. a rozhodného časového znění.
 
-**Žaloba pro zmatečnost (odst. 2)** — *zůstává přípustná*, ale s modifikacemi:
-- **vyloučeno** použití *§ 235 odst. 2 OSŘ* (odklad vykonatelnosti při zmatečnosti),
-- *účinnost zrušujícího rozhodnutí*: až ode dne **právní moci** (ne ode dne vydání).
+[4] **Odklad vykonatelnosti je jiná otázka.** Obecné zmocnění k odkladu vykonatelnosti obsahuje § 235c o. s. ř., nikoli § 235 odst. 2. Pro rozhodnutí insolvenčního soudu vydaná v insolvenčním řízení však § 90 IZ vylučuje použití ustanovení o odkladu vykonatelnosti i právní moci.
 
-### Vazby
+[5] **Účinnost zrušujícího rozhodnutí.** Druhá věta § 96 odst. 2 odsouvá účinnost rozhodnutí, kterým bylo napadené insolvenční rozhodnutí na základě žaloby pro zmatečnost zrušeno, na den právní moci zrušujícího rozhodnutí. Jde o výslovnou odchylku od obecného režimu účinnosti rozhodnutí insolvenčního soudu podle § 89 IZ.
 
-- **OSŘ § 228 — § 234** — obnova řízení.
-- **OSŘ § 229 — § 235e** — žaloba pro zmatečnost.
+[6] **Intertemporalita.** U žaloby směřující proti dřívějšímu rozhodnutí je nutno samostatně určit rozhodné znění insolvenčního zákona a občanského soudního řádu, zejména pro přípustnost a běh lhůty. Použitá judikatura řešila insolvenční řízení zahájené v roce 2014; její obecný závěr o povaze žaloby a nutnosti objektivní přípustnosti je použitelný i při aktuálním znění, protože citovaná rozhodná ustanovení v relevantním rozsahu nedoznala změny.
 
-### Praktická poznámka
+### Judikatura
 
-V praxi je žaloba pro zmatečnost v insolvenci **velmi vzácná** — typicky reaguje na *podstatné procesní vady* (neúčast náhradního soudce, podjatý soudce, vady doručování). Vzhledem k tomu, že drtivá většina rozhodnutí v insolvenci je zveřejňována vyhláškou, je vada doručování spíše hypotetická.
-
-### F. Kazuistika
-
-**1. Modelová situace.** Insolvenční řízení dlužníka Delta s. r. o. bylo pravomocně skončeno (zrušení konkursu). Po roce vyjde najevo, že do podstaty nebyl zahrnut významný majetek dlužníka. Bývalý věřitel navrhne obnovu insolvenčního řízení, aby se majetek dodatečně zpeněžil. Variantně jiný účastník podá žalobu pro zmatečnost proti rozhodnutí insolvenčního soudu (tvrdí podjatost soudce) a současně navrhuje odklad jeho vykonatelnosti. Důkazy: doklad o pravomocném skončení řízení, podklady o dodatečně zjištěném majetku, podklady k tvrzené zmatečnostní vadě (podjatost).
-
-**2. Právní otázka.** (a) Je v insolvenci přípustná obnova řízení? (b) Jaká jsou specifika žaloby pro zmatečnost a od kdy je účinné zrušující rozhodnutí?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 96 IZ — obnova insolvenčního řízení není přípustná (odst. 1); v řízení o žalobě pro zmatečnost proti rozhodnutí insolvenčního soudu se nepoužije § 235 odst. 2 OSŘ a rozhodnutí, jímž bylo na základě žaloby pro zmatečnost zrušeno rozhodnutí insolvenčního soudu, je účinné ode dne právní moci (odst. 2).
-- *Související ustanovení téhož zákona:* § 89 (účinnost rozhodnutí), § 90 (vyloučení odkladu vykonatelnosti).
-- *Související předpisy:* § 228–§ 234 OSŘ (obnova řízení — v insolvenci vyloučena); § 229–§ 235e OSŘ (žaloba pro zmatečnost), § 235 odst. 2 OSŘ (jehož použití je vyloučeno).
-- *Judikatura:* nosně NS k tomu, že konečnost insolvenčních rozhodnutí chrání právní jistotu uspořádaných majetkových poměrů; žaloba pro zmatečnost zůstává krajním prostředkem pro podstatné procesní vady.
-
-**4. Subsumpce.** Návrh na obnovu směřuje k obnově insolvenčního řízení — to § 96 odst. 1 absolutně vylučuje; dodatečně zjištěný majetek není důvodem k obnově. Žaloba pro zmatečnost (podjatost soudce) je přípustná, ale s modifikacemi odst. 2: nepoužije se § 235 odst. 2 OSŘ (odklad vykonatelnosti) a zrušující rozhodnutí je účinné až ode dne právní moci.
-
-**5. Řešení.** Návrh na obnovu soud odmítne/zamítne jako nepřípustný (odst. 1). Žalobu pro zmatečnost soud projedná, avšak návrh na odklad vykonatelnosti (§ 235 odst. 2 OSŘ) je vyloučen; případné zrušující rozhodnutí nabývá účinnosti až právní mocí. Praktický krok: dodatečně zjištěný majetek se řeší cestou pravidel pro skončené řízení (např. dodatečné projednání podstaty, je-li dáno), nikoli obnovou.
-
-**6. Varianty.** (a) Kdyby vada měla povahu některého ze zmatečnostních důvodů (např. nesprávně obsazený soud, podjatý soudce, závažná vada doručování), cesta vede přes žalobu pro zmatečnost, ne obnovu. (b) Kdyby šlo o běžný civilní spor (mimo insolvenci), obnova by za podmínek § 228 OSŘ přípustná byla — v insolvenci nikoli.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Dodatečně zjištěný majetek musí umožnit obnovu, jinak jsou věřitelé poškozeni." — Neutralizace: § 96 odst. 1 obnovu absolutně vylučuje kvůli právní jistotě; řešení je v rámci pravidel pro (skončené) insolvenční řízení, ne v obnově.
-- *Protiargument:* „Při žalobě pro zmatečnost lze odložit vykonatelnost napadeného rozhodnutí." — Neutralizace: odst. 2 vylučuje § 235 odst. 2 OSŘ; odklad není přípustný (souzní s § 90).
-- *Slabé místo:* žaloba pro zmatečnost je krajní a vzácná; vzhledem k vyhláškovému doručování je vada doručování spíše hypotetická a důkazně náročná.
-
-### H. Praktický závěr
-
-Obnova insolvenčního řízení je absolutně vyloučena; mimořádným prostředkem zůstává jen žaloba pro zmatečnost, u níž nelze odložit vykonatelnost a zrušující rozhodnutí působí až právní mocí.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Vyloučeny návrhy na obnovu insolvenčního řízení (absolutně nepřípustné — odst. 1).
-- [ ] U podstatných procesních vad zvážena žaloba pro zmatečnost (krajní prostředek).
-- [ ] Nepodáván návrh na odklad vykonatelnosti dle § 235 odst. 2 OSŘ (vyloučen — odst. 2).
-- [ ] Zohledněno, že zrušující rozhodnutí je účinné až ode dne právní moci.
-
-**Typicky rozhodné důkazy / podklady:** doklad o pravomocném skončení řízení, podklady k tvrzené zmatečnostní vadě (obsazení soudu, podjatost, doručování), případné podklady o dodatečně zjištěném majetku.
+- **Usnesení Nejvyššího soudu ze dne 30. 5. 2019, sen. zn. 29 ICdo 69/2017, ECLI:CZ:NS:2019:29.ICDO.69.2017.1.** V insolvenční věci dlužníka Via Chem Group, a. s., státní zastupitelství napadlo žalobou pro zmatečnost rozhodnutí o úpadku vydané na dlužnický návrh a rozhodnutí o povolení reorganizace; tvrdilo rozhodování vyloučeným soudcem. Nejvyšší soud vyložil, že žalobou pro zmatečnost lze za podmínek § 229 a násl. o. s. ř. napadnout také rozhodnutí vydané v insolvenčním řízení a že rozhodnutím končícím relativně samostatnou fázi může být rozhodnutí o úpadku i o způsobu řešení úpadku. Současně však uzavřel, že státní zastupitelství podle § 69 IZ může podat opravný prostředek jen tehdy, je-li proti danému rozhodnutí objektivně přípustný; v projednávané věci proto k žalobě legitimováno nebylo. Rozhodné jsou zejména pasáže plného textu odpovídající odstavcům 81 až 98.
 
 ---
 

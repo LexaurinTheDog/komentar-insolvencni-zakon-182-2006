@@ -578,60 +578,54 @@ Do tohoto vydání nebylo převzato rozhodnutí, jehož plný text by byl pro v�
 
 ## § 106 — Spojení s návrhem na oddlužení / reorganizaci
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Dlužník, který hodlá řešit svůj úpadek nebo hrozící úpadek oddlužením, musí s insolvenčním návrhem spojit i návrh na povolení oddlužení. S insolvenčním návrhem je rovněž možné spojit návrh na povolení reorganizace. V těchto případech musí insolvenční návrh obsahovat i náležitosti předepsané pro tyto návrhy a musí k němu být přiloženy další pro ně požadované přílohy.
 > (2) I když s insolvenčním návrhem nejsou spojeny návrhy podle odstavce 1, může v něm být uvedeno, jak má být podle insolvenčního navrhovatele řešen úpadek dlužníka.
 
+### Přehled výkladu
+
+U dlužníka, který sám podává insolvenční návrh a hodlá využít oddlužení, jde o povinné současné podání návrhu na povolení oddlužení. Reorganizační návrh lze s insolvenčním návrhem spojit, ale § 106 jeho spojení nepřikazuje; pozdější podání je možné jen v mezích § 318. Pouhý údaj o preferovaném způsobu řešení úpadku podle odstavce 2 nenahrazuje návrh na povolení oddlužení ani reorganizace.
+
+### Souvisící ustanovení
+
+- **§ 103 a § 104** — náležitosti insolvenčního návrhu a přílohy dlužnického návrhu.
+- **§ 316 až § 320** — přípustnost reorganizace, oprávnění a lhůty k podání, náležitosti a přílohy reorganizačního návrhu.
+- **§ 389 až § 393** — oprávnění navrhnout oddlužení, lhůta a způsob podání, náležitosti, přílohy a odstraňování vad návrhu.
+
+### Souvisící předpisy
+
+- Prováděcí právní předpis vydaný na základě § 391 odst. 4 insolvenčního zákona stanoví náležitosti formuláře návrhu na povolení oddlužení. Konkrétní formulář a jeho aktuální technické požadavky je třeba ověřit pro den podání.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona uváděl, že § 106 připouští spojení návrhu na reorganizaci nebo oddlužení s insolvenčním návrhem a že jejich nespojení tehdy nebránilo pozdějšímu podání do konce příslušné lhůty (sněmovní tisk 1120/0, zvláštní část, K § 106, číslovaná s. 183; PDF s. 184). Jde o historické vysvětlení původní osnovy. Pro aktuální postup při dlužnickém insolvenčním návrhu je rozhodný dnešní § 390 odst. 1, který vyžaduje podat návrh na povolení oddlužení spolu s insolvenčním návrhem.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento oddíl nepředstavuje negativní rešerši.
+
 ### Výklad
 
-**Spojení návrhů**:
-- *Oddlužení* — *povinné* spojení (dlužník chce oddlužení = už při podání IN musí být oddlužovací návrh).
-- *Reorganizace* — *fakultativní* spojení (lze podat i samostatně po zahájení řízení).
+[1] **Dvě rozdílné procesní situace.** První věta odstavce 1 míří na dlužníka, který podává vlastní insolvenční návrh a hodlá svůj úpadek nebo hrozící úpadek řešit oddlužením. Návrh na povolení oddlužení musí podat spolu s insolvenčním návrhem; totéž výslovně stanoví § 390 odst. 1 věta první.
 
-**Doporučení o způsobu řešení** (odst. 2) — i bez formálního spojení může navrhovatel **naznačit**, jak by mělo být úpadek řešeno. Není to závazné — rozhoduje soud (a věřitelé).
+[2] **Insolvenční návrh jiné osoby.** Podá-li insolvenční návrh jiná osoba než dlužník, § 390 odst. 1 věta druhá poskytuje dlužníku lhůtu 30 dnů od doručení insolvenčního návrhu a ukládá, aby byl o této možnosti při doručení poučen. Požadavek současného podání proto nelze bez rozlišení vztáhnout na věřitelský insolvenční návrh.
 
-### Vazby
+[3] **Reorganizace.** Druhá věta § 106 odst. 1 pouze dovoluje spojit návrh na povolení reorganizace s insolvenčním návrhem. Není-li spojen, lze jej podat později jen v zákonných lhůtách: dlužník, který podal insolvenční návrh pro hrozící úpadek, nejpozději do rozhodnutí o úpadku; v ostatních případech nejpozději 10 dnů před první schůzí věřitelů konanou po rozhodnutí o úpadku (§ 318 odst. 1). Samostatně se posuzuje přípustnost reorganizace a oprávnění návrh podat (§ 316 a § 317).
 
-- **§ 389 a násl.** — oddlužení.
-- **§ 316 a násl.** — reorganizace.
-- **§ 390 — § 393** — návrh na oddlužení.
-- **§ 316 odst. 4 — § 320** — návrh na reorganizaci.
+[4] **Obsah spojeného podání.** Spojení návrhů nesnižuje jejich obsahové požadavky. Insolvenční návrh musí splnit § 103 a případně § 104; současně musí být obsaženy náležitosti a připojeny přílohy návrhu na zvolený způsob řešení úpadku. U oddlužení je třeba zohlednit zejména § 390a až § 392, včetně formulářové povinnosti podle § 391 odst. 4; u reorganizace § 319 a § 320.
 
-### F. Kazuistika
+[5] **Vady se neposuzují jednotně.** Je nutné rozlišit nedostatky samotného insolvenčního návrhu od nedostatků návrhu na povolení oddlužení nebo reorganizace. Například vady a chybějící přílohy oddlužovacího návrhu řeší speciálně § 393. Z § 106 samotného nelze dovodit jediný následek pro každou vadu spojeného podání.
 
-**1. Modelová situace.** Dlužník OMIKRON s. r. o., FO-podnikatel s podnikem i osobními dluhy, podá insolvenční návrh, ale **nespojí** jej s návrhem na povolení oddlužení, ačkoli chce oddlužení. V návrhu pouze v textu uvede, že „by úpadek bylo vhodné řešit oddlužením". Druhý scénář: dlužník chce reorganizaci a zvažuje, zda návrh připojit hned, nebo až později. Důkazy: text návrhu, doklad o podnikatelském statusu, podklady pro oddlužovací/reorganizační návrh.
+[6] **Údaj podle odstavce 2.** Insolvenční navrhovatel může i bez spojení některého z návrhů uvést, jak má být podle něj úpadek dlužníka řešen. Jde o obsah insolvenčního návrhu, nikoli o náhradu samostatného návrhu na povolení oddlužení či reorganizace. Formulace, že způsob řešení „doporučuje“ nebo „preferuje“, proto sama nezachovává lhůtu ani nenahrazuje předepsané náležitosti a přílohy.
 
-**2. Právní otázka.** Lze povolit oddlužení, není-li s insolvenčním návrhem spojen návrh na jeho povolení, a liší se režim u reorganizace?
+[7] **Intertemporální omezení.** Tento výklad odpovídá znění účinnému k 19. 7. 2026. U staršího řízení je nutné samostatně zjistit znění účinné v rozhodné procesní fázi a přechodná ustanovení příslušných novel; původní důvodová zpráva nemůže převážit nad pozdější změnou zákona.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 106 odst. 1 (povinné spojení návrhu na oddlužení s insolvenčním návrhem; fakultativní spojení návrhu na reorganizaci; nutnost náležitostí a příloh těchto návrhů), odst. 2 (možnost pouze doporučit způsob řešení i bez spojení).
-- *Související ustanovení téhož zákona:* § 389 a násl. a § 390–§ 393 (oddlužení a jeho návrh), § 316 a násl. a § 316 odst. 4–§ 320 (reorganizace).
-- *Související předpisy:* prováděcí předpisy k formulářům návrhu na povolení oddlužení.
-- *Judikatura:* k povinnému spojení chybí v komentáři citovaná judikatura; nosně plyne přímo z § 106 odst. 1 (oddlužení nelze povolit bez spojeného návrhu).
+### Judikatura
 
-**4. Subsumpce.** Znak „dlužník hodlá řešit úpadek oddlužením" → vzniká **povinnost** spojit návrh na povolení oddlužení s insolvenčním návrhem. Pouhé doporučení v textu (odst. 2) tuto povinnost nenahrazuje — není to procesní návrh s náležitostmi a přílohami. U reorganizace je spojení jen fakultativní, lze ji navrhnout i samostatně po zahájení.
-
-**5. Řešení.** Bez spojeného návrhu na povolení oddlužení nelze oddlužení povolit; chce-li je dlužník, musí návrh na povolení oddlužení podat (typicky na předepsaném formuláři s přílohami dle § 391 a násl.) **současně** s insolvenčním návrhem. U reorganizace stačí podat návrh buď spolu s insolvenčním návrhem, nebo samostatně po zahájení (§ 316 odst. 4–§ 320). Doporučení podle odst. 2 není pro soud závazné — o způsobu řešení rozhodují soud a věřitelé.
-
-**6. Varianty.** (a) Dlužník spojí návrh na oddlužení řádně — soud o povolení oddlužení rozhodne (a typicky neuloží zálohu, § 108 odst. 2). (b) Dlužník nesplňuje podmínky oddlužení (např. nepoctivý záměr) — i při řádném spojení bude oddlužení zamítnuto a úpadek řešen konkursem.
-
-### G. Protiargumenty a rizika
-
-- *„Postačí v návrhu naznačit, že chci oddlužení."* Neobstojí — odst. 2 umožňuje jen nezávazné doporučení; povolení oddlužení vyžaduje samostatný návrh s náležitostmi (odst. 1). Neutralizace: podat formulářový návrh na povolení oddlužení současně s insolvenčním návrhem.
-- *„Reorganizaci musím navrhnout hned s insolvenčním návrhem."* Není pravda — u reorganizace je spojení fakultativní, lze ji podat i později. Neutralizace: zvolit načasování podle strategie (předjednání plánu s věřiteli).
-- Slabé místo: spojený návrh musí mít všechny předepsané náležitosti a přílohy; jejich absence vede k vadám (§ 128) a riziku, že se okno pro oddlužení uzavře.
-
-### H. Praktický závěr
-
-Chce-li dlužník oddlužení, musí návrh na jeho povolení **povinně spojit** s insolvenčním návrhem (s náležitostmi a přílohami); reorganizaci lze spojit fakultativně, nebo navrhnout samostatně. Pouhé doporučení způsobu řešení (odst. 2) je pro soud nezávazné.
-
-**Checklist (dlužník / advokát / soud):**
-- [ ] Hodlá dlužník řešit úpadek oddlužením? Pokud ano — je spojen návrh na povolení oddlužení?
-- [ ] Má spojený návrh předepsané náležitosti a přílohy (§ 391 a násl.)?
-- [ ] Jde-li o reorganizaci — zvoleno spojení, nebo samostatné podání po zahájení?
-- [ ] Není-li spojen žádný z návrhů — uvedeno alespoň doporučení způsobu řešení (odst. 2)?
-- [ ] Splňuje dlužník hmotněprávní podmínky zvoleného způsobu řešení?
-
-**Typicky rozhodné důkazy / podklady:** insolvenční návrh, formulářový návrh na povolení oddlužení s přílohami (nebo návrh na reorganizaci a podklady k reorganizačnímu plánu), doklad o podnikatelském/nepodnikatelském statusu, seznamy dle § 104/§ 391.
+Do tohoto kola nebylo zařazeno rozhodnutí, jehož plný text by byl ověřen jako přímo nosný pro výklad § 106 ve výše uvedeném rozsahu. Tím se nevyslovuje závěr, že související judikatura neexistuje; neověřené kandidátní odkazy nebyly použity.
 
 ---
 

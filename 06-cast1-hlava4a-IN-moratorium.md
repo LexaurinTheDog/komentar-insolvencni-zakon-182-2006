@@ -201,74 +201,58 @@ Odborná literatura byla rozhodnutím editora odložena do druhého kola. Nejde 
 
 ## § 100 — Předběžné opatření na zajištění škody
 
-> (1) Je-li již v průběhu insolvenčního řízení zřejmé, že věřiteli vznikla škoda nebo jiná újma porušením povinnosti podat insolvenční návrh, může insolvenční soud nařídit předběžné opatření, kterým povinné osobě uloží, aby na náhradu této škody nebo jiné újmy složila do úschovy u soudu přiměřenou peněžitou částku. Učiní tak jen na návrh oprávněného věřitele. Nařízení předběžného opatření nebrání, že celkovou výši škody nebo jiné újmy dosud nelze vyčíslit.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Je-li již v průběhu insolvenčního řízení zřejmé, že věřiteli vznikla škoda nebo jiná újma porušením povinnosti podat insolvenční návrh, může insolvenční soud nařídit předběžné opatření, kterým povinné osobě uloží, aby na náhradu této škody nebo jiné újmy složila do úschovy u soudu přiměřenou peněžitou částku19). Učiní tak jen na návrh oprávněného věřitele. Nařízení předběžného opatření nebrání, že celkovou výši škody nebo jiné újmy dosud nelze vyčíslit.
 > (2) Výši částky, která má být složena, určí insolvenční soud tak, aby kryla podstatnou část předpokládané škody nebo jiné újmy. Při nařízení předběžného opatření uloží insolvenční soud navrhovateli, aby ve lhůtě, kterou mu určí a která nesmí skončit dříve, než skončí insolvenční řízení, podal u příslušného soudu žalobu o náhradu škody nebo jiné újmy; řízení o této žalobě není incidenčním sporem.
 > (3) V rozsahu, ve kterém soud vyhověl žalobě o náhradu škody nebo jiné újmy podle odstavce 2, se jeho rozhodnutí považuje za rozhodnutí o udělení souhlasu s vydáním předmětu úschovy žalobci.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *NS* [2 VSOL 115/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D11AA4F5CA2FFE7FC125805E002A5310?openDocument) — kat. A, 4. 3. 2015
-  > „Předběžné opatření podle § 100 insolvenčního zákona může insolvenční soud nařídit i po rozhodnutí o úpadku dlužníka"
+§ 100 je zvláštní zajišťovací úpravou navazující na povinnost podat insolvenční návrh (§ 98) a odpovědnost za její porušení (§ 99). Insolvenční soud může jednat pouze na návrh oprávněného věřitele a jen tehdy, je-li již v průběhu insolvenčního řízení zřejmý vznik škody nebo jiné újmy. Přesná konečná výše újmy však ještě známa být nemusí.
+
+### Souvisící ustanovení
+
+- **§ 7** — přiměřené použití občanského soudního řádu.
+- **§ 7a písm. c)** — věcná příslušnost krajských soudů ve sporech o náhradu škody nebo jiné újmy vzniklé porušením povinnosti podat insolvenční návrh.
+- **§ 82** — obecná úprava předběžných opatření v insolvenčním řízení.
+- **§ 98 a § 99** — porušená povinnost a hmotněprávní odpovědnost.
+
+### Souvisící předpisy
+
+- **Zákon č. 99/1963 Sb., občanský soudní řád, zejména § 74 až 77a** — obecná pravidla předběžných opatření se uplatní přiměřeně, nestanoví-li insolvenční zákon jinak.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva představila § 100 jako součást nové soukromoprávní odpovědnosti za porušení povinnosti podat insolvenční návrh. Jeho účelem bylo umožnit, aby podstatná část náhrady byla složena do soudní úschovy již v průběhu insolvenčního řízení. Pramen: vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, 4. volební období, zvláštní část „K § 98 až 100“, číslovaná s. 182 (PDF s. 183).
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto sdělení není výsledkem negativní literární rešerše.
 
 ### Výklad
 
-**Procesní nástroj** pro **zajištění budoucího nároku** věřitele za škodu způsobenou prodlením statutárů.
+[1] **Povaha institutu.** Opatření podle § 100 nezakládá odpovědnost ani nerozhoduje o nároku na náhradu. Zajišťuje peněžní prostředky pro případ, že věřitel uspěje v následném řízení o žalobě podle § 99.
 
-#### Mechanismus
+[2] **Návrhové oprávnění.** Soud nemůže opatření nařídit bez návrhu. Návrh podává věřitel, jehož vlastní škoda nebo jiná újma má být zajištěna; zákonný text toto oprávnění nesvěřuje insolvenčnímu správci jen z titulu jeho funkce.
 
-1. **Návrh věřitele** (ne ex offo) — věřitel musí prokázat, že se *zdá* zřejmé, že mu vznikla škoda.
-2. **Soud nařídí předběžné opatření** — uloží statutárům **složit přiměřenou částku do úschovy**.
-3. **Lhůta pro žalobu** — věřitel musí podat *samostatnou žalobu o náhradu škody* (řízení mimo IR, není incidenční!).
-4. **Výplata úschovy** — pokud soud žalobě vyhoví, peníze z úschovy přejdou žalobci.
+[3] **Předpoklad zřejmého vzniku újmy.** Nestačí jen tvrdit porušení § 98. Již v průběhu insolvenčního řízení musí být zřejmé také to, že právě tímto porušením vznikla navrhujícímu věřiteli škoda nebo jiná újma. Konečnou výši však zákon výslovně nepožaduje vyčíslit.
 
-#### Praktický význam
+[4] **Povinná osoba a výše jistoty.** Opatření směřuje vůči osobě, která měla porušenou povinnost podat návrh, nikoli automaticky vůči každému členu orgánu dlužníka. Soud určí přiměřenou peněžitou částku tak, aby kryla podstatnou část předpokládané újmy; nejde tedy bez dalšího o celou žalovanou částku.
 
-V praxi je § 100 *poměrně slabě využíván* — důvody:
-- *prokázání škody během IR* je obtížné (typicky teprve při rozvrhu se zjistí, kolik věřitel dostane),
-- *statutáři* mohou mít majetek převedený na blízké osoby — předběžné opatření nepomůže,
-- *žaloba o náhradu* se v praxi vede až po skončení IR — kdy je škoda definitivně vyčíslitelná.
+[5] **Následná žaloba.** Spolu s nařízením opatření soud uloží navrhovateli podat žalobu o náhradu ve stanovené lhůtě. Její konec nesmí předcházet skončení insolvenčního řízení. Zákon výslovně stanoví, že toto řízení není incidenčním sporem; věcnou příslušnost krajského soudu upravuje § 7a písm. c).
 
-### Vazby
+[6] **Vydání úschovy.** Vyhovující rozhodnutí o náhradě nahrazuje v rozsahu úspěchu žalobce souhlas s vydáním předmětu úschovy. Samotné nařízení předběžného opatření proto ještě neopravňuje věřitele k výplatě složené částky.
 
-- **§ 99** — věcný základ odpovědnosti.
-- **§ 82** — předběžná opatření obecně.
+[7] **Procesní obezřetnost.** § 100 obsahuje vlastní zvláštní předpoklady, obsah výroku i vazbu na následnou žalobu. Obecnou úpravu předběžných opatření proto lze použít jen přiměřeně a pouze tam, kde zvláštní insolvenční úprava danou otázku neřeší.
 
-### F. Kazuistika
+[8] **Časová působnost.** § 100 je součástí původního insolvenčního zákona a v rozhodném znění k 19. 7. 2026 má tři odstavce. Při posuzování starších procesních úkonů je vždy třeba vycházet ze znění účinného v rozhodné době.
 
-**1. Modelová situace.** V probíhajícím insolvenčním řízení je již z přihlášek a předběžné zprávy správce zřejmé, že velký věřitel ZETA a. s. utrpí škodu pro pozdní podání návrhu jednatelem dlužníka. Jednatel má v osobním vlastnictví nemovitost, kterou se chystá převést na manželku. ZETA podává návrh na předběžné opatření, jímž má být jednateli uloženo složit do úschovy u soudu 800 000 Kč na náhradu předpokládané škody. Celkovou výši škody zatím nelze přesně vyčíslit. Důkazy: předběžná zpráva správce, přihláška ZETA, indicie o chystaném převodu majetku jednatele.
+### Judikatura
 
-**2. Právní otázka.** Lze nařídit předběžné opatření podle § 100, není-li dosud možné vyčíslit celkovou výši škody, a kdy nejpozději?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 100 odst. 1 (jen na návrh oprávněného věřitele, i bez vyčíslení celkové škody), odst. 2 (přiměřená částka + lhůta k podání žaloby, jež není incidenčním sporem), odst. 3 (souhlas s vydáním předmětu úschovy v rozsahu vyhovění žalobě).
-- *Související ustanovení téhož zákona:* § 99 (věcný základ odpovědnosti), § 98 (porušená povinnost), § 82 (předběžná opatření obecně).
-- *Související předpisy:* § 75c a násl. OSŘ (předběžná opatření), úschovy u soudu.
-- *Judikatura:* NS/VS 2 VSOL 115/2015 (citováno) — předběžné opatření podle § 100 lze nařídit i po rozhodnutí o úpadku dlužníka.
-
-**4. Subsumpce.** Znak „je již zřejmé, že věřiteli vznikla škoda" — naplněn předběžnou zprávou a stavem podstaty. Znak „na návrh oprávněného věřitele" — splněn (ZETA, nikoli ex offo). Znak „nelze vyčíslit celkovou výši" nebrání nařízení (výslovně odst. 1 in fine). Soud určí částku tak, aby kryla podstatnou část předpokládané škody (odst. 2).
-
-**5. Řešení.** Předběžné opatření lze nařídit (i po rozhodnutí o úpadku — 2 VSOL 115/2015). Soud uloží složení přiměřené částky do úschovy a současně určí věřiteli lhůtu k podání žaloby o náhradu škody u příslušného soudu (řízení **není** incidenční), přičemž lhůta nesmí skončit dříve než insolvenční řízení. Vyhoví-li soud žalobě, jeho rozhodnutí se v rozsahu vyhovění považuje za souhlas s vydáním úschovy žalobci (odst. 3). Riziko: faktická slabost institutu — jednatel může mít majetek již převeden, pak úschova není z čeho.
-
-**6. Varianty.** (a) Návrh podá osoba, která není věřitelem (např. správce) — nelze, oprávnění svědčí jen poškozenému věřiteli. (b) Věřitel nepodá ve stanovené lhůtě žalobu — předběžné opatření zanikne a složené prostředky se vrátí, nárok není zajištěn.
-
-### G. Protiargumenty a rizika
-
-- *„Bez vyčíslení škody nelze opatření nařídit."* Neobstojí — odst. 1 in fine to výslovně připouští; postačí, že vznik škody je zřejmý. Neutralizace: doložit zřejmost vzniku škody předběžnou zprávou a stavem podstaty.
-- *„Po rozhodnutí o úpadku je již pozdě."* Vyvráceno 2 VSOL 115/2015 — opatření lze nařídit i poté. Neutralizace: podat návrh i v pozdější fázi řízení.
-- Slabé místo: nízká praktická účinnost — majetek statutára bývá převeden na blízké osoby; prokázání škody během řízení je obtížné (definitivní vyčíslení až při rozvrhu), žaloba se reálně vede až po skončení řízení.
-
-### H. Praktický závěr
-
-§ 100 je zajišťovací nástroj věřitele: na jeho návrh soud uloží statutárovi složit do úschovy přiměřenou částku na budoucí náhradu škody, i bez vyčíslení celé škody a i po rozhodnutí o úpadku; následně musí věřitel podat samostatnou (neincidenční) žalobu.
-
-**Checklist (věřitel / advokát / soud):**
-- [ ] Je vznik škody věřiteli již zřejmý (předběžná zpráva, stav podstaty)?
-- [ ] Podává návrh oprávněný věřitel (nikoli soud ex offo)?
-- [ ] Je navržená částka přiměřená podstatné části předpokládané škody?
-- [ ] Stanovena lhůta k podání žaloby (nekončí dříve než řízení)?
-- [ ] Má statutár reálně postižitelný majetek (jinak nízká efektivita)?
-
-**Typicky rozhodné důkazy / podklady:** předběžná zpráva insolvenčního správce, přihláška a předpokládaná míra uspokojení, doklady o majetku statutára a chystaných dispozicích, vyčíslení (byť odhadní) předpokládané škody.
+Dřívější odkaz na 2 VSOL 115/2015 byl odstraněn: byl nesprávně označen jako rozhodnutí Nejvyššího soudu a v této revizi nebyl použit bez nového plnotextového ověření na oficiálním webu Vrchního soudu v Olomouci. Tím se nevyslovuje závěr, že relevantní judikatura neexistuje.
 
 ---
 

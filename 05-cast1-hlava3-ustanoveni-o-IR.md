@@ -1409,71 +1409,72 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento ú
 
 ## § 94 — Nařízení / nenařízení jednání odvolacím soudem
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) K projednání odvolání proti rozhodnutím insolvenčního soudu vydaným v insolvenčním řízení nařídí předseda senátu odvolacího soudu jednání.
+>
 > (2) Jednání není třeba nařizovat, jestliže
+>
 > a) se odmítá odvolání,
+>
 > b) se zastavuje nebo přerušuje odvolací řízení,
+>
 > c) odvolání směřuje proti rozhodnutí insolvenčního soudu, které se podle zákona vydává bez nařízení jednání nebo kterým nebylo rozhodnuto ve věci samé,
+>
 > d) se zrušuje rozhodnutí podle § 219a odst. 1 občanského soudního řádu,
+>
 > e) odvolání se týká toliko nákladů řízení, lhůty k plnění nebo předběžné vykonatelnosti.
+>
 > (3) Jednání není třeba nařizovat také tehdy, bylo-li odvolání podáno jen z důvodu nesprávného právního posouzení věci a účastníci se práva účasti na projednání věci vzdali, popřípadě s rozhodnutím věci bez nařízení jednání souhlasí; to neplatí, jestliže odvolací soud opakuje nebo doplňuje dokazování.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *ÚS* [II.ÚS 1842/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-1842-11_1) — usnesení, 5. 9. 2012
-  > „Podle ustanovení § 94 odst. 2 písm. c) zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon) totiž není jednání třeba nařizovat, jestliže odvolání směřuje proti rozhodnutí insolvenčního soudu, které se podle zákona vydává bez nařízení jednání nebo kterým nebylo rozhodnuto ve věci samé …"
+§ 94 je zvláštní úpravou jednání v insolvenčním odvolacím řízení. Vychází z pravidla, že se jednání nařídí, a v odstavcích 2 a 3 vymezuje případy, kdy je lze vynechat. Oproti § 214 odst. 2 písm. c) občanského soudního řádu zahrnuje § 94 odst. 2 písm. c) nejen tam uvedená usnesení, nýbrž každé rozhodnutí insolvenčního soudu, které se podle zákona vydává bez jednání, a každé rozhodnutí, jímž nebylo rozhodnuto ve věci samé.
+
+### Souvisící ustanovení
+
+- § 7 — subsidiární použití občanského soudního řádu,
+- § 91 — přípustnost odvolání proti rozhodnutím insolvenčního soudu,
+- § 92 a § 93 — urychlení projednání odvolání a zvláštní postup u vybraných rozhodnutí,
+- § 95 — autoremedura soudu prvního stupně.
+
+### Souvisící předpisy
+
+- § 214 občanského soudního řádu — obecné pravidlo jednání před odvolacím soudem a výjimky,
+- § 219a odst. 1 občanského soudního řádu — důvody zrušení rozhodnutí, na něž odkazuje § 94 odst. 2 písm. d),
+- § 213 a § 213a občanského soudního řádu — dokazování před odvolacím soudem.
+
+### Z důvodové zprávy
+
+Zvláštní část důvodové zprávy k § 91 až 96 uvádí, že § 94 vylučuje přiměřené použití § 214 občanského soudního řádu. Výslovně označuje § 94 odst. 2 písm. c) za vědomou odchylku od § 214 odst. 2 písm. c), odůvodněnou mnohostí účastníků insolvenčního řízení. Jde o vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, číslovaná strana 178 (PDF strana 179).
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento oddíl proto není výsledkem negativní literární rešerše.
 
 ### Výklad
 
-**Pravidlo nařízení jednání** (odst. 1) — kontradiktorní princip. Možnost projednání u odvolacího soudu.
+[1] **Zvláštní procesní úprava.** Podle § 7 se občanský soudní řád použije jen přiměřeně a jen nestanoví-li insolvenční zákon jinak. Pro otázku, zda odvolací soud nařídí jednání, stanoví jinak právě § 94; podmínky se proto posuzují nejprve podle něj, nikoli přímým převzetím § 214 občanského soudního řádu.
 
-**Výjimky** (odst. 2, 3):
-- procesní rozhodnutí (odmítnutí, zastavení, přerušení),
-- meritum vydávané bez jednání v I. stupni,
-- zrušení pro vady řízení (§ 219a OSŘ),
-- náklady, lhůty, předběžná vykonatelnost,
-- pouze právní posouzení + vzdání se / souhlas účastníků.
+[2] **Pravidlo.** Odstavec 1 ukládá předsedovi senátu odvolacího soudu nařídit k projednání odvolání jednání. Rozhodnutí bez jednání vyžaduje oporu v některé alternativě odstavce 2 nebo v kumulativně splněných podmínkách odstavce 3.
 
-### Vazby
+[3] **Procesní skončení a zrušení.** Jednání není třeba, odmítá-li se odvolání, zastavuje-li nebo přerušuje-li se odvolací řízení, anebo ruší-li se rozhodnutí z některého důvodu podle § 219a odst. 1 občanského soudního řádu. Písmeno d) neodkazuje na odstavec 2 § 219a.
 
-- **OSŘ § 214** — nařízení jednání u odvolacího soudu.
-- **OSŘ § 219a** — zrušení rozhodnutí.
+[4] **Povaha napadeného rozhodnutí.** Písmeno c) obsahuje dvě samostatné alternativy: napadené rozhodnutí se podle zákona vydává bez nařízení jednání, nebo jím nebylo rozhodnuto ve věci samé. První alternativa není omezena jen na nemeritorní usnesení; právě tím je text širší než § 214 odst. 2 písm. c) občanského soudního řádu.
 
-### F. Kazuistika
+[5] **Omezený předmět odvolání.** Podle písmene e) lze jednání vynechat, týká-li se odvolání pouze nákladů řízení, lhůty k plnění nebo předběžné vykonatelnosti. Směřuje-li odvolání také proti jiné části rozhodnutí, tato alternativa sama nestačí.
 
-**1. Modelová situace.** Věřitel Gama podá odvolání proti rozhodnutí insolvenčního soudu, které se podle zákona vydává bez nařízení jednání (procesní rozhodnutí), a to výhradně z důvodu nesprávného právního posouzení; všichni účastníci se vzdají práva účasti na projednání, resp. souhlasí s rozhodnutím bez jednání. Odvolací soud zvažuje, zda musí nařídit jednání. V jiné věci směřuje odvolání jen proti nákladům řízení. Důkazy: napadené rozhodnutí a jeho povaha (vydáváno bez jednání), obsah odvolání (jen právní posouzení), prohlášení účastníků o vzdání se účasti/souhlasu.
+[6] **Jen právní posouzení a postoj účastníků.** Odstavec 3 vyžaduje současně, aby bylo odvolání podáno jen z důvodu nesprávného právního posouzení věci a aby se účastníci práva účasti vzdali nebo souhlasili s rozhodnutím bez jednání. Zákon používá množné číslo „účastníci“; postoj jen některého z nich proto pro tuto alternativu nestačí.
 
-**2. Právní otázka.** V kterých případech odvolací soud nemusí nařizovat jednání k projednání odvolání proti rozhodnutí insolvenčního soudu?
+[7] **Dokazování.** I při splnění podmínek odstavce 3 musí odvolací soud jednání nařídit, jestliže opakuje nebo doplňuje dokazování. Tento zákaz rozhodnout bez jednání je výslovnou závěrečnou výjimkou odstavce 3.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 94 IZ — odvolací soud zpravidla nařídí jednání (odst. 1); jednání není třeba mj. při odmítnutí odvolání, zastavení/přerušení řízení, jde-li o rozhodnutí vydávané bez jednání nebo nemeritorní, při zrušení dle § 219a odst. 1 OSŘ, či týká-li se odvolání jen nákladů, lhůty k plnění nebo předběžné vykonatelnosti (odst. 2); jednání není třeba ani při odvolání jen pro nesprávné právní posouzení, vzdají-li se účastníci účasti či souhlasí s rozhodnutím bez jednání, ledaže se opakuje/doplňuje dokazování (odst. 3).
-- *Související ustanovení téhož zákona:* § 91 (přípustnost odvolání), § 92, § 93 (zrychlený režim).
-- *Související předpisy:* § 214 OSŘ (nařízení jednání u odvolacího soudu), § 219a OSŘ (zrušení rozhodnutí).
-- *Judikatura:* ÚS II. ÚS 1842/11 — dle § 94 odst. 2 písm. c) IZ není třeba nařizovat jednání, směřuje-li odvolání proti rozhodnutí vydávanému bez jednání nebo jímž nebylo rozhodnuto ve věci samé.
+[8] **Intertemporalita.** Pro procesní postup je rozhodné znění použitelné v době rozhodování odvolacího soudu. Při práci se starší judikaturou je proto nutné ověřit tehdejší znění § 94 i souvisejících ustanovení občanského soudního řádu; samotná shoda spisové značky nebo citace dnešního paragrafu nestačí. Toto je redakční metodický závěr.
 
-**4. Subsumpce.** První věc: napadené rozhodnutí se vydává bez jednání a nebylo jím rozhodnuto ve věci samé — naplněn znak odst. 2 písm. c); navíc odvolání směřuje jen k právnímu posouzení a účastníci se vzdali účasti — naplněn i znak odst. 3 (a není opakováno dokazování). Druhá věc: odvolání jen proti nákladům — znak odst. 2 písm. e). V obou případech jednání nařizovat netřeba.
+### Judikatura
 
-**5. Řešení.** Odvolací soud v obou věcech rozhodne bez nařízení jednání (odst. 2 písm. c/e, odst. 3); nejde o porušení práva na spravedlivý proces (II. ÚS 1842/11). Pokud by se však mělo opakovat či doplnit dokazování, jednání nařídit musí (výjimka v závěru odst. 3). Praktický krok: účastník, který chce ústní projednání, by se neměl práva účasti vzdávat.
-
-**6. Varianty.** (a) Kdyby odvolací soud opakoval/doplňoval dokazování, musel by jednání nařídit i při odvolání jen pro právní posouzení (odst. 3 in fine). (b) Kdyby šlo o odvolání proti meritornímu rozhodnutí vydávanému s jednáním, platilo by pravidlo odst. 1 (jednání se nařizuje).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Bez nařízení jednání je vždy porušeno právo na spravedlivý proces." — Neutralizace: II. ÚS 1842/11 — u rozhodnutí vydávaných bez jednání či nemeritorních jednání netřeba; ústavně konformní.
-- *Protiargument:* „Souhlas s rozhodnutím bez jednání nelze vztáhnout, je-li potřeba dokazování." — Neutralizace: to je právě výjimka odst. 3 in fine — při opakování/doplnění dokazování se jednání nařídí.
-- *Slabé místo:* je třeba doložit povahu napadeného rozhodnutí (vydáváno bez jednání / nemeritorní) a obsah odvolání (jen právní posouzení) i prohlášení účastníků; chybné posouzení může vést k vadě řízení.
-
-### H. Praktický závěr
-
-Odvolací soud zpravidla nařizuje jednání, ale v taxativně vymezených případech (procesní rozhodnutí, rozhodnutí bez jednání, náklady/lhůty/předběžná vykonatelnost, jen právní posouzení se souhlasem účastníků) je nenařizuje — vyjma opakování/doplnění dokazování.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Posouzena povaha napadeného rozhodnutí (meritorní × procesní, vydáváno s/bez jednání).
-- [ ] Ověřeno naplnění některé z výjimek odst. 2 (odmítnutí, zastavení, § 219a OSŘ, náklady aj.).
-- [ ] U odvolání jen pro právní posouzení zjištěno vzdání se účasti / souhlas účastníků (odst. 3).
-- [ ] Při opakování/doplnění dokazování jednání nařízeno (výjimka odst. 3 in fine).
-
-**Typicky rozhodné důkazy / podklady:** napadené rozhodnutí a jeho povaha, obsah odvolání (důvody), prohlášení účastníků o vzdání se účasti/souhlasu, doklad o (ne)opakování dokazování.
+Do této revize nebylo zařazeno rozhodnutí, jehož plný text by byl znovu otevřen z oficiálního webu a nosně ověřen pro některý z výkladových závěrů výše. Dříve uvedené usnesení Ústavního soudu sp. zn. II. ÚS 1842/11 bylo odstraněno, protože se v tomto kole nepodařilo z oficiálního zdroje znovu ověřit jeho plný skutkový a procesní kontext. Tím se nevyslovuje závěr, že související judikatura neexistuje.
 
 ---
 

@@ -1480,51 +1480,54 @@ Do této revize nebylo zařazeno rozhodnutí, jehož plný text by byl znovu ote
 
 ## § 95 — Možnost autoremedury
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Rozhodnutí vydaná v insolvenčním řízení, proti kterým je odvolání přípustné, může na jeho základě změnit také soud prvního stupně, pokud odvolání v celém rozsahu vyhoví; to neplatí, jde-li o odvolání proti rozhodnutí o nařízení předběžného opatření nebo o odvolání proti rozhodnutí ve věci samé.
+
+### Přehled výkladu
+
+§ 95 rozšiřuje oproti § 210a občanského soudního řádu okruh rozhodnutí, která může po podání odvolání změnit přímo soud prvního stupně. Vyžaduje současně přípustné odvolání a možnost vyhovět mu v celém rozsahu. Autoremedura je výslovně vyloučena u rozhodnutí o nařízení předběžného opatření a u rozhodnutí ve věci samé.
+
+### Souvisící ustanovení
+
+- § 7 — subsidiární použití občanského soudního řádu,
+- § 91 — přípustnost odvolání proti rozhodnutím vydaným podle insolvenčního zákona,
+- § 92 a § 93 — přednostní projednání a postup soudu prvního stupně před předložením věci odvolacímu soudu,
+- § 94 — jednání u odvolacího soudu.
+
+### Souvisící předpisy
+
+- § 210a zákona č. 99/1963 Sb., občanský soudní řád — obecná, výčtově omezená autoremedura soudu prvního stupně.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona označuje § 95 za posílení principu autoremedury, které má přispět k vyšší operativnosti soudního rozhodování a ke zrychlení insolvenčního řízení. Jde o zvláštní část důvodové zprávy k § 91 až 96, sněmovní tisk 1120/0, číslovaná s. 178 (PDF s. 179).
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto sdělení není výsledkem negativní literární rešerše.
 
 ### Výklad
 
-**Autoremedura** — soud I. stupně může sám rozhodnutí změnit, **pokud odvolání zcela vyhoví**. Výjimky:
-- odvolání proti nařízení předběžného opatření,
-- odvolání proti rozhodnutí ve věci samé.
+[1] **Zvláštní úprava.** Subsidiární pravidlo § 7 vede k občanskému soudnímu řádu jen tehdy, nestanoví-li insolvenční zákon jinak. Zatímco § 210a občanského soudního řádu dovoluje autoremeduru jen u vyjmenovaných rozhodnutí, § 95 vymezuje její dosah obecně podle procesní povahy rozhodnutí a odvolání. V insolvenčním řízení je proto určující zvláštní úprava § 95.
 
-> *Smysl*: zrychlení v případech, kdy je odvolání zjevně důvodné — místo posílat věc vrchnímu soudu, soud I. stupně sám napraví. *V praxi vzácně využíváno*.
+[2] **Přípustné odvolání.** Pravomoc soudu prvního stupně vzniká pouze na základě odvolání, které je proti napadenému rozhodnutí přípustné. § 95 sám přípustnost odvolání nezakládá; tu je nutno určit podle konkrétního ustanovení insolvenčního zákona, včetně § 91.
 
-### F. Kazuistika
+[3] **Vyhovění v celém rozsahu.** Soud prvního stupně může své rozhodnutí změnit jen tehdy, jestliže novým rozhodnutím vyhoví odvolání v celém rozsahu. Možnost odstranit pouze část odvoláním vytýkaného výsledku tuto podmínku nesplňuje.
 
-**1. Modelová situace.** Soud prvního stupně vydá rozhodnutí, proti němuž je odvolání přípustné (např. rozhodnutí o pohledávce). Účastník podá odvolání, jemuž soud prvního stupně chce zcela vyhovět, neboť uzná svou zřejmou chybu. Variantně účastník napadne odvoláním nařízení předběžného opatření, resp. rozhodnutí ve věci samé, a soud prvního stupně by jim rovněž rád vyhověl. Důkazy: napadené rozhodnutí, odvolání, posouzení, zda lze odvolání vyhovět v celém rozsahu.
+[4] **Dvě výluky.** Ani úplná důvodnost přípustného odvolání neumožňuje autoremeduru, směřuje-li odvolání proti rozhodnutí o nařízení předběžného opatření nebo proti rozhodnutí ve věci samé. V takovém případě soud prvního stupně postupuje k předložení věci odvolacímu soudu podle § 93.
 
-**2. Právní otázka.** Může soud prvního stupně sám změnit napadené rozhodnutí (autoremedura) a v kterých případech je to vyloučeno?
+[5] **Procesní pořadí.** Před použitím § 95 je třeba odděleně posoudit přípustnost odvolání, povahu napadeného rozhodnutí a možnost úplného vyhovění. Teprve kladný výsledek všech tří kroků zakládá prostor pro změnu rozhodnutí soudem prvního stupně.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 95 IZ — rozhodnutí, proti nimž je odvolání přípustné, může na jeho základě změnit i soud prvního stupně, vyhoví-li odvolání v celém rozsahu; to neplatí u odvolání proti nařízení předběžného opatření nebo proti rozhodnutí ve věci samé.
-- *Související ustanovení téhož zákona:* § 91 (přípustnost odvolání), § 92, § 93 (zrychlený režim), § 94 (jednání u odvolacího soudu).
-- *Související předpisy:* OSŘ — obecná úprava autoremedury (modifikovaná IZ).
-- *Judikatura:* nosně NS k tomu, že autoremedura je možná jen při plném vyhovění odvolání a je vyloučena u meritorních rozhodnutí a u nařízení předběžného opatření.
+[6] **Účel a meze.** Důvodová zpráva spojuje rozšířenou autoremeduru s operativností a rychlostí insolvenčního řízení. Tento účel však nerozšiřuje textové podmínky § 95 a nemůže prolomit žádnou ze dvou výslovných výluk.
 
-**4. Subsumpce.** U rozhodnutí o pohledávce (přípustné odvolání, nejde o věc samou ve smyslu výluky) a při úmyslu plně vyhovět je naplněn znak § 95 — autoremedura možná. U odvolání proti nařízení předběžného opatření a proti rozhodnutí ve věci samé je naplněn znak výluky — autoremedura vyloučena, i kdyby soud chtěl vyhovět.
+[7] **Intertemporalita.** Komentář vychází ze znění účinného k 19. 7. 2026. Při práci se starším rozhodnutím je třeba znovu ověřit tehdy účinné znění § 95, § 7 a souvisejících ustanovení občanského soudního řádu i procesní okamžik, k němuž se použitelná úprava určuje. Toto je redakční metodický závěr.
 
-**5. Řešení.** V první věci soud prvního stupně sám změní rozhodnutí (autoremedura), vyhoví-li odvolání v celém rozsahu; tím se věc nepředkládá odvolacímu soudu. Ve věcech předběžného opatření a meritorních rozhodnutí soud prvního stupně autoremeduru provést nesmí a předloží věc odvolacímu soudu. Praktický krok: vždy ověřit, zda nejde o vyloučenou kategorii a zda lze vyhovět zcela (částečné vyhovění autoremeduru nezakládá).
+### Judikatura
 
-**6. Varianty.** (a) Kdyby soud chtěl odvolání vyhovět jen zčásti, autoremedura není možná (vyžaduje se plné vyhovění). (b) Kdyby šlo o rozhodnutí ve věci samé, je autoremedura vyloučena bez ohledu na míru důvodnosti odvolání.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Soud prvního stupně může napravit jakékoli své rozhodnutí, je-li odvolání důvodné." — Neutralizace: § 95 vylučuje autoremeduru u předběžných opatření a u rozhodnutí ve věci samé a vyžaduje plné vyhovění.
-- *Protiargument:* „Stačí částečné vyhovění odvolání." — Neutralizace: zákon žádá vyhovění v celém rozsahu; jinak věc rozhoduje odvolací soud.
-- *Slabé místo:* hranice „rozhodnutí ve věci samé" může být sporná; chybné posouzení (autoremedura tam, kde je vyloučena) zakládá vadu řízení.
-
-### H. Praktický závěr
-
-Autoremedura je v insolvenci možná jen u rozhodnutí s přípustným odvoláním a jen při plném vyhovění; je vyloučena u nařízení předběžného opatření a u rozhodnutí ve věci samé.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověřeno, že proti rozhodnutí je odvolání přípustné a nejde o vyloučenou kategorii (předběžné opatření, věc sama).
-- [ ] Posouzeno, zda lze odvolání vyhovět v celém rozsahu (podmínka autoremedury).
-- [ ] Při splnění podmínek provedena autoremedura bez předkládání věci odvolacímu soudu.
-- [ ] Při vyloučení/částečném vyhovění věc předložena odvolacímu soudu.
-
-**Typicky rozhodné důkazy / podklady:** napadené rozhodnutí a jeho povaha, odvolání a jeho rozsah, posouzení možnosti plného vyhovění.
+V tomto kole nebylo do výkladu zařazeno žádné rozhodnutí. Dřívější obecný odkaz na blíže neurčenou judikaturu Nejvyššího soudu nesplňoval požadavek plnotextového ověření a byl odstraněn. Nejde o tvrzení, že relevantní judikatura neexistuje; její systematická rešerše a případné zařazení vyžadují samostatné plnotextové a intertemporální ověření.
 
 ---
 

@@ -515,80 +515,64 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto odl
 
 ## § 105 — Náležitosti návrhu věřitele
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Podá-li insolvenční návrh věřitel, je povinen doložit, že má proti dlužníkovi splatnou pohledávku, a k návrhu připojit její přihlášku; je-li dlužníkem právnická osoba, je insolvenční navrhovatel, který vede účetnictví nebo daňovou evidenci podle zvláštního zákona, povinen doložit pohledávku uznáním dlužníka s ověřeným podpisem nebo vykonatelným rozhodnutím nebo notářským zápisem se svolením k vykonatelnosti nebo exekutorským zápisem se svolením k vykonatelnosti nebo potvrzením auditora podle zvláštního zákona, soudního znalce nebo daňového poradce, že navrhovatel o pohledávce účtuje. Jde-li v případě pohledávky podle věty první o pohledávku, která se do insolvenčního řízení jinak nepřihlašuje, považuje se po rozhodnutí o úpadku za uplatněnou podle § 203.
-> (2) [analogická úprava pro zahraniční navrhovatele]
+>
+> (2) Je-li insolvenčním navrhovatelem podle odstavce 1 věta první za středníkem zahraniční právnická osoba nebo fyzická osoba, která nemá bydliště nebo sídlo na území České republiky, lze pohledávku doložit také dokladem ověřeným nebo vydaným cizím státem, který je podle cizího právního řádu srovnatelný s uznáním pohledávky dlužníkem s jeho ověřeným podpisem, vykonatelným rozhodnutím nebo notářským zápisem se svolením k vykonatelnosti, nebo dokladem o tom, že o pohledávce účtuje podle účetních, daňových nebo jiných obdobných předpisů cizího státu, který je podle cizího právního řádu srovnatelný s potvrzením auditora, soudního znalce nebo daňového poradce podle odstavce 1.
+>
 > (3) Nesplní-li věřitel, který podal insolvenční návrh, povinnost podle § 177 odst. 2 a 3, platí, že pohledávku vůči dlužníkovi neosvědčil, ledaže jde o případ podle § 177 odst. 4 nebo 6.
 
-### Výklad — **DŮLEŽITÝ PARAGRAF — NA VĚŘITELE PŘÍSNĚJŠÍ POŽADAVKY**
+### Přehled výkladu
 
-**Aktivní legitimace věřitele** vyžaduje **kvalifikované doložení**:
+U každého věřitelského návrhu se dokládá splatná pohledávka a připojuje její přihláška. Zvláštní uzavřený okruh dokladů se uplatní jen při současném splnění dvou podmínek: dlužník je právnickou osobou a navrhovatel vede účetnictví nebo daňovou evidenci. Odstavec 2 rozšiřuje použitelné doklady pro vymezené zahraniční navrhovatele. Odstavec 3 spojuje nesplnění informační povinnosti o skutečném majiteli s fikcí neosvědčení navrhovatelovy pohledávky.
 
-1. **Pohledávka musí být *splatná*** (ne podmíněná, ne před splatností).
-2. **Připojit přihlášku pohledávky**.
-3. **Pro PO dlužníka — kvalifikovaný důkaz pohledávky**:
-   - *uznání dlužníka* s ověřeným podpisem,
-   - *vykonatelné rozhodnutí*,
-   - *notářský zápis se svolením k vykonatelnosti*,
-   - *exekutorský zápis*,
-   - *potvrzení auditora / znalce / daňového poradce*, že navrhovatel pohledávku účtuje.
+### Souvisící ustanovení
 
-#### Smysl přísnějšího režimu
+- § 103 odst. 2 a 3 — tvrzení o oprávnění podat návrh, označení důkazů a přílohy návrhu.
+- § 128a — odmítnutí věřitelského návrhu pro zjevnou bezdůvodnost; toto ustanovení nelze bez dalšího ztotožnit s každým neosvědčením pohledávky.
+- § 173 až 177 — přihláška, její formulář, přílohy a údaje o skutečném majiteli.
+- § 203 — způsob uplatnění pohledávek, které se jinak nepřihlašují.
 
-Historicky byly *věřitelské insolvenční návrhy* nástrojem **vydírání** (jakoby věřitel hrozil — „zaplať, nebo na tebe podám návrh, který tě zruinuje"). Novelou č. 64/2017 Sb. zavedeno přísné dokazování — věřitel musí *věrohodně prokázat* pohledávku už *před* zahájením řízení, ne až ji „přihláškou tvrdit".
+### Souvisící předpisy
 
-#### Zahraniční navrhovatelé (odst. 2)
+- zákon č. 563/1991 Sb., o účetnictví,
+- zákon č. 93/2009 Sb., o auditorech,
+- zákon č. 358/1992 Sb., notářský řád,
+- zákon č. 120/2001 Sb., exekuční řád,
+- zákon č. 37/2021 Sb., o evidenci skutečných majitelů.
 
-Analogická pravidla — *zahraniční obdoba* českých dokumentů: cizí vykonatelné rozhodnutí, notářský / obdobný akt, potvrzení obdobné auditorovi.
+### Z důvodové zprávy
 
-#### Vztah k § 177 odst. 2-6 (odst. 3)
+Zvláštní část důvodové zprávy k vládnímu návrhu pozdějšího zákona č. 64/2017 Sb. (sněmovní tisk 785/0, s. 118–119 dokumentu) vymezuje účel nové úpravy jako ochranu dlužníka před šikanózními návrhy opřenými o fiktivní pohledávky. Přísnější dokladový režim odůvodňuje závažnými účinky zahájení insolvenčního řízení a omezuje jej podle osoby dlužníka a podle toho, zda navrhovatel vede účetnictví nebo daňovou evidenci.
 
-Pokud věřitel nesplní povinnosti dle § 177 (typicky doložení dokladů k pohledávce v přihlášce), **pohledávka se považuje za neosvědčenou** — soud zamítne návrh.
+### Literatura
 
-### Vazby
+Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; je odložena do druhého kola.
 
-- **§ 173 — § 177** — přihláška pohledávky.
-- **§ 128a odst. 2 písm. a)** — odmítnutí pro pohledávku, ke které se nepřihlíží.
+### Výklad
+
+[1] **Základní povinnosti každého věřitele.** Věřitel musí doložit splatnou pohledávku a současně připojit její přihlášku. Přihláška sama nenahrazuje insolvenční návrh ani jeho povinná tvrzení podle § 103 odst. 2.
+
+[2] **Kdy se vyžadují kvalifikované doklady.** Způsoby uvedené za středníkem v odstavci 1 se neuplatní vůči každému věřiteli ani vůči každému dlužníku. Povinnost vzniká navrhovateli, který vede účetnictví nebo daňovou evidenci, podává-li návrh proti dlužníku-právnické osobě.
+
+[3] **Přípustné tuzemské doklady.** Takový navrhovatel musí zvolit některou ze zákonných alternativ: uznání dlužníka s ověřeným podpisem, vykonatelné rozhodnutí, notářský nebo exekutorský zápis se svolením k vykonatelnosti anebo potvrzení auditora, soudního znalce či daňového poradce, že o pohledávce účtuje. Běžné smluvní a fakturační listiny mohou být významné pro osvědčení pohledávky, samy však tuto zvláštní dokladovou povinnost nenahrazují.
+
+[4] **Zahraniční navrhovatel.** Odstavec 2 dovoluje vymezené zahraniční právnické osobě nebo fyzické osobě bez bydliště či sídla v České republice použít také cizozemský doklad. Nestačí pouze jeho zahraniční původ; musí být ověřen nebo vydán cizím státem a podle tamního práva srovnatelný s některou zákonem určenou tuzemskou alternativou.
+
+[5] **Pohledávka, která se nepřihlašuje.** Připojení přihlášky se neprosazuje samoúčelně tam, kde se daná pohledávka jinak nepřihlašuje. Po rozhodnutí o úpadku ji zákon považuje za uplatněnou podle § 203.
+
+[6] **Skutečný majitel věřitele.** U pohledávky nabyté postoupením nebo obdobně po zahájení řízení nebo v posledních šesti měsících před ním vyžaduje § 177 odst. 2 příslušné čestné prohlášení. Nesplnění povinností podle § 177 odst. 2 a 3 vede u navrhujícího věřitele k fikci, že pohledávku neosvědčil; § 105 odst. 3 výslovně zachovává výjimky podle § 177 odst. 4 a 6.
+
+[7] **Procesní následek je nutné kvalifikovat přesně.** § 105 odst. 3 stanoví neosvědčení pohledávky, nikoli obecné pravidlo, že každá vada podle § 105 automaticky vede k odmítnutí podle § 128a. Soud rozliší vady samotného návrhu, nedoložení oprávnění navrhovatele a některý ze zvláštních důvodů zjevné bezdůvodnosti podle § 128a.
+
+[8] **Intertemporalita.** Znění § 105 bylo s účinností od 1. července 2017 nahrazeno zákonem č. 64/2017 Sb. Podle jeho čl. II bodu 1 se nové znění použilo i na dříve zahájená insolvenční řízení, přičemž právní účinky úkonů nastalé před účinností zůstaly zachovány. Pro právní stav k 19. červenci 2026 je rozhodné konsolidované znění účinné od 1. ledna 2026.
 
 ### Judikatura
 
-- **NS 29 NSČR 30/2015**: pohledávka musí být *individualizovaná* — pouhé tvrzení o existenci nestačí. Doklady musí umožnit prima facie ověření.
-
-### F. Kazuistika
-
-**1. Modelová situace.** Věřitel NÝ s. r. o. (vede účetnictví) podá insolvenční návrh proti XÍ s. r. o. (právnická osoba) a tvrdí splatnou pohledávku 900 000 Kč z neuhrazených faktur. K návrhu připojí jen kopie faktur a dodacích listů; nemá uznání dluhu, vykonatelný titul ani potvrzení auditora/znalce/daňového poradce, že o pohledávce účtuje. Důkazy: faktury, dodací listy, účetnictví navrhovatele, případné potvrzení auditora.
-
-**2. Právní otázka.** Doložil věřitel oprávnění podat návrh proti právnické osobě, omezil-li se na faktury bez některého z kvalifikovaných důkazů podle § 105 odst. 1?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 105 odst. 1 (splatná pohledávka + přihláška; u PO dlužníka kvalifikovaný důkaz — uznání s ověřeným podpisem / vykonatelné rozhodnutí / notářský či exekutorský zápis se svolením k vykonatelnosti / potvrzení auditora, znalce nebo daňového poradce o účtování), odst. 2 (zahraniční navrhovatelé), odst. 3 (neosvědčení při nesplnění § 177 odst. 2 a 3).
-- *Související ustanovení téhož zákona:* § 103 odst. 2 (oprávnění k podání), § 128a odst. 2 písm. a) (odmítnutí pro pohledávku, ke které se nepřihlíží), § 173–§ 177 (přihláška pohledávky).
-- *Související předpisy:* zákon o účetnictví; notářský řád a exekuční řád (zápisy se svolením k vykonatelnosti).
-- *Judikatura:* NS 29 NSČR 30/2015 (citováno) — pohledávka musí být individualizovaná, doklady musí umožnit prima facie ověření.
-
-**4. Subsumpce.** Znak „splatná pohledávka" může být tvrzen, avšak u dlužníka-PO zákon vyžaduje **kvalifikovaný** způsob doložení. Faktury a dodací listy samy o sobě žádnou z taxativně uvedených forem nenaplňují — chybí uznání s ověřeným podpisem, vykonatelný titul i potvrzení auditora/znalce/daňového poradce o účtování. Oprávnění k podání tak **není** řádně doloženo.
-
-**5. Řešení.** Návrh není podložen kvalifikovaným důkazem → hrozí odmítnutí (typicky cestou § 128a, případně neúspěch pro neosvědčení pohledávky). Praktický krok: opatřit potvrzení auditora/znalce/daňového poradce, že navrhovatel o pohledávce účtuje (nejdostupnější forma), nebo získat exekuční/notářský titul či uznání s ověřeným podpisem; teprve poté podat (nový) návrh. Riziko: zdržení a sankce za případnou šikanu.
-
-**6. Varianty.** (a) Dlužníkem je fyzická osoba (nikoli PO) — přísný režim kvalifikovaného důkazu se neuplatní, postačí doložit splatnou pohledávku obvyklými prostředky + přihláška. (b) Navrhovatel je zahraniční — uplatní se obdoba českých dokladů (cizí vykonatelné rozhodnutí, obdobný notářský akt, potvrzení obdobné auditorovi — odst. 2).
-
-### G. Protiargumenty a rizika
-
-- *„Pohledávku doložím přihláškou v řízení."* Neobstojí — § 105 vyžaduje kvalifikované doložení již při podání; pouhé „tvrzení přihláškou" nestačí (smysl novely č. 64/2017 Sb. proti vydírání). Neutralizace: opatřit kvalifikovaný důkaz předem.
-- *„Faktury jsou dostatečné."* U dlužníka-PO nikoli — výčet forem je taxativní; faktury je nenahrazují. Neutralizace: doplnit potvrzení o účtování od auditora/znalce/daňového poradce.
-- Slabé místo: i kvalifikovaný důkaz musí umožnit prima facie ověření individualizované pohledávky (NS 29 NSČR 30/2015); navíc při nesplnění povinností dle § 177 odst. 2 a 3 platí pohledávka za neosvědčenou (odst. 3).
-
-### H. Praktický závěr
-
-Věřitel proti dlužníku-PO musí pohledávku doložit kvalifikovaně (uznání s ověřeným podpisem, vykonatelný titul, notářský/exekutorský zápis nebo potvrzení auditora/znalce/daňového poradce o účtování) a připojit přihlášku; jinak oprávnění k podání neosvědčí a návrh bude odmítnut.
-
-**Checklist (věřitel / advokát / soud):**
-- [ ] Je pohledávka splatná a individualizovaná (prima facie ověřitelná)?
-- [ ] Jde-li o dlužníka-PO: je k dispozici některý z kvalifikovaných důkazů dle odst. 1?
-- [ ] Je připojena přihláška pohledávky?
-- [ ] U zahraničního navrhovatele: doložena obdoba českých dokladů (odst. 2)?
-- [ ] Splněny povinnosti dle § 177 odst. 2 a 3 (jinak pohledávka neosvědčena)?
-
-**Typicky rozhodné důkazy / podklady:** uznání dluhu s ověřeným podpisem nebo vykonatelný titul/notářský/exekutorský zápis nebo potvrzení auditora/znalce/daňového poradce o účtování, přihláška pohledávky, smluvní a fakturační podklady umožňující ověření.
+Do tohoto vydání nebylo převzato rozhodnutí, jehož plný text by byl pro výklad § 105 spolehlivě ověřen a přinášel nosný závěr nad rámec citovaného zákonného textu. Dřívější odkaz na 29 NSČR 30/2015 byl odstraněn jako nedoložený.
 
 ---
 

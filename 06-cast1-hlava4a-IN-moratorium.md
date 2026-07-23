@@ -907,83 +907,64 @@ Tato revize necituje žádné rozhodnutí jako pramen samostatného výkladu § 
 
 ## § 111 — Zákaz dispozic dlužníka
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Nerozhodne-li insolvenční soud jinak, je dlužník povinen zdržet se od okamžiku, kdy nastaly účinky spojené se zahájením insolvenčního řízení, nakládání s majetkovou podstatou a s majetkem, který do ní může náležet, pokud by mělo jít o podstatné změny ve skladbě, využití nebo určení tohoto majetku anebo o jeho nikoli zanedbatelné zmenšení. Peněžité závazky vzniklé před zahájením insolvenčního řízení je dlužník oprávněn plnit jen v rozsahu a za podmínek stanovených tímto zákonem.
 > (2) Omezení podle odstavce 1 se netýká úkonů nutných ke splnění povinností stanovených zvláštními právními předpisy, k provozování podniku v rámci obvyklého hospodaření, k odvrácení hrozící škody, k plnění zákonné vyživovací povinnosti a ke splnění procesních sankcí. Dále se omezení podle odstavce 1 nevztahuje na uspokojování pohledávek za majetkovou podstatou (§ 168) a pohledávek jim postavených na roveň (§ 169); tyto pohledávky se uspokojují v termínech splatnosti, je-li to podle stavu majetkové podstaty možné.
 > (3) Právní úkony, které dlužník učinil v rozporu s omezeními stanovenými v důsledku účinků spojených se zahájením insolvenčního řízení, jsou vůči věřitelům neúčinné, ledaže si k nim dlužník nebo jeho věřitel předem vyžádal souhlas insolvenčního soudu.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *NS* [29 ICdo 97/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C8380D3E292CAD8FC12585F90018BC23?openDocument) — kat. A, 30. 6. 2020
-  > „Zúčtoval-li (budoucí) insolvenční dlužník svým zaměstnancům příjmy ze závislé činnosti (§ 3 odst. 1 zákona č. 592/1992 Sb. ve znění pozdějších předpisů) a odvedl-li (přímo) příslušné zdravotní pojišťovně pojistné na zdravotní pojištění, jehož plátci byli tito zaměstnanci, nešlo o plnění z majetku náležejícího do majetkové podstaty dlužníka"
+§ 111 zachovává dlužníkovi dispoziční oprávnění, ale od účinků zahájení řízení je omezuje podle významu dispozice a původu placeného peněžitého závazku. Výjimky vymezuje odstavec 2; soud může režim změnit nebo předem souhlasit s konkrétním jednáním. Porušení není neplatností: jde o neúčinnost vůči věřitelům, která se procesně prosazuje podle § 235 odst. 2.
 
-### Výklad — **TVRDÉ OMEZENÍ DLUŽNÍKA**
+### Souvisící ustanovení
 
-**Materiální zákaz dispozice** dlužníka — neplatnost vůči věřitelům.
+- **§ 109 odst. 4** — okamžik vzniku účinků zahájení insolvenčního řízení.
+- **§ 112 a § 113** — předběžný správce a soudní omezení dispozic v širším nebo konkrétním rozsahu.
+- **§ 168 a § 169** — pohledávky za majetkovou podstatou a pohledávky jim postavené na roveň.
+- **§ 205 a § 206** — rozsah majetkové podstaty.
+- **§ 229 odst. 3** — dlužník jako osoba s dispozičními oprávněními před rozhodnutím o úpadku.
+- **§ 235 až § 239** — založení neúčinnosti rozhodnutím o odpůrčí žalobě, její následky a aktivní legitimace insolvenčního správce.
 
-#### Zákazové oblasti (odst. 1)
+### Souvisící předpisy
 
-- *podstatné změny ve skladbě majetku*,
-- *podstatné změny ve využití nebo určení majetku*,
-- *nikoli zanedbatelné zmenšení*,
-- *plnění dříve vzniklých peněžitých závazků* (mimo zákonné výjimky).
+- **Zákon č. 294/2013 Sb.** — s účinností od 1. 1. 2014 doplnil do § 111 odst. 2 větu o uspokojování pohledávek podle § 168 a § 169 a do odstavce 3 možnost předchozího souhlasu insolvenčního soudu.
 
-#### Výjimky (odst. 2)
+### Z důvodové zprávy
 
-- *povinnosti dle zvláštních předpisů* (typicky daňové, sociální),
-- *obvyklý provoz podniku* (typicky nákupy materiálu, mzdy),
-- *odvrácení hrozící škody* (typicky havárie, požár),
-- *vyživovací povinnost*,
-- *procesní sankce*,
-- *pohledávky za podstatou a postavené na roveň* (§ 168, § 169).
+Původní důvodová zpráva k vládnímu návrhu, sněmovní tisk 1120/0, zvláštní část „K § 111 až 114“ (číslovaná s. 185–186, PDF s. 186–187), charakterizovala § 111 jako obecné zákonné omezení dispozic po zahájení řízení a § 112 a § 113 jako možnost zvláštních omezení předběžným opatřením. Výslovně rozlišovala neúčinnost v insolvenčním řízení od neplatnosti spojované obecnou procesní úpravou s porušením vykonatelného předběžného opatření.
 
-#### Sankce — neúčinnost (odst. 3)
+Pozdější tisk 929/0 a zákon č. 294/2013 Sb. doplnily dnešní pravidla o placení pohledávek podle § 168 a § 169 a o předchozím souhlasu soudu. Původní důvodová zpráva proto sama nepopisuje celé aktuální znění.
 
-Úkony v rozporu jsou **vůči věřitelům neúčinné** (nikoli absolutně neplatné — vůči třetí osobě úkon platí). Smluvní partner si může uplatnit vrácení plnění proti dlužníkovi, ale v insolvenci jen jako *přihlášenou pohledávku*.
+### Literatura
 
-**Možnost obejít** — *předchozí souhlas soudu*. V praxi se používá u významnějších transakcí dlužníka, který chce dál podnikat.
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Toto odložení není negativní rešerší ani závěrem, že k § 111 literatura neexistuje.
 
-### Vazby
+### Výklad
 
-- **§ 109** — účinky zahájení.
-- **§ 168, § 169** — pohledávky, které lze platit.
-- **§ 235 a násl.** — neúčinné úkony obecně.
+[1] **Časový a osobní rozsah.** Omezení vzniká okamžikem, kdy nastanou účinky zahájení řízení podle § 109 odst. 4. Před rozhodnutím o úpadku je dlužník podle § 229 odst. 3 osobou s dispozičními oprávněními; § 111 jeho oprávnění neruší, nýbrž omezuje.
 
-### F. Kazuistika
+[2] **Majetek a intenzita dispozice.** První věta odstavce 1 dopadá na majetkovou podstatu i na majetek, který do ní může náležet. Zakázána není každá dispozice, ale ta, která by způsobila podstatnou změnu skladby, využití nebo určení majetku anebo jeho nikoli zanedbatelné zmenšení. Posouzení vyžaduje konkrétní srovnání významu majetku, hodnoty, účelu a dopadu jednání na podstatu; samotný druh smlouvy výsledek nepředurčuje.
 
-**1. Modelová situace.** Po zahájení insolvenčního řízení dlužník FÍ s. r. o. (chce dál provozovat podnik) převede bez souhlasu soudu nemovitost ze svého majetku na spřízněnou osobu za podhodnocenou cenu. Současně hradí jednomu staršímu dodavateli celý dluh z doby před zahájením. Argumentuje, že šlo o „běžný provoz". Důkazy: kupní smlouva a znalecký posudek o ceně, výpis z účtu o úhradě staršího závazku, doklady o obvyklém hospodaření podniku.
+[3] **Starší peněžité závazky.** Peněžité závazky vzniklé před zahájením řízení může dlužník plnit pouze v rozsahu a za podmínek insolvenčního zákona. Rozhodný je vznik závazku, nikoli jen jeho splatnost nebo den platby.
 
-**2. Právní otázka.** Jsou převod nemovitosti a úhrada staršího závazku v rozporu se zákazem dispozic podle § 111 a jaký to má účinek vůči věřitelům?
+[4] **Výjimky.** Odstavec 2 vyjímá pouze úkony nutné k účelům, které výslovně uvádí: splnění povinností stanovených zvláštními právními předpisy, provozování podniku v rámci obvyklého hospodaření, odvrácení hrozící škody, plnění zákonné vyživovací povinnosti a splnění procesních sankcí. Nutnost, obvyklost i vazba na konkrétní účel se posuzují podle skutkových okolností; z pouhé existence veřejnoprávní platební povinnosti nebo provozního výdaje nelze výjimku dovodit automaticky.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 111 odst. 1 (zákaz podstatných změn ve skladbě/využití/určení majetku a nikoli zanedbatelného zmenšení; plnění starších závazků jen v rozsahu dle zákona), odst. 2 (výjimky — zvláštní předpisy, obvyklé hospodaření, odvrácení škody, výživné, procesní sankce, pohledávky za podstatou dle § 168/§ 169), odst. 3 (neúčinnost vůči věřitelům, ledaže předchozí souhlas soudu).
-- *Související ustanovení téhož zákona:* § 109 (účinky zahájení), § 168 a § 169 (pohledávky hrazené v termínech splatnosti), § 235 a násl. (neúčinné úkony), § 113 (předběžné opatření a předběžný správce).
-- *Související předpisy:* OZ (relativní neúčinnost), zákon o účetnictví.
-- *Judikatura:* NS 29 ICdo 97/2018 (citováno) — odvod pojistného sražený zaměstnancům nebyl plněním z majetku náležejícího do podstaty (vymezení, co do podstaty patří).
+[5] **Pohledávky podle § 168 a § 169.** Omezení se nevztahuje na jejich uspokojování. Ani zde však zákon nestanoví bezpodmínečnou okamžitou úhradu: platí se v termínech splatnosti, je-li to podle stavu majetkové podstaty možné.
 
-**4. Subsumpce.** Převod nemovitosti za podhodnocenou cenu je „podstatnou změnou ve skladbě" a „nikoli zanedbatelným zmenšením" majetku — porušuje odst. 1 a nespadá pod „obvyklé hospodaření" (odst. 2). Úhrada celého staršího závazku jednomu věřiteli je plněním dříve vzniklého peněžitého závazku nad rámec zákonných výjimek — rovněž porušuje odst. 1; nejde o pohledávku za podstatou (§ 168/§ 169).
+[6] **Rozhodnutí soudu.** Úvodní „nerozhodne-li insolvenční soud jinak“ umožňuje soudu změnit obecný režim. Odstavec 3 dále vylučuje neúčinnost konkrétního jednání, jestliže si dlužník nebo jeho věřitel předem vyžádal souhlas soudu. Souhlas musí předcházet jednání; text § 111 neupravuje jeho dodatečné zhojení.
 
-**5. Řešení.** Oba úkony jsou vůči věřitelům **neúčinné** (odst. 3) — vůči třetí osobě úkon platí, ale do vztahu k podstatě se prosadí jeho neúčinnost (smluvní partner si vrácení může uplatnit jen přihláškou). Předejít tomu lze jen **předchozím souhlasem soudu**. Praktický krok: u významnějších transakcí žádat souhlas soudu předem; jinak hrozí odpůrčí důsledky (§ 235 a násl.). Riziko: ustanovení předběžného správce a předběžné opatření (§ 113).
+[7] **Neúčinnost, nikoli neplatnost.** Jednání odporující omezení je podle § 111 odst. 3 vůči věřitelům neúčinné. Jeho platnost tím sama o sobě není dotčena (§ 236 odst. 1). Neúčinnost se podle § 235 odst. 2 zakládá pravomocným rozhodnutím insolvenčního soudu o odpůrčí žalobě insolvenčního správce, není-li stanoveno jinak; nejde tedy o následek, který by správce mohl vůči příjemci bez dalšího prosadit pouhým oznámením.
 
-**6. Varianty.** (a) Úkon spadá pod výjimku odst. 2 (obvyklý provoz podniku — nákup materiálu, mzdy; odvrácení hrozící škody; daňové/sociální odvody) — pak je dovolený bez souhlasu. (b) Dlužník si k transakci předem vyžádal souhlas insolvenčního soudu — úkon je vůči věřitelům účinný.
+[8] **Následky a procesní cesta.** Odporovat může podle § 239 pouze insolvenční správce. Vyhoví-li soud odpůrčí žalobě, plnění nebo rovnocenná náhrada náleží do majetkové podstaty podle § 236 a § 237. Režim případného vzájemného plnění a pohledávky příjemce určuje § 237 odst. 4; nelze jej bez zjištění, zda je plnění v podstatě rozpoznatelné nebo se v ní nachází, redukovat na obecné tvrzení, že příjemci vždy zbývá jen přihláška.
 
-### G. Protiargumenty a rizika
+[9] **Intertemporalita.** Dnešní poslední věta odstavce 2 a závěrečná část odstavce 3 byly doplněny zákonem č. 294/2013 Sb. od 1. 1. 2014. U starších jednání je proto nutné ověřit tehdejší znění a přechodná ustanovení; tento komentář popisuje právní stav k 19. 7. 2026.
 
-- *„Šlo o běžný provoz podniku."* U podhodnoceného převodu nemovitosti a preferenční úhrady staršího dluhu neobstojí — to není obvyklé hospodaření (odst. 2). Neutralizace: doložit reálnou obvyklost (cena, účel, kontinuita provozu) nebo získat souhlas soudu.
-- *„Úkon je neplatný, takže nehrozí nic."* Nepřesné — úkon je vůči věřitelům jen **neúčinný** (nikoli absolutně neplatný); vůči třetímu platí, do podstaty se však prosadí neúčinnost. Neutralizace: počítat s odpůrčími nároky a vrácením do podstaty.
-- Slabé místo: hranice „podstatné změny" a „nikoli zanedbatelného zmenšení" je neostrá; co patří do majetkové podstaty, může být sporné (NS 29 ICdo 97/2018) — proto u hraničních transakcí volit předchozí souhlas soudu.
+### Judikatura
 
-### H. Praktický závěr
-
-Po zahájení řízení se dlužník musí zdržet podstatných dispozic a preferenčních úhrad starších závazků; takové úkony jsou vůči věřitelům neúčinné, nevyžádá-li si dlužník předem souhlas soudu. Dovolené zůstává obvyklé hospodaření, odvrácení škody, zákonné odvody, výživné a úhrada pohledávek za podstatou.
-
-**Checklist (dlužník / advokát / správce / soud):**
-- [ ] Jde o podstatnou změnu skladby/využití majetku nebo nikoli zanedbatelné zmenšení?
-- [ ] Spadá úkon pod výjimku odst. 2 (obvyklý provoz, škoda, odvody, výživné, § 168/§ 169)?
-- [ ] Byl k významnější transakci vyžádán předchozí souhlas soudu?
-- [ ] Nejde o preferenční úhradu staršího závazku mimo zákonné výjimky?
-- [ ] Není namístě odpůrčí postup (§ 235 a násl.) / předběžné opatření (§ 113)?
-
-**Typicky rozhodné důkazy / podklady:** kupní/převodní smlouvy a znalecké ocenění, výpisy z účtů o platbách, doklady o obvyklém hospodaření podniku, případný souhlas insolvenčního soudu, účetnictví dlužníka.
+Tato revize necituje rozhodnutí jako pramen dalšího samostatného pravidla nad rámec ověřeného textu zákona. Kandidátní judikatura byla zkontrolována zejména proti riziku mechanického přenosu skutkově úzkého závěru o zaměstnanecké části zdravotního pojistného na jiné odvody; taková generalizace nebyla do komentáře převzata.
 
 ---
 

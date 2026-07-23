@@ -850,62 +850,58 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento od
 
 ## § 110 — Přihlášky pohledávek
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Věřitelé dlužníka jsou od zahájení insolvenčního řízení oprávněni uplatnit v něm své pohledávky přihláškou, a to i v případě, že insolvenční soud ještě nezveřejnil výzvu k podávání přihlášek.
+>
 > (2) Insolvenční soud vyzve věřitele, kteří chtějí své pohledávky uplatnit v insolvenčním řízení, aby podali přihlášku pohledávky. Tuto výzvu lze spojit s oznámením o zahájení insolvenčního řízení; je-li výzva učiněna samostatně až v průběhu insolvenčního řízení, oznamuje se stejným způsobem, jakým se oznamuje zahájení insolvenčního řízení.
+>
 > (3) Přihlášky pohledávek na základě výzvy podle odstavce 2 mohou věřitelé podávat až do rozhodnutí o úpadku. Kratší lhůtu není insolvenční soud oprávněn stanovit. Náležitosti této výzvy stanoví prováděcí právní předpis.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *NS* [29 NSCR 4/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3BAE3A971938E7BEC1257A4E0065EFF6?openDocument) — 4. 9. 2008, kat. A
-  > „Nejde-li o známé věřitele dlužníka, kteří mají své obvyklé místo pobytu, bydliště nebo sídlo v některém z členských států Evropské unie s výjimkou Dánska (§ 430 zákona č. 182/2006 Sb. ve znění pozdějších předpisů), nedoručuje insolvenční soud známým věřitelům dlužníka zvlášť (jinak než vyhláškou podle § 71 a násl. uvedeného zákona) ani vyhlášku, kterou seoznamuje zahájení insolvenčního řízení, ani rozhodnutí o úpadku. Dovolání proti usnesení, jímž odvolací soud potvrdil usnesení insolvenčního soudu o odmítnutí přihlášky, je přípustné podle § 239 odst. 3 o. s. ř"
+§ 110 otevírá přihlašování již zahájením insolvenčního řízení. Věřitel nemusí čekat na výzvu soudu. Před rozhodnutím o úpadku může soud věřitele vyzvat, avšak konec tohoto období nesmí určit dříve než rozhodnutím o úpadku. Rozhodnutí o úpadku poté samo stanoví lhůtu k přihlášení; jde o navazující režim § 136 odst. 2 písm. d) a § 173 odst. 1, nikoli o zkrácení oprávnění podle § 110 odst. 3.
+
+### Souvisící ustanovení
+
+- § 71 a § 73 — doručování vyhláškou a okamžik zveřejnění písemnosti v insolvenčním rejstříku.
+- § 101 — oznámení zahájení insolvenčního řízení.
+- § 109 odst. 4 — účinky zahájení nastávají zveřejněním vyhlášky o zahájení řízení.
+- § 136 odst. 2 písm. d) a odst. 3 — rozhodnutí o úpadku obsahuje výzvu a lhůtu k přihlášení.
+- § 173 odst. 1 — přihlášky se podávají od zahájení řízení do uplynutí lhůty stanovené rozhodnutím o úpadku; k pozdějším přihláškám se nepřihlíží a takto uplatněné pohledávky se v řízení neuspokojují.
+- § 430 — zvláštní pravidla vůči známým věřitelům z jiných členských států Evropské unie.
+
+### Souvisící předpisy
+
+- Prováděcí právní předpis předvídaný § 110 odst. 3 stanoví náležitosti výzvy. Jeho jednotlivá pravidla tato revize nerozepisuje, protože nebyla podložena aktuálním fyzickým oficiálním snapshotem.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva k § 109 a 110 vychází z koncepce neprodleného zveřejnění zahájení řízení. Za její přednosti považuje transparentnost, ochranu majetku před nekoordinovaným postihem a možnost všech věřitelů zapojit se již do fáze zjišťování úpadku. Výslovně spojuje § 110 s možností přihlásit pohledávku již v této fázi. Historické odkazy a číslování v důvodové zprávě nejsou přebírány jako popis současného práva.
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Toto odložení není negativní rešerší ani závěrem, že k § 110 literatura neexistuje.
 
 ### Výklad
 
-**Přihlašování pohledávek** může začít *již okamžikem zahájení* — nepotřebuje formální výzvu. Soud výzvu *vyhlásí*, typicky spolu s oznámením o zahájení.
+[1] **Počátek oprávnění.** Pohledávku lze přihlásit od zahájení insolvenčního řízení. Zveřejnění samostatné výzvy není podmínkou účinného podání přihlášky.
 
-**Lhůta**: od zahájení **do rozhodnutí o úpadku** (typicky 2—4 týdny). *Kratší* lhůtu soud nesmí stanovit. Po rozhodnutí o úpadku — *nová lhůta* (typicky 2 měsíce, § 173).
+[2] **Výzva před rozhodnutím o úpadku.** Výzvu lze spojit s oznámením o zahájení řízení. Je-li vydána později samostatně, oznamuje se stejným způsobem jako zahájení řízení. Podle § 101 a § 71 jde o zveřejnění vyhlášky v insolvenčním rejstříku.
 
-### Vazby
+[3] **Nezkrátitelné období podle § 110 odst. 3.** Soud nemůže ve výzvě podle odstavce 2 určit konec možnosti podávat přihlášky před rozhodnutím o úpadku. Zákon tím neříká, jak dlouho bude fáze do rozhodnutí o úpadku fakticky trvat.
 
-- **§ 173 a násl.** — přihlášky po rozhodnutí o úpadku.
-- **§ 138 odst. 1 písm. e)** — výzva k přihláškám v rozhodnutí o úpadku.
+[4] **Vztah k rozhodnutí o úpadku.** Rozhodnutí o úpadku musí podle § 136 obsahovat výzvu k přihlášení a stanovit lhůtu. § 173 odst. 1 vymezuje celé období pro podání od zahájení řízení až do uplynutí této lhůty. Rozhodnutí o úpadku tedy možnost přihlašovat neotevírá poprvé.
 
-### F. Kazuistika
+[5] **Následek opoždění.** Následek podání po lhůtě stanovené rozhodnutím o úpadku upravuje § 173 odst. 1: k přihlášce se nepřihlíží a pohledávka se v insolvenčním řízení neuspokojuje. Nejde o hmotněprávní zánik pohledávky.
 
-**1. Modelová situace.** Den po zveřejnění vyhlášky o zahájení insolvenčního řízení proti dlužníku YPSILON s. r. o. chce dodavatel (věřitel) uplatnit svou pohledávku. Soud dosud nezveřejnil samostatnou výzvu k podávání přihlášek. Věřitel váhá, zda už může přihlásit, nebo musí čekat. Druhý scénář: soud v oznámení o zahájení chce stanovit lhůtu pro přihlášky kratší, než je rozhodnutí o úpadku. Důkazy: výpis z rejstříku (vyhláška, případná výzva), přihláška a její datum.
+[6] **Zahraniční věřitelé.** Obecný režim zveřejnění je třeba odlišit od zvláštních informačních a doručovacích povinností podle § 430. Samotný § 110 neřeší, zda je konkrétní zahraniční věřitel „známým věřitelem“ ani jak se v jeho případě posoudí běh přihlašovací lhůty.
 
-**2. Právní otázka.** Od kdy mohou věřitelé přihlašovat pohledávky a smí soud stanovit lhůtu k přihláškám kratší než do rozhodnutí o úpadku?
+### Judikatura
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 110 odst. 1 (přihlášení možné od zahájení, i bez výzvy), odst. 2 (výzva soudu, lze spojit s oznámením o zahájení), odst. 3 (přihlášky na základě výzvy až do rozhodnutí o úpadku; kratší lhůtu nelze stanovit).
-- *Související ustanovení téhož zákona:* § 109 (účinky zahájení), § 71 a násl. (doručování vyhláškou), § 173 a násl. (přihlášky po rozhodnutí o úpadku), § 138 odst. 1 písm. e) (výzva k přihláškám v rozhodnutí o úpadku), § 430 (známí zahraniční věřitelé).
-- *Související předpisy:* prováděcí předpis k náležitostem výzvy; nařízení EU o insolvenčním řízení (přeshraniční věřitelé).
-- *Judikatura:* NS 29 NSČR 4/2008 (citováno) — nejde-li o známé zahraniční věřitele dle § 430, soud nedoručuje známým věřitelům vyhlášku ani rozhodnutí o úpadku zvlášť (jen vyhláškou).
-
-**4. Subsumpce.** Znak „od zahájení oprávněni přihlásit, i bez výzvy" (odst. 1) — naplněn; věřitel může přihlásit ihned po zahájení. Znak „kratší lhůtu soud stanovit nesmí" (odst. 3) — lhůta na základě výzvy běží až do rozhodnutí o úpadku; její zkrácení je nepřípustné. Tuzemským známým věřitelům se nedoručuje zvlášť (NS 29 NSČR 4/2008).
-
-**5. Řešení.** Věřitel může přihlásit pohledávku již nyní, i bez samostatné výzvy (odst. 1); včasné přihlášení je vhodné. Soud nesmí stanovit lhůtu kratší než do rozhodnutí o úpadku (odst. 3); po rozhodnutí o úpadku běží nová (zpravidla delší) lhůta dle § 173. Praktický krok: sledovat rejstřík (doručuje se vyhláškou), nespoléhat na individuální doručení.
-
-**6. Varianty.** (a) Jde o známého zahraničního věřitele z členského státu EU (mimo Dánsko) podle § 430 — tomu soud doručuje zvlášť (výzvu/poučení). (b) Věřitel přihlásí pohledávku až po rozhodnutí o úpadku — uplatní se režim § 173 a násl. (nová lhůta, jinak propadnutí).
-
-### G. Protiargumenty a rizika
-
-- *„Bez výzvy soudu nelze přihlásit."* Neobstojí — odst. 1 výslovně umožňuje přihlásit i před zveřejněním výzvy. Neutralizace: přihlásit ihned po zahájení.
-- *„Soud zkrátil lhůtu, zmeškal jsem."* Zkrácení je nepřípustné (odst. 3) — lhůta běží minimálně do rozhodnutí o úpadku. Neutralizace: namítnout nezákonnost kratší lhůty.
-- Slabé místo: tuzemským známým věřitelům se nedoručuje zvlášť (NS 29 NSČR 4/2008), takže pasivní sledování rejstříku je rizikové; doporučeno aktivní monitoring insolvenčního rejstříku.
-
-### H. Praktický závěr
-
-Věřitelé mohou přihlašovat pohledávky od okamžiku zahájení řízení i bez výzvy; soud nesmí stanovit lhůtu kratší než do rozhodnutí o úpadku, po němž běží nová lhůta (§ 173). Doručuje se zásadně vyhláškou — známým tuzemským věřitelům nikoli zvlášť.
-
-**Checklist (věřitel / advokát / soud):**
-- [ ] Je řízení zahájeno (lze přihlásit i bez samostatné výzvy)?
-- [ ] Je přihláška podána včas (do rozhodnutí o úpadku; poté dle § 173)?
-- [ ] Sleduje věřitel insolvenční rejstřík (doručení vyhláškou)?
-- [ ] Nestanovil soud nepřípustně kratší lhůtu k přihláškám (odst. 3)?
-- [ ] Jde o známého zahraničního věřitele dle § 430 (zvláštní doručení)?
-
-**Typicky rozhodné důkazy / podklady:** výpis z insolvenčního rejstříku (vyhláška o zahájení, výzva k přihláškám), přihláška pohledávky s doklady, doklad o okamžiku podání přihlášky, podklady o postavení věřitele (tuzemský/zahraniční dle § 430).
+Tato revize necituje žádné rozhodnutí jako pramen samostatného výkladu § 110. Kandidátní rozhodnutí 29 NSČR 4/2008 bylo editorsky vyřazeno, aby se závěr formulovaný pro doručování známým zahraničním věřitelům podle § 430 nepřenášel bez dalšího na účinky každé vady vyrozumění na běh přihlašovací lhůty.
 
 ---
 

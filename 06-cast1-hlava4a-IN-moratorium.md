@@ -258,76 +258,68 @@ Dřívější odkaz na 2 VSOL 115/2015 byl odstraněn: byl nesprávně označen 
 
 ## § 100a — Předběžné posouzení návrhu věřitele
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Má-li insolvenční soud důvodné pochybnosti o důvodnosti insolvenčního návrhu podaného věřitelem (§ 128a), rozhodne, že insolvenční návrh ani jiné dokumenty v insolvenčním spise se v insolvenčním rejstříku nezveřejňují; učiní tak neprodleně, nejpozději do konce nejblíže následujícího pracovního dne po podání insolvenčního návrhu.
+>
 > (2) Proti rozhodnutí podle odstavce 1 není odvolání přípustné; rozhodnutí se pouze poznamená do spisu a tímto nabývá právní moci.
+>
 > (3) V odůvodnění rozhodnutí podle odstavce 1 insolvenční soud stručně uvede důvody, pro které se insolvenční návrh ani jiné dokumenty v insolvenčním spise nezveřejňují v insolvenčním rejstříku.
+>
 > (4) Při postupu podle odstavců 1 a 2 má právo nahlížet do spisu a činit si z něho výpisy a opisy pouze dlužník a insolvenční navrhovatel.
+>
 > (5) Neshledá-li insolvenční soud důvod k rozhodnutí podle odstavce 1, učiní o tom ve lhůtě podle odstavce 1 záznam do spisu.
+>
 > (6) Ustanovení § 128a není předběžným posouzením insolvenčního návrhu podaného věřitelem dotčeno.
 
-### Výklad — **VÝZNAMNÁ OBRANA PROTI ŠIKANÓZNÍM NÁVRHŮM**
+### Přehled výkladu
 
-**Cíl institutu**: zabránit *poškození pověsti dlužníka* zveřejněním zjevně neopodstatněného návrhu věřitele v rejstříku. Historicky byly *šikanózní insolvenční návrhy* (konkurenční firmy, vyděrači) velkým problémem — zveřejnění v rejstříku okamžitě likvidovalo dlužníkovu pověst (banky rušily úvěry, dodavatelé přerušovali smlouvy), i když návrh později soud odmítl.
+§ 100a je časově sevřený filtr publicity věřitelského insolvenčního návrhu. Při důvodných pochybnostech o jeho důvodnosti soud dočasně zabrání zveřejnění návrhu a ostatních dokumentů; tím však nepředjímá výsledek samostatného posouzení zjevné bezdůvodnosti podle § 128a. Neshledá-li důvod k nezveřejnění, pořídí ve stejné lhůtě záznam, na který navazuje zveřejnění podle § 101.
 
-#### Mechanismus
+### Souvisící ustanovení
 
-1. *Soud má **1 pracovní den**** od podání věřitelského návrhu na rozhodnutí*, zda se návrh zveřejní.
-2. *Pochybnosti o důvodnosti?* — soud rozhodne, že se **nezveřejňuje**.
-3. *Bez odvolání* — rozhodnutí se poznamená do spisu a nabývá právní moci.
-4. *Přístup do spisu* (odst. 4) — *jen* dlužník a navrhovatel.
-5. *Pokud bez pochybností* (odst. 5) — záznam, návrh se zveřejní standardně.
+- **§ 7b odst. 5** — neodkladná opatření soudu před rozhodnutím o místní příslušnosti, včetně rozhodnutí o nezveřejnění.
+- **§ 101 odst. 1 a 4** — oznámení zahájení po záznamu podle § 100a odst. 5 a zveřejnění po dřívějším nezveřejnění.
+- **§ 102 odst. 1 a 6** — navazující vyrozumění o zahájení řízení.
+- **§ 107 odst. 3 až 6** — vztah dříve nezveřejněného a později podaného návrhu.
+- **§ 128a** — odmítnutí věřitelského návrhu pro zjevnou bezdůvodnost.
+- **§ 147** — odpovědnost navrhovatele a předběžné opatření k zajištění náhrady újmy.
 
-#### Vztah k § 128a
+### Souvisící předpisy
 
-§ 100a je *předfiltr* (rychlé bottom-line rozhodnutí o publicitě), § 128a je *meritorní odmítnutí pro zjevnou bezdůvodnost*. Soud může:
-- *přes 100a (nezveřejnit)* → následně 128a (odmítnout pro zjevnou bezdůvodnost),
-- *zveřejnit (žádné 100a)* → následně rozhodnout standardně.
+- **Zákon č. 99/1963 Sb., občanský soudní řád** — použije se přiměřeně v mezích § 7 insolvenčního zákona; zvláštní pravidla § 100a o formě, právní moci, opravném prostředku a nahlížení mají přednost.
 
-### Vazby
+### Z důvodové zprávy
 
-- **§ 128a** — odmítnutí pro zjevnou bezdůvodnost.
-- **§ 147** — odpovědnost insolvenčního navrhovatele za škodu.
+Vládní návrh novely, sněmovní tisk 785/0, označil § 100a za základ souboru opatření intenzivnější ochrany proti šikanózním věřitelským návrhům. Předběžné posouzení mělo proběhnout před zveřejněním vyhlášky; pochybnosti měly soudu vytvořit prostor pro posouzení návrhu podle § 128a bez okamžitého zveřejnění. Důvodová zpráva současně vycházela z návrhového znění odstavce 2, které ještě počítalo se zvláštním doručením a omezením dlužníka podle § 111. Tato část neodpovídá vyhlášenému ani dnešnímu znění, podle něhož se rozhodnutí pouze poznamená do spisu a tím nabývá právní moci. Historický pramen proto nelze v tomto bodě přenášet do platného práva.
 
-### Praktická poznámka
+### Literatura
 
-§ 100a byl novelizován v reakci na praxi (nově novelou č. 64/2017 Sb.). V praxi soudy *poměrně často* využívají — odhad cca 5—10 % věřitelských návrhů se „neventiluje" v rejstříku, dokud nedojde k jejich důkladnému posouzení.
+Odborná literatura nebyla v tomto kole hodnocena; její zpracování je odloženo do druhého kola. Nejde o negativní rešerši literatury.
 
-### F. Kazuistika
+### Výklad
 
-**1. Modelová situace.** Konkurent THÉTA s. r. o. podá v pátek odpoledne věřitelský insolvenční návrh proti prosperující ÉTA s. r. o. a tvrdí spornou pohledávku z údajně vadného plnění, kterou ničím nedokládá. ÉTA má příští týden podepsat významný úvěr; zveřejnění návrhu v rejstříku by smlouvu zmařilo. Soudce při příjmu rozpozná, že důvodnost je pochybná. Důkazy: obsah návrhu a (chybějících) příloh, identita navrhovatele (konkurent), časování podání.
+[1] **Rozsah institutu.** § 100a dopadá jen na insolvenční návrh podaný věřitelem. Zákon váže postup na „důvodné pochybnosti o důvodnosti“ návrhu a výslovným odkazem jej spojuje s § 128a. Nejde o obecnou možnost odkládat zveřejnění dlužnického návrhu.
 
-**2. Právní otázka.** Smí soud rozhodnout, že se věřitelský návrh ani spis v insolvenčním rejstříku nezveřejní, má-li důvodné pochybnosti o jeho důvodnosti, a v jaké lhůtě?
+[2] **Povaha předběžného posouzení.** Rozhodnutí podle odstavce 1 řeší, zda se návrh a jiné dokumenty zatím zveřejní; samo není rozhodnutím, kterým se návrh odmítá pro zjevnou bezdůvodnost. Odstavec 6 zachovává samostatnost následného posouzení podle § 128a. Výsledek předběžného filtru proto sám neurčuje, jak soud o návrhu následně rozhodne.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 100a odst. 1 (nezveřejnění při důvodných pochybnostech, nejpozději do konce následujícího pracovního dne), odst. 2 (bez odvolání, poznámka do spisu, právní moc), odst. 4 (nahlížení jen dlužník a navrhovatel), odst. 5 (záznam, není-li důvod).
-- *Související ustanovení téhož zákona:* § 128a (odmítnutí pro zjevnou bezdůvodnost — meritorní filtr), § 101 odst. 4 (navazující zveřejnění vyhlášky), § 147 (odpovědnost navrhovatele za škodu).
-- *Související předpisy:* zákon o ochraně pověsti/dobrého jména (OZ — ochrana právnické osoby), obecná úprava insolvenčního rejstříku.
-- *Judikatura:* k institutu chybí v komentáři citovaná judikatura; nosně lze vyjít z účelu (ochrana před šikanózními návrhy), který akcentuje i ÚS u publicity insolvenčního řízení.
+[3] **Rozhodný standard.** Důvodné pochybnosti musejí mít konkrétní podklad v návrhu, jeho přílohách nebo v okolnostech podání zjistitelných v krátké zákonné lhůtě. Zákon neobsahuje uzavřený katalog indicií. Samotnou spornost tvrzené pohledávky proto nelze bez posouzení konkrétního návrhu vydávat za automatický důvod nezveřejnění.
 
-**4. Subsumpce.** Znak „důvodné pochybnosti o důvodnosti" — naplněn (sporná, nedoložená pohledávka + konkurenční navrhovatel + zjevné časování). Znak „neprodleně, nejpozději do konce následujícího pracovního dne" — soud musí rozhodnout rychle. Důsledek: nezveřejnění návrhu i dalších dokumentů; přístup do spisu jen dlužník a navrhovatel.
+[4] **Lhůta a obsah rozhodnutí.** Jsou-li důvodné pochybnosti dány, soud rozhodne neprodleně, nejpozději do konce nejblíže následujícího pracovního dne po podání návrhu. Výrok se týká návrhu i jiných dokumentů v insolvenčním spise. Odůvodnění má být stručné, musí však uvést důvody nezveřejnění.
 
-**5. Řešení.** Soud rozhodne o nezveřejnění (odst. 1), stručně odůvodní (odst. 3); rozhodnutí se jen poznamená do spisu a nabývá právní moci, odvolání není přípustné (odst. 2). Tím je dlužníkova pověst chráněna do meritorního posouzení. Navazující krok: typicky odmítnutí pro zjevnou bezdůvodnost podle § 128a, případně sankce navrhovateli. Pokud by soud pochybnosti neshledal, učiní ve stejné lhůtě záznam (odst. 5) a návrh se zveřejní standardně.
+[5] **Forma a přístup ke spisu.** Odvolání není přípustné. Rozhodnutí se pouze poznamená do spisu a tím nabývá právní moci. Dokud soud postupuje podle odstavců 1 a 2, mohou do spisu nahlížet a pořizovat si výpisy a opisy jen dlužník a insolvenční navrhovatel.
 
-**6. Varianty.** (a) Návrh je doložen vykonatelným rozhodnutím a působí důvodně — soud pochybnosti neshledá, učiní záznam (odst. 5) a věc se zveřejní. (b) Soud nezveřejní (100a), avšak při bližším posouzení dospěje k závěru, že nejde o zjevnou bezdůvodnost — pak zahájení oznámí vyhláškou podle § 101 odst. 4 po uplynutí lhůty § 128a.
+[6] **Neshledání důvodu.** Nemá-li soud důvod rozhodnout o nezveřejnění, nevydává opačné usnesení, ale ve stejné lhůtě pořídí záznam do spisu. Na tento záznam navazuje oznámení zahájení řízení podle § 101 odst. 1.
 
-### G. Protiargumenty a rizika
+[7] **Další postup po nezveřejnění.** Jestliže soud návrh ve lhůtě podle § 128a odmítne pro zjevnou bezdůvodnost, uplatní se zvláštní režim § 101 odst. 4. Není-li návrh takto odmítnut, § 101 odst. 4 určuje následné zveřejnění vyhlášky, návrhu a dalších dokumentů po uplynutí lhůty podle § 128a odst. 1. Přesné načasování je nutno určit podle obou ustanovení, nikoli jen podle § 100a.
 
-- *„Nezveřejnění porušuje princip publicity a práva navrhovatele."* Neobstojí — jde o krátkodobý předfiltr s rychlým meritorním přezkumem (§ 128a) a § 100a odst. 6 výslovně ponechává § 128a nedotčený; chrání před nevratnou reputační újmou. Neutralizace: stručné, ale přezkoumatelné odůvodnění (odst. 3).
-- *„Soud rozhodl bez slyšení navrhovatele."* Povaha institutu (1 pracovní den, bez odvolání) to vylučuje; kompenzací je následné meritorní řízení a přístup do spisu pro navrhovatele (odst. 4).
-- Slabé místo: hranice „důvodných pochybností" je vágní a časový tlak vysoký; chybná aplikace (nezveřejnění důvodného návrhu) může zdržet legitimní řízení — proto navázat rychlým posouzením podle § 128a.
+[8] **Legislativní historie a časová působnost.** § 100a vložil zákon č. 64/2017 Sb. s účinností od 1. 7. 2017. Přechodné ustanovení vztáhlo nové znění i na dříve zahájená insolvenční řízení, ale zachovalo právní účinky úkonů nastalé před účinností. Při hodnocení staršího postupu je proto nutné určit datum procesního úkonu a tehdy účinné znění.
 
-### H. Praktický závěr
+### Judikatura
 
-§ 100a je rychlý štít proti šikanózním věřitelským návrhům: při důvodných pochybnostech soud do konce následujícího pracovního dne rozhodne o nezveřejnění spisu (bez odvolání), čímž ochrání pověst dlužníka do meritorního posouzení podle § 128a.
-
-**Checklist (soud / dlužník / navrhovatel):**
-- [ ] Jde o návrh věřitele (institut na dlužnické návrhy nedopadá)?
-- [ ] Jsou dány důvodné pochybnosti o důvodnosti (doložení pohledávky, identita a motiv navrhovatele)?
-- [ ] Rozhodnuto nejpozději do konce následujícího pracovního dne?
-- [ ] Stručné odůvodnění nezveřejnění a poznámka do spisu (odst. 2, 3)?
-- [ ] Navazuje posouzení podle § 128a (zjevná bezdůvodnost, případně sankce)?
-
-**Typicky rozhodné důkazy / podklady:** text návrhu a přiložené (či chybějící) doklady pohledávky, údaje o navrhovateli a jeho vztahu k dlužníkovi, časování podání, podklady k pověsti/hospodářské situaci dlužníka (smlouvy ohrožené zveřejněním).
+Do tohoto vydání nebylo zařazeno rozhodnutí, jehož plný text by byl pro výklad § 100a přímo nosný a prošel novou pramennou kontrolou. To není závěr o neexistenci relevantní judikatury; neověřené odkazy ani obecné závěry o publicitě insolvenčního řízení nelze vydávat za výklad konkrétních podmínek § 100a.
 
 ---
 

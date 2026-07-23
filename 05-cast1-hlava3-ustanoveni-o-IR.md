@@ -1192,57 +1192,56 @@ Do této revize nebylo převzato žádné rozhodnutí, protože v centrálním z
 
 ## § 90 — Vyloučení odkladu vykonatelnosti
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Ustanovení občanského soudního řádu a zákona o zvláštních řízeních soudních o odkladu vykonatelnosti rozhodnutí nebo o odkladu právní moci rozhodnutí se pro rozhodnutí insolvenčního soudu vydaná v insolvenčním řízení nepoužijí.
+
+### Přehled výkladu
+
+§ 90 je výslovnou výjimkou ze subsidiárního použití obecných civilních procesních předpisů podle § 7 insolvenčního zákona. Pro rozhodnutí insolvenčního soudu vydaná v insolvenčním řízení vylučuje použití ustanovení občanského soudního řádu a zákona o zvláštních řízeních soudních, která umožňují odložit vykonatelnost nebo právní moc rozhodnutí. Zákaz je třeba držet v jeho textových mezích a nezaměňovat jej s pravidly o účinnosti rozhodnutí ani s posouzením přípustnosti opravného prostředku.
+
+### Souvisící ustanovení
+
+- **§ 7** — subsidiární použití občanského soudního řádu a zákona o zvláštních řízeních soudních; § 90 představuje výslovnou odchylku.
+- **§ 89** — samostatně upravuje účinnost rozhodnutí insolvenčního soudu.
+- **§ 91 až 95** — přípustnost a zvláštní režim odvolání; zejména § 92 a 93 ukládají přednostní a urychlené projednání vybraných odvolání.
+- **§ 96** — zvláštní pravidla pro obnovu insolvenčního řízení a žalobu pro zmatečnost.
+
+### Souvisící předpisy
+
+- **Zákon č. 99/1963 Sb., občanský soudní řád** — příklady ustanovení o odkladu představují § 164 věta druhá, § 235c, § 235g a § 243; v rozsahu vymezeném § 90 se nepoužijí.
+- **Zákon č. 292/2013 Sb., o zvláštních řízeních soudních** — jeho ustanovení o odkladu vykonatelnosti nebo právní moci jsou stejným způsobem vyloučena, jde-li o rozhodnutí podřazené § 90.
+- **Zákon č. 294/2013 Sb.** — čl. I bod 53 rozšířil § 90 o zákon o zvláštních řízeních soudních a o odklad právní moci; podle čl. IV změna nabyla účinnosti 1. 1. 2014. Čl. II zachoval právní účinky úkonů nastalé před tímto dnem.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva k vládnímu návrhu insolvenčního zákona spojila § 90 s logikou bezprostřední účinnosti rozhodnutí a popsala jej jako vyloučení možnosti odložit vykonatelnost podle občanského soudního řádu. Jde o sněmovní tisk 1120/0, 4. volební období, zvláštní část „K § 90“, číslovaná s. 178 (PDF s. 179). Pozdější důvodová zpráva ke změně provedené zákonem č. 294/2013 Sb. vysvětlila doplnění odkladu právní moci reakcí na tehdy nový § 243 o. s. ř. a doplnění zákona o zvláštních řízeních soudních jeho přijetím; současně uvedla, že nejde o významový posun pravidla. Jde o sněmovní tisk 929/0, 6. volební období, zvláštní část k bodu 53 (§ 90), dokumentová s. 110 (PDF s. 112).
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento oddíl proto nepředstavuje negativní rešerši literatury.
 
 ### Výklad
 
-**Vyloučení institutů odkladu vykonatelnosti / odkladu právní moci** — typický nástroj civilního procesu, kdy odvolací soud může pozastavit účinky rozhodnutí I. stupně. V insolvenci **nepřípustné**.
+[1] § 90 brání tomu, aby soud pro rozhodnutí insolvenčního soudu vydané v insolvenčním řízení použil obecné procesní ustanovení o odkladu jeho vykonatelnosti nebo právní moci. Jde o přímé zákonné vyloučení subsidiarity podle § 7, nikoli o otázku volného uvážení podle obecného předpisu.
 
-#### Důvod
+[2] Rozhodný je předmět požadovaného opatření, nikoli jeho označení účastníkem. Směřuje-li návrh ve skutečnosti k odkladu vykonatelnosti nebo právní moci rozhodnutí podřazeného § 90, nelze tuto překážku obejít pouhým odkazem na občanský soudní řád nebo zákon o zvláštních řízeních soudních.
 
-*Princip rychlosti a stability* — pokud by se účinky rozhodnutí o úpadku, o způsobu řešení, o správci atd. mohly libovolně odkládat, *zhroutila by se vůle systému*. Účastníci a třetí osoby musí spoléhat na publikovaná rozhodnutí.
+[3] Účinnost, vykonatelnost a právní moc jsou odlišné procesní vlastnosti. § 89 upravuje účinnost, zatímco § 90 vylučuje použití určitých obecných institutů odkladu vykonatelnosti a právní moci. Ze samotného § 90 proto nelze dovozovat okamžik účinnosti konkrétního rozhodnutí ani obecné následky jeho případného pozdějšího zrušení.
 
-> *Důsledek*: rozhodnutí o úpadku **nabývá účinků okamžikem zveřejnění**, byť bude napadeno odvoláním a nakonec zrušeno. Mezitímní úkony (přihlášky, dispozice správce) zůstávají *zpravidla* platné.
+[4] U rozhodnutí o úpadku je třeba vycházet z jeho účinků podle insolvenčního zákona a současně z § 90. Podání opravného prostředku samo nevytváří možnost „zmrazit“ rozhodnutí postupem podle obecných ustanovení o odkladu. Procesní ochrana se u vybraných rozhodnutí opírá mimo jiné o povinnost odvolacího soudu postupovat s nejvyšším urychlením podle § 92 a o režim § 93.
 
-### Vazby
+[5] Text § 90 dopadá na „rozhodnutí insolvenčního soudu vydaná v insolvenčním řízení“. Insolvenční zákon přitom v § 7 rozlišuje insolvenční řízení a incidenční spory. Bez zvláštní opory proto nelze zákaz § 90 automaticky přenášet na každé rozhodnutí vydané v incidenčním sporu; nejprve je nutno určit povahu řízení a přesný právní základ požadovaného odkladu.
 
-- **OSŘ § 235e** — odklad vykonatelnosti při dovolání.
+[6] Odkaz dřívějšího komentáře na § 235e o. s. ř. byl nesprávný. § 235e upravuje způsob rozhodnutí o žalobě na obnovu řízení a o žalobě pro zmatečnost; odklad vykonatelnosti napadeného rozhodnutí v tomto řízení upravuje § 235c a účinek povolení obnovy § 235g. Pro dovolací řízení upravuje odklad vykonatelnosti nebo právní moci § 243.
 
-### F. Kazuistika
+[7] Při intertemporálním posouzení je podstatné, že zákon č. 294/2013 Sb. rozšířil § 90 s účinností od 1. 1. 2014 a vztáhl nové znění i na dříve zahájená insolvenční řízení, avšak zachoval právní účinky úkonů nastalé před účinností novely. Starší procesní situaci proto nelze hodnotit jen podle dnešního znění bez ověření okamžiku rozhodného úkonu.
 
-**1. Modelová situace.** Soud vydá rozhodnutí o úpadku dlužníka Psí a. s.; dlužník proti němu podá odvolání a současně navrhne odklad vykonatelnosti (resp. odklad právní moci) tohoto rozhodnutí, aby do rozhodnutí o odvolání „zmrazil" jeho účinky a zabránil přihlašování pohledávek a dispozicím správce. Důkazy: rozhodnutí o úpadku a jeho zveřejnění v rejstříku, odvolání dlužníka, návrh na odklad vykonatelnosti/právní moci.
+### Judikatura
 
-**2. Právní otázka.** Lze v insolvenčním řízení odložit vykonatelnost nebo právní moc rozhodnutí insolvenčního soudu po dobu řízení o opravném prostředku?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 90 IZ — ustanovení OSŘ a zákona o zvláštních řízeních soudních o odkladu vykonatelnosti nebo odkladu právní moci se na rozhodnutí insolvenčního soudu nepoužijí.
-- *Související ustanovení téhož zákona:* § 89 (účinnost rozhodnutí okamžikem zveřejnění), § 91 a násl. (opravné prostředky), § 146 (následky případného zrušení rozhodnutí o úpadku).
-- *Související předpisy:* § 235e OSŘ a obecná úprava odkladu vykonatelnosti/právní moci, jejichž použití je v insolvenci vyloučeno.
-- *Judikatura:* nosně NS k tomu, že rozhodnutí o úpadku je účinné okamžikem zveřejnění bez ohledu na podané odvolání; mezitímní úkony zpravidla zůstávají platné (princip rychlosti a stability).
-
-**4. Subsumpce.** Návrh dlužníka směřuje k odkladu vykonatelnosti/právní moci rozhodnutí insolvenčního soudu — to § 90 výslovně vylučuje. Znak „přípustnost odkladu" tedy naplněn být nemůže; rozhodnutí o úpadku zůstává účinné (§ 89) i po podání odvolání.
-
-**5. Řešení.** Soud návrhu na odklad nevyhoví (institut je vyloučen). Rozhodnutí o úpadku působí dál, přihlášky se podávají, správce činí dispozice; bude-li rozhodnutí později zrušeno, mezitímní úkony zpravidla zůstávají platné. Praktický krok: dlužník nemůže spoléhat na „zmrazení" účinků odvoláním; obrana spočívá v urychleném odvolání (zrychlený režim § 92, § 93), nikoli v odkladu.
-
-**6. Varianty.** (a) V běžném civilním sporu by odklad vykonatelnosti (např. § 235e OSŘ) přicházel v úvahu — v insolvenci nikoli. (b) Pokud by odvolací soud rozhodnutí o úpadku zrušil, řeší se důsledky podle navazujících ustanovení (§ 89 ve spojení s úpravou zániku účinků), nikoli zpětně odkladem.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Bez možnosti odkladu hrozí dlužníku nevratná škoda z předčasných účinků úpadku." — Neutralizace: zákon upřednostňuje rychlost a stabilitu; ochranu poskytuje zrychlené odvolací řízení (§ 92, § 93) a zpravidla platnost mezitímních úkonů, ne odklad.
-- *Protiargument:* „Subsidiárně se použije § 235e OSŘ." — Neutralizace: § 90 použití úpravy odkladu vykonatelnosti/právní moci v insolvenci výslovně vylučuje.
-- *Slabé místo:* některé mezitímní úkony mohou být citlivé; je třeba sledovat navazující úpravu důsledků zrušení rozhodnutí, aby se minimalizovaly škody.
-
-### H. Praktický závěr
-
-V insolvenci nelze odložit vykonatelnost ani právní moc rozhodnutí; rozhodnutí o úpadku působí i přes odvolání. Obranou je urychlené odvolací řízení, nikoli návrh na odklad.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Vyloučeny návrhy na odklad vykonatelnosti / právní moci (institut v insolvenci neexistuje).
-- [ ] Počítáno s tím, že rozhodnutí (zejm. o úpadku) je účinné okamžikem zveřejnění (§ 89).
-- [ ] Obrana směřována do urychleného odvolacího řízení (§ 92, § 93).
-- [ ] Sledovány důsledky případného zrušení rozhodnutí na mezitímní úkony.
-
-**Typicky rozhodné důkazy / podklady:** rozhodnutí a jeho zveřejnění v rejstříku, podané odvolání, doklady o mezitímních úkonech (přihlášky, dispozice správce).
+Do této revize nebylo převzato žádné rozhodnutí. Stávající neurčitý odkaz na „nosnou“ judikaturu Nejvyššího soudu nebyl spojen se spisovou značkou ani s fyzickým oficiálním plným textem a byl odstraněn. Tím se nevyslovuje závěr o neexistenci relevantní judikatury; její cílená rešerše a případné produkční zařazení zůstávají otevřeny pro další kolo.
 
 ---
 

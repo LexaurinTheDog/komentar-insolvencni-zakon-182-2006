@@ -390,75 +390,59 @@ Do tohoto kola nebylo zařazeno rozhodnutí, jehož ověřený plný text by byl
 
 ## § 103 — Náležitosti insolvenčního návrhu
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Insolvenční návrh musí kromě obecných náležitostí podání obsahovat označení insolvenčního navrhovatele a označení dlužníka, kterého se týká, popřípadě označení jejich zástupců. Fyzická osoba musí být označena jménem, příjmením a bydlištěm (sídlem) a v případě, že jde o podnikatele, též identifikačním číslem. Právnická osoba musí být označena obchodní firmou nebo názvem, sídlem a identifikačním číslem. Je-li navrhovatelem stát, musí insolvenční návrh obsahovat označení příslušné organizační složky státu, která za stát před insolvenčním soudem vystupuje.
 > (2) V insolvenčním návrhu musí být dále uvedeny rozhodující skutečnosti, které osvědčují úpadek dlužníka nebo jeho hrozící úpadek, skutečnosti, ze kterých vyplývá oprávnění podat návrh, není-li insolvenčním navrhovatelem dlužník, označeny důkazy, kterých se insolvenční navrhovatel dovolává, a musí z něj být patrno, čeho se jím insolvenční navrhovatel domáhá.
 > (3) Insolvenční návrh je nutné předložit s potřebným počtem stejnopisů tak, aby jeden stejnopis zůstal u insolvenčního soudu a aby každý, komu se doručuje, dostal jeden stejnopis. Insolvenční navrhovatel je povinen k insolvenčnímu návrhu připojit předepsané přílohy a listinné důkazy, kterých se dovolává; přílohy a listiny však nejsou součástí insolvenčního návrhu.
 > (4) Stejnopis insolvenčního návrhu věřitele se doručuje pouze dlužníku, a to do vlastních rukou. Insolvenční návrh dlužníka se nedoručuje.
 
+### Přehled výkladu
+
+Ustanovení rozlišuje náležitosti návrhu samotného, připojené přílohy a listinné důkazy. Návrh musí vedle identifikace osob obsahovat skutková tvrzení osvědčující úpadek nebo hrozící úpadek, u navrhovatele odlišného od dlužníka též tvrzení zakládající jeho oprávnění, označení důkazů a údaj o tom, čeho se domáhá. Odlišení návrhu od příloh je významné i pro postup podle § 128.
+
+### Souvisící ustanovení
+
+- **§ 3** — znaky úpadku a hrozícího úpadku.
+- **§ 7** — subsidiární použití občanského soudního řádu.
+- **§ 97** — zahájení insolvenčního řízení a forma insolvenčního návrhu.
+- **§ 104 a § 105** — přílohy dlužníkova návrhu a povinnost věřitele doložit splatnou pohledávku a připojit její přihlášku.
+- **§ 128** — odmítnutí vadného návrhu a doplnění příloh.
+- **§ 128a** — odmítnutí zjevně bezdůvodného věřitelského návrhu.
+
+### Souvisící předpisy
+
+- **Zákon č. 99/1963 Sb., občanský soudní řád**, zejména § 42 odst. 4 a § 79 odst. 1 (obecné obsahové náležitosti podání a návrhu na zahájení řízení); použije se subsidiárně v mezích § 7 insolvenčního zákona.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona vysvětloval, že § 103 a § 104 vymezují náležitosti návrhu a jeho příloh a navazují na tehdejší praxi založenou zčásti na § 79 o. s. ř. U věřitelského návrhu spojoval požadavek tvrdit oprávnění k podání s uvedením skutečností, z nichž plyne vlastní pohledávka věřitele za dlužníkem. U odstavců 3 a 4 zdůraznil potřebný počet stejnopisů a výslovné oddělení příloh a listin od návrhu samotného. (Vládní návrh zákona o úpadku a způsobech jeho řešení, sněmovní tisk 1120/0, zvláštní část, K § 103 a 104, číslované s. 181–182, PDF s. 182–183.)
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní rešerše.
+
 ### Výklad
 
-**Náležitosti dle odst. 1**:
-- *obecné podání* (§ 42 OSŘ + § 79 OSŘ),
-- *identifikace navrhovatele a dlužníka* (FO: jméno, příjmení, bydliště/sídlo, IČ; PO: firma/název, sídlo, IČ; stát: organizační složka).
+[1] Odstavec 1 doplňuje obecné náležitosti procesního podání o přesné identifikační údaje navrhovatele, dlužníka a případně jejich zástupců. U podnikající fyzické osoby a u právnické osoby zákon vyžaduje také identifikační číslo; u státu označení příslušné organizační složky.
 
-**Obsahové náležitosti dle odst. 2** — *kritické*:
-- *rozhodující skutečnosti osvědčující úpadek / hrozící úpadek*,
-- *skutečnosti zakládající oprávnění k podání* (u věřitele — důkaz pohledávky a aspoň jednoho dalšího věřitele),
-- *označení důkazů*,
-- *petit* (čeho se domáhá — typicky „prohlášení konkursu" / „povolení oddlužení").
+[2] Rozhodující skutečnosti podle odstavce 2 jsou skutková tvrzení, nikoli pouhé zopakování zákonných pojmů „úpadek“ nebo „hrozící úpadek“. Jejich potřebný obsah se odvíjí od tvrzené formy úpadku podle § 3 a od toho, zda návrh podává dlužník, nebo jiná oprávněná osoba.
 
-**Stejnopisy** (odst. 3) — pro soud + každého doručovaného. Přílohy a listinné důkazy se *připojují*, ale *nejsou součástí návrhu* (mohou být doplněny ve lhůtě).
+[3] Navrhovatel odlišný od dlužníka musí v návrhu uvést také skutečnosti, z nichž vyplývá jeho oprávnění návrh podat. U věřitele na tento požadavek navazuje § 105, podle něhož musí doložit splatnou pohledávku proti dlužníku a připojit její přihlášku. Tvrzení o vlastní pohledávce nelze směšovat s tvrzeními osvědčujícími samotný úpadek dlužníka.
 
-**Doručování** (odst. 4):
-- *věřitelův návrh* → **dlužníkovi do vlastních rukou**,
-- *dlužníkův návrh* → **nedoručuje se** (zveřejňuje se v rejstříku).
+[4] Návrh musí označit důkazy a musí z něj být patrný procesní požadavek navrhovatele. Z § 103 odst. 2 však neplyne, že by každý insolvenční návrh musel obsahovat návrh konkrétního způsobu řešení úpadku; otázku způsobu řešení upravují další ustanovení zákona.
 
-### Vazby
+[5] Odstavec 3 výslovně odděluje návrh od jeho příloh a listinných důkazů. Proto je při volbě procesního postupu třeba určit, zda vada spočívá v nesrozumitelnosti či neurčitosti návrhu, anebo v chybějící povinné příloze. § 128 odst. 1 vylučuje použití § 43 o. s. ř. jen pro vady insolvenčního návrhu, pro které nelze v řízení pokračovat; odstavec 2 upravuje výzvu k doplnění zákonem požadovaných příloh nebo k odstranění jejich vad.
 
-- **§ 104** — povinné přílohy dlužníkova návrhu.
-- **§ 105** — povinnosti věřitele-navrhovatele.
-- **§ 128** — odmítnutí pro vady.
+[6] Potřebný počet stejnopisů se odvíjí od doručovacího okruhu. Podle odstavce 4 se stejnopis věřitelského návrhu doručuje pouze dlužníku, do vlastních rukou; dlužnický návrh se nedoručuje. Jde o zákonnou úpravu adresátů doručení, nikoli o povinnost navrhovatele sám zajistit doručení.
+
+[7] Pro praxi je bezpečné před podáním odděleně zkontrolovat: identifikaci osob, úplnost skutkových tvrzení k tvrzené formě úpadku, tvrzení o oprávnění navrhovatele, označení důkazů, procesní požadavek, počet stejnopisů a předepsané přílohy.
 
 ### Judikatura
 
-- **NS 29 NSČR 4/2009 (R 96/2010)**: rozhodující skutečnosti o úpadku musí být **konkrétní** — nestačí obecné „dlužník je v platební neschopnosti". Musí být uveden alespoň *jeden další věřitel* (kromě navrhovatele), výše a splatnost pohledávek.
-
-### F. Kazuistika
-
-**1. Modelová situace.** Věřitel KAPPA s. r. o. podá insolvenční návrh proti LAMBDA a. s. Návrh uvádí jen: „Dlužník je v úpadku, neboť má více věřitelů a neplatí." Neoznačuje konkrétní další věřitele ani výši a splatnost jejich pohledávek, neoznačuje důkazy a chybí jasný petit (čeho se domáhá). Důkazy: text návrhu, doklady o pohledávce navrhovatele, podklady o dalších věřitelích (které navrhovatel neuvedl).
-
-**2. Právní otázka.** Splňuje takový návrh obsahové náležitosti podle § 103 odst. 2, zejména požadavek konkrétních rozhodujících skutečností osvědčujících úpadek?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 103 odst. 1 (identifikace navrhovatele a dlužníka), odst. 2 (rozhodující skutečnosti o úpadku, oprávnění k podání, označení důkazů, petit), odst. 3 (stejnopisy a přílohy), odst. 4 (doručování dlužníku do vlastních rukou u věřitelského návrhu).
-- *Související ustanovení téhož zákona:* § 3 (úpadek — pluralita věřitelů, splatnost), § 105 (kvalifikované doložení pohledávky věřitele), § 128 (odmítnutí pro vady), § 128a (zjevná bezdůvodnost).
-- *Související předpisy:* § 42 a § 79 OSŘ (obecné náležitosti podání a žaloby).
-- *Judikatura:* NS 29 NSČR 4/2009 (R 96/2010) (citováno) — rozhodující skutečnosti musí být konkrétní; nutno uvést alespoň jednoho dalšího věřitele, výši a splatnost pohledávek.
-
-**4. Subsumpce.** Znak „rozhodující skutečnosti osvědčující úpadek" — nenaplněn; obecné tvrzení o platební neschopnosti nestačí (R 96/2010). Znak „skutečnosti zakládající oprávnění k podání" — u věřitele vyžaduje doložení vlastní pohledávky a existence dalšího věřitele; chybí. Znak „označení důkazů" a „petit" — nenaplněny. Vada se týká návrhu samotného (nikoli jen příloh).
-
-**5. Řešení.** Návrh je vadný pro absenci náležitostí, pro něž nelze pokračovat → odmítnutí podle § 128 odst. 1 **bez výzvy** (§ 43 OSŘ se nepoužije). Praktický krok navrhovatele: podat nový, řádně vyargumentovaný návrh s konkretizací dalšího věřitele, výší a splatností pohledávek, označením důkazů a jasným petitem (typicky prohlášení konkursu). Pozor na doručení dlužníku do vlastních rukou (odst. 4).
-
-**6. Varianty.** (a) Navrhovatelem je dlužník — jeho návrh se nedoručuje (odst. 4) a osvědčení úpadku je snazší (§ 132 — postačí údaje návrhu a přílohy). (b) Návrh by trpěl jen vadou příloh (např. chybějící stejnopis) — pak nikoli odmítnutí dle § 128 odst. 1, ale výzva k doplnění dle § 128 odst. 2.
-
-### G. Protiargumenty a rizika
-
-- *„Konkrétní věřitele doložím až v řízení / přihláškou."* Neobstojí — rozhodující skutečnosti musí být v návrhu samotném (§ 103 odst. 2, R 96/2010); jejich absence vede k odmítnutí bez výzvy. Neutralizace: uvést je již v návrhu.
-- *„Soud měl vyzvat k odstranění vad."* U vad návrhu (nikoli příloh) se § 43 OSŘ nepoužije (§ 128 odst. 1). Neutralizace: rozlišit vadu návrhu od vady přílohy; jen u příloh běží výzva.
-- Slabé místo: hranice mezi „neurčitým" návrhem (odmítnutí) a vadou příloh (výzva) bývá sporná; chybí-li jasný petit a označení důkazů, jde o vadu návrhu.
-
-### H. Praktický závěr
-
-Insolvenční návrh musí konkrétně osvědčit úpadek (alespoň jeden další věřitel, výše a splatnost), označit důkazy a obsahovat petit; jinak jej soud odmítne bez výzvy. Věřitelský návrh se doručuje dlužníku do vlastních rukou, dlužnický se nedoručuje.
-
-**Checklist (navrhovatel / advokát / soud):**
-- [ ] Jsou řádně identifikováni navrhovatel i dlužník (odst. 1)?
-- [ ] Jsou uvedeny konkrétní rozhodující skutečnosti (další věřitel, výše, splatnost)?
-- [ ] Je u věřitele doloženo oprávnění k podání a označeny důkazy?
-- [ ] Obsahuje návrh jasný petit (způsob řešení úpadku)?
-- [ ] Je dostatek stejnopisů a (u věřitele) zajištěno doručení dlužníku do vlastních rukou?
-
-**Typicky rozhodné důkazy / podklady:** text návrhu, doklady o pohledávce navrhovatele, podklady o dalším věřiteli (výše, splatnost), listinné důkazy úpadku, doklad o doručení dlužníku do vlastních rukou.
+Dosavadní odkaz na rozhodnutí Nejvyššího soudu sp. zn. 29 NSČR 4/2009 nebyl převzat, protože pro tuto revizi nebyl v určeném pramenném korpusu k dispozici jeho ověřený plný text z oficiálního webu. Tím se nevyslovuje závěr, že relevantní judikatura neexistuje; její plnotextová rešerše zůstává otevřena pro další kolo.
 
 ---
 

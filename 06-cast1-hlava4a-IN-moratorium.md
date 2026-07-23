@@ -144,79 +144,58 @@ Do tohoto kola nebyla zařazena žádná judikatorní citace. Dříve uváděná
 
 ## § 99 — Odpovědnost za nesplnění povinnosti podat IN
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Osoba, která v rozporu s ustanovením § 98 nepodala insolvenční návrh, odpovídá věřiteli za škodu nebo jinou újmu, kterou způsobí porušením této povinnosti.
 > (2) Škoda nebo jiná újma podle odstavce 1 spočívá v rozdílu mezi v insolvenčním řízení zjištěnou výší pohledávky přihlášené věřitelem k uspokojení a částkou, kterou věřitel v insolvenčním řízení na uspokojení této pohledávky obdržel.
 > (3) Osoba uvedená v odstavci 1 se odpovědnosti za škodu nebo jinou újmu podle odstavce 2 zprostí, jen prokáže-li, že porušení povinnosti podat insolvenční návrh nemělo vliv na rozsah částky určené k uspokojení pohledávky přihlášené věřitelem v insolvenčním řízení, nebo že tuto povinnost nesplnila vzhledem ke skutečnostem, které nastaly nezávisle na její vůli a které nemohla odvrátit ani při vynaložení veškerého úsilí, které lze po ní spravedlivě požadovat.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *NS* [29 Cdo 4269/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5EF877B36CB06C37C1257F8B0030FA57?openDocument) — kat. A, 17. 12. 2015
-  > „Věřitel, který (ač tak mohl učinit) v propadné přihlašovací lhůtě nepřihlásil pohledávku za dlužníkem do insolvenčního řízení vedeného na majetek dlužníka, nemá podle § 98 a § 99 insolvenčního zákona právo na náhradu škody nebo jiné újmy (způsobené nedobytností pohledávky) vůči osobě uvedené v § 98 odst. 2 insolvenčního zákona, která ve smyslu ustanovení § 98 odst. 1 insolvenčního zákona porušila povinnost podat insolvenční návrh na majetek dlužníka"
+§ 99 zakládá věřiteli přímý nárok proti osobě, která porušila povinnost podat insolvenční návrh podle § 98. Odstavec 2 vymezuje škodu nebo jinou újmu zákonným rozdílem mezi zjištěnou přihlášenou pohledávkou a plněním obdrženým v insolvenčním řízení. Odstavec 3 ukládá odpovědné osobě důkazní břemeno ke dvěma výslovným liberačním důvodům. Samotný neuhrazený zbytek zjištěné pohledávky však nenahrazuje požadavek odstavce 1, aby újmu způsobilo právě porušení povinnosti.
+
+### Souvisící ustanovení
+
+- **§ 3** — úpadek, od něhož se odvíjí povinnost podle § 98.
+- **§ 7a písm. c)** — krajské soudy rozhodují jako soudy prvního stupně spory o náhradu škody nebo jiné újmy vzniklé porušením povinnosti podat insolvenční návrh.
+- **§ 98** — vymezení povinných osob, okamžiku vzniku povinnosti, případů jejího nesplnění a dočasné výjimky při všeobecném moratoriu.
+- **§ 100** — předběžné opatření k zajištění nároku; žaloba o náhradu není incidenčním sporem.
+- **§ 165, § 173 a § 201** — uplatnění přihláškou, přihlašovací lhůta a zjištění pohledávky.
+
+### Souvisící předpisy
+
+- **Zákon č. 89/2012 Sb., občanský zákoník** — obecná pravidla náhrady majetkové a nemajetkové újmy se uplatní jen v rozsahu, v němž zvláštní úprava § 99 danou otázku neřeší, a podle intertemporálních pravidel.
+- **Zákon č. 99/1963 Sb., občanský soudní řád** — procesní pravidla řízení o žalobě; věcnou příslušnost zvlášť určuje § 7a písm. c) insolvenčního zákona.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva představila § 99 jako novou soukromoprávní sankci nahrazující tehdejší trestní postih nepodání návrhu. Zdůraznila zákonnou definici újmy v odstavci 2, přenesení důkazu liberačních důvodů na odpovědnou osobu v odstavci 3 a možnost zajištění podle § 100. Jde o historické vysvětlení původního návrhu, nikoli o samostatný pramen dnešního rozsahu odpovědnosti. Pramen: vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, 4. volební období, zvláštní část „K § 98 až 100“, číslované s. 180–181 (PDF s. 181–182).
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Nejde o závěr, že k ustanovení relevantní literatura neexistuje.
 
 ### Výklad
 
-**Osobní odpovědnost statutárů** za škodu věřitelům.
+[1] **Povinná osoba a porušení.** Pasivně věcně legitimována není automaticky každá osoba spojená s dlužníkem. Musí jít o osobu, na kterou v rozhodné době dopadala povinnost podle § 98 a která ji porušila. U více povinných osob se předpoklady posuzují vůči každé z nich.
 
-#### Vymezení škody (odst. 2)
+[2] **Chráněná osoba.** Nárok náleží věřiteli, jemuž porušení povinnosti způsobilo škodu nebo jinou újmu. § 99 není nárokem dlužníka ani majetkové podstaty a nenahrazuje jiné případné nároky založené odlišnými skutkovými okolnostmi.
 
-Škoda = **rozdíl mezi zjištěnou výší pohledávky a uspokojením v IR**. Logika: kdyby byl IN podán včas, věřitel by dostal víc. Nezahrnuje *ušlý zisk* z pohledávky (jen *vlastní* pohledávku, kterou by věřitel získal v dřívějším řízení s lepším poměrem uspokojení).
+[3] **Zákonné vymezení újmy.** Podle odstavce 2 spočívá škoda nebo jiná újma v rozdílu mezi zjištěnou výší přihlášené pohledávky a částkou obdrženou na její uspokojení v insolvenčním řízení. Tento rozdíl vymezuje zákonný rámec újmy; odstavec 1 současně vyžaduje příčinnou souvislost s porušením povinnosti.
 
-#### Liberace (odst. 3)
+[4] **Přihláška a zjištění.** R 11/2017 dovodilo, že věřitel, který pohledávku v propadné lhůtě nepřihlásil, ač tak mohl učinit, nemá nárok podle § 98 a § 99 na újmu způsobenou nedobytností této pohledávky. Rozhodnutí současně výslovně odlišilo situace, v nichž věřitel možnost přihlášku podat neměl; závěr proto nelze formulovat jako bezvýjimečné pravidlo pro každý případ bez přihlášky.
 
-Dvě možnosti zproštění:
+[5] **Liberace.** Odpovědná osoba se zprostí, prokáže-li buď že porušení povinnosti nemělo vliv na rozsah částky určené k uspokojení přihlášené pohledávky, anebo že nesplnění vyvolaly na její vůli nezávislé skutečnosti, které nemohla odvrátit ani při veškerém spravedlivě požadovatelném úsilí. Jde o dvě samostatné zákonné alternativy; jejich naplnění nelze nahrazovat obecným tvrzením o nepříznivé ekonomické situaci.
 
-**a) Příčinná souvislost**: prokázání, že pozdě podaný IN *neměl vliv* na výši uspokojení. *Velmi obtížné* — typicky vyžaduje srovnání s hypotetickým stavem podstaty při včasném podání.
+[6] **Procesní souvislost.** Spor projednává v prvním stupni krajský soud podle § 7a písm. c), ale nejde o incidenční spor. Ještě v průběhu insolvenčního řízení lze za podmínek § 100 navrhnout složení přiměřené částky do soudní úschovy; toto zajištění samo nerozhoduje o základu ani konečné výši nároku.
 
-**b) Objektivní překážka**: skutečnosti nezávislé na vůli + neodvratné při vynaložení veškerého úsilí. Tedy *prakticky vyšší moc* nebo *kvalifikovaná překážka*.
-
-> *Standard liberace je vysoký* — fakticky se odpovědnosti zprostit znamená vyvinout opravdu *extrémní úsilí*.
-
-### Vazby
-
-- **§ 100** — předběžné opatření.
-- **§ 7a písm. c)** — věcná příslušnost (krajské soudy).
-- **OZ § 159** — analogická odpovědnost statutárního orgánu.
+[7] **Časová působnost.** Pro vznik povinnosti a odpovědnosti je rozhodné znění použitelné na tvrzené porušení. R 11/2017 posuzovalo skutky z roku 2008, avšak Nejvyšší soud výslovně ověřil shodu tehdejšího § 99 s pozdějším zněním; jeho nosný závěr k přihlášce a zjištění je proto použitelný i k rozhodnému stavu 19. 7. 2026. Změny § 98 je nutno posuzovat samostatně.
 
 ### Judikatura
 
-- **NS 29 Cdo 1212/2018**: při výpočtu škody se musí zohlednit i *přihlédnutí ke ztrátě hodnoty* (např. degradace majetku po dobu prodlení s podáním návrhu).
-
-### F. Kazuistika
-
-**1. Modelová situace.** Dodavatel DELTA s. r. o. přihlásil do insolvence dlužníka EPSILON s. r. o. pohledávku 1 200 000 Kč, zjištěnou v plné výši. Z rozvrhu obdrží jen 180 000 Kč (15 %). DELTA tvrdí, že kdyby jednatel EPSILON podal návrh včas (o 8 měsíců dříve), byla by podstata vyšší a uspokojení by činilo cca 60 %. Žaluje jednatele o náhradu škody. Důkazy: přihláška a zjištění pohledávky, rozvrhové usnesení, znalecký posudek o stavu podstaty v době, kdy měl být návrh podán, a v době skutečného podání.
-
-**2. Právní otázka.** Jak se vymezí výše škody podle § 99 odst. 2 a za jakých podmínek se jednatel odpovědnosti zprostí podle odst. 3?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 99 odst. 1 (odpovědnost za škodu), odst. 2 (škoda = rozdíl mezi zjištěnou a uspokojenou pohledávkou), odst. 3 (liberace).
-- *Související ustanovení téhož zákona:* § 98 (porušená primární povinnost), § 100 (předběžné opatření k zajištění nároku), § 7a písm. c) (věcná příslušnost krajských soudů).
-- *Související předpisy:* § 159 OZ (odpovědnost člena voleného orgánu), obecná úprava náhrady škody v OZ.
-- *Judikatura:* NS 29 Cdo 4269/2014 (citováno) — věřitel, který nepřihlásil pohledávku v propadné lhůtě, nemá nárok na náhradu škody dle § 98 a § 99; NS 29 Cdo 1212/2018 (citováno) — do výpočtu se promítá i ztráta hodnoty majetku za dobu prodlení.
-
-**4. Subsumpce.** Znak „škoda" je naplněn rozdílem mezi zjištěnou (1 200 000 Kč) a obdrženou částkou (180 000 Kč); tvrzená hypotetická vyšší míra uspokojení (60 %) určuje rozsah, jejž je třeba prokázat znalecky. Pasivní legitimace: osoba podle § 98 odst. 2 (jednatel). Předpoklad nároku — věřitel **musel pohledávku přihlásit** (jinak podle NS 29 Cdo 4269/2014 nárok nevzniká); v modelu přihlásil, znak splněn.
-
-**5. Řešení.** Nárok je důvodný v rozsahu prokázaného rozdílu míry uspokojení. Praktický postup: znaleckým posudkem doložit stav majetkové podstaty v rozhodných okamžicích a kauzální nexus (pozdní podání → nižší uspokojení). Riziko věřitele: liberace jednatele podle odst. 3, prokáže-li, že prodlení nemělo vliv na výši uspokojení, anebo že povinnost nesplnil pro neodvratitelné okolnosti nezávislé na vůli. Standard liberace je vysoký.
-
-**6. Varianty.** (a) Věřitel pohledávku **nepřihlásil** v propadné lhůtě, ač mohl — nárok na náhradu škody nemá (NS 29 Cdo 4269/2014). (b) Jednatel prokáže, že i při včasném podání by věřitel dostal stejně (např. zcela předlužená podstata bez dynamiky hodnoty) — liberace podle odst. 3 písm. a) (vliv na rozsah uspokojení).
-
-### G. Protiargumenty a rizika
-
-- *„Škoda zahrnuje i ušlý zisk z pohledávky."* Neobstojí — § 99 odst. 2 vymezuje škodu úzce jako rozdíl mezi zjištěnou a uspokojenou pohledávkou, nikoli ušlý zisk. Neutralizace: žalovat jen v zákonném rozsahu, jinak hrozí částečný neúspěch a náklady.
-- *„Prodlení nemělo na uspokojení vliv."* Liberační námitka jednatele (odst. 3) je obtížně prokazatelná, vyžaduje srovnání s hypotetickým stavem podstaty; věřitel ji neutralizuje znaleckým modelem vývoje hodnoty (NS 29 Cdo 1212/2018).
-- Slabé místo: prokázání kauzality a kvantifikace hypotetické míry uspokojení je znalecky náročné a nákladné; bez přihlášky pohledávky nárok zaniká už v základu.
-
-### H. Praktický závěr
-
-Statutár odpovídá věřiteli osobně za rozdíl mezi tím, co by věřitel získal při včasném návrhu, a co skutečně obdržel; předpokladem nároku je přihláška pohledávky a prokázání kauzality. Liberace je výjimečná a důkazně náročná.
-
-**Checklist (věřitel / advokát / soud):**
-- [ ] Přihlásil věřitel pohledávku v propadné lhůtě (jinak nárok nevzniká)?
-- [ ] Je vyčíslen rozdíl zjištěná pohledávka × obdržené plnění?
-- [ ] Je doložena kauzalita (pozdní podání → nižší uspokojení) znalecky?
-- [ ] Zohledněna ztráta hodnoty majetku za dobu prodlení?
-- [ ] Prověřena liberační námitka (vliv na uspokojení / neodvratitelnost)?
-
-**Typicky rozhodné důkazy / podklady:** přihláška a zjištění pohledávky, rozvrhové usnesení, znalecký posudek o stavu a vývoji hodnoty majetkové podstaty, účetnictví dlužníka v rozhodném období, doklad o okamžiku vzniku úpadku a o podání návrhu.
+- **NS 29 Cdo 4269/2014, 17. 12. 2015, ECLI:CZ:NS:2015:29.CDO.4269.2014.1, R 11/2017.** Dodavatel žaloval jednatele o neuhrazené kupní ceny, avšak své pohledávky do insolvenčního řízení nepřihlásil. Nejvyšší soud po rozlišení starší úpravy konkursu uzavřel, že tam, kde věřitel přihlášku podat mohl, vyžaduje konstrukce § 99 odst. 2 přihlášenou a zjištěnou pohledávku; dovolání zamítl. Nosný závěr je v odstavcích 23–29, intertemporální posouzení v odstavcích 14–17.
 
 ---
 

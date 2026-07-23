@@ -325,6 +325,10 @@ Do tohoto vydání nebylo zařazeno rozhodnutí, jehož plný text by byl pro v�
 
 ## § 101 — Oznámení o zahájení (vyhláška)
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Zahájení insolvenčního řízení oznámí insolvenční soud vyhláškou, kterou zveřejní nejpozději do 2 hodin poté, kdy mu došel insolvenční návrh podaný dlužníkem nebo kdy byl učiněn záznam do spisu podle § 100a odst. 5. Jestliže insolvenční návrh podaný dlužníkem insolvenčnímu soudu dojde nebo je záznam do spisu podle § 100a odst. 5 učiněn v době, kdy do skončení úředních hodin insolvenčního soudu zbývají méně než 2 hodiny, nebo ve dnech pracovního klidu, zveřejní insolvenční soud tuto vyhlášku nejpozději do 2 hodin po zahájení úředních hodin nejbližšího pracovního dne insolvenčního soudu. Vyhláška obsahuje
 > a) označení insolvenčního soudu, který ji vydal,
 > b) označení insolvenčního navrhovatele,
@@ -336,70 +340,49 @@ Do tohoto vydání nebylo zařazeno rozhodnutí, jehož plný text by byl pro v�
 > (3) Vyhláška podle odstavce 1 se doručuje účastníkům insolvenčního řízení; odvolání proti ní není přípustné.
 > (4) Rozhodne-li insolvenční soud podle § 100a odst. 1 a neodmítne-li insolvenční návrh pro zjevnou bezdůvodnost, oznámí zahájení insolvenčního řízení vyhláškou, kterou spolu s insolvenčním návrhem a jinými dokumenty v insolvenčním spise zveřejní v insolvenčním rejstříku nejpozději do 2 hodin po zahájení úředních hodin nejbližšího pracovního dne insolvenčního soudu poté, co uplynula lhůta podle § 128a odst. 1. Odmítne-li insolvenční soud v této lhůtě insolvenční návrh pro zjevnou bezdůvodnost, oznámí zahájení insolvenčního řízení vyhláškou, kterou spolu s insolvenčním návrhem a jinými dokumenty v insolvenčním spise zveřejní v insolvenčním rejstříku nejpozději do 2 hodin po zahájení úředních hodin nejbližšího pracovního dne insolvenčního soudu po vydání rozhodnutí, kterým bylo rozhodnutí o odmítnutí insolvenčního návrhu pro zjevnou bezdůvodnost změněno.
 
+### Přehled výkladu
+
+§ 101 upravuje publicitu zahájení řízení. Řízení se zahajuje již dojitím návrhu věcně příslušnému soudu (§ 97 odst. 1), avšak účinky spojené se zahájením nastávají až zveřejněním vyhlášky v insolvenčním rejstříku (§ 109 odst. 4). Použitelná publikační lhůta závisí na druhu návrhu a na výsledku předběžného posouzení věřitelského návrhu.
+
+### Souvisící ustanovení
+
+- § 71 a § 74 — doručování zveřejněním vyhlášky a vztah ke zvláštnímu doručení.
+- § 97 odst. 1 — okamžik zahájení insolvenčního řízení.
+- § 100a — předběžné posouzení insolvenčního návrhu podaného věřitelem.
+- § 109 odst. 1 až 4 a odst. 6 — obsah a vznik účinků zahájení a následky úkonů učiněných v rozporu se stanovenými omezeními.
+- § 128a odst. 1 — odmítnutí zjevně bezdůvodného věřitelského návrhu a sedmidenní rozhodovací lhůta.
+
+### Souvisící předpisy
+
+- Zákon č. 120/2001 Sb., exekuční řád — pro posouzení konkrétního souběhu exekuce s účinky podle § 109 insolvenčního zákona.
+
+### Z důvodové zprávy
+
+Původní zvláštní důvodová zpráva vysvětluje, že § 101 má upravit způsob oznámení zahájení a tím určit okamžik vzniku účinků podle § 109 a násl.; předepsané náležitosti mají zajistit zveřejnění podstatných údajů a krátká lhůta odpovídá povaze tohoto procesního úkonu. Jde o historický účel výchozí úpravy. Pozdější režimy dnešních odstavců 2 a 4 se posuzují podle aktuálního znění, nikoli jako obsah původní zprávy. (Vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, 4. volební období, zvláštní část „K § 101“, číslovaná i PDF s. 181.)
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola; nejde o negativní rešerši.
+
 ### Výklad
 
-**Lhůty pro zveřejnění oznámení o zahájení** — *kritické pro účinky zahájení* (§ 109 odst. 4):
+[1] **Dvě rozhodné časové skutečnosti.** Dojitím insolvenčního návrhu věcně příslušnému soudu se podle § 97 odst. 1 zahajuje řízení. Tento okamžik však § 109 odst. 4 odlišuje od okamžiku, kdy nastanou účinky spojené se zahájením: ty vznikají zveřejněním vyhlášky podle § 101 v insolvenčním rejstříku. Pro právní posouzení je proto třeba zjistit jak čas dojití návrhu, tak přesný čas zveřejnění vyhlášky.
 
-| Situace | Lhůta |
-|---|---|
-| Standardní (dlužnický návrh nebo věřitelský po záznamu § 100a odst. 5) | **2 hodiny** (mimo úřední dobu — do 2 hodin po zahájení nejbližšího pracovního dne) |
-| Návrh s oddlužením | **3 pracovní dny** |
-| Po předběžném posouzení § 100a | **2 hodiny po uplynutí lhůty § 128a** nebo po vyřízení odvolání proti odmítnutí pro zjevnou bezdůvodnost |
+[2] **Základní režim odstavce 1.** Dvouhodinová lhůta běží buď od dojití dlužnického návrhu, nebo od záznamu podle § 100a odst. 5 u věřitelského návrhu. Zbývají-li do konce úředních hodin méně než dvě hodiny nebo nastane-li rozhodná skutečnost ve dni pracovního klidu, je mezním okamžikem konec dvou hodin po zahájení úředních hodin nejbližšího pracovního dne.
 
-**Obsah vyhlášky** (odst. 1):
-- označení soudu,
-- označení navrhovatele,
-- označení dlužníka,
-- *okamžik zveřejnění v rejstříku*,
-- jméno vyhotovitele, den vydání.
+[3] **Návrh spojený s oddlužením.** Odstavec 2 stanoví zvláštní třídenní lhůtu počítanou v pracovních dnech od dojití takového návrhu. Současně odkládá zveřejnění návrhu a jiných dokumentů ve spise: nesmějí být zveřejněny dříve než spolu s vyhláškou. Na tento případ se tedy nepřenáší dvouhodinový mezní okamžik odstavce 1.
 
-**Doručení a opravný prostředek** (odst. 3) — vyhláška se *doručuje účastníkům*, ale *odvolání není přípustné*.
+[4] **Věřitelský návrh v režimu § 100a odst. 1.** Neodmítne-li soud návrh pro zjevnou bezdůvodnost, zveřejní vyhlášku, návrh a další dokumenty v mezním okamžiku stanoveném první větou § 101 odst. 4 po uplynutí lhůty podle § 128a odst. 1. Jestliže soud návrh v této lhůtě odmítl, publicita nastoupí až po vydání rozhodnutí, kterým bylo odmítavé rozhodnutí změněno, a v mezním okamžiku přesně určeném druhou větou odstavce 4. Zákonnou formulaci nelze nahrazovat obecnou zkratkou „po vyřízení odvolání“.
 
-### Vazby
+[5] **Obsah a doručení.** Vyhláška musí obsahovat všech šest údajů vypočtených v odstavci 1 písm. a) až f), včetně údaje o okamžiku zveřejnění. Podle odstavce 3 se doručuje účastníkům; proti vyhlášce není odvolání přípustné. Způsob doručení je třeba číst spolu s obecnou úpravou insolvenčního doručování v § 71 a § 74.
 
-- **§ 109 odst. 4** — účinky nastávají zveřejněním vyhlášky.
-- **§ 100a, § 128a** — předběžné posouzení a odmítnutí pro zjevnou bezdůvodnost.
+[6] **Překročení publikační lhůty.** Samotný § 101 výslovně nestanoví, že by opožděná publicita nahradila skutečný okamžik zveřejnění okamžikem, kdy měla být vyhláška zveřejněna, ani že by vyhláška byla jen proto neúčinná. Materiální účinky § 109 odst. 1 nastávají podle jeho odstavce 4 skutečným zveřejněním. Jde o závěr z textu zákona; případné jiné následky nesprávného úředního postupu se posuzují samostatně.
 
-### Praktická poznámka
+[7] **Intertemporalita.** Odstavce 2 a 4 nejsou součástí původní koncepce popsané tiskem 1120/0. U starších řízení je proto nutno ověřit znění účinné v rozhodné době a přechodná ustanovení příslušné novely; dnešní lhůty a mechanismy nelze bez této kontroly promítat zpětně.
 
-Lhůta **2 hodiny** je extrémně krátká a odráží procesní zájem na rychlém oznámení. V praxi soudy lhůtu dodržují — automatizovaný systém eviduje příjem a generuje vyhlášku.
+### Judikatura
 
-### F. Kazuistika
-
-**1. Modelová situace.** Dlužník IÓTA s. r. o. podá vlastní insolvenční návrh spojený s návrhem na povolení reorganizace v úterý v 9:00. Téhož dne ve 14:30 zahájí jiný věřitel proti IÓTA exekuci. IÓTA namítá, že účinky zahájení nastaly už dopoledne, neboť soud měl vyhlášku zveřejnit do 2 hodin. Druhý scénář: jiný dlužník podá návrh **spojený s návrhem na povolení oddlužení**. Důkazy: časový záznam podání návrhu v podatelně, údaj o okamžiku zveřejnění vyhlášky v rejstříku, protokol exekutora.
-
-**2. Právní otázka.** V jaké lhůtě musí soud zveřejnit vyhlášku o zahájení a od kterého okamžiku nastávají účinky zahájení vůči souběžně vedené exekuci?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 101 odst. 1 (lhůta 2 hodiny u dlužnického návrhu, obsah vyhlášky), odst. 2 (3 pracovní dny u návrhu s oddlužením), odst. 3 (doručení účastníkům, bez odvolání), odst. 4 (zveřejnění po předběžném posouzení dle § 100a).
-- *Související ustanovení téhož zákona:* § 109 odst. 4 (účinky nastávají zveřejněním vyhlášky), § 100a a § 128a (předběžné posouzení a zjevná bezdůvodnost), § 97 odst. 1 (okamžik zahájení = dojití soudu).
-- *Související předpisy:* exekuční řád (souběh s exekucí), zákon č. 300/2008 Sb. (elektronické úkony).
-- *Judikatura:* k samotné lhůtě chybí v komentáři citovaná judikatura; klíčový je text § 109 odst. 4 (účinky vázány na okamžik zveřejnění vyhlášky).
-
-**4. Subsumpce.** U dlužnického návrhu bez oddlužení činí lhůta 2 hodiny od dojití (resp. do 2 hodin po zahájení úředních hodin, je-li podáno mimo dobu); účinky vůči exekuci nastávají **okamžikem zveřejnění vyhlášky**, nikoli podáním. U návrhu s oddlužením je lhůta 3 pracovní dny a spis se zveřejní nejdříve spolu s vyhláškou.
-
-**5. Řešení.** Rozhodný je čas zveřejnění vyhlášky v rejstříku (§ 109 odst. 4). Byla-li vyhláška zveřejněna např. v 10:30, exekuční úkon ve 14:30 spadá již do režimu § 109 (nelze provést). Praktický krok: doložit z rejstříku přesný okamžik zveřejnění a postup podle § 109 odst. 6 (k úkonům v rozporu se nepřihlíží). U návrhu s oddlužením je nutné počítat s odkladem (3 pracovní dny) — věřitelé v tomto okně ještě nevidí spis.
-
-**6. Varianty.** (a) Návrh byl podán mimo úřední hodiny / ve dnech pracovního klidu — lhůta 2 hodin běží až od zahájení úředních hodin nejbližšího pracovního dne. (b) Šlo o věřitelský návrh, u nějž soud rozhodl podle § 100a odst. 1 — zveřejnění vyhlášky se řídí odst. 4 (po uplynutí lhůty § 128a, případně po vyřízení odvolání proti odmítnutí).
-
-### G. Protiargumenty a rizika
-
-- *„Účinky nastaly už podáním návrhu."* Neobstojí — § 109 odst. 4 i § 101 váží účinky na okamžik **zveřejnění vyhlášky**, nikoli na dojití. Neutralizace: argumentovat výslovným zněním a údajem o zveřejnění z rejstříku.
-- *„Lhůta 2 hodin nebyla dodržena, vyhláška je proto neúčinná."* Lhůta je pořádková; její překročení nezpůsobuje neúčinnost vyhlášky ani nemění okamžik účinků (ten je dán reálným zveřejněním). Neutralizace: spoléhat na skutečný čas zveřejnění.
-- Slabé místo: u návrhů s oddlužením třídenní odklad publicity vytváří okno, v němž třetí osoby nevědí o zahájení — riziko sporů o dobrou víru; doporučeno sledovat rejstřík a okamžik zveřejnění dokumentovat.
-
-### H. Praktický závěr
-
-Vyhláška o zahájení se zveřejňuje u dlužnického návrhu do 2 hodin (u návrhu s oddlužením do 3 pracovních dnů; po § 100a podle odst. 4) a teprve jejím zveřejněním v rejstříku nastávají účinky zahájení (§ 109 odst. 4). Lhůta je pořádková, odvolání proti vyhlášce není přípustné.
-
-**Checklist (soud / dlužník / věřitel / exekutor):**
-- [ ] O jaký typ návrhu jde (dlužnický × s oddlužením × po § 100a)?
-- [ ] Která lhůta zveřejnění se uplatní (2 hodiny / 3 pracovní dny / dle § 101 odst. 4)?
-- [ ] Zjištěn přesný okamžik zveřejnění vyhlášky v rejstříku?
-- [ ] Obsahuje vyhláška náležitosti odst. 1 (soud, navrhovatel, dlužník, okamžik zveřejnění, vyhotovitel, den)?
-- [ ] Posouzen souběh s exekucí/úkony podle § 109 odst. 4 a 6?
-
-**Typicky rozhodné důkazy / podklady:** evidenční záznam podatelny (datum + čas dojití), výpis z insolvenčního rejstříku s okamžikem zveřejnění vyhlášky, protokoly o exekučních/jiných úkonech v rozhodný den, údaj o úředních hodinách soudu.
+Do tohoto kola nebylo zařazeno rozhodnutí, jehož ověřený plný text by byl přímo nosný pro samostatný výklad § 101. Tím se nevyslovuje závěr o neexistenci související judikatury.
 
 ---
 

@@ -693,6 +693,10 @@ Do tohoto kola nebylo zařazeno rozhodnutí, jehož plný text z oficiálního s
 
 ## § 108 — Záloha na náklady IR
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Je-li podán insolvenční návrh věřitele proti právnické osobě, která je podnikatelem, je navrhovatel povinen složit zálohu na náklady insolvenčního řízení ve výši **50 000 Kč**, a je-li podán insolvenční návrh věřitele proti právnické osobě, která není podnikatelem, nebo proti fyzické osobě, zálohu na náklady insolvenčního řízení ve výši **10 000 Kč**; záloha je splatná spolu s podáním insolvenčního návrhu. To neplatí, je-li insolvenčním navrhovatelem zaměstnanec nebo bývalý zaměstnanec dlužníka, jehož pohledávka spočívá pouze v pracovněprávních nárocích, je-li insolvenčním navrhovatelem spotřebitel, jehož pohledávka spočívá v nároku vyplývajícím ze spotřebitelské smlouvy, a v případech podle § 107 odst. 1.
 > (2) Insolvenční soud může před rozhodnutím o insolvenčním návrhu uložit insolvenčnímu navrhovateli, aby ve stanovené lhůtě zaplatil zálohu na náklady insolvenčního řízení, je-li to nutné ke krytí nákladů řízení a prostředky k tomu nelze zajistit jinak; to platí i tehdy, je-li zřejmé, že dlužník nemá žádný majetek. Tuto zálohu nelze uložit insolvenčnímu navrhovateli - zaměstnanci nebo bývalému zaměstnanci dlužníka, jehož pohledávka spočívá pouze v pracovněprávních nárocích. Povinnost zaplatit zálohu neuloží insolvenční soud dlužníku, o jehož insolvenčním návrhu může rozhodnout bez zbytečného odkladu tak, že vydá rozhodnutí o úpadku, s nímž spojí rozhodnutí o povolení oddlužení.
 > (3) Výši zálohy podle odstavce 2 může insolvenční soud určit až do částky 50 000 Kč. Je-li insolvenčních navrhovatelů více, jsou povinni zaplatit zálohu společně a nerozdílně.
@@ -700,76 +704,57 @@ Do tohoto kola nebylo zařazeno rozhodnutí, jehož plný text z oficiálního s
 > (5) Nejde-li o dlužníka, může osoba, která zaplatila zálohu na náklady insolvenčního řízení, uplatnit její náhradu v insolvenčním řízení jako pohledávku za majetkovou podstatou.
 > (6) Je-li vydáno předběžné opatření podle § 147 odst. 6, považuje se složená záloha na náklady insolvenčního řízení za částku uhrazenou na základě takového předběžného opatření.
 
+### Přehled výkladu
+
+Ustanovení upravuje dva odlišné režimy. Odstavec 1 zakládá přímo ze zákona pevnou zálohu věřitelského navrhovatele, splatnou spolu s návrhem. Odstavce 2 a 3 naproti tomu umožňují soudu uložit podle okolností zálohu až 50 000 Kč kterémukoli insolvenčnímu navrhovateli, jsou-li splněny zákonné podmínky. Nezaplacení má v každém režimu jiný procesní následek: u zákonné zálohy může založit odmítnutí věřitelského návrhu podle § 128a odst. 2 písm. d), kdežto odstavec 4 se týká jen zálohy stanovené rozhodnutím podle odstavců 2 a 3.
+
+### Souvisící ustanovení
+
+- **§ 38 odst. 2** — odměna a hotové výdaje správce se při nedostatku podstaty uspokojují ze zálohy; teprve poté nastupuje zákonem omezená úhrada státem.
+- **§ 84 odst. 2 a § 123 odst. 2** — přiměřené použití § 108 u zálohy na náklady předběžného správce.
+- **§ 107 odst. 1** — přistoupení dalšího navrhovatele, na něž se nevztahuje zákonná záloha podle § 108 odst. 1.
+- **§ 128a odst. 1, odst. 2 písm. d) a odst. 4** — odmítnutí zjevně bezdůvodného věřitelského návrhu pro řádně a včas nezaplacenou zákonnou zálohu; zvláštní výjimka z karenční lhůty.
+- **§ 147 odst. 6** — předběžné opatření ukládající navrhovateli složit jistotu k zajištění náhrady škody nebo jiné újmy a nákladů.
+- **§ 168 odst. 1 písm. d) a odst. 3** — náhrada zálohy zaplacené jinou osobou než dlužníkem jako pohledávka za majetkovou podstatou a režim jejího uspokojení.
+- **§ 368 odst. 2 a § 380 odst. 2** — zvláštní vyloučení zálohy u zákonem vymezených orgánů dozoru nebo dohledu.
+
+### Souvisící předpisy
+
+- **§ 7 insolvenčního zákona a část šestá zákona č. 99/1963 Sb., občanský soudní řád** — subsidiární procesní rámec pro výkon pravomocného usnesení ukládajícího zaplacení zálohy; přednost má zvláštní úprava § 108 odst. 4.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva k § 108 ve sněmovním tisku 1120/0 (číslovaná s. 183–184, PDF s. 184–185) vysvětlovala jen tehdejší model zálohy ukládané soudem. Zdůraznila krytí počátečních nákladů, vyloučila opakované ukládání a vedle zastavení připustila vymáhání; náhradu zaplacenou jinou osobou než dlužníkem zařadila mezi pohledávky za podstatou. Neodůvodňuje dnešní povinnou zálohu podle odstavce 1, která byla vložena až zákonem č. 64/2017 Sb.
+
+K novele č. 294/2013 Sb. oficiální důvodová zpráva ve sněmovním tisku 929/0 (číslované s. 67–68, PDF s. 69–70) popsala tehdejší problémy se zálohami u dlužnických návrhů spojených s oddlužením. Vyhlášené znění však zakotvilo dnes zachovanou výjimku jen pro případ, kdy lze bez zbytečného odkladu spojit rozhodnutí o úpadku s povolením oddlužení. Zákon č. 64/2017 Sb. pak vložil zákonnou zálohu věřitelského navrhovatele, její tři skupiny výjimek a dnešní odstavec 6.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola; tento oddíl nepředstavuje negativní rešerši.
+
 ### Výklad
 
-**Záloha na náklady** — *finanční filtr* proti šikanózním návrhům a zajištění likvidity řízení.
+[1] **Zákonná záloha podle odstavce 1.** Povinnost vzniká věřiteli již podáním insolvenčního návrhu. Rozhoduje postavení dlužníka: u právnické osoby-podnikatele činí 50 000 Kč, u právnické osoby-nepodnikatele a fyzické osoby 10 000 Kč. Soud výši neurčuje a text nepočítá s dodatečnou výzvou jako podmínkou splatnosti.
 
-#### Povinná záloha věřitele (odst. 1)
+[2] **Výjimky ze zákonné zálohy.** Odstavec 1 nedopadá na zaměstnance ani bývalého zaměstnance, opírá-li návrh pouze o pracovněprávní nároky; na spotřebitele, spočívá-li jeho pohledávka v nároku ze spotřebitelské smlouvy; ani na další návrh, jímž se podle § 107 odst. 1 přistupuje k již zahájenému řízení. Rozhodná je současně osoba navrhovatele i zákonem vymezený původ jeho pohledávky.
 
-| Dlužník | Výše |
-|---|---|
-| PO-podnikatel | **50 000 Kč** |
-| PO-nepodnikatel | **10 000 Kč** |
-| FO | **10 000 Kč** |
+[3] **Následek nezaplacení zákonné zálohy.** Není-li záloha splatná s podáním řádně a včas zaplacena, jde podle § 128a odst. 2 písm. d) o výslovný případ zjevné bezdůvodnosti věřitelského návrhu. § 128a odst. 4 pro tento důvod vylučuje obecnou karenční lhůtu. Tento následek nelze zaměňovat se zastavením podle § 108 odst. 4.
 
-**Splatnost: spolu s podáním návrhu**. Bez zálohy → návrh se odmítne pro zjevnou bezdůvodnost (§ 128a odst. 2 písm. d)).
+[4] **Záloha uložená soudem.** Před rozhodnutím o návrhu ji lze uložit, jen je-li nutná ke krytí nákladů a prostředky nelze zajistit jinak; nedostatek jakéhokoli majetku dlužníka uložení sám nevylučuje. Výše se určuje podle potřeby, nejvýše 50 000 Kč. Více navrhovatelů odpovídá za takto uloženou zálohu společně a nerozdílně.
 
-**Výjimky** (zaměstnanci, spotřebitelé s pohledávkou ze spotř. smlouvy, přistoupení dle § 107 odst. 1) — *žádná povinná záloha*.
+[5] **Osobní meze uložené zálohy.** Soud ji nesmí uložit zaměstnanci ani bývalému zaměstnanci s pohledávkou spočívající pouze v pracovněprávních nárocích. Spotřebitelská výjimka je výslovně obsažena jen v odstavci 1, nikoli v odstavci 2. Dlužníkovi soud zálohu neuloží pouze tehdy, může-li bez zbytečného odkladu spojit rozhodnutí o úpadku s povolením oddlužení; nejde o obecné vynětí všech dlužnických návrhů spojených s návrhem na povolení oddlužení.
 
-#### Diskreční záloha soudem (odst. 2 — 3)
+[6] **Nezaplacení uložené zálohy.** Odstavec 4 dává soudu před rozhodnutím o insolvenčním návrhu možnost řízení zastavit; nezastaví-li je, může zálohu vymáhat. Navrhovatel musí být o těchto následcích poučen. Zákonný text tedy neurčuje zastavení jako jediný možný postup.
 
-Soud může uložit zálohu **až 50 000 Kč** i v dalších případech, je-li to nutné. *Nelze* uložit zaměstnanci s pracovněprávní pohledávkou. *Neuloží* dlužníkovi-navrhovateli, o jehož návrhu na oddlužení může rychle rozhodnout.
+[7] **Náhrada zaplacené zálohy.** Osoba odlišná od dlužníka může náhradu uplatnit jako pohledávku za majetkovou podstatou. § 168 odst. 1 písm. d) tuto kvalifikaci váže na zaplacení v souladu s rozhodnutím insolvenčního soudu a odstavec 3 stanoví její režim uspokojení. Samotné pořadí však nezaručuje faktické plné uspokojení, chybějí-li v podstatě prostředky.
 
-#### Sankce za nezaplacení (odst. 4)
+[8] **Vztah k předběžnému opatření.** Vydá-li soud předběžné opatření podle § 147 odst. 6, již složená záloha se ze zákona považuje za částku uhrazenou na jeho základě. Jde o zákonné přiřazení téhož plnění, nikoli o další platební povinnost v rozsahu již složené částky.
 
-Soud **zastaví řízení** (nebo vymáhá zálohu). Musí navrhovatele *poučit*.
+[9] **Intertemporální mez.** Pro splatnost a následky zálohy je nutné použít znění účinné v rozhodné procesní době. Povinná záloha dnešního odstavce 1 existuje až od 1. 7. 2017. Starší judikatura k tehdejším odstavcům 1 a 3 vykládá dnešní diskreční režim v odstavcích 2 až 4, nikoli dnešní zákonnou zálohu.
 
-#### Náhrada zálohy (odst. 5)
+### Judikatura
 
-Navrhovatel-věřitel (po zahájení řízení) získá pohledávku **za majetkovou podstatou** za zaplacenou zálohu — je tedy *přednostně uspokojen*.
-
-### Vazby
-
-- **§ 128a odst. 2 písm. d)** — odmítnutí pro nezaplacení.
-- **§ 147 odst. 6** — předběžné opatření o zaplacení nákladů.
-- **§ 168** — pohledávky za podstatou.
-
-### F. Kazuistika
-
-**1. Modelová situace.** Věřitel RÓ s. r. o. podá insolvenční návrh proti dlužníku-podnikateli (PO) SIGMA a. s., ale **nesloží** s podáním zálohu 50 000 Kč. Souběžně bývalý zaměstnanec dlužníka podá vlastní návrh pro nevyplacenou mzdu — bez zálohy. Třetí scénář: soud zjistí, že na krytí nákladů řízení nejsou prostředky a uloží navrhovateli zálohu, kterou ten nezaplatí. Důkazy: doklad o (ne)složení zálohy, povaha pohledávky navrhovatele, stav majetku dlužníka.
-
-**2. Právní otázka.** Kdy vzniká povinná záloha podle § 108 odst. 1, na koho nedopadá a jaké jsou následky jejího nesložení (povinné × uložené soudem)?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 108 odst. 1 (povinná záloha 50 000 Kč u PO-podnikatele, 10 000 Kč u PO-nepodnikatele a FO; výjimky — zaměstnanec s pracovněprávní pohledávkou, spotřebitel se spotřebitelskou pohledávkou, přistoupení dle § 107 odst. 1), odst. 2–3 (diskreční záloha až 50 000 Kč), odst. 4 (zastavení řízení / vymáhání), odst. 5 (náhrada jako pohledávka za podstatou).
-- *Související ustanovení téhož zákona:* § 128a odst. 2 písm. d) (odmítnutí věřitelského návrhu pro nesložení povinné zálohy), § 147 odst. 6 (předběžné opatření o nákladech), § 168 (pohledávky za podstatou).
-- *Související předpisy:* OSŘ (úhrada nákladů řízení, vymáhání).
-- *Judikatura:* k záloze chybí v komentáři citovaná judikatura; nosně plyne z textu § 108 a § 128a odst. 2 písm. d).
-
-**4. Subsumpce.** U věřitelského návrhu proti PO-podnikateli je povinná záloha 50 000 Kč splatná **spolu s podáním**; její nesložení je důvodem odmítnutí pro zjevnou bezdůvodnost (§ 128a odst. 2 písm. d). Návrh bývalého zaměstnance s ryze pracovněprávní pohledávkou je z povinné zálohy **vyňat** (odst. 1). Uloženou (diskreční) zálohu nelze uložit zaměstnanci s pracovněprávní pohledávkou; její nezaplacení vede k zastavení řízení (odst. 4).
-
-**5. Řešení.** Návrh věřitele RÓ bez zálohy → odmítnutí podle § 128a odst. 2 písm. d) (karenční lhůta dle § 128a odst. 4 se zde neuplatní — výjimka pro nesložení zálohy). Návrh bývalého zaměstnance → projedná se bez zálohy. U uložené zálohy soud při nezaplacení řízení zastaví (po poučení), případně zálohu vymáhá. Po zahájení řízení získá navrhovatel-věřitel za zaplacenou zálohu pohledávku za majetkovou podstatou (odst. 5) — přednostní uspokojení.
-
-**6. Varianty.** (a) Dlužník podá vlastní návrh spojený s návrhem na oddlužení, o němž lze rozhodnout bez zbytečného odkladu — soud mu zálohu neuloží (odst. 2 in fine). (b) Jde o přistoupení podle § 107 odst. 1 — povinná záloha se neuplatní.
-
-### G. Protiargumenty a rizika
-
-- *„Zálohu doplatím po výzvě."* U povinné zálohy (odst. 1) je splatná s podáním; její absence je samostatným důvodem odmítnutí (§ 128a odst. 2 písm. d) bez výzvy. Neutralizace: složit zálohu současně s návrhem.
-- *„Dlužník nemá majetek, záloha je zbytečná."* Naopak — odst. 2 výslovně připouští uložení zálohy i tehdy, je-li zřejmé, že dlužník nemá majetek (krytí nákladů). Neutralizace: počítat se zálohou i u „prázdné" podstaty.
-- Slabé místo: rozlišení povinné (odst. 1) a uložené (odst. 2) zálohy má odlišné následky (odmítnutí × zastavení) a odlišné výjimky; chybná kvalifikace vede k vadnému procesnímu postupu.
-
-### H. Praktický závěr
-
-Věřitel skládá zálohu už s podáním (50 000 Kč u PO-podnikatele, jinak 10 000 Kč), nesloží-li ji, návrh se odmítne (§ 128a odst. 2 písm. d); zaměstnanci s pracovněprávní a spotřebitelé se spotřebitelskou pohledávkou jsou vyňati. Diskreční zálohu (až 50 000 Kč) může soud uložit i u dlužníka bez majetku, při nezaplacení řízení zastaví.
-
-**Checklist (navrhovatel / advokát / soud):**
-- [ ] Jde o věřitelský návrh s povinnou zálohou (PO-podnikatel 50 000 / jinak 10 000 Kč)?
-- [ ] Nespadá navrhovatel do výjimky (zaměstnanec s pracovněprávní / spotřebitel se spotřebitelskou pohledávkou / přistoupení § 107 odst. 1)?
-- [ ] Byla povinná záloha složena spolu s podáním?
-- [ ] U uložené zálohy: byl navrhovatel poučen o následcích nezaplacení (zastavení / vymáhání)?
-- [ ] Uplatní navrhovatel-věřitel náhradu zálohy jako pohledávku za podstatou (odst. 5)?
-
-**Typicky rozhodné důkazy / podklady:** doklad o složení/nesložení zálohy, povaha pohledávky navrhovatele (pracovněprávní/spotřebitelská), údaje o stavu majetku dlužníka, usnesení o uložení zálohy a poučení, doklad o přistoupení dle § 107.
+Do produkčního výkladu tohoto kola nebylo zařazeno rozhodnutí bez fyzického snapshotu plného textu v pramenném korpusu jednotky. Výklad proto nestaví na právních větách, metadatech ani kandidátních lokátorech. Tím se nevyslovuje závěr, že relevantní judikatura neexistuje; její produkční zařazení vyžaduje samostatně reprodukovatelnou plnotextovou kontrolu.
 
 ---
 

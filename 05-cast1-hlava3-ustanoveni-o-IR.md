@@ -1355,59 +1355,55 @@ Do této revize nebylo převzato žádné rozhodnutí. Dříve uvedené rozhodnu
 
 ## § 93 — Lhůta a postup odvolacího soudu
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Jde-li o odvolání proti rozhodnutí o nařízení předběžného opatření, proti rozhodnutí o úpadku, proti rozhodnutí o způsobu řešení úpadku a proti rozhodnutí o schválení reorganizačního plánu, předloží soud prvního stupně věc odvolacímu soudu, jakmile všem účastníkům uplyne lhůta k podání odvolání; po uplynutí této lhůty úkony směřující k odstranění vad včasného odvolání, k doručení odvolání ostatním účastníkům, k vyšetření podmínek řízení nebo jiná obdobná šetření činí předseda senátu odvolacího soudu.
 > (2) Odvolání proti rozhodnutí podle odstavce 1 odvolací soud projedná a rozhodne o něm nejpozději do 2 měsíců poté, co mu bylo předloženo soudem prvního stupně; ustanovení § 92 tím není dotčeno.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *ÚS* [Pl.ÚS 42/08](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-42-08_1) — nález, 21. 4. 2009
-  > „Napadané ustanovení stanoví pořádkovou lhůtu dvou měsíců, ve které má odvolací soud o odvolání rozhodnout. Pokud by byla lhůta lhůtou propadnou, tj. kdyby právo zanikalo, případně kdyby s uplynutím byly spojovány jiné zásadní právní následky (např. fikce či domněnka), bylo by nutné takovou lhůtu považovat za protiústavní … Zákonem stanovená lhůta v ustanovení § 93 odst. 2 insolvenčního zákona se týká rozhodnutí o odvolání proti nařízení předběžného opatření, proti rozhodnutí o úpadku a proti rozhodnutí o způsobu řešení úpadku, tj. jde o počáteční vyřešení situace dlužníka, kdy je nezbytné zamezit jakýmkoli průtahům, a vzhledem k tomu, že jde o lhůtu pořádkovou, není její vymezení v rozporu s právem na spravedlivý proces"
-- *NS* [30 Cdo 3271/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E7EF47127EB5CBC2C1257CDD002D0A3D?openDocument) — kat. A, 24. 4. 2014
-  > „K nesprávnému úřednímu postupu podle § 13 odst. 1, věta druhá, zákona č. 82/1998 Sb. nemůže dojít, nestanoví-li zákon konkrétní lhůtu, počítanou podle hodin, dnů, týdnů, měsíců nebo roků, v níž má být úkon proveden nebo rozhodnutí vydáno. Případné prodlení soudu s vydáním nemeritorního rozhodnutí je třeba posoudit z hlediska porušení povinnosti učinit úkon v době zákonem stanovené nebo přiměřené ve smyslu § 13 odst. 1, věta druhá a třetí, zákona č. 82/1998 Sb., nikoliv z hlediska porušení povinnosti vydat rozhodnutí"
+U čtyř výslovně vyjmenovaných odvolání se spis předkládá bez čekání na odstraňování vad, doručování odvolání a obdobná šetření: rozhodným okamžikem je uplynutí odvolací lhůty všem účastníkům. Tyto následné úkony přecházejí na předsedu senátu odvolacího soudu. Dvouměsíční lhůta běží až od předložení věci a je pořádková; její uplynutí nezpůsobuje zánik práva ani fikci rozhodnutí. Současně trvá obecný příkaz § 92 postupovat s nejvyšším urychlením.
+
+### Souvisící ustanovení
+
+- § 7 — přiměřené použití občanského soudního řádu,
+- § 91 — odvolání proti rozhodnutím při výkonu dohlédací činnosti,
+- § 92 — nejvyšší urychlení a pořadí projednání vybraných odvolání,
+- § 94 — jednání před odvolacím soudem,
+- § 95 — autoremedura.
+
+### Souvisící předpisy
+
+- § 209 a § 210 občanského soudního řádu — obecný postup soudu prvního stupně při odstraňování vad, doručování odvolání, šetření podmínek řízení a předložení věci,
+- zákon č. 294/2013 Sb., čl. I bod 55 a čl. III — doplnění odvolání proti rozhodnutí o schválení reorganizačního plánu s účinností od 1. 1. 2014.
+
+### Z důvodové zprávy
+
+Zvláštní část důvodové zprávy k vládnímu návrhu insolvenčního zákona (sněmovní tisk 1120/0, k § 91 až 96, číslovaná s. 178, PDF s. 178–179) označuje dvouměsíční lhůtu za pořádkovou a vysvětluje, že § 93 odst. 1 má vytvořit předpoklady, aby její dodržení bylo plně v rukou odvolacího soudu. Pozdější důvodová zpráva k novele (sněmovní tisk 929/0, k bodům 54 a 55, číslovaná s. 82, PDF s. 84) odůvodňuje přidání rozhodnutí o schválení reorganizačního plánu jeho významem pro další chod dlužníkova podniku a práva věřitelů.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní rešerše.
 
 ### Výklad
 
-**Konkrétní lhůta 2 měsíce** pro vrchní soud na rozhodnutí o klíčových odvoláních (po předložení spisu).
+[1] **Uzavřený výčet.** Zvláštní režim se použije jen na odvolání proti čtyřem rozhodnutím uvedeným v odstavci 1. Nelze jej rozšiřovat pouze podle obecné závažnosti jiného rozhodnutí. § 92 má širší dosah: požadavek nejvyššího urychlení se vztahuje na všechna odvolání proti rozhodnutím vydaným v insolvenčním řízení.
 
-**Zvláštní procesní pravidlo (odst. 1)**: po uplynutí odvolací lhůty soud I. stupně **okamžitě předloží** spis vrchnímu soudu. Předseda senátu vrchního soudu pak činí *všechny* další úkony (doručení ostatním, výzva k odstranění vad atd.). Standardně by tyto úkony činil soud I. stupně — zrychlení.
+[2] **Okamžik předložení.** Soud prvního stupně předloží věc, jakmile uplyne lhůta k odvolání všem účastníkům. § 93 tedy pro vyjmenované věci obrací obecné pořadí podle § 209 a § 210 o. s. ř.: na odstranění vad včasného odvolání, jeho doručení, vyšetření podmínek řízení ani obdobná šetření se před předložením nečeká.
 
-> *Praxe*: lhůta 2 měsíce není striktně dodržována — typicky 3—6 měsíců (závisí na zatížení VS). Ústavní soud opakovaně judikoval, že lhůta je *pořádková*, nikoli prekluzivní.
+[3] **Rozdělení úkonů.** Po uplynutí uvedené lhůty činí zákonem vyjmenované a jim obdobné úkony předseda senátu odvolacího soudu. Z ustanovení neplyne, že na odvolací soud přechází bez výjimky každý další úkon související s věcí.
 
-### F. Kazuistika
+[4] **Počátek a obsah lhůty.** Dva měsíce se počítají od předložení věci odvolacímu soudu, nikoli od podání odvolání ani od uplynutí odvolací lhůty. V této době má odvolací soud odvolání projednat i o něm rozhodnout. Odkaz na § 92 znamená, že dvouměsíční maximum neoslabuje povinnost jednat s nejvyšším urychlením.
 
-**1. Modelová situace.** Proti rozhodnutí o úpadku dlužníka Beta s. r. o. podají dva účastníci odvolání. Soud prvního stupně předloží spis odvolacímu soudu až po několika měsících, ač odvolací lhůta všem účastníkům uplynula; odvolací soud následně rozhoduje déle než dva měsíce od předložení. Odvolatel se domáhá náhrady za průtahy s odůvodněním, že byla porušena „závazná" dvouměsíční lhůta. Důkazy: doklady o uplynutí odvolacích lhůt, datum předložení spisu odvolacímu soudu, datum rozhodnutí odvolacího soudu.
+[5] **Pořádková povaha.** Podle nálezu Pl. ÚS 42/08 je lhůta pořádková. Její marné uplynutí proto samo nezpůsobuje zánik procesního práva, fikci ani domněnku rozhodnutí a nezbavuje odvolací soud povinnosti rozhodnout.
 
-**2. Právní otázka.** Kdy má soud prvního stupně předložit věc odvolacímu soudu, kdo činí navazující úkony a jakou povahu má dvouměsíční lhůta dle § 93 odst. 2?
+[6] **Intertemporalita.** Pl. ÚS 42/08 posuzoval znění účinné v řízení zahájeném roku 2008, kdy odstavec 1 uváděl jen předběžné opatření, rozhodnutí o úpadku a rozhodnutí o způsobu řešení úpadku. Od 1. 1. 2014 zákon č. 294/2013 Sb. doplnil rozhodnutí o schválení reorganizačního plánu. Výslovný závěr Ústavního soudu o pořádkové povaze nezávisel na počtu položek výčtu; jeho použití na nezměněný odstavec 2 i po této novele je redakčním závěrem podloženým kontinuitou textu.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 93 IZ — u odvolání proti nařízení předběžného opatření, rozhodnutí o úpadku, způsobu řešení úpadku a schválení reorganizačního plánu soud prvního stupně předloží věc, jakmile všem uplyne odvolací lhůta; navazující úkony pak činí předseda senátu odvolacího soudu (odst. 1); odvolací soud rozhodne nejpozději do 2 měsíců od předložení, § 92 tím není dotčen (odst. 2).
-- *Související ustanovení téhož zákona:* § 92 (zrychlený režim a přednostní pořadí).
-- *Související předpisy:* zákon č. 82/1998 Sb. (odpovědnost za nesprávný úřední postup); čl. 36, 38 Listiny.
-- *Judikatura:* ÚS Pl. ÚS 42/08 — dvouměsíční lhůta § 93 odst. 2 je pořádková (nikoli propadná), její vymezení není v rozporu s právem na spravedlivý proces; NS 30 Cdo 3271/2012 — k pořádkové lhůtě a posuzování průtahů.
+### Judikatura
 
-**4. Subsumpce.** Jde o odvolání proti rozhodnutí o úpadku — naplněn znak odst. 1: spis měl být předložen, jakmile všem uplynula odvolací lhůta. Pozdní předložení je v rozporu s odst. 1. Dvouměsíční lhůta odst. 2 je pořádková (Pl. ÚS 42/08) — její překročení samo o sobě nezakládá prekluzi ani automaticky nesprávný úřední postup.
-
-**5. Řešení.** Správně měl soud prvního stupně předložit spis ihned po uplynutí odvolacích lhůt a navazující úkony měl činit předseda senátu odvolacího soudu (odst. 1). Překročení dvouměsíční lhůty se posuzuje jako otázka přiměřenosti doby řízení (pořádková lhůta); nárok z titulu průtahů je možný jen při nepřiměřené délce, nikoli automaticky. Praktický krok: u klíčových odvolání hlídat včasné předložení spisu.
-
-**6. Varianty.** (a) Kdyby šlo o odvolání nepatřící do výčtu odst. 1, zvláštní pravidlo o předložení a o úkonech předsedy senátu odvolacího soudu by se neuplatnilo. (b) Kdyby prodlení dosáhlo nepřiměřené délky, mohl by být dán nárok dle zák. č. 82/1998 Sb., ovšem nezávisle na pouhém překročení dvou měsíců.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Překročení dvou měsíců automaticky znamená nárok na odškodnění za průtahy." — Neutralizace: Pl. ÚS 42/08 — jde o pořádkovou lhůtu; rozhodná je přiměřenost doby, nikoli mechanické překročení lhůty.
-- *Protiargument:* „Navazující úkony po předložení činí dál soud prvního stupně." — Neutralizace: odst. 1 svěřuje tyto úkony předsedovi senátu odvolacího soudu (zrychlení).
-- *Slabé místo:* je třeba doložit okamžik uplynutí odvolacích lhůt všech účastníků a datum předložení; bez toho nelze posoudit dodržení odst. 1.
-
-### H. Praktický závěr
-
-U klíčových odvolání předkládá soud prvního stupně spis ihned po uplynutí odvolacích lhůt; navazující úkony činí předseda senátu odvolacího soudu. Dvouměsíční lhůta je pořádková — rozhoduje přiměřenost doby.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Zjištěn okamžik uplynutí odvolacích lhůt všech účastníků (předpoklad předložení).
-- [ ] Spis předložen odvolacímu soudu bez prodlení po uplynutí lhůt (odst. 1).
-- [ ] Navazující úkony činěny předsedou senátu odvolacího soudu.
-- [ ] U průtahů posouzena přiměřenost doby (lhůta je pořádková — Pl. ÚS 42/08).
-
-**Typicky rozhodné důkazy / podklady:** doklady o uplynutí odvolacích lhůt, datum předložení spisu, datum rozhodnutí odvolacího soudu, evidence úkonů předsedy senátu.
+- **Ústavní soud, nález ze dne 21. 4. 2009, sp. zn. Pl. ÚS 42/08 (163/2009 Sb.), body 23–25.** Plénum zamítlo návrh na zrušení § 93 odst. 2. Nosně uzavřelo, že dvouměsíční lhůta je pořádková, nikoli propadná, a že s jejím uplynutím nejsou spojeny fikce ani domněnky. Řízení před obecným soudem bylo zahájeno v roce 2008 a Ústavní soud pracoval s tehdejším tříčlenným výčtem; rozhodnutí o schválení reorganizačního plánu bylo doplněno až od 1. 1. 2014. Intertemporální dopad je vyložen v marginálním čísle [6].
 
 ---
 

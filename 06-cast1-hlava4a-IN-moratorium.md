@@ -448,77 +448,68 @@ Dosavadní odkaz na rozhodnutí Nejvyššího soudu sp. zn. 29 NSČR 4/2009 neby
 
 ## § 104 — Přílohy dlužníkova návrhu
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Podá-li insolvenční návrh dlužník, je povinen k němu připojit
-> a) seznam svého majetku včetně svých pohledávek s uvedením svých dlužníků (dále jen „seznam majetku"),
-> b) seznam svých závazků s uvedením svých věřitelů (dále jen „seznam závazků"), nespojil-li s insolvenčním návrhem návrh na povolení oddlužení,
+>
+> a) seznam svého majetku včetně svých pohledávek s uvedením svých dlužníků (dále jen „seznam majetku“),
+>
+> b) seznam svých závazků s uvedením svých věřitelů (dále jen „seznam závazků“), nespojil-li s insolvenčním návrhem návrh na povolení oddlužení,
+>
 > c) seznam svých zaměstnanců,
+>
 > d) listiny, které dokládají úpadek nebo hrozící úpadek.
-> (2) — (4) [podrobnosti k obsahu seznamů]
+>
+> (2) V seznamu majetku je dlužník povinen označit jednotlivě svůj majetek, včetně pohledávek. U pohledávek stručně uvede skutečnosti, na kterých se zakládají, a uvede jejich výši; výslovně se dále vyjádří k jejich dobytnosti. U majetku, včetně pohledávek, o kterých probíhá soudní nebo jiné řízení, nebo ohledně nichž již bylo příslušným orgánem rozhodnuto, dlužník tato řízení (rozhodnutí) označí.
+>
+> (3) V seznamu závazků je dlužník povinen jako své věřitele označit všechny osoby, o kterých je mu známo, že vůči němu mají pohledávky nebo jiná majetková práva, nebo které vůči němu pohledávky nebo jiná majetková práva uplatňují. Jsou-li věřiteli dlužníka osoby dlužníkovi blízké nebo osoby, které tvoří s dlužníkem koncern21), musí dlužník tyto skutečnosti výslovně uvést. Dlužník v seznamu závazků uvede údaj o výši a splatnosti jednotlivých závazků a stručně uvede, které z pohledávek svých věřitelů popírá co do důvodu nebo co do výše a proč. Má-li dlužník věřitele, o kterých je mu známo, že proti němu mají právo na uspokojení ze zajištění, nebo kteří toto právo proti němu uplatňují, uvede je odděleně. U pohledávek těchto věřitelů dále označí věci, práva, pohledávky nebo jiné majetkové hodnoty, u kterých se uplatňuje uspokojení ze zajištění, včetně údaje o tom, které movité věci se nacházejí v držení věřitele nebo třetí osoby, dále označení druhu zajištění a důvodu jeho vzniku. Dále dlužník uvede, zda a v jakém rozsahu právo na uspokojení ze zajištění popírá a proč.
+>
+> (4) Nemá-li dlužník žádné zaměstnance nebo žádné dlužníky, uvede to v seznamech výslovně. Pro označení osob v seznamech platí § 103 odst. 1 obdobně. Předložené seznamy musí dlužník podepsat a výslovně v nich uvést, že jsou správné a úplné.
+
+### Přehled výkladu
+
+§ 104 odděluje přílohy od vlastního insolvenčního návrhu. Odstavec 1 určuje, co se přikládá; odstavce 2 až 4 stanoví obsah, identifikaci osob a autentizaci seznamů. Vadu návrhu je proto třeba odlišit od chybějící nebo vadné přílohy.
+
+### Souvisící ustanovení
+
+- **§ 3 odst. 2 písm. d)** — domněnka platební neschopnosti při nesplnění soudem uložené povinnosti předložit seznamy.
+- **§ 98 odst. 1** — povinnost dlužníka podat návrh bez zbytečného odkladu; na takový návrh míří výjimka z nejvýše sedmidenní doplňovací lhůty v § 128 odst. 2.
+- **§ 103 odst. 1, 3 a 4** — označení osob, oddělení příloh od návrhu a nedoručování dlužníkova návrhu.
+- **§ 106 odst. 1** — spojení insolvenčního návrhu s návrhem na povolení oddlužení nebo reorganizace.
+- **§ 128 odst. 1 až 3** — odmítnutí vadného návrhu, doplnění příloh a seznamy vyžádané od nenavrhujícího dlužníka.
+- **§ 136 odst. 2 písm. g)** — povinnost uložená dlužníku v rozhodnutí o úpadku, pokud seznamy dosud nesestavil.
+
+### Souvisící předpisy
+
+- **Zákon č. 99/1963 Sb., občanský soudní řád** — použije se přiměřeně jen nestanoví-li insolvenční zákon jinak (§ 7 insolvenčního zákona); zvláštní postup § 128 nelze nahrazovat obecnou výzvou podle § 43 o. s. ř.
+
+### Z důvodové zprávy
+
+Původní vládní návrh vysvětlil, že seznamy mají při poctivém zpracování poskytovat informace pro rychlý a účinný postup soudu. Seznam závazků má zachytit i pohledávky, které dlužník pokládá za nedůvodné, současně však má uvést, co a proč popírá; obdobně u zajištění. Důvodová zpráva rovněž zdůraznila podpis a prohlášení o správnosti a úplnosti a spojila nepředložení předepsaných příloh s možným odmítnutím podle § 128 odst. 2. (Sněmovní tisk 1120/0, zvláštní část, K § 103 a 104, číslované s. 182–183, PDF s. 183–184.)
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto odložení není negativní rešerší ani závěrem, že k § 104 literatura neexistuje.
 
 ### Výklad
 
-**Čtyři povinné přílohy** dlužníkova návrhu (mimo oddlužení, kde se seznamy upravují jinak — § 391 a násl.):
+[1] **Okruh příloh.** Dlužník připojuje seznam majetku, seznam zaměstnanců a listiny dokládající úpadek nebo hrozící úpadek. Seznam závazků podle písmene b) nepřipojuje, spojil-li s insolvenčním návrhem návrh na povolení oddlužení. Zákonná výjimka se týká právě tohoto seznamu; ostatní přílohy zůstávají textem odstavce 1 nedotčeny.
 
-**a) Seznam majetku** — *individualizovaně*:
-- jednotlivé položky majetku,
-- pohledávky se základem, výší, *vyjádřením k dobytnosti*,
-- souvisle: označení probíhajících sporů/exekucí.
+[2] **Seznam majetku.** Nestačí souhrnná účetní položka. Majetek, včetně každé pohledávky, se označuje jednotlivě. U pohledávky se uvádí její základ, výše a výslovné vyjádření k dobytnosti; dlužník označí také probíhající řízení a již vydaná rozhodnutí týkající se majetku.
 
-**b) Seznam závazků** — *individualizovaně*:
-- všichni věřitelé (kteří mají nebo uplatňují pohledávky),
-- *vyznačení spřízněných osob* (osoby blízké, koncern),
-- výše a splatnost závazků,
-- *popření* (co dlužník popírá co do důvodu/výše a proč),
-- *odděleně zajištění věřitelé* + identifikace zástavy + druh a důvod zajištění.
+[3] **Seznam závazků.** Zahrnuje nejen pohledávky, které dlužník uznává, ale všechny známé osoby, jež vůči němu pohledávku nebo jiné majetkové právo mají nebo je uplatňují. Uvede se výše a splatnost každého závazku, vztah osoby blízké či koncernový vztah, rozsah a důvod popření a odděleně úplné údaje o uplatňovaném zajištění. Samotný spor o pohledávku proto není důvodem k jejímu vynechání.
 
-**c) Seznam zaměstnanců** — pro koordinaci s pracovněprávními pohledávkami (§ 169).
+[4] **Negativní údaje a potvrzení seznamů.** Nemá-li dlužník zaměstnance nebo dlužníky, musí to výslovně uvést. Osoby označuje způsobem podle § 103 odst. 1. Každý předložený seznam podepíše a výslovně prohlásí za správný a úplný; mlčení ani nepodepsaná účetní sestava tyto náležitosti nenahrazují.
 
-**d) Listiny dokládající úpadek** — typicky účetní výkazy, výpisy z účtů, exekuční tituly proti dlužníkovi atd.
+[5] **Procesní následek vady.** Chybí-li předepsaná příloha nebo její náležitost, postupuje soud podle § 128 odst. 2: určí lhůtu k doplnění a po jejím marném uplynutí návrh odmítne. Lhůta nesmí přesáhnout sedm dnů, ledaže jde o insolvenční návrh podle § 98 odst. 1. To je jiný režim než přímé odmítnutí vadného samotného návrhu podle § 128 odst. 1.
 
-**Označení absence** (odst. 4): nemá-li dlužník zaměstnance / dlužníky → *výslovně uvést*. Předložené seznamy musí dlužník **podepsat** s prohlášením o správnosti a úplnosti.
+[6] **Nenavrhující dlužník.** Podle § 128 odst. 3 může soud seznamy vyžádat i po dlužníku, který návrh nepodal; má-li navrhovatel vykonatelnou pohledávku, uloží mu to vždy. Seznam majetku zveřejní v takovém případě až po rozhodnutí o úpadku. Nesplnění uložené povinnosti je zároveň skutečností, s níž § 3 odst. 2 písm. d) spojuje domněnku platební neschopnosti.
 
-### Vazby
+### Judikatura
 
-- **§ 105** — věřitelův návrh (jiný režim).
-- **§ 128 odst. 3** — možnost soudu uložit dlužníkovi předložit seznamy i kdyby nebyl navrhovatelem.
-- **§ 391** — návrh na oddlužení.
-
-### F. Kazuistika
-
-**1. Modelová situace.** Jednatel MÝ s. r. o. podá vlastní insolvenční návrh (firma není v oddlužení). K návrhu připojí jen účetní rozvahu. Seznam majetku neobsahuje vyjádření k dobytnosti pohledávek, seznam závazků neoznačuje spřízněné osoby ani zajištěné věřitele a žádný ze seznamů není podepsán s prohlášením o správnosti a úplnosti; firma má 8 zaměstnanců, ale seznam zaměstnanců chybí. Důkazy: připojené seznamy a jejich obsah, účetnictví, mzdová evidence.
-
-**2. Právní otázka.** Jsou splněny požadavky § 104 na povinné přílohy dlužnického návrhu a jaký je následek jejich neúplnosti?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 104 odst. 1 písm. a)–d) (seznam majetku, seznam závazků, seznam zaměstnanců, listiny dokládající úpadek), odst. 4 (výslovné uvedení absence + podpis a prohlášení o správnosti a úplnosti).
-- *Související ustanovení téhož zákona:* § 128 odst. 2 (výzva k doplnění příloh, lhůta zpravidla do 7 dnů, u dlužníka-podnikatele i delší), § 128 odst. 3 (soud může seznamy vyžádat i od nenavrhujícího dlužníka), § 169 (pracovněprávní pohledávky), § 391 (seznamy v režimu oddlužení).
-- *Související předpisy:* zákon o účetnictví (účetní závěrka jako listina dokládající úpadek).
-- *Judikatura:* k náležitostem seznamů chybí v komentáři citovaná judikatura; vychází se z textu § 104 a navazujícího § 128.
-
-**4. Subsumpce.** Seznam majetku bez vyjádření k dobytnosti pohledávek a seznam závazků bez označení spřízněných osob a zajištěných věřitelů **nesplňují** obsahové náležitosti (odst. 1). Chybějící seznam zaměstnanců při 8 zaměstnancích je vadou; absenci nelze nahradit mlčením — měla by být výslovně uvedena jen tehdy, není-li zaměstnanců (odst. 4). Chybí podpisy a prohlášení o správnosti a úplnosti.
-
-**5. Řešení.** Jde o vady **příloh** → postup podle § 128 odst. 2: soud určí lhůtu k doplnění (u dlužníka-podnikatele může být i delší než 7 dnů), při nedoplnění návrh odmítne. Praktický krok: doplnit individualizované seznamy (majetek včetně dobytnosti, závazky s vyznačením spřízněných a zajištěných věřitelů, popření spornych závazků), doplnit seznam zaměstnanců a opatřit vše podpisem s prohlášením. Riziko: prodlení s podáním (§ 98) a navazující odpovědnost.
-
-**6. Varianty.** (a) Dlužník spojí návrh s návrhem na oddlužení — seznam závazků v základním režimu odpadá a uplatní se zvláštní formuláře/seznamy podle § 391 a násl. (b) Dlužník není navrhovatelem, ale navrhující věřitel má vykonatelnou pohledávku — soud uloží předložení seznamů dlužníku vždy (§ 128 odst. 3), se zveřejněním až po rozhodnutí o úpadku.
-
-### G. Protiargumenty a rizika
-
-- *„Seznamy doplním později v řízení."* Riziko odmítnutí — § 128 odst. 2 stanoví lhůtu k doplnění a sankci odmítnutí; nelze spoléhat na neomezený odklad. Neutralizace: dodržet určenou lhůtu.
-- *„Účetní závěrka nahrazuje seznamy."* Neobstojí — seznamy jsou samostatné, individualizované přílohy s předepsaným obsahem a podpisem; závěrka je listina dokládající úpadek (písm. d), nikoli substitut seznamů.
-- Slabé místo: kvalita seznamů přímo ovlivňuje rychlost řízení a důvěryhodnost dlužníka (poctivý záměr); neúplné údaje o spřízněných osobách mohou vést k pozdějším odporovým a incidenčním sporům.
-
-### H. Praktický závěr
-
-Dlužnický návrh (mimo oddlužení) musí provázet čtyři individualizované přílohy — seznam majetku (s dobytností pohledávek), seznam závazků (se spřízněnými a zajištěnými věřiteli), seznam zaměstnanců a listiny dokládající úpadek; vše podepsané s prohlášením o správnosti. Vady příloh řeší výzva podle § 128 odst. 2, jinak odmítnutí.
-
-**Checklist (dlužník / advokát / soud):**
-- [ ] Obsahuje seznam majetku položky i vyjádření k dobytnosti pohledávek?
-- [ ] Označuje seznam závazků spřízněné osoby, zajištěné věřitele, výši, splatnost a popření?
-- [ ] Je přiložen seznam zaměstnanců (nebo výslovně uvedena jejich absence)?
-- [ ] Jsou připojeny listiny dokládající úpadek (účetní výkazy, výpisy, tituly)?
-- [ ] Jsou seznamy podepsány s prohlášením o správnosti a úplnosti?
-
-**Typicky rozhodné důkazy / podklady:** seznam majetku, seznam závazků, seznam zaměstnanců, účetní závěrka a výpisy z účtů, exekuční tituly proti dlužníku, podpisové prohlášení dlužníka o správnosti a úplnosti.
+**NS 29 NSČR 38/2010, 1. 3. 2012, ECLI:CZ:NS:2012:29.NSČR.38.2010.1, R 83/2012.** Ve věřitelském insolvenčním řízení dlužník ani po výzvě neuvedl v seznamu výši závazků. Nejvyšší soud po přezkumu řízení o úpadku uzavřel, že seznam závazků musí obsahovat výši i splatnost jednotlivých závazků a že požadavky na seznam se neliší podle toho, zda jej dlužník přikládá k vlastnímu návrhu, nebo jej předkládá na výzvu podle § 128 odst. 3. Rozhodnutí vycházelo ze staršího znění; jeho zde použitý závěr je časově použitelný, protože aktuální § 104 odst. 3 oba údaje výslovně vyžaduje.
 
 ---
 

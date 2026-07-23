@@ -1249,72 +1249,57 @@ Do této revize nebylo převzato žádné rozhodnutí. Stávající neurčitý o
 
 ## § 91 — Nepřípustnost odvolání proti dohlédací činnosti
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Proti rozhodnutím, která insolvenční soud učinil při výkonu dohlédací činnosti včetně předběžných opatření, není odvolání přípustné, pokud zákon nestanoví jinak.
 
-### Výklad — **KLÍČOVÉ OMEZENÍ**
+### Přehled výkladu
 
-**Generální nepřípustnost odvolání** proti rozhodnutím v rámci dohlédací činnosti (§ 10, § 11). Důvod — *operativnost* dohlédací činnosti, kterou by opakované přezkumy paralyzovaly.
+§ 91 vylučuje odvolání proti rozhodnutím vydaným při výkonu dohlédací činnosti. Rozhodující je povaha konkrétního rozhodnutí podle § 10 a § 11, nikoli pouze jeho označení, procesní význam nebo skutečnost, že bylo vydáno v insolvenčním řízení. Nejvyšší soud zdůrazňuje, že rozhodnutí, jehož vydání zákon ukládá nebo předpokládá podle § 10 písm. a), zásadně nelze současně považovat za dohlédací rozhodnutí podle § 10 písm. b). Dovětku „pokud zákon nestanoví jinak“ je třeba dát přednost před obecnou výlukou.
 
-#### Co spadá pod „dohlédací činnost"
+### Souvisící ustanovení
 
-- pokyny správci,
-- uložení povinnosti účastníkům,
-- většina usnesení o žádostech,
-- *předběžná opatření* (výslovně),
-- usnesení o nahlédnutí do spisu,
-- usnesení o ustanovení znalce atd.
+- § 7 — přiměřené použití občanského soudního řádu a zákona o zvláštních řízeních soudních,
+- § 10 písm. a) a b) — rozhodovací a dohlédací působnost insolvenčního soudu,
+- § 11 — obsah dohlédací činnosti,
+- § 92 až 95 — zvláštní pravidla pro projednání odvolání a autoremeduru.
 
-#### Výjimky („pokud zákon nestanoví jinak")
+### Souvisící předpisy
 
-Zákon explicitně připouští odvolání u:
-- *rozhodnutí o úpadku* (§ 138 — § 142),
-- *rozhodnutí o způsobu řešení* (§ 152),
-- *rozhodnutí o ustanovení správce* (§ 26),
-- *rozhodnutí o pohledávkách* (§ 192 a násl.),
-- *rozhodnutí o reorganizačním plánu* (§ 348),
-- *rozhodnutí o oddlužení* (§ 405, § 414),
-- atd.
+- § 201 o. s. ř. — obecné pravidlo přípustnosti odvolání proti rozhodnutí soudu prvního stupně,
+- § 202 o. s. ř. — obecné výluky z přípustnosti odvolání,
+- § 218 písm. c) o. s. ř. — odmítnutí odvolání směřujícího proti rozhodnutí, proti němuž není odvolání přípustné,
+- zákon č. 292/2013 Sb., o zvláštních řízeních soudních — subsidiárně jen za podmínek § 7 IZ.
 
-### Vazby
+### Z důvodové zprávy
 
-- **§ 10, § 11** — dohlédací činnost.
-- **§ 92 — § 95** — pravidla projednávání odvolání.
+Zvláštní část důvodové zprávy k vládnímu návrhu insolvenčního zákona (sněmovní tisk 1120/0, k § 91 až 96, číslovaná strana 178, PDF strana 178) hodnotí úpravu opravných prostředků jako významnou odchylku pro insolvenční řízení. Samostatný důvod k výluce v § 91 však nerozvádí; další text vysvětluje zejména urychlení a pořádkovou lhůtu podle § 92 a § 93. Z důvodové zprávy proto nelze dovozovat širší katalog dohlédacích rozhodnutí, než plyne ze zákona.
 
-### F. Kazuistika
+### Literatura
 
-**1. Modelová situace.** Insolvenční soud při výkonu dohlédací činnosti uloží správci pokyn ke způsobu zpeněžení a zamítne žádost věřitele Alfa o uložení jiného postupu; současně nařídí předběžné opatření. Alfa podá proti oběma rozhodnutím (pokyn i předběžné opatření) odvolání. Souběžně jiný účastník podá odvolání proti rozhodnutí o úpadku. Důkazy: rozhodnutí soudu (pokyn správci, předběžné opatření, rozhodnutí o úpadku), podaná odvolání, doklad o povaze napadených rozhodnutí.
+Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; její zpracování je odloženo do druhého kola.
 
-**2. Právní otázka.** Proti kterým rozhodnutím insolvenčního soudu je odvolání nepřípustné a kde naopak zákon odvolání připouští?
+### Výklad
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 91 IZ — proti rozhodnutím učiněným při výkonu dohlédací činnosti, včetně předběžných opatření, není odvolání přípustné, pokud zákon nestanoví jinak.
-- *Související ustanovení téhož zákona:* § 10, § 11 (dohlédací činnost), § 92–§ 95 (pravidla odvolání), § 138–§ 142 (odvolání proti rozhodnutí o úpadku), § 26 (odvolání proti ustanovení správce), § 152, § 192 a násl., § 348, § 405, § 414 (další přípustná odvolání).
-- *Související předpisy:* OSŘ — obecná úprava odvolání (modifikovaná IZ).
-- *Judikatura:* nosně NS k tomu, že nepřípustnost odvolání proti dohlédacím rozhodnutím je generální; přípustnost je třeba opřít o výslovné zákonné ustanovení.
+[1] § 10 rozlišuje dvě skupiny činnosti insolvenčního soudu. Podle písmene a) soud vydává rozhodnutí, jejichž vydání zákon ukládá nebo předpokládá. Podle písmene b) průběžně vykonává dohled nad postupem a činností ostatních procesních subjektů a rozhoduje o souvisejících záležitostech. Jen druhou skupinu zákon označuje jako dohlédací činnost.
 
-**4. Subsumpce.** Pokyn správci a zamítnutí žádosti věřitele jsou rozhodnutí v rámci dohlédací činnosti (§ 10, § 11) — odvolání proti nim je nepřípustné (§ 91). Předběžné opatření je rovněž výslovně podřazeno § 91 (nepřípustnost), avšak procesně se k jeho přezkumu váže zvláštní úprava (§ 92, § 93 řadí odvolání proti nařízení předběžného opatření mezi přednostní). Odvolání proti rozhodnutí o úpadku je naopak přípustné (§ 138 a násl. — „pokud zákon nestanoví jinak").
+[2] § 11 odst. 1 vymezuje dohled funkčně: jde o záležitosti týkající se průběhu řízení, opatření potřebná k zajištění jeho účelu a povinnosti týkající se činnosti jednotlivých subjektů. Odstavec 2 uvádí typické nástroje dohledu vůči insolvenčnímu správci, zejména vyžadování zpráv a vysvětlení, kontrolu účtů, šetření a pokyny.
 
-**5. Řešení.** Odvolání Alfy proti pokynu správci a proti zamítnutí žádosti soud jako nepřípustné odmítne (§ 91). U rozhodnutí o úpadku se odvolání věcně projedná (zrychleně dle § 92, § 93). Praktický krok: před podáním odvolání vždy ověřit, zda u daného typu rozhodnutí zákon odvolání výslovně připouští; jinak je odmítnutí jisté.
+[3] Výluku podle § 91 nelze založit jen na tom, že napadený výrok ovlivňuje průběh insolvenčního řízení. Nejprve je nutné určit zákonný základ rozhodnutí. Jestliže jeho vydání insolvenční zákon ukládá nebo předpokládá, jde zásadně o rozhodnutí podle § 10 písm. a), nikoli o dohlédací rozhodnutí podle písmene b).
 
-**6. Varianty.** (a) Kdyby rozhodnutí spadalo do některé z výslovných výjimek (úpadek, způsob řešení, ustanovení správce, pohledávky, reorganizační plán, oddlužení), odvolání by bylo přípustné. (b) Kdyby šlo o čistě dohlédací pokyn bez zákonné výjimky, odvolání je vyloučeno a nápravu lze hledat jen jinou cestou (návrh na změnu pokynu, dohled soudu).
+[4] U rozhodnutí podle § 10 písm. a) se přípustnost odvolání posuzuje podle konkrétní zvláštní úpravy a subsidiárních procesních předpisů prostřednictvím § 7 IZ. Podle aktuálního stanoviska Nejvyššího soudu obecně platí, že odvolání je proti takovému rozhodnutí přípustné, nestanoví-li insolvenční zákon nebo použitelný procesní předpis jinak.
 
-### G. Protiargumenty a rizika
+[5] U skutečně dohlédacího rozhodnutí odvolání přípustné není, ledaže zákon pro daný případ stanoví jinak. Zmínka o předběžných opatřeních v § 91 proto sama neřeší přípustnost každého jednotlivého předběžného opatření bez kontroly jeho zvláštní zákonné úpravy.
 
-- *Protiargument:* „Každé rozhodnutí soudu musí být přezkoumatelné odvoláním." — Neutralizace: § 91 generálně vylučuje odvolání proti dohlédacím rozhodnutím kvůli operativnosti; přezkum je zajištěn u zákonem vyjmenovaných meritorních rozhodnutí.
-- *Protiargument:* „Předběžné opatření je vždy odvoláním napadnutelné." — Neutralizace: § 91 je výslovně zahrnuje do nepřípustnosti; zvláštní zrychlený režim (§ 92, § 93) se týká těch případů, kde zákon přezkum připouští.
-- *Slabé místo:* hranice mezi dohlédacím a meritorním rozhodnutím může být sporná; nesprávné posouzení vede k odmítnutí odvolání nebo naopak k jeho neprojednání.
+[6] Směřuje-li odvolání proti rozhodnutí, proti němuž je podle tohoto testu nepřípustné, odvolací soud je odmítne podle § 218 písm. c) o. s. ř.
 
-### H. Praktický závěr
+[7] Intertemporálně je nutné použít znění insolvenčního zákona a subsidiárních procesních předpisů rozhodné pro napadené rozhodnutí. Samotný text § 91 je k 19. 7. 2026 shodný s textem obsaženým již ve vládním návrhu zákona; změny jiných ustanovení však mohou měnit zákonný základ a odvolatelnost konkrétního typu rozhodnutí.
 
-Proti dohlédacím rozhodnutím (a zásadně i předběžným opatřením) není odvolání přípustné; přípustnost je nutné opřít o výslovnou výjimku (úpadek, způsob řešení, správce, pohledávky, reorganizace, oddlužení).
+### Judikatura
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Posouzeno, zda napadené rozhodnutí je dohlédací (§ 10, § 11) — pak odvolání nepřípustné.
-- [ ] Ověřena existence výslovné zákonné výjimky připouštějící odvolání.
-- [ ] U nepřípustného odvolání zvážena jiná cesta nápravy (návrh na změnu pokynu, dohled).
-- [ ] U přípustného odvolání zohledněn zrychlený režim (§ 92, § 93).
-
-**Typicky rozhodné důkazy / podklady:** napadené rozhodnutí a jeho povaha, podané odvolání, odkaz na zákonné ustanovení o (ne)přípustnosti odvolání.
+**Stanovisko občanskoprávního a obchodního kolegia Nejvyššího soudu ze dne 11. 6. 2025, sp. zn. Cpjn 202/2025, ECLI:CZ:NS:2025:CPJN.202.2025.1.** Plný text řeší nejednotný postup soudů po novele účinné od 1. 10. 2024 při rozhodování o zálohách na odměnu a hotové výdaje insolvenčního správce podle § 136 odst. 3 a 5. Pro výklad § 91 jsou nosné body 41 až 45: Nejvyšší soud odlišil rozhodnutí podle § 10 písm. a) od dohlédacích rozhodnutí podle písm. b), odmítl zařazení rozhodnutí předpokládaných zákonem mezi rozhodnutí dohlédací a formuloval obecné pravidlo přípustnosti odvolání s výhradou zvláštních zákonných výluk. Stanovisko pracuje s aktuálním zněním procesních předpisů a je časově použitelné pro právní stav této revize.
 
 ---
 

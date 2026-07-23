@@ -84,94 +84,61 @@ Do tohoto kola nebyla zařazena žádná judikatorní citace. Dříve uváděná
 
 ## § 98 — Povinnost dlužníka podat IN
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Dlužník, který je právnickou osobou nebo fyzickou osobou - podnikatelem, je povinen podat insolvenční návrh bez zbytečného odkladu poté, co se dozvěděl nebo při náležité pečlivosti měl dozvědět o svém úpadku. Tuto povinnost má i tehdy, byl-li pravomocně zastaven výkon rozhodnutí prodejem jeho podniku nebo exekuce podle zvláštního právního předpisu proto, že cena majetku náležejícího k podniku nepřevyšuje výši závazků náležejících k podniku; to neplatí, má-li dlužník ještě jiný podnik.
->
 > (2) Povinnost podle odstavce 1 mají i zákonní zástupci dlužníka a jeho statutární orgán a likvidátor dlužníka, který je právnickou osobou v likvidaci. Je-li těchto osob více a jsou-li oprávněny jednat jménem dlužníka samostatně, má tuto povinnost každá z nich. Insolvenční návrh podávají jménem dlužníka.
->
-> (3) Povinnost podat insolvenční návrh podle odstavců 1 a 2 není splněna, bylo-li řízení o insolvenčním návrhu vinou navrhovatele zastaveno nebo byl-li jeho insolvenční návrh odmítnut.
->
-> (4) Po dobu trvání účinků všeobecného moratoria podle zákona o preventivní restrukturalizaci se odstavce 1 a 2 nepoužijí.
 > (3) Povinnost podat insolvenční návrh podle odstavců 1 a 2 není splněna, bylo-li řízení o insolvenčním návrhu vinou navrhovatele zastaveno nebo byl-li jeho insolvenční návrh odmítnut.
 > (4) Po dobu trvání účinků všeobecného moratoria podle zákona o preventivní restrukturalizaci se odstavce 1 a 2 nepoužijí.
 
-### Výklad — **VÝZNAMNÉ KORPORÁTNĚ-ODPOVĚDNOSTNÍ USTANOVENÍ**
+### Přehled výkladu
 
-**Aktivní povinnost** podat IN — pro:
-- *PO* (každá obchodní společnost, družstvo, spolek atd.),
-- *FO-podnikatelé* (OSVČ),
-- *jejich statutární orgány* (jednatelé, členové představenstva),
-- *zákonní zástupci* (typicky opatrovníci),
-- *likvidátor* PO v likvidaci.
+§ 98 ukládá právnické osobě a podnikající fyzické osobě podat vlastní insolvenční návrh bez zbytečného odkladu po skutečném nebo při náležité pečlivosti rozpoznatelném úpadku. U právnické osoby zákon ukládá tutéž povinnost vyjmenovaným osobám, které návrh podávají jejím jménem. Zákon nestanoví pevnou tolerovanou dobu prodlení. Podání nevede ke splnění povinnosti, jestliže je návrh odmítnut nebo řízení vinou navrhovatele zastaveno. Po dobu účinků všeobecného moratoria preventivní restrukturalizace se odstavce 1 a 2 nepoužijí.
 
-> *Pozor*: u sólo statutárů (a v.o.s.) má povinnost *každý z nich samostatně*. Nelze ji „delegovat" na jiného člena orgánu.
+### Souvisící ustanovení
 
-#### Časový aspekt — „bez zbytečného odkladu"
+- **§ 3** — úpadek a hrozící úpadek.
+- **§ 97 odst. 8** — osoby oprávněné podat insolvenční návrh.
+- **§ 99** — odpovědnost za škodu nebo jinou újmu při porušení povinnosti podle § 98.
+- **§ 100** — předběžné opatření k zajištění náhrady škody nebo jiné újmy.
+- **§ 103 a § 104** — obsah insolvenčního návrhu a přílohy dlužnického návrhu.
+- **§ 128** — odmítnutí insolvenčního návrhu a zastavení řízení pro nedoplnění příloh.
 
-*Standard kvalifikované péče*: dlužník (resp. orgán) musí podat **bez zbytečného odkladu** poté, co:
-- *dozvěděl se o úpadku*, nebo
-- *při náležité pečlivosti měl dozvědět*.
+### Souvisící předpisy
 
-V praxi se jedná o **dny až několik týdnů** — typicky NS akceptuje cca 30 dnů, ale závisí na kontextu (komplexnost financí, čekání na ověření hypotézy úpadku).
+- **Zákon č. 284/2023 Sb., o preventivní restrukturalizaci** — upravuje všeobecné moratorium, na jehož účinky navazuje § 98 odst. 4.
 
-**Speciálka pro exekuci/výkon rozhodnutí** (odst. 1 *in fine*) — pokud byla pravomocně zastavena exekuce prodejem podniku proto, že cena majetku nepřevyšuje závazky, dlužník **musí podat IN** (vyjma případů, kdy má ještě jiný podnik).
+### Z důvodové zprávy
 
-#### Nesplnění povinnosti (odst. 3)
+Původní důvodová zpráva uváděla, že povinnost podat návrh zůstává v zásadě upravena jako v předchozím právu. U právnické osoby ji spojovala s osobami, jejichž jednání je jednáním dlužníka, zejména se statutárními orgány, a výslovně ji nechtěla rozšířit na zmocněnce, například prokuristy. Navazující změny sankcí vysvětlovala novou soukromoprávní odpovědností podle § 99 a zajištěním podle § 100. Jde o historické vysvětlení původního návrhu; odstavec 4 byl doplněn až zákonem č. 284/2023 Sb. Pramen: vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, 4. volební období, zvláštní část „K § 98 až 100“, číslované s. 181–182 (PDF s. 182–183).
 
-Povinnost **není splněna**, pokud řízení skončilo zastavením vinou navrhovatele (typicky pro nesložení zálohy) nebo odmítnutím návrhu. Tedy formální *podání nezachraňuje* — musí dojít k řádnému zahájení a běhu řízení.
+### Literatura
 
-#### Výjimka — preventivní restrukturalizace (odst. 4)
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Toto odložení není negativní rešerší a nevypovídá o neexistenci relevantních publikací.
 
-Po dobu **všeobecného moratoria** podle ZPR se povinnost podat IN *suspenduje*. Účel — umožnit sanační pokusy v preventivním rámci.
+### Výklad
 
-### Vazby
+[1] **Povinný dlužník a okamžik vzniku povinnosti.** Odstavec 1 dopadá na dlužníka, který je právnickou osobou nebo fyzickou osobou-podnikatelem. Povinnost vzniká až při úpadku podle § 3, nikoli již při hrozícím úpadku. Rozhodný je okamžik, kdy se dlužník o úpadku dozvěděl nebo kdy se o něm při náležité pečlivosti dozvědět měl.
 
-- **§ 99** — odpovědnost za škodu při nesplnění.
-- **§ 3** — definice úpadku.
-- **§ 100** — předběžné opatření na zajištění škody.
-- **§ 224 TZ** — trestný čin předlužení.
-- **Zákon č. 284/2023 Sb. o preventivní restrukturalizaci**.
+[2] **Bez zbytečného odkladu.** Zákon neurčuje počet dnů ani obecný bezpečný časový přístav. Dobu mezi rozpoznáním úpadku a podáním návrhu je nutno hodnotit podle konkrétních okolností; nelze ji předem nahradit paušální lhůtou. Opatrné ověřování relevantních skutečností proto samo o sobě nezakládá právo vyčkat po předem určenou dobu.
+
+[3] **Zvláštní případ zastaveného prodeje podniku.** Povinnost zákon výslovně spojuje také s pravomocným zastavením výkonu rozhodnutí prodejem podniku nebo odpovídající exekuce z důvodu, že cena majetku podniku nepřevyšuje výši jeho závazků. Výjimkou je případ, kdy má dlužník ještě jiný podnik. Pro použití této věty musí být splněny právě zákonné znaky; nestačí jakékoli neúspěšné exekuční řízení.
+
+[4] **Osoby jednající za právnickou osobu.** Povinnost podle odstavce 1 mají také zákonní zástupci, statutární orgán a likvidátor právnické osoby v likvidaci. Je-li takových osob více a mohou-li za dlužníka jednat samostatně, má povinnost každá z nich. Návrh podávají jménem dlužníka. Text odstavce 2 neukládá tuto povinnost každému smluvnímu zmocněnci dlužníka.
+
+[5] **Řádné procesní pokračování.** Podle odstavce 3 není povinnost splněna, jestliže bylo řízení o návrhu vinou navrhovatele zastaveno nebo byl návrh odmítnut. Vedle včasnosti proto musí povinná osoba kontrolovat náležitosti dlužnického návrhu a jeho příloh zejména podle § 103 a § 104. Odstavec 3 však nelze bez dalšího rozšiřovat na jiné způsoby skončení řízení, které v něm nejsou uvedeny.
+
+[6] **Všeobecné moratorium.** Po dobu trvání účinků všeobecného moratoria podle zákona o preventivní restrukturalizaci se odstavce 1 a 2 nepoužijí. Toto pravidlo je textově vázáno na všeobecné moratorium; nelze je automaticky přenést na individuální moratorium ani z něj dovodit zánik povinnosti, která se posuzuje mimo dobu uvedených účinků.
+
+[7] **Následky porušení.** § 98 sám vymezuje povinnost a podmínky jejího splnění. Soukromoprávní odpovědnost věřiteli upravuje § 99 a její zajištění § 100; jejich jednotlivé předpoklady je nutno posoudit samostatně. Z pouhého zjištění prodlení proto bez dalšího neplyne výsledek konkrétního sporu o náhradu újmy.
+
+[8] **Intertemporalita.** Odstavec 4 vložil zákon č. 284/2023 Sb. s účinností od 23. 9. 2023. U staršího skutkového děje je třeba použít znění účinné v době, kdy měla být povinnost splněna, a nepřenášet dnešní výjimku ani dnešní číslování automaticky zpětně.
 
 ### Judikatura
 
-- **NS 29 Cdo 4035/2013**: standard „náležité pečlivosti" je *profesní* — statutární orgán musí mít přehled o cash-flow a stavu závazků. „Nevěděl jsem" zpravidla obstojí jen v situacích externí nebo zatajované informace.
-- **NS 29 Cdo 3963/2018**: pro vznik odpovědnosti **postačí**, aby se orgán dozvěděl o úpadku — není třeba prokazovat úmyslné zatajení.
-
-### F. Kazuistika
-
-**1. Modelová situace.** GAMA s. r. o. má jediného jednatele J. Ten od ledna ví, že firma neplatí dvěma dodavatelům faktury po splatnosti déle než 3 měsíce a že peněžní zůstatek nestačí na splatné závazky. Insolvenční návrh podá až v září, navíc poté, co byla pravomocně zastavena exekuce prodejem podniku, protože cena majetku podniku nepřevyšuje jeho závazky. Důkazy: účetní výkazy a saldokonto, bankovní výpisy (cash-flow), splatnostní přehled závazků, usnesení o zastavení exekuce, zápisy z jednání orgánů.
-
-**2. Právní otázka.** Splnil jednatel povinnost podat insolvenční návrh „bez zbytečného odkladu" podle § 98 odst. 1, podal-li jej s několikaměsíčním zpožděním po vzniku platební neschopnosti?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 98 odst. 1 a 2 — povinnost PO/FO-podnikatele a jejich statutárů podat návrh bez zbytečného odkladu; speciální spouštěč při zastavení exekuce prodejem podniku.
-- *Související ustanovení téhož zákona:* § 3 (definice úpadku — platební neschopnost, předlužení), § 99 (odpovědnost za škodu), § 100 (předběžné opatření na zajištění škody), § 98 odst. 3 (povinnost není splněna při zastavení vinou navrhovatele či odmítnutí).
-- *Související předpisy:* § 224 TZ (způsobení úpadku) a § 225 TZ (porušení povinnosti v insolvenčním řízení), § 159 OZ (péče řádného hospodáře).
-- *Judikatura:* NS 29 Cdo 4035/2013 (citováno) — standard „náležité pečlivosti" je profesní; NS 29 Cdo 3963/2018 (citováno) — postačí, že se orgán o úpadku dozvěděl.
-
-**4. Subsumpce.** Znak „dozvěděl se nebo měl dozvědět" je naplněn už v lednu (profesní standard — jednatel musí mít přehled o cash-flow). Znak „bez zbytečného odkladu" naplněn **není** — prodlení v řádu měsíců standard kvalifikované péče překračuje (NS toleruje řádově dny až cca několik týdnů). Speciální spouštěč podle odst. 1 in fine (zastavení exekuce prodejem podniku) povinnost potvrzuje, ledaže by dlužník měl ještě jiný podnik.
-
-**5. Řešení.** Povinnost byla porušena. Pravděpodobný výsledek: založení odpovědnosti za škodu vůči věřitelům podle § 99 (škoda = rozdíl mezi zjištěnou a uspokojenou pohledávkou). Praktické kroky věřitele: domáhat se předběžného opatření podle § 100 a posléze žaloby. Riziko jednatele: vedle soukromoprávní odpovědnosti i trestněprávní rovina. Alternativní výklad ve prospěch jednatele: prodlení odůvodněné objektivně (čekání na ověření hypotézy úpadku auditem) — ale jen krátkodobě.
-
-**6. Varianty.** (a) Po dobu trvání **všeobecného moratoria** podle ZPR se odst. 1 a 2 nepoužijí (odst. 4) — prodlení v tomto okně není porušením. (b) Jednatelů je více a každý je oprávněn jednat samostatně — povinnost má každý z nich samostatně, nelze ji „delegovat"; pasivita jednoho nezprošťuje ostatní.
-
-### G. Protiargumenty a rizika
-
-- *„Nevěděl jsem o úpadku."* Zpravidla neobstojí — standard je profesní (NS 29 Cdo 4035/2013); obrana uspěje jen u externí/zatajované informace. Neutralizace ze strany jednatele: doložit, kdy a proč nebylo lze úpadek rozpoznat.
-- *„Podal jsem návrh, byť pozdě."* Odst. 3: povinnost není splněna, bylo-li řízení zastaveno vinou navrhovatele nebo návrh odmítnut — pouhé podání nezachraňuje. Neutralizace: zajistit řádné zahájení a běh řízení (záloha, náležitosti).
-- Slabé místo: hranice „bez zbytečného odkladu" není číselně fixní; časový bod „měl dozvědět" se prokazuje obtížně a závisí na komplexnosti financí — klíčové je saldokonto a cash-flow v čase.
-
-### H. Praktický závěr
-
-Statutární orgán PO a FO-podnikatel musí podat návrh neprodleně po rozpoznání úpadku; zpoždění zakládá osobní odpovědnost za škodu věřitelům i riziko trestní. Suspendováno jen po dobu všeobecného moratoria podle ZPR.
-
-**Checklist (statutární orgán / advokát / věřitel):**
-- [ ] Nastal úpadek podle § 3 (platební neschopnost / předlužení) a kdy?
-- [ ] Kdy se orgán o úpadku dozvěděl nebo při náležité pečlivosti měl dozvědět?
-- [ ] Podán návrh bez zbytečného odkladu (řádově dny/týdny)?
-- [ ] Nebyla pravomocně zastavena exekuce prodejem podniku (spouštěč odst. 1)?
-- [ ] Neběží všeobecné moratorium podle ZPR (odst. 4)?
-
-**Typicky rozhodné důkazy / podklady:** účetní závěrky a saldokonto, bankovní výpisy a cash-flow, splatnostní přehled závazků, usnesení o zastavení exekuce prodejem podniku, zápisy z jednání statutárního orgánu, korespondence s věřiteli.
+Do tohoto kola nebyla zařazena žádná judikatorní citace. Dříve uváděná rozhodnutí 29 Cdo 4035/2013 a 29 Cdo 3963/2018 nebyla v podkladech doložena plnými oficiálními texty podporujícími připsané závěry, a proto byla odstraněna. Tím se nevyslovuje závěr o neexistenci relevantní judikatury.
 
 ---
 

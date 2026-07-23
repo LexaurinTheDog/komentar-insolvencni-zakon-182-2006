@@ -1132,75 +1132,61 @@ Do této revize nebylo převzato žádné rozhodnutí, protože pro dříve uvá
 
 ## § 89 — Účinnost rozhodnutí
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Není-li dále stanoveno jinak, rozhodnutí insolvenčního soudu vydaná v insolvenčním řízení jsou účinná okamžikem jejich zveřejnění v insolvenčním rejstříku.
 > (2) Rozhodnutí vydaná v insolvenčním řízení v průběhu jednání nebo hned po skončení jednání, jsou proti všem účastníkům insolvenčního řízení a insolvenčnímu správci účinná, jakmile jsou vyhlášena účastníkům a insolvenčnímu správci, kteří byli při jednání přítomní; rozhodnutí ve věci samé jsou v takovém případě proti všem účastníkům insolvenčního řízení a insolvenčnímu správci účinná, jakmile je insolvenční soud vyhlásí veřejně.
 > (3) Ukládá-li zákon insolvenčnímu soudu zveřejnit rozhodnutí podle odstavce 2 v insolvenčním rejstříku, učiní tak nejpozději do konce pracovního dne nejblíže následujícího po dni jednání, při kterém bylo rozhodnutí vyhlášeno. Namísto úplného znění vyhlášeného rozhodnutí lze takto zveřejnit vhodně zkrácené znění rozhodnutí. Zkrácené znění rozhodnutí zpravidla neobsahuje odůvodnění. Povinnost zveřejnit v insolvenčním rejstříku úplné znění vyhlášeného rozhodnutí neprodleně poté, co bude vyhotoveno písemně, tím není dotčena. Účinky rozhodnutí podle odstavce 2 nastávají již zveřejněním jeho zkráceného znění v insolvenčním rejstříku; takové zveřejnění však nemá účinky doručení rozhodnutí.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *NS* [29 Cdo 311/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8645493EE9D1AECCC1257F6A002A8991?openDocument) — kat. A, 25. 11. 2015
-  > „Neurčí-li insolvenční soud jinak v usnesení, jímž zamítá insolvenční návrh, zanikají účinky spojené se zahájením insolvenčního řízení nejpozději okamžikem zveřejnění tohoto usnesení v insolvenčním rejstříku. Usnesení, jímž odvolací soud zrušil usnesení o zamítnutí insolvenčního návrhu a věc vrátil insolvenčnímu soudu k dalšímu řízení, se stává účinným nejpozději okamžikem zveřejnění tohoto usnesení v insolvenčním rejstříku (jenž je vždy též okamžikem právní moci takového usnesení) …"
+§ 89 určuje, od kterého okamžiku rozhodnutí insolvenčního soudu vyvolává účinky. Základním pravidlem je zveřejnění rozhodnutí v insolvenčním rejstříku. Pro rozhodnutí vydaná při jednání nebo hned po něm stanoví odstavec 2 zvláštní účinky vyhlášení; odstavec 3 upravuje následné zveřejnění, včetně možnosti zveřejnit za zákonných podmínek zkrácené znění. Účinnost rozhodnutí nelze bez dalšího zaměňovat s jeho doručením, právní mocí ani vykonatelností.
 
-### Výklad — **DŮLEŽITÝ PARAGRAF**
+### Souvisící ustanovení
 
-**Účinnost = okamžik účinnosti rozhodnutí proti účastníkům** (ne *právní moc* — ta nastává až po uplynutí odvolací lhůty).
+- **§ 71 až 75** — doručování, zvláštní doručení a právní moc rozhodnutí doručovaných vyhláškou.
+- **§ 80** — zveřejňování soudních rozhodnutí a jiných písemností v insolvenčním rejstříku.
+- **§ 85** — jednání v insolvenčním řízení.
+- **§ 90 až 94** — odklad vykonatelnosti a právní moci a zvláštní pravidla odvolacího řízení.
+- **§ 136, § 140a a § 146** — zvláštní účinky vybraných rozhodnutí a jejich vazba na účinnost rozhodnutí.
+- **§ 419 až 425** — insolvenční rejstřík.
 
-#### Tři režimy účinnosti
+### Souvisící předpisy
 
-**A) Vyhláškové rozhodnutí (odst. 1):**
-- účinné **okamžikem zveřejnění v rejstříku**,
-- standardní cesta pro většinu rozhodnutí.
+- **Zákon č. 99/1963 Sb., občanský soudní řád:** zejména § 156 odst. 2 a § 167 odst. 2 o vyhlášení rozsudku a přiměřeném použití pravidel o rozsudku na usnesení; použitelnost v insolvenčním řízení podléhá § 7 IZ.
+- **Zákon č. 294/2013 Sb.:** čl. I bod 52 nahradil § 89 odst. 3 nynějším zněním; podle čl. IV nabyl zákon účinnosti 1. 1. 2014.
 
-**B) Rozhodnutí vyhlášené při jednání (odst. 2):**
-- *vůči přítomným*: účinné **okamžikem vyhlášení** (přede dvojí faktem zveřejnění!),
-- *věcná rozhodnutí*: účinné **vyhlášením veřejně**.
+### Z důvodové zprávy
 
-**C) Zkrácené znění (odst. 3):**
-- soud má povinnost zveřejnit v rejstříku **do konce pracovního dne následujícího** po vyhlášení,
-- možnost zveřejnit jen *zkrácené znění* (typicky výrok bez odůvodnění),
-- pak povinnost zveřejnit úplné znění po vyhotovení,
-- *účinnost zkráceného znění*: nastává, ale **nemá účinky doručení**.
+Původní důvodová zpráva k vládnímu návrhu insolvenčního zákona označila § 89 odst. 1 za obecnou zásadu bezprostřední účinnosti rozhodnutí zveřejněním v insolvenčním rejstříku a odstavec 2 za úpravu účinnosti rozhodnutí vydaných při jednání nebo ihned po něm vůči přítomným účastníkům a insolvenčnímu správci. Jde o sněmovní tisk 1120/0, 4. volební období, zvláštní část „K § 89“, číslovaná s. 176 (PDF s. 177). Tato původní pasáž nevysvětluje nynější podobu odstavce 3, která pochází z pozdější novelizace.
 
-### Vazby
+### Literatura
 
-- **§ 71** — doručení vyhláškou.
-- **§ 92** — vyřízení odvolání (zrychlený režim).
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento oddíl není výsledkem negativní literární rešerše.
 
-### F. Kazuistika
+### Výklad
 
-**1. Modelová situace.** Insolvenční soud při jednání vyhlásí rozhodnutí ve věci samé; přítomní účastníci a správce jsou tak okamžitě vázáni. Úplné písemné vyhotovení ještě není hotové, soud proto téhož či následujícího pracovního dne zveřejní v rejstříku jen zkrácené znění (výrok bez odůvodnění). Věřitel, který u jednání nebyl, počítá odvolací lhůtu od zveřejnění zkráceného znění a tvrdí, že mu tím bylo i doručeno. Důkazy: protokol o vyhlášení rozhodnutí při jednání, výpis z rejstříku se zveřejněním zkráceného znění a později úplného znění.
+[1] Odstavec 1 je obecné pravidlo s výhradou zvláštní úpravy v insolvenčním zákoně. Rozhodným okamžikem není pouhý den, nýbrž okamžik zveřejnění v insolvenčním rejstříku. Při aplikaci je proto třeba určit konkrétní dokument a údaj o jeho zveřejnění.
 
-**2. Právní otázka.** Od kterého okamžiku je rozhodnutí účinné vůči přítomným a vůči ostatním a má zveřejnění zkráceného znění účinky doručení?
+[2] Odstavec 2 dopadá jen na rozhodnutí vydaná v průběhu jednání nebo hned po jeho skončení. Vůči účastníkům a insolvenčnímu správci, kteří byli při jednání přítomni, nastává účinnost vyhlášením jim. Jde-li v této situaci o rozhodnutí ve věci samé, veřejné vyhlášení zakládá účinnost vůči všem účastníkům insolvenčního řízení a insolvenčnímu správci.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 89 IZ — rozhodnutí jsou účinná okamžikem zveřejnění v rejstříku (odst. 1); rozhodnutí vyhlášená při jednání jsou vůči přítomným účinná okamžikem vyhlášení, meritorní vůči všem okamžikem veřejného vyhlášení (odst. 2); zkrácené znění se zveřejní nejpozději do konce následujícího pracovního dne, účinky nastávají i u zkráceného znění, to však nemá účinky doručení (odst. 3).
-- *Související ustanovení téhož zákona:* § 71 (doručení vyhláškou a jeho okamžik), § 80 odst. 3 (právo na bezplatný stejnopis), § 92 (zrychlený režim odvolání).
-- *Související předpisy:* OSŘ subsidiárně (vyhlášení a vyhotovení rozhodnutí).
-- *Judikatura:* NS 29 Cdo 311/2015 — účinnost (a u zrušujícího usnesení i právní moc) nastává nejpozději okamžikem zveřejnění v rejstříku; rozlišení účinnosti a doručení.
+[3] Zákonný text nedovoluje převést druhou větu odstavce 2 na všechna rozhodnutí vyhlášená při jednání: účinek veřejného vyhlášení vůči všem váže výslovně na rozhodnutí ve věci samé. U jiného rozhodnutí je třeba odlišit přítomné adresáty podle první věty od ostatních osob a posoudit zveřejnění podle odstavců 1 a 3.
 
-**4. Subsumpce.** Vůči přítomným účastníkům a správci je rozhodnutí účinné okamžikem vyhlášení (odst. 2). Zveřejněné zkrácené znění zakládá účinky rozhodnutí (odst. 3), ale NEnaplňuje znak „doručení" — počátek odvolací lhůty se proto neodvíjí od zveřejnění zkráceného znění jako od doručení. Námitka věřitele (počátek lhůty = zveřejnění zkráceného znění coby doručení) je nesprávná.
+[4] Odstavec 3 navazuje na rozhodnutí podle odstavce 2, jehož zveřejnění ukládá zákon. Zveřejnění musí následovat nejpozději do konce nejblíže následujícího pracovního dne po dni jednání. Namísto úplného znění lze zveřejnit vhodně zkrácené znění, zpravidla bez odůvodnění; úplné znění však musí být po písemném vyhotovení zveřejněno neprodleně.
 
-**5. Řešení.** Účinnost a doručení je třeba odlišit: zkrácené znění je účinné, ale nedoručuje; doručení (a tím počátek lhůty u vyhláškově doručovaných rozhodnutí) se váže na zveřejnění úplného znění, resp. na pravidla § 71. Věřitel má právo na bezplatný stejnopis (§ 80 odst. 3). Praktický krok: soud musí úplné znění zveřejnit neprodleně po vyhotovení.
+[5] Zveřejnění zkráceného znění vyvolává účinky rozhodnutí podle odstavce 2, nemá však účinky doručení. Z této věty samotné proto nelze určit počátek konkrétní odvolací nebo jiné procesní lhůty. Nejprve je nutno zjistit, zda a komu se dané rozhodnutí doručuje vyhláškou nebo zvlášť, a použít § 71 až 75 spolu se zvláštní úpravou příslušného rozhodnutí.
 
-**6. Varianty.** (a) Kdyby rozhodnutí nebylo vyhlášeno při jednání, uplatnil by se prostý režim odst. 1 (účinnost okamžikem zveřejnění). (b) Kdyby šlo o zrušující usnesení odvolacího soudu, jeho účinnost (a právní moc) nastává nejpozději zveřejněním v rejstříku (NS 29 Cdo 311/2015).
+[6] Účinnost, doručení, právní moc a vykonatelnost jsou rozdílné procesní vlastnosti. Mohou nastat v různých okamžicích, v jednotlivém zákonném režimu se však některé okamžiky mohou krýt. § 89 upravuje účinnost; sám nestanoví obecné pravidlo pro právní moc ani pro běh všech opravných lhůt.
 
-### G. Protiargumenty a rizika
+[7] Pro praxi je rozhodné uchovat protokol o jednání a údaje insolvenčního rejstříku o zveřejnění zkráceného i úplného znění. Teprve jejich porovnáním lze ověřit, zda byly splněny předpoklady jednotlivých vět § 89 a který okamžik je relevantní pro konkrétní procesní následek.
 
-- *Protiargument:* „Zveřejnění zkráceného znění je zároveň doručením, od něhož běží lhůty." — Neutralizace: odst. 3 výslovně stanoví, že zveřejnění zkráceného znění nemá účinky doručení.
-- *Protiargument:* „Účinnost a právní moc jsou totéž." — Neutralizace: účinnost nastává zveřejněním/vyhlášením, právní moc až uplynutím lhůt; NS 29 Cdo 311/2015 obojí rozlišuje.
-- *Slabé místo:* nutno doložit okamžik vyhlášení (protokol) i okamžiky zveřejnění zkráceného a úplného znění; jejich záměna vede k chybnému počítání lhůt.
+[8] Komentář vychází ze znění účinného k 19. 7. 2026. Nynější odstavec 3 byl zaveden zákonem č. 294/2013 Sb. s účinností od 1. 1. 2014. Starší procesní úkony je proto třeba hodnotit podle tehdy účinného znění; úplná genealogie všech změn § 89 zde není vydávána za dokončenou.
 
-### H. Praktický závěr
+### Judikatura
 
-Rozlišujte účinnost (zveřejnění/vyhlášení) a doručení: zkrácené znění je účinné, ale nedoručuje; lhůty se počítají dle pravidel doručení (§ 71), nikoli od zkráceného znění. Vyžádejte bezplatný stejnopis.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Rozlišena účinnost (odst. 1, 2) od doručení (odst. 3 — zkrácené znění nedoručuje).
-- [ ] U rozhodnutí vyhlášeného při jednání zohledněna účinnost vůči přítomným okamžikem vyhlášení.
-- [ ] Zajištěno/ohlídáno zveřejnění úplného znění neprodleně po vyhotovení.
-- [ ] Při zveřejnění jen zkráceného znění uplatněno právo na bezplatný stejnopis (§ 80 odst. 3).
-
-**Typicky rozhodné důkazy / podklady:** protokol o vyhlášení rozhodnutí, výpis z ISIR se zveřejněním zkráceného a úplného znění, případná žádost o stejnopis.
+Do této revize nebylo převzato žádné rozhodnutí, protože v centrálním zdrojovém korpusu nebyl k dispozici fyzický oficiální snapshot, který by dovolil uzavřít reprodukovatelný ledger soudního pramene. Tím se nevyslovuje závěr o neexistenci relevantní judikatury; její produkční zařazení zůstává otevřeno pro další kolo.
 
 ---
 

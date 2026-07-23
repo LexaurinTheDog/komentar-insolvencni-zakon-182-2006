@@ -1305,63 +1305,51 @@ Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; její zpra
 
 ## § 92 — Zrychlený režim projednání odvolání
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Odvolací soud je povinen projednat a rozhodnout odvolání proti rozhodnutím soudu prvního stupně vydaným v insolvenčním řízení s nejvyšším urychlením, a to nejprve odvolání proti rozhodnutí o odmítnutí insolvenčního návrhu pro zjevnou bezdůvodnost, proti rozhodnutí o nařízení předběžného opatření, proti rozhodnutí o úpadku, proti rozhodnutí o způsobu řešení úpadku a proti rozhodnutí o schválení reorganizačního plánu.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *NS* [30 Cdo 3271/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E7EF47127EB5CBC2C1257CDD002D0A3D?openDocument) — kat. A, 24. 4. 2014
-  > „K nesprávnému úřednímu postupu podle § 13 odst. 1, věta druhá, zákona č. 82/1998 Sb. nemůže dojít, nestanoví-li zákon konkrétní lhůtu, počítanou podle hodin, dnů, týdnů, měsíců nebo roků, v níž má být úkon proveden nebo rozhodnutí vydáno. Případné prodlení soudu s vydáním nemeritorního rozhodnutí je třeba posoudit z hlediska porušení povinnosti učinit úkon v době zákonem stanovené nebo přiměřené ve smyslu § 13 odst. 1, věta druhá a třetí, zákona č. 82/1998 Sb., nikoliv z hlediska porušení povinnosti vydat rozhodnutí"
+Ustanovení obsahuje dva navazující příkazy. Všechna odvolání, která spadají do jeho vymezení, musí odvolací soud projednat a rozhodnout s nejvyšším urychlením. Z nich musí nejprve vyřídit pět výslovně uvedených kategorií. § 92 sám nestanoví číselnou lhůtu ani pravidlo přípustnosti odvolání.
+
+### Souvisící ustanovení
+
+- § 7 — přiměřené použití občanského soudního řádu, nestanoví-li insolvenční zákon jinak nebo není-li takový postup v rozporu se zásadami insolvenčního řízení.
+- § 91 — nepřípustnost odvolání proti rozhodnutím učiněným při výkonu dohlédací činnosti včetně předběžných opatření, nestanoví-li zákon jinak.
+- § 93 — zvláštní předložení věci a dvouměsíční lhůta pro odvolání proti nařízení předběžného opatření, rozhodnutí o úpadku, o způsobu řešení úpadku a o schválení reorganizačního plánu.
+- § 94 a § 95 — jednání odvolacího soudu a autoremedura.
+- § 128a — odmítnutí insolvenčního návrhu pro zjevnou bezdůvodnost.
+
+### Souvisící předpisy
+
+- § 201 až 226 zákona č. 99/1963 Sb., občanský soudní řád — obecná úprava odvolání, použitelná v mezích § 7 insolvenčního zákona.
+
+### Z důvodové zprávy
+
+Zvláštní část důvodové zprávy k vládnímu návrhu insolvenčního zákona (sněmovní tisk 1120/0, k § 91 až 96, číslovaná strana 178, PDF strany 178–179) spojuje § 92 s urychlením řízení o opravných prostředcích a s přednostním projednáním tehdy uvedených významných rozhodnutí. Vysvětluje také návaznost na § 93 a význam rozhodnutí podrobených dvouměsíční pořádkové lhůtě. Jde o historický pramen k původnímu návrhu; dnešní širší výčet je nutno číst podle aktuálního znění a pozdějších novel.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní literární rešerše.
 
 ### Výklad
 
-**Priorizovaná projednací povinnost** vrchního soudu. Pět taxativních „přednostních" kategorií:
-1. odmítnutí návrhu pro zjevnou bezdůvodnost,
-2. nařízení předběžného opatření,
-3. rozhodnutí o úpadku,
-4. rozhodnutí o způsobu řešení úpadku,
-5. schválení reorganizačního plánu.
+[1] **Rozsah příkazu k urychlení.** Větná stavba § 92 vztahuje požadavek „s nejvyšším urychlením“ na všechna odvolání proti rozhodnutím soudu prvního stupně vydaným v insolvenčním řízení. Slova „a to nejprve“ potom uvnitř této množiny zakládají dodatečnou prioritu pěti vyjmenovaných kategorií. Výčet je tedy uzavřený pro tuto zvláštní prioritu, nikoli pro samotný příkaz nejvyššího urychlení.
 
-> *Důvod*: tyto rozhodnutí mají *systémový dopad* — určují další směřování řízení. Zdlouhavé odvolací řízení by paralyzovalo celý spis.
+[2] **Pět přednostních kategorií.** Nejprve se projednají a rozhodnou odvolání proti (i) odmítnutí insolvenčního návrhu pro zjevnou bezdůvodnost, (ii) nařízení předběžného opatření, (iii) rozhodnutí o úpadku, (iv) rozhodnutí o způsobu řešení úpadku a (v) schválení reorganizačního plánu. § 92 neurčuje vzájemné pořadí uvnitř této skupiny.
 
-### Vazby
+[3] **Přípustnost je samostatná otázka.** § 92 stanoví tempo a prioritu projednání; nezakládá přípustnost odvolání. Tu je nutno posoudit podle konkrétního napadeného rozhodnutí, zejména s ohledem na § 91 a zvláštní ustanovení insolvenčního zákona.
 
-- **§ 93** — konkrétní lhůta 2 měsíců.
+[4] **Vztah k § 93.** Dvouměsíční lhůta podle § 93 odst. 2 se vztahuje jen na čtyři rozhodnutí uvedená v § 93 odst. 1. Odvolání proti odmítnutí insolvenčního návrhu pro zjevnou bezdůvodnost mezi nimi není. I na ně však dopadá nejvyšší urychlení a přednost podle § 92.
 
-### F. Kazuistika
+[5] **Novelizace a časová použitelnost.** Zákon č. 294/2013 Sb. v čl. I bodu 54 přepsal § 92 a zahrnul do přednostní skupiny schválení reorganizačního plánu. Zákon č. 64/2017 Sb. v čl. I bodu 26 doplnil odmítnutí insolvenčního návrhu pro zjevnou bezdůvodnost. U starší procesní situace je proto nutno ověřit znění použitelné v rozhodné době; původní důvodová zpráva pozdější rozšíření nedokládá.
 
-**1. Modelová situace.** U vrchního (odvolacího) soudu se sešla čtyři odvolání téhož spisu: proti odmítnutí insolvenčního návrhu pro zjevnou bezdůvodnost, proti nařízení předběžného opatření, proti rozhodnutí o úpadku a proti rozhodnutí o nákladech vedlejšího incidenčního sporu. Odvolací soud řeší pořadí, v jakém se jimi má zabývat, a tempo vyřízení. Účastník namítá průtahy. Důkazy: spis s předloženými odvoláními, data předložení věci, povaha jednotlivých napadených rozhodnutí.
+### Judikatura
 
-**2. Právní otázka.** Která odvolání musí odvolací soud projednat přednostně a s jakou intenzitou urychlení?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 92 IZ — odvolací soud je povinen projednat a rozhodnout odvolání s nejvyšším urychlením, a to nejprve odvolání proti: odmítnutí návrhu pro zjevnou bezdůvodnost, nařízení předběžného opatření, rozhodnutí o úpadku, rozhodnutí o způsobu řešení úpadku a schválení reorganizačního plánu.
-- *Související ustanovení téhož zákona:* § 93 (konkrétní lhůta 2 měsíce a postup předložení), § 91 (přípustnost odvolání).
-- *Související předpisy:* čl. 38 odst. 2 Listiny (projednání bez zbytečných průtahů); zákon č. 82/1998 Sb. (odpovědnost za nesprávný úřední postup).
-- *Judikatura:* NS 30 Cdo 3271/2012 — nesprávným úředním postupem dle § 13 odst. 1 věty druhé zák. č. 82/1998 Sb. nelze rozumět nedodržení neexistující konkrétní lhůty; prodlení u nemeritorních rozhodnutí se posuzuje z hlediska přiměřené doby.
-
-**4. Subsumpce.** Tři z odvolání (odmítnutí pro zjevnou bezdůvodnost, předběžné opatření, rozhodnutí o úpadku) spadají do taxativního výčtu přednostních kategorií § 92 — musí být projednána nejprve a s nejvyšším urychlením. Odvolání proti nákladům incidenčního sporu do přednostního výčtu nepatří; projedná se v běžném (byť obecně urychleném) režimu.
-
-**5. Řešení.** Odvolací soud vyřídí nejprve tři přednostní odvolání (s nejvyšším urychlením), poté ostatní. Namítané průtahy se posuzují podle přiměřenosti doby; u přednostních věcí je měřítko přísnější. Praktický krok: účastník může na prioritu upozornit, ale nemůže vynutit konkrétní pořadí mimo zákonný výčet.
-
-**6. Varianty.** (a) Kdyby mezi odvoláními bylo i odvolání proti schválení reorganizačního plánu, patřilo by rovněž do přednostního výčtu. (b) Kdyby šlo jen o odvolání nespadající do výčtu (např. náklady), aplikovala by se obecná povinnost urychlení bez zákonné priority dle § 92.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Soud musí všechna odvolání vyřídit ve stejném tempu." — Neutralizace: § 92 stanoví taxativní pořadí přednostních kategorií, které mají systémový dopad na směřování řízení.
-- *Protiargument:* „Nedodržení urychlení je bez dalšího nesprávným úředním postupem." — Neutralizace: NS 30 Cdo 3271/2012 — bez konkrétní zákonné lhůty se posuzuje přiměřenost doby, nikoli porušení pevné lhůty.
-- *Slabé místo:* „nejvyšší urychlení" je relativní pojem; jeho naplnění se hodnotí podle okolností, zatížení soudu a povahy věci.
-
-### H. Praktický závěr
-
-Odvolací soud projednává přednostně a s nejvyšším urychlením pět zákonem vyjmenovaných typů odvolání (zjevná bezdůvodnost, předběžné opatření, úpadek, způsob řešení, reorganizační plán); ostatní v obecně urychleném režimu.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Identifikováno, zda odvolání spadá do taxativního přednostního výčtu § 92.
-- [ ] Přednostní odvolání zařazena k projednání nejprve a s nejvyšším urychlením.
-- [ ] U namítaných průtahů posouzena přiměřenost doby (NS 30 Cdo 3271/2012).
-- [ ] Zohledněna návaznost na konkrétní lhůtu a postup dle § 93.
-
-**Typicky rozhodné důkazy / podklady:** spis s předloženými odvoláními, data předložení věci odvolacímu soudu, povaha napadených rozhodnutí.
+Do této revize nebylo převzato žádné rozhodnutí. Dříve uvedené rozhodnutí Nejvyššího soudu sp. zn. 30 Cdo 3271/2012 nebylo pro tuto jednotku podloženo uloženým a znovu otevřeným plným textem z oficiálního webu; místní metadata a právní věta standard primárních pramenů nenahrazují. Tím se nevyslovuje závěr o neexistenci relevantní judikatury.
 
 ---
 

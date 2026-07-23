@@ -631,68 +631,63 @@ Do tohoto kola nebylo zařazeno rozhodnutí, jehož plný text by byl ověřen j
 
 ## § 107 — Přistoupení dalšího navrhovatele
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Další insolvenční návrh podaný na majetek téhož dlužníka dříve, než insolvenční soud vydá rozhodnutí o úpadku, se považuje za přistoupení k řízení. Od okamžiku, kdy takový návrh dojde insolvenčnímu soudu, u kterého probíhá řízení o původním insolvenčním návrhu, se osoba, která jej podala, považuje za dalšího insolvenčního navrhovatele.
 > (2) Pro dalšího insolvenčního navrhovatele platí stav řízení v době jeho přistoupení k řízení.
-> (3) — (6) [další detaily]
+> (3) Podle odstavců 1 a 2 se nepostupuje, byl-li další insolvenční návrh podán v době, po kterou se na základě rozhodnutí podle § 100a odst. 1 insolvenční návrh dříve podaný věřitelem ani jiné dokumenty v insolvenčním spise nezveřejňují v insolvenčním rejstříku. Dříve podaný insolvenční návrh se považuje za přistoupení k řízení zahájenému později podaným insolvenčním návrhem zveřejněným v insolvenčním rejstříku; odstavec 1 věta druhá a odstavec 2 se použijí obdobně.
+> (4) Byl-li další insolvenční návrh podán v době, kdy insolvenční soud již rozhodl o původním insolvenčním návrhu jinak než rozhodnutím o úpadku, avšak toto rozhodnutí dosud nedoručil účastníkům insolvenčního řízení, insolvenční soud vydané rozhodnutí doručí i dalšímu insolvenčnímu navrhovateli. Došel-li další insolvenční návrh insolvenčnímu soudu až po doručení rozhodnutí o původním insolvenčním návrhu, avšak předtím, než toto rozhodnutí nabylo právní moci, může další insolvenční navrhovatel podat proti takovému rozhodnutí odvolání ve lhůtě počítané od jeho doručení poslednímu z těch účastníků, kteří jsou oprávněni podat proti rozhodnutí odvolání; to neplatí, jestliže rozhodnutí o původním insolvenčním návrhu bylo dalšímu insolvenčnímu navrhovateli již dříve doručeno.
+> (5) K dalšímu insolvenčnímu návrhu podanému poté, co insolvenční soud vydal rozhodnutí o úpadku, se nepřihlíží. Je-li součástí dalšího insolvenčního návrhu i návrh na způsob řešení dlužníkova úpadku, který byl podán dříve, než insolvenční soud o způsobu řešení dlužníkova úpadku rozhodl, zůstávají účinky návrhu na způsob řešení dlužníkova úpadku zachovány.
+> (6) Stejnopis dalšího insolvenčního návrhu podaného jinou osobou než dlužníkem se doručuje pouze dosavadnímu insolvenčnímu navrhovateli a dlužníku, a to do vlastních rukou.
+
+### Přehled výkladu
+
+§ 107 soustřeďuje další návrhy proti témuž dlužníku do již probíhajícího řízení. Základní pravidlo přistoupení před rozhodnutím o úpadku doplňují zvláštní pravidla pro dočasně nezveřejněný věřitelský návrh, pro další návrh došlý po jiném rozhodnutí o původním návrhu a pro návrh došlý po rozhodnutí o úpadku. Rozhodné jsou zejména okamžiky dojití návrhu, vydání a doručení rozhodnutí a nabytí jeho právní moci.
+
+### Souvisící ustanovení
+
+- **§ 100a odst. 1 a § 101 odst. 4** — dočasné nezveřejnění věřitelského návrhu a následná publicita.
+- **§ 103 až 105** — náležitosti a přílohy insolvenčního návrhu; § 107 další návrh těchto požadavků nezbavuje.
+- **§ 108 odst. 1** — výjimka z povinné zálohy v případech podle § 107 odst. 1.
+- **§ 130 odst. 2** — zpětvzetí při více insolvenčních navrhovatelích.
+- **§ 135** — samostatné jednání účastníků při projednávání věřitelského insolvenčního návrhu.
+- **§ 136 a § 141** — rozhodnutí o úpadku a omezený okruh osob oprávněných odvolat se proti němu.
+
+### Souvisící předpisy
+
+- **Zákon č. 99/1963 Sb., občanský soudní řád** — použije se přiměřeně podle § 7 insolvenčního zákona, nestanoví-li insolvenční zákon jinak; § 107 je zvláštní úpravou účinků dalšího insolvenčního návrhu.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva k vládnímu návrhu insolvenčního zákona (sněmovní tisk 1120/0, zvláštní část, k § 107, číslovaná s. 183, PDF s. 184) uvádí, že úprava dalšího insolvenčního návrhu navazuje na tehdejší úpravu a rozvádí ji a zpřesňuje v intencích judikatury Nejvyššího soudu a Ústavního soudu. Jde o obecné historické vysvětlení; samo nenahrazuje text později měněných odstavců ani identifikaci konkrétního rozhodnutí.
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento oddíl proto není výsledkem negativní literární rešerše.
 
 ### Výklad
 
-**Princip jednoho řízení na jednoho dlužníka.** Pokud někdo podá *druhý* návrh na téhož dlužníka *před rozhodnutím o úpadku*, jeho návrh se *automaticky transformuje v přistoupení* k probíhajícímu řízení. Nový subjekt se stává **dalším insolvenčním navrhovatelem**.
+[1] **Přistoupení nastává ze zákona.** Dojde-li insolvenčnímu soudu před vydáním rozhodnutí o úpadku další insolvenční návrh na majetek téhož dlužníka, považuje se za přistoupení k probíhajícímu řízení. Podatel se stává dalším insolvenčním navrhovatelem okamžikem, kdy návrh dojde soudu, u něhož probíhá řízení o původním návrhu.
 
-#### Důsledky přistoupení (odst. 2)
+[2] **Stav řízení je převzat.** Další navrhovatel vstupuje do řízení v jeho aktuálním stavu. Odstavec 2 nevrací řízení do dřívější procesní fáze. Nelze z něj však bez další opory dovozovat obecný zákaz každého opakovaného nebo nového procesního návrhu; jeho přípustnost se posoudí podle povahy konkrétního úkonu a stavu řízení.
 
-Další navrhovatel *přejímá řízení ve stavu, v němž je* — nemůže žádat o opakování již provedených úkonů (např. nemůže nově navrhovat předběžné opatření, které bylo zamítnuto).
+[3] **Výjimka při nezveřejnění podle § 100a.** Je-li dřívější věřitelský návrh a obsah spisu dočasně nezveřejněn na základě § 100a odst. 1, běžné pořadí se obrací: dřívější návrh se považuje za přistoupení k řízení zahájenému pozdějším návrhem zveřejněným v insolvenčním rejstříku. Postavení dalšího navrhovatele a převzetí stavu řízení se použijí obdobně.
 
-#### Speciální scénáře (odst. 3 — 4)
+[4] **Jiné rozhodnutí o původním návrhu.** Odstavec 4 se týká rozhodnutí jiného než rozhodnutí o úpadku. Dojde-li další návrh po vydání takového rozhodnutí, ale před jeho doručením účastníkům, soud je doručí i dalšímu navrhovateli. Dojde-li návrh až po doručení, ale před právní mocí, může další navrhovatel podat odvolání ve zvláštní lhůtě určené tímto odstavcem; výjimkou je situace, kdy mu rozhodnutí bylo již dříve doručeno.
 
-- pokud byl původní návrh nezveřejněn dle § 100a, podaný *později* a zveřejněný návrh **přebírá pozici hlavního řízení** — dřívější se přesouvá do role přistoupení,
-- pokud bylo o původním návrhu již rozhodnuto jinak než úpadkem, ale rozhodnutí nenabylo právní moci, *další navrhovatel může napadnout odvoláním*.
+[5] **Návrh po rozhodnutí o úpadku.** K insolvenčnímu návrhu podanému po vydání rozhodnutí o úpadku se nepřihlíží. To však neodstraňuje účinky návrhu na způsob řešení úpadku, jenž je součástí dalšího podání a byl učiněn před rozhodnutím soudu o způsobu řešení úpadku.
 
-#### Sankce — § 107 odst. 5
+[6] **Doručení dalšího věřitelského návrhu.** Podala-li další návrh jiná osoba než dlužník, jeho stejnopis se doručuje pouze dosavadnímu insolvenčnímu navrhovateli a dlužníku, oběma do vlastních rukou.
 
-Pokud někdo podá další návrh **po rozhodnutí o úpadku**, *nepřihlíží se* — IR už běží.
+[7] **Více navrhovatelů neznamená nerozlišenou procesní jednotu.** Při zpětvzetí návrhu jen některým navrhovatelem se řízení podle § 130 odst. 2 zastaví pouze vůči němu. Při projednávání věřitelského návrhu jednají jiní účastníci podle § 135 sami za sebe a jejich odporující si úkony soud posuzuje se zřetelem ke všem okolnostem.
 
-### Vazby
+[8] **Časová použitelnost.** Výklad odpovídá znění účinnému k 19. 7. 2026. U starších řízení je nutné ověřit znění účinné v rozhodné procesní fázi a přechodná ustanovení příslušných novel; obecná formulace původní důvodové zprávy nemůže převážit nad aktuálním zákonným textem.
 
-- **§ 130** — zpětvzetí.
-- **§ 100a** — předběžné posouzení.
+### Judikatura
 
-### F. Kazuistika
-
-**1. Modelová situace.** Proti dlužníku PÍ s. r. o. probíhá insolvenční řízení zahájené věřitelem A; ještě před rozhodnutím o úpadku podá týž den k témuž soudu „insolvenční návrh" i věřitel B. B v něm navrhuje totéž (prohlášení konkursu) a zároveň žádá předběžné opatření, které už dříve bylo v řízení zamítnuto. Důkazy: spis o původním řízení, podání věřitele B, údaj o okamžiku dojití soudu.
-
-**2. Právní otázka.** Jakou povahu má další návrh podaný proti témuž dlužníku před rozhodnutím o úpadku a v jakém stavu řízení do něj přistupuje druhý navrhovatel?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 107 odst. 1 (další návrh = přistoupení; podatel je dalším navrhovatelem od okamžiku dojití soudu), odst. 2 (pro dalšího navrhovatele platí stav řízení v době přistoupení), odst. 3–6 (zveřejnění a vztah k § 100a, odvolání), odst. 5 (po rozhodnutí o úpadku se k dalšímu návrhu nepřihlíží).
-- *Související ustanovení téhož zákona:* § 100a (předběžné posouzení a nezveřejnění), § 130 (zpětvzetí — vliv více navrhovatelů), § 136 (rozhodnutí o úpadku jako mezník).
-- *Související předpisy:* OSŘ (procesní společenství, jednota řízení).
-- *Judikatura:* k přistoupení chybí v komentáři citovaná judikatura; nosně plyne z textu § 107 (jedno řízení na jednoho dlužníka).
-
-**4. Subsumpce.** Znak „další návrh proti témuž dlužníku před rozhodnutím o úpadku" → transformace v přistoupení (odst. 1); B se stává dalším insolvenčním navrhovatelem. Znak „platí stav řízení v době přistoupení" (odst. 2) → B nemůže žádat opakování již provedených úkonů, tedy ani znovu navrhovat předběžné opatření, které bylo zamítnuto.
-
-**5. Řízení.** B se účastní jako další navrhovatel ve stávajícím stavu řízení; jeho duplicitní procesní návrhy (opětovné předběžné opatření) jsou nepřípustné. Praktický krok: B raději podpoří dokazování úpadku a uplatní vlastní pohledávku přihláškou. Pozor: kdyby B podal návrh **až po** rozhodnutí o úpadku, nepřihlíželo by se k němu (odst. 5).
-
-**6. Varianty.** (a) Původní návrh byl nezveřejněn podle § 100a a později podaný návrh byl zveřejněn — zveřejněný návrh přebírá pozici hlavního řízení a dřívější se přesouvá do role přistoupení (odst. 3–4). (b) O původním návrhu již bylo rozhodnuto jinak než úpadkem, ale rozhodnutí není pravomocné — další navrhovatel je oprávněn napadnout je odvoláním.
-
-### G. Protiargumenty a rizika
-
-- *„Podávám samostatné řízení, ne přistoupení."* Neobstojí — § 107 odst. 1 ex lege transformuje další návrh proti témuž dlužníku v přistoupení; samostatné paralelní řízení nevznikne. Neutralizace: akceptovat pozici dalšího navrhovatele a stav řízení.
-- *„Mohu navrhnout úkony znovu."* Vyloučeno odst. 2 — pro přistoupivšího platí stav řízení; již rozhodnuté úkony se neopakují. Neutralizace: zaměřit se na osvědčení úpadku a přihlášku.
-- Slabé místo: přesné určení okamžiku dojití druhého návrhu rozhoduje o tom, zda jde o přistoupení (před úpadkem) či o podání, k němuž se nepřihlíží (po úpadku); rozhodující je čas dojití soudu.
-
-### H. Praktický závěr
-
-Druhý a další návrh proti témuž dlužníku podaný před rozhodnutím o úpadku je ze zákona přistoupením k řízení; přistoupivší přejímá řízení ve stavu, v němž je, a nemůže opakovat již rozhodnuté úkony. Po rozhodnutí o úpadku se k dalšímu návrhu nepřihlíží.
-
-**Checklist (další navrhovatel / advokát / soud):**
-- [ ] Byl další návrh podán proti témuž dlužníku před rozhodnutím o úpadku?
-- [ ] Je zafixován okamžik dojití dalšího návrhu soudu?
-- [ ] Respektuje přistoupivší stav řízení (žádné opakování rozhodnutých úkonů)?
-- [ ] Nedošlo k podání až po rozhodnutí o úpadku (pak se nepřihlíží)?
-- [ ] Není dotčen vztah k § 100a (která věc je hlavní)?
-
-**Typicky rozhodné důkazy / podklady:** spis o probíhajícím řízení, podání dalšího navrhovatele, evidenční záznam o okamžiku dojití, případná dřívější rozhodnutí o procesních návrzích, přihláška pohledávky dalšího navrhovatele.
+Do tohoto kola nebylo zařazeno rozhodnutí, jehož plný text z oficiálního soudního zdroje by byl ověřen jako přímo nosný pro některý z výše uvedených závěrů. Odkaz důvodové zprávy na starší judikaturu nepostačuje k citaci konkrétního rozhodnutí. Tím se nevyslovuje závěr, že relevantní judikatura neexistuje.
 
 ---
 

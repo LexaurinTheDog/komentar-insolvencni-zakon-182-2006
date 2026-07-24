@@ -833,6 +833,57 @@ Do této revize nebylo zařazeno rozhodnutí, jehož oficiální plný text by p
 
 ## § 176 — Formulář přihlášky
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> Za správnost údajů uvedených v přihlášce jeho pohledávky odpovídá věřitel. Přihlášku pohledávky lze podat pouze na formuláři; náležitosti formuláře stanoví prováděcí právní předpis.
+
+### Přehled výkladu
+
+§ 176 spojuje odpovědnost věřitele za správnost údajů s povinnou formulářovou podobou přihlášky. Konkrétní obsah formuláře stanoví § 8 vyhlášky č. 191/2017 Sb.; zákonné náležitosti pohledávky a příloh tím nejsou nahrazeny.
+
+### Souvisící ustanovení
+
+- § 174 — obsahové náležitosti přihlášky, zejména důvod vzniku, výše, zajištění a vykonatelnost.
+- § 175 — peněžní vyjádření pohledávky.
+- § 177 — listiny připojované k přihlášce a údaje o skutečném majiteli.
+- § 178 a § 179 — následky nadhodnocení výše pohledávky nebo zajištění za podmínek těchto ustanovení.
+- § 188 odst. 2 — postup při vadné nebo neúplné přihlášce, kterou nelze přezkoumat.
+- § 431 písm. a) — zmocnění Ministerstva spravedlnosti stanovit prováděcím předpisem náležitosti formulářů.
+
+### Souvisící předpisy
+
+- Vyhláška č. 191/2017 Sb., zejména § 1 písm. c) a § 8 — formulář přihlášky pohledávky a jeho náležitosti.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona vysvětlil k § 176 až 182, že možnost podat přihlášku pouze na formuláři byla novým pravidlem a konečnou podobu formuláře měl upravit prováděcí předpis. Odpovědnost za správnost údajů důvodová zpráva spojila s navazujícími mechanismy proti přehnaným pohledávkám a neopodstatněnému uplatnění lepšího pořadí. Jde o zvláštní část důvodové zprávy ke sněmovnímu tisku 1120/0, číslovaná s. 198 (PDF s. 199).
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní literární rešerše.
+
+### Výklad
+
+[1] **Odpovědnost věřitele.** Nositelem odpovědnosti za správnost údajů v přihlášce je věřitel. Toto pravidlo samo neurčuje konkrétní následek každé nesprávnosti; následky je nutné posoudit podle navazující úpravy, zejména podle povahy vady a podmínek § 178 a § 179.
+
+[2] **Povinný formulář.** Přihlášku pohledávky lze podat pouze na formuláři. § 176 proto nelze číst jen jako technické doporučení k podobě podání.
+
+[3] **Náležitosti formuláře.** § 8 vyhlášky č. 191/2017 Sb. vymezuje mimo jiné identifikaci soudu, dlužníka a věřitele, důvod vzniku, vykonatelnost, pořadí, povahu a výši pohledávky, prohlášení o pravdivosti, přílohy, podpis a kód pro přenos údajů. Při vyplnění je třeba pracovat s úplným aktuálním zněním § 8, nikoli pouze s tímto souhrnem.
+
+[4] **Zákon a formulář se doplňují.** Formulářové položky konkretizují procesní podání, ale neodstraňují požadavky § 174 až 177. Věřitel proto musí vedle použití formuláře uvést zákonem požadovaná tvrzení a připojit předepsané listiny.
+
+[5] **Vady a nesprávné údaje.** Není-li přihláška pro vadu nebo neúplnost přezkoumatelná, použije se postup podle § 188 odst. 2. Od toho je třeba odlišit věcnou správnost přihlášené výše nebo pořadí a případné následky podle § 178 a § 179, které mají vlastní zákonné podmínky.
+
+[6] **Intertemporalita.** Pro konkrétní přihlášku se ověří znění insolvenčního zákona, prováděcí vyhlášky a formuláře rozhodné v době procesního úkonu. Tento výklad vychází ze stavu k 19. 7. 2026; původní důvodová zpráva je pouze historickou interpretační pomůckou.
+
+### Judikatura
+
+Do této revize nebylo zařazeno rozhodnutí, jehož oficiální plný text by přímo a nosně vykládal § 176 a současně prošel kontrolou skutkového, procesního a intertemporálního kontextu. Tím se nevyslovuje závěr, že související judikatura neexistuje.
+
+---
+
 ## § 177 — Přílohy + skutečný majitel
 
 > (1) K přihlášce pohledávky je nutné připojit **listiny, kterých se přihláška dovolává**. Vykonatelnost pohledávky se prokazuje veřejnou listinou.

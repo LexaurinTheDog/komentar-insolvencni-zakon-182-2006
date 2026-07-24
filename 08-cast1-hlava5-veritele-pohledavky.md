@@ -584,91 +584,73 @@ Do tohoto kola nebyl převzat žádný judikatorní závěr bez fyzického snaps
 
 ## § 173 — Podání přihlášky — **CENTRÁLNÍ PARAGRAF PRO VĚŘITELE**
 
-> (1) Věřitelé podávají přihlášky pohledávek u insolvenčního soudu **od zahájení insolvenčního řízení** až do **uplynutí lhůty stanovené rozhodnutím o úpadku**. K přihláškám, které jsou podány později, insolvenční soud **nepřihlíží** a takto uplatněné pohledávky se v insolvenčním řízení **neuspokojují**. Věřitelé vykonatelných pohledávek na náhradu škody nebo nemajetkové újmy způsobené trestným činem nebo na vydání bezdůvodného obohacení získaného trestným činem podávají přihlášky pohledávek u insolvenčního soudu kdykoli v průběhu insolvenčního řízení, pokud v trestním řízení o tomto trestném činu byl zajištěn majetek v majetkové podstatě dlužníka a přihláška pohledávky byla podána v době, kdy zajištění podle trestního řádu trvá.
-> (2) Přihlašují se i pohledávky, **které již byly uplatněny u soudu**, jakož i pohledávky vykonatelné včetně těch, které jsou vymáhány výkonem rozhodnutí nebo exekucí.
-> (3) Přihlásit lze i pohledávku **nesplatnou** nebo pohledávku **vázanou na podmínku**. Pohledávky věřitelů vázané na splnění rozvazovací podmínky se považují v insolvenčním řízení za nepodmíněné, dokud rozvazovací podmínka není splněna. Na pohledávky věřitelů vázané na splnění odkládací podmínky nemá zahájení insolvenčního řízení vliv.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Věřitelé podávají přihlášky pohledávek u insolvenčního soudu od zahájení insolvenčního řízení až do uplynutí lhůty stanovené rozhodnutím o úpadku. K přihláškám, které jsou podány později, insolvenční soud nepřihlíží a takto uplatněné pohledávky se v insolvenčním řízení neuspokojují. Věřitelé vykonatelných pohledávek na náhradu škody nebo nemajetkové újmy způsobené trestným činem nebo na vydání bezdůvodného obohacení získaného trestným činem podávají přihlášky pohledávek u insolvenčního soudu kdykoli v průběhu insolvenčního řízení, pokud v trestním řízení o tomto trestném činu byl zajištěn majetek v majetkové podstatě dlužníka a přihláška pohledávky byla podána v době, kdy zajištění podle trestního řádu trvá.
+>
+> (2) Přihlašují se i pohledávky, které již byly uplatněny u soudu, jakož i pohledávky vykonatelné včetně těch, které jsou vymáhány výkonem rozhodnutí nebo exekucí.
+>
+> (3) Přihlásit lze i pohledávku nesplatnou nebo pohledávku vázanou na podmínku. Pohledávky věřitelů vázané na splnění rozvazovací podmínky se považují v insolvenčním řízení za nepodmíněné, dokud rozvazovací podmínka není splněna. Na pohledávky věřitelů vázané na splnění odkládací podmínky nemá zahájení insolvenčního řízení vliv.
+>
 > (4) Přihláška pohledávky má pro běh lhůty k promlčení nebo pro zánik práva stejné účinky jako žaloba nebo jiné uplatnění práva u soudu, a to ode dne, kdy došla insolvenčnímu soudu. Přihlášku pohledávky, která je podána u jiného než insolvenčního soudu, postoupí tento soud neprodleně soudu insolvenčnímu, aniž o tom vydává rozhodnutí; účinky spojené s podáním takové přihlášky nastávají dnem, kdy přihláška dojde insolvenčnímu soudu.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *NS* [29 NSCR 4/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3BAE3A971938E7BEC1257A4E0065EFF6?openDocument) — 4. 9. 2008, kat. A
-  > „Nejde-li o známé věřitele dlužníka, kteří mají své obvyklé místo pobytu, bydliště nebo sídlo v některém z členských států Evropské unie s výjimkou Dánska (§ 430 zákona č. 182/2006 Sb. ve znění pozdějších předpisů), nedoručuje insolvenční soud známým věřitelům dlužníka zvlášť (jinak než vyhláškou podle § 71 a násl. uvedeného zákona) ani vyhlášku, kterou seoznamuje zahájení insolvenčního řízení, ani rozhodnutí o úpadku. Dovolání proti usnesení, jímž odvolací soud potvrdil usnesení insolvenčního soudu o odmítnutí přihlášky, je přípustné podle § 239 odst. 3 o. s. ř"
+§ 173 vymezuje dobu a základní účinky podání přihlášky. Přihlášku lze podat již od zahájení insolvenčního řízení; rozhodnutí o úpadku pak podle aktuálního § 136 odst. 2 písm. d) vyzývá dosud nepřihlášené věřitele k podání ve lhůtě dvou měsíců. Opoždění neznamená samo o sobě hmotněprávní zánik pohledávky: k přihlášce se nepřihlíží a pohledávka se v daném insolvenčním řízení neuspokojuje. Procesním následkem je odmítnutí přihlášky podle § 185.
 
-### Výklad — **NEJDŮLEŽITĚJŠÍ PARAGRAF Z POHLEDU VĚŘITELE**
+### Souvisící ustanovení
 
-#### Lhůty pro přihlášku (odst. 1)
+- § 109 odst. 1 písm. a), odst. 3 a 4 a § 110 — uplatnění pohledávek po zahájení řízení a účinky zahájení;
+- § 136 odst. 2 písm. d) — dvouměsíční lhůta a poučení v rozhodnutí o úpadku;
+- § 173a — konec suspenzivního účinku § 109 odst. 3 uplynutím přihlašovací lhůty;
+- § 174 až 176 — obsah, vyčíslení a formulář přihlášky;
+- § 185 — odmítnutí přihlášky, k níž se nepřihlíží;
+- § 430 — zvláštní vyrozumění známých věřitelů z jiných členských států Evropské unie.
 
-- **od zahájení IR** — *bez nutnosti čekat* na výzvu,
-- **do uplynutí lhůty stanovené rozhodnutím o úpadku** — typicky **2 měsíce** (§ 136 odst. 2 písm. d).
+### Souvisící předpisy
 
-**Sankce za zmeškání**: 
-- *nepřihlíží se* k přihlášce,
-- pohledávky se *neuspokojují* — **definitivně**.
+- nařízení Evropského parlamentu a Rady (EU) 2015/848 o insolvenčním řízení, zejména čl. 53 až 55 — právo zahraničního věřitele přihlásit pohledávku, individuální oznámení známým zahraničním věřitelům a pravidla přihlášení;
+- zákon č. 141/1961 Sb., trestní řád — zajištění, na jehož trvání § 173 odst. 1 váže zvláštní režim vymezených vykonatelných pohledávek z trestného činu.
 
-> *Tato sankce je tvrdá* — propásnutí lhůty znamená *ztrátu pohledávky* (s výjimkou trestněprávních zajištěných).
+### Z důvodové zprávy
 
-#### Výjimka — trestněprávní zajištěné pohledávky (odst. 1 *in fine*)
+Původní důvodová zpráva označuje přihlášku za zvláštní případ uplatnění práva a vysvětluje, proč má každý věřitel podat přihlášku individuálně. Zdůrazňuje možnost přihlásit pohledávku již před rozhodnutím o úpadku a výslovně upozorňuje, že podání u jiného než insolvenčního soudu lhůtu nezachová. Jde o historické vysvětlení původní osnovy; současná pevná dvouměsíční lhůta a později doplněná trestněprávní výjimka se posuzují podle aktuálního zákona. (Sněmovní tisk 1120/0, zvláštní část, k § 173 až 175, číslovaná s. 197–198, PDF s. 198–199.)
 
-Věřitelé pohledávek z *trestného činu* (náhrada škody/nemajetkové újmy, bezdůvodné obohacení) mohou přihlásit **kdykoli v průběhu IR**, pokud:
-- byl zajištěn majetek v podstatě v trestním řízení,
-- přihláška podána v době, kdy zajištění trvá.
+### Literatura
 
-#### Co se přihlašuje (odst. 2 — 3)
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tím se nevyslovuje závěr, že relevantní literatura neexistuje nebo že byla provedena negativní literární rešerše.
 
-- *pohledávky uplatněné u soudu* (i probíhající žaloby!) — *musí být přihlášeny v IR*; civilní řízení se přerušuje (§ 140a),
-- *vykonatelné pohledávky* (i v exekuci),
-- *nesplatné pohledávky*,
-- *podmíněné pohledávky* — rozvazovací podmínka = nepodmíněná (do splnění); odkládací podmínka = nemá vliv na zahájení.
+### Výklad
 
-#### Účinky pro promlčení a zánik práva (odst. 4)
+[1] **Počátek a konec obecného přihlašovacího období.** Věřitel nemusí čekat na rozhodnutí o úpadku ani na výzvu: § 110 odst. 1 a § 173 odst. 1 dovolují přihlášení od zahájení řízení. Konečný mezník určuje rozhodnutí o úpadku; podle § 136 odst. 2 písm. d) činí lhůta v aktuálním znění dva měsíce.
 
-**Přihláška = žaloba** pro účely promlčení a prekluze. Den účinků = den, kdy *dojde insolvenčnímu soudu* (ne den podání u jiného orgánu).
+[2] **Následek opoždění je procesní.** Zákon stanoví, že se k pozdní přihlášce nepřihlíží a pohledávka se v insolvenčním řízení neuspokojuje; § 185 na to váže odmítnutí přihlášky a konec účasti věřitele právní mocí rozhodnutí. Z toho nelze dovozovat, že samotná pohledávka hmotněprávně zanikla.
 
-### Vazby
+[3] **Zvláštní trestněprávní režim je vymezen kumulativně.** Mimo obecnou lhůtu lze postupovat jen u vykonatelné pohledávky na náhradu škody či nemajetkové újmy způsobené trestným činem nebo na vydání bezdůvodného obohacení získaného trestným činem, byl-li v příslušném trestním řízení zajištěn majetek náležející do majetkové podstaty a zajištění v době podání stále trvá.
 
-- **§ 136 odst. 2 písm. d)** — 2 měsíční lhůta v rozhodnutí o úpadku.
-- **§ 109 odst. 3** — lhůty k uplatnění zastaveny zahájením.
-- **§ 140a** — přerušení sporů.
+[4] **Probíhající spor ani exekuce přihlášku nenahrazují.** Odstavec 2 výslovně zahrnuje pohledávky již žalované, vykonatelné i vymáhané výkonem rozhodnutí nebo exekucí. Věřitel proto musí samostatně posoudit, zda jde o pohledávku uplatňovanou přihláškou, a dodržet její režim.
+
+[5] **Nesplatné a podmíněné pohledávky.** Nesplatnost podání nebrání. U rozvazovací podmínky se pohledávka do jejího splnění považuje za nepodmíněnou; u odkládací podmínky zahájení insolvenčního řízení samo o sobě její režim nemění.
+
+[6] **Promlčení a zánik práva.** Přihláška má od okamžiku, kdy dojde insolvenčnímu soudu, stejné účinky na běh promlčecí nebo jiné lhůty k zániku práva jako žaloba či jiné soudní uplatnění. Tato věta popisuje účinek včasného uplatnění práva; není oporou pro tvrzení, že opožděním podle odstavce 1 pohledávka automaticky zaniká.
+
+[7] **Podání u jiného soudu.** Jiný soud přihlášku bez rozhodnutí postoupí, ale rozhodné účinky nastanou až jejím dojitím insolvenčnímu soudu. Pro kontrolu včasnosti je proto rozhodující tento pozdější okamžik, nikoli den, kdy podání obdržel jiný soud.
+
+[8] **Přeshraniční věřitelé a intertemporalita.** U známého věřitele s obvyklým pobytem, bydlištěm nebo sídlem v jiném členském státě je nutné vedle § 173 použít § 430 a čl. 53 až 55 nařízení (EU) 2015/848. Starší rozhodnutí o přihlašovacích lhůtách lze přenášet jen po kontrole tehdejšího znění; například třicetidenní lhůta posuzovaná v rozhodnutí I. ÚS 129/14 není dnešní dvouměsíční lhůtou.
 
 ### Judikatura
 
-- **NS 29 NSČR 38/2010**: lhůta dle § 173 odst. 1 je **prekluzivní** — pozdě podaná přihláška = ztráta práva, *nelze prominout*.
+- **Ústavní soud, usnesení ze dne 20. 10. 2014, sp. zn. I. ÚS 129/14:** věřitelka přihlásila pohledávku po tehdy platné třicetidenní lhůtě a namítala, že jí zdravotní postižení znemožnilo sledovat insolvenční rejstřík. Ústavní soud po kontrole konkrétního zdravotního stavu porušení základních práv neshledal a stížnost odmítl jako zjevně neopodstatněnou (odst. 1–4 a 8–11). Rozhodnutí podporuje význam zákonných lhůt a zveřejnění u tuzemského věřitele, nikoli obecnou tezi o hmotněprávním zániku pohledávky; délka lhůty byla mezitím změněna.
 
-### F. Kazuistika
+### Praktický checklist
 
-**1. Modelová situace.** Věřitel V vede proti dlužníku D soudní spor o zaplacení 800 000 Kč. Po zahájení insolvenčního řízení a rozhodnutí o úpadku (s dvouměsíční lhůtou k přihláškám) V spoléhá na probíhající žalobu a přihlášku nepodá; pošle ji až tři dny po uplynutí lhůty, navíc omylem k nalézacímu, nikoli insolvenčnímu soudu. Důkazy: rozhodnutí o úpadku s lhůtou, doklad o doručení přihlášky, spis nalézacího soudu.
-
-**2. Právní otázka.** Lze pohledávku uplatnit probíhající žalobou místo přihlášky a jaké jsou důsledky podání přihlášky po lhůtě, resp. u nepříslušného soudu?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 173 odst. 1 (lhůta od zahájení do uplynutí lhůty z rozhodnutí o úpadku; k pozdním přihláškám se nepřihlíží, neuspokojují se; výjimka pro trestněprávně zajištěné), odst. 2 (přihlašují se i pohledávky uplatněné u soudu a vykonatelné), odst. 4 (účinky pro promlčení/prekluzi ke dni dojití insolvenčnímu soudu; postoupení od nepříslušného soudu).
-- *Související ustanovení téhož zákona:* § 136 odst. 2 písm. d) (stanovení lhůty, typicky 2 měsíce), § 109 odst. 3 (suspenze běhu lhůt zahájením), § 140a (přerušení sporů), § 173a (zánik suspenze uplynutím lhůty).
-- *Související předpisy:* o. s. ř. (uplatnění práva u soudu); OZ (promlčení, prekluze).
-- *Judikatura:* nosný závěr (29 NSČR 38/2010), že lhůta dle § 173 odst. 1 je prekluzivní a pozdě podaná přihláška znamená ztrátu práva bez možnosti prominutí; dále (29 NSCR 4/2008) k doručování a přípustnosti dovolání proti odmítnutí přihlášky.
-
-**4. Subsumpce.** Pohledávka V se musí přihlásit, i když o ní běží soudní spor (odst. 2); spor se přerušuje (§ 140a). Přihláška podaná po lhůtě → odst. 1: nepřihlíží se, neuspokojuje. Podání u nepříslušného soudu nezachovává lhůtu — účinky nastávají až dojitím insolvenčnímu soudu (odst. 4 věta druhá), zde tedy také po lhůtě.
-
-**5. Řešení.** Soud k přihlášce V nepřihlédne a odmítne ji; pohledávka se v IR neuspokojí. V definitivně přichází o uspokojení (nejde o trestněprávně zajištěnou výjimku). Procesně: jediný způsob ochrany bylo včasné podání přímo insolvenčnímu soudu ve dvouměsíční lhůtě.
-
-**6. Varianty.** (a) Kdyby V přihlásil včas, probíhající spor by se přerušil a pohledávka by se přezkoumala v IR; promlčení by bylo staveno ke dni dojití přihlášky (odst. 4). (b) Kdyby šlo o vykonatelnou pohledávku poškozeného z trestného činu se zajištěným majetkem v podstatě, mohl by V přihlásit kdykoli v průběhu IR po dobu trvání zajištění (odst. 1 in fine).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Probíhající žaloba u soudu stačí, přihláška je duplicitní." — Neutralizace: odst. 2 výslovně vyžaduje přihlášení i pohledávek uplatněných u soudu; bez přihlášky se pohledávka v IR neuspokojí.
-- *Protiargument:* „Zmeškání lhůty lze prominout pro omluvitelný důvod." — Neutralizace: dle 29 NSČR 38/2010 jde o prekluzi bez možnosti prominutí; ani podání u nepříslušného soudu lhůtu nezachová (odst. 4).
-- *Slabé místo:* běh a konec lhůty se odvíjí od správného určení okamžiku z rozhodnutí o úpadku; chyba v počítání lhůty je fatální a neopravitelná.
-
-### H. Praktický závěr
-
-§ 173 je z pohledu věřitele nejdůležitější: zakládá tvrdou prekluzivní lhůtu, jejíž zmeškání znamená ztrátu pohledávky. Přihlásit je třeba i pohledávky žalované, vykonatelné, nesplatné i podmíněné, a vždy přímo insolvenčnímu soudu.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Zjistit z rozhodnutí o úpadku přesné datum konce lhůty (§ 136 odst. 2 písm. d) a podat přihlášku včas insolvenčnímu soudu.
-- [ ] Přihlásit i pohledávky uplatněné u soudu, vykonatelné, nesplatné a podmíněné (odst. 2–3).
-- [ ] Nespoléhat na probíhající spor ani na podání u jiného soudu (zachování lhůty až dojitím insolvenčnímu soudu).
-- [ ] U pohledávek z trestného činu prověřit výjimku odst. 1 in fine (zajištěný majetek, trvání zajištění).
-
-**Typicky rozhodné důkazy / podklady:** rozhodnutí o úpadku s vyznačenou lhůtou, doklad o doručení přihlášky insolvenčnímu soudu, doklady o pohledávce (smlouva, titul), případně doklad o trestněprávním zajištění majetku.
+- [ ] Ověřit datum zveřejnění rozhodnutí o úpadku, jeho výrok podle § 136 odst. 2 písm. d) a přesný konec dvouměsíční lhůty.
+- [ ] Doručit přihlášku přímo insolvenčnímu soudu; při podání u jiného soudu počítat s účinky až dnem dojití insolvenčnímu soudu.
+- [ ] Přihlásit i pohledávku žalovanou, vykonatelnou, exekučně vymáhanou, nesplatnou nebo podmíněnou, spadá-li do přihlašovacího režimu.
+- [ ] U pohledávky z trestného činu ověřit všechny podmínky zvláštního režimu včetně vykonatelnosti a trvání konkrétního zajištění.
+- [ ] U známého zahraničního věřitele samostatně prověřit § 430 a čl. 53 až 55 nařízení (EU) 2015/848.
 
 ---
 

@@ -1707,6 +1707,73 @@ Tato revize necituje žádné soudní rozhodnutí jako pramen samostatného prav
 
 ---
 
+## § 124 — Zánik moratoria
+
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> ###### Zánik moratoria
+>
+> (1) Moratorium zaniká uplynutím doby, na kterou bylo vyhlášeno; před uplynutím této doby zaniká moratorium rozhodnutím insolvenčního soudu o jeho zrušení.
+>
+> (2) Insolvenční soud zruší moratorium
+>
+> - a) na návrh většiny věřitelů, počítané podle výše jejich pohledávek, uvedené v seznamu závazků,
+>
+> - b) i bez návrhu, jestliže dlužník uvedl v návrhu na moratorium nepravdivé údaje, nebo vyjde-li za trvání moratoria najevo, že dlužník vyhlášením moratoria sledoval nepoctivý záměr, zejména přednostní uspokojení jen některých jeho věřitelů.
+>
+> (3) Rozhodnutí podle odstavce 2 písm. b) vydá insolvenční soud po slyšení dlužníka, předběžného správce, byl-li ustanoven, a zpravidla též po vyjádření alespoň 3 věřitelů s nejvyššími pohledávkami, kteří podepsali prohlášení podle § 116 odst. 2.
+>
+> (4) O návrhu na zrušení moratoria rozhodne insolvenční soud neprodleně.
+>
+> (5) Před uplynutím stanovené doby zanikne moratorium i tím, že insolvenční soud zamítne nebo odmítne insolvenční návrh anebo řízení o něm zastaví.
+>
+
+### Přehled výkladu
+
+§ 124 rozlišuje zánik moratoria uplynutím stanovené doby, jeho předčasný zánik rozhodnutím soudu o zrušení a předčasný zánik vyvolaný rozhodnutím o insolvenčním návrhu. Zrušení přichází buď na návrh zákonem určené většiny věřitelů, nebo i bez návrhu pro nepravdivé údaje či nepoctivý záměr dlužníka. Jen pro rozhodnutí z moci úřední podle odstavce 2 písm. b) zákon výslovně stanoví zvláštní slyšení a vyjádření.
+
+### Souvisící ustanovení
+
+§ 116 odst. 2 (seznam závazků a prohlášení věřitelů); § 119 (účinnost, doba trvání a prodloužení moratoria); § 120 až 123 (účinky moratoria a předběžný správce); § 125 (obdobné použití na moratorium před zahájením insolvenčního řízení); § 126 odst. 3 (další důvod zániku takového moratoria); § 127 (odpovědnost za škodu nebo jinou újmu).
+
+### Souvisící předpisy
+
+Zákon č. 99/1963 Sb., občanský soudní řád, se použije přiměřeně prostřednictvím § 7 insolvenčního zákona, nestanoví-li insolvenční zákon jinak nebo není-li takový postup v rozporu se zásadami insolvenčního řízení.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva k vládnímu návrhu insolvenčního zákona uvádí k § 124 pouze to, že ustanovení upravuje důvody zániku moratoria. Jde o stručné historické vysvětlení návrhu, nikoli o samostatný podklad pro rozšiřování zákonných důvodů. Viz sněmovní tisk 1120/0, zvláštní část „K § 124“, číslovaná s. 189 (PDF s. 190).
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní rešerše.
+
+### Výklad
+
+[1] **Tři mechanismy zániku.** Moratorium zaniká zaprvé uplynutím doby, na kterou bylo vyhlášeno, zadruhé předčasně rozhodnutím insolvenčního soudu o jeho zrušení a zatřetí předčasně některým z rozhodnutí o insolvenčním návrhu vypočtených v odstavci 5. Jednotlivé mechanismy nelze směšovat: pouze druhý z nich předpokládá rozhodnutí, jehož výrokem soud moratorium ruší.
+
+[2] **Uplynutí doby.** Délku moratoria a možnost jejího prodloužení upravuje § 119. Pro zánik podle § 124 odst. 1 je proto rozhodná doba, na kterou bylo moratorium vyhlášeno, případně v souladu s § 119 odst. 2 prodlouženo.
+
+[3] **Návrh většiny věřitelů.** Podle odstavce 2 písm. a) soud moratorium zruší na návrh většiny věřitelů počítané podle výše jejich pohledávek uvedených v seznamu závazků. Rozhodující tedy není většina podle počtu věřitelů ani jiný soubor pohledávek než ten, který určuje zákon.
+
+[4] **Zrušení i bez návrhu.** Odstavec 2 písm. b) ukládá soudu zrušit moratorium, jestliže dlužník uvedl v návrhu na moratorium nepravdivé údaje, nebo jestliže za trvání moratoria vyjde najevo, že jeho vyhlášením sledoval nepoctivý záměr. Přednostní uspokojení jen některých věřitelů je zákonným příkladem nepoctivého záměru, nikoli jeho jedinou možnou podobou.
+
+[5] **Procesní ochrana před zrušením z moci úřední.** Zvláštní postup v odstavci 3 se textově vztahuje k rozhodnutí podle odstavce 2 písm. b). Soud před jeho vydáním slyší dlužníka a předběžného správce, byl-li ustanoven, a zpravidla si vyžádá také vyjádření alespoň tří věřitelů s nejvyššími pohledávkami, kteří podepsali prohlášení podle § 116 odst. 2. Slovo „zpravidla“ se vztahuje k vyjádření věřitelů, nikoli ke slyšení dlužníka a ustanoveného předběžného správce.
+
+[6] **Rychlost rozhodnutí.** Povinnost rozhodnout neprodleně se podle odstavce 4 váže na návrh na zrušení moratoria. Zákon zde neurčuje pevnou číselnou lhůtu; konkrétní rychlost je třeba poměřovat požadavkem neprodleného postupu.
+
+[7] **Rozhodnutí o insolvenčním návrhu.** Před uplynutím stanovené doby moratorium zanikne také tehdy, jestliže soud insolvenční návrh zamítne nebo odmítne anebo řízení o něm zastaví. Odstavec 5 tyto procesní výsledky uvádí alternativně a zánik neváže na samostatný výrok o zrušení moratoria.
+
+[8] **Moratorium před zahájením insolvenčního řízení a časová působnost.** Podle § 125 se § 115 až 124 použijí obdobně i na moratorium před zahájením insolvenčního řízení, nestanoví-li § 126 jinak. § 126 odst. 3 pro tento režim doplňuje další důvod zániku: podání insolvenčního návrhu dlužníkem. Výklad vychází ze znění účinného k 19. 7. 2026; u starších moratorií je třeba ověřit tehdy účinné znění a přechodná ustanovení.
+
+### Judikatura
+
+Tato revize necituje žádné soudní rozhodnutí jako pramen samostatného pravidla k § 124. Tím se nevyslovuje závěr o neexistenci související judikatury; do produkčního textu se pouze nezařazuje rozhodnutí bez ověřeného plného textu a přímo nosného závěru.
+
+---
+
 ## § 125 — § 126 — Moratorium před zahájením IR
 
 **§ 125** — dlužník-podnikatel může navrhnout moratorium *i před* zahájením IR.

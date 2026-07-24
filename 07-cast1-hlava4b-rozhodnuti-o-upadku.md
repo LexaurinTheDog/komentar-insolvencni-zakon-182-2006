@@ -1989,45 +1989,58 @@ Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k př�
 
 ### § 163 — Náklady IS
 
-- Rozhodnutí o nákladech podle **OSŘ** (ne specifická IZ pravidla),
-- *Zvláštní status*: náhrada nákladů IS = *zvláštní pohledávka*, *nevztahuje se na ni* vyloučení podle § 170 písm. f).
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-#### F. Kazuistika
+#### Znění ustanovení
 
-**1. Modelová situace.** Třetí osoba T podala vůči insolvenčnímu správci S *vylučovací žalobu* (incidenční spor) a *prohrála* — pohledávka, resp. věc, do podstaty patří. Soud přiznává *náhradu nákladů řízení* úspěšnému správci (resp. majetkové podstatě). T namítá, že náklady incidenčního sporu jsou „pohledávkou vzniklou až po rozhodnutí o úpadku", na niž se vztahuje *vyloučení z uspokojení* podle § 170 písm. f). Důkazy: rozsudek (usnesení) o nákladech, vyúčtování odměny advokáta a hotových výdajů, soupis a stav majetkové podstaty.
+> O nákladech incidenčního sporu a jejich náhradě rozhodne insolvenční soud v rozhodnutí o incidenčním sporu, a to podle ustanovení [[občanského soudního řádu|občanského soudního řádu]], není-li v tomto zákoně stanoveno jinak. Náhrada nákladů incidenčního sporu je zvláštní pohledávkou, na kterou se nevztahuje § 170 písm. f).
+>
 
-**2. Právní otázka.** Podle jakých pravidel se rozhoduje o *náhradě nákladů* incidenčního sporu a jaký je *status* přiznané náhrady nákladů z hlediska jejího uspokojení v insolvenci (zejm. ve vztahu k vyloučení dle § 170 písm. f)?
+#### Přehled výkladu
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 163 — o náhradě nákladů incidenčního sporu se rozhoduje podle *o. s. ř.* (nikoli podle zvláštních insolvenčních pravidel pro náklady); *náhrada nákladů incidenčního sporu* má *zvláštní status* — je *zvláštní pohledávkou*, na niž se *nevztahuje* vyloučení z uspokojení podle § 170 písm. f).
-- *Související ustanovení téhož zákona:* § 170 (pohledávky vyloučené z uspokojení), § 168–169 (pohledávky za majetkovou podstatou a jim na roveň postavené), § 160–162 (režim a forma rozhodnutí), § 5 (zásady insolvenčního řízení).
-- *Související předpisy:* § 142, § 146, § 150, § 151 o. s. ř. (zásada úspěchu ve věci, rozhodování o nákladech, jejich výše); advokátní tarif (odměna a hotové výdaje).
-- *Judikatura:* NS 29 Cdo 3626/2023 (účinky incidenčního rozsudku se omezují na insolvenční řízení) — podtrhuje provázanost nákladového výroku s insolvenčním rámcem.
+Ustanovení určuje, kdo, kdy a podle jakého procesního předpisu rozhodne o nákladech incidenčního sporu. Současně pro náhradu těchto nákladů vytváří zvláštní zákonný status a výslovně ji vyjímá z vyloučení podle § 170 písm. f). Nezařazuje ji však slovně mezi pohledávky podle § 168 nebo § 169.
 
-**4. Subsumpce.** O nákladech incidenčního sporu soud rozhodne podle *o. s. ř.* — zde dle zásady *úspěchu ve věci* (§ 142 o. s. ř.) ve prospěch úspěšného správce / podstaty. Přiznaná *náhrada nákladů* incidenčního sporu je *zvláštní pohledávkou*, na kterou se *nevztahuje* vyloučení podle § 170 písm. f) (§ 163). Námitka T, že jde o vyloučenou pohledávku, je proto *nedůvodná*.
+#### Souvisící ustanovení
 
-**5. Řešení.** Insolvenční soud přizná náhradu nákladů incidenčního sporu úspěšné straně dle o. s. ř. (zpravidla podle úspěchu ve věci); takto přiznaná náhrada se v insolvenci uspokojuje, neboť *nepodléhá* vyloučení dle § 170 písm. f) (§ 163). Procesně: řádně *vyčíslit* náklady (odměna advokáta dle tarifu + hotové výdaje, příp. náhrada za DPH), uplatnit je v rámci sporu a při uspokojení respektovat jejich zvláštní status (odlišit od „běžných" pohledávek vzniklých po úpadku, na něž § 170 dopadá).
+- § 7 — subsidiární použití občanského soudního řádu,
+- § 159 — vymezení incidenčních sporů a odlišení jiných sporů,
+- § 160 až 162 — projednání incidenčního sporu a rozhodnutí o něm,
+- § 168 a § 169 — zákonné výčty pohledávek za majetkovou podstatou a pohledávek jim postavených na roveň,
+- § 170 písm. f) — pohledávky věřitelů vzniklé po rozhodnutí o úpadku, které se v insolvenčním řízení zásadně neuspokojují,
+- § 164 — závaznost pravomocného rozsudku v incidenčním sporu.
 
-**6. Varianty.** (a) Při *částečném úspěchu* obou stran by soud náklady *poměrně rozdělil* nebo žádné nepřiznal (§ 142 odst. 2, § 142 odst. 3 o. s. ř.). (b) Šlo-li by o *jiný* spor správce, který *není* incidenční (odst. 2 § 159), nákladová pravidla by se sice rovněž řídila o. s. ř., avšak *bez* zvláštního statusu zakotveného v § 163 pro incidenční spory.
+#### Souvisící předpisy
 
-#### G. Protiargumenty a rizika
+- § 142 o. s. ř. — náhrada podle míry úspěchu ve věci,
+- § 146 o. s. ř. — náklady při smíru, zastavení nebo odmítnutí,
+- § 150 o. s. ř. — výjimečné nepřiznání náhrady,
+- § 151 o. s. ř. — rozhodnutí o nákladech a určení jejich výše.
 
-- *Protiargument:* „Náhrada nákladů incidenčního sporu vznikla po úpadku, a je proto vyloučena z uspokojení podle § 170 písm. f)." — Neutralizace: § 163 *výslovně* stanoví, že na náhradu nákladů incidenčního sporu se vyloučení podle § 170 písm. f) *nevztahuje*; jde o zvláštní pohledávku.
-- *Protiargument:* „O nákladech incidenčního sporu se rozhoduje podle zvláštních insolvenčních pravidel." — Neutralizace: § 163 odkazuje na *o. s. ř.* (zásada úspěchu ve věci, § 142 a násl.), nikoli na specifická insolvenční pravidla.
-- *Slabé místo:* nesprávné *vyčíslení* nákladů (tarif, hotové výdaje, DPH) či chybné posouzení míry úspěchu; riziko záměny incidenčního sporu s „jiným" sporem správce, u něhož zvláštní status náhrady dle § 163 neplatí.
+#### Z důvodové zprávy
 
-#### H. Praktický závěr
+Oficiální důvodová zpráva k vládnímu návrhu insolvenčního zákona pojednává § 159 až 164 společně. Vysvětluje začlenění incidenčního sporu do rámce insolvenčního řízení požadavkem hospodárnosti a rychlosti a současně zdůrazňuje, že ne každý spor vedený insolvenčním správcem je sporem incidenčním. Zvláštní komentář pouze k nákladovému pravidlu § 163 nepodává.
 
-O nákladech incidenčního sporu se rozhoduje podle *o. s. ř.* (zásada úspěchu ve věci, § 142 a násl.), nikoli podle zvláštních insolvenčních pravidel. Přiznaná *náhrada nákladů* incidenčního sporu má *zvláštní status* — je zvláštní pohledávkou, na niž se *nevztahuje* vyloučení z uspokojení dle § 170 písm. f). Důležité je správné vyčíslení nákladů a respektování tohoto statusu při uspokojení.
+#### Literatura
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] O nákladech incidenčního sporu rozhodnout podle *o. s. ř.* (§ 142 a násl.) — zásada úspěchu ve věci.
-- [ ] Řádně *vyčíslit* náklady (odměna dle advokátního tarifu, hotové výdaje, případně náhrada za DPH).
-- [ ] Při uspokojení respektovat *zvláštní status* náhrady nákladů IS — *nevztahuje se* na ni § 170 písm. f).
-- [ ] Odlišit incidenční spor od „jiného" sporu správce (§ 159 odst. 2), kde zvláštní status dle § 163 neplatí.
-- [ ] Při částečném úspěchu posoudit poměrné rozdělení / nepřiznání nákladů (§ 142 odst. 2 a 3 o. s. ř.).
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento údaj není závěrem negativní rešerše.
 
-**Typicky rozhodné důkazy / podklady:** rozhodnutí o nákladech (výrok), vyúčtování odměny advokáta a hotových výdajů, doklady o úspěchu ve věci (rozsudek ve věci samé), soupis a stav majetkové podstaty pro účely uspokojení.
+#### Výklad
+
+[1] **Rozhodnutí v témže procesním aktu.** O nákladech incidenčního sporu i o jejich náhradě rozhoduje insolvenční soud v rozhodnutí o incidenčním sporu. § 163 je v tomto bodě zvláštní vůči obecné formulaci § 151 odst. 1 o. s. ř., podle níž soud rozhoduje v rozhodnutí, jímž se řízení u něho končí.
+
+[2] **Subsidiarita o. s. ř.** Odkaz na občanský soudní řád není bezvýjimečný: jeho nákladová pravidla se použijí, jen nestanoví-li insolvenční zákon jinak. Typicky je třeba rozlišit plný a částečný úspěch (§ 142 o. s. ř.), způsob skončení věci (§ 146 o. s. ř.) a případnou moderaci (§ 150 o. s. ř.); samotný § 163 proto nezakládá automatický nárok vždy úspěšné straně.
+
+[3] **Předmět zvláštního statusu.** Druhá věta se vztahuje na náhradu nákladů incidenčního sporu. Z textu nelze bez dalšího dovodit stejný status pro náklady jiného sporu vedeného insolvenčním správcem; § 159 odst. 2 výslovně stanoví, že jiné spory správce incidenčními spory nejsou.
+
+[4] **Vztah k § 170 písm. f).** Zákon výslovně vylučuje použití § 170 písm. f) na náhradu nákladů incidenčního sporu. Pozdější vznik takové náhrady proto sám o sobě nemůže být důvodem jejího vyloučení podle tohoto písmene. Výjimku nelze rozšiřovat na jiné kategorie pohledávek, které § 163 nejmenuje.
+
+[5] **„Zvláštní pohledávka“ není textově § 168 ani § 169.** § 163 používá vlastní označení. Aktuální výčty v § 168 a § 169 náhradu nákladů incidenčního sporu jako samostatnou položku neuvádějí. Bez další zákonné opory proto nelze tato označení zaměňovat ani ze samotného § 163 odvozovat konkrétní pořadí či okamžik uspokojení.
+
+[6] **Intertemporalita.** Aktuální znění § 163 k 19. 7. 2026 se shoduje s textem původního vládního návrhu. Při rozhodování v konkrétní věci je přesto nutné ověřit časově rozhodné znění nákladových ustanovení o. s. ř. i případných zvláštních pravidel insolvenčního zákona; shoda současného a původního textu sama neřeší všechny procesní intertemporální otázky.
+
+#### Judikatura
+
+Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k přímému výkladu § 163. Původní odkaz na rozsudek Nejvyššího soudu sp. zn. 29 Cdo 3626/2023 nebyl ponechán, protože v jednotce nebyl doložen plným textem jako přímá autorita k rozhodování o nákladech nebo statusu náhrady podle § 163. Nejde o negativní závěr o existenci relevantní judikatury.
 
 ### § 164 — Závaznost rozsudku
 

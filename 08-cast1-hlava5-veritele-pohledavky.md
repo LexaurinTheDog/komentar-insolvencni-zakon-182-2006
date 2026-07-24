@@ -465,64 +465,60 @@ Do produkčního textu nebyl zařazen judikatorní závěr. Kandidátní rozsude
 
 ## § 171 — Úroky zajištěných pohledávek
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Byl-li sjednán úrok, **zajištěná pohledávka se úročí v rozsahu zajištění** ode dne následujícího po dni rozhodnutí o způsobu řešení úpadku úrokovou sazbou dohodnutou před tím, než se dlužník dostal do prodlení; to neplatí, jde-li o úrok z prodlení.
 > (2) Je-li způsobem řešení úpadku **konkurs** a majetková podstata je zpeněžena **podle § 290** [jako jediný úkon — "going concern"], zvyšuje se přihlášená pohledávka zajištěného věřitele o úroky přirostlé podle odstavce 1.
 > (3) Je-li způsobem řešení úpadku **konkurs** a majetková podstata je zpeněžena **jinak než podle § 290**, odstavec 1 se nepoužije.
 > (4) Je-li způsobem řešení úpadku **reorganizace**, přirůstají úroky podle odstavce 1 věta před středníkem k pohledávce zajištěného věřitele ode dne následujícího po dni rozhodnutí o způsobu řešení úpadku a **splatné jsou měsíčně**, jakmile znalec ocení hodnotu zajištění.
+>
 
-### Výklad — **VÝJIMKA Z § 170 PRO ZAJIŠTĚNÉ**
+### Přehled výkladu
 
-**Zajištění věřitelé** mají *zvláštní privilegium* — jejich pohledávka **se úročí dál** (běžnou sazbou, ne úrokem z prodlení):
+§ 171 je výslovnou odchylkou od obecného pravidla § 170 písm. a), podle něhož se po rozhodnutí o úpadku zásadně neuspokojují později přirostlé úroky z přihlášených pohledávek. Odchylka se týká pouze sjednaného úroku zajištěné pohledávky, jen v rozsahu zajištění a nikoli úroku z prodlení. Její konkrétní účinek závisí na způsobu řešení úpadku a v konkursu též na způsobu zpeněžení.
 
-| Způsob řešení | Úročení po úpadku |
-|---|---|
-| Konkurs + zpeněžení dle § 290 (going concern) | **Ano** — úroky se připočítají k pohledávce |
-| Konkurs + běžné zpeněžování | **Ne** — odst. 1 se nepoužije |
-| Reorganizace | **Ano** — měsíčně splatné, jakmile znalec ocení |
+### Souvisící ustanovení
 
-**Logika**: zajištěný věřitel má *nárok* na výnos ze své zástavy. Pokud se zástava drží (going concern, reorganizace), úroky představují *cenu kapitálu, který je „vázán"* v podstatě.
+- **§ 2 písm. g), § 166 a § 167** — vymezení zajištěného věřitele, uplatnění zajištění a uspokojení v rozsahu zajištění.
+- **§ 153** — ustanovení znalce pro ocenění majetkové podstaty při reorganizaci a při doporučení zpeněžení podle § 290.
+- **§ 168 odst. 2 písm. i)** — úroky podle § 171 odst. 4 jsou pohledávkami za majetkovou podstatou.
+- **§ 170 písm. a)** — obecné vyloučení úroků přirostlých po rozhodnutí o úpadku, není-li stanoveno jinak.
+- **§ 290** — zpeněžení celé majetkové podstaty nebo její části jedinou smlouvou.
+- **§ 363 odst. 1 písm. e)** — neplacení úroků podle § 171 odst. 4 jako jeden z důvodů přeměny reorganizace v konkurs.
 
-### Vazby
+### Souvisící předpisy
 
-- **§ 170** — vyloučené úroky obecně.
-- **§ 290** — zpeněžení podniku jediným úkonem.
-- **§ 168 odst. 2 písm. i)** — úroky podle § 171 odst. 4 = pohledávka za podstatou.
+- **Zákon č. 89/2012 Sb., občanský zákoník** — obecný soukromoprávní základ smluvního úroku a úroku z prodlení; pro insolvenční účinky je rozhodující zvláštní úprava § 171.
 
-### F. Kazuistika
+### Z důvodové zprávy
 
-**1. Modelová situace.** Banka B má vůči dlužníku D zajištěnou pohledávku 10 mil. Kč (zástava — výrobní hala), úrok sjednán 6 % p. a. Soud rozhodne o úpadku a o jeho řešení reorganizací; znalec ocení halu na 12 mil. Kč. B požaduje, aby jí po dobu reorganizace přirůstaly a byly měsíčně vypláceny úroky z její zajištěné pohledávky. V paralelní variantě je řešením konkurs a hala se zpeněží buď jako součást podniku jediným úkonem (§ 290), nebo samostatně v dražbě. Důkazy: úvěrová a zástavní smlouva, znalecký posudek, rozhodnutí o způsobu řešení úpadku.
+Oficiální důvodová zpráva k vládnímu návrhu insolvenčního zákona pojednává § 168 až 172 společně. Úročení podle § 171 vysvětluje jako protihodnotu za to, že zajištění věřitelé nemohou okamžitě realizovat právo na uspokojení ze zajištění, a jako zásadní výjimku z § 170. Jde o historické vysvětlení původního návrhu; podmínky použití je nutné vyvozovat z aktuálního znění zákona.
 
-**2. Právní otázka.** Za jakých podmínek se zajištěná pohledávka po rozhodnutí o úpadku dále úročí, ač § 170 úroky obecně vylučuje, a kdy jsou tyto úroky splatné?
+### Literatura
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 171 odst. 1 (úročení v rozsahu zajištění sjednanou sazbou, nikoli úrokem z prodlení), odst. 2–3 (konkurs — jen při zpeněžení dle § 290), odst. 4 (reorganizace — měsíční splatnost po ocenění zajištění).
-- *Související ustanovení téhož zákona:* § 170 (obecné vyloučení úroků — výjimkou je právě § 171), § 168 odst. 2 písm. i) (úroky dle § 171 odst. 4 jako pohledávka za podstatou), § 290 (zpeněžení podniku jedním úkonem), § 167 odst. 3 (ocenění zajištění).
-- *Související předpisy:* OZ (smluvní úrok vs. úrok z prodlení).
-- *Judikatura:* nosný závěr, že úročení zajištěné pohledávky po úpadku je omezeno hodnotou zajištění a předpokládá going concern, resp. reorganizaci; nejde o automatické prolomení § 170.
+Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; její zpracování je odloženo do druhého kola. Nejde o negativní rešerši.
 
-**4. Subsumpce.** Pohledávka B je zajištěná, hodnota zajištění (12 mil.) > pohledávka (10 mil.), úrok sjednán. Při reorganizaci → odst. 4: úroky 6 % p. a. přirůstají ode dne po rozhodnutí o způsobu řešení úpadku a jsou splatné měsíčně po ocenění zajištění; současně jde o pohledávku za podstatou (§ 168 odst. 2 písm. i). Při konkursu se odst. 1 použije jen, zpeněží-li se podstata dle § 290 (going concern); při běžné dražbě se nepoužije (odst. 3).
+### Výklad
 
-**5. Řešení.** V reorganizaci správce/dlužník s dispozičními oprávněními vyplácí B úroky měsíčně z podstaty. V konkursu „going concern" se úroky připočtou k přihlášené pohledávce B (odst. 2); v běžném konkursu B na úroky po úpadku nárok nemá.
+[1] **Předpoklady a rozsah.** Úročení podle odstavce 1 předpokládá sjednaný úrok a zajištěnou pohledávku. Běží pouze v rozsahu zajištění. Zákon určuje počátek dnem následujícím po dni rozhodnutí o způsobu řešení úpadku a sazbu omezuje na sazbu dohodnutou před tím, než se dlužník dostal do prodlení.
 
-**6. Varianty.** (a) Kdyby hodnota zajištění klesla pod výši pohledávky (např. ocenění 8 mil.), úročí se jen v rozsahu zajištění; přesah je nezajištěný a úroky z něj se neuspokojují (§ 170). (b) Kdyby šlo o úrok z prodlení (nikoli sjednaný řádný úrok), § 171 se nepoužije vůbec.
+[2] **Vyloučení úroku z prodlení.** Závěrečná část odstavce 1 výslovně vylučuje úrok z prodlení. Nestačí proto označení položky ve smlouvě; pro aplikaci je třeba rozlišit sjednaný úrok od sankce navázané na prodlení.
 
-### G. Protiargumenty a rizika
+[3] **Konkurs se zpeněžením podle § 290.** Je-li podstata zpeněžena způsobem podle § 290, přičtou se úroky přirostlé podle odstavce 1 k přihlášené pohledávce zajištěného věřitele. Podmínkou není pouhé zamýšlené nebo doporučené zpeněžení tímto způsobem, nýbrž naplnění zákonného předpokladu, že podstata takto zpeněžena je.
 
-- *Protiargument B:* „Jako zajištěný věřitel mám právo na úrok bez ohledu na způsob zpeněžení." — Neutralizace: odst. 3 výslovně vylučuje úročení v konkursu při běžném zpeněžování; privilegium je vázáno na going concern (§ 290) nebo reorganizaci.
-- *Protiargument:* „Úroky přirůstají v plné sazbě dle smlouvy včetně sankční složky." — Neutralizace: odst. 1 připouští jen sazbu dohodnutou před prodlením a vylučuje úrok z prodlení; sankční nadstavba se neuplatní.
-- *Slabé místo:* závislost úročení na hodnotě a okamžiku ocenění zajištění (§ 167 odst. 3) — pokles hodnoty či pozdní posudek může výrazně zúžit úročitelnou část a oddálit splatnost.
+[4] **Jiný způsob zpeněžení v konkursu.** Je-li podstata v konkursu zpeněžena jinak než podle § 290, odstavec 3 použití odstavce 1 vylučuje. Samotné postavení zajištěného věřitele tedy pokračování úročení podle § 171 nezakládá.
 
-### H. Praktický závěr
+[5] **Reorganizace.** Při reorganizaci přirůstají úroky vymezené v odstavci 1 větě před středníkem od následujícího dne po rozhodnutí o způsobu řešení úpadku. Po ocenění hodnoty zajištění znalcem jsou splatné měsíčně; § 168 odst. 2 písm. i) je řadí mezi pohledávky za majetkovou podstatou.
 
-§ 171 je úzkou výjimkou z vyloučení úroků (§ 170) ve prospěch zajištěných věřitelů tam, kde je zástava držena a zhodnocována (going concern, reorganizace). Mimo tyto situace zajištěnému věřiteli úrok po úpadku nepřirůstá.
+[6] **Aplikační postup.** Je třeba ověřit smluvní ujednání o úroku a sazbu před prodlením, existenci a rozsah zajištění, datum rozhodnutí o způsobu řešení úpadku, způsob řešení úpadku a — v konkursu — skutečný způsob zpeněžení. V reorganizaci je pro splatnost nezbytné též ocenění hodnoty zajištění znalcem.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověřit, že jde o sjednaný řádný úrok (ne úrok z prodlení) a že pohledávka je zajištěná.
-- [ ] Zjistit způsob řešení úpadku a u konkursu způsob zpeněžení (§ 290 vs. běžná dražba).
-- [ ] Omezit úročení rozsahem hodnoty zajištění (§ 167 odst. 3) a navázat splatnost na ocenění (reorganizace — měsíčně).
-- [ ] Zařadit úroky dle § 171 odst. 4 jako pohledávku za podstatou (§ 168 odst. 2 písm. i).
+[7] **Intertemporalita.** Tento výklad vychází ze znění účinného k 19. 7. 2026. U staršího insolvenčního řízení je nutné samostatně určit znění účinné v rozhodné době; historická důvodová zpráva tento krok nenahrazuje.
 
-**Typicky rozhodné důkazy / podklady:** úvěrová a zástavní smlouva se sazbou úroku, rozhodnutí o způsobu řešení úpadku, znalecký posudek o hodnotě zajištění, doklad o způsobu zpeněžení podstaty.
+### Judikatura
+
+Pro tuto revizi nebylo použito žádné rozhodnutí, u něhož by plný text z oficiálního soudního webu obsahoval nosný závěr specificky k § 171 a současně prošel požadovanou kontrolou skutkového, procesního a intertemporálního kontextu. Dřívější neurčitý odkaz na „nosný závěr“ byl proto odstraněn; nejde o tvrzení, že relevantní judikatura neexistuje.
 
 ---
 

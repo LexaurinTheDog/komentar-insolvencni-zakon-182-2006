@@ -1296,49 +1296,63 @@ Při této revizi nebylo jako pramen materiálního právního závěru použito
 
 ---
 
-## § 183 — § 187 — Vedlejší úprava: solidární odpovědnost, zpětvzetí, zánik účasti
+## § 183 — Zajištění věcmi třetích osob a ručení
 
-### § 183 — Zajištění věcmi třetích osob, ručitelé
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-- *přihláška neomezuje* věřitelovo právo domáhat se uspokojení **z zajištění třetích osob** ani **od ručitelů**,
-- *regresní pohledávka* zajišťovatele / ručitele — lze přihlásit jako **podmíněnou**,
-- *vstup do řízení* — *přiměřeně § 18*.
+### Znění ustanovení
 
-#### F. Kazuistika
+> (1) Přihláškou pohledávky, kterou zajišťují věci, práva pohledávky nebo jiné majetkové hodnoty třetích osob, není dotčeno právo věřitele domáhat se uspokojení pohledávky z tohoto zajištění.
+>
+> (2) Přihláškou pohledávky není dotčeno ani právo věřitele domáhat se uspokojení pohledávky po kterékoli z osob odpovídajících mu společně a nerozdílně s dlužníkem; o právu věřitele požadovat plnění od dlužníkova ručitele, včetně bankovní záruky a zvláštních případů ručení27), to platí obdobně.
+>
+> (3) Osoby, od kterých může věřitel požadovat plnění podle odstavců 1 a 2, mohou pohledávku, která by jim proti dlužníku vznikla uspokojením věřitele, přihlásit jako pohledávku podmíněnou. Jestliže však věřitel takovou pohledávku přihlásí, mohou se jí tyto osoby v rozsahu, v němž pohledávku uspokojí, v insolvenčním řízení domáhat místo něj bez zřetele k tomu, zda ji přihlásily, s tím, že pro jejich vstup do řízení platí přiměřeně § 18; návrh podle tohoto ustanovení mohou podat samy.
+>
 
-**1. Modelová situace.** Věřitel V má pohledávku vůči dlužníku D 2 mil. Kč; ta je zajištěna zástavním právem k nemovitosti třetí osoby T (nikoli dlužníka) a navíc ručením ručitele R. Na D je prohlášen úpadek. V přihlásí pohledávku do IR a současně se domáhá zaplacení po ručiteli R a uspokojení ze zástavy T mimo insolvenční řízení. Ručitel R, který V částečně plnil, chce své budoucí regresní právo vůči D zajistit v IR. Důkazy: smlouva, zástavní smlouva k nemovitosti T, ručitelské prohlášení R, doklady o plnění R.
+### Přehled výkladu
 
-**2. Právní otázka.** Brání přihlášení pohledávky do insolvenčního řízení dlužníka tomu, aby se věřitel uspokojil ze zajištění poskytnutého třetí osobou nebo od ručitele, a jak může ručitel uplatnit své regresní právo?
+§ 183 dovoluje věřiteli souběžně přihlásit pohledávku za dlužníkem a požadovat plnění ze zajištění poskytnutého majetkem třetí osoby nebo od dalšího osobního dlužníka či ručitele. Osobě, která věřitele uspokojí, otevírá dvě procesní cesty: před plněním může přihlásit budoucí pohledávku proti dlužníku jako podmíněnou; po plnění může v uhrazeném rozsahu vstoupit na místo přihlášeného věřitele postupem podle přiměřeně použitého § 18. Souběh uplatnění nesmí vést k vícenásobnému uspokojení téže pohledávky.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 183 — přihláška neomezuje právo věřitele domáhat se uspokojení ze zajištění třetích osob ani od ručitelů; regresní pohledávka zajišťovatele/ručitele se přihlašuje jako podmíněná; vstup do řízení přiměřeně dle § 18.
-- *Související ustanovení téhož zákona:* § 173 odst. 3 (přihláška podmíněné pohledávky), § 18 (procesní nástupnictví/vstup), § 184–187 (zpětvzetí, zánik účasti při uspokojení).
-- *Související předpisy:* OZ — ručení (§ 2018 a násl.), zástavní právo třetí osoby, regres ručitele/zástavce vůči dlužníku.
-- *Judikatura:* nosný závěr, že insolvence dlužníka se nedotýká samostatných nároků věřitele vůči ručitelům a zástavcům z řad třetích osob; ti plní bez ohledu na míru uspokojení v IR.
+### Souvisící ustanovení
 
-**4. Subsumpce.** Zajištění poskytla třetí osoba T a ručení R → § 183: přihláška V do IR D nebrání souběžnému uspokojení ze zástavy T ani od R (mimo IR). Regres R vůči D, který vznikne až plněním, má povahu budoucí/podmíněné pohledávky → přihlašuje se jako podmíněná (§ 173 odst. 3). Plní-li R za D, může vstoupit do řízení přiměřeně dle § 18.
+- § 18 — procesní nástupnictví, které se pro vstup plnící osoby použije přiměřeně,
+- § 165 až 167 — uplatnění a uspokojování zajištěných pohledávek v insolvenčním řízení,
+- § 173 a § 174 odst. 3 — přihlašování pohledávek a údaje o zajištění,
+- § 184 odst. 2 a 3 — povinnost uvést uspokojení třetí osobou ve zpětvzetí a lhůta této osoby k návrhu na vstup,
+- § 189 odst. 1 a § 190 odst. 3 — evidence a přezkum podmíněných pohledávek osob podle § 183,
+- § 187 — obdobný postup podle § 184 až 186 pro část přihlášené pohledávky.
 
-**5. Řešení.** V se může uspokojit od R a ze zástavy T plně mimo IR, nezávisle na procentu uspokojení v insolvenci D; nesmí však dostat dvakrát totéž (po uspokojení se rozsah přihlášky koriguje, § 184–187). R, který V plnil, uplatní regres vůči D přihláškou jako podmíněnou pohledávku, případně procesně nastoupí na místo V v rozsahu plnění (§ 18).
+### Souvisící předpisy
 
-**6. Varianty.** (a) Kdyby zajištění poskytl sám dlužník (nikoli třetí osoba), uplatnilo by se uspokojení ze zajištění v režimu § 166–167, nikoli volně mimo IR dle § 183. (b) Kdyby R uhradil celou pohledávku V, V by vzal přihlášku zpět (§ 184) a do řízení by v odpovídajícím rozsahu vstoupil R s regresním nárokem.
+Hmotněprávní titul a rozsah pohledávky plnící osoby proti dlužníku určuje předpis rozhodný pro konkrétní závazek a zajišťovací institut. Tato revize jeho obsah obecně nesumarizuje, protože byl ověřován pouze insolvenční procesní režim § 183; historické pozadí původní úpravy zachycuje ověřená důvodová zpráva.
 
-#### G. Protiargumenty a rizika
+### Z důvodové zprávy
 
-- *Protiargument:* „Po přihlášení do IR se věřitel musí uspokojit jen v insolvenci a nemůže již žalovat ručitele." — Neutralizace: § 183 výslovně zachovává souběžné právo vůči ručitelům a zástavcům z řad třetích osob; přihláška je nezužuje.
-- *Protiargument:* „Regres ručitele nelze přihlásit, dokud ručitel neplnil." — Neutralizace: § 173 odst. 3 ve spojení s § 183 umožňuje přihlásit budoucí regres jako podmíněnou pohledávku ještě před plněním.
-- *Slabé místo:* riziko dvojího uspokojení věřitele (z IR i od ručitele/zástavce) vyžaduje koordinaci s úpravou zániku/úpravy účasti (§ 184–187); sporné bývá též procesní nástupnictví dle § 18.
+Zvláštní část důvodové zprávy k vládnímu návrhu insolvenčního zákona (sněmovní tisk 1120/0, k § 183, číslovaná i PDF s. 199) označila úpravu za rozšíření dřívějšího režimu ručení na další zajištění z majetku třetích osob. Jejím deklarovaným cílem bylo umožnit věřiteli uplatnit takové zajištění mimo insolvenční řízení a současně umožnit plnící osobě podmíněnou přihlášku nebo vstup do řízení v rozsahu plnění. Jde o historické vysvětlení původního návrhu; konkrétní podmínky určuje účinný text zákona.
 
-#### H. Praktický závěr
+### Literatura
 
-§ 183 zaručuje věřiteli paralelní cestu k uspokojení od ručitelů a ze zajištění třetích osob nezávisle na insolvenci dlužníka; ručiteli/zástavci umožňuje předem přihlásit budoucí regres jako podmíněnou pohledávku a vstoupit do řízení.
+Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; je rozhodnutím editora odložena do druhého kola. Nejde o negativní rešeršní závěr.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Odlišit zajištění poskytnuté třetí osobou (§ 183 — volné uplatnění mimo IR) od zajištění dlužníka (§ 166–167).
-- [ ] Souběžně s přihláškou uplatnit nároky vůči ručitelům a zástavcům, hlídat zákaz dvojího uspokojení.
-- [ ] Regresní nárok ručitele/zástavce přihlásit jako podmíněnou pohledávku (§ 173 odst. 3).
-- [ ] Při plnění ručitele řešit procesní nástupnictví/vstup do řízení přiměřeně dle § 18 a korekci účasti (§ 184–187).
+### Výklad
 
-**Typicky rozhodné důkazy / podklady:** smlouva a ručitelské prohlášení, zástavní smlouva třetí osoby, doklady o plnění ručitele/zástavce, podklady k regresnímu nároku a k rozsahu zbývající pohledávky.
+[1] **Zajištění majetkem třetí osoby.** Odstavec 1 se týká zajištění tvořeného majetkovou hodnotou třetí osoby, nikoli majetkem insolvenčního dlužníka. Přihláška pohledávky za dlužníkem sama neomezuje právo věřitele domáhat se uspokojení z tohoto cizího zajištění. Režim uspokojení ze zajištění náležejícího do majetkové podstaty naproti tomu určují zejména § 165 až 167.
+
+[2] **Osobní zajištění a solidární závazek.** Odstavec 2 zachovává vedle přihlášky právo požadovat plnění po kterékoli osobě odpovídající věřiteli společně a nerozdílně s dlužníkem. Obdobně výslovně zahrnuje dlužníkova ručitele, bankovní záruku a zákonem označené zvláštní případy ručení. Přihláška tedy není volbou, která by sama vyloučila uplatnění těchto práv.
+
+[3] **Souběh uplatnění, nikoli vícenásobné uspokojení.** § 183 zachovává více cest k uspokojení, ale nezakládá právo obdržet na tutéž pohledávku více, než činí její neuspokojený rozsah. Po plnění třetí osoby je proto nutné přesně vymezit částku, datum a právní titul plnění a promítnout je do dalšího procesního postupu.
+
+[4] **Podmíněná přihláška plnící osoby.** Osoba uvedená v odstavcích 1 a 2 může ještě před uspokojením věřitele přihlásit pohledávku, která jí proti dlužníku vznikne teprve tímto plněním, jako podmíněnou. Přihláška musí určit právní důvod, výši a podmínku vzniku pohledávky podle obecných pravidel pro přihlášky; § 183 sám hmotněprávní regresní titul nevytváří.
+
+[5] **Vstup místo přihlášeného věřitele.** Přihlásil-li pohledávku věřitel, může se plnící osoba v rozsahu svého plnění domáhat pohledávky v insolvenčním řízení místo něj bez ohledu na to, zda dříve podala vlastní podmíněnou přihlášku. Pro vstup se přiměřeně použije § 18 a návrh může podat sama plnící osoba.
+
+[6] **Zpětvzetí po plnění.** Uspokojí-li věřitele osoba podle § 183 odst. 1 nebo 2 a věřitel proto bere přihlášku zpět, musí tuto příčinu ve zpětvzetí uvést. Podle § 184 odst. 3 soud plnící osobu vyrozumí, poskytne jí lhůtu k návrhu na vstup a o zpětvzetí rozhodne až poté; v rozsahu povoleného vstupu se ke zpětvzetí nepřihlíží. Plnění ručitele či zástavce proto nelze bez tohoto rozlišení zpracovat jako prostý důvod k okamžitému ukončení účasti původního věřitele.
+
+[7] **Intertemporalita a doklady.** Procesní postup se řídí zněním insolvenčního zákona rozhodným pro dané řízení. Vznik a rozsah pohledávky plnící osoby proti dlužníku je však nutné posoudit podle hmotného práva rozhodného pro konkrétní závazek a plnění. Návrh na vstup musí umožnit ověřit postavení navrhovatele, skutečnost a rozsah plnění i vznik uplatňované pohledávky; jde o redakční metodický závěr vycházející z § 183 odst. 3 a přiměřeně použitého § 18.
+
+### Judikatura
+
+Při této revizi nebylo jako pramen materiálního právního závěru použito žádné soudní rozhodnutí. Tím se nevyslovuje, že relevantní judikatura neexistuje; zařazení rozhodnutí vyžaduje otevření plného textu z oficiálního soudního webu a samostatnou kontrolu skutkového, procesního a intertemporálního kontextu.
 
 ### § 184 — § 187 — Zpětvzetí přihlášky
 

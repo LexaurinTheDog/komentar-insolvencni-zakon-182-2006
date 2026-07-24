@@ -398,86 +398,68 @@ V tomto kole nebylo do komentáře převzato žádné rozhodnutí jako nosný pr
 
 ## § 170 — Pohledávky vyloučené z uspokojení — **KLÍČOVÉ NEGATIVNÍ PRAVIDLO**
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > V insolvenčním řízení se neuspokojují žádným ze způsobů řešení úpadku, není-li dále stanoveno jinak,
-> a) **úroky, úroky z prodlení a poplatek z prodlení** z pohledávek přihlášených věřitelů, vzniklých před rozhodnutím o úpadku, pokud **přirostly až v době po tomto rozhodnutí**,
-> b) **úroky, úroky z prodlení a poplatek z prodlení** z pohledávek věřitelů, které se staly **splatné až po rozhodnutí o úpadku**,
-> c) pohledávky věřitelů z **darovacích smluv**,
-> d) **mimosmluvní sankce** postihující majetek dlužníka, s výjimkou penále za nezaplacení daní, poplatků a jiných obdobných peněžitých plnění, pojistného na sociální zabezpečení, příspěvku na státní politiku zaměstnanosti a pojistného za veřejné zdravotní pojištění, pokud povinnost zaplatit toto penále **vznikla před rozhodnutím o úpadku**,
-> e) **smluvní pokuty**, pokud právo na jejich uplatnění vzniklo **až po rozhodnutí o úpadku**,
-> f) **náklady účastníků řízení** vzniklé jim účastí v insolvenčním řízení.
+>
+> a) úroky, úroky z prodlení a poplatek z prodlení z pohledávek přihlášených věřitelů, vzniklých před rozhodnutím o úpadku, pokud přirostly až v době po tomto rozhodnutí,
+>
+> b) úroky, úroky z prodlení a poplatek z prodlení z pohledávek věřitelů, které se staly splatné až po rozhodnutí o úpadku,
+>
+> c) pohledávky věřitelů z darovacích smluv,
+>
+> d) mimosmluvní sankce postihující majetek dlužníka, s výjimkou penále za nezaplacení daní, poplatků a jiných obdobných peněžitých plnění, pojistného na sociální zabezpečení, příspěvku na státní politiku zaměstnanosti a pojistného za veřejné zdravotní pojištění, pokud povinnost zaplatit toto penále vznikla před rozhodnutím o úpadku,
+>
+> e) smluvní pokuty, pokud právo na jejich uplatnění vzniklo až po rozhodnutí o úpadku,
+>
+> f) náklady účastníků řízení vzniklé jim účastí v insolvenčním řízení.
+>
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *NS* [29 ICdo 72/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4D58B3F4F8CB55F8C1258C0F0052AEBD?openDocument) — kat. A, 4. 12. 2024
-  > „Příspěvek do garančního fondu dle § 4 odst. 1 zákona č. 168/1999 Sb. nemá charakter mimosmluvní sankce postihující majetek dlužníka (ve smyslu § 170 písm. d/ insolvenčního zákona)"
+§ 170 taxativně vymezuje pohledávky, které se v insolvenčním řízení zásadně neuspokojují žádným způsobem řešení úpadku. Zákon současně připouští výslovné odchylky. Rozhodným mezníkem u písmen a), b), d) a e) je rozhodnutí o úpadku; jednotlivá písmena však používají rozdílná kritéria, která nelze zaměňovat.
 
-### Výklad — **NULOVÁ KATEGORIE**
+### Souvisící ustanovení
 
-**Pohledávky se *neuspokojují vůbec***. Nedostávají se ani do rozvrhu, ani do plnění plánu, ani do oddlužení.
+- § 51 odst. 4 — hlasovací právo věřitelů s pohledávkami podle § 170.
+- § 140a až 140c — účinky rozhodnutí o úpadku na jiná řízení o těchto pohledávkách.
+- § 163 — zvláštní režim náhrady nákladů incidenčního sporu.
+- § 171 — úročení zajištěné pohledávky v rozsahu zajištění a podle způsobu řešení úpadku.
+- § 172 — odlišení podřízených pohledávek; odstavec 2 zachovává přednost vyloučení podle § 170.
+- § 203a — spor o pořadí při pochybnosti, zda se pohledávka podle § 170 neuspokojuje.
+- § 356 odst. 1 a § 414 odst. 7 — zvláštní následky v reorganizaci a po osvobození v oddlužení.
 
-#### Šestice typů (odst. taxativní)
+### Souvisící předpisy
 
-**a) Úroky přirostlé po úpadku** — z pohledávek vzniklých před úpadkem. *Logika*: čas po úpadku už není věřitelova doba — proč by měl rust úrok?
+- Občanský zákoník upravuje jednotlivé soukromoprávní nároky, jejichž insolvenční uspokojení § 170 omezuje, zejména úrok, úrok z prodlení, darování a smluvní pokutu. Jejich vznik a obsah je nutno nejprve určit podle rozhodného hmotného práva; § 170 následně řeší jejich uspokojení v insolvenčním řízení.
 
-**b) Úroky z pohledávek splatných po úpadku** — *plné* vyloučení.
+### Z důvodové zprávy
 
-**c) Pohledávky z darovacích smluv** — *darování není kompenzace*. Pokud věřitel slíbil dlužníkovi darovat (a dlužník to ještě nepřijal), darovací pohledávka neuspokojí.
+Oficiální důvodová zpráva k vládnímu návrhu insolvenčního zákona pojednává § 168 až 172 společně. K § 170 uvádí pouze, že výčet pohledávek, které se v insolvenčním řízení neuspokojují, v podstatě odpovídá tehdy platné úpravě; § 171 charakterizuje jako zásadní výjimku z pravidla § 170. Jde o historickou interpretační pomůcku, nikoli náhradu aktuálního textu a pozdější judikatury.
 
-**d) Mimosmluvní sankce** (pokuty, penále) — *s výjimkou* penále za daně/pojistné, pokud povinnost vznikla **před úpadkem**.
+### Literatura
 
-**e) Smluvní pokuty po úpadku** — typický scénář: smlouva má smluvní pokutu za prodlení; věřitel uplatňuje pokutu *za období po úpadku*. **Neuspokojí se**. *Pokuta za období před úpadkem* — *uspokojí se* (přihlášená pohledávka).
+Odborná literatura je rozhodnutím editora odložena do druhého kola; tento oddíl nepředstavuje negativní rešerši.
 
-**f) Náklady účastníků** za vlastní účast — typicky náklady na účast na schůzi, na cestování k soudu, právní zastoupení (s výjimkou nákladů v incidenčním sporu — § 163).
+### Výklad
 
-> *Výjimka pro IS*: § 163 *in fine* — náklady incidenčního sporu *nejsou* vyloučeny dle § 170 písm. f).
+[1] Úvodní věta obsahuje pravidlo i výhradu: uvedené pohledávky se neuspokojují, „není-li dále stanoveno jinak“. Proto nelze § 170 popsat jako bezvýjimečnou „nulovou kategorii“. Výslovné odchylky obsahují zejména § 163, § 171, § 356 odst. 1 a § 414 odst. 7.
 
-### Vazby
+[2] Písmeno a) dopadá na příslušenství přihlášených pohledávek vzniklých před rozhodnutím o úpadku, jestliže přirostlo až po tomto rozhodnutí. Písmeno b) samostatně vylučuje vyjmenované příslušenství pohledávek, které se staly splatnými až po rozhodnutí o úpadku. U každého nároku je proto třeba oddělit vznik pohledávky, její splatnost a dobu přirůstání příslušenství.
 
-- **§ 171** — úroky zajištěných pohledávek (výjimka pro reorganizaci).
-- **§ 172** — podřízené pohledávky (úroky se v oddlužení považují za podřízené).
-- **§ 163** — náklady incidenčního sporu.
+[3] Písmeno c) vylučuje pohledávky věřitelů z darovacích smluv bez další časové podmínky. Písmeno e) naproti tomu neváže vyloučení na dobu sjednání smluvní pokuty, nýbrž na okamžik vzniku práva na její uplatnění.
 
-### Praktická poznámka
+[4] Výjimka uvnitř písmene d) se týká jen vyjmenovaného penále a jen tehdy, vznikla-li povinnost je zaplatit před rozhodnutím o úpadku. U jiného plnění je nutno nejprve určit, zda skutečně naplňuje zákonnou kategorii mimosmluvní sankce postihující majetek dlužníka; samotný veřejnoprávní původ pohledávky takovou kvalifikaci nenahrazuje.
 
-Praktický důsledek: věřitel s pohledávkou 1 mil. Kč jistiny + 200 tis. úroků + 50 tis. úroků z prodlení + 100 tis. smluvní pokuty:
-- *před úpadkem*: 1,35 mil. Kč přihlášených,
-- *po úpadku*: nepřirůstá *nic* — celý 5letý řízení získá maximálně 1,35 mil. Kč × procento uspokojení.
+[5] Písmeno f) nese pravidlo, že účastník si náklady vzniklé účastí v insolvenčním řízení nese sám. Náhrada nákladů incidenčního sporu je však podle § 163 zvláštní pohledávkou, na kterou se § 170 písm. f) nevztahuje.
 
-### F. Kazuistika
+[6] Pochybnost o tom, zda se pohledávka neuspokojuje podle § 170, se neřeší pouhým neformálním „vyřazením“. § 203a upravuje žalobu na určení pořadí a následky jejího nepodání nebo neúspěchu. Procesní postup je třeba volit podle způsobu, jakým věřitel pohledávku uplatnil, a podle obsahu rozhodnutí insolvenčního soudu.
 
-**1. Modelová situace.** Věřitel V přihlásí vůči dlužníku D pohledávku: jistina 1 000 000 Kč splatná před úpadkem, k tomu úrok z prodlení narostlý do dne rozhodnutí o úpadku 120 000 Kč a dále úrok z prodlení „narostlý" za období po rozhodnutí o úpadku 80 000 Kč, plus smluvní pokuta 0,1 % denně za prodlení účtovaná i za období po úpadku. Současně pojišťovna přihlásí příspěvek do garančního fondu dle zák. č. 168/1999 Sb. jako „sankci". Důkazy: smlouva, vyčíslení úroků a pokuty s rozhodnými daty, rozhodnutí o úpadku.
+### Judikatura
 
-**2. Právní otázka.** Které z těchto nároků se v insolvenčním řízení vůbec neuspokojují podle § 170 a které do něj naopak patří?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 170 písm. a)–b) (úroky přirostlé/splatné po rozhodnutí o úpadku), písm. d) (mimosmluvní sankce s výjimkou daňového/pojistného penále vzniklého před úpadkem), písm. e) (smluvní pokuty s právem vzniklým po úpadku), písm. f) (náklady účastníků).
-- *Související ustanovení téhož zákona:* § 171 (výjimka — úročení zajištěných v going concern/reorganizaci), § 172 odst. 2 (v oddlužení se přesah úroků/pokut nad jistinu považuje za podřízený), § 163 (náklady incidenčního sporu nejsou vyloučeny).
-- *Související předpisy:* zák. č. 168/1999 Sb. (příspěvek do garančního fondu); OZ (úrok z prodlení, smluvní pokuta).
-- *Judikatura:* nosný závěr (29 ICdo 72/2024), že příspěvek do garančního fondu dle § 4 odst. 1 zák. č. 168/1999 Sb. nemá charakter mimosmluvní sankce ve smyslu § 170 písm. d) — uspokojuje se.
-
-**4. Subsumpce.** Jistina 1 mil. + úrok do úpadku 120 000 Kč → přihlašuje se a uspokojuje. Úrok za období po rozhodnutí o úpadku 80 000 Kč → písm. a)/b), neuspokojuje se. Smluvní pokuta za období po úpadku → písm. e), neuspokojuje se (pokuta za období před úpadkem ano). Příspěvek do garančního fondu → dle judikatury není mimosmluvní sankcí, uspokojuje se.
-
-**5. Řešení.** Správce při přezkumu uzná 1 120 000 Kč (jistina + úrok do úpadku) a příspěvek do garančního fondu; popře úrok a smluvní pokutu za období po úpadku (resp. tyto nelze uspokojit dle § 170). V získá maximálně procentní podíl z uznané částky; po úpadku již nic nepřirůstá.
-
-**6. Varianty.** (a) Je-li pohledávka V zajištěná a podstata se zpeněží jako going concern (§ 290) nebo v reorganizaci, úroky po úpadku se výjimečně připočítají dle § 171 — § 170 se potud neuplatní. (b) V oddlužení se přesah úroků/úroků z prodlení/pokut nad výši jistiny posoudí jako podřízená pohledávka (§ 172 odst. 2), nikoli jako zcela vyloučená.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Smluvní pokuta byla sjednána před úpadkem, tedy se uspokojí celá." — Neutralizace: rozhodné je, kdy vzniklo *právo na pokutu* (porušení povinnosti); za prodlení nastalé po rozhodnutí o úpadku se neuspokojuje (písm. e), bez ohledu na datum sjednání.
-- *Protiargument:* „Každé veřejnoprávní plnění sankční povahy spadá pod písm. d)." — Neutralizace: judikatura rozlišuje skutečné mimosmluvní sankce od plnění s jinou funkcí (garanční fond); nutno zkoumat povahu, nikoli název.
-- *Slabé místo:* odlišení „úroku přirostlého před vs. po úpadku" u pohledávek se splatností na rozhraní rozhodnutí o úpadku vyžaduje přesné vyčíslení ke dni; chyba vede k popření a riziku § 178.
-
-### H. Praktický závěr
-
-§ 170 je „nulová kategorie" — vymezuje nároky, které do uspokojení vůbec nevstoupí. Pro věřitele to znamená kapitálové zmrazení dnem rozhodnutí o úpadku: úroky a pokuty za následující (často mnohaleté) řízení nepřirůstají.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Vyčíslit úroky/úroky z prodlení/pokuty ke dni rozhodnutí o úpadku a oddělit část za následující období.
-- [ ] U sankcí rozlišit smluvní pokutu (písm. e) a mimosmluvní sankci (písm. d) vč. výjimky pro daňové/pojistné penále vzniklé před úpadkem.
-- [ ] Ověřit, zda se neuplatní výjimka § 171 (zajištění v going concern/reorganizaci) nebo režim § 172 odst. 2 v oddlužení.
-- [ ] Náklady vlastní účasti v IR nepřihlašovat (písm. f); náklady incidenčního sporu řešit dle § 163.
-
-**Typicky rozhodné důkazy / podklady:** smlouva s ujednáním o úrocích a pokutě, vyčíslení s rozhodnými daty, rozhodnutí o úpadku (rozhodný okamžik), doklad o povaze veřejnoprávního plnění.
+Do produkčního textu nebyl zařazen judikatorní závěr. Kandidátní rozsudek Nejvyššího soudu sen. zn. 29 ICdo 72/2024 byl otevřen v plném znění a věcně prověřen, avšak běhové oprávnění neumožnilo uložit jeho fyzický snapshot do centrálního adresáře pramenů; podle zdrojové politiky proto neslouží jako opora žádného materiálního tvrzení této verze.
 
 ---
 

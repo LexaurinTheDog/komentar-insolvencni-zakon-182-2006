@@ -2241,6 +2241,74 @@ Do tohoto kola nebylo zařazeno žádné rozhodnutí. Tím se nevyslovuje závě
 
 ---
 
+## § 130 — Rozhodnutí o zpětvzetí insolvenčního návrhu
+
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Je-li insolvenční návrh vzat zpět, insolvenční soud řízení zastaví. Je-li insolvenční návrh vzat zpět až poté, co o něm insolvenční soud rozhodl jinak než vydáním rozhodnutí o úpadku, avšak rozhodnutí není dosud v právní moci, insolvenční soud rozhodne též o zrušení rozhodnutí.
+>
+> (2) Je-li insolvenčních navrhovatelů více a insolvenční návrh vezme zpět jen některý z nich, insolvenční soud řízení zastaví jen ve vztahu k navrhovateli, který vzal návrh zpět.
+>
+> (3) Byl-li insolvenční návrh vzat zpět až po vydání rozhodnutí o úpadku nebo poté, co jiné rozhodnutí o insolvenčním návrhu již nabylo právní moci, insolvenční soud rozhodne, že zpětvzetí insolvenčního návrhu není účinné.
+>
+> (4) Osobou oprávněnou k podání odvolání proti rozhodnutí podle odstavců 1 až 3 je pouze insolvenční navrhovatel.
+>
+> (5) Byl-li insolvenční návrh vzat zpět proto, že dlužník po zahájení insolvenčního řízení uhradil pohledávku insolvenčního navrhovatele, má se při rozhodování o náhradě nákladů insolvenčního řízení v pochybnostech za to, že dlužník zavinil zastavení insolvenčního řízení.
+>
+
+### Přehled výkladu
+
+Ustanovení upravuje procesní reakci soudu na zpětvzetí insolvenčního návrhu. Rozlišuje včasné zpětvzetí, zpětvzetí některého z více navrhovatelů a zpětvzetí učiněné až po zákonném mezníku. Samostatně omezuje odvolací legitimaci a pro nákladové rozhodnutí zavádí domněnku při úhradě navrhovatelovy pohledávky po zahájení řízení.
+
+### Souvisící ustanovení
+
+- **§ 7** — subsidiární použití občanského soudního řádu, není-li to v rozporu se zásadami insolvenčního řízení.
+- **§ 107** — další insolvenční návrh podaný před rozhodnutím o úpadku se považuje za přistoupení k řízení.
+- **§ 129** — oprávnění vzít návrh zpět a časové meze zpětvzetí.
+- **§ 136 odst. 1** — vydání rozhodnutí o úpadku jako mezník podle § 130 odst. 3.
+- **§ 142** — výčet jiných rozhodnutí o insolvenčním návrhu.
+
+### Souvisící předpisy
+
+- **§ 96 o. s. ř.** — obecná úprava zpětvzetí návrhu; v insolvenčním řízení se použije jen subsidiárně v mezích § 7 insolvenčního zákona.
+- **§ 146 odst. 1 až 3 o. s. ř.** — obecná pravidla náhrady nákladů při zastavení řízení; § 130 odst. 5 insolvenčního zákona obsahuje zvláštní domněnku zavinění.
+
+### Z důvodové zprávy
+
+Oficiální důvodová zpráva k vládnímu návrhu insolvenčního zákona uvádí společně k § 129 a 130, že úprava zpětvzetí vychází z dosavadní úpravy a obsahuje dílčí zpřesnění daná vývojem judikatury. Jde o stručné historické vysvětlení původní úpravy, nikoli o samostatný podklad pro závěry přesahující aktuální text zákona. (Sněmovní tisk 1120/0, 4. volební období, zvláštní část „K § 129 a 130“, s. 190 PDF.)
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní rešerše a nevypovídá o tom, zda relevantní literatura existuje.
+
+### Výklad
+
+[1] **Včasné zpětvzetí před rozhodnutím.** Je-li návrh účinně vzat zpět před rozhodnutím o něm, soud řízení zastaví. Oprávnění navrhovatele a jeho časové meze stanoví § 129; § 130 určuje obsah rozhodnutí soudu.
+
+[2] **Zpětvzetí po jiném nepravomocném rozhodnutí.** Rozhodl-li soud o návrhu jinak než vydáním rozhodnutí o úpadku a toto rozhodnutí dosud nenabylo právní moci, soud při zastavení řízení zruší také toto rozhodnutí. Jinými rozhodnutími o insolvenčním návrhu jsou podle § 142 jeho odmítnutí, zastavení řízení a zamítnutí návrhu.
+
+[3] **Více navrhovatelů.** Vezme-li návrh zpět pouze některý z více insolvenčních navrhovatelů, řízení se podle odstavce 2 zastaví jen ve vztahu k němu. Zpětvzetí jednoho navrhovatele tedy samo neukončí řízení vedené na návrh ostatních.
+
+[4] **Opožděné zpětvzetí.** Po vydání rozhodnutí o úpadku již zpětvzetí není účinné, i kdyby rozhodnutí ještě nebylo pravomocné. Stejný následek nastává po právní moci jiného rozhodnutí o insolvenčním návrhu. Soud v obou případech vydá rozhodnutí, že zpětvzetí není účinné.
+
+[5] **Odlišné časové mezníky.** U rozhodnutí o úpadku je rozhodné jeho vydání; u jiného rozhodnutí jeho právní moc. Toto rozlišení plyne souběžně z § 129 odst. 1 a § 130 odst. 1 a 3 a nelze je zaměňovat.
+
+[6] **Odvolací legitimace.** Proti rozhodnutím podle odstavců 1 až 3 může podat odvolání pouze insolvenční navrhovatel. Text odstavce 4 nerozšiřuje toto oprávnění na dlužníka ani na jiné účastníky.
+
+[7] **Nákladová domněnka.** Vezme-li navrhovatel návrh zpět proto, že dlužník po zahájení insolvenčního řízení uhradil jeho pohledávku, má se jen pro případ pochybností při rozhodování o náhradě nákladů za to, že zastavení zavinil dlužník. Domněnka se vztahuje k zavinění zastavení; nejde o automatický příkaz přiznat navrhovateli náhradu nákladů v každém takovém případě.
+
+[8] **Příčinná souvislost úhrady a zpětvzetí.** Odstavec 5 předpokládá nejen úhradu po zahájení řízení, ale také to, že právě tato úhrada byla důvodem zpětvzetí. Bez splnění obou textových podmínek se zvláštní domněnka neuplatní.
+
+[9] **Časová použitelnost.** Výklad odpovídá znění účinnému k 19. 7. 2026. U staršího zpětvzetí je třeba ověřit znění účinné v době procesního úkonu a přechodná ustanovení relevantních novel; původní důvodová zpráva sama neprokazuje obsah pozdější právní úpravy.
+
+### Judikatura
+
+Do tohoto kola nebylo zařazeno žádné rozhodnutí. Tím se nevyslovuje závěr, že relevantní judikatura neexistuje; materiální závěry tohoto komentáře stojí na plném textu aktuálního zákona, souvisejících ustanoveních a oficiální důvodové zprávě.
+
+---
+
 ## § 131 — § 132 — Osvědčení skutečností
 
 **§ 131** — skutečnosti rozhodné pro rozhodnutí musí být **osvědčeny** (nižší standard než dokázány).

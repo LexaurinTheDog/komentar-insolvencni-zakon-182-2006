@@ -1466,52 +1466,62 @@ Pro toto vydání není zařazeno rozhodnutí jako přímá autorita k výkladu 
 
 ---
 
-## § 120 — § 122 — Účinky moratoria
+## § 120 — Účinky moratoria
 
-### Hlavní účinky:
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**§ 120 odst. 1** — *suspenze rozhodnutí o úpadku*. **Nelze ho vydat** po dobu moratoria.
+### Znění ustanovení
 
-**§ 120 odst. 2** — *zachovávají se účinky zahájení řízení* (§ 109).
+> (1) Po dobu trvání moratoria nelze vydat rozhodnutí o úpadku.
+>
+> (2) Není-li dále stanoveno jinak, po dobu trvání moratoria zůstávají zachovány účinky spojené se zahájením insolvenčního řízení.
 
-**§ 121** — věřitelé mohou *přihlašovat pohledávky* i během moratoria, ale účinky přihlášek nastanou *až zánikem moratoria*.
+### Přehled výkladu
 
-### F. Kazuistika
+§ 120 spojuje s trváním moratoria dva základní následky. Insolvenční soud v této době nesmí vydat rozhodnutí o úpadku. Současně moratorium samo neruší účinky spojené se zahájením insolvenčního řízení; ty zásadně pokračují, avšak s odchylkami, které pro moratorium stanoví navazující ustanovení.
 
-**1. Modelová situace.** Vůči dlužníku OMIKRON s. r. o. (podnikatel) bylo zahájeno insolvenční řízení; soud na jeho návrh vyhlásil **moratorium**. Během moratoria věřitel KAPPA a. s. podá u soudu přihlášku pohledávky a současně se domáhá, aby soud vydal rozhodnutí o úpadku dlužníka a aby již běžela lhůta k přezkumu. Dlužník naopak pokračuje v běžném provozu a spoléhá, že po dobu moratoria zůstávají zachovány účinky zahájení řízení dle § 109. Důkazy: rozhodnutí o vyhlášení moratoria a okamžik jeho zveřejnění, přihláška KAPPA s datem podání, evidence běhu lhůt.
+### Souvisící ustanovení
 
-**2. Právní otázka.** Lze za trvání moratoria vydat rozhodnutí o úpadku, trvají dál účinky zahájení řízení a kdy nastávají účinky přihlášek podaných během moratoria?
+- § 109 až § 111 — vznik účinků zahájení insolvenčního řízení, jejich obsah a omezení dispozic dlužníka.
+- § 119 — počátek účinnosti a doba trvání moratoria.
+- § 121 a § 122 — zvláštní pravidla pro procesní úkony věřitelů a nakládání s majetkovou podstatou za moratoria.
+- § 124 — zánik moratoria.
+- § 126 — zvláštní režim moratoria před zahájením insolvenčního řízení.
+- § 134 — časová mez rozhodnutí o insolvenčním návrhu po zániku moratoria.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 120 odst. 1 (po dobu moratoria **nelze** vydat rozhodnutí o úpadku — suspenze), odst. 2 (zachovávají se účinky spojené se zahájením řízení dle § 109), § 121 (věřitelé mohou přihlašovat pohledávky i během moratoria, účinky přihlášek však nastávají až zánikem moratoria).
-- *Související ustanovení téhož zákona:* § 109 (účinky zahájení — zákaz exekucí, suspenze, zákaz dispozic), § 122 (nakládání s majetkovou podstatou v moratoriu), § 124 (zánik moratoria), § 134 (lhůta pro rozhodnutí o insolvenčním návrhu se prodlužuje o 10 dní po zániku moratoria).
-- *Související předpisy:* —
-- *Judikatura:* k účinkům moratoria chybí v komentáři citovaná judikatura; nosně plyne z textu § 120 a § 121.
+### Souvisící předpisy
 
-**4. Subsumpce.** Znak „po dobu moratoria nelze vydat rozhodnutí o úpadku" (§ 120 odst. 1) — naplněn → návrhu KAPPA na okamžité rozhodnutí o úpadku nelze vyhovět. Znak „zachování účinků zahájení dle § 109" (odst. 2) — naplněn (provozní ochrana dlužníka trvá). Znak „účinky přihlášek až zánikem moratoria" (§ 121) — přihláška KAPPA je přípustná, ale její účinky se odkládají.
+§ 120 je procesní i hmotněprávní součástí autonomního režimu insolvenčního zákona. Pro jeho dva základní následky není třeba použít samostatný prováděcí předpis; konkrétní účinek zachovaný podle odstavce 2 se určuje z příslušného ustanovení insolvenčního zákona.
 
-**5. Řešení.** Po dobu moratoria soud **nesmí** vydat rozhodnutí o úpadku (suspenze dle § 120 odst. 1); účinky zahájení řízení dle § 109 přitom **trvají** (odst. 2), takže ochranný režim vůči exekucím a dispozicím dlužníka je zachován. Přihlášku KAPPA soud přijme (§ 121), avšak její účinky nastanou až zánikem moratoria; do té doby neběží navazující přezkumné lhůty. Praktický důsledek: lhůta pro rozhodnutí o insolvenčním návrhu se po zániku moratoria prodlužuje o 10 dní (§ 134). Riziko věřitele: dočasné oddálení rozhodnutí o úpadku a uspokojení.
+### Z důvodové zprávy
 
-**6. Varianty.** (a) Moratorium **zanikne** (uplynutím doby či dle § 124) — odpadá suspenze dle § 120 odst. 1, soud pokračuje v projednání návrhu a nastávají účinky přihlášek (§ 121). (b) Dlužník během moratoria poruší pravidla nakládání s podstatou (§ 122) — to zakládá důvody pro zánik moratoria a postih, samotná suspenze rozhodnutí o úpadku však trvá až do zániku moratoria.
+Původní důvodová zpráva označuje moratorium za časově omezenou ochranu dlužníka-podnikatele, během níž lze očekávat překonání úpadku nebo hrozícího úpadku vlastními silami. K § 120 výslovně uvádí zákaz rozhodnutí o úpadku v průběhu moratoria a zásadní zachování účinků spojených se zahájením insolvenčního řízení. Jde o historické vysvětlení původního návrhu, nikoli samostatný zdroj dnešního znění. (Vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, zvláštní část „K § 115 až 127“ a „K § 120“, číslované s. 187–188, PDF s. 188–189.)
 
-### G. Protiargumenty a rizika
+### Literatura
 
-- *„Soud má o zjevném úpadku rozhodnout i v moratoriu."* Neobstojí — § 120 odst. 1 vydání rozhodnutí o úpadku po dobu moratoria **vylučuje** (suspenze). Neutralizace: věřitel usiluje o zánik/zrušení moratoria (§ 124), poté soud rozhodne.
-- *„Vyhlášením moratoria padají účinky zahájení řízení."* Vyloučeno odst. 2 — účinky dle § 109 se zachovávají; ochrana dlužníka i věřitelů (zákaz exekucí, dispozic) trvá. Neutralizace: spoléhat na § 109 i během moratoria.
-- Slabé místo: odložení účinků přihlášek (§ 121) a suspenze rozhodnutí o úpadku oddalují uspokojení věřitelů; hodnota institutu závisí na reálné šanci na sanační dohodu v krátkém okně moratoria.
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Toto odložení není negativní rešerší ani závěrem, že k § 120 literatura neexistuje.
 
-### H. Praktický závěr
+### Výklad
 
-Po dobu moratoria nelze vydat rozhodnutí o úpadku (§ 120 odst. 1), avšak účinky spojené se zahájením řízení dle § 109 zůstávají zachovány (odst. 2); věřitelé mohou pohledávky přihlašovat, účinky přihlášek však nastávají až zánikem moratoria (§ 121). Po zániku moratoria se lhůta pro rozhodnutí o návrhu prodlužuje o 10 dní (§ 134).
+[1] **Doba rozhodná pro zákaz.** Zákaz podle odstavce 1 trvá pouze po dobu trvání moratoria. Její počátek a nejzazší délku určuje § 119; důvody zániku upravuje § 124. Pro posouzení, zda soud může rozhodnutí vydat, je proto nutné zjistit, zda moratorium v okamžiku vydání rozhodnutí stále trvá.
 
-**Checklist (dlužník / věřitel / soud):**
-- [ ] Trvá moratorium (pak nelze vydat rozhodnutí o úpadku — § 120 odst. 1)?
-- [ ] Jsou nadále zachovány účinky zahájení řízení dle § 109 (odst. 2)?
-- [ ] Byla přihláška podaná v moratoriu přijata s tím, že účinky nastanou až zánikem moratoria (§ 121)?
-- [ ] Je sledován okamžik zániku moratoria (návaznost na § 122, § 124)?
-- [ ] Zohledněno prodloužení lhůty pro rozhodnutí o IN o 10 dní po zániku moratoria (§ 134)?
+[2] **Předmět zákazu.** Odstavec 1 vylučuje vydání rozhodnutí o úpadku. Nezastavuje však insolvenční řízení a sám nezakazuje soudu činit jiné procesní úkony, jsou-li slučitelné s účelem moratoria a s ostatními ustanoveními zákona. Ze zákazu vydat rozhodnutí o úpadku proto nelze bez dalšího dovodit obecné přerušení řízení.
 
-**Typicky rozhodné důkazy / podklady:** rozhodnutí o vyhlášení moratoria a okamžik jeho zveřejnění, přihlášky pohledávek s daty podání, evidence běhu lhůt, podklady o trvání a zániku moratoria.
+[3] **Zachování účinků zahájení.** Odstavec 2 vychází z pokračování účinků spojených se zahájením insolvenčního řízení. U moratoria vyhlášeného po zahájení řízení tedy jeho účinnost nevytváří nové zahájení ani dosavadní účinky neruší.
+
+[4] **Výhrada zvláštní úpravy.** Slova „není-li dále stanoveno jinak“ brání absolutnímu přenosu všech obecných pravidel. Konkrétní odchylky je nutné hledat zejména v § 121 a § 122. Každý následek se proto posuzuje podle příslušného ustanovení, nikoli jen podle obecného označení „účinky zahájení“.
+
+[5] **Moratorium před zahájením řízení.** U moratoria navrženého před zahájením insolvenčního řízení upravuje vznik odpovídajících účinků zvlášť § 126. Odstavec 2 komentovaného ustanovení proto nelze číst izolovaně tak, jako by před takovým moratoriem již existovalo zahájené insolvenční řízení.
+
+[6] **Zánik moratoria a další postup.** Zánikem moratoria odpadá zákaz podle odstavce 1. To samo ještě nepředurčuje obsah rozhodnutí o insolvenčním návrhu; soud jej posoudí podle obecných podmínek. § 134 současně stanoví, že rozhodnutí nelze vydat dříve než po uplynutí 10 dnů od zániku moratoria.
+
+[7] **Intertemporalita.** Tento výklad vychází ze znění účinného k 19. 7. 2026. U historických moratorií, včetně mimořádných moratorií zavedených dočasnou krizovou úpravou, je nutné ověřit zvláštní tehdy účinná pravidla; nelze je bez dalšího zaměnit s obecným režimem § 120.
+
+### Judikatura
+
+Tato revize necituje žádné soudní rozhodnutí jako pramen samostatného pravidla k § 120. Tím se nevyslovuje závěr o neexistenci související judikatury; pouze se do produkčního textu nezařazuje rozhodnutí bez ověřeného plného textu a přímo nosného závěru.
+
+---
 
 ### § 122 — Nakládání s majetkovou podstatou
 

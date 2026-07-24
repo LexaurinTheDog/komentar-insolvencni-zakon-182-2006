@@ -656,46 +656,55 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola. Tím se 
 
 ## § 173a — Účinky uplynutí lhůty
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Uplynutím lhůty stanovené rozhodnutím o úpadku k podání přihlášky zaniká účinek spojený se zahájením insolvenčního řízení uvedený v § 109 odst. 3.
+
+### Přehled výkladu
+
+§ 173a ukončuje pouze zvláštní účinek § 109 odst. 3: po uplynutí přihlašovací lhůty již zahájení insolvenčního řízení nebrání tomu, aby lhůty k uplatnění dotčených práv začaly nebo pokračovaly v běhu. Ustanovení samo neurčuje délku ani způsob výpočtu konkrétní lhůty, nezpůsobuje zánik pohledávky a neruší ostatní účinky insolvenčního řízení.
+
+### Souvisící ustanovení
+
+- § 109 odst. 1 písm. a), odst. 3 až 5 — omezení individuálního uplatnění práv a dočasné neběhání lhůt,
+- § 136 odst. 2 písm. d) a odst. 3 — určení přihlašovací lhůty v rozhodnutí o úpadku,
+- § 173 odst. 1 a 4 — následek opožděné přihlášky a účinky včasné přihlášky na běh lhůt,
+- § 185 — rozhodnutí o odmítnutí přihlášky, k níž se nepřihlíží.
+
+### Souvisící předpisy
+
+- zákon č. 294/2013 Sb. — vložení § 173a, účinnost a přechodné ustanovení,
+- hmotněprávní předpis rozhodný pro konkrétní právo a jeho lhůtu; ten je nutno určit podle povahy a doby vzniku posuzovaného právního poměru.
+
+### Z důvodové zprávy
+
+Vládní návrh pozdějšího zákona č. 294/2013 Sb. označil nový § 173a za logické doplnění § 109 odst. 3. Ochrana nemá po konci přihlašovací lhůty dále svědčit věřitelům, kteří své právo v insolvenčním řízení neuplatnili, ačkoli tak učinit měli nebo mohli (sněmovní tisk 929/0, zvláštní část, k bodům 90 a 91, číslovaná s. 135, PDF s. 136).
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola; tento oddíl nepředstavuje negativní literární rešerši.
 
 ### Výklad
 
-Po uplynutí lhůty pro přihlášky se obnovuje běh **standardních promlčecích a prekluzních lhůt** pro pohledávky, které věřitel nepřihlásil. *Logika*: ochrana věřitelů (suspenze běhu lhůt) trvá *jen po dobu*, kdy mohou uplatnit pohledávku v IR. Po uplynutí možnosti přihlášení — *lhůty znovu běží* (resp. zánik práva proběhne).
+[1] **Předmět pravidla.** § 109 odst. 3 dopadá jen na lhůty k uplatnění práv, která lze podle § 109 odst. 1 uplatnit pouze přihláškou. Po zahájení insolvenčního řízení tyto lhůty nezačínají nebo dále neběží. § 173a stanoví konec právě tohoto účinku, nikoli konec ostatních účinků zahájení řízení.
 
-### F. Kazuistika
+[2] **Rozhodný okamžik.** Účinek zaniká uplynutím lhůty určené rozhodnutím o úpadku. Nejde tedy obecně o skončení insolvenčního řízení. Konkrétní poslední den přihlašovací lhůty se zjišťuje z rozhodnutí o úpadku a podle pravidel pro počítání procesních lhůt.
 
-**1. Modelová situace.** Věřitel V má vůči dlužníku D pohledávku, jejíž promlčecí lhůta by uplynula krátce po zahájení insolvenčního řízení. V se rozhodne pohledávku v IR nepřihlásit (řízení mu připadá ztrátové). Po uplynutí lhůty k podání přihlášek zvažuje, zda může pohledávku ještě uplatnit samostatnou žalobou mimo IR. Důkazy: doklad o vzniku a splatnosti pohledávky, datum zahájení IR, rozhodnutí o úpadku se lhůtou.
+[3] **Co následuje.** Lhůta, která před zahájením insolvenčního řízení již běžela, může po zániku účinku pokračovat; lhůta, jež dosud nezačala, může začít. **Autorský závěr:** Zda, kdy a na jak dlouho se tak stane, je nutno určit podle právní úpravy příslušného práva; § 173a sám žádnou novou promlčecí ani prekluzivní lhůtu nezakládá.
 
-**2. Právní otázka.** Co se stane s během promlčecí (prekluzivní) lhůty pohledávky, kterou věřitel v insolvenčním řízení nepřihlásil, po uplynutí lhůty k podání přihlášek?
+[4] **Včas přihlášená práva.** U včasné přihlášky je třeba současně použít § 173 odst. 4: přihláška má ode dne, kdy došla insolvenčnímu soudu, pro běh promlčecí lhůty nebo lhůty k zániku práva stejné účinky jako žaloba či jiné uplatnění práva u soudu. Tento samostatný účinek nelze zaměňovat s dočasným účinkem samotného zahájení řízení podle § 109 odst. 3.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 173a — uplynutím lhůty k podání přihlášky zaniká účinek zahájení IR dle § 109 odst. 3 (suspenze běhu lhůt).
-- *Související ustanovení téhož zákona:* § 109 odst. 3 (stavení/suspenze lhůt zahájením IR), § 173 odst. 1 a 4 (lhůta a účinky přihlášky pro promlčení), § 173 (přihláška jako jediná cesta uplatnění v IR).
-- *Související předpisy:* OZ (promlčení — § 609 a násl., prekluze).
-- *Judikatura:* nosný závěr, že ochrana proti běhu lhůt trvá jen po dobu možnosti uplatnit pohledávku přihláškou; poté se běh obnovuje.
+[5] **Nepřihlášené právo.** Opožděnost přihlášky má procesní následek podle § 173 odst. 1: soud k ní nepřihlíží a pohledávka se v insolvenčním řízení neuspokojuje. § 173a sám pohledávku neruší ani ji automaticky nepromlčuje. Po skončení ochrany však může příslušná hmotněprávní lhůta doběhnout; individuální uplatnění práva může být zároveň nadále omezeno jinými účinky insolvenčního řízení.
 
-**4. Subsumpce.** V pohledávku nepřihlásil → ochrana dle § 109 odst. 3 trvala jen do uplynutí lhůty k přihláškám → poté (§ 173a) se účinek suspenze ruší a běh promlčecí/prekluzivní lhůty se obnovuje (resp. dovrší).
+[6] **Rozsah osobní působnosti.** Důvodová zpráva pracuje typově s věřitelem, který mohl a měl pohledávku přihlásit. Z textu § 109 odst. 3 plyne, že před každým použitím § 173a je nutno nejprve ověřit, zda šlo o právo uplatnitelné pouze přihláškou. Pravidlo nelze bez dalšího vztáhnout na každý nárok související s dlužníkem.
 
-**5. Řešení.** Po uplynutí lhůty k přihláškám se na nepřihlášenou pohledávku V hledí, jako by suspenze nikdy nenastala pro budoucí běh — lhůta běží dál a může se rychle dovršit promlčení/zánik práva. V tedy nese riziko, že pohledávku už nebude moci úspěšně uplatnit ani mimo IR.
+[7] **Intertemporalita.** § 173a byl vložen zákonem č. 294/2013 Sb. s účinností od 1. 1. 2014. U starších insolvenčních řízení je nutno respektovat čl. II tohoto zákona: nová úprava se zásadně použije i na dříve zahájená řízení, právní účinky úkonů nastalé před účinností však zůstávají zachovány. Odděleně se určí hmotné právo rozhodné pro běh konkrétní lhůty.
 
-**6. Varianty.** (a) Kdyby V pohledávku přihlásil, účinky pro promlčení by nastaly ke dni dojití přihlášky (§ 173 odst. 4) a běh lhůty by zůstal stavěn. (b) U pohledávky, kterou nelze v IR uspokojit, je § 173a varováním, že pasivita věřitele může vést ke ztrátě i mimoinsolvenčního uplatnění.
+### Judikatura
 
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Suspenze lhůt trvá po celé insolvenční řízení." — Neutralizace: § 173a výslovně váže zánik účinku § 109 odst. 3 na uplynutí lhůty k přihláškám, nikoli na skončení řízení.
-- *Protiargument:* „Nepřihlášenou pohledávku lze kdykoli uplatnit samostatně." — Neutralizace: po obnovení běhu lhůty hrozí promlčení/prekluze; uplatnění mimo IR navíc naráží na účinky úpadku.
-- *Slabé místo:* přesný okamžik „uplynutí lhůty" a navazující doběh promlčecí lhůty vyžaduje pečlivý výpočet; chyba vede k nečekanému promlčení.
-
-### H. Praktický závěr
-
-§ 173a je technickým doplňkem § 109 odst. 3: ochrana proti běhu lhůt platí jen po dobu, kdy lze pohledávku přihlásit. Pasivní věřitel ztrácí jak insolvenční uspokojení, tak (po obnovení běhu lhůty) reálně i mimoinsolvenční vymahatelnost.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Sledovat konec lhůty k přihláškám i jako rozhodný okamžik pro obnovení běhu promlčecí/prekluzivní lhůty.
-- [ ] U nepřihlašované pohledávky přepočítat, kdy po obnovení běhu hrozí promlčení/zánik práva.
-- [ ] Zvážit přihlášení i ztrátové pohledávky, je-li to jediný způsob, jak zachovat stavení lhůty.
-
-**Typicky rozhodné důkazy / podklady:** doklady o vzniku a splatnosti pohledávky, datum zahájení IR a konce lhůty k přihláškám, výpočet zbývající promlčecí lhůty.
+V rámci primární revize byl na oficiálním webu Nejvyššího soudu otevřen a obsahově prověřen rozsudek ze dne 25. 8. 2022, sen. zn. 29 ICdo 110/2021. Protože však pro tuto jednotku nebylo možné uložit fyzický snapshot plného textu do centrálního zdrojového archivu, není rozhodnutí zařazeno jako produkční pramen ani jako opora materiálního tvrzení. Neurčitý odkaz původního textu na „nosný závěr“ byl odstraněn.
 
 ---
 

@@ -1234,6 +1234,74 @@ Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento 
 
 ---
 
+## § 151 — Přijetí usnesení schůze věřitelů
+
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Usnesení schůze věřitelů podle [[#§ 150|§ 150]] je přijato, jestliže z věřitelů přihlášených ke dni předcházejícímu konání schůze věřitelů
+>
+> - a) pro ně hlasovala nejméně polovina všech přítomných zajištěných věřitelů počítaná podle výše jejich pohledávek a nejméně polovina všech přítomných nezajištěných věřitelů počítaná podle výše jejich pohledávek, nebo
+>
+> - b) pro ně hlasovalo nejméně 90 % přítomných věřitelů, počítáno podle výše pohledávek.
+>
+> (2) Jestliže z věřitelů přítomných na schůzi věřitelů se zúčastní hlasování pouze zajištění věřitelé nebo pouze nezajištění věřitelé, je usnesení schůze věřitelů podle [[#§ 150|§ 150]] přijato, jestliže z věřitelů přihlášených ke dni předcházejícímu konání schůze věřitelů pro ně hlasovala nejméně polovina všech přítomných hlasujících věřitelů počítána podle výše jejich pohledávek.
+>
+> (3) Za přítomného podle odstavce 1 a [[#§ 2|2]] se nepovažuje věřitel, který hlasoval písemně.
+>
+
+### Přehled výkladu
+
+- § 151 stanoví zvláštní hlasovací kvóra pouze pro usnesení schůze věřitelů o způsobu řešení úpadku podle § 150.
+- Odstavec 1 nabízí dvě alternativy: souběžnou většinu přítomných zajištěných i nezajištěných věřitelů, nebo alespoň 90 % přítomných věřitelů bez rozlišení těchto skupin; vždy se počítá podle výše pohledávek.
+- Odstavec 2 upravuje případ, kdy se hlasování účastní jen zajištění, nebo jen nezajištění věřitelé.
+- Písemně hlasující věřitel se pro výpočet podle odstavců 1 a 2 nepovažuje za přítomného; podmínky, za nichž se k písemnému hlasu přihlíží, stanoví § 50 odst. 2.
+
+### Souvisící ustanovení
+
+- § 49 až 51 — hlasovací právo, písemné hlasování a počítání hlasů,
+- § 53 a § 54 — omezení hlasovacího práva a výslovná výjimka usnesení o způsobu řešení úpadku z pravomoci soudu zrušit usnesení schůze pro rozpor se společným zájmem věřitelů,
+- § 136 odst. 2 písm. f), § 149 a § 150 — svolání schůze a předmět rozhodování o způsobu řešení úpadku,
+- § 152 — rozhodnutí soudu podle přijatého usnesení a zákonné výjimky,
+- § 316 a § 325 — přípustnost reorganizace a použití § 148 až 152 při projednání návrhu na její povolení.
+
+### Souvisící předpisy
+
+Bezprostřední hlasovací kvórum upravuje insolvenční zákon sám. Občanský soudní řád se uplatní jen v mezích obecného subsidiárního odkazu v § 7 insolvenčního zákona; pro vady hlasovacího lístku § 50 odst. 2 použití § 43 občanského soudního řádu výslovně vylučuje.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona spojoval dnešní § 150 až 152 do užšího legislativního celku. Zvláštní část důvodové zprávy uvádí, že se pro závazné vyjádření schůze ke způsobu řešení úpadku zavádí speciální kvórum odpovídající významu přijímaného usnesení. Jde o sněmovní tisk 1120/0, zvláštní část „K § 148–152“, číslovaná i PDF strana 195. Důvodová zpráva objasňuje účel zvýšeného kvóra; nenahrazuje však dnešní přesné rozdělení pravidel mezi § 150, § 151 a § 152.
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní literární rešerše.
+
+### Výklad
+
+[1] **Předmět úpravy.** Ustanovení neurčuje, zda schůze smí o způsobu řešení úpadku hlasovat; to plyne z § 150. Řeší až otázku, zda návrh usnesení podle § 150 získal kvalifikovanou většinu. Teprve řádně přijaté usnesení může vyvolat účinky podle § 152.
+
+[2] **Rozhodný okruh věřitelů.** Text odstavců 1 a 2 vychází z věřitelů přihlášených ke dni předcházejícímu konání schůze. Samotné hlasovací právo konkrétního věřitele se však posuzuje podle § 49 až 51 a případných omezení podle § 53. Přihlášení pohledávky proto nelze zaměňovat s automatickým právem hlasovat v celé přihlášené výši.
+
+[3] **První alternativa odstavce 1.** Podle písmene a) musí návrh současně získat nejméně polovinu hlasovací síly přítomných zajištěných věřitelů a nejméně polovinu hlasovací síly přítomných nezajištěných věřitelů. Splnění jen v jedné skupině nestačí. Zákon počítá podle výše pohledávek, nikoli podle počtu osob.
+
+[4] **Druhá alternativa odstavce 1.** Podle písmene b) je usnesení přijato i bez odděleného dosažení většiny v obou skupinách, jestliže pro ně hlasuje nejméně 90 % přítomných věřitelů počítáno podle výše pohledávek. Písmena a) a b) jsou alternativní, nikoli kumulativní.
+
+[5] **Účast pouze jedné skupiny na hlasování.** Jestliže se hlasování účastní pouze zajištění, nebo pouze nezajištění věřitelé, použije se odstavec 2: postačí nejméně polovina všech přítomných hlasujících věřitelů, opět počítaná podle výše pohledávek. Toto pravidlo nelze použít jen proto, že návrh v jedné ze skupin nezískal potřebnou podporu; předpokladem je, že se hlasování účastnila pouze jedna z obou skupin.
+
+[6] **Písemný hlas a přítomnost.** § 50 odst. 2 dovoluje písemné hlasování při splnění předepsaných náležitostí a lhůty. § 151 odst. 3 pro výpočet podle odstavců 1 a 2 výslovně stanoví, že písemně hlasující věřitel se nepovažuje za přítomného. Při kontrole výsledku je proto nutné oddělit otázku, zda se k hlasovacímu lístku přihlíží, od zákonné fikce nepřítomnosti pro zde upravená kvóra.
+
+[7] **Kontrola a následek.** Protokol o schůzi a hlasovací podklady musí umožnit samostatně ověřit hlasovací právo a jeho výši, rozdělení na zajištěné a nezajištěné věřitele, účast jednotlivých skupin a splnění alespoň jedné zákonné alternativy. Nejde-li o přijaté usnesení podle § 151, nemůže nastat vázanost soudu podle § 152. I přijaté usnesení se dále posuzuje podle výjimek uvedených v § 152.
+
+[8] **Intertemporalita.** § 151 je třeba aplikovat ve znění rozhodném pro dané řízení. Níže uvedené usnesení 29 NSČR 30/2010 vycházelo ze znění účinného do 30. 6. 2010. Je použitelné pro systémový závěr, že teprve usnesení přijaté předepsanou většinou podle § 151 může být podkladem vázanosti podle § 152; není pramenem podrobného výkladu výpočtu dnešních kvór ani písemných hlasů.
+
+### Judikatura
+
+- **Nejvyšší soud, usnesení ze dne 20. 1. 2011, sen. zn. 29 NSČR 30/2010, ECLI:CZ:NS:2011:29.NSCR.30.2010.1, R 96/2011.** Plný text řeší konkurs podnikatele, přípustnost reorganizace a význam první schůze věřitelů. V části odůvodnění věnované typovým situacím výslovně spojuje přijetí usnesení předepsanou většinou podle § 151 s vázaností insolvenčního soudu podle § 152. Rozhodnutí nevykládá matematiku jednotlivých alternativ § 151; jeho časové omezení je uvedeno v marginálním čísle [8].
+
+---
+
 ## § 153 — § 157 — Znalecké ocenění při reorganizaci
 
 ### Souhrnný výklad

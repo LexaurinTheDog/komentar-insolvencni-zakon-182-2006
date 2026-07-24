@@ -1122,6 +1122,59 @@ Při této revizi nebylo jako pramen materiálního právního závěru použito
 
 ---
 
+### § 181 — Ručení osob, které přihlášku podepsaly
+
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+#### Znění ustanovení
+
+> Osoby, které přihlášku pohledávky podepsaly, ručí za splnění povinnosti zaplatit částku podle [[#§ 178|§ 178]] nebo [[#§ 179|179]]; v případě, že jde o zástupce na základě plné moci, však za splnění této povinnosti ručí osoby, které zástupce k takovému úkonu zmocnily, nejde-li o zastupování v rozsahu obvyklém pracovnímu zařazení nebo funkci. To neplatí, je-li věřitelem stát nebo Česká národní banka.
+>
+
+#### Přehled výkladu
+
+§ 181 zakládá zákonné ručení za splnění peněžité povinnosti, kterou insolvenční soud uloží věřiteli podle § 178 nebo § 179. Základní pravidlo váže ručení na osoby, které přihlášku podepsaly. U podpisu zástupce na základě plné moci zákon přesouvá ručení na zmocnitele; výjimku tvoří zastupování v rozsahu obvyklém pracovnímu zařazení nebo funkci. Je-li věřitelem stát nebo Česká národní banka, ručení podle § 181 nevzniká.
+
+#### Souvisící ustanovení
+
+§ 7; § 10 písm. e); § 49 až 53; § 176; § 178 až 180; § 182; § 192 až 196; § 198 a § 199.
+
+#### Souvisící předpisy
+
+Zákon č. 99/1963 Sb., občanský soudní řád, se použije přiměřeně v mezích subsidiarity § 7 insolvenčního zákona, nestanoví-li insolvenční zákon jinak.
+
+#### Z důvodové zprávy
+
+Původní důvodová zpráva řadí § 181 mezi postupy proti uplatňování přehnaných nebo neopodstatněných pohledávek a proti neopodstatněnému pokusu o lepší pořadí. Výslovně zmiňuje ručení osob, které takovou přihlášku za věřitele podepsaly, a spojuje úpravu se snahou zabránit účelovým manipulacím posilujícím vliv věřitelů na schůzi věřitelů a ve věřitelských orgánech (vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, zvláštní část „K § 176 až 182“, číslovaná i PDF s. 199).
+
+#### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Toto odložení není závěrem negativní rešerše.
+
+#### Výklad
+
+[1] **Povaha ručení.** § 181 nezakládá samostatnou peněžitou sankci podepisující osobě. Zajišťuje splnění povinnosti věřitele zaplatit částku, která mu byla uložena podle § 178 nebo § 179. Rozsah ručení proto nemůže přesáhnout existující zajištěnou povinnost.
+
+[2] **Vazba na rozhodnutí podle § 178 nebo § 179.** Peněžitá povinnost věřitele nevzniká automaticky samotným nepoměrem přihlášené a zjištěné pohledávky nebo zajištění. Oba navazující režimy vyžadují návrh insolvenčního správce a rozhodnutí v incidenčním sporu. Teprve povinnost takto uložená je předmětem ručení podle § 181.
+
+[3] **Osoba podepsaná pod přihláškou.** Základní pravidlo dopadá na osobu, která přihlášku podepsala. U právnického věřitele tak text zákona neztotožňuje věřitele s fyzickou osobou jednající jeho jménem; právě podpis určuje výchozí okruh zákonných ručitelů. Pro posouzení je proto nutné zachovat konkrétní podání, podpisovou doložku a údaj o postavení podepisující osoby.
+
+[4] **Zástupce na základě plné moci.** Podepsal-li přihlášku zmocněnec, zákon přenáší ručení na osoby, které jej k podání přihlášky zmocnily. Toto zvláštní pravidlo brání tomu, aby osobní riziko bez dalšího nesl externí zmocněnec jen proto, že přihlášku technicky podepsal.
+
+[5] **Obvyklý rozsah pracovního zařazení nebo funkce.** Přesun ručení na zmocnitele se neuplatní, jde-li o zastupování v rozsahu obvyklém pracovnímu zařazení nebo funkci. Posouzení vyžaduje zjistit právní titul zastoupení, pracovní nebo funkční postavení podepisující osoby a obvyklý rozsah jejího jednání; samotné označení osoby jako zmocněnce výsledek neurčuje.
+
+[6] **Výjimka pro stát a Českou národní banku.** Poslední věta vylučuje ručení podle § 181, je-li věřitelem stát nebo Česká národní banka. Nedotýká se tím podmínek, za nichž může být samotnému věřiteli uložena povinnost podle § 178 nebo § 179.
+
+[7] **Vztah k § 180.** Jestliže věřiteli nelze pro splnění podmínek § 180 uložit povinnost zaplatit částku podle § 178 nebo § 179, chybí povinnost, jejíž splnění by § 181 zajišťoval. Ručení však samo nerozšiřuje ani nezužuje podmínky § 180.
+
+[8] **Více podpisů a rozsah zmocnění.** § 181 může podle konkrétní podpisové situace označit více ručitelů, neurčuje však v tomto ustanovení výslovně jejich vzájemné vypořádání. Bez ověření použitelných obecných pravidel proto nelze jen z množství podpisů dovozovat konkrétní režim jejich vzájemné odpovědnosti.
+
+[9] **Intertemporalita.** § 181 byl součástí původního insolvenčního zákona. U starších řízení je nutné ověřit znění účinné v době rozhodných procesních úkonů, zejména tehdejší podobu § 178 až 182 a přechodná ustanovení novel; dnešní znění nelze na historickou podpisovou a procesní situaci použít mechanicky.
+
+#### Judikatura
+
+Při této revizi nebylo jako pramen materiálního právního závěru použito žádné soudní rozhodnutí. Tím se nevyslovuje, že relevantní judikatura neexistuje; judikatorní závěr lze doplnit až po otevření plného textu z oficiálního soudního webu a samostatné kontrole skutkového, procesního a intertemporálního kontextu.
+
 ## § 182a — Jistota cizinců
 
 Věřiteli **cizinci** (s obvyklým pobytem v cizině nebo zahraniční PO) může soud uložit **jistotu na náklady IR** nebo na náhradu škody. *Sankce za nesložení*: nepřihlíží se k přihlášce.

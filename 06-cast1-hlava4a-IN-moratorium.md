@@ -1648,55 +1648,62 @@ Tato revize necituje žádné soudní rozhodnutí jako pramen samostatného prav
 
 ---
 
-## § 123 — § 124 — Předběžný správce, zánik moratoria
+## § 123 — Předběžný správce
 
-**§ 123** — *předběžný správce* během moratoria:
-- na návrh dlužníka,
-- na návrh **věřitelů s 10% pohledávkami**, kteří *nepodepsali* souhlas (§ 116 odst. 2).
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**§ 124 — zánik moratoria**:
-- uplynutím doby,
-- *zrušením soudem*:
-  - **na návrh většiny věřitelů** (počítáno podle výše),
-  - *bez návrhu* — nepravdivé údaje, *nepoctivý záměr* (typicky přednostní uspokojení vybraných věřitelů).
-- *zamítnutím / odmítnutím / zastavením řízení* o IN.
+### Znění ustanovení
 
-### F. Kazuistika
+> (1) Navrhne-li to dlužník, ustanoví insolvenční soud v rozhodnutí o vyhlášení moratoria předběžného správce. Za trvání moratoria ustanoví insolvenční soud předběžného správce též na návrh věřitele nebo věřitelů dlužníka, kteří nepodepsali prohlášení podle § 116 odst. 2 a jejichž pohledávky, počítané podle výše, činí alespoň desetinu pohledávek věřitelů, které dlužník uvedl v seznamu závazků.
+>
+> (2) Nejde-li o insolvenčního navrhovatele, může insolvenční soud navrhovateli nebo navrhovatelům podle odstavce 1 uložit, aby ve stanovené lhůtě zaplatil zálohu na náklady předběžného správce; [[#§ 108|§ 108]] se použije přiměřeně.
+>
 
-**1. Modelová situace.** V průběhu moratoria dlužníka TAU-U s. r. o. vyjde najevo, že dlužník v návrhu uvedl nepravdivé údaje o stavu majetku a že přednostně uspokojil dva spřízněné věřitele na úkor ostatních (nepoctivý záměr). Skupina věřitelů s 12 % objemu pohledávek, kteří souhlas s moratoriem nepodepsali, navrhuje ustanovení předběžného správce; současně většina věřitelů navrhuje zrušení moratoria. Důkazy: účetnictví a skutečný stav majetku, doklady o platbách spřízněným věřitelům, prohlášení o souhlasu (kdo nepodepsal), vyčíslení objemu pohledávek navrhovatelů.
+### Přehled výkladu
 
-**2. Právní otázka.** Za jakých podmínek lze v moratoriu ustanovit předběžného správce a kdy soud moratorium zruší (na návrh i bez návrhu)?
+§ 123 upravuje ustanovení předběžného správce během moratoria. Na návrh dlužníka jej soud ustanoví přímo v rozhodnutí o vyhlášení moratoria. Za trvání moratoria jej ustanoví také na návrh věřitele nebo věřitelů, splní-li současně zákonné podmínky nepodepsání prohlášení podle § 116 odst. 2 a alespoň desetiprocentního podílu jejich pohledávek na pohledávkách uvedených dlužníkem v seznamu závazků. Navrhovateli, který není insolvenčním navrhovatelem, může soud uložit zálohu na náklady předběžného správce.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 123 (ustanovení předběžného správce na návrh dlužníka nebo na návrh věřitelů s 10 % pohledávek, kteří nepodepsali souhlas dle § 116 odst. 2), § 124 (zánik moratoria — uplynutím doby; zrušením soudem na návrh většiny věřitelů podle výše, nebo bez návrhu pro nepravdivé údaje či nepoctivý záměr; zamítnutím/odmítnutím/zastavením řízení o IN).
-- *Související ustanovení téhož zákona:* § 116 odst. 2 (souhlas věřitelů), § 120–§ 122 (účinky moratoria), § 27 (předběžný správce obecně), § 134 (lhůta pro rozhodnutí o IN po zániku moratoria).
-- *Související předpisy:* —
-- *Judikatura:* k zániku moratoria chybí v komentáři citovaná judikatura; nosně plyne z textu § 123 a § 124.
+### Souvisící ustanovení
 
-**4. Subsumpce.** Znak „věřitelé s 10 % pohledávek, kteří nepodepsali souhlas" (§ 123) — naplněn (12 % nepodepsavších) → mohou navrhnout předběžného správce. Znak „nepravdivé údaje / nepoctivý záměr" (§ 124) — naplněn (zkreslení majetku + preferenční úhrady spřízněným) → soud může moratorium zrušit i bez návrhu. Znak „návrh většiny věřitelů podle výše" — rovněž zakládá zrušení.
+- **§ 21 až 27** — postavení, ustanovení a obecná úprava insolvenčního správce, včetně předběžného správce.
+- **§ 108** — záloha na náklady insolvenčního řízení; podle § 123 odst. 2 se použije přiměřeně.
+- **§ 116 odst. 2** — prohlášení věřitelů připojované k návrhu na moratorium.
+- **§ 119 až 124** — trvání, účinky a zánik moratoria.
+- **§ 125 a § 126** — moratorium před zahájením insolvenčního řízení a obdobné použití § 115 až 124.
 
-**5. Řešení.** Soud ustanoví předběžného správce k návrhu kvalifikované menšiny věřitelů (§ 123) a moratorium **zruší** — buď na návrh většiny věřitelů, nebo i bez návrhu pro nepravdivé údaje a nepoctivý záměr (§ 124). Po zániku moratoria pominou jeho účinky a soud pokračuje v projednání insolvenčního návrhu (s tím, že lhůta dle § 134 neskončí dříve než 10 dnů po zániku). Praktický krok věřitelů: doložit nepoctivý záměr (preferenční platby) a objem svých pohledávek.
+### Souvisící předpisy
 
-**6. Varianty.** (a) Dlužník jedná poctivě a údaje jsou pravdivé — důvod pro zrušení bez návrhu odpadá a moratorium trvá do uplynutí doby. (b) Řízení o insolvenčním návrhu je zastaveno/odmítnuto — moratorium zaniká i z tohoto důvodu (§ 124).
+- **Zákon č. 312/2006 Sb., o insolvenčních správcích** — obecné předpoklady výkonu funkce insolvenčního správce.
 
-### G. Protiargumenty a rizika
+### Z důvodové zprávy
 
-- *„Předběžného správce může navrhnout jen dlužník."* Neobstojí — § 123 výslovně přiznává návrhové právo i věřitelům s 10 % pohledávek, kteří nepodepsali souhlas. Neutralizace: doložit nepodepsání souhlasu a objem pohledávek.
-- *„Bez návrhu soud moratorium zrušit nemůže."* Vyloučeno § 124 — při nepravdivých údajích či nepoctivém záměru soud zruší moratorium i bez návrhu. Neutralizace dlužníka: prokázat pravdivost údajů a absenci preferencí.
-- Slabé místo: prokázání „nepoctivého záměru" (typicky preferenční uspokojení) vyžaduje konkrétní doklady o platbách a vztazích k věřitelům; bez nich je zrušení bez návrhu obtížně odůvodnitelné.
+Původní důvodová zpráva spojila § 123 odst. 1 s potřebou účinné kontroly dlužníkových věřitelů během moratoria. K odstavci 2 vysvětlila, že náklady činnosti předběžného správce nemají nést jiné osoby než ty, které jeho ustanovení požadovaly; tomu odpovídá možnost uložit zálohu za přiměřeného použití § 108. Pramen: vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, 4. volební období, zvláštní část „K § 123“, číslovaná s. 188 (PDF s. 189).
 
-### H. Praktický závěr
+### Literatura
 
-V moratoriu lze ustanovit předběžného správce (na návrh dlužníka nebo kvalifikované menšiny věřitelů s 10 % pohledávek, kteří nesouhlasili); moratorium zaniká uplynutím doby, zrušením na návrh většiny věřitelů nebo i bez návrhu pro nepravdivé údaje či nepoctivý záměr, případně skončením řízení o insolvenčním návrhu.
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto sdělení není výsledkem negativní literární rešerše.
 
-**Checklist (věřitel / dlužník / správce / soud):**
-- [ ] Navrhují předběžného správce věřitelé s 10 % pohledávek, kteří nepodepsali souhlas (§ 123)?
-- [ ] Jsou v návrhu na moratorium nepravdivé údaje (důvod zrušení bez návrhu)?
-- [ ] Dochází k nepoctivému záměru (preferenční uspokojení vybraných věřitelů)?
-- [ ] Navrhuje zrušení většina věřitelů počítaná podle výše pohledávek?
-- [ ] Neskončilo řízení o IN (zamítnutí/odmítnutí/zastavení) jako důvod zániku?
+### Výklad
 
-**Typicky rozhodné důkazy / podklady:** účetnictví a doklady o skutečném stavu majetku, doklady o platbách (zejména spřízněným věřitelům), prohlášení o souhlasu s vyznačením nepodepsavších věřitelů, vyčíslení objemu pohledávek navrhovatelů, podání návrhů na ustanovení správce/zrušení moratoria.
+[1] **Dvě návrhové situace.** Návrh dlužníka musí být uplatněn tak, aby soud mohl předběžného správce ustanovit v rozhodnutí o vyhlášení moratoria. Věřitel nebo více věřitelů mohou návrh podat za trvání již vyhlášeného moratoria.
+
+[2] **Povinnost soudu při splnění podmínek.** Sloveso „ustanoví“ vyjadřuje, že při řádném návrhu a splnění zákonných předpokladů nejde o volnou úvahu, zda předběžného správce ustanovit. U věřitelského návrhu však soud musí ověřit oba kvalifikační znaky odstavce 1.
+
+[3] **Nepodepsání prohlášení.** Každý navrhující věřitel musí patřit mezi věřitele dlužníka, kteří nepodepsali prohlášení podle § 116 odst. 2. Nestačí obecný nesouhlas s moratoriem ani dodatečná změna postoje věřitele, který prohlášení podepsal.
+
+[4] **Výpočet desetiny.** Čitatel tvoří pohledávky navrhujícího věřitele nebo navrhujících věřitelů, počítané podle výše. Jmenovatelem nejsou všechny tvrzené či přihlášené pohledávky, ale pohledávky věřitelů, které dlužník uvedl v seznamu závazků. Zákonná hranice činí alespoň jednu desetinu.
+
+[5] **Okamžik ustanovení.** U dlužníkova návrhu zákon váže ustanovení na rozhodnutí o vyhlášení moratoria. U věřitelského návrhu používá širší časové vymezení „za trvání moratoria“; návrh tedy nelze podle § 123 úspěšně založit až po zániku moratoria.
+
+[6] **Záloha na náklady.** Zálohu lze uložit jen navrhovateli nebo navrhovatelům podle odstavce 1, kteří nejsou insolvenčními navrhovateli. Uložení zálohy je fakultativní a soud stanoví lhůtu; § 108 se použije pouze přiměřeně, protože přímým účelem je krytí nákladů předběžného správce.
+
+[7] **Moratorium před zahájením řízení.** Podle § 125 se § 115 až 124 použijí obdobně i na moratorium navržené před zahájením insolvenčního řízení, nestanoví-li § 126 jinak. Při použití § 123 je proto nutné současně zohlednit zvláštní procesní rámec § 126.
+
+[8] **Časová působnost.** Výklad vychází ze znění účinného k 19. 7. 2026. U dřívějších moratorií je třeba ověřit tehdy účinné znění zákona a nelze na ně bez dalšího přenášet dnešní procesní pravidla.
+
+### Judikatura
+
+Tato revize necituje žádné soudní rozhodnutí jako pramen samostatného pravidla k § 123. Tím se nevyslovuje závěr o neexistenci související judikatury; do produkčního textu se pouze nezařazuje rozhodnutí bez ověřeného plného textu a přímo nosného závěru.
 
 ---
 

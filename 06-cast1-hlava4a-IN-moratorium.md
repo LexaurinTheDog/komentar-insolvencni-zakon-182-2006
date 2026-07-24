@@ -1176,52 +1176,57 @@ Do tohoto kola nebylo zařazeno rozhodnutí, jehož oficiální plný text by by
 
 ## § 115 — Aktivní legitimace k návrhu
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Dlužník, který je podnikatelem, může do 7 dnů od podání insolvenčního návrhu, a jde-li o insolvenční návrh věřitele, do 15 dnů od jeho doručení insolvenčním soudem, navrhnout insolvenčnímu soudu vyhlášení moratoria; toto právo nemá právnická osoba v likvidaci.
+
+### Přehled výkladu
+
+Návrh podle § 115 může podat jen dlužník, který je podnikatelem. Právnická osoba v likvidaci je výslovně vyloučena. Při dlužnickém insolvenčním návrhu činí lhůta 7 dnů od jeho podání; při věřitelském insolvenčním návrhu činí 15 dnů od jeho doručení dlužníku insolvenčním soudem. Samotné splnění § 115 nestačí: návrh musí vyhovět také § 116 a musí být podán dříve, než bylo rozhodnuto o insolvenčním návrhu (§ 118 odst. 1).
+
+### Souvisící ustanovení
+
+- § 7 — přiměřené použití občanského soudního řádu,
+- § 83 — prominutí zmeškání lhůty není v insolvenčním řízení přípustné,
+- § 97 — zahájení insolvenčního řízení,
+- § 116 — obsah návrhu na moratorium a povinné přílohy,
+- § 117 a § 118 — rozhodnutí o návrhu a následky nesplnění předpokladů,
+- § 119 až § 124 — trvání, účinky a zánik moratoria,
+- § 125 až § 127 — návrh na moratorium před zahájením insolvenčního řízení.
+
+### Souvisící předpisy
+
+- zákon č. 99/1963 Sb., občanský soudní řád, zejména § 57 (počítání procesních lhůt), použitelný přiměřeně prostřednictvím § 7 insolvenčního zákona.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona vysvětloval vyloučení právnické osoby v likvidaci tím, že možnost využít moratorium nemá mít dlužník, který již nepodniká, a výslovně uváděl, že § 115 vymezuje lhůty k podání návrhu. Jde o historické vysvětlení původního návrhu, nikoli o samostatné rozšíření znaků dnešního ustanovení. (Sněmovní tisk 1120/0, 4. volební období, zvláštní část, K § 115, číslovaná s. 187, PDF s. 188.)
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento oddíl proto nepředstavuje negativní rešerši literatury.
 
 ### Výklad
 
-Pouze **dlužník-podnikatel** může navrhnout. *Vyloučeno*: PO v likvidaci (logika — pokud je likvidace, snaha o sanaci je již vzdána).
+[1] **Osoba oprávněná podat návrh.** Zákon spojuje aktivní legitimaci se současným naplněním dvou znaků: navrhovatelem je dlužník a dlužník je podnikatelem. Věřitel návrh na vyhlášení moratoria podle § 115 podat nemůže, i když jeho insolvenční návrh může být událostí, od níž dlužníku začne běžet patnáctidenní lhůta.
 
-**Lhůty:**
-- *vlastní návrh*: **7 dnů** od podání IN,
-- *věřitelův návrh*: **15 dnů** od doručení IN dlužníkovi.
+[2] **Právnická osoba v likvidaci.** Závěrečná věta § 115 jí právo podat návrh výslovně odpírá. Výluka je formulována jen pro právnickou osobu v likvidaci; nelze ji bez dalšího přepisovat jako obecné pravidlo pro každého podnikatele, který fakticky utlumuje provoz.
 
-### F. Kazuistika
+[3] **Dlužnický insolvenční návrh.** Podal-li insolvenční návrh sám dlužník, sedmidenní lhůta se váže k jeho podání. Pro určení jejího počátku je proto rozhodný údaj o podání u insolvenčního soudu, nikoli pozdější zveřejnění vyhlášky o zahájení řízení.
 
-**1. Modelová situace.** Dlužník PSÍ s. r. o. (podnikatel) je zasažen návrhem věřitele; insolvenční návrh byl dlužníkovi doručen soudem v pondělí. Dlužník má předjednanou dohodu s většinou věřitelů a chce získat čas vyhlášením moratoria. Druhý scénář: jiný dlužník je akciová společnost **v likvidaci**, která rovněž zvažuje moratorium. Důkazy: doklad o doručení insolvenčního návrhu dlužníku, výpis z obchodního rejstříku (podnikatel / likvidace), podklady k souhlasu věřitelů.
+[4] **Věřitelský insolvenční návrh.** Podal-li insolvenční návrh věřitel, patnáctidenní lhůta se váže k doručení tohoto návrhu dlužníku insolvenčním soudem. Nestačí tedy bez dalšího datum podání věřitelem ani pouhá dlužníkova neformální vědomost o návrhu.
 
-**2. Právní otázka.** Kdo a v jaké lhůtě může navrhnout vyhlášení moratoria a vztahuje se toto právo i na PO v likvidaci?
+[5] **Počítání lhůty.** § 115 stanoví délku a rozhodnou počáteční událost; vlastní počítání procesní lhůty se řídí přiměřeně § 57 o. s. ř. prostřednictvím § 7 insolvenčního zákona. Prominutí zmeškání lhůty je v insolvenčním řízení podle § 83 vyloučeno.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 115 (návrh na moratorium jen dlužník-podnikatel; lhůta 7 dnů od podání vlastního IN, 15 dnů od doručení věřitelova IN; vyloučena PO v likvidaci).
-- *Související ustanovení téhož zákona:* § 116 (náležitosti návrhu, souhlas většiny věřitelů), § 117–§ 119 (rozhodnutí, účinnost, prodloužení), § 125 (moratorium před zahájením IR), § 120 (suspenze rozhodnutí o úpadku).
-- *Související předpisy:* zákon č. 284/2023 Sb. o preventivní restrukturalizaci (paralelní sanační nástroj).
-- *Judikatura:* k aktivní legitimaci chybí v komentáři citovaná judikatura; nosně plyne z textu § 115 (taxativní okruh a lhůty).
+[6] **Další předpoklady.** Včasnost a aktivní legitimace jsou jen částí vstupního testu. Podle § 118 odst. 1 soud moratorium vyhlásí, jsou-li splněny předpoklady § 115 a § 116 a nebylo-li dosud rozhodnuto o insolvenčním návrhu; jinak návrh odmítne. Obsah a přílohy podle § 116 proto musí být posuzovány samostatně.
 
-**4. Subsumpce.** Znak „dlužník-podnikatel" — u PSÍ s. r. o. naplněn. Znak lhůty — u věřitelského návrhu 15 dnů od doručení (pondělí + 15 dnů). U akciové společnosti v likvidaci znak „není v likvidaci" naplněn **není** → moratorium navrhnout nemůže.
+[7] **Intertemporální omezení.** Výklad odpovídá znění účinnému k 19. 7. 2026. U návrhu podaného v dřívější době je nutné nejprve ověřit tehdy účinné znění § 115 i souvisejících ustanovení; z dnešního konsolidovaného textu nelze bez této kontroly zpětně dovozovat procesní následky.
 
-**5. Řešení.** PSÍ může moratorium navrhnout do 15 dnů od doručení návrhu, splní-li náležitosti § 116 (zejm. souhlas většiny věřitelů). Akciová společnost v likvidaci je z moratoria vyloučena (logika — snaha o sanaci je likvidací opuštěna). Praktický krok: hlídat běh lhůty (prekluzivní povahy) a mít připravené podklady dle § 116 ještě před podáním návrhu.
+### Judikatura
 
-**6. Varianty.** (a) Dlužník podal **vlastní** insolvenční návrh — lhůta pro návrh na moratorium je 7 dnů od jeho podání. (b) Dlužník zvolí místo moratoria preventivní restrukturalizaci podle ZPR (paralelní cesta se širší ochranou, ale složitějším vstupem).
-
-### G. Protiargumenty a rizika
-
-- *„Lhůtu lze prominout / běží i pro PO v likvidaci."* Neobstojí — lhůty jsou striktní a PO v likvidaci je z práva vyloučena výslovně. Neutralizace: dodržet lhůtu a ověřit, že dlužník není v likvidaci.
-- *„Stačí být podnikatelem, souhlas věřitelů doložím později."* Riziko zamítnutí — bez náležitostí § 116 (souhlas většiny věřitelů) soud moratorium nevyhlásí a vady se neodstraňují výzvou (§ 117). Neutralizace: zajistit souhlas věřitelů předem.
-- Slabé místo: krátké lhůty a nutnost předjednané dohody s věřiteli činí institut prakticky obtížně dostupným; doporučeno zvážit ZPR jako alternativu.
-
-### H. Praktický závěr
-
-Moratorium může navrhnout pouze dlužník-podnikatel (nikoli PO v likvidaci), a to do 7 dnů od podání vlastního insolvenčního návrhu, resp. do 15 dnů od doručení věřitelova návrhu; lhůty jsou striktní a předpokládají připravené podklady dle § 116.
-
-**Checklist (dlužník / advokát / soud):**
-- [ ] Je dlužník podnikatelem a není v likvidaci?
-- [ ] Z jakého návrhu běží lhůta (vlastní IN — 7 dnů / věřitelův IN — 15 dnů od doručení)?
-- [ ] Je lhůta dodržena (prekluze)?
-- [ ] Jsou připraveny náležitosti dle § 116 (souhlas většiny věřitelů, účetní závěrka)?
-- [ ] Není vhodnější preventivní restrukturalizace podle ZPR?
-
-**Typicky rozhodné důkazy / podklady:** výpis z obchodního rejstříku (status podnikatele, případně likvidace), doklad o podání/doručení insolvenčního návrhu s datem, písemné souhlasy věřitelů, poslední účetní závěrka.
+Do této revize nebylo převzato žádné rozhodnutí. Tím se nevyslovuje závěr, že k § 115 neexistuje relevantní judikatura; pouze se odděluje zákonný a legislativní základ této jednotky od rozhodnutí, která nebyla v této revizi použita a plnotextově ověřena jako přímo nosná.
 
 ---
 

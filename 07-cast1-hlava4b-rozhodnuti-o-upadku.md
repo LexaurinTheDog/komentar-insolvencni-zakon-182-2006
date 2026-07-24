@@ -15,6 +15,10 @@ Druhá část Hlavy IV pokrývá:
 
 ## § 136 — Rozhodnutí o úpadku — **NEJDŮLEŽITĚJŠÍ PARAGRAF IZ**
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Insolvenční soud vydá rozhodnutí o úpadku, je-li osvědčením nebo dokazováním zjištěno, že dlužník je v úpadku nebo že mu úpadek hrozí.
 > (2) Rozhodnutí o úpadku musí obsahovat
 > a) výrok o tom, že se zjišťuje úpadek dlužníka nebo jeho hrozící úpadek,
@@ -35,105 +39,62 @@ Druhá část Hlavy IV pokrývá:
 >
 > (6) Insolvenční správce ustanovený v rozhodnutí o úpadku navazuje na činnost předběžného správce, byl-li dříve ustanoven. Nejde-li o stejnou osobu, je předběžný správce povinen podat insolvenčnímu správci úplné informace o své dosavadní činnosti a předat mu její výsledky, jakož i doklady, které má k dispozici, a poskytnout mu potřebnou součinnost.
 
-**Judikatura (z místních zdrojů):**
+>
 
-- *NS* [29 NSCR 4/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3BAE3A971938E7BEC1257A4E0065EFF6?openDocument) — 4. 9. 2008, kat. A
-  > „Nejde-li o známé věřitele dlužníka, kteří mají své obvyklé místo pobytu, bydliště nebo sídlo v některém z členských států Evropské unie s výjimkou Dánska (§ 430 zákona č. 182/2006 Sb. ve znění pozdějších předpisů), nedoručuje insolvenční soud známým věřitelům dlužníka zvlášť (jinak než vyhláškou podle § 71 a násl. uvedeného zákona) ani vyhlášku, kterou seoznamuje zahájení insolvenčního řízení, ani rozhodnutí o úpadku. Dovolání proti usnesení, jímž odvolací soud potvrdil usnesení insolvenčního soudu o odmítnutí přihlášky, je přípustné podle § 239 odst. 3 o. s. ř"
+### Přehled výkladu
 
-### Výklad — **DOMINUJÍCÍ MERITORNÍ ROZHODNUTÍ**
+Rozhodnutí o úpadku kladně rozhoduje o insolvenčním návrhu. Odstavec 1 stanoví jeho předpoklad; odstavec 2 určuje povinný obsah a rozlišuje obecný režim od rozhodnutí spojeného s povolením oddlužení. Odstavce 3 až 5 doplňují zvláštní pravidla pro financování počáteční fáze oddlužení, odůvodnění a reorganizační plán. Odstavec 6 zajišťuje návaznost na činnost předběžného správce.
 
-Rozhodnutí o úpadku je **přelomové** — od něj se odvíjí celý další běh řízení:
-- věřitelé musí přihlásit pohledávky (2 měsíce),
-- ustanovuje se správce,
-- aktivují se účinky úpadku (§ 140 — § 140e),
-- konají se schůze a přezkumné jednání,
-- buď se *spojuje* s rozhodnutím o způsobu řešení úpadku (§ 148), nebo *následuje* samostatné rozhodnutí (§ 149).
+### Souvisící ustanovení
 
-#### Podmínka vydání (odst. 1)
+- **§ 3 a § 4** — úpadek, hrozící úpadek a způsoby řešení.
+- **§ 27** — ustanovení insolvenčního správce nejpozději v rozhodnutí o úpadku.
+- **§ 71 odst. 2 a § 89 odst. 1** — zveřejnění a obecný okamžik účinků rozhodnutí.
+- **§ 137 a § 138** — termíny schůze věřitelů a přezkumného jednání mimo oddlužení; doručování rozhodnutí.
+- **§ 141** — odvolání proti rozhodnutí o úpadku.
+- **§ 148 a § 149** — spojené nebo následné rozhodnutí o způsobu řešení úpadku.
+- **§ 173 odst. 1** — přihlášky, dvouměsíční lhůta a následek zmeškání.
+- **§ 316 odst. 5 a 6** — žádost dlužníka o prodloužení lhůty k předložení reorganizačního plánu.
+- **§ 389 odst. 2 písm. a), § 397 odst. 1, § 398a až § 400** — zvláštní procesní režim oddlužení.
 
-**Úpadek osvědčen nebo prokázán** — *snížený důkazní standard* („osvědčení") + možnost prokazování (vyšší standard). Stačí *vyšší pravděpodobnost*.
+### Souvisící předpisy
 
-#### Obsah rozhodnutí (odst. 2) — **DEVĚT POVINNÝCH NÁLEŽITOSTÍ**
+- **Prováděcí právní předpis vydaný na základě § 431** — stanoví nejvyšší přípustnou výši srážky podle odstavce 3 a minimální výši zálohy podle odstavce 5.
+- **Nařízení Evropského parlamentu a Rady (EU) 2015/848** — u přeshraničních věcí zvláštní pravidla informování zahraničních věřitelů a přihlašování pohledávek; tato pravidla nemění obsah § 136, ale mohou doplnit způsob informování.
 
-**a) Výrok o úpadku** — *konstitutivní výrok* (úpadek se *zjišťuje*, tedy ne soud ho „prohlašuje", ale formálně konstatuje hmotněprávní stav).
+### Z důvodové zprávy
 
-**b) Ustanovení správce** — *spojeno s rozhodnutím o úpadku* (§ 27 odst. 1 — nejpozději v rozhodnutí o úpadku).
+Vládní návrh insolvenčního zákona označil rozhodnutí o úpadku za rozhodnutí, jímž se insolvenčnímu návrhu vyhovuje, a zjištění úpadku nebo hrozícího úpadku za základní otázku, které musí být věnován výrok. Na tuto koncepci navázal úpravou předpokladů, obsahu, doručování, účinnosti a účinků rozhodnutí. Jde o původní koncepční vysvětlení; dnešní úplný obsah § 136, zejména oddlužovací pravidla, je nutné číst v aktuálním znění.
 
-**c) Účinky rozhodnutí** — okamžik (nastávají *zveřejněním* v rejstříku, § 140a odst. 1).
+*Pramen:* vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, navržené znění § 136 na číslované s. 39–40 (PDF s. 40–41) a zvláštní část „K § 136 až 147“ na číslované s. 191–192 (PDF s. 192–193).
 
-**d) Výzva k přihláškám** — **lhůta 2 měsíce** + poučení o následcích zmeškání (definitivní zánik práva přihlásit). Toto je *jedna z nejdůležitějších lhůt v IZ*.
+### Literatura
 
-**e) Výzva o zajišťovacích právech** — věřitelé musí *neprodleně* sdělit správci, jaká zajišťovací práva uplatní (jinak odpovědnost za škodu). *Výjimka*: práva zřejmá z veřejného seznamu (typicky katastr u zástavního práva k nemovitosti).
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento oddíl nepředstavuje negativní rešerši ani tvrzení, že relevantní literatura neexistuje.
 
-**f) Místo a termín schůze + přezkumného jednání** — pro nepatrný/standardní konkurs/reorganizaci. *Speciálka pro oddlužení*: místo schůze se ukládá správci povinnost podat *zprávu o přezkumu + zprávu pro oddlužení + soupis podstaty* ve lhůtě 2 měsíců po uplynutí lhůty k přihláškám.
+### Výklad
 
-**g) Uložení dlužníkovi předat seznamy** — pokud neudělal už při návrhu.
+[1] **Předpoklad vydání.** Soud vydá rozhodnutí, zjistí-li osvědčením nebo dokazováním, že dlužník je v úpadku nebo že mu úpadek hrozí. Komentované ustanovení samo nevymezuje znaky těchto stavů; ty plynou zejména z § 3.
 
-**h) Výzva k zájmu o věřitelský orgán** *(oddlužení)*.
+[2] **Základní výroky.** Rozhodnutí musí zjistit úpadek nebo hrozící úpadek a ustanovit insolvenčního správce. § 27 odst. 1 potvrzuje, že správce musí být ustanoven nejpozději v rozhodnutí o úpadku. Byl-li dříve ustanoven předběžný správce, odstavec 6 upravuje kontinuitu činnosti nebo předání informací, výsledků a dokladů.
 
-**i) Výzva k hlasování o reorganizačním plánu / o vedení schůze* *(oddlužení)*.
+[3] **Účinky a zveřejnění.** Rozhodnutí obsahuje údaj o okamžiku svých účinků. Není-li zákonem stanoveno jinak, účinky nastávají zveřejněním v insolvenčním rejstříku (§ 89 odst. 1); soudní rozhodnutí se v rejstříku zveřejňuje vložením jeho stejnopisu (§ 71 odst. 2). § 140a upravuje jen zvláštní účinek přerušení řízení, nikoli obecný základ okamžiku všech účinků rozhodnutí o úpadku.
 
-#### Speciální oddlužovací srážky (odst. 3)
+[4] **Přihlášky.** Výzva podle odstavce 2 písm. d) stanoví věřitelům, kteří dosud nepřihlásili pohledávky, lhůtu dvou měsíců a musí je poučit o následcích. Podle § 173 odst. 1 se k později podaným přihláškám nepřihlíží a takto uplatněné pohledávky se v insolvenčním řízení neuspokojují; nejde o zákonnou formulaci hmotněprávního zániku pohledávky.
 
-Soud v rozhodnutí *přikáže plátci mzdy*, aby srážel zálohy pro správce (před schválením oddlužení) — pro zajištění financování řízení od počátku.
+[5] **Zajišťovací práva a seznamy.** Výzva podle písm. e) směřuje k neprodlenému sdělení zajišťovacích práv správci a obsahuje zákonné poučení o možné odpovědnosti za škodu nebo jinou újmu; neplatí pro práva zřejmá z veřejného seznamu. Podle písm. g) soud uloží dlužníku, který tak dosud neučinil, odevzdat správci zákonem určené seznamy; při oddlužení se neukládá seznam závazků podle této věty.
 
-#### Bezdůvodnost v oddlužení (odst. 4)
+[6] **Rozlišení oddlužení.** Není-li s rozhodnutím spojeno povolení oddlužení, soud určí místo a termín schůze věřitelů a přezkumného jednání. Při spojeném povolení oddlužení místo toho uloží správci podat po uplynutí přihlašovací lhůty zprávu o přezkumu a zprávu pro oddlužení a předložit soupis; zároveň připojí výzvy podle písm. h) a i). Písm. i) se týká návrhu na konání schůze podle § 399 odst. 1 nebo hlasování podle § 400, nikoli reorganizačního plánu.
 
-Pokud žádný z věřitelů neuplatnil stanovisko podle § 389 odst. 2 a nejsou pochybnosti, rozhodnutí *nemusí obsahovat odůvodnění*. Zjednodušení pro masu typických oddlužovacích řízení.
+[7] **Zálohy v oddlužení.** Odstavec 3 ukládá plátci mzdy nebo jiného příjmu provádět v zákonném rozsahu srážky k úhradě zálohy na odměnu a hotové výdaje správce do schválení oddlužení. Odstavec 5 ukládá dlužníku platit alespoň prováděcím předpisem stanovené minimum v rozsahu, v němž výtěžek srážek nestačí.
 
-#### Návaznost na předběžného správce (odst. 6)
+[8] **Odůvodnění a reorganizační plán.** Rozhodnutí spojené s povolením oddlužení nemusí mít odůvodnění jen při současném splnění obou podmínek odstavce 4. V rozhodnutí o úpadku soud rovněž rozhodne o žádosti dlužníka podle § 316 odst. 5 a 6; tato věta se týká prodloužení lhůty k předložení reorganizačního plánu, nikoli výzvy věřitelům podle odstavce 2 písm. i).
 
-Předběžný správce *předá agendu* novému správci (pokud jsou různí); pokud je tentýž, *plynule pokračuje* v plné funkci.
-
-### Vazby
-
-- **§ 27** — ustanovení správce.
-- **§ 137** — termíny schůze a přezkumu.
-- **§ 138** — doručení.
-- **§ 140a — § 140e** — účinky rozhodnutí.
-- **§ 148, § 149** — způsob řešení úpadku.
-- **§ 173** — přihlášky pohledávek.
+[9] **Intertemporalita.** Původní osnova pracovala s jinou skladbou povinného obsahu a s přihlašovací lhůtou v rozmezí třiceti dnů až dvou měsíců. Pro konkrétní řízení je proto nutné ověřit znění účinné v rozhodné době; historická důvodová zpráva nevysvětluje všechny dnešní oddlužovací náležitosti.
 
 ### Judikatura
 
-- **NS 29 NSČR 4/2009 (R 96/2010)**: rozhodnutí o úpadku musí mít *jasný výrok* — formulace „úpadek se zjišťuje" je závazná, ne „prohlašuje" (terminologický rozdíl je věcný).
-
-### F. Kazuistika
-
-**1. Modelová situace.** Insolvenční soud po podání věřitelského návrhu a krátkém šetření osvědčí úpadek dlužníka (s. r. o. provozující stavební firmu) ve formě platební neschopnosti. Soud vydá rozhodnutí o úpadku, v němž ovšem opomene výzvu podle odst. 2 písm. e) (výzva k oznámení zajišťovacích práv) a chybně formuluje účinky tak, že „nastávají právní mocí". Mezi věřiteli je banka se zástavním právem k provozní hale (zapsaným v katastru) a leasingová společnost se zajištěním movitých strojů (nezapsaným ve veřejném seznamu). Důkazy: insolvenční spis, znění výroku rozhodnutí, výpis z katastru, leasingové smlouvy.
-
-**2. Právní otázka.** Způsobuje absence některé z náležitostí podle § 136 odst. 2 (zejména výzvy dle písm. e) a nesprávné určení okamžiku účinků) neplatnost či zrušitelnost rozhodnutí o úpadku, a jaké jsou důsledky pro zajištěné věřitele?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 136 — náležitosti a podmínky vydání rozhodnutí o úpadku; výrok o zjištění úpadku (písm. a), výzva k přihláškám se lhůtou 2 měsíců (písm. d), výzva o zajišťovacích právech (písm. e).
-- *Související ustanovení téhož zákona:* § 140a odst. 1 (účinky nastávají *zveřejněním* v rejstříku, nikoli právní mocí — výrok dle písm. c je deklaratorní a nesmí být v rozporu se zákonem); § 27 (ustanovení správce); § 173 (lhůta k přihláškám); § 141 (odvolání).
-- *Související předpisy:* § 167 a násl. o. s. ř. (usnesení a jeho opravitelnost), katastrální zákon (veřejný seznam pro výjimku z písm. e).
-- *Judikatura:* NS 29 NSČR 4/2009 (R 96/2010) — výrok „úpadek se zjišťuje" je závazný; terminologický rozdíl oproti „prohlašuje" je věcný. Obecně: vady výroku se primárně řeší opravou/doplněním rozhodnutí, ne jeho zrušením, je-li úpadek materiálně osvědčen.
-
-**4. Subsumpce.** Výrok o zjištění úpadku (písm. a) i ustanovení správce (písm. b) jsou splněny. Sporné: údaj o účincích (písm. c) je formulován v rozporu s § 140a odst. 1 — účinky ze zákona nastávají zveřejněním, takže vadný údaj je nezávazný a fakticky se prosadí zákonný okamžik. Chybějící výzva dle písm. e) je vadou rozhodnutí, ne důvodem jeho neplatnosti; ohledně banky je navíc bezpředmětná (zástavní právo je zřejmé z katastru — výjimka *in fine* písm. e), kdežto u leasingu (nezapsané zajištění) výzva chyběla a věřitel se o povinnosti dozví až z obecné úpravy.
-
-**5. Řešení.** Rozhodnutí o úpadku je účinné zveřejněním v rejstříku bez ohledu na vadný údaj o účincích; soud chybu napraví doplňujícím/opravným usnesením a doplní chybějící výzvu. Úpadek se neruší — je materiálně osvědčen (srov. § 141 odst. 2). Lhůta k přihláškám běží od zveřejnění. Leasingová společnost by měla i bez výzvy neprodleně oznámit zajištění správci, jinak nese riziko odpovědnosti za škodu (písm. e). Procesně: sledovat rejstřík, podat přihlášku a oznámení zajištění, případně upozornit soud na potřebu opravy výroku.
-
-**6. Varianty.** (a) Kdyby chyběl samotný výrok o zjištění úpadku (písm. a), rozhodnutí by nebylo rozhodnutím o úpadku — pak ano, podstatná vada vyžadující nápravu. (b) Kdyby dlužníkem byla osoba vyloučená z insolvence dle § 6, rozhodnutí o úpadku by vůbec nemělo být vydáno a dlužník by je mohl napadnout odvoláním (§ 141 odst. 1).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Vadný údaj o účincích (písm. c) zakládá neplatnost rozhodnutí." — Neutralizace: účinky nastávají *ex lege* zveřejněním v rejstříku (§ 140a odst. 1); údaj ve výroku je deklaratorní, jeho vada se napravuje opravou, nikoli zrušením.
-- *Protiargument:* „Bez výzvy dle písm. e) nemůže věřitelům vzniknout odpovědnost za neoznámení zajištění." — Neutralizace: povinnost a riziko plynou ze zákona; výzva je informační, nikoli konstitutivní, a u práv zřejmých z veřejného seznamu výzva ani není potřeba.
-- *Slabé místo:* hranice mezi „pouhou vadou" a vadou působící, že nejde o rozhodnutí o úpadku, není ostrá; u absence výroku dle písm. a) nebo b) je nutná maximální opatrnost. Chybí jednotná judikatura k následkům dílčích vad jednotlivých písmen odst. 2.
-
-### H. Praktický závěr
-
-Rozhodnutí o úpadku je páteřní akt řízení s devíti povinnými náležitostmi (odst. 2); jejich účelem je rozběhnout přihlašování, ustanovit správce a aktivovat účinky úpadku. Dílčí vady (vyjma absence konstitutivních výroků dle písm. a, b) se napravují opravou/doplněním, nikoli zrušením; účinky nastávají zveřejněním v rejstříku bez ohledu na vadný údaj.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověřit, že výrok zní „úpadek se zjišťuje" a obsahuje ustanovení správce (písm. a, b).
-- [ ] Zkontrolovat, že údaj o účincích odpovídá § 140a odst. 1 (zveřejnění v rejstříku).
-- [ ] Ověřit přítomnost výzvy k přihláškám se lhůtou 2 měsíců a poučení o následcích (písm. d).
-- [ ] U zajištěných věřitelů: neprodleně oznámit zajištění správci, ledaže je zřejmé z veřejného seznamu (písm. e).
-- [ ] Odlišit, zda jde o spojené oddlužení/reorganizaci (modifikované náležitosti písm. f–i, odst. 3–5).
-
-**Typicky rozhodné důkazy / podklady:** insolvenční spis a znění výroku rozhodnutí o úpadku, údaj o čase zveřejnění v rejstříku, výpis z katastru / veřejného seznamu k zajištění, zajišťovací smlouvy, doklad o doručení dlužníku a správci.
+Do tohoto kola nebylo zařazeno žádné rozhodnutí. Stávající odkaz na 29 NSČR 4/2008 nosně řešil zvláštní vyrozumění známých věřitelů z jiných členských států, tedy především § 430, a nebyl použit jako autorita k obsahu § 136. Tvrzení připisované rozhodnutí „29 NSČR 4/2009 (R 96/2010)“ nebylo doloženo plným oficiálním textem a bylo odstraněno. Tím se nevyslovuje závěr, že relevantní judikatura k § 136 neexistuje.
 
 ---
 

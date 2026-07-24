@@ -2118,6 +2118,10 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola; tato poz
 
 ## § 128a — Zjevně bezdůvodný návrh
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Insolvenční návrh podaný věřitelem insolvenční soud odmítne také tehdy, je-li zjevně bezdůvodný; učiní tak neprodleně, nejpozději do 7 dnů poté, co byl insolvenční návrh podán.
 > (2) Insolvenční návrh je zjevně bezdůvodný zejména tehdy, jestliže
 > a) insolvenční navrhovatel dokládá oprávnění jej podat pohledávkou, ke které se pro účely rozhodnutí o úpadku nepřihlíží,
@@ -2127,72 +2131,50 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola; tato poz
 > (3) V rozhodnutí, jímž odmítá insolvenční návrh pro zjevnou bezdůvodnost, může insolvenční soud uložit insolvenčnímu navrhovateli, aby za jeho podání zaplatil pokutu určenou do výše **500 000 Kč** se zřetelem ke všem okolnostem věci, zejména k okolnostem podání insolvenčního návrhu, následkům jeho podání a jejich závažnosti, k jednání insolvenčního navrhovatele po podání návrhu a případné účinné snaze nahradit způsobenou škodu nebo odstranit škodlivé následky.
 > (4) Insolvenční navrhovatel, jehož insolvenční návrh byl pravomocně odmítnut podle odstavce 1, může podat nový insolvenční návrh proti stejnému dlužníkovi nejdříve po 6 měsících od právní moci rozhodnutí podle odstavce 1, jinak se k insolvenčnímu návrhu nepřihlíží. To neplatí, byl-li insolvenční návrh odmítnut proto, že spolu s insolvenčním návrhem nebyla složena záloha na náklady insolvenčního řízení.
 > (5) Bylo-li dříve rozhodnuto podle § 100a odst. 1, insolvenční soud rozhodnutí podle odstavce 1, případně i rozhodnutí o odvolání proti němu, doručí zvlášť pouze insolvenčnímu navrhovateli a dlužníku.
+>
 
-### Výklad — **OBRANA PROTI ŠIKANE**
+### Přehled výkladu
 
-**Čtyři typové důvody zjevné bezdůvodnosti (odst. 2):**
+Ustanovení dopadá jen na insolvenční návrh podaný věřitelem. Ukládá soudu odmítnout zjevně bezdůvodný návrh neprodleně, nejpozději do sedmi dnů od podání. Odstavec 2 uvádí demonstrativní případy; odstavec 3 umožňuje uložit pokutu, odstavec 4 omezuje opakované podání proti témuž dlužníku a odstavec 5 upravuje zvláštní doručení po předběžném posouzení podle § 100a odst. 1.
 
-(a) *Pohledávka, ke které se nepřihlíží* — typicky promlčená, neuplatnitelná v IR, zcela nedoložená.
+### Souvisící ustanovení
 
-(b) *Opětovný návrh bez splnění povinností z dřívějšího rozhodnutí* — typicky opětovný návrh, ke kterému se nepřihlíželo pro nezaplacení zálohy z předchozího řízení.
+- § 100a — předběžné posouzení věřitelského návrhu a dočasné nezveřejnění spisu,
+- § 105 — doložení oprávnění věřitele podat insolvenční návrh,
+- § 108 — záloha na náklady insolvenčního řízení splatná s věřitelským návrhem,
+- § 147 — odpovědnost insolvenčního navrhovatele za škodu nebo jinou újmu.
 
-(c) **Zneužití práva** — *materiální* test. Typicky:
-- konkurenční firma podávající návrh za účelem poškození,
-- věřitel hrozící insolvencí za účelem vymožení sporné pohledávky.
+### Souvisící předpisy
 
-(d) *Nezaplacení zálohy* — automatický důvod.
+- zákon č. 99/1963 Sb., občanský soudní řád — subsidiární procesní úprava v mezích § 7 insolvenčního zákona.
 
-**Pokuta až 500 000 Kč** (odst. 3) — *odstrašující sankce*. V praxi soudy ukládají v případech zjevné šikany.
+### Z důvodové zprávy
 
-**Karenční lhůta 6 měsíců** (odst. 4) — *zákaz nového návrhu* proti témuž dlužníkovi po dobu 6 měsíců po pravomocném odmítnutí. *Výjimka*: pokud byl důvodem jen nezaplacení zálohy.
+Vládní návrh novely později vyhlášené pod č. 64/2017 Sb. spojil změny § 128a s posílením ochrany před zneužitím insolvenčního řízení. K bodům 40 až 43 navrhl doplnění nezaplacení zálohy mezi typové případy, zvýšení horní hranice pokuty na 500 000 Kč, doplnění hledisek pro její určení a šestiměsíční omezení nového návrhu proti témuž dlužníkovi. Zvláštní část současně vysvětluje, že výjimka při nezaplacení zálohy ponechává možnost podat nový návrh bez čekání na uplynutí šesti měsíců.
 
-**Vztah k § 100a** (odst. 5) — pokud byl návrh nezveřejněn, doručuje se *jen navrhovateli a dlužníkovi*.
+### Literatura
 
-### Vazby
+Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; je odložena do druhého kola.
 
-- **§ 100a** — předběžné posouzení.
-- **§ 147** — odpovědnost navrhovatele za škodu.
+### Výklad
 
-### Praktická poznámka
+[1] **Rozsah a lhůta.** § 128a je zvláštním důvodem odmítnutí věřitelského insolvenčního návrhu. Zjistí-li soud zjevnou bezdůvodnost, musí rozhodnout neprodleně, nejpozději do sedmi dnů od podání návrhu. Ustanovení nedopadá na návrh podaný dlužníkem.
 
-§ 128a (zaveden novelou č. 64/2017 Sb.) byl jedním z nejúčinnějších opatření proti šikanózním insolvenčním návrhům. V kombinaci s § 100a (nezveřejnění) výrazně snížil počet zneužívajících návrhů.
+[2] **Demonstrativní výčet.** Slovo „zejména“ v odstavci 2 znamená, že písmena a) až d) výčet neuzavírají. Každý závěr o jiném případu zjevné bezdůvodnosti však musí vycházet z konkrétních okolností a zachovat zákonný požadavek zjevnosti; samotná spornost pohledávky bez dalšího nenaplňuje žádný výslovný typový případ.
 
-### F. Kazuistika
+[3] **Jednotlivé typové případy.** Písmeno a) vyžaduje pohledávku, ke které se pro účely rozhodnutí o úpadku nepřihlíží; nelze je bez dalšího zaměnit s každou promlčenou nebo nedostatečně doloženou pohledávkou. Písmeno b) míří na opětovný návrh bez doložení splnění povinností uložených případným předchozím rozhodnutím. Písmeno c) vyžaduje zjevné sledování zneužití práv na úkor dlužníka. Podle písmene d) je typovým důvodem řádné a včasné nezaplacení zálohy splatné s podáním návrhu.
 
-**1. Modelová situace.** Konkurent PSÍ-Y a. s. podá insolvenční návrh proti prosperující ÓMEGA s. r. o. a oprávnění opírá o pohledávku, která je promlčená a k níž se pro účely rozhodnutí o úpadku nepřihlíží; zároveň nesloží zálohu na náklady řízení a z okolností je patrné, že cílem je poškodit dlužníka před významným tendrem. Důkazy: doklady k tvrzené pohledávce (promlčení), absence zálohy, indicie o konkurenčním motivu, časování podání.
+[4] **Pokuta.** Odmítnutí podle odstavce 1 je podmínkou, za níž soud může v témže rozhodnutí uložit navrhovateli pokutu do 500 000 Kč. Uložení i výše jsou věcí posouzení soudu podle všech okolností, zejména podle zákonem vyjmenovaných okolností podání, následků a jejich závažnosti, následného jednání navrhovatele a účinné snahy o nápravu.
 
-**2. Právní otázka.** Je návrh zjevně bezdůvodný podle § 128a a jaké sankce a omezení z toho plynou pro navrhovatele?
+[5] **Opakovaný návrh.** Po pravomocném odmítnutí podle odstavce 1 může tentýž navrhovatel podat proti témuž dlužníkovi nový návrh nejdříve po šesti měsících od právní moci; k dřívějšímu návrhu se nepřihlíží. Výjimka se vztahuje na případ, kdy byl návrh odmítnut proto, že spolu s ním nebyla složena záloha na náklady řízení.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 128a odst. 1 (odmítnutí věřitelského návrhu pro zjevnou bezdůvodnost do 7 dnů), odst. 2 písm. a)–d) (pohledávka, ke které se nepřihlíží; opětovný návrh bez splnění dřívějších povinností; zneužití práva; nezaplacení zálohy), odst. 3 (pokuta až 500 000 Kč), odst. 4 (karenční lhůta 6 měsíců pro nový návrh; neplatí při odmítnutí pro nesložení zálohy), odst. 5 (doručení po § 100a jen navrhovateli a dlužníku).
-- *Související ustanovení téhož zákona:* § 100a (předběžné posouzení a nezveřejnění), § 108 (záloha), § 147 (odpovědnost navrhovatele za škodu).
-- *Související předpisy:* OZ (zneužití práva, promlčení), úprava nákladů řízení.
-- *Judikatura:* k § 128a chybí v komentáři citovaná judikatura; nosně plyne z textu (taxativní příklady zjevné bezdůvodnosti, odstrašující pokuta).
+[6] **Vazba na § 100a.** Předběžné posouzení podle § 100a nebrání následnému použití § 128a. Bylo-li podle § 100a odst. 1 rozhodnuto o nezveřejnění, rozhodnutí o odmítnutí a případné rozhodnutí o odvolání se zvlášť doručují pouze navrhovateli a dlužníku.
 
-**4. Subsumpce.** Znak písm. a) — pohledávka, ke které se nepřihlíží (promlčená) — naplněn. Znak písm. d) — nezaplacení zálohy — naplněn. Znak písm. c) — zneužití práva (poškození konkurenta) — naplněn (materiální test). Návrh je zjevně bezdůvodný hned z více důvodů.
+[7] **Intertemporalita.** Základní institut existoval před novelou č. 64/2017 Sb.; tato novela s účinností od 1. 7. 2017 doplnila zejména písmeno d), změnila sankční odstavec 3 a přidala odstavce 4 a 5. U návrhů a rozhodnutí z dřívější doby je proto nutné ověřit tehdy účinné znění a přechodná ustanovení, nikoli mechanicky použít dnešní pětiodstavcovou úpravu.
 
-**5. Řešení.** Soud návrh odmítne pro zjevnou bezdůvodnost (§ 128a odst. 1) a může uložit pokutu až 500 000 Kč (odst. 3) se zřetelem k okolnostem a následkům. Navrhovatel nesmí proti témuž dlužníku podat nový návrh po dobu 6 měsíců (odst. 4) — s výjimkou, byl-li důvodem **jen** nezaplacení zálohy. Bylo-li dříve rozhodnuto dle § 100a, doručuje se jen navrhovateli a dlužníku (odst. 5). Praktický krok dlužníka: navrhnout uložení pokuty a doložit zneužití práva.
+### Judikatura
 
-**6. Varianty.** (a) Návrh byl odmítnut **jen** pro nezaplacení zálohy — karenční lhůta 6 měsíců se neuplatní, navrhovatel může podat znovu po doplacení. (b) Pohledávka je doložena a motiv legitimní — návrh není zjevně bezdůvodný a projedná se standardně.
-
-### G. Protiargumenty a rizika
-
-- *„Návrh je bezdůvodný jen výjimečně, výčet je úzký."* Neobstojí — odst. 2 obsahuje demonstrativní („zejména") výčet a písm. c) pokrývá obecné zneužití práva. Neutralizace: argumentovat materiálním testem zneužití i nad rámec písm. a), b), d).
-- *„Pokuta je nepřiměřená."* Soud ji odstupňuje dle okolností, následků a snahy navrhovatele o nápravu (odst. 3) — slouží jako odstrašení šikany. Neutralizace navrhovatele: doložit snahu nahradit škodu/odstranit následky.
-- Slabé místo: prokázání „zneužití práva" (písm. c) vyžaduje konkrétní indicie o motivu a následcích; samotná spornost pohledávky nemusí stačit, je-li jinak doložena.
-
-### H. Praktický závěr
-
-Věřitelský návrh je zjevně bezdůvodný zejména při pohledávce, ke které se nepřihlíží, opětovném návrhu bez splnění dřívějších povinností, zneužití práva nebo nezaplacení zálohy; soud jej do 7 dnů odmítne, může uložit pokutu až 500 000 Kč a (mimo důvod nezaplacení zálohy) nastává 6měsíční karenční lhůta.
-
-**Checklist (dlužník / navrhovatel / soud):**
-- [ ] Opírá se oprávnění o pohledávku, ke které se nepřihlíží (písm. a)?
-- [ ] Jde o opětovný návrh bez splnění dřívějších povinností (písm. b)?
-- [ ] Sleduje návrh zneužití práva na úkor dlužníka (písm. c)?
-- [ ] Byla zaplacena záloha na náklady řízení (písm. d)?
-- [ ] Zváženo uložení pokuty (odst. 3) a běh 6měsíční karenční lhůty (odst. 4)?
-
-**Typicky rozhodné důkazy / podklady:** doklady k tvrzené pohledávce (promlčení/nepřihlížení), doklad o (ne)zaplacení zálohy, indicie o motivu a následcích podání (konkurenční vztah, časování), případná dřívější rozhodnutí o návrzích téhož navrhovatele.
+Do tohoto kola nebylo zařazeno žádné rozhodnutí. Tím se nevyslovuje závěr, že relevantní judikatura neexistuje; materiální výklad zde stojí na aktuálním znění zákona a na plnotextově ověřené oficiální důvodové zprávě, nikoli na neověřené právní větě, metadatech nebo sekundárním přehledu.
 
 ---
 

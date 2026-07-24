@@ -970,168 +970,94 @@ Tato revize necituje rozhodnutí jako pramen dalšího samostatného pravidla na
 
 ## § 112 — § 114 — Předběžný správce a předběžná opatření o majetku
 
-### F. Kazuistika
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**1. Modelová situace.** Po zahájení insolvenčního řízení proti dlužníku TAU s. r. o. soud nařídí předběžné opatření, jímž dlužníka omezí v nakládání s majetkovou podstatou v rozsahu **širším** než § 111 (individuální zákaz převodu výrobní haly). Současně bez návrhu ustanoví předběžného správce P. Před rozhodnutím o úpadku soud předběžné opatření zruší (důvody odpadly) a uloží správci podat zprávu a vyúčtovat náklady. Důkazy: usnesení o předběžném opatření a o ustanovení správce, soupis a ocenění zjištěného majetku, prověření účetnictví, zpráva správce a vyúčtování nákladů.
-
-**2. Právní otázka.** Za jakých podmínek soud ustanoví předběžného správce (obligatorně × fakultativně) a jaké jsou jeho povinnosti v interimním období do rozhodnutí o úpadku?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 112 odst. 1 (obligatorní ustanovení i bez návrhu při omezení širším než § 111), odst. 2 (fakultativní ustanovení při moratoriu / k zjištění a zajištění majetku / z jiných stejně závažných důvodů), odst. 3 (povinnost zjistit a zajistit majetek a přezkoumat účetnictví), odst. 4 (při zrušení opatření zpráva o činnosti a vyúčtování nákladů); § 113 a § 114 jako navazující nástroje (opatření o nakládání s majetkem, plnění správci).
-- *Související ustanovení téhož zákona:* § 27 (předběžný správce obecně), § 82 (předběžná opatření), § 111 (zákaz dispozic — hranice obligatornosti), § 136 a násl. (přechod do režimu po rozhodnutí o úpadku).
-- *Související předpisy:* zákon o účetnictví (přezkum účetnictví), katastrální zákon (zajištění nemovitostí).
-- *Judikatura:* k § 112–§ 114 chybí v komentáři citovaná judikatura; nosně plyne z textu (interimní zajišťovací funkce správce a vazba obligatornosti na rozsah omezení dispozice).
-
-**4. Subsumpce.** Znak „omezení v nakládání s majetkovou podstatou v širším rozsahu, než je § 111" — naplněn (individuální zákaz převodu konkrétní věci) → ustanovení správce je **obligatorní** (odst. 1). Znak „provedení opatření ke zjištění a zajištění majetku a přezkoumání účetnictví" — naplněn činností správce (odst. 3). Při zrušení opatření před rozhodnutím o úpadku vzniká povinnost zprávy a vyúčtování (odst. 4).
-
-**5. Řešení.** Předběžný správce musel být ustanoven obligatorně (odst. 1), neboť omezení přesáhlo § 111. Splní povinnosti dle odst. 3 (soupis, zajištění, přezkum účetnictví). Zruší-li soud opatření před rozhodnutím o úpadku, uloží správci podat zprávu o činnosti a stavu spravovaného majetku a vyúčtovat náklady (odst. 4); totéž platí při změně opatření odvolacím soudem, ledaže se změna netýká osoby správce. Riziko: byl-li rozsah omezení jen v mezích § 111, ustanovení správce by obligatorní nebylo a šlo by jen o fakultativní postup (odst. 2).
-
-**6. Varianty.** (a) Soud vyhlásil moratorium — správce lze ustanovit fakultativně (odst. 2), i bez širšího omezení dispozice. (b) Omezení dlužníka zůstalo v mezích § 111 (jen zákonný účinek zahájení) — předběžný správce se obligatorně neustanovuje; přichází v úvahu jen z důvodů odst. 2.
-
-### G. Protiargumenty a rizika
-
-- *„Předběžný správce se ustanovuje vždy po zahájení řízení."* Nepřesné — obligatorně jen při omezení dispozice širším než § 111 (odst. 1); jinak pouze fakultativně z důvodů odst. 2. Neutralizace: poměřit rozsah omezení s § 111.
-- *„Po zrušení opatření správci žádné povinnosti nezbývají."* Neobstojí — odst. 4 ukládá zprávu o činnosti a vyúčtování nákladů; bez nich nelze uzavřít interimní správu. Neutralizace: vyžádat a přezkoumat zprávu a vyúčtování.
-- Slabé místo: interimní povaha funkce a krátký časový rámec do rozhodnutí o úpadku ztěžují důkladné zajištění majetku; účinnost závisí na rychlém soupisu a na publicitě navazujícího opatření dle § 113.
-
-### H. Praktický závěr
-
-Předběžný správce je interimní zajišťovací orgán pro období do rozhodnutí o úpadku: ustanovuje se obligatorně při omezení dispozice širším než § 111, jinak fakultativně (zejména při moratoriu nebo k zjištění a zajištění majetku). Jeho úkolem je zjistit a zajistit majetek a přezkoumat účetnictví; při zrušení opatření podává zprávu a vyúčtování.
-
-**Checklist (soud / správce / dlužník / věřitel):**
-- [ ] Přesahuje omezení dispozice rozsah § 111 (pak obligatorní ustanovení správce — odst. 1)?
-- [ ] Není dán fakultativní důvod dle odst. 2 (moratorium, zajištění majetku, jiné závažné důvody)?
-- [ ] Provedl správce soupis, zajištění majetku a přezkum účetnictví (odst. 3)?
-- [ ] Při zrušení/změně opatření: podal správce zprávu a vyúčtoval náklady (odst. 4)?
-- [ ] Navazuje publicita opatření o majetku dle § 113 (katastr, registry)?
-
-**Typicky rozhodné důkazy / podklady:** usnesení o předběžném opatření a o ustanovení (zrušení) předběžného správce, soupis a ocenění zjištěného majetku, podklady o přezkumu účetnictví, zpráva předběžného správce o činnosti a vyúčtování nákladů.
+### Znění ustanovení
 
 ### § 112 — Ustanovení předběžného správce
 
 > (1) Insolvenční soud ustanoví předběžným opatřením předběžného správce i bez návrhu, jestliže nařídil předběžné opatření, kterým omezil dlužníka v nakládání s majetkovou podstatou v širším rozsahu, než je uvedeno v § 111.
+>
 > (2) Insolvenční soud může předběžného správce ustanovit i tehdy, jestliže vyhlásil moratorium nebo odůvodňuje-li to rozsah majetkové podstaty, který je vhodné i předběžně zjistit a zajistit, anebo jsou-li zde jiné, stejně závažné důvody.
 >
-> (3) Povinností předběžného správce je provést opatření ke zjištění dlužníkova majetku a k jeho zajištění, jakož i k přezkoumání dlužníkova účetnictví nebo evidence vedené podle zvláštního právního předpisu.
+> (3) Povinností předběžného správce je provést opatření ke zjištění dlužníkova majetku a k jeho zajištění, jakož i k přezkoumání dlužníkova účetnictví nebo evidence vedené podle zvláštního právního předpisu13).
 >
 > (4) Jestliže insolvenční soud před rozhodnutím o úpadku zruší předběžné opatření, kterým byl ustanoven předběžný správce, uloží mu současně, aby ve stanovené lhůtě podal insolvenčnímu soudu zprávu o své činnosti, zejména o stavu majetku, který spravoval, a aby vyúčtoval náklady, které mu vznikly. Stejně se postupuje, jestliže na základě odvolání změní předběžné opatření odvolací soud, ledaže jde o změny, které se netýkají osoby předběžného správce a jeho činnosti.
 
+### Přehled výkladu
+
+§ 112 rozlišuje povinné ustanovení předběžného správce při soudem uloženém omezení dispozic širším než podle § 111 a možnost jeho ustanovení z důvodů uvedených v odstavci 2. § 113 upravuje zvláštní předběžné opatření k ochraně rozsahu majetkové podstaty před rozhodnutím o úpadku, jeho doručení, odvolání a zánik. § 114 stanoví následek plnění dlužníkovi navzdory příkazu plnit předběžnému správci.
+
+### Souvisící ustanovení
+
+- **§ 27** — vymezení předběžného správce a rozsahu jeho oprávnění.
+- **§ 82** — obecná insolvenční úprava předběžných opatření.
+- **§ 111** — zákonné omezení dispozic, s nímž § 112 odst. 1 porovnává rozsah soudního omezení.
+- **§ 115 až 127** — moratorium, na něž odkazují § 112 odst. 2 a § 113 odst. 5 písm. c).
+- **§ 142** — rozhodnutí, s jehož vydáním je spojen zánik opatření podle § 113 odst. 5 písm. b).
+
+### Souvisící předpisy
+
+- **Zákon č. 312/2006 Sb., o insolvenčních správcích** — veřejnoprávní úprava postavení insolvenčních správců.
+- **Zákon č. 563/1991 Sb., o účetnictví** — účetnictví, jehož přezkoumání může být součástí úkolu podle § 112 odst. 3.
+- **Zákon č. 256/2013 Sb., katastrální zákon**, a předpisy upravující Rejstřík zástav a jiné seznamy — souvisejí s doručováním stejnopisu opatření podle § 113 odst. 3.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva společně k § 111 až 114 vychází z obecného zákonného omezení dispozic podle § 111 a ze zvláštních omezení, která může soud uložit předběžným opatřením podle § 112 a § 113. U § 114 zdůrazňuje zvláštní důsledek porušení příkazu, aby dlužníkovi dlužníci plnili předběžnému správci. Jde o původní legislativní záměr; rozhodné aktuální znění je nutno číst samostatně.
+
+### Literatura
+
+Odborná literatura je rozhodnutím odpovědného editora odložena do druhého kola. Toto sdělení není výsledkem negativní rešerše.
+
+### Výklad
+
+[1] Povinnost podle § 112 odst. 1 vzniká tehdy, jestliže soud již nařídil předběžné opatření omezující dlužníka v nakládání s majetkovou podstatou šířeji než § 111. Soud v takovém případě ustanoví předběžného správce předběžným opatřením i bez návrhu.
+
+[2] Odstavec 2 naproti tomu zakládá uvážení soudu. Výslovnými důvody jsou vyhlášené moratorium, rozsah majetkové podstaty vhodné k předběžnému zjištění a zajištění nebo jiné stejně závažné důvody. Samotné zahájení insolvenčního řízení tedy povinné ustanovení předběžného správce nezakládá.
+
+[3] Zákonné úkoly předběžného správce zahrnují opatření ke zjištění a zajištění dlužníkova majetku a přezkoumání účetnictví nebo zvláštní evidence. Zruší-li soud před rozhodnutím o úpadku opatření, kterým správce ustanovil, spojí s tím povinnost správce podat ve stanovené lhůtě zprávu a vyúčtovat náklady; § 112 odst. 4 upravuje obdobně též vymezenou změnu opatření odvolacím soudem.
+
+[4] Podmínkou opatření podle § 113 odst. 1 je nutnost zabránit do rozhodnutí o úpadku změnám rozsahu majetkové podstaty v neprospěch věřitelů. Soud může jednat i bez návrhu a může zakázat nakládání s určitými věcmi nebo právy, vázat nakládání na souhlas předběžného správce nebo přesměrovat plnění dlužníkových dlužníků na předběžného správce.
+
+[5] Uloží-li soud opatření podle § 113 odst. 1, ustanoví současně předběžného správce, nebyl-li ustanoven dříve. Rozhodnutí se doručuje do vlastních rukou dlužníkovi a správci. Týká-li se omezení majetku evidovaného v seznamech uvedených v odstavci 3, soud doručí stejnopis také tam uvedeným pracovištím, komoře, orgánu nebo osobě.
+
+[6] Odvolací oprávnění rozlišuje výrok, jímž bylo opatření nařízeno, a usnesení, jímž byl návrh zamítnut: v prvním případě se může odvolat pouze dlužník, ve druhém navrhovatel. Zánik opatření nastává jen některým ze způsobů vypočtených v § 113 odst. 5; při odpadnutí důvodů je může soud zrušit i bez návrhu.
+
+[7] Následek podle § 114 vyžaduje současně plnění po zahájení insolvenčního řízení dlužníkovi navzdory opatření ukládajícímu plnit předběžnému správci a skutečnost, že se plnění nedostalo do majetkové podstaty. Tehdy plnící osoba není závazku zproštěna, ledaže prokáže, že o opatření nemohla vědět. Zákon stanoví důkazní břemeno k této výjimce plnící osobě; pouhá nevědomost není textem ustanovení postavena naroveň nemožnosti vědět.
+
+[8] Autorský závěr: při použití § 112 až 114 je třeba v rozhodnutí přesně oddělit zákonný režim § 111, obsah soudem uloženého omezení, rozsah oprávnění předběžného správce a konkrétní způsob zániku opatření. Tato kontrolní posloupnost omezuje riziko, že se z doručovací povinnosti nebo z ustanovení správce dovodí účinek, který zákon výslovně nespojuje s danou skutečností.
+
+[9] Ustanovení § 112 až 114 pocházejí z původní koncepce insolvenčního zákona. Pro konkrétní starší řízení je však třeba ověřit znění účinné v době příslušného procesního postupu; tento komentář neposuzuje intertemporální režim blíže neurčeného řízení.
+
+### Judikatura
+
+V této revizi není žádné soudní rozhodnutí použito jako pramen materiálního právního závěru, protože nebyl pro tuto jednotku nově ověřen plný text relevantního rozhodnutí na oficiálním webu příslušného soudu včetně skutkového a procesního kontextu, nosného závěru a časové použitelnosti. Nejde o závěr, že relevantní judikatura neexistuje.
 ### § 113 — Předběžné opatření o nakládání s majetkem
 
 > (1) Je-li nutné zabránit v době do vydání rozhodnutí o úpadku změnám v rozsahu majetkové podstaty v neprospěch věřitelů, insolvenční soud může i bez návrhu nařídit předběžné opatření, kterým dlužníkovi uloží, aby nenakládal s určitými věcmi nebo právy náležejícími do jeho majetkové podstaty, nebo rozhodne, že dlužník může nakládat s majetkovou podstatou nebo její částí pouze se souhlasem předběžného správce. Může též nařídit, aby osoby, které mají závazky vůči dlužníkovi, napříště plnění neposkytovaly dlužníkovi, ale předběžnému správci. Současně ustanoví předběžného správce, pokud tak neučinil dříve.
 >
 > (2) Rozhodnutí podle odstavce 1 doručí insolvenční soud do vlastních rukou dlužníkovi a předběžnému správci.
 >
-> (3) Týkají-li se omezení uložená dlužníku té části jeho majetkové podstaty, která je zapsána v katastru nemovitostí, v Rejstříku zástav nebo v jiných veřejných či neveřejných seznamech, které podle zvláštních právních předpisů osvědčují vlastnictví nebo jiná věcná práva k tomuto majetku, insolvenční soud doručí stejnopis předběžného opatření také katastrálním pracovištím příslušných katastrálních úřadů (dále jen „katastrální pracoviště"), Notářské komoře České republiky a orgánu nebo osobě, která vede jiný veřejný či neveřejný seznam.
+> (3) Týkají-li se omezení uložená dlužníku té části jeho majetkové podstaty, která je zapsána v katastru nemovitostí, v Rejstříku zástav nebo v jiných veřejných či neveřejných seznamech, které podle zvláštních právních předpisů osvědčují vlastnictví nebo jiná věcná práva k tomuto majetku, insolvenční soud doručí stejnopis předběžného opatření také katastrálním pracovištím příslušných katastrálních úřadů (dále jen „katastrální pracoviště“), Notářské komoře České republiky a orgánu nebo osobě, která vede jiný veřejný či neveřejný seznam.
 >
 > (4) Proti předběžnému opatření nařízenému podle tohoto ustanovení se může odvolat pouze dlužník. Jde-li o usnesení, kterým insolvenční soud návrh na nařízení takového předběžného opatření zamítl, je osobou oprávněnou k podání odvolání osoba, která návrh podala.
 >
 > (5) Předběžné opatření zanikne
+>
 > a) uplynutím doby, po kterou mělo trvat,
+>
 > b) vydáním rozhodnutí podle § 142, neurčí-li insolvenční soud v takovém rozhodnutí, že předběžné opatření zanikne až právní mocí rozhodnutí,
+>
 > c) účinností moratoria, ledaže insolvenční soud určil v rozhodnutí o vyhlášení moratoria jinak,
+>
 > d) vydáním rozhodnutí, kterým se předběžné opatření zruší, jakmile pominou důvody, pro které bylo nařízeno.
 >
 > (6) Rozhodnutí podle odstavce 5 písm. d) může insolvenční soud vydat i bez návrhu. Pro jeho doručení platí odstavce 2 a 3 obdobně; odvolat se proti němu může pouze osoba, která návrh na nařízení předběžného opatření podala, není-li totožná s osobou, která navrhla zrušení předběžného opatření.
 
-#### F. Kazuistika
-
-**1. Modelová situace.** Po zahájení insolvenčního řízení proti dlužníku YPSILON s. r. o. existuje obava, že dlužník převede pozemek zapsaný v katastru a zastavený ve prospěch věřitele. Soud **bez návrhu** nařídí předběžné opatření podle § 113 odst. 1: zakáže dlužníkovi nakládat s pozemkem a zároveň určí, že s ostatní majetkovou podstatou smí nakládat jen se souhlasem předběžného správce, kterého současně ustanoví. Stejnopis opatření soud doručí dlužníkovi a správci do vlastních rukou a dále katastrálnímu pracovišti a do Rejstříku zástav. Důkazy: usnesení o předběžném opatření, doklady o doručení (dlužník, správce, katastr, Notářská komora), výpis z katastru s poznámkou.
-
-**2. Právní otázka.** Může soud nařídit opatření o nakládání s majetkem i bez návrhu, jaké jsou jeho varianty, komu se doručuje a kdo se proti němu může odvolat?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 113 odst. 1 (i bez návrhu: zákaz dispozice s určitými věcmi/právy, nebo dispozice jen se souhlasem předběžného správce, nebo přesměrování plnění od dlužníkových dlužníků správci; současné ustanovení správce), odst. 2 (doručení do vlastních rukou dlužníku a správci), odst. 3 (doručení katastru, Notářské komoře a správcům jiných seznamů u majetku tam zapsaného), odst. 4 (odvolání jen dlužník; u zamítnutí návrhu navrhovatel), odst. 5 a 6 (zánik opatření a jeho zrušení po odpadnutí důvodů).
-- *Související ustanovení téhož zákona:* § 112 (ustanovení předběžného správce), § 111 (zákonný zákaz dispozic), § 114 (důsledek plnění dlužníkovi v rozporu s opatřením), § 142 (zánik opatření rozhodnutím o úpadku).
-- *Související předpisy:* katastrální zákon (zápis poznámky o omezení), notářský řád (Rejstřík zástav).
-- *Judikatura:* k § 113 chybí v komentáři citovaná judikatura; nosně plyne z textu (preventivní zajištění rozsahu majetkové podstaty a vázanost účinků na publicitu opatření).
-
-**4. Subsumpce.** Znak „nutnost zabránit změnám v rozsahu majetkové podstaty v neprospěch věřitelů" — naplněn (hrozící převod zastaveného pozemku). Znak „i bez návrhu" — naplněn (soud koná ex offo). Varianty opatření (zákaz dispozice + dispozice jen se souhlasem správce) jsou voleny kombinovaně. Znak „doručení katastru a Notářské komoře" (odst. 3) — naplněn u majetku zapsaného ve veřejných seznamech.
-
-**5. Řešení.** Opatření je nařízeno po právu (odst. 1) i bez návrhu; doručuje se do vlastních rukou dlužníku a správci (odst. 2) a u majetku v katastru / Rejstříku zástav též příslušným registrům (odst. 3), čímž je zajištěna publicita vůči třetím osobám. Odvolat se může **pouze dlužník** (odst. 4). Opatření zanikne mj. uplynutím doby, vydáním rozhodnutí dle § 142, účinností moratoria, nebo zrušením po odpadnutí důvodů (odst. 5; zrušení i bez návrhu — odst. 6). Riziko: bez doručení registrům a třetím osobám slábne reálná účinnost (otevírá se prostor pro liberaci dle § 114).
-
-**6. Varianty.** (a) Soud návrh na opatření **zamítne** — odvolat se může osoba, která návrh podala (odst. 4 věta druhá), nikoli dlužník. (b) V mezidobí nabude **účinnosti moratorium** — opatření zaniká (odst. 5 písm. c), ledaže soud v rozhodnutí o vyhlášení moratoria určil jinak.
-
-#### G. Protiargumenty a rizika
-
-- *„Opatření o majetku lze nařídit jen na návrh."* Neobstojí — § 113 odst. 1 výslovně umožňuje nařízení **i bez návrhu**. Neutralizace: soud koná ex offo, hrozí-li zmenšení podstaty v neprospěch věřitelů.
-- *„Proti opatření se může odvolat i věřitel nebo třetí osoba."* Nepřesné — odvolání svědčí pouze dlužníku; u zamítnutí návrhu jen navrhovateli (odst. 4). Neutralizace: věřitel působí na soud podnětem, nikoli odvoláním.
-- Slabé místo: účinnost opatření (zejména přesměrování plnění a zákaz dispozice s nemovitostmi) závisí na doručení do veřejných seznamů a třetím osobám (odst. 3); chybějící publicita zakládá spory o dobrou víru a otevírá liberaci podle § 114.
-
-#### H. Praktický závěr
-
-Podle § 113 může soud i bez návrhu předběžně zakázat dlužníkovi dispozice s určitými věcmi, podmínit dispozice souhlasem předběžného správce nebo přesměrovat plnění dlužníkových dlužníků na správce; opatření se doručuje dlužníku a správci a u majetku ve veřejných seznamech též katastru a registrům. Odvolat se může jen dlužník; opatření zaniká způsoby dle odst. 5.
-
-**Checklist (soud / správce / dlužník / věřitel):**
-- [ ] Hrozí změna rozsahu majetkové podstaty v neprospěch věřitelů (důvod opatření)?
-- [ ] Zvolena vhodná varianta (zákaz dispozice / souhlas správce / přesměrování plnění) a ustanoven správce?
-- [ ] Doručeno do vlastních rukou dlužníku a správci (odst. 2)?
-- [ ] U majetku v katastru/Rejstříku zástav doručeno příslušným registrům (odst. 3)?
-- [ ] Sledován zánik opatření (uplynutí doby, § 142, moratorium, zrušení po odpadnutí důvodů — odst. 5)?
-
-**Typicky rozhodné důkazy / podklady:** usnesení o předběžném opatření, doklady o doručení (dlužník, správce, katastr, Notářská komora, jiné registry), výpisy z katastru/Rejstříku zástav s poznámkou o omezení, podklady o hrozící dispozici dlužníka.
-
 ### § 114 — Plnění dlužníkovi v rozporu s předběžným opatřením
 
 > Jestliže osoba, která má závazek vůči dlužníkovi, plní tento závazek po zahájení insolvenčního řízení dlužníku, ačkoliv podle předběžného opatření má plnění poskytnout předběžnému správci, a plnění se nedostane do majetkové podstaty, není tím svého závazku zproštěna, ledaže prokáže, že o předběžném opatření nemohla vědět.
-
-### Souhrnný výklad (§ 112 — § 114)
-
-**Předběžný správce** = *interimní dohlížitel* před rozhodnutím o úpadku. Aktivuje se:
-- *obligatorně* — když soud nařídil širší omezení dispozice než § 111 (typicky individuální zákazy převodu konkrétních věcí),
-- *fakultativně* — při moratoriu, pro zjištění/zajištění majetku, nebo při jiných závažných důvodech.
-
-**Předběžné opatření o majetku (§ 113)** — typické varianty:
-- *zákaz dispozice s konkrétními věcmi* (typicky nemovitosti),
-- *povinnost souhlasu předběžného správce* k jakékoli dispozici,
-- *přesměrování plnění od dlužníkových dlužníků* (§ 113 odst. 1 *in fine*) — *kasační účinek*: třetí osoby plní místo dlužníka přímo správci.
-
-**Publicita** (§ 113 odst. 3) — předběžné opatření o nemovitostech / cenných papírech se *doručuje katastrálním úřadům, Notářské komoře, jiným registrům*.
-
-**Sankce za plnění dlužníkovi** (§ 114) — třetí osoba, která *plní dlužníkovi v rozporu* s předběžným opatřením, *není zbavena závazku*. Musí plnit znovu — správci. Liberace: prokázat, že o předběžném opatření nemohla vědět (typicky před zveřejněním nebo bez kontaktu na věřitelské orgány).
-
-### Vazby
-
-- **§ 27** — předběžný správce obecně.
-- **§ 82** — předběžná opatření.
-- **§ 113 odst. 5** — zánik předběžného opatření.
-
-### F. Kazuistika
-
-**1. Modelová situace.** Po zahájení insolvenčního řízení proti dlužníku CHÍ s. r. o. hrozí, že dlužník vyvede nemovitost zapsanou v katastru. Soud bez návrhu nařídí předběžné opatření podle § 113: zakáže dlužníkovi nakládat s nemovitostí, uloží jeho odběrateli OMEGA a. s. plnit (uhradit fakturu) místo dlužníkovi přímo **předběžnému správci**, kterého současně ustanoví. OMEGA, ač jí bylo opatření doručeno, zaplatí přesto dlužníkovi a peníze se do podstaty nedostanou. Důkazy: usnesení o předběžném opatření a doklad o jeho doručení, doklad o platbě OMEGA dlužníkovi, výpis z katastru.
-
-**2. Právní otázka.** Je OMEGA zproštěna závazku, plnila-li dlužníkovi v rozporu s předběžným opatřením, a jaké jsou předpoklady ustanovení předběžného správce?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 112 (ustanovení předběžného správce — obligatorně při širším omezení než § 111, fakultativně při moratoriu / k zjištění a zajištění majetku), § 113 odst. 1 (zákaz dispozice / souhlas správce / přesměrování plnění), odst. 3 (doručení katastru, Notářské komoře, jiným registrům), odst. 5 (zánik opatření), § 114 (plnění dlužníkovi v rozporu s opatřením — nezproštění závazku, ledaže nemohl vědět).
-- *Související ustanovení téhož zákona:* § 27 (předběžný správce obecně), § 82 (předběžná opatření), § 111 (zákaz dispozic), § 142 (zánik opatření rozhodnutím).
-- *Související předpisy:* katastrální zákon (zápis omezení), notářský řád (Rejstřík zástav).
-- *Judikatura:* k § 112–§ 114 chybí v komentáři citovaná judikatura; nosně plyne z textu (kasační účinek přesměrování plnění a riziko dvojího plnění).
-
-**4. Subsumpce.** Znak „plnění poskytnuto dlužníkovi, ač mělo být poskytnuto předběžnému správci, a nedostalo se do podstaty" (§ 114) — naplněn. Znak liberace „nemohla o opatření vědět" — nenaplněn, neboť opatření bylo OMEGA doručeno. Ustanovení předběžného správce je důvodné (zajištění majetku, přesměrování plnění).
-
-**5. Řešení.** OMEGA **není** zproštěna závazku (§ 114) — musí plnit znovu, tentokrát předběžnému správci; vůči dlužníkovi jí vzniká nárok na vrácení, fakticky jen jako přihlášená pohledávka. Předběžné opatření o nemovitosti se doručuje katastrálnímu pracovišti (odst. 3) a zaniká způsoby dle odst. 5 (mj. vydáním rozhodnutí dle § 142 nebo zrušením po odpadnutí důvodů). Praktický krok věřitelů/správce: vymáhat plnění od OMEGA do podstaty.
-
-**6. Varianty.** (a) OMEGA prokáže, že o předběžném opatření **nemohla vědět** (plnila před doručením/zveřejněním, bez možnosti zjištění) — pak je závazku zproštěna (§ 114 in fine). (b) Soud nařídil jen omezení v rozsahu § 111 (nikoli širší) — ustanovení předběžného správce není obligatorní (§ 112 odst. 1 a contrario).
-
-### G. Protiargumenty a rizika
-
-- *„Splnil jsem dlužníkovi, závazek zanikl."* Neobstojí při znalosti opatření — § 114 výslovně stanoví nezproštění; liberace jen při nemožnosti vědět. Neutralizace: po doručení opatření plnit výhradně předběžnému správci.
-- *„Předběžný správce se ustanovuje vždy."* Nepřesné — obligatorně jen při omezení širším než § 111; jinak fakultativně (moratorium, zajištění majetku, jiné závažné důvody). Neutralizace: rozlišit rozsah omezení.
-- Slabé místo: účinnost přesměrování plnění závisí na doručení/publicitě (katastr, registry); není-li opatření třetí osobě doručeno, otevírá se prostor pro liberaci dle § 114 a spory o dobrou víru.
-
-### H. Praktický závěr
-
-Předběžný správce zajišťuje majetek dlužníka před rozhodnutím o úpadku (obligatorně při omezení širším než § 111); předběžné opatření může zakázat dispozice a přesměrovat plnění od dlužníkových dlužníků na správce, s publicitou v katastru a registrech. Kdo plní dlužníkovi v rozporu s opatřením, není zproštěn závazku, ledaže o něm nemohl vědět.
-
-**Checklist (správce / dlužníkův dlužník / soud / věřitel):**
-- [ ] Je omezení dlužníka širší než § 111 (pak obligatorní předběžný správce)?
-- [ ] Bylo předběžné opatření doručeno dlužníku a předběžnému správci (a registrům dle odst. 3)?
-- [ ] Plní dlužníkovi dlužníci nově předběžnému správci (kasační účinek)?
-- [ ] U plnění dlužníkovi: mohla třetí osoba o opatření vědět (jinak liberace § 114)?
-- [ ] Nezaniklo předběžné opatření některým ze způsobů dle odst. 5?
-
-**Typicky rozhodné důkazy / podklady:** usnesení o předběžném opatření a doklady o jeho doručení (dlužník, správce, katastr, Notářská komora), doklady o plnění třetích osob, výpisy z katastru/registrů, zpráva předběžného správce o stavu a zajištění majetku.
 
 ---
 

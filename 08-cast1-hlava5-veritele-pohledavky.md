@@ -1412,6 +1412,69 @@ Při této revizi nebylo jako pramen materiálního právního závěru použito
 
 ---
 
+## § 185 — Odmítnutí přihlášky
+
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> Jestliže v průběhu insolvenčního řízení nastala skutečnost, na základě které se podle tohoto zákona k přihlášce pohledávky nebo k přihlášené pohledávce nepřihlíží, insolvenční soud odmítne přihlášku rozhodnutím, proti kterému může podat odvolání jen přihlášený věřitel. Právní mocí takového rozhodnutí účast tohoto věřitele v insolvenčním řízení končí; o tom insolvenční soud přihlášeného věřitele uvědomí ve výroku rozhodnutí.
+>
+
+### Přehled výkladu
+
+§ 185 je procesním uzávěrem pro případy, v nichž jiná norma insolvenčního zákona stanoví, že se k přihlášce nebo k přihlášené pohledávce nepřihlíží. Sám nevytváří nový důvod nepřihlížení. Soud deklaruje nastalý zákonný následek rozhodnutím; odvolání může podat pouze přihlášený věřitel a jeho účast končí až právní mocí rozhodnutí. Odmítnutí přihlášky nelze zaměňovat s věcným popřením pohledávky ani se zastavením řízení pro nedostatek procesní podmínky.
+
+### Souvisící ustanovení
+
+- § 14 odst. 1 — účastenství věřitelů, kteří uplatňují své právo vůči dlužníku,
+- § 173 odst. 1 — opožděná přihláška a neuspokojení pohledávky v insolvenčním řízení,
+- § 184 — zpětvzetí přihlášky a ukončení účasti věřitele,
+- § 186 — ukončení účasti při uspokojení nebo jiném zániku přihlášené pohledávky,
+- § 187 — obdobné použití § 184 až 186 na část přihlášené pohledávky,
+- § 188 odst. 2 — nepřihlížení k přihlášce, jejíž vady nebyly přes řádnou výzvu odstraněny a kterou nelze přezkoumat,
+- § 198 odst. 1 a § 199 odst. 1 — nepřihlížení k popřené pohledávce při zmeškání incidenční žaloby,
+- § 430 — zvláštní informační režim známých věřitelů z jiných členských států Evropské unie.
+
+### Souvisící předpisy
+
+- zákon č. 99/1963 Sb., občanský soudní řád, zejména § 103, § 104 odst. 1 a § 201 až 226 — procesní podmínky, zastavení řízení a obecný odvolací rámec použitelné jen v mezích § 7 insolvenčního zákona,
+- nařízení Evropského parlamentu a Rady (EU) 2015/848, zejména čl. 54 a 55 — vyrozumění známých zahraničních věřitelů a přihlašování jejich pohledávek v přeshraničních věcech.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona vysvětlil, že rozhodnutí podle § 185 má navenek deklarovat ukončení účasti tam, kde se podle jiné normy nepřihlíží k přihlášce nebo k přihlášené pohledávce. Účelem je odstranit nejistotu o okruhu účastníků a současně otevřít dotčenému věřiteli možnost přezkoumat úsudek soudu odvoláním. Důvodová zpráva jako příklady uvádí § 173 odst. 1 a tehdejší poslední větu § 198 odst. 1. Jde o historickou interpretační pomůcku; konkrétní důvod nepřihlížení je vždy nutné ověřit v aktuálním znění zákona.
+
+### Literatura
+
+Odborná literatura byla rozhodnutím odpovědného editora odložena do druhého kola. Tento údaj není závěrem negativní rešerše.
+
+### Výklad
+
+[1] **Norma navazující na jiný důvod nepřihlížení.** Podmínkou rozhodnutí podle § 185 je skutečnost, se kterou insolvenční zákon na jiném místě výslovně spojuje nepřihlížení k přihlášce nebo k přihlášené pohledávce. § 185 upravuje formu rozhodnutí, odvolací legitimaci a okamžik konce účasti; není samostatným podkladem pro rozšiřování důvodů odmítnutí.
+
+[2] **Typické zákonné podklady.** K přihlášce se nepřihlíží zejména při opožděném podání podle § 173 odst. 1 nebo při neodstranění vad, pro které ji nelze přezkoumat, po řádném postupu podle § 188 odst. 2. K přihlášené pohledávce se nepřihlíží také tehdy, zmešká-li věřitel popřené pohledávky zákonnou lhůtu k podání příslušné incidenční žaloby podle § 198 odst. 1 nebo § 199 odst. 1. V každé věci musí výrok a odůvodnění identifikovat konkrétní zákonný podklad a skutkovou okolnost, která jeho následek vyvolala.
+
+[3] **Deklaratorní rozhodnutí a konec účasti.** Skutečnost zakládající nepřihlížení nastává podle příslušné navazující normy; rozhodnutí podle § 185 ji procesně deklaruje. Účast věřitele však podle výslovného textu komentovaného ustanovení končí až právní mocí tohoto rozhodnutí. Výrok musí věřitele o tomto následku uvědomit.
+
+[4] **Odvolání.** Zvláštní pravidlo § 185 omezuje subjektivní odvolací legitimaci na přihlášeného věřitele. Odvolací přezkum umožňuje prověřit zejména to, zda nastala tvrzená skutečnost, zda na ni zákon skutečně váže nepřihlížení a zda byl dodržen předcházející postup, vyžaduje-li jej zákonný důvod odmítnutí.
+
+[5] **Rozlišení od popření pohledávky.** Odmítnutí podle § 185 není meritorním závěrem, že pohledávka hmotněprávně neexistuje. U opožděné přihlášky zákon stanoví procesní následek v daném insolvenčním řízení: k přihlášce se nepřihlíží a pohledávka se zde neuspokojuje. Samotný dluh tím bez dalšího nezaniká. Věcné zpochybnění pravosti, výše nebo pořadí se řeší režimem přezkumu, popření a incidenčního sporu.
+
+[6] **Rozlišení od zastavení řízení.** Ne každý procesní nedostatek přihlášky vede k odmítnutí podle § 185. Nejvyšší soud v usnesení sen. zn. 29 NSČR 12/2009 posuzoval přihlášku podanou již zaniklou právnickou osobou. Uzavřel, že jde o neodstranitelný nedostatek podmínky řízení a že se řízení o přihlášce zastaví podle § 104 odst. 1 o. s. ř.; § 185 se na takovou situaci neužije jako obecná norma pro všechny vady přihlášky.
+
+[7] **Částečný následek.** Podle § 187 se § 185 použije obdobně i na část přihlášené pohledávky. Rozsah odmítnutí proto musí odpovídat rozsahu, v němž skutečně nastal zákonný důvod nepřihlížení; nedopadá automaticky na přezkoumatelný a jinak nedotčený zbytek.
+
+[8] **Intertemporalita.** Text § 185 je k 19. 7. 2026 obsahově shodný s původním zněním účinným od 1. 1. 2008. Konkrétní výsledek však závisí také na časové verzi ustanovení, které zakládá nepřihlížení, a na přechodných ustanoveních jeho novel. Starší judikaturu proto lze použít jen po ověření, že rozhodná navazující norma a procesní kontext zůstaly pro posuzovanou otázku srovnatelné.
+
+### Judikatura
+
+**Nejvyšší soud, usnesení ze dne 31. 3. 2011, sen. zn. 29 NSČR 12/2009, ECLI:CZ:NS:2011:29.NSCR.12.2009.1, R 109/2011.** Přihlášku podala právnická osoba, která zanikla ještě před jejím podáním. Nejvyšší soud při přezkumu usnesení o zastavení řízení odlišil neodstranitelný nedostatek způsobilosti být účastníkem od situací řešených § 185 a potvrdil zastavení řízení o přihlášce podle § 104 odst. 1 o. s. ř. Rozhodnutí aplikovalo insolvenční zákon ve znění do 31. 12. 2008; pro zde převzaté rozlišení je nadále použitelné, protože aktuální § 185 zůstává v rozhodném znaku navázán na výslovné zákonné nepřihlížení a subsidiární rámec § 7, § 103 a § 104 odst. 1 o. s. ř. se v této otázce obsahově nezměnil.
+
+Další rozhodnutí nebylo do uzavřeného pramenného ledgeru zařazeno. Tím se nevyslovuje závěr, že další relevantní judikatura neexistuje.
+
+---
+
 ## § 188 — Přezkum přihlášek správcem — **PRVNÍ FILTR**
 
 > (1) Insolvenční správce přezkoumá podané přihlášky pohledávek **zejména podle přiložených dokladů a podle účetnictví dlužníka** nebo jeho evidence vedené podle zvláštního právního předpisu. Dále vyzve dlužníka, aby se k přihlášeným pohledávkám vyjádřil. Je-li to třeba, provede o pohledávkách nezbytná šetření s tím, že využije součinnosti orgánů, které mu ji jsou povinny poskytnout.

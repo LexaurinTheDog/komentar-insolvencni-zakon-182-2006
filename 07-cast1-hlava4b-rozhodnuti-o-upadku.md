@@ -830,60 +830,59 @@ Odborná literatura byla rozhodnutím editora odložena do druhého kola; tento 
 
 ## § 144 — Zamítnutí pro nemajetkost?
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Insolvenční návrh nelze zamítnout proto, že majetek dlužníka nebude postačovat k úhradě nákladů insolvenčního řízení, i když je to zřejmé.
+>
 
-### Výklad — **VÝZNAMNÉ KONSTITUTIVNÍ PRAVIDLO**
+### Přehled výkladu
 
-**Insolvence není závislá na bohatství dlužníka** — i *naprosto nemajetný* dlužník může být v úpadku. Pokud je úpadek osvědčen, soud *nesmí* zamítnout pro nedostatek prostředků na řízení.
+Ustanovení vylučuje jediný důvod zamítnutí insolvenčního návrhu: očekávanou nedostatečnost majetku dlužníka k úhradě nákladů insolvenčního řízení. Platí to i tehdy, je-li tato nedostatečnost zřejmá. § 144 však nenahrazuje zkoumání předpokladů rozhodnutí o úpadku a sám neurčuje způsob řešení úpadku ani zdroj úhrady nákladů.
 
-#### Praktický důsledek
+### Souvisící ustanovení
 
-Pro *nemajetné dlužníky* (typicky FO bez aktiv, mikrofirmy) se používá:
-- **bezvýtěžkový konkurs** (§ 314) — *nepatrný konkurs* s minimálními náklady,
-- **státní úhrada nákladů** (§ 38 odst. 2 — stát uhradí max 50 + 50 tis. Kč),
-- **oddlužení** — pro FO snadnější přístup.
+- **§ 3** — znaky úpadku a předlužení.
+- **§ 108** — záloha na náklady insolvenčního řízení.
+- **§ 136** — rozhodnutí o úpadku.
+- **§ 142 až 143** — jiná rozhodnutí o insolvenčním návrhu a zamítnutí návrhu.
+- **§ 308 odst. 1 písm. d)** — zrušení konkursu, je-li majetek dlužníka pro uspokojení věřitelů zcela nepostačující.
+- **§ 314 až 315** — podmínky a zvláštní režim nepatrného konkursu.
 
-### Vazby
+### Souvisící předpisy
 
-- **§ 38 odst. 2** — náklady řízení nese stát.
-- **§ 314** — nepatrný konkurs.
+Přímou podmínku aplikace § 144 nestanoví žádný další předpis. Procesní otázky neupravené insolvenčním zákonem se posuzují podle občanského soudního řádu prostřednictvím § 7 insolvenčního zákona.
 
-### F. Kazuistika
+### Z důvodové zprávy
 
-**1. Modelová situace.** Dlužník (fyzická osoba — nepodnikatel) je v platební neschopnosti, má více věřitelů s desítkami tisíc Kč pohledávek, avšak prakticky žádný zpeněžitelný majetek (jen běžné vybavení domácnosti). Insolvenční soud zvažuje, zda návrh zamítnout s odůvodněním, že majetek dlužníka zjevně nepostačí ani k úhradě nákladů řízení. Důkazy: seznam majetku a závazků, doklady o příjmech, výpisy z evidencí majetku.
+Vládní návrh označil dřívější možnost zamítnout návrh pro nedostatek majetku podle § 12a odst. 4 zákona o konkursu a vyrovnání za nesystémovou. Zdůraznil zejména, že soud před prohlášením konkursu neměl odpovídající prostředky k bezpečnému závěru o rozsahu podstaty a že pojem nedostatečnosti majetku vedl k nejednotnosti. Jde o historické vysvětlení původního § 144, nikoli o rozšíření jeho dnešního textu. (Sněmovní tisk 1120/0, zvláštní část k § 144, číslovaná s. 193, PDF s. 194.)
 
-**2. Právní otázka.** Lze insolvenční návrh zamítnout proto, že majetek dlužníka zjevně nebude postačovat k úhradě nákladů insolvenčního řízení?
+### Literatura
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 144 — insolvenční návrh *nelze zamítnout* proto, že majetek dlužníka nebude postačovat k úhradě nákladů řízení, *i když je to zřejmé*.
-- *Související ustanovení téhož zákona:* § 3 (úpadek nezávisí na výši majetku); § 38 odst. 2 (náklady řízení může nést stát); § 314 (nepatrný konkurs); § 308 (zrušení konkursu pro nedostatek majetku); § 396, § 398 (oddlužení nemajetné FO).
-- *Související předpisy:* prováděcí předpisy k odměně správce.
-- *Judikatura:* ustálené pojetí, že úpadek se posuzuje podle znaků dle § 3, nikoli podle solventnosti k úhradě nákladů; nemajetnost není důvodem zamítnutí.
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tato poznámka nepředstavuje negativní rešerši.
 
-**4. Subsumpce.** Dlužník naplňuje znaky úpadku (platební neschopnost, více věřitelů, splatné závazky po delší dobu). Absence majetku k úhradě nákladů řízení je dle § 144 *irelevantní* pro rozhodnutí o úpadku — zamítnutí z tohoto důvodu je zákonem výslovně vyloučeno. Financování řízení se řeší jinými nástroji (§ 38 odst. 2 — úhrada státem; nepatrný konkurs dle § 314; v oddlužení snazší přístup nemajetné FO).
+### Výklad
 
-**5. Řešení.** Soud návrh *nezamítne* pro nemajetkost; je-li úpadek osvědčen, vydá rozhodnutí o úpadku a financování zajistí cestou § 38 odst. 2 (úhrada nákladů státem v zákonném limitu), režimem nepatrného konkursu (§ 314), případně povolením oddlužení. Procesně: dlužník doloží znaky úpadku a (pro oddlužení) předpoklady dle § 395 a násl.; soud zváží zálohu na náklady jen v mezích, které nemajetnost reálně připouští, nikoli jako důvod zamítnutí.
+[1] **Předmět zákazu.** Rozhodující je důvod rozhodnutí. Insolvenční soud nesmí návrh zamítnout proto, že majetek dlužníka nebude postačovat k úhradě nákladů řízení. Výslovná slova „i když je to zřejmé“ neponechávají výjimku ani pro případ, kdy je nedostatek majetku patrný již při rozhodování o návrhu.
 
-**6. Varianty.** (a) Kdyby naopak *nebyly osvědčeny znaky úpadku* (např. jediný věřitel nebo schopnost splácet), soud by zamítl pro neosvědčení úpadku (§ 143), nikoli pro nemajetnost. (b) Kdyby majetek během řízení zcela chyběl, řešilo by se to *zrušením konkursu* pro nedostatek majetku (§ 308), nikoli zpětným zamítnutím návrhu.
+[2] **Meze pravidla.** § 144 nezakládá domněnku úpadku. Nejsou-li splněny zákonné předpoklady pro rozhodnutí o úpadku, soud návrh zamítne podle § 143; takové rozhodnutí se neopírá o nedostatek majetku k úhradě nákladů, ale o neosvědčení úpadku nebo jiného zákonného předpokladu.
 
-### G. Protiargumenty a rizika
+[3] **Majetek a platební neschopnost nejsou totožné otázky.** Znaky platební neschopnosti a předlužení stanoví § 3. Zjištění, že dlužník nemá majetek postačující na náklady řízení, samo o sobě nedokládá všechny znaky úpadku; stejně tak nemůže být samo o sobě důvodem zamítnutí návrhu.
 
-- *Protiargument:* „Bez majetku nemá insolvence smysl, návrh je třeba zamítnout." — Neutralizace: § 144 výslovně zakazuje zamítnutí z důvodu nemajetnosti; úpadek se posuzuje podle znaků dle § 3 a financování řeší § 38 odst. 2, § 314 a oddlužení.
-- *Protiargument:* „Stát nemá hradit náklady za nemajetné dlužníky." — Neutralizace: zákon (§ 38 odst. 2) s úhradou státem v limitu počítá právě pro tyto situace; jde o systémové řešení, ne o důvod zamítnutí.
-- *Slabé místo:* § 144 brání zamítnutí, ale neřeší sám o sobě otázku zálohy na náklady; v praxi vzniká napětí mezi nemajetností a požadavkem na zálohu, které je nutné řešit s ohledem na § 144.
+[4] **Záloha na náklady.** § 144 sám neupravuje uložení ani následky nezaplacení zálohy. Ty se posuzují podle § 108, včetně jeho osobních výjimek, limitu a pravidel pro další postup soudu. Z § 144 proto nelze dovodit ani obecné osvobození nemajetného navrhovatele od zálohy, ani oprávnění zamítnout návrh pro její nezaplacení.
 
-### H. Praktický závěr
+[5] **Způsob řešení úpadku.** Nedostatek majetku automaticky nevede k nepatrnému konkursu ani k oddlužení. Nepatrný konkurs je zvláštním režimem konkursu jen při splnění podmínek § 314; přípustnost oddlužení a volba způsobu řešení úpadku se řídí vlastními ustanoveními zákona.
 
-§ 144 zakotvuje, že insolvence není závislá na bohatství dlužníka: i zcela nemajetný dlužník může být v úpadku a návrh *nelze* zamítnout pro nedostatek prostředků na náklady řízení, byť je zřejmý. Financování se zajišťuje úhradou státem (§ 38 odst. 2), nepatrným konkursem (§ 314) či oddlužením.
+[6] **Pozdější nedostatek majetku.** Zákaz v § 144 míří na rozhodnutí o insolvenčním návrhu. Odlišnou procesní situací je zrušení již prohlášeného konkursu podle § 308 odst. 1 písm. d), zjistí-li soud, že majetek dlužníka je pro uspokojení věřitelů zcela nepostačující.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Posuzovat úpadek podle znaků dle § 3, nikoli podle schopnosti uhradit náklady řízení.
-- [ ] Nezamítat návrh pro nemajetnost dlužníka (§ 144).
-- [ ] Zvážit úhradu nákladů státem (§ 38 odst. 2) a režim nepatrného konkursu (§ 314).
-- [ ] U nemajetné FO zkoumat předpoklady oddlužení (§ 395 a násl.).
-- [ ] Nemajetnost v průběhu řízení řešit zrušením konkursu (§ 308), ne zamítnutím návrhu.
+[7] **Historický a intertemporální význam.** § 144 je součástí insolvenčního zákona od jeho účinnosti 1. ledna 2008 a k rozhodnému dni zní stejně jako v původně schváleném textu. Důvodová zpráva jej stavěla proti dřívějšímu § 12a odst. 4 zákona č. 328/1991 Sb.; tento historický kontrast nevytváří další současné podmínky ani následky.
 
-**Typicky rozhodné důkazy / podklady:** seznam majetku a závazků, doklady o příjmech dlužníka, výpisy z evidencí majetku, podklady k osvědčení znaků úpadku.
+[8] **Praktické použití.** Odůvodnění rozhodnutí musí rozlišit dvě otázky: zda jsou splněny předpoklady rozhodnutí o úpadku a jak budou kryty náklady či veden další průběh řízení. Negativní odpověď na druhou otázku nesmí být pod názvem jiného důvodu použita jako náhrada chybějícího zákonného důvodu zamítnutí.
+
+### Judikatura
+
+V tomto kole nebylo použito žádné soudní rozhodnutí. Kandidátní judikatorní tvrzení ze staršího textu nebylo doloženo plným textem rozhodnutí z oficiálního webu, a proto bylo odstraněno; nejde o tvrzení, že relevantní judikatura neexistuje.
 
 ---
 

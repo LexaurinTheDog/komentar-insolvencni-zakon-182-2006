@@ -353,52 +353,59 @@ Do produkčního výkladu nebylo v tomto kole zařazeno žádné soudní rozhodn
 
 ## § 140b — Zákaz vydání rozhodnutí
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Nejde-li o řízení uvedená v § 140a, nelze v jiných soudních nebo rozhodčích řízeních po dobu, po kterou trvají účinky rozhodnutí o úpadku, rozhodnout o pohledávkách a jiných právech týkajících se majetkové podstaty, které mají být v insolvenčním řízení uplatněny přihláškou, nebo na které se v insolvenčním řízení pohlíží jako na přihlášené, anebo o pohledávkách, které se v insolvenčním řízení neuspokojují (§ 170); to neplatí, jde-li o pohledávky věřitelů na náhradu škody nebo nemajetkové újmy způsobené trestným činem nebo na vydání bezdůvodného obohacení získaného trestným činem, pokud v trestním řízení o tomto trestném činu byl zajištěn majetek v majetkové podstatě dlužníka. K rozhodnutím vydaným v rozporu s tímto zákazem se v insolvenčním řízení nepřihlíží.
+
+### Přehled výkladu
+
+§ 140b po dobu účinků rozhodnutí o úpadku zakazuje vydat v jiném soudním nebo rozhodčím řízení rozhodnutí o zákonem vymezených pohledávkách a právech, nejde-li o řízení přerušené podle § 140a. Zákaz se vztahuje i na řízení s původně jiným předmětem, jestliže by rozhodnutím vznikla pohledávka spadající do vymezeného okruhu. Výjimka pro nároky spojené s trestným činem je vázána současně na druh nároku a na zajištění majetku náležejícího do majetkové podstaty v příslušném trestním řízení. Zákonným následkem porušení je, že se k rozhodnutí v insolvenčním řízení nepřihlíží.
+
+### Souvisící ustanovení
+
+- § 109 odst. 4 a § 140a — okamžik vzniku účinků rozhodnutí o úpadku a přerušení vymezených řízení,
+- § 140c — zákaz zahájení nových soudních a rozhodčích řízení,
+- § 140d — režim jiných než soudních a rozhodčích řízení,
+- § 141a — zastavení řízení zahájených v rozporu s § 109 odst. 1 písm. a) nebo § 140c,
+- § 159, § 170 a § 173 — incidenční spory, neuspokojované pohledávky a přihlášení pohledávek.
+
+### Souvisící předpisy
+
+- zákon č. 141/1961 Sb., trestní řád — postavení poškozeného a rozhodování o jeho nároku v trestním řízení,
+- zákon č. 216/1994 Sb., o rozhodčím řízení a o výkonu rozhodčích nálezů — rozhodčí řízení a rozhodčí nález,
+- zákon č. 294/2013 Sb. — část první čl. I bod 72 a část sedmá čl. VIII; vložení § 140a až § 140e s účinností od 1. ledna 2014.
+
+### Z důvodové zprávy
+
+Zvláštní část důvodové zprávy k bodům 71 až 73 vysvětluje, že § 140b zachycuje také řízení, která technicky nejsou řízeními o pohledávce nebo právu týkajícím se majetkové podstaty, ale mohou skončit rozhodnutím, z něhož taková pohledávka vznikne; jako příklad uvádí smír na peněžité plnění v řízení s původně jiným předmětem. Účelem je zabránit za trvání účinků rozhodnutí o úpadku vzniku pohledávek, které by pro § 170, přihlašovací lhůty nebo uzavřený okruh pohledávek za majetkovou podstatou a jim na roveň postavených nemohly být v insolvenčním řízení uspokojeny. Důvodová zpráva zároveň zaznamenává výjimku převzatou s ohledem na tehdejší sněmovní tisk č. 617.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto odložení není výsledkem negativní rešerše a nevypovídá o tom, zda relevantní literatura existuje.
 
 ### Výklad
 
-**Generální zákaz rozhodování** o pohledávkách proti dlužníkovi v jiných řízeních (než přerušených dle § 140a — typicky v řízeních, která vůbec ne probíhala, ale stejně přinesla vydání rozhodnutí v jiné formě).
+[1] **Časová působnost zákazu.** Účinky rozhodnutí o úpadku nastávají jeho zveřejněním v insolvenčním rejstříku (§ 140a odst. 1). § 140b váže zákaz na celou dobu, po kterou tyto účinky trvají; rozhodný je proto okamžik vydání posuzovaného rozhodnutí, nikoli jen zahájení jiného řízení.
 
-**Výjimka — adhezní řízení v trestním procesu** (poškozený s nárokem za trestnou činnost dlužníka) — pokud byl v trestním řízení zajištěn majetek, lze rozhodnout.
+[2] **Vztah k § 140a.** Ustanovení dopadá pouze tehdy, nejde-li o řízení uvedené v § 140a. Nejprve je tedy nutné ověřit, zda bylo řízení rozhodnutím o úpadku přerušeno. § 140b pokrývá jiná soudní nebo rozhodčí řízení, v nichž by přesto mělo být rozhodnuto o některém z práv vymezených komentovaným ustanovením.
 
-**Sankce**: *nepřihlíží se* k rozhodnutím vydaným v rozporu.
+[3] **Předmět rozhodnutí.** Zákaz není omezen na peněžité pohledávky proti dlužníkovi. Text zahrnuje pohledávky a jiná práva týkající se majetkové podstaty, která se uplatňují přihláškou nebo se považují za přihlášená, a dále pohledávky, které se podle § 170 v insolvenčním řízení neuspokojují.
 
-### F. Kazuistika
+[4] **Řízení s jiným původním předmětem.** Pro použití § 140b není rozhodující pouze označení či původní předmět řízení. Podle důvodové zprávy má ustanovení zabránit také tomu, aby v řízení s jiným předmětem vznikla rozhodnutím pohledávka spadající do zakázaného okruhu, například peněžité plnění sjednané soudním smírem.
 
-**1. Modelová situace.** Poškozený P se připojil s nárokem na náhradu škody 1 mil. Kč v trestním řízení proti jednateli dlužníka (s. r. o.) za zpronevěru; v trestním řízení byl zajištěn majetek nacházející se v majetkové podstatě dlužníka. Mezitím byl na dlužníka zjištěn úpadek. Trestní soud zvažuje, zda může v adhezním řízení rozhodnout o náhradě škody. Současně ve zcela jiné věci rozhodce vydá rozhodčí nález o jiné pohledávce proti dlužníku, ač řízení formálně neběželo (rozhodoval „od stolu"). Důkazy: trestní spis, usnesení o zajištění majetku, rozhodnutí o úpadku, rozhodčí nález.
+[5] **Výjimka spojená s trestným činem.** Zákaz neplatí pro pohledávku věřitele na náhradu škody nebo nemajetkové újmy způsobené trestným činem ani na vydání bezdůvodného obohacení získaného trestným činem, avšak jen tehdy, byl-li v trestním řízení o tomto trestném činu zajištěn majetek náležející do majetkové podstaty dlužníka. Samotný trestněprávní původ nároku ani zajištění jiného majetku podmínku výjimky nenaplňuje.
 
-**2. Právní otázka.** Brání zákaz podle § 140b vydání rozhodnutí o pohledávce poškozeného z trestného činu dlužníka, byl-li v trestním řízení zajištěn majetek v podstatě, a jaký je osud rozhodčího nálezu vydaného v rozporu se zákazem?
+[6] **Následek porušení.** Zákon nestanoví obecnou neplatnost ani zrušení rozhodnutí vydaného v rozporu se zákazem. Výslovně určuje následek pro insolvenční řízení: k takovému rozhodnutí se v něm nepřihlíží. Z tohoto následku nelze bez další právní opory dovozovat osud rozhodnutí mimo insolvenční řízení.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 140b — v jiných (nepřerušených dle § 140a) soudních/rozhodčích řízeních nelze po dobu účinků úpadku rozhodnout o pohledávkách týkajících se podstaty; *výjimka* pro nároky na náhradu škody/nemajetkové újmy či vydání bezdůvodného obohacení z trestného činu, byl-li v trestním řízení zajištěn majetek v podstatě; k rozhodnutím vydaným v rozporu se *nepřihlíží*.
-- *Související ustanovení téhož zákona:* § 140a (přerušení probíhajících řízení); § 140c (zákaz zahájení nových); § 170 (neuspokojované pohledávky); § 173 (přihlášky).
-- *Související předpisy:* § 43 a násl. tr. řádu (adhezní řízení poškozeného), zákon o rozhodčím řízení.
-- *Judikatura:* NSS 2 Afs 191/2022 — § 140a–c se nevztahují na správní soudnictví (rozsah zákazu je omezen na soudní a rozhodčí řízení civilní povahy).
+[7] **Systematické rozlišení.** § 140b upravuje vydání rozhodnutí v soudních a rozhodčích řízeních. Zákaz zahájit nové řízení stanoví § 140c a režim jiných než soudních a rozhodčích řízení § 140d; tyto odlišné následky nelze zaměňovat.
 
-**4. Subsumpce.** Nárok poškozeného P spadá pod výjimku *in fine* § 140b (náhrada škody z trestného činu + zajištěný majetek v podstatě) — trestní soud proto *může* o nároku rozhodnout. Naproti tomu rozhodčí nález o jiné pohledávce týkající se podstaty byl vydán v rozporu se zákazem (mimo výjimku) — uplatní se sankce: v insolvenčním řízení se k němu *nepřihlíží*.
+[8] **Intertemporalita.** § 140b byl spolu s § 140a až § 140e vložen zákonem č. 294/2013 Sb. s účinností od 1. ledna 2014. U procesních situací přesahujících tento okamžik je nutné ověřit rozhodnou právní úpravu a příslušná přechodná ustanovení; současné znění nelze bez takové kontroly přenést na dřívější rozhodnutí.
 
-**5. Řešení.** V adhezním řízení trestní soud o nároku P rozhodnout může (výjimka splněna); P nicméně pro uspokojení v insolvenci musí pohledávku rovněž přihlásit. Rozhodčí nález vydaný v rozporu se zákazem je vůči insolvenčnímu řízení neúčinný (nepřihlíží se k němu); věřitel z něj nemůže těžit a musí pohledávku uplatnit přihláškou s přezkumem. Procesně: P doloží zajištění majetku v trestním řízení; správce odmítne zohlednit nepřípustně vydaný rozhodčí nález.
+### Judikatura
 
-**6. Varianty.** (a) Kdyby v trestním řízení nebyl zajištěn žádný majetek v podstatě, výjimka by nedopadla a trestní soud by o náhradě škody rozhodnout nesměl — poškozený by byl odkázán na přihlášku. (b) Kdyby šlo o rozhodnutí ve správním soudnictví, zákaz § 140b by se neuplatnil (NSS 2 Afs 191/2022).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Rozhodčí nález je vykonatelný titul, insolvence na něj nemá vliv." — Neutralizace: § 140b výslovně stanoví, že k rozhodnutím vydaným v rozporu se zákazem se v insolvenci *nepřihlíží*; titul je pro účely insolvence bezúčinný.
-- *Protiargument:* „Výjimka pro trestní nároky platí bez dalšího." — Neutralizace: výjimka je podmíněna *zajištěním majetku* v majetkové podstatě v trestním řízení; bez něj neplatí.
-- *Slabé místo:* odlišení „rozhodnutí v jiném řízení" (§ 140b) od „přerušeného řízení" (§ 140a) a rozsah pojmu „pohledávky týkající se podstaty" mohou být sporné; zákaz nedopadá na správní soudnictví.
-
-### H. Praktický závěr
-
-§ 140b zakazuje v jiných (nepřerušených) soudních a rozhodčích řízeních rozhodovat o pohledávkách týkajících se podstaty; výjimkou jsou nároky z trestného činu dlužníka, byl-li v trestním řízení zajištěn majetek v podstatě. K rozhodnutím vydaným v rozporu se v insolvenci *nepřihlíží* — věřitel se musí uspokojit přihláškou.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověřit, zda jde o pohledávku týkající se podstaty, o níž nelze rozhodnout.
-- [ ] U trestních nároků zjistit, zda byl v trestním řízení zajištěn majetek v podstatě (podmínka výjimky).
-- [ ] Rozhodnutí vydané v rozporu se zákazem v insolvenci nezohledňovat.
-- [ ] Věřitele odkázat na přihlášku pohledávky i tam, kde výjimka umožní rozhodnout v jiném řízení.
-- [ ] Vyloučit aplikaci na správní soudnictví (NSS 2 Afs 191/2022).
-
-**Typicky rozhodné důkazy / podklady:** rozhodnutí o úpadku a údaj o jeho účincích, usnesení o zajištění majetku v trestním řízení, napadené rozhodnutí (rozsudek/rozhodčí nález), přihláška pohledávky.
+Do tohoto kola nebyla zařazena judikatura jako opora materiálního tvrzení, protože kandidátní rozhodnutí nebylo doloženo fyzickým plným oficiálním textem v uzavřeném source ledgeru. Tím se nevyslovuje závěr, že relevantní judikatura neexistuje; jde o redakční omezení tohoto kola.
 
 ---
 

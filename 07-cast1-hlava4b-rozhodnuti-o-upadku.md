@@ -1935,47 +1935,57 @@ Do tohoto oddílu nebylo zařazeno rozhodnutí, jehož plný text by byl ověře
 
 ### § 162 — Forma rozhodnutí
 
-- *Meritum*: **rozsudek** (na rozdíl od jiných rozhodnutí v IR, která jsou usneseními!),
-- *Smír*: usnesení.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**Schválení smíru správce** vyžaduje *souhlas věřitelského výboru* (odst. 2).
+#### Znění ustanovení
 
-#### F. Kazuistika
+> (1) V incidenčním sporu rozhoduje insolvenční soud rozsudkem, jde-li o rozhodnutí ve věci samé; o smíru však rozhoduje usnesením.
+>
+> (2) Smír uzavřený v incidenčním sporu insolvenčním správcem může insolvenční soud schválit, jen jestliže s ním souhlasí věřitelský výbor.
+>
 
-**1. Modelová situace.** V incidenčním sporu o *vyloučení* nemovitosti z majetkové podstaty (vylučovací žaloba třetí osoby T proti insolvenčnímu správci S) dospějí strany k dohodě: T uzná, že do podstaty patří pouze polovina pozemku, a S vezme zbytek žaloby na vědomí. Správce chce uzavřít *smír*. Souběžně soud v jiném incidenčním sporu rozhoduje *meritorně* o pravosti pohledávky. Otázkou je, jakou *formu* mají obě rozhodnutí a co je podmínkou schválení smíru uzavřeného správcem. Důkazy: návrh smíru (jeho text), zápis (souhlas) věřitelského výboru, soupis majetkové podstaty, incidenční žaloby.
+#### Přehled výkladu
 
-**2. Právní otázka.** Jakou formu má rozhodnutí insolvenčního soudu *ve věci samé* v incidenčním sporu, jakou formou se schvaluje *smír* a za jaké podmínky lze schválit smír uzavřený *insolvenčním správcem*?
+Ustanovení určuje formu meritorního rozhodnutí v incidenčním sporu a zvláštní formu rozhodnutí o smíru. Ve věci samé soud rozhoduje rozsudkem; o schválení či neschválení smíru usnesením. Je-li stranou smíru insolvenční správce, je souhlas věřitelského výboru další nezbytnou podmínkou jeho schválení soudem.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 162 — ve věci samé rozhoduje insolvenční soud *rozsudkem* (odchylka od jinak převažující formy *usnesení* v insolvenčním řízení); o *smíru* se rozhoduje *usnesením*; *odst. 2* — smír uzavřený insolvenčním správcem může soud schválit jen se *souhlasem věřitelského výboru*.
-- *Související ustanovení téhož zákona:* § 160–161 (režim a jednání), § 163 (náklady), § 164 (závaznost rozsudku), § 11 a § 17 a násl. (dohlédací činnost soudu, věřitelský výbor), § 225 (vylučovací žaloba).
-- *Související předpisy:* § 99, § 152, § 167 o. s. ř. (smír, rozsudek ve věci samé, usnesení).
-- *Judikatura:* NS 29 ICdo 36/2023 (smír, resp. dohoda správce o vypořádání SJM, a meze jejího přezkumu) — ilustruje význam *kontroly* dispozičních úkonů správce a věřitelského výboru; NS 29 Cdo 3626/2023 (účinky rozsudku omezené na insolvenci).
+#### Souvisící ustanovení
 
-**4. Subsumpce.** O *pravosti* pohledávky soud rozhodne *rozsudkem* (§ 162 odst. 1) — věc samá. *Smír* mezi T a správcem ve vylučovacím sporu soud schválí *usnesením* (§ 162 odst. 1 ve spojení s § 99 o. s. ř.). Jde-li o smír uzavřený *správcem*, je jeho schválení podmíněno *souhlasem věřitelského výboru* (§ 162 odst. 2); bez tohoto souhlasu smír schválit nelze.
+- § 7 — přiměřené použití občanského soudního řádu,
+- § 58 — působnost věřitelského výboru,
+- § 159 — vymezení incidenčních sporů,
+- § 160 a § 161 — zahájení, projednání a jednání v incidenčním sporu,
+- § 163 — rozhodování o nákladech incidenčního sporu,
+- § 164 — závaznost pravomocného rozsudku pro všechny procesní subjekty.
 
-**5. Řešení.** Insolvenční soud ve věci samé vydá *rozsudek* (závazný erga omnes dle § 164); smír mezi T a správcem schválí *usnesením*, avšak teprve poté, co správce doloží *souhlas věřitelského výboru* (§ 162 odst. 2). Procesně: připravit znění smíru tak, aby bylo *určité* a v souladu s hmotným právem (předpoklad schválení dle § 99 o. s. ř.), opatřit a založit souhlas věřitelského výboru a odlišit formu rozhodnutí podle toho, zda jde o věc samou (rozsudek) či nikoli (usnesení).
+#### Souvisící předpisy
 
-**6. Varianty.** (a) Uzavřel-li by správce smír *bez* souhlasu věřitelského výboru, soud by jej *neschválil* (§ 162 odst. 2) a spor by pokračoval. (b) Šlo-li by o rozhodnutí *procesní povahy* (např. o nákladech, o zastavení), mělo by formu *usnesení*, nikoli rozsudku.
+- zákon č. 99/1963 Sb., občanský soudní řád, zejména § 99, § 152 a § 167.
 
-#### G. Protiargumenty a rizika
+#### Z důvodové zprávy
 
-- *Protiargument:* „Všechna rozhodnutí v insolvenci jsou usnesení, tedy i v incidenčním sporu." — Neutralizace: § 162 odst. 1 zakládá *výjimku* — ve věci samé se v incidenčním sporu rozhoduje *rozsudkem*.
-- *Protiargument:* „Správce může uzavřít a soud schválit smír samostatně." — Neutralizace: § 162 odst. 2 podmiňuje schválení smíru správce *souhlasem věřitelského výboru*.
-- *Slabé místo:* záměna formy (rozsudek vs. usnesení) ovlivňuje opravné prostředky a způsob doručení; absence či vadný souhlas věřitelského výboru brání schválení smíru a může zmařit dosažené narovnání.
+Zvláštní část důvodové zprávy k vládnímu návrhu insolvenčního zákona pojednává § 159 až 164 společně. Vysvětluje začlenění incidenčních sporů do rámce insolvenčního řízení při zachování zvláštností jejich sporného projednání a odkazuje na přiměřené použití procesních pravidel občanského soudního řádu. Samostatné odůvodnění volby rozsudku, usnesení o smíru ani souhlasu věřitelského výboru nepodává. Jde o historickou interpretační pomůcku; rozhodující je aktuální znění zákona.
 
-#### H. Praktický závěr
+#### Literatura
 
-V incidenčním sporu se *ve věci samé* rozhoduje *rozsudkem* (odchylka od převažujících usnesení v insolvenci), zatímco o *smíru* a o procesních otázkách *usnesením*. Smír uzavřený *insolvenčním správcem* lze schválit jen se *souhlasem věřitelského výboru* (odst. 2). Volba správné formy a doložení souhlasu výboru jsou rozhodující.
+Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; její zpracování je odloženo do druhého kola.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Odlišit rozhodnutí *ve věci samé* (rozsudek) od ostatních (usnesení) — § 162 odst. 1.
-- [ ] U smíru ověřit jeho *určitost* a soulad s hmotným právem (předpoklad schválení dle § 99 o. s. ř.).
-- [ ] U smíru uzavřeného *správcem* opatřit a založit *souhlas věřitelského výboru* (odst. 2).
-- [ ] Zvolit odpovídající opravné prostředky a způsob doručení podle formy rozhodnutí.
-- [ ] Zohlednit, že rozsudek je závazný *erga omnes* (§ 164), byť s účinky omezenými na insolvenci.
+#### Výklad
 
-**Typicky rozhodné důkazy / podklady:** text navrhovaného smíru, zápis a souhlas věřitelského výboru se smírem správce, soupis majetkové podstaty a listiny k předmětu sporu, příslušná incidenční žaloba.
+[1] **Rozhodnutí ve věci samé.** § 162 odst. 1 je zvláštním pravidlem pro incidenční spory. Rozhoduje-li insolvenční soud o předmětu sporu, použije formu rozsudku. Toto pravidlo odpovídá obecnému § 152 odst. 1 o. s. ř., podle něhož soud rozhoduje rozsudkem o věci samé.
+
+[2] **Procesní rozhodnutí.** § 162 odst. 1 neurčuje formu každého rozhodnutí vydaného v incidenčním sporu. Pro rozhodnutí, která nejsou rozhodnutími ve věci samé, se podle § 7 IZ přiměřeně použije občanský soudní řád; § 167 odst. 1 o. s. ř. stanoví formu usnesení, nerozhoduje-li soud ve věci samé.
+
+[3] **Smír.** O tom, zda soudní smír schvaluje, rozhodne insolvenční soud usnesením, přestože schválený smír má podle § 99 odst. 3 o. s. ř. účinky pravomocného rozsudku. Podle § 99 odst. 2 o. s. ř. soud smír neschválí, je-li v rozporu s právními předpisy; po právní moci takového usnesení pokračuje v řízení.
+
+[4] **Smír uzavřený insolvenčním správcem.** Je-li účastníkem smíru insolvenční správce, § 162 odst. 2 dovoluje jeho soudní schválení jen se souhlasem věřitelského výboru. Souhlas výboru nenahrazuje přezkum soudu podle § 99 odst. 2 o. s. ř.; obě podmínky musí být splněny. Není-li věřitelský výbor ustaven, je třeba určit subjekt vykonávající jeho působnost podle aktuální úpravy insolvenčního zákona, zejména § 61 a § 66.
+
+[5] **Účinky rozsudku a smíru.** Pravomocný rozsudek vydaný v incidenčním sporu je podle § 164 IZ závazný pro všechny procesní subjekty. Tuto zákonnou formulaci nelze bez dalšího nahrazovat širším označením „erga omnes“. Účinky schváleného smíru vyplývají z § 99 odst. 3 o. s. ř.
+
+[6] **Intertemporalita.** Aktuální konsolidované znění § 162 účinné k 19. 7. 2026 je dvouodstavcové. Při použití procesních pravidel o. s. ř. v konkrétním starším sporu je nutné ověřit jejich znění rozhodné pro dané řízení; historická důvodová zpráva sama neprokazuje obsah pozdějšího procesního práva.
+
+#### Judikatura
+
+Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k přímému výkladu § 162. Původní odkazy na rozhodnutí 29 ICdo 36/2023 a 29 Cdo 3626/2023 nebyly ponechány, protože nebyly v jednotce doloženy fyzickým plným textem z oficiálního webu soudu a jejich popsaný předmět přímo nevykládal formu rozhodnutí ani podmínky schválení smíru podle § 162. Nejde o negativní závěr o existenci relevantní judikatury.
 
 ### § 163 — Náklady IS
 

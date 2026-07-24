@@ -1291,46 +1291,75 @@ Pro toto vydání není zařazeno rozhodnutí, jehož plný text by byl ověřen
 
 ## § 117 — § 119 — Rozhodnutí, účinnost, prodloužení
 
-- **§ 117** — soud rozhodne **do konce následujícího pracovního dne**. *Bez výzvy k odstranění vad* (§ 43 OSŘ se nepoužije — *přísná koncentrace*).
-- **§ 118** — vyhlášení moratoria, pokud splněny podmínky. Bez odvolání proti vyhlášení; *odvolání jen proti odmítnutí* (a to jen dlužníkem).
-- **§ 119** — účinnost od zveřejnění v rejstříku, *max. 3 měsíce*. Možnost **prodloužení o max. 30 dní** na další souhlas většiny věřitelů.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-### F. Kazuistika
+### Znění ustanovení
 
-**1. Modelová situace.** Dlužník RHÓ s. r. o. podá bezvadný návrh na moratorium v pátek odpoledne. Soud o něm rozhodne; moratorium je vyhlášeno a zveřejněno v rejstříku v úterý v 8:00. Po dvou měsících dlužník zjistí, že potřebuje další čas, a žádá o prodloužení o 30 dní; znovu předkládá souhlas většiny věřitelů. Důkazy: návrh a datum jeho podání, údaj o okamžiku zveřejnění moratoria, návrh na prodloužení se souhlasem věřitelů.
+**§ 117 — Rozhodnutí o návrhu na moratorium**
 
-**2. Právní otázka.** Kdy nabývá moratorium účinnosti, jak dlouho trvá a za jakých podmínek je lze prodloužit?
+O návrhu na moratorium rozhodne insolvenční soud do konce pracovního dne nejblíže následujícího po dni, kdy mu takový návrh došel; § 43 občanského soudního řádu se nepoužije.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 117 (rozhodnutí do konce následujícího pracovního dne, bez výzvy k odstranění vad — § 43 OSŘ se nepoužije), § 118 (vyhlášení moratoria; bez odvolání proti vyhlášení, odvolání jen proti odmítnutí a jen dlužníkem), § 119 (účinnost od zveřejnění v rejstříku, max. 3 měsíce; prodloužení o max. 30 dní na souhlas většiny věřitelů).
-- *Související ustanovení téhož zákona:* § 116 (náležitosti návrhu a souhlas věřitelů), § 120–§ 122 (účinky moratoria), § 124 (zánik moratoria), § 134 (lhůta pro rozhodnutí o IN se prodlužuje o 10 dní po zániku moratoria).
-- *Související předpisy:* —
-- *Judikatura:* k účinnosti a prodloužení chybí v komentáři citovaná judikatura; nosně plyne z textu (max. 3 měsíce + 30 dní; účinnost od zveřejnění).
+**§ 118 — Vyhlášení moratoria**
 
-**4. Subsumpce.** Znak „rozhodnutí do konce následujícího pracovního dne" — naplněn (pátek → následující pracovní den). Znak „účinnost od zveřejnění v rejstříku" — naplněn úterním zveřejněním. Znak „max. 3 měsíce" — moratorium nesmí trvat déle; znak „prodloužení o 30 dní na souhlas většiny věřitelů" vyžaduje opětovné objemové kvórum.
+(1) Insolvenční soud vyhlásí moratorium, jestliže jsou splněny předpoklady uvedené v § 115 a 116 a nebylo-li dosud rozhodnuto o insolvenčním návrhu; jinak návrh na moratorium odmítne.
 
-**5. Řešení.** Moratorium je účinné od okamžiku zveřejnění (úterý 8:00) a trvá nejvýše 3 měsíce; lze je prodloužit jen o dalších 30 dní, doloží-li dlužník nový souhlas většiny věřitelů. Proti vyhlášení není odvolání; odvolat se proti odmítnutí může jen dlužník (§ 118). Praktický krok: počítat s tím, že lhůta pro rozhodnutí o insolvenčním návrhu neskončí dříve než 10 dnů po zániku moratoria (§ 134).
+(2) Proti rozhodnutí, jímž insolvenční soud vyhlásí moratorium, není odvolání přípustné. Proti rozhodnutí, kterým se návrh na moratorium odmítá, se může odvolat pouze dlužník.
 
-**6. Varianty.** (a) Soud návrh **odmítne** (např. pro nesplnění náležitostí § 116) — odvolání může podat jen dlužník (§ 118). (b) Dlužník nezíská souhlas většiny věřitelů pro prodloužení — moratorium zanikne uplynutím doby (max. 3 měsíce) a soud pokračuje v projednání insolvenčního návrhu.
+**§ 119 — Účinnost moratoria**
 
-### G. Protiargumenty a rizika
+(1) Moratorium je účinné od okamžiku zveřejnění rozhodnutí o jeho vyhlášení v insolvenčním rejstříku a trvá po dobu uvedenou v návrhu na moratorium, nejdéle však 3 měsíce.
 
-- *„Moratorium lze prodlužovat opakovaně."* Neobstojí — § 119 připouští prodloužení jen o max. 30 dní; celkový strop je 3 měsíce + 30 dní. Neutralizace: plánovat sanaci v rámci tohoto limitu, případně zvážit ZPR.
-- *„Proti vyhlášení se odvolám."* Vyloučeno — proti vyhlášení moratoria není odvolání přípustné; jen proti odmítnutí a jen dlužníkem (§ 118). Neutralizace: věřitelé mohou usilovat o zrušení moratoria dle § 124.
-- Slabé místo: krátké trvání a nutnost opětovného souhlasu věřitelů pro prodloužení omezují praktickou hodnotu; soud nadto rozhoduje rychle a vady se nesanují (§ 117).
+(2) Insolvenční soud může na návrh dlužníka prodloužit moratorium nejdéle o 30 dnů, jestliže dlužník k takovému návrhu připojí ke dni podání návrhu aktualizovaný seznam závazků a písemné prohlášení většiny jeho věřitelů, počítané podle výše jejich pohledávek, že s prodloužením moratoria souhlasí; podpisy věřitelů na tomto prohlášení musí být úředně ověřeny.
 
-### H. Praktický závěr
+### Přehled výkladu
 
-Soud o návrhu na moratorium rozhodne do konce následujícího pracovního dne (bez výzvy k odstranění vad); je-li vyhlášeno, nabývá účinnosti zveřejněním v rejstříku a trvá nejvýše 3 měsíce s možností jediného prodloužení o 30 dní na souhlas většiny věřitelů. Proti vyhlášení není odvolání.
+- Soud musí o návrhu rozhodnout do konce pracovního dne nejblíže následujícího po dni, kdy mu návrh došel. Zákon současně vylučuje postup podle § 43 o. s. ř.
+- Jsou-li splněny předpoklady § 115 a 116 a dosud nebylo rozhodnuto o insolvenčním návrhu, soud moratorium vyhlásí; jinak návrh odmítne.
+- Moratorium je účinné zveřejněním rozhodnutí v insolvenčním rejstříku, nikoli až právní mocí.
+- Základní doba odpovídá době uvedené v návrhu, nejvýše třem měsícům. Prodloužení může činit nejvýše 30 dnů a vyžaduje též aktualizovaný seznam závazků ke dni podání návrhu, souhlas většiny věřitelů podle výše pohledávek a úředně ověřené podpisy.
 
-**Checklist (dlužník / advokát / soud / věřitel):**
-- [ ] Byl návrh bezvadný (vady se neodstraňují — § 117)?
-- [ ] Je zjištěn okamžik zveřejnění moratoria (počátek účinnosti)?
-- [ ] Nepřekračuje doba 3 měsíce (+ případné prodloužení o 30 dní)?
-- [ ] Je pro prodloužení doložen nový souhlas většiny věřitelů?
-- [ ] Zohledněn vliv na lhůtu pro rozhodnutí o IN (§ 134)?
+### Souvisící ustanovení
 
-**Typicky rozhodné důkazy / podklady:** návrh na moratorium s datem podání, výpis z rejstříku s okamžikem zveřejnění, rozhodnutí o vyhlášení/odmítnutí, návrh na prodloužení a nové souhlasy věřitelů, evidence běhu lhůt.
+- § 115 — oprávnění dlužníka-podnikatele, lhůty k návrhu a vyloučení právnické osoby v likvidaci.
+- § 116 — obsah návrhu a jeho povinné přílohy.
+- § 120 až 122 — účinky moratoria.
+- § 124 — zánik a zrušení moratoria.
+- § 126 — obdobné použití úpravy na moratorium před zahájením insolvenčního řízení.
+- § 134 — vazba moratoria na lhůtu pro rozhodnutí o insolvenčním návrhu.
+
+### Souvisící předpisy
+
+- Zákon č. 99/1963 Sb., občanský soudní řád, § 43 — obecný postup při vadách podání; § 117 insolvenčního zákona jeho použití pro návrh na moratorium výslovně vylučuje.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona chápal moratorium jako krátkodobou ochranu dlužníka-podnikatele, během níž lze očekávat překonání úpadku nebo hrozícího úpadku vlastními silami. Zvláštní část k § 117 spojovala vyloučení § 43 o. s. ř. s mimořádně krátkou lhůtou soudu; k § 118 popisovala omezený přezkum oprávnění, včasnosti, náležitostí a příloh; k § 119 uváděla účinnost, tříměsíční mez a výjimečné prodloužení nejvýše o 30 dnů se souhlasem věřitelského kvóra. Jde o historický legislativní záměr původní osnovy, nikoli náhradu aktuálního textu § 119 odst. 2, který nyní výslovně vyžaduje také aktualizovaný seznam závazků ke dni podání návrhu. (Sněmovní tisk 1120/0, 4. volební období, zvláštní část „K § 115 až 127“ a „K § 117“ až „K § 119“, číslované s. 186–187, PDF s. 187–188.)
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní rešerše literatury.
+
+### Výklad
+
+[1] **Lhůta k rozhodnutí.** Výchozím okamžikem je den, kdy návrh došel insolvenčnímu soudu. Posledním okamžikem zákonné lhůty je konec nejblíže následujícího pracovního dne. Při praktické kontrole je proto nutno zjistit skutečný okamžik dojití a kalendář pracovních dnů; nelze mechanicky vycházet jen z data sepsání nebo odeslání návrhu.
+
+[2] **Vady návrhu.** Vyloučení § 43 o. s. ř. znamená, že soud u návrhu na moratorium nepoužije obecný postup výzvy k opravě nebo doplnění vadného podání. Procesní následek stanoví § 118 odst. 1: nejsou-li splněny předpoklady § 115 a 116, soud návrh odmítne. Dlužník proto musí náležitosti a přílohy soustředit již při podání.
+
+[3] **Rozsah rozhodování.** § 118 váže vyhlášení moratoria na splnění předpokladů § 115 a 116 a na to, že dosud nebylo rozhodnuto o insolvenčním návrhu. Nejsou-li tyto podmínky splněny, zákon předvídá odmítnutí návrhu, nikoli jeho věcné zamítnutí.
+
+[4] **Odvolání.** Proti vyhlášení moratoria není odvolání přípustné. Proti odmítnutí návrhu přiznává § 118 odst. 2 odvolání pouze dlužníku. Tím není dotčena samostatná úprava zrušení moratoria podle § 124.
+
+[5] **Účinnost a základní doba.** Účinnost nastává okamžikem zveřejnění rozhodnutí o vyhlášení v insolvenčním rejstříku. Moratorium trvá po dobu uvedenou v návrhu; tři měsíce jsou nejvyšší mezí, nikoli automatickou délkou každého moratoria. Pro určení počátku a konce je rozhodující zveřejněné rozhodnutí a konkrétní doba uvedená v návrhu.
+
+[6] **Prodloužení.** Návrh může podat jen dlužník. K návrhu musí připojit aktualizovaný seznam závazků zachycující stav ke dni podání a písemné prohlášení většiny věřitelů, počítané podle výše jejich pohledávek, s úředně ověřenými podpisy. Zákonná mez prodloužení činí 30 dnů. Samotný text § 119 odst. 2 výslovně neurčuje počet návrhů; bez další ověřené opory proto nelze z formulace o nejdelší době prodloužení vytvářet obecné pravidlo o jediné či opakované žádosti.
+
+[7] **Intertemporalita.** Výklad odpovídá právnímu stavu k 19. 7. 2026. U návrhu podaného nebo rozhodnutí vydaného za dřívější úpravy je třeba ověřit tehdy účinné znění, zejména konkrétní přílohy návrhu na prodloužení. Původní důvodová zpráva dokládá koncepci osnovy, nikoli beze změny všechny dnešní náležitosti.
+
+[8] **Praktická kontrola.** Ve spise je třeba odděleně zachytit: okamžik dojití návrhu, splnění § 115 a 116, stav rozhodování o insolvenčním návrhu, okamžik zveřejnění rozhodnutí v rejstříku, dobu uvedenou v návrhu a — žádá-li se o prodloužení — aktuálnost seznamu závazků, výpočet věřitelského kvóra a ověření podpisů.
+
+### Judikatura
+
+Do tohoto vydání není zařazeno rozhodnutí, jehož plný text by byl ověřen jako přímo nosný k výkladu rozhodovací lhůty, forem rozhodnutí, počátku účinnosti nebo podmínek prodloužení podle § 117 až 119. Tím se nevyslovuje závěr o neexistenci související judikatury; materiální závěry této jednotky jsou opřeny o aktuální zákonné znění a přesně lokalizovanou oficiální důvodovou zprávu.
 
 ---
 

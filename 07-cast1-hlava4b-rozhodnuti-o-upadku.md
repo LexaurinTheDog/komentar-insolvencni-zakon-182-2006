@@ -943,59 +943,59 @@ V tomto kole nebylo použito žádné soudní rozhodnutí. Místní kandidátní
 
 ## § 146 — Zánik účinků po jiném rozhodnutí
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Účinností rozhodnutí podle § 142 zanikají účinky spojené se zahájením insolvenčního řízení a dosud vydaná předběžná opatření. Odůvodňují-li to okolnosti případu, může insolvenční soud určit, že účinky spojené se zahájením insolvenčního řízení a dosud vydaná předběžná opatření zaniknou až právní mocí rozhodnutí.
 > (2) V řízení o odvolání proti rozhodnutí podle § 142 se nepřihlíží ke skutečnostem, které nastaly nebo vznikly po vydání rozhodnutí soudu prvního stupně.
 > (3) Je-li toho podle stavu insolvenčního řízení zapotřebí, rozhodne insolvenční soud po právní moci rozhodnutí podle § 142 o hotových výdajích a odměně předběžného správce, jakož i o způsobu jejich úhrady; § 38 a 39 platí obdobně.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *NS* [29 Cdo 311/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8645493EE9D1AECCC1257F6A002A8991?openDocument) — kat. A, 25. 11. 2015
-  > „Neurčí-li insolvenční soud jinak v usnesení, jímž zamítá insolvenční návrh, zanikají účinky spojené se zahájením insolvenčního řízení nejpozději okamžikem zveřejnění tohoto usnesení v insolvenčním rejstříku. Usnesení, jímž odvolací soud zrušil usnesení o zamítnutí insolvenčního návrhu a věc vrátil insolvenčnímu soudu k dalšímu řízení, se stává účinným nejpozději okamžikem zveřejnění tohoto usnesení v insolvenčním rejstříku … tímto okamžikem se opět obnovují (ex nunc) účinky spojené se zahájením insolvenčního řízení"
+§ 146 upravuje tři následky jiného rozhodnutí o insolvenčním návrhu podle § 142: zánik účinků zahájení řízení a předběžných opatření, skutkovou uzávěru v odvolacím řízení a případné konečné vypořádání předběžného správce. Základním okamžikem zániku je účinnost rozhodnutí; právní moc je rozhodná jen tehdy, určí-li to insolvenční soud podle odstavce 1 věty druhé. Účinnost konkrétního rozhodnutí je nutné určit podle § 89, nikoli ji bez dalšího zaměňovat s právní mocí.
+
+### Souvisící ustanovení
+
+- § 38 a 39 — odměna, hotové výdaje a zdroje jejich úhrady,
+- § 74 odst. 1 a § 89 — doručení a účinnost rozhodnutí insolvenčního soudu,
+- § 82, § 100, § 112 a 113 — předběžná opatření,
+- § 109 až 111 — účinky zahájení insolvenčního řízení,
+- § 142 až 145 — druhy jiných rozhodnutí o insolvenčním návrhu, zamítnutí a odvolání,
+- § 168 odst. 1 písm. a) — odměna a hotové výdaje předběžného správce jako pohledávka za majetkovou podstatou.
+
+### Souvisící předpisy
+
+- zákon č. 99/1963 Sb., občanský soudní řád, zejména § 167 a § 170, se použije subsidiárně v rozsahu dovoleném § 7 insolvenčního zákona,
+- vyhláška č. 313/2007 Sb., o odměně insolvenčního správce, určuje podrobnosti odměny a náhrady hotových výdajů také pro předběžného správce.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona (sněmovní tisk 1120/0, zvláštní část K § 136 až 147, číslované s. 191 až 193) vymezuje § 142 až 145 jako jiná rozhodnutí o insolvenčním návrhu než rozhodnutí o úpadku. Samostatný výklad § 146 nepodává. Původní návrh přitom obsahoval dnešní pravidlo odstavce 1 a pravidlo o vypořádání předběžného správce, tehdy jako odstavec 2; dnešní skutková uzávěra odvolacího řízení v původním návrhu obsažena nebyla.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola; tento údaj není výsledkem negativní rešerše.
 
 ### Výklad
 
-**Automatický zánik účinků zahájení** s vydáním rozhodnutí o odmítnutí / zastavení / zamítnutí. Soud *může odložit* zánik na okamžik právní moci (pro stabilitu).
+[1] Odkaz na § 142 zahrnuje odmítnutí insolvenčního návrhu, zastavení řízení o insolvenčním návrhu, zamítnutí insolvenčního návrhu a zamítnutí insolvenčního návrhu pro nedostatek majetku dlužníka, stanoví-li tak zvláštní zákon. § 146 se proto neuplatní jen na zamítnutí podle § 143.
 
-**Koncentrace pro odvolání** — pozdější skutečnosti se nepřihlížejí.
+[2] Odstavec 1 váže zánik na účinnost rozhodnutí. Podle § 89 odst. 1 jsou rozhodnutí insolvenčního soudu zásadně účinná zveřejněním v insolvenčním rejstříku; § 89 odst. 2 stanoví zvláštní účinnost vůči účastníkům a insolvenčnímu správci u rozhodnutí vydaných při jednání nebo hned po něm. Při určení přesného okamžiku a okruhu dotčených osob je proto třeba číst § 146 odst. 1 společně s § 89.
 
-**Vypořádání předběžného správce** — soud rozhodne o odměně a nákladech analogicky § 38, 39.
+[3] Zanikají jak zákonné účinky spojené se zahájením řízení, zejména podle § 109 až 111, tak dosud vydaná předběžná opatření. Jde o následek samotné účinnosti jiného rozhodnutí; zákon jej nepodmiňuje právní mocí ani samostatným zrušujícím výrokem.
 
-### F. Kazuistika
+[4] Insolvenční soud může s ohledem na okolnosti případu určit pozdější zánik až právní mocí rozhodnutí. Jde o výjimku, kterou musí rozhodnutí výslovně stanovit. Z textu § 146 nelze dovodit obecné pravidlo, že podání odvolání samo zachovává účinky zahájení řízení nebo předběžná opatření.
 
-**1. Modelová situace.** Soud zamítl insolvenční návrh proti dlužníku (§ 143). V průběhu řízení byl ustanoven předběžný správce a bylo nařízeno předběžné opatření omezující dispozice dlužníka. Po vydání usnesení o zamítnutí dlužník okamžitě uzavřel kupní smlouvu o prodeji nemovitosti, ač usnesení dosud nenabylo právní moci a soud ve výroku neurčil odklad zániku účinků. Předběžný správce požaduje odměnu a hotové výdaje. Důkazy: usnesení o zamítnutí, údaj o jeho zveřejnění v rejstříku, rozhodnutí o nařízení předběžného opatření, kupní smlouva, vyúčtování předběžného správce.
+[5] Odstavec 2 uzavírá skutkový základ odvolacího přezkumu ke dni vydání rozhodnutí soudu prvního stupně. Skutečnosti, které nastaly nebo vznikly později, proto nemohou změnit posouzení napadeného rozhodnutí podle § 142. To nebrání novému insolvenčnímu návrhu, jsou-li pro něj splněny zákonné předpoklady; tento závěr je systematickým výkladem a nikoli návodem pro konkrétní věc.
 
-**2. Právní otázka.** K jakému okamžiku zanikají účinky spojené se zahájením insolvenčního řízení a předběžná opatření po rozhodnutí dle § 142, a jak se vypořádá odměna předběžného správce?
+[6] Rozhodování podle odstavce 3 přichází v úvahu až po právní moci rozhodnutí podle § 142 a jen tehdy, vyžaduje-li je stav řízení. Předmětem je výše hotových výdajů a odměny předběžného správce i způsob úhrady; § 38 a 39 se použijí obdobně. Toto rozhodnutí je třeba odlišit od okamžiku zániku účinků podle odstavce 1.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 146 — účinností rozhodnutí dle § 142 zanikají účinky zahájení a dosud vydaná předběžná opatření; soud může určit zánik až *právní mocí* (odst. 1); koncentrace pro odvolání (odst. 2); rozhodnutí o hotových výdajích a odměně předběžného správce přiměřeně dle § 38 a 39 (odst. 3).
-- *Související ustanovení téhož zákona:* § 142 (typy rozhodnutí), § 143 (zamítnutí), § 109 (účinky zahájení), § 82, § 113 (předběžná opatření), § 38, § 39 (odměna a náklady správce).
-- *Související předpisy:* § 167 a násl. o. s. ř. (účinnost a právní moc usnesení).
-- *Judikatura:* NS 29 Cdo 311/2015 — neurčí-li soud jinak, účinky zahájení zanikají nejpozději *zveřejněním* usnesení o zamítnutí v rejstříku; usnesení odvolacího soudu o zrušení zamítnutí obnovuje (ex nunc) účinky zahájení okamžikem zveřejnění.
+[7] Zánik omezení podle § 146 sám o sobě neprokazuje platnost konkrétního právního jednání. Tu je nutné posoudit podle všech použitelných hmotněprávních pravidel a podle případných jiných trvajících omezení. Opačný kategorický závěr původní modelové situace byl proto odstraněn.
 
-**4. Subsumpce.** Soud ve výroku neurčil odklad zániku účinků na právní moc; účinky zahájení a předběžné opatření proto zanikly *účinností* usnesení o zamítnutí, tj. nejpozději jeho zveřejněním v rejstříku (NS 29 Cdo 311/2015). Prodej nemovitosti dlužníkem po tomto okamžiku již nepodléhal dispozičnímu omezení z předběžného opatření. Odměnu a hotové výdaje předběžného správce soud vypořádá samostatným rozhodnutím přiměřeně dle § 38 a 39 (odst. 3).
+### Judikatura
 
-**5. Řešení.** Účinky zahájení a předběžné opatření zanikly zveřejněním usnesení o zamítnutí; dispoziční omezení dlužníka tím odpadlo a kupní smlouva je platná (nejde-li o jiný důvod neplatnosti). Soud po právní moci rozhodne o hotových výdajích a odměně předběžného správce a o způsobu jejich úhrady (§ 38, 39). Procesně: chtěl-li by soud udržet omezení až do právní moci, musel by to *výslovně určit* ve výroku (odst. 1 věta druhá). Předběžný správce podá vyúčtování.
-
-**6. Varianty.** (a) Kdyby soud ve výroku určil, že účinky a předběžná opatření zaniknou až právní mocí, dispoziční omezení by trvalo i po zveřejnění a prodej nemovitosti by mu odporoval. (b) Kdyby odvolací soud zamítnutí *zrušil*, účinky zahájení by se obnovily (ex nunc) okamžikem zveřejnění jeho usnesení v rejstříku (NS 29 Cdo 311/2015).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Účinky trvají až do právní moci zamítnutí." — Neutralizace: dle § 146 odst. 1 a NS 29 Cdo 311/2015 zanikají *účinností* rozhodnutí (nejpozději zveřejněním v rejstříku), ledaže soud výslovně určí zánik až právní mocí.
-- *Protiargument:* „V odvolání lze doložit, že úpadek mezitím nastal." — Neutralizace: dle odst. 2 se ke skutečnostem nastalým po rozhodnutí I. stupně nepřihlíží (koncentrace).
-- *Slabé místo:* mezidobí mezi zánikem účinků a případným zrušením zamítnutí odvolacím soudem vytváří „okno" pro dispozice dlužníka; obnova účinků působí jen ex nunc, takže úkony v mezidobí mohou být obtížně napadnutelné.
-
-### H. Praktický závěr
-
-S účinností rozhodnutí dle § 142 (odmítnutí/zastavení/zamítnutí) zanikají účinky spojené se zahájením řízení i dosud vydaná předběžná opatření — nejpozději zveřejněním v rejstříku, neurčí-li soud zánik až právní mocí. Pro odvolání platí koncentrace; odměnu a náklady předběžného správce soud vypořádá přiměřeně dle § 38 a 39.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Zjistit, zda soud ve výroku určil zánik účinků až právní mocí (jinak zanikají účinností/zveřejněním).
-- [ ] Posoudit úkony dlužníka podle okamžiku zániku dispozičních omezení.
-- [ ] V odvolání nezohledňovat skutečnosti nastalé po rozhodnutí I. stupně (koncentrace — odst. 2).
-- [ ] Zajistit vypořádání hotových výdajů a odměny předběžného správce (§ 38, 39).
-- [ ] Při zrušení zamítnutí počítat s obnovou účinků ex nunc okamžikem zveřejnění (NS 29 Cdo 311/2015).
-
-**Typicky rozhodné důkazy / podklady:** usnesení dle § 142 a údaj o jeho zveřejnění v rejstříku, rozhodnutí o předběžném opatření, doklady o úkonech dlužníka po rozhodnutí, vyúčtování předběžného správce.
+Judikatura není v tomto kole zařazena jako zdroj materiálního tvrzení, protože k ověřenému oficiálnímu plnému textu nebylo možné v povoleném zdrojovém adresáři uložit fyzický snapshot. Původní judikatorní citace a závěry na ní závislé proto byly odstraněny; nejde o negativní rešerši.
 
 ---
 

@@ -314,119 +314,85 @@ Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; její zpra
 
 ## § 169 — Pohledávky postavené na roveň pohledávkám za podstatou
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Pohledávkami postavenými na roveň pohledávkám za majetkovou podstatou jsou
-> a) **pracovněprávní pohledávky dlužníkových zaměstnanců**, pokud zákon ohledně některých z nich nestanoví jinak,
-> b) pohledávky věřitelů na **náhradu škody způsobené na zdraví**,
-> c) pohledávky státu - **Úřadu práce České republiky za náhradu mzdy** vyplacené zaměstnancům, **za náhradní výživné** podle jiného zákona a za prostředky odvedené podle zvláštních právních předpisů a pohledávky státu – správce daně vzniklé na základě povinnosti provést opravu odpočtu daně v případě reorganizace nebo povinnosti provést opravu odpočtu daně v případě nedobytné pohledávky podle zákona upravujícího daň z přidané hodnoty,
-> d) pohledávky účastníků z **penzijního připojištění se státním příspěvkem**,
-> e) pohledávky věřitelů na **výživném ze zákona**,
-> f) náhrada nákladů, které **třetí osoby vynaložily na zhodnocení majetkové podstaty**, mají-li z toho důvodu proti dlužníku pohledávku z bezdůvodného obohacení,
+>
+> a) pracovněprávní pohledávky dlužníkových zaměstnanců, pokud zákon ohledně některých z nich nestanoví jinak,
+>
+> b) pohledávky věřitelů na náhradu škody způsobené na zdraví,
+>
+> c) pohledávky státu - Úřadu práce České republiky za náhradu mzdy vyplacené zaměstnancům, za náhradní výživné podle jiného zákona a za prostředky odvedené podle zvláštních právních předpisů a pohledávky státu – správce daně vzniklé na základě povinnosti provést opravu odpočtu daně v případě reorganizace nebo povinnosti provést opravu odpočtu daně v případě nedobytné pohledávky podle zákona upravujícího daň z přidané hodnoty,
+>
+> d) pohledávky účastníků z penzijního připojištění se státním příspěvkem,
+>
+> e) pohledávky věřitelů na výživném ze zákona včetně pohledávek na výživném ze zákona, které byly postoupeny, a pohledávky na úhradu úplaty za postupované pohledávky výživného,
+>
+> f) náhrada nákladů, které třetí osoby vynaložily na zhodnocení majetkové podstaty, mají-li z toho důvodu proti dlužníku pohledávku z bezdůvodného obohacení,
+>
 > g) pohledávky věřitelů vzniklé za trvání moratoria vyhlášeného před zahájením insolvenčního řízení ze smluv podle § 122 odst. 2, bylo-li insolvenční řízení zahájeno ve lhůtě 1 roku od zániku moratoria,
+>
 > h) další pohledávky, o kterých tak stanoví tento zákon.
 >
 > (2) Pohledávkami postavenými na roveň pohledávkám za majetkovou podstatou, pokud vznikly podle zákona o preventivní restrukturalizaci, jsou
-> a) pohledávky z poskytnutého **prozatímního financování**,
-> b) pohledávky nespřízněných osob z poskytnutého **nového financování** a
-> c) pohledávky věřitele ze smluv o dodávkách zboží, služeb, energií nebo jiného druhu plnění, které byly **nezbytné pro pokračování běžného provozu** obchodního závodu podnikatele a které vznikly v době, ve které vůči němu trvaly účinky všeobecného nebo individuálního moratoria.
-> (3) Není-li dále stanoveno jinak, pohledávky postavené na roveň pohledávkám za majetkovou podstatou se uspokojují **v plné výši kdykoli po rozhodnutí o úpadku**.
+>
+> a) pohledávky z poskytnutého prozatímního financování,
+>
+> b) pohledávky nespřízněných osob vymezených podle zákona o preventivní restrukturalizaci z poskytnutého nového financování a
+>
+> c) pohledávky věřitele ze smluv o dodávkách zboží, služeb, energií nebo jiného druhu plnění, které byly nezbytné pro pokračování běžného provozu obchodního závodu podnikatele a které vznikly v době, ve které vůči němu trvaly účinky všeobecného nebo individuálního moratoria.
+>
+> (3) Není-li dále stanoveno jinak, pohledávky postavené na roveň pohledávkám za majetkovou podstatou se uspokojují v plné výši kdykoli po rozhodnutí o úpadku.
+>
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *ÚS* [Pl.ÚS 37/23](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-37-23_1) — nález, 20. 11. 2024
-  > „Základním účelem úpadkového práva upraveného insolvenčním zákonem je řešení majetkových vztahů dlužníka, který je v úpadku, a uspokojení pohledávek věřitelů dlužníka z majetkové podstaty dlužníka. … Je tak patrné, že cílem či účelem posuzovaného privilegovaného postavení státu v insolvenčním řízení je snížit negativní dopady pro stát v souvislosti se zajištěním daňové neutrality při plnění povinností státu vyplývajících z unijního práva a řádného výběru daně"
-- *NSS* [11 Ad 4/2021 - 66](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/702865) — 16. 6. 2022
-  > „Dle § 169 odst. 1 písm. a) zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), jsou pohledávkami postavenými na roveň pohledávkám za majetkovou podstatou pracovněprávní pohledávky dlužníkových zaměstnanců. Zásadní je tedy pouze to, zda jde o pohledávky z pracovněprávního vztahu, nikoliv o jaký typ pracovněprávní pohledávky jde"
+§ 169 obsahuje zvláštní výčet pohledávek, které se procesně uplatňují a uspokojují obdobně jako pohledávky za majetkovou podstatou, aniž se tím mění jejich věcný titul. Do písmene c) nepatří daně obecně, nýbrž jen přesně vymezené pohledávky státu. Odstavec 2 chrání pouze pohledávky splňující podmínky zákona o preventivní restrukturalizaci. Pravidlo plného průběžného uspokojení podle odstavce 3 podléhá zvláštním zákonným pravidlům, zejména § 305 odst. 2 při nedostatku výtěžku v konkursu.
 
-### Výklad — **SOCIÁLNÍ A KVAZI-VEŘEJNOPRÁVNÍ POHLEDÁVKY**
+### Souvisící ustanovení
 
-**Pohledávky postavené na roveň** = *stejná priorita jako pohledávky za podstatou*, ale jiné věcné základy — typicky **sociální** (mzdy, výživné) a **zákonné** (daně, příspěvky).
+- § 111 odst. 2 — uspokojování těchto pohledávek po zahájení řízení.
+- § 122 odst. 2 — chráněné smlouvy za moratoria.
+- § 168 a § 170 — sousední kategorie pohledávek.
+- § 203 a § 203a — uplatnění a spor o pořadí.
+- § 305 odst. 2 — pořadí při nedostatku výtěžku v konkursu.
 
-#### Klíčové kategorie (odst. 1)
+### Souvisící předpisy
 
-**a) Pracovněprávní pohledávky** — *nejvýznamnější*. Zahrnuje:
-- *mzdy* (i nezaplacené z období před úpadkem),
-- *náhrady mzdy* (dovolená, nemoc, kapitalizovaný náhrady),
-- *odstupné, odměny, prémie*,
-- *náklady na zdravotnické prohlídky* atd.
+- Zákon č. 118/2000 Sb., o ochraně zaměstnanců při platební neschopnosti zaměstnavatele.
+- Zákon č. 588/2020 Sb., o náhradním výživném.
+- Zákon č. 235/2004 Sb., o dani z přidané hodnoty.
+- Zákon č. 284/2023 Sb., o preventivní restrukturalizaci.
 
-> *Sociální význam*: zaměstnanci jsou *strukturálně slabší stranou* — jejich nároky mají přednost před běžnými věřiteli.
+### Z důvodové zprávy
 
-**b) Náhrada škody na zdraví** — *humanitární prioritu*. Včetně bolestného, ušlého výdělku, nákladů na léčbu.
+Oficiální důvodová zpráva k vládnímu návrhu insolvenčního zákona (sněmovní tisk 1120/0, 4. volební období, zvláštní část k § 165 až 172, číslovaná s. 197) vysvětluje rozšíření a zpřesnění této skupiny, zejména zahrnutí téměř všech pracovněprávních nároků, náhrad škody na zdraví, státních nároků za vyplacené mzdové nároky a nákladů třetích osob podle písmene f). Současně odkazuje na zvláštní způsob uplatnění podle § 203. Důvodová zpráva popisuje původní návrh; pozdější kategorie a jejich dnešní znění je nutné posuzovat podle aktuálního zákona.
 
-**c) Státní regresy + DPH oprava** — *kvazi-veřejnoprávní*:
-- *ÚP — náhrada vyplacených mezd* (zákon č. 118/2000 Sb.),
-- *náhradní výživné* (zákon č. 588/2020 Sb.),
-- *daňové opravy* — v reorganizaci a u nedobytné pohledávky podle ZDPH (od 2024 — transpozice 2019/1023).
+### Literatura
 
-**d) Penzijní připojištění** — důchodové fondy.
+Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; její zpracování je odloženo do druhého kola.
 
-**e) Výživné ze zákona** — *sociální priorita*. Nově (od 2017) zahrnuje i *postoupené výživné* a *úplaty za postupování*.
+### Výklad
 
-**f) Náklady třetích osob na zhodnocení podstaty** — typicky kdokoli, kdo investoval do majetku dlužníka (např. provedl rekonstrukci) — má pohledávku z **bezdůvodného obohacení**.
+[1] **Uzavřená zákonná kvalifikace.** Postavení na roveň nelze založit jen sociální potřebností, veřejnoprávní povahou nebo užitečností plnění. Pohledávka musí naplnit některé písmeno odstavce 1 nebo 2, popřípadě jiné výslovné ustanovení insolvenčního zákona podle odstavce 1 písm. h).
 
-**g) Smlouvy v moratoriu před zahájením** — pokud se moratorium "zveřejnilo" v IR do 1 roku po zániku.
+[2] **Pracovněprávní nároky.** Písmeno a) vychází z pracovněprávní pohledávky dlužníkova zaměstnance a současně připouští zákonnou odchylku. Před zařazením je proto nutné určit jak skutečnou povahu vztahu, tak případné zvláštní pravidlo; pouhé označení plnění jako odměna nebo mzda nestačí.
 
-#### Speciálka pro preventivní restrukturalizaci (odst. 2)
+[3] **Přesná hranice státních pohledávek.** Písmeno c) není obecným privilegiem daní, pojistného ani jiných veřejnoprávních plnění. Zahrnuje jen pohledávky Úřadu práce České republiky a správce daně, které odpovídají titulům výslovně uvedeným v textu. Obecné daně a pojistné vzniklé po rozhodnutí o úpadku se posuzují zejména podle § 168 odst. 2 písm. e), nikoli podle § 169 odst. 1 písm. c).
 
-Pro pohledávky vzniklé v rámci ZPR:
-- *prozatímní financování*,
-- *nové financování* nespřízněných osob,
-- *smlouvy o dodávkách* nezbytných pro provoz.
+[4] **Ostatní tituly odstavce 1.** U náhrady škody na zdraví, penzijního připojištění, výživného a zhodnocení majetkové podstaty rozhoduje zákonný titul v přesném rozsahu písmen b), d), e) a f). U písmene f) nestačí samotné vynaložení nákladů: třetí osobě musí z tohoto důvodu vzniknout proti dlužníku pohledávka z bezdůvodného obohacení. Písmeno g) současně vyžaduje chráněnou smlouvu podle § 122 odst. 2, vznik pohledávky za trvání předinsolvenčního moratoria a zahájení insolvenčního řízení do jednoho roku od jeho zániku.
 
-> *Smysl*: ochrana subjektů, které "zachraňují" dlužníka v rámci preventivní restrukturalizace — pokud ta selže a dojde k insolvenci, jejich pohledávky mají *prioritu*.
+[5] **Preventivní restrukturalizace.** Odstavec 2 se uplatní jen na pohledávky vzniklé podle zákona o preventivní restrukturalizaci. U nového financování zákon navíc vyžaduje nespřízněnou osobu vymezenou tímto zákonem; u dodávek jejich nezbytnost pro pokračování běžného provozu a vznik za účinků všeobecného nebo individuálního moratoria.
 
-#### Uspokojení (odst. 3)
+[6] **Uplatnění a spor.** Není-li stanoveno jinak, věřitel pohledávku písemně uplatňuje vůči osobě s dispozičními oprávněními a současně vyrozumí insolvenčního správce (§ 203 odst. 1); nejde o přihlášku. Zvláštností pracovněprávní pohledávky je domněnka jejího uplatnění ve výši vyplývající z účetnictví nebo zákonné evidence, neuplatní-li ji zaměstnanec v jiné výši (§ 203 odst. 2). Spor o pořadí se řídí § 203a.
 
-**Identicky s pohledávkami za podstatou** — *v plné výši, kdykoli, průběžně*.
+[7] **Uspokojení a intertemporalita.** Odstavec 3 stanoví plné uspokojení kdykoli po rozhodnutí o úpadku, avšak výslovně jen tehdy, nestanoví-li zákon jinak. V konkursu je při nedostatku výtěžku nutné použít konkrétní pořadí § 305 odst. 2; nelze slibovat plné plnění z vyčerpané podstaty. Pro vznik a zařazení pohledávky se musí použít znění účinné v rozhodné době; zejména odstavec 2 a některé části odstavce 1 jsou výsledkem pozdějších novel a původní důvodová zpráva je nevysvětluje.
 
-### Vazby
+### Judikatura
 
-- **§ 168** — pohledávky za podstatou.
-- **§ 203** — uplatňování.
-- **Zákon č. 118/2000 Sb.** o ochraně zaměstnanců.
-- **Zákon č. 284/2023 Sb. o preventivní restrukturalizaci**.
-
-### Praktická poznámka
-
-V praxi je toto pravidlo *životně důležité pro zaměstnance* — i u dlužníka s naprosto vyčerpanou podstatou se zaměstnanci dostanou ke svým mzdám:
-1. *primárně* — z Úřadu práce podle zák. č. 118/2000 Sb. (mzdy za 3 měsíce předcházející insolvenci),
-2. *sekundárně* — zbytek z podstaty jako *pohledávka postavená na roveň*.
-
-### F. Kazuistika
-
-**1. Modelová situace.** Zaměstnankyně Z pracovala u dlužníka D do prohlášení konkursu. D jí dluží mzdu za tři měsíce před úpadkem (90 000 Kč) a odstupné (60 000 Kč). Úřad práce (ÚP) jí vyplatí mzdové nároky podle zákona č. 118/2000 Sb. za část období a poté přihlásí svou regresní pohledávku. Z přihlásí zbývající část. Důkazy: pracovní smlouva, mzdové listy, doklad o výplatě ÚP, přihláška ÚP a Z.
-
-**2. Právní otázka.** Mají mzdové nároky zaměstnankyně a navazující regres Úřadu práce přednostní režim hrazení v plné výši kdykoli po rozhodnutí o úpadku, ač nejsou klasickými pohledávkami za podstatou?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 169 odst. 1 písm. a) (pracovněprávní pohledávky zaměstnanců) a písm. c) (regres státu — ÚP za vyplacené mzdy), odst. 3 (uspokojení v plné výši kdykoli po rozhodnutí o úpadku).
-- *Související ustanovení téhož zákona:* § 168 (pohledávky za podstatou — identický režim hrazení), § 203 (uplatnění mimo přihlášku), § 305 odst. 2 (poměrné krácení při nedostatku).
-- *Související předpisy:* zákon č. 118/2000 Sb. o ochraně zaměstnanců při platební neschopnosti (mzdy za 3 měsíce, postup ÚP); zákoník práce (vznik mzdových nároků).
-- *Judikatura:* nosný závěr NSS (11 Ad 4/2021), že rozhodující je, zda jde o pohledávku z pracovněprávního vztahu, nikoli o její typ — všechny pracovněprávní pohledávky spadají pod písm. a).
-
-**4. Subsumpce.** Mzda i odstupné Z jsou pohledávky z pracovněprávního vztahu → písm. a) → postavené na roveň, plné a průběžné hrazení (odst. 3). Část, kterou vyplatil ÚP, přechází na stát a uplatní se jako regres dle písm. c) ve stejném režimu; Z uplatní jen nepokrytý zbytek, aby nedošlo k dvojímu plnění.
-
-**5. Řešení.** Správce hradí mzdové nároky (Z i regres ÚP) průběžně v plné výši dle § 203, podstata-li stačí. Z se primárně obrátí na ÚP (rychlejší cesta), zbytek dostane z podstaty. Procesně: uplatnění u osoby s dispozičními oprávněními, nikoli přihláškou.
-
-**6. Varianty.** (a) Při nedostatečné podstatě se mzdové nároky kráticí poměrně s ostatními pohledávkami za podstatou/na roveň (§ 305 odst. 2); ÚP tak funguje jako reálná záruka výplaty. (b) Kdyby šlo o pohledávku jednatele z titulu odměny dle smlouvy o výkonu funkce (nikoli pracovního poměru), nešlo by o pracovněprávní pohledávku dle písm. a).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Privilegium státu (regres ÚP, daňové opravy) narušuje rovnost věřitelů." — Neutralizace: ÚS (Pl.ÚS 37/23) aproboval privilegované postavení státu jako prostředek daňové neutrality a sociální ochrany; jde o ústavně udržitelnou výjimku.
-- *Protiargument:* „Odstupné není ‚mzda', tedy nespadá pod písm. a)." — Neutralizace: dle NSS je rozhodující pracovněprávní povaha nároku, nikoli jeho typ; odstupné je pracovněprávní pohledávkou.
-- *Slabé místo:* hranice mezi pracovněprávní pohledávkou a nárokem z obchodněprávního/korporátního vztahu (jednatel, společník) je sporná a vyžaduje posouzení skutečné povahy vztahu.
-
-### H. Praktický závěr
-
-Ustanovení je sociální „bezpečnostní síť": zaměstnanci, poškození na zdraví, oprávnění z výživného a navazující státní regresy se uspokojují stejně přednostně jako pohledávky za podstatou. Pro zaměstnance je klíčová dvoukolejnost ÚP (zák. 118/2000 Sb.) + zbytek z podstaty.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Posoudit, zda jde o pracovněprávní pohledávku (povaha vztahu, nikoli typ nároku).
-- [ ] U zaměstnance uplatnit nárok primárně u Úřadu práce (zák. č. 118/2000 Sb.), zbytek u osoby s dispozičními oprávněními.
-- [ ] U regresu ÚP / daňových oprav ověřit zákonný titul (písm. c) a vyloučit dvojí plnění.
-- [ ] Zohlednit možné poměrné krácení při nedostatku podstaty (§ 305 odst. 2).
-
-**Typicky rozhodné důkazy / podklady:** pracovní smlouva a mzdové listy, doklady o výplatě ÚP a rozsah přechodu nároku, doklady o náhradě škody na zdraví, exekuční/soudní tituly k výživnému, vyúčtování daňových oprav dle ZDPH.
+V tomto kole nebylo do komentáře převzato žádné rozhodnutí jako nosný pramen. Kandidátní odkazy v původním textu byly odstraněny: správní rozsudek 11 Ad 4/2021 nebyl nezbytnou autoritou pro obecnou klasifikaci podle písmene a) a nález Pl. ÚS 37/23 se týká ústavnosti pouze přesně vymezené části písmene c), nikoli obecného privilegia všech státních pohledávek.
 
 ---
 

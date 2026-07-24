@@ -100,60 +100,61 @@ Do tohoto kola nebylo zařazeno žádné rozhodnutí. Stávající odkaz na 29 N
 
 ## § 137 — Schůze + přezkumné jednání
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Není-li způsobem řešení úpadku oddlužení, svolá insolvenční soud schůzi věřitelů tak, aby se konala nejpozději do 3 měsíců od rozhodnutí o úpadku.
 > (2) Není-li způsobem řešení úpadku oddlužení, určí insolvenční soud termín přezkumného jednání tak, aby se konalo nejpozději do 2 měsíců po uplynutí lhůty k přihlášení pohledávek, ne však dříve než po 7 dnech od uplynutí této lhůty; z důvodů hodných zvláštního zřetele může insolvenční soud tuto lhůtu prodloužit.
 > (3) Jestliže se první schůze věřitelů svolaná po rozhodnutí o úpadku má konat před přezkumným jednáním, svolá insolvenční soud v rozhodnutí o úpadku další schůzi věřitelů na den, kdy se má konat přezkumné jednání, a to tak, aby se konala po skončení přezkumného jednání.
 
+>
+
+### Přehled výkladu
+
+Ustanovení určuje mimo oddlužení nejzazší termín první schůze věřitelů a časové okno přezkumného jednání. Současně řeší pořadí, v němž se mají konat přezkumné jednání a další schůze věřitelů, jestliže první schůze přezkumu předchází. Pro oddlužení platí zvláštní písemný přezkum a zvláštní pravidla schůze.
+
+### Souvisící ustanovení
+
+- **§ 47 a § 48** — svolání, účast a předmět schůze věřitelů.
+- **§ 136 odst. 2 písm. d) a f)** — přihlašovací lhůta a určení místa a termínu schůze a přezkumného jednání v rozhodnutí o úpadku.
+- **§ 173 odst. 1** — dvouměsíční lhůta k přihlášení pohledávek.
+- **§ 190 až 197** — přezkoumání přihlášených pohledávek a zachycení výsledku přezkumu.
+- **§ 398a až 400** — zpráva pro oddlužení, zpráva o přezkumu a zvláštní režim schůze a hlasování při oddlužení.
+
+### Souvisící předpisy
+
+- **Zákon č. 99/1963 Sb., občanský soudní řád, zejména § 55 až 57** — obecná pravidla pro lhůty se uplatní subsidiárně v mezích § 7 insolvenčního zákona. Samotné § 137 však váže počátky svých lhůt přímo na rozhodnutí o úpadku nebo na uplynutí přihlašovací lhůty.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva zahrnula § 137 do společného koncepčního výkladu rozhodnutí o úpadku, aniž jeho lhůty samostatně odůvodnila. Důvodová zpráva k novele č. 64/2017 Sb. vysvětlila vyjmutí oddlužení z odstavců 1 a 2 snahou zjednodušit a urychlit oddlužovací řízení; novelu spojila se zvláštními podmínkami schůze věřitelů a přezkumu v oddlužení. Jde o historické vysvětlení změny, nikoli o náhradu dnešního znění.
+
+*Prameny:* vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, zvláštní část „K § 136 až 147“ na číslovaných s. 191–193 (PDF s. 192–194); vládní návrh novely, sněmovní tisk 785/0, body 47 a 48 na číslované s. 8 (PDF s. 9) a zvláštní část k bodům 12, 13, 19, 47, 48, 89 a 90 na číslovaných s. 150–152 (PDF s. 151–153).
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento oddíl nepředstavuje negativní rešerši ani tvrzení, že relevantní literatura neexistuje.
+
 ### Výklad
 
-**Lhůty (mimo oddlužení):**
-- **schůze věřitelů** — do **3 měsíců** od rozhodnutí o úpadku,
-- **přezkumné jednání** — do **2 měsíců po uplynutí lhůty pro přihlášky** (= cca 4 měsíce od rozhodnutí o úpadku), *minimálně 7 dnů* po uplynutí přihlašovací lhůty.
+[1] **Rozsah použití.** Odstavce 1 a 2 výslovně dopadají jen na řízení, v němž způsobem řešení úpadku není oddlužení. V oddlužení se přezkum provádí podle § 398a a schůze se řídí zejména § 399 a § 400. Odstavec 3 je třeba číst v této systematické souvislosti; upravuje návaznost schůzí na přezkumné jednání, nikoli písemný přezkum v oddlužení.
 
-**Časový posloupnost** (odst. 3) — pokud první schůze předchází přezkumu, soud svolává *druhou schůzi* na den přezkumu (po jeho skončení). Smysl: schůze potřebuje výsledky přezkumu (potvrzené pohledávky pro hlasování).
+[2] **První schůze.** Insolvenční soud musí mimo oddlužení svolat schůzi tak, aby se konala nejpozději do tří měsíců od rozhodnutí o úpadku. § 136 odst. 2 písm. f) současně vyžaduje, aby rozhodnutí o úpadku určilo její místo a termín. Jde o nejzazší termín konání, nikoli pouze o lhůtu k vydání rozhodnutí o svolání.
 
-### Vazby
+[3] **Přezkumné jednání.** Termín musí ležet nejdříve po sedmi dnech od uplynutí lhůty k přihlášení pohledávek a nejpozději do dvou měsíců po jejím uplynutí. Zákonná formulace „po 7 dnech“ vylučuje konání během přihlašovací lhůty i v následujících sedmi dnech. Horní hranici může soud prodloužit z důvodů hodných zvláštního zřetele; text nezakládá možnost prolomit dolní hranici.
 
-- **§ 173** — lhůta k přihláškám (2 měsíce — § 136 odst. 2 písm. d).
-- **§ 190 a násl.** — přezkumné jednání.
-- **§ 47** — svolávání schůze.
+[4] **Přihlašovací lhůta.** Podle § 136 odst. 2 písm. d) a § 173 odst. 1 činí lhůta k přihlášení pohledávek dva měsíce. Nelze však bez znalosti data rozhodnutí a pravidel běhu lhůt mechanicky převádět zákonné limity na pevný počet kalendářních dnů ani na obecnou zkratku „přibližně čtyři měsíce od úpadku“.
 
-### F. Kazuistika
+[5] **Pořadí schůzí.** Má-li se první schůze po rozhodnutí o úpadku konat před přezkumným jednáním, musí soud již v rozhodnutí o úpadku svolat další schůzi na den přezkumného jednání a časově ji zařadit po jeho skončení. Odstavec 3 tak neukládá přesun první schůze; ukládá svolání další schůze v předepsaném pořadí.
 
-**1. Modelová situace.** V konkursu (nejde o oddlužení) soud v rozhodnutí o úpadku z 1. března svolá první schůzi věřitelů na 20. března a přezkumné jednání nařídí již na 25. dubna — tedy ještě před uplynutím dvouměsíční přihlašovací lhůty (která končí až 1. května). Věřitel, jehož pohledávka byla přezkoumána na jednání 25. dubna, namítá, že přezkum proběhl předčasně. Důkazy: rozhodnutí o úpadku, datum zveřejnění v rejstříku, protokol o přezkumném jednání, seznam přihlášek.
+[6] **Následky vady.** § 137 stanoví povinnost soudu a časové meze, sám však výslovně neupravuje procesní následek jejich porušení. **Autorský závěr:** bez ověření povahy konkrétní vady, dotčeného procesního úkonu a navazujících ustanovení nelze z pouhého nedodržení termínu automaticky dovodit neúčinnost všech výsledků přezkumu nebo jednotný požadavek na jeho úplné opakování.
 
-**2. Právní otázka.** Lze platně konat přezkumné jednání dříve, než uplyne lhůta k přihlášení pohledávek (resp. dříve než 7 dnů po jejím uplynutí), a jaké jsou důsledky porušení časové posloupnosti dle § 137?
+[7] **Intertemporalita.** Výjimka pro oddlužení byla do odstavců 1 a 2 vložena zákonem č. 64/2017 Sb. s účinností od 1. července 2017. U starších řízení nebo procesních úkonů je nutné ověřit tehdy účinné znění a přechodná ustanovení; komentář vykládá stav k 19. červenci 2026.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 137 — schůze do 3 měsíců od rozhodnutí o úpadku (odst. 1); přezkumné jednání do 2 měsíců po uplynutí přihlašovací lhůty, *ne však dříve než 7 dnů* po jejím uplynutí (odst. 2); svolání druhé schůze na den přezkumu, předchází-li první schůze přezkumu (odst. 3).
-- *Související ustanovení téhož zákona:* § 136 odst. 2 písm. d) (lhůta k přihláškám 2 měsíce); § 173 (přihlašování); § 190 a násl. (přezkumné jednání); § 47 (svolávání schůze).
-- *Související předpisy:* § 55 odst. 1 o. s. ř. (počítání lhůt).
-- *Judikatura:* obecně platí, že přezkum pohledávky přihlášené ve lhůtě nelze konat dříve, než uplyne přihlašovací lhůta a zákonné minimum 7 dnů; jinak by byla porušena rovnost věřitelů a možnost správce přihlášky zpracovat.
+### Judikatura
 
-**4. Subsumpce.** Schůze na 20. března je v mezích odst. 1 (do 3 měsíců). Přezkumné jednání na 25. dubna je ovšem před uplynutím přihlašovací lhůty (1. května) — porušuje odst. 2 (přezkum smí být nejdříve 7 dnů *po* uplynutí lhůty, tj. nejdříve 8. května). Současně, protože první schůze předchází přezkumu, měl soud dle odst. 3 svolat druhou schůzi na den (řádně konaného) přezkumu.
-
-**5. Řešení.** Termín přezkumu je nezákonný a přezkum konaný 25. dubna nemůže mít účinky vůči pohledávkám, jejichž přihlašovací lhůta dosud běžela. Soud musí nařídit nový (řádný) termín přezkumného jednání po 8. květnu a na tento den svolat druhou schůzi (odst. 3). Věřitel by měl namítnout vadu termínu a domáhat se opětovného přezkumu; pohledávky přihlášené ve lhůtě nelze pokládat za přezkoumané předčasným jednáním. Procesně: kontrola termínů v rozhodnutí o úpadku ihned po zveřejnění; podání přihlášky bez ohledu na vadný termín.
-
-**6. Varianty.** (a) Jde-li o oddlužení, § 137 se neuplatní (odst. 1 i 2 jsou výslovně „není-li způsobem řešení úpadku oddlužení") — přezkum a zprávy se řídí § 136 odst. 2 písm. f) a § 398a. (b) Existují-li důvody hodné zvláštního zřetele, může soud lhůtu k přezkumu prodloužit (odst. 2 *in fine*) — pozdější termín pak vadou není.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Sedmidenní minimum je jen pořádkové, předčasný přezkum lze zhojit." — Neutralizace: smyslem je dát všem věřitelům dojistit přihlášku a správci je zpracovat; předčasný přezkum porušuje rovnost a možnost přihlásit se ve lhůtě, takže jde o podstatnou procesní vadu.
-- *Protiargument:* „Schůze a přezkum lze libovolně spojit." — Neutralizace: odst. 3 výslovně řeší pořadí — předchází-li schůze přezkumu, svolá se druhá schůze na den přezkumu, protože schůze potřebuje výsledky přezkumu (zjištěné pohledávky pro hlasování).
-- *Slabé místo:* hranice „důvodů hodných zvláštního zřetele" pro prodloužení lhůty (odst. 2) je neurčitá; v oddlužení je úprava § 137 zcela vyloučena, což se v praxi přehlíží.
-
-### H. Praktický závěr
-
-Mimo oddlužení platí pevná časová kostra: schůze do 3 měsíců od úpadku, přezkum do 2 měsíců po konci přihlašovací lhůty, nejdříve však 7 dnů po jejím uplynutí; předchází-li schůze přezkumu, svolá se druhá schůze na den přezkumu. Termíny nastavené v rozporu s odst. 2 jsou vadné a vyžadují nový řádný termín.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověřit, že nejde o oddlužení (jinak § 137 neplatí).
-- [ ] Spočítat konec dvouměsíční přihlašovací lhůty a přičíst minimálně 7 dnů pro přezkum.
-- [ ] Zkontrolovat, že schůze je do 3 měsíců od rozhodnutí o úpadku.
-- [ ] Předchází-li schůze přezkumu, ověřit svolání druhé schůze na den přezkumu (odst. 3).
-- [ ] Případné prodloužení lhůty k přezkumu řádně odůvodnit (důvody zvláštního zřetele).
-
-**Typicky rozhodné důkazy / podklady:** rozhodnutí o úpadku s termíny, datum zveřejnění v rejstříku, výpočet přihlašovací lhůty, protokoly o schůzi a přezkumném jednání, seznam přihlášených pohledávek.
+Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k § 137. Stávající obecné tvrzení o automatické neúčinnosti předčasného přezkumu nebylo doloženo plným textem rozhodnutí a bylo odstraněno. Tím se nevyslovuje závěr o neexistenci relevantní judikatury.
 
 ---
 

@@ -2044,56 +2044,58 @@ Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k př�
 
 ### § 164 — Závaznost rozsudku
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+#### Znění ustanovení
+
 > Pravomocný rozsudek vydaný v incidenčním sporu je závazný pro všechny procesní subjekty.
+>
 
-**Erga omnes** závaznost — všechny subjekty IR jsou *vázány* rozsudkem (i ti, kdo nebyli stranami sporu). To je *zvláštní rys* incidenčních sporů — *odchylka od § 159 OSŘ* (relativní závaznost rozsudku jen mezi stranami).
+#### Přehled výkladu
 
-**Judikatura (z místních zdrojů):**
+§ 164 rozšiřuje subjektivní meze závaznosti pravomocného rozsudku vydaného v incidenčním sporu na všechny procesní subjekty. Zákon tím nečiní rozsudek obecně závazným vůči každému ani mu bez dalšího nepřiznává účinky mimo insolvenční řízení.
 
-- *NS* [29 Cdo 3626/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/94B7034281A78A02C1258C0B0052AE7B?openDocument) — 27. 11. 2024, kat. A
-  > „Pravomocný rozsudek, jímž insolvenční soud určil, že vykonatelná pohledávka přihlášeného věřitele (oprávněného) není po právu, má účinky jen v rámci insolvenčního řízení dlužníka (povinného), konkrétně v tom směru, že nebyla (ani zčásti) uspokojována v insolvenčním řízení. Skutečnost, že insolvenční soud (pravomocně) určil, že vykonatelná pohledávka oprávněného není po právu, není důvodem pro zastavení exekuce k vymožení této pohledávky"
+#### Souvisící ustanovení
 
-### Vazby
+- § 9 — výčet procesních subjektů,
+- § 159 — vymezení incidenčních sporů a pravidla jejich pokračování po skončení insolvenčního řízení,
+- § 160 až 163 — projednání incidenčního sporu a rozhodnutí o něm,
+- § 198 až 201 — spory o pravost, výši nebo pořadí přihlášených pohledávek a účinnost rozhodnutí podle § 201 odst. 4.
 
-- **§ 159 OSŘ** — obecná relativní závaznost (zde *prolomena*).
-- **§ 198** — incidenční spor po popření pohledávky.
+#### Souvisící předpisy
 
-### F. Kazuistika
+- zákon č. 99/1963 Sb., občanský soudní řád, zejména § 159a — závaznost pravomocného rozsudku,
+- zákon č. 294/2013 Sb. — doplnění § 159 odst. 3 až 6 a přechodné ustanovení.
 
-**1. Modelová situace.** Insolvenční správce podal incidenční žalobu (spor o pravost popřené pohledávky věřitele V). Soud o věci rozhodne *rozsudkem*; věřitel V se chce v jiné fázi sporu se správcem dohodnout *smírem*. Popírající věřitel, který spor vyvolal, v jeho průběhu *zanikne* jako účastník insolvenčního řízení. Po pravomocném rozsudku se jiný věřitel W (který nebyl stranou sporu) domnívá, že jím není vázán. Náklady řízení mají být přiznány úspěšné straně. Důkazy: incidenční žaloba a rozsudek, návrh smíru a souhlas věřitelského výboru, doklad o zániku popírajícího věřitele, vyúčtování nákladů.
+#### Z důvodové zprávy
 
-**2. Právní otázka.** Jaká je forma rozhodnutí v incidenčním sporu, jak se řeší smír a náklady, co se stane při zániku popírajícího věřitele a jaký je rozsah závaznosti pravomocného rozsudku?
+Zvláštní část důvodové zprávy k původnímu vládnímu návrhu insolvenčního zákona pojednává § 159 až 164 společně. Zařazení incidenčních sporů do rámce insolvenčního řízení odůvodňuje hospodárností, rychlostí a významem jejich výsledku pro další průběh insolvenčního řízení. Samostatný výklad subjektivních mezí závaznosti podle § 164 nepodává. Jde o historickou interpretační pomůcku; rozhodující je aktuální znění zákona.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 160–164 — povaha žaloby a projednání incidenčního sporu insolvenčním soudem, odmítnutí/zastavení (§ 160); vlastní jednání a *pokračování jen na návrh správce* při zániku popírajícího věřitele (§ 161 odst. 2); *forma rozhodnutí* — ve věci samé rozsudek, smír usnesením, *souhlas věřitelského výboru* se smírem správce (§ 162); *náklady* dle o. s. ř. a jejich *zvláštní status* mimo § 170 písm. f) (§ 163); *závaznost rozsudku pro všechny procesní subjekty* — erga omnes (§ 164).
-- *Související ustanovení téhož zákona:* § 159 (katalog a osud IS), § 192–198 (popírání pohledávek), § 17 a násl. (věřitelský výbor), § 170 (neuspokojované pohledávky).
-- *Související předpisy:* § 79, § 99, § 142 a násl., § 159a o. s. ř. (žaloba, smír, náklady, subjektivní meze právní moci — zde *prolomeny*).
-- *Judikatura:* NS 29 Cdo 3626/2023 — pravomocný rozsudek o tom, že vykonatelná pohledávka není po právu, má účinky *jen v rámci insolvenčního řízení* dlužníka (nebrání exekuci mimo ně).
+Novelizaci § 159 odst. 3 až 6 vysvětluje důvodová zpráva k zákonu č. 294/2013 Sb. potřebou výslovně upravit, zda a za jakých podmínek mohou incidenční spory trvat po skončení insolvenčního řízení.
 
-**4. Subsumpce.** Ve věci samé soud rozhoduje *rozsudkem* (§ 162 odst. 1), na rozdíl od jiných rozhodnutí v insolvenci (usnesení); smír se schvaluje usnesením, přičemž smír uzavřený správcem vyžaduje *souhlas věřitelského výboru* (§ 162 odst. 2). Zánikem popírajícího věřitele se ve sporu o pravost/výši/pořadí pokračuje *jen na návrh správce* v určené lhůtě, jinak soud zastaví (§ 161 odst. 2). Pravomocný rozsudek je *závazný pro všechny procesní subjekty* (§ 164) — i pro věřitele W, který nebyl stranou (prolomení § 159a o. s. ř.). Náklady se přiznávají dle o. s. ř. a mají zvláštní status (§ 163).
+#### Literatura
 
-**5. Řešení.** Soud rozhodne rozsudkem (erga omnes závazným dle § 164); smír se správcem schválí jen se souhlasem věřitelského výboru (§ 162 odst. 2). Zanikne-li popírající věřitel, vyzve soud správce k návrhu na pokračování; bez něj spor zastaví (§ 161 odst. 2). Náklady přizná úspěšné straně dle o. s. ř., přičemž náhrada nákladů IS je zvláštní pohledávkou nepodléhající vyloučení dle § 170 písm. f) (§ 163). Rozsudek o popření vykonatelné pohledávky působí *jen v insolvenci* a nebrání exekuci mimo ni (NS 29 Cdo 3626/2023). Procesně: doložit souhlas výboru se smírem, hlídat lhůtu k návrhu správce, uplatnit náklady.
+Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; její zpracování je odloženo do druhého kola. Nejde o závěr negativní rešerše.
 
-**6. Varianty.** (a) Kdyby správce uzavřel smír *bez souhlasu* věřitelského výboru, smír by nebylo možné schválit (§ 162 odst. 2). (b) Kdyby šlo o rozhodnutí, které není rozhodnutím ve věci samé (procesní), mělo by formu *usnesení*, nikoli rozsudku.
+#### Výklad
 
-### G. Protiargumenty a rizika
+[1] **Předpoklady použití.** Závaznost podle § 164 náleží pravomocnému rozsudku vydanému v incidenčním sporu. Ustanovení se podle svého textu nevztahuje na nepravomocný rozsudek ani obecně na každé rozhodnutí vydané v insolvenčním řízení.
 
-- *Protiargument:* „Rozsudek v incidenčním sporu váže jen strany sporu (§ 159a o. s. ř.)." — Neutralizace: § 164 *prolomuje* relativní závaznost — pravomocný rozsudek v IS je závazný pro *všechny* procesní subjekty insolvenčního řízení.
-- *Protiargument:* „Správce může uzavřít smír samostatně." — Neutralizace: § 162 odst. 2 vyžaduje k smíru správce *souhlas věřitelského výboru*.
-- *Slabé místo:* rozsah „erga omnes" závaznosti je omezen na *insolvenční* řízení (rozsudek o popřené vykonatelné pohledávce nebrání exekuci mimo ně — NS 29 Cdo 3626/2023); při zániku popírajícího věřitele hrozí zastavení sporu, nepodá-li správce včas návrh na pokračování.
+[2] **Okruh vázaných osob.** Zákon používá přesnou kategorii „všechny procesní subjekty“. Jejich základní výčet obsahuje § 9 IZ. Okruh vázaných osob je proto širší než jen účastníci konkrétního incidenčního sporu, nelze jej však bez dalšího popsat jako závaznost vůči každému.
 
-### H. Praktický závěr
+[3] **Vztah k občanskému soudnímu řádu.** § 159a odst. 1 o. s. ř. vychází u běžného rozsudku ze závaznosti výroku pro účastníky řízení, nestanoví-li zákon jinak. § 164 IZ je takovým zvláštním zákonným pravidlem: pro incidenční rozsudek rozšiřuje závaznost na všechny procesní subjekty.
 
-Procesní úprava incidenčních sporů (§ 160–164) je zvláštní: ve věci samé se rozhoduje *rozsudkem* (jiná rozhodnutí jsou usnesení), smír správce vyžaduje souhlas věřitelského výboru, náklady se řídí o. s. ř. a mají zvláštní status, a pravomocný rozsudek je *závazný pro všechny procesní subjekty* (erga omnes — prolomení § 159a o. s. ř.), byť s účinky omezenými na insolvenční řízení. Při zániku popírajícího věřitele lze pokračovat jen na návrh správce.
+[4] **Předmět závaznosti.** Závazný je výrok pravomocného rozsudku. Odůvodnění vysvětluje jeho důvody, samo však nepředstavuje další výrok. V konkrétní věci je proto nutné nejprve přesně určit obsah výroku a druh incidenčního sporu.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Rozhodovat ve věci samé *rozsudkem*; procesní otázky a smír *usnesením*.
-- [ ] Smír uzavřený správcem schválit jen se souhlasem věřitelského výboru (§ 162 odst. 2).
-- [ ] Při zániku popírajícího věřitele vyzvat správce k návrhu na pokračování a jinak spor zastavit (§ 161 odst. 2).
-- [ ] Náklady přiznat dle o. s. ř.; zohlednit jejich zvláštní status mimo § 170 písm. f) (§ 163).
-- [ ] Respektovat erga omnes závaznost rozsudku (§ 164) s vědomím účinků omezených na insolvenci (NS 29 Cdo 3626/2023).
+[5] **Vnitřní a vnější účinky.** § 164 upravuje závaznost pro procesní subjekty, nikoli obecné odstranění právních účinků titulu nebo právního vztahu mimo insolvenční řízení. Rozsah vnějších účinků je nutno posoudit podle druhu sporu, výroku a dalších použitelných ustanovení; ze samotného § 164 jej nelze dovodit.
 
-**Typicky rozhodné důkazy / podklady:** incidenční žaloba a rozsudek (popř. usnesení o schválení smíru), souhlas věřitelského výboru se smírem, doklad o zániku popírajícího věřitele a návrh správce na pokračování, vyúčtování nákladů řízení.
+[6] **Spory o přihlášené pohledávky.** U rozhodnutí o pravosti, výši nebo pořadí přihlášené pohledávky obsahuje § 201 odst. 4 souběžné zvláštní pravidlo, podle něhož je takové rozhodnutí účinné vůči všem procesním subjektům. Tato úprava potvrzuje vnitroinsolvenční význam výsledku sporu, sama však nerozšiřuje účinky mimo insolvenční řízení.
+
+[7] **Intertemporalita.** § 159 odst. 3 až 6 doplnil zákon č. 294/2013 Sb. s účinností od 1. 1. 2014. Podle jeho přechodného ustanovení se novelizovaný insolvenční zákon obecně použije i na řízení zahájená před tímto dnem, právní účinky úkonů nastalé před účinností však zůstávají zachovány. U staršího rozsudku je proto nutné určit rozhodné znění, okamžik relevantních úkonů a způsob skončení řízení; aktuální pravidla pokračování nelze použít bez této kontroly.
+
+#### Judikatura
+
+Do uzavřeného pramenného ledgeru nebylo zařazeno žádné rozhodnutí. Kandidátní usnesení Nejvyššího soudu sp. zn. 29 Cdo 3626/2023 se týká vnějších účinků výsledku sporu o vykonatelnou přihlášenou pohledávku, jeho fyzický plný text z oficiálního webu se však v pracovním prostředí nepodařilo uložit. Proto není citováno jako nosná autorita ani jako zdroj materiálního tvrzení. Nejde o závěr negativní rešerše.
 
 ---
 

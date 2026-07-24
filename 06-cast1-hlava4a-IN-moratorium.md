@@ -1951,65 +1951,101 @@ Do tohoto vydání nebylo zařazeno žádné rozhodnutí. Komentář proto nesta
 
 ## § 127a — Mimořádné moratorium („covid moratorium")
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) V době do 30. června 2021 může dlužník, který je podnikatelem a který nebyl k 5. říjnu 2020 v úpadku, podat u insolvenčního soudu před zahájením insolvenčního řízení, případně po jeho zahájení k návrhu jiné osoby, návrh na mimořádné moratorium. Jde-li o návrh na mimořádné moratorium podaný po zahájení insolvenčního řízení na návrh jiné osoby, musí být podán do 15 dnů od doručení insolvenčního návrhu dlužníku insolvenčním soudem. Není-li dále stanoveno jinak, platí pro řízení o tomto návrhu a pro účinky mimořádného moratoria § 117 až 124, § 126 odst. 1, 3 a 4 a § 127. Ustanovení § 118 odst. 1, § 119 odst. 2, § 120 odst. 2 a § 122 odst. 1 a 3 se nepoužijí.
 >
-> *[Plné znění § 127a obsahuje 13 odstavců upravujících obsahové náležitosti návrhu (čestná prohlášení o důsledcích COVID-19), vyhlášení, účinky, prodloužení, skončení a odpovědnost. Pro celé znění viz https://www.zakonyprolidi.cz/cs/2006-182/zneni-20250215.htm — § 127a. Institut byl uplatnitelný pouze v období do 30. 6. 2021 jako COVID-19 nouzový institut a v současnosti má již jen historický význam.]*
+> (2) Návrh na mimořádné moratorium musí kromě obecných náležitostí podání obsahovat:
+>
+> a) okolnosti, na nichž se zakládá místní příslušnost insolvenčního soudu ve smyslu § 7b,
+>
+> b) prohlášení o tom, že dlužníkovo středisko hlavních zájmů je v České republice, případně jiné okolnosti, na nichž se zakládá mezinárodní příslušnost insolvenčního soudu,
+>
+> c) počet dlužníkových zaměstnanců v pracovním poměru k datu podání návrhu,
+>
+> d) výši dlužníkova obratu za poslední účetní období,
+>
+> e) čestné prohlášení dlužníka, že
+>
+> 1. mimořádné moratorium je navrhováno v důsledku mimořádných opatření při epidemii ve smyslu § 1 zákona o některých opatřeních ke zmírnění dopadů epidemie koronaviru SARS CoV-2 na osoby účastnící se soudního řízení, poškozené, oběti trestných činů a právnické osoby, případně dalších opatření přijatých Českou republikou v reakci na rozšíření onemocnění COVID-19 způsobeného novým koronavirem SARS CoV-2,
+>
+> 2. k 5. říjnu 2020 nebyl v úpadku a že všechny v návrhu obsažené údaje jsou pravdivé a
+>
+> 3. v průběhu dvou měsíců před 12. březnem 2020 ani poté nevyplatil členům, společníkům nebo akcionářům nebo osobám jimi ovládaným nebo je ovládajícím nebo členům orgánu mimořádné podíly na zisku, ani mezi ně jinak nerozdělil vlastní zdroje a ani jim neposkytl jiné mimořádné plnění včetně předčasného splácení úvěrů či zápůjček, nebo že bylo veškeré takto poskytnuté plnění vráceno.
+>
+> (3) Insolvenční soud vyhlásí mimořádné moratorium, jestliže návrh na mimořádné moratorium obsahuje předepsané náležitosti a nebylo-li dosud rozhodnuto o insolvenčním návrhu ani dříve vyhlášeno mimořádné moratorium; jinak návrh na mimořádné moratorium odmítne. V rozhodnutí, kterým se mimořádné moratorium vyhlašuje, insolvenční soud vždy uvede, že se jedná o mimořádné moratorium.
+>
+> (4) Se zveřejněním rozhodnutí o vyhlášení mimořádného moratoria v insolvenčním rejstříku se spojují účinky podle § 109 odst. 1 písm. b) a c), odst. 2 a 6 a § 111. Ustanovení § 112 a 113 se použijí obdobně. V době po podání návrhu na mimořádné moratorium je dlužník povinen vyvinout veškeré úsilí, které lze po něm spravedlivě požadovat, aby věřitelé byli uspokojeni v co nejvyšší míře, a společnému zájmu věřitelů je povinen dát přednost před zájmy vlastními i před zájmy jiných osob.
+>
+> (5) Po dobu trvání mimořádného moratoria nebrání dlužníkovi ustanovení § 111 v tom, aby využil veřejné podpory poskytované podnikatelům ke zmírnění dopadů onemocnění COVID-19 způsobeného novým koronavirem SARS CoV-2.
+>
+> (6) Závazky bezprostředně související se zachováním provozu podniku vzniklé po vyhlášení mimořádného moratoria je dlužník po dobu jeho trvání oprávněn hradit přednostně před dříve splatnými závazky. Osoby, které nejsou podle § 122 odst. 2 oprávněny ukončit smlouvy s dlužníkem výpovědí nebo odstoupením, nejsou po dobu trvání mimořádného moratoria oprávněny odepřít plnění nebo pokračování takových smluv ani na základě jiného důvodu, ledaže jde o odepření nového čerpání úvěru či jiného peněžního plnění v důsledku případu porušení podmínky pro jeho poskytnutí, který nastal již před vyhlášením mimořádného moratoria.
+>
+> (7) Lhůty k uplatnění práv vůči dlužníku po dobu trvání mimořádného moratoria nezačínají nebo dále neběží.
+>
+> (8) Insolvenční soud může na návrh dlužníka prodloužit mimořádné moratorium nejdéle o 3 měsíce, jestliže dlužník k takovému návrhu připojí seznam svých závazků, o kterém čestně prohlásí, že je k datu podání návrhu úplný a správný, a písemné prohlášení většiny jeho věřitelů, počítané podle výše jejich pohledávek, že s prodloužením mimořádného moratoria souhlasí. Není-li prohlášení věřitele doručeno insolvenčnímu soudu v elektronické podobě podepsané uznávaným elektronickým podpisem věřitele nebo odesláno z datové schránky věřitele, musí být podpis věřitele na tomto prohlášení úředně ověřen. Ustanovení § 53 se nepoužije. Souhlas věřitelů s prodloužením mimořádného moratoria podle věty první se nevyžaduje, podal-li dlužník návrh na mimořádné moratorium do 31. srpna 2020.
+>
+> (9) Před zánikem mimořádného moratoria podle § 126 odst. 4 insolvenční soud zruší mimořádné moratorium i postupem podle § 124 odst. 2 písm. b), odst. 3 a 4. Ustanovení § 124 odst. 5 se nepoužije. Ustanovení § 124 odst. 2 písm. a) se použije pouze v případě, že mimořádné moratorium bylo prodlouženo podle odstavce 8.
+>
+> (10) Mimořádné moratorium skončí i tím, že insolvenční soud na dlužníkův návrh rozhodne o jeho skončení nebo vyhlásí moratorium podle § 115. Skončí-li mimořádné moratorium uplynutím doby, na kterou bylo vyhlášeno, nebo rozhodnutím insolvenčního soudu na dlužníkův návrh, vyškrtne insolvenční soud dlužníka neprodleně ze seznamu dlužníků a údaje o něm v insolvenčním rejstříku znepřístupní.
+>
+> (11) Odpovědnost a ručení podle § 127 se vztahuje i na škodu nebo jinou újmu vzniklou nepravdivým prohlášením ohledně skutečností uvedených v odstavci 2 písm. e) a ohledně seznamu závazků předloženého podle odstavce 8.
+>
+> (12) Není-li v tomto paragrafu stanoveno jinak, všude tam, kde tento zákon používá označení moratorium, rozumí se tím i mimořádné moratorium.
+>
+> (13) Ministerstvo spravedlnosti uveřejní elektronický formulář návrhu na mimořádné moratorium způsobem umožňujícím dálkový přístup.
+>
+
+### Přehled výkladu
+
+> **Historický a intertemporální status:** § 127a zůstává součástí konsolidovaného znění, avšak nový návrh mohl být podle odstavce 1 podán jen do 30. června 2021. K rozhodnému dni 19. července 2026 proto nejde o otevřený vstup do ochranného režimu. Pro posouzení návrhu podaného v minulosti je nutno vycházet ze znění účinného v době podání.
+
+Mimořádné moratorium bylo zvláštním, časově omezeným režimem pro podnikatele zasažené opatřeními souvisejícími s COVID-19. Prvotní vyhlášení nebylo podmíněno předložením souhlasu většiny věřitelů, ale návrh musel obsahovat zákonem určené údaje a čestná prohlášení. Úprava spojovala ochranné účinky s povinností dlužníka upřednostnit společný zájem věřitelů a s odpovědností za nepravdivá prohlášení.
+
+### Souvisící ustanovení
+
+- § 7b — místní příslušnost insolvenčního soudu.
+- § 53, § 109 odst. 1 písm. b) a c), odst. 2 a 6, § 111 až 113 — hlasování a účinky spojené s vyhlášením mimořádného moratoria.
+- § 115 až 127 — obecná úprava moratoria, její použití, odchylky, zrušení, skončení a odpovědnost.
+- § 168 odst. 1 písm. e) a § 241 odst. 5 písm. c) — postavení úvěrového financování a plnění poskytovaného za trvání moratoria.
+
+### Souvisící předpisy
+
+- Zákon č. 191/2020 Sb. — vložil § 127a jako součást mimořádných opatření ke zmírnění dopadů epidemie.
+- Zákon č. 460/2020 Sb. — změnil § 127a v obnoveném podzimním režimu; dnešní konsolidované znění proto nelze bez dalšího přenášet na návrhy podané podle původního jarního znění.
+- Nařízení Evropského parlamentu a Rady (EU) 2015/848 — relevantní pro otázku mezinárodní příslušnosti; samotný § 127a odst. 2 písm. b) vyžadoval prohlášení o středisku hlavních zájmů nebo jiné okolnosti zakládající mezinárodní příslušnost.
+
+### Z důvodové zprávy
+
+Vládní návrh, sněmovní tisk 807/0, vyložil mimořádné moratorium jako dočasný preventivní nástroj pro jinak konkurenceschopné podniky postižené náhlým výpadkem likvidity. Rychlost měla zajistit absence předběžného většinového souhlasu věřitelů a převážně formální kontrola návrhu; ochranu věřitelů měly zajišťovat povinnosti dlužníka, možnost soudního zásahu a odpovědnost za nepravdivá prohlášení. Tento legislativní záměr se vztahuje k původnímu návrhu § 23; jeho tehdejší data a pravidla nelze zaměňovat s pozdějším zněním po zákonu č. 460/2020 Sb. (zvláštní část, „K § 23“, PDF s. 40–43, číslované s. 42–45).
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Nejde o závěr, že k ustanovení literatura neexistuje.
 
 ### Výklad
 
-**Historický institut** — *reakce na pandemii COVID-19*. Aktivován novelou č. 191/2020 Sb. (Lex Covid Justice), prodloužen.
+[1] **Uzavřený časový vstup.** Rozhodující je první věta odstavce 1: návrh bylo možné podat nejpozději 30. června 2021. Samotná přítomnost § 127a v konsolidovaném zákoně proto k podání nového návrhu po tomto datu nestačí.
 
-#### Specifika oproti standardnímu moratoriu
+[2] **Oprávněný navrhovatel a procesní okamžik.** Návrh mohl podat jen dlužník-podnikatel, a to před zahájením insolvenčního řízení nebo po jeho zahájení na návrh jiné osoby. Ve druhém případě platila zvláštní patnáctidenní lhůta od doručení insolvenčního návrhu dlužníku.
 
-- *jen* pro dlužníky-podnikatele *nebyli v úpadku k 5. 10. 2020*,
-- **bez nutnosti souhlasu většiny věřitelů**,
-- účinky: § 109 odst. 1 písm. b), c), odst. 2, 6 + § 111,
-- *zákaz odepření plnění* protistranami (analogicky § 122 odst. 2),
-- *prodloužení o 3 měsíce* na souhlas většiny věřitelů,
-- *použít lze veřejnou podporu pro COVID-19* bez ohledu na § 111.
+[3] **Vstupní podmínky.** Konsolidované znění váže režim na neúpadek k 5. říjnu 2020. Návrh musel vedle obecných náležitostí obsahovat údaje o příslušnosti, středisku hlavních zájmů, zaměstnancích a obratu a tři okruhy čestných prohlášení. Nešlo tedy o ochranu dostupnou bez konkrétních skutkových tvrzení a odpovědnosti za jejich pravdivost.
 
-> **Aktuálnost k 1. 1. 2026**: institut již **fakticky vyčerpán** — lhůta pro podání skončila 30. 6. 2021. Paragraf zůstává v zákoně z důvodů eventuálních doběhlých řízení a pro případ obdobné krizové situace.
+[4] **Rozhodnutí soudu.** Podle odstavce 3 soud při prvotním rozhodnutí zkoumal předepsané náležitosti, stav rozhodnutí o insolvenčním návrhu a to, zda již mimořádné moratorium nebylo vyhlášeno. Splnění zákonných podmínek vedlo k vyhlášení; jinak k odmítnutí návrhu.
 
-### Vazby
+[5] **Účinky a povinnosti.** Zveřejněním rozhodnutí nastávaly vyjmenované účinky § 109 a § 111; § 112 a 113 se používaly obdobně. Dlužník současně musel usilovat o co nejvyšší uspokojení věřitelů a upřednostnit jejich společný zájem. Zvláštní pravidla dovolovala čerpat veřejnou podporu, přednostně hradit nové provozní závazky a chránila pokračování vybraných smluv; lhůty k uplatnění práv vůči dlužníku neběžely.
 
-- **Zákon č. 191/2020 Sb. (Lex Covid Justice)**.
+[6] **Prodloužení nebylo bezpodmínečné.** Obecným pravidlem odstavce 8 bylo prodloužení nejvýše o tři měsíce se seznamem závazků a souhlasem většiny věřitelů počítané podle výše pohledávek. Výjimka zbavovala povinnosti předložit souhlas ty dlužníky, kteří podali původní návrh do 31. srpna 2020. Nelze proto bez časového rozlišení tvrdit, že souhlas věřitelů nebyl pro prodloužení nikdy potřebný.
 
-### F. Kazuistika
+[7] **Skončení a odpovědnost.** Mimořádné moratorium mohlo zaniknout nebo být zrušeno podle převzatých pravidel, skončit na návrh dlužníka nebo vyhlášením standardního moratoria. Odpovědnost a ručení podle § 127 se rozšířily na újmu způsobenou nepravdivými prohlášeními a nepravdivostí seznamu závazků.
 
-**1. Modelová situace.** Dlužník-podnikatel se v roce 2024 ocitne v platebních potížích a uvažuje, zda využít „mimořádné (covid) moratorium" podle § 127a, protože četl, že nevyžaduje souhlas většiny věřitelů. Druhý scénář (historický): v dubnu 2021 dlužník, který nebyl k 5. 10. 2020 v úpadku, podává návrh na mimořádné moratorium. Důkazy: doklad o tom, kdy nastal úpadek dlužníka, datum podání návrhu, čestná prohlášení o dopadech COVID-19.
+[8] **Intertemporální výhrada.** Původní úprava vložená zákonem č. 191/2020 Sb. pracovala s termínem 31. srpna 2020 a referenčním datem 12. března 2020. Konsolidované znění po zákonu č. 460/2020 Sb. používá termín 30. června 2021 a datum 5. října 2020 a obsahuje i výjimku pro starší návrhy. U historické věci je proto nezbytné nejprve určit datum podání a tehdy účinné znění.
 
-**2. Právní otázka.** Lze § 127a (mimořádné moratorium) využít v současnosti a čím se liší od standardního moratoria?
+### Judikatura
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 127a odst. 1 (mimořádné moratorium v době **do 30. června 2021** pro dlužníka-podnikatele, který nebyl k 5. 10. 2020 v úpadku; lhůta 15 dnů u návrhu po zahájení IR jiné osoby; přiměřené použití § 117–§ 124, § 126 odst. 1, 3, 4 a § 127; vyloučení § 118 odst. 1, § 119 odst. 2, § 120 odst. 2 a § 122 odst. 1 a 3) a navazující odstavce (čestná prohlášení, vyhlášení, účinky, prodloužení, skončení, odpovědnost).
-- *Související ustanovení téhož zákona:* § 115–§ 127 (standardní moratorium), § 116 odst. 2 (souhlas většiny věřitelů — u mimořádného moratoria se nevyžaduje).
-- *Související předpisy:* zákon č. 191/2020 Sb. (Lex Covid Justice).
-- *Judikatura:* k mimořádnému moratoriu chybí v komentáři citovaná judikatura; nosně plyne z textu § 127a a jeho časového omezení.
-
-**4. Subsumpce.** Znak „v době do 30. června 2021" — v roce 2024/2026 **nenaplněn**; lhůta pro podání návrhu na mimořádné moratorium uplynula. Znak „nebyl k 5. 10. 2020 v úpadku" a čestná prohlášení o dopadech COVID-19 měly význam jen v rozhodném období. Institut je proto fakticky vyčerpán.
-
-**5. Řešení.** Mimořádné moratorium podle § 127a **nelze v současnosti využít** — má již jen historický význam (lhůta skončila 30. 6. 2021); paragraf zůstává v zákoně pro případné doběhlé situace. Dlužník v roce 2024/2026 má k dispozici **standardní moratorium** (§ 115 a násl.) nebo **preventivní restrukturalizaci** podle ZPR. V historickém scénáři (duben 2021) byl institut využitelný bez souhlasu většiny věřitelů, s účinky § 109 odst. 1 písm. b), c), odst. 2, 6 a § 111 a se zákazem odepření plnění protistranami.
-
-**6. Varianty.** (a) Návrh v rozhodném období (do 30. 6. 2021) dlužníkem, který nebyl v úpadku k 5. 10. 2020 — institut využitelný, s prodloužením o 3 měsíce na souhlas většiny věřitelů. (b) Současný dlužník — místo § 127a využije standardní moratorium nebo preventivní restrukturalizaci.
-
-### G. Protiargumenty a rizika
-
-- *„§ 127a lze využít, protože je stále v zákoně."* Neobstojí — institut je časově omezen na podání do 30. 6. 2021; jeho ponechání v textu má jen ošetřit doběhlé případy. Neutralizace: pro aktuální potřebu zvolit § 115 a násl. nebo ZPR.
-- *„Mimořádné moratorium nevyžaduje nic navíc."* Nepřesné — vyžadovalo čestná prohlášení o dopadech COVID-19 a splnění podmínky neúpadku k 5. 10. 2020; výhodou byla absence souhlasu většiny věřitelů. Neutralizace: porozumět specifikům oproti standardnímu moratoriu.
-- Slabé místo: ustanovení je historické a jeho aplikace na současné poměry by byla nesprávná; pro plné znění (13 odstavců) je nutné nahlédnout do textu zákona.
-
-### H. Praktický závěr
-
-Mimořádné (covid) moratorium podle § 127a bylo nouzovým institutem využitelným pouze do 30. 6. 2021 (bez souhlasu většiny věřitelů, pro dlužníky, kteří nebyli k 5. 10. 2020 v úpadku); dnes má jen historický význam. Aktuálně je namístě standardní moratorium (§ 115 a násl.) nebo preventivní restrukturalizace podle ZPR.
-
-**Checklist (dlužník / advokát / soud):**
-- [ ] Spadá situace do rozhodného období (návrh do 30. 6. 2021)? Pokud ne — § 127a nelze použít.
-- [ ] Nebyl dlužník k 5. 10. 2020 v úpadku (podmínka historické aplikace)?
-- [ ] Byla doložena čestná prohlášení o dopadech COVID-19?
-- [ ] Pro aktuální potřebu zvoleno standardní moratorium nebo ZPR?
-- [ ] Ověřeno plné znění § 127a v zákoně (13 odstavců) u doběhlých případů?
-
-**Typicky rozhodné důkazy / podklady:** doklad o (ne)úpadku k 5. 10. 2020, datum podání návrhu (vůči lhůtě 30. 6. 2021), čestná prohlášení o dopadech pandemie, podklady o aktuální alternativě (standardní moratorium / preventivní restrukturalizace).
+Do této revize nebylo zařazeno žádné rozhodnutí jako přímá autorita k § 127a. Oficiální vyhledávání neposkytlo rozhodnutí, jehož plný text by po ověření soudu, data, spisové značky, skutkového a procesního kontextu a nosného závěru odůvodňoval materiální výklad nad rámec zákona. Tím se nevyslovuje negativní závěr o existenci judikatury ani o použitelnosti judikatury k obecnému moratoriu na jednotlivé dílčí otázky.
 
 ---
 

@@ -2059,58 +2059,60 @@ Do této revize nebylo zařazeno žádné rozhodnutí jako přímá autorita k �
 > (3) Insolvenční soud může rozhodnout, aby mu seznamy uvedené v § 104 odst. 1 a případně též výkaz stavu likvidity a výhled vývoje likvidity předložil i dlužník, který není insolvenčním navrhovatelem; má-li insolvenční navrhovatel vůči dlužníku vykonatelnou pohledávku, uloží insolvenční soud tuto povinnost dlužníku vždy. Seznam majetku, výkaz stavu likvidity a výhled vývoje likvidity zveřejní v takovém případě v insolvenčním rejstříku až po rozhodnutí o úpadku.
 > (4) Osobou oprávněnou k podání odvolání proti rozhodnutí podle odstavce 1 je insolvenční navrhovatel. Proti rozhodnutí podle odstavce 3 není odvolání přípustné.
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+Znění výše odpovídá oficiálnímu znění účinnému od 1. 1. 2026.
+
+### Přehled výkladu
+
+Ustanovení rozlišuje vady samotného insolvenčního návrhu, vady jeho zákonem požadovaných příloh a informační povinnost dlužníka, který návrh nepodal. Vadu návrhu, pro niž nelze pokračovat, soud řeší odmítnutím bez postupu podle § 43 o. s. ř.; u chybějící nebo vadné přílohy nejprve stanoví lhůtu k doplnění. Zvláštní pravidla platí pro návrh podaný za dlužníka osobou podle § 390a odst. 1, pro povinný dlužnický návrh podle § 98 odst. 1 a pro seznamy či výkazy vyžádané od nenavrhujícího dlužníka.
+
+### Souvisící ustanovení
+
+- **§ 3 odst. 2 písm. d)** — domněnka platební neschopnosti při nesplnění povinnosti předložit seznamy uložené insolvenčním soudem.
+- **§ 7** — přiměřené použití občanského soudního řádu jen tehdy, nestanoví-li insolvenční zákon jinak.
+- **§ 98 odst. 1** — povinnost dlužníka podat insolvenční návrh; na tento návrh míří výjimka z nejvýše sedmidenní lhůty v odstavci 2.
+- **§ 103 a 104** — náležitosti insolvenčního návrhu a jeho přílohy.
+- **§ 128a** — odlišný režim odmítnutí zjevně bezdůvodného věřitelského návrhu.
+- **§ 390a odst. 1** — osoby oprávněné sepsat a za dlužníka podat návrh na povolení oddlužení a insolvenční návrh.
+
+### Souvisící předpisy
+
+- **Zákon č. 99/1963 Sb., občanský soudní řád, § 43** — obecně upravuje výzvu k opravě nebo doplnění vadného podání; § 128 odst. 1 jeho použití pro popsané vady insolvenčního návrhu výslovně vylučuje.
+
+### Z důvodové zprávy
+
+Původní vládní návrh odůvodnil vyloučení § 43 o. s. ř. závažností zásahu, který zahájení insolvenčního řízení představuje pro dlužníka, a potřebou rychle omezit újmu způsobenou neprojednatelným návrhem. Současně zdůraznil význam zákonem předepsaných příloh. Jde o historické vysvětlení původní úpravy; dnešní odstavce 2 až 4 je nutno vykládat podle aktuálního znění. (Sněmovní tisk 1120/0, zvláštní část, K § 128, číslovaná s. 189, PDF s. 190.)
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola; tato poznámka není výsledkem negativní rešerše.
+
 ### Výklad
 
-**Dvojí režim vad:**
+[1] **Vada návrhu.** Odstavec 1 dopadá na návrh, který postrádá náležitost, je nesrozumitelný nebo neurčitý, avšak jen tehdy, jestliže pro daný nedostatek nelze v řízení pokračovat. Zákon soudu ukládá návrh odmítnout neprodleně, nejpozději do sedmi dnů od podání, a výslovně vylučuje výzvu podle § 43 o. s. ř.
 
-**A) Vady samotného návrhu** (odst. 1) — neobsahuje náležitosti / nesrozumitelný / neurčitý → **přímo odmítnutí** *bez výzvy* (§ 43 OSŘ se *nepoužije*). Lhůta soudu: 7 dnů.
+[2] **Meze přímého odmítnutí.** Samotná existence jakékoli nepřesnosti nestačí: zákonným kritériem je nemožnost pokračovat v řízení. Při volbě postupu je proto nutno přesně lokalizovat nedostatek v návrhu a odlišit jej od chybějícího důkazu nebo od vady přílohy.
 
-**B) Vady příloh** (odst. 2) — výzva k doplnění **v 7denní lhůtě** (kromě dlužníka-podnikatele, kde lhůta může být i delší). Nedoplnění → odmítnutí.
+[3] **Vada přílohy.** Chybí-li zákonem požadovaná příloha nebo její stanovená náležitost, odstavec 2 před odmítnutím vyžaduje lhůtu k doplnění. Lhůta nesmí být delší než sedm dnů; zákonná výjimka se vztahuje na insolvenční návrh podle § 98 odst. 1, nikoli obecně na každého dlužníka-podnikatele. Marné uplynutí stanovené lhůty vede k odmítnutí návrhu.
 
-> **Zásadní rozdíl od OSŘ** — vady návrhu nelze opravovat. Pouze přílohy.
+[4] **Podání za dlužníka podle § 390a.** Podala-li návrh za dlužníka osoba podle § 390a odst. 1, soud vyzve usnesením tuto osobu a usnesení doručí také dlužníku. Lhůta nezačne běžet dříve, než je usnesení doručeno oběma.
 
-**Možnost soudu vyžadovat seznamy od dlužníka** (odst. 3) — i když není navrhovatel. *Obligatorně* uloží, pokud má navrhovatel vykonatelnou pohledávku. Cíl: získat informace o úpadku z primárního zdroje.
+[5] **Nenavrhující dlužník.** Podle odstavce 3 může soud uložit dlužníku, který návrh nepodal, aby předložil seznamy podle § 104 odst. 1 a případně výkaz stavu likvidity a výhled vývoje likvidity. Má-li navrhovatel vůči dlužníku vykonatelnou pohledávku, soud tuto povinnost uloží vždy.
 
-### Vazby
+[6] **Odložené zveřejnění.** U seznamu majetku, výkazu stavu likvidity a výhledu vývoje likvidity předložených nenavrhujícím dlužníkem zákon odkládá zveřejnění v insolvenčním rejstříku až po rozhodnutí o úpadku. Toto pravidlo nelze bez dalšího rozšířit na všechny seznamy uvedené v § 104 odst. 1.
 
-- **§ 128a** — odmítnutí pro zjevnou bezdůvodnost.
+[7] **Odvolání.** Proti odmítnutí podle odstavce 1 je k odvolání oprávněn insolvenční navrhovatel. Proti rozhodnutí podle odstavce 3 odvolání přípustné není. Odstavec 4 tím neupravuje obecně všechny opravné prostředky proti každému rozhodnutí souvisejícímu s vadami návrhu.
 
-### F. Kazuistika
+[8] **Intertemporalita.** Pro procesní postup je rozhodné znění účinné v době, kdy soud příslušný úkon činí, s přihlédnutím k přechodným ustanovením konkrétní novely. Starší judikaturu lze převzít jen v rozsahu, v němž její nosný závěr odpovídá nynějšímu textu.
 
-**1. Modelová situace.** Věřitel CHÍ-X s. r. o. podá insolvenční návrh, který je nesrozumitelný — z petitu není patrné, čeho se domáhá, a chybí vylíčení rozhodujících skutečností; pokračovat v řízení pro tyto nedostatky nelze. V jiné věci dlužník-podnikatel podá vlastní návrh, k němuž ovšem nepřipojí kompletní seznamy (přílohy). Důkazy: text návrhu a jeho srozumitelnost, výčet připojených/chybějících příloh, doklad o tom, zda jde o návrh dle § 98 odst. 1.
+### Judikatura
 
-**2. Právní otázka.** Kdy soud návrh **odmítne bez výzvy** (vada návrhu) a kdy naopak **vyzve k doplnění** (vada příloh), a jaké lhůty platí?
+**NS 29 NSČR 38/2010, 1. 3. 2012, ECLI:CZ:NS:2012:29.NSČR.38.2010.1, R 83/2012.** Ve věřitelském insolvenčním řízení dlužník ani po výzvě nepředložil řádný seznam závazků, zejména neuvedl výši závazků; soudy zjistily jeho úpadek a dovolání směřovalo mimo jiné proti použití domněnky platební neschopnosti. Nejvyšší soud uzavřel, že seznam závazků musí obsahovat údaje o výši a splatnosti jednotlivých závazků a že požadavky na seznam se neliší podle toho, zda jej dlužník přikládá k vlastnímu návrhu, nebo předkládá na výzvu podle § 128 odst. 3 (zejména odůvodnění na PDF s. 10–11). Rozhodnutí vycházelo ze znění účinného v roce 2010; uvedený závěr zůstává použitelný, protože aktuální § 104 odst. 3 výši a splatnost výslovně vyžaduje. Rozhodnutí současně řešilo odvolání proti rozhodnutí o úpadku: v tomto kontextu nepovažovalo za významné, že věřitelský návrh mohl být dříve odmítnut pro vady; tento závěr nelze zaměňovat za oprávnění soudu vadný návrh ve fázi podle § 128 odst. 1 věcně projednat.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 128 odst. 1 (odmítnutí pro chybějící náležitosti/nesrozumitelnost/neurčitost, nelze-li pokračovat; do 7 dnů; § 43 OSŘ se nepoužije), odst. 2 (vady příloh — výzva k doplnění ve lhůtě zpravidla do 7 dnů, u návrhu dle § 98 odst. 1 i delší; nedoplnění → odmítnutí), odst. 3 (soud může vyžádat seznamy i od nenavrhujícího dlužníka; vždy, má-li navrhovatel vykonatelnou pohledávku), odst. 4 (odvolání proti odst. 1 — navrhovatel; proti odst. 3 nepřípustné).
-- *Související ustanovení téhož zákona:* § 103 (náležitosti návrhu), § 104 (přílohy dlužníka), § 128a (zjevná bezdůvodnost).
-- *Související předpisy:* § 43 OSŘ (jehož použití je u vad návrhu vyloučeno).
-- *Judikatura:* k rozlišení vad návrhu a příloh chybí v komentáři citovaná judikatura; nosně plyne z textu § 128 (vady návrhu se neodstraňují výzvou).
-
-**4. Subsumpce.** Nesrozumitelný návrh bez petitu a rozhodujících skutečností, pro nějž nelze pokračovat → vada **návrhu** (odst. 1) → přímé odmítnutí bez výzvy do 7 dnů. Dlužnický návrh s neúplnými seznamy → vada **příloh** (odst. 2) → výzva k doplnění (u dlužníka-podnikatele i delší lhůta), teprve při nedoplnění odmítnutí.
-
-**5. Řešení.** Návrh věřitele CHÍ-X soud odmítne přímo (§ 128 odst. 1), neboť § 43 OSŘ se nepoužije; odvolat se může navrhovatel (odst. 4). U dlužnického návrhu s vadami příloh soud vyzve k doplnění (odst. 2). Pokud má navrhující věřitel vůči dlužníku vykonatelnou pohledávku, soud uloží předložení seznamů dlužníku vždy (odst. 3), se zveřejněním až po rozhodnutí o úpadku. Praktický krok: rozlišit, zda jde o vadu návrhu, či přílohy — od toho se odvíjí celý postup.
-
-**6. Varianty.** (a) Vada se týká jen příloh (chybějící stejnopis, neúplný seznam) — výzva k doplnění, nikoli odmítnutí bez výzvy. (b) Jde o návrh dle § 98 odst. 1 (povinný dlužnický návrh) — lhůta k doplnění příloh může být i delší než 7 dnů.
-
-### G. Protiargumenty a rizika
-
-- *„Soud měl vyzvat k odstranění vad návrhu."* Neobstojí — u vad samotného návrhu se § 43 OSŘ nepoužije (odst. 1); výzva běží jen u vad příloh (odst. 2). Neutralizace: podat bezvadný návrh, neočekávat výzvu.
-- *„Lhůta k doplnění je vždy nejvýše 7 dnů."* Nepřesné — u návrhu dle § 98 odst. 1 může být delší (odst. 2). Neutralizace: u povinného dlužnického návrhu počítat s flexibilnější lhůtou.
-- Slabé místo: rozlišení vady návrhu (odmítnutí) od vady přílohy (výzva) bývá sporné; chybí-li petit a rozhodující skutečnosti, jde o vadu návrhu, kterou nelze sanovat výzvou.
-
-### H. Praktický závěr
-
-Vady samotného návrhu (chybějící náležitosti, nesrozumitelnost, neurčitost) vedou k odmítnutí bez výzvy do 7 dnů (§ 43 OSŘ se nepoužije); vady příloh řeší výzva k doplnění (u povinného dlužnického návrhu i s delší lhůtou). Soud může vyžádat seznamy i od nenavrhujícího dlužníka, vždy má-li navrhovatel vykonatelnou pohledávku.
-
-**Checklist (navrhovatel / dlužník / soud):**
-- [ ] Jde o vadu návrhu (odmítnutí bez výzvy), nebo o vadu příloh (výzva)?
-- [ ] Lze pro vadu pokračovat v řízení (rozhoduje o postupu dle odst. 1)?
-- [ ] Byla u vad příloh stanovena lhůta k doplnění (do 7 dnů, u § 98 odst. 1 i delší)?
-- [ ] Má navrhovatel vykonatelnou pohledávku (pak soud uloží seznamy dlužníku vždy — odst. 3)?
-- [ ] Je správně určen okruh osob oprávněných k odvolání (odst. 4)?
-
-**Typicky rozhodné důkazy / podklady:** text insolvenčního návrhu (petit, rozhodující skutečnosti), výčet připojených a chybějících příloh, doklad o povaze návrhu (§ 98 odst. 1), případná vykonatelná pohledávka navrhovatele.
+**Redakční omezení.** Další rozhodnutí nebyla do tohoto kola zařazena bez otevření plného textu z oficiálního soudního zdroje. Tím se nevyslovuje závěr, že další relevantní judikatura neexistuje.
 
 ---
 

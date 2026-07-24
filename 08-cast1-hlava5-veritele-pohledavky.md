@@ -767,45 +767,61 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento od
 
 ## § 175 — § 176 — Vyčíslení a formulář
 
-**§ 175** — Pohledávka **vždy vyčíslena v penězích** (i nepeněžitá — *odhadem*). *Cizí měna* — přepočet **podle kurzu ČNB** v den zahájení IR (případně den splatnosti, pokud byla splatnost dřív).
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**§ 176** — *Odpovědnost věřitele* za údaje. **Přihlášku lze podat jen na formuláři** (vyhláška č. 191/2017 Sb.).
+### Znění ustanovení
 
-### F. Kazuistika
+**§ 175**
 
-**1. Modelová situace.** Rakouský dodavatel V přihlásí vůči českému dlužníku D pohledávku 50 000 EUR z nezaplacených faktur splatných před zahájením IR. Pohledávku uvede v eurech a vyčíslení v korunách provede přepočtem podle kurzu ČNB ke dni splatnosti faktur. Současně přihlásí nepeněžitý nárok na vydání individuálně určené formy (nástroje) zapůjčené dlužníku. Přihlášku sepíše vlastním dopisem, nikoli na předepsaném formuláři. Důkazy: faktury s daty splatnosti, kurzovní lístek ČNB, doklad o zápůjčce formy.
+> Pohledávku je nutné vždy vyčíslit v penězích, i když jde o pohledávku nepeněžitou. Pohledávka v cizí měně musí být přepočítána na českou měnu podle kurzu devizového trhu vyhlášeného Českou národní bankou v den zahájení insolvenčního řízení, a stala-li se pohledávka splatnou dříve, podle kurzu vyhlášeného v den její splatnosti. Pro přepočet pohledávek v cizích měnách, pro něž Česká národní banka nevyhlašuje kurz devizového trhu, se použije střední kurz centrální banky příslušné země, popřípadě aktuální kurz mezibankovního trhu k americkému dolaru nebo k euru. Jde-li o pohledávku nepeněžitou nebo pohledávku neurčité výše, musí být vyjádřena v penězích na základě odhadu její hodnoty.
 
-**2. Právní otázka.** V jaké měně a k jakému kurzu se přihlašuje pohledávka v cizí měně, jak se vyčíslí nepeněžitý nárok a je přípustná přihláška mimo předepsaný formulář?
+**§ 176**
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 175 (pohledávka vždy vyčíslena v penězích, i nepeněžitá odhadem; cizí měna přepočtena kurzem ČNB ke dni zahájení IR, popř. ke dni dřívější splatnosti) a § 176 (odpovědnost věřitele za údaje; povinný formulář — vyhláška č. 191/2017 Sb.).
-- *Související ustanovení téhož zákona:* § 174 (náležitosti přihlášky), § 188 odst. 2 (výzva k opravě vad), § 178 (sankce za nadhodnocení vyčíslené výše).
-- *Související předpisy:* vyhláška č. 191/2017 Sb. (formulář); předpisy o vyhlašování kurzů ČNB.
-- *Judikatura:* nosný závěr, že přihláška podaná jinak než na předepsaném formuláři je vadná a postupuje se dle § 188 odst. 2; vyčíslení musí být určité.
+> Za správnost údajů uvedených v přihlášce jeho pohledávky odpovídá věřitel. Přihlášku pohledávky lze podat pouze na formuláři; náležitosti formuláře stanoví prováděcí právní předpis.
 
-**4. Subsumpce.** Peněžitá pohledávka v EUR → přepočet kurzem ČNB; rozhodný je den zahájení IR, ledaže splatnost nastala dříve, pak den splatnosti (§ 175). Nepeněžitý nárok na vydání formy → musí být vyčíslen v penězích odhadem. Přihláška mimo formulář → vada dle § 176 ve spojení s § 188 odst. 2.
+### Přehled výkladu
 
-**5. Řešení.** Správce vyzve V k podání na předepsaném formuláři a k řádnému vyčíslení (forma odhadem). V přepočte EUR správným kurzem k rozhodnému dni. Při nadhodnoceném vyčíslení hrozí sankce dle § 178, proto V volí konzervativní, doložitelný odhad.
+§ 175 sjednocuje přihlašované nároky do peněžního vyjádření potřebného pro jejich přezkum a poměrné uspokojení. U cizí měny určuje nejen měnu přepočtu, ale i rozhodný den a záložní kurzové zdroje. U nepeněžité pohledávky a pohledávky neurčité výše připouští odhad; tím neodstraňuje odpovědnost věřitele za údaje podle § 176. § 176 současně vyžaduje předepsaný formulář, jehož obsah konkretizuje § 8 vyhlášky č. 191/2017 Sb.
 
-**6. Varianty.** (a) Kdyby faktury byly splatné až po zahájení IR, použil by se kurz ke dni zahájení (nikoli pozdější splatnosti). (b) Kdyby V nepeněžitý nárok nevyčíslil, šlo by o neúplnou přihlášku s rizikem, že se k ní nepřihlíží (§ 188 odst. 2).
+### Souvisící ustanovení
 
-### G. Protiargumenty a rizika
+- § 136 odst. 2 písm. c) a § 109 odst. 4 — údaj o okamžiku zahájení insolvenčního řízení,
+- § 174 — důvod vzniku a výše pohledávky a další obsahové náležitosti přihlášky,
+- § 177 — listinné přílohy a prokázání vykonatelnosti,
+- § 178 až 182 — následky podstatného nadhodnocení a související odpovědnost,
+- § 188 odst. 2 — postup u vadné nebo neúplné přihlášky, kterou nelze přezkoumat.
 
-- *Protiargument:* „Pohledávku v eurech lze přihlásit přímo v eurech." — Neutralizace: § 175 vyžaduje vyčíslení v českých korunách přepočtem kurzem ČNB k rozhodnému dni.
-- *Protiargument:* „Vlastní dopis s úplnými údaji nahrazuje formulář." — Neutralizace: § 176 stanoví povinný formulář (vyhláška č. 191/2017 Sb.); podání mimo formulář je vadné.
-- *Slabé místo:* určení rozhodného dne kurzu (zahájení vs. dřívější splatnost) a věrohodný odhad nepeněžitého plnění jsou zdrojem sporů; nadhodnocení vystavuje věřitele riziku dle § 178.
+### Souvisící předpisy
 
-### H. Praktický závěr
+- vyhláška č. 191/2017 Sb., zejména § 8 odst. 1 písm. h) až j) a odst. 2: povaha a výše pohledávky, postup použitý pro vyčíslení nepeněžité nebo neurčité pohledávky, způsob přepočtu cizí měny, použitý kurz a prohlášení o pravdivosti údajů.
 
-§ 175–176 standardizují vyčíslení (vždy v Kč, cizí měna kurzem ČNB k rozhodnému dni, nepeněžité odhadem) a formu (povinný formulář). Přesnost vyčíslení je důležitá i kvůli sankci za nadhodnocení (§ 178).
+### Z důvodové zprávy
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Vyčíslit pohledávku v českých korunách; cizí měnu přepočítat kurzem ČNB ke dni zahájení IR (nebo dřívější splatnosti).
-- [ ] Nepeněžitý nárok ocenit věrohodným, doložitelným odhadem.
-- [ ] Použít předepsaný formulář (vyhláška č. 191/2017 Sb.).
-- [ ] Volit konzervativní vyčíslení s ohledem na sankci za nadhodnocení (§ 178).
+Vládní návrh insolvenčního zákona vysvětloval u § 175, že není-li pohledávka v cizí měně splatná již před zahájením insolvenčního řízení, přepočte se kurzem ke dni zahájení řízení; při dřívější splatnosti kurzem v době splatnosti. K § 176 až 182 uváděl zavedení povinného formuláře a spojoval odpovědnost za správnost údajů s úpravou postihující přehnané pohledávky a neopodstatněné uplatnění lepšího pořadí. Jde o historické vysvětlení vládního návrhu; aktuální pravidla se určují podle účinného znění zákona a prováděcí vyhlášky. (Sněmovní tisk 1120/0, zvláštní část K § 173 až 175 a K § 176 až 182, číslované s. 198–199, PDF s. 199–200.)
 
-**Typicky rozhodné důkazy / podklady:** faktury a smlouvy s daty splatnosti, kurzovní lístek ČNB k rozhodnému dni, podklady pro odhad nepeněžitého plnění, vyplněný předepsaný formulář.
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento oddíl nepředstavuje negativní literární rešerši.
+
+### Výklad
+
+[1] **Peněžní vyjádření je povinné u každé pohledávky.** § 175 neomezuje toto pravidlo na původně peněžité nároky. Nepeněžitá pohledávka i pohledávka neurčité výše musí dostat peněžní hodnotu na základě odhadu.
+
+[2] **Rozhodný den kurzu.** Základním mezníkem je den zahájení insolvenčního řízení, nikoli den rozhodnutí o úpadku. Jen stala-li se pohledávka splatnou před zahájením řízení, použije se kurz vyhlášený v den její splatnosti. Nastane-li splatnost až po zahájení řízení, pozdější kurz ke dni splatnosti se nepoužije.
+
+[3] **Měna bez kurzu ČNB.** Nevyhlašuje-li Česká národní banka pro danou měnu kurz devizového trhu, zákon stanoví alternativy: střední kurz centrální banky příslušné země, popřípadě aktuální kurz mezibankovního trhu k americkému dolaru nebo euru. Přihláška má podle § 8 odst. 2 vyhlášky popsat způsob přepočtu i použitý kurz.
+
+[4] **Odhad a jeho přezkoumatelnost.** Zákon nepředepisuje jedinou oceňovací metodu. Formulář však u nepeněžité nebo neurčité pohledávky vyžaduje popis postupu použitého pro vyčíslení. Věřitel proto musí odhad individualizovat a vysvětlit tak, aby bylo patrné, jak k přihlášené částce dospěl; odpovědnost za správnost údajů nese podle § 176.
+
+[5] **Formulář je zákonnou podmínkou.** Přihláška se nepodává libovolným dopisem. § 8 vyhlášky č. 191/2017 Sb. konkretizuje mimo jiné údaje o povaze a výši pohledávky, použitý postup ocenění a kurzový přepočet. § 176 však sám výslovně nestanoví, že se k podání mimo formulář bez dalšího nepřihlíží; konkrétní procesní postup je nutné posoudit podle obsahu podání a § 188 odst. 2.
+
+[6] **Odpovědnost a § 178 nejsou totéž.** Obecná odpovědnost věřitele za správnost údajů podle § 176 se nesmí mechanicky zaměnit se zvláštním následkem § 178. Ten je vázán na zjištění skutečné výše pod hranicí 50 % přihlášené částky a obsahuje mimo jiné výjimku, záviselo-li rozhodnutí o výši na znaleckém posudku nebo na úvaze soudu. U každého případu je nutné ověřit všechny podmínky § 178 až 182.
+
+[7] **Intertemporalita.** Komentář vychází ze stavu práva k 19. 7. 2026. U starší přihlášky je třeba samostatně ověřit tehdy účinné znění § 175 a § 176, podobu formuláře a přechodná ustanovení novel; dnešní formulář ani dnešní sankční vazby nelze přenášet automaticky.
+
+### Judikatura
+
+Do produkčního výkladu nebylo zařazeno rozhodnutí, jehož plný text by byl fyzicky uložen a v obou kolech ověřen jako nosná autorita právě k vyčíslení nebo formuláři podle § 175 a § 176. To není tvrzení, že relevantní judikatura neexistuje; jde o pramenné omezení tohoto kola.
 
 ---
 

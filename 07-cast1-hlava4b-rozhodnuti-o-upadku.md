@@ -1546,6 +1546,65 @@ Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento 
 
 ---
 
+## § 156 — Odmítnutí znaleckého posudku
+
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> Jestliže schůze věřitelů znalecký posudek neschválí, může přijmout usnesení, kterým určí osobu nového znalce; ustanovení § 153 až 155 platí obdobně.
+>
+
+### Přehled výkladu
+
+§ 156 upravuje další postup poté, co schůze věřitelů neschválila znalecký posudek projednaný podle § 155. Schůze může, nemusí však, určit osobu nového znalce. Určí-li ji, procesní ustanovení znalce náleží insolvenčnímu soudu a při novém ocenění se obdobně zopakuje režim § 153 až 155.
+
+### Souvisící ustanovení
+
+- **§ 153** — ustanovení znalce insolvenčním soudem a možnost schůze věřitelů určit jeho osobu.
+- **§ 154** — určení a schválení odměny znalce.
+- **§ 155** — obsah, předložení, projednání a schválení znaleckého posudku a rozhodnutí soudu o ceně.
+- **§ 157** — úhrada odměny a hotových výdajů znalce.
+- **§ 167 odst. 3** — význam ocenění zajištění pro rozsah, v němž se pohledávka považuje za nezajištěnou.
+- **§ 339 odst. 1 a § 348** — předložení a schválení reorganizačního plánu.
+
+### Souvisící předpisy
+
+- **Zákon č. 254/2019 Sb., o znalcích, znaleckých kancelářích a znaleckých ústavech** — obecný rámec výkonu znalecké činnosti; § 153 až 156 insolvenčního zákona obsahují zvláštní procesní pravidla pro toto ocenění.
+- **Vyhláška č. 504/2020 Sb., o znalečném** — prováděcí úprava znalečného, významná prostřednictvím odkazu § 154.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona nevysvětluje § 156 samostatně. Ve zvláštní části k § 154 až 157 uvádí, že tato ustanovení upravují podrobnosti procesního postupu při vydání rozhodnutí podle § 153; zvlášť připomíná pouze přenesení části nákladů na zajištěné věřitele podle § 157. Jde o historické vysvětlení původní osnovy, z něhož nelze dovodit povinnost schůze určit nového znalce nad rámec slova „může“ v § 156.
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tím se nevyslovuje závěr, že k § 156 relevantní literatura neexistuje.
+
+### Výklad
+
+[1] **Předpoklad použití.** § 156 navazuje na rozhodnutí schůze věřitelů podle § 155 odst. 3. Použije se, jestliže schůze projednaný znalecký posudek neschválí; neupravuje opravu každé vady libovolného znaleckého posudku v insolvenčním řízení.
+
+[2] **Možnost, nikoli automatismus.** Slovo „může“ ponechává schůzi věřitelů možnost přijmout usnesení o osobě nového znalce. Z pouhého neschválení posudku proto nelze dovodit, že schůze takové usnesení přijala ani že nový znalec musí být automaticky určen bez dalšího rozhodnutí.
+
+[3] **Určení osoby a ustanovení znalce.** Schůze věřitelů určuje osobu nového znalce, avšak znalce procesně ustanovuje insolvenční soud. To plyne z obdobného použití § 153, zejména jeho odstavce 2, podle něhož soud při řádném usnesení schůze rozhodne o ustanovení znalce podle tohoto usnesení.
+
+[4] **Rozsah obdobného použití.** Odkaz na § 153 až 155 znamená, že se u nového znalce a nového posudku obdobně uplatní ustanovení znalce a písemná forma posudku (§ 153), režim odměny (§ 154) i pravidla pro obsah, předložení, zveřejnění, projednání, schválení a následné rozhodnutí soudu o ceně (§ 155). „Obdobně“ vyžaduje přizpůsobení opakovanému ocenění; nejde o vypuštění některé z těchto etap.
+
+[5] **Neschválený posudek a rozhodnutí o ceně.** § 155 odst. 4 váže rozhodnutí insolvenčního soudu o ceně majetkové podstaty na usnesení schůze o schválení posudku. Neschválený posudek proto nemůže být v tomto zvláštním postupu podkladem takového rozhodnutí o ceně.
+
+[6] **Reorganizační plán.** Nejvyšší soud v usnesení sen. zn. 29 NSČR 18/2010 uzavřel, že schválení posudku podle § 155 není předpokladem hlasování o reorganizačním plánu ani samo o sobě důvodem k odkladu jeho předložení. V posuzované věci proto neschválení posudku nevytvořilo překážku hlasování; soud nemusel pro výsledek odvolacího řízení samostatně řešit, zda insolvenční soud mohl nebo měl zadat nový posudek.
+
+[7] **Význam schváleného ocenění.** Totéž rozhodnutí rozlišuje pokračování reorganizačního procesu od účinků ocenění. Pro význam ocenění v režimu § 153 a násl. měl podle soudu význam jen posudek schválený schůzí věřitelů; v tehdejším znění šlo o vliv podle § 167 odst. 2, jemuž v rozhodném stavu odpovídá § 167 odst. 3.
+
+[8] **Intertemporalita.** Rozhodnutí 29 NSČR 18/2010 vycházelo z řízení zahájeného v roce 2009 a z insolvenčního zákona ve znění do 30. 6. 2010. Text § 156 i relevantní mechanismus § 153 až 155 zůstaly pro uvedené závěry obsahově použitelné také k 19. 7. 2026; časovou použitelnost dalších navazujících ustanovení je však nutné ověřovat samostatně.
+
+### Judikatura
+
+**Usnesení Nejvyššího soudu ze dne 29. 11. 2012, sen. zn. 29 NSČR 18/2010, ECLI:CZ:NS:2012:29.NSČR.18.2010.1, R 65/2013.** V reorganizaci dlužníka schůze věřitelů neschválila znalecký posudek a poté hlasovala o reorganizačním plánu. Nejvyšší soud uzavřel, že schválení posudku není předpokladem hlasování o plánu ani jeho včasného předložení; pro účinky ocenění v režimu § 153 a násl. je však významný jen posudek schválený schůzí věřitelů. Viz úřední PDF, s. 6–8, část „2) K výkladu § 153 až § 156 insolvenčního zákona“, zejména s. 7–8.
+
+---
+
 ## § 158 — Rozhodnutí o neúpadku
 
 > (1) Před rozhodnutím o způsobu řešení úpadku podle § 149 rozhodne insolvenční soud i bez návrhu, že dlužník není v úpadku, zjistí-li, že

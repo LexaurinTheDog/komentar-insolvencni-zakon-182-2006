@@ -2178,54 +2178,66 @@ Do tohoto kola nebylo zařazeno žádné rozhodnutí. Tím se nevyslovuje závě
 
 ---
 
-## § 129 — § 130 — Zpětvzetí návrhu
+## § 129 — Zpětvzetí insolvenčního návrhu
 
-**§ 129**:
-- *zpětvzetí možné* až do *rozhodnutí o úpadku* nebo *právní moci jiného rozhodnutí*,
-- *karenční lhůta* 6 měsíců pro nový návrh pro tutéž pohledávku.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**§ 130**:
-- *zastavení řízení* při zpětvzetí,
-- při více navrhovatelích — *jen vůči tomu, kdo vzal zpět*,
-- zpětvzetí *po* úpadku — *neúčinné*,
-- *vrácení nákladů* — pokud dlužník uhradil pohledávku po zahájení, dlužník nese náklady řízení (pochybnostní pravidlo, *zavinil zastavení*).
+### Znění ustanovení
 
-### F. Kazuistika
+> (1) Insolvenční navrhovatel může vzít insolvenční návrh zpět až do vydání rozhodnutí o úpadku nebo do právní moci jiného rozhodnutí o insolvenčním návrhu.
+>
+> (2) Věřitel, který vzal zpět insolvenční návrh, jej může pro tutéž pohledávku znovu podat až po 6 měsících ode dne jeho zpětvzetí. Totéž platí pro osobu, která pohledávku od věřitele nabyla.
+>
 
-**1. Modelová situace.** Věřitel A podá insolvenční návrh proti dlužníku ALFA-Z s. r. o.; k řízení přistoupí věřitel B. Po zahájení dlužník uhradí pohledávku věřiteli A, načež A vezme svůj návrh zpět. Druhý scénář: věřitel vezme návrh zpět ještě před rozhodnutím o úpadku a vzápětí chce pro tutéž pohledávku podat nový návrh. Důkazy: podání o zpětvzetí a jeho datum, doklad o úhradě pohledávky po zahájení, údaj o tom, zda už bylo rozhodnuto o úpadku, postavení dalších navrhovatelů.
+### Přehled výkladu
 
-**2. Právní otázka.** Do kdy lze vzít insolvenční návrh zpět, jaké jsou důsledky při více navrhovatelích a kdo nese náklady řízení, uhradil-li dlužník pohledávku po zahájení?
+Ustanovení odděluje dvě otázky. Odstavec 1 vymezuje nejzazší okamžik, do něhož může kterýkoli insolvenční navrhovatel návrh vzít zpět. Odstavec 2 omezuje věřitele a nabyvatele jeho pohledávky při opětovném návrhu pro tutéž pohledávku. Procesní následky zpětvzetí upravuje § 130.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 129 (zpětvzetí možné až do rozhodnutí o úpadku nebo právní moci jiného rozhodnutí; karenční lhůta 6 měsíců pro nový návrh pro tutéž pohledávku), § 130 (zastavení řízení při zpětvzetí; při více navrhovatelích jen vůči tomu, kdo vzal zpět; zpětvzetí po úpadku neúčinné; náklady nese dlužník, uhradil-li pohledávku po zahájení a zavinil tak zastavení).
-- *Související ustanovení téhož zákona:* § 107 (přistoupení dalšího navrhovatele), § 136 (rozhodnutí o úpadku jako mezník), § 128a odst. 4 (jiná karenční lhůta).
-- *Související předpisy:* OSŘ (zpětvzetí návrhu, náklady řízení).
-- *Judikatura:* ke zpětvzetí chybí v komentáři citovaná judikatura; nosně plyne z textu § 129 a § 130.
+### Souvisící ustanovení
 
-**4. Subsumpce.** Znak „zpětvzetí do rozhodnutí o úpadku" — A vzal zpět před úpadkem, zpětvzetí je účinné. Znak „více navrhovatelů" — řízení se zastaví **jen vůči A**, vůči B pokračuje (§ 130). Znak „úhrada pohledávky po zahájení dlužníkem" — zakládá, že náklady řízení (ve vztahu k zastavení) nese **dlužník** (zavinil zastavení). Znak „karenční lhůta 6 měsíců" — A nesmí pro tutéž pohledávku podat nový návrh dříve.
+- **§ 7** — subsidiární použití občanského soudního řádu, není-li to v rozporu se zásadami insolvenčního řízení.
+- **§ 107** — další návrh před rozhodnutím o úpadku je přistoupením k řízení.
+- **§ 128a odst. 4** — samostatná šestiměsíční překážka po pravomocném odmítnutí zjevně bezdůvodného návrhu; má jiný počátek i věcný rozsah.
+- **§ 130** — zastavení řízení, zrušení dosud nepravomocného jiného rozhodnutí, neúčinnost opožděného zpětvzetí a zvláštní pravidlo o nákladech.
+- **§ 136 odst. 1** — rozhodnutí o úpadku jako první z mezníků podle § 129 odst. 1.
+- **§ 142** — vymezení jiných rozhodnutí o insolvenčním návrhu.
 
-**5. Řešení.** Řízení se zastaví jen ve vztahu k navrhovateli A; vůči přistoupivšímu B pokračuje (může vést k rozhodnutí o úpadku). Náklady spojené se zastavením nese dlužník, neboť úhradou po zahájení zavinil zastavení. A nemůže pro tutéž pohledávku podat nový návrh po dobu 6 měsíců (§ 129). Praktický krok: ověřit, zda už nebylo rozhodnuto o úpadku (poté je zpětvzetí neúčinné).
+### Souvisící předpisy
 
-**6. Varianty.** (a) Zpětvzetí je učiněno **až po** rozhodnutí o úpadku — je **neúčinné** (§ 130), řízení pokračuje. (b) Návrh je jediného navrhovatele bez přistoupivších — zpětvzetím se řízení zastaví jako celek (s případnou karenční lhůtou pro nový návrh téže pohledávky).
+- **§ 96 o. s. ř.** — obecná úprava zpětvzetí návrhu; v insolvenčním řízení se uplatní jen subsidiárně v mezích § 7 insolvenčního zákona.
+- **§ 146 odst. 1 a 2 o. s. ř.** — obecná nákladová pravidla při zastavení řízení; zvláštní domněnku pro úhradu pohledávky po zahájení insolvenčního řízení obsahuje § 130 odst. 5 insolvenčního zákona.
 
-### G. Protiargumenty a rizika
+### Z důvodové zprávy
 
-- *„Zpětvzetím jednoho navrhovatele padá celé řízení."* Neobstojí — při více navrhovatelích se zastavuje jen vůči tomu, kdo vzal zpět; vůči ostatním řízení trvá (§ 130). Neutralizace: udržet řízení skrze dalšího navrhovatele.
-- *„Zpětvzetí lze učinit kdykoli."* Vyloučeno po rozhodnutí o úpadku — pak je neúčinné (§ 130). Neutralizace: vzít návrh zpět včas, před rozhodnutím o úpadku.
-- Slabé místo: pravidlo o nákladech (dlužník nese náklady, uhradil-li po zahájení) je „pochybnostní" a závisí na zavinění zastavení; sporné může být, zda úhrada skutečně způsobila zastavení.
+Oficiální důvodová zpráva k vládnímu návrhu insolvenčního zákona uvádí společně k § 129 a 130, že úprava zpětvzetí vychází z dosavadní úpravy a obsahuje dílčí zpřesnění daná vývojem judikatury. Jde o stručné historické vysvětlení původní úpravy, nikoli o samostatný podklad pro závěry přesahující aktuální text zákona. (Sněmovní tisk 1120/0, 4. volební období, zvláštní část „K § 129 a 130“, s. 190 PDF.)
 
-### H. Praktický závěr
+### Literatura
 
-Insolvenční návrh lze vzít zpět jen do rozhodnutí o úpadku; při více navrhovatelích se řízení zastaví pouze vůči tomu, kdo vzal zpět. Uhradil-li dlužník pohledávku po zahájení a zavinil tak zastavení, nese náklady řízení; pro tutéž pohledávku platí 6měsíční karenční lhůta pro nový návrh.
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní rešerše a nevypovídá o tom, zda relevantní literatura existuje.
 
-**Checklist (navrhovatel / dlužník / soud):**
-- [ ] Je zpětvzetí učiněno před rozhodnutím o úpadku (jinak neúčinné)?
-- [ ] Je v řízení více navrhovatelů (zastavení jen vůči tomu, kdo vzal zpět)?
-- [ ] Uhradil dlužník pohledávku po zahájení (náklady nese dlužník)?
-- [ ] Běží karenční lhůta 6 měsíců pro nový návrh téže pohledávky (§ 129)?
-- [ ] Nebylo již rozhodnuto o úpadku (mezník účinnosti zpětvzetí)?
+### Výklad
 
-**Typicky rozhodné důkazy / podklady:** podání o zpětvzetí s datem, doklad o úhradě pohledávky po zahájení, údaj o stavu řízení (rozhodnuto o úpadku?), podklady o dalších navrhovatelích, vyčíslení nákladů řízení.
+[1] **Dispoziční oprávnění a jeho mez.** Zpětvzetí činí insolvenční navrhovatel. § 129 odst. 1 připouští tento úkon až do vydání rozhodnutí o úpadku; u jiného rozhodnutí o insolvenčním návrhu až do jeho právní moci. Zákon tedy pro oba druhy rozhodnutí používá odlišný mezník.
+
+[2] **Rozhodnutí o úpadku.** U rozhodnutí o úpadku je rozhodné jeho vydání, nikoli právní moc. Zpětvzetí učiněné až po jeho vydání již nespadá do časového rámce § 129 odst. 1; procesní reakci soudu upravuje § 130 odst. 3.
+
+[3] **Jiné rozhodnutí o insolvenčním návrhu.** Jinými rozhodnutími jsou podle § 142 odmítnutí, zastavení a zamítnutí insolvenčního návrhu. Dokud takové rozhodnutí nenabylo právní moci, § 129 odst. 1 zpětvzetí připouští; § 130 odst. 1 pak spojuje zastavení řízení se zrušením dosud nepravomocného rozhodnutí.
+
+[4] **Více navrhovatelů.** Další insolvenční návrh podaný včas se podle § 107 považuje za přistoupení k probíhajícímu řízení. Zpětvzetí je dispozicí konkrétního navrhovatele; § 130 odst. 2 proto při více navrhovatelích váže zastavení jen k tomu, který návrh vzal zpět.
+
+[5] **Šestiměsíční překážka.** Odstavec 2 dopadá pouze na věřitele, který návrh vzal zpět. Nový návrh pro tutéž pohledávku může podat až po šesti měsících ode dne zpětvzetí. Text nezakazuje tomuto věřiteli po tuto dobu bez dalšího každý insolvenční návrh; rozhodující je totožnost pohledávky, o niž opírá oprávnění návrh podat.
+
+[6] **Nabyvatel pohledávky.** Převod pohledávky šestiměsíční omezení neodstraňuje. Stejná překážka výslovně stíhá osobu, která pohledávku od věřitele nabyla.
+
+[7] **Odlišení od § 128a odst. 4.** Překážka podle § 129 odst. 2 začíná dnem zpětvzetí a váže se na tutéž pohledávku. Naproti tomu § 128a odst. 4 navazuje na právní moc odmítnutí zjevně bezdůvodného návrhu a omezuje nový návrh proti stejnému dlužníku, s výslovnou výjimkou pro nesložení zálohy. Oba režimy nelze směšovat.
+
+[8] **Náklady nejsou automatickým následkem § 129.** Uhradí-li dlužník po zahájení řízení pohledávku navrhovatele a ten proto návrh vezme zpět, § 130 odst. 5 stanoví pouze domněnku pro případ pochybností o zavinění zastavení. Konkrétní rozhodnutí o náhradě nákladů proto nelze nahradit kategorickou větou, že náklady vždy nese dlužník.
+
+[9] **Časová použitelnost.** Výklad odpovídá znění účinnému k 19. 7. 2026. U staršího procesního úkonu je třeba ověřit znění účinné v době zpětvzetí a přechodná ustanovení případné novely; původní důvodová zpráva sama neprokazuje obsah pozdější právní úpravy.
+
+### Judikatura
+
+Do tohoto kola nebylo zařazeno žádné rozhodnutí. Tím se nevyslovuje závěr, že relevantní judikatura neexistuje; místní kandidátní pomůcky žádné rozhodnutí k § 129 nenabídly a materiální závěry tohoto komentáře stojí na plném textu aktuálního zákona, souvisejících ustanoveních a oficiální důvodové zprávě.
 
 ---
 

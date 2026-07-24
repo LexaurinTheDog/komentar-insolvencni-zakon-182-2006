@@ -952,60 +952,67 @@ Do této revize nebylo zařazeno žádné rozhodnutí jako přímá nosná autor
 
 ---
 
-## § 178 — § 182 — Sankce za nadhodnocení pohledávky — **ODSTRAŠUJÍCÍ PRAVIDLA**
+## § 178 — Následky nadhodnocení pohledávky
 
-### F. Kazuistika
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**1. Modelová situace.** Věřitel V přihlásí do insolvenčního řízení dlužníka D pohledávku 2 000 000 Kč, z toho 800 000 Kč jistina a zbytek sporné smluvní pokuty a úroky, a současně přihlásí zástavní právo k nemovitosti, jehož hodnotu v přihlášce uvede na 1 500 000 Kč v prvním pořadí. Po přezkumu a incidenčním sporu se zjistí pohledávka jen 700 000 Kč (35 % přihlášené částky) a hodnota zajištění 400 000 Kč ve druhém pořadí. Přihlášku podepsal jednatel V. Důkazy: přihláška a vyčíslení, popěrné úkony správce, rozhodnutí v incidenčním sporu, znalecký posudek hodnoty zajištění, doklad o pořadí zástav, podpisové záznamy.
+### Znění ustanovení
 
-**2. Právní otázka.** Jak na sebe navazují sankční instituty § 178 (pohledávka), § 179 (zajištění), § 180 (vyloučení pasivního věřitele), § 181 (ručení podepsaných osob) a § 182 (zpětvzetí jako neúčinná obrana) a jaký je jejich společný účel?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 178–182 jako ucelený sankční blok proti nadhodnocování — § 178 (test 50 % u pohledávky → nepřihlíží se k celé pohledávce, pokuta do podstaty), § 179 (test 50 % / horší pořadí u zajištění → pokuta ostatním zajištěným), § 180 (pasivní věřitel pokutu neplatí), § 181 (ručení podepsaných osob, výjimka stát/ČNB), § 182 (zpětvzetí není záchranou).
-- *Související ustanovení téhož zákona:* § 192–199 (popírání a incidenční spory, v nichž se „zjištění" děje), § 167 odst. 4 (nedotčenost), § 175–176 (vyčíslení), § 184–187 (zpětvzetí přihlášky).
-- *Související předpisy:* o. s. ř. (incidenční spor, dokazování); OZ (ručení).
-- *Judikatura:* nosný závěr, že jde o prevenci spekulativního nadhodnocování a sankce se neuplatní tam, kde výše závisela na znaleckém posudku nebo úvaze soudu.
-
-**4. Subsumpce.** U pohledávky je zjištěno 35 % (< 50 %) → § 178: nepřihlíží se ani ke zjištěné části, hrozí pokuta do podstaty do výše nadhodnocení. U zajištění je zjištěno 400 000 z 1 500 000 (pod 50 %) a navíc horší pořadí → § 179: k právu na uspokojení ze zajištění se nepřihlíží, pokuta připadne ostatním zajištěným ke stejnému majetku. Jednatel V coby podepsaná osoba ručí (§ 181). § 180 by V vyloučil jen při skutečné pasivitě.
-
-**5. Řešení.** Nezávisela-li výše na posudku/úvaze soudu, V nedostane nic a na návrh správce mu soud může uložit pokutu (incidenční spor); u zajištění směřuje pokuta jinému okruhu (ostatní zajištění), s ručením jednatele. Procesně: každý sankční nárok se uplatní samostatným návrhem správce; obrana V spočívá v tvrzení o závislosti na posudku, pasivitě (§ 180) nebo v účinném včasném zpětvzetí, není-li vyloučeno dle § 182.
-
-**6. Varianty.** (a) Zjistí-li se u pohledávky 55 %, sankce „nepřihlížení k celé pohledávce" nenastane. (b) Závisela-li výše pohledávky i zajištění na znaleckém posudku/úvaze soudu, celý sankční blok se neuplatní.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Sankce postihuje i reálně existující část pohledávky, je tedy nepřiměřená." — Neutralizace: zákonodárce vědomě volí tvrdou prevenci; korektivem je výjimka pro posudek/úvahu soudu, vyloučení pasivního věřitele (§ 180) a možnost zpětvzetí.
-- *Protiargument:* „Pokuta podle § 178 i § 179 plyne vždy do majetkové podstaty." — Neutralizace: pokuta dle § 179 připadá ostatním zajištěným věřitelům ke stejnému majetku, nikoli do podstaty; jde o odlišný okruh oprávněných.
-- *Slabé místo:* hraniční je posouzení „závislosti na znaleckém posudku nebo úvaze soudu" a vymezení skutečné pasivity věřitele (§ 180); sporné bývá i ručení podepsaných osob (§ 181) u kolektivních orgánů.
-
-### H. Praktický závěr
-
-§ 178–182 tvoří provázaný odstrašující mechanismus: nadhodnocení pohledávky či zajištění pod 50 % vede ke ztrátě nároku a hrozbě pokuty (do podstaty u pohledávky, ostatním zajištěným u zajištění), s ručením podepsaných osob a bez možnosti uniknout pouhým zpětvzetím. Vyčísluje se proto konzervativně.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Vyčíslit pohledávku i zajištění doložitelně a konzervativně (hranice 50 % a pořadí).
-- [ ] Zvážit, zda výše nezávisí na znaleckém posudku/úvaze soudu (vyloučení sankce).
-- [ ] Rozlišit směřování pokuty: § 178 do podstaty, § 179 ostatním zajištěným.
-- [ ] Ověřit okruh ručících podepsaných osob (§ 181) a možnost obrany pasivitou (§ 180) či účinným zpětvzetím (§ 182).
-
-**Typicky rozhodné důkazy / podklady:** přihláška a vyčíslení, popěrné úkony a rozhodnutí v incidenčním sporu, znalecký posudek hodnoty zajištění, doklad o pořadí zástav a o účinném zpětvzetí, podpisové záznamy přihlášky.
-
-### § 178 — Pokuta za nadhodnocení
-
-> (1) Bude-li po přezkoumání postupem podle tohoto zákona přihlášená pohledávka zjištěna tak, že **skutečná výše přihlášené pohledávky činí méně než 50 % přihlášené částky, k přihlášené pohledávce se nepřihlíží ani v rozsahu, ve kterém byla zjištěna**; to neplatí, záviselo-li rozhodnutí insolvenčního soudu o výši přihlášené pohledávky na znaleckém posudku nebo na úvaze soudu. Věřiteli, který takovou pohledávku přihlásil, může insolvenční soud na návrh insolvenčního správce uložit, aby ve prospěch majetkové podstaty zaplatil částku, kterou určí se zřetelem ke všem okolnostem přihlášení a přezkoumání pohledávky, **nejvýše však částku, o kterou přihlášená pohledávka převýšila rozsah, ve kterém byla zjištěna**; jde o incidenční spor.
+> (1) Bude-li po přezkoumání postupem podle tohoto zákona přihlášená pohledávka zjištěna tak, že skutečná výše přihlášené pohledávky činí méně než 50 % přihlášené částky, k přihlášené pohledávce se nepřihlíží ani v rozsahu, ve kterém byla zjištěna; to neplatí, záviselo-li rozhodnutí insolvenčního soudu o výši přihlášené pohledávky na znaleckém posudku nebo na úvaze soudu. Věřiteli, který takovou pohledávku přihlásil, může insolvenční soud na návrh insolvenčního správce uložit, aby ve prospěch majetkové podstaty zaplatil částku, kterou určí se zřetelem ke všem okolnostem přihlášení a přezkoumání pohledávky, nejvýše však částku, o kterou přihlášená pohledávka převýšila rozsah, ve kterém byla zjištěna; jde o incidenční spor.
+>
 > (2) Pro účely posouzení, zda jsou splněny podmínky uvedené v odstavci 1, se nepovažuje za přihlášenou ta část pohledávky, kterou vzal věřitel účinně zpět předtím, než nastal účinek, na základě kterého se podle tohoto zákona nepřihlíží k popřené části pohledávky.
+>
 
-### Výklad — **TVRDÁ SANKCE**
+### Přehled výkladu
 
-**Pravidlo 50%**: pokud z přihlášené pohledávky bude *zjištěno* (pravomocně po případném sporu) **méně než 50 %**, **nepřihlíží se k pohledávce vůbec** — i k té zjištěné části!
+§ 178 spojuje se zjištěním pohledávky pod zákonnou hranicí automatický následek nepřihlížení i ke zjištěné části a vedle něj umožňuje na návrh insolvenčního správce uložit věřiteli samostatnou peněžitou sankci ve prospěch majetkové podstaty. Přesně 50 % podmínku „méně než 50 %“ nesplňuje.
 
-> *Příklad*: věřitel přihlásí 1 000 000 Kč, ve sporu se zjistí jen 400 000 Kč (40 %). **Věřitel nedostane nic** (k celé pohledávce se nepřihlíží).
+### Souvisící ustanovení
 
-**Pokuta** (na návrh správce) — **až do výše nadhodnocení**. Tedy v příkladu výše až 600 000 Kč pokuty ve prospěch podstaty.
+- § 176 — odpovědnost věřitele za správnost údajů v přihlášce.
+- § 180 — omezení možnosti uložit peněžitou sankci věřiteli, který nevykonával práva spojená s nezjištěnou pohledávkou.
+- § 181 — ručení osob, které přihlášku za věřitele podepsaly.
+- § 182 — účinky úplného zpětvzetí na možnost uložit peněžitou sankci.
+- § 185 — rozhodnutí o odmítnutí přihlášky a ukončení účasti věřitele.
+- § 192 odst. 4 — po uplynutí přihlašovací lhůty lze měnit důvod vzniku nebo pořadí pohledávky jen v zákonných mezích a výši pohledávky již nelze rozšířit.
+- § 198 — žaloba věřitele nevykonatelné pohledávky popřené insolvenčním správcem.
 
-**Výjimka**: pokud rozhodnutí o výši **záviselo na znaleckém posudku nebo úvaze soudu** — sankce se neuplatní. *Logika*: věřitel neměl jak přesně vyčíslit.
+### Souvisící předpisy
 
-**Zpětvzetí jako obrana** (odst. 2): pokud věřitel vzal *účinně zpět* část před účinkem nepřihlížení, ta část se *nepočítá* do testu 50%.
+- Zákon č. 69/2011 Sb. — změna původní sankční úpravy s účinností od 31. 3. 2011.
+- Zákon č. 294/2013 Sb. — znění § 178 účinné od 1. 1. 2014, z něhož vychází rozhodný stav.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva k vládnímu návrhu insolvenčního zákona řadí § 178 do bloku postupů proti přehnaným pohledávkám a uvádí, že cílem bylo předejít účelovým manipulacím s přihláškami za účelem posílení vlivu věřitelů na schůzi věřitelů a ve věřitelských orgánech. Jde o historický účel původní úpravy; konkrétní právní následky je nutné číst v později změněném rozhodném znění.
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Nejde o závěr, že k § 178 relevantní literatura neexistuje.
+
+### Výklad
+
+[1] **Prahový test.** První věta odstavce 1 se použije, jestliže zjištěná výše konkrétní přihlášené pohledávky činí méně než polovinu její přihlášené výše. Při zjištění právě 50 % ani při zjištění vyšším zákonná podmínka splněna není.
+
+[2] **První následek.** Je-li test splněn a neuplatní-li se zákonná výjimka, k pohledávce se v insolvenčním řízení nepřihlíží ani v rozsahu, v němž byla zjištěna. Zákon tím nestanoví hmotněprávní zánik pohledávky; upravuje její procesní osud v insolvenčním řízení.
+
+[3] **Výjimka.** Následek podle první věty nenastane, záviselo-li rozhodnutí insolvenčního soudu o výši pohledávky na znaleckém posudku nebo na úvaze soudu. Nestačí pouhá přítomnost posudku ve spise nebo skutečnost, že soud prováděl dokazování; rozhodnutí o výši na posudku nebo soudní úvaze musí záviset.
+
+[4] **Druhá sankce.** Peněžitá povinnost podle druhé věty není automatická. Insolvenční soud ji může uložit pouze na návrh insolvenčního správce, se zřetelem ke všem okolnostem přihlášení a přezkoumání, nejvýše do rozdílu mezi přihlášenou a zjištěnou výší. Spor o tuto povinnost je incidenční. Podmínky § 180 až 182 je nutné posoudit samostatně; nelze je přenášet na automatický následek první věty.
+
+[5] **Zajištěná pohledávka.** Text § 178 nerozlišuje mezi nezajištěnou a zajištěnou přihlášenou pohledávkou. U zajištěné pohledávky může být vedle následku týkajícího se samotné pohledávky třeba samostatně posoudit § 179, který upravuje osud práva na uspokojení ze zajištění.
+
+[6] **Částečné zpětvzetí.** Část pohledávky účinně vzatá zpět před okamžikem uvedeným v odstavci 2 se pro prahový test nepovažuje za přihlášenou. Rozhodující není jen datum projevu věřitele, ale i jeho účinnost a to, zda předcházel zákonnému účinku nepřihlížení k popřené části.
+
+[7] **Procesní strategie.** Není bezpečné z § 178 odvozovat obecnou radu spornou část pohledávky nepřihlásit. Po uplynutí přihlašovací lhůty nelze přihlášenou výši rozšířit (§ 192 odst. 4). Věřitel musí před lhůtou vyhodnotit samostatnost nároků, jejich právní a důkazní základ, riziko prahového testu a případnou potřebu včasného částečného zpětvzetí; samotná spornost nároku neznamená jeho nedovolenost.
+
+[8] **Intertemporalita.** Původní znění § 178 bylo změněno zákonem č. 69/2011 Sb. a nynější konstrukce vychází ze znění účinného od 1. 1. 2014 po novele č. 294/2013 Sb. U starších insolvenčních řízení je proto nutné určit rozhodné znění a příslušná přechodná ustanovení.
+
+### Judikatura
+
+Do této revize nebylo zařazeno žádné rozhodnutí jako materiální pramen výkladu, protože v dostupném prostředí nebylo možné uzavřít validátorem požadovaný centrální snapshotový řetězec. Tím se nevyslovuje závěr o neexistenci relevantní judikatury.
+
+---
 
 ### § 179 — Sankce za nadhodnocení zajištění
 

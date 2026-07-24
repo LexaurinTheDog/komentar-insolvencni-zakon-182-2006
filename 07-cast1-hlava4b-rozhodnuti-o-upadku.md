@@ -1178,66 +1178,59 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola. Tato poz
 
 ---
 
-## § 150 — § 152 — Usnesení schůze o způsobu řešení
+## § 150 — Usnesení schůze věřitelů o způsobu řešení úpadku
 
-### Souhrnný výklad
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**Schůze věřitelů má pravomoc rozhodnout** o způsobu řešení (konkurs vs. reorganizace) **u podnikatelských dlužníků s přípustnou reorganizací**.
+### Znění ustanovení
 
-#### Hlasovací pravidla (§ 151)
+> Má-li insolvenční soud rozhodnout o způsobu řešení úpadku podle § 149 odst. 1 a je-li dlužník podnikatelem, u kterého je podle tohoto zákona přípustná reorganizace, schůze věřitelů svolaná rozhodnutím o úpadku může též přijmout usnesení o způsobu řešení dlužníkova úpadku konkursem nebo reorganizací.
+>
 
-**Kvalifikovaná dvojí většina** (odst. 1 písm. a):
-- *50% zajištěných přítomných* (podle výše) + *50% nezajištěných přítomných* (podle výše),
-- **nebo** alternativa (písm. b): *90% přítomných* (počítáno podle výše).
+### Přehled výkladu
 
-**Speciální případ** (odst. 2) — pokud jsou přítomní jen jedni (zajištění nebo nezajištění), postačí *50% z této skupiny*.
+§ 150 zakládá zvláštní rozhodovací prostor schůze věřitelů jen při současném splnění tří předpokladů: soud postupuje podle § 149 odst. 1, dlužník je podnikatelem a reorganizace je u něj podle insolvenčního zákona přípustná. Schůze svolaná rozhodnutím o úpadku pak může zvolit mezi konkursem a reorganizací. Ustanovení samo neurčuje hlasovací většinu ani účinky přijatého usnesení; ty upravují § 151 a § 152.
 
-**Písemné hlasování** (odst. 3) se nepočítá do "přítomných".
+### Souvisící ustanovení
 
-#### Vázanost soudu (§ 152)
+- § 4 odst. 2 — způsoby řešení úpadku,
+- § 49 až 52 — schůze věřitelů a hlasovací právo,
+- § 54 odst. 1 — obecná pravomoc soudu zrušit usnesení schůze,
+- § 136 odst. 2 písm. e), § 148 a § 149 — svolání schůze a časový režim rozhodnutí o způsobu řešení úpadku,
+- § 151 a § 152 — přijetí usnesení a jeho účinky pro rozhodnutí soudu,
+- § 316 a § 325 — přípustnost reorganizace a rozhodnutí o jejím povolení.
 
-Soud *rozhodne podle usnesení* schůze. *Výjimky*:
-- dlužník není už osobou s přípustným způsobem,
-- usnesení je v rozporu s reorganizačním plánem schváleným všemi skupinami věřitelů.
+### Souvisící předpisy
 
-**§ 54 odst. 1 se nepoužije** — soud *nemůže* zrušit usnesení o způsobu řešení (kromě uvedených výjimek).
+Bezprostřední předpoklady a následky usnesení podle § 150 upravuje insolvenční zákon. Pro výklad komentované normy nebyl jako nosný použit jiný právní předpis.
 
-### F. Kazuistika
+### Z důvodové zprávy
 
-**1. Modelová situace.** Na schůzi věřitelů svolané rozhodnutím o úpadku podnikatelského dlužníka (s. r. o. s přípustnou reorganizací) jsou přítomni jak zajištění, tak nezajištění věřitelé. Hlasuje se o způsobu řešení úpadku: reorganizace získá hlasy 55 % přítomných zajištěných (podle výše) a 60 % přítomných nezajištěných (podle výše). Část věřitelů hlasovala písemně mimo schůzi. Soud zvažuje, zda je usnesením schůze vázán a může reorganizaci nařídit. Důkazy: protokol o schůzi a o hlasování, prezenční listina s výší pohledávek, písemné hlasy.
+Vládní návrh spojoval § 148 až 152 do jednoho procesního celku: mimo případy spojeného rozhodnutí měl soud rozhodovat až po schůzi, na níž se věřitelé mohou k řešení úpadku závazně vyslovit. Zpráva současně odkazovala na zvláštní hlasovací kvórum a na taxativní výjimky z vázanosti soudu. Číslování odstavců a navazujících paragrafů v návrhu se od dnešního znění liší; důvodová zpráva proto dokládá původní koncepci, nikoli sama aktuální obsah § 151 a § 152. (Sněmovní tisk 1120/0, 4. volební období, zvláštní část „K § 148 až 152“, číslovaná i PDF s. 195.)
 
-**2. Právní otázka.** Bylo usnesení schůze o způsobu řešení úpadku přijato potřebnou většinou a je jím insolvenční soud vázán při rozhodnutí o reorganizaci?
+### Literatura
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 150–152 — pravomoc schůze rozhodnout o způsobu řešení u podnikatelských dlužníků s přípustnou reorganizací (§ 150); kvalifikovaná dvojí většina — 50 % přítomných zajištěných + 50 % přítomných nezajištěných (podle výše), nebo alternativně 90 % přítomných podle výše; písemné hlasy se do „přítomných" nepočítají (§ 151); vázanost soudu usnesením schůze s výjimkami a vyloučení § 54 odst. 1 (§ 152).
-- *Související ustanovení téhož zákona:* § 149 (samostatné rozhodnutí o způsobu řešení), § 148 (spojené rozhodnutí), § 316 (přípustnost reorganizace), § 49–52 (schůze a hlasování), § 54 odst. 1 (zrušení usnesení schůze — zde vyloučeno).
-- *Související předpisy:* —.
-- *Judikatura:* obecné pojetí vázanosti soudu usnesením schůze o způsobu řešení; výpočet většin podle *výše* pohledávek přítomných věřitelů.
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní literární rešerše.
 
-**4. Subsumpce.** Schůze je usnášeníschopná podle skupin; reorganizace získala 55 % přítomných zajištěných a 60 % přítomných nezajištěných (podle výše) — *kvalifikovaná dvojí většina* dle § 151 odst. 1 písm. a) je naplněna (každá skupina nad 50 %). Písemné hlasy se do „přítomných" nezapočítávají (§ 151 odst. 3), výpočet většin se tedy provádí jen z přítomných. Soud je usnesením *vázán* (§ 152), nejde-li o některou z výjimek (dlužník přestal být osobou s přípustným způsobem řešení; rozpor s plánem schváleným všemi skupinami).
+### Výklad
 
-**5. Řešení.** Soud nařídí *reorganizaci* v souladu s usnesením schůze; usnesení nemůže zrušit dle § 54 odst. 1 (ten je vyloučen), ledaže nastane některá z výjimek § 152. Procesně: ověřit usnášeníschopnost a správný výpočet většin podle výše přítomných pohledávek, vyloučit písemné hlasy z „přítomných", prověřit absenci výjimek (přípustnost reorganizace dle § 316, soulad s případným plánem).
+[1] **Tři kumulativní předpoklady.** Pravomoc schůze podle § 150 vzniká pouze tehdy, má-li soud rozhodnout v režimu § 149 odst. 1, dlužník je podnikatelem a reorganizace je u něj přípustná. Není-li některý předpoklad splněn, nelze pravomoc schůze založit samotným zařazením hlasování na pořad jednání.
 
-**6. Varianty.** (a) Kdyby přítomni byli jen nezajištění věřitelé (žádný zajištěný), postačila by *50 % většina z této skupiny* (§ 151 odst. 2). (b) Kdyby dlužník po hlasování pozbyl přípustnost reorganizace (např. nově spadl pod § 6/§ 316), soud by usnesením vázán nebyl a rozhodl by o konkursu (výjimka dle § 152).
+[2] **Vazba na § 149 odst. 1.** Komentované ustanovení se neuplatní v případech, kdy je způsob řešení úpadku určen již spolu s rozhodnutím o úpadku podle § 148, ani v odchylných situacích vymezených § 149 odst. 2. Odkaz na § 149 odst. 1 současně propojuje hlasování s první schůzí svolanou rozhodnutím o úpadku.
 
-### G. Protiargumenty a rizika
+[3] **Podnikatel a přípustnost reorganizace.** Samotné podnikatelské postavení nestačí. Přípustnost reorganizace je třeba posoudit podle § 316 v právním a skutkovém stavu rozhodném pro dané řízení. § 150 nedává schůzi pravomoc prolomit zákonné vyloučení reorganizace.
 
-- *Protiargument:* „Do většiny je třeba započítat i písemné hlasy mimo schůzi." — Neutralizace: § 151 odst. 3 stanoví, že písemné hlasování se *nepočítá* do „přítomných"; většiny se určují z přítomných věřitelů podle výše.
-- *Protiargument:* „Soud může usnesení schůze o způsobu řešení zrušit dle § 54." — Neutralizace: § 152 *vylučuje* aplikaci § 54 odst. 1; soud je usnesením vázán s úzkými výjimkami.
-- *Slabé místo:* správné určení skupin (zajištění/nezajištění) a výpočet většin podle výše přítomných pohledávek je náchylné k chybám; přípustnost reorganizace (§ 316) a soulad s případným schváleným plánem mohou založit výjimku z vázanosti.
+[4] **Předmět volby.** Schůze může přijmout usnesení, že způsobem řešení úpadku bude konkurs, nebo reorganizace. Slovo „může“ vyjadřuje možnost schůze usnesení přijmout, nikoli volnou pravomoc soudu ignorovat řádně přijaté usnesení; právní účinky usnesení stanoví § 152.
 
-### H. Praktický závěr
+[5] **Rozdělení normativních funkcí.** § 150 vymezuje, kdy a o čem schůze rozhoduje. Zda bylo usnesení přijato potřebnou většinou, se posuzuje podle § 151. Jak podle něj následně rozhodne soud a kdy vázanost nenastane, upravuje § 152. Tyto otázky nelze dovozovat jen z textu § 150.
 
-U podnikatelských dlužníků s přípustnou reorganizací rozhoduje o způsobu řešení *schůze věřitelů* kvalifikovanou dvojí většinou (50 % přítomných zajištěných + 50 % přítomných nezajištěných podle výše, nebo 90 % přítomných); písemné hlasy se do „přítomných" nepočítají. Soud je usnesením *vázán* (§ 152) a nemůže je zrušit dle § 54 odst. 1, vyjma zákonných výjimek.
+[6] **Procesní podklady.** Pro použití § 150 jsou typicky rozhodné rozhodnutí o úpadku a jím svolaná schůze, údaj o podnikatelském postavení dlužníka, podklady k přípustnosti reorganizace a protokol o schůzi. Kontrola hlasovacího výsledku a účinků usnesení už patří do aplikace § 151 a § 152.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověřit, že dlužník je podnikatel s přípustnou reorganizací (§ 150, § 316).
-- [ ] Spočítat většiny *podle výše* přítomných pohledávek v každé skupině (zajištění/nezajištění).
-- [ ] Vyloučit písemné hlasy z „přítomných" (§ 151 odst. 3).
-- [ ] Respektovat vázanost soudu usnesením schůze a vyloučení § 54 odst. 1 (§ 152).
-- [ ] Prověřit výjimky z vázanosti (ztráta přípustnosti způsobu řešení, rozpor s plánem schváleným všemi skupinami).
+[7] **Intertemporalita judikatury.** Usnesení Nejvyššího soudu 29 NSČR 30/2010 vycházelo ze znění účinného do 30. 6. 2010 a ze sporu o konkurs podnikatele, u něhož byla řešena přípustnost reorganizace a význam první schůze. Jeho závěr podporuje systémovou roli hlasování schůze tam, kde je reorganizace objektivně přípustná; dnešní postup však musí být posouzen podle aktuálního § 149 odst. 2, § 150 a § 316. Rozhodnutí nepodporuje dříve mu chybně připisované testy společného zájmu věřitelů nebo nepodjatosti správce.
 
-**Typicky rozhodné důkazy / podklady:** protokol o schůzi a o hlasování, prezenční listina s uvedením výše pohledávek, doklady o zajištění/nezajištění pohledávek, písemné hlasy, podklady k přípustnosti reorganizace (§ 316).
+### Judikatura
+
+- **Nejvyšší soud, usnesení ze dne 20. 1. 2011, sen. zn. 29 NSČR 30/2010, ECLI:CZ:NS:2011:29.NSCR.30.2010.1, R 96/2011.** Plný text, právní věta II a III a odůvodnění od pasáže vymezující rozhodné znění zákona po výklad § 148 až 152. Ve věci konkursu podnikatele soud rozlišil situaci objektivně přípustné reorganizace, v níž musí první schůze dostat prostor hlasovat, od situace, kdy se reorganizace stala definitivně nepřípustnou. Použitelnost závěru je omezena intertemporální poznámkou v marginálním čísle [7].
 
 ---
 

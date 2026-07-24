@@ -1302,6 +1302,62 @@ Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento 
 
 ---
 
+## § 152 — Vázanost insolvenčního soudu usnesením schůze věřitelů
+
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> Přijme-li schůze věřitelů usnesení podle [[#§ 150|§ 150]], rozhodne insolvenční soud o způsobu řešení úpadku podle tohoto usnesení. To neplatí, je-li v době přijetí usnesení o způsobu řešení úpadku dlužníkem osoba, u které zákon tento způsob řešení úpadku vylučuje, nebo je-li přijaté usnesení v rozporu s reorganizačním plánem přijatým všemi skupinami věřitelů, který dlužník předložil insolvenčnímu soudu po rozhodnutí o úpadku; § 54 odst. 1 se nepoužije.
+>
+
+### Přehled výkladu
+
+Ustanovení zakládá vázanost insolvenčního soudu řádně přijatým usnesením schůze věřitelů o způsobu řešení úpadku. Soud se od něho smí odchýlit pouze ve dvou zákonem vymezených případech: zvolený způsob zákon u dlužníka vylučuje, nebo usnesení odporuje kvalifikovaně přijatému reorganizačnímu plánu předloženému dlužníkem po rozhodnutí o úpadku. Usnesení nelze zrušit postupem podle § 54 odst. 1.
+
+### Souvisící ustanovení
+
+- § 4 odst. 2 — způsoby řešení úpadku
+- § 49 až 54 — hlasovací právo, hlasování a působnost insolvenčního soudu vůči usnesením schůze
+- § 148 a § 149 — čas a procesní režim rozhodnutí o způsobu řešení úpadku
+- § 150 a § 151 — předmět usnesení a většiny potřebné k jeho přijetí
+- § 316 a § 325 — přípustnost reorganizace a účinky jejího povolení
+- § 344 až 348 — předložení, přijetí a schválení reorganizačního plánu
+
+### Souvisící předpisy
+
+Subsidiární použití občanského soudního řádu se řídí § 7 insolvenčního zákona. Vlastní rozsah vázanosti a obě výjimky však upravuje přímo insolvenční zákon; obecná procesní úprava je nerozšiřuje.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona pojal dnešní § 148 až 152 jako celek, v němž se věřitelé mohou závazně vyslovit ke způsobu řešení úpadku. Zvláštní část uvádí, že důvody, pro které soud nemusí postupovat podle přijatého usnesení, jsou vypočteny taxativně. Jde o sněmovní tisk 1120/0, zvláštní část „K § 148 až 152“, číslovaná i PDF strana 195. V návrhu neslo pravidlo dnešního § 152 číslo § 151.
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní literární rešerše.
+
+### Výklad
+
+[1] **Vznik vázanosti.** Předpokladem je usnesení o způsobu řešení úpadku podle § 150 přijaté většinou stanovenou v § 151. § 152 neupravuje nové hlasování ani soudní potvrzení usnesení. Ukládá soudu, aby zvolený způsob promítl do vlastního rozhodnutí.
+
+[2] **Rozsah vázanosti.** Je-li předpoklad podle marginálního čísla [1] splněn a není dána některá ze zákonných výjimek, soud nemůže nahradit volbu věřitelů vlastním hodnocením hospodářské výhodnosti konkursu nebo reorganizace. Vázanost se týká způsobu řešení úpadku; ostatní zákonné předpoklady a následná rozhodnutí tím nejsou nahrazena.
+
+[3] **Zákonné vyloučení zvoleného způsobu.** Rozhodný je stav v době přijetí usnesení. Zvolí-li schůze způsob, který zákon u tehdejšího dlužníka vylučuje, usnesení soud neváže. Pro reorganizaci je nutné posoudit zejména § 316 v rozhodném znění; hlasování schůze samo zákonnou nepřípustnost neprolomí.
+
+[4] **Rozpor s přijatým reorganizačním plánem.** Druhá výjimka předpokládá plán předložený dlužníkem insolvenčnímu soudu po rozhodnutí o úpadku a přijatý všemi skupinami věřitelů. Nestačí pouhý návrh plánu ani plán bez přijetí všemi skupinami. Je-li usnesení schůze s takovým plánem v rozporu, soud podle usnesení nepostupuje.
+
+[5] **Vyloučení § 54 odst. 1.** Insolvenční soud není oprávněn usnesení o způsobu řešení úpadku zrušit pro rozpor se společným zájmem věřitelů podle § 54 odst. 1. Kontrola se zde odehrává uvnitř speciálních předpokladů a výjimek § 152; poslední věta ustanovení brání doplnění dalšího obecného důvodu nevázanosti.
+
+[6] **Procesní posloupnost.** Soud ověří, zda jde o usnesení podle § 150, zda bylo přijato podle § 151, a poté obě výjimky § 152. Teprve při kladném výsledku prvních dvou kroků a záporném výsledku kontroly výjimek rozhodne podle usnesení. Toto pořadí je redakční pomůckou odvozenou z textu zákona, nikoli samostatným zákonným testem.
+
+[7] **Intertemporalita.** Níže uvedené usnesení 29 NSČR 30/2010 aplikovalo insolvenční zákon ve znění účinném do 30. 6. 2010. Jeho závěry o závaznosti volby konkursu a o nevázanosti při nepřípustnosti reorganizace odpovídají struktuře § 152 i k 19. 7. 2026. Konkrétní přípustnost reorganizace a procesní postup je však vždy nutné posoudit podle znění rozhodného pro dané řízení.
+
+### Judikatura
+
+- **Nejvyšší soud, usnesení ze dne 20. 1. 2011, sen. zn. 29 NSČR 30/2010, ECLI:CZ:NS:2011:29.NSCR.30.2010.1, R 96/2011.** V řízení o konkursu podnikatele Nejvyšší soud potvrdil, že usnesení schůze přijaté předepsanou většinou pro konkurs závazně určuje způsob řešení úpadku, i když byl jinak podán včasný a věcně odůvodněný návrh na reorganizaci. Současně vyložil, že soud usnesení neváže, je-li reorganizace zákonem vyloučena nebo se stala definitivně nepřípustnou. Rozhodnutí vychází ze znění účinného do 30. 6. 2010 a nepodporuje širší přezkum podle § 54 odst. 1.
+
+---
+
 ## § 153 — § 157 — Znalecké ocenění při reorganizaci
 
 ### Souhrnný výklad

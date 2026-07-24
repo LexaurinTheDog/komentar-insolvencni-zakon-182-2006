@@ -1805,52 +1805,74 @@ Odborná literatura byla rozhodnutím editora odložena do druhého kola. Nejde 
 
 ---
 
-## § 160 — § 164 — Procesní pravidla incidenčních sporů
+## § 160 — Řízení v incidenčním sporu
 
-### F. Kazuistika
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**1. Modelová situace.** Insolvenční správce S podá u insolvenčního soudu *incidenční žalobu* o určení neúčinnosti darovací smlouvy, kterou dlužník převedl pozemek na osobu blízkou (odpůrčí žaloba). Žaloba je podána *po lhůtě* stanovené zákonem pro tento typ sporu a navíc jí chybí vylíčení rozhodujících skutečností. Současně v jiném incidenčním sporu (o pravost popřené pohledávky) odpadne podmínka řízení — žalobce ztratí způsobilost být účastníkem bez právního nástupce. Důkazy: incidenční žaloby a jejich obsah, doklad o datu doručení soudu, výzva k odstranění vad, listiny ke ztrátě podmínky řízení.
+### Znění ustanovení
 
-**2. Právní otázka.** Jakým procesním režimem se řídí incidenční spor (žaloba, příslušnost soudce, doručování) a kdy soud žalobu *odmítne* a kdy řízení *zastaví*?
+> (1) Incidenční spor se projedná a rozhodne na návrh oprávněné osoby, podaný v rámci insolvenčního řízení u insolvenčního soudu; tento návrh má povahu žaloby24).
+>
+> (2) Stanoví-li tak rozvrh práce, incidenční spor projedná a rozhodne jiný soudce insolvenčního soudu.
+>
+> (3) V řízení o žalobě podle odstavce 1 se z ustanovení části první hlavy třetí tohoto zákona použijí pouze ustanovení o doručování; nejde-li o případ podle § 80 odst. 1, účastníkům řízení se rozhodnutí ve věci samé doručuje do vlastních rukou. Insolvenčního správce, který není účastníkem incidenčního sporu, insolvenční soud vždy neprodleně vyrozumí o rozhodnutích v tomto sporu vydaných; ustanovení § 75 odst. 2 se nepoužije.
+>
+> (4) Žalobu podanou podle odstavce 1 opožděně nebo osobou, která k tomu nebyla oprávněna, insolvenční soud odmítne. Stejně postupuje, má-li žaloba nedostatky, které se nepodařilo odstranit a které mu brání v řízení o ní pokračovat25).
+>
+> (5) Brání-li projednání žaloby podle odstavce 1 nedostatek podmínky řízení, který nelze odstranit, nebo který se nepodařilo odstranit, insolvenční soud řízení o této žalobě zastaví.
+>
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 160 — návrh na zahájení incidenčního sporu má povahu *žaloby* (§ 79 o. s. ř.); spor projednává *insolvenční soud* (případně jiný soudce dle rozvrhu — odst. 2); doručování dle Hlavy III (vyhláška + zvláštní doručení rozhodnutí do vlastních rukou); *odmítnutí* opožděné, neoprávněné či neopravitelně vadné žaloby; *zastavení* při neodstranitelném nedostatku podmínky řízení.
-- *Související ustanovení téhož zákona:* § 159 (katalog incidenčních sporů), § 161–164 (jednání, forma rozhodnutí, náklady, závaznost), § 192–198 (popírání pohledávek), § 235–243 (neúčinné úkony).
-- *Související předpisy:* § 79, § 43, § 104, § 160 o. s. ř. (náležitosti žaloby, odstraňování vad, zastavení pro neodstranitelný nedostatek podmínky řízení, příprava jednání).
-- *Judikatura:* NS 29 Cdo 3626/2023 (účinky rozsudku v incidenčním sporu se omezují na insolvenční řízení); NS 29 ICdo 36/2023 (spor o zrušení schválené dohody o vypořádání SJM není incidenčním sporem — vymezení hranic incidenčního režimu).
+### Přehled výkladu
 
-**4. Subsumpce.** Incidenční žaloba je *žalobou* dle § 79 o. s. ř. projednávanou insolvenčním soudem (§ 160 odst. 1, 2). Odpůrčí žaloba podaná *po lhůtě* je opožděná a soud ji *odmítne*; vada spočívající v absenci vylíčení rozhodujících skutečností je odstranitelná postupem dle § 43 o. s. ř., a teprve *neodstraní-li* ji žalobce, žaloba se odmítá pro neopravitelnou vadu (§ 160). Odpadnutí způsobilosti účastníka bez nástupce je *neodstranitelným nedostatkem podmínky řízení* → *zastavení* (§ 160 ve spojení s § 104 o. s. ř.).
+§ 160 upravuje zahájení a základní procesní rámec incidenčního sporu. Návrh oprávněné osoby je žalobou podanou v rámci insolvenčního řízení u insolvenčního soudu. Rozvrh práce může určit jiného soudce téhož soudu. Z procesních ustanovení části první hlavy třetí insolvenčního zákona se použijí pouze ustanovení o doručování. Odstavce 4 a 5 oddělují odmítnutí žaloby od zastavení řízení.
 
-**5. Řešení.** Soud incidenční žalobu projedná ve zvláštním režimu § 160 a násl.: opožděnou odpůrčí žalobu *odmítne*; u odstranitelných vad nejprve *vyzve* k jejich odstranění a odmítne až při neodstranění. Druhý spor pro neodstranitelný nedostatek podmínky řízení *zastaví*. Procesně: hlídat lhůty pro jednotlivé typy incidenčních žalob (zejm. odpůrčí), správně rozlišovat odmítnutí (vady žaloby) od zastavení (podmínky řízení) a respektovat rozvrh práce při určení soudce.
+### Souvisící ustanovení
 
-**6. Varianty.** (a) Kdyby žaloba byla podána *včas* a bez vad, soud by ji projednal a meritorně rozhodl rozsudkem (§ 162). (b) Šlo-li by o spor, který *není* incidenčním (např. spor o zrušení dohody o vypořádání SJM — NS 29 ICdo 36/2023), neaplikoval by se režim § 160 a násl., nýbrž obecná úprava o. s. ř.
+- § 7 — subsidiární použití občanského soudního řádu,
+- § 71 až 80 — doručování v insolvenčním řízení,
+- § 80a — podání vůči insolvenčnímu soudu; v incidenčních sporech se nepoužije,
+- § 159 — vymezení incidenčních sporů,
+- § 161 až 164 — jednání, rozhodnutí, náklady a závaznost rozsudku,
+- § 192 až 200 — spory o pravost, výši nebo pořadí pohledávek,
+- § 225 a § 226 — vyloučení majetku z majetkové podstaty,
+- § 235 až 243 — neúčinnost právních jednání.
 
-### G. Protiargumenty a rizika
+### Souvisící předpisy
 
-- *Protiargument:* „Incidenční žalobu lze podat kdykoli za trvání insolvenčního řízení." — Neutralizace: jednotlivé typy incidenčních žalob mají *vlastní lhůty* (zejm. po popření pohledávky či pro odpůrčí žalobu dle § 239); opožděnou žalobu soud odmítne (§ 160).
-- *Protiargument:* „Vadnou žalobu soud rovnou odmítne." — Neutralizace: *odstranitelné* vady se nejprve řeší výzvou dle § 43 o. s. ř.; odmítnutí přichází až u vad *neopravitelných* nebo neodstraněných.
-- *Slabé místo:* záměna *odmítnutí* (vady žaloby) a *zastavení* (nedostatek podmínky řízení) vede k vadnému procesnímu rozhodnutí; sporné může být i určení příslušného soudce dle rozvrhu práce (odst. 2).
+- zákon č. 99/1963 Sb., občanský soudní řád, zejména § 42 a § 42a (forma a způsob podání), § 43 (odstraňování vad), § 79 (zahájení řízení a náležitosti žaloby), § 103 a § 104 (podmínky řízení).
 
-### H. Praktický závěr
+### Z důvodové zprávy
 
-Procesní rámec incidenčních sporů (§ 160 a násl.) je zvláštním typem sporného řízení v insolvenci: zahajuje se *žalobou* (§ 79 o. s. ř.), projednává jej *insolvenční soud* (či jiný soudce dle rozvrhu), doručuje se dle Hlavy III a soud žalobu *odmítne* (opožděná, neoprávněná, neopravitelně vadná), resp. řízení *zastaví* (neodstranitelný nedostatek podmínky řízení). Klíčové je hlídat lhůty a správně volit mezi odmítnutím a zastavením.
+Oficiální důvodová zpráva k vládnímu návrhu insolvenčního zákona vykládá § 159 až 164 společně. Za základní změnu označuje projednávání incidenčního sporu v rámci insolvenčního řízení, motivované hospodárností a rychlostí; současně zachovává jeho spornou povahu a zvláštní procesní režim. Jde o historické vysvětlení původního návrhu, nikoli o náhradu aktuálního znění. (Sněmovní tisk 1120/0, 4. volební období, zvláštní část „K § 159–164“, číslované s. 196, PDF s. 197.)
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověřit, že spor patří do katalogu incidenčních sporů (§ 159), a teprve pak aplikovat § 160 a násl.
-- [ ] Podat incidenční žalobu *včas* a s náležitostmi § 79 o. s. ř. (vylíčení rozhodujících skutečností, žalobní petit).
-- [ ] U vadné žaloby rozlišit odstranitelnost vady (výzva dle § 43 o. s. ř.) od neopravitelnosti (odmítnutí).
-- [ ] U nedostatku podmínky řízení posoudit odstranitelnost; neodstranitelný → zastavení (§ 104 o. s. ř.).
-- [ ] Respektovat rozvrh práce při určení soudce (§ 160 odst. 2) a pravidla doručování Hlavy III.
+### Literatura
 
-**Typicky rozhodné důkazy / podklady:** incidenční žaloba a doklad o datu jejího doručení soudu, výzva k odstranění vad a reakce na ni, listiny prokazující (ne)splnění podmínek řízení, rozvrh práce insolvenčního soudu, doklady ke ztrátě způsobilosti účastníka.
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Toto konstatování není výsledkem negativní rešerše.
 
-### § 160 — Řízení v incidenčním sporu
+### Výklad
 
-- *Návrh*: má povahu **žaloby** (§ 79 OSŘ),
-- *Soud*: insolvenční soud (případně jiný soudce dle rozvrhu),
-- *Doručování*: použijí se pravidla Hlavy III (vyhláška + zvláštní doručení rozhodnutí účastníkům do vlastních rukou),
-- *Odmítnutí*: opožděná, neoprávněná, neopravitelně vadná žaloba — *odmítnutí*,
-- *Zastavení*: neodstranitelný nedostatek podmínky řízení.
+[1] **Žaloba v rámci insolvenčního řízení.** Incidenční spor se zahajuje návrhem oprávněné osoby, který zákon kvalifikuje jako žalobu. Zda jde o incidenční spor a kdo je oprávněn žalobu podat, plyne z § 159 a ze zvláštní úpravy konkrétního druhu sporu. Samotná účast osoby v insolvenčním řízení procesní oprávnění k libovolné incidenční žalobě nezakládá.
+
+[2] **Insolvenční soud a rozvrh práce.** Žaloba se podává v rámci insolvenčního řízení u insolvenčního soudu. Odstavec 2 dovoluje, aby ji podle rozvrhu práce projednal a rozhodl jiný soudce tohoto soudu; nejde o založení příslušnosti jiného soudu.
+
+[3] **Subsidiarita občanského soudního řádu.** Protože § 160 upravuje jen vybrané otázky, použijí se podle § 7 přiměřeně pravidla o. s. ř. pro sporné řízení, pokud insolvenční zákon nestanoví jinak a takový postup není v rozporu se zásadami insolvenčního řízení. Náležitosti žaloby a postup při odstraňování jejích vad se proto posuzují zejména podle § 79 a § 43 o. s. ř.
+
+[4] **Uzavřený odkaz na doručování.** Odstavec 3 z části první hlavy třetí insolvenčního zákona přebírá pouze ustanovení o doručování. Nejvyšší soud v usnesení sen. zn. 29 ICdo 123/2021 vyložil, že § 80a upravuje podání vůči insolvenčnímu soudu, nikoli doručování; v incidenčních sporech se proto nepoužije. V tehdejším vylučovacím sporu tak listinná žaloba nebyla vadná jen proto, že ji osoba s povinně zřízenou datovou schránkou nepodala datovou schránkou.
+
+[5] **Rozhodnutí a vyrozumění správce.** Meritorní rozhodnutí se účastníkům doručuje do vlastních rukou, nejde-li o případ § 80 odst. 1. Insolvenční správce, který není účastníkem sporu, musí být neprodleně vyrozuměn o všech rozhodnutích vydaných v daném sporu; fikce vyrozumění podle § 75 odst. 2 je výslovně vyloučena.
+
+[6] **Odmítnutí žaloby.** Insolvenční soud odmítne incidenční žalobu podanou opožděně nebo neoprávněnou osobou. Odmítne ji také tehdy, zůstanou-li po postupu k odstranění vad takové nedostatky, které brání pokračování v řízení. Ne každá vada tedy vede bez dalšího k odmítnutí.
+
+[7] **Procesní oprávnění není věcná legitimace.** Usnesení Nejvyššího soudu sen. zn. 29 ICdo 23/2023 rozlišuje incidenční žalobu od žaloby z hlavní intervence. V konkursu není dlužník oprávněn podat incidenční žalobu o určení pravosti, výše nebo pořadí pohledávky, jestliže jeho popření nemá vliv na její zjištění; taková incidenční žaloba se odmítá podle § 160 odst. 4. Naproti tomu nedostatek věcné legitimace u žaloby, která incidenční žalobou není, vede k meritornímu zamítnutí, nikoli k odmítnutí podle § 160 odst. 4.
+
+[8] **Zastavení řízení.** Nedostatek podmínky řízení se řeší odlišně od vad žaloby. Nelze-li jej odstranit nebo nepodařilo-li se jej odstranit, soud řízení zastaví. Při kvalifikaci následku je proto třeba určit, zda jde o opožděnost či nedostatek oprávnění, o vadu žaloby, anebo o nedostatek podmínky řízení.
+
+[9] **Intertemporalita.** Usnesení sen. zn. 29 ICdo 123/2021 posuzovalo vztah § 160 odst. 3 k § 80a účinnému od 1. 7. 2017 a výslovně zaznamenalo, že rozhodná část § 160 odst. 3 zůstala novelami č. 64/2017 Sb. a č. 31/2019 Sb. nedotčena. Obě zde uvedená rozhodnutí jsou použitelná pro vyložené procesní závěry i k 19. 7. 2026; u dřívějších procesních úkonů je však nutné ověřit tehdy účinné znění.
+
+### Judikatura
+
+- **Nejvyšší soud, usnesení ze dne 14. 12. 2022, sen. zn. 29 ICdo 123/2021, ECLI:CZ:NS:2022:29.ICDO.123.2021.1.** V incidenčním vylučovacím sporu řešil formu žaloby podané v listinné podobě osobou s povinně zřízenou datovou schránkou. V bodech 25 až 32 odůvodnění uzavřel, že § 80a není ustanovením o doručování, a přes odkaz v § 160 odst. 3 se proto v incidenčních sporech nepoužije.
+- **Nejvyšší soud, usnesení ze dne 29. 3. 2023, sen. zn. 29 ICdo 23/2023, ECLI:CZ:NS:2023:29.ICDO.23.2023.1.** Ve věci hlavní intervence dlužnice do sporu o pravost pohledávek vymezil rozdíl mezi touto žalobou a incidenční žalobou. V bodech 21 až 27 odůvodnění potvrdil, že dlužník v konkursu bez účinného popěrného práva není oprávněn zahájit odporový incidenční spor; incidenční žaloba se odmítá podle § 160 odst. 4, zatímco nedostatek věcné legitimace v jiné věci vede k zamítnutí žaloby.
 
 ### § 161 — Jednání
 

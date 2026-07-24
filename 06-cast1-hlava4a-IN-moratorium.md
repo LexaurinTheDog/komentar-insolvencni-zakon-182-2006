@@ -2372,6 +2372,69 @@ Do tohoto kola nebylo zařazeno žádné rozhodnutí. Tím se nevyslovuje závě
 
 ---
 
+## § 132 — Osvědčení úpadku při dlužnickém návrhu
+
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) U insolvenčního návrhu dlužníka postačí, jsou-li rozhodné skutečnosti osvědčeny údaji insolvenčního návrhu a jeho přílohami.
+>
+> (2) Má-li dlužník více statutárních orgánů oprávněných jednat jeho jménem samostatně nebo má-li více osob, které mají postavení statutárního orgánu, oprávněných jednat jeho jménem samostatně, a není-li jeho insolvenční návrh některou z těchto osob podepsán, insolvenční soud vydá rozhodnutí o úpadku až poté, co se takováto osoba k insolvenčnímu návrhu vyjádřila nebo jí uplynula lhůta k vyjádření. Obdobně se postupuje, má-li dlužník více zákonných zástupců oprávněných jednat jeho jménem samostatně.
+>
+> (3) Podle odstavce 1 nelze postupovat, vyjdou-li v průběhu insolvenčního řízení najevo skutečnosti, které jsou s tvrzeními dlužníka obsaženými v insolvenčním návrhu nebo se skutečnostmi obsaženými v listinách připojených k insolvenčnímu návrhu v rozporu. Totéž platí, jestliže insolvenční soud zjistí, že další osoby oprávněné jednat jménem dlužníka, které insolvenční návrh nepodepsaly, s podáním insolvenčního návrhu nesouhlasí.
+>
+
+### Přehled výkladu
+
+Ustanovení zjednodušuje osvědčení rozhodných skutečností u dlužnického insolvenčního návrhu, nikoli však zákonné znaky úpadku ani náležitosti návrhu a jeho příloh. Současně chrání před rozhodnutím založeným na jednostranném projevu jen některé z více samostatně jednajících osob a vylučuje zjednodušený postup, objeví-li se skutkový rozpor nebo nesouhlas další oprávněné osoby.
+
+### Souvisící ustanovení
+
+- § 3 — úpadek a hrozící úpadek,
+- § 86 — zjišťování rozhodných skutečností insolvenčním soudem,
+- § 103 a 104 — náležitosti insolvenčního návrhu a jeho přílohy,
+- § 131 — obecný požadavek osvědčení rozhodných skutečností,
+- § 133 odst. 2 — jednání při dokazování nad rámec důkazních návrhů u dlužnického návrhu,
+- § 134 — lhůta k rozhodnutí v případě podle § 132 odst. 1,
+- § 136 odst. 1 — zjištění úpadku nebo hrozícího úpadku osvědčením nebo dokazováním.
+
+### Souvisící předpisy
+
+Subsidiární procesní rámec plyne z občanského soudního řádu prostřednictvím § 7 insolvenčního zákona; § 132 je vůči němu zvláštní úpravou osvědčení při dlužnickém insolvenčním návrhu.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva rozlišovala způsob osvědčování podle toho, zda návrh podává dlužník, nebo jiná osoba, a zjednodušení dlužnického návrhu spojovala s údaji návrhu a jeho příloh. Její pasáž o vyvratitelné domněnce úpadku se vztahovala k druhé větě § 132 odst. 1 tehdejší osnovy, kterou aktuální znění neobsahuje, a nelze ji proto přenášet do současného výkladu. Smysl odstavce 2 zpráva spojovala s řešením vnitřních rozporů osob oprávněných jednat za dlužníka. (Sněmovní tisk 1120/0, 4. volební období, zvláštní část „K § 132 a 133“, číslovaná s. 190, PDF s. 191.)
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní rešerše a nevypovídá o tom, zda relevantní literatura existuje.
+
+### Výklad
+
+[1] **Rozsah zjednodušení.** Odstavec 1 dovoluje osvědčit rozhodné skutečnosti údaji dlužníkova insolvenčního návrhu a jeho přílohami. Slovo „postačí“ vyjadřuje zdroj osvědčení; nezakládá nevyvratitelnou domněnku úpadku a neodstraňuje povinnost soudu posoudit, zda osvědčené skutečnosti naplňují § 3.
+
+[2] **Náležitosti návrhu a příloh.** § 132 nenahrazuje § 103 a 104. Zjednodušený postup předpokládá obsah, z něhož lze rozhodné skutečnosti vůbec zjistit, a přílohy vyžadované zákonem. Z pouhého označení podání jako dlužnického insolvenčního návrhu nelze úpadek dovodit.
+
+[3] **Osvědčení není vždy konečným procesním režimem.** Vyjdou-li najevo rozpory uvedené v odstavci 3, podle odstavce 1 postupovat nelze. Je-li pro zjištění úpadku nebo hrozícího úpadku třeba dokazování nad rámec důkazních návrhů účastníků, § 133 odst. 2 vyžaduje jednání i u dlužnického návrhu.
+
+[4] **Více samostatně jednajících osob.** Odstavec 2 dopadá na situaci, kdy za dlužníka může samostatně jednat více statutárních orgánů, více osob v postavení statutárního orgánu nebo více zákonných zástupců a některá taková osoba návrh nepodepsala. Soud nesmí vydat rozhodnutí o úpadku dříve, než se nepodepsaná osoba vyjádří nebo jí marně uplyne lhůta k vyjádření.
+
+[5] **Procesní účinek, nikoli požadavek jednomyslnosti.** Odstavec 2 nestanoví, že návrh musí podepsat všechny samostatně jednající osoby, ani že rozhodnutí o úpadku vyžaduje jejich souhlas. Zajišťuje jim možnost vyjádřit se před rozhodnutím; jejich skutečný nesouhlas však podle odstavce 3 vylučuje postup podle odstavce 1.
+
+[6] **Dva okruhy rozporů.** První věta odstavce 3 míří na rozpor nově vyšlých skutečností s tvrzeními návrhu nebo s obsahem připojených listin. Druhá věta míří na zjištěný nesouhlas dalších osob oprávněných jednat za dlužníka, které návrh nepodepsaly. V obou případech odpadá jen zjednodušený postup podle odstavce 1; zákon z tohoto ustanovení samotného nedovozuje automatické zamítnutí či odmítnutí návrhu.
+
+[7] **Lhůta k rozhodnutí.** Odkaz § 134 na případ podle § 132 odst. 1 váže patnáctidenní lhůtu k rozhodnutí na použitelnost zjednodušeného režimu. Nastane-li důvod podle odstavce 3, nelze tuto zvláštní lhůtu mechanicky odvozovat z pouhého původního podání dlužnického návrhu.
+
+[8] **Časová použitelnost.** Pro řízení a procesní úkony z dřívější doby je nutné ověřit tehdy účinné znění. Zejména historické vysvětlení osnovy nelze zaměnit za aktuální text ani z něj dovozovat dnes neobsaženou domněnku úpadku.
+
+### Judikatura
+
+Do tohoto kola nebylo zařazeno žádné rozhodnutí. Tím se nevyslovuje závěr, že relevantní judikatura neexistuje; žádný judikatorní závěr nebyl použit jako opora materiálních tvrzení tohoto komentáře.
+
+---
+
 ## § 133 — Jednání o návrhu
 
 > (1) Nebyl-li insolvenční návrh odmítnut nebo nebylo-li řízení o něm zastaveno, lze o insolvenčním návrhu jiné osoby než dlužníka rozhodnout bez jednání jen tehdy, jestliže

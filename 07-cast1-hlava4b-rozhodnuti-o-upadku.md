@@ -635,48 +635,59 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola; toto sd�
 
 ## § 141a — Právní moc rozhodnutí o úpadku
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Po právní moci rozhodnutí o úpadku zastaví soud nebo jiný k tomu příslušný orgán řízení o pohledávkách nebo jiných právech, která byla zahájena v rozporu s omezeními podle § 109 odst. 1 písm. a) a podle § 140c.
+>
+
+### Přehled výkladu
+
+Ustanovení stanoví zvláštní procesní následek porušení dvou zákazů zahájit řízení. Jakmile rozhodnutí o úpadku nabyde právní moci a jeho účinky stále trvají, soud nebo jiný příslušný orgán zastaví řízení zahájené v rozporu s § 109 odst. 1 písm. a) nebo § 140c. Rozhodné je, zda konkrétní řízení spadalo do věcného a časového rozsahu některého z těchto zákazů; samotná existence insolvenčního řízení k zastavení nestačí.
+
+### Souvisící ustanovení
+
+- **§ 109 odst. 1 písm. a), odst. 4 a 5** — zákaz žalobního uplatnění práv, která lze uplatnit přihláškou, okamžik vzniku a doba trvání účinků zahájení insolvenčního řízení.
+- **§ 140a odst. 1** — okamžik účinků rozhodnutí o úpadku a přerušení vymezených soudních a rozhodčích řízení.
+- **§ 140c** — zákaz zahajovat za trvání účinků rozhodnutí o úpadku vymezená soudní a rozhodčí řízení.
+- **§ 170 a § 173** — pohledávky vyloučené z uspokojení a přihlašování pohledávek; význam pro věcný rozsah zákazů se vždy posuzuje podle konkrétní pohledávky.
+- **§ 263 odst. 1** — účinky prohlášení konkursu na probíhající řízení; možnost postupu podle § 141a zůstává výslovně nedotčena.
+
+### Souvisící předpisy
+
+- **Zákon č. 99/1963 Sb., občanský soudní řád** — obecný procesní rámec soudního řízení se použije přiměřeně podle § 7 insolvenčního zákona; přímým zvláštním základem zastavení je § 141a insolvenčního zákona.
+
+### Z důvodové zprávy
+
+Zvláštní část důvodové zprávy k bodům 71 až 73 vládního návrhu zákona č. 294/2013 Sb. označuje nový § 141a za úpravu důsledků porušení zákazu zahájit nové řízení podle § 109 odst. 1 písm. a) a § 140c. U první větve navazuje na tehdy ustálenou judikaturu. Viz sněmovní tisk 929/0, 6. volební období, číslovaná s. 128–130, zejména s. 130 (PDF s. 129–131).
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Nejde o závěr, že relevantní literatura neexistuje.
 
 ### Výklad
 
-Po právní moci úpadku — řízení zahájená v rozporu se zákazem se **definitivně zastavují**. To je *koherentní s § 140a—c* — řízení, která neměla vůbec vzniknout, jsou eliminována.
+[1] **Dvě zákonné větve.** § 141a nedává samostatnou definici zakázaného řízení. První větev přebírá věcný rozsah § 109 odst. 1 písm. a): po vzniku účinků zahájení insolvenčního řízení nelze žalobou uplatnit pohledávku nebo jiné právo týkající se majetkové podstaty, lze-li je uplatnit přihláškou. Druhá větev přebírá širší výčet soudních a rozhodčích řízení zakázaných po dobu účinků rozhodnutí o úpadku v § 140c.
 
-### F. Kazuistika
+[2] **Časový test.** U § 109 odst. 1 písm. a) je hranicí okamžik zveřejnění vyhlášky oznamující zahájení insolvenčního řízení (§ 109 odst. 4). U § 140c je hranicí okamžik zveřejnění rozhodnutí o úpadku (§ 140a odst. 1 věta první). Tytéž časové údaje proto určují, zda bylo posuzované řízení „zahájeno v rozporu“ se zákazem.
 
-**1. Modelová situace.** Věřitel V po zahájení insolvenčního řízení (v rozporu s § 109 odst. 1 písm. a) podal žalobu o zaplacení pohledávky proti dlužníku; jiný věřitel W zahájil rozhodčí řízení až po zveřejnění rozhodnutí o úpadku (v rozporu s § 140c). Rozhodnutí o úpadku nabylo právní moci. Soud a rozhodce nevědí, jak s těmito řízeními naložit. Důkazy: žaloba V a její datum, rozhodčí návrh W a jeho datum, rozhodnutí o úpadku s vyznačením právní moci.
+[3] **Právní moc a trvání účinků.** Zastavení lze vyslovit po právní moci rozhodnutí o úpadku. Judikatura současně váže postup na to, že účinky rozhodnutí o úpadku stále trvají. Jde o příkaz příslušnému orgánu; text nepodmiňuje zastavení návrhem účastníka.
 
-**2. Právní otázka.** Jaký je osud řízení zahájených v rozporu s § 109 odst. 1 písm. a) a § 140c poté, co rozhodnutí o úpadku nabylo právní moci?
+[4] **Vztah k přerušení.** Bylo-li řízení zahájeno po vzniku účinků zahájení insolvenčního řízení v rozporu s § 109 odst. 1 písm. a), avšak před zveřejněním rozhodnutí o úpadku, zveřejněním rozhodnutí se podle § 140a odst. 1 přeruší. Po právní moci rozhodnutí o úpadku se však při trvání jeho účinků zastaví podle § 141a. Naproti tomu řízení zahájené před vznikem zákazu § 109 odst. 1 písm. a) není jen proto řízením zahájeným v rozporu s tímto ustanovením.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 141a — po právní moci rozhodnutí o úpadku soud (či jiný příslušný orgán) *zastaví* řízení o pohledávkách a jiných právech zahájená v rozporu s § 109 odst. 1 písm. a) a § 140c.
-- *Související ustanovení téhož zákona:* § 109 odst. 1 písm. a) (omezení od zahájení IR); § 140c (zákaz zahájení nových řízení po úpadku); § 140a (přerušení probíhajících řízení — odlišný osud); § 173 (přihlášky).
-- *Související předpisy:* § 104 o. s. ř. (zastavení řízení pro neodstranitelný nedostatek podmínky), zákon o rozhodčím řízení.
-- *Judikatura:* obecné pojetí navazující na § 140a–c — řízení, která neměla vzniknout, se po právní moci úpadku eliminují zastavením; věřitel se uspokojuje v insolvenci.
+[5] **Řízení zahájené po rozhodnutí o úpadku.** Je-li vymezené soudní nebo rozhodčí řízení zahájeno až za trvání účinků rozhodnutí o úpadku v rozporu s § 140c, nepůsobí na ně zpětně přerušení spojené se zveřejněním již dříve vydaného rozhodnutí. Po právní moci rozhodnutí o úpadku je při trvání jeho účinků výsledkem zastavení podle § 141a; to platí i tehdy, byla-li žaloba podána až po nabytí právní moci.
 
-**4. Subsumpce.** Žaloba V byla zahájena v rozporu s § 109 odst. 1 písm. a) a rozhodčí řízení W v rozporu s § 140c — obě spadají pod § 141a. Podmínkou aplikace je *právní moc* rozhodnutí o úpadku (splněna). Soud i rozhodce proto řízení *zastaví*; jde o důsledek nedostatku podmínky řízení, který nelze zhojit.
+[6] **Způsob řešení úpadku.** Pro následek podle § 141a není rozhodné, zda je úpadek řešen konkursem, reorganizací nebo oddlužením. Rozhodující zůstává porušení některého z odkazovaných zákazů, právní moc rozhodnutí o úpadku a trvání jeho účinků.
 
-**5. Řešení.** Po právní moci úpadku soud řízení o žalobě V a rozhodce řízení W *zastaví*. Věřitelé V i W musí pohledávky uplatnit *přihláškou* do insolvence (§ 173); samostatná řízení jim k uspokojení neslouží. Procesně: soud/rozhodce z úřední povinnosti ověří úpadek a jeho právní moc a vydá usnesení o zastavení; věřitelé podají přihlášky.
+[7] **Rozsah následku.** Zastavení se vztahuje na řízení o té pohledávce nebo jiném právu, jehož uplatnění odporovalo § 109 odst. 1 písm. a) nebo § 140c. Nelze je mechanicky vztáhnout na řádně zahájené řízení ani bez posouzení povahy uplatněného práva. Zejména není správné každou pohledávku dotčenou § 140c automaticky označit za pohledávku, kterou lze přihlásit; § 140c zahrnuje také pohledávky, na něž se hledí jako na přihlášené, a pohledávky podle § 170.
 
-**6. Varianty.** (a) Pokud řízení *probíhalo již před úpadkem* a jen se přerušilo dle § 140a, jeho osudem není zastavení dle § 141a, nýbrž přerušení s možností pozdějšího pokračování (§ 263). (b) Dokud rozhodnutí o úpadku *nenabylo právní moci*, k zastavení dle § 141a nedojde — řízení zůstává (přerušeno či nepřípustně vedeno) bez konečného zastavení.
+[8] **Intertemporalita.** § 141a byl vložen zákonem č. 294/2013 Sb. s účinností od 1. 1. 2014. Podle R 26/2017 se uplatní i v insolvenčním řízení vedeném k tomuto dni, v němž bylo rozhodnutí o úpadku vydáno před 1. 1. 2014, jestliže po tomto dni jeho účinky stále trvaly. Tento historický závěr je třeba odlišit od pravidla § 140a: přerušení je vázáno na okamžik zveřejnění rozhodnutí o úpadku, a proto se zpětně k rozhodnutí zveřejněnému před 1. 1. 2014 nepřipojilo.
 
-### G. Protiargumenty a rizika
+### Judikatura
 
-- *Protiargument:* „Řízení bylo zahájeno, soud o něm musí meritorně rozhodnout." — Neutralizace: § 141a ukládá po právní moci úpadku takové (nepřípustně zahájené) řízení *zastavit*; jde o neodstranitelný nedostatek podmínky řízení, věřitel se uspokojuje přihláškou.
-- *Protiargument:* „§ 141a se vztahuje i na řízení přerušená dle § 140a." — Neutralizace: § 141a dopadá jen na řízení *zahájená v rozporu* s § 109 odst. 1 písm. a) a § 140c; řádně probíhající a přerušená řízení mají osud dle § 140a a § 263.
-- *Slabé místo:* zastavení je vázáno na *právní moc* úpadku — do té doby panuje nejistota o osudu řízení; odlišení „nepřípustně zahájeného" od „přerušeného" řízení může být sporné.
-
-### H. Praktický závěr
-
-§ 141a uzavírá soustavu zákazů: po *právní moci* rozhodnutí o úpadku se řízení zahájená v rozporu s § 109 odst. 1 písm. a) a § 140c definitivně *zastavují*. Týká se jen řízení, která neměla vzniknout — nikoli řádně probíhajících řízení přerušených dle § 140a. Věřitel uplatní pohledávku přihláškou.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověřit, že rozhodnutí o úpadku nabylo právní moci (podmínka aplikace § 141a).
-- [ ] Zjistit, zda bylo řízení zahájeno v rozporu s § 109 odst. 1 písm. a) nebo § 140c.
-- [ ] Odlišit nepřípustně zahájené řízení (zastavení) od přerušeného řízení dle § 140a (pokračování).
-- [ ] Vydat usnesení o zastavení řízení z úřední povinnosti.
-- [ ] Věřitele odkázat na přihlášku pohledávky do insolvence.
-
-**Typicky rozhodné důkazy / podklady:** datum zahájení řízení vs. datum zahájení insolvence / zveřejnění úpadku, rozhodnutí o úpadku s vyznačením právní moci, spis dotčeného řízení, přihláška pohledávky.
+- **Nejvyšší soud, usnesení ze dne 31. 5. 2017, sp. zn. 29 Cdo 5749/2016, ECLI:CZ:NS:2017:29.CDO.5749.2016.1, R 128/2018.** Věřitel podal žalobu o úvěrovou pohledávku po zahájení insolvenčního řízení, po zveřejnění i právní moci rozhodnutí o úpadku, a tutéž pohledávku přihlásil. Nejvyšší soud rozlišil řízení zahájené před vznikem účinků insolvenčního řízení, řízení zahájené v rozporu s § 109 odst. 1 písm. a) před rozhodnutím o úpadku a řízení zahájené v rozporu s § 140c. V posledních dvou případech dovodil při trvání účinků rozhodnutí o úpadku po jeho právní moci povinnost řízení neprodleně zastavit podle § 141a bez ohledu na způsob řešení úpadku. Viz body 17 až 26 odůvodnění, zejména bod 24.
+- **Nejvyšší soud, usnesení ze dne 3. 5. 2016, sp. zn. 29 Cdo 1136/2016, ECLI:CZ:NS:2016:29.CDO.1136.2016.1, R 26/2017.** Ve sporu o pohledávku vedeném souběžně s reorganizací zahájenou před 1. 1. 2014 Nejvyšší soud vyložil přechodné ustanovení zákona č. 294/2013 Sb. § 141a se použije i při dřívějším rozhodnutí o úpadku, jestliže po 1. 1. 2014 stále trvaly jeho účinky; naproti tomu § 140a se zpětně neuplatní na rozhodnutí o úpadku zveřejněné před tímto datem. Viz body 5 až 15 odůvodnění.
 
 ---
 

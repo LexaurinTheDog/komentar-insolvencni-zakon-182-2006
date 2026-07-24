@@ -1065,62 +1065,59 @@ Judikatura není v tomto kole zařazena jako zdroj materiálního tvrzení. Stá
 
 ## § 148 — Spojené rozhodnutí o úpadku a způsobu řešení
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Insolvenční soud spojí s rozhodnutím o úpadku rozhodnutí o prohlášení konkursu, je-li dlužníkem osoba, u které tento zákon vylučuje řešení úpadku reorganizací nebo oddlužením.
 > (2) Jestliže dlužník společně s insolvenčním návrhem, ve kterém jako způsob řešení úpadku navrhuje reorganizaci, předloží reorganizační plán přijatý alespoň polovinou všech zajištěných věřitelů, počítanou podle výše jejich pohledávek, a alespoň polovinou všech nezajištěných věřitelů, počítanou podle výše pohledávek, spojí insolvenční soud s rozhodnutím o úpadku i rozhodnutí o způsobu řešení úpadku.
 > (3) Jestliže dlužník společně s insolvenčním návrhem podá návrh na povolení oddlužení, spojí insolvenční soud s rozhodnutím o úpadku i rozhodnutí o způsobu řešení úpadku.
 
+### Přehled výkladu
+
+Ustanovení vymezuje tři situace, v nichž se rozhodnutí o úpadku a rozhodnutí o způsobu jeho řešení vydávají současně: konkurs při zákonném vyloučení reorganizace i oddlužení, reorganizaci založenou na předem přijatém plánu a oddlužení navržené spolu s dlužnickým insolvenčním návrhem. Nejde o volnou procesní úvahu soudu. Každá větev má vlastní zákonné předpoklady a jejich nesplnění nelze nahradit pouhou vhodností rychlého rozhodnutí.
+
+### Souvisící ustanovení
+
+- § 4 odst. 2 — způsoby řešení úpadku;
+- § 136 odst. 2 až 5 — obsah rozhodnutí o úpadku, včetně zvláštností při spojeném povolení oddlužení;
+- § 149 až 152 — samostatné rozhodnutí o způsobu řešení úpadku a vliv schůze věřitelů;
+- § 316 odst. 2 až 6 a § 317 až 326 — přípustnost reorganizace a rozhodnutí o jejím povolení;
+- § 389 až 397 — oprávnění navrhnout oddlužení, náležitosti a vady návrhu, důvody zamítnutí a rozhodnutí o povolení oddlužení.
+
+### Souvisící předpisy
+
+- zákon č. 99/1963 Sb., občanský soudní řád — subsidiárně pouze v mezích § 7 insolvenčního zákona.
+
+### Z důvodové zprávy
+
+Původní vládní návrh vysvětloval § 148 jako výjimku z koncepce, podle níž se mají na volbě způsobu řešení výrazně podílet věřitelé. Okamžitý konkurs měl následovat tam, kde zákon bezvýjimečně zapovídá jiné řešení; u reorganizace návrh preferoval okamžité rozhodnutí o řešení předem dojednaném s věřiteli. Jde o historické vysvětlení původní osnovy, nikoli o náhradu aktuálního textu (sněmovní tisk 1120/0, zvláštní část „K § 148“, číslovaná s. 194, PDF s. 195).
+
+### Literatura
+
+Odborná literatura nebyla v tomto kole hodnocena; její zpracování je odloženo do druhého kola. Nejde o negativní rešeršní závěr.
+
 ### Výklad
 
-**Tři případy spojení rozhodnutí**:
+[1] **Funkce normy.** § 148 určuje okamžik rozhodnutí o způsobu řešení úpadku. Samotné rozhodnutí o úpadku a rozhodnutí o konkursu, povolení reorganizace nebo povolení oddlužení zůstávají obsahově odlišnými statusovými rozhodnutími, i když jsou spojena v jediném usnesení.
 
-(1) **Konkurs *povinně*** — pro osoby, kde je reorganizace/oddlužení vyloučeno (typicky PO bez podnikatelské činnosti, FO-nepodnikatel s vyloučenou pohledávkou pro oddlužení).
+[2] **Konkurs podle odstavce 1.** Soud musí současně prohlásit konkurs jen tehdy, jestliže zákon u konkrétního dlužníka vylučuje oba sanační způsoby: reorganizaci i oddlužení. Nestačí, že dlužník nesplňuje velikostní kritéria § 316 odst. 4; § 316 odst. 5 a 6 mohou reorganizaci za stanovených podmínek otevřít. Stejně tak nelze zákonné vyloučení dovozovat jen z obecného označení dlužníka jako podnikatele nebo nepodnikatele; je nutné samostatně použít § 316 a § 389.
 
-(2) **Předjednaná reorganizace (prepack)** — *velmi důležitý institut*. Pokud dlužník přiloží reorganizační plán s **dvojí kvalifikovanou většinou** (50% zajištěných + 50% nezajištěných, počítáno podle výše), soud *rovnou* rozhodne o reorganizaci.
+[3] **Předem přijatý reorganizační plán.** Odstavec 2 vyžaduje současné splnění časové, obsahové a většinové podmínky: dlužnický insolvenční návrh musí navrhovat reorganizaci, s návrhem musí být předložen reorganizační plán a ten musí být přijat alespoň polovinou všech zajištěných a alespoň polovinou všech nezajištěných věřitelů, v obou skupinách počítanou podle výše pohledávek. Zákon používá „alespoň polovinou“, takže přesných 50 % postačuje. Jde o jiné pravidlo než výjimka z velikostních kritérií podle § 316 odst. 5, která připouští předložení plánu ještě do rozhodnutí o úpadku; pozdější předložení samo nezakládá spojení podle § 148 odst. 2.
 
-(3) **Oddlužení** — pokud dlužník spojí návrh na oddlužení s IN, soud *rovnou* rozhodne (typicky dlužnické návrhy FO).
+[4] **Co soud v reorganizační větvi rozhoduje.** Splnění hlasovacích prahů není jedinou podmínkou povolení reorganizace. Soud musí posoudit přípustnost reorganizace a návrh na její povolení podle § 316 až 326. § 148 odst. 2 určuje spojení rozhodnutí, neodstraňuje důvody odmítnutí nebo zamítnutí návrhu na povolení reorganizace.
 
-### Vazby
+[5] **Oddlužení podle odstavce 3.** Časová podmínka je splněna jen u návrhu na povolení oddlužení podaného společně s dlužnickým insolvenčním návrhem. V řízení zahájeném věřitelským návrhem může dlužník podat návrh na povolení oddlužení ve lhůtě podle § 390 odst. 1, avšak o způsobu řešení se pak rozhoduje samostatně podle § 149 odst. 2 písm. a). Ani odstavec 3 neznamená automatické povolení vadného nebo nedůvodného návrhu: uplatní se § 390 až 397.
 
-- **§ 316** — předpoklady reorganizace.
-- **§ 389** — předpoklady oddlužení.
-- **§ 6** — vyloučené subjekty.
+[6] **Vztah k § 149.** Není-li dána některá větev § 148, následuje samostatné rozhodnutí v režimu § 149. Jestliže byly podmínky odstavce 1 splněny už při rozhodnutí o úpadku, opomenutí soudu nezmění dlužníka na případ podléhající obecné tříměsíční lhůtě a povinnému vyčkání první schůze věřitelů; právě tento systematický důsledek dovodil Nejvyšší soud v rozhodnutí uvedeném níže.
 
-### F. Kazuistika
+[7] **Intertemporalita.** Rozhodující je znění účinné v době procesního rozhodování. Historická důvodová zpráva i starší judikatura mohou objasnit konstrukci § 148, ale nemohou nahradit kontrolu nynějších podmínek § 316 a § 389 až 397. Zejména rozhodnutí R 96/2011 pracovalo se zněním účinným do 30. 6. 2010; jeho použitelný přesah spočívá jen v dosud zachovaném rozlišení povinné větve § 148 odst. 1 a obecného režimu § 149.
 
-**1. Modelová situace.** Dlužník — výrobní akciová společnost — podá insolvenční návrh, v němž navrhuje reorganizaci, a *spolu s ním* předloží reorganizační plán předem odsouhlasený polovinou zajištěných i polovinou nezajištěných věřitelů (počítáno podle výše pohledávek) — tzv. předjednaná reorganizace (prepack). V jiné věci podává návrh dlužník — fyzická osoba, spotřebitel — spolu s návrhem na povolení oddlužení. Ve třetí věci jde o dlužníka, u něhož zákon reorganizaci i oddlužení vylučuje. Důkazy: insolvenční návrhy, reorganizační plán a doklady o souhlasech věřitelů s uvedením výše pohledávek, návrh na povolení oddlužení.
+[8] **Praktická kontrola.** Před spojeným výrokem je třeba identifikovat přesnou větev § 148, ověřit její časové podmínky a poté všechny hmotné i procesní předpoklady příslušného způsobu řešení. U reorganizace se dokládá plán, přijetí oběma kategoriemi věřitelů a výše rozhodných pohledávek; u oddlužení řádný společný návrh a splnění podmínek § 389 až 397. Tvrzení, že podání samo vždy vede k povolení zvoleného způsobu, je nesprávné.
 
-**2. Právní otázka.** V kterých případech insolvenční soud spojí s rozhodnutím o úpadku rovnou i rozhodnutí o způsobu řešení úpadku (konkurs, reorganizace, oddlužení) podle § 148?
+### Judikatura
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 148 — povinné spojení s *konkursem* u osob, u nichž je reorganizace/oddlužení vyloučeno (odst. 1); spojení s rozhodnutím o *reorganizaci* při předloženém plánu schváleném dvojí kvalifikovanou většinou (50 % zajištěných + 50 % nezajištěných podle výše) — prepack (odst. 2); spojení s rozhodnutím o *oddlužení* při návrhu na jeho povolení podaném s insolvenčním návrhem (odst. 3).
-- *Související ustanovení téhož zákona:* § 316 (přípustnost a předpoklady reorganizace, prahy), § 389 a násl. (předpoklady oddlužení), § 6 (vyloučené subjekty), § 149 (samostatné rozhodnutí, nejde-li o § 148), § 136 (náležitosti při spojeném oddlužení/reorganizaci).
-- *Související předpisy:* zákon o obchodních korporacích (postavení a. s.).
-- *Judikatura:* obecné pojetí prepacku jako nástroje urychlení reorganizace; soud ověřuje splnění většinových prahů podle výše pohledávek.
-
-**4. Subsumpce.** První případ naplňuje odst. 2 — dlužník předložil s návrhem reorganizační plán s *dvojí kvalifikovanou většinou* (50 % zajištěných + 50 % nezajištěných podle výše); soud proto spojí s rozhodnutím o úpadku i rozhodnutí o reorganizaci. Druhý případ naplňuje odst. 3 — návrh na oddlužení podaný s insolvenčním návrhem; soud spojí rozhodnutí o oddlužení. Třetí případ naplňuje odst. 1 — vyloučení reorganizace i oddlužení; soud *povinně* spojí prohlášení konkursu.
-
-**5. Řešení.** Soud ve všech třech věcech rozhodne *spojeným* rozhodnutím: u a. s. úpadek + reorganizace (prepack, ověří prahy dle odst. 2 a § 316), u spotřebitele úpadek + oddlužení (odst. 3), u vyloučeného subjektu úpadek + konkurs (odst. 1). Procesně: u prepacku doložit souhlasy věřitelů s uvedením výše pohledávek a přípustnost reorganizace (§ 316); u oddlužení splnit náležitosti návrhu na povolení; spojené rozhodnutí má modifikované náležitosti dle § 136.
-
-**6. Varianty.** (a) Kdyby u a. s. plán nedosáhl dvojí kvalifikované většiny podle výše, spojení dle odst. 2 by nenastalo a o způsobu řešení by se rozhodlo *samostatně* (§ 149) po schůzi věřitelů. (b) Kdyby dlužník nepodal návrh na oddlužení spolu s insolvenčním návrhem, ale až v řízení zahájeném jinou osobou, postupovalo by se dle § 149 odst. 2 písm. a) (samostatné rozhodnutí do 30 dnů).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Prepack lze spojit i bez doložení přesných většin." — Neutralizace: odst. 2 vyžaduje *kvalifikovanou dvojí většinu počítanou podle výše* pohledávek (50 % zajištěných + 50 % nezajištěných); bez jejího doložení soud reorganizaci nespojí.
-- *Protiargument:* „Konkurs se nikdy nespojuje povinně." — Neutralizace: odst. 1 ukládá *povinné* spojení konkursu u osob, u nichž zákon vylučuje reorganizaci i oddlužení (§ 6, § 316, § 389).
-- *Slabé místo:* posouzení přípustnosti reorganizace (prahy obratu/zaměstnanců dle § 316) a vyloučení subjektů (§ 6) může být sporné; chybné určení většin u prepacku ohrožuje stabilitu spojeného rozhodnutí.
-
-### H. Praktický závěr
-
-§ 148 umožňuje (a v případě konkursu ukládá) spojit s rozhodnutím o úpadku i rozhodnutí o způsobu řešení: povinně konkurs u vyloučených subjektů (odst. 1), reorganizaci u předjednaného plánu s dvojí kvalifikovanou většinou — prepack (odst. 2), a oddlužení u návrhu podaného s insolvenčním návrhem (odst. 3). Mimo tyto případy se rozhoduje samostatně dle § 149.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověřit, zda je u dlužníka reorganizace/oddlužení vyloučeno (pak povinně konkurs — odst. 1).
-- [ ] U prepacku doložit reorganizační plán a souhlasy 50 % zajištěných + 50 % nezajištěných podle výše (odst. 2).
-- [ ] Ověřit přípustnost a předpoklady reorganizace (§ 316).
-- [ ] U oddlužení zjistit, zda byl návrh na povolení podán *spolu* s insolvenčním návrhem (odst. 3).
-- [ ] Není-li dán žádný případ § 148, rozhodnout o způsobu řešení samostatně (§ 149).
-
-**Typicky rozhodné důkazy / podklady:** insolvenční návrh, reorganizační plán a doklady o souhlasech věřitelů s uvedením výše pohledávek, návrh na povolení oddlužení, podklady k přípustnosti reorganizace (§ 316) a k vyloučení subjektu (§ 6).
+- **Nejvyšší soud, usnesení ze dne 20. 1. 2011, sen. zn. 29 NSČR 30/2010, ECLI:CZ:NS:2011:29.NSCR.30.2010.1, R 96/2011.** V řízení o konkursu podnikatele Nejvyšší soud rozlišil objektivní vyloučení reorganizace podle tehdejšího § 316 odst. 3 od pouhého nesplnění velikostních kritérií podle tehdejšího § 316 odst. 4. Nosně uzavřel, že při opomenutém povinném spojení podle § 148 odst. 1 nemusí soud později vyčkat první schůze věřitelů podle § 149 odst. 1; naopak při objektivní přípustnosti nebo tehdejší podmíněné přípustnosti reorganizace nelze konkurs s rozhodnutím o úpadku spojit bez dalšího. Rozhodnutí aplikovalo znění účinné do 30. 6. 2010. Pro stav k 19. 7. 2026 je použitelné jen uvedené systematické rozlišení; konkrétní předpoklady reorganizace je nutné posoudit podle nynějšího § 316 odst. 2 až 6.
 
 ---
 

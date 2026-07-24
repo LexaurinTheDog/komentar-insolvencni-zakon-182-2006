@@ -710,62 +710,70 @@ V rámci primární revize byl na oficiálním webu Nejvyššího soudu otevřen
 
 ## § 174 — Náležitosti přihlášky
 
-> (1) Přihlášky pohledávek a jejich přílohy se podávají **dvojmo**. Stejnopis přihlášky a její přílohy doručí insolvenční soud insolvenčnímu správci.
-> (2) Přihláška pohledávky musí kromě obecných náležitostí podání obsahovat **důvod vzniku a výši přihlašované pohledávky**. Důvodem vzniku přihlašované pohledávky se rozumí uvedení skutečností, na nichž se pohledávka zakládá.
-> (3) Jde-li o pohledávku zajištěnou, musí věřitel v přihlášce uvést, zda **uplatňuje právo na její uspokojení ze zajištění** a označit druh zajištění a dobu jeho vzniku; nestane-li se tak, má se za to, že právo na uspokojení přihlašované pohledávky ze zajištění v insolvenčním řízení uplatněno nebylo.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Přihlášky pohledávek a jejich přílohy se podávají dvojmo. Stejnopis přihlášky a její přílohy doručí insolvenční soud insolvenčnímu správci.
+>
+> (2) Přihláška pohledávky musí kromě obecných náležitostí podání obsahovat důvod vzniku a výši přihlašované pohledávky. Důvodem vzniku přihlašované pohledávky se rozumí uvedení skutečností, na nichž se pohledávka zakládá.
+>
+> (3) Jde-li o pohledávku zajištěnou, musí věřitel v přihlášce uvést, zda uplatňuje právo na její uspokojení ze zajištění a označit druh zajištění a dobu jeho vzniku; nestane-li se tak, má se za to, že právo na uspokojení přihlašované pohledávky ze zajištění v insolvenčním řízení uplatněno nebylo.
+>
 > (4) Jde-li o pohledávku vykonatelnou, musí věřitel v přihlášce uvést i skutečnosti, o které vykonatelnost opírá.
+>
+
+### Přehled výkladu
+
+§ 174 vymezuje základní obsah přihlášky: vedle obecných náležitostí podání musí být uvedeny výše a skutkově vymezený důvod vzniku pohledávky. U zajištěné pohledávky věřitel výslovně uvede, zda uplatňuje právo na uspokojení ze zajištění, jeho druh a dobu vzniku; u vykonatelné pohledávky uvede skutečnosti, o něž vykonatelnost opírá. Formulářové údaje konkretizuje § 8 vyhlášky č. 191/2017 Sb.
+
+### Souvisící ustanovení
+
+- § 7 a § 42 odst. 4 o. s. ř. — přiměřené použití obecných náležitostí podání,
+- § 166 a § 167 — uplatnění a uspokojení zajištěné pohledávky,
+- § 175 a § 176 — peněžní vyčíslení a povinný formulář,
+- § 177 odst. 1 — listiny a prokázání vykonatelnosti veřejnou listinou,
+- § 188 odst. 2 — postup při vadě nebo neúplnosti bránící přezkumu,
+- § 192 odst. 4 a § 195 — časová mez změny důvodu, výše nebo pořadí a popření pořadí.
+
+### Souvisící předpisy
+
+Vyhláška č. 191/2017 Sb., zejména § 8 odst. 1 písm. e) až i) a odst. 3, konkretizuje údaje o důvodu vzniku, vykonatelnosti, pořadí, zajištění, povaze a výši pohledávky i požadované přílohy. Obecné náležitosti podání upravuje § 42 odst. 4 o. s. ř.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona (sněmovní tisk 1120/0, zvláštní část „K § 173 až 175“, číslovaná s. 198, PDF s. 199) vysvětluje přihlášku jako zvláštní případ uplatnění práva a u § 174 odst. 3 zdůrazňuje, že povinnost přihlásit pohledávku dopadá i na zajištěné věřitele, kteří jinak riskují neuspokojení ze zajištění. Jde o historické vysvětlení původní koncepce; dnešní obsah formuláře určuje aktuální zákon a vyhláška č. 191/2017 Sb.
+
+### Literatura
+
+Odborná literatura je rozhodnutím odpovědného editora odložena do druhého kola. Tento údaj nevyjadřuje negativní rešerši.
 
 ### Výklad
 
-**Náležitosti:**
-- *dvojmo* (jeden stejnopis soudu, jeden správci),
-- **důvod vzniku** — *konkrétní skutečnosti* (smlouva, datum, předmět plnění atd.),
-- **výše** — vyčíslení (§ 175),
-- *zajištění* — *aktivně uplatnit* (jinak se nepřihlíží!),
-- *vykonatelnost* — doložit titul.
+[1] **Dvojí vyhotovení.** Přihláška i její přílohy se podávají dvojmo. Soud stejnopis s přílohami doručuje insolvenčnímu správci. Toto pravidlo upravuje počet vyhotovení a předání správci; povinnou formu přihlášky stanoví samostatně § 176.
 
-**Klíčová sankce u zajištění** (odst. 3) — pokud věřitel zajištění *neuplatní v přihlášce*, **má se za to, že je neuplatnil**. Toto je *neopravitelné* — i kdyby věřitel později doložil zajištění, *nemá je*.
+[2] **Důvod vzniku je skutkový základ.** Nestačí uvést jen právní označení nároku. Přihláška musí popsat skutečnosti, na nichž se pohledávka zakládá, v rozsahu umožňujícím určit, jaký nárok věřitel přihlašuje. § 8 odst. 1 písm. e) vyhlášky proto požaduje bližší údaje o smlouvě nebo jiné rozhodné skutečnosti včetně vylíčení skutečností významných pro vznik pohledávky.
 
-### Vazby
+[3] **Výše a její struktura.** § 174 odst. 2 vyžaduje výši pohledávky; způsob peněžního vyjádření stanoví § 175. Formulář dále rozlišuje jistinu a příslušenství a požaduje způsob výpočtu jednotlivých druhů příslušenství. Za správnost údajů odpovídá podle § 176 věřitel.
 
-- **§ 166, § 167** — zajištění věřitelé.
-- **§ 175 — § 176** — vyčíslení, formulář.
+[4] **Zajištění musí být v přihlášce uplatněno a popsáno.** Věřitel uvede, zda požaduje uspokojení ze zajištění, jeho druh a dobu vzniku. Neuvede-li, že toto právo uplatňuje, nastává přímo následek § 174 odst. 3: má se za to, že právo v insolvenčním řízení uplatněno nebylo. Z tohoto ustanovení samotného však nelze dovodit, že každé opomenutí lze napravit kdykoli, ani že je za všech okolností nenapravitelné; časové meze změny pořadí a konkrétní procesní situaci je třeba posoudit podle navazujících ustanovení a rozhodného znění zákona.
 
-### F. Kazuistika
+[5] **Vykonatelnost: tvrzení a důkaz nejsou totéž.** Podle § 174 odst. 4 musí přihláška obsahovat skutečnosti, o které věřitel vykonatelnost opírá. § 8 odst. 1 písm. f) vyhlášky vyžaduje údaj, zda je pohledávka nebo její část vykonatelná. Teprve § 177 odst. 1 stanoví, že vykonatelnost se prokazuje veřejnou listinou; údaj v přihlášce proto nelze zaměňovat s jeho důkazním doložením.
 
-**1. Modelová situace.** Věřitel V přihlásí vykonatelnou pohledávku z titulu pravomocného rozsudku ve výši 600 000 Kč. V přihlášce uvede pouze „pohledávka dle rozsudku" bez bližšího popisu skutečností a u zajištěné části (zástava k vozidlu) zapomene zaškrtnout uplatnění uspokojení ze zajištění a neuvede dobu vzniku zajištění. Správce při přezkumu naráží na nedostatečné vymezení důvodu vzniku. Důkazy: přihláška a její přílohy, rozsudek s doložkou vykonatelnosti, zástavní smlouva k vozidlu.
+[6] **Vada přihlášky a nedostatek přílohy.** § 188 odst. 2 se použije, nelze-li přihlášku pro vadu nebo neúplnost přezkoumat. Samostatně je třeba hodnotit, zda chybí povinné tvrzení v procesním úkonu, nebo pouze listina, která má tvrzený nárok prokázat. § 174 a § 177 tyto dvě roviny upravují odděleně.
 
-**2. Právní otázka.** Jaké náležitosti musí přihláška obsahovat, jak se uvádí „důvod vzniku", a jaké jsou důsledky neuplatnění zajištění a nedoložení vykonatelnosti?
+[7] **Intertemporalita.** U starších přihlášek se ověří znění insolvenčního zákona a prováděcího předpisu účinné v době úkonu a přechodná ustanovení příslušných novel. Tento komentář vychází ze stavu k 19. 7. 2026; aktuální formulářové požadavky nelze automaticky přenášet na dřívější přihlášky.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 174 odst. 1 (podání dvojmo), odst. 2 (důvod vzniku = vylíčení skutečností, na nichž se pohledávka zakládá, + výše), odst. 3 (zajištění — výslovné uplatnění, druh a doba vzniku, jinak fikce neuplatnění), odst. 4 (vykonatelnost — uvedení rozhodných skutečností).
-- *Související ustanovení téhož zákona:* § 166 (dovolání zajištění), § 175–176 (vyčíslení, formulář), § 177 (přílohy, vykonatelnost veřejnou listinou), § 188 odst. 2 (výzva k opravě vad), § 198–199 (popření a vázanost důvodem v přihlášce).
-- *Související předpisy:* vyhláška č. 191/2017 Sb. (formulář přihlášky); o. s. ř. (vykonatelnost, veřejná listina).
-- *Judikatura:* nosný závěr, že „důvod vzniku" musí být vylíčen skutkově tak, aby byla pohledávka identifikovatelná a odlišitelná od jiných; pouhý odkaz na titul bez skutkového vymezení je nedostatečný.
+**Praktický checklist:**
+- [ ] Použít předepsaný formulář, podat jej s přílohami dvojmo a uvést obecné náležitosti podání.
+- [ ] Skutkově individualizovat každou pohledávku a odděleně vyčíslit jistinu a příslušenství.
+- [ ] U zajištění výslovně uvést jeho uplatnění, druh, dobu vzniku a formulářem požadované údaje o předmětu a pořadí.
+- [ ] U vykonatelnosti uvést rozhodné skutečnosti a připojit veřejnou listinu, kterou se vykonatelnost prokazuje.
+- [ ] Před doplněním nebo změnou přihlášky ověřit časovou mez podle rozhodného znění zákona.
 
-**4. Subsumpce.** Údaj „pohledávka dle rozsudku" bez vylíčení rozhodujících skutečností nesplňuje odst. 2 → vada přihlášky (§ 188 odst. 2). Neoznačení uplatnění ze zajištění a doby vzniku → odst. 3: fikce, že zajištění nebylo uplatněno. Vykonatelnost je doložena rozsudkem, ale skutečnosti dle odst. 4 musí být v přihlášce uvedeny.
+### Judikatura
 
-**5. Řešení.** Správce vyzve V k opravě/doplnění skutkového vymezení do 15 dnů (§ 188 odst. 2). Skutkové vylíčení důvodu lze doplnit; absenci uplatnění zajištění ve lhůtě dle § 173 odst. 1 však zpravidla zhojit nelze — pohledávka se posoudí jako nezajištěná. Vykonatelnost V prokáže veřejnou listinou (§ 177 odst. 1).
-
-**6. Varianty.** (a) Kdyby V zajištění řádně uplatnil a popsal skutečnosti, byl by zajištěným věřitelem s prioritou z výtěžku vozidla. (b) Kdyby V neuvedl skutečnosti o vykonatelnosti, pohledávka by se přezkoumávala jako nevykonatelná s odlišnými procesními následky popření (§ 198 vs. § 199).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Odkaz na rozsudek nahrazuje vylíčení skutečností." — Neutralizace: odst. 2 vyžaduje uvedení skutečností, na nichž se pohledávka zakládá; titul sám o sobě skutkové vymezení nenahrazuje a brání řádnému přezkumu.
-- *Protiargument:* „Neuplatnění zajištění lze doplnit kdykoli na výzvu správce." — Neutralizace: § 188 řeší jen opravitelné vady; chybějící hmotněprávní uplatnění zajištění ve lhůtě dle § 173 odst. 1 zakládá fikci neuplatnění (odst. 3).
-- *Slabé místo:* skutkové vymezení důvodu vzniku determinuje rozsah, v němž lze pohledávku obhájit při popření (vázanost důvodem dle § 198 odst. 2); úzké vymezení zužuje pozdější argumentaci.
-
-### H. Praktický závěr
-
-§ 174 určuje obsahový standard přihlášky: dvojmo, skutkově vymezený důvod vzniku, výše, výslovné uplatnění zajištění a doložení vykonatelnosti. Opomenutí zajištění je prakticky neopravitelné a vede ke ztrátě priority.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Podat přihlášku a přílohy dvojmo na předepsaném formuláři.
-- [ ] Skutkově vylíčit důvod vzniku (smlouva, datum, předmět plnění), nikoli jen odkaz na titul, a vyčíslit výši.
-- [ ] U zajištěné pohledávky výslovně uplatnit uspokojení ze zajištění, označit druh a dobu vzniku.
-- [ ] U vykonatelné pohledávky uvést skutečnosti o vykonatelnosti a doložit veřejnou listinou.
-
-**Typicky rozhodné důkazy / podklady:** vyplněný formulář přihlášky s vylíčením skutečností, smlouvy a doklady o vzniku pohledávky, vykonatelný titul s doložkou, zástavní/zajišťovací smlouva s dobou vzniku.
+V rámci primární revize byly na oficiálním webu Nejvyššího soudu otevřeny a obsahově prověřeny plné texty usnesení ze dne 27. 9. 2017, sen. zn. 29 NSČR 107/2015, a usnesení ze dne 28. 3. 2012, sen. zn. 29 NSČR 32/2011. První se týká skutkového vymezení pohledávky, vad přihlášky a příloh; druhé časových mezí uplatnění zajištění a zvláštní situace majetku nabytého do podstaty až později. Protože v této jednotce nebylo možné uložit jejich fyzické snapshoty do centrálního zdrojového archivu, nejsou zařazena jako produkční prameny ani jako opora materiálních tvrzení. Původní neurčitý judikatorní odkaz byl odstraněn.
 
 ---
 

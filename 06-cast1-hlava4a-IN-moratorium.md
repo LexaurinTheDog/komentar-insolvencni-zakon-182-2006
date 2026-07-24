@@ -1341,6 +1341,67 @@ Do tohoto vydání není zařazeno rozhodnutí, jehož plný text by byl ověře
 
 ---
 
+## § 118 — Vyhlášení moratoria
+
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> ###### Vyhlášení moratoria
+>
+> (1) Insolvenční soud vyhlásí moratorium, jestliže jsou splněny předpoklady uvedené v [[#§ 115|§ 115]] a [[#§ 116|116]] a nebylo-li dosud rozhodnuto o insolvenčním návrhu; jinak návrh na moratorium odmítne.
+>
+> (2) Proti rozhodnutí, jímž insolvenční soud vyhlásí moratorium, není odvolání přípustné. Proti rozhodnutí, kterým se návrh na moratorium odmítá, se může odvolat pouze dlužník.
+>
+
+### Přehled výkladu
+
+- Jsou-li splněny předpoklady § 115 a § 116 a dosud nebylo rozhodnuto o insolvenčním návrhu, insolvenční soud moratorium vyhlásí; jinak návrh odmítne.
+- Pro kladné rozhodnutí je rozhodný zákonem vymezený soubor předpokladů, nikoli volná úvaha o tom, zda soud považuje moratorium za vhodné.
+- Proti vyhlášení moratoria není odvolání přípustné. Proti odmítnutí návrhu je k odvolání oprávněn pouze dlužník.
+
+### Souvisící ustanovení
+
+- § 115 — oprávnění dlužníka-podnikatele, lhůty k návrhu a vyloučení právnické osoby v likvidaci.
+- § 116 — obsah návrhu a povinné přílohy.
+- § 117 — lhůta k rozhodnutí a vyloučení postupu podle § 43 o. s. ř.
+- § 119 — účinnost, doba trvání a prodloužení vyhlášeného moratoria.
+- § 120 — zákaz vydat po dobu trvání moratoria rozhodnutí o úpadku.
+
+### Souvisící předpisy
+
+- Zákon č. 99/1963 Sb., občanský soudní řád, zejména obecná úprava odvolání; její použití je v rozsahu § 118 odst. 2 insolvenčního zákona omezeno zvláštním pravidlem.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona vymezil § 118 jako úpravu forem rozhodnutí o návrhu a opravného prostředku. Podle zvláštní části měla být úvaha soudu omezena na kontrolu náležitostí a příloh, oprávnění navrhovatele a včasnosti; vedle vyhlášení moratoria proto počítala pouze s odmítnutím návrhu. Jde o historické vysvětlení původní osnovy, nikoli o náhradu aktuálního textu § 115 až 118. (Sněmovní tisk 1120/0, 4. volební období, zvláštní část „K § 118“, číslovaná s. 188, PDF s. 189.)
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní rešerše literatury.
+
+### Výklad
+
+[1] **Povaha rozhodování.** Odstavec 1 vytváří dvě procesní varianty. Při současném splnění předpokladů § 115 a § 116 a podmínky, že dosud nebylo rozhodnuto o insolvenčním návrhu, soud moratorium vyhlásí. Není-li některá z těchto podmínek splněna, návrh odmítne.
+
+[2] **Předpoklady podle § 115.** Odkaz na § 115 zahrnuje, že návrh podává dlužník, který je podnikatelem, v tam stanovené sedmidenní nebo patnáctidenní lhůtě; právo podat návrh nemá právnická osoba v likvidaci. Konkrétní počátek lhůty závisí na tom, zda insolvenční návrh podal dlužník, nebo věřitel.
+
+[3] **Předpoklady podle § 116.** Soud kontroluje obecné a zvláštní obsahové náležitosti návrhu i předepsané přílohy, včetně poslední účetní závěrky a písemného prohlášení většiny věřitelů počítané podle výše pohledávek s úředně ověřenými podpisy. Protože § 117 vylučuje postup podle § 43 o. s. ř., nelze spoléhat na výzvu k opravě nebo doplnění návrhu.
+
+[4] **Časová mez.** Moratorium lze podle § 118 odst. 1 vyhlásit jen před rozhodnutím o insolvenčním návrhu. Zákon zde nerozlišuje mezi jednotlivými druhy rozhodnutí o insolvenčním návrhu; textovou podmínkou je, že o něm dosud nebylo rozhodnuto.
+
+[5] **Odvolání proti vyhlášení.** Odstavec 2 výslovně vylučuje odvolání proti rozhodnutí, jímž soud moratorium vyhlásil. Toto pravidlo se týká přípustnosti odvolání proti uvedenému rozhodnutí, nikoli okamžiku jeho účinnosti; ten samostatně upravuje § 119 odst. 1 zveřejněním v insolvenčním rejstříku.
+
+[6] **Odvolání proti odmítnutí.** Proti rozhodnutí, kterým soud návrh odmítl, se může odvolat pouze dlužník. Jde o zvláštní vymezení subjektivní přípustnosti odvolání; ani věřitel, jehož souhlas byl přiložen k návrhu, není jen z tohoto důvodu osobou oprávněnou podle § 118 odst. 2.
+
+[7] **Intertemporalita.** Tento výklad vychází ze znění účinného k 19. 7. 2026. U dřívějších procesních situací je nutné ověřit znění účinné v době podání návrhu a rozhodování; historická důvodová zpráva sama neurčuje pozdější právní stav.
+
+### Judikatura
+
+Pro toto vydání není zařazeno rozhodnutí jako přímá autorita k výkladu § 118. Tím se nevyslovuje závěr o neexistenci související judikatury; jde o redakční omezení tohoto kola, v němž nesmí být nahrazen plný oficiální text rozhodnutí pouhou právní větou, metadaty nebo sekundárním přehledem.
+
+---
+
 ## § 120 — § 122 — Účinky moratoria
 
 ### Hlavní účinky:

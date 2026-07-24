@@ -467,6 +467,10 @@ Do tohoto kola nebyla zařazena judikatura jako opora materiálního tvrzení, p
 
 ## § 140d — Jiná než soudní/rozhodčí řízení
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Jiná řízení než soudní a rozhodčí řízení se rozhodnutím o úpadku nepřerušují a lze je nově zahájit i v době, po kterou trvají účinky rozhodnutí o úpadku; v těchto řízeních však po dobu, po kterou trvají účinky rozhodnutí o úpadku, nelze rozhodnout o náhradě škody nebo jiné újmy. K rozhodnutím vydaným v rozporu s tímto zákazem se v insolvenčním řízení nepřihlíží. Nestanoví-li zákon jinak, je účastníkem těchto jiných řízení i nadále dlužník.
 > (2) Rozhodnutím o úpadku se z jiných řízení podle odstavce 1 nepřerušují zejména
 > a) daňové řízení,
@@ -474,60 +478,50 @@ Do tohoto kola nebyla zařazena judikatura jako opora materiálního tvrzení, p
 > c) řízení o dlužných mzdových nárocích zaměstnanců dlužníka podle zvláštního právního předpisu,
 > d) řízení o pojistném na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *NSS* [59 Af 3/2022 - 33](https://vyhledavac.nssoud.cz/DokumentDetail/Index/715390) — 25. 9. 2023
-  > „Ovšem pouhá skutečnost, že se žalobkyní bylo zahájeno insolvenční řízení, nemá žádný vliv na řízení o zajištění daně. Jestliže podle § 140d odst. 2 písm. a) insolvenčního zákona platí, že se daňové řízení nepřerušuje ani rozhodnutím o úpadku, tím spíše nemá na zajišťovací příkaz vliv toliko zahájení insolvenčního řízení"
+§ 140d upravuje účinky rozhodnutí o úpadku na jiná než soudní a rozhodčí řízení. Tato řízení se rozhodnutím o úpadku nepřerušují a mohou být za trvání jeho účinků také nově zahájena. Současně zákon omezuje jejich možný výsledek: po tuto dobu v nich nelze rozhodnout o náhradě škody nebo jiné újmy.
+
+### Souvisící ustanovení
+
+- § 140a až 140c — odlišná pravidla pro soudní a rozhodčí řízení,
+- § 140e — výkon rozhodnutí a exekuce,
+- § 141a — zastavení řízení zahájených v rozporu s vyjmenovanými omezeními,
+- § 263 až 266 — účinky prohlášení konkursu na řízení.
+
+### Souvisící předpisy
+
+- zákon č. 280/2009 Sb., daňový řád,
+- zákon č. 256/2013 Sb., o katastru nemovitostí (katastrální zákon),
+- zákon č. 118/2000 Sb., o ochraně zaměstnanců při platební neschopnosti zaměstnavatele,
+- zákon č. 589/1992 Sb., o pojistném na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti.
+
+### Z důvodové zprávy
+
+Zvláštní část důvodové zprávy k zákonu č. 294/2013 Sb. uvádí, že § 140d doplňuje § 140a až 140c a řeší možný konflikt vznikem pohledávek v jiných než soudních a rozhodčích řízeních, která v závorce označuje jako správní řízení. Tento legislativní motiv vysvětluje systematické oddělení obou režimů; nerozšiřuje však text zákona na každý úkon správního orgánu bez posouzení, zda jde o řízení.
+
+### Literatura
+
+Odborná literatura nebyla v tomto kole posuzována; její zpracování je odloženo do druhého kola. Nejde o závěr, že relevantní literatura neexistuje.
 
 ### Výklad
 
-**Správní a obdobná řízení** se **nepřerušují**:
-- *daňové řízení* (Finanční úřad pokračuje v vyměřování daní),
-- *katastrální řízení* (zápisy vkladů, výmazů),
-- *pracovněprávní řízení mzdové* (Úřad práce vyplácí mzdové nároky podle zákona č. 118/2000 Sb.),
-- *sociální pojištění* (ČSSZ),
-- atd.
+[1] **Rozhodný okamžik a základní účinek.** Ustanovení váže své následky na rozhodnutí o úpadku, nikoli již na zahájení insolvenčního řízení. Jiná než soudní a rozhodčí řízení se tímto rozhodnutím nepřerušují. Po dobu trvání jeho účinků je lze také nově zahájit.
 
-**Specifická limita**: *nelze rozhodnout o náhradě škody nebo jiné újmy*. Tedy daňový orgán může vyměřit daň, ale ne uložit *náhradu škody* za zkrácení daní (pokud by se dohnal této kategorie).
+[2] **Věcný zákaz rozhodnutí.** Pokračování nebo zahájení jiného řízení neznamená, že v něm lze rozhodnout bez omezení. Po dobu účinků rozhodnutí o úpadku nelze v takovém řízení rozhodnout o náhradě škody nebo jiné újmy. Sankce je vymezena pro insolvenční řízení: k rozhodnutí vydanému v rozporu se zákazem se v něm nepřihlíží.
 
-**Účastníkem zůstává dlužník** — v správních řízeních nenastává automatický přechod účastenství na správce.
+[3] **Účastenství dlužníka.** Nestanoví-li zákon jinak, zůstává účastníkem jiného řízení dlužník. § 140d proto sám o sobě nezakládá nahrazení dlužníka insolvenčním správcem; vždy je nutné ověřit případnou zvláštní úpravu.
 
-### F. Kazuistika
+[4] **Demonstrativní výčet.** Slovo „zejména“ v odstavci 2 vyjadřuje, že výčet není uzavřený. Zákon výslovně uvádí daňové řízení, řízení ve věcech vkladu práva k nemovitostem, řízení o vymezených dlužných mzdových nárocích a řízení o pojistném na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti. Zařazení dalšího procesu vyžaduje posouzení jeho právní povahy; pouhá skutečnost, že jedná správní orgán, sama nenahrazuje tento krok.
 
-**1. Modelová situace.** Na dlužníka (s. r. o.) je zjištěn úpadek. Finanční úřad následně zahájí daňovou kontrolu a vydá platební výměr na DPH za období před úpadkem; současně chce v jiném řízení uložit dlužníku náhradu škody (jinou újmu) za jednání jeho zaměstnance. Katastrální úřad zároveň provádí vklad výmazu zástavního práva. Dlužník namítá, že úpadek všechna tato řízení přerušil. Důkazy: rozhodnutí o úpadku, oznámení o zahájení daňové kontroly, platební výměr, návrh na vklad do katastru.
+[5] **Systematické odlišení.** § 140d nelze zaměňovat s § 140a až 140c, které míří na soudní a rozhodčí řízení, ani s § 140e, jenž upravuje výkon rozhodnutí a exekuci. Kvalifikace druhu řízení proto předchází určení insolvenčního účinku.
 
-**2. Právní otázka.** Přerušuje rozhodnutí o úpadku jiná než soudní a rozhodčí řízení (daňové, katastrální), a jaké je omezení toho, o čem v nich lze rozhodnout?
+[6] **Vznik a intertemporalita.** § 140d byl do insolvenčního zákona vložen zákonem č. 294/2013 Sb. s účinností od 1. ledna 2014. Přechodné ustanovení této novely stanovilo použití novelizovaného insolvenčního zákona i na dříve zahájená insolvenční řízení, při zachování právních účinků úkonů nastalých před účinností novely. U historických případů je proto nutné oddělit použitelné procesní pravidlo od již zachovaných účinků.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 140d — jiná než soudní/rozhodčí řízení se rozhodnutím o úpadku *nepřerušují* a lze je nově zahájit; po dobu účinků úpadku v nich však *nelze rozhodnout o náhradě škody nebo jiné újmy* (k rozhodnutí vydanému v rozporu se nepřihlíží); účastníkem zůstává dlužník (odst. 1); demonstrativní výčet nepřerušovaných řízení — daňové, vkladová, mzdová, sociální pojištění (odst. 2).
-- *Související ustanovení téhož zákona:* § 140a–c (přerušení a zákazy v soudních/rozhodčích řízeních — odlišný režim); § 246 (přechod dispozic na správce — pro hmotněprávní úkony, ne pro účastenství v těchto řízeních).
-- *Související předpisy:* daňový řád (§ 242 — pohledávky v insolvenci; NSS 5 Afs 114/2025 k rovnosti věřitelů), katastrální zákon, zákon č. 118/2000 Sb. (mzdové nároky), zákon o pojistném na sociální zabezpečení.
-- *Judikatura:* NSS 59 Af 3/2022 (zahájení insolvence ani úpadek nemají vliv na daňové řízení, tím spíše ne na zajišťovací příkaz); NSS 2 Afs 191/2022 (§ 140a–c se netýkají správního soudnictví).
+### Judikatura
 
-**4. Subsumpce.** Daňové i katastrální řízení patří mezi „jiná řízení" dle odst. 2 — *nepřerušují se* a lze je vést i po úpadku; platební výměr na DPH proto FÚ vydat může. Naopak rozhodnutí o *náhradě škody / jiné újmě* je v těchto řízeních po dobu účinků úpadku vyloučeno (odst. 1) — záměr uložit náhradu škody za jednání zaměstnance je nepřípustný a k takovému rozhodnutí by se nepřihlíželo. Vklad výmazu zástavního práva katastr provede, účastníkem zůstává dlužník.
+Do tohoto kola nebyla judikatura zařazena jako opora materiálního tvrzení. Kandidátní odkazy ve výchozím textu nebyly doloženy fyzickým plným textem rozhodnutí z oficiálního webu v uzavřeném source ledgeru. Nejde o negativní závěr o existenci relevantní judikatury, ale o pramenné omezení tohoto kola.
 
-**5. Řešení.** FÚ daň doměří a uplatní ji v insolvenci (přihláškou, resp. dle § 168/170 podle povahy); rozhodnutí o náhradě škody však vydat nesmí. Katastrální řízení proběhne. Dlužník zůstává účastníkem těchto řízení (nedochází k automatickému přechodu na správce). Procesně: správce sleduje daňová a vkladová řízení, uplatňuje práva podstaty, brání se případnému rozhodnutí o náhradě škody.
-
-**6. Varianty.** (a) Kdyby FÚ chtěl vydat *zajišťovací příkaz*, pouhé zahájení insolvence (a tím spíše ne) by mu nebránilo (NSS 59 Af 3/2022). (b) Kdyby šlo o soudní (ne správní) řízení o téže pohledávce, uplatnil by se přísnější režim přerušení dle § 140a a zákazu rozhodování dle § 140b.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Úpadek přerušuje veškerá řízení proti dlužníku." — Neutralizace: § 140d výslovně stanoví, že *jiná než soudní a rozhodčí* řízení (daňová, vkladová, mzdová, pojistná) se *nepřerušují* a lze je i nově zahájit.
-- *Protiargument:* „V daňovém řízení lze uložit i náhradu škody za zkrácení daně." — Neutralizace: odst. 1 zakazuje po dobu účinků úpadku rozhodnout o náhradě škody/jiné újmě; k takovému rozhodnutí se nepřihlíží.
-- *Slabé místo:* hranice mezi „vyměřením daně" (přípustné) a „rozhodnutím o jiné újmě" (nepřípustné) může být sporná; přednostní aplikace daňového řádu (§ 242) při zachování principu rovnosti věřitelů (NSS 5 Afs 114/2025) vyžaduje pečlivé posouzení.
-
-### H. Praktický závěr
-
-Jiná než soudní a rozhodčí řízení (zejména daňová, vkladová do katastru, mzdová dle zákona č. 118/2000 Sb. a pojistná) se rozhodnutím o úpadku *nepřerušují* a lze je i zahájit; účastníkem zůstává dlužník. Omezení je věcné: po dobu účinků úpadku v nich nelze rozhodnout o náhradě škody nebo jiné újmě.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Určit, zda jde o „jiné" řízení (daňové, vkladové, mzdové, pojistné) — pak se nepřerušuje.
-- [ ] Ověřit, že rozhodnutí nesměřuje k náhradě škody/jiné újmě (jinak nepřípustné).
-- [ ] Vzít na vědomí, že účastníkem zůstává dlužník (ne automaticky správce).
-- [ ] Daňovou/jinou pohledávku uplatnit v insolvenci podle její povahy (§ 168/170, přihláška).
-- [ ] Odlišit režim od souběžných soudních řízení (§ 140a–b).
-
-**Typicky rozhodné důkazy / podklady:** rozhodnutí o úpadku, oznámení o zahájení a výsledek daňového/katastrálního řízení, platební výměr či návrh na vklad, doklady o povaze nároku (daň vs. náhrada škody).
 
 ---
 

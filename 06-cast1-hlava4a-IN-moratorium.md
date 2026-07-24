@@ -1825,6 +1825,71 @@ Tato revize necituje žádné soudní rozhodnutí jako pramen samostatného prav
 
 ---
 
+## § 126 — Zvláštní pravidla moratoria před zahájením insolvenčního řízení
+
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Rozhoduje-li o návrhu na moratorium před zahájením insolvenčního řízení, nezveřejňuje insolvenční soud až do rozhodnutí o vyhlášení moratoria informace o průběhu řízení; právo nahlížet do spisu, s výjimkou protokolu o hlasování, a činit si z něho výpisy a opisy, má po tuto dobu pouze dlužník.
+>
+> (2) Před zahájením insolvenčního řízení nastávají vyhlášením moratoria účinky spojené se zahájením insolvenčního řízení; ustanovení [[#§ 122|§ 122]] tím není dotčeno.
+>
+> (3) Pro vyrozumění o vyhlášení moratoria před zahájením insolvenčního řízení se použije za trvání moratoria ustanovení [[#§ 102|§ 102]] obdobně.
+>
+> (4) Moratorium vyhlášené před zahájením insolvenčního řízení zaniká i tím, že dlužník podá insolvenční návrh.
+>
+
+### Přehled výkladu
+
+§ 126 přizpůsobuje moratorium situaci, kdy o ně dlužník požádal ještě před zahájením insolvenčního řízení. Do rozhodnutí o vyhlášení moratoria chrání neveřejnost průběhu řízení a omezuje přístup ke spisu. Vyhlášením moratoria vznikají účinky spojené se zahájením insolvenčního řízení, aniž by § 126 prohlašoval samotné insolvenční řízení za zahájené; zvláštní pravidlo § 122 zůstává zachováno. Po dobu moratoria se pro vyrozumění o jeho vyhlášení obdobně použije § 102. Podá-li následně insolvenční návrh dlužník, moratorium zaniká.
+
+### Souvisící ustanovení
+
+- § 97 odst. 1 — zahájení insolvenčního řízení dnem, kdy insolvenční návrh dojde věcně příslušnému soudu;
+- § 102 — vyrozumění o zahájení insolvenčního řízení;
+- § 109 až 111 — účinky spojené se zahájením insolvenčního řízení;
+- § 115 až 125 — obecný režim moratoria a jeho obdobné použití před zahájením insolvenčního řízení;
+- § 122 — zvláštní pravidla pro provozní závazky, trvající dodavatelské smlouvy a započtení;
+- § 124 — obecné důvody zániku moratoria;
+- § 127 — odpovědnost za škodu nebo jinou újmu způsobenou porušením povinností za moratoria.
+
+### Souvisící předpisy
+
+- zákon č. 99/1963 Sb., občanský soudní řád — podpůrné použití podle § 7 insolvenčního zákona.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva vysvětluje § 125 a 126 společně. Předinsolvenční moratorium odůvodňuje rizikem, že přímé zahájení insolvenčního řízení samo sníží hodnotu dlužníkova majetku, a potřebou přechodně řešit hrozící majetkovou krizi při ochraně dlužníka i věřitelů. Za hlavní odlišnosti označuje výlučné návrhové oprávnění dlužníka, neveřejnost informací a omezené nahlížení do spisu do rozhodnutí; zvláštní účinky spojuje s tím, že dosud nebyl podán insolvenční návrh. Jde o historické vysvětlení původní osnovy. Její odkaz na § 126 odst. 3 jako důvod zániku odpovídá dnešnímu odstavci 4, nikoli aktuálnímu číslování. (Vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, 4. volební období, zvláštní část „K § 125 a 126“, číslovaná s. 189, PDF s. 190.)
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní rešerše.
+
+### Výklad
+
+[1] **Působnost zvláštní úpravy.** § 126 navazuje na § 125 a upravuje odchylky vyvolané tím, že návrh na moratorium předchází insolvenčnímu návrhu. Obecná pravidla § 115 až 124 se použijí obdobně pouze potud, pokud § 126 nestanoví jinak.
+
+[2] **Neveřejnost před rozhodnutím.** Omezení podle odstavce 1 trvá „až do rozhodnutí o vyhlášení moratoria“. V této době soud nezveřejňuje informace o průběhu řízení. Právo nahlížet do spisu a pořizovat z něj výpisy a opisy má pouze dlužník, přičemž zákon z nahlížení vyjímá protokol o hlasování. Toto časově a věcně vymezené pravidlo nelze rozšířit na obecnou neveřejnost po rozhodnutí.
+
+[3] **Účinky vyhlášení.** Vyhlášením moratoria vznikají před zahájením insolvenčního řízení účinky, které zákon jinak spojuje se zahájením řízení. Odstavec 2 tím nevytváří insolvenční návrh ani nestanoví, že bylo zahájeno insolvenční řízení; zakládá výslovně jen jeho účinky. Jejich konkrétní obsah je nutné určit podle zejména § 109 až 111 a zvláštních pravidel moratoria.
+
+[4] **Zachování § 122.** Výslovná věta, že § 122 není dotčen, brání tomu, aby obecný odkaz na účinky zahájení vytlačil zvláštní režim provozních závazků, vybraných trvajících dodavatelských smluv a započtení za moratoria.
+
+[5] **Vyrozumění.** Po dobu trvání moratoria se pro vyrozumění o jeho vyhlášení použije § 102 obdobně. Jde o odkaz pro vyrozumění, nikoli o prohlášení, že podáním návrhu na moratorium bylo zahájeno insolvenční řízení.
+
+[6] **Další důvod zániku.** Podání insolvenčního návrhu dlužníkem je dalším důvodem zániku moratoria vyhlášeného před zahájením insolvenčního řízení. Slovo „i“ zachovává obecné důvody zániku podle § 124; odstavec 4 je nedoplňuje o požadavek zvláštního rozhodnutí o zániku.
+
+[7] **Návaznost procesních okamžiků.** Dlužníkův insolvenční návrh zahajuje podle § 97 odst. 1 insolvenční řízení dnem, kdy dojde věcně příslušnému soudu, a současně naplňuje zvláštní důvod zániku podle § 126 odst. 4. Pro každý následek je však třeba zachovat jeho vlastní zákonný základ.
+
+[8] **Časová působnost.** Výklad vychází ze znění účinného k 19. 7. 2026. Původní důvodová zpráva označuje dnešní důvod zániku jako § 126 odst. 3 osnovy; v aktuálním textu jde o odstavec 4. U dřívějšího moratoria je nutné ověřit tehdy účinné znění a příslušná přechodná ustanovení.
+
+### Judikatura
+
+Tato revize necituje žádné soudní rozhodnutí jako pramen samostatného pravidla k § 126. Tím se nevyslovuje závěr o neexistenci související judikatury; do produkčního textu se pouze nezařazuje rozhodnutí bez ověřeného plného textu a přímo nosného závěru.
+
+---
+
 ## § 127 — Odpovědnost za škodu v moratoriu
 
 > (1) Dlužník, který v době trvání moratoria poruší své povinnosti stanovené tímto zákonem, odpovídá věřitelům za škodu nebo jinou újmu, kterou jim tím způsobí. Této odpovědnosti se dlužník zprostí, jen když prokáže, že škodě nebo jiné újmě nemohl zabránit ani při vynaložení veškerého úsilí, které po něm bylo možné spravedlivě požadovat se zřetelem k průběhu moratoria.

@@ -411,53 +411,57 @@ Do tohoto kola nebyla zařazena judikatura jako opora materiálního tvrzení, p
 
 ## § 140c — Zákaz zahájení nových řízení
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > V době, po kterou trvají účinky rozhodnutí o úpadku, nelze zahájit soudní a rozhodčí řízení o pohledávkách a jiných právech týkajících se majetkové podstaty, které mají být v insolvenčním řízení uplatněny přihláškou, nebo na které se v insolvenčním řízení pohlíží jako na přihlášené, nejde-li o incidenční spory, ani řízení o pohledávkách, které se v insolvenčním řízení neuspokojují (§ 170).
+>
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *NSS* [2 Afs 191/2022 - 47](https://vyhledavac.nssoud.cz/DokumentDetail/Index/710086) — 12. 4. 2023
-  > „Ustanovení § 140a, § 140b ani § 140c zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), která se týkají přerušení řízení, respektive dalších právních účinků rozhodnutí insolvenčního soudu o úpadku dlužníka, se podle rozšířeného senátu na správní soudnictví nevztahují"
+Ustanovení po dobu účinků rozhodnutí o úpadku brání zahájení vymezených soudních a rozhodčích řízení. Rozhodující je současně druh řízení, vztah uplatněného práva k majetkové podstatě a způsob, jímž se právo uplatňuje v insolvenčním řízení. Incidenční spory jsou z tohoto zákazu výslovně vyňaty.
+
+### Souvisící ustanovení
+
+- § 109 odst. 1 písm. a) a odst. 3 — zákaz žalobního uplatnění přihlašovaných práv již od zahájení insolvenčního řízení a ochrana běhu lhůt,
+- § 136 odst. 2 písm. c) a § 140a až 140b — počátek účinků rozhodnutí o úpadku a režim již probíhajících řízení,
+- § 141a — zastavení řízení zahájeného v rozporu s § 140c po právní moci rozhodnutí o úpadku,
+- § 159 — zákonný výčet incidenčních sporů,
+- § 170 — pohledávky, které se v insolvenčním řízení neuspokojují,
+- § 173 — přihláška jako způsob uplatnění pohledávky a její účinky.
+
+### Souvisící předpisy
+
+- § 82 odst. 1 zákona č. 99/1963 Sb., občanský soudní řád — okamžik zahájení civilního soudního řízení.
+
+### Z důvodové zprávy
+
+Vládní návrh zákona č. 294/2013 Sb. vysvětlil § 140c jako logický doplněk pravidla, podle něhož nelze pokračovat v již zahájených řízeních o dotčených pohledávkách nebo právech: od rozhodnutí o úpadku nemají být taková řízení ani nově zahajována. Zpráva zároveň výslovně odůvodnila výjimku pro incidenční spory. Jde o historický legislativní účel; rozhodný rozsah zákazu určuje aktuální text zákona.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní rešerše.
 
 ### Výklad
 
-**Zákaz nově zahajovaných řízení** o pohledávkách proti dlužníkovi. *Výjimka*: **incidenční spory** (§ 159 — ty se naopak *musí* projednávat v rámci IR).
+[1] **Časová působnost.** Zákaz trvá po dobu účinků rozhodnutí o úpadku. Ty podle § 140a odst. 1 nastávají okamžikem zveřejnění rozhodnutí v insolvenčním rejstříku; pro konkrétní věc je proto nutné zjistit čas zveřejnění a čas zahájení posuzovaného řízení.
 
-### F. Kazuistika
+[2] **Věcný rozsah.** První skupinu tvoří řízení o pohledávkách a jiných právech týkajících se majetkové podstaty, která mají být uplatněna přihláškou nebo na která se hledí jako na přihlášená. Druhou skupinou jsou řízení o pohledávkách, které se podle § 170 v insolvenčním řízení neuspokojují. Nestačí tedy jen to, že dlužník vystupuje jako účastník; nutno kvalifikovat předmět řízení podle zákonných znaků.
 
-**1. Modelová situace.** Po zjištění úpadku dlužníka (s. r. o.) podá věřitel V u okresního soudu novou žalobu o zaplacení 600 tis. Kč z dosud nesplatné faktury, kterou nepřihlásil do insolvence. Současně správce hodlá podat odpůrčí žalobu (neúčinnost převodu nemovitosti, který dlužník provedl před úpadkem). Soud zvažuje, zda novou žalobu V přijmout. Důkazy: žaloba V, datum zveřejnění rozhodnutí o úpadku, kupní smlouva napadená odpůrčí žalobou.
+[3] **Druh řízení.** § 140c upravuje soudní a rozhodčí řízení. Jiná řízení řeší § 140d a výkon rozhodnutí nebo exekuci § 140e. Následky těchto ustanovení nelze přenášet mezi jednotlivými druhy řízení bez samostatné právní opory.
 
-**2. Právní otázka.** Lze po dobu účinků úpadku zahájit nové soudní řízení o pohledávce týkající se podstaty, a vztahuje se zákaz § 140c i na incidenční spory (zde odpůrčí žalobu správce)?
+[4] **Incidenční spory.** Zákaz se nevztahuje na incidenční spory. Zda o takový spor jde, určuje zejména taxativní výčet v § 159 odst. 1; samotná souvislost žaloby s insolvenčním řízením k této kvalifikaci nestačí.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 140c — po dobu účinků úpadku nelze zahájit soudní/rozhodčí řízení o pohledávkách týkajících se podstaty (a o pohledávkách dle § 170), *nejde-li o incidenční spory*.
-- *Související ustanovení téhož zákona:* § 159 (incidenční spory — naopak se v insolvenci *musí* projednat); § 235 a násl., § 239 (odpůrčí žaloba); § 173 (přihlášky); § 140a, § 140b (přerušení a zákaz rozhodování); § 141a (zastavení nepřípustně zahájených řízení); § 170 (neuspokojované pohledávky).
-- *Související předpisy:* § 79, § 104 o. s. ř. (zahájení řízení, podmínky řízení).
-- *Judikatura:* NSS 2 Afs 191/2022 — § 140a–c se nevztahují na správní soudnictví.
+[5] **Procesní následek porušení.** § 141a ukládá soudu nebo jinému příslušnému orgánu po právní moci rozhodnutí o úpadku zastavit řízení zahájené v rozporu s § 140c. Z textu § 140c proto nelze dovozovat, že podání žaloby vůbec nezahájí řízení nebo že ji soud bez dalšího „nepřijme“.
 
-**4. Subsumpce.** Žaloba V o 600 tis. Kč směřuje k pohledávce týkající se podstaty, kterou je třeba uplatnit přihláškou — její *zahájení* je proto § 140c zakázáno (a po právní moci úpadku by bylo řízení zastaveno dle § 141a). Naopak odpůrčí žaloba správce je *incidenčním sporem* (§ 159 odst. 1 písm. d) a na ni se výjimka v § 140c vztahuje — zahájit ji lze a musí se projednat v rámci insolvence.
+[6] **Vztah k přihlášce.** Je-li právo přihlašované, jeho procesním kanálem je přihláška podle § 173, a to i tehdy, bylo-li již uplatněno u soudu nebo je vykonatelné. Zda konkrétní právo lze ještě účinně přihlásit, je třeba posoudit samostatně podle lhůty a zvláštních pravidel; § 140c zmeškanou přihlašovací lhůtu neobnovuje.
 
-**5. Řešení.** Novou žalobu V soud nepřijme k věcnému projednání (řízení by bylo po právní moci úpadku zastaveno dle § 141a, popř. nelze v něm pokračovat); V musí pohledávku *přihlásit* do insolvence. Odpůrčí žalobu správce naopak insolvenční soud projedná jako incidenční spor. Procesně: V podá přihlášku; správce podá odpůrčí žalobu u insolvenčního soudu v zákonné lhůtě (§ 239).
+[7] **Intertemporalita.** § 140c byl vložen zákonem č. 294/2013 Sb. s účinností od 1. ledna 2014. U starších nebo přes tento okamžik probíhajících procesních situací je nutné ověřit tehdy rozhodné znění a přechodná ustanovení; současnou úpravu nelze bez této kontroly zpětně přenášet.
 
-**6. Varianty.** (a) Kdyby V uplatnil pohledávku, která se v insolvenci *neuspokojuje* (§ 170), zákaz zahájení by rovněž dopadl. (b) Kdyby šlo o řízení ve správním soudnictví, § 140c by se neuplatnil (NSS 2 Afs 191/2022) a řízení by bylo možné zahájit.
+### Judikatura
 
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Věřitel má právo na přístup k soudu, zákaz žaloby je protiústavní." — Neutralizace: právo se neztrácí, jen se *kanalizuje* do přihlášky a přezkumu v insolvenci; jde o legitimní omezení k zajištění rovnosti věřitelů a koncentrace.
-- *Protiargument:* „Odpůrčí žaloba je také žaloba o pohledávce, tudíž ji nelze zahájit." — Neutralizace: § 140c výslovně vyjímá incidenční spory, kam odpůrčí žaloba dle § 159 odst. 1 písm. d) patří.
-- *Slabé místo:* hranice „pohledávky týkající se podstaty" a odlišení incidenčních sporů od běžných žalob mohou být sporné; zákaz nedopadá na správní soudnictví.
-
-### H. Praktický závěr
-
-Po dobu účinků úpadku nelze zahájit nová soudní/rozhodčí řízení o pohledávkách týkajících se podstaty (ani o pohledávkách dle § 170); výjimkou jsou incidenční spory, které se naopak musí projednat v insolvenci. Věřitel uplatní pohledávku přihláškou, nikoli novou žalobou.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověřit, zda zamýšlené řízení je o pohledávce týkající se podstaty (zákaz zahájení).
-- [ ] Rozlišit incidenční spor (lze/nutno zahájit) od běžné žaloby (zakázáno).
-- [ ] Věřitele odkázat na přihlášku pohledávky (§ 173).
-- [ ] Nepřípustně zahájené řízení po právní moci úpadku zastavit (§ 141a).
-- [ ] Vyloučit aplikaci na správní soudnictví (NSS 2 Afs 191/2022).
-
-**Typicky rozhodné důkazy / podklady:** rozhodnutí o úpadku a údaj o účincích, žaloba a datum jejího podání, povaha uplatněné pohledávky, přihláška do insolvence, případně odpůrčí žaloba jako incidenční spor.
+Do tohoto kola nebyla zařazena judikatura jako opora materiálního tvrzení, protože kandidátní rozhodnutí nebylo doloženo fyzickým plným oficiálním textem v uzavřeném source ledgeru. Tím se nevyslovuje závěr, že relevantní judikatura neexistuje; jde o redakční omezení tohoto kola.
 
 ---
 

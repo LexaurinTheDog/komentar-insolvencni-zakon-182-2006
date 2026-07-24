@@ -1402,6 +1402,70 @@ Pro toto vydání není zařazeno rozhodnutí jako přímá autorita k výkladu 
 
 ---
 
+## § 119 — Účinnost moratoria
+
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> ###### Účinnost moratoria
+>
+> (1) Moratorium je účinné od okamžiku zveřejnění rozhodnutí o jeho vyhlášení v insolvenčním rejstříku a trvá po dobu uvedenou v návrhu na moratorium, nejdéle však 3 měsíce.
+>
+> (2) Insolvenční soud může na návrh dlužníka prodloužit moratorium nejdéle o 30 dnů, jestliže dlužník k takovému návrhu připojí ke dni podání návrhu aktualizovaný seznam závazků a písemné prohlášení většiny jeho věřitelů, počítané podle výše jejich pohledávek, že s prodloužením moratoria souhlasí; podpisy věřitelů na tomto prohlášení musí být úředně ověřeny.
+>
+> ##### Účinky moratoria
+>
+
+### Přehled výkladu
+
+§ 119 určuje počátek a nejdelší základní dobu účinnosti moratoria a stanoví uzavřené podmínky jeho prodloužení. Účinnost nastává zveřejněním rozhodnutí o vyhlášení moratoria v insolvenčním rejstříku; doba uvedená dlužníkem v návrhu nesmí přesáhnout tři měsíce. Prodloužení není automatické: vyžaduje návrh dlužníka, aktualizovaný seznam závazků ke dni podání návrhu a úředně ověřené prohlášení většiny věřitelů počítané podle výše jejich pohledávek. I při splnění těchto předpokladů může soud prodloužit moratorium nejvýše o 30 dnů.
+
+### Souvisící ustanovení
+
+- § 115 — osoba oprávněná navrhnout moratorium a lhůta k návrhu;
+- § 116 — náležitosti původního návrhu, seznamy a věřitelský souhlas;
+- § 118 — vyhlášení moratoria a rozhodování o návrhu;
+- § 120 až 122 — účinky moratoria;
+- § 124 — zánik moratoria;
+- § 125 a 126 — moratorium před zahájením insolvenčního řízení.
+
+### Souvisící předpisy
+
+Přímé podmínky počátku, délky a prodloužení moratoria jsou soustředěny v insolvenčním zákoně. Pro tuto jednotku proto není třeba dovozovat další materiální pravidlo z jiného předpisu.
+
+### Z důvodové zprávy
+
+Oficiální důvodová zpráva k původnímu vládnímu návrhu shrnuje, že § 119 upravuje okamžik nástupu účinků vyhlášeného moratoria, tříměsíční dobu jeho trvání a výjimečné prodloužení nejvýše o 30 dnů založené znovu na souhlasu odpovídajícího kvóra věřitelů. Jde o historické vysvětlení původní osnovy, nikoli o náhradu kontroly aktuálního znění. (Sněmovní tisk 1120/0, zvláštní část „K § 119“, číslovaná s. 188, PDF s. 189.)
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Toto sdělení není výsledkem negativní rešerše.
+
+### Výklad
+
+[1] **Okamžik účinnosti.** Moratorium je účinné okamžikem zveřejnění rozhodnutí o jeho vyhlášení v insolvenčním rejstříku. Zákon tedy neváže počátek účinnosti na právní moc, zvláštní doručení dlužníku ani na počátek následujícího dne.
+
+[2] **Základní doba.** Doba trvání se nejprve řídí údajem v návrhu na moratorium. Zákonný strop činí tři měsíce; § 119 odst. 1 sám nestanoví, že každé vyhlášené moratorium musí trvat právě tři měsíce.
+
+[3] **Návrh na prodloužení.** O prodloužení může požádat dlužník. Odstavec 2 nedává soudu pravomoc prodloužit moratorium bez takového návrhu a nestanoví nárok na prodloužení; používá formulaci „může“.
+
+[4] **Povinné přílohy.** Ke dni podání návrhu musí být připojen aktualizovaný seznam závazků a písemné prohlášení věřitelské většiny. Aktuálnost seznamu se proto posuzuje právě k datu podání návrhu na prodloužení, nikoli jen podle podkladů přiložených k původnímu návrhu na moratorium.
+
+[5] **Věřitelská většina.** Většina se počítá podle výše pohledávek, nikoli podle počtu věřitelů. Zákon navíc vyžaduje úřední ověření podpisů věřitelů na písemném prohlášení; samotná neformální podpora prodloužení tuto předepsanou přílohu nenahrazuje.
+
+[6] **Rozsah prodloužení.** Soud může moratorium prodloužit nejvýše o 30 dnů. Tato doba je horní hranicí prodloužení, nikoli další základní tříměsíční dobou.
+
+[7] **Systematická návaznost.** Po dobu účinného moratoria se uplatní účinky upravené zejména v § 120 až 122; způsoby jeho zániku upravuje § 124. U moratoria navrženého před zahájením insolvenčního řízení je třeba současně použít zvláštní režim § 125 a 126.
+
+[8] **Intertemporalita.** Výklad vychází ze znění účinného k 19. 7. 2026. U dřívějších návrhů a prodloužení je nutné ověřit znění účinné v rozhodné době; historická důvodová zpráva sama neurčuje pozdější právní stav.
+
+### Judikatura
+
+Pro toto vydání není zařazeno rozhodnutí jako přímá autorita k výkladu § 119. Tím se nevyslovuje závěr o neexistenci související judikatury; jde o redakční omezení tohoto kola, v němž nesmí být plný oficiální text rozhodnutí nahrazen právní větou, metadaty nebo sekundárním přehledem.
+
+---
+
 ## § 120 — § 122 — Účinky moratoria
 
 ### Hlavní účinky:

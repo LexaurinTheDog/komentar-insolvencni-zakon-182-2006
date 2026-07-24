@@ -1230,50 +1230,69 @@ Při této revizi nebylo jako pramen materiálního právního závěru použito
 
 ## § 182a — Jistota cizinců
 
-Věřiteli **cizinci** (s obvyklým pobytem v cizině nebo zahraniční PO) může soud uložit **jistotu na náklady IR** nebo na náhradu škody. *Sankce za nesložení*: nepřihlíží se k přihlášce.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**Výjimky**:
-- *občané EU/EHP a PO se sídlem tam*,
-- *reciprocity* — pokud v cizí zemi se v podobných případech jistota od českých občanů nepožaduje,
-- *věřitel s nemovitostí v ČR* dostatečné hodnoty.
+### Znění ustanovení
 
-> Toto je *prakticky vzácně využívaný* institut — týká se výjimečně velkých kauz se zahraničními insolvenčními manažery.
+> (1) Věřiteli, který je cizincem s obvyklým pobytem v cizině nebo zahraniční právnickou osobou, může insolvenční soud uložit na návrh jiného účastníka řízení nebo insolvenčního správce, aby ve stanovené lhůtě složil jistotu na náklady insolvenčního řízení určenou soudem nebo jistotu na náhradu škody, které mohou vzniknout účastí věřitele v insolvenčním řízení jiným účastníkům řízení. Ustanovení § 202 odst. 4 se použije obdobně a ustanovení občanského soudního řádu o jistotě u předběžného opatření se použijí přiměřeně.
+>
+> (2) Proti rozhodnutí, kterým insolvenční soud uloží složení jistoty podle odstavce 1, se může odvolat pouze věřitel, kterému byla povinnost složit jistotu podle odstavce 1 uložena. Proti rozhodnutí, kterým byl návrh na složení jistoty podle odstavce 1 zamítnut, se může odvolat pouze osoba, která tento návrh podala.
+>
+> (3) Nesloží-li věřitel jistotu ve stanovené lhůtě, k přihlášce pohledávky se nepřihlíží. Povinnost složit jistotu podle odstavce 1 nemá věřitel, který ve stanovené lhůtě osvědčí, že jistotu bez své viny nemohl složit, a že je tu nebezpečí z prodlení, v jehož důsledku by mu mohla vzniknout újma.
+>
+> (4) Povinnost složit jistotu na náklady insolvenčního řízení ani povinnost složit jistotu na náhradu škody podle odstavce 1 nelze uložit
+>
+> a) věřiteli, který je občanem členského státu Evropské unie nebo jiného státu tvořícího Evropský hospodářský prostor nebo zahraniční právnickou osobou mající v takovém státě sídlo,
+>
+> b) jestliže ve státě, jehož je věřitel občanem, se v podobných případech od státních občanů České republiky nebo právnických osob se sídlem v České republice jistota nevyžaduje, nebo
+>
+> c) jestliže má věřitel v České republice nemovitou věc v hodnotě dostačující k úhradě nákladů insolvenčního řízení anebo náhradě škody podle odstavce 1.
 
-### F. Kazuistika
+### Přehled výkladu
 
-**1. Modelová situace.** Věřitel V je obchodní společnost se sídlem ve třetí zemi (mimo EU/EHP), nemá v ČR žádný majetek. Přihlásí spornou pohledávku vůči dlužníku D a hodlá ji prosazovat v incidenčních sporech. Dlužník (resp. správce) navrhne, aby soud V uložil složit jistotu na náklady řízení a na náhradu škody. Důkazy: doklad o sídle a obvyklém pobytu věřitele, doklad o (ne)existenci majetku v ČR, informace o reciprocitě ve státě věřitele.
+Ustanovení dovoluje insolvenčnímu soudu na návrh jiného účastníka řízení nebo insolvenčního správce zajistit náklady insolvenčního řízení nebo náhradu škody, které mohou jiným účastníkům vzniknout účastí vymezeného zahraničního věřitele. Nejde o automatickou povinnost: soud rozhoduje fakultativně, použije obdobně test § 202 odst. 4 a musí respektovat výjimky v odstavcích 3 a 4.
 
-**2. Právní otázka.** Za jakých podmínek lze věřiteli-cizinci uložit složení jistoty a jaké jsou výjimky z této povinnosti?
+### Souvisící ustanovení
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 182a — věřiteli s obvyklým pobytem/sídlem v cizině může soud uložit jistotu na náklady IR nebo na náhradu škody; při nesložení se k přihlášce nepřihlíží; výjimky pro občany EU/EHP a tamní PO, reciprocitu a věřitele s dostatečnou nemovitostí v ČR.
-- *Související ustanovení téhož zákona:* § 173 (přihláška), § 178–182 (sankce a náhrada škody, k jejímuž zajištění jistota slouží), § 7 (přiměřené použití o. s. ř.).
-- *Související předpisy:* o. s. ř. (institut jistoty cizince — actor cautio); právo EU (zákaz diskriminace občanů EU/EHP); mezinárodní smlouvy o reciprocitě.
-- *Judikatura:* nosný závěr, že jistota cizince má povahu zajištění nákladů a škody a nelze ji uložit v rozporu se závazky z práva EU a mezinárodních smluv.
+- § 7 — přiměřené použití občanského soudního řádu,
+- § 173 — přihlášení pohledávky a účast přihlášeného věřitele,
+- § 185 — rozhodnutí o ukončení účasti při skutečnosti, pro kterou se k přihlášce nepřihlíží,
+- § 202 odst. 4 — zjevná hrozba škody nebo jiné újmy, očekávaná důvodnost procesního úkonu a přiměřené použití úpravy jistoty u předběžného opatření.
 
-**4. Subsumpce.** V je PO se sídlem mimo EU/EHP, bez majetku v ČR → nespadá pod výjimku pro EU/EHP ani pro věřitele s nemovitostí v ČR; pokud ve státě V není zaručena reciprocita, jsou podmínky pro uložení jistoty splněny.
+### Souvisící předpisy
 
-**5. Řešení.** Soud může na návrh uložit V jistotu v přiměřené výši; nesloží-li ji ve lhůtě, k přihlášce se nepřihlíží. V se brání tvrzením o reciprocitě nebo doložením dostatečně hodnotné nemovitosti v ČR. Procesně: rozhodnutí o jistotě a o následcích nesložení činí insolvenční soud.
+- zákon č. 99/1963 Sb., občanský soudní řád, zejména § 75b odst. 4 a § 77a, použitelné přiměřeně pro vypořádání jistoty a nárok na náhradu škody nebo jiné újmy,
+- zákon č. 91/2012 Sb., o mezinárodním právu soukromém, § 11, který byl podle důvodové zprávy vzorem úpravy.
 
-**6. Varianty.** (a) Kdyby V byl občanem EU nebo PO se sídlem v EU/EHP, jistotu uložit nelze (výjimka). (b) Kdyby V vlastnil v ČR nemovitost dostatečné hodnoty, povinnost jistoty by odpadla, byť jde o subjekt ze třetí země.
+### Z důvodové zprávy
 
-### G. Protiargumenty a rizika
+Zvláštní část důvodové zprávy k bodu 53 sněmovního tisku 785/0 vykládá účel ustanovení jako ochranu práv účastníků a prevenci škody. Podle ní má soud při obdobném použití § 202 odst. 4 uložit jistotu jen tehdy, doloží-li navrhovatel zjevnou hrozbu škody či nákladů; lze-li očekávat, že věřitel přihlásil pohledávku po právu, návrh zamítne. Zpráva dále spojuje přiměřené použití občanského soudního řádu s vypořádáním jistoty a popisuje výjimky pro EU/EHP, reciprocitu a dostatečnou nemovitou věc v České republice.
 
-- *Protiargument:* „Uložení jistoty cizinci je diskriminační." — Neutralizace: institut je přípustný mimo chráněný okruh (EU/EHP, reciprocita); vůči občanům EU/EHP se právě proto neuplatní.
-- *Protiargument:* „Jistota se ukládá automaticky každému cizinci." — Neutralizace: jde o fakultativní rozhodnutí soudu na návrh a jen při splnění podmínek; výjimky (reciprocita, nemovitost v ČR) ji vylučují.
-- *Slabé místo:* prokazování reciprocity a posouzení „dostatečné hodnoty" nemovitosti v ČR je v praxi obtížné; institut je využíván jen výjimečně.
+### Literatura
 
-### H. Praktický závěr
+Odborná literatura byla rozhodnutím editora odložena do druhého kola; tento oddíl není výsledkem negativní rešerše.
 
-§ 182a umožňuje zajistit náklady řízení a náhradu škody vůči věřiteli ze třetí země; vůči subjektům z EU/EHP a při reciprocitě se neuplatní. V praxi jde o vzácně využívaný nástroj velkých přeshraničních kauz.
+### Výklad
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověřit, zda věřitel má obvyklý pobyt/sídlo mimo EU/EHP.
-- [ ] Prověřit výjimky: občanství/sídlo v EU/EHP, reciprocita, dostatečně hodnotná nemovitost v ČR.
-- [ ] Při splnění podmínek navrhnout uložení jistoty v přiměřené výši a poučit o následku nesložení (nepřihlíží se k přihlášce).
-- [ ] Respektovat závazky z práva EU a mezinárodních smluv (zákaz diskriminace).
+[1] **Osobní působnost.** Adresátem možné povinnosti je fyzická osoba, která je cizincem a má obvyklý pobyt v cizině, nebo zahraniční právnická osoba. Samotný zahraniční prvek povinnost nezakládá; vymezuje pouze okruh věřitelů, vůči nimž lze při splnění dalších podmínek postupovat.
 
-**Typicky rozhodné důkazy / podklady:** doklad o sídle/obvyklém pobytu věřitele, informace o reciprocitě ve státě věřitele, výpis z katastru o nemovitosti věřitele v ČR a její hodnotě.
+[2] **Návrh a rozhodnutí.** Soud nepostupuje bez návrhu. Návrh může podat jiný účastník insolvenčního řízení nebo insolvenční správce. Soud může určit lhůtu a jistotu na jeden či oba zákonné účely: náklady insolvenčního řízení nebo náhradu škody, jež může účastí věřitele vzniknout jiným účastníkům.
+
+[3] **Materiální test.** Odkaz na § 202 odst. 4 znamená, že navrhovatel musí doložit zjevnou hrozbu relevantní škody nebo nákladů; očekávaná důvodnost přihlášené pohledávky naopak vede proti uložení jistoty. Výše jistoty na náklady je určena soudem. Pevné částky z § 75b odst. 1 o. s. ř. proto nelze do § 182a mechanicky přenést.
+
+[4] **Opravný prostředek.** Uloží-li soud jistotu, může se odvolat pouze dotčený věřitel. Zamítne-li návrh, může se odvolat pouze jeho navrhovatel. Jde o zvláštní vymezení subjektivní odvolací legitimace.
+
+[5] **Nesložení.** Marným uplynutím stanovené lhůty nastává zákonný následek, že se k přihlášce nepřihlíží. Tento následek se neuplatní, osvědčí-li věřitel včas kumulativně nezaviněnou nemožnost jistotu složit a nebezpečí z prodlení, v jehož důsledku by mu mohla vzniknout újma.
+
+[6] **Absolutní výjimky.** Povinnost nelze uložit občanu EU nebo jiného státu EHP ani zahraniční právnické osobě se sídlem v takovém státě. Dále ji nelze uložit při zákonem vymezené reciprocitě nebo tehdy, má-li věřitel v České republice nemovitou věc v hodnotě dostačující pro příslušný účel jistoty. U fyzické osoby váže zákon reciprocitu na stát jejího občanství.
+
+[7] **Vypořádání jistoty.** § 182a přikazuje přiměřeně použít ustanovení občanského soudního řádu o jistotě u předběžného opatření. Rozsah přiměřenosti je nutné určit podle účelu insolvenční jistoty; důvodová zpráva výslovně odkazuje zejména na vrácení a použití jistoty podle § 75b odst. 4 a § 77a o. s. ř.
+
+[8] **Intertemporalita.** § 182a byl do insolvenčního zákona vložen zákonem č. 64/2017 Sb. s účinností od 1. července 2017. Zákon č. 31/2019 Sb. s účinností od 1. června 2019 zrušil tehdejší odstavec 2 o zvláštním doručování a dosavadní odstavce 3 až 5 přečísloval na nynější odstavce 2 až 4. U historického procesního děje je proto nutné použít znění účinné v rozhodné době.
+
+### Judikatura
+
+Při této revizi nebylo jako pramen materiálního právního závěru použito žádné soudní rozhodnutí. Tím se nevyslovuje, že relevantní judikatura neexistuje; judikatorní závěr lze doplnit až po ověření plného textu z oficiálního soudního zdroje, skutkového a procesního kontextu i časové použitelnosti.
 
 ---
 

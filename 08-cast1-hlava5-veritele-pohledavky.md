@@ -1175,6 +1175,59 @@ Odborná literatura byla rozhodnutím editora odložena do druhého kola. Toto o
 
 Při této revizi nebylo jako pramen materiálního právního závěru použito žádné soudní rozhodnutí. Tím se nevyslovuje, že relevantní judikatura neexistuje; judikatorní závěr lze doplnit až po otevření plného textu z oficiálního soudního webu a samostatné kontrole skutkového, procesního a intertemporálního kontextu.
 
+### § 182 — Zpětvzetí přihlášky a zachování sankčních následků
+
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+#### Znění ustanovení
+
+> Jestliže na základě přihlášky pohledávky zjištěné v rozsahu uvedeném v [[#§ 178|§ 178]] nebo [[#§ 179|179]] učinil věřitel v insolvenčním řízení úkon, který zhoršil nebo mohl zhoršit postavení jiného věřitele nebo vyjde-li v průběhu insolvenčního řízení najevo, že tento věřitel nepřihlásil pohledávku v dobré víře, nemá skutečnost, že věřitel vzal přihlášku pohledávky zpět, žádný vliv na postup podle § 178 odst. 1 nebo § 179 odst. 1.
+>
+
+#### Přehled výkladu
+
+§ 182 brání tomu, aby zpětvzetí přihlášky samo zmařilo postup podle § 178 odst. 1 nebo § 179 odst. 1, jestliže věřitel na základě sankčně relevantní přihlášky zhoršil nebo mohl zhoršit postavení jiného věřitele anebo přihlášku nepodal v dobré víře. Ustanovení nezakládá novou samostatnou sankci; zachovává použití následků a řízení upravených v § 178 odst. 1 a § 179 odst. 1.
+
+#### Souvisící ustanovení
+
+§ 7; § 10 písm. e); § 49 až 53; § 173; § 176; § 178 až 181; § 184; § 192 odst. 4; § 195 až 199.
+
+#### Souvisící předpisy
+
+Zákon č. 99/1963 Sb., občanský soudní řád, se použije přiměřeně v mezích subsidiarity § 7 insolvenčního zákona, nestanoví-li insolvenční zákon jinak.
+
+#### Z důvodové zprávy
+
+Původní důvodová zpráva řadí § 182 mezi postupy proti uplatňování přehnaných nebo neopodstatněných pohledávek a proti neopodstatněnému pokusu o lepší pořadí. Úpravu spojuje se snahou zabránit účelovým manipulacím s přihláškami, jimiž by věřitel posiloval svůj vliv na schůzi věřitelů a ve věřitelských orgánech (vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, zvláštní část „K § 176 až 182“, číslovaná i PDF s. 199).
+
+#### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Toto odložení není závěrem negativní rešerše.
+
+#### Výklad
+
+[1] **Povaha pravidla.** § 182 neupravuje další samostatnou peněžitou povinnost ani nový následek nepřihlížení. Odstraňuje pouze zpětvzetí přihlášky jako překážku dalšího postupu podle § 178 odst. 1 nebo § 179 odst. 1, jsou-li splněny podmínky § 182.
+
+[2] **Sankčně relevantní přihláška.** Pravidlo navazuje na přihlášku pohledávky zjištěné v rozsahu uvedeném v § 178 nebo § 179. Samotné zpětvzetí jakékoli přihlášky proto § 182 neaktivuje; nejprve musí být dána zákonná vazba na výsledek přezkoumání podle jednoho z těchto ustanovení.
+
+[3] **Dvě alternativy.** Zachování postupu nastává, jestliže věřitel na základě takové přihlášky v insolvenčním řízení učinil úkon, který zhoršil nebo mohl zhoršit postavení jiného věřitele, anebo jestliže v průběhu řízení vyjde najevo nedostatek dobré víry při přihlášení pohledávky. Jde o alternativní předpoklady; není nutné, aby byly naplněny současně.
+
+[4] **Úkon a dopad na jiného věřitele.** První alternativa vyžaduje vazbu mezi přihláškou a konkrétním úkonem věřitele v insolvenčním řízení. Zákon zahrnuje nejen skutečné zhoršení postavení jiného věřitele, ale i způsobilost takové zhoršení vyvolat. Při posouzení je proto nutné určit dotčený úkon, právo vykonané na základě přihlášky a možné nebo nastalé procesní či majetkové znevýhodnění jiného věřitele.
+
+[5] **Dobrá víra.** Druhá alternativa se vztahuje k dobré víře při přihlášení pohledávky. § 182 sám nestanoví domněnku ani zvláštní důkazní pravidlo; závěr musí vycházet z konkrétních okolností, které v průběhu insolvenčního řízení vyšly najevo.
+
+[6] **Rozsah zachovaného postupu.** Zpětvzetí nemá za podmínek § 182 vliv na celý postup podle § 178 odst. 1 nebo § 179 odst. 1. To zahrnuje jak zákonem stanovený následek nepřihlížení, tak případné řízení o peněžité povinnosti, pro něž však nadále platí vlastní podmínky těchto ustanovení: návrh insolvenčního správce, uvážení soudu, zákonný strop a povaha incidenčního sporu.
+
+[7] **Vztah k včasnému částečnému zpětvzetí.** § 178 odst. 2 a § 179 odst. 2 upravují, kdy se včas účinně vzatá část nezahrne do testu podle jejich odstavce 1. § 182 naproti tomu řeší účinek zpětvzetí při naplnění svých zvláštních podmínek. Věřitel musí současně počítat s tím, že po uplynutí přihlašovací lhůty nelze podle § 192 odst. 4 rozšířit přihlášenou pohledávku nad původní výši ani uplatnit výhodnější pořadí; rozhodnutí část vůbec nepřihlásit tak může být nevratné.
+
+[8] **Vztah k § 180 a § 184.** Zpětvzetí je dispoziční úkon upravený v § 184, ale § 182 mu pro vymezený účel odnímá liberační účinek. Tím nejsou zrušeny další podmínky § 178 nebo § 179 ani samostatné pravidlo § 180 pro věřitele, který práva spojená s nezjištěnou pohledávkou v průběhu řízení nevykonával.
+
+[9] **Intertemporalita.** § 182 byl součástí původního insolvenčního zákona. U starších řízení je nutné ověřit znění účinné v době přihlášení, výkonu práv a zpětvzetí, včetně tehdejší podoby § 178 až 180 a přechodných ustanovení jednotlivých novel; aktuální znění nelze na historický procesní děj použít mechanicky.
+
+#### Judikatura
+
+Při této revizi nebylo jako pramen materiálního právního závěru použito žádné soudní rozhodnutí. Tím se nevyslovuje, že relevantní judikatura neexistuje; judikatorní závěr lze doplnit až po otevření plného textu z oficiálního soudního webu a samostatné kontrole skutkového, procesního a intertemporálního kontextu.
+
 ## § 182a — Jistota cizinců
 
 Věřiteli **cizinci** (s obvyklým pobytem v cizině nebo zahraniční PO) může soud uložit **jistotu na náklady IR** nebo na náhradu škody. *Sankce za nesložení*: nepřihlíží se k přihlášce.

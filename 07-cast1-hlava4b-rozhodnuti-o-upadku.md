@@ -1476,6 +1476,76 @@ V tomto kole nebylo zařazeno žádné rozhodnutí, protože žádný kandidátn
 
 ---
 
+## § 155 — Obsah a schválení znaleckého posudku
+
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Pro účely ocenění majetkové podstaty na základě rozhodnutí insolvenčního soudu podle [[#§ 153|§ 153]] platí, že provoz dlužníkova podniku skončil ke dni podání znaleckého posudku; části majetkové podstaty, ke kterým je uplatněno právo na uspokojení ze zajištění, se ve znaleckém posudku ocení i odděleně.
+>
+> (2) Znalecký posudek podle odstavce 1 předkládá znalec insolvenčnímu soudu, který neprodleně poté svolá za účelem jeho projednání a schválení schůzi věřitelů, ke které předvolá i znalce; znalecký posudek musí být zveřejněn v insolvenčním rejstříku nejpozději 15 dnů přede dnem, kdy se má schůze věřitelů konat.
+>
+> (3) Po projednání znaleckého posudku rozhodne schůze věřitelů o tom, zda jej schvaluje; usnesení schůze věřitelů o schválení znaleckého posudku je přijato, jestliže z věřitelů přihlášených ke dni předcházejícímu konání schůze věřitelů pro ně hlasovaly nejméně dvě třetiny všech přítomných věřitelů, počítáno podle výše pohledávek.
+>
+> (4) Podle usnesení schůze věřitelů o schválení znaleckého posudku vydá insolvenční soud rozhodnutí o ceně majetkové podstaty; proti tomuto rozhodnutí není odvolání přípustné.
+>
+
+### Přehled výkladu
+
+- Účel a rozsah ocenění podle § 153 [1]–[2]
+- Předložení posudku, svolání schůze a zveřejnění [3]
+- Projednání a kvalifikovaná většina [4]
+- Rozhodnutí soudu o ceně a opravný prostředek [5]
+- Neschválení posudku a vztah k reorganizačnímu plánu [6]–[7]
+- Časová použitelnost [8]
+
+### Souvisící ustanovení
+
+- **§ 49 až 53** — hlasovací právo věřitelů.
+- **§ 153** — ustanovení znalce k ocenění majetkové podstaty.
+- **§ 154** — odměna znalce.
+- **§ 156** — postup při neschválení posudku.
+- **§ 157** — podíl zajištěných věřitelů na odměně a hotových výdajích znalce.
+- **§ 167 odst. 3** — význam hodnoty zajištění zjištěné znaleckým posudkem pro rozsah zajištěné pohledávky.
+- **§ 339 odst. 1, § 348** — lhůta k předložení a schválení reorganizačního plánu.
+
+### Souvisící předpisy
+
+- **Zákon č. 254/2019 Sb., o znalcích, znaleckých kancelářích a znaleckých ústavech** — obecný rámec výkonu znalecké činnosti; § 155 je zvláštní procesní úpravou insolvenčního ocenění.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona nevysvětluje § 155 samostatně. Ve zvláštní části k § 154 až 157 uvádí, že tato ustanovení upravují podrobnosti procesního postupu při vydání rozhodnutí podle § 153; zvlášť připomíná pouze přenesení části nákladů na zajištěné věřitele v § 157. Z této stručné pasáže nelze dovozovat další pravidla nad text § 155.
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní rešerše.
+
+### Výklad
+
+[1] **Působnost ustanovení.** § 155 upravuje obsah a schvalovací postup u posudku zadaného rozhodnutím insolvenčního soudu podle § 153. Nejde tedy o obecnou úpravu každého znaleckého posudku použitého v insolvenčním řízení. Vazba na § 153 zahrnuje ocenění při reorganizaci a také situaci spojenou s doporučením schůze věřitelů ke zpeněžení majetkové podstaty jedinou smlouvou podle § 290.
+
+[2] **Rozhodný okamžik a oddělené ocenění zajištění.** Pro účely tohoto ocenění zákon zavádí předpoklad, že provoz dlužníkova podniku skončil ke dni podání posudku. Jde o oceňovací fikci pro stanovený účel, nikoli samo o sobě o právní příkaz skutečně ukončit provoz. Majetek zatížený uplatněným právem na uspokojení ze zajištění musí posudek ocenit také odděleně; vedle ocenění majetkové podstaty jako celku tak vzniká podklad pro posouzení hodnoty jednotlivých zajištění.
+
+[3] **Předložení a příprava schůze.** Znalec předkládá posudek insolvenčnímu soudu. Soud poté bez prodlení svolá schůzi věřitelů k jeho projednání a schválení a předvolá znalce. Posudek musí být v insolvenčním rejstříku zveřejněn nejpozději 15 dnů před dnem konání schůze. Jde o minimální časový odstup mezi zveřejněním posudku a schůzí, nikoli o lhůtu k jeho vypracování.
+
+[4] **Schválení schůzí věřitelů.** Schůze nejprve posudek projedná a poté hlasuje o jeho schválení. Zákon vyžaduje nejméně dvě třetiny všech přítomných věřitelů, počítáno podle výše pohledávek, z okruhu věřitelů přihlášených ke dni předcházejícímu konání schůze. Vedle tohoto zvláštního kvóra se uplatní obecná pravidla o hlasovacím právu věřitelů.
+
+[5] **Rozhodnutí o ceně.** Teprve podle usnesení schůze o schválení posudku vydá insolvenční soud rozhodnutí o ceně majetkové podstaty. § 155 odst. 4 proti tomuto rozhodnutí výslovně vylučuje odvolání. Rozhodnutí soudu o ceně nelze zaměňovat ani s usnesením schůze o schválení posudku, ani se schválením odměny znalce věřitelským výborem podle § 154.
+
+[6] **Neschválení.** Neschválí-li schůze posudek, použije se § 156: schůze může určit osobu nového znalce a § 153 až 155 se použijí obdobně. Samotné neschválení proto neopravňuje soud vydat podle odmítnutého posudku rozhodnutí o ceně.
+
+[7] **Vztah k reorganizačnímu plánu.** Nejvyšší soud v usnesení sen. zn. 29 NSČR 18/2010 rozlišil schválení posudku od postupu při předložení a hlasování o reorganizačním plánu. Uzavřel, že schválený posudek není předpokladem hlasování o plánu ani podmínkou jeho včasného předložení. Současně uvedl, že pro význam ocenění podle tehdejšího § 167 odst. 2 (v rozhodném stavu § 167 odst. 3) má v režimu § 153 a násl. význam jen posudek schválený schůzí věřitelů. Rozhodnutí vycházelo z řízení zahájeného v roce 2009 a z § 153 až 156 ve znění do 30. 6. 2010; citovaný závěr je použitelný i k rozhodnému stavu 19. 7. 2026, protože dotčená pravidla § 155 zůstala v relevantním rozsahu obsahově shodná.
+
+[8] **Intertemporalita.** Znění § 155 v rozhodném stavu odpovídá v materiálně relevantních otázkách původní úpravě. U starších rozhodnutí je přesto nutné samostatně ověřit tehdejší znění navazujících ustanovení, zejména § 153, § 167, § 339 a § 348; nemění-li se text § 155, neznamená to automaticky neměnnost celého procesního kontextu.
+
+### Judikatura
+
+**Usnesení Nejvyššího soudu ze dne 29. 11. 2012, sen. zn. 29 NSČR 18/2010, ECLI:CZ:NS:2012:29.NSČR.18.2010.1, R 65/2013.** V reorganizaci dlužníka soud posuzoval mimo jiné dopad neschváleného ocenění na další postup. Nosně uzavřel, že schválení znaleckého posudku podle § 155 není předpokladem hlasování věřitelů o reorganizačním plánu ani důvodem k odložení jeho zákonné lhůty; pro účinek ocenění v režimu § 153 a násl. je však významný jen posudek schválený schůzí věřitelů. Viz zejména část odůvodnění „2) K výkladu § 153 až § 156 insolvenčního zákona“, s. 6–8 úředního PDF.
+
+---
+
 ## § 158 — Rozhodnutí o neúpadku
 
 > (1) Před rozhodnutím o způsobu řešení úpadku podle § 149 rozhodne insolvenční soud i bez návrhu, že dlužník není v úpadku, zjistí-li, že

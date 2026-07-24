@@ -1774,51 +1774,54 @@ Tato revize necituje žádné soudní rozhodnutí jako pramen samostatného prav
 
 ---
 
-## § 125 — § 126 — Moratorium před zahájením IR
+## § 125 — Moratorium před zahájením insolvenčního řízení
 
-**§ 125** — dlužník-podnikatel může navrhnout moratorium *i před* zahájením IR.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**§ 126** — *speciální pravidla*:
-- *před vyhlášením* — nezveřejňuje se nic v rejstříku, do spisu nahlíží jen dlužník,
-- *vyhlášením* → nastávají účinky § 109 (zahájení),
-- *zánik tím, že dlužník podá IN*.
+### Znění ustanovení
 
-### F. Kazuistika
+> Dlužník uvedený v [[#§ 115|§ 115]] může u insolvenčního soudu podat návrh na moratorium i před zahájením insolvenčního řízení. Není-li dále stanoveno jinak, platí pro řízení o tomto návrhu obdobně § 115 až 124.
+>
+### Přehled výkladu
 
-**1. Modelová situace.** Dlužník-podnikatel ÚPSILON s. r. o. nechce, aby se o jeho potížích veřejnost dozvěděla z rejstříku. Navrhne proto moratorium **před** zahájením insolvenčního řízení. Do vyhlášení se nic nezveřejňuje a do spisu nahlíží jen dlužník. Po vyhlášení moratoria nastanou účinky jako při zahájení řízení (§ 109). Dlužník následně podá insolvenční návrh. Důkazy: návrh na moratorium před zahájením IR, doklad o vyhlášení a zveřejnění, pozdější insolvenční návrh dlužníka.
+§ 125 rozšiřuje časový rámec, v němž může dlužník uvedený v § 115 navrhnout moratorium: návrh lze podat ještě před zahájením insolvenčního řízení. Pro řízení se obdobně použije obecná úprava § 115 až 124, avšak jen potud, pokud zvláštní pravidla, zejména § 126, nestanoví jinak.
 
-**2. Právní otázka.** Jaká pravidla platí pro moratorium navržené před zahájením insolvenčního řízení, zejména ohledně publicity a nástupu účinků, a čím takové moratorium zaniká?
+### Souvisící ustanovení
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 125 (dlužník-podnikatel může navrhnout moratorium i před zahájením IR), § 126 (před vyhlášením se nic nezveřejňuje, do spisu nahlíží jen dlužník; vyhlášením nastávají účinky § 109; zánik podáním insolvenčního návrhu dlužníkem).
-- *Související ustanovení téhož zákona:* § 115–§ 119 (obecná úprava moratoria), § 109 (účinky zahájení), § 120–§ 122 (účinky moratoria), § 124 (zánik moratoria).
-- *Související předpisy:* zákon č. 284/2023 Sb. o preventivní restrukturalizaci (alternativní předúpadková ochrana).
-- *Judikatura:* k moratoriu před zahájením IR chybí v komentáři citovaná judikatura; nosně plyne z textu § 125 a § 126.
+- **§ 115** — osobní rozsah oprávnění navrhnout moratorium a základní pravidlo návrhu,
+- **§ 116 až 119** — náležitosti návrhu, rozhodnutí o něm a doba moratoria,
+- **§ 120 až 123** — účinky moratoria a předběžný správce,
+- **§ 124** — zánik moratoria,
+- **§ 126** — zvláštní pravidla pro návrh podaný před zahájením insolvenčního řízení,
+- **§ 127** — odpovědnost za škodu nebo jinou újmu v době moratoria.
 
-**4. Subsumpce.** Znak „dlužník-podnikatel" — naplněn. Znak „před vyhlášením se nezveřejňuje, nahlíží jen dlužník" (§ 126) — chrání pověst dlužníka v předúpadkové fázi. Znak „vyhlášením nastávají účinky § 109" — od vyhlášení působí suspenzivní účinky. Znak „zánik podáním IN dlužníkem" — moratorium končí, jakmile dlužník podá insolvenční návrh.
+### Souvisící předpisy
 
-**5. Řešení.** Moratorium před zahájením IR umožňuje dlužníkovi získat ochranný čas bez okamžité publicity; teprve vyhlášením nastávají účinky § 109 a od té chvíle je věc v rejstříku. Moratorium zaniká podáním insolvenčního návrhu dlužníkem (poté se vede řízení standardně). Praktický krok: připravit si insolvenční/sanační strategii na dobu po skončení moratoria. Riziko: po vyhlášení účinky § 109 dopadají i na věřitele (suspenze exekucí apod.).
+- **zákon č. 99/1963 Sb., občanský soudní řád** — podpůrné použití v rozsahu vymezeném § 7 insolvenčního zákona.
 
-**6. Varianty.** (a) Dlužník insolvenční návrh nepodá a moratorium uplyne — pominou jeho účinky; dlužník není nucen do insolvence, ale ztrácí ochranu. (b) Dlužník zvolí místo moratoria preventivní restrukturalizaci podle ZPR (širší a delší ochrana, ale formálně náročnější vstup).
+### Z důvodové zprávy
 
-### G. Protiargumenty a rizika
+Původní důvodová zpráva vysvětluje § 125 a 126 společně. Možnost navrhnout moratorium před zahájením insolvenčního řízení spojuje s rizikem, že přímé zahájení řízení samo sníží hodnotu dlužníkova majetku, a s potřebou přechodného řešení hrozící majetkové krize při ochraně dlužníka i věřitelů. Současně zdůrazňuje výlučné návrhové oprávnění dlužníka a zvláštní neveřejný režim do rozhodnutí. Jde o historické vysvětlení původní osnovy; odkaz zprávy na tehdejší § 126 odst. 3 nelze bez kontroly přenášet do dnešního číslování. Viz vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, zvláštní část „K § 125 a 126“, číslovaná s. 189 (PDF s. 190).
 
-- *„Účinky působí už podáním návrhu na moratorium."* Neobstojí — § 126 váže účinky § 109 až na **vyhlášení** moratoria, nikoli na podání návrhu. Neutralizace: počítat s tím, že do vyhlášení účinky nenastávají.
-- *„Moratorium před zahájením IR je veřejné jako insolvence."* Nepřesné — do vyhlášení se nezveřejňuje a do spisu nahlíží jen dlužník (§ 126); publicita nastupuje až vyhlášením. Neutralizace: využít předvyhlašovací diskrétnost k jednání s věřiteli.
-- Slabé místo: moratorium zaniká podáním insolvenčního návrhu dlužníkem, takže nejde o trvalé řešení; je to jen časově omezený nástroj k přípravě dohody nebo sanace.
+### Literatura
 
-### H. Praktický závěr
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento oddíl nepředstavuje negativní literární rešerši.
 
-Dlužník-podnikatel může navrhnout moratorium i před zahájením insolvenčního řízení; do vyhlášení se věc nezveřejňuje (nahlíží jen dlužník), vyhlášením nastávají účinky zahájení (§ 109) a moratorium zaniká, jakmile dlužník podá insolvenční návrh.
+### Výklad
 
-**Checklist (dlužník / advokát / soud / věřitel):**
-- [ ] Je navrhovatel dlužníkem-podnikatelem (před zahájením IR)?
-- [ ] Je respektována neveřejnost spisu do vyhlášení (nahlíží jen dlužník)?
-- [ ] Nastaly účinky § 109 až okamžikem vyhlášení moratoria?
-- [ ] Je připravena návazná strategie pro okamžik podání IN (zánik moratoria)?
-- [ ] Není vhodnější preventivní restrukturalizace podle ZPR?
+[1] **Návrh před zahájením řízení.** Komentované ustanovení umožňuje podat návrh na moratorium v době, kdy insolvenční řízení ještě nebylo zahájeno. Nezakládá samostatný okruh navrhovatelů: odkazem na § 115 přebírá osobní vymezení dlužníka oprávněného návrh podat.
 
-**Typicky rozhodné důkazy / podklady:** návrh na moratorium před zahájením IR s přílohami dle § 116, doklad o vyhlášení a okamžiku zveřejnění, evidence nahlížení do spisu, pozdější insolvenční návrh dlužníka, podklady k jednání s věřiteli.
+[2] **Příslušný orgán a povaha postupu.** Návrh se podává u insolvenčního soudu. Přestože dosud nebylo zahájeno insolvenční řízení, zákon pro řízení o návrhu vytváří zvláštní procesní režim prostřednictvím obdobného použití § 115 až 124.
+
+[3] **Obdobné, nikoli bezvýjimečné použití.** Slovo „obdobně“ vyžaduje přizpůsobit obecná pravidla situaci před zahájením insolvenčního řízení. Výslovná výhrada „není-li dále stanoveno jinak“ dává přednost zvláštním pravidlům následujícího § 126.
+
+[4] **Rozdělení úpravy mezi § 125 a § 126.** § 125 zakládá možnost předinsolvenčního návrhu a určuje obecně použitelný soubor pravidel. Publicitu řízení, účinky vyhlášení, vyrozumění a další důvod zániku moratoria upravuje § 126; tyto následky proto nelze vydávat za samostatný obsah § 125.
+
+[5] **Časová působnost.** Výklad vychází ze znění účinného k 19. 7. 2026. U dřívějšího návrhu nebo moratoria je nutné ověřit tehdy účinné znění § 115 až 126 a příslušná přechodná ustanovení; původní důvodová zpráva dokládá legislativní účel, nikoli beze zbytku dnešní strukturu ustanovení.
+
+### Judikatura
+
+Tato revize necituje žádné soudní rozhodnutí jako pramen samostatného pravidla k § 125. Tím se nevyslovuje závěr o neexistenci související judikatury; do produkčního textu se pouze nezařazuje rozhodnutí bez ověřeného plného textu a přímo nosného závěru.
 
 ---
 

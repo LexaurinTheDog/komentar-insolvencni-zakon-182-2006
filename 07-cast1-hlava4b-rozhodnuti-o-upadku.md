@@ -1358,56 +1358,62 @@ Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento 
 
 ---
 
-## § 153 — § 157 — Znalecké ocenění při reorganizaci
+## § 153 — Ustanovení znalce
 
-### Souhrnný výklad
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**Pro reorganizaci je třeba znalecký posudek** k ocenění majetkové podstaty (§ 290 — i pro konkurs, pokud schůze rozhodne o zpeněžení jediným úkonem).
+### Znění ustanovení
 
-#### Procesní rámec
+> (1) Jestliže insolvenční soud rozhodne, že způsobem řešení úpadku je reorganizace, spojí s tímto rozhodnutím i rozhodnutí o ustanovení znalce za účelem ocenění majetkové podstaty; současně znalci uloží, aby posudek vypracoval písemně. Obdobně insolvenční soud postupuje, jestliže schůze věřitelů vedle usnesení o způsobu řešení úpadku dlužníka konkursem přijme i usnesení, kterým doporučuje zpeněžení majetkové podstaty podle [[#§ 290|§ 290]].
+>
+> (2) Schůze věřitelů, která přijme usnesení o způsobu řešení úpadku reorganizací, nebo schůze věřitelů, která vedle usnesení o způsobu řešení úpadku dlužníka konkursem přijme i usnesení, kterým doporučuje zpeněžení majetkové podstaty podle [[#§ 290|§ 290]], může též přijmout usnesení, kterým určí osobu znalce podle odstavce 1; v takovém případě rozhodne insolvenční soud o ustanovení znalce podle tohoto usnesení.
+>
+> (3) Usnesení schůze věřitelů o určení osoby znalce je přijato, jestliže z věřitelů přihlášených ke dni předcházejícímu konání schůze věřitelů pro ně hlasovaly nejméně dvě třetiny všech přítomných věřitelů, počítáno podle výše pohledávek.
+>
 
-- **§ 153** — soud ustanoví znalce *s rozhodnutím o reorganizaci*. Schůze může *navrhnout konkrétní osobu znalce* (2/3 většina podle výše).
-- **§ 154** — odměna znalce podle obecných předpisů; schvaluje *věřitelský výbor* (nebo soud, pokud výbor nesvolá do 15 dnů).
-- **§ 155** — *fikce ukončení provozu k datu posudku*; podstata se oceňuje *odděleně podle zajištěných práv*. Zveřejnění posudku **15 dnů před schůzí**; schůze posudek **schvaluje 2/3 většinou**.
-- **§ 156** — *odmítnutí posudku* — schůze určí jiného znalce.
-- **§ 157** — **zajištění věřitelé hradí 50% nákladů znalce solidárně** (vypořádají se podle hodnoty zajištění). *Sankce* — neúročení zajištěné pohledávky po dobu prodlení.
+### Přehled výkladu
 
-### F. Kazuistika
+§ 153 upravuje dvě situace, v nichž se ustanovuje znalec k písemnému ocenění majetkové podstaty: rozhodnutí o řešení úpadku reorganizací a konkurs spojený s doporučením schůze věřitelů zpeněžit majetkovou podstatu podle § 290. Schůze věřitelů může za zákonného kvóra určit osobu znalce; soud je pak při ustanovení touto volbou vázán.
 
-**1. Modelová situace.** V reorganizaci dlužníka (výrobní a. s.) soud s rozhodnutím o reorganizaci ustanoví znalce k ocenění majetkové podstaty; schůze navrhla konkrétního znalce dvoutřetinovou většinou podle výše. Znalec ocení podstatu odděleně podle zajišťovacích práv (k datu posudku se provoz fikcí považuje za ukončený). Posudek je zveřejněn 10 dnů před schůzí. Zajištění věřitelé odmítají hradit zálohu na odměnu znalce. Důkazy: rozhodnutí o ustanovení znalce, návrh schůze na osobu znalce, znalecký posudek, doklad o zveřejnění, vyúčtování odměny znalce.
+### Souvisící ustanovení
 
-**2. Právní otázka.** Jaký je procesní režim znaleckého ocenění majetkové podstaty při reorganizaci podle § 153–157, kdo nese náklady znalce a jaké jsou důsledky pochybení (pozdní zveřejnění, neuhrazení nákladů zajištěnými věřiteli)?
+- **§ 148 až 152** — rozhodnutí o způsobu řešení úpadku a vliv schůze věřitelů.
+- **§ 154 až 157** — odměna znalce, obsah, projednání a případné neschválení posudku a úhrada nákladů.
+- **§ 219 odst. 4 a 5** — ocenění hodnoty zajištění a zpeněžovaného majetku; postup se neuplatní, byl-li ustanoven znalec podle § 153 odst. 1.
+- **§ 290** — zpeněžení celé majetkové podstaty nebo její části jedinou smlouvou.
+- **§ 316 a násl.** — reorganizace.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 153–157 — ustanovení znalce s rozhodnutím o reorganizaci a možnost návrhu schůze na osobu znalce 2/3 většinou podle výše (§ 153); odměna znalce a její schválení věřitelským výborem, subsidiárně soudem (§ 154); fikce ukončení provozu k datu posudku, oddělené ocenění podle zajištění, zveřejnění *15 dnů před schůzí* a schválení posudku schůzí 2/3 většinou (§ 155); odmítnutí posudku a určení jiného znalce (§ 156); *solidární úhrada 50 % nákladů znalce zajištěnými věřiteli* s vypořádáním podle hodnoty zajištění a sankcí neúročení zajištěné pohledávky po dobu prodlení (§ 157).
-- *Související ustanovení téhož zákona:* § 290 (zpeněžení jediným úkonem — ocenění i pro konkurs), § 17 a násl. (věřitelský výbor), § 151 (2/3 většina), reorganizační úprava (§ 316 a násl.).
-- *Související předpisy:* zákon o znalcích a vyhláška o znalečném (odměna znalce dle obecných předpisů).
-- *Judikatura:* —.
+### Souvisící předpisy
 
-**4. Subsumpce.** Znalec byl ustanoven s rozhodnutím o reorganizaci a schůze navrhla jeho osobu 2/3 většinou podle výše (§ 153). Posudek ocenil podstatu odděleně podle zajištění s fikcí ukončení provozu (§ 155). Posudek však byl zveřejněn jen *10 dnů* před schůzí, ač § 155 vyžaduje *15 dnů* — jde o procesní vadu ohrožující řádné schválení posudku schůzí. Zajištění věřitelé jsou povinni *solidárně uhradit 50 %* nákladů znalce (§ 157); jejich prodlení je sankcionováno *neúročením* zajištěné pohledávky.
+- **Zákon č. 99/1963 Sb., občanský soudní řád, zejména § 127** — obecný procesní rámec znaleckého dokazování; v insolvenčním řízení se použije jen přiměřeně a pouze tam, kde insolvenční zákon nestanoví zvláštní pravidlo (§ 7 insolvenčního zákona).
 
-**5. Řešení.** Vadu pozdního zveřejnění je třeba zhojit (zajistit patnáctidenní lhůtu před schůzí, popř. odročit schválení posudku), jinak schválení posudku schůzí může být zpochybněno. Odměnu znalce schvaluje věřitelský výbor (subsidiárně soud, nesvolá-li se do 15 dnů — § 154). Zajištění věřitelé hradí 50 % nákladů solidárně (§ 157), vzájemně se vypořádají podle hodnoty zajištění; neuhradí-li, neúročí se jejich zajištěné pohledávky po dobu prodlení. Procesně: hlídat lhůty zveřejnění a schválení, doložit oddělené ocenění, vymáhat podíl zajištěných věřitelů na nákladech.
+### Z důvodové zprávy
 
-**6. Varianty.** (a) Kdyby schůze posudek *odmítla*, určí jiného znalce (§ 156) a proces ocenění se opakuje. (b) Kdyby šlo o *konkurs*, v němž schůze rozhodla o zpeněžení podstaty jediným úkonem (§ 290), uplatnilo by se ocenění obdobně, byť mimo reorganizační rámec.
+Původní důvodová zpráva označuje možnost schůze věřitelů rozhodnout o ustanovení znalce nebo doporučit zpeněžení majetkové podstaty jedinou smlouvou za posílení vlivu věřitelů na řízení. Jde o historické vysvětlení návrhu, nikoli o náhradu aktuálního textu § 153.
 
-### G. Protiargumenty a rizika
+### Literatura
 
-- *Protiargument:* „Náklady znalce nese podstata, ne zajištění věřitelé." — Neutralizace: § 157 výslovně ukládá *zajištěným věřitelům* solidární úhradu 50 % nákladů znalce s vypořádáním podle hodnoty zajištění; sankcí prodlení je neúročení zajištěné pohledávky.
-- *Protiargument:* „Desetidenní zveřejnění posudku stačí." — Neutralizace: § 155 vyžaduje zveřejnění *15 dnů před schůzí*; kratší lhůta je vadou ohrožující platnost schválení posudku.
-- *Slabé místo:* oddělené ocenění podle zajištění a fikce ukončení provozu k datu posudku jsou znalecky náročné; chyby v lhůtách (zveřejnění, svolání výboru) a ve výpočtu podílů zajištěných věřitelů na nákladech mohou zpochybnit celý proces.
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tím se nevyslovuje závěr, že k § 153 relevantní literatura neexistuje.
 
-### H. Praktický závěr
+### Výklad
 
-Pro reorganizaci (a v konkursu při zpeněžení jediným úkonem) je třeba znalecké ocenění podstaty: soud ustanoví znalce, schůze může navrhnout jeho osobu (2/3 podle výše), posudek oceňuje podstatu odděleně podle zajištění s fikcí ukončení provozu, zveřejňuje se 15 dnů před schůzí a schvaluje 2/3 většinou. Náklady znalce z 50 % solidárně nesou zajištění věřitelé (§ 157), jinak se jejich zajištěná pohledávka neúročí.
+[1] **Ustanovení znalce při reorganizaci.** Rozhodne-li insolvenční soud, že způsobem řešení úpadku je reorganizace, musí s tímto rozhodnutím spojit ustanovení znalce k ocenění majetkové podstaty. Znalci současně uloží písemnou formu posudku. Nejde o postup závislý na návrhu účastníka.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Zajistit ustanovení znalce s rozhodnutím o reorganizaci a zohlednit případný návrh schůze (2/3 podle výše).
-- [ ] Ocenit podstatu odděleně podle zajišťovacích práv s fikcí ukončení provozu k datu posudku (§ 155).
-- [ ] Dodržet zveřejnění posudku 15 dnů před schůzí a jeho schválení 2/3 většinou.
-- [ ] Nechat odměnu znalce schválit věřitelským výborem (subsidiárně soudem — § 154).
-- [ ] Vymáhat 50 % nákladů znalce po zajištěných věřitelích (solidárně) a aplikovat sankci neúročení při prodlení (§ 157).
+[2] **Konkurs a doporučení podle § 290.** Stejný postup nastává v konkursu jen tehdy, přijme-li schůze věřitelů vedle usnesení o konkursu také usnesení doporučující zpeněžení majetkové podstaty podle § 290. Samotné rozhodnutí o konkursu proto povinnost podle § 153 odst. 1 nezakládá.
 
-**Typicky rozhodné důkazy / podklady:** rozhodnutí o ustanovení znalce a návrh schůze na jeho osobu, znalecký posudek s odděleným oceněním podle zajištění, doklad o zveřejnění posudku a o jeho schválení schůzí, vyúčtování odměny znalce a doklady o úhradě podílu zajištěnými věřiteli.
+[3] **Určení osoby znalce schůzí.** V obou situacích může příslušná schůze věřitelů určit konkrétní osobu znalce. Přijme-li takové usnesení za podmínek odstavce 3, zákon ukládá soudu ustanovit znalce podle tohoto usnesení; text § 153 neponechává soudu prostou volbu jiné osoby.
+
+[4] **Hlasovací pravidlo.** Potřebné jsou nejméně dvě třetiny všech přítomných věřitelů, avšak hlasy se počítají podle výše pohledávek. Okruh, z něhož se hlasuje, tvoří věřitelé přihlášení ke dni předcházejícímu konání schůze. Dvoutřetinový práh se tedy nevztahuje k počtu přítomných osob ani ke všem přihlášeným pohledávkám bez ohledu na účast.
+
+[5] **Předmět a další postup.** Úkolem znalce podle § 153 odst. 1 je ocenění majetkové podstaty a posudek musí být písemný. Podrobnosti odměny, ocenění, předložení, projednání a schválení posudku upravují až § 154 až 157; nelze je vydávat za samostatný obsah § 153.
+
+[6] **Vztah k obecnému ocenění.** § 219 odst. 5 výslovně vylučuje obecný postup ocenění podle § 219 odst. 1 až 4, byl-li ustanoven znalec podle § 153 odst. 1. Zvláštní znalecké ocenění podle § 153 tak nahrazuje tento obecný postup v rozsahu stanoveném § 219 odst. 5.
+
+[7] **Historický účel a intertemporalita.** Důvodová zpráva k původní osnově zdůraznila vliv věřitelů na výběr znalce a na doporučení zpeněžení jedinou smlouvou. Pro řízení a hlasování je však rozhodné znění zákona účinné v době příslušného procesního úkonu; historická zpráva nemůže rozšířit ani zúžit aktuální podmínky § 153.
+
+### Judikatura
+
+V tomto kole nebylo zařazeno žádné rozhodnutí, protože žádný kandidátní judikatorní pramen nebyl použit bez ověření plného textu na oficiálním webu soudu. Tím se nevyslovuje závěr, že relevantní judikatura neexistuje.
 
 ---
 

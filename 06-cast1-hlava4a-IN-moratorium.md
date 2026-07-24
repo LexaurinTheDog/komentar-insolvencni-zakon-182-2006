@@ -2309,50 +2309,66 @@ Do tohoto kola nebylo zařazeno žádné rozhodnutí. Tím se nevyslovuje závě
 
 ---
 
-## § 131 — § 132 — Osvědčení skutečností
+## § 131 — Osvědčení rozhodných skutečností
 
-**§ 131** — skutečnosti rozhodné pro rozhodnutí musí být **osvědčeny** (nižší standard než dokázány).
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**Specifika pro test mezery krytí** (odst. 2) — výkaz stavu likvidity / výhled vývoje likvidity (§ 3 odst. 3) lze předložit *jen do 14 dnů* od zveřejnění vyhlášky o zahájení. Lhůtu lze prodloužit jen z důvodů zvláštního zřetele.
+### Znění ustanovení
 
-**§ 132** — *snazší osvědčování dlužníkova návrhu* — postačí *údaje návrhu + přílohy*. Speciálka pro PO s více statutárními orgány (každý oprávněný samostatně) — pokud návrh nepodepsal žádný z nich, soud musí vyžádat vyjádření ostatních.
+> (1) Skutečnosti, na jejichž základě insolvenční soud rozhoduje, musí být v rámci projednání insolvenčního návrhu osvědčeny.
+>
+> (2) Při projednání insolvenčního návrhu podaného věřitelem se k výkazu stavu likvidity a výhledu vývoje likvidity pro účely § 3 odst. 3 přihlíží pouze, předloží-li dlužník oba dokumenty insolvenčnímu soudu nejpozději do 14 dní od zveřejnění vyhlášky o zahájení insolvenčního řízení v insolvenčním rejstříku. Tuto lhůtu může insolvenční soud na žádost dlužníka z důvodů zvláštního zřetele hodných přiměřeně prodloužit.
+>
 
-### F. Kazuistika
+### Přehled výkladu
 
-**1. Modelová situace.** Věřitel tvrdí úpadek dlužníka BETA-W s. r. o. ve formě platební neschopnosti; dlužník namítá, že je pouze v dočasné platební nekázni a předkládá **výkaz stavu likvidity a výhled vývoje likvidity** (test mezery krytí dle § 3 odst. 3) — avšak až 20 dnů po zveřejnění vyhlášky o zahájení. V jiné věci podá návrh dlužník-PO se třemi jednateli oprávněnými jednat samostatně, ale návrh nepodepsal žádný z nich. Důkazy: výkaz likvidity a výhled, datum zveřejnění vyhlášky, podpisová část návrhu, vyjádření jednatelů.
+Ustanovení určuje obecný standard zjištění skutkového základu při projednání insolvenčního návrhu. Pro dva likviditní dokumenty, jimiž se při věřitelském návrhu uplatňuje obrana podle § 3 odst. 3, současně stanoví zvláštní podmínky: dlužník musí předložit oba dokumenty nejpozději ve čtrnáctidenní lhůtě; její prodloužení předpokládá jeho žádost, důvody zvláštního zřetele hodné a přiměřenost prodloužení.
 
-**2. Právní otázka.** V jaké lhůtě lze předložit výkaz likvidity k vyvrácení mezery krytí a jak soud postupuje u dlužnického návrhu PO, který nepodepsal žádný z více samostatně oprávněných statutárů?
+### Souvisící ustanovení
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 131 (rozhodné skutečnosti se **osvědčují** — nižší standard než dokazování), odst. 2 (výkaz stavu likvidity / výhled vývoje likvidity lze předložit jen do 14 dnů od zveřejnění vyhlášky; prodloužení jen z důvodů zvláštního zřetele), § 132 (snazší osvědčení dlužníkova návrhu — postačí údaje návrhu a přílohy; nepodepsal-li návrh žádný z více samostatně oprávněných statutárů, soud vyžádá vyjádření ostatních).
-- *Související ustanovení téhož zákona:* § 3 odst. 3 (mezera krytí), § 133 (jednání o návrhu při sporných skutečnostech), § 136 (rozhodnutí o úpadku).
-- *Související předpisy:* prováděcí předpis k výkazu likvidity; OSŘ (osvědčení vs. dokazování).
-- *Judikatura:* k osvědčování a testu mezery krytí chybí v komentáři citovaná judikatura; nosně plyne z textu § 131 a § 3 odst. 3.
+- § 3 odst. 3 — mezera krytí a likviditní dokumenty,
+- § 86 — dokazování a osvědčování skutečností i bez návrhu účastníků,
+- § 132 — zvláštní pravidla pro dlužnický insolvenční návrh,
+- § 133 — jednání a dokazování při sporných skutečnostech o úpadku,
+- § 136 odst. 1 — zjištění úpadku nebo hrozícího úpadku osvědčením nebo dokazováním,
+- § 143 odst. 1 a 2 — zamítnutí návrhu a osvědčení splatných pohledávek u věřitelského návrhu.
 
-**4. Subsumpce.** Znak „výkaz likvidity do 14 dnů od zveřejnění vyhlášky" — v modelu **nenaplněn** (předložen až 20. den) bez doložení důvodů zvláštního zřetele → k němu nelze přihlédnout. Znak „osvědčení" (nikoli plné dokazování) — postačí menší míra jistoty. U dlužnického návrhu PO bez podpisu kteréhokoli statutára → soud vyžádá vyjádření ostatních (§ 132).
+### Souvisící předpisy
 
-**5. Řešení.** Opožděný výkaz likvidity (po 14 dnech, bez zvláštního zřetele) se neuplatní; dlužník tak nevyvrátí mezeru krytí touto cestou a hrozí osvědčení úpadku. U dlužnického návrhu PO soud nevyřídí věc bez podpisu, ale vyžádá vyjádření samostatně oprávněných statutárů (§ 132). Praktický krok dlužníka: předložit výkaz likvidity **včas** (do 14 dnů) a zajistit podpis návrhu oprávněnou osobou.
+- zákon č. 64/2017 Sb. — s účinností od 1. 7. 2017 označil dosavadní text § 131 jako odstavec 1 a doplnil odstavec 2,
+- vyhláška č. 190/2017 Sb. — upravuje náležitosti výkazu stavu likvidity a výhledu vývoje likvidity, způsob jejich sestavení a osoby oprávněné k jejich zpracování.
 
-**6. Varianty.** (a) Dlužník doloží **důvody zvláštního zřetele** pro pozdější předložení výkazu — lhůtu lze prodloužit (§ 131 odst. 2). (b) Jde o dlužnický návrh — osvědčení je snazší (§ 132): postačí údaje návrhu a přílohy, není nutné rozsáhlé dokazování.
+### Z důvodové zprávy
 
-### G. Protiargumenty a rizika
+Původní důvodová zpráva charakterizovala § 131 jako požadavek osvědčení skutečností rozhodných pro kladné rozhodnutí o insolvenčním návrhu a odkázala k pojmu „osvědčení“ na § 86 a tamní odůvodnění. Toto vysvětlení se vztahuje k původnímu jednoodstavcovému znění, tedy k dnešnímu odstavci 1; odstavec 2 byl doplněn až zákonem č. 64/2017 Sb. (Sněmovní tisk 1120/0, 4. volební období, zvláštní část „K § 131“, číslovaná s. 190, PDF s. 191.)
 
-- *„Výkaz likvidity doložím kdykoli během řízení."* Neobstojí — § 131 odst. 2 stanoví 14denní lhůtu od zveřejnění vyhlášky; pozdější předložení jen z důvodů zvláštního zřetele. Neutralizace: dodržet lhůtu, jinak doložit zvláštní zřetel.
-- *„Skutečnosti je třeba plně dokázat."* Nepřesné — pro rozhodnutí postačí **osvědčení** (§ 131), tj. nižší míra jistoty. Neutralizace: zaměřit se na osvědčení rozhodných skutečností, nikoli na úplné dokazování.
-- Slabé místo: u dlužnického návrhu PO bez podpisu statutára hrozí průtahy, než soud vyžádá vyjádření ostatních; klíčové je zajistit řádný podpis oprávněnou osobou předem.
+### Literatura
 
-### H. Praktický závěr
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní rešerše a nevypovídá o tom, zda relevantní literatura existuje.
 
-Rozhodné skutečnosti se v této fázi osvědčují (nikoli plně dokazují); výkaz stavu likvidity a výhled k vyvrácení mezery krytí lze předložit jen do 14 dnů od zveřejnění vyhlášky (prodloužení jen ze zvláštního zřetele). U dlužnického návrhu je osvědčení snazší a při chybějícím podpisu více statutárů si soud vyžádá jejich vyjádření.
+### Výklad
 
-**Checklist (dlužník / věřitel / soud):**
-- [ ] Jsou rozhodné skutečnosti osvědčeny (nižší standard než dokazování)?
-- [ ] Byl výkaz likvidity / výhled předložen do 14 dnů od zveřejnění vyhlášky?
-- [ ] Jsou případně doloženy důvody zvláštního zřetele pro prodloužení (odst. 2)?
-- [ ] U dlužnického návrhu: postačují k osvědčení údaje návrhu a přílohy (§ 132)?
-- [ ] Je dlužnický návrh PO podepsán oprávněnou osobou (jinak vyjádření ostatních statutárů)?
+[1] **Rozhodné skutečnosti.** Odstavec 1 dopadá na skutkový základ, z něhož soud při projednání insolvenčního návrhu vychází. Požaduje jeho osvědčení; sám však neurčuje, které skutečnosti jsou pro konkrétní výrok rozhodné. Ty vyplývají zejména z uplatněného důvodu úpadku, druhu návrhu a z pravidel § 132, § 136 a § 143.
 
-**Typicky rozhodné důkazy / podklady:** výkaz stavu likvidity a výhled vývoje likvidity (test mezery krytí), údaj o datu zveřejnění vyhlášky a o předložení výkazu, podpisová část návrhu, vyjádření samostatně oprávněných statutárů, přílohy dlužnického návrhu.
+[2] **Osvědčení a dokazování.** Zákon oba postupy rozlišuje: § 136 odst. 1 připouští zjištění úpadku nebo hrozícího úpadku osvědčením nebo dokazováním a § 133 odst. 2 výslovně počítá s dokazováním při zjišťování sporných skutečností. Nelze proto z § 131 dovodit, že se při projednání návrhu nikdy neprovádí dokazování.
+
+[3] **Rozsah odstavce 2.** Zvláštní časové pravidlo se uplatní jen při projednání insolvenčního návrhu podaného věřitelem a jen u výkazu stavu likvidity a výhledu vývoje likvidity určených pro § 3 odst. 3. Neupravuje obecnou lhůtu pro veškerá tvrzení či důkazní prostředky dlužníka.
+
+[4] **Oba dokumenty.** K využití § 3 odst. 3 musí dlužník předložit soudu výkaz i výhled. Předložení pouze jednoho z nich textovou podmínku odstavce 2 nesplňuje.
+
+[5] **Počátek a délka lhůty.** Čtrnáctidenní lhůta se váže na zveřejnění vyhlášky o zahájení insolvenčního řízení v insolvenčním rejstříku, nikoli na doručení návrhu dlužníku ani na jeho pozdější seznámení se spisem.
+
+[6] **Prodloužení není automatické.** Soud může lhůtu přiměřeně prodloužit jen na žádost dlužníka a z důvodů zvláštního zřetele hodných. Samotné opožděné předložení dokumentů zákonné předpoklady prodloužení nenahrazuje. Zda jsou tvrzené důvody dostačující a jaké prodloužení je přiměřené, musí soud posoudit v konkrétní věci.
+
+[7] **Následek nedodržení podmínek.** Nejsou-li oba dokumenty předloženy včas ani v přiměřeně prodloužené lhůtě, soud k nim pro účely § 3 odst. 3 nepřihlíží. Z toho samotného ještě neplyne, že úpadek je osvědčen; o návrhu musí soud rozhodnout podle všech ostatních rozhodných skutečností a použitelných ustanovení.
+
+[8] **Prováděcí úprava.** Vyhláška č. 190/2017 Sb. konkretizuje obsah, rozhodné období a způsob sestavení obou dokumentů i požadavky na jejich zpracovatele. Dodržení lhůty podle § 131 odst. 2 proto nenahrazuje splnění obsahových a personálních požadavků vyhlášky.
+
+[9] **Časová použitelnost.** Odstavec 2 je účinný od 1. 7. 2017. U řízení a procesních úkonů z dřívější doby je nutné ověřit tehdy účinné znění a přechodná ustanovení zákona č. 64/2017 Sb.; současné pravidlo nelze bez takové kontroly zpětně promítat.
+
+### Judikatura
+
+Do tohoto kola nebylo zařazeno žádné rozhodnutí. Tím se nevyslovuje závěr, že relevantní judikatura neexistuje; materiální závěry tohoto komentáře stojí na plném textu aktuálního zákona, vyhlášky č. 190/2017 Sb., novelizačním zákoně č. 64/2017 Sb. a oficiální původní důvodové zprávě.
 
 ---
 

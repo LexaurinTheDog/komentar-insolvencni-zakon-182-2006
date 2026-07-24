@@ -1605,6 +1605,70 @@ Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tím s
 
 ---
 
+## § 157 — Úhrada nákladů zajištěnými věřiteli
+
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Zajištění věřitelé uhradí do majetkové podstaty společně a nerozdílně polovinu odměny a hotových výdajů uhrazených znalci, a to ve lhůtě stanovené ve výzvě insolvenčního správce; mezi sebou se vypořádají podle poměru hodnot jejich zajištění určených znaleckým posudkem.
+>
+> (2) Po dobu, po kterou je zajištěný věřitel v prodlení se splněním povinnosti podle odstavce 1, se jeho zajištěná pohledávka neúročí.
+>
+> #### Díl 7
+>
+> ##### Rozhodnutí o tom, že dlužník není v úpadku
+>
+
+### Přehled výkladu
+
+- předmět a rozsah úhradové povinnosti
+- společná a nerozdílná povinnost vůči majetkové podstatě
+- vnitřní vypořádání zajištěných věřitelů
+- výzva insolvenčního správce, prodlení a neúročení
+- vazba na vydání výtěžku zpeněžení
+
+### Souvisící ustanovení
+
+- **§ 153 až 156** — ustanovení znalce, jeho odměna, ocenění majetkové podstaty a nový posudek
+- **§ 167 a § 171** — uspokojení a úročení zajištěných pohledávek
+- **§ 298 odst. 5** — odpočet dosud nesplněné povinnosti při vydání výtěžku zpeněžení
+
+### Souvisící předpisy
+
+- **zákon č. 254/2019 Sb., o znalcích, znaleckých kancelářích a znaleckých ústavech, zejména § 30 až 32** — znalečné, odměna a náhrady
+- **vyhláška č. 504/2020 Sb., o znalečném** — způsob určení odměny a náhrad znalce
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona uváděl k § 154 až 157, že tato ustanovení upravují podrobnosti procesního postupu při vydání rozhodnutí podle § 153 a že § 157 přenáší část nákladů vynaložených na ustanovení znalce schůzí věřitelů na zajištěné věřitele. Jde o stručné historické vysvětlení původní osnovy; konkrétní rozsah dnešní povinnosti určuje aktuální text zákona.
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Toto konstatování není výsledkem negativní literární rešerše.
+
+### Výklad
+
+[1] **Předmět povinnosti.** Ustanovení rozděluje konečné zatížení náklady znalce, jehož ustanovení a úkol upravují § 153 až 156. Zajištění věřitelé hradí do majetkové podstaty jednu polovinu částek, které již byly znalci uhrazeny jako odměna a hotové výdaje. Text nedává podklad pro zahrnutí jiných položek znalečného, zejména náhrady za ztrátu času, nad výslovně uvedenou odměnu a hotové výdaje.
+
+[2] **Dlužníci a věřitel plnění.** Povinnost zatěžuje zajištěné věřitele společně a nerozdílně; vůči majetkové podstatě proto nejde jen o několik samostatných dílčích povinností určených poměrem hodnot zajištění. Příjemcem úhrady je majetková podstata, nikoli přímo znalec.
+
+[3] **Vnitřní vypořádání.** Pravidlo o poměru hodnot zajištění upravuje vztah mezi zajištěnými věřiteli. Rozhodné jsou hodnoty jejich zajištění určené znaleckým posudkem, nikoli bez dalšího nominální výše zajištěných pohledávek. Toto vypořádací pravidlo neomezuje společnou a nerozdílnou povinnost navenek.
+
+[4] **Splatnost a prodlení.** Zákon svěřuje insolvenčnímu správci určení lhůty ve výzvě. Následek podle odstavce 2 se váže na prodlení konkrétního zajištěného věřitele se splněním povinnosti podle odstavce 1; po tuto dobu se neúročí jeho zajištěná pohledávka. Nejde o trvalý zánik již vzniklých úroků ani o neúročení pohledávek ostatních zajištěných věřitelů.
+
+[5] **Vydání výtěžku.** Samostatný mechanismus § 298 odst. 5 dopadá na zajištěného věřitele, který povinnost dosud nesplnil: výtěžek zpeněžení se mu vydá po odečtení částky připadající na její splnění. Toto pravidlo podporuje úhradu povinnosti, ale nemění její rozsah ani poměr vnitřního vypořádání podle § 157 odst. 1.
+
+[6] **Systematický rozsah.** § 157 nelze odtrhnout od § 153: míří na náklady znalce ustanoveného v tam vymezených případech, tedy při rozhodnutí o reorganizaci a také při konkursní variantě spojené s doporučením zpeněžení podle § 290. Nejde o obecné pravidlo pro každé znalecké ocenění prováděné v insolvenčním řízení.
+
+[7] **Intertemporalita.** Aktuální znění § 157 bylo ověřeno ke dni 19. 7. 2026. Při posuzování povinnosti vzniklé ve starším řízení je třeba samostatně určit rozhodné znění insolvenčního zákona a tehdejší úpravu odměňování znalců; dnešní znalecký zákon a vyhlášku nelze mechanicky použít na dříve vzniklé nároky.
+
+### Judikatura
+
+Do tohoto oddílu nebylo zařazeno rozhodnutí, jehož plný text by byl ověřen a jehož nosný závěr by přímo vykládal § 157. Judikaturu k jiným druhům znaleckých nákladů nebo pouze k obecnému postavení zajištěného věřitele nelze vydávat za výklad tohoto ustanovení.
+
+---
+
 ## § 158 — Rozhodnutí o neúpadku
 
 > (1) Před rozhodnutím o způsobu řešení úpadku podle § 149 rozhodne insolvenční soud i bez návrhu, že dlužník není v úpadku, zjistí-li, že

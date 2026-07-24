@@ -579,67 +579,57 @@ Do tohoto kola nebylo zařazeno žádné rozhodnutí. Kandidátní zmínka o „
 
 ## § 141 — Odvolání proti rozhodnutí o úpadku
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Proti rozhodnutí o úpadku vydanému na základě insolvenčního návrhu dlužníka **není odvolání přípustné**. Proti rozhodnutí o úpadku vydanému na základě insolvenčního návrhu věřitele se může odvolat **pouze dlužník**; odvoláním však lze namítat pouze to, že rozhodnutí o úpadku nemělo být vydáno proto, že úpadek není osvědčen, nebo proto, že tomu brání překážka stanovená v tomto zákoně. Ke skutečnostem, které nastaly nebo vznikly po vydání rozhodnutí soudu prvního stupně, se v odvolacím řízení nepřihlíží.
 > (2) Je-li osvědčen úpadek dlužníka, není důvodem k tomu, aby odvolací soud zrušil nebo změnil rozhodnutí o úpadku, skutečnost, že insolvenční navrhovatel nedoložil, že má proti dlužníkovi splatnou pohledávku, ani skutečnost, že insolvenční navrhovatel v průběhu odvolacího řízení ztratil způsobilost být účastníkem řízení.
 
+### Přehled výkladu
+
+U rozhodnutí vydaného na dlužnický návrh je odvolání vyloučeno. U rozhodnutí vydaného na věřitelský návrh je jediným oprávněným odvolatelem dlužník a přezkum je omezen na neosvědčení úpadku nebo na zákonnou překážku vydání rozhodnutí. Rozhodný je skutkový stav do vydání rozhodnutí soudu prvního stupně. Je-li úpadek osvědčen, samy o sobě nevedou ke zrušení ani změně rozhodnutí dvě okolnosti výslovně uvedené v odstavci 2.
+
+### Souvisící ustanovení
+
+- § 3 — úpadek a hrozící úpadek.
+- § 6 — subjekty a případy vyloučené z působnosti insolvenčního zákona.
+- § 7 a § 69 — subsidiární použití procesních předpisů a opravné prostředky státního zastupitelství.
+- § 92 a § 93 — přednostní projednání a časové omezení odkladu vykonatelnosti nebo právní moci.
+- § 136 — rozhodnutí o úpadku.
+- § 158 — rozhodnutí, že dlužník není v úpadku, na základě skutečností nastalých nebo vyšlých najevo po rozhodnutí o úpadku.
+
+### Souvisící předpisy
+
+- § 201 a násl. zákona č. 99/1963 Sb., občanský soudní řád — obecná úprava odvolání; použije se jen subsidiárně a v mezích zvláštní úpravy § 141 insolvenčního zákona.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva pojednala navržené § 136 až 147 společně. Omezení odvolacího přezkumu spojila s tím, že rozhodnutí o úpadku je ihned vykonatelné a souběžně s odvolacím řízením pokračuje další fáze insolvenčního řízení. Pravidlo odpovídající dnešnímu odstavci 2 odůvodnila potřebou, aby při osvědčeném úpadku další průběh řízení nezávisel na pozdějším ekonomickém zájmu nebo zániku navrhujícího věřitele. V původním návrhu šlo o § 140 odst. 3; dnešní systematika vede odvolání proti rozhodnutí o úpadku v § 141.
+
+*Pramen:* vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, navržený § 140 na číslované s. 41 (PDF s. 42) a zvláštní část „K § 136 až 147“ na číslovaných s. 191 až 193 (PDF s. 192 až 194).
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola; toto sdělení není výsledkem negativní literární rešerše.
+
 ### Výklad
 
-**Asymetrické pravidlo odvolání**:
+[1] **Rozhodnutí na dlužnický návrh.** První věta odstavce 1 vylučuje odvolání proti výroku o úpadku vydanému na základě návrhu dlužníka. Nejde jen o nedostatek subjektivního oprávnění konkrétního účastníka, nýbrž o objektivní nepřípustnost odvolání proti tomuto výroku.
 
-| Návrh | Odvolatelnost | Kdo |
-|---|---|---|
-| **Dlužníkův IN** | **Nelze odvolat** | nikdo (logika — dlužník sám si návrh podal) |
-| **Věřitelův IN** | **Lze, ale jen dlužník** | jen dlužník |
+[2] **Rozhodnutí na věřitelský návrh.** Odvolat se může pouze dlužník. Věřitelé, insolvenční správce ani státní zastupitelství nemají z § 141 vlastní odvolací oprávnění. Obecná procesní úprava nemůže zvláštní omezení okruhu odvolatelů rozšířit.
 
-**Námitky**: *jen* věcné — *úpadek není osvědčen* nebo *překážka* (např. § 6 — vyloučené subjekty).
+[3] **Přípustné námitky.** Dlužník může namítat jen to, že úpadek nebyl osvědčen, nebo že vydání rozhodnutí bránila překážka stanovená insolvenčním zákonem. Zákonnou překážku je třeba určit konkrétním ustanovením; nelze ji ztotožnit jen s § 6 ani vytvořit obecnou námitku procesní nesprávnosti mimo text § 141.
 
-**Koncentrace**: skutečnosti po vydání rozhodnutí I. stupně se nepřihlížejí (např. mezitímní úhrada pohledávky).
+[4] **Časová hranice přezkumu.** K událostem a skutečnostem nastalým nebo vzniklým až po vydání rozhodnutí prvního stupně se v odvolacím řízení nepřihlíží. Pozdější vývoj může mít význam jen tehdy, přiznává-li mu insolvenční zákon samostatný procesní režim; příkladem je § 158.
 
-#### Princip „úpadek se neruší ze sekundárních důvodů" (odst. 2)
+[5] **Odstavec 2.** Je-li úpadek osvědčen, nepostačuje ke zrušení nebo změně rozhodnutí, že navrhovatel nedoložil svou splatnou pohledávku nebo že během odvolacího řízení ztratil způsobilost být účastníkem. Druhou situaci nelze bez dalšího zaměňovat se ztrátou věcné legitimace, postoupením pohledávky nebo zánikem pohledávky; zákon používá přesný procesní pojem způsobilosti být účastníkem řízení.
 
-I když by *navrhovatel ztratil legitimaci* (např. pohledávku nedoložil, nebo *zanikl jako PO*), **úpadek se neruší**, pokud je *materiálně osvědčen*. Soud akceptuje objektivní stav úpadku bez ohledu na osud navrhovatele.
+[6] **Intertemporalita judikatury.** Níže uvedené rozhodnutí vyšlo z insolvenčního řízení zahájeného roku 2014. Pro jím řešenou otázku použilo § 141 odst. 1 větu první v obsahu, který zůstal k 19. 7. 2026 zachován. Jeho závěr proto lze použít k dnešnímu pravidlu nepřípustnosti; nepřenáší se tím na jiné výroky nebo jiné opravné prostředky širší závěr, než jaký plyne z jeho skutkového a procesního kontextu.
 
-### Vazby
+### Judikatura
 
-- **§ 92, § 93** — zrychlený režim odvolání.
-- **§ 145** — odvolání proti zamítnutí.
-
-### F. Kazuistika
-
-**1. Modelová situace.** Věřitel-banka podá insolvenční návrh proti dlužníku (s. r. o.); soud osvědčí úpadek a vydá rozhodnutí o úpadku. Dlužník se odvolá s tím, že (i) navrhující banka mu mezitím (po vydání rozhodnutí I. stupně) prodala pohledávku a ztratila tak postavení věřitele, a (ii) jiný věřitel mezitím dlužníku poskytl úvěr, z něhož dlužník uhradil splatné dluhy, takže už není v úpadku. Důkazy: insolvenční návrh, rozhodnutí o úpadku, smlouva o postoupení pohledávky (datovaná po rozhodnutí I. stupně), doklady o úhradě dluhů po rozhodnutí.
-
-**2. Právní otázka.** Může dlužník odvoláním proti rozhodnutí o úpadku (vydanému na věřitelský návrh) úspěšně namítat ztrátu legitimace navrhovatele a skutečnosti nastalé po vydání rozhodnutí I. stupně?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 141 — proti rozhodnutí o úpadku na *dlužníkův* návrh není odvolání přípustné; na *věřitelský* návrh se může odvolat *jen dlužník* a jen z důvodů, že úpadek není osvědčen nebo že brání zákonná překážka; ke skutečnostem nastalým po rozhodnutí I. stupně se nepřihlíží (odst. 1); osvědčený úpadek se neruší jen proto, že navrhovatel nedoložil splatnou pohledávku nebo ztratil způsobilost být účastníkem (odst. 2).
-- *Související ustanovení téhož zákona:* § 6 (vyloučené subjekty — překážka); § 143 (zamítnutí návrhu, pluralita věřitelů); § 136 (rozhodnutí o úpadku); § 92, § 93 (zrychlený režim).
-- *Související předpisy:* § 205, § 212a o. s. ř. (rozsah a důvody odvolání, koncentrace).
-- *Judikatura:* obecné pojetí, že odvolací soud zkoumá *materiální* osvědčení úpadku k době rozhodnutí I. stupně; osud navrhovatele (ztráta pohledávky/legitimace) sám o sobě úpadek neruší (odst. 2).
-
-**4. Subsumpce.** Odvolání dlužníka je *přípustné* (rozhodnutí padlo na věřitelský návrh, odvolatelem je dlužník). Námitka (i) — ztráta postavení navrhovatele postoupením pohledávky — nemůže vést ke zrušení rozhodnutí, je-li úpadek osvědčen (odst. 2). Námitka (ii) — úhrada dluhů po rozhodnutí I. stupně — je skutečností nastalou *po* vydání rozhodnutí I. stupně, k níž se v odvolacím řízení *nepřihlíží* (odst. 1 *in fine*). Přípustné by bylo jen tvrzení, že úpadek *nebyl osvědčen již ke dni rozhodnutí I. stupně*, nebo že existovala zákonná překážka.
-
-**5. Řešení.** Odvolací soud rozhodnutí o úpadku potvrdí: úpadek byl k rozhodné době osvědčen, ztráta legitimace navrhovatele jej neruší (odst. 2) a pozdější úhrada se nezohledňuje (odst. 1). Dlužník by uspěl jen prokázáním, že úpadek nebyl dán už v době rozhodnutí I. stupně, nebo překážky dle § 6. Procesně: koncentrovat námitky na stav ke dni rozhodnutí I. stupně; doložit neexistenci úpadku či překážku.
-
-**6. Varianty.** (a) Kdyby rozhodnutí o úpadku bylo vydáno na *dlužníkův* návrh, odvolání by bylo zcela nepřípustné (odst. 1 věta první). (b) Kdyby dlužník prokázal, že již ke dni rozhodnutí I. stupně nebyla osvědčena pluralita věřitelů (§ 143 odst. 2) nebo existovala překážka dle § 6, odvolací soud by rozhodnutí změnil/zrušil.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Navrhovatel ztratil pohledávku, tedy odpadl důvod úpadku a rozhodnutí je třeba zrušit." — Neutralizace: odst. 2 výslovně stanoví, že osvědčený úpadek se neruší proto, že navrhovatel nedoložil splatnou pohledávku nebo ztratil způsobilost být účastníkem.
-- *Protiargument:* „Dluhy jsem uhradil, už nejsem v úpadku." — Neutralizace: k úhradě po rozhodnutí I. stupně se v odvolání nepřihlíží (koncentrace dle odst. 1); rozhodný je stav ke dni rozhodnutí I. stupně.
-- *Slabé místo:* okruh přípustných námitek je úzký (jen neosvědčení úpadku a překážka); věřitel nemá proti rozhodnutí o úpadku odvolání vůbec, což zužuje obranu jiných subjektů.
-
-### H. Praktický závěr
-
-Odvolání proti rozhodnutí o úpadku je asymetrické: proti rozhodnutí na dlužníkův návrh není přípustné, proti rozhodnutí na věřitelský návrh je oprávněn jen dlužník a jen z důvodů neosvědčení úpadku či zákonné překážky. Platí přísná koncentrace (skutečnosti po rozhodnutí I. stupně se nezohledňují) a osvědčený úpadek se neruší pro pozdější ztrátu legitimace navrhovatele.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Určit, na čí návrh bylo rozhodnutí o úpadku vydáno (dlužník vs. věřitel) — od toho se odvíjí přípustnost odvolání.
-- [ ] Ověřit, že odvolatelem je dlužník (jiné subjekty odvolání nemají).
-- [ ] Námitky omezit na neosvědčení úpadku nebo zákonnou překážku (§ 6).
-- [ ] Posuzovat stav ke dni rozhodnutí I. stupně (koncentrace — odst. 1).
-- [ ] Nezohledňovat ztrátu legitimace navrhovatele, je-li úpadek osvědčen (odst. 2).
-
-**Typicky rozhodné důkazy / podklady:** insolvenční návrh a rozhodnutí o úpadku, podklady k osvědčení úpadku ke dni rozhodnutí I. stupně, doklady k tvrzené překážce (§ 6), případné listiny o ztrátě legitimace navrhovatele či pozdějších úhradách (pro posouzení koncentrace).
+- **Nejvyšší soud, usnesení ze dne 30. 5. 2019, sen. zn. 29 ICdo 69/2017, ECLI:CZ:NS:2019:29.ICDO.69.2017.1.** V řízení o žalobě pro zmatečnost státní zastupitelství napadlo rozhodnutí o úpadku vydané na dlužnický návrh a rozhodnutí o povolení reorganizace. Nejvyšší soud uzavřel, že § 69 přiznává státnímu zastupitelství opravný prostředek jen tehdy, je-li objektivně přípustný; proti rozhodnutí o úpadku na dlužnický návrh jej vzhledem k § 141 odst. 1 větě první nemá k dispozici žádný procesní subjekt. Srov. zejména skutkový a procesní přehled v bodech 1 až 3 odůvodnění a pasáže následující po citaci § 141 odst. 1 (HTML odstavce 63–68 a 81–98 oficiálního plného textu).
 
 ---
 

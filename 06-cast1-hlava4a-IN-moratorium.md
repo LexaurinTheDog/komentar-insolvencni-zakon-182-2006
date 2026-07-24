@@ -2498,55 +2498,58 @@ V tomto kole nebylo do komentáře zařazeno rozhodnutí, u něhož by byl z ofi
 
 ## § 134 — Lhůta pro rozhodnutí
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Insolvenční soud je povinen učinit do 10 dnů od podání insolvenčního návrhu úkony směřující k rozhodnutí věci. O insolvenčním návrhu rozhodne bez zbytečného odkladu, v případě uvedeném v § 132 odst. 1 nejpozději do 15 dnů od jeho podání; je-li vyhlášeno moratorium, neskončí tato lhůta dříve než uplynutím 10 dnů od zániku moratoria.
+>
+
+### Přehled výkladu
+
+§ 134 ukládá soudu dvě časové povinnosti: do 10 dnů od podání návrhu učinit úkony směřující k rozhodnutí a o návrhu rozhodnout bez zbytečného odkladu. Pevná patnáctidenní lhůta se váže pouze na případ uvedený v § 132 odst. 1, nikoli bez dalšího na každý dlužnický návrh. Vyhlášené moratorium modifikuje konec této lhůty; současně po dobu moratoria nelze podle § 120 odst. 1 vydat rozhodnutí o úpadku.
+
+### Souvisící ustanovení
+
+- § 119 — účinnost a doba trvání moratoria,
+- § 120 odst. 1 — zákaz vydat po dobu moratoria rozhodnutí o úpadku,
+- § 124 — zánik moratoria,
+- § 131 — osvědčení skutečností při projednání insolvenčního návrhu,
+- § 132 odst. 1 až 3 — podmínky zjednodušeného osvědčení u dlužnického návrhu,
+- § 133 — jednání o insolvenčním návrhu,
+- § 136 odst. 1 — předpoklady rozhodnutí o úpadku.
+
+### Souvisící předpisy
+
+Komentované pravidlo je zvláštní procesní úpravou insolvenčního zákona. Tento komentář v nynějším kole neodvozuje z jiného předpisu další následek překročení lhůt ani zvláštní prostředek ochrany.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva rozlišuje věřitelský návrh, jehož projednání není vázáno na striktní lhůtu pro rozhodnutí, od případu dlužnického návrhu podle § 132 odst. 1, pro který osnova stanovila nejzazší patnáctidenní lhůtu. Desetidenní povinnost učinit úkony a příkaz rozhodnout bez zbytečného odkladu měly zajistit rychlost i tam, kde nelze určit pevný konec rozhodování. Zpráva výslovně uvádí také modifikaci pro moratorium.
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento oddíl proto není negativní rešerší a nečiní závěr o existenci či neexistenci konkrétních literárních názorů.
 
 ### Výklad
 
-**Lhůty pro soud:**
-- **úkony do 10 dnů** — zahájit přípravu rozhodnutí,
-- **rozhodnutí bez zbytečného odkladu**,
-- *u dlužnického návrhu* (§ 132 odst. 1): *max 15 dnů*.
+[1] **Desetidenní lhůta pro úkony.** První věta neurčuje, že do 10 dnů musí být o návrhu rozhodnuto. Ukládá soudu, aby v této době od podání návrhu učinil úkony, které k rozhodnutí věci směřují. Konkrétní úkon zákon v § 134 nepředepisuje; musí odpovídat procesní situaci a překážkám rozhodnutí.
 
-**Moratorium prodlužuje** — lhůta neskončí dříve než 10 dnů po zániku moratoria.
+[2] **Rozhodnutí bez zbytečného odkladu.** Druhá věta stanoví obecný časový standard pro rozhodnutí o insolvenčním návrhu. U věřitelského návrhu zákon v § 134 neurčuje pevný maximální počet dnů. To odpovídá návaznosti na § 133, podle něhož může být k rozhodnutí nutné jednání a zjištění sporných skutkových okolností.
 
-> *Pořádková povaha lhůt* — překročení nezpůsobuje neplatnost rozhodnutí.
+[3] **Patnáctidenní lhůta není obecná pro všechny dlužnické návrhy.** Pevný konec se vztahuje na „případ uvedený v § 132 odst. 1“, tedy na situaci, v níž postačí osvědčení rozhodných skutečností údaji dlužníkova návrhu a jeho přílohami. Vyjdou-li najevo rozpory nebo nesouhlas dalších osob uvedený v § 132 odst. 3, nelze postup podle odstavce 1 použít, a proto nelze patnáctidenní lhůtu mechanicky spojit jen s totožností dlužníka jako navrhovatele.
 
-### F. Kazuistika
+[4] **Moratorium a běh lhůty.** Je-li vyhlášeno moratorium, patnáctidenní lhůta neskončí dříve než uplynutím 10 dnů od jeho zániku. § 134 tím neurčuje nový den, ve kterém soud musí nebo smí rozhodnout; stanoví pouze nejdřívější konec dotčené lhůty. Zánik moratoria se posuzuje podle § 124.
 
-**1. Modelová situace.** Dlužník DELTA-V s. r. o. podá vlastní insolvenční návrh spojený s návrhem na povolení oddlužení; očekává, že soud rozhodne velmi rychle. Soud však koná úkony až 12. den a rozhodne 20. den. Druhý scénář: v řízení bylo vyhlášeno moratorium; věřitel se ptá, kdy nejdříve může soud rozhodnout o insolvenčním návrhu. Důkazy: datum podání návrhu, evidence úkonů soudu, údaj o vyhlášení a zániku moratoria.
+[5] **Zákaz rozhodnutí o úpadku za moratoria.** Časovou úpravu § 134 je nutno číst společně s § 120 odst. 1: po dobu trvání moratoria nelze vydat rozhodnutí o úpadku. Jde-li o jiné rozhodnutí o insolvenčním návrhu, nelze na něj bez dalšího přenést zákaz, který § 120 odst. 1 formuluje právě pro rozhodnutí o úpadku.
 
-**2. Právní otázka.** Jaké lhůty má soud pro úkony a rozhodnutí o insolvenčním návrhu, jak je modifikuje moratorium a jaká je povaha těchto lhůt?
+[6] **Povaha zákonného příkazu.** Důvodová zpráva označuje desetidenní úpravu ve vztahu k věřitelskému návrhu za pořádkovou, současně ji však konstruuje jako zákonnou povinnost soudu. Z použitých primárních pramenů nelze dovodit, že by samotné překročení lhůty automaticky rušilo nebo zneplatňovalo později vydané rozhodnutí; komentář proto takový následek netvrdí.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 134 (soud musí do 10 dnů od podání učinit úkony směřující k rozhodnutí; rozhodne bez zbytečného odkladu, u dlužnického návrhu dle § 132 odst. 1 nejpozději do 15 dnů; je-li vyhlášeno moratorium, lhůta neskončí dříve než 10 dnů od zániku moratoria).
-- *Související ustanovení téhož zákona:* § 132 odst. 1 (snazší osvědčení dlužníkova návrhu), § 115–§ 124 (moratorium), § 136 (rozhodnutí o úpadku).
-- *Související předpisy:* OSŘ (pořádkové lhůty).
-- *Judikatura:* k lhůtám dle § 134 chybí v komentáři citovaná judikatura; nosně plyne z textu (pořádková povaha lhůt).
+[7] **Historie a intertemporalita.** § 134 je třeba pro konkrétní procesní postup vždy ověřit ve znění účinném v době příslušného úkonu soudu. Původní důvodová zpráva vysvětluje účel osnovy, ale nenahrazuje kontrolu aktuálního znění ani případných přechodných ustanovení.
 
-**4. Subsumpce.** Znak „úkony do 10 dnů" — soud konal až 12. den, tedy s překročením pořádkové lhůty (bez vlivu na platnost). Znak „rozhodnutí u dlužnického návrhu do 15 dnů (§ 132 odst. 1)" — rozhodnutí 20. den lhůtu překračuje, opět jde o pořádkovou lhůtu. Znak „moratorium" — lhůta neskončí dříve než 10 dnů po zániku moratoria.
+### Judikatura
 
-**5. Řešení.** Překročení lhůt podle § 134 nezpůsobuje neplatnost ani nezákonnost rozhodnutí (lhůty jsou pořádkové); zakládá nanejvýš případnou odpovědnost za průtahy. Je-li vyhlášeno moratorium, soud nemůže rozhodnout dříve než po jeho zániku (a navíc lhůta neskončí dříve než 10 dnů poté). Praktický krok: u dlužnického návrhu s oddlužením lze očekávat rychlé rozhodnutí, ale překročení 15 dnů samo o sobě právní vadu nezakládá.
-
-**6. Varianty.** (a) Není vyhlášeno moratorium a jde o dlužnický návrh dle § 132 odst. 1 — soud rozhodne nejpozději do 15 dnů (pořádkově). (b) Je vyhlášeno moratorium — lhůta pro rozhodnutí o insolvenčním návrhu se posouvá (neskončí dříve než 10 dnů od zániku moratoria).
-
-### G. Protiargumenty a rizika
-
-- *„Soud překročil lhůtu, rozhodnutí je neplatné."* Neobstojí — lhůty dle § 134 jsou pořádkové; jejich překročení neplatnost nezpůsobuje. Neutralizace: případně namítat průtahy (dohledové prostředky), nikoli neplatnost.
-- *„Během moratoria může soud rozhodnout o úpadku."* Vyloučeno — po dobu moratoria nelze vydat rozhodnutí o úpadku (§ 120) a lhůta dle § 134 se posouvá za jeho zánik. Neutralizace: vyčkat zániku moratoria.
-- Slabé místo: pořádková povaha lhůt znamená slabou vynutitelnost rychlosti; ochrana proti průtahům je nepřímá (stížnost, návrh na určení lhůty), nikoli neplatnost rozhodnutí.
-
-### H. Praktický závěr
-
-Soud musí do 10 dnů od podání učinit úkony k rozhodnutí a rozhodnout bez zbytečného odkladu (u dlužnického návrhu dle § 132 odst. 1 do 15 dnů); je-li vyhlášeno moratorium, lhůta neskončí dříve než 10 dnů od jeho zániku. Lhůty jsou pořádkové — jejich překročení nezpůsobuje neplatnost rozhodnutí.
-
-**Checklist (soud / dlužník / věřitel):**
-- [ ] Učinil soud úkony k rozhodnutí do 10 dnů od podání?
-- [ ] Jde o dlužnický návrh dle § 132 odst. 1 (lhůta do 15 dnů)?
-- [ ] Je vyhlášeno moratorium (lhůta neskončí dříve než 10 dnů po jeho zániku)?
-- [ ] Bylo rozhodnuto bez zbytečného odkladu?
-- [ ] Při průtazích zvolen vhodný dohledový prostředek (nikoli námitka neplatnosti)?
-
-**Typicky rozhodné důkazy / podklady:** datum podání insolvenčního návrhu, evidence úkonů a rozhodnutí soudu, údaj o vyhlášení a zániku moratoria, povaha návrhu (dlužnický dle § 132 odst. 1), případné podání proti průtahům.
+V tomto kole nebylo do komentáře zařazeno rozhodnutí, u něhož by byl z oficiálního soudního webu ověřen plný text a nosný závěr přímo relevantní k § 134. Tím se nevyslovuje závěr, že relevantní judikatura neexistuje; kandidátní odkazy bez takového ověření nejsou použity jako autorita.
 
 ---
 

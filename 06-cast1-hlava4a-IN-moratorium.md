@@ -1109,7 +1109,56 @@ Do tohoto kola nebylo zařazeno rozhodnutí, jehož oficiální plný text by by
 
 ### § 114 — Plnění dlužníkovi v rozporu s předběžným opatřením
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+#### Znění ustanovení
+
 > Jestliže osoba, která má závazek vůči dlužníkovi, plní tento závazek po zahájení insolvenčního řízení dlužníku, ačkoliv podle předběžného opatření má plnění poskytnout předběžnému správci, a plnění se nedostane do majetkové podstaty, není tím svého závazku zproštěna, ledaže prokáže, že o předběžném opatření nemohla vědět.
+
+#### Přehled výkladu
+
+Ustanovení chrání majetkovou podstatu při předběžném opatření podle § 113 odst. 1. Osoba zavázaná dlužníkovi se plněním dlužníku svého závazku nezprostí, jsou-li splněny zákonné předpoklady a plnění se nedostane do majetkové podstaty. Výjimku musí prokázat tato osoba: nestačí tvrdit nevědomost, nýbrž musí prokázat, že o předběžném opatření nemohla vědět.
+
+#### Souvisící ustanovení
+
+- § 7 — subsidiární použití občanského soudního řádu,
+- § 71 a § 74 — doručení zveřejněním v insolvenčním rejstříku a jeho průkaznost,
+- § 82 — obecná pravidla předběžných opatření v insolvenčním řízení,
+- § 89 — účinnost rozhodnutí zveřejněním v insolvenčním rejstříku,
+- § 109 — účinky zahájení insolvenčního řízení,
+- § 112 — ustanovení a úkoly předběžného správce,
+- § 113 odst. 1 — příkaz osobám zavázaným dlužníkovi plnit předběžnému správci; § 113 odst. 5 a 6 — zánik a zrušení opatření,
+- § 205 a násl. — majetková podstata.
+
+#### Souvisící předpisy
+
+- Zákon č. 99/1963 Sb., občanský soudní řád, zejména § 74 až 77a, se uplatní jen subsidiárně v mezích § 7 insolvenčního zákona.
+
+#### Z důvodové zprávy
+
+Zvláštní část důvodové zprávy k vládnímu návrhu insolvenčního zákona vykládá § 111 až 114 společně. K § 114 uvádí, že osnova spojuje zvláštní důsledky s porušením příkazu, aby dlužníkovi dlužníci plnili své závazky předběžnému správci. Jde o historické vysvětlení původní osnovy, nikoli o náhradu aktuálního znění (sněmovní tisk 1120/0, 4. volební období, zvláštní část „K § 111 až 114“, číslovaná s. 186, PDF s. 187).
+
+#### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento oddíl proto není negativní rešerší literatury.
+
+#### Výklad
+
+[1] **Předpoklad opatření.** § 114 navazuje na § 113 odst. 1 větu třetí: insolvenční soud může osobám, které mají závazky vůči dlužníkovi, nařídit, aby napříště neposkytovaly plnění dlužníkovi, ale předběžnému správci. Bez takového předběžného opatření se zvláštní následek podle § 114 neuplatní.
+
+[2] **Kumulativní znaky.** Osoba má závazek vůči dlužníkovi, plní po zahájení insolvenčního řízení dlužníku navzdory přesměrovacímu příkazu a plnění se nedostane do majetkové podstaty. Poslední znak je samostatný: dostane-li se plnění do majetkové podstaty, § 114 nezakládá nezproštění závazku.
+
+[3] **Právní následek.** Jsou-li znaky naplněny, plnění dlužníku nemá liberační účinek: osoba zůstává vůči dlužníku zavázána. Ustanovení tím neoznačuje plnění za neplatné; výslovně stanoví, že jím závazek nezaniká splněním.
+
+[4] **Výjimka a důkazní břemeno.** Zákonnou výjimku nese v rovině tvrzení i dokazování osoba, která plnila dlužníku. Musí prokázat, že o předběžném opatření nemohla vědět. Pouhá skutečná nevědomost proto podle textu normy nestačí.
+
+[5] **Zveřejnění a individuální posouzení.** Rozhodnutí insolvenčního soudu se zásadně doručují zveřejněním v insolvenčním rejstříku (§ 71) a jsou zásadně účinná okamžikem zveřejnění (§ 89); zveřejnění je podle § 74 dokladem o doručení i při zvláštním způsobu doručení. **Redakční závěr:** zda osoba prokázala, že o konkrétním opatření nemohla vědět, je nutné posoudit podle všech okolností daného případu, včetně obsahu a doby zveřejnění opatření a okamžiku plnění.
+
+[6] **Časová použitelnost.** Komentář zachycuje právní stav k 19. 7. 2026. U dřívějšího plnění je třeba ověřit tehdy účinné znění zákona, obsah a dobu trvání konkrétního předběžného opatření i okamžik, kdy bylo plněno.
+
+#### Judikatura
+
+Do tohoto kola nebylo zařazeno rozhodnutí, jehož oficiální plný text by byl ověřen jako přímo nosný pro výklad § 114. Tím se nevyslovuje závěr o neexistenci související judikatury.
 
 ---
 

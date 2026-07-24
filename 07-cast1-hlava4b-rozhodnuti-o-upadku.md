@@ -1876,48 +1876,62 @@ Odborná literatura byla rozhodnutím editora odložena do druhého kola. Toto k
 
 ### § 161 — Jednání
 
-- *Vlastní jednání* (ne pravidla § 85),
-- *Předvolání* účastníků a osob,
-- *Upuštění od jednání* — dle OSŘ.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**Speciální pravidlo (odst. 2)**: ukončení účasti popírajícího věřitele v IR během sporu o pravost/výši/pořadí — v IS lze pokračovat **jen na návrh správce** (do soudem určené lhůty). Nepodá-li, soud zastaví.
+#### Znění ustanovení
 
-#### F. Kazuistika
+> (1) Insolvenční soud projedná incidenční spor při jednání, pro které neplatí ustanovení o jednání v insolvenčním řízení. K tomuto jednání předvolá účastníky a osoby, jejichž účasti je třeba. Od jednání může insolvenční soud upustit v případech, kdy to připouští [[občanský soudní řád|občanský soudní řád]].
+>
+> (2) Jestliže insolvenční soud ukončí účast popírajícího věřitele v insolvenčním řízení v průběhu incidenčního sporu o pravost, výši nebo pořadí přihlášené pohledávky, lze v incidenčním sporu pokračovat jen na návrh insolvenčního správce. Dnem, kdy insolvenčnímu soudu takový návrh dojde, se insolvenční správce stává účastníkem incidenčního sporu místo popírajícího věřitele; insolvenční soud poté vrátí popírajícímu věřiteli složenou jistotu. Nepodá-li insolvenční správce tento návrh ve lhůtě, kterou mu insolvenční soud za tím účelem určí, insolvenční soud řízení o incidenčním sporu vůči popírajícímu věřiteli zastaví.
+>
 
-**1. Modelová situace.** V incidenčním sporu o *pravost* pohledávky, který vyvolal popírající *věřitel* P (žalobce) proti přihlášenému věřiteli V (žalovanému), nařídí insolvenční soud *jednání* a předvolá účastníky i svědka. V průběhu sporu však popírajícímu věřiteli P *zanikne účast* v insolvenčním řízení (jeho přihlášená pohledávka je pravomocně odmítnuta, takže přestal být věřitelem). Soud zvažuje, zda a jak v incidenčním sporu pokračovat. Důkazy: protokol o přezkumném jednání s popřením, předvolání a protokol o jednání, rozhodnutí o odmítnutí přihlášky popírajícího věřitele, případný návrh insolvenčního správce na pokračování.
+#### Přehled výkladu
 
-**2. Právní otázka.** Podle jakých pravidel probíhá jednání v incidenčním sporu a jaký je osud sporu o pravost/výši/pořadí pohledávky, zanikne-li v jeho průběhu účast popírajícího věřitele v insolvenčním řízení?
+Ustanovení odděluje projednání incidenčního sporu od zvláštních pravidel pro jednání v insolvenčním řízení a vrací je do obecného režimu občanského soudního řádu. Současně upravuje zvláštní procesní nástupnictví insolvenčního správce, jestliže soud v průběhu vymezeného sporu ukončí účast popírajícího věřitele v insolvenčním řízení.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 161 — incidenční spor se projednává při *vlastním jednání* (nepoužijí se pravidla § 85 o místě jednání ve smyslu insolvenčních zvláštností); soud *předvolává* účastníky a další osoby; od jednání lze *upustit* za podmínek o. s. ř.; *odst. 2* — zanikne-li za sporu o pravost, výši nebo pořadí pohledávky účast *popírajícího věřitele* v insolvenčním řízení, lze ve sporu pokračovat *jen na návrh insolvenčního správce* podaný v soudem určené lhůtě, jinak soud řízení *zastaví*.
-- *Související ustanovení téhož zákona:* § 160 (zahájení a režim sporu), § 162 (forma rozhodnutí), § 192–198 (popírání a osud popřených pohledávek), § 178–180 (následky odmítnutí přihlášky).
-- *Související předpisy:* § 115, § 101 odst. 3, § 107 o. s. ř. (jednání, projednání v nepřítomnosti, procesní nástupnictví při ztrátě způsobilosti účastníka).
-- *Judikatura:* NS 29 Cdo 3626/2023 (rozsudek v incidenčním sporu o pravost vykonatelné pohledávky působí jen v insolvenci) — potvrzuje navázanost sporu na insolvenční řízení, jež je východiskem pravidla odst. 2.
+#### Souvisící ustanovení
 
-**4. Subsumpce.** Soud incidenční spor projednává při *jednání* a předvolává účastníky i svědka (§ 161 odst. 1). Zánikem účasti popírajícího věřitele P odpadá v zásadě nositel sporu o pravost na straně žalobce; § 161 odst. 2 však umožňuje *pokračování jen na návrh insolvenčního správce* v soudem určené lhůtě. Nepodá-li správce návrh včas, soud spor *zastaví*. Jde o zvláštní úpravu navazující na povahu incidenčního sporu jakožto sporu *uvnitř* insolvenčního řízení.
+- **§ 7** — subsidiární použití občanského soudního řádu
+- **§ 85** — zvláštní pravidla jednání v insolvenčním řízení, která se podle § 161 odst. 1 na jednání v incidenčním sporu nepoužijí
+- **§ 159 a § 160** — vymezení incidenčních sporů a jejich procesní rámec
+- **§ 162 až 164** — rozhodnutí, náklady a závaznost rozsudku v incidenčním sporu
+- **§ 192 odst. 2, § 202 odst. 3 a § 298 odst. 2** — popření pohledávky přihlášeným věřitelem, jistota a možné ukončení jeho účasti
 
-**5. Řešení.** Insolvenční soud po zániku účasti popírajícího věřitele *vyzve* insolvenčního správce, aby ve stanovené lhůtě navrhl pokračování ve sporu o pravost/výši/pořadí; podá-li správce návrh, jednání pokračuje a soud rozhodne rozsudkem (§ 162). Nepodá-li správce návrh včas, soud řízení *zastaví* (§ 161 odst. 2). Procesně: hlídat běh soudem určené lhůty, doložit trvající zájem podstaty na výsledku sporu a zajistit řádné předvolání k pokračujícímu jednání.
+#### Souvisící předpisy
 
-**6. Varianty.** (a) Zanikla-li by účast *jiného* účastníka než popírajícího věřitele (např. žalovaného přihlášeného věřitele), řešilo by se to obecným procesním nástupnictvím dle § 107 o. s. ř., nikoli pravidlem odst. 2. (b) Souhlasili-li by účastníci a byly-li splněny podmínky o. s. ř., soud by mohl *upustit od jednání* a rozhodnout bez něj.
+- **zákon č. 99/1963 Sb., občanský soudní řád, zejména § 101 odst. 3, § 115 a § 115a** — projednání věci v nepřítomnosti, předvolání k jednání a rozhodnutí bez nařízení jednání
 
-#### G. Protiargumenty a rizika
+#### Z důvodové zprávy
 
-- *Protiargument:* „Zanikne-li účast popírajícího věřitele, spor o pravost automaticky končí." — Neutralizace: § 161 odst. 2 dává *insolvenčnímu správci* možnost navrhnout pokračování; teprve bez jeho včasného návrhu soud řízení zastaví.
-- *Protiargument:* „V incidenčním sporu lze vždy rozhodnout bez jednání." — Neutralizace: § 161 počítá s *vlastním jednáním* a předvoláním účastníků; upuštění od jednání je možné jen za podmínek o. s. ř.
-- *Slabé místo:* zmeškání soudem určené lhůty k návrhu na pokračování vede k *zastavení* sporu; sporné může být i posouzení, zda účast *popírajícího* věřitele zanikla ve smyslu odst. 2 (na rozdíl od jiných změn v okruhu účastníků).
+Vládní návrh insolvenčního zákona vysvětloval § 159 až 164 společně. Za základní změnu označil projednávání incidenčního sporu v rámci insolvenčního řízení při zachování zvláštností sporného řízení; sledoval soustředění otázek týkajících se řešení úpadku a rychlejší postup. Zpráva tak objasňuje původní koncepci odstavce 1, nikoli později doplněný odstavec 2.
 
-#### H. Praktický závěr
+Odstavec 2 vložil zákon č. 69/2011 Sb. s účinností od 31. 3. 2011. U případů vzniklých před tímto datem proto nelze jeho procesní mechanismus použít bez samostatného intertemporálního posouzení.
 
-Incidenční spor se projednává při *vlastním jednání* s předvoláním účastníků a osob; od jednání lze upustit za podmínek o. s. ř. Klíčové je *odst. 2*: zanikne-li během sporu o pravost/výši/pořadí účast *popírajícího věřitele* v insolvenčním řízení, pokračuje se *jen na návrh insolvenčního správce* v soudem určené lhůtě — jinak soud řízení *zastaví*.
+#### Literatura
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Nařídit jednání a řádně *předvolat* účastníky a další osoby (§ 161 odst. 1).
-- [ ] Sledovat změny v okruhu účastníků, zejm. *zánik účasti popírajícího věřitele* ve sporu o pravost/výši/pořadí.
-- [ ] Při zániku účasti popírajícího věřitele *vyzvat* správce a určit *lhůtu* k návrhu na pokračování (odst. 2).
-- [ ] Nepodá-li správce návrh včas → *zastavit* řízení; podá-li → pokračovat v jednání.
-- [ ] Posoudit podmínky pro případné *upuštění od jednání* dle o. s. ř.
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Toto konstatování není výsledkem negativní literární rešerše.
 
-**Typicky rozhodné důkazy / podklady:** protokol o přezkumném jednání s popřením, předvolání a protokol o jednání, rozhodnutí o zániku účasti popírajícího věřitele (odmítnutí přihlášky), návrh insolvenčního správce na pokračování a doklad o dodržení soudem určené lhůty.
+#### Výklad
+
+[1] **Jednání v incidenčním sporu.** Výluka v první větě odstavce 1 se týká ustanovení o jednání v insolvenčním řízení, zejména § 85 insolvenčního zákona. Neznamená, že by jednání v incidenčním sporu probíhalo bez procesních pravidel; prostřednictvím § 7 se uplatní občanský soudní řád, nestanoví-li insolvenční zákon jinak.
+
+[2] **Předvolání a nepřítomnost.** Soud předvolá účastníky a všechny osoby, jejichž účasti je třeba. Řádně předvolaného účastníka jeho absence sama o sobě nechrání před projednáním a rozhodnutím věci; podmínky postupu v nepřítomnosti stanoví § 101 odst. 3 o. s. ř.
+
+[3] **Rozhodnutí bez jednání.** Upuštění od jednání není volnou úvahou soudu. Musí jít o případ připuštěný občanským soudním řádem; typicky § 115a o. s. ř. vyžaduje, aby bylo možné rozhodnout jen z účastníky předložených listin a aby se účastníci práva účasti vzdali nebo s rozhodnutím bez jednání souhlasili. Zvláštní případy stanoví i další ustanovení občanského soudního řádu.
+
+[4] **Působnost odstavce 2.** Zvláštní mechanismus se spustí jen tehdy, jestliže účast popírajícího věřitele v insolvenčním řízení ukončí insolvenční soud během incidenčního sporu o pravost, výši nebo pořadí přihlášené pohledávky. Text nelze rozšířit na každou změnu v osobě účastníka ani na každý druh incidenčního sporu.
+
+[5] **Návrh správce a procesní nástupnictví.** Pokračování je možné jen na návrh insolvenčního správce ve lhůtě určené soudem. Správce nevstupuje do sporu již vydáním rozhodnutí o ukončení účasti věřitele ani výzvou soudu; účastníkem místo popírajícího věřitele se stává dnem, kdy návrh dojde insolvenčnímu soudu.
+
+[6] **Jistota a zastavení.** Po vstupu správce soud vrátí popírajícímu věřiteli složenou jistotu. Není-li návrh podán v určené lhůtě, zákonným následkem je zastavení řízení o incidenčním sporu vůči popírajícímu věřiteli. Přesná formulace vylučuje zkratku, že bez návrhu správce se vždy zastavuje celý spor bez ohledu na jeho účastnickou strukturu.
+
+[7] **Intertemporalita.** Odstavec 1 náleží k původní koncepci zákona; odstavec 2 je účinný od 31. 3. 2011. Pro procesní situaci nastalou za staršího znění je třeba určit použitelnou úpravu podle přechodných ustanovení zákona č. 69/2011 Sb.; dnešní znění nelze mechanicky promítat zpětně.
+
+#### Judikatura
+
+Do tohoto oddílu nebylo zařazeno rozhodnutí, jehož plný text by byl ověřen a jehož nosný závěr by přímo vykládal § 161. Dříve uvedené rozhodnutí Nejvyššího soudu sp. zn. 29 Cdo 3626/2023 nebylo ponecháno: obecná vazba incidenčního sporu na insolvenční řízení nedokládá konkrétní mechanismus odstavce 2. Tím se nevyslovuje závěr o neexistenci související judikatury.
+
+---
 
 ### § 162 — Forma rozhodnutí
 

@@ -524,83 +524,59 @@ Pro tuto revizi nebylo použito žádné rozhodnutí, u něhož by plný text z 
 
 ## § 172 — Podřízené pohledávky
 
-> (1) Po úplném uhrazení všech pohledávek, kterých se týká insolvenční řízení, s výjimkou pohledávek uvedených v § 170, lze v insolvenčním řízení uhradit rovněž **podřízené pohledávky** a **pohledávky společníků nebo členů dlužníka vyplývající z jejich účasti** ve společnosti nebo v družstvu.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Po úplném uhrazení všech pohledávek, kterých se týká insolvenční řízení, s výjimkou pohledávek uvedených v § 170, lze v insolvenčním řízení uhradit rovněž podřízené pohledávky a pohledávky společníků nebo členů dlužníka vyplývající z jejich účasti ve společnosti nebo v družstvu.
 > (2) Podřízenou pohledávkou je pohledávka, která má být podle smlouvy uspokojena až po uspokojení jiné pohledávky případně ostatních pohledávek dlužníka, zejména je-li vydáno rozhodnutí o úpadku dlužníka; za podřízenou pohledávku se považuje také pohledávka z podřízeného dluhopisu podle zvláštního právního předpisu nebo jiného obdobného podřízeného cenného papíru představujícího právo na splacení dlužné částky vydaného podle práva cizího státu. Je-li způsobem řešení úpadku oddlužení, za podřízené pohledávky se s výjimkou pohledávek uvedených v § 170 považují také úroky, úroky z prodlení a poplatek z prodlení z pohledávek přihlášených věřitelů a smluvní pokuta sjednaná pro případ prodlení s plněním přihlášené pohledávky, není-li taková smluvní pokuta dluhem z podnikání, ve výši, ve které v souhrnu převyšují výši jistiny přihlášené pohledávky k okamžiku jejího vzniku.
-> (3) Podřízené pohledávky se postupem podle odstavce 1 uspokojují v závislosti na dohodnuté nebo stanovené míře jejich podřízenosti; jinak se uspokojují **poměrně**. Jako poslední se vždy uspokojují **pohledávky společníků nebo členů dlužníka**.
+> (3) Podřízené pohledávky se postupem podle odstavce 1 uspokojují v závislosti na dohodnuté nebo stanovené míře jejich podřízenosti; jinak se uspokojují poměrně. Jako poslední se vždy uspokojují pohledávky společníků nebo členů dlužníka vyplývající z jejich účasti ve společnosti nebo v družstvu, a to poměrně.
 > (4) Pohledávky společníků nebo členů dlužníka vyplývající z jejich účasti ve společnosti nebo v družstvu se v insolvenčním řízení neuplatňují, ale pouze se oznamují insolvenčnímu správci, který vede jejich evidenci.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *NS* [29 ICdo 65/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7EC6762D0F5C1D0AC1258A3B00160F79?openDocument) — kat. A, 29. 6. 2023
-  > „Limitem pro posouzení, zda a v jakém rozsahu je pohledávka z titulu úroků, úroků z prodlení a poplatku z prodlení z pohledávek přihlášených věřitelů a smluvní pokuty sjednané pro případ prodlení s plněním přihlášené pohledávky, není-li taková smluvní pokuta dluhem z podnikání, podřízenou pohledávkou (§ 172 odst. 2 věta druhá insolvenčního zákona), je výše jistiny přihlášené pohledávky v okamžiku jejího vzniku, a to bez ohledu na skutečnost, zda, kdy a v jaké výši následně dlužník plnil věřiteli na jistinu pohledávky"
-- *NS* [29 ICdo 74/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/39686E8DEA2D05ABC12588BA0017D4D2?openDocument) — kat. A, 15. 6. 2022
-  > „Výčet podřízených pohledávek obsažený v ustanovení § 172 odst. 2 větě druhé insolvenčního zákona je taxativní. Pohledávka z titulu směnky není podřízenou pohledávkou jen proto, že směnka byla vystavena k zajištění podřízené pohledávky"
+Ustanovení vytváří závěrečné pořadí uspokojení. Nejprve musejí být úplně uhrazeny všechny pohledávky, kterých se insolvenční řízení týká, kromě pohledávek vyloučených podle § 170. Teprve poté lze hradit podřízené pohledávky a nakonec účastnické pohledávky společníků nebo členů dlužníka. V oddlužení zákon podřizuje také vymezenou část příslušenství a smluvní pokuty; rozhodný je souhrnný přesah nad výši jistiny přihlášené pohledávky v okamžiku jejího vzniku.
 
-### Výklad — **POSLEDNÍ V POŘADÍ**
+### Souvisící ustanovení
 
-**Podřízené pohledávky** = uspokojí se *až po* uhrazení všech ostatních (kromě vyloučených § 170).
+- § 165 odst. 1 — uspokojování pohledávek podle způsobu řešení úpadku;
+- § 170 — pohledávky, které se v insolvenčním řízení neuspokojují;
+- § 173 a § 174 — přihláška a její náležitosti;
+- § 195 — popření pořadí pohledávky;
+- § 305 až § 307 — konečná zpráva a rozvrh v konkursu.
 
-#### Typy
+### Souvisící předpisy
 
-**A) Smluvně podřízené** — vyplývá ze smlouvy. Typické scénáře:
-- *podřízené úvěry* skupinového financování,
-- *podřízené dluhopisy*,
-- *junior tranše* securitizací.
+- zákon č. 190/2004 Sb., o dluhopisech — podřízený dluhopis, na který odkazuje poznámka pod čarou 26;
+- právní předpis rozhodný pro účast společníka nebo člena ve společnosti či družstvu; § 172 však sám vymezuje insolvenční pořadí i způsob oznámení účastnické pohledávky.
 
-**B) Pohledávky z podřízených cenných papírů** — explicitně.
+### Z důvodové zprávy
 
-**C) Speciálka pro oddlužení** — *úroky + úroky z prodlení + smluvní pokuty z přihlášené pohledávky*, pokud v souhrnu **převyšují výši jistiny** k okamžiku jejího vzniku → tento přesah se považuje za *podřízený*. *Sociální korektura*: ochrana dlužníka před přepáčenou „zlobou věřitelů".
+Oficiální důvodová zpráva k vládnímu návrhu insolvenčního zákona uvádí, že § 172 nově zařazuje a definuje pohledávky uhraditelné až po úplném uspokojení ostatních pohledávek, označené jako podřízené a zůstatkové. V části k rozvrhu doplňuje, že tyto pohledávky netvoří samostatnou třídu, protože se uspokojují až po ostatních pohledávkách, tedy mimo vlastní rozvrh. Jde o vysvětlení původní koncepce zákona; aktuální rozsah odstavce 2 je nutno číst podle pozdějších novel.
 
-#### Pořadí v rámci podřízených (odst. 3)
+### Literatura
 
-- *podle dohody* (smluvní podřízenost) — primárně,
-- *jinak poměrně*,
-- *pohledávky společníků* — **úplně poslední**.
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Nejde o negativní rešerši ani o závěr, že k ustanovení literatura neexistuje.
 
-#### Pohledávky společníků (odst. 4)
+### Výklad
 
-**Nepřihlašují se** — pouze *oznamují správci*. Logika: společníkův *účastnický nárok* (likvidační podíl, vklady, příplatky) má charakter rezidua — vyplácí se jen pokud zbude *po věřitelích*. V praxi *téměř nikdy*.
+[1] Odstavec 1 nestaví pohledávky podle § 170 před podřízené pohledávky. Pohledávky podle § 170 jsou z uspokojení vyloučeny, a proto se při podmínce úplného uhrazení ostatních pohledávek výslovně pomíjejí.
 
-### Vazby
+[2] Smluvní podřízenost vyžaduje ujednání o pozdějším uspokojení vůči jiné pohledávce nebo ostatním pohledávkám dlužníka. Samotné ekonomické označení financování jako „juniorního“ bez posouzení obsahu smlouvy pro závěr o pořadí nestačí.
 
-- **§ 170** — vyloučené (mají *přednost* před podřízenými v negativní hierarchii — neuspokojují se vůbec).
-- **§ 165 odst. 1** — způsoby uspokojení.
+[3] Vedle smluvní podřízenosti zákon výslovně zahrnuje pohledávku z podřízeného dluhopisu a srovnatelný podřízený cenný papír vydaný podle cizího práva. Míru podřízenosti je proto třeba určit z příslušného právního titulu a emisních podmínek.
 
-### F. Kazuistika
+[4] Zvláštní pravidlo pro oddlužení se vztahuje jen na položky vyjmenované v odstavci 2 a pouze v rozsahu, v němž jejich souhrn převyšuje výši jistiny přihlášené pohledávky k okamžiku jejího vzniku. U smluvní pokuty zákon navíc vyžaduje, aby byla sjednána pro případ prodlení s plněním přihlášené pohledávky, a vylučuje smluvní pokutu, která je dluhem z podnikání.
 
-**1. Modelová situace.** Mateřská společnost M poskytla své dceři D (dlužník) „podřízený" úvěr 5 mil. Kč, ve smlouvě výslovně sjednáno uspokojení až po všech ostatních věřitelích. K úvěru byla vystavena směnka. Současně společník S přihlašuje vrácení příplatku mimo základní kapitál 2 mil. Kč. V oddlužení jiného dlužníka věřitel W přihlásí jistinu 100 000 Kč a k ní úroky z prodlení a smluvní pokutu v souhrnu 150 000 Kč. Důkazy: smlouva o podřízeném úvěru, směnka, doklad o příplatku, vyčíslení úroků a pokuty s vazbou na okamžik vzniku jistiny.
+[5] Vnitřní pořadí podřízených pohledávek určuje dohodnutá nebo stanovená míra podřízenosti; není-li takové rozlišení dáno, uspokojují se poměrně. Pohledávky společníků nebo členů dlužníka vyplývající z jejich účasti jsou vždy poslední a uvnitř této skupiny se uspokojují poměrně.
 
-**2. Právní otázka.** V jakém pořadí se uspokojí podřízená pohledávka M, nárok společníka S a v jakém rozsahu se v oddlužení úroky a pokuta věřitele W považují za podřízené?
+[6] Účastnické pohledávky podle odstavce 4 se neuplatňují přihláškou. Oznamují se insolvenčnímu správci, který je eviduje. Před použitím tohoto režimu je nutno určit, zda konkrétní nárok skutečně vyplývá z účasti ve společnosti nebo družstvu; pouhá totožnost věřitele se společníkem nebo členem sama tuto povahu nároku neprokazuje.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 172 odst. 1–2 (definice podřízené pohledávky, oddlužovací podřízenost přesahu úroků/pokut nad jistinu), odst. 3 (pořadí dle míry podřízenosti, jinak poměrně; společníci poslední), odst. 4 (nároky společníků se neuplatňují, jen oznamují).
-- *Související ustanovení téhož zákona:* § 170 (vyloučené pohledávky — mají „přednost" v negativní hierarchii, neuspokojí se vůbec), § 165 odst. 1 (způsoby uspokojení).
-- *Související předpisy:* OZ a ZOK (příplatky a vklady společníků, podřízené dluhopisy); zákon o dluhopisech (podřízený dluhopis).
-- *Judikatura:* nosné závěry — limitem oddlužovací podřízenosti je výše jistiny v okamžiku jejího vzniku bez ohledu na pozdější splátky (29 ICdo 65/2022); výčet podřízených pohledávek dle odst. 2 věty druhé je taxativní a pohledávka ze směnky není podřízená jen proto, že směnka zajišťovala podřízenou pohledávku (29 ICdo 74/2021).
+[7] Pro starší insolvenční řízení je nutno ověřit tehdy účinné znění § 172 a přechodná ustanovení příslušné novely. Zejména zvláštní zákonná podřízenost v oddlužení nebyla součástí původního znění, takže ji nelze bez intertemporální kontroly přenášet na dřívější právní poměry.
 
-**4. Subsumpce.** Úvěr M je smluvně podřízený → odst. 2; uspokojí se až po všech ostatních (kromě vyloučených § 170). Směnka k němu vystavená *není* automaticky podřízená (29 ICdo 74/2021) — posuzuje se samostatně. Nárok společníka S z účasti → odst. 4: neuplatňuje se přihláškou, jen se oznámí správci, a v pořadí je úplně poslední (odst. 3). U W v oddlužení: úroky + pokuta nad výši jistiny (k okamžiku jejího vzniku) jsou podřízené; do výše jistiny se uspokojují běžně.
+### Judikatura
 
-**5. Řešení.** M se uspokojí jen zbude-li po plném uhrazení všech ostatních; reálně téměř nikdy. Směnečnou pohledávku správce posoudí dle jejího vlastního režimu. Nárok S správce eviduje, neuvádí do přezkumu jako přihlášku. U W správce odliší podřízený přesah (150 000 − 100 000 = 50 000 Kč nad jistinu, je-li jistina 100 000 Kč) od nepodřízené části.
-
-**6. Varianty.** (a) Kdyby M splátkami snížila jistinu, limit podřízenosti se nemění — počítá se k okamžiku vzniku jistiny (29 ICdo 65/2022). (b) Kdyby smluvní pokuta u W byla dluhem z podnikání, do oddlužovací podřízenosti by se nezahrnula (výjimka odst. 2).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Směnka sleduje osud zajišťované podřízené pohledávky, je tedy také podřízená." — Neutralizace: dle 29 ICdo 74/2021 je výčet podřízených pohledávek taxativní; směnečná pohledávka má samostatný režim.
-- *Protiargument:* „Limit podřízenosti se snižuje o splátky na jistinu." — Neutralizace: dle 29 ICdo 65/2022 je rozhodná výše jistiny k okamžiku jejího vzniku, pozdější plnění limit neovlivní.
-- *Slabé místo:* odlišení skutečně podřízené pohledávky (smluvní ujednání, podřízený dluhopis) od běžné je závislé na přesné formulaci smlouvy; nejasné doložky vedou k popření pořadí (§ 195).
-
-### H. Praktický závěr
-
-Podřízené pohledávky a nároky společníků stojí na konci uspokojovací hierarchie — uspokojí se jen po plném zaplacení všech ostatních (vyjma § 170). V oddlužení slouží podřízenost přesahu úroků/pokut nad jistinu jako sociální korektiv vůči dlužníku.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověřit titul podřízenosti (smluvní doložka, podřízený dluhopis/CP) a její míru (odst. 3).
-- [ ] Nároky společníků z účasti pouze oznámit správci, nepřihlašovat (odst. 4).
-- [ ] V oddlužení vyčíslit jistinu k okamžiku vzniku a oddělit přesah úroků/pokut nad ni jako podřízený (mimo dluhy z podnikání).
-- [ ] Posoudit směnečné a obdobné pohledávky samostatně, nikoli automaticky jako podřízené.
-
-**Typicky rozhodné důkazy / podklady:** smlouva s doložkou podřízenosti, emisní podmínky podřízeného dluhopisu, doklady o vkladech/příplatcích společníka, vyčíslení jistiny k okamžiku vzniku a navazujících úroků a pokut.
+Do tohoto kola nebyl převzat žádný judikatorní závěr bez fyzického snapshotu plného rozhodnutí v uzavřeném zdrojovém korpusu. To není negativní rešerše ani závěr o neexistenci relevantní judikatury; kandidátní odkazy nelze vydávat za produkčně ověřené prameny jen na základě metadat, abstraktu nebo právní věty.
 
 ---
 

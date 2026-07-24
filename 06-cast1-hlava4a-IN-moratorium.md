@@ -1523,6 +1523,65 @@ Tato revize necituje žádné soudní rozhodnutí jako pramen samostatného prav
 
 ---
 
+## § 121 — Přihlášky pohledávek
+
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) I v době trvání moratoria mohou oprávněné osoby přistoupit k řízení a věřitelé uplatnit svá práva přihláškou pohledávky. Účinky těchto úkonů však nastávají až zánikem moratoria, není-li dále stanoveno jinak.
+>
+> (2) Za věřitele dlužníka se po dobu trvání moratoria považují přihlášení věřitelé a osoby uvedené v seznamu závazků.
+>
+
+### Přehled výkladu
+
+§ 121 umožňuje i za trvání moratoria podat úkony směřující k přistoupení k řízení a přihlášku pohledávky. Podání je tedy možné, avšak účinky obou úkonů zákon zásadně odkládá do zániku moratoria. Pro dobu moratoria současně vymezuje okruh osob považovaných za věřitele dlužníka: vedle přihlášených věřitelů do něj zahrnuje také osoby uvedené v seznamu závazků.
+
+### Souvisící ustanovení
+
+- § 107 — další insolvenční návrh jako přistoupení k řízení.
+- § 109 a § 110 — účinky zahájení insolvenčního řízení a možnost uplatnit pohledávku přihláškou před rozhodnutím o úpadku.
+- § 116 odst. 2 a § 119 odst. 2 — souhlas věřitelské většiny s vyhlášením a prodloužením moratoria.
+- § 120 — zachování účinků spojených se zahájením insolvenčního řízení s výhradou zvláštní úpravy.
+- § 123 a § 124 — věřitelské návrhy a věřitelská většina za trvání moratoria a zánik moratoria.
+- § 125 a § 126 — moratorium navržené před zahájením insolvenčního řízení.
+- § 173 a násl. — podávání přihlášek pohledávek a jejich náležitosti.
+
+### Souvisící předpisy
+
+Jádro pravidla je obsaženo přímo v insolvenčním zákoně. Formu, obsah a podávání přihlášky dále konkretizuje vyhláška č. 191/2017 Sb., o náležitostech podání a formulářů elektronických podání v insolvenčním řízení a o změně vyhlášky č. 311/2007 Sb.; tato revize z ní nevyvozuje samostatný závěr o okamžiku účinků podle § 121.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva byla ověřena v oficiálním sněmovním tisku 1120/0. Odstavec označený „K § 121“ však dnešní pravidlo o přistoupení k řízení, přihláškách a okruhu věřitelů věcně nevysvětluje; pojednává o odchylkách při nakládání s majetkovou podstatou a plynule přechází k § 122. Nelze jej proto vydávat za konkrétní historickou oporu výkladu odstavců 1 a 2. (Vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, zvláštní část „K § 121“, číslovaná s. 188, PDF s. 189.)
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Toto odložení není negativní rešerší ani závěrem, že k § 121 literatura neexistuje.
+
+### Výklad
+
+[1] **Možnost podat úkon za moratoria.** Odstavec 1 neuzavírá po dobu moratoria přístup k řízení ani možnost podat přihlášku. Rozlišuje však mezi učiněním úkonu a nástupem jeho účinků.
+
+[2] **Odklad účinků.** Účinky přistoupení k řízení i uplatnění práva přihláškou zásadně nastávají až zánikem moratoria. Formulace „není-li dále stanoveno jinak“ vyžaduje kontrolu navazujících ustanovení; z § 121 proto nelze vytvořit bezvýjimečné pravidlo pro každý procesní následek.
+
+[3] **Přistoupení k řízení.** Procesní souvislost přistoupení upravuje zejména § 107, podle něhož se další insolvenční návrh podaný před rozhodnutím o úpadku považuje za přistoupení k řízení. § 121 k tomu pro dobu moratoria připojuje zvláštní časové pravidlo o účincích.
+
+[4] **Přihláška pohledávky.** Obecnou možnost podat přihlášku již od zahájení insolvenčního řízení upravuje § 110; náležitosti a další režim přihlášek stanoví § 173 a násl. § 121 nemění jejich předepsaný obsah ani způsob podání, ale určuje dobu nástupu účinků úkonu za moratoria.
+
+[5] **Okruh věřitelů za moratoria.** Odstavec 2 stanoví pro dobu trvání moratoria vlastní vymezení: za věřitele dlužníka se považují jak přihlášení věřitelé, tak osoby uvedené v seznamu závazků. Tyto skupiny se mohou překrývat; zákon je spojuje výrazem „a“, nikoli podmínkou, že osoba musí splnit obě charakteristiky současně.
+
+[6] **Funkce seznamu závazků.** Zahrnutí osob uvedených v seznamu závazků umožňuje pracovat s věřitelským okruhem i tam, kde se účinky přihlášek podle odstavce 1 odkládají. Konkrétní oprávnění nebo výpočet většiny je však vždy nutné ověřit v ustanovení, které je upravuje, zejména v § 116, § 119, § 123 nebo § 124; odstavec 2 sám nestanoví univerzální hlasovací pravidlo.
+
+[7] **Moratorium před zahájením řízení.** Podle § 125 se § 115 až 124 zásadně použijí obdobně i na moratorium navržené před zahájením insolvenčního řízení. Současně je nutné respektovat zvláštní účinky a způsob zániku podle § 126; § 121 proto nelze aplikovat bez této systematické vazby.
+
+[8] **Intertemporalita.** Výklad vychází ze znění účinného k 19. 7. 2026. U úkonu učiněného za dřívější právní úpravy je třeba ověřit tehdy účinné znění a případná přechodná ustanovení; historická důvodová zpráva nenahrazuje tuto kontrolu.
+
+### Judikatura
+
+Tato revize necituje žádné soudní rozhodnutí jako pramen samostatného pravidla k § 121. Tím se nevyslovuje závěr o neexistenci související judikatury; pouze se do produkčního textu nezařazuje rozhodnutí bez ověřeného plného textu a přímo nosného závěru.
+
 ### § 122 — Nakládání s majetkovou podstatou
 
 **Tři klíčová pravidla:**

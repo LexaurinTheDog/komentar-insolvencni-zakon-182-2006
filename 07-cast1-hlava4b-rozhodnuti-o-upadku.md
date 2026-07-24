@@ -1001,6 +1001,10 @@ Judikatura není v tomto kole zařazena jako zdroj materiálního tvrzení, prot
 
 ## § 147 — Odpovědnost insolvenčního navrhovatele za škodu
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Bylo-li řízení o insolvenčním návrhu zastaveno nebo byl-li insolvenční návrh odmítnut vinou insolvenčního navrhovatele, má osoba, které zahájením insolvenčního řízení a opatřeními přijatými v jeho průběhu vznikla škoda nebo jiná újma, právo na náhradu takové škody nebo jiné újmy vůči insolvenčnímu navrhovateli. V pochybnostech se má za to, že insolvenční navrhovatel zavinil zastavení insolvenčního řízení nebo odmítnutí insolvenčního návrhu.
 > (2) Právo na náhradu škody nebo jiné újmy podle odstavce 1 lze uplatnit také tehdy, byl-li insolvenční návrh zamítnut; to neplatí, jestliže insolvenční návrh byl zamítnut proto, že dlužník po jeho podání splnil závazky, které osvědčovaly jeho úpadek, nebo proto, že se s věřiteli dohodl na jiném způsobu plnění těchto závazků, anebo z důvodu uvedeného v § 143 odst. 3.
 > (3) Je-li insolvenčním navrhovatelem právnická osoba, ručí za splnění náhrady škody nebo jiné újmy podle odstavců 1 a 2 společně a nerozdílně členové jeho statutárního orgánu, ledaže prokáží, že bez zbytečného odkladu po podání insolvenčního návrhu informovali insolvenční soud o tom, že insolvenční návrh není podán důvodně, nebo o tom, že není splněn některý z dalších předpokladů stanovených zákonem pro vydání rozhodnutí o úpadku.
@@ -1009,82 +1013,51 @@ Judikatura není v tomto kole zařazena jako zdroj materiálního tvrzení, prot
 >
 > (6) Je-li zřejmé, že určité osobě vznikla zahájením insolvenčního řízení a opatřeními přijatými v jeho průběhu vinou insolvenčního navrhovatele škoda nebo jiná újma, může insolvenční soud nařídit předběžné opatření, kterým povinné osobě uloží, aby na náhradu této škody nebo jiné újmy složila do úschovy u soudu přiměřenou peněžitou částku. Učiní tak jen na návrh oprávněné osoby podaný do 30 dnů od vydání rozhodnutí o zastavení řízení o insolvenčním návrhu, rozhodnutí o odmítnutí insolvenčního návrhu nebo rozhodnutí o zamítnutí insolvenčního návrhu; nebyl-li insolvenční návrh odmítnut podle § 128a, nelze předběžné opatření nařídit před nabytím právní moci takového rozhodnutí. Nařízení předběžného opatření nebrání, že celkovou výši škody nebo jiné újmy dosud nelze vyčíslit. Při nařízení předběžného opatření dále insolvenční soud postupuje obdobně podle § 100 odst. 2 a 3.
 
-### Výklad — **OCHRANNÝ INSTITUT PROTI ŠIKANE**
+### Přehled výkladu
 
-**Speciální odpovědnost navrhovatele za škodu** dlužníkovi a třetím osobám za nedůvodné insolvenční řízení.
+Ustanovení spojuje se zastavením, odmítnutím nebo zamítnutím insolvenčního návrhu zvláštní nárok osoby, jíž vznikla škoda nebo jiná újma zahájením řízení a opatřeními přijatými v jeho průběhu. Rozlišuje odpovědnost navrhovatele, ručení členů statutárního orgánu právnické osoby, zánik práv při opožděné žalobě a dočasné zajištění nároku.
 
-#### Aktivace odpovědnosti (odst. 1 + 2)
+### Souvisící ustanovení
 
-- *zastavení nebo odmítnutí* návrhu *vinou navrhovatele* — odpovědnost,
-- *zamítnutí návrhu* — také odpovědnost, *kromě výjimek*:
-  - dlužník po podání splnil závazky,
-  - dohodl se s věřiteli na jiném plnění,
-  - obrana podle § 143 odst. 3 (protiprávní jednání třetí osoby).
+- § 7 — subsidiární použití občanského soudního řádu,
+- § 82 odst. 2 písm. c) a § 128a — jistota za škodu a zjevně bezdůvodný návrh,
+- § 100 odst. 2 a 3 — obdobně použitý režim předběžného opatření,
+- § 142 až 146 — způsoby jiného rozhodnutí o insolvenčním návrhu a jejich účinky,
+- § 143 odst. 3 — jedna z výslovných výjimek podle § 147 odst. 2,
+- § 325 odst. 2 — přiměřené použití § 147 na neúspěšný návrh na povolení reorganizace.
 
-**Domněnka zavinění** (odst. 1 *in fine*) — v pochybnostech *se má za to*, že navrhovatel zavinil. *Důkazní břemeno přesouvá na navrhovatele*.
+### Souvisící předpisy
 
-#### Solidární ručení statutárů PO-navrhovatele (odst. 3)
+- zákon č. 99/1963 Sb., občanský soudní řád — obecný procesní rámec žaloby a předběžného opatření v rozsahu plynoucím z § 7 insolvenčního zákona,
+- zákon č. 89/2012 Sb., občanský zákoník — obecná úprava náhrady majetkové a nemajetkové újmy se uplatní jen potud, pokud zvláštní úprava insolvenčního zákona otázku neřeší.
 
-Pokud navrhovatel je PO, **statutární orgány ručí solidárně**. *Liberace*: prokázat, že **bez zbytečného odkladu informovali soud**, že návrh není důvodný.
+### Z důvodové zprávy
 
-#### Procesní rámec (odst. 4)
+Vládní návrh insolvenčního zákona řadil § 147 mezi ustanovení o rozhodnutí o insolvenčním návrhu. Zvláštní část uváděla, že případům, kdy lze pro neúspěšnost insolvenčního návrhu požadovat náhradu škody nebo jiné újmy, se věnuje podrobnější a přesnější úprava. Obecná část současně spojovala § 147 s postihy věřitelů sledujících podáním návrhu nepoctivé cíle. Tyto formulace vysvětlují ochranný účel původní koncepce, nikoli samy o sobě všechny podmínky dnešního znění.
 
-- *žaloba*: dlužník — 6 měsíců od doručení rozhodnutí; jiné osoby — 6 měsíců od zveřejnění,
-- *o žalobě nelze rozhodnout* před právní mocí insolvenčního rozhodnutí,
-- *není incidenční spor* (řeší se mimo IR).
+### Literatura
 
-**Prekluzivní lhůta** — nepodáním zaniká právo.
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní rešerše.
 
-#### Předběžné opatření (odst. 6)
+### Výklad
 
-Analogicky § 100 — soud může nařídit *složení částky do úschovy* na zajištění budoucího nároku. *Lhůta 30 dnů* od vydání rozhodnutí o zastavení/odmítnutí/zamítnutí. U § 128a — nutno čekat na právní moc.
+[1] **Předmět náhrady a příčinná souvislost.** Odstavec 1 vyžaduje škodu nebo jinou újmu vzniklou zahájením insolvenčního řízení a opatřeními přijatými v jeho průběhu. Samotné zastavení řízení nebo odmítnutí návrhu tedy nenahrazuje prokázání vzniku újmy, její výše, jde-li o vyčíslitelnou škodu, a příčinné souvislosti.
 
-### Vazby
+[2] **Zastavení a odmítnutí.** U těchto způsobů skončení musí být příčinou vina insolvenčního navrhovatele. Poslední věta odstavce 1 stanoví vyvratitelnou domněnku jeho zavinění. Domněnka se týká zavinění zastavení nebo odmítnutí; neprokazuje sama vznik ani rozsah újmy nebo příčinnou souvislost.
 
-- **§ 100** — analogický nástroj pro povinnost podat IN.
-- **§ 82 odst. 2 písm. c)** — jistota při podání návrhu.
-- **§ 128a** — zjevně bezdůvodný návrh.
+[3] **Zamítnutí.** Odstavec 2 rozšiřuje právo i na zamítnutí návrhu, ale výslovně je vylučuje ve třech skupinách případů: dlužník po podání splnil závazky osvědčující úpadek, dohodl s věřiteli jiné plnění, nebo byl návrh zamítnut z důvodu podle § 143 odst. 3. Výjimky je třeba vztahovat ke skutečnému důvodu zamítnutí.
 
-### Praktická poznámka
+[4] **Ručení členů statutárního orgánu.** Je-li navrhovatelem právnická osoba, odstavec 3 nezakládá členům jejího statutárního orgánu totožnou přímou odpovědnost za újmu, nýbrž společné a nerozdílné ručení za splnění náhrady podle odstavců 1 a 2. Jednotlivý člen se může z ručení vyvinit jen prokázáním zákonem popsané informace soudu podané bez zbytečného odkladu.
 
-V praxi je institut **významný odstrašující nástroj** proti šikanózním návrhům — i samotná domněnka zavinění s úvodním břemenem na navrhovatele staví věřitele do nevýhodné pozice. Hlavně proti **velkým navrhovatelům** (banky, finanční instituce, korporace) je vymahatelnost reálná.
+[5] **Žaloba a zánik práva.** Dlužníku běží šestiměsíční lhůta od doručení rozhodnutí končícího řízení o návrhu; jiné osobě od jeho zveřejnění v insolvenčním rejstříku. Žalobu lze podat před právní mocí, avšak rozhodnout o ní lze až po právní moci. Odstavec 5 spojuje s opožděným podáním zánik práva, a to odděleně pro náhradu podle odstavců 1 a 2 a pro uplatnění ručení podle odstavce 3. Zákon výslovně stanoví, že nejde o incidenční spor.
 
-### F. Kazuistika
+[6] **Předběžné opatření.** Návrh podle odstavce 6 musí být podán do 30 dnů od vydání některého z vyjmenovaných rozhodnutí. Jestliže návrh nebyl odmítnut podle § 128a, nelze předběžné opatření nařídit před právní mocí takového rozhodnutí; právě odmítnutí podle § 128a je tedy z tohoto čekání vyňato. Zákon připouští zajištění, i když celkovou výši újmy dosud nelze vyčíslit, a odkazuje na obdobné použití § 100 odst. 2 a 3.
 
-**1. Modelová situace.** Konkurenční společnost N (právnická osoba) podá vůči dlužníku — provozovateli obchodu (s. r. o.) — insolvenční návrh, ačkoli pohledávku nedoloží; návrh je posléze odmítnut. V důsledku zveřejnění návrhu v rejstříku dlužníku vypoví dodavatelé smlouvy a banka mu zablokuje úvěr, čímž mu vznikne škoda (ušlý zisk, sankce). Statutární orgán N soud o nedůvodnosti návrhu neinformoval. Důkazy: insolvenční návrh a usnesení o jeho odmítnutí, doklady o ztrátě dodavatelů a úvěru, vyčíslení škody, výpis z obchodního rejstříku N (členové statutárního orgánu).
+[7] **Intertemporalita.** Komentář vykládá znění účinné k 19. 7. 2026. Původní vládní návrh se od dnešního textu lišil mimo jiné okruhem oprávněných osob a procesní úpravou nároku. Pro starší skutky a řízení je proto nutné ověřit znění účinné v rozhodné době; původní důvodová zpráva není dokladem všech dnešních podmínek.
 
-**2. Právní otázka.** Odpovídá insolvenční navrhovatel (a solidárně členové jeho statutárního orgánu) za škodu způsobenou dlužníku zahájením insolvenčního řízení, byl-li návrh odmítnut jeho vinou, a v jaké lhůtě lze nárok uplatnit?
+### Judikatura
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 147 — odpovědnost navrhovatele za škodu/jinou újmu při zastavení nebo odmítnutí návrhu jeho vinou (odst. 1, s *domněnkou zavinění*); rozšíření i na zamítnutí, s výjimkami (odst. 2); *solidární ručení členů statutárního orgánu* PO-navrhovatele s liberací při včasné informaci soudu (odst. 3); *prekluzivní* šestiměsíční lhůta k žalobě a vyloučení z incidenčních sporů (odst. 4–5); předběžné opatření na složení částky do úschovy (odst. 6).
-- *Související ustanovení téhož zákona:* § 142 (odmítnutí/zastavení/zamítnutí), § 128, § 128a (vady, zjevná bezdůvodnost), § 100 (analogický nástroj), § 82 odst. 2 písm. c) (jistota navrhovatele), § 143 odst. 3 (výjimka z odpovědnosti).
-- *Související předpisy:* § 2894 a násl. o. z. (náhrada škody), § 159 a násl. z. o. k. (povinnosti členů orgánů).
-- *Judikatura:* obecné pojetí přísné odpovědnosti navrhovatele za nedůvodný návrh s přesunem důkazního břemene (domněnka zavinění dle odst. 1 *in fine*).
-
-**4. Subsumpce.** Návrh N byl *odmítnut* a navrhovatel nedoložil pohledávku — aktivuje se odpovědnost dle odst. 1; v pochybnostech se *má za to*, že N zavinil odmítnutí (domněnka). Škoda dlužníku (ztráta dodavatelů, úvěru) vznikla *zahájením* řízení a opatřeními v jeho průběhu — příčinná souvislost je dána. Statutární orgán N *neinformoval* soud o nedůvodnosti návrhu, takže se *neliberoval* a *ručí solidárně* (odst. 3). Žalobu musí dlužník podat do 6 měsíců od doručení rozhodnutí, jímž řízení skončilo (odst. 4), jinak právo *prekluduje* (odst. 5).
-
-**5. Řešení.** Dlužník má nárok na náhradu škody vůči N; je-li N nemajetná, může se hojit na členech jejího statutárního orgánu (solidární ručení dle odst. 3), kteří se neliberovali. Důkazní břemeno o nezavinění nese N (domněnka). Dlužník (či jiná dotčená osoba) může navrhnout *předběžné opatření* na složení částky do úschovy (odst. 6) ve lhůtě 30 dnů. Procesně: vyčíslit škodu a příčinnou souvislost se zahájením řízení; podat žalobu v šestiměsíční prekluzivní lhůtě; nejde o incidenční spor.
-
-**6. Varianty.** (a) Kdyby byl návrh *zamítnut* proto, že dlužník po podání splnil závazky nebo se s věřiteli dohodl, anebo z důvodu dle § 143 odst. 3, odpovědnost by *nevznikla* (výjimky odst. 2). (b) Kdyby člen statutárního orgánu *bez zbytečného odkladu* informoval soud, že návrh není podán důvodně, *liberoval* by se ze solidárního ručení (odst. 3).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Navrhovatel neodpovídá, dokud mu není prokázáno zavinění." — Neutralizace: odst. 1 *in fine* zavádí domněnku zavinění — v pochybnostech se má za to, že navrhovatel zastavení/odmítnutí zavinil; břemeno nese navrhovatel.
-- *Protiargument:* „Členové statutárního orgánu za návrh PO neodpovídají." — Neutralizace: odst. 3 zakládá jejich *solidární ručení*; zprostí se jen prokázáním včasné informace soudu o nedůvodnosti návrhu.
-- *Slabé místo:* nárok je vázán na *prekluzivní* šestiměsíční lhůtu (odst. 4–5) — její zmeškání právo ruší; vyčíslení škody a příčinné souvislosti bývá náročné a o žalobě nelze rozhodnout před právní mocí insolvenčního rozhodnutí.
-
-### H. Praktický závěr
-
-§ 147 je ochranným nástrojem proti šikanózním návrhům: navrhovatel odpovídá za škodu z nedůvodného řízení (s domněnkou zavinění při zastavení/odmítnutí), za PO-navrhovatele *solidárně ručí* členové statutárního orgánu (liberace včasnou informací soudu). Nárok se uplatňuje žalobou v *prekluzivní* šestiměsíční lhůtě (nejde o incidenční spor); k zajištění slouží předběžné opatření dle odst. 6.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Určit formu skončení řízení (odmítnutí/zastavení/zamítnutí) a zavinění navrhovatele (vč. domněnky).
-- [ ] Vyloučit výjimky z odpovědnosti při zamítnutí (odst. 2 — splnění závazků, dohoda, § 143 odst. 3).
-- [ ] U PO-navrhovatele zvážit solidární ručení členů statutárního orgánu a jejich případnou liberaci (odst. 3).
-- [ ] Hlídat prekluzivní šestiměsíční lhůtu k žalobě (dlužník od doručení, jiné osoby od zveřejnění).
-- [ ] Zvážit předběžné opatření na složení částky do úschovy (odst. 6, lhůta 30 dnů).
-
-**Typicky rozhodné důkazy / podklady:** insolvenční návrh a rozhodnutí o jeho odmítnutí/zastavení/zamítnutí, doklady o vzniku a výši škody a o příčinné souvislosti se zahájením řízení, výpis z obchodního rejstříku (členové statutárního orgánu), případná informace navrhovatele soudu o nedůvodnosti návrhu.
+Judikatura není v tomto kole zařazena jako zdroj materiálního tvrzení. Stávající text odkazoval jen na neurčité „obecné pojetí“ bez identifikace rozhodnutí a konkrétního nosného závěru; takový odkaz byl odstraněn. Nejde o negativní rešerši.
 
 ---
 

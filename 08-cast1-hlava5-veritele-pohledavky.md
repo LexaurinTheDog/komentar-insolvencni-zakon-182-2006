@@ -886,69 +886,69 @@ Do této revize nebylo zařazeno rozhodnutí, jehož oficiální plný text by p
 
 ## § 177 — Přílohy + skutečný majitel
 
-> (1) K přihlášce pohledávky je nutné připojit **listiny, kterých se přihláška dovolává**. Vykonatelnost pohledávky se prokazuje veřejnou listinou.
-> (2) Věřitel, který nabyl pohledávku **postoupením nebo obdobným způsobem po zahájení insolvenčního řízení anebo v posledních 6 měsících před zahájením** insolvenčního řízení, doloží v příloze přihlášky pohledávky **čestné prohlášení**, v němž uvede informaci o tom, kdo je jeho **skutečným majitelem** podle zákona upravujícího evidenci skutečných majitelů, a údaje o skutečnostech zakládajících postavení skutečného majitele.
-> (3) [výjimky pro povinné osoby a malé hodnoty]
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) K přihlášce pohledávky je nutné připojit listiny, kterých se přihláška dovolává. Vykonatelnost pohledávky se prokazuje veřejnou listinou.
+>
+> (2) Věřitel, který nabyl pohledávku postoupením nebo obdobným způsobem po zahájení insolvenčního řízení anebo v posledních 6 měsících před zahájením insolvenčního řízení, doloží v příloze přihlášky pohledávky čestné prohlášení, v němž uvede informaci o tom, kdo je jeho skutečným majitelem podle zákona upravujícího evidenci skutečných majitelů, a údaje o skutečnostech zakládajících postavení skutečného majitele.
+>
+> (3) Věřitel nemá povinnost podle odstavce 2, jestliže se na obchod podle zvláštního zákona, z něhož pohledávka věřitele vznikla, uzavřený mezi povinnou osobou podle zvláštního zákona a věřitelem, nevztahuje povinnost provést kontrolu klienta podle zvláštního zákona. Věřitel nemá povinnost podle odstavce 2 ani v případě, kdy je hodnota plnění z právního jednání učiněného mezi věřitelem a jinou než povinnou osobou, z něhož pohledávka věřitele vznikla, nižší než 10 000 EUR. Důvod, pro který je povinnost podle odstavce 2 vyloučena, uvede věřitel v čestném prohlášení, které předloží v příloze přihlášky.
+>
 > (4) Je-li věřitelem fyzická osoba, odstavce 2 a 3 se nepoužijí.
-> (5) Dokud věřitel povinnost stanovenou v odstavci 2 nebo 3 nesplní, **nesmí vykonávat hlasovací práva** spojená s pohledávkou.
+>
+> (5) Dokud věřitel povinnost stanovenou v odstavci 2 nebo 3 nesplní, nesmí vykonávat hlasovací práva spojená s pohledávkou.
 >
 > (6) Je-li informace o skutečném majiteli věřitele podle odstavce 2 uvedena v soudu a insolvenčnímu správci přístupné evidenci podle zvláštního právního předpisu, věřitel podle odstavce 2 nemá povinnost doložit ji podle odstavce 2 ani doložit prohlášení podle odstavce 3.
 
-### Výklad — **AML/KYC PRO VĚŘITELE**
+### Přehled výkladu
 
-**Standardní přílohy** (odst. 1): listiny dokládající pohledávku, vykonatelnost veřejnou listinou.
+Ustanovení spojuje obecnou povinnost připojit listiny, jichž se přihláška dovolává, se zvláštní informační povinností některých nabyvatelů pohledávek. Zvláštní režim se odvíjí od způsobu a doby nabytí, má vlastní výluky a při nesplnění omezuje výkon hlasovacích práv; text sám nestanoví odmítnutí přihlášky.
 
-**Speciální AML povinnost** (odst. 2) — věřitelé, kteří *nabyli pohledávku* postoupením v posledních 6 měsících před úpadkem nebo později, **musí prozradit skutečného majitele** (UBO — Ultimate Beneficial Owner). Účel: *zabránit anonymním nákupům pohledávek* za účelem manipulace hlasování (typický scénář *vulture funds*, *spv* offshore struktur).
+### Souvisící ustanovení
 
-**Výjimky** (odst. 3, 4):
-- FO věřitelé,
-- obchody pod 10 000 EUR,
-- obchody, na které se nevztahuje povinnost AML kontroly klienta.
+- § 18 a § 19 — procesní nástupnictví při převodu nebo přechodu přihlášené pohledávky.
+- § 49 až 53 — hlasovací právo a jeho omezení.
+- § 174 až 176 — obsah, vyčíslení a formulář přihlášky.
+- § 188 — přezkoumání přihlášek insolvenčním správcem a postup při vadách či neúplnosti.
+- § 189 — seznam přihlášených pohledávek.
 
-**Sankce** (odst. 5): nesplnění = **zákaz hlasování**.
+### Souvisící předpisy
 
-**Výjimka při dostupnosti údajů** (odst. 6): pokud je UBO veřejně v Evidenci skutečných majitelů — *nemusí dokládat*.
+- Zákon č. 37/2021 Sb., o evidenci skutečných majitelů — určení skutečného majitele a vedení evidence, na kterou § 177 odkazuje.
+- Zákon č. 253/2008 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu — povinná osoba a kontrola klienta, s nimiž pracuje odstavec 3.
+- Vyhláška č. 191/2017 Sb., o náležitostech podání a formulářů elektronických podání v insolvenčním řízení a o změně vyhlášky č. 311/2007 Sb. — náležitosti formuláře a jeho příloh.
 
-### Vazby
+### Z důvodové zprávy
 
-- **Zákon č. 37/2021 Sb. o evidenci skutečných majitelů**.
-- **§ 49** — hlasovací právo.
+Původní důvodová zpráva k § 176 až 182 (sněmovní tisk 1120/0, číslovaná s. 198–199, PDF s. 199–200) popisovala formulářovou koncepci a ochranu před účelovým posilováním vlivu věřitelů, zvláštní pravidla o skutečném majiteli však ještě neobsahovala. Důvodová zpráva k novele č. 64/2017 Sb. (sněmovní tisk 785/0, číslovaná s. 123–124, PDF s. 124–125) spojila novou informační povinnost s možností odhalit propojení a střet zájmů při postoupení pohledávky krátce před zahájením nebo po zahájení řízení. Jde o historické interpretační pomůcky; rozhodující je aktuální znění zákona.
 
-### F. Kazuistika
+### Literatura
 
-**1. Modelová situace.** Investiční fond F (zahraniční SPV) koupí čtyři měsíce před zahájením IR balík pohledávek vůči dlužníku D od původního věřitele. F je právnická osoba a hodnota postoupení přesahuje 10 000 EUR. F přihlásí pohledávky a na schůzi věřitelů chce hlasovat o způsobu řešení úpadku, avšak k přihlášce nepřipojí čestné prohlášení o skutečném majiteli a informace o UBO nejsou ani v evidenci skutečných majitelů. Důkazy: smlouva o postoupení s datem, doklad o hodnotě, výpis z evidence skutečných majitelů, přihláška.
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Nejde o závěr, že k ustanovení literatura neexistuje, ani o negativní rešerši.
 
-**2. Právní otázka.** Musí věřitel, který nabyl pohledávku postoupením v rozhodném období, doložit skutečného majitele, a jaký je následek nesplnění této povinnosti pro výkon hlasovacích práv?
+### Výklad
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 177 odst. 1 (přílohy, vykonatelnost veřejnou listinou), odst. 2 (čestné prohlášení o skutečném majiteli u postoupení po zahájení IR nebo v posledních 6 měsících před ním), odst. 4 (výjimka pro FO), odst. 5 (zákaz výkonu hlasovacích práv do splnění), odst. 6 (výjimka při dostupnosti údaje v evidenci).
-- *Související ustanovení téhož zákona:* § 49 (hlasovací právo), § 174 (náležitosti přihlášky), § 188 odst. 2 (vady a neúplnost).
-- *Související předpisy:* zákon č. 37/2021 Sb. o evidenci skutečných majitelů; AML předpisy (limit 10 000 EUR, kontrola klienta).
-- *Judikatura:* nosný účel — zabránit anonymnímu skupování pohledávek za účelem ovládnutí hlasování (vulture funds, offshore SPV).
+[1] Odstavec 1 požaduje připojit listiny, kterých se přihláška dovolává; neříká, že musí být už při podání připojen každý myslitelný důkaz. Tvrdí-li věřitel vykonatelnost, prokazuje ji veřejnou listinou. Obsah přihlášky a její formulářovou podobu upravují zejména § 174 a § 176.
 
-**4. Subsumpce.** F je PO, nabyla pohledávky postoupením 4 měsíce před zahájením IR (v rozhodném šestiměsíčním období), hodnota nad 10 000 EUR → povinnost dle odst. 2. Údaj o UBO není v evidenci → výjimka odst. 6 se neuplatní. Výjimka pro FO (odst. 4) na F nedopadá. Nesplnění → odst. 5: F nesmí vykonávat hlasovací práva.
+[2] Zvláštní povinnost podle odstavce 2 dopadá na věřitele, který pohledávku nabyl postoupením nebo obdobně po zahájení insolvenčního řízení nebo během šesti měsíců před jeho zahájením. Rozhodné je nabytí pohledávky v tomto období, nikoli sama doba vzniku původní pohledávky. Přílohou je čestné prohlášení identifikující skutečného majitele a skutečnosti zakládající jeho postavení.
 
-**5. Řešení.** Dokud F nedoloží čestné prohlášení o skutečném majiteli (nebo se údaj neobjeví v evidenci), nemůže hlasovat na schůzi věřitelů; jeho hlasy se nezohlední. Pohledávka jako taková se přezkoumává běžně, sankce míří jen na hlasovací práva. Procesně: F doloží prohlášení dodatečně, čímž hlasovací práva „odblokuje".
+[3] Odstavec 3 obsahuje dvě odlišné výluky. První předpokládá obchod, z něhož pohledávka vznikla, mezi povinnou osobou a věřitelem, na který se nevztahuje povinnost kontroly klienta. Druhá se týká právního jednání mezi věřitelem a jinou než povinnou osobou, je-li hodnota plnění nižší než 10 000 EUR. Ani při výluce se neupouští od veškerého dokládání: věřitel přikládá čestné prohlášení s důvodem, pro který je povinnost podle odstavce 2 vyloučena.
 
-**6. Varianty.** (a) Kdyby pohledávku nabyla fyzická osoba, povinnost dle odst. 2–3 by se neuplatnila (odst. 4). (b) Kdyby byl skutečný majitel F řádně zapsán v evidenci skutečných majitelů dostupné soudu a správci, F by prohlášení dokládat nemusel (odst. 6).
+[4] Je-li věřitelem fyzická osoba, odstavce 2 a 3 se nepoužijí. Tuto výluku nelze bez dalšího rozšiřovat na právnické osoby podle povahy jejich vlastníků nebo členů.
 
-### G. Protiargumenty a rizika
+[5] Výslovným následkem nesplnění povinnosti podle odstavce 2 nebo 3 je zákaz výkonu hlasovacích práv spojených s pohledávkou, který trvá, dokud věřitel povinnost nesplní. Odstavec 5 sám nestanoví odmítnutí přihlášky ani zánik pohledávky.
 
-- *Protiargument F:* „Povinnost UBO se týká jen podezřelých struktur, ne běžného postoupení." — Neutralizace: odst. 2 váže povinnost objektivně na způsob a dobu nabytí (postoupení v rozhodném období) bez ohledu na „podezřelost".
-- *Protiargument:* „Sankcí je odmítnutí přihlášky." — Neutralizace: odst. 5 stanoví jen zákaz výkonu hlasovacích práv, nikoli odmítnutí pohledávky; pohledávka se přezkoumává standardně.
-- *Slabé místo:* posouzení, zda je údaj „v evidenci přístupný" (odst. 6), a určení rozhodného šestiměsíčního období může být sporné; chyba blokuje hlasování ve fázi, kdy je rozhodující (volba způsobu řešení úpadku).
+[6] Podle odstavce 6 se dokládání nevyžaduje, je-li informace o skutečném majiteli uvedena v evidenci přístupné soudu a insolvenčnímu správci. Zákonnou podmínkou není obecná veřejná přístupnost evidence; rozhodující je přístup obou výslovně uvedených subjektů.
 
-### H. Praktický závěr
+[7] Pro praktické posouzení je třeba odděleně ověřit datum a způsob nabytí pohledávky, postavení věřitele jako fyzické či právnické osoby, podmínky případné výluky podle odstavce 3 a dostupnost údaje podle odstavce 6. Vyhláška č. 191/2017 Sb. řadí čestné prohlášení mezi přílohy formuláře přihlášky.
 
-§ 177 doplňuje k běžným přílohám AML/KYC vrstvu pro nabyvatele pohledávek: postoupení v rozhodném období vyžaduje doložení skutečného majitele, jinak věřitel ztrácí hlasovací práva. Cílem je transparentnost a ochrana před manipulací hlasování.
+[8] Úprava skutečného majitele byla do § 177 vložena s účinností novely č. 64/2017 Sb. a následně terminologicky i strukturálně změněna. U starších procesních situací je proto nutné ověřit tehdy účinné znění; dnešní číslování a podmínky nelze automaticky použít zpětně.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Připojit listiny dokládající pohledávku; vykonatelnost prokázat veřejnou listinou.
-- [ ] U postoupení v posledních 6 měsících před zahájením IR či po něm doložit čestné prohlášení o skutečném majiteli (není-li věřitelem FO).
-- [ ] Ověřit, zda je UBO dostupný v evidenci skutečných majitelů (odst. 6) — pak prohlášení netřeba.
-- [ ] Při nesplnění počítat se zákazem výkonu hlasovacích práv (odst. 5) a doplnit prohlášení před hlasováním.
+### Judikatura
 
-**Typicky rozhodné důkazy / podklady:** smlouva o postoupení s datem a hodnotou, čestné prohlášení o skutečném majiteli, výpis z evidence skutečných majitelů, doklady k pohledávce a vykonatelnosti.
+Do této revize nebylo zařazeno žádné rozhodnutí jako přímá nosná autorita k výkladu § 177. Dřívější obecný odkaz bez soudu, data, spisové značky a ověřeného plného textu byl odstraněn. Tím se nevyslovuje závěr o neexistenci související judikatury.
 
 ---
 

@@ -160,56 +160,59 @@ Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k § 1
 
 ## § 138 — Doručení rozhodnutí
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Rozhodnutí o úpadku doručí insolvenční soud dlužníku a insolvenčnímu správci do vlastních rukou.
+
+### Přehled výkladu
+
+§ 138 ukládá vedle doručení rozhodnutí vyhláškou jeho zvláštní doručení dvěma adresátům, a to v kvalifikované formě do vlastních rukou. Tato forma sama neurčuje účinnost rozhodnutí. Její procesní význam se projeví zejména tam, kde zákon s individuálním doručením spojuje počátek lhůty.
+
+### Souvisící ustanovení
+
+- § 71 odst. 1 a 2 — doručení vyhláškou a okamžik doručení zveřejněním v insolvenčním rejstříku.
+- § 74 — vztah doručení vyhláškou a zvláštního doručení; počátek procesní lhůty.
+- § 75 odst. 1 — vymezení zvláštního způsobu doručení.
+- § 77 — doručování písemností insolvenčnímu správci.
+- § 89 — účinnost rozhodnutí insolvenčního soudu.
+- § 136 — obsah rozhodnutí o úpadku.
+- § 141 — přípustnost a rozsah odvolání proti rozhodnutí o úpadku.
+
+### Souvisící předpisy
+
+- Zákon č. 31/2019 Sb., čl. I bod 33, čl. II a čl. VII — nynější znění § 138, přechodné ustanovení a účinnost novely.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva k vládnímu návrhu insolvenčního zákona pojednala § 136 až 147 společně. Doručování podle § 138 zařadila do nové koncepce samostatného rozhodnutí o úpadku a okruh zvlášť vyrozumívaných osob spojila s tehdejším § 139; samostatný důvod kvalifikované formy doručení dlužníku a správci nerozvedla (sněmovní tisk 1120/0, zvláštní část K § 136 až 147, číslované s. 191 až 193, PDF s. 192 až 194).
+
+Nynější znění přinesl zákon č. 31/2019 Sb. Jeho konečný čl. I bod 33 nahradil dřívější dvouodstavcovou úpravu jedinou větou; původní vládní návrh ve sněmovním tisku 71/0 tuto změnu neobsahoval, a proto k ní jeho důvodová zpráva neposkytuje samostatné odůvodnění.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní rešerše literatury.
 
 ### Výklad
 
-**Zvláštní doručení do vlastních rukou** pro *dlužníka* a *správce*. Třetí osoby (věřitelé) — *vyhláška v rejstříku* (§ 71).
+[1] **Dva souběžné způsoby doručení.** Rozhodnutí o úpadku se podle obecného § 71 doručuje zveřejněním v insolvenčním rejstříku. § 138 k tomu pro dlužníka a ustanoveného insolvenčního správce přidává zvláštní doručení do vlastních rukou. Zveřejnění zůstává podle § 74 odst. 1 dokladem o doručení i u písemnosti, pro kterou zákon předepisuje zvláštní způsob doručení.
 
-Důvod *do vlastních rukou*: dlužník a správce mají bezprostřední povinnosti — dlužník dispoziční omezení (§ 246), správce aktivní výkon funkce.
+[2] **Uzavřený výčet v § 138.** Komentované ustanovení samo vyžaduje doručení do vlastních rukou pouze dlužníku a insolvenčnímu správci. Nelze z něho dovodit stejnou formu pro všechny věřitele, insolvenčního navrhovatele nebo jiné účastníky. Případné zvláštní doručení jiné osobě musí mít oporu v jiném ustanovení nebo v postupu podle § 75.
 
-### Vazby
+[3] **Účinnost rozhodnutí.** Zvláštní doručení podle § 138 není obecnou podmínkou účinnosti rozhodnutí o úpadku. Není-li dále stanoveno jinak, rozhodnutí insolvenčního soudu je podle § 89 odst. 1 účinné okamžikem zveřejnění v insolvenčním rejstříku. Je proto nutné oddělit okamžik účinnosti rozhodnutí od okamžiku jeho doručení konkrétnímu adresátu do vlastních rukou.
 
-- **§ 75** — zvláštní způsob doručení.
+[4] **Běh procesní lhůty.** Je-li se zvláštním doručením spojena lhůta k opravnému prostředku nebo jinému procesnímu úkonu, běží podle § 74 odst. 2 ode dne zvláštního doručení a adresát o tom musí být poučen. Toto pravidlo nelze převést na obecnou větu, že § 138 zakládá odvolací lhůtu oběma adresátům: proti rozhodnutí o úpadku vydanému na věřitelský návrh přiznává § 141 odst. 1 odvolání pouze dlužníku; proti rozhodnutí vydanému na dlužnický návrh odvolání přípustné není.
 
-> *Poznámka*: § 139 byl zrušen (mezera v číslování).
+[5] **Doručení správci.** Písemnost určenou insolvenčnímu správci doručuje soud podle § 77 přednostně do jeho datové schránky. Zákon výslovně připouští, aby písemnost určenou správci, včetně písemnosti do vlastních rukou, přijali také jeho zaměstnanci nebo jiné jím zmocněné fyzické osoby. „Do vlastních rukou“ zde proto nelze bez dalšího vykládat podle běžné představy o výlučně osobním převzetí správcem.
 
-### F. Kazuistika
+[6] **Novelizace a intertemporalita.** Do 31. května 2019 § 138 výslovně předepisoval zvláštní doručení širšímu okruhu osob a v odstavci 2 umožňoval další individuální obesílání přihlášených věřitelů. Zákon č. 31/2019 Sb. ustanovení s účinností od 1. června 2019 zjednodušil na nynější znění. Podle jeho čl. II se však v insolvenčních řízeních zahájených a s rozhodnutím o úpadku vydaným před účinností novely postupuje podle dosavadního znění.
 
-**1. Modelová situace.** Soud vydá rozhodnutí o úpadku a zveřejní je v rejstříku 10. června; téhož dne nastávají účinky úpadku. Dlužníku (fyzické osobě — podnikateli) i správci je rozhodnutí doručováno do vlastních rukou, dlužníku se však podaří doručit (fikcí) až 1. července. V mezidobí dlužník 20. června prodá firemní vozidlo a tvrdí, že do doručení rozhodnutí nebyl vázán dispozičními omezeními. Důkazy: údaj o zveřejnění v rejstříku, doručenky dlužníku a správci, kupní smlouva na vozidlo.
+[7] **Meze komentovaného ustanovení.** § 138 upravuje adresáty a formu doručení, nikoli hmotněprávní následky jednotlivých dispozic dlužníka po rozhodnutí o úpadku. Ty je nutné posoudit podle konkrétního způsobu řešení úpadku, rozsahu dispozičních oprávnění a příslušných ustanovení; z pouhého pozdějšího doručení dlužníku ani z pouhého odkazu na § 138 nelze vyvodit jednotný následek pro konkrétní právní jednání.
 
-**2. Právní otázka.** Váže se účinnost rozhodnutí o úpadku (a tím dispoziční omezení dlužníka) na okamžik zveřejnění v rejstříku, nebo až na doručení rozhodnutí dlužníku do vlastních rukou podle § 138?
+### Judikatura
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 138 — rozhodnutí o úpadku se doručuje dlužníku a správci *do vlastních rukou*; třetím osobám (věřitelům) vyhláškou v rejstříku.
-- *Související ustanovení téhož zákona:* § 140a odst. 1 (účinky nastávají *zveřejněním* v rejstříku — nezávisle na doručení); § 71 a násl. (doručování vyhláškou); § 75 (zvláštní způsob doručení); § 246 (přechod dispozic na správce); § 111 (omezení dispozic již od zahájení řízení).
-- *Související předpisy:* § 49–50 o. s. ř. (doručování do vlastních rukou a fikce doručení).
-- *Judikatura:* ustálené pojetí, že hmotněprávní účinky úpadku se odvíjejí od zveřejnění v rejstříku, kdežto doručení do vlastních rukou má význam pro běh lhůt k opravným prostředkům dlužníka a správce.
-
-**4. Subsumpce.** Zvláštní doručení do vlastních rukou dlužníku a správci (§ 138) je splněno (byť u dlužníka fikcí k 1. červenci). Účinky úpadku však dle § 140a odst. 1 nastaly již zveřejněním 10. června; dispoziční oprávnění tak přešlo na správce k tomuto dni (§ 246). Prodej vozidla 20. června je proto úkonem učiněným v rozporu s omezením nakládání s majetkovou podstatou, bez ohledu na pozdější doručení rozhodnutí dlužníku.
-
-**5. Řešení.** Argument dlužníka neobstojí: doručení do vlastních rukou podle § 138 neurčuje okamžik účinků úpadku (ten plyne ze zveřejnění dle § 140a odst. 1), nýbrž slouží zejména k běhu lhůt pro opravné prostředky a k zajištění bezprostředního splnění povinností dlužníka a správce. Prodej vozidla je vůči věřitelům neúčinný (§ 246 a násl.); správce sepíše vozidlo (resp. výtěžek) do podstaty. Procesně: správce ověří datum zveřejnění, vyzve kupujícího k vydání věci/plnění, případně uplatní neúčinnost.
-
-**6. Varianty.** (a) Kdyby šlo o doručení odvolání dlužníka proti rozhodnutí vydanému na věřitelský návrh (§ 141), pak by datum doručení dlužníku do vlastních rukou bylo rozhodné pro běh odvolací lhůty. (b) Kdyby vozidlo koupila osoba v dobré víře za obvyklou cenu, řešila by se ochrana nabytí podle pravidel o neúčinnosti a ochraně třetích osob — výsledek pro podstatu by mohl být odlišný.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Dokud mi rozhodnutí nebylo doručeno, nemohu být vázán." — Neutralizace: účinky úpadku nastávají zveřejněním v rejstříku (§ 140a odst. 1); § 138 řeší jen *způsob* doručení dvěma klíčovým subjektům, nikoli okamžik účinnosti.
-- *Protiargument:* „Věřiteli muselo být doručeno zvlášť." — Neutralizace: vůči věřitelům (třetím osobám) se doručuje vyhláškou v rejstříku; zvláštní doručení do vlastních rukou míří jen na dlužníka a správce.
-- *Slabé místo:* fikce doručení dlužníku může zpozdit běh odvolací lhůty a vyvolat spory o včasnost odvolání; je proto vhodné datum a způsob doručení pečlivě dokladovat.
-
-### H. Praktický závěr
-
-§ 138 zakládá zvláštní doručení rozhodnutí o úpadku *do vlastních rukou* dlužníku a správci (mají bezprostřední povinnosti); věřitelům se doručuje vyhláškou. Doručení neurčuje okamžik účinků úpadku — ten nastává zveřejněním v rejstříku (§ 140a odst. 1) — nýbrž rozbíhá lhůty pro opravné prostředky těchto dvou subjektů.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Odlišit okamžik účinků (zveřejnění v rejstříku) od okamžiku doručení dlužníku/správci.
-- [ ] Zajistit a doložit doručení do vlastních rukou dlužníku a správci (vč. případné fikce).
-- [ ] Vůči věřitelům ověřit doručení vyhláškou v rejstříku (§ 71 a násl.).
-- [ ] Pro běh odvolací lhůty dlužníka (§ 141) vycházet z data doručení do vlastních rukou.
-- [ ] Posoudit úkony dlužníka po zveřejnění z hlediska dispozičních omezení (§ 246).
-
-**Typicky rozhodné důkazy / podklady:** doručenky dlužníku a správci, údaj o čase zveřejnění rozhodnutí v rejstříku, vyhláška podle § 71, doklady o úkonech dlužníka učiněných po zveřejnění.
+Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k § 138. Dřívější neurčitý odkaz na „ustálené pojetí“ nebyl podložen ověřeným plným textem a byl odstraněn. Tím se nevyslovuje závěr o neexistenci relevantní judikatury.
 
 ---
 

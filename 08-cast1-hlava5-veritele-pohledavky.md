@@ -1016,49 +1016,58 @@ Do této revize nebylo zařazeno žádné rozhodnutí jako materiální pramen v
 
 ### § 179 — Sankce za nadhodnocení zajištění
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+#### Znění ustanovení
+
 > (1) Bude-li po přezkoumání postupem podle tohoto zákona přihlášená zajištěná pohledávka zjištěna tak, že věřitel má právo na uspokojení této pohledávky v rozsahu menším než 50 % její výše nebo že má právo na uspokojení ze zajištění v pořadí horším, než uvedl v přihlášce pohledávky, k jeho právu na uspokojení této pohledávky ze zajištění se v insolvenčním řízení nepřihlíží; to neplatí, záviselo-li rozhodnutí insolvenčního soudu o výši zajištěné přihlášené pohledávky na znaleckém posudku nebo na úvaze soudu. Ustanovení § 167 odst. 4 tím není dotčeno. Věřiteli, který takovou pohledávku přihlásil, může insolvenční soud na návrh insolvenčního správce uložit, aby ve prospěch zajištěných věřitelů, kteří přihlásili pohledávku se zajištěním ke stejnému majetku, zaplatil částku, kterou určí se zřetelem ke všem okolnostem uplatnění a přezkoumání práva na uspokojení ze zajištění, nejvýše však částku, o kterou hodnota zajištění uvedená v přihlášce převýšila hodnotu zjištěného zajištění; jde o incidenční spor.
 >
 > (2) Pro účely posouzení, zda jsou splněny podmínky uvedené v odstavci 1, se nepovažuje za uplatněnou v přihlášce ta část práva na uspokojení ze zajištění, kterou vzal věřitel účinně zpět předtím, než nastal účinek, na základě kterého se podle tohoto zákona nepřihlíží k popřené části práva na uspokojení ze zajištění.
+>
 
-### Výklad
+#### Přehled výkladu
 
-Analogická sankce pro **přehnané nárokování zajištění** — *přesah*: pokuta ve prospěch *ostatních zajištěných věřitelů ke stejnému majetku* (nikoli do podstaty).
+§ 179 spojuje s nepřiměřeně uplatněným právem na uspokojení ze zajištění dva odlišné následky: přímo ze zákona se k tomuto právu v insolvenčním řízení nepřihlíží a soud může v samostatném incidenčním sporu uložit peněžité plnění ve prospěch zajištěných věřitelů se zajištěním ke stejnému majetku. První následek se týká zajištění, nikoli bez dalšího existence pohledávky; případný souběh s § 178 je nutno posoudit samostatně.
 
-#### F. Kazuistika
+#### Souvisící ustanovení
 
-**1. Modelová situace.** Věřitel V1 přihlásí pohledávku zajištěnou zástavním právem k nemovitosti dlužníka D, v přihlášce uvede hodnotu zajištění 3 000 000 Kč a první pořadí. Ke stejné nemovitosti je zajištěn i věřitel V2 (pozdější pořadí). Po přezkumu a znaleckém ocenění se zjistí, že V1 má právo na uspokojení ze zajištění jen v rozsahu 1 200 000 Kč (méně než 50 % uplatněné hodnoty) a ve skutečnosti ve druhém pořadí. Důkazy: přihláška s uvedením hodnoty a pořadí zajištění, zástavní smlouvy a výpis z katastru s pořadím, znalecký posudek hodnoty zajištění, popěrný úkon a rozhodnutí v incidenčním sporu.
+§ 7; § 166; § 167 odst. 1 a 4; § 174 odst. 3; § 178; § 180 až 182; § 195; § 196 odst. 2; § 198 a § 199.
 
-**2. Právní otázka.** Jaké jsou důsledky toho, že právo na uspokojení ze zajištění je zjištěno v rozsahu menším než 50 % uplatněné výše nebo v horším pořadí, než věřitel uvedl, a komu připadne případná pokuta?
+#### Souvisící předpisy
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 179 odst. 1 (zjištění práva ze zajištění pod 50 % uplatněné výše nebo v horším pořadí → k právu na uspokojení ze zajištění se nepřihlíží; výjimka při závislosti na znaleckém posudku/úvaze soudu; § 167 odst. 4 nedotčen; pokuta ve prospěch zajištěných věřitelů ke stejnému majetku, nejvýše do přesahu hodnoty zajištění) a odst. 2 (účinné zpětvzetí části práva ze zajištění se do testu nezapočítává).
-- *Související ustanovení téhož zákona:* § 178 (obdobná sankce u nadhodnocené pohledávky, pokuta však do podstaty), § 195 (popření pořadí), § 199 (incidenční spor), § 166–167 (uplatnění a uspokojení zajištění), § 180–182 (vyloučení pasivního věřitele, ručení, zpětvzetí).
-- *Související předpisy:* OZ — zástavní právo a jeho pořadí; o. s. ř. — incidenční spor a dokazování.
-- *Judikatura:* nosný závěr, že o pořadí zajištění rozhoduje doba jeho vzniku/zápisu a že sankce za nadhodnocení zajištění je vyloučena tam, kde výše závisela na znaleckém posudku nebo úvaze soudu.
+Zákon č. 89/2012 Sb., občanský zákoník, zejména úprava jednotlivých zajišťovacích institutů a jejich pořadí. Zákon č. 99/1963 Sb., občanský soudní řád, se v incidenčním sporu použije přiměřeně prostřednictvím § 7 insolvenčního zákona, nestanoví-li insolvenční zákon jinak.
 
-**4. Subsumpce.** V1 uplatnil hodnotu zajištění 3 000 000 Kč v prvním pořadí, zjištěno však jen 1 200 000 Kč (pod 50 %) a druhé pořadí → naplněna obě alternativy hypotézy § 179 odst. 1 → k právu V1 na uspokojení ze zajištění se nepřihlíží (nezávisela-li hodnota na posudku/úvaze soudu). Na návrh správce může soud uložit V1 pokutu nejvýše do přesahu uplatněné hodnoty nad zjištěnou, a to ve prospěch zajištěných ke stejnému majetku (typicky V2).
+#### Z důvodové zprávy
 
-**5. Řešení.** V1 ztrácí postavení zajištěného věřitele (pohledávka se uspokojí jen jako nezajištěná v rozvrhu); pokuta, je-li uložena, připadne ostatním zajištěným ke stejnému majetku, nikoli do podstaty. § 167 odst. 4 zůstává nedotčen. Procesně se pokuta ukládá na návrh správce v incidenčním sporu; V1 se brání tvrzením o závislosti hodnoty na posudku/úvaze soudu nebo o své pasivitě (§ 180).
+Zvláštní část důvodové zprávy k vládnímu návrhu insolvenčního zákona (sněmovní tisk 1120/0, k § 176 až 182, číslovaná i PDF s. 199) řadí § 179 mezi pravidla postihující uplatňování přehnaných pohledávek nebo neopodstatněný pokus o lepší pořadí. Deklarovaným účelem bylo bránit účelovým manipulacím s přihláškami, jimiž by věřitel posiloval svůj vliv na schůzi věřitelů a ve věřitelských orgánech.
 
-**6. Varianty.** (a) Zjistí-li se právo ze zajištění v rozsahu 60 % uplatněné hodnoty a ve správném pořadí, sankce nenastane a V1 zůstává zajištěn v zjištěném rozsahu. (b) Závisela-li hodnota zajištění na znaleckém posudku/úvaze soudu, § 179 se neuplatní.
+#### Literatura
 
-#### G. Protiargumenty a rizika
+Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; je rozhodnutím editora odložena do druhého kola. Nejde o negativní rešeršní závěr.
 
-- *Protiargument V1:* „Sankce za nadhodnocené zajištění by měla mířit do podstaty jako u § 178." — Neutralizace: § 179 záměrně chrání ostatní zajištěné ke stejnému majetku, jejichž pořadí bylo nadhodnocením věřitele zkresleno; proto pokuta připadá jim.
-- *Protiargument:* „Stačí účinně vzít zpět nadhodnocenou část a sankce odpadne." — Neutralizace: zpětvzetí se sice do testu nezapočítává (odst. 2), avšak dle § 182 není záchranou, zhoršil-li věřitel postavení jiných nebo nepřihlašoval v dobré víře.
-- *Slabé místo:* hraniční je posouzení „závislosti na znaleckém posudku nebo úvaze soudu" u hodnoty zajištění a souběh dvou alternativ (výše vs. pořadí), z nichž každá samostatně spouští sankci.
+#### Výklad
 
-#### H. Praktický závěr
+[1] **Dvě alternativy prvního následku.** K právu na uspokojení ze zajištění se nepřihlíží, jestliže je po zákonném přezkoumání zjištěno buď v rozsahu menším než 50 % výše zajištěné přihlášené pohledávky, nebo v horším pořadí, než věřitel uvedl v přihlášce. Horší zjištěné pořadí je samostatnou alternativou; není vázáno na procentní test.
 
-§ 179 přenáší logiku § 178 na zajištění: nadhodnocení rozsahu (pod 50 %) nebo pořadí vede ke ztrátě práva na uspokojení ze zajištění a hrozbě pokuty, která však připadá ostatním zajištěným věřitelům ke stejnému majetku. Hodnotu i pořadí zajištění je proto nutné v přihlášce uvádět střízlivě a doložitelně.
+[2] **Rozsah následku.** § 179 odst. 1 odnímá pro dané insolvenční řízení právo na uspokojení pohledávky ze zajištění. Sám neříká, že se k pohledávce nepřihlíží nebo že se vždy uspokojí jako nezajištěná. Je-li zároveň skutečná výše celé přihlášené pohledávky nižší než 50 % přihlášené částky, může vedle § 179 dopadnout i § 178.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Uvádět hodnotu zajištění i pořadí v přihlášce doložitelně (riziko hranice 50 % a horšího pořadí).
-- [ ] Zkoumat výjimku „závislosti na znaleckém posudku nebo úvaze soudu".
-- [ ] Zohlednit, že pokuta připadá ostatním zajištěným ke stejnému majetku (nikoli do podstaty) a že § 167 odst. 4 zůstává nedotčen.
-- [ ] Spornou část práva ze zajištění včas a účinně vzít zpět (odst. 2), není-li vyloučeno dle § 182.
+[3] **Zákonná výjimka.** Následek nepřihlížení nenastane, záviselo-li rozhodnutí insolvenčního soudu o výši zajištěné přihlášené pohledávky na znaleckém posudku nebo na úvaze soudu. Výjimku nelze zaměňovat s pouhou skutečností, že byl v řízení proveden znalecký důkaz; rozhodná je závislost soudního rozhodnutí o výši pohledávky na posudku nebo soudní úvaze.
 
-**Typicky rozhodné důkazy / podklady:** přihláška s hodnotou a pořadím zajištění, zástavní smlouvy a výpis z katastru s pořadím, znalecký posudek hodnoty zajištění, popěrné úkony a rozhodnutí v incidenčním sporu, doklad o účinném zpětvzetí.
+[4] **Vztah k § 167 odst. 4.** Výslovná věta zákona zachovává použití § 167 odst. 4. Je proto nutno oddělit sankci podle § 179 od pravidla, že část pohledávky převyšující hodnotu zajištění se při uspokojení ze zajištění považuje za nezajištěnou.
+
+[5] **Peněžité plnění.** Druhý následek není automatický. Insolvenční soud o něm rozhoduje jen na návrh insolvenčního správce v incidenčním sporu a při určení částky přihlíží ke všem okolnostem uplatnění a přezkoumání práva. Zákonný strop tvoří rozdíl mezi hodnotou zajištění uvedenou v přihlášce a hodnotou zjištěného zajištění. Příjemci jsou zajištění věřitelé, kteří přihlásili pohledávky se zajištěním ke stejnému majetku; nejde o plnění do majetkové podstaty podle § 178.
+
+[6] **Nevykonávání práv a ručení.** Podle § 180 nelze povinnost zaplatit částku uložit věřiteli, který práva spojená s nezjištěnou pohledávkou nevykonával. Toto pravidlo se vztahuje k peněžité povinnosti, nikoli k prvnímu následku nepřihlížení. § 181 upravuje ručení osob, které přihlášku podepsaly, s tam uvedenými výjimkami.
+
+[7] **Částečné zpětvzetí.** Pro procentní test se nezapočítává část práva na uspokojení ze zajištění účinně vzatá zpět před vznikem zákonného účinku nepřihlížení k popřené části. § 182 však zachovává postup podle § 179 odst. 1, jestliže věřitel na základě takové přihlášky učinil úkon, který zhoršil nebo mohl zhoršit postavení jiného věřitele, anebo přihlášku nepodal v dobré víře. Konkrétní účinky proto závisejí na včasnosti zpětvzetí i na podmínkách § 182.
+
+[8] **Přezkum zajištění a pořadí.** Popření pořadí znamená podle § 195 také popření práva na uspokojení pohledávky ze zajištění. Popře-li věřitel pouze právo na uspokojení ze zajištění nebo jeho pořadí, § 196 odst. 2 vylučuje účinek na pravost, výši nebo pořadí pohledávky samotné.
+
+[9] **Intertemporalita.** § 179 byl součástí původního insolvenčního zákona. Pro starší řízení je nutné ověřit tehdy účinné znění a přechodná ustanovení jednotlivých novel; současné výjimky ani odstavec 2 nelze zpětně předpokládat jen podle znění účinného k 19. 7. 2026.
+
+#### Judikatura
+
+Při této revizi nebylo jako pramen materiálního právního závěru použito žádné soudní rozhodnutí. Tím se nevyslovuje, že relevantní judikatura neexistuje; judikatorní odkazy lze doplnit až po uložení plného nebo reprodukovatelného oficiálního snapshotu a samostatné kontrole skutkového, procesního a intertemporálního kontextu.
 
 ### § 180 — § 182 — Limitace a ručení
 

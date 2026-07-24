@@ -86,59 +86,57 @@ Do tohoto kola nebylo zařazeno rozhodnutí jako přímý pramen materiálního 
 
 ## § 166 — Přihláška zajištěného věřitele
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Zajištění věřitelé uplatňují své pohledávky přihláškou pohledávky, v níž se musí dovolat svého zajištění, uvést okolnosti, které je osvědčují, a připojit listiny, které se toho týkají. To platí i tehdy, jde-li o zajištěné věřitele, kteří mohou pohledávku vůči dlužníku uspokojit pouze z majetku poskytnutého k zajištění, a jde-li o zajištěné věřitele podmíněných pohledávek nebo pohledávek budoucích, k jejichž zajištění byla zastavena věc, právo, pohledávka nebo jiná majetková hodnota nebo zřízeno jiné zajištění uvedené v § 2 písm. g).
+>
+
+### Přehled výkladu
+
+§ 166 stanoví zvláštní požadavky na uplatnění zajištěné pohledávky: věřitel podává přihlášku, dovolá se v ní zajištění, uvede okolnosti, které je osvědčují, a připojí související listiny. Povinnost dopadá také na dvě skupiny výslovně uvedené ve druhé větě. Obsah přihlášky dále konkretizují § 174 insolvenčního zákona a § 8 vyhlášky č. 191/2017 Sb.
+
+### Souvisící ustanovení
+
+- § 2 písm. g) — zákonné vymezení zajištěného věřitele,
+- § 167 — způsob a pořadí uspokojení ze zajištění,
+- § 173 odst. 1 a 3 — lhůta k podání přihlášky a přihlášení podmíněné nebo budoucí pohledávky,
+- § 174 odst. 3 — údaje o uplatnění práva na uspokojení ze zajištění a zákonný následek jejich neuvedení,
+- § 176 a § 177 — formulář přihlášky a její přílohy,
+- § 179 — následek zjištění práva na uspokojení ze zajištění v menším rozsahu nebo horším pořadí,
+- § 195 — popření pořadí včetně popření práva na uspokojení ze zajištění,
+- § 298 — vydání výtěžku zpeněžení zajištěnému věřiteli.
+
+### Souvisící předpisy
+
+Vyhláška č. 191/2017 Sb., zejména § 8 odst. 1 písm. g) a odst. 3 písm. b), konkretizuje údaje formuláře pro různé druhy zajištěných pohledávek a požaduje kopie listin dokládajících údaje uvedené v přihlášce. Hmotněprávní vznik a trvání konkrétního zajištění se posuzují podle předpisu, kterým se daný zajišťovací institut řídí.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona (sněmovní tisk 1120/0, zvláštní část „K § 165–172“, číslovaná s. 197, PDF s. 198) řadí zajištěné věřitele mezi zvláštní skupinu přihláškových věřitelů. V navazující části „K § 173 až 175“ (číslovaná s. 198, PDF s. 199) výslovně uvádí, že z § 174 odst. 3 a § 183 návrhu plyne povinnost zajištěných věřitelů přihlásit pohledávku, jinak riskují, že ze zajištění nebudou uspokojeni. Jde o historické vysvětlení původní koncepce; rozhodné je aktuální znění zákona a prováděcí vyhlášky.
+
+### Literatura
+
+Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; je odložena do druhého kola.
 
 ### Výklad
 
-**Zajištění věřitelé musí výslovně uplatnit zajištění** v přihlášce — *nestačí* připojit listinu o zástavě. **Aktivně** se musí dovolat svého zajištění, **uvést okolnosti** (důvod, dobu vzniku) a **připojit listiny**.
+[1] **Přihláška je způsobem uplatnění.** Zajištěný věřitel uplatňuje pohledávku přihláškou a v jejím rámci se dovolává práva na uspokojení ze zajištění. § 166 proto spojuje uplatnění pohledávky a zajištění v jediném procesním podání, avšak vyžaduje, aby zajištění bylo v přihlášce identifikováno a doloženo.
 
-> *Sankce za opomenutí*: § 174 odst. 3 — má se za to, že právo na uspokojení ze zajištění nebylo uplatněno. Pohledávka se posuzuje jako *nezajištěná*.
+[2] **Tři složky dovolání zajištění.** Přihláška musí obsahovat projev, že věřitel zajištění uplatňuje, popis okolností osvědčujících zajištění a příslušné listiny. § 174 odst. 3 k tomu vyžaduje uvedení druhu zajištění a doby jeho vzniku; § 8 vyhlášky č. 191/2017 Sb. požadavky dále rozlišuje podle toho, zda zajištění tvoří majetek podstaty, majetek jiné osoby, ručení, nebo majetek, z něhož lze pohledávku uspokojit výlučně.
 
-**Aplikace na speciální zajištěné věřitele:**
-- *věřitelé, kteří mohou uspokojit pohledávku jen z poskytnutého zajištění* (typicky **nepřípustný regres**),
-- *věřitelé podmíněných nebo budoucích pohledávek* — tito uplatňují přihláškou *předem*, i když pohledávka ještě nevznikla.
+[3] **Zákonný následek neuvedení.** Jestliže věřitel v přihlášce neuvede, že uplatňuje právo na uspokojení ze zajištění, § 174 odst. 3 stanoví, že se má za to, že takové právo uplatněno nebylo. Z tohoto pravidla samotného nelze bez dalšího řešit každou otázku vady přihlášky, jejího doplnění nebo změny; ta se musí posoudit podle konkrétního obsahu podání, okamžiku procesního úkonu a navazujících ustanovení o přihláškách a jejich přezkumu.
 
-### Vazby
+[4] **Věřitel uspokojitelný jen ze zajištění.** Povinnost přihlásit pohledávku a dovolat se zajištění platí i pro věřitele, který může pohledávku vůči dlužníku uspokojit pouze z majetku poskytnutého k zajištění. Vyhláška pro tuto skupinu požaduje údaj o osobním dlužníku odlišném od insolvenčního dlužníka a identifikaci předmětu a data zřízení zajištění.
 
-- **§ 2 písm. g)** — taxativní výčet zajišťovacích titulů.
-- **§ 167** — uspokojení zajištěných.
-- **§ 174 odst. 3** — sankce za neuplatnění zajištění.
+[5] **Podmíněné a budoucí pohledávky.** Druhá věta § 166 výslovně zahrnuje zajištěné věřitele podmíněných a budoucích pohledávek. Jejich možnost přihlášení potvrzuje § 173 odst. 3; předmětem zajištění může být věc, právo, pohledávka, jiná majetková hodnota nebo jiné zajištění podle § 2 písm. g).
 
-### F. Kazuistika
+[6] **Rozsah § 166 a intertemporalita.** § 166 upravuje způsob uplatnění, nikoli sám hmotněprávní vznik zajištění, jeho pořadí ani výši výtěžku. Tyto otázky se posuzují podle příslušného hmotného práva a navazujících ustanovení insolvenčního zákona. U starších řízení a úkonů je nutné ověřit rozhodné znění § 166, § 174 i prováděcí úpravy podle přechodných ustanovení příslušných novel; tento komentář vychází ze stavu k 19. 7. 2026.
 
-**1. Modelová situace.** Věřitel V má vůči dlužníku D pohledávku 5 mil. Kč zajištěnou zástavním právem k nemovitosti zapsaným v katastru. V podá včas přihlášku, v kolonce „důvod vzniku" popíše úvěr a připojí zástavní smlouvu, avšak v přihlášce výslovně neuvede, že uplatňuje právo na uspokojení ze zajištění, ani neoznačí druh a dobu vzniku zajištění. Důkazy: přihláška, zástavní smlouva, výpis z katastru, formulář přihlášky.
+### Judikatura
 
-**2. Právní otázka.** Postačí k uplatnění zajištění připojení zástavní listiny, nebo musí věřitel zajištění výslovně „dovolat" v přihlášce, a jaké jsou následky opomenutí?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 166 — zajištěný věřitel se musí v přihlášce dovolat zajištění, uvést osvědčující okolnosti a připojit listiny; totéž pro pohledávky podmíněné/budoucí a pro věřitele s omezením uspokojení jen ze zajištění.
-- *Související ustanovení téhož zákona:* § 174 odst. 3 (výslovné uvedení uplatnění ze zajištění + druh a doba vzniku; fikce neuplatnění), § 167 (mechanismus uspokojení), § 2 písm. g) (taxativní výčet zajišťovacích titulů).
-- *Související předpisy:* OZ — zástavní právo (§ 1309 a násl.), katastrální předpisy (zápis a pořadí).
-- *Judikatura:* nosný závěr, že právo na uspokojení ze zajištění musí být v přihlášce výslovně uplatněno; samotné doložení zástavní listiny bez projevu vůle nestačí.
-
-**4. Subsumpce.** V doložil listinu, ale neprojevil vůli uplatnit zajištění a neoznačil druh/dobu vzniku → nesplnil aktivní povinnost dle § 166 ve spojení s § 174 odst. 3 → nastupuje fikce, že právo na uspokojení ze zajištění nebylo uplatněno.
-
-**5. Řešení.** Pohledávka V se v IR posoudí jako *nezajištěná* (uspokojení jen v rozvrhu nezajištěných). Vada je v zásadě neodstranitelná po uplynutí lhůty k přihláškám — doplnění projevu vůle po lhůtě již zajištění „neobnoví". Procesně: V by musel uplatnění ze zajištění učinit nejpozději ve lhůtě dle § 173 odst. 1.
-
-**6. Varianty.** (a) Kdyby V v přihlášce zaškrtl uplatnění ze zajištění a označil druh + dobu vzniku, byl by uspokojen prioritně z výtěžku zástavy (§ 167, § 298). (b) U pohledávky budoucí (např. z budoucí kauce) by V přihlašoval předem jako podmíněnou/budoucí, opět s výslovným dovoláním zajištění.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Zástavní smlouva v příloze dostatečně osvědčuje vůli uspokojit se ze zajištění." — Neutralizace: zákon vyžaduje výslovný projev v samotné přihlášce (kolonka formuláře); listina je důkaz, nikoli projev vůle.
-- *Protiargument:* „Vadu lze zhojit výzvou správce dle § 188 odst. 2." — Neutralizace: § 188 řeší vady a neúplnost přihlášky, nikoli absenci hmotněprávního uplatnění zajištění ve lhůtě; chybějící dovolání zajištění není pouhou opravitelnou vadou.
-- *Slabé místo:* u podmíněných/budoucích pohledávek bývá sporné osvědčení „okolností" zajištění před vznikem pohledávky — riziko popření pořadí (§ 195).
-
-### H. Praktický závěr
-
-Pro zajištěného věřitele platí zásada „kdo mlčí, nemá zajištění". Dovolání zajištění je samostatný, časově prekludovaný úkon v přihlášce, nikoli automatický důsledek doložení zástavy.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] V přihlášce výslovně uvést, že se uplatňuje uspokojení ze zajištění.
-- [ ] Označit druh zajištění a dobu jeho vzniku (rozhodné pro pořadí dle § 167 odst. 1).
-- [ ] Připojit listiny osvědčující zajištění (zástavní smlouva, výpis z katastru/RoZ).
-- [ ] U podmíněných/budoucích pohledávek přihlásit předem a osvědčit okolnosti zajištění.
-
-**Typicky rozhodné důkazy / podklady:** vyplněný formulář přihlášky s uplatněním zajištění, zástavní/zajišťovací smlouva, výpis z katastru či Rejstříku zástav, doklad o době vzniku zajištění.
+Do tohoto kola nebylo zařazeno rozhodnutí jako přímý pramen materiálního výkladu § 166. Původní text uváděl pouze neurčitý „nosný závěr“ bez soudu, data, spisové značky a ověřeného plného textu; tento odkaz i kategorické závěry o automatické neopravitelnosti byly proto odstraněny.
 
 ---
 

@@ -888,48 +888,56 @@ V tomto kole nebylo použito žádné soudní rozhodnutí. Kandidátní judikato
 
 ## § 145 — Odvolání proti zamítnutí
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Proti rozhodnutí o zamítnutí insolvenčního návrhu se může odvolat pouze insolvenční navrhovatel.
+>
+
+### Přehled výkladu
+
+§ 145 zvláštně omezuje okruh osob oprávněných napadnout zamítnutí insolvenčního návrhu: odvolatelem může být jen insolvenční navrhovatel. Rozhodující je procesní postavení, nikoli to, zda jde o věřitele nebo dlužníka. Jiný věřitel ani dlužník, který návrh nepodal, toto oprávnění nemají; dlužník, který podal vlastní insolvenční návrh, naopak insolvenčním navrhovatelem je.
+
+### Souvisící ustanovení
+
+- **§ 7** — subsidiární použití občanského soudního řádu.
+- **§ 14 odst. 1 a § 107** — účastníci řízení a další insolvenční navrhovatel.
+- **§ 142 až 144** — druhy jiných rozhodnutí o insolvenčním návrhu a důvody zamítnutí.
+- **§ 146** — zánik účinků a zákaz novot v odvolacím řízení.
+- **§ 147** — odpovědnost za škodu nebo jinou újmu spojenou s neúspěšným insolvenčním návrhem.
+
+### Souvisící předpisy
+
+- **Zákon č. 99/1963 Sb., občanský soudní řád, § 201 a § 218 písm. b)** — obecná úprava odvolání a odmítnutí odvolání podaného neoprávněnou osobou; použije se subsidiárně prostřednictvím § 7 insolvenčního zákona.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva zařadila § 145 do souboru ustanovení o jiných rozhodnutích o insolvenčním návrhu než rozhodnutí o úpadku. Samostatný důvod omezení odvolacího oprávnění v § 145 blíže nerozvádí. Jde proto jen o historické vysvětlení systematického zařazení, nikoli o pramen dalších podmínek odvolání. (Sněmovní tisk 1120/0, zvláštní část „K § 136 až 147“, číslovaná s. 192, PDF s. 193.)
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tato poznámka nepředstavuje negativní rešerši.
 
 ### Výklad
 
-*Symetricky*: jen navrhovatel — dlužníkovi se vyhovuje, věřitel nese skutkové břemeno.
+[1] **Předmět pravidla.** § 145 dopadá pouze na rozhodnutí, kterým insolvenční soud insolvenční návrh zamítl. Nelze jej bez dalšího vztáhnout na odmítnutí návrhu nebo zastavení řízení, jejichž odvolací režim upravují jiná ustanovení.
 
-### F. Kazuistika
+[2] **Výlučný okruh osob.** Slovo „pouze“ vylučuje odvolání osoby, která není insolvenčním navrhovatelem. Samotné postavení účastníka řízení, přihlášeného věřitele nebo osoby ekonomicky dotčené výsledkem nestačí.
 
-**1. Modelová situace.** Věřitel A podá insolvenční návrh proti dlužníku; soud návrh zamítne pro neosvědčení úpadku (§ 143). Proti zamítnutí chce podat odvolání jednak sám navrhovatel A, jednak jiný věřitel B, který se cítí zamítnutím dotčen (přihlásil by pohledávku), a rovněž dlužník, který chce v odůvodnění napadnout dílčí závěry soudu. Důkazy: insolvenční návrh, usnesení o zamítnutí, doručenky, projevy odvolání jednotlivých subjektů.
+[3] **Dlužník jako navrhovatel.** Zákon neomezuje § 145 jen na věřitelský návrh. Byl-li zamítnut vlastní insolvenční návrh dlužníka, je dlužník insolvenčním navrhovatelem a osobní omezení stanovené § 145 splňuje. Původní kategorická teze, že dlužník odvolání proti zamítnutí nikdy nemá, byla proto nesprávná.
 
-**2. Právní otázka.** Kdo je oprávněn podat odvolání proti rozhodnutí o zamítnutí insolvenčního návrhu?
+[4] **Více navrhovatelů.** Další návrh podaný před rozhodnutím o úpadku se za podmínek § 107 odst. 1 považuje za přistoupení k řízení a jeho podatel za dalšího insolvenčního navrhovatele. Zvláštní situaci návrhu došlého po vydání jiného rozhodnutí, avšak před jeho právní mocí, řeší § 107 odst. 4, včetně doručení rozhodnutí a běhu odvolací lhůty. Nestačí tedy mechanicky zkoumat jen jméno původního navrhovatele.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 145 — proti rozhodnutí o zamítnutí insolvenčního návrhu se může odvolat *pouze insolvenční navrhovatel*.
-- *Související ustanovení téhož zákona:* § 143 (zamítnutí návrhu); § 141 (odvolání proti rozhodnutí o úpadku — zrcadlově jen dlužník); § 146 (zánik účinků a koncentrace pro odvolání); § 142 (formy negativních rozhodnutí).
-- *Související předpisy:* § 201, § 218 písm. b) o. s. ř. (subjektivní přípustnost odvolání — odvolání osoby, která k němu není oprávněna, se odmítá).
-- *Judikatura:* obecné pojetí subjektivní legitimace — odvolání podané osobou bez oprávnění se odmítá; v insolvenci je okruh oprávněných u zamítnutí omezen na navrhovatele.
+[5] **Procesní následek.** Odvolání podané osobou, která není insolvenčním navrhovatelem, odvolací soud odmítne podle § 218 písm. b) o. s. ř. ve spojení s § 7 insolvenčního zákona. § 145 vymezuje osobní oprávnění; ostatní předpoklady odvolání se posuzují podle insolvenčního zákona a subsidiárně podle občanského soudního řádu.
 
-**4. Subsumpce.** Odvolání A (navrhovatele) je *přípustné* — A je výslovně oprávněn (§ 145). Odvolání B (jiného věřitele, který nebyl navrhovatelem) je *nepřípustné* — § 145 přiznává odvolání jen navrhovateli. Odvolání dlužníka je rovněž *nepřípustné* — dlužníku bylo zamítnutím vyhověno, oprávnění k odvolání nemá (a contrario k § 141, kde u úpadku je odvolatelem naopak jen dlužník).
+[6] **Rozsah skutkového přezkumu.** Podle § 146 odst. 2 se v řízení o odvolání proti zamítnutí nepřihlíží ke skutečnostem, které nastaly nebo vznikly po vydání rozhodnutí soudu prvního stupně. Jde o jiné pravidlo než osobní omezení v § 145 a obě podmínky je třeba posoudit odděleně.
 
-**5. Řešení.** Soud odvolání A projedná; odvolání B a dlužníka *odmítne* pro nedostatek subjektivní legitimace (§ 218 písm. b) o. s. ř. ve spojení s § 145). Věřitel B, který chce uplatnit pohledávku, tak může učinit jen tím, že sám podá *vlastní* insolvenční návrh, popř. přistoupí do dosud běžícího řízení, nikoli odvoláním proti cizímu zamítnutí. Procesně: prověřit u každého odvolatele, zda je navrhovatelem.
+[7] **Intertemporalita.** Komentář vykládá znění účinné k 19. 7. 2026. Při starších řízeních je nutné ověřit tehdy účinné znění § 145 i navazujících ustanovení, zejména § 107 a § 146, a procesní pravidla občanského soudního řádu.
 
-**6. Varianty.** (a) Šlo-li by o rozhodnutí o *úpadku* (nikoli o zamítnutí), platilo by zrcadlové pravidlo § 141 — odvolat by se mohl jen dlužník. (b) Kdyby B byl spolunavrhovatelem (podal návrh společně s A), byl by též insolvenčním navrhovatelem a odvolání by mu příslušelo.
+### Judikatura
 
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Každý dotčený věřitel má právo se proti zamítnutí odvolat." — Neutralizace: § 145 omezuje legitimaci výlučně na insolvenčního navrhovatele; jiný věřitel musí podat vlastní návrh, nikoli odvolání.
-- *Protiargument:* „Dlužník se chce odvolat kvůli odůvodnění." — Neutralizace: dlužníku bylo zamítnutím vyhověno (není osobou, jíž bylo rozhodnutím ublíženo); odvolání proti výroku, který je v jeho prospěch, nemá k dispozici.
-- *Slabé místo:* úzká legitimace může věřitele B nutit k podání samostatného návrhu se všemi náklady a riziky (vč. odpovědnosti dle § 147); odlišení spolunavrhovatele od „jiného věřitele" je proto významné.
-
-### H. Praktický závěr
-
-Proti zamítnutí insolvenčního návrhu je legitimován k odvolání *pouze insolvenční navrhovatel* (§ 145) — zrcadlově k § 141, kde proti rozhodnutí o úpadku je oprávněn jen dlužník. Jiní věřitelé ani dlužník odvolání proti zamítnutí nemají; věřitel své právo prosadí vlastním návrhem.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] U každého odvolatele ověřit, zda je insolvenčním navrhovatelem (popř. spolunavrhovatelem).
-- [ ] Odvolání jiného věřitele či dlužníka proti zamítnutí odmítnout pro nedostatek legitimace.
-- [ ] Věřitele, který není navrhovatelem, odkázat na podání vlastního insolvenčního návrhu.
-- [ ] Odlišit režim od odvolání proti rozhodnutí o úpadku (§ 141 — jen dlužník).
-- [ ] Zohlednit koncentraci a zánik účinků dle § 146.
-
-**Typicky rozhodné důkazy / podklady:** insolvenční návrh (identifikace navrhovatele/spolunavrhovatelů), usnesení o zamítnutí a doručenky, projevy odvolání jednotlivých subjektů.
+V tomto kole nebylo použito žádné soudní rozhodnutí. Místní kandidátní soupis neobsahoval rozhodnutí přiřazené k § 145 a původní text žádné konkrétní rozhodnutí neoznačil; nejde o tvrzení, že relevantní judikatura neexistuje.
 
 ---
 

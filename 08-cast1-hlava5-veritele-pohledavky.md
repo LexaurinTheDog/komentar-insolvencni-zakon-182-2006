@@ -28,76 +28,59 @@ Pochopení této hlavy je *bezpodmínečně nutné* — zejména **kategorizace 
 
 ## § 165 — Způsoby uspokojení pohledávek
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Věřitelé, kteří své pohledávky uplatňují podáním přihlášky, se uspokojují v závislosti na způsobu řešení úpadku, a to rozvrhem při konkursu, plněním reorganizačního plánu při reorganizaci nebo plněním při oddlužení, nestanoví-li zákon jinak.
 > (2) Zákon může stanovit, že podle odstavce 1 se uspokojují i někteří věřitelé, kteří nepodávají přihlášku pohledávky, splňují-li zákonem stanovené podmínky.
 > (3) Jinak než postupem podle odstavce 1 lze v insolvenčním řízení uspokojit z majetkové podstaty pouze pohledávky, o kterých tak stanoví tento zákon; uspokojení jiných pohledávek je vyloučeno.
 > (4) Není-li dále stanoveno jinak, plnění poskytnuté věřiteli po rozhodnutí o úpadku postupem podle tohoto zákona k uspokojení jeho pohledávky se započte nejprve na jistinu, pak na úroky, poté na úroky z prodlení a nakonec na náklady spojené s uplatněním pohledávky.
+>
 
-### Výklad — **ORGANIZAČNÍ PRAVIDLO**
+### Přehled výkladu
 
-#### Tři způsoby uspokojení (odst. 1)
-| Způsob řešení úpadku | Mechanismus uspokojení |
-|---|---|
-| **Konkurs** | *rozvrh* (§ 305 a násl.) — proporční rozdělení výtěžku zpeněžení |
-| **Reorganizace** | *plnění reorganizačního plánu* (§ 354 a násl.) |
-| **Oddlužení** | *plnění oddlužení* (§ 406 — § 415) |
+§ 165 vymezuje uzavřený systém zákonných způsobů uspokojení z majetkové podstaty. U přihlášených pohledávek váže základní způsob uspokojení na zvolený způsob řešení úpadku; současně ponechává prostor výjimkám, které musí mít oporu přímo v insolvenčním zákoně. Odstavec 4 stanoví zvláštní pořadí, v němž se po rozhodnutí o úpadku započítává plnění poskytnuté postupem podle insolvenčního zákona.
 
-#### Výjimečné uspokojení bez přihlášky (odst. 2)
-*Některé pohledávky se uspokojují* i bez přihlášky, pokud zákon stanoví — typicky **pohledávky za podstatou** (§ 168), **postavené na roveň** (§ 169) — uplatňují se písemně vůči osobě s dispozičními oprávněními (§ 203).
+### Souvisící ustanovení
 
-#### Numerus clausus (odst. 3)
-**Žádné jiné uspokojení** než dle § 165 odst. 1 + výjimek. *Vyloučení* analogického postupu — striktní formalismus.
+- § 166 a § 167 — uplatnění a uspokojení zajištěných pohledávek,
+- § 168 a § 169 — pohledávky za majetkovou podstatou a pohledávky jim postavené na roveň,
+- § 170 až § 172 — pohledávky vyloučené, úročení zajištěných pohledávek a podřízené pohledávky,
+- § 203 a § 203a — jiné uplatnění pohledávek a spor o jejich pořadí,
+- § 298, § 301 a § 305 až 307 — uspokojení zajištěných věřitelů, částečný rozvrh a rozvrh v konkursu,
+- § 348 až 356 — účinky a provádění reorganizačního plánu,
+- § 398 a § 406 až 412a — způsoby oddlužení, jejich schválení a plnění.
 
-#### Pořadí započtení plnění (odst. 4)
-*Speciálka oproti § 1932 OZ* — v insolvenci se *plnění započítá*:
-1. **jistina**,
-2. *úroky*,
-3. *úroky z prodlení*,
-4. *náklady*.
+### Souvisící předpisy
 
-> *Praxe*: pro věřitele výhodné — *jistinu* dostávají dříve než v civilním běhu (kde se nejdřív kryjí náklady).
+Základní režim je obsažen přímo v insolvenčním zákoně. Obecná soukromoprávní pravidla o započítávání plnění se použijí jen potud, pokud je pro plnění spadající pod § 165 odst. 4 nevytlačuje zvláštní zákonné pořadí.
 
-### Vazby
+### Z důvodové zprávy
 
-- **§ 168 — § 172** — kategorie pohledávek.
-- **§ 305** — rozvrh v konkursu.
-- **OZ § 1932** — pořadí započtení v civilním běhu (zde odlišné).
+Vládní návrh insolvenčního zákona (sněmovní tisk 1120/0, zvláštní část „K § 165–172“, číslované s. 196–197, PDF s. 197–198) vysvětluje soustředění pravidel o věřitelích a jejich základní členění. K § 165 řadí především věřitele, kteří podávají přihlášku nebo na něž se tak hledí, a odlišuje od nich věřitele pohledávek za majetkovou podstatou a pohledávek jim postavených na roveň. Důvodová zpráva je historickou interpretační pomůckou; pro dnešní rozsah jednotlivých kategorií je rozhodné aktuální znění zákona.
 
-### F. Kazuistika
+### Literatura
 
-**1. Modelová situace.** Banka B poskytla dlužníku D (s. r. o.) provozní úvěr. Po prohlášení konkursu na D doručí B správci výzvu, aby jí byla část výtěžku zpeněžení zboží vyplacena „mimo rozvrh" hned, protože B prý nemá čas čekat na konečný rozvrh. Správce odmítne. Důkazy: přihláška B, rozhodnutí o úpadku, rozhodnutí o způsobu řešení úpadku (konkurs), soupis a výsledky zpeněžení.
+Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; je odložena do druhého kola.
 
-**2. Právní otázka.** Lze nezajištěného přihlášeného věřitele v konkursu uspokojit jinak než rozvrhem (§ 305 a násl.), tj. průběžnou ad hoc výplatou z výtěžku?
+### Výklad
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 165 odst. 1 a 3 — uspokojení přihlášených věřitelů jen rozvrhem (konkurs), plněním plánu (reorganizace) nebo plněním oddlužení; jiné uspokojení z podstaty je vyloučeno (numerus clausus).
-- *Související ustanovení téhož zákona:* § 168 a § 169 (pohledávky hrazené průběžně mimo rozvrh — výjimka dle odst. 2), § 305 (rozvrh v konkursu), § 298–299 (samostatný režim zajištěných z výtěžku zástavy).
-- *Související předpisy:* § 1932 OZ — odlišné pořadí započtení v civilním běhu (zde derogováno odst. 4).
-- *Judikatura:* nosný závěr NS, že mimo zákonem vymezené výjimky nelze běžného přihlášeného věřitele uspokojit jinak než rozvrhem; ad hoc výplaty jsou neúčinné a zakládají odpovědnost správce.
+[1] **Vazba na způsob řešení úpadku.** Odstavec 1 přiřazuje přihlášeným věřitelům základní distribuční mechanismus: rozvrh v konkursu, plnění reorganizačního plánu při reorganizaci a plnění při oddlužení. Ustanovení samo neurčuje výši uspokojení ani pořadí konkrétní pohledávky; ty plynou z dalších ustanovení a z výsledku daného způsobu řešení úpadku.
 
-**4. Subsumpce.** B je nezajištěný přihlášený věřitel → spadá pod odst. 1 (rozvrh). Nejde o pohledávku za podstatou (§ 168) ani postavenou na roveň (§ 169), tedy výjimka odst. 2 se neuplatní. Odst. 3 výslovně vylučuje jiný způsob uspokojení.
+[2] **Výjimky musí stanovit zákon.** Dovětek „nestanoví-li zákon jinak“ a odstavce 2 a 3 brání vytvoření dalšího způsobu uspokojení pouhou dohodou nebo analogií. Neznamenají však, že každé plnění před konečným rozvrhem je zakázáno: zákon upravuje zejména uspokojení zajištěných věřitelů z výtěžku zajištění, uspokojování pohledávek podle § 168 a § 169 a částečný rozvrh podle § 301.
 
-**5. Řešení.** Správce musí výzvu odmítnout; B se uspokojí až rozvrhem v poměru s ostatními nezajištěnými. Předčasná výplata by byla protiprávní a vymahatelná zpět (bezdůvodné obohacení, odpovědnost správce dle § 37). Procesně: B čeká na konečnou zprávu a rozvrhové usnesení.
+[3] **Věřitel bez přihlášky.** Odstavec 2 je odkazovací normou, nikoli samostatným titulem k výplatě. U pohledávek za majetkovou podstatou a pohledávek jim postavených na roveň stanoví způsob uplatnění § 203; samotné časové zařazení vzniku pohledávky nestačí, vždy musí být naplněna konkrétní skutková podstata § 168 nebo § 169.
 
-**6. Varianty.** (a) Kdyby B byla zajištěným věřitelem ke zpeněženému zboží, uspokojila by se ze samostatného výtěžku zástavy (§ 167, § 298) ještě před rozvrhem nezajištěných. (b) Kdyby šlo o pohledávku dodavatele za plnění poskytnuté po rozhodnutí o úpadku, šlo by o pohledávku za podstatou (§ 168 odst. 2) hrazenou průběžně, nikoli rozvrhem.
+[4] **Uzavření systému.** Odstavec 3 vylučuje uspokojení z majetkové podstaty, pro které insolvenční zákon neposkytuje oporu. Před výplatou je proto třeba určit nejen existenci pohledávky, ale také její zákonnou kategorii, způsob uplatnění a ustanovení dovolující její uspokojení v dané fázi řízení.
 
-### G. Protiargumenty a rizika
+[5] **Pořadí započtení plnění.** Odstavec 4 se použije na plnění poskytnuté po rozhodnutí o úpadku postupem podle insolvenčního zákona, není-li dále stanoveno jinak. Zákonné pořadí je: jistina, úroky, úroky z prodlení a náklady spojené s uplatněním pohledávky. Text nelze bez dalšího rozšiřovat na plnění mimo vymezený časový a procesní rámec.
 
-- *Protiargument:* „Likvidita umožňuje dílčí výplatu, věřitel by neměl čekat." — Neutralizace: § 165 odst. 3 staví numerus clausus; dílčí rozvrh je možný jen institutem částečného rozvrhu (§ 301), nikoli libovolnou ad hoc platbou.
-- *Protiargument:* „Odst. 4 (pořadí započtení) je dispozitivní, lze dohodnout jinak." — Neutralizace: jde o kogentní speciálku vůči § 1932 OZ chránící systém uspokojení; smluvní odchylka mezi věřitelem a dlužníkem ji nemůže obejít na úkor ostatních.
-- *Slabé místo:* hranice mezi „pohledávkou za podstatou" a běžnou přihlášenou není u přechodových smluv vždy ostrá — vyžaduje pečlivé časové zařazení vzniku pohledávky (před/po rozhodnutí o úpadku).
+[6] **Intertemporalita.** Pro řízení vedená podle starší právní úpravy je nutné ověřit znění § 165 a souvisejících ustanovení rozhodné podle přechodných ustanovení příslušné novely. Aktuální komentář vychází ze znění účinného k 19. 7. 2026.
 
-### H. Praktický závěr
+### Judikatura
 
-Ustanovení je organizační „rozcestník": určuje, kterým kanálem se věřitel dostane k penězům, a uzavírá systém proti improvizovaným výplatám. Pro praxi je klíčové odst. 4 (jistina se hradí jako první — výhoda věřitele oproti civilnímu běhu).
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Určit způsob řešení úpadku (konkurs/reorganizace/oddlužení) → odpovídající kanál uspokojení.
-- [ ] Ověřit, zda pohledávka nespadá pod výjimku odst. 2 (§ 168, § 169) hrazenou mimo rozvrh.
-- [ ] U započtení plnění aplikovat pořadí jistina → úroky → úroky z prodlení → náklady (odst. 4).
-- [ ] Vyloučit jakoukoli ad hoc výplatu mimo rozvrh (odst. 3).
-
-**Typicky rozhodné důkazy / podklady:** rozhodnutí o úpadku a o způsobu řešení, přihláška, soupis a výsledky zpeněžení, konečná zpráva a rozvrhové usnesení, dokladování okamžiku vzniku pohledávky.
+Do tohoto kola nebylo zařazeno rozhodnutí jako přímý pramen materiálního výkladu § 165. Původní obecný odkaz na údajný závěr Nejvyššího soudu o neúčinnosti každé výplaty mimo rozvrh a automatické odpovědnosti správce byl odstraněn, protože neobsahoval identifikaci rozhodnutí ani ověřený plný text; takové následky nelze dovodit jen z § 165 bez posouzení konkrétního zákonného režimu a skutkového kontextu.
 
 ---
 

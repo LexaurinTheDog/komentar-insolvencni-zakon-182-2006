@@ -1069,55 +1069,56 @@ Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; je rozhodn
 
 Při této revizi nebylo jako pramen materiálního právního závěru použito žádné soudní rozhodnutí. Tím se nevyslovuje, že relevantní judikatura neexistuje; judikatorní odkazy lze doplnit až po uložení plného nebo reprodukovatelného oficiálního snapshotu a samostatné kontrole skutkového, procesního a intertemporálního kontextu.
 
-### § 180 — § 182 — Limitace a ručení
+### § 180 — Výjimka pro pasivního věřitele
 
-- **§ 180** — *věřitel, který nevykonával práva spojená s pohledávkou*, nemá povinnost zaplatit pokutu. *Logika*: pasivního věřitele nelze sankcionovat.
-- **§ 181** — *podepsané osoby ručí* za pokutu (i statutární orgány PO); *výjimka*: stát, ČNB.
-- **§ 182** — *zpětvzetí přihlášky není záchranou*, pokud věřitel mezitím učinil úkony zhoršující postavení jiných věřitelů nebo nepřihlašoval v dobré víře.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-### Vazby
+#### Znění ustanovení
 
-- **§ 178a/198** — popírací spor.
+> Povinnost zaplatit částku podle § 178 nebo § 179 nelze uložit věřiteli, který práva spojená s nezjištěnou pohledávkou v průběhu řízení nevykonával.
+>
 
-### Praktická poznámka
+#### Přehled výkladu
 
-V praxi je § 178 jeden z **nejvíce odstrašujících** institutů. Věřitelé i jejich poradci *velmi pečlivě* kalkulují, kolik přesně přihlásit — *raději méně, ale jistě*, než nadhodnotit a *přijít o vše*.
+§ 180 chrání před uložením peněžité povinnosti podle § 178 nebo § 179 věřitele, který v průběhu insolvenčního řízení nevykonával práva spojená s nezjištěnou pohledávkou. Výjimka se týká jen povinnosti zaplatit částku; neruší zákonný následek, že se za podmínek § 178 nebo § 179 k pohledávce či k právu na uspokojení ze zajištění nepřihlíží.
 
-### F. Kazuistika
+#### Souvisící ustanovení
 
-**1. Modelová situace.** Věřitel V přihlásí vůči dlužníku D pohledávku 1 000 000 Kč (jistina 700 000 Kč + sporné smluvní pokuty a úroky 300 000 Kč). Správce pohledávku popře co do 650 000 Kč; v incidenčním sporu se pravomocně zjistí jen 400 000 Kč (40 % přihlášené částky). Část pohledávky 100 000 Kč vzal V účinně zpět ještě před účinkem popření. Současně V přihlásil zajištění k nemovitosti v hodnotě dle přihlášky 900 000 Kč, soud však zjistí hodnotu zajištění 300 000 Kč. Důkazy: přihláška a vyčíslení, popěrný úkon, rozhodnutí v incidenčním sporu, znalecký posudek hodnoty zajištění, doklad o zpětvzetí části.
+§ 10 písm. e); § 49 až 53; § 178; § 179; § 181; § 182; § 192 až 196; § 198 a § 199.
 
-**2. Právní otázka.** Jaké jsou důsledky toho, že zjištěná výše pohledávky činí méně než 50 % přihlášené částky, jak se započítá účinné zpětvzetí části a kdy lze uložit pokutu za nadhodnocení pohledávky i zajištění?
+#### Souvisící předpisy
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 178 odst. 1 (zjištění pod 50 % → nepřihlíží se ani ke zjištěné části, pokuta až do výše nadhodnocení; výjimka při závislosti na znaleckém posudku/úvaze soudu) a odst. 2 (účinné zpětvzetí se do testu nezapočítává); § 179 (obdobná sankce u nadhodnoceného zajištění ve prospěch ostatních zajištěných); § 180 (pasivní věřitel pokutu neplatí); § 181 (ručení podepsaných osob, výjimka stát/ČNB); § 182 (zpětvzetí není záchranou při zhoršení postavení jiných věřitelů / absenci dobré víry).
-- *Související ustanovení téhož zákona:* § 198–199 (popírací incidenční spory), § 192–196 (popírání), § 167 odst. 4 (nedotčenost úpravy zajištění), § 175–176 (vyčíslení).
-- *Související předpisy:* o. s. ř. (incidenční spor, dokazování).
-- *Judikatura:* nosný závěr, že test 50 % se počítá z části, k níž se přihlíží (po odečtu účinného zpětvzetí), a že sankce je vyloučena tam, kde výše závisela na znaleckém posudku nebo úvaze soudu.
+Zákon č. 99/1963 Sb., občanský soudní řád, se v incidenčním sporu o uložení peněžité povinnosti použije přiměřeně prostřednictvím § 7 insolvenčního zákona, nestanoví-li insolvenční zákon jinak.
 
-**4. Subsumpce.** Pro test 50 % se nezapočítá účinně vzatá zpět část 100 000 Kč → posuzuje se 900 000 Kč přihlášených, z nichž zjištěno 400 000 Kč (méně než 50 %) → nepřihlíží se ani ke zjištěné části (odst. 1), ledaže výše závisela na posudku/úvaze soudu. U zajištění: hodnota dle přihlášky 900 000 Kč vs. zjištěná 300 000 Kč → § 179, k právu na uspokojení ze zajištění se nepřihlíží a hrozí pokuta ve prospěch ostatních zajištěných ke stejnému majetku.
+#### Z důvodové zprávy
 
-**5. Řešení.** Pokud výše pohledávky nezávisela na znaleckém posudku/úvaze soudu, V nedostane nic; na návrh správce mu soud může uložit pokutu do výše nadhodnocení (incidenční spor). U nadhodnoceného zajištění připadne případná pokuta ostatním zajištěným věřitelům ke stejnému majetku. Procesně: pokuta se ukládá na návrh správce, věřitel se brání tvrzením o závislosti na posudku/úvaze soudu nebo o své pasivitě (§ 180).
+Zvláštní část důvodové zprávy k vládnímu návrhu insolvenčního zákona (sněmovní tisk 1120/0, k § 176 až 182, číslovaná i PDF s. 199) spojuje § 180 s možností věřitele nevykonávat do zjištění přihlášené pohledávky práva s ní spojená, a tím předejít možným peněžitým následkům vadného uplatnění pohledávky. Tento legislativní popis je třeba číst podle přijatého textu: § 180 váže výjimku na skutečné nevykonávání práv v průběhu řízení.
 
-**6. Varianty.** (a) Kdyby zjištěná výše činila 55 % přihlášené částky, sankce „nepřihlížení k celé pohledávce" by nenastala — uspokojila by se zjištěná část. (b) Kdyby výše pohledávky závisela na znaleckém posudku nebo úvaze soudu, odst. 1 (i § 179) se neuplatní a sankce odpadá.
+#### Literatura
 
-### G. Protiargumenty a rizika
+Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; je rozhodnutím editora odložena do druhého kola. Nejde o negativní rešeršní závěr.
 
-- *Protiargument věřitele:* „Sankce je nepřiměřená, vždyť část pohledávky reálně existuje." — Neutralizace: zákon vědomě volí tvrdou prevenci nadhodnocování; korektivem je výjimka pro posudek/úvahu soudu a možnost účinného zpětvzetí (odst. 2).
-- *Protiargument:* „Zpětvzetí části před přezkumem mě před sankcí ochrání vždy." — Neutralizace: dle § 182 zpětvzetí není záchranou, učinil-li věřitel úkony zhoršující postavení jiných věřitelů nebo nepřihlašoval v dobré víře.
-- *Slabé místo:* posouzení, zda výše „závisela na znaleckém posudku nebo úvaze soudu", je hraniční a rozhoduje o tom, zda sankce vůbec dopadne; u zajištění (§ 179) navíc směřuje pokuta jinému okruhu (ostatní zajištění), nikoli do podstaty.
+#### Výklad
 
-### H. Praktický závěr
+[1] **Předmět výjimky.** § 180 nedopadá na všechny následky nadhodnocení přihlášky. Brání pouze tomu, aby soud věřiteli uložil povinnost zaplatit částku podle § 178 nebo § 179. Neodstraňuje samotný následek nepřihlížení podle těchto ustanovení.
 
-§ 178–182 tvoří odstrašující mechanismus proti nadhodnocování pohledávek a zajištění: zjištění pod 50 % vede ke ztrátě celé pohledávky a hrozbě pokuty. Věřitelé proto vyčíslují konzervativně a spornou nadstavbu raději neuvádějí nebo včas berou zpět.
+[2] **Podmínka nevykonávání práv.** Rozhodující je, zda věřitel v průběhu řízení vykonával práva spojená s nezjištěnou pohledávkou. Zákon nestanoví seznam takových úkonů; v konkrétní věci je proto třeba zjistit, jaké právo bylo vykonáno a zda bylo spojeno právě s pohledávkou, která zůstala nezjištěná v rozsahu rozhodném pro § 178 nebo § 179.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Vyčíslit pohledávku i zajištění konzervativně a doložitelně (riziko hranice 50 %).
-- [ ] Spornou část včas a účinně vzít zpět před účinkem popření (odst. 2) — pokud zpětvzetí není vyloučeno dle § 182.
-- [ ] U sankce zkoumat výjimku „závislosti na znaleckém posudku nebo úvaze soudu" a pasivitu věřitele (§ 180).
-- [ ] U nadhodnoceného zajištění zohlednit, že pokuta připadá ostatním zajištěným ke stejnému majetku (§ 179), a ručení podepsaných osob (§ 181).
+[3] **Procesní práva věřitele.** Mezi práva typicky spojená s přihlášenou pohledávkou patří zejména hlasovací právo na schůzi věřitelů a práva ve věřitelských orgánech. Samotné podání přihlášky nelze považovat za výkon práva, který by § 180 bez dalšího zbavoval smyslu; ustanovení předpokládá přihlášenou, avšak později nezjištěnou pohledávku.
 
-**Typicky rozhodné důkazy / podklady:** přihláška a vyčíslení, popěrné úkony a rozhodnutí v incidenčním sporu, znalecký posudek hodnoty zajištění, doklad o účinném zpětvzetí, podklady k dobré víře věřitele.
+[4] **Rozsah pasivity.** Text vyžaduje nevykonávání práv „v průběhu řízení“. Pouhá neúčast na jedné schůzi nebo zdržení se jediného hlasování proto samo o sobě bezpečně neprokazuje splnění podmínky; rozhodný je průběh řízení ve vztahu k právům spojeným s dotčenou pohledávkou.
+
+[5] **Vztah k § 178 a § 179.** Před použitím § 180 musí být určeno, zda jde o možnou peněžitou povinnost podle § 178, nebo podle § 179. Obě ustanovení vyžadují návrh insolvenčního správce a rozhodnutí v incidenčním sporu, avšak liší se zákonným stropem i příjemcem plnění. § 180 je pro oba režimy společnou negativní podmínkou uložení povinnosti.
+
+[6] **Ručení a zpětvzetí.** § 181 upravuje ručení za splnění již uložené povinnosti; jestliže věřiteli nelze povinnost pro splnění § 180 uložit, nevzniká z ní ani plnění, jehož splnění by bylo ručením zajištěno. § 182 naproti tomu za tam stanovených okolností zachovává postup podle § 178 odst. 1 nebo § 179 odst. 1 navzdory zpětvzetí přihlášky; tím se nemění samostatná podmínka nevykonávání práv podle § 180.
+
+[7] **Důkazní podklady.** Pro posouzení § 180 jsou podstatné zejména přihláška, seznam přihlášených pohledávek, záznamy o hlasování, zápisy ze schůzí věřitelů a věřitelských orgánů a další podání, jimiž věřitel uplatňoval procesní oprávnění spojená s dotčenou pohledávkou.
+
+[8] **Intertemporalita.** § 180 byl součástí původního insolvenčního zákona. U starších řízení je nutné ověřit tehdy účinné znění § 178 až 182 a přechodná ustanovení jednotlivých novel; aktuální podobu navazujících sankčních pravidel nelze zpětně předpokládat jen podle znění účinného k 19. 7. 2026.
+
+#### Judikatura
+
+Při této revizi nebylo jako pramen materiálního právního závěru použito žádné soudní rozhodnutí. Tím se nevyslovuje, že relevantní judikatura neexistuje; judikatorní závěr lze doplnit až po otevření plného textu z oficiálního soudního webu a samostatné kontrole skutkového, procesního a intertemporálního kontextu.
 
 ---
 

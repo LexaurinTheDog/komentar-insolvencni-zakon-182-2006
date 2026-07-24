@@ -1232,57 +1232,60 @@ Do této revize nebylo převzato žádné rozhodnutí. Tím se nevyslovuje záv�
 
 ## § 116 — Náležitosti návrhu
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Návrh na moratorium musí kromě obecných náležitostí podání obsahovat všechny skutečnosti, které odůvodňují jeho vyhlášení.
-> (2) K návrhu podle odstavce 1 je dlužník kromě seznamů a listin, které je povinen připojit k insolvenčnímu návrhu, povinen připojit poslední účetní závěrku a písemné prohlášení **většiny jeho věřitelů**, počítané podle výše jejich pohledávek, že s vyhlášením moratoria souhlasí; podpisy věřitelů na tomto prohlášení musí být úředně ověřeny.
+>
+> (2) K návrhu podle odstavce 1 je dlužník kromě seznamů a listin, které je povinen připojit k insolvenčnímu návrhu, povinen připojit poslední účetní závěrku a písemné prohlášení většiny jeho věřitelů, počítané podle výše jejich pohledávek, že s vyhlášením moratoria souhlasí; podpisy věřitelů na tomto prohlášení musí být úředně ověřeny.
 
-### Výklad — **TĚŽKO SPLNITELNÝ POŽADAVEK**
+### Přehled výkladu
 
-**Souhlas většiny věřitelů** (počítáno *podle výše pohledávek*) je *kritická podmínka*. V praxi *blokující* — dlužník musí mít předjednanou dohodu s věřiteli **ještě před návrhem**.
+Ustanovení spojuje obsahovou náležitost návrhu s povinnými přílohami. Návrh musí vedle obecných náležitostí podání vylíčit všechny skutečnosti odůvodňující vyhlášení moratoria. Dlužník k němu připojí přílohy vyžadované k insolvenčnímu návrhu, poslední účetní závěrku a písemný souhlas věřitelů představujících podle výše pohledávek více než polovinu; podpisy na prohlášení musejí být úředně ověřeny.
 
-**Formální požadavky**:
-- *poslední účetní závěrka*,
-- *prohlášení věřitelů* — *úředně ověřené podpisy*.
+### Souvisící ustanovení
 
-### Praktická poznámka
+§ 7 (přiměřené použití občanského soudního řádu), § 103 a § 104 (insolvenční návrh a jeho přílohy), § 115 (navrhovatel a lhůty), § 117 (rychlost rozhodnutí a vyloučení § 43 o. s. ř.), § 118 (vyhlášení moratoria nebo odmítnutí návrhu), § 119 odst. 2 (odlišné přílohy návrhu na prodloužení moratoria).
 
-V praxi je toto téměř *nedostupné* pro běžného dlužníka. Důvod: většina věřitelů obvykle nechce vstupovat do oficiálně sankcionovaného moratoria; preferují buď individuální dohody (bez insolvence), nebo přímo úpadek.
+### Souvisící předpisy
 
-### F. Kazuistika
+§ 42 odst. 4 zákona č. 99/1963 Sb., občanský soudní řád (obecné náležitosti podání).
 
-**1. Modelová situace.** Dlužník ÓMÍKRON s. r. o. podá návrh na moratorium. K němu připojí poslední účetní závěrku a prohlášení věřitelů o souhlasu. Souhlas však podepsali věřitelé představující jen 40 % objemu pohledávek a podpisy nejsou úředně ověřeny; navíc chybí konkrétní vylíčení skutečností odůvodňujících vyhlášení. Důkazy: prohlášení věřitelů s vyčíslením jejich pohledávek, účetní závěrka, přehled celkového objemu závazků.
+### Z důvodové zprávy
 
-**2. Právní otázka.** Splňuje návrh na moratorium náležitosti § 116, zejména požadavek souhlasu většiny věřitelů počítané podle výše pohledávek s úředně ověřenými podpisy?
+Původní důvodová zpráva spojuje předložení listin podle § 104 odst. 1 i prohlášení většiny věřitelů s doložením poctivosti dlužníkových úmyslů. Jde o historické vysvětlení původní úpravy, nikoli o samostatnou náležitost nad rámec platného textu. (Vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, zvláštní část k § 116, číslované s. 187–188.)
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 116 odst. 1 (skutečnosti odůvodňující vyhlášení), odst. 2 (připojit poslední účetní závěrku + písemné prohlášení **většiny věřitelů** podle výše pohledávek o souhlasu; podpisy úředně ověřené).
-- *Související ustanovení téhož zákona:* § 115 (aktivní legitimace a lhůty), § 117 (rozhodnutí do konce následujícího pracovního dne, bez výzvy k odstranění vad), § 119 odst. 2 (prodloužení na souhlas většiny věřitelů), § 124 (zánik moratoria).
-- *Související předpisy:* zákon o účetnictví (účetní závěrka).
-- *Judikatura:* k náležitostem návrhu chybí v komentáři citovaná judikatura; nosně plyne z textu § 116 (kvórum většiny podle objemu pohledávek).
+### Literatura
 
-**4. Subsumpce.** Znak „souhlas většiny věřitelů podle výše pohledávek" — nenaplněn (jen 40 %). Znak „úředně ověřené podpisy" — nenaplněn. Znak „skutečnosti odůvodňující vyhlášení" (odst. 1) — nenaplněn (chybí konkrétní vylíčení). Návrh tak nesplňuje obligatorní náležitosti.
+Odborná literatura nebyla v tomto kole hodnocena; její zpracování je odloženo do druhého kola.
 
-**5. Řešení.** Soud moratorium **nevyhlásí** — náležitosti nejsou splněny a vady se neodstraňují výzvou (§ 117, § 43 OSŘ se nepoužije). Praktický krok: dlužník musí získat souhlas věřitelů reprezentujících **více než polovinu** objemu pohledávek a opatřit jejich podpisy úředním ověřením; vylíčit konkrétní důvody. Bez předjednané dohody je institut fakticky nedostupný. Riziko: marné uplynutí lhůty dle § 115.
+### Výklad
 
-**6. Varianty.** (a) Souhlas podepíší věřitelé s 60 % objemu pohledávek a podpisy budou ověřeny — náležitost je splněna a soud může moratorium vyhlásit. (b) Dlužník usiluje o prodloužení moratoria — i tehdy je třeba souhlas většiny věřitelů (§ 119 odst. 2).
+[1] **Dvě vrstvy náležitostí.** Odstavec 1 odkazuje na obecné náležitosti podání a současně vyžaduje vylíčení všech skutečností, které odůvodňují vyhlášení moratoria. Nestačí tedy pouze označit požadovaný procesní výsledek; návrh musí obsahovat skutkový podklad, z něhož dlužník dovozuje důvodnost dočasné ochrany.
 
-### G. Protiargumenty a rizika
+[2] **Přílohy insolvenčního návrhu.** Formulace „kromě seznamů a listin, které je povinen připojit k insolvenčnímu návrhu“ propojuje § 116 odst. 2 zejména s § 104. Rozsah těchto příloh je proto nutné určit podle konkrétního insolvenčního návrhu a aktuálního znění § 104; § 116 je neopakuje.
 
-- *„Většina se počítá podle počtu věřitelů."* Neobstojí — § 116 odst. 2 výslovně počítá většinu **podle výše pohledávek**, nikoli podle hlav. Neutralizace: doložit objemové kvórum.
-- *„Vady doplním po výzvě soudu."* Vyloučeno — u moratoria se § 43 OSŘ nepoužije (§ 117), soud rozhoduje do konce následujícího pracovního dne. Neutralizace: podat bezvadný návrh se všemi přílohami.
-- Slabé místo: získání ověřených souhlasů věřitelů s nadpoloviční většinou objemu pohledávek je v praxi hlavní překážkou; bez předchozí dohody návrh neuspěje.
+[3] **Účetní závěrka.** Poslední účetní závěrka je samostatnou povinnou přílohou návrhu na moratorium. Text § 116 nestanoví zvláštní požadavek, aby byla sestavena právě pro účely návrhu; požaduje poslední účetní závěrku dlužníka.
 
-### H. Praktický závěr
+[4] **Většina podle výše pohledávek.** Zákon nepočítá většinu podle počtu věřitelů, nýbrž podle výše jejich pohledávek. „Většina“ proto znamená více než polovinu rozhodného objemu pohledávek. Návrh a jeho přílohy musejí umožnit ověřit, že podepsaní věřitelé tohoto objemového kvóra dosahují.
 
-Návrh na moratorium musí kromě vylíčení důvodů obsahovat poslední účetní závěrku a úředně ověřené písemné souhlasy věřitelů reprezentujících většinu objemu pohledávek; jinak soud moratorium nevyhlásí a vady nelze dodatečně odstraňovat (§ 117).
+[5] **Forma souhlasu.** Souhlas musí mít podobu písemného prohlášení, že věřitelé souhlasí s vyhlášením moratoria, a podpis každého prohlašujícího věřitele musí být úředně ověřen. Prostý neověřený podpis zákonnému požadavku neodpovídá.
 
-**Checklist (dlužník / advokát / soud):**
-- [ ] Vylíčil návrh konkrétní skutečnosti odůvodňující vyhlášení (odst. 1)?
+[6] **Procesní následek vad.** Podle § 117 soud rozhoduje do konce nejblíže následujícího pracovního dne a § 43 o. s. ř. se nepoužije. Jsou-li splněny předpoklady § 115 a § 116 a dosud nebylo rozhodnuto o insolvenčním návrhu, soud moratorium vyhlásí; jinak návrh podle § 118 odst. 1 odmítne. Dlužník proto nemůže při podání spoléhat na výzvu k opravě nebo doplnění.
+
+### Praktický checklist
+
+- [ ] Obsahuje podání obecné náležitosti podle § 42 odst. 4 o. s. ř.?
+- [ ] Jsou konkrétně vylíčeny všechny skutečnosti odůvodňující vyhlášení moratoria?
+- [ ] Jsou připojeny seznamy a listiny vyžadované k danému insolvenčnímu návrhu?
 - [ ] Je připojena poslední účetní závěrka?
-- [ ] Souhlasí věřitelé představující většinu **podle výše pohledávek**?
-- [ ] Jsou podpisy věřitelů úředně ověřeny?
-- [ ] Je vše připraveno k jednorázovému podání (bez spoléhání na výzvu — § 117)?
+- [ ] Představují souhlasící věřitelé více než polovinu pohledávek podle jejich výše a lze výpočet z podkladů ověřit?
+- [ ] Je souhlas písemný a jsou všechny podpisy úředně ověřeny?
 
-**Typicky rozhodné důkazy / podklady:** písemná prohlášení věřitelů o souhlasu s ověřenými podpisy a vyčíslením jejich pohledávek, přehled celkového objemu závazků (pro výpočet většiny), poslední účetní závěrka, vylíčení důvodů moratoria.
+### Judikatura
+
+Pro toto vydání není zařazeno rozhodnutí, jehož plný text by byl ověřen jako přímo nosný k výkladu náležitostí návrhu podle § 116. Závěry výše jsou proto opřeny o aktuální znění zákona a oficiální důvodovou zprávu, nikoli o neověřenou právní větu nebo sekundární přehled.
 
 ---
 

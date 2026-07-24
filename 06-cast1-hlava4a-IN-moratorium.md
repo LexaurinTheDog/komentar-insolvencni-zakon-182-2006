@@ -1035,6 +1035,10 @@ Odborná literatura je rozhodnutím odpovědného editora odložena do druhého 
 V této revizi není žádné soudní rozhodnutí použito jako pramen materiálního právního závěru, protože nebyl pro tuto jednotku nově ověřen plný text relevantního rozhodnutí na oficiálním webu příslušného soudu včetně skutkového a procesního kontextu, nosného závěru a časové použitelnosti. Nejde o závěr, že relevantní judikatura neexistuje.
 ### § 113 — Předběžné opatření o nakládání s majetkem
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+#### Znění ustanovení
+
 > (1) Je-li nutné zabránit v době do vydání rozhodnutí o úpadku změnám v rozsahu majetkové podstaty v neprospěch věřitelů, insolvenční soud může i bez návrhu nařídit předběžné opatření, kterým dlužníkovi uloží, aby nenakládal s určitými věcmi nebo právy náležejícími do jeho majetkové podstaty, nebo rozhodne, že dlužník může nakládat s majetkovou podstatou nebo její částí pouze se souhlasem předběžného správce. Může též nařídit, aby osoby, které mají závazky vůči dlužníkovi, napříště plnění neposkytovaly dlužníkovi, ale předběžnému správci. Současně ustanoví předběžného správce, pokud tak neučinil dříve.
 >
 > (2) Rozhodnutí podle odstavce 1 doručí insolvenční soud do vlastních rukou dlužníkovi a předběžnému správci.
@@ -1054,6 +1058,54 @@ V této revizi není žádné soudní rozhodnutí použito jako pramen materiál
 > d) vydáním rozhodnutí, kterým se předběžné opatření zruší, jakmile pominou důvody, pro které bylo nařízeno.
 >
 > (6) Rozhodnutí podle odstavce 5 písm. d) může insolvenční soud vydat i bez návrhu. Pro jeho doručení platí odstavce 2 a 3 obdobně; odvolat se proti němu může pouze osoba, která návrh na nařízení předběžného opatření podala, není-li totožná s osobou, která navrhla zrušení předběžného opatření.
+
+#### Přehled výkladu
+
+§ 113 umožňuje insolvenčnímu soudu do rozhodnutí o úpadku cíleně zesílit ochranu majetkové podstaty nad obecný režim § 111. Opatření není automatické: zákon vyžaduje nutnost zabránit změnám rozsahu podstaty v neprospěch věřitelů. Soud může zakázat dispozice s určenými věcmi či právy, podmínit nakládání souhlasem předběžného správce nebo přesměrovat plnění dlužníkových dlužníků předběžnému správci. Zákon zároveň upravuje doručení, odvolací legitimaci a zánik opatření.
+
+#### Souvisící ustanovení
+
+- § 7 — přiměřené použití občanského soudního řádu, nestanoví-li insolvenční zákon jinak nebo není-li takový postup v rozporu se zásadami insolvenčního řízení;
+- § 82 — obecná zvláštní úprava předběžných opatření v insolvenčním řízení;
+- § 109 až 111 — účinky zahájení řízení a obecné omezení dispozic dlužníka;
+- § 112 — ustanovení a úkoly předběžného správce;
+- § 114 — následek plnění dlužníkovi v rozporu s přesměrováním podle § 113 odst. 1;
+- § 142 — rozhodnutí jiná než rozhodnutí o úpadku, k jejichž vydání se váže zánik podle § 113 odst. 5 písm. b);
+- § 115 až 127a — moratorium, zejména vazba jeho účinnosti na zánik opatření.
+
+#### Souvisící předpisy
+
+- zákon č. 99/1963 Sb., občanský soudní řád, zejména § 74 až 77a, pouze v mezích subsidiarity podle § 7 insolvenčního zákona.
+
+#### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona řadí § 113 do společného výkladu k § 111 až 114. Vysvětluje, že vedle obecného zákonného omezení podle § 111 může soud uložit zvláštní omezení předběžným opatřením podle § 112 a 113; zvláštní důsledek přesměrování plnění pak upravuje § 114. Jde o historické vysvětlení původního návrhu, nikoli o náhradu aktuálního znění. (Sněmovní tisk 1120/0, zvláštní část „K § 111 až 114“, číslovaná s. 186, PDF s. 187.)
+
+#### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní rešerše.
+
+#### Výklad
+
+[1] **Předpoklad a časový rámec.** Opatření slouží k ochraně rozsahu majetkové podstaty před změnami v neprospěch věřitelů v období do vydání rozhodnutí o úpadku. Na rozdíl od omezení, která vznikají ze zákona podle § 111, je třeba rozhodnutí insolvenčního soudu. Soud může postupovat na návrh i bez návrhu.
+
+[2] **Obsah opatření.** Odstavec 1 nabízí tři modality, které lze podle potřeby obsahově vymezit: zákaz nakládání s určitými věcmi nebo právy; souhlasový režim předběžného správce pro podstatu nebo její část; anebo příkaz osobám zavázaným dlužníkovi, aby napříště plnily předběžnému správci. Rozhodnutí proto musí umožnit určit, jakého majetku, rozsahu nakládání nebo plnění se omezení týká.
+
+[3] **Předběžný správce.** Je-li opatření podle odstavce 1 nařízeno, soud současně ustanoví předběžného správce, nebyl-li ustanoven dříve. Jeho úkoly a postavení je třeba číst spolu s § 112; samotný § 113 nepřenáší na předběžného správce neomezenou dispoziční působnost.
+
+[4] **Doručení a evidence.** Rozhodnutí se doručuje do vlastních rukou dlužníkovi a předběžnému správci. Dopadá-li omezení na majetek evidovaný v katastru nemovitostí, Rejstříku zástav nebo jiném zákonem předpokládaném seznamu, soud zasílá stejnopis také příslušným evidenčním místům vyjmenovaným v odstavci 3.
+
+[5] **Odvolání.** Proti nařízenému opatření se může podle odstavce 4 odvolat pouze dlužník. Proti usnesení, kterým byl návrh na jeho nařízení zamítnut, je oprávněn podat odvolání navrhovatel. Tato zvláštní pravidla nelze rozšiřovat jen podle toho, koho se rozhodnutí fakticky dotýká.
+
+[6] **Zánik a zrušení.** Odstavec 5 rozlišuje zánik uplynutím určené doby, vydáním rozhodnutí podle § 142, účinností moratoria a vydáním rozhodnutí o zrušení po pominutí důvodů. U rozhodnutí podle § 142 je základním mezníkem jeho vydání; soud může výslovně posunout zánik až k právní moci. U moratoria může soud v rozhodnutí o jeho vyhlášení zachování opatření určit jinak.
+
+[7] **Zrušení po pominutí důvodů.** Soud může rozhodnout podle odstavce 5 písm. d) i bez návrhu. Pro doručení se obdobně použijí odstavce 2 a 3. Odvolací legitimaci proti zrušení odstavec 6 přiznává jen navrhovateli původního opatření, není-li současně navrhovatelem jeho zrušení.
+
+[8] **Plnění třetích osob a časová použitelnost.** Přesměruje-li soud plnění k předběžnému správci, následek plnění poskytnutého přesto dlužníkovi upravuje § 114, nikoli samotný § 113. Tento výklad zachycuje právní stav k 19. 7. 2026; u dřívějších opatření je nutné ověřit tehdy účinné znění zákona a obsah konkrétního rozhodnutí.
+
+#### Judikatura
+
+Do tohoto kola nebylo zařazeno rozhodnutí, jehož oficiální plný text by byl ověřen jako přímo nosný pro některý z výše uvedených závěrů. Tím se nevyslovuje závěr o neexistenci související judikatury.
 
 ### § 114 — Plnění dlužníkovi v rozporu s předběžným opatřením
 

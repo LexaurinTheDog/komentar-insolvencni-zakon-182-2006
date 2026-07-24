@@ -1892,51 +1892,60 @@ Tato revize necituje žádné soudní rozhodnutí jako pramen samostatného prav
 
 ## § 127 — Odpovědnost za škodu v moratoriu
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Dlužník, který v době trvání moratoria poruší své povinnosti stanovené tímto zákonem, odpovídá věřitelům za škodu nebo jinou újmu, kterou jim tím způsobí. Této odpovědnosti se dlužník zprostí, jen když prokáže, že škodě nebo jiné újmě nemohl zabránit ani při vynaložení veškerého úsilí, které po něm bylo možné spravedlivě požadovat se zřetelem k průběhu moratoria.
 >
 > (2) Za škodu nebo jinou újmu vzniklou podle odstavce 1 ručí společně a nerozdílně členové statutárního orgánu dlužníka.
-> (2) Za škodu nebo jinou újmu vzniklou podle odstavce 1 ručí společně a nerozdílně členové statutárního orgánu dlužníka.
+>
+
+### Přehled výkladu
+
+§ 127 zakládá zvláštní odpovědnost dlužníka vůči věřitelům za škodu nebo jinou újmu způsobenou porušením povinnosti, kterou dlužníku v době trvání moratoria ukládá insolvenční zákon. Členové statutárního orgánu nejsou v odstavci 2 označeni za další přímé škůdce; za újmu vzniklou podle odstavce 1 ručí společně a nerozdílně. Dlužník nese důkazní břemeno k jedinému výslovně upravenému liberačnímu důvodu.
+
+### Souvisící ustanovení
+
+- § 115 až 119 — návrh, vyhlášení, účinnost a doba trvání moratoria.
+- § 120 a 121 — účinky moratoria a vymezení věřitelů po dobu jeho trvání.
+- § 122 — zvláštní pravidla pro závazky souvisící se zachováním provozu, trvající dodavatelské smlouvy a započtení.
+- § 123 — možnost ustanovit za trvání moratoria předběžného správce.
+- § 124 — zánik a zrušení moratoria, včetně nepravdivých údajů a nepoctivého záměru.
+- § 125 a 126 — moratorium před zahájením insolvenčního řízení a jeho zvláštní režim.
+- § 127a odst. 1, 11 a 12 — historická pravidla mimořádného moratoria a rozšíření působnosti § 127.
+
+### Souvisící předpisy
+
+Pro závěry tohoto komentáře nebylo nutné použít jiný předpis. § 127 je třeba nejprve vyložit v systematické vazbě na povinnosti a účinky upravené insolvenčním zákonem.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona označuje § 127 za sankci porušení povinností dlužníka za trvání moratoria, která dopadá i na statutární orgány dlužníka. Důvodová zpráva tento účel dále nerozvádí (sněmovní tisk 1120/0, zvláštní část, K § 127, číslovaná s. 189, PDF s. 190).
+
+### Literatura
+
+Odborná literatura nebyla v tomto kole hodnocena; její zpracování je odloženo do druhého kola.
 
 ### Výklad
 
-**Solidární ručení statutárních orgánů** za škodu vzniklou věřitelům porušením povinností v moratoriu. *Velmi přísný režim* — motivuje statutáry k odpovědnému využití moratoria.
+[1] **Osobní a časový rozsah.** Přímým odpovědným subjektem podle odstavce 1 je dlužník. Chráněnými osobami jsou věřitelé. Porušena musí být povinnost stanovená insolvenčním zákonem a k porušení musí dojít v době trvání moratoria. Dobu trvání určuje zejména § 119; u moratoria vyhlášeného před zahájením insolvenčního řízení je třeba přihlédnout také k § 126 odst. 4.
 
-### F. Kazuistika
+[2] **Předpoklady nároku.** Text vyžaduje porušení konkrétní zákonné povinnosti, vznik škody nebo jiné újmy věřiteli a příčinnou souvislost vyjádřenou slovy „kterou jim tím způsobí“. Samotné zhoršení hospodářské situace dlužníka, samotná existence moratoria ani jeho pozdější zánik tyto předpoklady nenahrazují.
 
-**1. Modelová situace.** Dlužník FÍ-V s. r. o. v moratoriu poruší povinnosti stanovené insolvenčním zákonem (např. přednostně uspokojí spřízněného věřitele a nepravdivě vykáže stav majetku), čímž způsobí ostatním věřitelům škodu. Statutární orgán tvoří dva jednatelé. Jeden z věřitelů uplatňuje náhradu škody jak vůči společnosti, tak vůči oběma jednatelům. Důkazy: doklady o porušení povinností v moratoriu, vyčíslení škody věřitele, identifikace členů statutárního orgánu.
+[3] **Zdroj porušené povinnosti.** § 127 není samostatným katalogem povinností. Konkrétní povinnost je nutno určit v ostatních ustanoveních insolvenčního zákona. V režimu moratoria jsou významné zejména zachované účinky zahájení insolvenčního řízení podle § 120 odst. 2, zvláštní pravidla § 122 a pravidla § 125 a 126 pro moratorium před zahájením insolvenčního řízení. § 122 odst. 1 přitom určité přednostní hrazení dovoluje; nelze proto každou nerovnoměrnou úhradu bez dalšího označit za porušení povinnosti.
 
-**2. Právní otázka.** Za jakých podmínek dlužník odpovídá za škodu způsobenou porušením povinností v moratoriu a v jakém rozsahu ručí členové statutárního orgánu?
+[4] **Liberace.** Dlužník se odpovědnosti zprostí, jen prokáže-li, že škodě nebo jiné újmě nemohl zabránit ani při vynaložení veškerého úsilí, které po něm bylo možné spravedlivě požadovat se zřetelem k průběhu moratoria. Důkazní břemeno k těmto okolnostem ukládá text výslovně dlužníku. Posouzení je vázáno na konkrétní průběh moratoria; zákon nestanoví obecný seznam liberačních situací.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 127 odst. 1 (odpovědnost dlužníka za škodu z porušení povinností v moratoriu; liberace jen při prokázání, že škodě nemohl zabránit ani při veškerém úsilí spravedlivě požadovatelném se zřetelem k průběhu moratoria), odst. 2 (solidární ručení členů statutárního orgánu).
-- *Související ustanovení téhož zákona:* § 122 (povinnosti dlužníka v moratoriu — úhrady, zákaz započtení), § 124 (zánik moratoria pro nepoctivý záměr), § 116 (souhlas věřitelů).
-- *Související předpisy:* § 159 OZ (péče řádného hospodáře), obecná úprava náhrady škody a ručení v OZ.
-- *Judikatura:* k odpovědnosti v moratoriu chybí v komentáři citovaná judikatura; nosně plyne z textu § 127 (přísný liberalizační standard, solidární ručení statutárů).
+[5] **Ručení členů statutárního orgánu.** Odstavec 2 váže ručení na škodu nebo jinou újmu „vzniklou podle odstavce 1“. Ručení je tedy odvozeno od odpovědnosti dlužníka podle odstavce 1. Je-li členů statutárního orgánu více, ručí společně a nerozdílně. § 127 odst. 2 sám nestanoví členům statutárního orgánu samostatný liberační důvod.
 
-**4. Subsumpce.** Znak „porušení povinností stanovených zákonem v moratoriu" — naplněn (preferenční úhrada, nepravdivý výkaz). Znak „škoda věřitelům" — naplněn vyčíslením. Znak liberace „nemohl zabránit ani při veškerém úsilí" — vysoký standard, v modelu nenaplněn (porušení bylo úmyslné/zaviněné). Znak „solidární ručení členů statutárního orgánu" — dopadá na oba jednatele.
+[6] **Vztah ke zrušení moratoria.** Důvody zrušení podle § 124 odst. 2 písm. b) a předpoklady odpovědnosti podle § 127 nejsou totožné. Rozhodnutí o zrušení moratoria pro nepravdivé údaje nebo nepoctivý záměr proto samo o sobě nenahrazuje zjištění konkrétní porušené povinnosti, újmy a příčinné souvislosti podle § 127.
 
-**5. Řešení.** Dlužník odpovídá za škodu (§ 127 odst. 1) a oba členové statutárního orgánu ručí **společně a nerozdílně** (odst. 2); věřitel může plnění požadovat po kterémkoli z nich. Liberace dlužníka je výjimečná a důkazně náročná (musel by prokázat, že škodě nemohl zabránit ani při veškerém úsilí). Praktický krok věřitele: doložit porušení konkrétní povinnosti a kauzální škodu. Riziko statutárů: osobní majetková odpovědnost.
+[7] **Intertemporalita.** § 127a upravuje historické mimořádné moratorium a v odstavci 11 rozšiřuje odpovědnost a ručení podle § 127 na újmu vzniklou vyjmenovanými nepravdivými prohlášeními. U nároku spojeného s mimořádným moratoriem je proto nutné pracovat se zněním účinným v době rozhodných skutečností. Toto je redakční metodický závěr, nikoli závěr převzatý z judikatury.
 
-**6. Varianty.** (a) Dlužník prokáže, že škodě nemohl zabránit ani při vynaložení veškerého úsilí (neodvratitelná vnější okolnost v průběhu moratoria) — zprostí se odpovědnosti (odst. 1). (b) Porušení vede též ke zrušení moratoria bez návrhu pro nepoctivý záměr (§ 124), což posiluje důkazní pozici věřitele o porušení povinností.
+### Judikatura
 
-### G. Protiargumenty a rizika
-
-- *„Odpovídá jen společnost, ne jednatelé."* Neobstojí — odst. 2 zakládá solidární ručení členů statutárního orgánu. Neutralizace: žalovat společnost i jednatele solidárně.
-- *„Stačí běžná péče, abych se zprostil."* Standard je vyšší — dlužník se zprostí jen prokázáním, že škodě nemohl zabránit ani při veškerém úsilí spravedlivě požadovatelném (odst. 1). Neutralizace dlužníka: doložit objektivní neodvratitelnost.
-- Slabé místo: prokázání kauzality mezi konkrétním porušením povinnosti a škodou (a její výší) je náročné; doporučeno vázat škodu na identifikovatelné porušení (např. preferenční platbu) a její dopad na ostatní věřitele.
-
-### H. Praktický závěr
-
-Poruší-li dlužník v moratoriu zákonné povinnosti a způsobí věřitelům škodu, odpovídá za ni a členové jeho statutárního orgánu ručí solidárně; liberace je možná jen při prokázání neodvratitelnosti škody i při vynaložení veškerého úsilí.
-
-**Checklist (věřitel / statutární orgán / soud):**
-- [ ] Byla porušena konkrétní povinnost dlužníka v moratoriu (§ 122 apod.)?
-- [ ] Je vyčíslena škoda a doložena kauzalita k porušení?
-- [ ] Uplatňuje se nárok i vůči členům statutárního orgánu (solidární ručení — odst. 2)?
-- [ ] Prověřena liberační námitka (neodvratitelnost při veškerém úsilí — odst. 1)?
-- [ ] Nesouvisí porušení se zrušením moratoria pro nepoctivý záměr (§ 124)?
-
-**Typicky rozhodné důkazy / podklady:** doklady o porušení povinností v moratoriu (preferenční platby, nepravdivé výkazy), vyčíslení škody věřitele, výpis z obchodního rejstříku (členové statutárního orgánu), účetnictví dlužníka v době moratoria.
+Do tohoto vydání nebylo zařazeno žádné rozhodnutí. Komentář proto nestaví žádný materiální závěr na neověřené spisové značce, abstraktu ani právní větě; nejde o tvrzení, že relevantní judikatura neexistuje.
 
 ---
 

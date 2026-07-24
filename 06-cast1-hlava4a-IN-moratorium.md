@@ -2555,50 +2555,58 @@ V tomto kole nebylo do komentáře zařazeno rozhodnutí, u něhož by byl z ofi
 
 ## § 135 — Účastníci a jejich úkony
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Při projednávání insolvenčního návrhu podaného jinou osobou než dlužníkem mají jiní účastníci insolvenčního řízení než dlužník stejná práva a povinnosti jako insolvenční navrhovatel; jednají však pouze sami za sebe. Odporují-li jejich úkony úkonům insolvenčního navrhovatele, posoudí je insolvenční soud po uvážení všech okolností.
+>
+
+### Přehled výkladu
+
+§ 135 upravuje procesní postavení jiných účastníků než dlužníka při projednávání insolvenčního návrhu podaného jinou osobou než dlužníkem. Těmto účastníkům pro tuto fázi přiznává stejná práva a povinnosti jako insolvenčnímu navrhovateli, avšak zachovává samostatnost jejich úkonů. Rozpor mezi jejich úkonem a úkonem navrhovatele soud neřeší podle počtu souhlasných stanovisek, nýbrž posouzením konkrétních úkonů po uvážení všech okolností.
+
+### Souvisící ustanovení
+
+- **§ 14 a § 15** — vymezení účastníků insolvenčního řízení a časové omezení účasti jiných osob uplatňujících své právo.
+- **§ 107** — další insolvenční návrh před rozhodnutím o úpadku zakládá postavení dalšího insolvenčního navrhovatele; toto postavení nelze směšovat s postavením jiného účastníka podle § 135.
+- **§ 129 a § 130** — zpětvzetí návrhu a jeho účinky, včetně postupu při více insolvenčních navrhovatelích.
+- **§ 131 a § 133** — osvědčení rozhodných skutečností a podmínky rozhodování s jednáním nebo bez něj.
+- **§ 136 odst. 1** — rozhodnutí o úpadku vyžaduje zjištění úpadku nebo hrozícího úpadku osvědčením nebo dokazováním.
+
+### Souvisící předpisy
+
+- **Zákon č. 99/1963 Sb., občanský soudní řád** — subsidiární procesní úprava se použije jen v mezích § 7 insolvenčního zákona; zvláštní pravidlo § 135 má přednost.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva charakterizuje § 135 jako pravidlo, které pro účely „sporu o úpadek“ řeší postavení těch účastníků insolvenčního řízení, kteří nejsou insolvenčními navrhovateli. Jde o stručné historické vysvětlení účelu původní osnovy, nikoli o samostatný zdroj dalších procesních oprávnění. Pramen: vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, 4. volební období, zvláštní část „K § 135“, číslovaná s. 191 (PDF s. 192).
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Toto odložení není negativní rešerší a nevypovídá o neexistenci relevantních publikací.
 
 ### Výklad
 
-**Rovnost účastníků v projednávání** — všichni účastníci (typicky věřitelé, kteří přihlásili pohledávky) mají *stejná práva* jako navrhovatel pro fázi projednávání.
+[1] **Předpoklady použití.** Ustanovení se použije při projednávání insolvenčního návrhu podaného jinou osobou než dlužníkem. Neupravuje tedy obecně postavení účastníků ve všech fázích insolvenčního řízení ani projednávání dlužnického návrhu.
 
-**Vzájemně odporující úkony** — soud *uváží* (typicky některé věřitele souhlasí s úpadkem, jiné popírají; soud rozhodne o úpadku materiálně).
+[2] **Kdo je „jiným účastníkem“.** Okruh účastníků se určuje podle § 14 a § 15. § 135 sám účastenství nezakládá; upravuje postavení osoby, která již účastníkem je. Přihlášený věřitel může do tohoto okruhu patřit, nelze však z pouhého označení osoby za věřitele bez ověření její účasti dovodit oprávnění podle § 135.
 
-### F. Kazuistika
+[3] **Odlišení dalšího navrhovatele.** Podá-li další osoba před rozhodnutím o úpadku vlastní insolvenční návrh, považuje se podle § 107 odst. 1 za dalšího insolvenčního navrhovatele. Není proto přesné popisovat ji pro tentýž úkon jen jako jiného účastníka se zrcadlovými právy podle § 135. Rozlišení je významné zejména pro zpětvzetí návrhu a zastavení řízení podle § 129 a § 130.
 
-**1. Modelová situace.** Insolvenční návrh proti dlužníku EPSILON-V s. r. o. podal věřitel A. K řízení přistoupili věřitelé B a C, kteří přihlásili pohledávky. Při projednání návrhu B podporuje zjištění úpadku a navrhuje další důkazy, zatímco C činí úkon, který úkonu navrhovatele A odporuje (zpochybňuje úpadek). Důkazy: přihlášky a procesní úkony jednotlivých účastníků, jejich vzájemný rozpor, podklady k úpadku.
+[4] **Rozsah rovnosti.** Jiní účastníci než dlužník mají stejná práva a povinnosti jako navrhovatel právě při projednávání návrhu. Z textu nelze vytvořit obecné ztotožnění jejich procesního postavení s navrhovatelem mimo tuto fázi ani odvodit práva, která zákon váže výlučně na vlastní návrh.
 
-**2. Právní otázka.** Jaké procesní postavení mají při projednání návrhu jiní účastníci než dlužník a jak soud naloží s jejich vzájemně si odporujícími úkony?
+[5] **Samostatnost úkonů.** Každý jiný účastník jedná pouze sám za sebe. Jeho vyjádření, důkazní návrh nebo jiný procesní úkon se proto bez zvláštní opory nepřičítá navrhovateli ani ostatním účastníkům. Stejně tak úkon navrhovatele sám o sobě nenahrazuje úkon jiného účastníka.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 135 (jiní účastníci než dlužník mají při projednání návrhu podaného jinou osobou než dlužníkem stejná práva a povinnosti jako navrhovatel, jednají však jen sami za sebe; odporují-li jejich úkony úkonům navrhovatele, soud je posoudí po uvážení všech okolností).
-- *Související ustanovení téhož zákona:* § 107 (přistoupení dalšího navrhovatele), § 133 (jednání o návrhu), § 131 (osvědčování), § 136 (rozhodnutí o úpadku).
-- *Související předpisy:* OSŘ (procesní společenství, samostatnost úkonů účastníků).
-- *Judikatura:* k postavení účastníků při projednání chybí v komentáři citovaná judikatura; nosně plyne z textu § 135 (samostatnost úkonů, uvážení rozporných úkonů soudem).
+[6] **Odporující si úkony.** Zvláštní pravidlo dopadá na rozpor úkonu jiného účastníka s úkonem insolvenčního navrhovatele. Soud oba úkony posoudí po uvážení všech okolností. Zákon nestanoví hlasování účastníků ani přednost stanoviska početnější skupiny; rozhodný zůstává zákonný procesní a skutkový podklad rozhodnutí.
 
-**4. Subsumpce.** Znak „jiní účastníci mají stejná práva a povinnosti jako navrhovatel" — naplněn pro B i C (mohou navrhovat důkazy, vyjadřovat se). Znak „jednají jen sami za sebe" — úkon jednoho účastníka nezavazuje ostatní. Znak „odporují-li úkony úkonům navrhovatele, soud je posoudí po uvážení všech okolností" — naplněn rozporem mezi úkonem C a navrhovatele A.
+[7] **Vztah k jednání a zjištění úpadku.** Samotný rozpor úkonů podle § 135 ještě nenahrazuje test § 133 odst. 2. Jednání je u návrhu jiné osoby než dlužníka povinné tehdy, závisí-li rozhodnutí na zjištění sporných skutečností o úpadku. Výsledek projednání musí splnit § 131 a při rozhodnutí o úpadku také § 136 odst. 1; nelze jej založit jen na procesní převaze souhlasných vyjádření.
 
-**5. Řešení.** Soud přizná B i C stejná procesní práva jako navrhovateli, avšak s tím, že jednají samostatně; rozporné úkony (C versus A) **posoudí po uvážení všech okolností** a o úpadku rozhodne **materiálně** podle skutkového stavu, nikoli mechanicky podle převahy úkonů. Praktický krok účastníků: aktivně uplatnit důkazní návrhy ke (ne)existenci úpadku. Riziko: úkon jednoho účastníka nemůže „přebít" ostatní — rozhoduje materiální zjištění úpadku.
+[8] **Historie a intertemporalita.** Text dnešního § 135 odpovídá v podstatném obsahu původní osnově. Pro konkrétní úkon je přesto nutné ověřit znění a procesní úpravu použitelné v době, kdy byl učiněn; historická důvodová zpráva vysvětluje původní účel, ale nenahrazuje tuto kontrolu.
 
-**6. Varianty.** (a) Všichni účastníci úpadek podporují a navrhují shodné důkazy — soud rozhodne na jejich základě bez nutnosti vážit rozpory. (b) Úkony účastníků si odporují v zásadní otázce úpadku — soud nařídí jednání (§ 133 odst. 2) a provede dokazování, načež rozhodne materiálně.
+### Judikatura
 
-### G. Protiargumenty a rizika
-
-- *„Úkon jednoho účastníka zavazuje ostatní."* Neobstojí — § 135 stanoví, že účastníci jednají jen sami za sebe; úkon jednoho nezavazuje druhé. Neutralizace: každý účastník musí uplatnit vlastní úkony.
-- *„Rozhoduje převaha souhlasných úkonů."* Nepřesné — soud rozporné úkony posoudí po uvážení všech okolností a o úpadku rozhodne materiálně (nikoli „hlasováním"). Neutralizace: zaměřit se na osvědčení/dokázání úpadku, nikoli na počet souhlasů.
-- Slabé místo: vzájemně odporující úkony účastníků mohou ztížit zjištění skutkového stavu; klíčové je, aby soud opřel rozhodnutí o materiální zjištění úpadku, nikoli o formální převahu úkonů.
-
-### H. Praktický závěr
-
-Při projednání návrhu podaného jinou osobou než dlužníkem mají ostatní účastníci stejná práva a povinnosti jako navrhovatel, ale jednají jen sami za sebe; odporují-li si jejich úkony s úkony navrhovatele, soud je posoudí po uvážení všech okolností a o úpadku rozhodne materiálně podle skutkového stavu.
-
-**Checklist (účastník / navrhovatel / soud):**
-- [ ] Jde o projednání návrhu podaného jinou osobou než dlužníkem?
-- [ ] Mají ostatní účastníci přiznána stejná procesní práva jako navrhovatel?
-- [ ] Jedná každý účastník sám za sebe (úkon jednoho nezavazuje ostatní)?
-- [ ] Odporují si úkony účastníků navzájem (pak uvážení všech okolností soudem)?
-- [ ] Je rozhodnutí o úpadku opřeno o materiální zjištění skutkového stavu?
-
-**Typicky rozhodné důkazy / podklady:** přihlášky a procesní úkony jednotlivých účastníků, protokol o jednání, důkazní návrhy ke (ne)existenci úpadku, listinné a jiné podklady osvědčující úpadek dlužníka.
+V tomto kole nebylo do komentáře zařazeno rozhodnutí, u něhož by byl z oficiálního soudního webu ověřen plný text a nosný závěr přímo relevantní k § 135. Tím se nevyslovuje závěr, že relevantní judikatura neexistuje; kandidátní odkazy bez takového ověření nejsou použity jako autorita.
 
 ---
 

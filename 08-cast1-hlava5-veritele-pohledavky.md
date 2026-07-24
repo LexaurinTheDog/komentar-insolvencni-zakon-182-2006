@@ -1354,51 +1354,61 @@ Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; je rozhodn
 
 Při této revizi nebylo jako pramen materiálního právního závěru použito žádné soudní rozhodnutí. Tím se nevyslovuje, že relevantní judikatura neexistuje; zařazení rozhodnutí vyžaduje otevření plného textu z oficiálního soudního webu a samostatnou kontrolu skutkového, procesního a intertemporálního kontextu.
 
-### § 184 — § 187 — Zpětvzetí přihlášky
+## § 184 — Zpětvzetí přihlášky
 
-**§ 184** — věřitel může vzít přihlášku zpět **kdykoli**. Soud bere na vědomí. Účast končí *právní mocí*.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**§ 185** — *odmítnutí přihlášky* — pokud nastala skutečnost, na základě které se nepřihlíží. Soud odmítne rozhodnutím. Účast končí právní mocí.
+### Znění ustanovení
 
-**§ 186** — *uhrazení pohledávky během IR* — pokud pohledávka uspokojena nebo zanikla a věřitel nevzal přihlášku zpět, soud *ukončí účast* rozhodnutím (proti kterému nejsou opravné prostředky). Věřitel může napadnout *žalobou určení* (30 dnů, proti správci).
+> (1) Věřitel, který podal přihlášku pohledávky nebo na něhož se hledí jako na věřitele přihlášeného, může kdykoli v průběhu insolvenčního řízení vzít přihlášku pohledávky zpět. Insolvenční soud vezme zpětvzetí přihlášky na vědomí rozhodnutím, proti kterému může podat odvolání jen věřitel nebo osoba, která podala návrh na vstup do řízení na místo věřitele (§ 183 odst. 2). Právní mocí tohoto rozhodnutí věřitelova účast v řízení končí.
+>
+> (2) Věřitel, který vezme přihlášku pohledávky zpět proto, že ji uspokojila některá z osob, od kterých může požadovat plnění podle § 183 odst. 1 a 2, to uvede ve zpětvzetí přihlášky; jestliže tak neučiní, odpovídá takové osobě za škodu nebo jinou újmu tím vzniklou.
+>
+> (3) V případě uvedeném v odstavci 2 vyrozumí insolvenční soud o zpětvzetí přihlášky osobu, která pohledávku podle zpětvzetí uspokojila, a poskytne jí lhůtu k podání návrhu na vstup do řízení místo věřitele; o zpětvzetí přihlášky rozhodne insolvenční soud až po uplynutí této lhůty. V rozsahu, v němž insolvenční soud vyhoví návrhu osoby, která pohledávku uspokojila, na vstup do řízení místo věřitele, se ke zpětvzetí přihlášky pohledávky nepřihlíží.
 
-**§ 187** — *pro část pohledávky platí obdobně*.
+### Přehled výkladu
 
-#### F. Kazuistika
+§ 184 umožňuje přihlášenému věřiteli ukončit vlastní účast zpětvzetím přihlášky, ale účast nekončí samotným podáním: končí až právní mocí rozhodnutí, jímž soud vezme zpětvzetí na vědomí. Zvláštní ochranný postup platí, jestliže věřitele uspokojila osoba podle § 183 odst. 1 nebo 2. Věřitel musí důvod zpětvzetí uvést, soud musí plnící osobu vyrozumět a před rozhodnutím jí poskytnout lhůtu k návrhu na vstup; v rozsahu povoleného vstupu se ke zpětvzetí nepřihlíží.
 
-**1. Modelová situace.** Věřitel V přihlásil do insolvenčního řízení dlužníka D pohledávku 800 000 Kč. Během řízení (mimo IR) zaplatí dlužníkův ručitel R věřiteli V celých 800 000 Kč. V však přihlášku nevezme zpět a fakticky figuruje v seznamu dále. Správce zjistí z bankovního výpisu a z potvrzení V, že pohledávka je již plně uhrazena. Současně jiný věřitel V2 přihlásil pohledávku, u níž po podání přihlášky vyšlo najevo, že zmeškal lhůtu k odstranění vad a nastala skutečnost, pro kterou se k přihlášce nepřihlíží. Důkazy: potvrzení o úhradě ručitelem, bankovní výpis, korespondence s věřitelem, spisový materiál o vadách přihlášky V2.
+### Souvisící ustanovení
 
-**2. Právní otázka.** Jakým způsobem a s jakým okamžikem skončí účast věřitele v insolvenčním řízení, je-li jeho pohledávka během řízení uspokojena nebo zanikne, aniž věřitel sám vzal přihlášku zpět, a jakou obranu má věřitel proti ukončení účasti?
+- § 18 — obecný rámec procesního nástupnictví,
+- § 183 odst. 1 až 3 — osoby poskytující věcné či osobní zajištění, podmíněná přihláška a jejich vstup místo věřitele,
+- § 185 a § 186 — odlišné důvody a postupy ukončení účasti věřitele,
+- § 187 — obdobné použití § 184 až 186 na část přihlášené pohledávky,
+- § 189 odst. 1 a § 190 odst. 3 — evidence a přezkum podmíněných pohledávek osob podle § 183.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 184 (zpětvzetí přihlášky kdykoli, soud bere na vědomí, účast končí právní mocí), § 185 (odmítnutí přihlášky, nastala-li skutečnost, pro kterou se nepřihlíží), § 186 (uspokojení/zánik pohledávky během IR bez zpětvzetí → soud ukončí účast rozhodnutím, proti němuž nejsou opravné prostředky, věřitel může napadnout žalobou na určení do 30 dnů proti správci), § 187 (obdoba pro část pohledávky).
-- *Související ustanovení téhož zákona:* § 178–182 (následky zpětvzetí ve vztahu k sankcím za nadhodnocení), § 183 (uspokojení od ručitele/zástavce), § 173a a § 188 odst. 2 (skutečnosti, pro něž se nepřihlíží), § 173 (přihláška jako úkon dispoziční).
-- *Související předpisy:* OZ — zánik závazku splněním (§ 1908 a násl.); o. s. ř. — náležitosti žaloby na určení.
-- *Judikatura:* nosný závěr, že rozhodnutí o ukončení účasti dle § 186 má povahu deklaratorní reakce na hmotněprávní zánik pohledávky; věřiteli zůstává procesní obrana toliko incidenční žalobou na určení trvání pohledávky.
+### Souvisící předpisy
 
-**4. Subsumpce.** Pohledávka V byla během řízení plně uspokojena ručitelem (§ 183) → zanikla splněním. V přihlášku nevzal zpět dle § 184 → nastává režim § 186: insolvenční soud rozhodnutím ukončí účast V (proti rozhodnutí nejsou opravné prostředky). U V2 nastala skutečnost, pro kterou se k přihlášce nepřihlíží (zmeškané doplnění vad) → § 185: soud přihlášku odmítne, účast končí právní mocí.
+Vznik a rozsah pohledávky osoby, která uspokojila věřitele, se posuzuje podle hmotného práva rozhodného pro konkrétní závazek a zajištění. § 184 upravuje procesní ochranu této osoby v insolvenčním řízení; sám její hmotněprávní nárok proti dlužníku nezakládá.
 
-**5. Řešení.** Správce upozorní soud na úhradu pohledávky V; soud podle § 186 ukončí účast V rozhodnutím. Chce-li V tvrdit, že pohledávka (či její část) trvá (např. zpochybnost o tom, že ručitel plnil právě na tuto pohledávku), musí podat žalobu na určení do 30 dnů od doručení rozhodnutí, a to proti insolvenčnímu správci. U V2 soud vydá rozhodnutí o odmítnutí přihlášky dle § 185; po jeho právní moci účast V2 zaniká. Pro pouhou částečnou úhradu se postupuje obdobně jen ohledně uhrazené části (§ 187).
+### Z důvodové zprávy
 
-**6. Varianty.** (a) Kdyby V vzal přihlášku sám zpět dle § 184, soud by zpětvzetí pouze vzal na vědomí a účast by skončila právní mocí tohoto rozhodnutí — bez nutnosti řešit zánik pohledávky. (b) Kdyby ručitel plnil jen 300 000 Kč, účast V by se ukončila pouze co do uhrazené části (§ 187) a ve zbytku 500 000 Kč by V v řízení pokračoval.
+Původní zvláštní část důvodové zprávy k vládnímu návrhu insolvenčního zákona (sněmovní tisk 1120/0, k § 184, číslovaná i PDF s. 199) vysvětlila odstavec 1 potřebou umožnit přihlášenému věřiteli upustit od vymáhání pohledávky v insolvenčním řízení. Důvodová zpráva k zákonu č. 294/2013 Sb. (sněmovní tisk 929/0, k bodům 97 a 98, číslovaná s. 136, PDF s. 137) spojila nové odstavce 2 a 3 s ochranou osob, které plnily hlavnímu věřiteli, a s jejich vstupem do jeho práv v rozsahu poskytnutého plnění. Jde o historické vysvětlení; rozhodující je účinný text zákona.
 
-#### G. Protiargumenty a rizika
+### Literatura
 
-- *Protiargument:* „Proti ukončení účasti dle § 186 se nelze nijak bránit, neboť nejsou přípustné opravné prostředky." — Neutralizace: § 186 sám výslovně otevírá obranu žalobou na určení (30 dnů, proti správci); vyloučeny jsou jen řádné opravné prostředky proti rozhodnutí, nikoli incidenční přezkum trvání pohledávky.
-- *Protiargument:* „Odmítnutí přihlášky dle § 185 je totéž co zpětvzetí dle § 184." — Neutralizace: § 184 je dispozitivní úkon věřitele (soud bere na vědomí), zatímco § 185 je rozhodnutí soudu reagující na zákonnou skutečnost, pro kterou se nepřihlíží; liší se důsledky pro sankce dle § 178–182.
-- *Slabé místo:* sporné bývá určení, na kterou pohledávku ručitel/třetí osoba plnili, a tím i rozsah zániku; chybí-li jasné potvrzení účelu platby, hrozí předčasné ukončení účasti, jež je nutné korigovat určovací žalobou.
+Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; je rozhodnutím editora odložena do druhého kola. Nejde o negativní rešeršní závěr.
 
-#### H. Praktický závěr
+### Výklad
 
-§ 184–187 uzavírají osud přihlášky: věřitel ji může kdykoli vzít zpět (§ 184), soud ji odmítne při zákonné překážce (§ 185) a při uspokojení/zániku pohledávky během řízení ukončí účast i bez zpětvzetí (§ 186), vždy s účinkem k právní moci a u § 186 s obranou určovací žalobou; částečné situace se řeší obdobně (§ 187).
+[1] **Oprávněná osoba a předmět zpětvzetí.** Přihlášku může vzít zpět věřitel, který ji podal, i osoba, na niž se hledí jako na přihlášeného věřitele. § 187 rozšiřuje postup i na část přihlášené pohledávky; rozsah zpětvzetí proto musí být z podání určitelný.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Rozlišit zpětvzetí přihlášky (§ 184), odmítnutí (§ 185) a ukončení účasti pro úhradu/zánik (§ 186).
-- [ ] Při úhradě pohledávky ručitelem/třetí osobou doložit účel platby a rozsah zániku (vč. části dle § 187).
-- [ ] Proti rozhodnutí dle § 186 zvážit žalobu na určení do 30 dnů proti správci, tvrdí-li věřitel trvání pohledávky.
-- [ ] Hlídat dopad zpětvzetí na sankce za nadhodnocení (§ 178–182) a okamžik právní moci jako konec účasti.
+[2] **Čas a účinek zpětvzetí.** Zpětvzetí lze učinit kdykoli v průběhu insolvenčního řízení. Samotným zpětvzetím však účast nekončí: soud je bere na vědomí rozhodnutím a účast věřitele končí až právní mocí tohoto rozhodnutí.
 
-**Typicky rozhodné důkazy / podklady:** doklady o úhradě/zániku pohledávky (bankovní výpisy, potvrzení), korespondence o účelu platby ručitele/zástavce, spisový materiál o vadách a doplnění přihlášky, podání o zpětvzetí.
+[3] **Odvolání.** Proti rozhodnutí může podat odvolání jen věřitel nebo osoba, která podala návrh na vstup do řízení místo věřitele. Zákonná citace v odstavci 1 doslova odkazuje na „§ 183 odst. 2“, zatímco oprávnění plnící osoby navrhnout vstup upravuje § 183 odst. 3; při výkladu procesního mechanismu je nutné vycházet z obou ustanovení v jejich úplném znění.
+
+[4] **Povinný údaj při plnění třetí osoby.** Bere-li věřitel přihlášku zpět proto, že jej uspokojila osoba podle § 183 odst. 1 nebo 2, musí tuto skutečnost ve zpětvzetí uvést. Porušení této povinnosti zákon spojuje s odpovědností věřitele vůči plnící osobě za vzniklou škodu nebo jinou újmu.
+
+[5] **Ochranný postup soudu.** Soud plnící osobu vyrozumí, stanoví jí lhůtu k návrhu na vstup místo věřitele a o zpětvzetí rozhodne až po uplynutí této lhůty. Nejde tedy o prosté okamžité ukončení účasti původního věřitele po plnění ručitele, spoludlužníka nebo poskytovatele zajištění.
+
+[6] **Rozsah vstupu.** Vyhoví-li soud návrhu plnící osoby, nepřihlíží se ke zpětvzetí v rozsahu povoleného vstupu. Procesní postavení se tak zachová pro tu část pohledávky, v níž plnící osoba nastoupila; ve zbývajícím rozsahu se účinky zpětvzetí posoudí samostatně.
+
+[7] **Intertemporalita.** Původní znění § 184 upravovalo pouze obecné zpětvzetí. Ochranný mechanismus nynějších odstavců 2 a 3 a související rozšíření odvolací legitimace přinesl zákon č. 294/2013 Sb. s účinností od 1. ledna 2014. U staršího procesního děje je proto nutné ověřit znění účinné v rozhodné době.
+
+### Judikatura
+
+Při této revizi nebylo jako pramen materiálního právního závěru použito žádné soudní rozhodnutí. Tím se nevyslovuje, že relevantní judikatura neexistuje; zařazení rozhodnutí vyžaduje otevření plného textu z oficiálního soudního webu a samostatnou kontrolu skutkového, procesního a intertemporálního kontextu.
 
 ---
 

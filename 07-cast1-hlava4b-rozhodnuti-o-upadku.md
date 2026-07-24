@@ -1671,6 +1671,10 @@ Do tohoto oddílu nebylo zařazeno rozhodnutí, jehož plný text by byl ověře
 
 ## § 158 — Rozhodnutí o neúpadku
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Před rozhodnutím o způsobu řešení úpadku podle § 149 rozhodne insolvenční soud i bez návrhu, že dlužník není v úpadku, zjistí-li, že
 > a) ani po rozhodnutí o úpadku nebyl osvědčen dlužníkův úpadek, nebo
 > b) zde není žádný přihlášený věřitel a všechny pohledávky za majetkovou podstatou a pohledávky jim postavené na roveň jsou uspokojeny.
@@ -1679,66 +1683,51 @@ Do tohoto oddílu nebylo zařazeno rozhodnutí, jehož plný text by byl ověře
 > (4) Pro rozhodnutí podle odstavců 1 a 2 platí ustanovení části druhé hlavy první dílu 8 tohoto zákona o zrušení konkursu přiměřeně.
 > (5) Tytéž účinky jako rozhodnutí podle odstavců 1 a 2 má i rozhodnutí, kterým odvolací soud změnil nebo zrušil rozhodnutí o úpadku vydané soudem prvního stupně; právní mocí usnesení, kterým odvolací soud zrušil rozhodnutí o úpadku vydané soudem prvního stupně, však insolvenční řízení nekončí.
 
+### Přehled výkladu
+
+§ 158 umožňuje po rozhodnutí o úpadku, avšak pouze před rozhodnutím o způsobu jeho řešení podle § 149, odstranit rozhodnutí o úpadku z dalšího procesního základu řízení. Upravuje dvě alternativy rozhodnutí bez návrhu, samostatný návrhový postup založený na jednomyslném souhlasu věřitelů a insolvenčního správce, okamžik účinků a zvláštní účinky odvolacího rozhodnutí.
+
+### Souvisící ustanovení
+
+- **§ 3 a § 136** — znaky úpadku a rozhodnutí o úpadku.
+- **§ 141** — odvolání proti rozhodnutí o úpadku.
+- **§ 149** — rozhodnutí o způsobu řešení úpadku jako nejzazší procesní hranice použití § 158 odst. 1 a 2.
+- **§ 168 a § 169** — pohledávky za majetkovou podstatou a pohledávky jim postavené na roveň.
+- **§ 308 až 313** — zrušení konkursu; jejich přiměřené použití přikazuje § 158 odst. 4.
+
+### Souvisící předpisy
+
+- **Zákon č. 99/1963 Sb., občanský soudní řád, zejména § 167 a § 170** — obecný rámec usnesení a vázanosti soudu usnesením; použije se jen subsidiárně, nestanoví-li insolvenční zákon jinak.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona vysvětloval § 158 jako řešení situace, kdy po rozhodnutí o úpadku, ale ještě před rozhodnutím o způsobu řešení, vyjde najevo, že dlužník v úpadku není. Pokračovat rozhodnutím o některém způsobu řešení by podle zprávy nebylo účelné. Konstrukce měla s modifikacemi odpovídajícími této fázi řízení vycházet z úpravy zrušení konkursu. Jde o historické vysvětlení původní osnovy; konkrétní podmínky a účinky určuje aktuální text § 158.
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní literární rešerše.
+
 ### Výklad
 
-**Zvláštní rozhodnutí** o tom, že dlužník **není v úpadku** *po* rozhodnutí o úpadku, *před* rozhodnutím o způsobu řešení.
+[1] **Procesní okno.** Rozhodnutí podle odstavců 1 a 2 předpokládá dřívější rozhodnutí o úpadku a musí předcházet rozhodnutí o způsobu řešení úpadku podle § 149. § 158 proto není obecným prostředkem k ukončení řízení v kterékoli jeho fázi; po rozhodnutí o způsobu řešení zákon odkazuje na jiné instituty, zejména podle zvoleného způsobu řešení.
 
-#### Důvody
+[2] **Neosvědčený úpadek.** Podle odstavce 1 písm. a) soud rozhoduje i bez návrhu, jestliže zjistí, že dlužníkův úpadek nebyl osvědčen ani po rozhodnutí o úpadku. Rozhodný je zákonný znak neosvědčení úpadku, nikoli samotná izolovaná okolnost, že dlužník po rozhodnutí získal prostředky nebo uhradil některý závazek; význam takové okolnosti závisí na celkovém skutkovém podkladu k znakům úpadku.
 
-(a) **Úpadek se dodatečně neosvědčil** — typicky vyjde najevo, že platební neschopnost byla dočasná, dlužník mezitím získal financování, atd.
+[3] **Absence přihlášeného věřitele.** Odstavec 1 písm. b) obsahuje kumulativní podmínky: nesmí zde být žádný přihlášený věřitel a současně musí být uspokojeny všechny pohledávky za majetkovou podstatou i všechny pohledávky jim postavené na roveň. Splnění jen jedné z těchto podmínek tuto alternativu nezakládá. Zákon ani zde nevyžaduje návrh.
 
-(b) **Žádný přihlášený věřitel + uhrazeny všechny pohledávky za podstatou** — typicky když mezitím dlužník uhradil všechny dluhy, věřitelé vzali zpět přihlášky.
+[4] **Návrh dlužníka a souhlasná listina.** Odstavec 2 je samostatnou cestou. Návrh může podat dlužník a musí k němu připojit listinu, na níž s návrhem vyslovili souhlas všichni věřitelé a insolvenční správce. Pravost podpisu každé podepsané osoby musí být úředně ověřena. Požadavek „všichni věřitelé“ nelze bez textové opory zúžit jen na věřitele přihlášené.
 
-#### Návrh dlužníka (odst. 2)
+[5] **Účinky až právní mocí.** Rozhodnutí podle odstavců 1 a 2 je vykonatelné a jeho účinky nastávají dnem právní moci; týmž okamžikem insolvenční řízení končí. Samotné vydání nepravomocného rozhodnutí tedy účinky uvedené v § 158 odst. 3 nevyvolává.
 
-Pokud dlužník přiloží **listinu se souhlasy všech věřitelů a správce** (úředně ověřené podpisy), soud rozhodne. *Vyžaduje dohodu se všemi věřiteli* — v praxi pro malé řízení teoreticky možné.
+[6] **Přiměřené použití úpravy zrušení konkursu.** Odkaz v odstavci 4 zahrnuje ustanovení § 308 až 313 přiměřeně, tedy s úpravami vyžadovanými odlišnou fází řízení. Nelze mechanicky přenést každý předpoklad zrušení již prohlášeného konkursu; použitelnost jednotlivého pravidla je nutno posoudit podle jeho účelu a slučitelnosti s rozhodnutím o neúpadku.
 
-**Účinky**: *právní mocí končí řízení*. Aplikují se obdobně pravidla o zrušení konkursu (Část druhá Hlava I Díl 8).
+[7] **Odvolací rozhodnutí.** Změna i zrušení rozhodnutí soudu prvního stupně o úpadku mají podle první části odstavce 5 tytéž účinky jako rozhodnutí podle odstavců 1 a 2. Závěrečná věta však výslovně stanoví výjimku pro zrušující usnesení: jeho právní mocí insolvenční řízení nekončí. Řízení tak zůstává otevřeno pro další postup po zrušení rozhodnutí prvního stupně.
 
-#### Účinky odvolacího rozhodnutí (odst. 5)
+[8] **Historický pramen a intertemporalita.** Důvodová zpráva potvrzuje účel vloženého procesního korektivu mezi rozhodnutím o úpadku a rozhodnutím o způsobu řešení. Pro řízení vedené v jiné době je však třeba ověřit tehdy účinné znění § 158 i navazujících ustanovení; původní osnova ani její důvodová zpráva nejsou náhradou této kontroly.
 
-Pokud vrchní soud zruší rozhodnutí o úpadku, má to *stejné účinky* — řízení nekončí (vrací se k novému projednání).
+### Judikatura
 
-### Vazby
-
-- **§ 308 — § 313** — zrušení konkursu (analogie).
-
-### F. Kazuistika
-
-**1. Modelová situace.** Po rozhodnutí o úpadku dlužníka (s. r. o.), avšak před rozhodnutím o způsobu řešení (§ 149), vyjde najevo, že dlužník mezitím získal financování a uhradil všechny splatné závazky; všichni přihlášení věřitelé vzali přihlášky zpět a pohledávky za podstatou jsou uspokojeny. Alternativně dlužník předloží listinu, na níž *všichni* věřitelé a insolvenční správce s úředně ověřenými podpisy souhlasí s tím, že dlužník není v úpadku. Důkazy: doklady o úhradě závazků, zpětvzetí přihlášek, listina se souhlasy a ověřením podpisů.
-
-**2. Právní otázka.** Za jakých podmínek a s jakými účinky může insolvenční soud po rozhodnutí o úpadku rozhodnout, že dlužník není v úpadku (§ 158)?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 158 — soud i bez návrhu rozhodne, že dlužník není v úpadku, nebyl-li úpadek ani po rozhodnutí o úpadku osvědčen, nebo není-li přihlášený věřitel a jsou uspokojeny pohledávky za podstatou (odst. 1); na návrh dlužníka s listinou se souhlasy všech věřitelů a správce a úředně ověřenými podpisy (odst. 2); rozhodnutí je vykonatelné a účinné právní mocí, jíž *řízení končí* (odst. 3); přiměřené použití úpravy o zrušení konkursu (odst. 4); stejné účinky má i změna/zrušení rozhodnutí o úpadku odvolacím soudem, přičemž zrušením řízení nekončí (odst. 5).
-- *Související ustanovení téhož zákona:* § 149 (rozhodnutí o způsobu řešení — § 158 mu předchází), § 141 (odvolání proti úpadku), § 308–313 (zrušení konkursu — analogie), § 168, § 169 (pohledávky za podstatou).
-- *Související předpisy:* § 168 a násl. o. s. ř. (ověřování podpisů — úřední ověření).
-- *Judikatura:* obecné pojetí § 158 jako výjimečného pozitivního rozhodnutí ukončujícího řízení, navazujícího na přiměřené použití pravidel o zrušení konkursu.
-
-**4. Subsumpce.** První situace naplňuje odst. 1: úpadek se *dodatečně neosvědčil* (resp. není přihlášený věřitel a pohledávky za podstatou jsou uspokojeny — písm. b) — soud rozhodne *i bez návrhu*, že dlužník není v úpadku. Druhá situace naplňuje odst. 2: dlužník předložil *listinu se souhlasy všech věřitelů a správce* s úředně ověřenými podpisy — soud rozhodne na návrh. V obou případech rozhodnutí nabytím právní moci *končí řízení* (odst. 3) a přiměřeně se použijí pravidla o zrušení konkursu (odst. 4).
-
-**5. Řešení.** Soud rozhodne, že dlužník není v úpadku; právní mocí tohoto rozhodnutí insolvenční řízení končí a vypořádá se obdobně jako při zrušení konkursu (odst. 4 — zejména odměna a náklady správce). Procesně: u odst. 1 doložit dodatečné neosvědčení úpadku či uspokojení pohledávek za podstatou a absenci přihlášených věřitelů; u odst. 2 předložit bezvadnou listinu se souhlasy *všech* věřitelů a správce a úředně ověřenými podpisy. Rozhodnutí se vydává *před* rozhodnutím o způsobu řešení (§ 149).
-
-**6. Varianty.** (a) Kdyby chyběl souhlas byť jediného věřitele nebo správce, postup dle odst. 2 by nebyl možný a řízení by pokračovalo (nebylo-li by dáno dodatečné neosvědčení dle odst. 1). (b) Kdyby úpadek *přetrvával*, soud by dle § 158 rozhodnout nemohl a pokračoval by rozhodnutím o způsobu řešení (§ 149).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Po rozhodnutí o úpadku už nelze konstatovat, že dlužník v úpadku není." — Neutralizace: § 158 výslovně umožňuje *před* rozhodnutím o způsobu řešení rozhodnout, že dlužník není v úpadku (i bez návrhu dle odst. 1, na návrh dle odst. 2).
-- *Protiargument:* „Souhlasy věřitelů stačí prosté." — Neutralizace: odst. 2 vyžaduje listinu se souhlasy *všech* věřitelů a správce a *úředně ověřenými* podpisy; jakýkoli nedostatek brání postupu.
-- *Slabé místo:* postup dle odst. 2 je v praxi obtížně dosažitelný (souhlas všech věřitelů); u odst. 1 je sporné posouzení „dodatečného neosvědčení" úpadku a uspokojení pohledávek za podstatou; účinky nastávají až právní mocí.
-
-### H. Praktický závěr
-
-§ 158 je výjimečné *pozitivní* rozhodnutí, jímž soud *před* rozhodnutím o způsobu řešení konstatuje, že dlužník není v úpadku — buď i bez návrhu (dodatečné neosvědčení úpadku, resp. absence přihlášených věřitelů při uspokojení pohledávek za podstatou — odst. 1), nebo na návrh dlužníka s listinou se souhlasy všech věřitelů a správce s úředně ověřenými podpisy (odst. 2). Právní mocí řízení končí a vypořádá se obdobně jako zrušení konkursu.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověřit, že rozhodnutí se vydává *před* rozhodnutím o způsobu řešení (§ 149).
-- [ ] U odst. 1 posoudit dodatečné neosvědčení úpadku, popř. absenci přihlášených věřitelů a uspokojení pohledávek za podstatou.
-- [ ] U odst. 2 zkontrolovat listinu se souhlasy *všech* věřitelů a správce a úřední ověření podpisů.
-- [ ] Počítat s tím, že účinky a konec řízení nastávají *právní mocí* rozhodnutí (odst. 3).
-- [ ] Přiměřeně aplikovat pravidla o zrušení konkursu, vč. vypořádání správce (odst. 4).
-
-**Typicky rozhodné důkazy / podklady:** doklady o úhradě/zániku závazků a o uspokojení pohledávek za podstatou, zpětvzetí přihlášek, listina se souhlasy všech věřitelů a správce s úředně ověřenými podpisy, podklady k vypořádání odměny a nákladů správce.
+V tomto kole nebylo zařazeno žádné rozhodnutí. Nebyl použit kandidát, u něhož by plný text z oficiálního webu soudu po ověření skutkového a procesního kontextu obsahoval přímo nosný výklad § 158. Tím se nevyslovuje závěr, že relevantní judikatura neexistuje.
 
 ---
 

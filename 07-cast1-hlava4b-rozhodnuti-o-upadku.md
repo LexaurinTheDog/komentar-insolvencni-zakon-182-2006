@@ -527,51 +527,53 @@ Do tohoto kola nebyla judikatura zařazena jako opora materiálního tvrzení. K
 
 ## § 140e — Výkon rozhodnutí a exekuce
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) V době, po kterou trvají účinky rozhodnutí o úpadku, nelze nařídit nebo zahájit výkon rozhodnutí nebo exekuci, která by postihovala majetek ve vlastnictví dlužníka, jakož i jiný majetek, který náleží do majetkové podstaty; to neplatí pro nařízení nebo zahájení výkonu rozhodnutí nebo exekuce na základě rozhodnutí insolvenčního soudu vydaného podle § 203 odst. 5.
 > (2) Pro výkon rozhodnutí nebo exekuci nařízenou nebo zahájenou v rozporu s omezením podle odstavce 1 platí § 109 odst. 6 obdobně.
 
+### Přehled výkladu
+
+Po dobu účinků rozhodnutí o úpadku je vyloučeno již **nařízení nebo zahájení** výkonu rozhodnutí či exekuce, mají-li postihnout majetek ve vlastnictví dlužníka nebo jiný majetek náležející do majetkové podstaty. Oproti režimu po pouhém zahájení insolvenčního řízení podle § 109 odst. 1 písm. c) jde o další omezení. Výjimka předpokládá rozhodnutí insolvenčního soudu podle § 203 odst. 5; samotné tvrzení, že jde o pohledávku za majetkovou podstatou nebo jí na roveň postavenou, nestačí.
+
+### Souvisící ustanovení
+
+- § 109 odst. 1 písm. c), odst. 4 až 6 — režim výkonu rozhodnutí a exekuce od zahájení insolvenčního řízení, vznik a trvání účinků a následky porušení,
+- § 136 odst. 1 — okamžik účinků rozhodnutí o úpadku,
+- § 168, § 169 a § 203 odst. 1, 4 a 5 — vymezení a uplatnění pohledávek za majetkovou podstatou a pohledávek jim postavených na roveň a zvláštní rozhodnutí umožňující uspokojení,
+- § 266 odst. 4 a § 267 — vztah zákazu k řízením o výkonu rozhodnutí a exekuci po prohlášení konkursu.
+
+### Souvisící předpisy
+
+- zákon č. 99/1963 Sb., občanský soudní řád, část šestá — výkon rozhodnutí.
+
+### Z důvodové zprávy
+
+Zvláštní část důvodové zprávy k bodu 72 (§ 140a až § 140e) vládního návrhu pozdějšího zákona č. 294/2013 Sb. vysvětluje zákaz nařízení jako ochranu účelu insolvenčního řízení před účinky individuálních výkonů a před střetem exekučního a úpadkového práva. Výjimku spojuje s režimem § 203. Jde o historické vysvětlení novely, nikoli o náhradu aktuálního textu zákona.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto redakční omezení není výsledkem negativní rešerše.
+
 ### Výklad
 
-**Silnější verze § 109 odst. 1 písm. c)**: po rozhodnutí o úpadku **nelze ani nařídit ani zahájit** exekuci (zatímco po pouhém zahájení IR — § 109 — *lze nařídit, jen ne provést*).
+[1] **Časový a věcný rozsah.** Zákaz působí jen po dobu účinků rozhodnutí o úpadku. Podle § 136 odst. 1 tyto účinky nastávají zveřejněním rozhodnutí v insolvenčním rejstříku. Rozhodující je současně předmět zamýšleného postihu: majetek ve vlastnictví dlužníka nebo jiný majetek náležející do majetkové podstaty. U majetku třetí osoby proto nelze zákaz dovodit pouze z toho, že povinným je dlužník; nejprve je nutné vyřešit, zda majetek spadá do zákonného vymezení.
 
-*Výjimka*: exekuce dle § 203 odst. 5 (pohledávky za podstatou).
+[2] **Vztah k § 109.** Od zahájení insolvenčního řízení § 109 odst. 1 písm. c) zásadně připouští nařízení nebo zahájení výkonu rozhodnutí či exekuce, ale brání jejich provedení. Po zveřejnění rozhodnutí o úpadku § 140e v popsaném majetkovém rozsahu zakazuje už první dva kroky. U dříve zahájeného řízení § 140e sám neříká, že se řízení zastavuje; jeho další vedení je nutné posoudit podle § 109 a podle pravidel příslušného způsobu řešení úpadku.
 
-### F. Kazuistika
+[3] **Výjimka podle § 203 odst. 5.** Výjimka není obecnou licencí k individuálnímu vymáhání všech pohledávek označených věřitelem jako pohledávky za majetkovou podstatou nebo jim na roveň postavené. § 203 odst. 5 navazuje na pravomocné rozhodnutí o žalobě podle odstavce 4 a na samostatné rozhodnutí insolvenčního soudu, které určí lhůtu k uspokojení a část majetkové podstaty použitelnou k uspokojení. Nařízení nebo zahájení se musí opírat právě o toto rozhodnutí a respektovat jím určené meze.
 
-**1. Modelová situace.** Soudní exekutor obdrží po zveřejnění rozhodnutí o úpadku dlužníka (fyzické osoby) nový exekuční návrh věřitele a vydá pověření k exekuci, jejímž předmětem je nemovitost dlužníka náležející do podstaty. V jiné věci insolvenční soud podle § 203 odst. 5 vydal rozhodnutí umožňující výkon ohledně pohledávky za majetkovou podstatou. Důkazy: rozhodnutí o úpadku a údaj o jeho účincích, exekuční návrh a pověření, případné rozhodnutí dle § 203 odst. 5.
+[4] **Následek porušení.** Odstavec 2 odkazuje obdobně na § 109 odst. 6. V insolvenčním řízení se proto k rozhodnutím a opatřením přijatým v rozporu s omezením nepřihlíží; je-li to nezbytné k naplnění účelu insolvenčního řízení, může insolvenční soud využít také zásahy vyjmenované v § 109 odst. 6. Z textu § 140e však nelze bez dalšího dovozovat automatické zastavení exekuce, neplatnost všech úkonů ani jediný univerzální procesní návrh.
 
-**2. Právní otázka.** Lze po rozhodnutí o úpadku nařídit nebo zahájit výkon rozhodnutí či exekuci postihující majetek v podstatě, a jaké jsou důsledky porušení tohoto zákazu?
+[5] **Praktické ověření.** Před nařízením nebo zahájením je třeba zjistit okamžik zveřejnění rozhodnutí o úpadku, trvání jeho účinků, vlastnictví a příslušnost postihovaného majetku k majetkové podstatě a existenci i přesný obsah rozhodnutí podle § 203 odst. 5. Tyto otázky nelze nahradit pouhým údajem, že vůči povinnému probíhá insolvenční řízení.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 140e — po dobu účinků úpadku *nelze nařídit ani zahájit* výkon rozhodnutí/exekuci postihující majetek dlužníka a majetek v podstatě (odst. 1); výjimkou je výkon na základě rozhodnutí dle § 203 odst. 5; pro porušení platí § 109 odst. 6 obdobně (odst. 2).
-- *Související ustanovení téhož zákona:* § 109 odst. 1 písm. c) (od zahájení IR lze exekuci nařídit, ne provést — § 140e je přísnější); § 203 odst. 5 (pohledávky za podstatou — výjimka); § 263 a násl. (osud probíhajících řízení).
-- *Související předpisy:* exekuční řád (zahájení exekuce, pověření), § 251 a násl. o. s. ř. (výkon rozhodnutí).
-- *Judikatura:* ustálené pojetí, že po rozhodnutí o úpadku jsou nově nařízené/zahájené exekuce postihující podstatu nepřípustné a nemají účinky vůči majetkové podstatě.
+[6] **Intertemporalita.** § 140e byl vložen zákonem č. 294/2013 Sb. s účinností od 1. ledna 2014. Přechodné ustanovení této novely stanovilo, že nové znění insolvenčního zákona platí i pro dříve zahájená insolvenční řízení, přičemž právní účinky úkonů učiněných před účinností zůstaly zachovány. U historických případů je proto nutné oddělit okamžik úkonu od okamžiku, od něhož se použila nová úprava.
 
-**4. Subsumpce.** Exekuce nově zahájená po zveřejnění rozhodnutí o úpadku postihuje nemovitost v podstatě — spadá pod zákaz odst. 1 a nesplňuje výjimku dle § 203 odst. 5. Naproti tomu výkon opřený o rozhodnutí insolvenčního soudu dle § 203 odst. 5 (pohledávka za podstatou) je výslovně připuštěn a zákazu nepodléhá.
+### Judikatura
 
-**5. Řešení.** Exekutor nesmí exekuci nařídit/zahájit; učiní-li tak, uplatní se obdobně § 109 odst. 6 (následky nepřípustně vedené exekuce — úkony se nezohledňují, exekuce se nedovede k postižení podstaty). Věřitel musí pohledávku přihlásit do insolvence. Výkon dle § 203 odst. 5 naopak proběhne. Procesně: správce upozorní exekutora na úpadek a domáhá se zastavení/neúčinnosti exekučních úkonů; věřitel z exekuce podá přihlášku.
-
-**6. Varianty.** (a) Kdyby exekuce byla nařízena ještě před zahájením insolvence, uplatnil by se pro mezidobí mírnější § 109 odst. 1 písm. c) (nelze provést), po rozhodnutí o úpadku pak plný zákaz dle § 140e. (b) Kdyby předmětem byl výlučně majetek nenáležející do podstaty (např. třetí osoby), zákaz § 140e by nedopadal.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Exekuci jsem jen nařídil, neprovedl — to § 109 připouští." — Neutralizace: § 140e je přísnější než § 109; po *rozhodnutí o úpadku* nelze exekuci ani nařídit, ani zahájit (nejen provést).
-- *Protiargument:* „Výjimka § 203 odst. 5 umožňuje libovolnou exekuci za podstatou." — Neutralizace: výjimka je úzká — vztahuje se jen na výkon na základě konkrétního rozhodnutí insolvenčního soudu o pohledávce za podstatou.
-- *Slabé místo:* exekutoři úpadek přehlížejí; rozlišení majetku „v podstatě" od majetku třetích osob a okamžiku zahájení exekuce může být sporné a vyvolat spory o účinky úkonů.
-
-### H. Praktický závěr
-
-Po rozhodnutí o úpadku platí přísný zákaz: nelze nařídit ani zahájit výkon rozhodnutí či exekuci postihující majetek dlužníka a majetek v podstatě; jedinou výjimkou je výkon dle § 203 odst. 5 (pohledávky za podstatou). Na porušení dopadá obdobně § 109 odst. 6. Věřitel se uspokojuje přihláškou.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Před nařízením/zahájením exekuce ověřit insolvenční rejstřík (účinky úpadku).
-- [ ] Posoudit, zda předmět exekuce náleží do majetkové podstaty.
-- [ ] Ověřit, zda nejde o výjimku dle § 203 odst. 5 (pohledávka za podstatou).
-- [ ] Při porušení aplikovat obdobně § 109 odst. 6 (následky nepřípustné exekuce).
-- [ ] Věřitele odkázat na přihlášku pohledávky do insolvence.
-
-**Typicky rozhodné důkazy / podklady:** rozhodnutí o úpadku a údaj o jeho účincích, exekuční návrh a pověření exekutora, soupis majetkové podstaty, případné rozhodnutí insolvenčního soudu dle § 203 odst. 5.
+Do tohoto kola nebylo zařazeno žádné rozhodnutí. Kandidátní zmínka o „ustáleném pojetí“ ve výchozím textu neměla konkrétní rozhodnutí ani ověřený plný text, a byla proto odstraněna. Tím se nevyslovuje závěr, že relevantní judikatura neexistuje.
 
 ---
 

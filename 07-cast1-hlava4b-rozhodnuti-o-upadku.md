@@ -1123,57 +1123,58 @@ Odborná literatura nebyla v tomto kole hodnocena; její zpracování je odlože
 
 ## § 149 — Samostatné rozhodnutí o způsobu řešení
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Nejde-li o případ podle § 148, rozhodne insolvenční soud o způsobu řešení úpadku samostatným rozhodnutím vydaným do 3 měsíců po rozhodnutí o úpadku; nesmí však rozhodnout dříve než po skončení schůze věřitelů svolané rozhodnutím o úpadku.
 > (2) Odstavec 1 se nepoužije, jestliže
 > a) dlužník podal návrh na povolení oddlužení v insolvenčním řízení zahájeném na základě insolvenčního návrhu jiné osoby; v takovém případě rozhodne insolvenční soud o způsobu řešení úpadku samostatným rozhodnutím vydaným do 30 dnů po rozhodnutí o úpadku, nebo
 > b) se dlužník stal osobou, u které tento zákon vylučuje řešení úpadku reorganizací nebo oddlužením, po rozhodnutí o úpadku; v takovém případě může insolvenční soud rozhodnout o způsobu řešení úpadku konkursem před termínem konání schůze věřitelů svolané rozhodnutím o úpadku.
 > (3) Má-li insolvenční soud rozhodnout o způsobu řešení úpadku podle odstavce 1, je předmětem jednání schůze věřitelů svolané rozhodnutím o úpadku vždy zpráva insolvenčního správce o jeho dosavadní činnosti a jeho vyjádření o vhodnosti navrženého způsobu řešení úpadku; je-li takových návrhů více, vyjádří se insolvenční správce k tomu, který z nich považuje za nejvhodnější a proč.
+>
+
+### Přehled výkladu
+
+§ 149 upravuje časový a procesní rámec samostatného rozhodnutí o způsobu řešení úpadku. Základní režim vyžaduje, aby soud rozhodl do tří měsíců po rozhodnutí o úpadku, avšak až po skončení schůze věřitelů svolané tímto rozhodnutím. Odstavec 2 obsahuje dvě výjimky; nelze je zaměňovat s obecným oprávněním soudu schůzi předběhnout. V režimu odstavce 1 musí schůze projednat zprávu správce a jeho odůvodněné vyjádření k navrženému způsobu nebo způsobům řešení.
+
+### Souvisící ustanovení
+
+§ 4 odst. 2 (způsoby řešení úpadku); § 136 odst. 2 písm. e) (svolání schůze věřitelů); § 148 (spojené rozhodnutí); § 150 až 152 (usnesení schůze a jeho závaznost); § 158 (rozhodnutí, že dlužník není v úpadku); § 316 a § 325 (přípustnost a projednání reorganizace); § 389 a násl. (oddlužení).
+
+### Souvisící předpisy
+
+Občanský soudní řád se použije podpůrně pouze v mezích § 7 insolvenčního zákona. Jádro komentované otázky upravuje insolvenční zákon zvláštně.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva k vládnímu návrhu insolvenčního zákona vysvětluje u § 148 až 152 koncepční oddělení rozhodnutí o úpadku od rozhodnutí o způsobu jeho řešení a záměr posílit vliv věřitelů. K § 149 výslovně uvádí rozhodnutí nejpozději do tří měsíců až po schůzi věřitelů. Jde o historické vysvětlení původní osnovy, nikoli o náhradu aktuálního znění. (Sněmovní tisk 1120/0, 4. volební období, zvláštní část „K § 148 až 152“, číslované s. 194–195, PDF s. 195–196.)
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tato poznámka není výsledkem negativní rešerše.
 
 ### Výklad
 
-**Lhůty pro samostatné rozhodnutí**:
-- *standard*: **3 měsíce** od úpadku, ale *nesmí před skončením schůze*,
-- *oddlužení uplatněné na věřitelský návrh*: **30 dnů**,
-- *dodatečné vyloučení* z reorganizace/oddlužení: *kdykoli*, *i před schůzí* (konkurs).
+[1] **Působnost.** Samostatný postup nastupuje jen tehdy, nebylo-li o způsobu řešení úpadku rozhodnuto spolu s rozhodnutím o úpadku podle § 148. Rozhodnutí podle § 149 je rozhodnutím o způsobu řešení úpadku, nikoli novým rozhodnutím o existenci úpadku.
 
-**Role schůze věřitelů** — zpráva správce, jeho doporučení o vhodnosti způsobu řešení.
+[2] **Základní časový rámec.** Tříměsíční lhůta běží po rozhodnutí o úpadku. Současně platí zákaz rozhodnout před skončením schůze věřitelů svolané rozhodnutím o úpadku. Obě podmínky musí být v režimu odstavce 1 respektovány; samotná připravenost věci k rozhodnutí čekání na schůzi nenahrazuje.
 
-### F. Kazuistika
+[3] **Oddlužení po návrhu jiné osoby.** Podal-li dlužník návrh na povolení oddlužení v řízení zahájeném insolvenčním návrhem jiné osoby, odstavec 1 se nepoužije a soud vydá samostatné rozhodnutí o způsobu řešení do 30 dnů po rozhodnutí o úpadku. Text této výjimky nestanoví jako podmínku předchozí skončení schůze podle odstavce 1.
 
-**1. Modelová situace.** Soud vydal samostatné rozhodnutí o úpadku dlužníka — výrobní s. r. o. (nešlo o případ spojení dle § 148) — a svolal schůzi věřitelů na 60. den. Správce ve zprávě doporučuje konkurs, jeden věřitel navrhuje reorganizaci. Soud zvažuje, kdy nejdříve může o způsobu řešení rozhodnout. V jiné věci dlužník — fyzická osoba — podal návrh na oddlužení až v řízení zahájeném věřitelem; ve třetí věci se dlužník až po rozhodnutí o úpadku stal osobou, u níž je reorganizace i oddlužení vyloučeno. Důkazy: rozhodnutí o úpadku s termínem schůze, zpráva správce, návrhy na způsob řešení, doklady o změně poměrů dlužníka.
+[4] **Dodatečné vyloučení sanačních způsobů.** Jestliže se dlužník až po rozhodnutí o úpadku stal osobou, u níž zákon vylučuje reorganizaci nebo oddlužení, může soud rozhodnout o konkursu před termínem schůze. Rozhodné musí být konkrétní zákonné vyloučení; pouhá pochybnost o úspěšnosti reorganizace či oddlužení tuto výjimku nezakládá.
 
-**2. Právní otázka.** V jakých lhůtách a za jakých podmínek rozhoduje insolvenční soud o způsobu řešení úpadku samostatným rozhodnutím podle § 149, a jakou roli má schůze věřitelů?
+[5] **Obsah schůze.** Má-li být rozhodnuto podle odstavce 1, musí být předmětem schůze zpráva insolvenčního správce o dosavadní činnosti a jeho vyjádření k vhodnosti navrženého způsobu. Při více návrzích správce označí nejvhodnější a vysvětlí proč. Vyjádření správce je informačním podkladem; zákon přiznává schůzi vlastní rozhodovací roli v mezích § 150 až 152.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 149 — samostatné rozhodnutí o způsobu řešení do *3 měsíců* po rozhodnutí o úpadku, *ne však dříve než po skončení schůze* svolané rozhodnutím o úpadku (odst. 1); výjimky: oddlužení uplatněné na *věřitelský* návrh — do *30 dnů* po rozhodnutí o úpadku (odst. 2 písm. a); dodatečné vyloučení z reorganizace/oddlužení — *konkurs i před schůzí* (odst. 2 písm. b); předmětem schůze je zpráva správce a jeho vyjádření o vhodnosti způsobu řešení (odst. 3).
-- *Související ustanovení téhož zákona:* § 148 (spojené rozhodnutí — vylučuje § 149), § 150–152 (usnesení schůze a vázanost soudu), § 316 (reorganizace), § 389 (oddlužení), § 6 (vyloučené subjekty), § 137 (termín schůze).
-- *Související předpisy:* —.
-- *Judikatura:* obecné pojetí, že soud je při rozhodování o způsobu řešení vázán usnesením schůze (§ 152), s výjimkami; samostatné rozhodnutí nesmí předbíhat schůzi (vyjma případů odst. 2).
+[6] **Usnesení věřitelů.** U podnikatele, u něhož je reorganizace přípustná, může schůze přijmout usnesení o konkursu nebo reorganizaci (§ 150). Jsou-li splněny podmínky § 152, soud podle tohoto usnesení rozhodne; nejde tedy jen o nezávazné doporučení správce nebo věřitelů.
 
-**4. Subsumpce.** První věc spadá pod odst. 1 — soud rozhodne do 3 měsíců od úpadku, *nejdříve* po skončení svolané schůze (na 60. den); o vhodnosti se vyjádří správce (odst. 3) a schůze může přijmout usnesení o způsobu řešení (§ 150–152). Druhá věc spadá pod odst. 2 písm. a) — oddlužení na věřitelský návrh: soud rozhodne do 30 dnů od úpadku. Třetí věc spadá pod odst. 2 písm. b) — dodatečné vyloučení: soud může rozhodnout o konkursu *i před* schůzí.
+[7] **Judikatorní hranice.** Nejvyšší soud v usnesení sen. zn. 29 NSČR 30/2010 vyložil tehdejší vztah § 148, § 149 a § 152 v řízení podnikatele, u něhož se řešila přípustnost reorganizace. Potvrdil význam skončení první schůze a jejího hlasování tam, kde byla reorganizace objektivně přípustná; současně připustil rozhodnutí o konkursu před schůzí, stala-li se reorganizace definitivně nepřípustnou. Pro dnešní postup je nutné tento starší závěr číst spolu s nynějším výslovným § 149 odst. 2 písm. b), nikoli jako obecnou možnost obejít schůzi.
 
-**5. Řešení.** V první věci soud vyčká skončení schůze a poté (do 3 měsíců) rozhodne o způsobu řešení, zpravidla v souladu s usnesením schůze (§ 152); ve druhé věci rozhodne o oddlužení do 30 dnů (odst. 2 písm. a); ve třetí věci může prohlásit konkurs ještě před schůzí (odst. 2 písm. b). Procesně: hlídat běh tříměsíční (resp. třicetidenní) lhůty a vazbu na skončení schůze; zajistit zprávu správce (odst. 3); respektovat případné usnesení schůze.
+[8] **Intertemporalita.** Rozhodnutí 29 NSČR 30/2010 vycházelo z právní úpravy a skutkového stavu let 2009–2010. Jeho obecný systémový závěr o vztahu schůze a volby způsobu řešení zůstává použitelný jen v rozsahu slučitelném s právním stavem k 19. 7. 2026; aktuální postup se vždy řídí nyní účinným textem § 149 a souvisejících ustanovení.
 
-**6. Varianty.** (a) Kdyby šlo o případ spojení dle § 148 (např. prepack nebo oddlužení podané s návrhem), § 149 by se vůbec neuplatnil a rozhodlo by se spojeně. (b) Kdyby schůze nepřijala usnesení o způsobu řešení, rozhodl by soud sám v mezích lhůty odst. 1 podle doporučení správce a poměrů věci.
+### Judikatura
 
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „O způsobu řešení lze rozhodnout hned, schůzi není třeba čekat." — Neutralizace: dle odst. 1 soud *nesmí* rozhodnout dříve než po skončení schůze svolané rozhodnutím o úpadku (vyjma případů odst. 2).
-- *Protiargument:* „Lhůta pro oddlužení na věřitelský návrh je stejná jako standardní 3 měsíce." — Neutralizace: odst. 2 písm. a) stanoví zvláštní *třicetidenní* lhůtu pro oddlužení uplatněné v řízení zahájeném jinou osobou.
-- *Slabé místo:* posouzení „dodatečného vyloučení" z reorganizace/oddlužení (odst. 2 písm. b) a okamžiku skončení schůze může být sporné; nečinnost schůze zvyšuje odpovědnost soudu za volbu způsobu řešení.
-
-### H. Praktický závěr
-
-Není-li dán případ spojení dle § 148, rozhoduje soud o způsobu řešení úpadku *samostatně*: standardně do 3 měsíců od úpadku a nejdříve po skončení svolané schůze (odst. 1); oddlužení na věřitelský návrh do 30 dnů (odst. 2 písm. a); při dodatečném vyloučení z reorganizace/oddlužení lze konkurs prohlásit i před schůzí (odst. 2 písm. b). Schůze se vyjadřuje prostřednictvím zprávy a doporučení správce.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověřit, že nejde o případ spojení dle § 148 (jinak § 149 neplatí).
-- [ ] Hlídat tříměsíční lhůtu a zákaz rozhodnout před skončením schůze (odst. 1).
-- [ ] U oddlužení na věřitelský návrh aplikovat třicetidenní lhůtu (odst. 2 písm. a).
-- [ ] Při dodatečném vyloučení z reorganizace/oddlužení zvážit konkurs i před schůzí (odst. 2 písm. b).
-- [ ] Zajistit zprávu a doporučení správce jako předmět jednání schůze (odst. 3).
-
-**Typicky rozhodné důkazy / podklady:** rozhodnutí o úpadku s termínem schůze, zpráva insolvenčního správce a jeho doporučení, návrhy věřitelů na způsob řešení, doklady o změně poměrů dlužníka (pro odst. 2 písm. b), případný návrh na povolení oddlužení.
+- **Nejvyšší soud, usnesení ze dne 20. 1. 2011, sen. zn. 29 NSČR 30/2010, ECLI:CZ:NS:2011:29.NSCR.30.2010.1, R 96/2011.** Plný text: zejména právní věty I až III a odůvodnění k § 148 až 152. Skutkově šlo o podnikatele a rozhodnutí o konkursu po zjištění úpadku, při sporu o přípustnost reorganizace a význam hlasování první schůze věřitelů. Rozhodnutí nepodporuje obecné předbíhání schůze; jeho použitelnost je omezena výše uvedenou intertemporální poznámkou.
 
 ---
 

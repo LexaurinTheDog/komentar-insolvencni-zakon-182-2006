@@ -700,57 +700,60 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola. Nejde o 
 > b) zastavení řízení pro nedostatek podmínky řízení, který nelze odstranit nebo který se nepodařilo odstranit, nebo pro zpětvzetí insolvenčního návrhu,
 > c) zamítnutí insolvenčního návrhu.
 
-**Judikatura (z místních zdrojů):**
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-- *NS* [29 Cdo 311/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8645493EE9D1AECCC1257F6A002A8991?openDocument) — kat. A, 25. 11. 2015
-  > „Neurčí-li insolvenční soud jinak v usnesení, jímž zamítá insolvenční návrh, zanikají účinky spojené se zahájením insolvenčního řízení nejpozději okamžikem zveřejnění tohoto usnesení v insolvenčním rejstříku"
+### Znění ustanovení
+
+Úplné znění je zachyceno v blokové citaci výše. Citace byla ověřena proti oficiálnímu znění účinnému k 19. 7. 2026.
+
+### Přehled výkladu
+
+§ 142 podává uzavřený přehled jiných rozhodnutí o insolvenčním návrhu než rozhodnutí o úpadku. Rozlišuje odmítnutí návrhu, zastavení řízení a zamítnutí návrhu. Konkrétní předpoklady těchto rozhodnutí upravují zejména § 128, § 128a, § 130 a § 143; procesní následky pak především § 145 až § 147.
+
+### Souvisící ustanovení
+
+- **§ 128 a § 128a** — odmítnutí vadného nebo zjevně bezdůvodného insolvenčního návrhu.
+- **§ 129 a § 130** — zpětvzetí insolvenčního návrhu a zastavení řízení.
+- **§ 143** — důvody zamítnutí insolvenčního návrhu.
+- **§ 145** — odvolání proti zamítnutí insolvenčního návrhu.
+- **§ 146** — zánik účinků zahájení řízení a předběžných opatření, novoty v odvolacím řízení a vypořádání předběžného správce.
+- **§ 147** — odpovědnost a náhrada škody nebo jiné újmy při zastavení, odmítnutí či zamítnutí věřitelského návrhu.
+
+### Souvisící předpisy
+
+- **Zákon č. 99/1963 Sb., občanský soudní řád, zejména § 43, § 96, § 103 a § 104** — obecná úprava vad podání, zpětvzetí a podmínek řízení se použije jen subsidiárně podle § 7 insolvenčního zákona a s respektováním jeho zvláštních pravidel; § 128 odst. 1 insolvenčního zákona použití § 43 o. s. ř. výslovně vylučuje.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva vychází z nové koncepce, podle níž se o zjištění úpadku nebo hrozícího úpadku rozhoduje samostatným výrokem. Jiná rozhodnutí než rozhodnutí o úpadku soustřeďuje do § 142 až § 145 a výslovně uvádí, že nově bylo v zájmu souladu s občanským soudním řádem upraveno odmítnutí insolvenčního návrhu. Podrobnější vysvětlení zamítnutí vztahuje k § 143. Jde o historické vysvětlení systematiky původní osnovy; rozhodující je aktuální text zákona.
+
+*Pramen:* vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, zvláštní část „K § 136 až 147“, číslované s. 191–193 (PDF s. 192–194), zvláště číslovaná s. 192.
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento oddíl nepředstavuje negativní rešerši ani tvrzení, že relevantní literatura neexistuje.
 
 ### Výklad
 
-**Tři kategorie negativních rozhodnutí**:
+[1] **Povaha ustanovení.** § 142 je rozcestníkem: taxativně pojmenovává tři typy rozhodnutí o insolvenčním návrhu, jimiž se nerozhoduje o úpadku. Sám však nepodává úplnou úpravu jejich předpokladů, opravných prostředků ani následků. Ty je nutné určit z navazujících ustanovení a z procesního kontextu konkrétní věci.
 
-(a) **Odmítnutí** — procesní rozhodnutí. *Vady* (§ 128) nebo *zjevná bezdůvodnost* (§ 128a).
+[2] **Odmítnutí.** Písmeno a) zahrnuje odmítnutí pro vady a pro zjevnou bezdůvodnost. § 128 odst. 1 ukládá odmítnout insolvenční návrh, který neobsahuje všechny náležitosti nebo je nesrozumitelný či neurčitý, jestliže pro tyto nedostatky nelze pokračovat; soud tak musí učinit neprodleně, nejpozději do sedmi dnů, a § 43 o. s. ř. se nepoužije. Zjevnou bezdůvodnost upravuje samostatně § 128a.
 
-(b) **Zastavení řízení** — pro *neodstranitelný nedostatek podmínek* (typicky vyloučený subjekt podle § 6) nebo *zpětvzetí* (§ 130).
+[3] **Zastavení řízení.** Písmeno b) spojuje zastavení se dvěma okruhy situací: s neodstranitelným nebo neodstraněným nedostatkem podmínky řízení a se zpětvzetím insolvenčního návrhu. U zpětvzetí stanoví podmínky § 129 a následek § 130. U podmínek řízení je třeba přesně určit povahu nedostatku a možnost jeho odstranění; pouhý odkaz na § 142 nenahrazuje toto posouzení.
 
-(c) **Zamítnutí** — *meritorní* zamítnutí (úpadek neosvědčen — § 143).
+[4] **Zamítnutí.** Písmeno c) označuje zamítnutí insolvenčního návrhu; zákonné předpoklady rozvádí § 143. Základním pravidlem jeho odstavce 1 je zamítnutí, nejsou-li splněny zákonem stanovené předpoklady pro vydání rozhodnutí o úpadku. Zamítnutí proto nelze směšovat s odmítnutím návrhu pro vady ani se zastavením řízení.
 
-### F. Kazuistika
+[5] **Následky rozhodnutí.** Podle § 146 odst. 1 zanikají účinností rozhodnutí podle § 142 účinky spojené se zahájením insolvenčního řízení a dosud vydaná předběžná opatření. Soud může z důvodů okolností případu určit jejich zánik až právní mocí. § 142 tedy vymezuje druhy rozhodnutí, zatímco okamžik a možné odložení uvedených následků upravuje § 146.
 
-**1. Modelová situace.** Věřitel podá insolvenční návrh proti dlužníku, který (a) neobsahuje žádné konkrétní rozhodující skutečnosti o úpadku a postrádá přílohy, a navíc (b) směřuje proti subjektu, na který se insolvenční zákon nevztahuje (územní samosprávný celek dle § 6). V jiné věci jiný věřitel po podání návrhu vzal návrh zpět. Soud zvažuje, kterou formou negativního rozhodnutí v jednotlivých případech rozhodnout. Důkazy: insolvenční návrhy a jejich přílohy, identifikace dlužníků, projev zpětvzetí.
+[6] **Odvolání a odpovědnost.** § 146 odst. 2 vylučuje v odvolacím řízení zohlednění skutečností nastalých nebo vzniklých po vydání rozhodnutí soudu prvního stupně. § 145 zvlášť vymezuje osobu oprávněnou odvolat se proti zamítnutí. Možná odpovědnost za škodu nebo jinou újmu se posuzuje podle § 147 a nelze ji dovodit automaticky jen z toho, že věřitelský návrh skončil některým rozhodnutím podle § 142.
 
-**2. Právní otázka.** Které z negativních rozhodnutí podle § 142 (odmítnutí, zastavení, zamítnutí) přichází v úvahu pro vadný/zjevně bezdůvodný návrh, pro vyloučený subjekt a pro zpětvzetí návrhu?
+[7] **Meze zkratek.** Není přesné spojovat každou chybějící přílohu automaticky s odmítnutím návrhu podle § 128 odst. 1: zákon rozlišuje náležitosti samotného návrhu a přílohy a pro některé vady příloh stanoví zvláštní postup v § 128 odst. 2. Stejně tak nelze bez samostatné právní analýzy označit každý návrh proti osobě vyjmenované v § 6 za totožný procesní případ; rozhodující je konkrétní zákonná výluka a procesní stav.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 142 — jinými rozhodnutími jsou: a) *odmítnutí* návrhu pro vady nebo zjevnou bezdůvodnost, b) *zastavení* řízení pro neodstranitelný nedostatek podmínky řízení nebo pro zpětvzetí, c) *zamítnutí* návrhu.
-- *Související ustanovení téhož zákona:* § 128 (vady návrhu — odmítnutí), § 128a (zjevná bezdůvodnost), § 6 (vyloučené subjekty — nedostatek podmínky řízení), § 129–130 (zpětvzetí), § 143 (zamítnutí), § 146 (zánik účinků po těchto rozhodnutích).
-- *Související předpisy:* § 43, § 104, § 96 o. s. ř. (vady podání, podmínky řízení, zpětvzetí).
-- *Judikatura:* NS 29 Cdo 311/2015 — neurčí-li soud jinak, účinky zahájení zanikají nejpozději zveřejněním usnesení dle § 142 v rejstříku (vztah § 142 a § 146).
+[8] **Intertemporalita.** Komentář vykládá znění účinné k 19. 7. 2026. Původní důvodová zpráva je použitelná k vysvětlení základní systematiky, nikoli jako doklad všech dnešních podmínek v navazujících ustanoveních. U starších řízení a rozhodnutí je nutné ověřit tehdy účinné znění zejména § 128 až § 130 a § 143 až § 147.
 
-**4. Subsumpce.** Návrh (a) bez rozhodujících skutečností a příloh trpí *vadami*, popř. je *zjevně bezdůvodný* — náleží *odmítnutí* dle písm. a). Návrh (b) proti subjektu vyloučenému dle § 6 trpí *neodstranitelným nedostatkem podmínky řízení* — náleží *zastavení* dle písm. b). *Zpětvzetí* návrhu ve třetí věci je rovněž důvodem *zastavení* dle písm. b). *Zamítnutí* (písm. c) by přicházelo v úvahu jen při věcném neosvědčení úpadku (§ 143), nikoli v těchto případech.
+### Judikatura
 
-**5. Řešení.** Soud rozhodne diferencovaně: návrh (a) odmítne (vady/zjevná bezdůvodnost), řízení (b) zastaví pro vyloučený subjekt, řízení o zpětvzatém návrhu zastaví. S každým z těchto rozhodnutí zanikají účinky zahájení (§ 146), nejpozději zveřejněním v rejstříku (NS 29 Cdo 311/2015). Procesně: u vad zvážit výzvu k odstranění (je-li odstranitelná); u nedostatku podmínky a zpětvzetí rozhodnout bez věcného přezkumu úpadku.
-
-**6. Varianty.** (a) Kdyby návrh sice měl vady, ale ty byly *odstranitelné* a věřitel je k výzvě odstranil, k odmítnutí by nedošlo a řízení by pokračovalo. (b) Kdyby návrh byl bezvadný a směřoval proti způsobilému subjektu, ale úpadek by nebyl osvědčen, šlo by o *zamítnutí* (§ 143), nikoli odmítnutí či zastavení.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Každý neúspěšný návrh se zamítá." — Neutralizace: § 142 rozlišuje tři odlišné formy; zamítnutí (písm. c) je vyhrazeno *meritornímu* neosvědčení úpadku, kdežto vady vedou k odmítnutí a nedostatek podmínky či zpětvzetí k zastavení.
-- *Protiargument:* „Vyloučený subjekt dle § 6 je důvodem k zamítnutí." — Neutralizace: jde o *neodstranitelný nedostatek podmínky řízení*, tedy *zastavení* (písm. b), nikoli meritorní zamítnutí.
-- *Slabé místo:* hranice mezi „vadami" (odmítnutí) a „zjevnou bezdůvodností" (rovněž odmítnutí dle § 128a) i mezi odstranitelným a neodstranitelným nedostatkem může být sporná a ovlivňuje navazující odpovědnost navrhovatele (§ 147).
-
-### H. Praktický závěr
-
-§ 142 člení negativní rozhodnutí o insolvenčním návrhu do tří kategorií: odmítnutí (vady nebo zjevná bezdůvodnost), zastavení (neodstranitelný nedostatek podmínky řízení nebo zpětvzetí) a zamítnutí (meritorní neosvědčení úpadku). Správná volba formy je významná pro běh účinků (§ 146) i pro odpovědnost navrhovatele (§ 147).
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Posoudit, zda návrh trpí vadami nebo je zjevně bezdůvodný (odmítnutí — písm. a).
-- [ ] Zjistit, zda jde o neodstranitelný nedostatek podmínky řízení (§ 6) nebo zpětvzetí (zastavení — písm. b).
-- [ ] Rezervovat zamítnutí (písm. c) pro meritorní neosvědčení úpadku (§ 143).
-- [ ] U odstranitelných vad zvážit výzvu k odstranění před odmítnutím.
-- [ ] Zohlednit dopad zvolené formy na zánik účinků (§ 146) a odpovědnost navrhovatele (§ 147).
-
-**Typicky rozhodné důkazy / podklady:** insolvenční návrh a jeho přílohy, identifikace dlužníka (vyloučení dle § 6), projev zpětvzetí, podklady k osvědčení/neosvědčení úpadku.
+Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k taxonomii § 142. Původní odkaz na usnesení sp. zn. 29 Cdo 311/2015 se týkal především následků podle § 146, nikoli vymezení tří kategorií v § 142, a byl odstraněn. Tím se nevyslovuje závěr, že relevantní judikatura neexistuje.
 
 ---
 

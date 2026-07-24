@@ -211,118 +211,104 @@ Do uzavřeného pramenného ledgeru nebylo zařazeno žádné rozhodnutí. Stáv
 
 ## § 168 — Pohledávky za majetkovou podstatou — **NEJVÝZNAMNĚJŠÍ PARAGRAF PRO KATEGORIZACI**
 
-> (1) Pohledávkami za majetkovou podstatou, pokud vznikly **po zahájení insolvenčního řízení nebo po vyhlášení moratoria**, jsou
-> a) náhrada hotových výdajů a odměna **předběžného správce**; to neplatí, byl-li předběžný správce ustanoven insolvenčním správcem,
-> b) náhrada nutných výdajů a odměna **likvidátora dlužníka** jmenovaného soudem a **správce podniku** dlužníka za součinnost poskytnutou předběžnému správci nebo insolvenčnímu správci,
-> c) náhrada nutných výdajů a odměna členů a náhradníků **věřitelského výboru**,
-> d) náhrada **zálohy na náklady** insolvenčního řízení, jestliže ji v souladu s rozhodnutím insolvenčního soudu zaplatila jiná osoba než dlužník,
-> e) pohledávky věřitelů **vzniklé za trvání moratoria** ze smluv podle § 122 odst. 2,
-> f) pohledávky věřitelů z **úvěrového financování**.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Pohledávkami za majetkovou podstatou, pokud vznikly po zahájení insolvenčního řízení nebo po vyhlášení moratoria, jsou
 >
-> (2) Pohledávkami za majetkovou podstatou, pokud vznikly **po rozhodnutí o úpadku**, jsou
-> a) hotové výdaje a odměna **insolvenčního správce**,
-> b) **náklady spojené s udržováním a správou** majetkové podstaty dlužníka,
-> c) náhrada nutných výdajů a odměna **likvidátora**, osoby v postavení obdobném postavení likvidátora a odpovědného zástupce za činnost prováděnou po rozhodnutí o úpadku,
-> d) náhrada hotových výdajů a odměna **znalce** ustanoveného insolvenčním soudem za účelem ocenění majetkové podstaty,
-> e) **daně, poplatky** a jiná obdobná peněžitá plnění, pojistné na sociální zabezpečení a příspěvek na státní politiku zaměstnanosti, pojistné na veřejné zdravotní pojištění,
-> f) pohledávky věřitelů ze **smluv uzavřených osobou s dispozičními oprávněními**, s výjimkou smluv uzavřených dlužníkem po schválení oddlužení,
-> g) pohledávky věřitelů ze smluv, které se podle tohoto zákona považují za smlouvy, **jejichž splnění osoba s dispozičními oprávněními neodmítla**, jestliže se týkají plnění poskytnutého věřiteli dlužníku **po zahájení insolvenčního řízení**; to neplatí pro pohledávky, které se týkají plnění poskytnutého věřiteli za trvání oddlužení,
-> h) pohledávky věřitelů odpovídající právu na vrácení plnění ze smluv, **jejichž splnění osoba s dispozičními oprávněními odmítla**, jestliže se týkají plnění poskytnutého věřiteli dlužníku v době od zahájení insolvenčního řízení do dne, kdy podle tohoto zákona nastaly účinky odmítnutí; to neplatí pro pohledávky, které se týkají plnění poskytnutého věřiteli za trvání oddlužení,
-> i) **úroky podle § 171 odst. 4** [zajištěné pohledávky v reorganizaci],
-> j) náhrada **hotových výdajů osob, které poskytly insolvenčnímu správci součinnost**,
+> a) náhrada hotových výdajů a odměna předběžného správce; to neplatí, byl-li předběžný správce ustanoven insolvenčním správcem,
+>
+> b) náhrada nutných výdajů a odměna likvidátora dlužníka jmenovaného soudem a správce podniku dlužníka za součinnost poskytnutou předběžnému správci nebo insolvenčnímu správci,
+>
+> c) náhrada nutných výdajů a odměna členů a náhradníků věřitelského výboru,
+>
+> d) náhrada zálohy na náklady insolvenčního řízení, jestliže ji v souladu s rozhodnutím insolvenčního soudu zaplatila jiná osoba než dlužník,
+>
+> e) pohledávky věřitelů vzniklé za trvání moratoria ze smluv podle § 122 odst. 2,
+>
+> f) pohledávky věřitelů z úvěrového financování.
+>
+> (2) Pohledávkami za majetkovou podstatou, pokud vznikly po rozhodnutí o úpadku, jsou
+>
+> a) hotové výdaje a odměna insolvenčního správce,
+>
+> b) náklady spojené s udržováním a správou majetkové podstaty dlužníka,
+>
+> c) náhrada nutných výdajů a odměna likvidátora, osoby v postavení obdobném postavení likvidátora a odpovědného zástupce za činnost prováděnou po rozhodnutí o úpadku,
+>
+> d) náhrada hotových výdajů a odměna znalce ustanoveného insolvenčním soudem za účelem ocenění majetkové podstaty,
+>
+> e) daně, poplatky a jiná obdobná peněžitá plnění, pojistné na sociální zabezpečení a příspěvek na státní politiku zaměstnanosti, pojistné na veřejné zdravotní pojištění,
+>
+> f) pohledávky věřitelů ze smluv uzavřených osobou s dispozičními oprávněními, s výjimkou smluv uzavřených dlužníkem po schválení oddlužení,
+>
+> g) pohledávky věřitelů ze smluv, které se podle tohoto zákona považují za smlouvy, jejichž splnění osoba s dispozičními oprávněními neodmítla, jestliže se týkají plnění poskytnutého věřiteli dlužníku po zahájení insolvenčního řízení; to neplatí pro pohledávky, které se týkají plnění poskytnutého věřiteli za trvání oddlužení,
+>
+> h) pohledávky věřitelů odpovídající právu na vrácení plnění ze smluv, které se podle tohoto zákona považují za smlouvy, jejichž splnění osoba s dispozičními oprávněními odmítla, jestliže se týkají plnění poskytnutého věřiteli dlužníku v době od zahájení insolvenčního řízení do dne, kdy podle tohoto zákona nastaly účinky odmítnutí; to neplatí pro pohledávky, které se týkají plnění poskytnutého věřiteli za trvání oddlužení,
+>
+> i) úroky podle § 171 odst. 4,
+>
+> j) náhrada hotových výdajů osob, které poskytly insolvenčnímu správci součinnost,
+>
 > k) další pohledávky, o nichž tak stanoví tento zákon.
 >
-> (3) Není-li dále stanoveno jinak, pohledávky za majetkovou podstatou se uspokojují **v plné výši kdykoli po rozhodnutí o úpadku**.
+> (3) Není-li dále stanoveno jinak, pohledávky za majetkovou podstatou se uspokojují v plné výši kdykoli po rozhodnutí o úpadku.
+>
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *NS* [29 ICdo 23/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/71F16C34723FC96FC12586B10023F452?openDocument) — 27. 1. 2021, kat. A
-  > „Tím, že insolvenční správce dlužníka (původního schovatele) získal zpět prostředky, které dlužník neoprávněně vyplatil třetí osobě z advokátní úschovy, se obnovila (měla obnovit) správa cizího majetku (vymožených prostředků) schovatelem pro složitele. Jsou-li tyto prostředky po jejich navrácení v majetkové podstatě rozpoznatelné (což by při řádné správě majetkové podstaty mělo platit), má osoba oprávněná žádat o vydání předmětu úschovy k dispozici vylučovací nárok podle ustanovení § 225 a násl. insolvenčního zákona"
+§ 168 vymezuje dvě časově a věcně ohraničené skupiny pohledávek za majetkovou podstatou. Pro zařazení nestačí, že faktura nebo plnění časově následuje po rozhodnutí o úpadku: pohledávka musí vzniknout v rozhodné době a současně naplnit některý titul v odstavci 1 nebo 2, případně zvláštní zákonné ustanovení podle odstavce 2 písm. k). Pohledávky se nepřihlašují; uplatňují se postupem podle § 203. Pravidlo plného průběžného uspokojení podle odstavce 3 podléhá zákonným výjimkám, zejména pořadí při nedostatku výtěžku v konkursu podle § 305 odst. 2.
 
-### Výklad — **CENTRÁLNÍ KATEGORIZACE**
+### Souvisící ustanovení
 
-**Pohledávky za podstatou** = *administrativní a provozní pohledávky vznikající v souvislosti s insolvenčním řízením*. Mají **prioritu** — uspokojují se *v plné výši, kdykoli po rozhodnutí o úpadku* (z aktuální likvidity).
+- § 38, § 41 a § 122 odst. 2 — odměna a výdaje správce, úvěrové financování a chráněné dodávky za moratoria.
+- § 169 a § 170 — pohledávky postavené na roveň a pohledávky vyloučené z uspokojení.
+- § 203 a § 203a — uplatnění pohledávky a spor o její pořadí.
+- § 253 až 256 — ne/splnění vzájemných smluv a zvláštní smluvní režimy.
+- § 302 až 305 — konečná zpráva a uspokojení před rozvrhem v konkursu.
 
-#### Dvě podkategorie podle okamžiku vzniku
+### Souvisící předpisy
 
-**A) Pohledávky vzniklé od zahájení IR / od moratoria** (odst. 1) — *šestice*:
+- Vyhláška č. 313/2007 Sb., o odměně insolvenčního správce, zejména rozdělení odměny při činnosti více správců.
+- Zákon č. 280/2009 Sb., daňový řád, a jednotlivé daňové zákony pro určení vzniku konkrétní veřejnoprávní pohledávky.
+- Zákon č. 589/1992 Sb. a zákon č. 48/1997 Sb. pro pojistné uvedené v odstavci 2 písm. e).
 
-1. **Předběžný správce** — pokud byl ustanoven samostatnou osobou (jinak agenda spadne pod správce).
-2. **Likvidátor + správce podniku** — za součinnost (typicky pokud dlužník je PO v likvidaci nebo má jmenovaného správce podniku).
-3. **Členové výboru** — náhrada výdajů + odměna.
-4. **Záloha zaplacená třetí osobou** — typicky věřitel-navrhovatel, který zálohu složil za dlužníka (§ 108 odst. 5).
-5. **Smlouvy v moratoriu** (§ 122 odst. 2) — pohledávky dodavatelů, kterým byla zakázána výpověď.
-6. **Úvěrové financování** (§ 41) — *DIP financing*.
+### Z důvodové zprávy
 
-**B) Pohledávky vzniklé po rozhodnutí o úpadku** (odst. 2) — *jedenáctice*:
+Oficiální důvodová zpráva k vládnímu návrhu insolvenčního zákona (sněmovní tisk 1120/0, 4. volební období, zvláštní část k § 165 až 172, číslovaná s. 196) popisuje soustředění pravidel o postavení věřitelů do § 165 až 172 a označuje věřitele podle § 168 a § 169 za samostatnou skupinu. Uvádí, že jejich výčet byl rozšířen a zpřesněn a že jejich specifické postavení se projevuje zvláštním způsobem uplatnění podle § 203. Jde o východisko původní úpravy; dnešní jednotlivá písmena je nutné vykládat podle aktuálního znění po následných novelách.
 
-1. **Insolvenční správce** — odměna a výdaje (§ 38).
-2. **Náklady správy podstaty** — energie, údržba, daň z nemovitosti, pojistné, atd.
-3. **Likvidátor / odpovědný zástupce** za činnost po úpadku.
-4. **Znalec ocenění podstaty** (§ 153).
-5. **Daně, poplatky, pojistné** — *velmi široká kategorie* (DPH, daň z příjmů, sociální/zdravotní pojištění z mezd, daň z nemovitosti atd.).
-6. **Pohledávky ze smluv uzavřených osobou s dispozičními oprávněními** — typicky správce uzavře nové smlouvy pro provoz podniku.
-7. **Smlouvy „neodmítnuté" osobou s dispozičními oprávněními** — viz § 253 (vzájemné smlouvy a jejich odmítnutí). Pokud správce smlouvu nevypoví, plnění poskytnuté po zahájení = pohledávka za podstatou.
-8. **Smlouvy „odmítnuté" — vrácení plnění** mezi zahájením a odmítnutím.
-9. **Úroky podle § 171 odst. 4** — v reorganizaci úroky zajištěných.
-10. **Hotové výdaje osob poskytnoucích součinnost** (§ 43 — § 44).
-11. *Catch-all* — kdykoli zákon označí.
+### Literatura
 
-#### Charakteristika uspokojení (odst. 3)
+Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; její zpracování je odloženo do druhého kola.
 
-**V plné výši, kdykoli po rozhodnutí o úpadku** — *průběžně*, nezávisle na rozvrhu. Správce platí z aktuální likvidity. **Není přihláška** — uplatňují se písemně vůči správci (§ 203).
+### Výklad
 
-> **Sekvence priority**: pokud podstata nestačí na všechny pohledávky za podstatou, *uspokojují se poměrně* (§ 305 odst. 3 v konkursu, obdobně v jiných způsobech).
+[1] **Dvojí test.** Kvalifikace vyžaduje současně časový test a věcný titul. Odstavec 1 pracuje s pohledávkami vzniklými po zahájení řízení nebo po vyhlášení moratoria, odstavec 2 s pohledávkami vzniklými po rozhodnutí o úpadku. Samotné datum faktury ani samotné poskytnutí plnění po úpadku zákonný titul nenahrazuje.
 
-### Vazby
+[2] **Odstavec 1.** Jde o uzavřený výčet šesti titulů: nároky předběžného správce, vymezená součinnost likvidátora a správce podniku, nároky členů věřitelského výboru, vrácení zálohy zaplacené jinou osobou než dlužníkem, chráněné smluvní pohledávky za moratoria a úvěrové financování.
 
-- **§ 169** — pohledávky postavené na roveň.
-- **§ 203** — uplatňování.
-- **§ 253** — smlouvy a jejich odmítnutí.
-- **§ 305** — rozvrh.
+[3] **Odstavec 2.** Vedle nároků správce, nákladů správy, vymezených odměn a veřejnoprávních plnění jsou významné smluvní tituly v písmenech f) až h). U každého je nutné ověřit osobu s dispozičními oprávněními, režim smlouvy, okamžik vzniku pohledávky a výslovné výjimky pro oddlužení. Písmeno k) není obecnou obdobou; odkazuje jen na pohledávky, kterým postavení za podstatou přizná jiné ustanovení insolvenčního zákona.
 
-### Praktická poznámka
+[4] **Uplatnění a spor.** Věřitel pohledávku uplatňuje písemně vůči osobě s dispozičními oprávněními podle § 203 odst. 1, nikoli přihláškou. Není-li včas a plně uspokojena, může se domáhat plnění žalobou podle § 203 odst. 4. Je-li sporné pořadí, použije se zvláštní postup § 203a; soudní určení kategorie proto nelze nahrazovat pouhým účetním označením správce nebo věřitele.
 
-V praxi je *kategorizace* zásadní pro:
-- **správce** — musí vědět, *co může platit průběžně* (typicky energie, daně, mzdy) a co *čeká na rozvrh*.
-- **věřitele** — pochopit, *jakou kategorii má jeho pohledávka* (pohledávka dodavatele za období *po* úpadku je za podstatou, *před* úpadkem je obyčejná přihlášená).
-- **dlužníka v reorganizaci** — dispoziční oprávnění zachována; uzavírání smluv vyvolává *pohledávky za podstatou*.
+[5] **Uspokojení.** Odstavec 3 stanoví plné uspokojení kdykoli po rozhodnutí o úpadku, avšak výslovně připouští odchylnou úpravu. V konkursu § 305 odst. 2 při nedostatku výtěžku vytváří několik stupňů pořadí a teprve uvnitř některých skupin nebo u ostatních pohledávek poměrné uspokojení. Nelze proto tvrdit, že se všechny pohledávky za podstatou při nedostatku vždy krátí stejným poměrem.
 
-### F. Kazuistika
+[6] **Intertemporalita.** Aktuální znění je rozhodné k 19. 7. 2026. Starší rozhodnutí lze použít jen potud, pokud se nezměnily znaky konkrétního titulu nebo navazující procesní režim. Níže uvedené R 97/2022 posuzovalo rozhodnutí o odměně z let 2016–2017; jeho nosný závěr o povaze odměny dříve činného správce a oddělení majetkové podstaty od osobního majetku správce zůstává použitelný, protože § 168 odst. 2 písm. a) i relevantní základ § 40a zůstaly pro tuto otázku věcně zachovány.
 
-**1. Modelová situace.** Po prohlášení konkursu správce S provozuje obchodní závod dlužníka D do zpeněžení. Energetik E dodá do provozu elektřinu za období po rozhodnutí o úpadku (faktura 300 000 Kč). Současně D dluží témuž E nezaplacené dodávky z období půl roku před úpadkem (faktura 250 000 Kč). E žádá obě částky proplatit ihned a v plné výši. Důkazy: smlouva o dodávce, faktury s daty plnění, rozhodnutí o úpadku, doklad o pokračování provozu správcem.
+[7] **Praktická klasifikace.** U dodavatele, který plnil po rozhodnutí o úpadku, je třeba nejprve zjistit právní titul. Podstatová pohledávka může plynout například z nové smlouvy uzavřené osobou s dispozičními oprávněními podle písmene f) nebo z režimu neodmítnuté smlouvy podle písmene g). Bez naplnění konkrétní skutkové podstaty nelze závěr založit jen na tom, že dodávka byla provozně užitečná nebo časově pozdější.
 
-**2. Právní otázka.** Která z obou pohledávek E je pohledávkou za majetkovou podstatou hrazenou průběžně v plné výši, a která je „obyčejnou" přihlášenou pohledávkou uspokojovanou jen v rozvrhu?
+### Judikatura
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 168 odst. 2 písm. b) (náklady správy podstaty) a písm. e)–f) (daně/pojistné, pohledávky ze smluv uzavřených osobou s dispozičními oprávněními), odst. 3 (uspokojení v plné výši kdykoli po rozhodnutí o úpadku).
-- *Související ustanovení téhož zákona:* § 169 (postavené na roveň), § 203 (uplatnění mimo přihlášku vůči osobě s dispozičními oprávněními), § 253 (vzájemné smlouvy a jejich odmítnutí), § 305 odst. 2–3 (uspokojení pohledávek za podstatou, poměrné krácení při nedostatku).
-- *Související předpisy:* daňové a pojistné předpisy (DPH, daň z příjmů, sociální/zdravotní pojištění z mezd).
-- *Judikatura:* nosný závěr (29 ICdo 23/2019), že prostředky vrácené do podstaty z neoprávněně vyplacené úschovy zakládají vylučovací nárok dle § 225, nejde o pohledávku za podstatou — rozhodující je povaha a okamžik vzniku.
+- **Nejvyšší soud, usnesení ze dne 28. 4. 2022, sp. zn. 29 Cdo 3391/2020, ECLI:CZ:NS:2022:29.CDO.3391.2020.1, R 97/2022, zejména odst. 31–44.** Po určení jediné celkové odměny více správců představuje určený podíl dříve činného správce pohledávku za majetkovou podstatou podle § 168 odst. 2 písm. a), hrazenou z majetkové podstaty. Rozhodnutí ukládající současnému správci její výplatu proto nezakládá osobní dluh správce a nelze je vykonat na jeho osobním majetku; v posuzované věci Nejvyšší soud exekuci zastavil. Skutkově šlo o rozdělení odměny mezi tři postupně činné správce a následnou exekuci proti poslední správkyni, nikoli o obecné určení pořadí všech provozních pohledávek.
 
-**4. Subsumpce.** Dodávka E za období *po* rozhodnutí o úpadku do provozovaného závodu → náklad správy podstaty (odst. 2 písm. b), event. písm. f), je-li smlouva uzavřena/převzata osobou s dispozičními oprávněními) → pohledávka za podstatou, hrazená průběžně v plné výši (odst. 3). Dodávka *před* úpadkem → běžná pohledávka, kterou E musí přihlásit a získá jen poměrné uspokojení v rozvrhu.
+**Praktický checklist:**
 
-**5. Řešení.** Správce proplatí E 300 000 Kč průběžně z likvidity (§ 203), zbude-li na to podstata; částku 250 000 Kč E uplatní přihláškou a uspokojí se až rozvrhem. Procesně: pohledávku za podstatou E uplatní písemně u osoby s dispozičními oprávněními, při sporu o pořadí se postupuje dle § 203a.
-
-**6. Varianty.** (a) Při nedostatku podstaty na všechny pohledávky za podstatou se uspokojí poměrně (§ 305 odst. 2), tedy ani 300 000 Kč nemusí E dostat celých. (b) Kdyby šlo o smlouvu, jejíž splnění správce odmítl (§ 253), právo na vrácení plnění poskytnutého mezi zahájením a odmítnutím by spadlo pod odst. 2 písm. h).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Pohledávka za podstatou se hradí vždy přednostně před vším." — Neutralizace: priorita platí oproti přihlášeným věřitelům, avšak nedostačuje-li podstata, pohledávky za podstatou se kráticí poměrně (§ 305 odst. 2); zajištění věřitelé se uspokojují ze svého výtěžku odděleně.
-- *Protiargument:* „Rozhoduje datum faktury." — Neutralizace: rozhodný je okamžik vzniku pohledávky (poskytnutí plnění), nikoli datum vystavení faktury; u dodávek za období překlenující úpadek je nutné poměrné rozdělení podle data plnění.
-- *Slabé místo:* zařazení daní a pojistného (písm. e) bývá komplikováno tím, že jde o plnění s rozhodným obdobím; daňová pohledávka vzniklá z činnosti před úpadkem není pohledávkou za podstatou.
-
-### H. Praktický závěr
-
-§ 168 je páteří kategorizace: rozhoduje, co správce platí průběžně (provoz, daně, mzdy z období po úpadku) a co čeká na rozvrh. Pro věřitele i správce je zásadní přesné časové a věcné zařazení pohledávky.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Určit okamžik vzniku pohledávky (před/po zahájení IR, před/po rozhodnutí o úpadku).
-- [ ] Zařadit pod konkrétní písmeno odst. 1 nebo odst. 2 (provozní náklad, daň, smlouva osoby s dispozičními oprávněními…).
-- [ ] Pohledávku za podstatou uplatnit dle § 203 (nikoli přihláškou), běžnou přihlásit ve lhůtě.
-- [ ] Při nedostatku podstaty zohlednit poměrné krácení pohledávek za podstatou (§ 305 odst. 2).
-
-**Typicky rozhodné důkazy / podklady:** smlouvy a faktury s daty plnění, rozhodnutí o úpadku, doklady o pokračování provozu osobou s dispozičními oprávněními, daňová a pojistná vyúčtování, evidence pohledávek za podstatou.
+- [ ] Zjistit okamžik vzniku pohledávky, nikoli jen datum faktury nebo splatnosti.
+- [ ] Označit přesné písmeno § 168 odst. 1 nebo 2, případně přesné jiné ustanovení pro písm. k).
+- [ ] Ověřit osobu s dispozičními oprávněními a u smluv také režim § 253 až 256.
+- [ ] Uplatnit pohledávku podle § 203; při sporu o pořadí postupovat podle § 203a.
+- [ ] Při nedostatku výtěžku určit konkrétní pořadí podle § 305 odst. 2, nikoli automaticky stejné poměrné krácení.
 
 ---
 

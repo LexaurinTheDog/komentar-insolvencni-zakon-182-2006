@@ -142,90 +142,70 @@ Do tohoto kola nebylo zařazeno rozhodnutí jako přímý pramen materiálního 
 
 ## § 167 — Uspokojení zajištěných věřitelů
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Zajištění věřitelé se v rozsahu zajištění uspokojují ze zpeněžení věci, práva pohledávky nebo jiné majetkové hodnoty, jimiž byla jejich pohledávka zajištěna, nestanoví-li zákon jinak. Pro pořadí jejich uspokojení je rozhodující doba vzniku zástavního práva nebo doba vzniku zajištění, nedohodnou-li se zajištění věřitelé písemně jinak. To platí obdobně pro věřitele podmíněných pohledávek nebo pohledávek budoucích, k jejichž zajištění byla zastavena věc, právo, pohledávka nebo jiná majetková hodnota nebo zřízeno jiné zajištění uvedené v § 2 písm. g).
 >
 > (2) Věřitelé vykonatelných pohledávek na náhradu škody nebo nemajetkové újmy způsobené trestným činem nebo na vydání bezdůvodného obohacení získaného trestným činem se uspokojují ze zpeněžení věci, práva pohledávky nebo jiné majetkové hodnoty, byly-li tyto hodnoty zajištěny v trestním řízení o tomto trestném činu a přihláška pohledávky byla podána v době, kdy zajištění podle trestního řádu trvá, nebo podal-li takový věřitel návrh na výkon rozhodnutí zřízením soudcovského zástavního práva na nemovitostech v době, kdy zajištění podle trestního řádu trvalo. Pro pořadí uspokojení podle odstavce 1 je rozhodující doba vzniku zajištění podle trestního řádu. Ustanovení týkající se postavení zajištěných věřitelů platí pro tyto věřitele obdobně.
 > (3) Je-li podle znaleckého posudku vypracovaného v insolvenčním řízení po rozhodnutí o úpadku hodnota zajištění nižší než výše zajištěné pohledávky, považuje se pohledávka co do takto zjištěného rozdílu za pohledávku nezajištěnou; pohledávky dalších zajištěných věřitelů s pozdějším pořadím se v takovém případě považují za nezajištěné v plném rozsahu. Podle věty první se postupuje, dokud nedojde ke zpeněžení zajištění.
 > (4) Zpeněžením věci, práva, pohledávky nebo jiné majetkové hodnoty v insolvenčním řízení zaniká zajištění pohledávky zajištěného věřitele, a to i v případě, že nepodal přihlášku své pohledávky.
 > (5) Je-li zajišťovací právo, které zaniklo zpeněžením podle odstavce 4, zapsáno ve veřejném či neveřejném seznamu, který podle zvláštního právního předpisu osvědčoval vlastnictví nebo jiná věcná práva ke zpeněžené věci, pohledávce, právu nebo jiné majetkové hodnotě, vydá insolvenční správce nabyvateli zpeněžené věci, pohledávky, práva nebo jiné majetkové hodnoty neprodleně potvrzení o zániku zajištění.
+>
 
-### Výklad — **KLÍČOVÝ PARAGRAF PRO ZAJIŠTĚNÉ VĚŘITELE**
+### Přehled výkladu
 
-#### Pravidlo „následuj zástavu" (odst. 1)
+§ 167 určuje zdroj a pořadí uspokojení zajištěných věřitelů, zvláštní postavení vymezených obětí trestných činů, prozatímní zacházení s nedostatečnou hodnotou zajištění a účinky zpeněžení na zajištění. Ustanovení je nutno číst spolu s pravidly uplatnění zajištění a vydání čistého výtěžku; samo neurčuje částku skutečně vyplacenou věřiteli.
 
-Zajištěný věřitel **se uspokojuje *ze zpeněžení zástavy***, nikoli z obecné podstaty. Pořadí — *podle doby vzniku zajištění* (typicky podle zápisu v katastru). *Možná smluvní dohoda* o jiném pořadí (písemně mezi zajištěnými).
+### Souvisící ustanovení
 
-#### Speciálka pro trestněprávní zajištění (odst. 2)
+- § 2 písm. g) — zákonné vymezení zajištěného věřitele,
+- § 166 a § 174 odst. 3 — uplatnění pohledávky a práva na uspokojení ze zajištění přihláškou,
+- § 179 — následek podstatně nadhodnoceného nebo hůře pořadového práva na uspokojení ze zajištění,
+- § 230 a § 293 — správa a zpeněžení předmětu zajištění podle pokynů zajištěného věřitele,
+- § 298 a § 299 — vydání čistého výtěžku a pořadí více zajištěných věřitelů.
 
-Věřitelé z **trestněprávních** pohledávek (náhrada škody, bezdůvodné obohacení z trestného činu) se uspokojují ze **zajištění podle trestního řádu** — pokud:
-- byly hodnoty zajištěny v trestním řízení,
-- přihláška podána v době, kdy zajištění trvá,
-- nebo věřitel podal návrh na soudcovské zástavní právo na nemovitosti v době zajištění.
+### Souvisící předpisy
 
-#### Down-grading přečerpaných pohledávek (odst. 3) — **VÝZNAMNÉ**
+- zákon č. 141/1961 Sb., trestní řád — zajištění majetkových hodnot podle § 167 odst. 2,
+- zákon č. 89/2012 Sb., občanský zákoník — vznik a pořadí zástavního práva,
+- zákon č. 256/2013 Sb., katastrální zákon — zápisy práv do katastru nemovitostí,
+- zákon č. 294/2013 Sb. — novela § 167 odst. 1 a 3 a doplnění odstavců 4 a 5.
 
-Pokud znalecký posudek zjistí, že **hodnota zajištění je nižší** než výše zajištěné pohledávky:
-- *přesah pohledávky* se považuje za **nezajištěnou** (uspokojí se v rozvrhu nezajištěných),
-- *pohledávky věřitelů s pozdějším pořadím* — jejich zajištění **se neuplatní** (jsou plně nezajištění).
+### Z důvodové zprávy
 
-> *Logika*: zástava může pokrýt jen svou hodnotu — pozdější zástavy se neúčastní (typický scénář druhého zástavního práva na zatížené nemovitosti).
+Původní důvodová zpráva k vládnímu návrhu insolvenčního zákona pojednává § 165 až 172 společně. Zajištěné věřitele označuje za zvláštní skupinu věřitelů a vysvětluje, že také oni musí pohledávku přihlásit, jinak riskují, že ze zajištění nebudou uspokojeni. Nepodává však samostatný podrobný výklad jednotlivých vět § 167.
 
-#### Zánik zajištění zpeněžením (odst. 4)
+Vládní návrh později vyhlášený jako zákon č. 294/2013 Sb. navrhl v § 167 výslovně připustit písemnou dohodu zajištěných věřitelů o jiném pořadí, doplnit pravidlo pro pozdější pořadí a časovou mez ocenění podle odstavce 3 a vložit odstavce 4 a 5 o zániku zajištění a potvrzení správce. Jde o historické interpretační pomůcky; rozhodující je aktuální znění zákona.
 
-**Zpeněžení v IR zruší zajištění** *i u věřitelů, kteří pohledávku nepřihlásili*. Nabyvatel získává zatíženosti zbavenou věc.
+### Literatura
 
-> *Klíčový dopad pro praxi*: kupec v insolvenční dražbě **získává čistou nemovitost** — z katastru se vymažou všechna zástavní práva i exekuční zákazy. To je *velký atraktivní faktor* insolvenčních prodejů.
+Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; její zpracování je odloženo do druhého kola. Nejde o závěr negativní rešerše.
 
-#### Výmaz zajištění z katastru (odst. 5)
+### Výklad
 
-Správce vydá **potvrzení o zániku zajištění** — *podklad pro výmaz* v katastru, RoZ, jiných registrech.
+[1] **Zdroj uspokojení.** Zajištěný věřitel se v rozsahu zajištění uspokojuje ze zpeněžení konkrétní věci, práva, pohledávky nebo jiné majetkové hodnoty, která zajištění poskytuje. Výhrada „nestanoví-li zákon jinak“ vyžaduje kontrolu zvláštních pravidel použitelného způsobu řešení úpadku.
 
-### Vazby
+[2] **Pořadí.** Zákonným kritériem je doba vzniku zástavního práva nebo jiného zajištění, nikoli bez dalšího datum zápisu do konkrétního seznamu. Význam zápisu závisí na hmotněprávních pravidlech vzniku daného zajištění. Zajištění věřitelé se mohou písemně dohodnout na jiném pořadí.
 
-- **§ 2 písm. g)** — zajišťovací tituly.
-- **§ 298, § 299** — výtěžek zpeněžení zajištění.
-- **§ 230, § 293** — pokyny zajištěného věřitele ke správě/zpeněžení zástavy.
+[3] **Podmíněné a budoucí pohledávky.** Stejný režim se použije na věřitele podmíněných nebo budoucích pohledávek, pokud jim svědčí některé ze zajištění uvedených v § 2 písm. g). Procesní uplatnění upravují § 166 a § 174 odst. 3.
+
+[4] **Věřitelé podle odstavce 2.** Zvláštní režim je omezen na vykonatelné pohledávky tam vyjmenovaného původu a na majetkové hodnoty zajištěné v trestním řízení o daném trestném činu. Vedle původu pohledávky je třeba ověřit vykonatelnost, totožnost trestní věci a jednu ze dvou zákonných časových podmínek: přihlášku podanou za trvání trestního zajištění, nebo včasný návrh na výkon rozhodnutí zřízením soudcovského zástavního práva. Pořadí se odvíjí od vzniku zajištění podle trestního řádu.
+
+[5] **Ocenění před zpeněžením.** Odstavec 3 pracuje se znaleckým posudkem vypracovaným v insolvenčním řízení po rozhodnutí o úpadku. Je-li hodnota zajištění nižší než zajištěná pohledávka, rozdíl se prozatím považuje za nezajištěný; pozdější zajištění věřitelé se za zákonných podmínek považují za nezajištěné v plném rozsahu. Tento režim trvá pouze do zpeněžení. Nelze proto mechanicky zaměnit znaleckou hodnotu za konečný čistý výtěžek.
+
+[6] **Vydání výtěžku.** Částku skutečně vydávanou zajištěnému věřiteli určuje § 298: od výtěžku se odečítají zákonem vymezené náklady a částka připadající na odměnu správce. Je-li více věřitelů se zajištěním ke stejnému majetku, § 299 odkazuje na pořadí podle § 167 odst. 1. Samotný § 167 tedy neopravňuje k výplatě hrubé prodejní ceny.
+
+[7] **Zánik zajištění.** Zajištění podle odstavce 4 zaniká zpeněžením v insolvenčním řízení, a to i tehdy, když zajištěný věřitel pohledávku nepřihlásil. Text se týká zajištění pohledávky; nelze jej bez dalšího rozšiřovat na každý zákaz, poznámku nebo jiné omezení evidované u majetku.
+
+[8] **Potvrzení správce.** Je-li zaniklé zajišťovací právo zapsáno v seznamu popsaném v odstavci 5, insolvenční správce vydá nabyvateli neprodleně potvrzení o zániku. U konkrétního seznamu je nutno samostatně ověřit zápisný postup a listiny požadované příslušným předpisem.
+
+[9] **Intertemporalita.** Odstavce 4 a 5 a části dnešního znění odstavců 1 a 3 pocházejí ze zákona č. 294/2013 Sb., účinného od 1. 1. 2014. Jeho přechodné ustanovení obecně vztáhlo novelizovaný insolvenční zákon i na dříve zahájená řízení, zachovalo však právní účinky úkonů nastalé před účinností. U staršího zajištění nebo zpeněžení je proto třeba určit dobu vzniku práva, datum rozhodného úkonu a tehdy účinné znění.
 
 ### Judikatura
 
-- **NS 29 NSČR 16/2011 (R 110/2012)**: pořadí zajištění — *rozhoduje den zápisu*. Smluvní dohoda mezi zajištěnými musí být *písemná*.
-- **NS 29 NSČR 9/2013**: nabyvatel z insolvenčního prodeje *získává majetek bez zajištění* — kupní smlouvy uzavřené správcem mají *konstitutivní* účinky pro zánik zástav.
-
-### F. Kazuistika
-
-**1. Modelová situace.** Na nemovitosti dlužníka D váznou dvě zástavní práva: první banka B1 (pohledávka 8 mil. Kč, zápis 2018), druhá banka B2 (pohledávka 4 mil. Kč, zápis 2020). Znalecký posudek zpracovaný po rozhodnutí o úpadku ocení nemovitost na 6 mil. Kč. Nemovitost se zpeněží v insolvenční dražbě za 6 mil. Kč; kupec K žádá výmaz všech zástav z katastru. Důkazy: zástavní smlouvy, výpisy z katastru s pořadím, znalecký posudek, kupní smlouva uzavřená správcem.
-
-**2. Právní otázka.** Jak se rozdělí výtěžek mezi B1 a B2, je-li hodnota zajištění nižší než součet zajištěných pohledávek, a co se stane se zástavními právy po zpeněžení?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 167 odst. 1 (pořadí dle doby vzniku zajištění), odst. 3 (down-grading přesahu a pozdějších zástav při nedostatečné hodnotě), odst. 4 (zánik zajištění zpeněžením i bez přihlášky), odst. 5 (potvrzení o zániku pro výmaz).
-- *Související ustanovení téhož zákona:* § 298–299 (vydání výtěžku zajištěnému věřiteli, náklady správy a zpeněžení), § 166 a § 174 odst. 3 (uplatnění zajištění), § 230, § 293 (pokyny zajištěného věřitele).
-- *Související předpisy:* OZ § 1309 a násl. (zástavní právo a jeho pořadí), katastrální zákon (výmaz na podkladě potvrzení).
-- *Judikatura:* nosné závěry — o pořadí zajištění rozhoduje den vzniku/zápisu (odchylka jen písemnou dohodou zajištěných); nabyvatel z insolvenčního zpeněžení získává věc bez zástav.
-
-**4. Subsumpce.** Hodnota zajištění 6 mil. < zajištěné pohledávky. B1 (dřívější pořadí) se uspokojí ze 6 mil. (po odečtu nákladů dle § 298), do nepokryté části 2 mil. se stává nezajištěnou. B2 (pozdější pořadí) — protože na ni výtěžek nedosáhne, považuje se za nezajištěnou v plném rozsahu (odst. 3). Zpeněžením zaniká zajištění obou (odst. 4).
-
-**5. Řešení.** Správce vydá B1 výtěžek dle § 298 (snížený o náklady a odměnu), zbytek pohledávky B1 a celá B2 jdou do rozvrhu nezajištěných. K obdrží čistou nemovitost; správce vydá potvrzení o zániku zajištění (odst. 5) jako podklad pro výmaz v katastru.
-
-**6. Varianty.** (a) Kdyby znalec ocenil nemovitost na 13 mil., obě banky by byly plně zajištěné a uspokojily by se v pořadí B1, poté B2. (b) Kdyby šlo o trestněprávně zajištěnou pohledávku poškozeného (odst. 2), rozhodovala by doba vzniku zajištění podle trestního řádu a včasnost přihlášky v době trvání zajištění.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument B2:* „Down-grading dle odst. 3 je předčasný, dokud není zpeněženo." — Neutralizace: odst. 3 věta poslední výslovně připouští postup jen do okamžiku zpeněžení; reálný výtěžek může pořadí potvrdit i vyvrátit, proto se vychází ze znaleckého ocenění až do prodeje.
-- *Protiargument:* „Zástava nemůže zaniknout věřiteli, který pohledávku nepřihlásil." — Neutralizace: odst. 4 zánik váže na zpeněžení, nikoli na přihlášku; jde o ochranu nabyvatele a obchodovatelnosti podstaty.
-- *Slabé místo:* výše nákladů odečítaných z výtěžku zajištění (§ 298) bývá sporná a může významně snížit částku vyplacenou zajištěnému; riziko sporu o správnost ocenění (znalecký posudek vs. dosažená cena).
-
-### H. Praktický závěr
-
-Zajištěný věřitel „následuje svou zástavu": uspokojuje se ze samostatného výtěžku v pořadí podle doby vzniku zajištění, nikoli z obecné podstaty. Klíčové je ocenění (odst. 3) a jistota nabyvatele, že kupuje věc bez zástav (odst. 4–5).
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Zjistit pořadí všech zajištění ke stejnému majetku (den vzniku/zápisu).
-- [ ] Porovnat hodnotu zajištění (znalecký posudek) se součtem zajištěných pohledávek → určit přesah a plně nezajištěné pozdější věřitele.
-- [ ] U výplaty výtěžku aplikovat § 298 (náklady, odměna, limit).
-- [ ] Po zpeněžení vydat/vyžádat potvrzení o zániku zajištění a zajistit výmaz v katastru/RoZ.
-
-**Typicky rozhodné důkazy / podklady:** zástavní smlouvy a výpisy z katastru s pořadím, znalecký posudek po rozhodnutí o úpadku, doklad o dosažené ceně, vyúčtování nákladů zpeněžení, potvrzení o zániku zajištění.
+Do uzavřeného pramenného ledgeru nebylo zařazeno žádné rozhodnutí. Stávající odkazy na usnesení Nejvyššího soudu sp. zn. 29 NSČR 16/2011 a 29 NSČR 9/2013 byly odstraněny, protože v pracovních podkladech chyběl ověřený fyzický plný text z oficiálního webu s přesným skutkovým, procesním a odstavcovým locatorem pro tvrzení, která jim byla připisována. Nejde o závěr negativní rešerše.
 
 ---
 

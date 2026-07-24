@@ -227,92 +227,65 @@ Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k § 1
 > d) dosud neuhradil splatnou pohledávku dlužníka v rozsahu, v němž převyšuje započitatelnou pohledávku tohoto věřitele.
 > (4) Započtení podle odstavce 2 není rovněž přípustné v případech stanovených dále tímto zákonem nebo předběžným opatřením insolvenčního soudu.
 
-**Judikatura (z místních zdrojů):**
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-- *NSS* [5 Afs 114/2025 - 42](https://vyhledavac.nssoud.cz/DokumentDetail/Index/747154) — 21. 11. 2025
-  > „Jakkoliv se tedy § 242 odst. 2 daňového řádu užije přednostně před § 140 odst. 2, odst. 3 písm. a) insolvenčního zákona, principálně jsou tato ustanovení postavena na stejných základech a sledují stejný účel, jímž je zákaz zvýhodňování věřitelů, respektive princip rovného postavení věřitelů úpadce. … správce daně jakožto věřitel úpadce nemůže zastávat v insolvenčním řízení neodůvodněně lepší postavení, než jaké mají ostatní věřitelé"
+### Znění ustanovení
 
-### Výklad — **VÝZNAMNÉ HMOTNĚPRÁVNÍ USTANOVENÍ**
+Úplné znění je zachyceno v blokové citaci výše. Ověřeno proti aktuálnímu znění zákona účinnému k 19. 7. 2026.
 
-#### Trvání předběžných opatření (odst. 1)
+### Přehled výkladu
 
-*Pokračují* i po rozhodnutí o úpadku, ale soud může změnit. *Dispoziční oprávnění* přechází na **insolvenčního správce** v rozsahu, který dlužníkovi nepřísluší.
+§ 140 spojuje s rozhodnutím o úpadku dva odlišné okruhy následků. Odstavec 1 zachovává účinky předběžného opatření a upravuje přechod dispozičního oprávnění. Odstavce 2 až 4 vymezují, kdy lze po rozhodnutí o úpadku započíst vzájemné pohledávky. Rozhodným mezníkem podle odstavce 2 není rozhodnutí o úpadku, nýbrž až rozhodnutí o způsobu řešení úpadku; vždy je však nutno samostatně prověřit překážky podle odstavců 3 a 4.
 
-#### Pravidla započtení po úpadku (odst. 2 — 4) — **KLÍČOVÉ**
+### Souvisící ustanovení
 
-**Princip**: započtení **je přípustné**, pokud:
-- *zákonné podmínky započtení byly splněny **PŘED** rozhodnutím o způsobu řešení úpadku*.
+- § 82 a § 113 — předběžná opatření v insolvenčním řízení.
+- § 122 odst. 3 — zákaz započtení za trvání moratoria, ledaže soud určí jinak.
+- § 136, § 148 a § 149 — rozhodnutí o úpadku a rozhodnutí o způsobu jeho řešení.
+- § 229 odst. 3 a § 246 — dispoziční oprávnění po rozhodnutí o úpadku a po prohlášení konkursu.
+- § 324 odst. 3 a § 352 odst. 3 — zákaz započtení po zveřejnění návrhu na povolení reorganizace a jeho zánik účinností reorganizačního plánu.
 
-> *Logika*: pokud existovaly vzájemné pohledávky před úpadkem, věřitel měl *legitimní očekávání* uplatnit zápočet. Po rozhodnutí o úpadku se však tato možnost *zmrazí* — započtení už nelze nově dohodnout.
+### Souvisící předpisy
 
-#### Speciální výjimka — nájemní jistota (odst. 2 *in fine*)
+- zákon č. 89/2012 Sb., občanský zákoník, § 1982 až 1991 — obecná úprava započtení; § 2254 — jistota při nájmu bytu.
+- zákon č. 280/2009 Sb., daňový řád, § 242 — zvláštní režim nakládání s vratitelným přeplatkem v insolvenci; jeho vztah k § 140 je nutno posuzovat jako vztah zvláštní a obecné úpravy.
 
-Pro **jistotu při nájmu bytu** (§ 2254 OZ) — započtení přípustné i tehdy, byly-li podmínky splněny *do schválení oddlužení*. *Sociální korekce* — pronajímatel může pokrýt nedoplatky nájemníka z jistoty.
+### Z důvodové zprávy
 
-#### Vyloučení započtení (odst. 3)
+Novela č. 294/2013 Sb. soustředila v § 140 až § 141a účinky rozhodnutí o úpadku a nynější § 140 označila nadpisem „Předběžná opatření a započtení“. Zvláštní část vládního návrhu tuto změnu vysvětluje společně pro body 71 až 73; těžiště jejího výkladu leží v nových pravidlech o osudu jiných řízení. Původní důvodová zpráva k pravidlu o započtení, tehdy navrženému jako § 251, zdůraznila význam omezení započtení pro efektivitu insolvenčního řešení a u písmene d) sledovala, aby věřitel před započtením uhradil do majetkové podstaty převis splatné pohledávky dlužníka. Jde o historický účel; rozhodující je aktuální text § 140.
 
-Čtyři *taxativní* důvody, kdy započtení *není* přípustné:
+### Literatura
 
-(a) *Věřitel se nestal přihlášeným* — bez přihlášky nelze započítat.
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní literární rešerše.
 
-(b) *Pohledávka získaná neúčinným úkonem* — typicky zneužívající převod pohledávky.
+### Výklad
 
-(c) *Věděl o úpadku při nabytí* — typicky pohledávka nakoupená během insolvence pro účely započtení.
+[1] **Předběžné opatření a dispoziční oprávnění.** Rozhodnutím o úpadku účinky již nařízeného předběžného opatření samy nezanikají. Insolvenční soud je však může změnit i bez návrhu. V rozsahu, v němž dlužník není oprávněn nakládat s majetkovou podstatou, přechází toto oprávnění rozhodnutím o úpadku na insolvenčního správce; konkrétní rozsah je nutno určit podle zvoleného režimu dispozičních oprávnění.
 
-(d) *Neuhradil splatnou dlužníkovu pohledávku v rozsahu, v němž převyšuje započítatelnou* — pravidlo *non bis in idem* (věřitel nemůže započíst, dokud sám neuhradí převis).
+[2] **Zákonný časový mezník.** Odstavec 2 připouští započtení po rozhodnutí o úpadku, byly-li jeho zákonné podmínky splněny před rozhodnutím o způsobu řešení úpadku. Podmínky se tedy mohou splnit i v mezidobí mezi oběma rozhodnutími. Formulace „před úpadkem“ nebo „před rozhodnutím o úpadku“ zákonný mezník nepřesně zužuje.
 
-#### Další omezení (odst. 4)
+[3] **Dvě vrstvy posouzení.** Časová podmínka odstavce 2 sama nestačí. Nejprve je třeba podle rozhodného soukromého práva určit, zda šlo o vzájemné pohledávky způsobilé k započtení a kdy byly všechny zákonné podmínky splněny. Následně se samostatně prověří insolvenční překážky podle odstavců 3 a 4. § 140 sám neopravňuje nahradit toto hmotněprávní posouzení pouhou existencí dvou peněžitých nároků.
 
-Předběžné opatření soudu nebo zvláštní ustanovení zákona může započtení dále omezovat (typicky § 122 odst. 3 v moratoriu).
+[4] **Jistota při nájmu bytu.** Druhá věta odstavce 2 stanoví pro jistotu podle § 2254 občanského zákoníku pozdější mezník: zákonné podmínky mohou být splněny až do schválení oddlužení. Jde o zvláštní časové pravidlo; ostatní překážky § 140 tím nejsou výslovně vyloučeny.
 
-### Vazby
+[5] **Překážky podle odstavce 3.** Započtení není přípustné, jestliže se věřitel ohledně započitatelné pohledávky nestal přihlášeným věřitelem, získal ji neúčinným právním úkonem, při jejím nabytí věděl o dlužníkově úpadku, nebo dosud neuhradil splatný převis pohledávky dlužníka. Každou alternativu je třeba hodnotit podle jejích vlastních předpokladů; nepřípustnost nelze bez dalšího terminologicky zaměňovat za neplatnost či neúčinnost.
 
-- **§ 246** — přechod dispozic na správce.
-- **§ 122 odst. 3** — zákaz započtení v moratoriu.
-- **OZ § 1982 a násl.** — započtení obecně.
-- **OZ § 2254** — nájemní jistota.
+[6] **Další zákazy.** Odstavec 4 zachovává zvláštní zákonné zákazy i zákaz uložený předběžným opatřením. Prakticky významný je absolutně formulovaný zákaz za trvání moratoria podle § 122 odst. 3 a zákaz od zveřejnění návrhu na povolení reorganizace podle § 324 odst. 3; oba připouštějí soudem stanovenou výjimku. Proto nestačí kontrolovat pouze data rozhodnutí o úpadku a o způsobu jeho řešení.
+
+[7] **Intertemporalita.** Tento výklad vychází ze znění účinného k 19. 7. 2026. U starších započtení a dříve zahájených řízení je nutno zjistit tehdy účinné znění § 140, obecné úpravy započtení a relevantních přechodných ustanovení. Historická důvodová zpráva objasňuje účel, nikoli dnešní znění nahrazuje.
+
+### Praktický checklist
+
+- [ ] Oddělit datum rozhodnutí o úpadku od data rozhodnutí o způsobu jeho řešení.
+- [ ] Určit podle rozhodného soukromého práva, kdy byly splněny všechny zákonné podmínky započtení.
+- [ ] Ověřit přihlášení právě té pohledávky, která má být započtena.
+- [ ] Prověřit všechny čtyři překážky odstavce 3.
+- [ ] Prověřit moratorium, návrh na povolení reorganizace, další zvláštní zákaz a předběžná opatření.
+- [ ] U nájemní jistoty posoudit zvláštní mezník schválení oddlužení.
 
 ### Judikatura
 
-- **NS 29 ICdo 3/2014**: pro posouzení „splnění podmínek započtení" před úpadkem rozhoduje *splnění hmotněprávních podmínek* (vzájemnost, splatnost, stejnorodost), nikoli formální projev vůle.
-- **NS 29 NSČR 26/2017**: pohledávka nabytá těsně před úpadkem (a věřitel věděl o krizi) — započtení nepřípustné dle písm. c).
-
-### F. Kazuistika
-
-**1. Modelová situace.** Banka má vůči dlužníku (s. r. o.) pohledávku z úvěru 5 mil. Kč; dlužník má u banky na běžném účtu zůstatek 1,2 mil. Kč (pohledávka dlužníka za bankou na vyplacení zůstatku). Hmotněprávní podmínky započtení (vzájemnost, splatnost, stejnorodost) byly splněny v dubnu. Rozhodnutí o úpadku padlo 1. června, rozhodnutí o způsobu řešení (konkurs) až 20. července. Banka započte 1,2 mil. Kč proti úvěru v červnu. Správce namítá nepřípustnost. Důkazy: úvěrová smlouva, výpis z účtu, datum přihlášky banky, časová osa splatnosti.
-
-**2. Právní otázka.** Je započtení provedené bankou po rozhodnutí o úpadku, ale před rozhodnutím o způsobu řešení úpadku, přípustné podle § 140 odst. 2, a nebrání mu některý ze zákazů v odst. 3?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 140 — započtení je přípustné, byly-li jeho zákonné podmínky splněny *před rozhodnutím o způsobu řešení úpadku* (odst. 2); taxativní zákazy v odst. 3 (mj. písm. a — věřitel se nestal přihlášeným; písm. c — vědomost o úpadku při nabytí; písm. d — neuhrazený převis).
-- *Související ustanovení téhož zákona:* § 246 (přechod dispozic na správce); § 122 odst. 3 (zákaz započtení v moratoriu — odst. 4); § 148/§ 149 (rozhodnutí o způsobu řešení).
-- *Související předpisy:* § 1982 a násl. o. z. (započtení obecně), § 2254 o. z. (nájemní jistota — zvláštní výjimka).
-- *Judikatura:* NS 29 ICdo 3/2014 (rozhoduje splnění hmotněprávních podmínek, ne formální projev vůle); NS 29 NSČR 26/2017 (pohledávka nabytá těsně před úpadkem s vědomostí o krizi — zákaz dle písm. c); NSS 5 Afs 114/2025 (zákaz zvýhodňování věřitelů, rovné postavení — vztah § 242 odst. 2 daňového řádu a § 140).
-
-**4. Subsumpce.** Hmotněprávní podmínky započtení byly splněny v dubnu, tj. *před* rozhodnutím o způsobu řešení (20. července) — podmínka odst. 2 je splněna; okamžik provedení zápočtu (červen) přitom není rozhodný (NS 29 ICdo 3/2014). Zákazy odst. 3: banka se musí stát přihlášeným věřitelem (písm. a) — nutno ověřit přihlášku; pohledávka nebyla nabyta neúčinným úkonem (písm. b) ani v době vědomosti o úpadku (písm. c), neboť existovala dávno; písm. d) zde nedopadá (banka nedluží dlužníku převis). Zákaz dle odst. 4 (moratorium) se neuplatní.
-
-**5. Řešení.** Započtení je přípustné, pokud se banka stala přihlášeným věřitelem (písm. a); jinak je neúčinné. Splnění hmotněprávních podmínek před rozhodnutím o způsobu řešení postačuje, ač zápočet byl proveden až po rozhodnutí o úpadku. Správce by měl ověřit přihlášku banky a neexistenci dalších zákazů; je-li přihláška podána, zápočet uzná. Procesně: doložit splatnost a vzájemnost ke dni před 20. červencem; ověřit přihlášku; v případě sporu řešit incidenčně.
-
-**6. Varianty.** (a) Kdyby banka pohledávku za dlužníkem koupila až v květnu, kdy už věděla o probíhající insolvenci a hrozícím úpadku, byl by zápočet nepřípustný dle písm. c) (NS 29 NSČR 26/2017). (b) Kdyby šlo o jistotu při nájmu bytu (§ 2254 o. z.), byl by zápočet přípustný i při splnění podmínek až do schválení oddlužení (výjimka *in fine* odst. 2).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Rozhodující je okamžik projevu vůle k započtení, který nastal až po úpadku, takže je zápočet nepřípustný." — Neutralizace: dle § 140 odst. 2 a NS 29 ICdo 3/2014 je rozhodné splnění *hmotněprávních* podmínek (vzájemnost, splatnost, stejnorodost) před rozhodnutím o způsobu řešení, nikoli okamžik formálního úkonu.
-- *Protiargument:* „Banka může započíst i bez přihlášky, jde o její pohledávku." — Neutralizace: odst. 3 písm. a) výslovně vylučuje započtení věřitele, který se nestal přihlášeným.
-- *Slabé místo:* hranice splatnosti a vzájemnosti ke konkrétnímu dni bývá sporná; zvláštní úprava (např. § 242 odst. 2 daňového řádu — NSS 5 Afs 114/2025) se může uplatnit přednostně, byť na stejných principech rovnosti věřitelů.
-
-### H. Praktický závěr
-
-Po rozhodnutí o úpadku je započtení přípustné, byly-li jeho hmotněprávní podmínky splněny *před* rozhodnutím o způsobu řešení úpadku (odst. 2), a nebrání-li mu žádný ze čtyř taxativních zákazů (odst. 3) ani moratorium či zvláštní zákaz (odst. 4). Rozhoduje splnění podmínek, ne okamžik projevu vůle.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Určit, zda byly hmotněprávní podmínky započtení splněny před rozhodnutím o způsobu řešení úpadku.
-- [ ] Ověřit, že věřitel je přihlášeným věřitelem (odst. 3 písm. a).
-- [ ] Vyloučit nabytí pohledávky neúčinným úkonem (písm. b) a vědomost o úpadku při nabytí (písm. c).
-- [ ] Zkontrolovat, zda věřitel neuhradil převis splatné dlužníkovy pohledávky (písm. d).
-- [ ] Prověřit zvláštní zákazy a výjimky (moratorium § 122 odst. 3; nájemní jistota § 2254 o. z.).
-
-**Typicky rozhodné důkazy / podklady:** smlouvy zakládající vzájemné pohledávky, doklady o splatnosti a stejnorodosti, výpis z účtu, přihláška věřitele, časová osa (úpadek vs. způsob řešení), případně smlouva o postoupení pohledávky.
+Do produkčního výkladu nebyla zařazena dříve uváděná rozhodnutí 29 ICdo 3/2014 a 29 NSČR 26/2017, protože jejich plné oficiální texty a deklarované nosné závěry nebyly v této jednotce ověřeny. Tím se nevyslovuje závěr o neexistenci relevantní judikatury. Rozsudek NSS ze dne 21. 11. 2025, čj. 5 Afs 114/2025-42, byl rešeršně identifikován jako relevantní pro zvláštní daňový režim, avšak nebyl použit jako zdroj materiálního tvrzení, protože se nepodařilo uložit jeho oficiální plný text do fyzického source ledgeru.
 
 ---
 

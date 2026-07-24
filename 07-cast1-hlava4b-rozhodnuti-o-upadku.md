@@ -1419,6 +1419,63 @@ V tomto kole nebylo zařazeno žádné rozhodnutí, protože žádný kandidátn
 
 # Díl 7 — Rozhodnutí, že dlužník není v úpadku (§ 158)
 
+## § 154 — Odměna a náhrada nákladů znalce
+
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Odměna znalce ustanoveného insolvenčním soudem podle [[#§ 153|§ 153]] se řídí předpisy, které obecně upravují odměňování znalce při úkonech mimo soudní řízení23).
+>
+> (2) Výši odměny znalce podle odstavce 1 schvaluje věřitelský výbor; nedojde-li ke schválení odměny do 15 dnů po ustanovení znalce, schvaluje jeho odměnu insolvenční soud.
+>
+
+### Přehled výkladu
+
+§ 154 odděluje pravidla pro určení odměny od pravomoci tuto odměnu v insolvenčním řízení schválit. Odměna znalce ustanoveného podle § 153 se určuje podle obecné úpravy odměňování znalce při úkonech mimo soudní řízení. Konkrétní výši schvaluje věřitelský výbor; jestliže ji neschválí do 15 dnů po ustanovení znalce, schvaluje ji insolvenční soud.
+
+### Souvisící ustanovení
+
+- **§ 153** — ustanovení znalce k ocenění majetkové podstaty.
+- **§ 155 a 156** — obsah, předložení, projednání a schválení znaleckého posudku a postup při jeho neschválení.
+- **§ 157** — úhrada odměny a hotových výdajů znalce a podíl zajištěných věřitelů.
+- **§ 58 odst. 1** — působnost věřitelského výboru.
+
+### Souvisící předpisy
+
+- **Zákon č. 254/2019 Sb., o znalcích, znaleckých kancelářích a znaleckých ústavech, zejména § 30 až 32** — vymezení znalečného, pravidla odměny a náhrad.
+- **Vyhláška č. 504/2020 Sb., o znalečném** — prováděcí pravidla pro určení odměny a náhrad.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva nevykládá § 154 samostatně. K § 154 až 157 souhrnně uvádí, že tato ustanovení upravují podrobnosti procesního postupu při rozhodnutí podle § 153; zvlášť zmiňuje přenesení části nákladů na zajištěné věřitele v § 157. Jde o historické vysvětlení původní osnovy, nikoli o popis dnešních sazeb nebo náhradu aktuálního znění.
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tím se nevyslovuje závěr, že k § 154 relevantní literatura neexistuje.
+
+### Výklad
+
+[1] **Osobní rozsah.** Zvláštní pravidlo § 154 dopadá na znalce, kterého insolvenční soud ustanovil podle § 153. Samotný text § 154 neupravuje odměnu každého znalce, jehož posudek se v insolvenčním řízení objeví.
+
+[2] **Určení odměny.** Odkaz na úkony mimo soudní řízení určuje režim výpočtu odměny, přestože znalce ustanovil insolvenční soud. V právním stavu k 19. 7. 2026 tvoří obecný rámec zejména § 30 až 32 zákona č. 254/2019 Sb. a vyhláška č. 504/2020 Sb. Výše proto nemá být odvozována od pravidel pro znalečné za znalecký důkaz v běžném soudním řízení bez zohlednění této výslovné zvláštní normy.
+
+[3] **Odměna a náhrady.** § 154 výslovně upravuje odměnu. Obecný znalecký zákon rozlišuje odměnu, náhradu hotových výdajů a náhradu za ztrátu času; § 157 insolvenčního zákona pak při úpravě zdroje úhrady výslovně pracuje s odměnou i hotovými výdaji. Tyto položky proto nelze bez dalšího směšovat.
+
+[4] **Schválení věřitelským výborem.** Pravomoc schválit konkrétní výši odměny náleží věřitelskému výboru. Schválení odměny není totožné se schválením znaleckého posudku schůzí věřitelů podle § 155; jde o dvě rozdílná rozhodnutí odlišných věřitelských orgánů.
+
+[5] **Patnáctidenní mechanismus.** Rozhodným počátkem zákonné doby je ustanovení znalce, nikoli předložení posudku nebo vyúčtování. Nedojde-li do 15 dnů po ustanovení znalce ke schválení odměny věřitelským výborem, přechází schvalovací pravomoc podle textu § 154 odst. 2 na insolvenční soud. Ustanovení nestanoví fikci schválení znalcem požadované částky.
+
+[6] **Meze schvalování.** Věřitelský výbor ani insolvenční soud nestanoví výši bez právních mezí: musí vycházet z režimu určení odměny, na který odkazuje odstavec 1. Samotné schválení výše odměny současně neřeší konečný zdroj její úhrady; ten upravuje § 157.
+
+[7] **Intertemporalita.** Poznámka pod čarou č. 23 v aktuálním textu stále odkazuje na § 29 dřívější vyhlášky č. 37/1967 Sb. Tato vyhláška byla k 1. 1. 2021 zrušena. Normativní je vlastní odkaz § 154 odst. 1 na obecné předpisy, který se v rozhodném právním stavu naplňuje aktuálním zákonem č. 254/2019 Sb. a vyhláškou č. 504/2020 Sb.; historický odkaz v poznámce pod čarou nemůže obnovit zrušenou úpravu.
+
+### Judikatura
+
+V tomto kole nebylo zařazeno žádné rozhodnutí, protože žádný kandidátní judikatorní pramen nebyl použit jako nosná autorita k výkladu § 154. Tím se nevyslovuje závěr, že relevantní judikatura neexistuje.
+
+---
+
 ## § 158 — Rozhodnutí o neúpadku
 
 > (1) Před rozhodnutím o způsobu řešení úpadku podle § 149 rozhodne insolvenční soud i bez návrhu, že dlužník není v úpadku, zjistí-li, že

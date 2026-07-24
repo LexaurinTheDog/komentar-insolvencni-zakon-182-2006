@@ -291,81 +291,63 @@ Do produkčního výkladu nebyla zařazena dříve uváděná rozhodnutí 29 ICd
 
 ## § 140a — Přerušení soudních a rozhodčích řízení
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Účinky rozhodnutí o úpadku nastávají okamžikem jeho zveřejnění v insolvenčním rejstříku. Rozhodnutím o úpadku se přerušují soudní a rozhodčí řízení o pohledávkách a jiných právech týkajících se majetkové podstaty, které mají být v insolvenčním řízení uplatněny přihláškou, nebo na které se v insolvenčním řízení pohlíží jako na přihlášené, anebo o pohledávkách, které se v insolvenčním řízení neuspokojují (§ 170). Není-li dále stanoveno jinak, v těchto řízeních nelze pokračovat po dobu, po kterou trvají účinky rozhodnutí o úpadku.
 > (2) Je-li řízení podle odstavce 1 přerušeno, nekonají se jednání a neběží stanovené lhůty. Jestliže se v řízení pokračuje, počínají lhůty běžet znovu.
 > (3) Přerušení řízení působí na účastníky řízení, kteří v řízení vystupují na téže straně jako dlužník, jen jde-li o nerozlučné společenství nebo o vedlejší účastenství.
 > (4) Jakmile se soud nebo jiný orgán příslušný k projednání a rozhodnutí věci dozví o přerušení řízení podle odstavce 1, vyrozumí o tom účastníky řízení; současně je poučí, že v řízení nelze pokračovat po dobu, po kterou trvají účinky rozhodnutí o úpadku. Rozhodnutí již vydaná se v době, kdy je řízení přerušeno, nedoručují, ledaže se týkají i jiných pohledávek; bylo-li řízení přerušeno po doručení rozhodnutí, avšak ještě předtím, než rozhodnutí nabylo právní moci, nenabývá rozhodnutí v rozsahu, v němž bylo řízení přerušeno, právní moci. Jestliže se v řízení pokračuje, rozhodnutí se doručuje znovu.
+>
 
-### Výklad — **AUTOMATICKÉ PŘERUŠENÍ**
+### Přehled výkladu
 
-**Rozhodnutím o úpadku se automaticky přerušují:**
-- *soudní řízení* o pohledávkách proti dlužníkovi (mají být přihlášeny),
-- *rozhodčí řízení* o tomtéž,
-- řízení o pohledávkách, *na které se pohlíží jako na přihlášené* (typicky pohledávky uplatněné insolvenčním návrhem věřitele — § 105),
-- řízení o pohledávkách, *které se v IR neuspokojují* (§ 170 — typicky úroky po úpadku, smluvní pokuty, podřízené pohledávky).
+§ 140a spojuje se zveřejněním rozhodnutí o úpadku v insolvenčním rejstříku přerušení přesně vymezených, již probíhajících soudních a rozhodčích řízení. Přerušení nastává ze zákona; vyrozumění podle odstavce 4 je jeho procesním následkem, nikoli podmínkou jeho vzniku. Ustanovení současně upravuje běh lhůt, dopad na osoby na stejné straně jako dlužník a nakládání s již vydanými rozhodnutími.
 
-#### Důsledky přerušení (odst. 2)
+### Souvisící ustanovení
 
-- *nekonají se jednání*,
-- *neběží lhůty*,
-- *po pokračování* — lhůty běží **znovu** (ne zbývající zbytek).
+- **§ 109 odst. 1 písm. a) a odst. 4** — omezení uplatňování práv po zahájení insolvenčního řízení a okamžik vzniku těchto účinků.
+- **§ 136 odst. 1 a § 140 odst. 1** — rozhodnutí o úpadku a obecný okamžik jeho účinků.
+- **§ 140b až § 140e** — navazující zákazy a režim jiných řízení, výkonu rozhodnutí a exekuce.
+- **§ 170, § 173 a § 173a** — neuspokojované pohledávky, přihlášení pohledávek a časová vazba účinků zahájení řízení.
+- **§ 263 až § 266** — samostatné účinky prohlášení konkursu na řízení a pravidla pokračování; nejde o totožný spouštěcí okamžik jako u § 140a.
 
-#### Působnost přerušení (odst. 3)
+### Souvisící předpisy
 
-- *standardně* — jen na samotného dlužníka,
-- *nerozlučné společenství* (typicky solidární dlužníci) — i na ostatní účastníky,
-- *vedlejší účastenství* — i na vedlejšího účastníka.
+- **Zákon č. 294/2013 Sb.** — vložil § 140a až § 140e do insolvenčního zákona; změna nabyla účinnosti 1. ledna 2014.
 
-#### Procesní povinnost soudů a orgánů (odst. 4)
+### Z důvodové zprávy
 
-Soud / orgán, který se dozví o úpadku, **vyrozumí účastníky** a poučí. *Rozhodnutí vydaná po přerušení* — nedoručují se. Pokud doručena, ale nenabyla právní moci — *nenabude jí*. Po pokračování se doručuje **znovu**.
+Vládní návrh novely vysvětloval vložení § 140a potřebou ponechat dotčené spory po rozhodnutí o úpadku „v klidu“, dokud se v insolvenčním řízení nevyjasní zacházení s příslušnými pohledávkami nebo právy. Výslovně uváděl, že odstavce 2 až 4 přebírají obvyklé účinky přerušení a že navržené pravidlo nemá dopadat na jiná než soudní a rozhodčí řízení. Jde o historické vysvětlení osnovy z roku 2013; aktuální norma se určuje podle znění účinného v rozhodné době.
 
-### Vazby
+### Literatura
 
-- **§ 109** — účinky zahájení (širší).
-- **§ 170** — pohledávky vyloučené z uspokojení.
-- **§ 263 a násl.** — pokračování přerušených řízení.
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto redakční omezení není výsledkem negativní rešerše.
 
-### Praktická poznámka
+### Výklad
 
-V praxi je toto pravidlo *kritické* pro civilní soudce — *vždy* musí kontrolovat insolvenční rejstřík (typicky před vydáním rozsudku). Mnoho rozsudků bylo zrušeno odvolacími soudy proto, že soud I. stupně přehlédl úpadek žalovaného.
+[1] **Okamžik a způsob přerušení.** Účinky vznikají okamžikem zveřejnění rozhodnutí o úpadku v insolvenčním rejstříku. Je-li naplněn předmět odstavce 1, řízení se přeruší přímo ze zákona. Pozdější vědomost soudu, rozhodce nebo účastníků na vznik přerušení nemá vliv.
 
-### F. Kazuistika
+[2] **Druh řízení.** § 140a se vztahuje jen na soudní a rozhodčí řízení. Pro „jiná řízení“ stanoví § 140d odlišný režim. Samotná věcná souvislost s majetkovou podstatou proto nestačí; vždy musí být splněn také druh řízení a předmět vymezený v odstavci 1.
 
-**1. Modelová situace.** U okresního soudu běží řízení žalobce A proti žalovanému B (dlužníku) o zaplacení 800 tis. Kč z faktur. Den po skončení dokazování, ale před vyhlášením rozsudku, je v insolvenčním rejstříku zveřejněno rozhodnutí o úpadku žalovaného B. Soud o úpadku nevěděl a 14 dnů poté vydá a doručí rozsudek, jímž žalobě vyhoví; rozsudek ještě nenabyl právní moci. Důkazy: spis civilního soudu, údaj o čase zveřejnění rozhodnutí o úpadku, doručenky rozsudku.
+[3] **Předmět řízení.** Přerušují se řízení o pohledávkách a jiných právech týkajících se majetkové podstaty, jestliže mají být uplatněny přihláškou, pohlíží se na ně jako na přihlášené, anebo jde o pohledávky neuspokojované podle § 170. U konkrétní věci je proto nutné nejprve určit způsob uplatnění dotčeného práva v insolvenčním řízení; obecné označení sporu jako „majetkového“ test nenahrazuje.
 
-**2. Právní otázka.** Jaký osud má rozsudek vydaný v řízení o pohledávce týkající se majetkové podstaty, které bylo ze zákona přerušeno rozhodnutím o úpadku (§ 140a), a jak má věřitel své právo uplatnit?
+[4] **Trvání účinku.** V přerušeném řízení nelze pokračovat po dobu trvání účinků rozhodnutí o úpadku, nestanoví-li insolvenční zákon dále jinak. § 140a sám neurčuje jediný univerzální okamžik či postup pokračování; ten se odvíjí od dalších ustanovení a vývoje insolvenčního řízení.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 140a — účinky úpadku nastávají zveřejněním v rejstříku a tímtéž okamžikem se *ze zákona přerušují* soudní/rozhodčí řízení o pohledávkách týkajících se podstaty (odst. 1); rozhodnutí vydaná po přerušení se nedoručují a nenabývají právní moci v dotčeném rozsahu (odst. 4).
-- *Související ustanovení téhož zákona:* § 173 a násl. (uplatnění pohledávky přihláškou); § 140b (zákaz vydání rozhodnutí v jiných řízeních); § 140c (zákaz zahájení nových řízení); § 141a (zastavení nepřípustně zahájených řízení); § 263 a násl. (pokračování přerušených řízení); § 170 (pohledávky neuspokojované).
-- *Související předpisy:* § 109 odst. 1 o. s. ř. (přerušení řízení), § 159a o. s. ř. (závaznost rozsudku).
-- *Judikatura:* ustálené pojetí, že rozsudek vydaný po přerušení dle § 140a v dotčeném rozsahu nenabývá právní moci; NSS 2 Afs 191/2022 (§ 140a–c se nevztahují na správní soudnictví).
+[5] **Jednání a lhůty.** Po dobu přerušení se nekonají jednání a neběží stanovené lhůty. Dojde-li k pokračování, lhůty podle výslovného textu odstavce 2 počínají běžet znovu; nejde jen o doběhnutí zbytku lhůty přerušené rozhodnutím o úpadku.
 
-**4. Subsumpce.** Pohledávka 800 tis. Kč se týká majetkové podstaty a má být uplatněna přihláškou — řízení proto bylo zveřejněním rozhodnutí o úpadku ze zákona přerušeno (odst. 1). Rozsudek byl vydán a doručen *po* přerušení, avšak před nabytím právní moci; podle odst. 4 proto v rozsahu přerušení *právní moci nenabývá*. Lhůty po přerušení neběží (odst. 2).
+[6] **Další účastníci na stejné straně.** Na osobu vystupující na téže straně jako dlužník působí přerušení jen při nerozlučném společenství nebo vedlejším účastenství. Z pouhé plurality účastníků ani ze solidarity nelze bez posouzení procesního vztahu automaticky dovodit účinek přerušení vůči všem.
 
-**5. Řešení.** Rozsudek nenabude právní moci a je fakticky bezúčinný v rozsahu přerušení; civilní soud po zjištění úpadku vyrozumí účastníky a poučí je, že v řízení nelze pokračovat (odst. 4). Věřitel A nemůže své právo prosadit tímto rozsudkem — musí pohledávku *přihlásit* do insolvence (§ 173) ve lhůtě dle rozhodnutí o úpadku. Pokud se řízení později obnoví (§ 263), lhůty běží znovu a rozsudek se doručuje znovu. Procesně: A okamžitě podá přihlášku; současně upozorní civilní soud na úpadek.
+[7] **Vyrozumění.** Jakmile se příslušný soud nebo jiný orgán o přerušení dozví, vyrozumí účastníky a poučí je o zákazu pokračování. Toto vyrozumění deklaruje již nastalý stav; okamžik přerušení určuje odstavec 1.
 
-**6. Varianty.** (a) Kdyby šlo o pohledávku z náhrady škody způsobené trestným činem dlužníka se zajištěným majetkem v trestním řízení, mohla by platit výjimka (srov. § 140b) a rozhodnout by bylo lze. (b) Kdyby žalobcem byl správní orgán ve správním soudnictví, § 140a by se neuplatnil (NSS 2 Afs 191/2022) a řízení by se nepřerušilo.
+[8] **Již vydané rozhodnutí.** Odstavec 4 rozlišuje dvě situace. Rozhodnutí, které již bylo vydáno, se během přerušení nedoručuje, ledaže se týká i jiných pohledávek. Bylo-li rozhodnutí doručeno ještě před přerušením, avšak do té doby nenabylo právní moci, v rozsahu přerušení jí nenabude. Po pokračování se rozhodnutí doručuje znovu. Text odstavce 4 sám neupravuje obecný následek rozhodnutí teprve vydaného v rozporu s přerušením.
 
-### G. Protiargumenty a rizika
+[9] **Intertemporalita.** § 140a byl do zákona vložen s účinností od 1. ledna 2014. Pro právní stav k 19. červenci 2026 je rozhodné aktuální znění; u starších procesních situací je nutné nejprve určit časově použitelnou úpravu a nelze na ně dnešní § 140a přenést bez intertemporálního posouzení.
 
-- *Protiargument:* „Rozsudek byl řádně doručen, tudíž je pravomocný a vykonatelný." — Neutralizace: dle odst. 4 rozhodnutí vydané (a i doručené) po přerušení v rozsahu přerušení *nenabývá právní moci*; doručení na tom nic nemění a po pokračování se doručuje znovu.
-- *Protiargument:* „Věřitel může počkat na konec insolvence a pak rozsudek vykonat." — Neutralizace: pohledávka se musí *přihlásit*; jinak v insolvenci zaniká možnost uspokojení, a samostatný rozsudek pro insolvenci nepostačí.
-- *Slabé místo:* soudy úpadek přehlížejí (rejstřík je nutné kontrolovat *před* vydáním rozhodnutí); rozlišení pohledávek „týkajících se podstaty" od pohledávek mimo podstatu může být sporné.
+### Judikatura
 
-### H. Praktický závěr
-
-Zveřejnění rozhodnutí o úpadku *ze zákona přerušuje* soudní a rozhodčí řízení o pohledávkách týkajících se podstaty; jednání se nekonají, lhůty neběží a rozhodnutí vydaná po přerušení v dotčeném rozsahu nenabývají právní moci (i kdyby byla doručena). Věřitel musí pohledávku uplatnit přihláškou, ne pokračováním sporu.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Před vydáním jakéhokoli rozhodnutí ověřit insolvenční rejstřík ohledně žalovaného.
-- [ ] Po zjištění úpadku vyrozumět účastníky o přerušení a nedoručovat (resp. nepokračovat).
-- [ ] Posoudit, zda pohledávka „se týká podstaty" a má být přihlášena (vč. pohledávek dle § 170).
-- [ ] Věřitel: podat přihlášku ve lhůtě dle rozhodnutí o úpadku, nespoléhat na rozsudek.
-- [ ] Ověřit dopad na další účastníky (nerozlučné společenství, vedlejší účastenství — odst. 3).
-
-**Typicky rozhodné důkazy / podklady:** spis přerušeného řízení, údaj o čase zveřejnění rozhodnutí o úpadku, doručenky napadeného rozhodnutí, přihláška pohledávky do insolvence, případně rozhodnutí o pokračování řízení (§ 263).
+Do produkčního výkladu nebylo v tomto kole zařazeno žádné soudní rozhodnutí. Kandidátní odkazy nebyly použity jako opora materiálního tvrzení bez fyzického plného textu z oficiálního soudního zdroje a přesného locatoru. Tím se nevyslovuje závěr, že relevantní judikatura neexistuje.
 
 ---
 

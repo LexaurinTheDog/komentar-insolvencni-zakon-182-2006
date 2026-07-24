@@ -1735,6 +1735,10 @@ V tomto kole nebylo zařazeno žádné rozhodnutí. Nebyl použit kandidát, u n
 
 ## § 159 — Definice incidenčních sporů — **CENTRÁLNÍ PARAGRAF**
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Incidenčními spory jsou
 > a) spory o pravost, výši nebo pořadí přihlášených pohledávek,
 > b) spory o vyloučení věci, práva, pohledávky nebo jiné majetkové hodnoty z majetkové podstaty nebo o vydání výtěžku zpeněžení podle § 225 odst. 5,
@@ -1749,100 +1753,55 @@ V tomto kole nebylo zařazeno žádné rozhodnutí. Nebyl použit kandidát, u n
 > (4) V incidenčních sporech podle odstavce 1 písm. a) až c) a e) až g) lze pokračovat po skončení insolvenčního řízení zrušením konkursu podle § 308 odst. 1 písm. c) nebo rozhodnutím, jímž insolvenční soud vezme na vědomí splnění reorganizačního plánu, anebo rozhodnutím, jímž insolvenční soud vezme na vědomí splnění oddlužení. Incidenční spory podle odstavce 1 písm. a) se v takovém případě považují za spory o určení pravosti, výše nebo pořadí přihlášených pohledávek pro dobu, po kterou trvalo insolvenční řízení, a incidenční spory podle odstavce 1 písm. b), s výjimkou sporů o vydání výtěžku zpeněžení podle § 225 odst. 5, za spory o určení, zda věc, právo, pohledávka nebo jiná majetková hodnota náležela do majetkové podstaty dlužníka ke dni skončení insolvenčního řízení.
 > (5) Účastníkem incidenčních sporů podle odstavce 1 písm. a) až c) a f) a g), v nichž lze pokračovat podle odstavce 4, se dnem skončení insolvenčního řízení stává místo insolvenčního správce dlužník.
 > (6) Incidenční spory podle odstavce 1 písm. d) se dnem, kdy insolvenční řízení skončí zrušením konkursu podle § 308 odst. 1 písm. c) nebo rozhodnutím, jímž insolvenční soud vezme na vědomí splnění reorganizačního plánu, anebo rozhodnutím, jímž insolvenční soud vezme na vědomí splnění oddlužení, přerušují a lze v nich pokračovat pouze na návrh některého z dlužníkových věřitelů podaný do 30 dnů od přerušení takového sporu. Dnem, kdy jeho návrh došel insolvenčnímu soudu, se každý takový věřitel stává účastníkem řízení místo insolvenčního správce. Nepodá-li takový návrh ve stanovené lhůtě žádný z věřitelů, insolvenční soud řízení o incidenčním sporu zastaví.
+>
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *NS* [29 Cdo 3626/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/94B7034281A78A02C1258C0B0052AE7B?openDocument) — 27. 11. 2024, kat. A
-  > „Pravomocný rozsudek, jímž insolvenční soud určil, že vykonatelná pohledávka přihlášeného věřitele (oprávněného) není po právu, má účinky jen v rámci insolvenčního řízení dlužníka (povinného), konkrétně v tom směru, že nebyla (ani zčásti) uspokojována v insolvenčním řízení. Skutečnost, že insolvenční soud (pravomocně) určil, že vykonatelná pohledávka oprávněného není po právu, není důvodem pro zastavení exekuce k vymožení této pohledávky"
-- *NS* [29 ICdo 36/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ED8069B69B19DA9CC1258A63003185BC?openDocument) — 30. 5. 2023, kat. A
-  > „Usnesení, jímž insolvenční soud schválil dohodu o vypořádání společného jmění manželů uzavřenou insolvenčním správcem (popř. insolvenčními správci), lze napadnout (jen) návrhem (žalobou) na jeho zrušení, který lze podat do tří let od právní moci usnesení o jejím schválení. Insolvenční soud může zrušit usnesení o schválení takové dohody, je-li neplatná podle hmotného práva vyvolaný spor není incidenčním sporem"
-- *NS* [29 Cdo 2268/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/08B7A47345D7699BC12585F70015FFB5?openDocument) — 30. 6. 2020, kat. A
-  > „Vylučovací žalobou podle § 159 odst. 1 písm. b) insolvenčního zákona se lze úspěšně domoci i vyloučení náhradního peněžitého plnění dosaženého zpracováním věci sepsané do majetkové podstaty dlužníka. Jestliže movitá věc, která je předmětem vylučovací žaloby, zanikne zpracováním, lze pokračovat v excindačním řízení, vyplývá-li ze zákona, že okamžikem zpracování věci vzniklo žalobci (vylučovateli) vlastnické právo k věci vzniklé zpracováním předmětem řízení je bez dalšího (bez nutnosti měnit žalobu) nová věc. V těch případech, kdy žalobci (vylučovateli) vzniklo (u věci nezpracované v dobré víře) časově omezené právo „volby výhodnějšího řešení“ (§ 1075 odst. 1 a 2 o. z.), lze v excindačním řízení pokračovat poté, co se na základě provedené volby nebo v důsledku jejího nevyužití vyjasnilo, že žalobci (vylučovateli) vzniklo vlastnické právo k věci vzniklé zpracováním předmětem řízení se…"
+§ 159 vymezuje základní katalog incidenčních sporů, odděluje je od jiných sporů, jichž se účastní insolvenční správce, a upravuje jejich osud při skončení insolvenčního řízení. Pokračování podle odstavců 4 až 6 je výjimkou z pravidla odstavce 3, je vázáno na výslovně uvedené druhy sporů a způsoby skončení řízení a může měnit předmět sporu i okruh účastníků.
 
-### Výklad — **KATALOG INCIDENČNÍCH SPORŮ**
+### Souvisící ustanovení
 
-**Incidenční spor** = *zvláštní procesní typ sporného řízení v rámci insolvence*. Charakteristiky:
-- *spor*, který *vznikl v insolvenčním řízení*,
-- *projednává* ho **insolvenční soud** (případně jiný soudce dle rozvrhu — § 160 odst. 2),
-- *speciální procesní pravidla* (§ 159 — § 164),
-- *účastníkem je často insolvenční správce* (žalobce nebo žalovaný).
+- **§ 2 písm. d) a § 7** — zákonný pojem incidenčního sporu a subsidiární použití občanského soudního řádu.
+- **§ 160 až 164** — zahájení, projednání, rozhodnutí, náklady a závaznost rozsudku v incidenčním sporu.
+- **§ 192 až 203a** — popření pohledávek a navazující spory o pravost, výši nebo pořadí.
+- **§ 225 a § 226** — vylučovací žaloba a nakládání s majetkem dotčeným žalobou.
+- **§ 235 až 243** — neúčinnost právních úkonů a odpůrčí žaloba.
+- **§ 268 až 275** — vypořádání společného jmění manželů.
+- **§ 289 odst. 3, § 308 odst. 1 písm. c), § 364 a § 413** — spor o platnost prodeje mimo dražbu a způsoby skončení řízení významné pro odstavce 4 až 6.
 
-#### Osmička typů incidenčních sporů (odst. 1)
+### Souvisící předpisy
 
-| Písm. | Typ | Typický scénář |
-|---|---|---|
-| **a)** | Spory o pohledávky | Popření pohledávky správcem nebo věřitelem → spor o pravost/výši/pořadí (§ 198) |
-| **b)** | Spory o vyloučení věci | Třetí osoba uplatňuje vlastnictví věci, kterou správce zařadil do podstaty (§ 225) |
-| **c)** | Vypořádání SJM | Vyrovnání společného jmění dlužníka a jeho manžela (§ 268) |
-| **d)** | **Odpůrčí žaloba** | Spor o neúčinnost úkonu dlužníka (§ 239 a násl.) |
-| **e)** | Odpovědnost správce | Žaloba poškozeného proti správci za škodu na podstatě (§ 37) |
-| **f)** | Platnost prodejů mimo dražbu | Spor o platnost smluv, kterými správce zpeněžil podstatu |
-| **g)** | Určovací žaloby | Určení existence právního vztahu / práva k majetku |
-| **h)** | Další | Zákon označí explicitně (např. § 198 — popření) |
+- **Zákon č. 99/1963 Sb., občanský soudní řád, zejména § 80 a § 159a** — obecná úprava určovacích žalob a závaznosti rozsudku; použije se v mezích § 7 insolvenčního zákona.
 
-#### Vyloučení (odst. 2)
+### Z důvodové zprávy
 
-Pro **jiné spory správce** (např. spor o náhradu škody způsobené dlužníkovi třetí osobou, který správce uplatňuje za dlužníka) — *nelze použít pravidla incidenčních sporů*. Řídí se obecným OSŘ.
+Původní vládní návrh insolvenčního zákona označil výčet v § 159 odst. 1 za základní, nikoli taxativní, protože další ustanovení mohou jiné spory výslovně prohlásit za incidenční. Současně vysvětlil, že pouhá účast insolvenčního správce spor incidenčním nečiní; jako příklad uvedl vymáhání dlužníkových pohledávek do majetkové podstaty. Novela provedená zákonem č. 294/2013 Sb. doplnila písmena f) a g) a odstavce 3 až 6. Tyto historické materiály vysvětlují genezi úpravy, zatímco její aktuální obsah určuje znění účinné k 19. 7. 2026.
 
-#### Pokračování po skončení IR (odst. 3 — 6) — **VELMI DŮLEŽITÉ**
+### Literatura
 
-*Princip*: incidenční spory **nepokračují** po skončení řízení. *Výjimky*:
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Nejde o výsledek negativní literární rešerše.
 
-- *Spory podle písm. a), b), c), e), f), g)* — **lze pokračovat** po skončení (s některými scénáři skončení: zrušení konkursu pro splnění rozvrhu, splnění reorganizačního plánu, splnění oddlužení).
-- *Spory písm. d) — odpůrčí žaloby* — **přerušují se**; věřitel může do *30 dnů* navrhnout pokračování. Bez návrhu — spor se zastaví.
+### Výklad
 
-**Transformace sporu** (odst. 4):
-- spory o pravost/výši/pořadí pohledávek → "určení pravosti/výše/pořadí *pro dobu trvání řízení*",
-- spory o vyloučení → "určení, zda věc náležela do podstaty *ke dni skončení*".
+[1] **Uzavřená metoda zařazení.** Spor je incidenční jen tehdy, stanoví-li to insolvenční zákon: buď spadá pod některé písmeno odstavce 1, nebo jej jiné ustanovení výslovně označí za incidenční podle písmene h). Nestačí věcná souvislost s úpadkem, doba vedení sporu ani účast insolvenčního správce.
 
-**Účastnický posun** (odst. 5):
-- *místo správce nastupuje dlužník* (v některých sporech a, b, c, f, g),
-- pro odpůrčí žaloby — *nastupují věřitelé* (kdo podal návrh).
+[2] **Katalog odstavce 1.** Písmena a) až g) rozlišují spory o přihlášené pohledávky, vylučovací spory a spory o vydání výtěžku podle § 225 odst. 5, vypořádání společného jmění, odpůrčí spory, náhradu škody na majetkové podstatě způsobené porušením povinností správce, platnost smluv o prodeji mimo dražbu a určovací spory týkající se majetku nebo závazků dlužníka. U písmene g) zákon výslovně vyžaduje naléhavý právní zájem.
 
-### Vazby
+[3] **Jiné spory správce.** Odstavec 2 brání přenosu zvláštního procesního režimu na jiné spory, jejichž účastníkem je správce. Typickým příkladem z původní důvodové zprávy je žaloba, kterou správce vymáhá dlužníkovu pohledávku ve prospěch majetkové podstaty; takový spor se nestává incidenčním pouze proto, že probíhá za trvání insolvenčního řízení.
 
-- **§ 160** — procesní úprava IS.
-- **§ 192 — § 198** — popírání pohledávek.
-- **§ 225** — vylučovací žaloba.
-- **§ 235 — § 243** — neúčinné úkony.
-- **§ 308** — zrušení konkursu.
+[4] **Pravidlo při skončení řízení.** Podle odstavce 3 nelze po skončení insolvenčního řízení v incidenčním sporu pokračovat, nestanoví-li zákon jinak. Odstavce 4 až 6 proto nelze zobecnit na každý incidenční spor ani na každý způsob skončení insolvenčního řízení.
 
-### F. Kazuistika
+[5] **Pokračování podle odstavce 4.** Výjimka se týká sporů podle písm. a) až c) a e) až g), skončí-li řízení některým ze tří uvedených způsobů: zrušením konkursu podle § 308 odst. 1 písm. c), vzetím na vědomí splnění reorganizačního plánu nebo vzetím na vědomí splnění oddlužení. U sporů podle písmene a) se předmět převádí na určení pro dobu trvání insolvenčního řízení; u vylučovacích sporů podle písmene b), s výjimkou vydání výtěžku podle § 225 odst. 5, na určení příslušnosti hodnoty k podstatě ke dni skončení řízení.
 
-**1. Modelová situace.** Insolvenční správce při přezkumu *popře pravost* vykonatelné pohledávky věřitele V (z rozhodčího nálezu) ve výši 2 mil. Kč. Současně třetí osoba T tvrdí vlastnictví stroje, který správce sepsal do podstaty, a podává *vylučovací žalobu*. Ve třetí linii správce zvažuje *odpůrčí žalobu* na neúčinnost převodu nemovitosti, který dlužník učinil rok před úpadkem. Konkurs je posléze zrušen pro splnění rozvrhu. Důkazy: seznam přihlášených pohledávek a protokol o popření, soupis majetkové podstaty, kupní smlouva napadená odpůrčí žalobou, rozhodnutí o zrušení konkursu.
+[6] **Změna účastenství.** Ve sporech podle písm. a) až c), f) a g), v nichž lze pokračovat podle odstavce 4, nastupuje dnem skončení insolvenčního řízení místo správce dlužník. Písmeno e) v tomto výčtu není; nelze je do něj doplnit analogií.
 
-**2. Právní otázka.** Které z uvedených sporů jsou incidenčními spory dle § 159, jaký je jejich osud po skončení insolvenčního řízení a kdo se stává účastníkem místo správce?
+[7] **Odpůrčí spory.** U sporů podle písmene d) nastává při některém ze tří uvedených způsobů skončení přerušení ze zákona. Pokračovat lze pouze na návrh některého z dlužníkových věřitelů, který musí dojít insolvenčnímu soudu do 30 dnů od přerušení. Podáním návrhu věřitel vstupuje místo správce; bez včasného návrhu kteréhokoli věřitele soud spor zastaví.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 159 — katalog incidenčních sporů (spory o pohledávky — odst. 1 písm. a; vylučovací spory — písm. b; vypořádání SJM — písm. c; odpůrčí žaloby — písm. d; odpovědnost správce — písm. e; platnost prodejů mimo dražbu — písm. f; určovací spory — písm. g; další zákonem označené — písm. h); vyloučení jiných sporů správce (odst. 2); zákaz pokračování po skončení řízení s výjimkami (odst. 3–4); transformace sporů a posun účastenství na dlužníka, resp. u odpůrčích žalob přerušení a pokračování na návrh věřitele do 30 dnů (odst. 4–6).
-- *Související ustanovení téhož zákona:* § 192–198 (popírání pohledávek), § 225 (vylučovací žaloba), § 235–243 (neúčinné úkony), § 268 (SJM), § 37 (odpovědnost správce), § 308 (zrušení konkursu), § 160–164 (procesní úprava IS).
-- *Související předpisy:* § 80 o. s. ř. (určovací žaloba, naléhavý právní zájem), § 159a o. s. ř. (závaznost rozsudku).
-- *Judikatura:* NS 29 Cdo 3626/2023 (rozsudek o tom, že vykonatelná pohledávka není po právu, má účinky jen v insolvenci — není důvodem zastavení exekuce); NS 29 ICdo 36/2023 (spor o zrušení schválené dohody o vypořádání SJM *není* incidenčním sporem); NS 29 Cdo 2268/2018 (vylučovací žalobou lze dosáhnout i vyloučení náhradního plnění po zpracování věci).
+[8] **Intertemporalita.** Odstavce 3 až 6 a písmena f) a g) byla do § 159 vložena zákonem č. 294/2013 Sb. s účinností od 1. 1. 2014. Přechodné ustanovení obecně použilo nové znění i na dříve zahájená insolvenční řízení, avšak zachovalo právní účinky úkonů, které v řízení nastaly před účinností novely. U starších skutkových a procesních dějů je proto nutné určit rozhodné znění a účinky konkrétního úkonu; současný text nelze mechanicky promítat zpětně.
 
-**4. Subsumpce.** Spor o popřenou pravost pohledávky V je incidenčním sporem dle písm. a) (§ 192 a násl.). Vylučovací žaloba T je incidenčním sporem dle písm. b) (§ 225). Odpůrčí žaloba správce je incidenčním sporem dle písm. d) (§ 239). Po *zrušení konkursu pro splnění rozvrhu* (§ 308 odst. 1 písm. c) lze ve sporu o pohledávku (písm. a) a vylučovacím sporu (písm. b) *pokračovat* (odst. 4) s transformací předmětu a *posunem účastenství na dlužníka* (odst. 5); odpůrčí žaloba (písm. d) se *přerušuje* a pokračovat lze jen na *návrh věřitele do 30 dnů*, jinak se zastaví (odst. 6).
+### Judikatura
 
-**5. Řešení.** Spor o pravost pohledávky V a vylučovací spor T pokračují i po zrušení konkursu (transformované na určovací spory dle odst. 4), přičemž místo správce nastupuje *dlužník* (odst. 5); rozsudek o popření má účinky jen pro insolvenci a nebrání exekuci mimo ni (NS 29 Cdo 3626/2023). Odpůrčí žaloba se zrušením konkursu přeruší; nepodá-li některý věřitel návrh na pokračování do 30 dnů, soud spor *zastaví* (odst. 6). Procesně: hlídat lhůty a posun účastenství; u určovacích sporů dbát naléhavého právního zájmu.
-
-**6. Varianty.** (a) Spor o *zrušení schválené dohody o vypořádání SJM* uzavřené správcem *není* incidenčním sporem (NS 29 ICdo 36/2023) — řídí se obecnou úpravou. (b) Zanikne-li vylučovaná věc *zpracováním*, lze v excindačním řízení pokračovat ohledně náhradního plnění / nové věci (NS 29 Cdo 2268/2018), aniž je nutné měnit žalobu.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Každý spor, jehož účastníkem je správce, je incidenční." — Neutralizace: odst. 2 výslovně vylučuje použití úpravy incidenčních sporů na *jiné* spory správce (např. spor o náhradu škody způsobené dlužníkovi třetí osobou); rozhodný je katalog odst. 1.
-- *Protiargument:* „Po skončení insolvence incidenční spory bez dalšího pokračují." — Neutralizace: zásadně *nepokračují* (odst. 3); pokračování je výjimkou vázanou na konkrétní způsoby skončení a u odpůrčích žalob na návrh věřitele do 30 dnů (odst. 4–6).
-- *Slabé místo:* zařazení sporu pod konkrétní písmeno odst. 1 (zejm. určovací spory dle písm. g a hranice vůči odst. 2) bývá sporné; transformace předmětu a posun účastenství po skončení řízení jsou náchylné k procesním chybám.
-
-### H. Praktický závěr
-
-§ 159 vymezuje *katalog* incidenčních sporů (spory o pohledávky, vylučovací, o SJM, odpůrčí, o odpovědnost správce, o platnost prodejů mimo dražbu, určovací a další zákonem označené); na jiné spory správce se úprava nepoužije (odst. 2). Incidenční spory zásadně *nepokračují* po skončení řízení (odst. 3); výjimky a posun účastenství (na dlužníka, u odpůrčích žalob na věřitele do 30 dnů) upravují odst. 4–6.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Zařadit spor pod konkrétní písmeno katalogu odst. 1 (a vyloučit „jiné" spory správce dle odst. 2).
-- [ ] U sporů o pohledávky vázat na popření při přezkumu (§ 192–198) a hlídat lhůty žaloby.
-- [ ] Po skončení řízení posoudit, zda lze pokračovat (odst. 4) a kdo nastupuje místo správce (odst. 5).
-- [ ] U odpůrčích žalob (písm. d) hlídat přerušení a třicetidenní lhůtu věřitele k návrhu na pokračování (odst. 6).
-- [ ] U určovacích sporů (písm. g) ověřit naléhavý právní zájem; zohlednit, že rozsudek o popření působí jen v insolvenci (NS 29 Cdo 3626/2023).
-
-**Typicky rozhodné důkazy / podklady:** seznam přihlášených pohledávek a protokol o jejich popření, soupis majetkové podstaty, listiny k vylučované věci a k napadenému převodu (odpůrčí žaloba), rozhodnutí o způsobu/skončení řízení (zrušení konkursu, splnění plánu/oddlužení), návrhy věřitelů na pokračování sporu.
+- **Nejvyšší soud, rozsudek ze dne 23. 9. 2021, sen. zn. 29 ICdo 142/2019, R 31/2022.** Ve vylučovacím sporu o nemovitosti sepsané do majetkové podstaty soud posuzoval účinky dřívějšího zamítavého rozhodnutí o neplatnosti veřejné dražby. Nosně uzavřel, že zamítnutí určovací žaloby může být „jiným způsobem zjištění“ namítané neplatnosti podle § 231 odst. 1, jímž insolvenční soud není vázán. Rozhodnutí dokládá procesní kontext incidenčního vylučovacího sporu; samo nevykládá režim pokračování po skončení řízení podle § 159 odst. 3 až 6.
 
 ---
 

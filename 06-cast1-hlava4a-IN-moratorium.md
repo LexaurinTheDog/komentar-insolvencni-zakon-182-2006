@@ -2437,61 +2437,62 @@ Do tohoto kola nebylo zařazeno žádné rozhodnutí. Tím se nevyslovuje závě
 
 ## § 133 — Jednání o návrhu
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Nebyl-li insolvenční návrh odmítnut nebo nebylo-li řízení o něm zastaveno, lze o insolvenčním návrhu jiné osoby než dlužníka rozhodnout bez jednání jen tehdy, jestliže
 > a) insolvenční soud plně vyhoví návrhu, kterému nikdo neodporoval, nebo
 > b) o něm lze rozhodnout jen na základě účastníky předložených listinných důkazů a účastníci se práva účasti na projednání věci vzdali, popřípadě s rozhodnutím věci bez nařízení jednání souhlasí.
 > (2) Insolvenční soud vždy nařídí jednání o insolvenčním návrhu jiné osoby než dlužníka, závisí-li rozhodnutí na zjištění sporných skutečností o tom, zda dlužník je v úpadku. Provádí-li dokazování ke zjištění dlužníkova úpadku nebo jeho hrozícího úpadku nad rámec důkazních návrhů účastníků, nařídí jednání i v případě insolvenčního návrhu dlužníka.
 > (3) Dlužníku musí být vždy dána možnost, aby se k insolvenčnímu návrhu před rozhodnutím o úpadku vyjádřil.
 
+### Přehled výkladu
+
+U insolvenčního návrhu jiné osoby než dlužníka je rozhodnutí bez jednání výjimkou omezenou na dvě alternativy v odstavci 1. Závisí-li rozhodnutí na zjištění sporných skutkových okolností úpadku, musí soud nařídit jednání. U dlužnického návrhu vzniká tatáž povinnost, jestliže soud provádí dokazování k úpadku nebo hrozícímu úpadku nad rámec důkazních návrhů účastníků. Dlužník musí před rozhodnutím o úpadku dostat možnost vyjádřit se; toto právo nelze bez dalšího ztotožnit s osobním výslechem ani s nařízením jednání.
+
+### Souvisící ustanovení
+
+- **§ 7** — subsidiární použití občanského soudního řádu.
+- **§ 85 až 87** — obecný režim jednání, dokazování a slyšení dlužníka.
+- **§ 128 až 130** — odmítnutí návrhu a zastavení řízení, na něž navazuje úvod odstavce 1.
+- **§ 131 a 132** — osvědčení rozhodných skutečností a zvláštní režim dlužnického návrhu.
+- **§ 134 a 135** — rychlost rozhodnutí a postavení dalších účastníků při věřitelském návrhu.
+- **§ 136** — předpoklad vydání rozhodnutí o úpadku.
+
+### Souvisící předpisy
+
+- **Zákon č. 99/1963 Sb., občanský soudní řád**, zejména obecná pravidla o jednání a dokazování, použitelná v mezích § 7 insolvenčního zákona.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva k vládnímu návrhu insolvenčního zákona (sněmovní tisk 1120/0, zvláštní část k § 132 a 133, číslované s. 190–191, PDF s. 191–192) spojila povinné jednání se skutkovým „sporem o úpadek“. Výslovně odlišila situaci, kdy účastníci pouze právně hodnotí shodná skutková tvrzení. U odstavce 3 zdůraznila příležitost dlužníka být slyšen a varovala před záměnou této příležitosti s nutností jednání nebo s povinným výslechem. Jde o historické vysvětlení původní osnovy; použitelný právní závěr musí vždy odpovídat aktuálnímu znění.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tato poznámka není výsledkem negativní rešerše.
+
 ### Výklad
 
-**Většinou rozhoduje bez jednání** (paragraf 85 — fakultativnost). Jednání **povinné**:
-- *sporné skutečnosti o úpadku* (typicky věřitelský návrh, který dlužník popírá),
-- *vyšetřovací dokazování* (i u dlužnického návrhu).
+[1] **Rozsah pravidla.** Odstavec 1 upravuje návrh jiné osoby než dlužníka, typicky věřitele. Uplatní se až tehdy, nebyl-li návrh odmítnut a nebylo-li řízení zastaveno. Teprve poté se posuzuje, zda lze rozhodnout bez jednání.
 
-**Princip slyšení dlužníka** (odst. 3) — dlužník **musí** mít možnost vyjádřit se. *Absolutní procesní právo*.
+[2] **První alternativa bez jednání.** Podle odstavce 1 písm. a) musí soud návrhu plně vyhovět a návrhu nesmí nikdo odporovat. Nejsou-li obě podmínky splněny současně, toto písmeno rozhodnutí bez jednání neumožňuje.
 
-### Vazby
+[3] **Druhá alternativa bez jednání.** Podle odstavce 1 písm. b) musí být možné rozhodnout jen z listinných důkazů předložených účastníky a současně se účastníci buď vzdali práva účasti na projednání věci, nebo souhlasí s rozhodnutím bez jednání. Samotná listinná povaha dosavadních podkladů tedy nestačí.
 
-- **§ 85** — jednání obecně.
-- **§ 87** — výjimky z slyšení dlužníka.
+[4] **Povinné jednání u věřitelského návrhu.** Závisí-li rozhodnutí na zjištění sporných skutečností o tom, zda je dlužník v úpadku, odstavec 2 ukládá soudu jednání vždy nařídit. Rozhodující je potřeba zjistit sporný skutkový stav; původní důvodová zpráva proti tomu staví pouhý rozdílný právní výklad shodných skutkových tvrzení.
 
-### F. Kazuistika
+[5] **Dlužnický návrh.** U dlužnického návrhu se povinné jednání váže na situaci, kdy soud provádí dokazování ke zjištění úpadku nebo hrozícího úpadku nad rámec důkazních návrhů účastníků. Ustanovení tím navazuje na zvláštní pravidla osvědčení podle § 132, ale nezaměňuje osvědčení s dokazováním.
 
-**1. Modelová situace.** Věřitel podá insolvenční návrh proti dlužníku GAMA-V s. r. o. a tvrdí jeho úpadek; dlužník však existenci úpadku **popírá** a předkládá protichůdné listinné důkazy o své solventnosti. Soud zvažuje, zda rozhodnout bez jednání. Druhý scénář: dlužnický návrh, u nějž soud hodlá provádět dokazování ke zjištění úpadku nad rámec návrhů účastníků. Důkazy: insolvenční návrh a vyjádření dlužníka, předložené listiny obou stran, návrhy na dokazování.
+[6] **Možnost vyjádření dlužníka.** Před rozhodnutím o úpadku musí dlužník dostat skutečnou možnost reagovat na insolvenční návrh. Text odstavce 3 nevyžaduje v každém případě osobní výslech a sám o sobě nezakládá povinnost nařídit jednání; způsob musí odpovídat konkrétní procesní situaci a ostatním ustanovením zákona.
 
-**2. Právní otázka.** Kdy musí soud nařídit jednání o insolvenčním návrhu jiné osoby než dlužníka a jaké je procesní postavení dlužníka před rozhodnutím o úpadku?
+[7] **Procesní návaznosti.** Povinnost nařídit jednání podle § 133 nemění požadavek § 131, aby rozhodné skutečnosti byly osvědčeny, ani § 136 odst. 1, podle něhož soud rozhodne o úpadku, je-li úpadek nebo hrozící úpadek zjištěn osvědčením nebo dokazováním. Obecná procesní pravidla se použijí pouze subsidiárně v mezích § 7.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 133 odst. 1 (rozhodnutí bez jednání jen při plném vyhovění nenapadenému návrhu nebo na základě listin, vzdali-li se účastníci práva účasti či s tím souhlasí), odst. 2 (soud **vždy nařídí jednání**, závisí-li rozhodnutí na zjištění sporných skutečností o úpadku; jednání i u dlužnického návrhu při dokazování nad rámec návrhů účastníků), odst. 3 (dlužníku musí být vždy dána možnost vyjádřit se před rozhodnutím o úpadku).
-- *Související ustanovení téhož zákona:* § 85 (jednání obecně), § 87 (výjimky ze slyšení dlužníka), § 131 (osvědčování), § 136 (rozhodnutí o úpadku).
-- *Související předpisy:* OSŘ (zásada ústnosti a dokazování).
-- *Judikatura:* k jednání o návrhu chybí v komentáři citovaná judikatura; nosně plyne z textu § 133 (povinné jednání při sporných skutečnostech).
+[8] **Intertemporalita a praktické riziko.** Pro procesní postup je nutné ověřit znění účinné v době příslušného úkonu soudu. Bezpečná kontrolní otázka není, zda dlužník návrh obecně „popírá“, ale zda rozhodnutí skutečně závisí na zjištění sporných skutkových okolností úpadku a zda jsou splněny všechny podmínky některé z alternativ odstavce 1.
 
-**4. Subsumpce.** Znak „sporné skutečnosti o úpadku" — naplněn (dlužník úpadek popírá, protichůdné listiny) → soud **musí nařídit jednání** (odst. 2). Znak „dokazování nad rámec návrhů účastníků u dlužnického návrhu" — rovněž zakládá povinnost nařídit jednání. Znak „možnost dlužníka vyjádřit se" (odst. 3) — absolutní procesní právo, nelze je opomenout.
+### Judikatura
 
-**5. Řešení.** Soud nemůže ve sporné věci rozhodnout bez jednání — musí je nařídit (odst. 2) a provést dokazování ke zjištění úpadku; dlužníku musí být dána možnost se vyjádřit (odst. 3). Bez jednání lze rozhodnout jen v nesporných konstelacích (odst. 1). Praktický krok: u věřitelského návrhu s popřením úpadku počítat s jednáním a unést důkazní iniciativu. Riziko: rozhodnutí o úpadku bez jednání ve sporné věci je procesně vadné.
-
-**6. Varianty.** (a) Návrhu nikdo neodporuje a soud mu plně vyhoví, příp. lze rozhodnout jen z listin a účastníci se vzdali účasti — pak lze rozhodnout bez jednání (odst. 1). (b) Jde o dlužnický návrh bez potřeby dokazování nad rámec návrhů — jednání nemusí být nutné, ale možnost vyjádření dlužníka zůstává (odst. 3).
-
-### G. Protiargumenty a rizika
-
-- *„Ve sporné věci lze rozhodnout jen z listin bez jednání."* Neobstojí — závisí-li rozhodnutí na sporných skutečnostech o úpadku, jednání je povinné (odst. 2). Neutralizace: nařídit jednání a provést dokazování.
-- *„Vyjádření dlužníka není nutné, je-li věc jasná."* Vyloučeno odst. 3 — dlužníku musí být vždy dána možnost vyjádřit se před rozhodnutím o úpadku. Neutralizace: zajistit slyšení/vyjádření dlužníka.
-- Slabé místo: hranice mezi „spornými" a „nespornými" skutečnostmi o úpadku je posuzovací; podcenění spornosti vede k vadnému rozhodnutí bez jednání a k jeho zrušení v odvolání.
-
-### H. Praktický závěr
-
-O návrhu jiné osoby než dlužníka lze rozhodnout bez jednání jen v nesporných případech; závisí-li rozhodnutí na sporných skutečnostech o úpadku (nebo provádí-li soud dokazování nad rámec návrhů i u dlužnického návrhu), je jednání povinné. Dlužníku musí být vždy dána možnost vyjádřit se před rozhodnutím o úpadku.
-
-**Checklist (soud / věřitel / dlužník):**
-- [ ] Jsou skutečnosti o úpadku sporné (pak povinné jednání — odst. 2)?
-- [ ] Provádí soud dokazování nad rámec návrhů účastníků (i u dlužnického návrhu)?
-- [ ] Lze rozhodnout bez jednání dle odst. 1 (plné vyhovění nenapadenému / listiny + vzdání se účasti)?
-- [ ] Byla dlužníku dána možnost vyjádřit se před rozhodnutím o úpadku (odst. 3)?
-- [ ] Je důkazní situace připravena pro jednání (listiny, výslechy)?
-
-**Typicky rozhodné důkazy / podklady:** insolvenční návrh a vyjádření dlužníka, listinné důkazy obou stran o (ne)existenci úpadku, návrhy na dokazování, protokol o jednání, doklad o umožnění vyjádření dlužníka.
+V tomto kole nebylo do komentáře zařazeno rozhodnutí, u něhož by byl z oficiálního soudního webu ověřen plný text a nosný závěr přímo relevantní k § 133. Tím se nevyslovuje závěr, že relevantní judikatura neexistuje; kandidátní odkazy bez takového ověření nejsou použity jako autorita.
 
 ---
 

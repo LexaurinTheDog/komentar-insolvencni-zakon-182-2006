@@ -764,78 +764,67 @@ Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k taxo
 > (3) Není-li dlužník v úpadku pro předlužení, zamítne insolvenční soud insolvenční návrh podaný věřitelem i tehdy, osvědčí-li dlužník jednající v dobré víře, že jeho platební neschopnost vznikla v důsledku protiprávního jednání třetí osoby a že se zřetelem ke všem okolnostem lze důvodně předpokládat, že ji odvrátí v době do 3 měsíců po splatnosti jeho peněžitých závazků.
 > (4) Je-li dlužníkem právnická osoba, insolvenční soud zamítne insolvenční návrh podaný věřitelem i tehdy, jestliže stát nebo vyšší územní samosprávný celek po zahájení insolvenčního řízení převzal všechny její dluhy nebo se za ně zaručil.
 
-### Výklad — **VÝZNAMNÝ PARAGRAF**
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**Tři důvody zamítnutí věřitelského návrhu** (kromě obecného neosvědčení úpadku):
+### Znění ustanovení
 
-#### Odst. 2 — Pluralita věřitelů (formální materiální požadavek)
+Doslovné znění je uvedeno v blokové citaci výše; odpovídá znění účinnému k 19. 7. 2026.
 
-Věřitelský návrh **vyžaduje aspoň dva věřitele** — *navrhovatel + jeden další* (§ 3 odst. 1 písm. a). Pokud tato pluralita není osvědčena, **návrh se zamítne**.
+### Přehled výkladu
 
-**Anti-fraud klauzule**: *za "další" osobu se nepočítá* osoba, na kterou byla **převedena pohledávka navrhovatele v posledních 6 měsících před návrhem nebo po zahájení**. Smysl — zabránit „vyrobení druhého věřitele" formálním převodem části pohledávky.
+§ 143 upravuje věcné zamítnutí insolvenčního návrhu. Odstavec 1 je obecný; odstavce 2 až 4 stanoví zvláštní důvody pro zamítnutí věřitelského návrhu. Zamítnutí je nutné odlišit od odmítnutí vadného nebo zjevně bezdůvodného návrhu a od zastavení řízení (§ 142).
 
-#### Odst. 3 — Obrana dlužníka platebně neschopného z důvodu protiprávního jednání
+### Souvisící ustanovení
 
-Pokud dlužník **není v předlužení** (jen *platební neschopnost*), může se bránit prokázáním:
-- *jednal v dobré víře*,
-- *platební neschopnost vznikla z protiprávního jednání třetí osoby* (typicky podvod, krádež, nesplnění dluhu klíčovým odběratelem),
-- *odvrátí ji do 3 měsíců* po splatnosti.
+- § 3 — úpadek a platební neschopnost;
+- § 6 — vyloučení některých subjektů z působnosti zákona;
+- § 86, § 103 a § 105 — osvědčování úpadku, náležitosti návrhu a doložení pohledávky věřitele;
+- § 128 a § 128a — odmítnutí návrhu a zjevná bezdůvodnost;
+- § 136 odst. 1 — předpoklady rozhodnutí o úpadku;
+- § 142 a § 144 až § 147 — jiné způsoby rozhodnutí, odvolání, zánik účinků a odpovědnost.
 
-Soud návrh **zamítne**.
+### Souvisící předpisy
 
-> *Praxe*: tato obrana je *zřídka úspěšná* — vyžaduje silné důkazy a krátký časový horizont nápravy.
+- zákon č. 89/2012 Sb., občanský zákoník, zejména § 1879 a násl. o postoupení pohledávky.
 
-#### Odst. 4 — Převzetí dluhů státem / VÚSC
+### Z důvodové zprávy
 
-Pokud po zahájení řízení **stát nebo kraj převezme všechny dluhy** PO (nebo se za ně zaručí), návrh se zamítne. Logika — *věřitelé budou uspokojeni z garance*, insolvence nemá smysl.
+Původní důvodová zpráva k vládnímu návrhu insolvenčního zákona vysvětluje, že odstavec 3 doplňuje definici platební neschopnosti o obranu dlužníka, jehož stav vznikl protiprávním jednáním třetí osoby a může být v zákonné době odvrácen. Odstavec 4 řeší garanci poskytnutou státem nebo vyšším územním samosprávným celkem až po zahájení řízení. Jde o historické vysvětlení původní osnovy, nikoli o samostatný doklad aktuálního znění všech navazujících ustanovení.
 
-### Vazby
+### Literatura
 
-- **§ 3** — definice úpadku.
-- **§ 6** — vyloučené subjekty.
-- **§ 141** — odvolání proti úpadku.
-- **§ 145** — odvolání proti zamítnutí.
+Odborná literatura byla rozhodnutím editora odložena do druhého kola; tento údaj není výsledkem negativní rešerše.
+
+### Výklad
+
+[1] **Obecné pravidlo.** Podle odstavce 1 soud návrh zamítne, nejsou-li splněny zákonné předpoklady pro rozhodnutí o úpadku. Jde zejména o znaky úpadku podle § 3 a o předpoklad podle § 136 odst. 1. Zamítnutí následuje po věcném posouzení projednatelného návrhu; vady bránící pokračování se řeší odmítnutím podle § 128, nikoli § 143.
+
+[2] **Pohledávka navrhovatele a další osoby.** U věřitelského návrhu musí být osvědčeno, že splatnou pohledávku proti dlužníku má navrhovatel a alespoň jedna další osoba. Odstavec 2 tím konkretizuje pluralitu věřitelů; nestačí pouhé tvrzení bez výsledného osvědčení rozhodných pohledávek.
+
+[3] **Postoupená pohledávka.** Za další osobu se pro tento účel nepovažuje postupník, na kterého navrhovatel převedl některou svou pohledávku proti dlužníku nebo její část v posledních šesti měsících před podáním návrhu nebo po zahájení řízení. Pravidlo neurčuje neplatnost postoupení; pouze vylučuje započtení postupníka jako „další osoby“ podle § 143 odst. 2.
+
+[4] **Obrana podle odstavce 3.** Zvláštní důvod zamítnutí lze použít jen u věřitelského návrhu a jen tehdy, není-li dlužník v úpadku pro předlužení. Dlužník musí osvědčit kumulativně dobrou víru, příčinnou souvislost platební neschopnosti s protiprávním jednáním třetí osoby a důvodný předpoklad jejího odvrácení do tří měsíců po splatnosti jeho peněžitých závazků. Pouhé tvrzení o neplnění smluvního partnera nebo o budoucím příjmu tyto znaky samo nenaplňuje.
+
+[5] **Převzetí dluhů nebo záruka.** Odstavec 4 dopadá pouze na dlužníka-právnickou osobu a věřitelský návrh. Po zahájení insolvenčního řízení musí stát nebo vyšší územní samosprávný celek převzít všechny dluhy právnické osoby nebo se za všechny zaručit. Zákon nepostačuje splnit částečným převzetím či zárukou jen za některé dluhy.
+
+[6] **Platební schopnost a využitelný majetek.** Domněnka platební neschopnosti podle § 3 odst. 2 nezbavuje soud povinnosti posoudit obranu dlužníka. Osvědčí-li dlužník schopnost uhradit všechny osvědčené splatné závazky z pohotově využitelného majetku, může tím domněnku vyvrátit; samotná účetní hodnota obtížně zpeněžitelného nebo nedobytného majetku nestačí.
+
+[7] **Následky a opravný prostředek.** Proti zamítnutí se podle § 145 může odvolat pouze insolvenční navrhovatel. Účinky zahájení řízení a předběžná opatření zanikají v režimu § 146. § 147 odst. 2 výslovně vylučuje odpovědnost podle odstavce 1, byl-li návrh zamítnut podle § 143 odst. 3.
+
+[8] **Intertemporalita.** Komentář vykládá znění účinné k 19. 7. 2026. U starší judikatury a starších řízení je nutné ověřit tehdy účinné znění § 3, § 105 a § 143. Níže uvedené rozhodnutí bylo vydáno podle právní úpravy rozhodné před 1. 1. 2014; používá se jen pro nadále slučitelný závěr o vyvrácení domněnky platební neschopnosti.
 
 ### Judikatura
 
-- **NS 29 NSČR 9/2012**: anti-fraud klauzule podle odst. 2 — soud musí *materiálně* zkoumat, zda nedošlo k umělému získání druhého věřitele.
+- **Nejvyšší soud, usnesení ze dne 12. 12. 2013, sen. zn. 29 NSČR 113/2013, ECLI:CZ:NS:2013:29.NSCR.113.2013.1, R 45/2014.** Ve věci věřitelského návrhu soud prvního stupně návrh zamítl podle § 143 odst. 1, protože měl platební neschopnost za vyvrácenou hodnotou majetku; odvolací soud rozhodnutí zrušil. Nejvyšší soud zdůraznil, že není rozhodné, zda osvědčené pohledávky již jsou vykonatelné, ale zda by je bylo možné bez obtíží uspokojit z dlužníkova majetku, kdyby exekuční titul existoval. Rozhodný je tedy majetek reálně využitelný k úhradě, nikoli jeho pouhá nominální hodnota.
 
-### F. Kazuistika
+### Praktický checklist
 
-**1. Modelová situace.** Věřitel A podá insolvenční návrh proti dlužníku (s. r. o.) a jako „druhého věřitele" označí společnost B, na kterou ovšem A pět měsíců před podáním návrhu postoupil část své pohledávky za dlužníkem. Jiných věřitelů A neoznačuje. Dlužník tvrdí, že jediným reálným věřitelem je A a pluralita je vykonstruovaná; alternativně namítá, že jeho dočasná platební neschopnost vznikla podvodem klíčového odběratele a do tří měsíců ji odvrátí. Důkazy: smlouva o postoupení části pohledávky (datovaná 5 měsíců před návrhem), seznam závazků dlužníka, doklady o podvodu odběratele.
-
-**2. Právní otázka.** Je osvědčena pluralita věřitelů, započítává-li se jako „druhý věřitel" osoba, na niž navrhovatel postoupil část své pohledávky v posledních 6 měsících, a může se dlužník bránit prokázáním platební neschopnosti způsobené protiprávním jednáním třetí osoby?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 143 — soud návrh zamítne, nejsou-li splněny předpoklady úpadku (odst. 1); věřitelský návrh zamítne, není-li osvědčeno, že navrhovatel *a alespoň jedna další osoba* mají splatnou pohledávku, přičemž za „další osobu" se *nepovažuje* nabyvatel pohledávky navrhovatele převedené v posledních 6 měsících před návrhem nebo po zahájení (odst. 2); obrana dlužníka při platební neschopnosti z protiprávního jednání třetí osoby s předpokladem odvrácení do 3 měsíců (odst. 3).
-- *Související ustanovení téhož zákona:* § 3 odst. 1 (znaky úpadku, pluralita věřitelů); § 6 (vyloučené subjekty); § 105 (doložení pohledávky navrhovatele); § 147 odst. 2 (vyloučení odpovědnosti při zamítnutí dle § 143 odst. 3).
-- *Související předpisy:* § 1879 a násl. o. z. (postoupení pohledávky).
-- *Judikatura:* NS 29 NSČR 9/2012 — anti-fraud klauzuli je třeba zkoumat *materiálně*, zda nešlo o umělé získání druhého věřitele.
-
-**4. Subsumpce.** Společnost B nabyla pohledávku postoupením od navrhovatele A 5 měsíců před návrhem — *spadá do šestiměsíčního okna* odst. 2 a *nezapočítává se* jako další věřitel. Pluralita tak není osvědčena (jediným reálným věřitelem zůstává A) a návrh je třeba zamítnout, ledaže by byl osvědčen jiný věřitel. Obrana dle odst. 3 je přípustná jen *není-li dlužník v předlužení*; vyžaduje dobrou víru, příčinný protiprávní čin třetí osoby a *odvrácení do 3 měsíců* po splatnosti — vše musí dlužník osvědčit.
-
-**5. Řešení.** Soud návrh zamítne pro neosvědčení plurality (odst. 2), protože B se nezapočítává; současně (subsidiárně) by obstála i obrana dle odst. 3, prokáže-li dlužník dobrou víru, podvod odběratele a reálné odvrácení neschopnosti do 3 měsíců. Procesně: dlužník doloží datum a rozsah postoupení (pro vyloučení B) a důkazy o protiprávním jednání a schopnosti nápravy; navrhovatel naopak musí osvědčit *jiného* reálného věřitele. Zamítnutí dle odst. 3 navíc *vylučuje* odpovědnost navrhovatele za škodu (§ 147 odst. 2).
-
-**6. Varianty.** (a) Kdyby A označil jako druhého věřitele *nezávislou* osobu se samostatnou pohledávkou (mimo šestiměsíční okno a bez vazby na postoupení), pluralita by mohla být osvědčena a návrh by se nezamítl. (b) Kdyby dlužník byl v *předlužení*, obrana dle odst. 3 by se neuplatnila (ta míří jen na platební neschopnost), a soud by mohl úpadek osvědčit.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Postoupení je platné, B je tedy řádný druhý věřitel." — Neutralizace: odst. 2 *in fine* bez ohledu na platnost postoupení vylučuje započtení nabyvatele pohledávky navrhovatele převedené v posledních 6 měsících; cílem je zabránit umělé pluralitě (NS 29 NSČR 9/2012).
-- *Protiargument:* „Obrana dle odst. 3 jen oddaluje úpadek." — Neutralizace: jde o zákonný důvod *zamítnutí* při splnění přísných podmínek (dobrá víra, protiprávní jednání třetí osoby, odvrácení do 3 měsíců); v praxi je sice zřídka úspěšná, ale je-li prokázána, soud zamítá.
-- *Slabé místo:* „materiální" zkoumání umělé plurality je skutkově náročné; obrana dle odst. 3 vyžaduje silné a rychle ověřitelné důkazy a neplatí při předlužení.
-
-### H. Praktický závěr
-
-Věřitelský insolvenční návrh vyžaduje osvědčení *plurality věřitelů*; nabyvatel pohledávky postoupené navrhovatelem v posledních 6 měsících před návrhem (či po zahájení) se jako „další věřitel" nezapočítává (anti-fraud klauzule). Dlužník se může bránit i prokázáním platební neschopnosti z protiprávního jednání třetí osoby s odvrácením do 3 měsíců (jen není-li v předlužení), což navíc vylučuje odpovědnost navrhovatele (§ 147 odst. 2).
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověřit, zda je osvědčen navrhovatel a alespoň jedna *další* osoba se splatnou pohledávkou.
-- [ ] Vyloučit jako „dalšího věřitele" nabyvatele pohledávky navrhovatele postoupené v posledních 6 měsících / po zahájení.
-- [ ] Materiálně zkoumat, zda nedošlo k umělému vytvoření plurality (NS 29 NSČR 9/2012).
-- [ ] U obrany dle odst. 3 ověřit absenci předlužení, dobrou víru, příčinný protiprávní čin třetí osoby a odvrácení do 3 měsíců.
-- [ ] Zohlednit dopad zamítnutí dle odst. 3 na vyloučení odpovědnosti navrhovatele (§ 147 odst. 2).
-
-**Typicky rozhodné důkazy / podklady:** smlouvy o postoupení pohledávek s daty, seznam závazků dlužníka a identifikace věřitelů, podklady k osvědčení splatných pohledávek, důkazy o protiprávním jednání třetí osoby a o schopnosti odvrátit platební neschopnost.
+- [ ] Jde o věcné posouzení projednatelného návrhu, nikoli o vadu řešenou podle § 128?
+- [ ] Jsou osvědčeny splatné pohledávky navrhovatele i alespoň jedné započitatelné další osoby?
+- [ ] Nebyla pohledávka další osoby převedena navrhovatelem v období vymezeném § 143 odst. 2?
+- [ ] U odstavce 3 jsou osvědčeny všechny kumulativní podmínky a není dán úpadek předlužením?
+- [ ] U odstavce 4 převzetí nebo záruka pokrývá všechny dluhy právnické osoby?
+- [ ] Při obraně majetkem je majetek pohotově využitelný k úhradě všech osvědčených splatných závazků?
 
 ---
 

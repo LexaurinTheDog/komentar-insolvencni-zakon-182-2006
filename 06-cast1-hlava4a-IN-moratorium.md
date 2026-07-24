@@ -1582,62 +1582,69 @@ Odborná literatura byla rozhodnutím editora odložena do druhého kola. Toto o
 
 Tato revize necituje žádné soudní rozhodnutí jako pramen samostatného pravidla k § 121. Tím se nevyslovuje závěr o neexistenci související judikatury; pouze se do produkčního textu nezařazuje rozhodnutí bez ověřeného plného textu a přímo nosného závěru.
 
-### § 122 — Nakládání s majetkovou podstatou
+## § 122 — Nakládání s majetkovou podstatou
 
-**Tři klíčová pravidla:**
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-(odst. 1) **Přednostní úhrada nových provozních závazků** — dlužník může hradit závazky vzniklé v posledních 30 dnech před moratoriem nebo po něm (provozní cash-flow) **přednostně** před staršími.
+### Znění ustanovení
 
-(odst. 2) **Zákaz výpovědi smluv** — smluvní partneři ze smluv o dodávkách energií, surovin, zboží a služeb (trvajících ≥ 3 měsíce) **nemohou vypovědět ani odstoupit** pro:
-- *prodlení s úhradou před moratoriem*,
-- *zhoršení majetkové situace*.
+> (1) Závazky bezprostředně souvisící se zachováním provozu podniku vzniklé v posledních 30 dnech před vyhlášením moratoria nebo po něm je dlužník po dobu trvání moratoria oprávněn hradit přednostně před dříve splatnými závazky.
+>
+> (2) Smlouvy na dodávky energií a surovin, jakož i další smlouvy o dodávkách zboží a služeb, které ke dni vyhlášení moratoria trvaly alespoň po dobu 3 měsíců, nemůže druhý účastník smlouvy po dobu trvání moratoria vypovědět nebo od nich odstoupit pro prodlení dlužníka s placením úhrady za zboží nebo služby, ke kterému došlo před vyhlášením moratoria, nebo pro zhoršení majetkové situace dlužníka, hradí-li dlužník na základě těchto smluv řádně a včas alespoň závazky podle odstavce 1.
+>
+> (3) Započtení vzájemných pohledávek dlužníka a věřitele není po dobu trvání moratoria přípustné, ledaže insolvenční soud určí jinak předběžným opatřením. To platí i tehdy, jestliže zákonné podmínky tohoto započtení byly splněny před vyhlášením moratoria.
+>
 
-Podmínka — dlužník *řádně hradí* závazky podle odst. 1.
+### Přehled výkladu
 
-> *Velmi silná ochrana* — kontinuita provozu. Typicky pro dlouhodobé dodavatele energií, sítí, distribuce.
+§ 122 podporuje zachování provozu podniku za moratoria třemi pravidly. Dlužník smí přednostně hradit přesně vymezené provozní závazky. Za splnění zákonných podmínek nesmí druhý účastník dlouhodobější dodavatelské smlouvy tuto smlouvu ukončit výpovědí nebo odstoupením ze dvou vyjmenovaných důvodů. Vzájemné započtení pohledávek dlužníka a věřitele je po dobu moratoria zásadně nepřípustné; výjimku může stanovit insolvenční soud předběžným opatřením.
 
-(odst. 3) **Zákaz započtení** — *vzájemné započtení pohledávek* v moratoriu *nepřípustné*. Výjimka: soud rozhodne jinak předběžným opatřením (§ 82 odst. 3 písm. a)). I když byly podmínky započtení splněny před moratoriem!
+### Souvisící ustanovení
 
-### Vazby
+- § 82 odst. 3 písm. a) a odst. 4 — soudní souhlas se započtením za moratoria, podmínky a osoby oprávněné navrhnout předběžné opatření.
+- § 111 — obecná omezení dlužníka při nakládání s majetkovou podstatou po zahájení insolvenčního řízení.
+- § 115 až § 120 a § 124 — předpoklady, účinnost, trvání, účinky a zánik moratoria.
+- § 125 a § 126 odst. 2 — obdobné použití režimu a zachování § 122 u moratoria vyhlášeného před zahájením insolvenčního řízení.
+- § 127 — odpovědnost za porušení povinností za trvání moratoria.
+- § 168 odst. 1 písm. e) a § 169 odst. 1 písm. g) — postavení pohledávek vzniklých ze smluv podle § 122 odst. 2.
 
-- **§ 82 odst. 3** — předběžné opatření o započtení.
+### Souvisící předpisy
 
-### F. Kazuistika
+Obecný soukromoprávní režim smluv, výpovědi, odstoupení a započtení se uplatní jen v mezích zvláštních omezení insolvenčního zákona. Tato revize z obecné úpravy nevyvozuje samostatné pravidlo ani nerozšiřuje důvody zákazu podle § 122 odst. 2.
 
-**1. Modelová situace.** V průběhu moratoria dlužník SIGMA-T s. r. o. řádně hradí provozní závazky vzniklé v posledních 30 dnech před moratoriem (dodávky energií a surovin). Dodavatel energií, který má vůči dlužníku starší neuhrazenou pohledávku, chce smlouvu (uzavřenou na 5 let) **vypovědět** pro dřívější prodlení a současně chce **započíst** svou starší pohledávku proti tomu, co dluží dlužníkovi. Důkazy: smlouva o dodávkách (doba trvání), doklady o úhradách provozních závazků v moratoriu, vyčíslení vzájemných pohledávek, datum vzniku podmínek započtení.
+### Z důvodové zprávy
 
-**2. Právní otázka.** Smí dodavatel za trvání moratoria vypovědět dlouhodobou smlouvu pro dřívější prodlení dlužníka a provést jednostranné započtení?
+Původní důvodová zpráva vysvětluje přednostní hrazení závazků bezprostředně souvisejících se zachováním provozu jako krok nezbytný k účelu moratoria, typicky na příkladu dodávek energií. Připouští riziko pro věřitele, ale spojuje je s úvahou, že bez tohoto účinku by moratorium ztratilo smysl. Text je v tisku označen „K § 121“, věcně však výslovně odkazuje na § 122 osnovy; nejde proto o vysvětlení dnešního § 121. (Vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, zvláštní část „K § 121“, číslovaná s. 188, PDF s. 189.)
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 120 odst. 1 (suspenze rozhodnutí o úpadku), odst. 2 (zachování účinků zahájení dle § 109), § 121 (přihlášky během moratoria s odloženými účinky), § 122 odst. 1 (přednostní úhrada nových provozních závazků), odst. 2 (zákaz výpovědi/odstoupení u smluv ≥ 3 měsíce pro prodlení před moratoriem či zhoršení situace, hradí-li dlužník dle odst. 1), odst. 3 (zákaz započtení, i byly-li podmínky splněny dříve; výjimka předběžným opatřením dle § 82 odst. 3 písm. a).
-- *Související ustanovení téhož zákona:* § 109 (účinky zahájení), § 82 odst. 3 (předběžné opatření o započtení), § 124 (zánik moratoria).
-- *Související předpisy:* OZ (započtení, výpověď/odstoupení od smlouvy).
-- *Judikatura:* k účinkům moratoria chybí v komentáři citovaná judikatura; nosně plyne z textu § 122.
+### Literatura
 
-**4. Subsumpce.** Znak „smlouva o dodávkách trvající ≥ 3 měsíce" — naplněn (5 let). Znak „dlužník řádně hradí závazky dle odst. 1" — naplněn → aktivuje se zákaz výpovědi/odstoupení pro prodlení před moratoriem (odst. 2). Znak započtení — odst. 3 jej v moratoriu zakazuje, i kdyby podmínky byly splněny před moratoriem; výjimkou je jen předběžné opatření soudu.
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Toto odložení není negativní rešerší ani závěrem, že k § 122 literatura neexistuje.
 
-**5. Řešení.** Dodavatel **nemůže** smlouvu vypovědět ani od ní odstoupit pro dřívější prodlení či zhoršení situace, hradí-li dlužník řádně provozní závazky (odst. 2). Jednostranné započtení starší pohledávky je **nepřípustné** (odst. 3), nerozhodne-li soud jinak předběžným opatřením (§ 82 odst. 3 písm. a). Praktický krok dlužníka: pečlivě dokládat řádné hrazení provozních závazků (podmínka ochrany dle odst. 2). Riziko: po zániku moratoria účinky pominou a započtení/výpověď budou opět možné.
+### Výklad
 
-**6. Varianty.** (a) Dlužník provozní závazky dle odst. 1 **neuhradí** — ochrana podle odst. 2 odpadá a dodavatel může smlouvu ukončit. (b) Soud na návrh předběžným opatřením započtení výjimečně připustí (§ 82 odst. 3 písm. a) — pak je započtení přípustné v jím vymezeném rozsahu.
+[1] **Časový a věcný rozsah přednostní úhrady.** Odstavec 1 se vztahuje jen na závazky bezprostředně související se zachováním provozu podniku, které vznikly v posledních 30 dnech před vyhlášením moratoria nebo po něm. Nestačí tedy samotné stáří závazku ani obecná souvislost s podnikáním.
 
-### G. Protiargumenty a rizika
+[2] **Oprávnění, nikoli obecný příkaz.** Zákon dlužníka k přednostní úhradě opravňuje. Neříká, že každý závazek z uvedeného období musí být automaticky zaplacen před každým starším závazkem. Při konkrétní platbě musí být splněna také věcná vazba na zachování provozu a respektována další omezení insolvenčního zákona.
 
-- *„Podmínky započtení byly splněny před moratoriem, započtení tedy platí."* Neobstojí — odst. 3 zakazuje započtení v moratoriu i tehdy, byly-li podmínky splněny dříve. Neutralizace: případně usilovat o předběžné opatření dle § 82 odst. 3 písm. a).
-- *„Mám právo vypovědět smlouvu pro prodlení."* Vyloučeno odst. 2 u smluv ≥ 3 měsíce, hradí-li dlužník provozní závazky; výpověď pro prodlení před moratoriem/zhoršení situace je zapovězena. Neutralizace dodavatele: prokázat, že dlužník provozní závazky nehradí.
-- Slabé místo: ochrana dlužníka je podmíněna řádným hrazením provozních závazků dle odst. 1; selže-li dlužník v této povinnosti, ochrana padá — klíčové je důsledné dokládání plateb.
+[3] **Chráněné smlouvy.** Odstavec 2 zahrnuje smlouvy na dodávky energií a surovin a další smlouvy o dodávkách zboží a služeb, jestliže ke dni vyhlášení moratoria trvaly alespoň tři měsíce. Rozhodná je dosavadní doba trvání smlouvy k tomuto dni, nikoli pouze její sjednaná budoucí délka.
 
-### H. Praktický závěr
+[4] **Uzavřený rozsah zákazu ukončení.** Druhý účastník nesmí po dobu moratoria smlouvu vypovědět ani od ní odstoupit pro dlužníkovo prodlení s úhradou za zboží nebo služby, které nastalo před vyhlášením moratoria, ani pro zhoršení dlužníkovy majetkové situace. § 122 odst. 2 sám nezakazuje každý způsob ukončení smlouvy z jakéhokoli jiného důvodu.
 
-Za trvání moratoria nelze vydat rozhodnutí o úpadku, dlužník přednostně hradí nové provozní závazky a dodavatelé dlouhodobých smluv (≥ 3 měsíce) nesmějí vypovídat/odstupovat pro dřívější prodlení, hradí-li dlužník řádně; započtení je zakázáno (s výjimkou předběžného opatření soudu).
+[5] **Podmínka ochrany.** Zákaz podle odstavce 2 působí, hradí-li dlužník na základě dotčených smluv řádně a včas alespoň závazky podle odstavce 1. Je proto nutné odděleně ověřit, zda konkrétní závazek spadá do třicetidenního nebo následného období a bezprostředně souvisí se zachováním provozu.
 
-**Checklist (dlužník / dodavatel / soud):**
-- [ ] Hradí dlužník přednostně provozní závazky vzniklé těsně před/po moratoriu (odst. 1)?
-- [ ] Jde o smlouvu trvající ≥ 3 měsíce (ochrana proti výpovědi/odstoupení dle odst. 2)?
-- [ ] Je výpověď/odstoupení opřeno o prodlení před moratoriem či zhoršení situace (pak zapovězeno)?
-- [ ] Nedochází k zakázanému započtení (odst. 3), bez předběžného opatření (§ 82 odst. 3)?
-- [ ] Jsou účinky zahájení dle § 109 nadále zachovány (odst. 2)?
+[6] **Zákaz započtení.** Odstavec 3 dopadá na započtení vzájemných pohledávek dlužníka a věřitele po dobu trvání moratoria. Výslovně zahrnuje i situaci, kdy zákonné podmínky započtení byly splněny již před vyhlášením moratoria; rozhodující je provedení započtení za jeho trvání.
 
-**Typicky rozhodné důkazy / podklady:** smlouva o dodávkách (doba trvání), doklady o řádné úhradě provozních závazků v moratoriu, vyčíslení vzájemných pohledávek a datum splnění podmínek započtení, případné předběžné opatření soudu.
+[7] **Soudní výjimka.** Podle § 82 odst. 3 písm. a) může insolvenční soud z důvodů hodných zvláštního zřetele souhlas se započtením udělit předběžným opatřením, neodporuje-li to společnému zájmu věřitelů. Návrh mohou podat jen osoby vyjmenované v § 82 odst. 4; § 122 odst. 3 proto nezakládá automatickou výjimku na pouhou žádost věřitele.
+
+[8] **Moratorium před zahájením řízení.** § 125 stanoví obdobné použití § 115 až § 124 a § 126 odst. 2 výslovně zachovává § 122 i tehdy, nastanou-li vyhlášením moratoria účinky zahájení řízení ještě před podáním insolvenčního návrhu.
+
+[9] **Následné postavení dodavatelských pohledávek.** Pohledávky vzniklé za trvání moratoria ze smluv podle odstavce 2 řadí § 168 odst. 1 písm. e) mezi pohledávky za majetkovou podstatou. U moratoria vyhlášeného před zahájením řízení upravuje § 169 odst. 1 písm. g) zvláštní postavení při zahájení insolvenčního řízení do jednoho roku od jeho zániku.
+
+[10] **Intertemporalita.** Výklad vychází ze znění účinného k 19. 7. 2026. Historické mimořádné moratorium podle § 127a mělo vlastní dočasné odchylky, včetně nepoužití § 122 odst. 1 a 3; na dřívější skutkové děje proto nelze bez kontroly tehdejšího znění přenést dnešní obecný režim.
+
+### Judikatura
+
+Tato revize necituje žádné soudní rozhodnutí jako pramen samostatného pravidla k § 122. Tím se nevyslovuje závěr o neexistenci související judikatury; do produkčního textu se pouze nezařazuje rozhodnutí bez ověřeného plného textu a přímo nosného závěru.
 
 ---
 

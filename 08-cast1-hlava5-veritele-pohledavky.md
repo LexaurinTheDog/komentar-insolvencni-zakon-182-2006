@@ -1600,57 +1600,64 @@ Judikatura nebyla použita jako pramen samostatného materiálního závěru. V�
 
 ## § 188 — Přezkum přihlášek správcem — **PRVNÍ FILTR**
 
-> (1) Insolvenční správce přezkoumá podané přihlášky pohledávek **zejména podle přiložených dokladů a podle účetnictví dlužníka** nebo jeho evidence vedené podle zvláštního právního předpisu. Dále vyzve dlužníka, aby se k přihlášeným pohledávkám vyjádřil. Je-li to třeba, provede o pohledávkách nezbytná šetření s tím, že využije součinnosti orgánů, které mu ji jsou povinny poskytnout.
-> (2) Nelze-li přihlášku pohledávky přezkoumat pro její vady nebo neúplnost, **vyzve insolvenční správce věřitele, aby ji opravil nebo doplnil do 15 dnů**, nestanoví-li lhůtu delší. Současně jej poučí, jak je nutné opravu a doplnění provést. Přihlášky pohledávek, které nebyly včas a řádně doplněny nebo opraveny, předloží insolvenční správce insolvenčnímu soudu k rozhodnutí o tom, že se k přihlášce pohledávky nepřihlíží; o tomto následku musí být věřitel poučen.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Insolvenční správce přezkoumá podané přihlášky pohledávek zejména podle přiložených dokladů a podle účetnictví dlužníka nebo jeho evidence vedené podle zvláštního právního předpisu13). Dále vyzve dlužníka, aby se k přihlášeným pohledávkám vyjádřil. Je-li to třeba, provede o pohledávkách nezbytná šetření s tím, že využije součinnosti orgánů, které mu ji jsou povinny poskytnout.
+>
+> (2) Nelze-li přihlášku pohledávky přezkoumat pro její vady nebo neúplnost, vyzve insolvenční správce věřitele, aby ji opravil nebo doplnil do 15 dnů, nestanoví-li lhůtu delší. Současně jej poučí, jak je nutné opravu a doplnění provést. Přihlášky pohledávek, které nebyly včas a řádně doplněny nebo opraveny, předloží insolvenční správce insolvenčnímu soudu k rozhodnutí o tom, že se k přihlášce pohledávky nepřihlíží; o tomto následku musí být věřitel poučen.
+
+### Přehled výkladu
+
+§ 188 rozděluje první kontrolu přihlášky do dvou kroků. Odstavec 1 ukládá správci věcně prověřit podané přihlášky z dostupných podkladů. Odstavec 2 upravuje odstranění jen takových vad nebo neúplností, pro které přihlášku nelze přezkoumat. Správce vyzývá a po marném výsledku přihlášku předkládá; konečné rozhodnutí, že se k ní nepřihlíží, činí insolvenční soud.
+
+### Souvisící ustanovení
+
+- § 173 až 177 — podání, obsah a přílohy přihlášky,
+- § 185 — odmítnutí přihlášky soudem a skončení účasti věřitele,
+- § 189 až 191 — seznam přihlášených pohledávek a jejich přezkoumání,
+- § 192, § 198 a § 199 — popření pravosti, výše nebo pořadí a navazující incidenční spory,
+- § 410 — zvláštní provedení přezkumu v oddlužení.
+
+### Souvisící předpisy
+
+- zákon č. 563/1991 Sb., o účetnictví — účetnictví dlužníka jako jeden ze zákonem výslovně uvedených podkladů přezkumu,
+- vyhláška č. 191/2017 Sb. — náležitosti elektronických formulářů insolvenčních podání, včetně přihlášky pohledávky.
+
+### Z důvodové zprávy
+
+Zvláštní část důvodové zprávy k vládnímu návrhu insolvenčního zákona vysvětluje § 188 stručně: kvůli praktickým následkům chybného nakládání správce s přihláškou ponechává konečné rozhodnutí o nepřezkoumatelné přihlášce insolvenčnímu soudu; výslovně odkazuje na spojení § 188 odst. 2 a § 185 osnovy. Jde o sněmovní tisk 1120/0, zvláštní část „K § 188“, číslovaná i PDF strana 200.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto odložení není výsledkem negativní rešerše.
 
 ### Výklad
 
-**Správce má prvotní přezkumnou povinnost** — kontroluje:
-- *doklady přiložené k přihlášce*,
-- *účetnictví dlužníka*,
-- *vyjádření dlužníka* (povinné).
+[1] **Povaha prvního filtru.** Přezkum podle odstavce 1 není omezen na formální kontrolu formuláře. Slovo „zejména“ ponechává výčet podkladů otevřený: správce vychází především z přiložených dokladů, účetnictví nebo jiné zákonné evidence dlužníka, vyžádá si vyjádření dlužníka a podle potřeby provede další šetření.
 
-**Vady přihlášky** — *15denní lhůta* k doplnění (správce může prodloužit). Nedoplněno → soud rozhodne *nepřihlížet*.
+[2] **Vyjádření dlužníka a šetření.** Vyžádání vyjádření dlužníka stanoví zákon bez podmínky; další šetření váže na jejich potřebu. Součinnost orgánů je prostředkem takového šetření, nikoli náhradou tvrzení, která musí obsahovat sama přihláška.
 
-### Vazby
+[3] **Spouštěcí podmínka odstavce 2.** Výzva podle § 188 odst. 2 přichází v úvahu, jen když konkrétní vada nebo neúplnost znemožňuje přezkum přihlášky. Ne každá nepřesnost nebo důkazní slabost má tento následek. Správce musí nejprve určit, který údaj potřebný k přezkumu chybí nebo je vadný a proč bez jeho opravy či doplnění přezkum nelze provést.
 
-- **§ 174 — § 177** — náležitosti přihlášky.
+[4] **Tvrzení a důkazní podklady.** § 174 vyžaduje mimo jiné uvedení důvodu vzniku a výše pohledávky; § 177 upravuje připojení listin, jichž se přihláška dovolává. Chybějící nebo neurčité rozhodné skutkové tvrzení může bránit přezkumu. Naproti tomu pouhý závěr, že přiložené listiny pohledávku přesvědčivě neprokazují, sám bez dalšího neznamená neúplnost přihlášky: může jít o věcný důvod k popření podle § 192.
 
-### F. Kazuistika
+[5] **Obsah výzvy.** Správce určí, co má věřitel opravit nebo doplnit, jak to má provést a v jaké lhůtě. Zákonných 15 dnů je minimum; správce může stanovit lhůtu delší. Součástí výzvy musí být poučení, že včas a řádně neodstraněná vada může vést k rozhodnutí, že se k přihlášce nepřihlíží.
 
-**1. Modelová situace.** Věřitel V přihlásil pohledávku 1,2 mil. Kč „z obchodního styku" bez bližšího uvedení důvodu vzniku a bez faktur a smlouvy; přiložil jen jednostranně sestavený výkaz. Insolvenční správce S nemá z přihlášky ani z účetnictví dlužníka D oporu pro existenci a výši pohledávky. S vyzve V k doplnění do 15 dnů s konkrétním poučením, jak vady odstranit a s poučením o následku. V doplní pouze část (dodá fakturu na 200 000 Kč), zbytek nedoloží. Důkazy: přihláška, účetnictví a evidence dlužníka, vyjádření dlužníka, výzva správce a doklad o jejím doručení, neúplné doplnění věřitele.
+[6] **Marný výsledek výzvy.** Samotné uplynutí lhůty nestačí. Rozhodné je současně to, že přihláška nebyla včas a řádně opravena nebo doplněna a původní překážka přezkumu trvá. Správce pak přihlášku předloží insolvenčnímu soudu; sám o nepřihlížení ani o odmítnutí přihlášky nerozhoduje.
 
-**2. Právní otázka.** Za jakých podmínek a s jakým procesním následkem může insolvenční správce dosáhnout toho, aby se k vadné nebo neúplné přihlášce nepřihlíželo, a jaké jsou meze jeho prvotní přezkumné povinnosti?
+[7] **Role soudu.** Konečné posouzení nepřezkoumatelnosti náleží soudu. Rozhodne-li, že se k přihlášce nepřihlíží, navazuje procesní postup podle § 185: soud přihlášku odmítne a právní mocí rozhodnutí končí účast věřitele v insolvenčním řízení v rozsahu, jehož se rozhodnutí týká.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 188 odst. 1 (přezkum zejména podle přiložených dokladů a účetnictví dlužníka, vyjádření dlužníka, nezbytná šetření a součinnost orgánů) a odst. 2 (výzva k opravě/doplnění do 15 dnů s poučením; nedoplněné přihlášky předloží soudu k rozhodnutí, že se k nim nepřihlíží).
-- *Související ustanovení téhož zákona:* § 174–177 (náležitosti a přílohy přihlášky), § 173a (následek uplynutí lhůty), § 185 (odmítnutí přihlášky), § 189 (zařazení do seznamu), § 198 a § 199 (popření jako odlišná kategorie od „nepřihlížení").
-- *Související předpisy:* zákon o účetnictví (účetnictví dlužníka jako primární podklad), prováděcí vyhláška k formuláři přihlášky.
-- *Judikatura:* nosný závěr, že výzva k doplnění musí být určitá a poučení konkrétní (jak vadu odstranit a s jakým následkem); „nepřihlížení" je krajním řešením vad bránících přezkumu, nikoli nástrojem věcného popření důvodnosti pohledávky.
+[8] **Odlišení od popření.** Nepřihlížení pro neodstraněnou vadu a popření pohledávky řeší odlišné otázky. První reaguje na nemožnost přihlášku přezkoumat; druhé na nesouhlas s její pravostí, výší nebo pořadím. Výzvu podle § 188 odst. 2 proto nelze používat jako náhradu popěrného úkonu.
 
-**4. Subsumpce.** Přihláška V je neurčitá a nedoložená → nelze ji přezkoumat pro neúplnost (§ 188 odst. 2). S správně vyzval V k doplnění do 15 dnů s konkrétním poučením. V doplnil jen část → ohledně nedoložené části přihláška nebyla řádně doplněna → S předloží přihlášku soudu k rozhodnutí, že se k ní (v nedoplněné části) nepřihlíží. Doložená část (200 000 Kč) je přezkoumatelná a postupuje do dalšího přezkumu.
+[9] **Praktická kontrola.** Ve spise má být dohledatelná přihláška a její přílohy, konkrétní výzva, údaj o jejím doručení, délka poskytnuté lhůty, poučení o následku a obsah věřitelovy reakce. Před předložením soudu je třeba znovu ověřit, zda vytčená vada stále skutečně brání přezkumu.
 
-**5. Řešení.** Správce nesmí vadnou přihlášku rovnou popřít jako neexistující — nejprve musí vyzvat k odstranění vad bránících přezkumu (§ 188 odst. 2). Po marném uplynutí lhůty předloží přihlášku soudu, který rozhodne, že se k ní nepřihlíží. U doložené části provede správce řádný přezkum a případně ji uzná či popře dle § 192 a násl. Věcné výhrady k existenci/výši se neuplatňují cestou „nepřihlížení", ale popřením na přezkumném jednání.
+[10] **Novelizace a intertemporalita.** Aktuální text § 188 odpovídá v podstatné procesní konstrukci původnímu vládnímu návrhu: správce provede přezkum, odstranění vad řídí výzvou a konečný následek vyslovuje soud. Pro úkon ve starším řízení je přesto nutné ověřit znění § 188 i navazujících § 185, § 189 až 192 a zvláštních pravidel daného způsobu řešení úpadku účinné v rozhodné době; tento komentář zachycuje stav k 19. 7. 2026.
 
-**6. Varianty.** (a) Kdyby vada nebránila přezkumu (jen drobná formální nepřesnost), správce by přihlášku přezkoumal a případné výhrady řešil popřením, nikoli výzvou dle odst. 2. (b) Kdyby V vady řádně a včas odstranil v plném rozsahu, přihláška by postoupila k přezkumu celá a o „nepřihlížení" by nebylo důvodu rozhodovat.
+### Judikatura
 
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Správce může vadnou přihlášku rovnou odmítnout/popřít." — Neutralizace: § 188 odst. 2 ukládá nejprve výzvu k doplnění s poučením; bez ní nelze dosáhnout „nepřihlížení"; popření je věcným nástrojem proti důvodnosti, nikoli reakcí na vady bránící přezkumu.
-- *Protiargument:* „Patnáctidenní lhůta je pevná a neprodloužitelná." — Neutralizace: zákon výslovně připouští lhůtu delší („nestanoví-li lhůtu delší"); správce ji může s ohledem na rozsah doplnění prodloužit.
-- *Slabé místo:* sporné je rozhraní mezi vadou bránící přezkumu (→ doplnění) a věcnou nedůvodností (→ popření); chybné zařazení vede k nesprávnému procesnímu výsledku. Riziko též v prokázání řádného doručení výzvy a obsahu poučení.
-
-### H. Praktický závěr
-
-§ 188 ukládá správci aktivní prvotní přezkum (doklady, účetnictví dlužníka, vyjádření dlužníka, šetření) a u vad bránících přezkumu povinnost vyzvat věřitele k doplnění do 15 dnů (či déle) s poučením; teprve marné uplynutí lhůty vede přes rozhodnutí soudu k tomu, že se k přihlášce nepřihlíží.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Přezkoumat přihlášku podle dokladů, účetnictví dlužníka a vyjádření dlužníka; provést nezbytná šetření.
-- [ ] U vad bránících přezkumu vyzvat věřitele k doplnění (≥ 15 dnů) s konkrétním poučením, jak vadu odstranit a s jakým následkem.
-- [ ] Odlišit „nepřihlížení" pro vady (§ 188 odst. 2) od věcného popření pravosti/výše/pořadí (§ 192 a násl.).
-- [ ] Doložit doručení výzvy; po marném uplynutí lhůty předložit přihlášku soudu k rozhodnutí o nepřihlížení.
-
-**Typicky rozhodné důkazy / podklady:** přihláška a její přílohy, účetnictví a evidence dlužníka, vyjádření dlužníka, výzva správce s poučením a doklad o doručení, doklad o (ne)doplnění ve lhůtě.
+Judikatura nebyla použita jako pramen samostatného materiálního závěru. Dřívější neurčitý odkaz na „nosný závěr“ bez identifikace a kontroly plného oficiálního rozhodnutí byl odstraněn. Tím se nevyslovuje, že relevantní judikatura neexistuje; výklad v této jednotce stojí na ověřeném aktuálním znění zákona a oficiální důvodové zprávě.
 
 ---
 

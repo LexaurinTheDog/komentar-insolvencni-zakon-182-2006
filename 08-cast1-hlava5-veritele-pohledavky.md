@@ -2609,52 +2609,56 @@ Při této revizi nebylo jako pramen materiálního právního závěru použito
 
 ## § 203a — Pochybnosti o pořadí
 
-> (1) V pochybnostech o tom, zda pohledávka uplatněná věřitelem podle § 203 je pohledávkou za majetkovou podstatou nebo pohledávkou postavenou jí na roveň anebo pohledávkou, která se v insolvenčním řízení neuspokojuje (§ 170), uloží insolvenční soud i bez návrhu věřiteli, který ji uplatnil, aby do 30 dnů podal u insolvenčního soudu **žalobu na určení pořadí uplatněné pohledávky**; na návrh insolvenčního správce tak učiní vždy. Žaloba musí být vždy podána proti insolvenčnímu správci. Nedojde-li žaloba o určení pořadí pohledávky uplatněné jako pohledávka za majetkovou podstatou nebo jako pohledávka postavená na roveň pohledávce za majetkovou podstatou ve stanovené lhůtě insolvenčnímu soudu nebo není-li žalobě vyhověno, považuje se podání, jímž věřitel takovou pohledávku uplatnil, za přihlášku pohledávky a uspokojení pohledávky jako pohledávky za majetkovou podstatou nebo pohledávky postavené jí na roveň je v insolvenčním řízení vyloučeno. Nedojde-li žaloba o určení pořadí pohledávky, která se v insolvenčním řízení neuspokojuje, ve stanovené lhůtě insolvenčnímu soudu nebo není-li žalobě vyhověno, je uspokojení takové pohledávky v insolvenčním řízení vyloučeno.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) V pochybnostech o tom, zda pohledávka uplatněná věřitelem podle § 203 je pohledávkou za majetkovou podstatou nebo pohledávkou postavenou jí na roveň anebo pohledávkou, která se v insolvenčním řízení neuspokojuje (§ 170), uloží insolvenční soud i bez návrhu věřiteli, který ji uplatnil, aby do 30 dnů podal u insolvenčního soudu žalobu na určení pořadí uplatněné pohledávky; na návrh insolvenčního správce tak učiní vždy. Žaloba musí být vždy podána proti insolvenčnímu správci. Nedojde-li žaloba o určení pořadí pohledávky uplatněné jako pohledávka za majetkovou podstatou nebo jako pohledávka postavená na roveň pohledávce za majetkovou podstatou ve stanovené lhůtě insolvenčnímu soudu nebo není-li žalobě vyhověno, považuje se podání, jímž věřitel takovou pohledávku uplatnil, za přihlášku pohledávky a uspokojení pohledávky jako pohledávky za majetkovou podstatou nebo pohledávky postavené jí na roveň je v insolvenčním řízení vyloučeno. Nedojde-li žaloba o určení pořadí pohledávky, která se v insolvenčním řízení neuspokojuje, ve stanovené lhůtě insolvenčnímu soudu nebo není-li žalobě vyhověno, je uspokojení takové pohledávky v insolvenčním řízení vyloučeno.
 > (2) Řízení o žalobě podle odstavce 1 je incidenčním sporem podle § 159 odst. 1 písm. a); ustanovení o popření pořadí přihlášené pohledávky platí obdobně.
+
+### Přehled výkladu
+
+Ustanovení vytváří zvláštní procesní cestu pro pochybnost o pořadí pohledávky uplatněné podle § 203. Soud uloží věřiteli podat do 30 dnů u insolvenčního soudu žalobu proti insolvenčnímu správci; bez návrhu tak učinit může, na návrh správce musí. Nepodání žaloby nebo její neúspěch vyvolávají přesně rozlišené následky podle kategorie, v níž byla pohledávka uplatněna.
+
+### Souvisící ustanovení
+
+- § 16 a § 159 až 163 — účastníci a procesní rámec incidenčních sporů.
+- § 168 až 170 — dotčené kategorie pohledávek.
+- § 195 — obsah popření pořadí přihlášené pohledávky; jeho úprava se použije obdobně.
+- § 203 — uplatnění a žaloba na plnění; ta na rozdíl od žaloby podle § 203a není incidenčním sporem.
+
+### Souvisící předpisy
+
+- Zákon č. 99/1963 Sb., občanský soudní řád — subsidiární procesní předpis v rozsahu určeném § 7 insolvenčního zákona.
+- Zákon č. 294/2013 Sb. — čl. I bod 113 vložil § 203a; čl. II upravil přechodný režim a čl. IV stanovil účinnost od 1. 1. 2014.
+
+### Z důvodové zprávy
+
+Oficiální důvodová zpráva k vládnímu návrhu zákona č. 294/2013 Sb., sněmovní tisk 929/0, zvláštní část k bodům 109 až 113 na číslovaných stranách 61 až 63 (PDF strany 62 až 64), vysvětluje, že nový mechanismus má včas vyvolat spor jen o právo přednosti tam, kde se pohledávky podle § 203 nepřezkoumávají na přezkumném jednání. Výslovně odlišuje žalovaného insolvenčního správce od osoby s dispozičními oprávněními.
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento oddíl nepředstavuje negativní rešerši.
 
 ### Výklad
 
-**Sporné kategorie pohledávky** — soud uloží *žalobu na určení pořadí* (30 dnů, proti správci). *Sankce za nepodání*:
-- pokud uplatněna jako za podstatou / na roveň → *považuje se za přihlášku* (a uspokojení jako za podstatou je vyloučeno),
-- pokud uplatněna jako vyloučená podle § 170 → *uspokojení vyloučeno*.
+[1] **Předmět pochybnosti.** § 203a dopadá na pohledávku uplatněnou věřitelem podle § 203, je-li sporné její zařazení mezi pohledávky za majetkovou podstatou, pohledávky jim postavené na roveň nebo pohledávky vyloučené z uspokojení podle § 170. Nejde o žalobu na zaplacení pohledávky podle § 203 odst. 4, nýbrž o určení jejího pořadí.
 
-*Incidenční spor* dle § 159 odst. 1 písm. a).
+[2] **Aktivace postupu.** Insolvenční soud může povinnost podat žalobu uložit i bez návrhu. Podá-li návrh insolvenční správce, zákon soudu nedává prostor jej při existenci zákonného předmětu postupu odmítnout jen z důvodu, že pochybnost sám nesdílí: „tak učiní vždy“.
 
-### F. Kazuistika
+[3] **Žalobce, žalovaný a soud.** Žalobcem je věřitel, který pohledávku podle § 203 uplatnil. Žaloba musí do 30 dnů dojít insolvenčnímu soudu a musí směřovat proti insolvenčnímu správci, i když je osobou s dispozičními oprávněními dlužník.
 
-**1. Modelová situace.** Věřitel V uplatnil dle § 203 vůči osobě s dispozičními oprávněními pohledávku 400 000 Kč jako pohledávku za majetkovou podstatou (tvrdí, že vznikla z provozu podniku po úpadku). Insolvenční správce S má pochybnost, zda nejde spíše o běžnou pohledávku, která se měla přihlásit, případně o pohledávku vyloučenou dle § 170. Soud proto i bez návrhu (na návrh správce vždy) uloží V, aby do 30 dnů podal žalobu na určení pořadí proti správci. V žalobu ve lhůtě nepodá. Důkazy: písemné uplatnění V dle § 203, podklady k důvodu a době vzniku pohledávky, výzva soudu k žalobě o určení pořadí.
+[4] **Přednostní kategorie.** Nedojde-li včas žaloba týkající se pohledávky uplatněné jako pohledávka za majetkovou podstatou nebo jí na roveň, anebo není-li žalobě vyhověno, původní podání se považuje za přihlášku pohledávky. Zároveň je vyloučeno uspokojení v uplatněné přednostní kategorii. Zákon zde nestanoví zánik pohledávky.
 
-**2. Právní otázka.** Jak se řeší pochybnost o tom, zda uplatněná pohledávka je pohledávkou za podstatou, na roveň postavenou, nebo vyloučenou dle § 170, kdo a v jaké lhůtě podává žalobu na určení pořadí a jaké jsou důsledky jejího nepodání nebo neúspěchu?
+[5] **Pohledávka podle § 170.** U pohledávky uplatněné jako pohledávka, která se v insolvenčním řízení neuspokojuje, vede opožděná nebo neúspěšná žaloba k vyloučení jejího uspokojení v insolvenčním řízení. Pro tuto větev § 203a nestanoví fikci přihlášky.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 203a odst. 1 (v pochybnostech soud i bez návrhu, na návrh správce vždy, uloží věřiteli podat do 30 dnů žalobu na určení pořadí proti správci; nepodá-li ji nebo není-li jí vyhověno: u pohledávky uplatněné jako za podstatou/na roveň se podání považuje za přihlášku a uspokojení jako za podstatou je vyloučeno; u pohledávky uplatněné jako vyloučená dle § 170 je uspokojení vyloučeno), odst. 2 (jde o incidenční spor dle § 159 odst. 1 písm. a); obdoba úpravy popření pořadí).
-- *Související ustanovení téhož zákona:* § 203 (uplatnění pohledávek za podstatou), § 168–169 (kategorie), § 170 (vyloučené pohledávky), § 195 (popření pořadí — obdoba), § 159 (incidenční spory).
-- *Související předpisy:* o. s. ř. — žaloba na určení; prováděcí předpisy k formuláři přihlášky (pro fikci přihlášky).
-- *Judikatura:* nosný závěr, že § 203a slouží k autoritativnímu zařazení sporné pohledávky do správného pořadí a chrání podstatu před neoprávněným přednostním uspokojením; nečinnost věřitele vede k „degradaci" pohledávky na přihlášenou, resp. k vyloučení uspokojení.
+[6] **Incidenční režim.** Řízení je incidenčním sporem podle § 159 odst. 1 písm. a). Pravidla o popření pořadí přihlášené pohledávky se použijí obdobně; tato obdoba nemění výslovná pravidla § 203a o žalobci, žalovaném, soudu, lhůtě a následcích.
 
-**4. Subsumpce.** O pohledávce V panuje pochybnost, zda je pohledávkou za podstatou → soud (na návrh správce vždy) uložil V podat do 30 dnů žalobu na určení pořadí proti správci (§ 203a odst. 1). V žalobu nepodal → jelikož pohledávku uplatnil jako pohledávku za podstatou, považuje se jeho podání za přihlášku pohledávky a uspokojení jako pohledávky za podstatou je vyloučeno. Řízení o žalobě by jinak bylo incidenčním sporem dle § 159 odst. 1 písm. a) s obdobou úpravy popření pořadí (odst. 2).
+[7] **Intertemporální mez.** § 203a byl vložen zákonem č. 294/2013 Sb. s účinností od 1. 1. 2014 a jeho aktuální text je shodný s vloženým zněním. Podle čl. II této novely se insolvenční zákon ve znění účinném od 1. 1. 2014 použije i na dříve zahájená řízení, avšak právní účinky procesních úkonů nastalé před účinností zůstávají zachovány.
 
-**5. Řešení.** Věřitel, jemuž soud uloží podat žalobu na určení pořadí, musí ve 30denní lhůtě reagovat, jinak ztrácí přednostní postavení: pohledávka uplatněná jako za podstatou se „přeřadí" na přihlášenou (a přednostní uspokojení je vyloučeno), pohledávka uplatněná jako vyloučená dle § 170 zůstane bez uspokojení. Správce může podáním návrhu vždy vyvolat tento přezkumný mechanismus. Spor se vede proti správci v režimu incidenčního sporu.
+### Judikatura
 
-**6. Varianty.** (a) Kdyby V žalobu podal a soud jí vyhověl (určil, že jde o pohledávku za podstatou), pohledávka by se uspokojovala přednostně dle § 168/§ 203. (b) Kdyby V pohledávku uplatnil rovnou jako vyloučenou dle § 170 a nepodal žalobu, uspokojení by bylo vyloučeno bez „přeřazení" na přihlášku (chybí zde fikce přihlášky, na rozdíl od pohledávky za podstatou).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Pochybnost o pořadí lze vyřešit jen na návrh věřitele." — Neutralizace: § 203a odst. 1 umožňuje soudu uložit žalobu i bez návrhu; na návrh správce tak soud učiní vždy.
-- *Protiargument:* „Nepodá-li věřitel žalobu, pohledávka úplně zanikne." — Neutralizace: u pohledávky uplatněné jako za podstatou nezaniká, ale považuje se za přihlášku (vyloučeno je jen přednostní uspokojení); pouze u pohledávky dle § 170 je vyloučeno uspokojení jako takové.
-- *Slabé místo:* sporné bývá samotné posouzení pochybnosti a běh 30denní lhůty; věřitel nese riziko „degradace" pohledávky, podcení-li výzvu soudu; spor je incidenční s obdobou pravidel o popření pořadí.
-
-### H. Praktický závěr
-
-§ 203a řeší pochybnost o pořadí pohledávky uplatněné dle § 203: soud (i bez návrhu, na návrh správce vždy) uloží věřiteli podat do 30 dnů žalobu na určení pořadí proti správci; nepodá-li ji či neuspěje, pohledávka za podstatou se považuje za přihlášku (přednost vyloučena) a pohledávka dle § 170 zůstane neuspokojena.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Při pochybnosti o pořadí uložit věřiteli (i bez návrhu; na návrh správce vždy) podat do 30 dnů žalobu na určení pořadí proti správci.
-- [ ] Poučit věřitele o následcích nepodání/neúspěchu: fikce přihlášky u pohledávky za podstatou, vyloučení uspokojení u pohledávky dle § 170.
-- [ ] Vést řízení jako incidenční spor (§ 159 odst. 1 písm. a) s obdobou pravidel o popření pořadí (§ 195).
-- [ ] Hlídat 30denní lhůtu a doložení důvodu a doby vzniku uplatněné pohledávky.
-
-**Typicky rozhodné důkazy / podklady:** písemné uplatnění pohledávky dle § 203, podklady k důvodu a době vzniku (smlouvy, doklady o plnění), výzva soudu k žalobě o určení pořadí, doklad o (ne)podání žaloby ve lhůtě.
+Při této revizi nebylo jako pramen materiálního právního závěru použito žádné soudní rozhodnutí. Původní anonymní judikatorní tvrzení bylo odstraněno, protože nebylo spojeno s identifikovaným a v plném textu ověřeným rozhodnutím. Tím se nevyslovuje negativní závěr o existenci relevantní judikatury.
 
 ---
 

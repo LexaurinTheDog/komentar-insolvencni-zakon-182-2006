@@ -2408,59 +2408,69 @@ Při této revizi nebylo jako pramen materiálního právního závěru použito
 
 ## § 201 — Zjištění pohledávky
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Pohledávka je zjištěna
 > a) jestliže ji nepopřel insolvenční správce ani žádný z přihlášených věřitelů,
 > b) jestliže ji nepopřel insolvenční správce a insolvenční soud odmítl její popření přihlášeným věřitelem,
 > c) jestliže insolvenční správce nebo přihlášený věřitel, který ji popřel, vezme své popření zpět, nebo
 > d) rozhodnutím insolvenčního soudu ve sporu o její pravost, výši nebo pořadí.
+>
+> (2) Vykonatelná pohledávka je zjištěna také tehdy, jestliže insolvenční správce nepodal včas žalobu o její popření nebo byla-li taková žaloba zamítnuta anebo řízení o ní skončilo jinak než rozhodnutím ve věci samé.
+>
+> (3) Výsledek sporu o pravost, výši nebo pořadí pohledávky poznamená i bez návrhu insolvenční správce v upraveném seznamu pohledávek a upravený seznam pohledávek zašle insolvenčnímu soudu.
+>
+> (4) Rozhodnutí insolvenčního soudu o pravosti, výši nebo pořadí pohledávek jsou účinná vůči všem procesním subjektům.
+
+### Přehled výkladu
+
+§ 201 uzavírá přezkum přihlášené pohledávky vymezením způsobů jejího zjištění. Vedle absence popření počítá s odmítnutím věřitelského popření, zpětvzetím popření a rozhodnutím v incidenčním sporu. Pro vykonatelnou pohledávku stanoví zvláštní následek nečinnosti nebo procesního neúspěchu insolvenčního správce. Výsledek sporu se promítá do upraveného seznamu a rozhodnutí působí vůči všem procesním subjektům.
+
+### Souvisící ustanovení
+
+- § 7 — subsidiární použití občanského soudního řádu.
+- § 192 až 197 — popření pohledávky a výsledek přezkumu.
+- § 198 — žaloba věřitele nevykonatelné pohledávky.
+- § 199 — žaloba insolvenčního správce proti vykonatelné pohledávce.
+- § 200 — popření pohledávky přihlášeným věřitelem.
+- § 202 — náklady popíracího sporu a jistota.
+- § 410 — zvláštnosti přezkumu a popření v oddlužení.
+
+### Souvisící předpisy
+
+- Zákon č. 99/1963 Sb., občanský soudní řád, zejména § 159a o závaznosti pravomocného rozsudku; zvláštní rozsah účinků rozhodnutí v insolvenčním řízení stanoví přímo § 201 odst. 4 insolvenčního zákona.
+
+### Z důvodové zprávy
+
+Zvláštní část důvodové zprávy k původnímu insolvenčnímu zákonu uvádí společně k § 201 a 202, že § 201 navazuje na režim popírání pohledávek určením, kdy se pohledávka pokládá za zjištěnou; § 202 poté upravuje náklady sporů vyvolaných popřením. Jde o stručné účelové vysvětlení původní osnovy, nikoli o popis všech pozdějších změn. Pramen: Poslanecká sněmovna, IV. volební období, tisk 1120/0, zvláštní část, „K § 201 a 202“, strana 202 tisku (PDF strana 202).
+
+### Literatura
+
+Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; její zpracování je odloženo do druhého kola.
 
 ### Výklad
 
-**Čtyři způsoby zjištění** pohledávky:
-- *bez popření*,
-- *jen popřena věřitelem, který byl odmítnut*,
-- *zpětvzetí popření*,
-- *rozhodnutím v IS*.
+[1] Odstavec 1 obsahuje čtyři samostatné cesty ke zjištění pohledávky. Písmeno a) vyžaduje, aby pohledávku nepopřel insolvenční správce ani žádný přihlášený věřitel. Popření dlužníkem zde zákon mezi překážky zjištění nezařazuje; jeho účinky upravuje § 192 odst. 3 a ve schváleném oddlužení § 410 odst. 5.
 
-**Speciálka pro vykonatelné** (odst. 2) — pohledávka **zjištěna i tehdy**, pokud správce *nepodal včas žalobu* nebo žaloba byla *zamítnuta / skončila jinak než meritem*.
+[2] Podle písmene b) je pohledávka zjištěna, pokud ji nepopřel insolvenční správce a soud odmítl její popření přihlášeným věřitelem. Trvá-li však popření jiné oprávněné osoby, nelze z tohoto písmene zjištění dovodit.
 
-**Erga omnes závaznost rozhodnutí o pravosti/výši/pořadí** (odst. 4) — všechny procesní subjekty vázány.
+[3] Písmeno c) spojuje zjištění se zpětvzetím popření insolvenčním správcem nebo přihlášeným věřitelem, který pohledávku popřel. U více popírajících je třeba posoudit každé popření samostatně; zpětvzetí jednoho samo neodstraňuje účinky ostatních trvajících popření.
 
-### F. Kazuistika
+[4] Písmeno d) pokrývá zjištění rozhodnutím insolvenčního soudu ve sporu o pravost, výši nebo pořadí. Rozsah zjištění se proto odvíjí od výroku rozhodnutí: spor může skončit zjištěním celé pohledávky, jen její části nebo určitého pořadí.
 
-**1. Modelová situace.** V řízení dlužníka D nastaly u různých pohledávek různé situace: pohledávku P1 nikdo nepopřel; pohledávku P2 popřel jen přihlášený věřitel, jehož popření soud odmítl (pro vady); u pohledávky P3 vzal správce své popření zpět; o pohledávce P4 (vykonatelné) správce sice popřel, ale nepodal včas žalobu dle § 199; o pohledávce P5 probíhal incidenční spor a soud pravomocně rozhodl o její výši. Věřitel se ptá, které pohledávky jsou zjištěny a v jakém rozsahu a zda je rozhodnutí o P5 závazné i pro ostatní věřitele. Důkazy: seznam s vyznačením popření, rozhodnutí o odmítnutí popření, projev zpětvzetí popření, doklad o nepodání žaloby u P4, pravomocný rozsudek o P5.
+[5] Odstavec 2 se týká vykonatelné pohledávky popřené insolvenčním správcem. Zjištění nastane, jestliže správce nepodá včas žalobu o popření, jestliže je taková žaloba zamítnuta, nebo jestliže řízení o ní skončí jinak než rozhodnutím ve věci samé. Toto pravidlo nelze bez dalšího přenášet na žalobu věřitele nevykonatelné pohledávky podle § 198 ani na spor vyvolaný popřením přihlášeným věřitelem.
 
-**2. Právní otázka.** Kterými způsoby se pohledávka v insolvenčním řízení považuje za zjištěnou, jaký je zvláštní režim u vykonatelných pohledávek při nečinnosti správce a jaký je dosah závaznosti rozhodnutí o pravosti, výši či pořadí.
+[6] Odstavec 3 ukládá insolvenčnímu správci procesní evidenční povinnost: výsledek sporu poznamená bez návrhu v upraveném seznamu pohledávek a tento seznam zašle insolvenčnímu soudu. Pro posouzení stavu pohledávky je proto vedle přezkumných podkladů rozhodný také výsledek incidenčního sporu a jeho promítnutí do seznamu.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 201 odst. 1 (zjištění: a) bez popření správcem i věřiteli, b) nepopřel-li správce a soud odmítl popření věřitele, c) zpětvzetím popření, d) rozhodnutím soudu ve sporu o pravost/výši/pořadí), odst. 2 (vykonatelná pohledávka zjištěna i tehdy, nepodal-li správce včas žalobu nebo byla-li žaloba zamítnuta či skončila jinak než meritorně), odst. 4 (rozhodnutí o pravosti/výši/pořadí je závazné pro všechny procesní subjekty — erga omnes v řízení).
-- *Související ustanovení téhož zákona:* § 192–196 (popírání), § 198–200 (incidenční spory a popření věřitelem), § 197 (výsledek přezkumu), § 202 (náklady a jistota).
-- *Související předpisy:* o. s. ř. — právní moc a závaznost rozhodnutí; exekuční řád ve vztahu k výkonu zjištěné pohledávky.
-- *Judikatura:* nosný závěr, že zjištění pohledávky zakládá podklad pro její uspokojení v řízení a (s výjimkami u popření dlužníka) i pro pozdější exekuovatelnost; rozhodnutí v incidenčním sporu váže všechny účastníky řízení.
+[7] Odstavec 4 rozšiřuje účinky rozhodnutí insolvenčního soudu o pravosti, výši nebo pořadí vůči všem procesním subjektům. Jde o zvláštní insolvenční pravidlo; nelze je zaměňovat s obecným vymezením osob vázaných výrokem pravomocného rozsudku podle § 159a občanského soudního řádu.
 
-**4. Subsumpce.** P1 — nepopřena nikým → zjištěna (§ 201 odst. 1 písm. a). P2 — popřel jen věřitel a soud popření odmítl → zjištěna (písm. b). P3 — zpětvzetí popření správcem → zjištěna (písm. c). P4 — vykonatelná, správce nepodal včas žalobu (§ 199) → zjištěna (§ 201 odst. 2). P5 — pravomocné rozhodnutí o výši v incidenčním sporu → zjištěna v této výši (písm. d) a rozhodnutí je závazné pro všechny procesní subjekty (odst. 4).
+[8] Praktická kontrola má sledovat zejména: kdo a v jakém rozsahu pohledávku popřel; zda bylo popření odmítnuto nebo vzato zpět; zda je pohledávka vykonatelná; kdo měl podat incidenční žalobu a zda ji podal včas; jak spor skončil; a zda správce výsledek správně promítl do upraveného seznamu.
 
-**5. Řešení.** Správce do seznamu promítne zjištění u P1–P5 v odpovídajícím rozsahu. U P4 platí, že nečinnost správce u vykonatelné pohledávky vede k jejímu zjištění v přihlášené podobě (presumpce vykonatelné pohledávky). Rozhodnutí o P5 nelze v dalším průběhu řízení zpochybňovat — váže všechny procesní subjekty. Zjištěné pohledávky se uspokojují podle svého pořadí a povahy.
+### Judikatura
 
-**6. Varianty.** (a) Kdyby u P4 šlo o nevykonatelnou pohledávku, iniciativu by nesl popřený věřitel (§ 198) a jeho nečinnost by vedla k „nepřihlížení" (u pravosti), nikoli ke zjištění. (b) Kdyby incidenční spor o P5 skončil jinak než meritorně (např. zastavením), u vykonatelné pohledávky by se uplatnil § 201 odst. 2 a pohledávka by byla zjištěna i tak.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Zjištěna je jen pohledávka, kterou nikdo nepopřel." — Neutralizace: § 201 odst. 1 zná čtyři způsoby zjištění (vč. odmítnutí popření věřitele, zpětvzetí popření a rozhodnutí soudu) a odst. 2 doplňuje zvláštní režim vykonatelných pohledávek.
-- *Protiargument:* „Nepodá-li správce žalobu u popřené vykonatelné pohledávky, pohledávka zaniká." — Neutralizace: opak je pravdou — dle § 201 odst. 2 je taková pohledávka zjištěna v přihlášené podobě.
-- *Slabé místo:* sporné bývá posouzení (ne)vykonatelnosti (rozhoduje o nositeli břemene a o aplikaci odst. 2) a rozsah erga omnes závaznosti; popření dlužníka může i u zjištěné pohledávky ovlivnit její pozdější exekuovatelnost (§ 192 odst. 3).
-
-### H. Praktický závěr
-
-§ 201 stanoví čtyři způsoby zjištění pohledávky (bez popření; odmítnutí popření věřitele; zpětvzetí popření; rozhodnutí soudu), zvláštní pravidlo o zjištění vykonatelné pohledávky při nečinnosti správce a závaznost rozhodnutí o pravosti/výši/pořadí pro všechny procesní subjekty.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Posoudit, kterým z důvodů dle § 201 odst. 1 je daná pohledávka zjištěna a v jakém rozsahu.
-- [ ] U vykonatelných pohledávek aplikovat § 201 odst. 2 (zjištění i při nepodání žaloby správcem nebo nemeritorním skončení sporu).
-- [ ] Respektovat erga omnes závaznost rozhodnutí o pravosti/výši/pořadí (odst. 4) v dalším průběhu řízení.
-- [ ] Zohlednit popření dlužníka pro pozdější exekuovatelnost zjištěné pohledávky (§ 192 odst. 3).
-
-**Typicky rozhodné důkazy / podklady:** seznam s vyznačením popření, rozhodnutí o odmítnutí popření věřitele, projevy zpětvzetí popření, doklady o (ne)podání incidenční žaloby a o (ne)vykonatelnosti, pravomocná rozhodnutí v incidenčních sporech.
+Při této revizi nebylo jako pramen materiálního právního závěru použito žádné soudní rozhodnutí. Dřívější anonymní tvrzení o judikatorním závěru bylo odstraněno, protože neidentifikovalo rozhodnutí ani jeho nosný kontext. Tím se nevyslovuje negativní závěr o existenci relevantní judikatury.
 
 ---
 

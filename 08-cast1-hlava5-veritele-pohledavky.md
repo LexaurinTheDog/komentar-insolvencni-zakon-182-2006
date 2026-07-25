@@ -2145,43 +2145,54 @@ V této revizi nebylo soudní rozhodnutí použito jako pramen samostatného mat
 
 ## § 197 — Výsledek přezkumu
 
-Správce zapíše výsledek do *seznamu* (přílohy zápisu). Věřitelé na žádost dostanou *výpis*. Nevykonatelné popřené pohledávky — *poučení o dalším postupu* na jednání (nebo písemně, pokud věřitel nedostavil).
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-### F. Kazuistika
+### Znění ustanovení
 
-**1. Modelová situace.** Po přezkumném jednání u dlužníka D zapíše správce S výsledky přezkumu do seznamu připojeného k zápisu. Pohledávka věřitele V (nevykonatelná) byla popřena co do pravosti; V se přezkumného jednání neúčastnil. Správce V nevyrozuměl o popření a o nutnosti podat žalobu, takže V se o popření a o běhu 30denní lhůty dle § 198 dozví až mnohem později. Jiný věřitel V2 žádá o výpis ze seznamu ohledně svých pohledávek. Důkazy: zápis z přezkumného jednání a seznam s vyznačeným popřením, doklad o (ne)účasti V, doklad o (ne)odeslání vyrozumění popřenému věřiteli.
+> (1) Výsledek přezkumného jednání zapíše insolvenční správce do seznamu přihlášených pohledávek; takto upravený seznam tvoří součást zápisu o přezkumném jednání. Věřitelům, kteří o to požádají, vydá insolvenční soud z tohoto seznamu výpis.
+>
+> (2) Věřitele, jehož nevykonatelná přihlášená pohledávka byla popřena při přezkumném jednání, poučí insolvenční správce nebo insolvenční soud při přezkumném jednání o dalším postupu; věřitele, který se přezkumného jednání nezúčastnil, o tom insolvenční správce písemně vyrozumí, a to i tehdy, je-li popření uvedeno v upraveném seznamu přihlášených pohledávek.
+>
 
-**2. Právní otázka.** Jak se zaznamenává a komunikuje výsledek přezkumu, jaké poučení a vyrozumění náleží popřenému věřiteli nevykonatelné pohledávky a jaký vliv má (ne)doručení vyrozumění na běh lhůty k podání incidenční žaloby?
+### Přehled výkladu
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 197 — výsledek přezkumu se zapíše do seznamu (příloha zápisu); věřitelé na žádost obdrží výpis; popřenému věřiteli nevykonatelné pohledávky se dostane poučení o dalším postupu na jednání, a nedostavil-li se, písemně (vyrozumění dle § 197 odst. 2).
-- *Související ustanovení téhož zákona:* § 198 odst. 1 (běh 30denní lhůty k žalobě s vazbou na doručení vyrozumění dle § 197 odst. 2), § 189 (seznam), § 190–191 (přezkumné jednání), § 201 (zjištění), § 410 (vyrozumění v oddlužení).
-- *Související předpisy:* o. s. ř. — doručování písemností; prováděcí předpisy k formulářům.
-- *Judikatura:* nosný závěr, že lhůta k incidenční žalobě popřeného věřitele neskončí dříve než uplynutím 15 dnů od doručení řádného vyrozumění; absence/vady vyrozumění chrání věřitele před zánikem práva.
+Ustanovení odděluje zachycení výsledku přezkumu od individuální informace popřenému věřiteli. Insolvenční správce upraví seznam přihlášených pohledávek, insolvenční soud z něj na žádost vydává věřitelům výpis a přítomnému věřiteli popřené nevykonatelné pohledávky poskytne správce nebo soud poučení. Nepřítomnému věřiteli musí správce zaslat písemné vyrozumění; zápis popření v seznamu tuto povinnost nenahrazuje.
 
-**4. Subsumpce.** Výsledek přezkumu byl zapsán do seznamu (§ 197) → splněno. V se nedostavil k jednání, byla popřena pravost jeho nevykonatelné pohledávky → správce/soud měl V písemně vyrozumět o popření a o postupu (§ 197 odst. 2). Vyrozumění nebylo odesláno → 30denní lhůta dle § 198 odst. 1 nemohla začít plynout způsobem, který by ji ukončil dříve než 15 dnů po doručení vyrozumění; právo V na podání žaloby tedy nezaniklo.
+### Souvisící ustanovení
 
-**5. Řešení.** Správce (soud) napraví pochybení a doručí V řádné vyrozumění o popření nevykonatelné pohledávky a o nutnosti podat do 30 dnů žalobu na určení proti správci (§ 198). Lhůta se odvíjí od tohoto doručení (neskončí dříve než 15 dnů po něm). V2 obdrží na žádost výpis ze seznamu. Bez řádného vyrozumění nelze vůči V uplatnit sankci „nepřihlížení" za nepodání žaloby.
+§ 189 (seznam přihlášených pohledávek), § 190 a § 191 (přezkumné jednání), § 192 až 196 (popírání pohledávek), § 198 odst. 1 (žaloba věřitele nevykonatelné pohledávky a časová vazba na vyrozumění), § 199 (popření vykonatelné pohledávky správcem), § 201 (zjištění pohledávky) a § 410 odst. 1 až 3 (zvláštní přezkum v oddlužení).
 
-**6. Varianty.** (a) Kdyby se V přezkumného jednání účastnil a byl tam poučen, lhůta by se odvíjela od přezkumného jednání (s pojistkou 15 dnů jen tam, kde se vyrozumívá písemně). (b) Je-li způsobem řešení úpadku oddlužení, vyrozumění a běh lhůt se řídí § 410 odst. 2 a 3 ve spojení s § 197/§ 198.
+### Souvisící předpisy
 
-### G. Protiargumenty a rizika
+Postup zachycení výsledku, vydání výpisu, poučení a vyrozumění upravuje přímo insolvenční zákon. Obecné procesní předpisy lze použít jen subsidiárně v mezích § 7 insolvenčního zákona; § 197 sám nestanoví zvláštní formulář ani samostatný režim doručování odchylný od insolvenčního zákona.
 
-- *Protiargument:* „Zápis výsledku do seznamu sám stačí, vyrozumění popřeného věřitele není podstatné." — Neutralizace: § 197 odst. 2 ukládá poučit/vyrozumět popřeného věřitele nevykonatelné pohledávky; na doručení vyrozumění váže § 198 odst. 1 počátek (resp. konec) lhůty k žalobě.
-- *Protiargument:* „Nepodal-li věřitel žalobu do 30 dnů od přezkumu, právo zaniklo bez dalšího." — Neutralizace: lhůta neskončí dříve než 15 dnů od doručení řádného vyrozumění; bez něj sankce nenastává.
-- *Slabé místo:* sporné bývá prokázání obsahu a doručení vyrozumění/poučení; vada zde chrání věřitele, ale komplikuje další postup řízení.
+### Z důvodové zprávy
 
-### H. Praktický závěr
+Vládní návrh insolvenčního zákona charakterizoval § 197 stručně jako postup, kterým se výsledky přezkumného jednání zachycují a zpřístupňují. Jde o historickou interpretační pomůcku k původnímu zákonu; úplný rozsah dnešních povinností je nutné odvozovat z aktuálního znění.
 
-§ 197 ukládá zaznamenat výsledek přezkumu do seznamu, vydat věřitelům na žádost výpis a popřeného věřitele nevykonatelné pohledávky poučit na jednání, popř. písemně vyrozumět; toto vyrozumění je rozhodné pro běh lhůty k incidenční žalobě dle § 198.
+### Literatura
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Zapsat výsledek přezkumu do seznamu (příloha zápisu) a na žádost vydat věřitelům výpis.
-- [ ] Popřeného věřitele nevykonatelné pohledávky poučit na jednání; nedostavil-li se, písemně vyrozumět (§ 197 odst. 2).
-- [ ] Doložit obsah a doručení vyrozumění; navázat na běh 30denní lhůty dle § 198 odst. 1.
-- [ ] V oddlužení postupovat dle § 410 odst. 2 a 3 ve spojení s § 197/§ 198.
+Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; její zpracování je odloženo do druhého kola.
 
-**Typicky rozhodné důkazy / podklady:** zápis z přezkumného jednání a seznam s vyznačením popření, doklad o účasti/neúčasti věřitele, vyrozumění popřenému věřiteli a doklad o jeho doručení, žádosti o výpis.
+### Výklad
+
+[1] **Dvě funkce ustanovení.** Odstavec 1 vytváří dokumentační výstup přezkumného jednání. Odstavec 2 zajišťuje, aby věřitel nevykonatelné přihlášené pohledávky popřené při přezkumném jednání dostal informaci o dalším procesním postupu.
+
+[2] **Zápis a jeho příloha.** Zápis výsledku provádí insolvenční správce do seznamu přihlášených pohledávek. Upravený seznam není jen pracovní pomůckou správce: zákon jej výslovně činí součástí zápisu o přezkumném jednání.
+
+[3] **Výpis vydává soud.** Věřitel, který o výpis požádá, se obrací na insolvenční soud. Text neomezuje žádost jen na věřitele, jehož vlastní pohledávka byla popřena.
+
+[4] **Poučení přítomného věřitele.** Je-li věřitel nevykonatelné přihlášené pohledávky při přezkumném jednání přítomen, poučí jej o dalším postupu insolvenční správce nebo insolvenční soud přímo při jednání. Povinnost se váže na popření při přezkumném jednání a na nevykonatelnou povahu pohledávky.
+
+[5] **Vyrozumění nepřítomného věřitele.** Neúčastnil-li se takový věřitel přezkumného jednání, písemně jej vyrozumí insolvenční správce. Výslovný dovětek odstavce 2 vylučuje závěr, že povinnost zaniká pouhým zachycením popření v upraveném seznamu.
+
+[6] **Vazba na incidenční žalobu.** § 198 odst. 1 stanoví pro věřitele nevykonatelné pohledávky popřené správcem třicetidenní lhůtu od přezkumného jednání nebo od právní moci rozhodnutí o schválení zprávy o přezkumu; současně určuje, že lhůta neskončí dříve než patnáct dnů od doručení vyrozumění podle § 197 odst. 2 nebo § 410 odst. 2. § 197 proto nelze vykládat izolovaně, avšak samotný § 197 neupravuje žalobní legitimaci ani následek zmeškání.
+
+[7] **Oddlužení a intertemporalita.** Za trvání účinků oddlužení se přezkum řídí zvláštním postupem § 410, včetně písemného vyrozumění a poučení podle jeho odstavce 2. U přezkumu provedeného v minulosti je nutné ověřit tehdy účinné znění § 197, § 198 a pravidel příslušného způsobu řešení úpadku; aktuální procesní mezníky nelze automaticky přenést na starší řízení.
+
+### Judikatura
+
+V této revizi nebylo soudní rozhodnutí použito jako pramen samostatného materiálního závěru. Tím se nevyslovuje, že relevantní judikatura neexistuje; nezařazené kandidáty nelze nahradit právní větou, metadaty ani sekundární citací bez ověření plného textu z oficiálního soudního webu, skutkového a procesního kontextu, nosného závěru a časové použitelnosti.
 
 ---
 

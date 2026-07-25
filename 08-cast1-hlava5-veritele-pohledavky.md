@@ -2476,57 +2476,67 @@ Při této revizi nebylo jako pramen materiálního právního závěru použito
 
 ## § 202 — Náklady popíracího sporu a jistota
 
-> (1) Ve sporu o pravost, výši nebo pořadí přihlášených pohledávek **nemá žádný z účastníků právo na náhradu nákladů řízení proti insolvenčnímu správci**. Náhrada nákladů řízení přiznaná v tomto sporu vůči dlužníku se pokládá za přihlášenou podle tohoto zákona a uspokojí se v insolvenčním řízení ve stejném pořadí jako pohledávka, o kterou se vedl spor. Náklady, které v tomto sporu vznikly insolvenčnímu správci, se hradí z majetkové podstaty; do ní náleží i náhrada nákladů řízení přiznaná insolvenčnímu správci.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Ve sporu o pravost, výši nebo pořadí přihlášených pohledávek nemá žádný z účastníků právo na náhradu nákladů řízení proti insolvenčnímu správci. Náhrada nákladů řízení přiznaná v tomto sporu vůči dlužníku se pokládá za přihlášenou podle tohoto zákona a uspokojí se v insolvenčním řízení ve stejném pořadí jako pohledávka, o kterou se vedl spor. Náklady, které v tomto sporu vznikly insolvenčnímu správci, se hradí z majetkové podstaty; do ní náleží i náhrada nákladů řízení přiznaná insolvenčnímu správci.
 >
-> (3) Přihlášený věřitel, který popřel pohledávku, je povinen složit do 15 dnů po skončení přezkumného jednání o popřené pohledávce u insolvenčního soudu **jistotu na náklady řízení incidenčního sporu ve výši 10 000 Kč**. Nebylo-li v době konání přezkumného jednání o popřené pohledávce ještě rozhodnuto o způsobu řešení úpadku, neskončí tato lhůta dříve než uplynutím 10 dnů od rozhodnutí o způsobu řešení úpadku.
+> (2) Náklady řízení, které vznikly zaviněním insolvenčního správce nebo náhodou, která se mu přihodila, nese on sám a ostatním účastníkům je povinen je nahradit.
 >
-> (5) Nebude-li jistota podle odstavců 3 a 4 složena, nebo nedoloží-li přihlášený věřitel insolvenčnímu soudu, že povinnost složit jistotu podle zákona nemá, insolvenční soud žalobu, kterou přihlášený věřitel uplatnil popření pohledávky, **odmítne**.
+> (3) Přihlášený věřitel, který popřel pohledávku, je povinen složit do 15 dnů po skončení přezkumného jednání o popřené pohledávce u insolvenčního soudu jistotu na náklady řízení incidenčního sporu ve výši 10 000 Kč. Nebylo-li v době konání přezkumného jednání o popřené pohledávce ještě rozhodnuto o způsobu řešení úpadku, neskončí tato lhůta dříve než uplynutím 10 dnů od rozhodnutí o způsobu řešení úpadku.
+>
+> (4) Insolvenční soud může uložit přihlášenému věřiteli, který popřel pohledávku, aby v incidenčním sporu složil i jistotu k zajištění náhrady škody nebo jiné újmy, která by vznikla věřiteli popřené pohledávky nedůvodným popřením pohledávky. Učiní tak jen na návrh věřitele popřené pohledávky, který doloží, že mu vznik takové škody nebo jiné újmy zjevně hrozí. Jestliže však podle dosavadních výsledků insolvenčního řízení lze očekávat, že popření pohledávky bude důvodné, insolvenční soud návrh věřitele popřené pohledávky na složení této jistoty zamítne. Přiměřeně se dále použijí ustanovení občanského soudního řádu o jistotě u předběžného opatření.
+>
+> (5) Nebude-li jistota podle odstavců 3 a 4 složena, nebo nedoloží-li přihlášený věřitel insolvenčnímu soudu, že povinnost složit jistotu podle zákona nemá, insolvenční soud žalobu, kterou přihlášený věřitel uplatnil popření pohledávky, odmítne.
+>
+> (6) Povinnost složit jistotu podle odstavců 3 a 4 nemá přihlášený věřitel, který ve lhůtě stanovené ke složení jistoty osvědčí, že jistotu bez své viny nemohl složit a že je tu nebezpečí z prodlení, v jehož důsledku by mu mohla vzniknout újma. Přihlášený věřitel dále nemá povinnost složit jistotu po dobu, po kterou jeho popření nemá vliv na zjištění popřené pohledávky.
+
+### Přehled výkladu
+
+Ustanovení odděluje nákladový režim popíracího sporu (odstavce 1 a 2) od jistot ukládaných popírajícímu přihlášenému věřiteli (odstavce 3 až 6). Pevná jistota 10 000 Kč na náklady vzniká přímo ze zákona; další jistotu k zajištění náhrady škody nebo jiné újmy může soud uložit jen na kvalifikovaný návrh popřeného věřitele. Před odmítnutím žaloby je vždy nutné prověřit zákonné výjimky.
+
+### Souvisící ustanovení
+
+§ 7, § 16, § 159 odst. 1 písm. a), § 192, § 198 až 201 a § 410 insolvenčního zákona.
+
+### Souvisící předpisy
+
+- zákon č. 99/1963 Sb., občanský soudní řád, zejména § 75b odst. 4 a § 77a, použitelné přiměřeně podle § 202 odst. 4.
+
+### Z důvodové zprávy
+
+Zvláštní část důvodové zprávy k původnímu insolvenčnímu zákonu uvádí společně k § 201 a 202, že § 201 určuje, kdy se pohledávka pokládá za zjištěnou, a § 202 specificky upravuje náklady sporů vyvolaných popřením pohledávek. Jde o stručné vysvětlení původní osnovy, nikoli o popis všech pozdějších změn. Pramen: Poslanecká sněmovna, IV. volební období, tisk 1120/0, zvláštní část, „K § 201 a 202“, strana 202 tisku (PDF strana 202).
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola; tato poznámka není výsledkem negativní literární rešerše.
 
 ### Výklad
 
-**Náklady proti správci nepřiznávají** — *speciální imunita* správce. Náklady správce nese podstata.
+[1] **Rozsah sporu.** Odstavce 1 a 2 dopadají na spor o pravost, výši nebo pořadí přihlášené pohledávky. Jde o incidenční spor podle § 159 odst. 1 písm. a); obecná procesní úprava se použije jen v mezích § 7.
 
-**Jistota popírače** — *10 000 Kč* (do 15 dnů po přezkumu). Účel: pokrytí nákladů, pokud popření bude *bezdůvodné*.
+[2] **Náklady proti správci.** Proti insolvenčnímu správci nemá žádný účastník právo na náhradu nákladů takového sporu. Náklady vzniklé správci se hradí z majetkové podstaty a náhrada přiznaná správci do podstaty náleží.
 
-**Diskreční jistota na škodu** (odst. 4) — na návrh popřeného věřitele, který doloží hrozící škodu.
+[3] **Náhrada vůči dlužníku.** Náhrada nákladů přiznaná v popíracím sporu vůči dlužníku se ze zákona pokládá za přihlášenou a uspokojuje se ve stejném pořadí jako pohledávka, o niž se spor vedl.
 
-**Sankce za nesložení**: odmítnutí žaloby.
+[4] **Osobní odpovědnost správce za náklady.** Ochrana správce podle odstavce 1 není absolutní. Náklady vzniklé jeho zaviněním nebo náhodou, která se mu přihodila, nese správce sám a ostatním účastníkům je nahrazuje.
 
-### F. Kazuistika
+[5] **Pevná jistota na náklady.** Povinnost složit 10 000 Kč stíhá přihlášeného věřitele, který pohledávku popřel. Jde o zákonnou povinnost, nikoli o povinnost vznikající až výzvou soudu. Základní patnáctidenní lhůta běží po skončení přezkumného jednání o popřené pohledávce; nebylo-li tehdy rozhodnuto o způsobu řešení úpadku, zákon stanoví její nejdřívější konec deset dnů po takovém rozhodnutí.
 
-**1. Modelová situace.** Přihlášený věřitel V1 popřel na přezkumném jednání pohledávku věřitele V2 ve výši 1,5 mil. Kč. Vznikl tak incidenční spor (popření V1 se stalo žalobou dle § 200 odst. 5). V1 však do 15 dnů po skončení přezkumného jednání nesložil u insolvenčního soudu jistotu 10 000 Kč na náklady incidenčního sporu ani nedoložil, že povinnost ji složit nemá. Současně V2 navrhuje, aby V1 byla uložena další jistota na náhradu škody, již mu popření hrozí způsobit. Důkazy: formulářové popření V1, doklad o termínu přezkumu, výzva soudu k jistotě, doklad o (ne)složení jistoty, podklady V2 k hrozící škodě.
+[6] **Jistota na škodu nebo jinou újmu.** Tato další jistota není automatická. Navrhnout ji může jen věřitel popřené pohledávky a musí doložit zjevnou hrozbu škody nebo jiné újmy z nedůvodného popření. Lze-li podle dosavadních výsledků očekávat důvodnost popření, soud návrh zamítne.
 
-**2. Právní otázka.** Jaký je režim náhrady nákladů v popíracím sporu (zejména ve vztahu ke správci), kdo a kdy je povinen složit jistotu na náklady incidenčního sporu a jaké jsou důsledky jejího nesložení?
+[7] **Nesložení a odmítnutí.** Není-li složena jistota podle odstavce 3 nebo uložená jistota podle odstavce 4 a věřitel nedoloží, že povinnost nemá, soud žalobu, kterou věřitel uplatnil popření, odmítne. Jde o procesní následek nesplnění jistotní povinnosti, nikoli o věcné posouzení důvodnosti popření.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 202 odst. 1 (žádný účastník nemá právo na náhradu nákladů proti insolvenčnímu správci; náhrada nákladů přiznaná vůči dlužníku se pokládá za přihlášenou a uspokojí se ve stejném pořadí jako sporná pohledávka; náklady správce hradí podstata a přiznaná náhrada náleží do podstaty), odst. 3 (přihlášený věřitel, který popřel pohledávku, složí do 15 dnů po skončení přezkumu jistotu 10 000 Kč; lhůta neskončí dříve než 10 dnů po rozhodnutí o způsobu řešení úpadku), odst. 4 (diskreční jistota na škodu na návrh popřeného věřitele), odst. 5 (nesloží-li věřitel jistotu nebo nedoloží, že ji nemusí skládat, soud žalobu — popření — odmítne).
-- *Související ustanovení téhož zákona:* § 200 (popření věřitelem jako žaloba), § 198–199 (incidenční spory), § 7 a § 159 (incidenční spory a přiměřené užití o. s. ř.).
-- *Související předpisy:* o. s. ř. — náklady řízení, jistota; zákon o soudních poplatcích (ve vztahu k incidenčním sporům).
-- *Judikatura:* nosný závěr, že imunita správce v otázce nákladů popíracího sporu chrání podstatu a že jistota popírajícího věřitele je podmínkou projednání jím vyvolaného sporu; nesložení vede k odmítnutí žaloby bez věcného projednání.
+[8] **První výjimka.** Věřitel musí ve lhůtě osvědčit současně nezaviněnou nemožnost jistotu složit a nebezpečí z prodlení, v jehož důsledku by mu mohla vzniknout újma. Nestačí tvrdit jen majetkovou tíseň nebo jen hrozbu újmy.
 
-**4. Subsumpce.** V1 je přihlášený věřitel, který popřel pohledávku V2 → vznikl incidenční spor a V1 je povinen složit jistotu 10 000 Kč do 15 dnů po skončení přezkumu (§ 202 odst. 3). V1 jistotu nesložil ani nedoložil, že ji skládat nemusí → naplněn předpoklad § 202 odst. 5 → soud žalobu (popření V1) odmítne. Návrh V2 na další jistotu na hrozící škodu se posuzuje dle § 202 odst. 4 (diskreční, na návrh popřeného věřitele, který doloží hrozící škodu). Ve vztahu ke správci by žádný účastník neměl právo na náhradu nákladů (odst. 1).
+[9] **Druhá výjimka.** Povinnost jistotu složit po dobu nevzniká také tehdy, nemá-li věřitelovo popření vliv na zjištění popřené pohledávky. Dopad popření je proto třeba posoudit podle § 201 a podle toho, kdo další pohledávku popřel.
 
-**5. Řešení.** Soud V1 vyzve a po marném uplynutí lhůty žalobu (popření) odmítne pro nesložení jistoty (§ 202 odst. 5); spor se věcně neprojedná a pohledávka V2 tím není popřena s účinky incidenčního sporu. Pokud by V1 jistotu složil, spor by pokračoval; náklady proti správci by se nepřiznávaly a případná náhrada vůči dlužníku by se uspokojila ve stejném pořadí jako sporná pohledávka. K návrhu V2 na jistotu na škodu soud přihlédne, doloží-li V2 hrozící škodu.
+[10] **Intertemporalita a praktická kontrola.** Výklad odpovídá právnímu stavu k 19. 7. 2026. U starších řízení je nutné ověřit dobové znění a přechodná ustanovení. Autorský praktický závěr: před rozhodnutím podle odstavce 5 je účelné zaznamenat osobu popírajícího, okamžik skončení přezkumného jednání, datum rozhodnutí o způsobu řešení úpadku, druh jistoty, její splatnost a případnou výjimku podle odstavce 6.
 
-**6. Varianty.** (a) Kdyby popíral pohledávku správce (nikoli věřitel), jistota dle § 202 odst. 3 by se neuplatnila — povinnost složit jistotu stíhá popírajícího věřitele. (b) Kdyby V1 doložil, že povinnost složit jistotu podle zákona nemá, soud by žalobu neodmítl a spor by projednal.
+### Judikatura
 
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Úspěšný účastník má vždy nárok na náhradu nákladů, i proti správci." — Neutralizace: § 202 odst. 1 výslovně vylučuje náhradu nákladů proti insolvenčnímu správci; jde o zvláštní imunitu chránící podstatu.
-- *Protiargument:* „Jistotu skládá každý, kdo je účastníkem incidenčního sporu." — Neutralizace: jistotu dle § 202 odst. 3 skládá pouze přihlášený věřitel, který pohledávku popřel; netýká se správce ani popřeného věřitele.
-- *Slabé místo:* sporné bývá běh 15denní lhůty (vazba na rozhodnutí o způsobu řešení úpadku) a posouzení návrhu na jistotu na škodu (odst. 4); nesložení jistoty vede k odmítnutí žaloby bez ohledu na věcnou důvodnost popření.
-
-### H. Praktický závěr
-
-§ 202 chrání podstatu i správce: ve sporu o pravost/výši/pořadí se náhrada nákladů proti správci nepřiznává, popírající věřitel musí do 15 dnů složit jistotu 10 000 Kč (jinak soud popření-žalobu odmítne) a na návrh popřeného věřitele lze uložit i jistotu na hrozící škodu.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Nepřiznávat náhradu nákladů popíracího sporu proti insolvenčnímu správci; náklady správce hradit z podstaty (§ 202 odst. 1).
-- [ ] Popírajícímu věřiteli uložit/ohlídat jistotu 10 000 Kč do 15 dnů po přezkumu (s vazbou na rozhodnutí o způsobu řešení úpadku).
-- [ ] Při nesložení jistoty (a nedoložení výjimky) žalobu-popření odmítnout (§ 202 odst. 5).
-- [ ] Zvážit jistotu na škodu na návrh popřeného věřitele, doloží-li hrozící škodu (§ 202 odst. 4).
-
-**Typicky rozhodné důkazy / podklady:** formulářové popření věřitele, doklad o termínu skončení přezkumu a rozhodnutí o způsobu řešení úpadku, výzva k jistotě a doklad o jejím (ne)složení, podklady popřeného věřitele k hrozící škodě.
+Při této revizi nebylo jako pramen materiálního právního závěru použito žádné soudní rozhodnutí. Dříve anonymně uváděné judikatorní tvrzení bylo odstraněno, protože nebylo spojeno s identifikovaným a v plném textu ověřeným rozhodnutím. Tím se nevyslovuje negativní závěr o existenci další relevantní judikatury.
 
 ---
 

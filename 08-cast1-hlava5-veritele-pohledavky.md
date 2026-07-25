@@ -1730,47 +1730,69 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola. Tím se 
 
 ---
 
-## § 190 — § 191 — Přezkumné jednání
+## § 190 — Přezkumné jednání
 
-**§ 190** — *vždy nutné* (mimo oddlužení — tam písemný přezkum). Termín v rozhodnutí o úpadku. Dlužník a správce *předvoláni do vlastních rukou s poučením*. Správce *se může nechat zastoupit* jiným správcem ze seznamu (na vlastní náklady).
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**§ 191** — přezkum *podle seznamu*. Pohledávky *vykonatelné* — postačí prokázat vykonatelnost ke dni úpadku.
+### Znění ustanovení
 
-### F. Kazuistika
+> (1) Přezkoumání přihlášených pohledávek se děje, není-li způsobem řešení úpadku oddlužení, na přezkumném jednání nařízeném insolvenčním soudem.
+>
+> (2) Termín a místo konání přezkumného jednání určí insolvenční soud v rozhodnutí o úpadku. Dlužníku a insolvenčnímu správci doručí insolvenční soud předvolání k přezkumnému jednání do vlastních rukou, s poučením o nezbytnosti jejich účasti. Není-li dále stanoveno jinak, může se insolvenční správce na své nebezpečí a na své náklady (§ 39 odst. 2) dát zastoupit při přezkumném jednání jinou osobou zapsanou do seznamu insolvenčních správců.
+>
+> (3) Oznámení o změně termínu nebo místa konání přezkumného jednání doručí insolvenční soud zvlášť osobám uvedeným v odstavci 2 za podmínek tam stanovených.
+>
+> (4) Insolvenční soud může insolvenčnímu správci uložit, aby mu poskytl součinnost potřebnou k přípravě přezkumného jednání, a určit povahu této součinnosti.
+>
 
-**1. Modelová situace.** V rozhodnutí o úpadku dlužníka D byl stanoven termín přezkumného jednání. Insolvenční správce S se nemůže dostavit a nechá se zastoupit jiným správcem S2 ze seznamu (na vlastní náklady). Dlužník D nebyl k jednání předvolán do vlastních rukou, byl jen vyrozuměn vyhláškou. Na jednání se přezkoumává pohledávka V, kterou V přihlásil jako vykonatelnou (na základě platebního rozkazu); vykonatelnost je doložena ke dni úpadku. Důkazy: rozhodnutí o úpadku s termínem, doklad o (ne)předvolání dlužníka do vlastních rukou, plná moc/pověření zastupujícího správce, platební rozkaz s doložkou vykonatelnosti.
+### Přehled výkladu
 
-**2. Právní otázka.** Za jakých podmínek se koná přezkumné jednání, koho je nutné předvolat do vlastních rukou, může se správce nechat zastoupit a co postačí k prokázání vykonatelnosti přihlášené pohledávky pro účely přezkumu.
+§ 190 určuje procesní rámec přezkoumání přihlášených pohledávek mimo oddlužení. Přezkum se koná na soudem nařízeném přezkumném jednání; jeho termín a místo musí být určeny již v rozhodnutí o úpadku. Zákon stanoví zvláštní způsob předvolání dlužníka a insolvenčního správce, upravuje omezené zastoupení správce, zvláštní doručení změny termínu či místa a pravomoc soudu vyžádat si od správce přípravnou součinnost. Samotný průběh přezkumu, popírání a zachycení výsledku upravují navazující ustanovení.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 190 (přezkumné jednání je zpravidla nutné, mimo oddlužení s písemným přezkumem; termín v rozhodnutí o úpadku; dlužník a správce předvoláni do vlastních rukou s poučením; správce se může nechat zastoupit jiným správcem ze seznamu na vlastní náklady), § 191 (přezkum podle seznamu; u vykonatelných pohledávek postačí prokázat vykonatelnost ke dni úpadku).
-- *Související ustanovení téhož zákona:* § 189 (seznam jako podklad přezkumu), § 192 a násl. (popírání), § 410 (přezkum v oddlužení), § 136 (rozhodnutí o úpadku a jeho náležitosti).
-- *Související předpisy:* o. s. ř. — doručování do vlastních rukou, předvolání; právní úprava vykonatelnosti exekučních titulů.
-- *Judikatura:* nosný závěr, že řádné předvolání dlužníka a správce do vlastních rukou je podmínkou řádného průběhu přezkumu; vada předvolání může zpochybnit výsledek přezkumu dotčené osoby.
+### Souvisící ustanovení
 
-**4. Subsumpce.** Termín přezkumu byl stanoven v rozhodnutí o úpadku → § 190 splněno. Zastoupení S osobou S2 ze seznamu na vlastní náklady je přípustné (§ 190). Dlužník nebyl předvolán do vlastních rukou → vada předvolání odporující § 190 (dlužník i správce se předvolávají do vlastních rukou s poučením). Pohledávka V je vykonatelná a vykonatelnost je doložena ke dni úpadku → § 191: pro přezkum postačí; věcný spor o ni se řeší až popěrným režimem (§ 199).
+- § 7 — subsidiární použití občanského soudního řádu a zákona o zvláštních řízeních soudních,
+- § 39 odst. 2 — náklady činností, k nimž je správce povinen,
+- § 136 odst. 2 písm. f), odst. 3 a 4 — určení termínu a místa v rozhodnutí o úpadku a časové meze přezkumného jednání,
+- § 189 — seznam přihlášených pohledávek a jeho zveřejnění před přezkumným jednáním,
+- § 191 — způsob přezkoumání pohledávek při přezkumném jednání,
+- § 192 až 197 — popření pohledávek a zachycení výsledku přezkumu,
+- § 410 — přezkum přihlášených pohledávek při oddlužení.
 
-**5. Řešení.** Soud zhojí vadu předvolání dlužníka (řádné předvolání do vlastních rukou, případně odročení), jinak hrozí zpochybnění výsledku přezkumu ve vztahu k dlužníku. Zastoupení správce je v pořádku. U pohledávky V správce na jednání ověří doloženou vykonatelnost ke dni úpadku; chce-li ji zpochybnit, musí ji popřít a poté podat žalobu dle § 199 (obrácené břemeno u vykonatelných pohledávek).
+### Souvisící předpisy
 
-**6. Varianty.** (a) Je-li způsobem řešení úpadku oddlužení, samostatné ústní přezkumné jednání se zpravidla nekoná — přezkum probíhá písemně (§ 190 ve spojení s § 410). (b) Kdyby V nedoložil vykonatelnost ke dni úpadku, posuzovala by se pohledávka jako nevykonatelná, což by přesunulo iniciativu k žalobě na věřitele (§ 198) namísto správce (§ 199).
+- zákon č. 99/1963 Sb., občanský soudní řád, zejména § 45 až 50l a § 115 — obecný rámec doručování a předvolání, použitelný jen subsidiárně v mezích § 7 insolvenčního zákona,
+- zákon č. 312/2006 Sb., o insolvenčních správcích, zejména § 2 až 4 — seznam insolvenčních správců a předpoklady zápisu osob, mezi nimiž může být zástupce podle § 190 odst. 2.
 
-### G. Protiargumenty a rizika
+### Z důvodové zprávy
 
-- *Protiargument:* „Přezkumné jednání lze vždy nahradit písemným přezkumem." — Neutralizace: písemný přezkum je vyhrazen oddlužení; v ostatních režimech je ústní přezkumné jednání zpravidla nutné (§ 190).
-- *Protiargument:* „Správce musí přezkum vykonat výhradně osobně." — Neutralizace: § 190 výslovně připouští zastoupení jiným správcem ze seznamu, byť na vlastní náklady zastoupeného správce.
-- *Slabé místo:* vada předvolání (zejména dlužníka) do vlastních rukou je procesně citlivá a může vést k nutnosti opakovat přezkum dotčené pohledávky; u vykonatelných pohledávek se v rámci přezkumu neřeší věcné námitky, jen doloženost vykonatelnosti.
+Vládní návrh insolvenčního zákona v původní zvláštní části společně k § 190 a 191 stručně uvedl, že přezkoumání přihlášek insolvenčním soudem je vyhrazeno přezkumnému jednání a děje se podle seznamu přihlášených pohledávek. Jde o historické vysvětlení původní koncepce. Dnešní výjimka pro oddlužení i podrobnosti odstavců 2 až 4 musí být vykládány podle aktuálního znění a pozdějších novel, nikoli jen podle původní zprávy.
 
-### H. Praktický závěr
+### Literatura
 
-§ 190–191 upravují přezkumné jednání: koná se zpravidla vždy (mimo oddlužení), s termínem z rozhodnutí o úpadku a předvoláním dlužníka a správce do vlastních rukou; správce se může nechat zastoupit; přezkum probíhá podle seznamu a u vykonatelných pohledávek postačí prokázat vykonatelnost ke dni úpadku.
+Odborná literatura byla rozhodnutím odpovědného editora odložena do druhého kola. Tento údaj není závěrem negativní rešerše.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověřit termín přezkumu v rozhodnutí o úpadku a předvolání dlužníka i správce do vlastních rukou s poučením.
-- [ ] U zastoupení správce zajistit, že zástupce je správcem ze seznamu a náklady nese zastoupený správce.
-- [ ] Přezkum vést podle seznamu; u vykonatelných pohledávek doložit vykonatelnost ke dni úpadku.
-- [ ] Odlišit oddlužení (písemný přezkum) od ostatních režimů (ústní přezkumné jednání).
+### Výklad
 
-**Typicky rozhodné důkazy / podklady:** rozhodnutí o úpadku s termínem, doklady o předvolání/doručení do vlastních rukou, pověření/plná moc zastupujícího správce, exekuční tituly s doložkou vykonatelnosti, seznam přihlášených pohledávek.
+[1] **Přezkum mimo oddlužení.** Není-li způsobem řešení úpadku oddlužení, přezkoumávají se přihlášené pohledávky na přezkumném jednání nařízeném insolvenčním soudem. Formulace odstavce 1 nepřipouští volnou záměnu tohoto jednání za písemný přezkum. Pro oddlužení obsahuje zvláštní režim § 410.
+
+[2] **Určení termínu a místa.** Termín a místo určuje soud v rozhodnutí o úpadku. § 136 odst. 2 písm. f), odst. 3 a 4 doplňuje, kdy se tento výrok uvádí a v jakých časových mezích má být přezkumné jednání určeno. Při procesní kontrole proto nestačí ověřit samotné předvolání; rozhodný je také příslušný výrok rozhodnutí o úpadku.
+
+[3] **Předvolání dlužníka a správce.** Dlužníkovi a insolvenčnímu správci se předvolání doručuje do vlastních rukou a musí obsahovat poučení o nezbytnosti jejich účasti. § 190 tím stanoví zvláštní požadavky pro tyto dvě osoby. Z komentovaného ustanovení samotného však nelze bez posouzení konkrétní vady, jejího průběhu a navazujících procesních pravidel dovodit paušální následek vadného doručení pro výsledek přezkumu.
+
+[4] **Zastoupení insolvenčního správce.** Není-li dále stanoveno jinak, může se správce dát zastoupit jinou osobou zapsanou do seznamu insolvenčních správců. Zastoupení se děje na nebezpečí a náklady zastoupeného správce; nejde tedy o přenesení jeho procesní odpovědnosti na libovolného zmocněnce. Před použitím výjimky je nutné ověřit, zda pro konkrétní situaci další ustanovení osobní účast nevyžaduje.
+
+[5] **Změna termínu nebo místa.** Oznámení o změně se dlužníkovi a správci doručuje zvlášť, a to za podmínek odstavce 2. Zvláštní doručení změny nelze nahradit pouhým spoléháním na zveřejnění v insolvenčním rejstříku.
+
+[6] **Přípravná součinnost.** Soud může správci uložit součinnost potřebnou k přípravě jednání a určit její povahu. Jde o konkrétní řídicí oprávnění soudu; rozsah uložené povinnosti musí odpovídat potřebě přípravy přezkumného jednání.
+
+[7] **Systematická hranice.** § 190 neřeší pořadí přezkoumávaných pohledávek, posouzení vykonatelnosti ani účinky popření. Tyto otázky patří zejména do § 191 až 199. Jejich oddělení brání tomu, aby se z pravidel o svolání jednání dovozovaly hmotněprávní nebo incidenční následky.
+
+[8] **Intertemporalita.** Výjimku z přezkumného jednání pro oddlužení a dnešní znění souvisejících pravidel ovlivnily pozdější novely, zejména změny účinné od 1. července 2017. U staršího řízení nebo procesního úkonu je proto nutné ověřit tehdy účinné znění a přechodná ustanovení; původní důvodová zpráva sama časovou použitelnost nynější úpravy neprokazuje.
+
+### Judikatura
+
+Při této revizi nebylo jako pramen materiálního právního závěru použito žádné soudní rozhodnutí. Tím se nevyslovuje, že relevantní judikatura neexistuje; její zařazení vyžaduje otevření plného textu z oficiálního soudního webu a samostatné ověření skutkového, procesního a intertemporálního kontextu.
 
 ---
 

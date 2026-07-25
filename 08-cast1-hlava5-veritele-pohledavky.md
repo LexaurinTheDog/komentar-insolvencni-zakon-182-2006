@@ -1974,43 +1974,60 @@ Při této revizi nebylo jako pramen materiálního právního závěru použito
 
 ### § 194 — Popření výše
 
-*Námitka, že závazek je nižší*. Popírač *musí* uvést, **jaká je výše**.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-#### F. Kazuistika
+#### Znění ustanovení
 
-**1. Modelová situace.** Věřitel V přihlásí pohledávku 1 000 000 Kč (jistina 800 000 Kč + úroky a smluvní pokuta 200 000 Kč) vůči dlužníku D. Insolvenční správce S nezpochybňuje existenci pohledávky, ale tvrdí, že část byla uhrazena a smluvní pokuta je nepřiměřená, takže správná výše činí 700 000 Kč. S v popěrném úkonu výslovně uvede, že uznává 700 000 Kč. Důkazy: přihláška a vyčíslení (rozpis jistiny, úroků, pokuty), doklady o úhradách, ujednání o smluvní pokutě, zápis z přezkumu.
+> O popření pohledávky co do její výše jde tehdy, je-li namítáno, že dlužníkův závazek je nižší než přihlášená částka. Ten, kdo popírá výši pohledávky, musí současně uvést, jaká je ve skutečnosti výše pohledávky.
+>
 
-**2. Právní otázka.** Co je obsahem popření výše, jaká obsahová náležitost je pro ně předepsána a jaké jsou důsledky, není-li podána včasná žaloba?
+#### Přehled výkladu
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 194 — popření výše je námitka, že závazek je nižší, než bylo přihlášeno; popírač musí uvést, jaká je správná výše pohledávky.
-- *Související ustanovení téhož zákona:* § 192 (předmět popření), § 193 (pravost), § 196 (popření výše nemá vliv na pořadí), § 198 (při zmeškání žaloby zjištěna v popřené výši), § 175–176 (vyčíslení).
-- *Související předpisy:* OZ — splnění (částečná úhrada), moderace nepřiměřené smluvní pokuty, úroky; o. s. ř. — dokazování.
-- *Judikatura:* nosný závěr, že popření výše předpokládá uvedení konkrétní správné částky a že nepodá-li věřitel včas žalobu, je pohledávka zjištěna ve výši uvedené při popření.
+§ 194 vymezuje obsah popření výše dvěma spojenými znaky: popírající namítá nižší dlužníkův závazek, než činí přihlášená částka, a současně uvede výši, kterou pokládá za skutečnou. Ustanovení samo neurčuje, kdo následně podává incidenční žalobu ani jaký je procesní následek; to závisí zejména na vykonatelnosti pohledávky, osobě popírajícího a způsobu řešení úpadku.
 
-**4. Subsumpce.** S nepopírá existenci (pravost zůstává nedotčena), nýbrž namítá nižší částku a výslovně uvádí správnou výši 700 000 Kč → jde o popření výše dle § 194 s naplněnou obsahovou náležitostí. Popření výše přitom nemá vliv na pořadí (§ 196).
+#### Souvisící ustanovení
 
-**5. Řešení.** Popření výše je platné a vyvolá incidenční spor o rozdíl mezi přihlášenou a uznanou částkou. U nevykonatelné pohledávky musí žalobu podat věřitel (§ 198); nepodá-li ji včas, pohledávka se zjistí v popřené výši 700 000 Kč. Procesně se důvody snížení (úhrady, moderace pokuty) koncentrují do skončení přezkumu.
+- § 175 a § 176 — vyčíslení a obsah přihlášky pohledávky,
+- § 192 — osoby oprávněné popírat a obecné účinky popření dlužníkem,
+- § 193 — popření pravosti,
+- § 195 — popření pořadí,
+- § 196 — vzájemné účinky jednotlivých druhů popření,
+- § 197 až 201 — zachycení výsledku přezkumu, incidenční režimy a zjištění pohledávky,
+- § 336 odst. 2 až 4 a § 410 odst. 2 až 5 — zvláštnosti přezkumu v reorganizaci a oddlužení.
 
-**6. Varianty.** (a) Kdyby S správnou výši v popěrném úkonu neuvedl, popření výše by bylo neúplné a neúčinné. (b) Tvrdil-li by S, že pohledávka vůbec nevznikla, šlo by o popření pravosti (§ 193), nikoli výše.
+#### Souvisící předpisy
 
-#### G. Protiargumenty a rizika
+Občanský soudní řád se v insolvenčním řízení a v incidenčních sporech použije přiměřeně, nestanoví-li insolvenční zákon jinak nebo není-li takový postup v rozporu se zásadami insolvenčního řízení (§ 7). Konkrétní hmotněprávní důvod, proč má být závazek nižší, se posuzuje podle předpisu rozhodného pro danou pohledávku; § 194 tento důvod sám neupravuje.
 
-- *Protiargument:* „K popření výše stačí konstatovat, že pohledávka je nadhodnocená." — Neutralizace: § 194 výslovně vyžaduje uvést konkrétní správnou výši; bez ní je popření neúčinné.
-- *Protiargument:* „Popřením výše se zároveň zpochybňuje i pořadí (zajištění)." — Neutralizace: dle § 196 popření výše nemá vliv na pořadí; obojí je nutné popřít samostatně.
-- *Slabé místo:* hraniční je odlišení částečného zániku (výše) od úplného zániku či nevzniku (pravost); chybné zařazení druhu popření ohrožuje jeho účinnost.
+#### Z důvodové zprávy
 
-#### H. Praktický závěr
+Původní důvodová zpráva řadí § 194 spolu s § 193 a § 195 mezi ustanovení, která pojmenovávají jednotlivé způsoby popření; § 196 podle ní vymezuje jejich účinky. Neobsahuje samostatný podrobnější výklad požadavku uvést skutečnou výši (sněmovní tisk 1120/0, zvláštní část K § 193 až 196, číslovaná s. 200, PDF s. 201).
 
-Popření výše nezpochybňuje existenci pohledávky, jen její částku, a musí obsahovat údaj o správné výši. Nepodá-li věřitel u nevykonatelné pohledávky včas žalobu, je pohledávka zjištěna v popřené (nižší) výši.
+#### Literatura
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] V popěrném úkonu uvést konkrétní správnou výši pohledávky (§ 194).
-- [ ] Rozlišit popření výše od popření pravosti a pořadí (§ 196 — bez vzájemného vlivu).
-- [ ] U nevykonatelné popřené pohledávky hlídat 30denní lhůtu věřitele (§ 198) a následek zjištění v popřené výši.
-- [ ] Důvody snížení (úhrady, moderace pokuty) doložit a koncentrovat do skončení přezkumu.
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento oddíl proto nepředstavuje negativní rešeršní závěr.
 
-**Typicky rozhodné důkazy / podklady:** přihláška a vyčíslení s rozpisem, doklady o úhradách, ujednání o smluvní pokutě a úrocích, zápis z přezkumu s vyznačením uznané výše.
+#### Výklad
+
+[1] **Předmět námitky.** Popření výše směřuje proti kvantitativnímu rozsahu přihlášené pohledávky: podle popírajícího je dlužníkův závazek nižší než přihlášená částka. Nejde jen o obecné tvrzení, že přihlášená suma je nadhodnocena.
+
+[2] **Skutečná výše.** Zákon výslovně požaduje, aby popírající současně uvedl, jaká je podle něj skutečná výše pohledávky. Tento údaj vymezuje částku, kterou popěrný úkon ponechává nezpochybněnou, a rozdíl, jehož se popření týká. Samotný § 194 však neformuluje procesní výrok o tom, jak má být naloženo s podáním, které požadovaný údaj postrádá; takový následek je nutné posoudit podle celého použitelného procesního režimu.
+
+[3] **Hranice vůči pravosti.** Námitka, že pohledávka nevznikla, zcela zanikla nebo se zcela promlčela, je podle § 193 popřením pravosti. Tvrdí-li popírající jen nižší rozsah závazku, odpovídá obsah námitky § 194; rozhodující je obsah uplatněného důvodu a rozsah, nikoli jeho označení.
+
+[4] **Hranice vůči pořadí.** Méně výhodné pořadí nebo neexistence práva na uspokojení ze zajištění patří pod § 195. Podle § 196 odst. 1 nemá popření výše vliv na pořadí pohledávky a popření pořadí nemá vliv na její pravost nebo výši. Má-li být zpochybněno obojí, musí obsah popěrného úkonu vymezit oba předměty.
+
+[5] **Žalobní iniciativa.** § 194 je definiční ustanovení. U nevykonatelné pohledávky popřené insolvenčním správcem upravuje žalobu věřitele § 198; u vykonatelné pohledávky popřené správcem podává žalobu správce podle § 199. Popření přihlášeným věřitelem má vlastní režim v § 200. Zvláštní pravidla je nutné ověřit také pro reorganizaci a oddlužení.
+
+[6] **Následek podle § 198 odst. 1.** Nedojde-li včas insolvenčnímu soudu žaloba věřitele nevykonatelné pohledávky popřené insolvenčním správcem co do výše, je pohledávka zjištěna ve výši uvedené při jejím popření. Tento následek nelze bez dalšího zobecnit na každý případ popření výše bez ohledu na vykonatelnost a osobu popírajícího.
+
+[7] **Meze důvodů.** Procesní omezení nejsou pro všechny incidenční režimy totožná. § 198 odst. 2 omezuje skutečnosti uplatnitelné věřitelem jako důvod vzniku nevykonatelné pohledávky; § 199 odst. 2 a 3 omezuje důvody popření vykonatelné pohledávky a skutečnosti uplatnitelné správcem; § 200 odst. 2 stanoví časovou mez pro změnu důvodu popření přihlášeným věřitelem. Obecná věta, že všechny důvody snížení se vždy koncentrují do skončení přezkumu, proto není přesná.
+
+[8] **Intertemporalita.** Pro konkrétní historický případ je nutné určit znění účinné pro daný přezkum a ověřit vykonatelnost pohledávky, osobu popírajícího, způsob řešení úpadku a příslušná přechodná ustanovení. Aktuální procesní následky § 198 až 200 nelze bez této kontroly přenášet na starší insolvenční řízení.
+
+#### Judikatura
+
+Při této revizi nebylo soudní rozhodnutí použito jako pramen samostatného materiálního závěru. Tím se nevyslovuje, že relevantní judikatura neexistuje; zařazení konkrétního rozhodnutí vyžaduje otevření plného textu z oficiálního soudního webu a ověření skutkového, procesního a intertemporálního kontextu.
 
 ### § 195 — Popření pořadí
 

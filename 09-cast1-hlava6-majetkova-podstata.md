@@ -78,7 +78,11 @@ V tomto kole není uváděna judikatura. Dřívější odkaz na rozsudek NSS sp.
 
 ## § 206 — Obsah majetkové podstaty
 
-> (1) Není-li v tomto zákoně stanoveno jinak, majetkovou podstatu podle § 205 tvoří **zejména**
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Není-li v tomto zákoně stanoveno jinak, majetkovou podstatu podle § 205 tvoří zejména
 > a) peněžní prostředky,
 > b) věci movité a nemovité,
 > c) podnik,
@@ -87,79 +91,56 @@ V tomto kole není uváděna judikatura. Dřívější odkaz na rozsudek NSS sp.
 > f) akcie, směnky, šeky nebo jiné cenné papíry anebo jiné listiny, jejichž předložení je nutné k uplatnění práva,
 > g) obchodní podíl,
 > h) dlužníkovy peněžité i nepeněžité pohledávky, včetně pohledávek podmíněných a pohledávek, které dosud nejsou splatné,
-> i) **dlužníkova mzda nebo plat, jeho pracovní odměna jako člena družstva** a příjmy, které dlužníkovi nahrazují odměnu za práci, zejména důchod, nemocenské, peněžitá pomoc v mateřství, stipendia, náhrady ucházejícího výdělku, náhrady poskytované za výkon společenských funkcí, podpora v nezaměstnanosti a podpora při rekvalifikaci,
-> j) **další práva a jiné majetkové hodnoty**, mají-li penězi ocenitelnou hodnotu.
+> i) dlužníkova mzda nebo plat, jeho pracovní odměna jako člena družstva a příjmy, které dlužníkovi nahrazují odměnu za práci, zejména důchod, nemocenské, peněžitá pomoc v mateřství, stipendia, náhrady ucházejícího výdělku, náhrady poskytované za výkon společenských funkcí, podpora v nezaměstnanosti a podpora při rekvalifikaci,
+> j) další práva a jiné majetkové hodnoty, mají-li penězi ocenitelnou hodnotu.
 > (2) Majetkovou podstatu tvoří dále i příslušenství, přírůstky, plody a užitky majetku uvedeného v odstavci 1.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *NSS* [3 Afs 134/2014 - 37](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/635129) — 24. 6. 2015
-  > „Tomu odpovídá ustanovení § 206 odst. 1 písm. h) zákona č. 182/2006 Sb., v platném znění (dále jen insolvenční zákon), podle kterého majetkovou podstatu tvoří dlužníkovy peněžité i nepeněžité pohledávky, včetně pohledávek podmíněných a pohledávek, které dosud nejsou splatné, a slouží k upokojení věřitelů podle podmínek insolvenčního zákona"
+§ 206 obsahuje demonstrativní katalog složek majetkové podstaty. Neurčuje však sám časový ani osobní rozsah podstaty: ten vychází z § 205. Každou položku je proto nutné nejprve spojit s dlužníkem nebo s jiným zákonným titulem podle § 205 odst. 4 a poté prověřit výluky podle § 207 a § 208. Písmeno h) výslovně zahrnuje i podmíněné a dosud nesplatné pohledávky; písmeno j) zachycuje další penězi ocenitelná práva a majetkové hodnoty. Odstavec 2 rozšiřuje obsah podstaty o příslušenství, přírůstky, plody a užitky majetku z odstavce 1.
+
+### Souvisící ustanovení
+
+- § 205 — osobní a časový rozsah majetkové podstaty.
+- § 207 a § 208 — majetek vyloučený pro nepostižitelnost nebo zvláštní účelové určení; u příjmů také zákonný rozsah jejich zahrnutí.
+- § 217 až § 219 — soupis a ocenění majetkové podstaty.
+- § 227 — vynětí hodnot, které nemohou sloužit k uspokojení věřitelů.
+- § 264 — pokračování v přerušených řízeních, v nichž dlužník uplatňuje svůj nárok.
+
+### Souvisící předpisy
+
+- Zákon č. 99/1963 Sb., občanský soudní řád, zejména § 276 až § 279 a § 299 — pravidla srážek ze mzdy a z jiných příjmů, na něž navazuje § 207 odst. 2 insolvenčního zákona.
+- Týž zákon, zejména § 321 a § 322 — postižení movitých věcí a zákonné výluky, významné pro § 207 odst. 1 insolvenčního zákona.
+
+### Z důvodové zprávy
+
+Vládní návrh vysvětloval, že § 206 zavádí netaxativní výčet majetkových hodnot. Jeho účelem bylo zabránit zúženému chápání majetkové podstaty jen jako souboru některých druhů majetku. Jde o zvláštní část důvodové zprávy ke sněmovnímu tisku 1120/0, pasáž „K § 206“.
+
+### Literatura
+
+Odborná literatura je rozhodnutím odpovědného editora odložena do druhého kola; tato poznámka není výsledkem negativní literární rešerše.
 
 ### Výklad
 
-**Demonstrativní** výčet (slovo „zejména") — *cokoli s majetkovou hodnotou* může do podstaty patřit, pokud to neuvádějí výjimky (§ 207, § 208).
+[1] **Funkce katalogu.** Slovo „zejména“ potvrzuje, že písmena a) až j) nejsou taxativním seznamem. Demonstrativnost ale neodstraňuje podmínky § 205 ani výluky § 207 a § 208. § 206 je obsahová klasifikace, nikoli samostatný důvod, proč určitá hodnota náleží právě do podstaty konkrétního dlužníka.
 
-#### Klíčové kategorie:
+[2] **Peníze, věci a majetkové celky.** Písmena a) až g) výslovně uvádějí peněžní prostředky, movité a nemovité věci, podnik, soubory věcí a věci hromadné, vklady, cenné papíry a jiné prezentační listiny a obchodní podíl. Historická terminologie ustanovení musí být při aplikaci propojena s aktuální úpravou konkrétního majetkového práva; samotný název položky nerozhoduje o jejím vlastníku, převoditelnosti ani hodnotě.
 
-**c) Podnik** — *jako celek* (závod podle § 502 OZ). Velmi důležité pro reorganizaci a koncepci *going concern* zpeněžení (§ 290).
+[3] **Pohledávky dlužníka.** Písmeno h) míří na aktiva dlužníka vůči jeho dlužníkům, nikoli na pohledávky věřitelů přihlašované proti dlužníku. Zákon výslovně zahrnuje peněžité i nepeněžité, podmíněné i dosud nesplatné pohledávky. Spornost, podmíněnost nebo nesplatnost proto sama o sobě nevylučuje zařazení; existence, obsah a hodnota konkrétní pohledávky se však musí zjistit a doložit.
 
-**h) Dlužníkovy pohledávky** — *aktivně*. Dlužník je tedy věřitelem vůči třetím osobám, jeho pohledávky inkasuje správce. Včetně *podmíněných* a *nesplatných*.
+[4] **Příjmy fyzické osoby.** Písmeno i) vyjmenovává mzdu, plat, pracovní odměnu člena družstva a příjmy nahrazující odměnu za práci. Rozsah, v němž tyto příjmy skutečně náležejí do podstaty, určuje § 207 odst. 2 odkazem na rozsah uspokojení přednostních pohledávek při výkonu rozhodnutí nebo exekuci. Nelze jej bezpečně nahrazovat stálým procentem; je nutné použít aktuální procesní úpravu a konkrétní údaje rozhodné pro výpočet.
 
-**i) Mzda, plat, důchod a obdobné** — *zásadní pro FO v insolvenci*. Veškeré pravidelné příjmy. *Omezení* podle § 207 odst. 2 — jen v rozsahu, v jakém je lze postihnout pro přednostní pohledávky (= cca *2/3 čisté mzdy nad nezabavitelnou částku*).
+[5] **Další práva a majetkové hodnoty.** Písmeno j) brání tomu, aby mimo katalog zůstalo právo nebo jiná majetková hodnota jen proto, že ji písmena a) až i) nepojmenovávají. Podmínkou textu je peněžní ocenitelnost. U netypického aktiva je nutné samostatně ověřit právní titul dlužníka, obsah a převoditelnost práva, možnost jeho ocenění a případnou zákonnou výluku; pouhá existence technického záznamu nebo obchodního označení k závěru nestačí.
 
-**j) Catch-all kategorie** — *cokoli ocenitelné penězi*. Typicky: nehmotná aktiva (ochranné známky, doménová jména, software, autorská práva), pojistné nároky, pohledávky z náhrady škody, kryptoaktiva.
+[6] **Příslušenství, přírůstky, plody a užitky.** Odstavec 2 váže tyto hodnoty na majetek uvedený v odstavci 1. V konkrétním případě je třeba nejprve právně kvalifikovat základní majetek a poté určit, zda další hodnota skutečně představuje jeho příslušenství, přírůstek, plod nebo užitek; běžná provozní souvislost sama o sobě takovou kvalifikaci nezakládá.
 
-#### Příslušenství a plody (odst. 2)
+[7] **Soupis a ocenění.** Závěr, že určitá hodnota typově spadá pod § 206, nenahrazuje její řádnou identifikaci v soupisu ani ocenění podle § 217 až § 219. Naopak neprodejnost nebo nedobytnost nemění sama o sobě typovou klasifikaci podle § 206; může být významná pro postup podle § 227.
 
-Do podstaty *automaticky* spadají:
-- *příslušenství* (klíče k nemovitosti, doklady k autu),
-- *přírůstky* (zúžení vodního břehu, nárůst zásob),
-- *plody* (úroda na poli, mláďata zvířat),
-- *užitky* (nájemné, dividendy z akcií, úroky z účtu).
+[8] **Intertemporalita a pracovní postup.** Tento komentář zachycuje stav práva k 19. 7. 2026. U staršího případu je třeba znovu ověřit tehdy účinné znění insolvenčního zákona i souvisejících předpisů. Praktická kontrola postupuje od titulu a rozhodného okamžiku podle § 205 přes zařazení podle § 206 a výluky § 207 a § 208 k soupisu, ocenění a případnému procesnímu uplatnění práva.
 
-### Vazby
+### Judikatura
 
-- **§ 502 OZ** — pojem podniku/závodu.
-- **§ 207** — vyloučený majetek.
-- **OSŘ § 277, § 278** — výpočet nezabavitelné částky.
-
-### F. Kazuistika
-
-**1. Modelová situace.** Dlužník — IT freelancer v oddlužení — vlastní: doménové jméno s registrovanou ochrannou známkou (vlastní e-shopová značka), portfolio klientských pohledávek (část nesplatných, část podmíněných bonusem), kryptoaktiva v hodnotě cca 200 000 Kč a nárok na výplatu pojistného z havarovaného služebního notebooku. Správce zvažuje, co vše zapsat do soupisu. Účastníci: dlužník, správce, věřitelský výbor. Důkazy: účetnictví/daňová evidence, smlouvy s klienty, výpis z registru ochranných známek a domén, výpis z kryptoburzy, pojistná smlouva a likvidační zpráva.
-
-**2. Právní otázka.** Spadají nehmotná aktiva (doména, ochranná známka, kryptoaktiva) a podmíněné/nesplatné pohledávky do majetkové podstaty?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 206 odst. 1 — demonstrativní („zejména") výčet; písm. h) pohledávky včetně podmíněných a nesplatných; písm. j) catch-all „další práva a jiné majetkové hodnoty" s penězi ocenitelnou hodnotou; odst. 2 — příslušenství, přírůstky, plody a užitky.
-- *Související ustanovení téhož zákona:* § 207 (vyloučený majetek — limit pro příjmy); § 217 (soupis); § 219 (ocenění obtížně ocenitelného majetku znalcem).
-- *Související předpisy:* § 496, § 502 OZ (věc nehmotná, závod); zákon o ochranných známkách; OSŘ § 277–278 (nezabavitelná část mzdy).
-- *Judikatura:* NSS 3 Afs 134/2014 — § 206 odst. 1 písm. h): pohledávky, i podmíněné a dosud nesplatné, tvoří majetkovou podstatu a slouží k uspokojení věřitelů.
-
-**4. Subsumpce.** Doména a ochranná známka jsou „další práva a jiné majetkové hodnoty" s ocenitelnou hodnotou → písm. j). Kryptoaktiva — majetková hodnota ocenitelná penězi → písm. j). Klientské pohledávky včetně podmíněných a nesplatných → výslovně písm. h). Pojistný nárok = pohledávka z pojištění → písm. h)/j). Úroky z účtu a případné dividendy → užitky podle odst. 2.
-
-**5. Řešení.** Všechna uvedená aktiva se zapíší do soupisu a oceňují obvyklou cenou; u obtížně ocenitelných (kryptoaktiva, ochranná známka) lze zadat znalce za podmínek § 219 odst. 3. Pohledávky správce vymáhá/inkasuje. Procesně: identifikace v soupisu samostatnými položkami (§ 218), ocenění (§ 219).
-
-**6. Varianty.** (a) Kdyby šlo o mzdu ze zaměstnání (písm. i), do podstaty by spadla jen část postižitelná pro přednostní pohledávky (§ 207 odst. 2). (b) Kdyby ochranná známka byla registrována na jiný subjekt (s.r.o. dlužníka), netvořila by přímo podstatu FO — do podstaty by patřil obchodní podíl (písm. g).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Kryptoaktiva nejsou v zákoně uvedena, do podstaty nepatří." Neutralizace: výčet je demonstrativní („zejména"); písm. j) pokrývá vše penězi ocenitelné — kryptoaktiva tržní hodnotu mají.
-- *Protiargument:* „Podmíněnou a nesplatnou pohledávku nelze zpeněžit, je tedy bezcenná." Neutralizace: § 206 odst. 1 písm. h) ji výslovně zařazuje; hodnotu lze realizovat postoupením nebo vyčkáním splatnosti; nedobytnost se řeší až vyřazením podle § 227.
-- *Slabé místo:* ocenění nehmotných aktiv je sporné a může být drahé — riziko, že náklady znalce převýší přínos (§ 219 odst. 3 in fine); chybí veřejná evidence kryptoaktiv → riziko zatajení.
-
-### H. Praktický závěr
-
-Do podstaty patří prakticky vše s penězi ocenitelnou hodnotou (demonstrativní výčet) — peníze, věci, podnik, cenné papíry, podíly, pohledávky (i podmíněné a nesplatné), mzda a obdobné příjmy (s limitem § 207), a catch-all nehmotná aktiva. Automaticky se přidávají příslušenství, přírůstky, plody a užitky.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Projít účetnictví/daňovou evidenci a registry (známky, domény, vozidla, katastr) a sestavit úplný přehled aktiv.
-- [ ] Zařadit nehmotná aktiva pod písm. j), pohledávky pod písm. h) (i podmíněné/nesplatné).
-- [ ] U mzdy/příjmů aplikovat limit § 207 odst. 2 (jen rozsah pro přednostní pohledávky).
-- [ ] Zachytit plody a užitky (nájemné, úroky, dividendy) podle odst. 2.
-- [ ] Zvážit znalecké ocenění obtížně ocenitelných položek (§ 219).
-
-**Typicky rozhodné důkazy / podklady:** účetnictví/daňová evidence, smlouvy a faktury (pohledávky), výpisy z registru ochranných známek a domén, výpisy z kryptoburz a bankovních účtů, pojistné smlouvy a likvidační zprávy.
+V tomto kole není uváděna judikatura jako nosná opora obecného výkladu § 206. Dřívější osamocená citace byla po kontrole plného textu odstraněna, protože řešila zvláštní daňový a procesní kontext; obecný obsahový katalog dostatečně plyne z textu zákona a ověřené důvodové zprávy.
 
 ---
 

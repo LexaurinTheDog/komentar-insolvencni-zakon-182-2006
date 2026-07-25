@@ -1541,6 +1541,63 @@ Další rozhodnutí nebylo do uzavřeného pramenného ledgeru zařazeno. Tím s
 
 ---
 
+## § 187 — Obdobný postup pro část pohledávky
+
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> Pro část přihlášené pohledávky platí postup podle § 184 až 186 obdobně.
+>
+
+### Přehled výkladu
+
+§ 187 je rozsahovou normou. Nevytváří samostatný důvod zpětvzetí, odmítnutí přihlášky ani ukončení účasti věřitele; dovoluje pouze použít odpovídající postup podle § 184, § 185 nebo § 186 na část přihlášené pohledávky. Procesní následek se proto zásadně omezuje na určitě vymezenou dotčenou část, zatímco ohledně zbytku pohledávky účast věřitele pokračuje.
+
+### Souvisící ustanovení
+
+- § 18 — procesní nástupnictví při převodu nebo přechodu přihlášené pohledávky,
+- § 183 odst. 3 — vstup osoby, která za dlužníka uspokojila pohledávku,
+- § 184 — zpětvzetí přihlášky a ochrana vstupu plnící osoby,
+- § 185 — odmítnutí přihlášky při zákonném následku, že se k ní nebo k pohledávce nepřihlíží,
+- § 186 — ukončení účasti při uspokojení nebo jiném zániku pohledávky a určovací žaloba,
+- § 189 odst. 1 — promítnutí pohledávek, k nimž se nepřihlíží, do seznamu přihlášených pohledávek,
+- § 398a odst. 7 písm. a) a c) — zohlednění změny poměru uspokojení vyvolané rozhodnutím podle § 185 nebo § 186 anebo zpětvzetím podle § 184 a § 187.
+
+### Souvisící předpisy
+
+Samostatná přímá vazba na jiný předpis není pro § 187 určující. Hmotněprávní posouzení, zda a v jakém rozsahu pohledávka zanikla nebo přešla na plnící osobu, se řídí právní úpravou konkrétního závazku; § 187 upravuje jen rozsah insolvenčního procesního postupu. Toto rozlišení je redakčním metodickým závěrem.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva k vládnímu návrhu insolvenčního zákona uvádí, že ustanovení vztahuje postup podle § 184 až 186 obdobně také na část přihlášené pohledávky. Potvrzuje tím jeho rozsahovou funkci; samostatný další důvod procesního následku nevymezuje (sněmovní tisk 1120/0, zvláštní část K § 187, číslovaná s. 199, PDF s. 200).
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento oddíl proto nepředstavuje negativní rešeršní závěr.
+
+### Výklad
+
+[1] **Funkce odkazu.** Slovo „obdobně“ přenáší na část pohledávky procesní mechanismus příslušného ustanovení, nikoli však bez rozdílu všechny tři režimy současně. Nejprve musí být určeno, zda jde o dispoziční úkon věřitele podle § 184, zákonný následek nepřihlížení podle § 185, nebo uspokojení či jiný zánik podle § 186. Teprve poté se tento režim spojí s § 187.
+
+[2] **Určení dotčené části.** Z podání, rozhodnutí a případně z navazujícího seznamu pohledávek musí být patrné, která část je dotčena. Zpravidla půjde o částku, ale podle struktury přihlášky může být nutné určit také dílčí nárok, jistinu či příslušenství nebo pořadí. Požadavek určitosti je redakčním závěrem odvozeným z toho, že zákon omezuje postup právě na „část“ pohledávky a odlišný zbytek ponechává nedotčen.
+
+[3] **Částečné zpětvzetí.** Věřitel může podle § 184 ve spojení s § 187 vzít přihlášku zpět jen ve vymezeném rozsahu. Účast v tomto rozsahu končí právní mocí rozhodnutí soudu; ohledně zbytku přihlášené pohledávky pokračuje. Tvrdí-li věřitel, že částečné uspokojení poskytla osoba podle § 183 odst. 3, použije se také ochranný postup § 184 odst. 2 a 3.
+
+[4] **Částečné odmítnutí.** Nastal-li zákonný důvod, pro který se nepřihlíží pouze k části přihlášené pohledávky, § 185 se prostřednictvím § 187 použije jen v tomto rozsahu. § 187 sám takový důvod nezakládá. Odvolání může podat pouze přihlášený věřitel a jeho účast končí právní mocí rozhodnutí jen ohledně odmítnuté části.
+
+[5] **Částečné uspokojení nebo zánik.** Byla-li za podmínek § 186 uspokojena nebo jinak zanikla jen část pohledávky a věřitel ji bez zbytečného odkladu nevzal zpět, může soud ukončit jeho účast jen v odpovídajícím rozsahu. Obrana žalobou podle § 186 odst. 2 se vztahuje ke sporné části; zákonná třicetidenní lhůta a požadavek, aby žaloba poslední den došla soudu, zůstávají zachovány.
+
+[6] **Plnění třetí osoby.** Částečné plnění ručitele, spoludlužníka nebo osoby poskytující zajištění nelze bez dalšího označit za prostý zánik části pohledávky a automaticky podle § 186 ukončit účast původního věřitele. Je nutné ověřit hmotněprávní následek plnění a možnost vstupu plnící osoby podle § 183 odst. 3; při zpětvzetí ji chrání § 184 odst. 2 a 3. § 187 pouze omezuje příslušný procesní postup na rozsah plnění.
+
+[7] **Novelizace a intertemporalita.** Text § 187 odkazuje na § 184 až 186 jako na soubor postupů. Pro starší insolvenční řízení proto nestačí přečíst dnešní znění § 187; je třeba určit časově použitelné znění toho z odkazovaných ustanovení, které má být aplikováno, včetně jeho přechodných pravidel. Samostatnou změnu nebo přechodné pravidlo § 187 použité prameny pro tento komentář nevyžadují k vysvětlení aktuálního postupu.
+
+### Judikatura
+
+Judikatura nebyla použita jako pramen samostatného materiálního závěru. Výklad této jednotky stojí na aktuálním znění § 183 až 187 a na oficiální důvodové zprávě. Tím se nevyslovuje závěr, že relevantní judikatura neexistuje.
+
+---
+
 ## § 188 — Přezkum přihlášek správcem — **PRVNÍ FILTR**
 
 > (1) Insolvenční správce přezkoumá podané přihlášky pohledávek **zejména podle přiložených dokladů a podle účetnictví dlužníka** nebo jeho evidence vedené podle zvláštního právního předpisu. Dále vyzve dlužníka, aby se k přihlášeným pohledávkám vyjádřil. Je-li to třeba, provede o pohledávkách nezbytná šetření s tím, že využije součinnosti orgánů, které mu ji jsou povinny poskytnout.

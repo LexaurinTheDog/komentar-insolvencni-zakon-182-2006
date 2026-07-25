@@ -1859,66 +1859,68 @@ Při této revizi nebylo jako pramen materiálního právního závěru použito
 
 ---
 
-## § 192 — § 196 — Popírání pohledávek
+## § 192 — Popírání pohledávek
 
-**Judikatura (z místních zdrojů):**
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-- *ÚS* [Pl.ÚS 14/10](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-14-10_1) — nález, 1. 7. 2010
-  > „Pokud insolvenční správce nepopře sporné pohledávky, nedá ostatním věřitelům možnost, aby skutečná pravost, výše a zajištění pohledávek byly zjištěny před nezávislým a nestranným soudem, a není tak naplněn požadavek základního práva na soudní ochranu dle čl. 36 odst. 1 Listiny základních práv a svobod … Postavení insolvenčního správce, tak jak je upraveno insolvenčním zákonem, rozhodně nelze stavět naroveň nezávislého a nestranného soudního orgánu, jak jej předpokládá čl. 36 odst. 1 Listiny"
+### Znění ustanovení
 
-### F. Kazuistika
+> **§ 192**
+>
+> **Popření přihlášených pohledávek**
+>
+> (1) Pravost, výši a pořadí všech přihlášených pohledávek mohou popírat insolvenční správce, dlužník a přihlášení věřitelé; popření pohledávky lze vzít zpět.
+>
+> (2) Insolvenční správce může při přezkumném jednání změnit stanovisko, které zaujal k jednotlivým pohledávkám v seznamu přihlášených pohledávek.
+>
+> (3) Není-li dále stanoveno jinak, nemá popření pohledávky dlužníkem vliv na její zjištění; jeho účinkem však vždy je, že pro pohledávku, kterou dlužník popřel co do její pravosti nebo výše, není v rozsahu popření upravený seznam přihlášených pohledávek exekučním titulem.
+>
+> (4) Věřitel může až do skončení přezkumného jednání, dokud jeho pohledávka není zjištěna, měnit výši přihlašované pohledávky. Jestliže v důsledku této změny není možné přezkoumat přihlášenou pohledávku při nařízeném přezkumném jednání, nařídí insolvenční soud zvláštní přezkumné jednání. Věřitel je však povinen uhradit ostatním věřitelům na jejich žádost náklady, které jim vznikly v souvislosti s jejich účastí na zvláštním přezkumném jednání.
+>
 
-**1. Modelová situace.** Při přezkumu pohledávek dlužníka D je sporná pohledávka věřitele V (1 000 000 Kč, přihlášená jako zajištěná a nevykonatelná). Insolvenční správce S má pochybnosti o její pravosti i výši a zvažuje, zda a v jakém rozsahu ji popřít. Část věřitelů S k popření vyzývá, jiní namítají, že popírání je nadbytečné. S nakonec některé sporné pohledávky nepopře vůbec. Důkazy: přihlášky a doklady přezkoumávaných pohledávek, podklady k pravosti/výši/pořadí (smlouvy, zápočty, zástavní listiny), zápis z přezkumného jednání.
+### Přehled výkladu
 
-**2. Právní otázka.** Jak je systémově uspořádán popěrný mechanismus napříč § 192–196 — kdo a co může popřít, s jakými obsahovými náležitostmi a vzájemnými účinky — a jaké ústavní limity má (ne)popření sporné pohledávky správcem?
+Ustanovení určuje osoby oprávněné popírat přihlášené pohledávky, předmět popření, možnost zpětvzetí popření, oprávnění správce změnit při přezkumném jednání předchozí stanovisko, základní účinek dlužníkova popření a časovou mez změny výše přihlášené pohledávky. Obsah jednotlivých druhů popření a jejich další účinky upravují zejména § 193 až 201.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 192–196 jako celek — § 192 (okruh popíračů a předmět popření), § 193 (popření pravosti), § 194 (popření výše), § 195 (popření pořadí), § 196 (vzájemné účinky popření a zvláštní účinek popření zajištění u věřitele uspokojovaného jen ze zajištění).
-- *Související ustanovení téhož zákona:* § 188–191 (přezkum a přezkumné jednání), § 197 (výsledek přezkumu), § 198–200 (incidenční spory), § 201 (zjištění).
-- *Související předpisy:* OZ (vznik, zánik, promlčení, zajištění); o. s. ř. (incidenční spor); čl. 36 odst. 1 Listiny (soudní ochrana).
-- *Judikatura:* ÚS Pl.ÚS 14/10 — nepopře-li správce sporné pohledávky, upírá ostatním věřitelům možnost, aby jejich pravost, výše a zajištění byly zjištěny nezávislým a nestranným soudem; postavení správce nelze stavět naroveň soudu.
+### Souvisící ustanovení
 
-**4. Subsumpce.** Sporná pohledávka V spadá pod přezkum, v němž je S oprávněným popíračem (§ 192). Pochybnosti o existenci míří na pravost (§ 193), o částce na výši (§ 194), o zajištění na pořadí (§ 195), s tím, že u věřitele uspokojovaného jen ze zajištění má popření zajištění účinky popření pravosti (§ 196). Rozhodne-li se S spornou pohledávku nepopřít, dotýká se to dle Pl.ÚS 14/10 práva ostatních věřitelů na soudní ochranu.
+§ 176 (obsah přihlášky), § 184 (zpětvzetí přihlášky), § 188 až 191 (přezkum), § 193 až 196 (druhy a účinky popření), § 197 až 201 (výsledek přezkumu, incidenční spory a zjištění pohledávky), § 336 odst. 2 (účinky popření dlužníkem při reorganizaci), § 410 odst. 2 až 5 (přezkum a účinky popření při oddlužení).
 
-**5. Řešení.** S by měl spornou pohledávku popřít a každý druh popření formulovat s předepsaným obsahem (u výše uvést správnou částku, u pořadí požadované pořadí); popěrný úkon pak vyústí v incidenční spor dle § 198/§ 199. Bezdůvodné nepopření může být porušením povinností správce a zásahem do práv věřitelů. Procesně se rozsah a druh popření musí ustálit do skončení přezkumu (před zjištěním).
+### Souvisící předpisy
 
-**6. Varianty.** (a) Je-li pohledávka vykonatelná, mění se nositel iniciativy k žalobě (§ 199 — správce). (b) Popírá-li pohledávku jen dlužník, zpravidla to nebrání zjištění (§ 192 odst. 3), avšak zbavuje ji povahy exekučního titulu po skončení řízení.
+Zákon č. 99/1963 Sb., občanský soudní řád, se použije na insolvenční a incidenční řízení přiměřeně v mezích § 7 insolvenčního zákona.
 
-### G. Protiargumenty a rizika
+### Z důvodové zprávy
 
-- *Protiargument:* „Popírání sporných pohledávek je věcí uvážení správce a nelze je vynucovat." — Neutralizace: dle Pl.ÚS 14/10 je (ne)popření spjato s právem ostatních věřitelů na soudní ochranu; bezdůvodná pasivita správce je rizikem odpovědnostním.
-- *Protiargument:* „Jednotlivé druhy popření lze zaměňovat a kumulovat bez rozlišení." — Neutralizace: § 193–196 je striktně oddělují co do obsahu i účinků; popření výše nezasahuje pořadí a naopak, s výjimkou zvláštního účinku u zajištění (§ 196).
-- *Slabé místo:* hranice mezi popřením pořadí a pravosti u zajištění (§ 196) a koncentrace důvodů popření do skončení přezkumu jsou zdrojem sporů a procesních pochybení.
+Původní důvodová zpráva označila § 192 za vymezení okruhu subjektů způsobilých popřít přihlášenou pohledávku a tehdejší nejzazší meze změn přihlášené pohledávky. Tento historický popis nelze zaměňovat s aktuálním zněním: návrh pracoval s jinou strukturou odstavců a § 192 byl později podstatně změněn.
 
-### H. Praktický závěr
+*Pramen: vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, zvláštní část „K § 192“, číslovaná s. 200 (PDF s. 201).*
 
-§ 192–196 vytvářejí ucelený popěrný režim: vymezují, kdo popírá (správce, dlužník, věřitelé), co popírá (pravost, výše, pořadí), s jakými náležitostmi a se vzájemně oddělenými účinky. Správce by sporné pohledávky popírat měl — opomenutí může zasáhnout do ústavně chráněného práva ostatních věřitelů na soudní ochranu.
+### Literatura
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Identifikovat sporné pohledávky a včas (do skončení přezkumu) je popřít ve správném druhu a rozsahu.
-- [ ] U popření výše uvést správnou částku (§ 194), u popření pořadí požadované pořadí (§ 195).
-- [ ] Posoudit vzájemné účinky dle § 196, zejména popření zajištění u věřitele uspokojovaného jen ze zajištění.
-- [ ] Navázat incidenčním sporem (§ 198/§ 199) a respektovat ústavní rozměr (ne)popření dle Pl.ÚS 14/10.
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Toto konstatování není výsledkem negativní rešerše.
 
-**Typicky rozhodné důkazy / podklady:** přihlášky a doklady přezkoumávaných pohledávek, listiny k pravosti/výši/pořadí (smlouvy, zápočty, úhrady, zástavní listiny), zápis z přezkumného jednání s vyznačením popření.
+### Výklad
 
-### § 192 — Kdo a co popírá
+[1] **Okruh popírajících osob.** Pravost, výši i pořadí všech přihlášených pohledávek mohou popírat insolvenční správce, dlužník a přihlášení věřitelé. U věřitelského popření je současně nutné splnit zvláštní procesní požadavky § 200; samotný výčet v § 192 odst. 1 je nenahrazuje.
 
-**Aktivně legitimovaní popírači**:
-- *insolvenční správce* (nejdůležitější),
-- *dlužník*,
-- *přihlášení věřitelé*.
+[2] **Předmět popření.** Pojmy pravost, výše a pořadí konkretizují § 193 až 195. Jejich vzájemné účinky upravuje § 196. Popěrný úkon proto musí být posouzen podle svého skutečného obsahu a nelze z § 192 samotného dovozovat obsahové náležitosti jednotlivých druhů popření.
 
-**Předmět popření**: *pravost, výše, pořadí*.
+[3] **Zpětvzetí popření.** Poslední věta § 192 odst. 1 dovoluje vzít popření pohledávky zpět. Jde o zpětvzetí popěrného úkonu, nikoli o zpětvzetí přihlášky věřitelem podle § 184; tyto úkony mají odlišný předmět i následky.
 
-**Změnit lze**: do přezkumu / před zjištěním.
+[4] **Změna stanoviska správcem.** Odstavec 2 dovoluje insolvenčnímu správci při přezkumném jednání změnit stanovisko, které dříve uvedl v seznamu přihlášených pohledávek. Text ustanovení váže toto oprávnění právě na přezkumné jednání.
 
-**Speciálka pro dlužníkovo popření** (odst. 3): *nemá vliv na zjištění* pohledávky (kromě výjimek u oddlužení). *Ale*: pohledávka, kterou dlužník popřel, *není exekučním titulem* (po skončení řízení).
+[5] **Základní režim dlužníkova popření.** Nestanoví-li zákon jinak, dlužníkovo popření neovlivní zjištění pohledávky. Popře-li však dlužník její pravost nebo výši, upravený seznam přihlášených pohledávek není v rozsahu popření exekučním titulem. Odlišné účinky stanoví zákon zejména pro reorganizaci a oddlužení; proto nelze obecné pravidlo odstavce 3 použít bez ověření způsobu řešení úpadku.
 
-**Judikatura (z místních zdrojů):**
+[6] **Změna výše přihlášené pohledávky.** Věřitel smí podle odstavce 4 měnit výši do skončení přezkumného jednání jen potud, pokud pohledávka ještě nebyla zjištěna. Změna, kvůli níž pohledávku nelze přezkoumat při nařízeném jednání, vede ke zvláštnímu přezkumnému jednání; ostatní věřitelé mohou požadovat náhradu nákladů vzniklých jejich účastí na něm.
 
-- *ÚS* [Pl.ÚS 14/10](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-14-10_1) — nález, 1. 7. 2010
-  > „Pokud insolvenční správce nepopře sporné pohledávky, nedá ostatním věřitelům možnost, aby skutečná pravost, výše a zajištění pohledávek byly zjištěny před nezávislým a nestranným soudem, a není tak naplněn požadavek základního práva na soudní ochranu dle čl. 36 odst. 1 Listiny základních práv a svobod … Postavení insolvenčního správce, tak jak je upraveno insolvenčním zákonem, rozhodně nelze stavět naroveň nezávislého a nestranného soudního orgánu, jak jej předpokládá čl. 36 odst. 1 Listiny"
+[7] **Rozhodná procesní mez.** Odstavec 4 výslovně připouští změnu výše až do skončení přezkumného jednání, avšak jen dokud pohledávka není zjištěna. Po naplnění některé z těchto mezí již toto ustanovení zvýšení neumožňuje. Kategorická rada spornou část preventivně neuvádět proto není bezpečná; věřitel musí posoudit důkazní stav, možnost změny do zákonné meze a případné částečné zpětvzetí podle § 184.
+
+[8] **Intertemporalita.** Původní § 192 měl jinou podobu a pozdější novely měnily okruh popírajících osob i účinky popření. U historického řízení je nutné ověřit znění účinné pro konkrétní přihlášení, přezkum a způsob řešení úpadku spolu s přechodnými ustanoveními příslušné novely; aktuální znění nelze použít jen podle data dnešního rozhodování.
+
+### Judikatura
+
+Při této revizi nebylo jako pramen materiálního právního závěru použito žádné soudní rozhodnutí. Tím se nevyslovuje, že relevantní judikatura neexistuje; zařazení konkrétního rozhodnutí vyžaduje otevření plného textu z oficiálního soudního webu a ověření skutkového, procesního a intertemporálního kontextu.
 
 ### § 193 — Popření pravosti
 

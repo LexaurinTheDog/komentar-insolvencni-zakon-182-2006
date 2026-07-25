@@ -204,71 +204,57 @@ Výklad této revize není založen na konkrétním soudním rozhodnutí. Dřív
 
 ## § 208 — Účelově vázaný majetek
 
-> Nestanoví-li tento zákon jinak, do majetkové podstaty nepatří též majetek, **se kterým lze podle zvláštního právního předpisu naložit pouze způsobem, k němuž byl určen**, zejména **účelové dotace** a návratné výpomoci ze státního rozpočtu, z Národního fondu, z rozpočtu územního samosprávního celku nebo státního fondu, **finanční rezervy** vytvářené podle zvláštních právních předpisů, majetek České národní banky, který byl na základě zvláštních dohod svěřen do správy jiné osobě, zboží propuštěné celním úřadem k dočasnému použití a majetek státu v rozsahu stanoveném zvláštním právním předpisem.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**Judikatura (z místních zdrojů):**
+### Znění ustanovení
 
-- *NSS* [2 Afs 256/2022 - 50](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/714209) — 7. 9. 2023
-  > „Jak uvádí judikatura insolvenčních soudů, toto ustanovení je nezbytné vykládat s ohledem na základní principy insolvenčního řízení restriktivně … Do rozsahu § 208 insolvenčního zákona náleží především majetek, s nímž lze nakládat podle zvláštního zákona pouze v souladu se stanoveným účelem, přičemž jde zejména o veřejné prostředky poskytnuté dlužníku za určitým účelem, a finanční rezervy vytvářené za určitým účelem"
+> Nestanoví-li tento zákon jinak, do majetkové podstaty nepatří též majetek, se kterým lze podle zvláštního právního předpisu naložit pouze způsobem, k němuž byl určen, zejména účelové dotace a návratné výpomoci ze státního rozpočtu, z Národního fondu, z rozpočtu územního samosprávního celku nebo státního fondu, finanční rezervy vytvářené podle zvláštních právních předpisů30), majetek České národní banky, který byl na základě zvláštních dohod svěřen do správy jiné osobě, zboží propuštěné celním úřadem k dočasnému použití a majetek státu v rozsahu stanoveném zvláštním právním předpisem31).
+
+### Přehled výkladu
+
+§ 208 stanoví výjimku z obecného rozsahu majetkové podstaty. Rozhodujícím znakem není pouhé označení účelu, oddělené vedení prostředků ani smluvní nebo správní podmínka sama o sobě. Musí existovat zvláštní právní předpis, podle něhož lze s konkrétním majetkem naložit pouze určeným způsobem. Zákonný výčet za slovem „zejména“ je demonstrativní, podmínku zákonné dispozitivní vázanosti však neodstraňuje. Výluka se vykládá restriktivně.
+
+### Souvisící ustanovení
+
+- § 205 — časový, osobní a majetkový rozsah majetkové podstaty.
+- § 207 — výluka majetku nepostižitelného výkonem rozhodnutí nebo exekucí.
+- § 217 odst. 2 — vyřazení hodnoty, o níž vyjde najevo, že do podstaty nenáleží.
+- § 226 — návrh dlužníka na vynětí majetku, který do podstaty nepatří podle § 207 nebo § 208.
+
+### Souvisící předpisy
+
+- Zvláštní právní předpis, který upravuje konkrétní majetek, je vždy nutné určit individuálně; obecné označení dotace, rezervy nebo veřejných prostředků nestačí.
+- Daňový řád byl ve věci NSS č. j. 2 Afs 256/2022-50 posuzovaným zvláštním předpisem. NSS nepřijal, že by tehdy dovolávaná ustanovení zakládala výluku částky zajištěné na dosud nestanovenou daň podle § 208.
+
+### Z důvodové zprávy
+
+Vládní návrh rozlišoval nepostižitelnost podle § 207 od výluky pro účelové určení podle § 208. Jako příklad uváděl majetek státu spravovaný příspěvkovými organizacemi a odmítal další rozšiřování výluk, protože by neúměrně snižovalo možnost uspokojení věřitelů. Jde o sněmovní tisk 1120/0, zvláštní část „K § 207 a 208“, číslovaná strana 203 (PDF strana 203).
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola; tento oddíl není negativní rešerší.
 
 ### Výklad
 
-**Majetek s vázaným účelem** — *do podstaty nepatří*. Typické příklady:
+[1] **Výjimka z rozsahu podstaty.** Nejprve se určí, zda majetek náleží do podstaty podle § 205. § 208 pak může takový majetek vyloučit, jsou-li splněny jeho zvláštní podmínky. Úvodní formule „Nestanoví-li tento zákon jinak“ současně zachovává přednost jiné výslovné úpravy insolvenčního zákona.
 
-- **Účelové dotace** (typicky evropské dotace, dotace ministerstev) — *nesmí být použity jinak než k danému účelu*. Dotace pro výzkum nelze rozdělit věřitelům.
-- **Návratné finanční výpomoci** ze státního rozpočtu / fondů.
-- **Finanční rezervy** podle zvláštních předpisů — typicky:
-  - *rezervy na sanaci důlních činností* (zákon č. 44/1988 Sb.),
-  - *rezervy energetiky* (zákon č. 458/2000 Sb.),
-  - *rezervy na opravy a obnovu* (zákon č. 593/1992 Sb. o rezervách),
-  - *rezervy pojišťoven*.
-- **Majetek ČNB svěřený do správy** (typicky devizové rezervy spravované obchodní bankou) — zůstává ČNB.
-- **Zboží v celním režimu dočasného použití** — nepatří dlužníkovi, jen ho užívá.
-- **Majetek státu** podle zvláštních předpisů.
+[2] **Tříprvkový test.** Pro výluku je třeba určit (i) konkrétní majetek, (ii) konkrétní zvláštní právní předpis a (iii) pravidlo tohoto předpisu, které připouští pouze způsob naložení odpovídající určenému účelu. Nestačí prokázat jen hospodářský nebo administrativní účel prostředků.
 
-> *Logika*: tento majetek by *nemohl být zpeněžen pro věřitele*, neboť ho vážou *veřejnoprávní účely*. Patřil by „někam jinam" — proto se vůbec nezačleňuje do podstaty.
+[3] **Demonstrativní výčet.** Slovo „zejména“ znamená, že vyjmenované kategorie nejsou uzavřené. Ani u účelové dotace nebo návratné výpomoci však nelze přeskočit úvodní normativní podmínku. Rozhodnutí o poskytnutí, smlouva, evidence na odděleném účtu a pravidla vypořádání jsou důležitými podklady, nenahrazují však identifikaci zákonného omezení dispozice.
 
-### Vazby
+[4] **Restriktivní výklad.** NSS v rozsudku ze dne 7. 9. 2023, č. j. 2 Afs 256/2022-50, body 19 až 24, vyložil § 208 restriktivně. Takový přístup odpovídá rovnosti věřitelů a brání tomu, aby pouhé účelové označení vytvářelo nevyjádřené privilegium mimo pravidla insolvenčního řízení.
 
-- **Zákon č. 218/2000 Sb.** — rozpočtová pravidla (dotace, návratné výpomoci).
-- **Zákon č. 593/1992 Sb.** — rezervy pro zjištění základu daně.
+[5] **Daňové zajištění jako negativní příklad.** Ve věci NSS správce daně vymohl před úpadkem částku na dosud nestanovenou daň a po rozhodnutí o úpadku ji převedl na později doměřenou daň. Přestože byla vedena na depozitním účtu a účelově alokována, NSS odmítl její výluku podle § 208. Částka měla být vydána do majetkové podstaty; soud přitom výslovně nepřezkoumal opožděně uplatněnou argumentaci § 242 odst. 2 daňového řádu.
 
-### F. Kazuistika
+[6] **Soupis a procesní náprava.** Vyjde-li v řízení najevo, že sepsaná hodnota splňuje § 208 a do podstaty nenáleží, insolvenční správce postupuje podle § 217 odst. 2. Dlužník může důvod podle § 208 uplatnit vůči správci návrhem na vynětí podle § 226; návrh musí podat bez zbytečného odkladu poté, co se o soupisu dozvěděl nebo při náležité pečlivosti měl dozvědět.
 
-**1. Modelová situace.** Dlužník — stavební firma v konkursu — má na zvláštním účtu (a) účelovou dotaci z evropského fondu na konkrétní výzkumný projekt (nevyčerpanou), (b) zákonnou finanční rezervu na sanaci po těžbě (vytvořenou podle horního zákona), a (c) ve skladu zboží dovezené v celním režimu dočasného použití. Správce zvažuje, zda tyto hodnoty zpeněžit pro věřitele. Účastníci: dlužník, správce, poskytovatel dotace (řídicí orgán), celní úřad. Důkazy: rozhodnutí o poskytnutí dotace s účelovým určením, doklady o tvorbě rezervy, celní dokumentace.
+[7] **Intertemporalita.** Komentář zachycuje stav práva k 19. 7. 2026. Protože § 208 odkazuje dynamicky na zvláštní právní předpisy, je nutné u každého případu ověřit jejich znění účinné v době rozhodného nakládání a příslušná přechodná ustanovení. Rozsudek NSS z roku 2023 je použit zde pro obecný restriktivní test a pro popsaný daňový kontext, nikoli jako automatické řešení jiných veřejných prostředků.
 
-**2. Právní otázka.** Patří účelová dotace, zákonná finanční rezerva a zboží v celním režimu dočasného použití do majetkové podstaty a lze je zpeněžit pro uspokojení věřitelů?
+[8] **Praktická kontrola — autorský postup.** U každé sporné hodnoty je vhodné zaznamenat přesnou právní povahu majetku, nositele práva, zdroj prostředků, citaci zvláštního zákona, jediný dovolený způsob dispozice a znění účinné v rozhodné době. Teprve poté lze uzavřít, zda jde o § 208, nebo pouze o majetek s deklarovaným účelem, který do podstaty patří.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 208 — do podstaty nepatří majetek, s nímž lze podle zvláštního předpisu naložit pouze způsobem, k němuž byl určen (účelové dotace, návratné výpomoci, finanční rezervy, majetek ČNB ve správě, zboží v celním režimu, majetek státu).
-- *Související ustanovení téhož zákona:* § 205 (rozsah podstaty); § 207 (vyloučený majetek); § 217 odst. 2 (vyřazení ze soupisu); § 226 (vynětí).
-- *Související předpisy:* zákon č. 218/2000 Sb. (rozpočtová pravidla); zákon č. 593/1992 Sb. (rezervy); horní/energetické předpisy (sanační rezervy); celní předpisy.
-- *Judikatura:* NSS 2 Afs 256/2022 — § 208 nutno vykládat **restriktivně** s ohledem na základní principy IŘ; spadá sem zejména majetek, s nímž lze nakládat jen v souladu se stanoveným účelem (veřejné prostředky poskytnuté za určitým účelem, finanční rezervy za určitým účelem).
+### Judikatura
 
-**4. Subsumpce.** Dotace má veřejnoprávně stanovený účel (výzkumný projekt) → nelze ji rozdělit věřitelům → § 208. Sanační rezerva je vytvořena podle zvláštního předpisu k danému účelu → § 208. Zboží v celním režimu dočasného použití dlužníkovi nepatří (jen je užívá) → § 208 (a zároveň cizí majetek).
-
-**5. Řešení.** Žádnou ze tří hodnot správce nezahrne do zpeněžované podstaty (resp. vyřadí ze soupisu podle § 217 odst. 2). Dotaci je nutno vrátit/vypořádat dle podmínek poskytnutí; rezervu ponechat účelu; zboží vrátit/celně vypořádat. Restriktivní výklad: pochybnosti svědčí ve prospěch zahrnutí do podstaty, tj. § 208 se nerozšiřuje nad rámec skutečně účelově vázaného majetku.
-
-**6. Varianty.** (a) Kdyby dotace již byla řádně vyčerpána na účel a vznikl z ní běžný majetek (stroj), tento majetek by do podstaty patřil. (b) Kdyby „rezerva" byla jen účetní rezervou bez zvláštního předpisu vázajícího nakládání, nešlo by o majetek dle § 208 a patřila by do podstaty.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Peníze na účtu jsou penězi dlužníka, patří věřitelům." Neutralizace: u účelové dotace zákon (zvláštní předpis) omezuje nakládání pouze na daný účel; nelze ji proto použít k uspokojení věřitelů — § 208.
-- *Protiargument (správce):* „§ 208 lze vykládat široce a vyloučit z podstaty co nejvíce sporných položek." Neutralizace: NSS 2 Afs 256/2022 — výklad musí být restriktivní; vylučují se jen skutečně účelově vázané hodnoty, jinak by se neúměrně krátili věřitelé.
-- *Slabé místo:* hranice mezi účelově vázaným a již „uvolněným" majetkem (vyčerpaná dotace, rozpuštěná rezerva) je sporná; nutno doložit zvláštním předpisem a podmínkami poskytnutí.
-
-### H. Praktický závěr
-
-Účelově vázaný majetek (účelové dotace, návratné výpomoci, zákonné finanční rezervy, majetek ČNB ve správě, zboží v celním režimu dočasného použití, majetek státu) do podstaty nepatří, protože ho lze použít jen k určenému účelu. Ustanovení se vykládá restriktivně.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověřit u sporných peněžních prostředků, zda zvláštní předpis váže jejich užití na konkrétní účel.
-- [ ] Odlišit účelově vázané prostředky od již vyčerpaných/uvolněných (ty patří do podstaty).
-- [ ] U dotací prověřit podmínky poskytnutí a povinnost vrácení/vypořádání.
-- [ ] U cizího/celního majetku zajistit vrácení oprávněné osobě, nikoli zpeněžení.
-- [ ] Při pochybnostech volit restriktivní výklad ve prospěch zahrnutí do podstaty (NSS 2 Afs 256/2022).
-
-**Typicky rozhodné důkazy / podklady:** rozhodnutí o poskytnutí dotace s účelovým určením, doklady o tvorbě a účelu zákonné rezervy, celní dokumentace, dohody o svěření majetku ČNB do správy, zvláštní předpisy vážící nakládání.
+- **NSS, rozsudek ze dne 7. 9. 2023, č. j. 2 Afs 256/2022-50, body 1 až 6 a 15 až 24.** Spor vedl insolvenční správce společnosti CITO Praha s. r. o. proti finančnímu úřadu o částku vymoženou na základě zajišťovacích příkazů před úpadkem a převedenou po úpadku na doměřenou daň. NSS kasační stížnost správce daně zamítl. Nosně odmítl výluku podle § 208, zdůraznil restriktivní výklad a uzavřel, že samotná účelová vázanost či vedení na depozitním účtu neprokazují zákonné vynětí z podstaty. Rozhodnutí vykládá právní úpravu použitelnou na skutkový děj let 2018 až 2021; obecný test odpovídá i znění § 208 rozhodnému k 19. 7. 2026.
 
 ---
 

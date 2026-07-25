@@ -1475,6 +1475,72 @@ Další rozhodnutí nebylo do uzavřeného pramenného ledgeru zařazeno. Tím s
 
 ---
 
+## § 186 — Ukončení účasti při uspokojení nebo zániku pohledávky
+
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Jestliže pohledávka přihlášeného věřitele byla v průběhu insolvenčního řízení uspokojena nebo zanikla jiným způsobem a přihlášený věřitel nevzal přihlášku bez zbytečného odkladu zpět, insolvenční soud jeho účast v insolvenčním řízení ukončí rozhodnutím, které musí být odůvodněno co do důvodu zániku pohledávky, a proti kterému nejsou opravné prostředky přípustné.
+>
+> (2) Přihlášený věřitel, který tvrdí, že jeho pohledávka nebyla v průběhu insolvenčního řízení uspokojena ani nezanikla jiným způsobem, se může žalobou podanou u insolvenčního soudu domáhat určení, že jeho pohledávka nadále trvá. Žaloba musí být podána proti insolvenčnímu správci, a to ve lhůtě 30 dnů ode dne, kdy přihlášenému věřiteli bylo doručeno rozhodnutí podle odstavce 1. Lhůta je zachována, dojde-li žaloba nejpozději posledního dne lhůty soudu. Nebyla-li žaloba včas podána, platí, že pohledávka přihlášeného věřitele zanikla způsobem uvedeným v rozhodnutí podle odstavce 1. Totéž platí, jestliže insolvenční soud žalobu zamítne, odmítne ji nebo řízení o ní zastaví. Právní mocí rozhodnutí, kterým insolvenční soud žalobě vyhoví, se účast přihlášeného věřitele v insolvenčním řízení obnovuje. Žaloba se projednává jako incidenční spor.
+>
+
+### Přehled výkladu
+
+- § 186 řeší stav, kdy přihlášená pohledávka byla v průběhu řízení uspokojena nebo zanikla jinak, avšak věřitel přihlášku bez zbytečného odkladu nevzal zpět.
+- Rozhodnutí podle odstavce 1 ukončuje účast věřitele a musí určit a odůvodnit konkrétní důvod zániku; opravný prostředek proti němu zákon nepřipouští.
+- Obranu poskytuje žaloba proti insolvenčnímu správci do 30 dnů od doručení rozhodnutí. Včasnost vyžaduje, aby žaloba nejpozději poslední den lhůty došla soudu.
+- Plnění ručitele, spoludlužníka nebo poskytovatele zajištění nelze bez dalšího uzavřít pouhým ukončením účasti původního věřitele: je třeba respektovat možnost procesního nástupnictví podle § 183 odst. 3 a postup podle § 184 odst. 2 a 3.
+- Podle § 187 se postup použije obdobně i na část přihlášené pohledávky.
+
+### Souvisící ustanovení
+
+- § 18 a § 19 — procesní nástupnictví na straně přihlášeného věřitele,
+- § 183 odst. 1 až 3 — plnění zajišťovatelů, solidárních dlužníků a ručitelů a jejich vstup do řízení,
+- § 184 odst. 2 a 3 — zpětvzetí po plnění třetí osoby a ochrana jejího návrhu na vstup,
+- § 185 — odmítnutí přihlášky při zákonném nepřihlížení,
+- § 187 — obdobný postup pro část pohledávky,
+- § 159 odst. 1 písm. a) a § 160 až 163 — incidenční spor a jeho projednání.
+
+### Souvisící předpisy
+
+- § 57 odst. 1 až 3 občanského soudního řádu — běh a zachování procesních lhůt; § 186 odst. 2 však sám stanoví, že žaloba musí poslední den lhůty dojít soudu.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, ve zvláštní části k § 186 vysvětlil, že ustanovení reaguje na setrvání věřitele po zániku zjištěné pohledávky. Rozhodnutí o ukončení účasti označil za procesní a konečné posouzení existence pohledávky vyhradil určovací žalobě ve stanovené propadné lhůtě. Jako příklad uvedl uspokojení pohledávky ručitelem. Tento příklad je nutné číst spolu s dnešními § 183 odst. 3 a § 184 odst. 2 a 3, které chrání vstup plnivší osoby do řízení.
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Toto odložení není výsledkem negativní literární rešerše.
+
+### Výklad
+
+[1] **Předpoklady postupu.** § 186 odst. 1 předpokládá, že pohledávka přihlášeného věřitele byla v průběhu insolvenčního řízení uspokojena nebo zanikla jiným způsobem a věřitel přihlášku bez zbytečného odkladu nevzal zpět. Nestačí pochybnost o existenci pohledávky ani důvod, pro který se k přihlášce podle jiné normy nepřihlíží; posledně uvedenou situaci upravuje § 185.
+
+[2] **Absolutní a relativní zánik.** Zánik „jiným způsobem“ zahrnuje nejen absolutní zánik pohledávky, například započtením, ale podle Nejvyššího soudu také relativní zánik na straně dosavadního věřitele, stala-li se věřitelem jiná osoba a procesní nástupnictví nebylo uskutečněno. Soud proto musí přesně určit, jaká skutečnost nastala, v jakém rozsahu a proč má právě vůči dosavadnímu přihlášenému věřiteli účinek předpokládaný § 186.
+
+[3] **Plnění ručitele a jiných třetích osob.** Uspokojení přihlášeného věřitele ručitelem, spoludlužníkem nebo osobou poskytující zajištění může současně založit právo plnivší osoby domáhat se pohledávky v řízení místo něj podle § 183 odst. 3. Při zpětvzetí musí soud dodržet § 184 odst. 2 a 3. Ukončení účasti původního věřitele proto nesmí eliminovat procesní postavení osoby, která prokáže plnění a splní podmínky vstupu; v rozsahu jejího vstupu pokračuje řízení s ní a stav přezkoumání pohledávky se nemění.
+
+[4] **Rozhodnutí podle odstavce 1.** Rozhodnutí musí být odůvodněno co do konkrétního důvodu zániku pohledávky. Zákon proti němu nepřipouští opravné prostředky. Tím však nevzniká bez možnosti soudního přezkumu konečný meritorní závěr o neexistenci pohledávky; ochranu poskytuje zvláštní žaloba podle odstavce 2.
+
+[5] **Žaloba a lhůta.** Aktivně legitimován je přihlášený věřitel, jehož účast byla ukončena a který tvrdí, že pohledávka nebyla uspokojena ani jinak nezanikla. Žalovaným je insolvenční správce. Žaloba se podává u insolvenčního soudu do 30 dnů od doručení rozhodnutí podle odstavce 1 a lhůta je zachována jen tehdy, dojde-li žaloba nejpozději posledního dne soudu. Jde o incidenční spor.
+
+[6] **Následky sporu.** Nebyla-li žaloba včas podána, platí, že pohledávka zanikla způsobem uvedeným v rozhodnutí podle odstavce 1. Stejnou fikci zákon spojuje se zamítnutím či odmítnutím žaloby nebo se zastavením řízení. Vyhovující rozhodnutí naopak právní mocí obnovuje účast přihlášeného věřitele v insolvenčním řízení.
+
+[7] **Částečný rozsah.** Podle § 187 platí postup obdobně pro část přihlášené pohledávky. Rozhodnutí i případná žaloba proto musí určit rozsah, v němž mělo dojít k uspokojení nebo jinému zániku; nedotčená část pohledávky zůstává v řízení.
+
+[8] **Novelizace a intertemporalita.** Zákon č. 31/2019 Sb. změnil s účinností od 1. 6. 2019 znění § 186 odst. 1, zejména vypustil pravidlo o zvláštním doručování obsažené přímo v tomto ustanovení a soustředil odůvodnění na důvod zániku. Podle jeho přechodného ustanovení se dosavadní znění použije v insolvenčních řízeních, která byla před účinností novely zahájena a současně v nich již bylo vydáno rozhodnutí o úpadku. U starších věcí je proto nutné ověřit obě data. Rozsudek 29 ICdo 7/2020 posuzoval procesní nástupnictví podle znění účinného do 31. 12. 2013; jeho závěr o funkci § 186 je pro aktuální úpravu použitelný, protože rozhodné znaky uspokojení či jiného zániku a absence procesního nástupnictví zůstaly zachovány.
+
+### Judikatura
+
+**Nejvyšší soud, rozsudek ze dne 28. 2. 2022, sen. zn. 29 ICdo 7/2020, ECLI:CZ:NS:2022:29.ICDO.7.2020.1, R 9/2023.** V insolvenčním řízení vedeném na majetek osobního dlužníka vstoupila po plnění z bankovní záruky do řízení záruční banka místo původního úvěrového věřitele; spor se týkal zachování zjištěného pořadí pohledávky. Nejvyšší soud v odstavcích 24 až 33 odůvodnění vyložil, že § 186 odst. 1 řeší stav, kdy původní věřitel pohledávku hmotněprávně pozbyl, ale nebylo provedeno procesní nástupnictví. „Jiný způsob“ zániku zahrnuje absolutní zánik, například započtením, i relativní zánik na straně původního věřitele. Prokáže-li však osoba uvedená v § 183 odst. 3 své plnění a vstoupí podle § 18 do řízení, stav přezkoumání pohledávky se nemění; zjištěnou pohledávku nelze jen kvůli této změně znovu přezkoumat. Rozhodnutí aplikovalo § 18, § 19 a § 183 ve znění do 31. 12. 2013; uvedené rozlišení je použitelné i po pozdějších novelách v rozsahu popsaném v marginálním čísle [8].
+
+Další rozhodnutí nebylo do uzavřeného pramenného ledgeru zařazeno. Tím se nevyslovuje závěr, že další relevantní judikatura neexistuje.
+
+---
+
 ## § 188 — Přezkum přihlášek správcem — **PRVNÍ FILTR**
 
 > (1) Insolvenční správce přezkoumá podané přihlášky pohledávek **zejména podle přiložených dokladů a podle účetnictví dlužníka** nebo jeho evidence vedené podle zvláštního právního předpisu. Dále vyzve dlužníka, aby se k přihlášeným pohledávkám vyjádřil. Je-li to třeba, provede o pohledávkách nezbytná šetření s tím, že využije součinnosti orgánů, které mu ji jsou povinny poskytnout.

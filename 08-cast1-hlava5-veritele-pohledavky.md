@@ -2336,56 +2336,73 @@ Při této revizi nebylo jako pramen materiálního právního závěru použito
 
 ## § 200 — Popření přihlášeným věřitelem
 
-> (1) Věřitel je oprávněn **písemně popřít** pohledávku jiného věřitele. Popření pohledávky musí mít stejné náležitosti jako žaloba podle občanského soudního řádu a musí z něj být patrno, zda se popírá pravost, výše nebo pořadí pohledávky. Popření pohledávky lze učinit pouze na formuláři, jehož náležitosti stanoví prováděcí právní předpis.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Věřitel je oprávněn písemně popřít pohledávku jiného věřitele. Popření pohledávky musí mít stejné náležitosti jako žaloba podle občanského soudního řádu a musí z něj být patrno, zda se popírá pravost, výše nebo pořadí pohledávky. Popření pohledávky lze učinit pouze na formuláři, jehož náležitosti stanoví prováděcí právní předpis.
 >
-> (2) K popření pohledávky přihlášeným věřitelem se přihlíží, jen obsahuje-li podání všechny náležitosti a je-li doručeno insolvenčnímu soudu **nejpozději 3 pracovní dny přede dnem konání přezkumného jednání** o popřené pohledávce a, je-li způsobem řešení úpadku oddlužení, nejpozději do 10 dnů po uplynutí lhůty k přihlašování pohledávek; v případě řešení úpadku oddlužením lhůta neskončí dříve než 7 dní ode dne zveřejnění přihlášky pohledávky v insolvenčním rejstříku. V případě postupu podle věty první se § 43 občanského soudního řádu nepoužije. Po uplynutí této lhůty již nelze měnit uplatněný důvod popření. K popření pohledávky učiněnému ve formě, která v době konání přezkumného jednání o popřené pohledávce vyžaduje jeho písemné doplnění, předložení jeho originálu, případně předložení písemného podání shodného znění, se nepřihlíží.
-> (5) Jestliže insolvenční soud popření pohledávky neodmítne, **považuje se podání, jímž přihlášený věřitel popřel pohledávku, od rozhodnutí o způsobu řešení úpadku**, nejdříve však po uplynutí 10 dnů od skončení přezkumného jednání a, je-li způsobem řešení úpadku oddlužení, po schválení zprávy o přezkumu, **za žalobu, kterou tento věřitel uplatnil u insolvenčního soudu své popření vůči věřiteli**, který pohledávku přihlásil.
+> (2) K popření pohledávky přihlášeným věřitelem se přihlíží, jen obsahuje-li podání všechny náležitosti a je-li doručeno insolvenčnímu soudu nejpozději 3 pracovní dny přede dnem konání přezkumného jednání o popřené pohledávce a, je-li způsobem řešení úpadku oddlužení, nejpozději do 10 dnů po uplynutí lhůty k přihlašování pohledávek; v případě řešení úpadku oddlužením lhůta neskončí dříve než 7 dní ode dne zveřejnění přihlášky pohledávky v insolvenčním rejstříku. V případě postupu podle věty první se § 43 občanského soudního řádu nepoužije. Po uplynutí této lhůty již nelze měnit uplatněný důvod popření. K popření pohledávky učiněnému ve formě, která v době konání přezkumného jednání o popřené pohledávce vyžaduje jeho písemné doplnění, předložení jeho originálu, případně předložení písemného podání shodného znění, se nepřihlíží.
+>
+> (3) Dospěje-li insolvenční soud k závěru, že k popření pohledávky přihlášeným věřitelem se nepřihlíží, odmítne je rozhodnutím, které může vydat jen do skončení přezkumného jednání o popřené pohledávce nebo nejpozději v rozhodnutí podle § 410.
+>
+> (4) Osobou oprávněnou k podání odvolání proti rozhodnutí podle odstavce 1 je pouze věřitel, který popřel pohledávku.
+>
+> (5) Jestliže insolvenční soud popření pohledávky neodmítne, považuje se podání, jímž přihlášený věřitel popřel pohledávku, od rozhodnutí o způsobu řešení úpadku, nejdříve však po uplynutí 10 dnů od skončení přezkumného jednání a, je-li způsobem řešení úpadku oddlužení, po schválení zprávy o přezkumu, za žalobu, kterou tento věřitel uplatnil u insolvenčního soudu své popření vůči věřiteli, který pohledávku přihlásil.
+>
+> (6) Jako důvod popření pravosti nebo výše vykonatelné pohledávky přiznané pravomocným rozhodnutím příslušného orgánu lze uplatnit jen skutečnosti, které nebyly uplatněny dlužníkem v řízení, které předcházelo vydání tohoto rozhodnutí; důvodem popření však nemůže být jiné právní posouzení věci.
+
+### Přehled výkladu
+
+Přihlášený věřitel může popřít pravost, výši nebo pořadí pohledávky jiného věřitele jen kvalifikovaným formulářovým podáním. Zákon váže projednání na úplnost a včasné doručení, koncentruje důvod popření a při splnění podmínek mění popěrný úkon přímo ze zákona v incidenční žalobu.
+
+### Souvisící ustanovení
+
+§ 7, § 16, § 51 odst. 3, § 159 odst. 1 písm. a), § 160, § 192 až 196, § 201, § 202, § 410 a § 431 insolvenčního zákona.
+
+### Souvisící předpisy
+
+§ 42, § 43 a § 79 zákona č. 99/1963 Sb., občanský soudní řád; § 10 vyhlášky č. 191/2017 Sb., o náležitostech podání a formulářů elektronických podání v insolvenčním řízení.
+
+### Z důvodové zprávy
+
+Důvodová zpráva k původnímu insolvenčnímu zákonu komentuje tehdejší § 200, který upravoval popření dlužníkem, a proto není pramenem výkladu dnešního věřitelského popření. Nynější koncepci zavedl zákon č. 69/2011 Sb. v reakci na nález Pl. ÚS 14/10. Zvláštní část důvodové zprávy k vládnímu návrhu tohoto zákona (sněmovní tisk 233/0) nebyla v tomto kole použita pro žádný samostatný materiální závěr, protože nebyl k jednotce uložen její ověřený úplný oficiální snapshot s přesným lokátorem.
+
+### Literatura
+
+Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; je rozhodnutím editora odložena do druhého kola.
 
 ### Výklad
 
-**Věřitel může popírat jiné věřitele** — *významná kontrola*. Pravidla:
-- *písemně, na formuláři*,
-- *do 3 pracovních dnů před přezkumem* (10 dnů po lhůtě v oddlužení),
-- popření *má náležitosti žaloby*,
-- *koncentrace*: nelze měnit důvod popření po lhůtě.
+[1] **Oprávněná osoba a předmět.** Popěrné právo náleží přihlášenému věřiteli a směřuje proti pohledávce jiného věřitele. Druh popření musí být označen jako pravost, výše nebo pořadí; jeho věcný obsah určují § 193 až 195.
 
-**Automatická transformace v žalobu** (odst. 5) — věřitelovo popření se *automaticky stává žalobou* k incidenčnímu sporu (od rozhodnutí o způsobu řešení).
+[2] **Forma a obsah.** Popření musí být písemné, na předepsaném formuláři, mít náležitosti žaloby a obsahovat údaje vyžadované § 10 vyhlášky č. 191/2017 Sb. U popření výše musí být uvedena skutečná výše a u popření pořadí pořadí požadované popírajícím věřitelem.
 
-### F. Kazuistika
+[3] **Lhůty.** Mimo oddlužení musí podání dojít insolvenčnímu soudu nejpozději tři pracovní dny před přezkumným jednáním o popírané pohledávce. Při oddlužení platí zvláštní nejzazší mez deseti dnů po uplynutí přihlašovací lhůty; tato lhůta současně neskončí dříve než sedm dní od zveřejnění přihlášky v insolvenčním rejstříku.
 
-**1. Modelová situace.** V insolvenčním řízení dlužníka D popře přihlášený věřitel V1 pohledávku konkurujícího věřitele V2 ve výši 2 mil. Kč (tvrdí, že je fiktivní). V1 podá popření na předepsaném formuláři se všemi náležitostmi žaloby, doručené insolvenčnímu soudu 2 pracovní dny před přezkumným jednáním o této pohledávce; způsob řešení úpadku (konkurs) byl rozhodnut spolu s úpadkem. Po skončení přezkumu V1 chce ještě doplnit nový důvod popření. Důkazy: formulářové popření V1 s náležitostmi žaloby, doklad o datu doručení soudu, přihláška a doklady V2, rozhodnutí o způsobu řešení úpadku.
+[4] **Vady a koncentrace.** § 43 o. s. ř. se nepoužije. Po uplynutí rozhodné lhůty nelze měnit uplatněný důvod popření a zákon nepřihlíží ani k podání, jehož zvolená forma by v době přezkumného jednání ještě vyžadovala písemné doplnění, originál nebo podání shodného znění.
 
-**2. Právní otázka.** Za jakých formálních a lhůtních podmínek se přihlíží k popření pohledávky jiného věřitele, jaké náležitosti musí popření mít, lze měnit důvod popření a jaký je procesní osud takového popření po rozhodnutí o způsobu řešení úpadku?
+[5] **Rozhodnutí soudu.** Dospěje-li soud k závěru, že se k popření nepřihlíží, odmítne je v časové mezi stanovené odstavcem 3. Odvolání může podat pouze popírající věřitel. Odkaz odstavce 4 na „rozhodnutí podle odstavce 1“ je citován přesně podle vyhlášeného aktuálního znění; systematicky jde o rozhodnutí o odmítnutí upravené v odstavci 3.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 200 odst. 1 (věřitel může písemně popřít pohledávku jiného věřitele; popření má náležitosti žaloby dle o. s. ř., musí být patrno, zda se popírá pravost, výše či pořadí; jen na formuláři), odst. 2 (přihlíží se, jen má-li všechny náležitosti a je-li doručeno soudu nejpozději 3 pracovní dny před přezkumným jednáním, v oddlužení do 10 dnů po přihlašovací lhůtě s pojistkou 7 dnů; po lhůtě nelze měnit důvod popření; § 43 o. s. ř. se nepoužije), odst. 5 (neodmítne-li soud popření, považuje se podání za žalobu od rozhodnutí o způsobu řešení úpadku, nejdříve po uplynutí 10 dnů od skončení přezkumu, v oddlužení po schválení zprávy o přezkumu).
-- *Související ustanovení téhož zákona:* § 192 (věřitel jako popírač), § 198–199 (incidenční spory), § 201 (zjištění), § 202 (jistota popírače 10 000 Kč a náklady), § 410 (oddlužení).
-- *Související předpisy:* o. s. ř. — náležitosti žaloby (§ 79), § 43 (jehož aplikace je vyloučena); prováděcí vyhláška k formuláři popření.
-- *Judikatura:* nosný závěr, že popření věřitele je kvalifikovaný úkon s účinky žaloby; neúplné nebo opožděné popření je bez účinku, neboť postup dle § 43 o. s. ř. (výzva k odstranění vad) je vyloučen.
+[6] **Transformace v žalobu.** Neodmítnuté popření se ze zákona považuje za žalobu proti věřiteli popřené pohledávky, jakmile nastane rozhodnutí o způsobu řešení úpadku, nejdříve však po deseti dnech od skončení přezkumného jednání; v oddlužení až po schválení zprávy o přezkumu.
 
-**4. Subsumpce.** V1 popřel pohledávku V2 na formuláři, s náležitostmi žaloby a uvedl, že popírá pravost → splněny obsahové náležitosti (§ 200 odst. 1). Popření bylo doručeno soudu 2 pracovní dny před přezkumem → zmeškána lhůta „nejpozději 3 pracovní dny předem" (§ 200 odst. 2) → k popření se nepřihlíží a § 43 o. s. ř. se neuplatní (nelze vyzývat k nápravě). Změna důvodu po lhůtě je vyloučena. Pokud by lhůta byla dodržena a soud popření neodmítl, považovalo by se od rozhodnutí o způsobu řešení úpadku (zde konkurs, rozhodnut s úpadkem; nejdříve však po 10 dnech od skončení přezkumu) za žalobu V1 proti V2.
+[7] **Vykonatelná pohledávka.** U pravosti nebo výše vykonatelné pohledávky přiznané pravomocným rozhodnutím lze uplatnit jen skutečnosti, které dlužník neuplatnil v předcházejícím řízení. Pouhé jiné právní posouzení věci důvodem popření být nemůže. Odstavec 6 tuto zvláštní mez nestanoví pro popření pořadí.
 
-**5. Řešení.** Pro účinné popření jiného věřitele je nutné kumulativně: formulář, náležitosti žaloby, identifikace druhu popření a včasné doručení soudu (3 pracovní dny před přezkumem, resp. lhůty v oddlužení). Při zmeškání lhůty (jako u V1) se k popření nepřihlíží bez možnosti zhojení. Je-li popření účinné, transformuje se ze zákona v žalobu k incidenčnímu sporu; popírající věřitel musí počítat s jistotou 10 000 Kč dle § 202.
+[8] **Jistota.** Transformací popření procesní povinnosti nekončí. § 202 odst. 3 až 6 upravuje jistotu 10 000 Kč na náklady incidenčního sporu, možnost další jistoty a zákonné výjimky. Nesložení jistoty vede za podmínek § 202 odst. 5 k odmítnutí žaloby.
 
-**6. Varianty.** (a) Kdyby V1 doručil popření soudu 4 pracovní dny před přezkumem se všemi náležitostmi, k popření by se přihlíželo a po rozhodnutí o způsobu řešení úpadku by se stalo žalobou. (b) V oddlužení by se lhůta posuzovala dle § 200 odst. 2 věty s odkazem na 10 dnů po přihlašovací lhůtě (s pojistkou 7 dnů od zveřejnění přihlášky), a účinky žaloby by nastaly po schválení zprávy o přezkumu.
+[9] **Intertemporalita.** Věřitelské popěrné právo v této koncepci zavedl zákon č. 69/2011 Sb. s účinností od 31. března 2011. Dnešní zvláštní pravidla oddlužení vycházejí z pozdějších novel; v řízení s dřívějším rozhodným procesním okamžikem je nutné ověřit tehdy účinné znění a přechodná ustanovení.
 
-### G. Protiargumenty a rizika
+### Praktický checklist
 
-- *Protiargument:* „Vady popření věřitele lze odstranit na výzvu soudu jako u běžné žaloby." — Neutralizace: § 200 odst. 2 výslovně vylučuje § 43 o. s. ř.; neúplné nebo opožděné popření je bez účinku a nelze je dodatečně zhojit.
-- *Protiargument:* „Důvod popření lze upřesňovat i v incidenčním sporu." — Neutralizace: po uplynutí lhůty dle § 200 odst. 2 nelze měnit uplatněný důvod popření; popírající věřitel je jím vázán.
-- *Slabé místo:* sporné bývá včasné a řádné doručení soudu a úplnost náležitostí žaloby; popírající věřitel nese náklady a jistotu (§ 202) a riziko odmítnutí žaloby při nesložení jistoty.
+- [ ] Ověřit aktivní účast popírajícího věřitele a přesně určit popíranou pohledávku.
+- [ ] Použít aktuální formulář a uvést všechny žalobní i formulářové náležitosti.
+- [ ] Spočítat správnou obecnou nebo oddlužovací lhůtu a zajistit včasné doručení soudu.
+- [ ] Úplně vymezit důvod popření před uplynutím lhůty; nespoléhat na výzvu podle § 43 o. s. ř.
+- [ ] Po transformaci v žalobu samostatně prověřit jistoty a výjimky podle § 202.
 
-### H. Praktický závěr
+### Judikatura
 
-§ 200 dává přihlášenému věřiteli nástroj kontroly konkurenčních pohledávek: popření musí být na formuláři, s náležitostmi žaloby, s vyznačením druhu popření a včas doručené soudu; vady se neodstraňují (§ 43 o. s. ř. vyloučen) a účinné popření se mění v žalobu od rozhodnutí o způsobu řešení úpadku.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Podat popření jiného věřitele na předepsaném formuláři s náležitostmi žaloby a jasným druhem popření (pravost/výše/pořadí).
-- [ ] Doručit popření soudu včas (3 pracovní dny před přezkumem; v oddlužení dle § 200 odst. 2) — opožděné je bez účinku.
-- [ ] Nepočítat s výzvou k odstranění vad (§ 43 o. s. ř. vyloučen) a po lhůtě neměnit důvod popření.
-- [ ] Zohlednit transformaci popření v žalobu (odst. 5) a povinnost složit jistotu 10 000 Kč (§ 202).
-
-**Typicky rozhodné důkazy / podklady:** formulářové popření s náležitostmi žaloby, doklad o datu doručení soudu, přihláška a doklady popírané pohledávky, rozhodnutí o způsobu řešení úpadku, doklad o složení jistoty.
+Při této revizi nebylo jako pramen materiálního právního závěru použito žádné soudní rozhodnutí. Usnesení Nejvyššího soudu sen. zn. 29 ICdo 26/2014 bylo prověřeno jako relevantní k jistotě podle § 202, nebylo však zařazeno, protože se pro ně nepodařilo uložit fyzický oficiální snapshot do pramenného adresáře jednotky. Tím se nevyslovuje negativní závěr o existenci další relevantní judikatury.
 
 ---
 

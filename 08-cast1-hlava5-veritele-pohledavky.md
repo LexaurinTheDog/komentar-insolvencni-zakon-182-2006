@@ -2544,63 +2544,66 @@ Při této revizi nebylo jako pramen materiálního právního závěru použito
 
 ## § 203 — Uplatňování pohledávek za podstatou
 
-> (1) Není-li dále stanoveno jinak, pohledávky za majetkovou podstatou a pohledávky jim postavené na roveň **se uplatňují písemně vůči osobě s dispozičními oprávněními**. O uplatnění takové pohledávky věřitel současně vždy vyrozumí insolvenčního správce; náležitosti tohoto vyrozumění stanoví prováděcí právní předpis.
-> (2) Neuplatní-li dlužníkův zaměstnanec pracovněprávní pohledávku uvedenou v § 169 odst. 1 písm. a) v jiné výši, pokládá se jeho pohledávka za uplatněnou ve výši vyplývající z účetnictví dlužníka nebo z evidence vedené podle zvláštního právního předpisu.
-> (3) Osoba s dispozičními oprávněními uspokojí pohledávky podle odstavce 1 z majetkové podstaty.
-> (4) Neuspokojí-li osoba s dispozičními oprávněními pohledávky podle odstavce 1 v plné výši a včas, může se věřitel domáhat jejich splnění **žalobou** podanou proti osobě s dispozičními oprávněními; nejde o incidenční spor. Náklady, které v tomto sporu vznikly insolvenčnímu správci, se hradí z majetkové podstaty, pokud nevznikly zaviněním insolvenčního správce nebo náhodou, která se mu přihodila.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Není-li dále stanoveno jinak, pohledávky za majetkovou podstatou a pohledávky jim postavené na roveň se uplatňují písemně vůči osobě s dispozičními oprávněními. O uplatnění takové pohledávky věřitel současně vždy vyrozumí insolvenčního správce; náležitosti tohoto vyrozumění stanoví prováděcí právní předpis.
 >
-> (5) Po právní moci rozhodnutí o žalobě podle odstavce 4 určí lhůtu k uspokojení přisouzené pohledávky a jejího příslušenství svým rozhodnutím **insolvenční soud**; současně rozhodne, která část majetkové podstaty může být použita k uspokojení. Učiní tak jen na návrh oprávněné osoby nebo osoby s dispozičními oprávněními. Proti rozhodnutí podle věty první není odvolání přípustné.
+> (2) Neuplatní-li dlužníkův zaměstnanec pracovněprávní pohledávku uvedenou v § 169 odst. 1 písm. a) v jiné výši, pokládá se jeho pohledávka za uplatněnou ve výši vyplývající z účetnictví dlužníka nebo z evidence vedené podle zvláštního právního předpisu13).
+>
+> (3) Osoba s dispozičními oprávněními uspokojí pohledávky podle odstavce 1 z majetkové podstaty.
+>
+> (4) Neuspokojí-li osoba s dispozičními oprávněními pohledávky podle odstavce 1 v plné výši a včas, může se věřitel domáhat jejich splnění žalobou podanou proti osobě s dispozičními oprávněními; nejde o incidenční spor. Náklady, které v tomto sporu vznikly insolvenčnímu správci, se hradí z majetkové podstaty, pokud nevznikly zaviněním insolvenčního správce nebo náhodou, která se mu přihodila.
+>
+> (5) Po právní moci rozhodnutí o žalobě podle odstavce 4 určí lhůtu k uspokojení přisouzené pohledávky a jejího příslušenství svým rozhodnutím insolvenční soud; současně rozhodne, která část majetkové podstaty může být použita k uspokojení. Učiní tak jen na návrh oprávněné osoby nebo osoby s dispozičními oprávněními. Proti rozhodnutí podle věty první není odvolání přípustné.
 
-### Výklad — **NEMUSÍ SE PŘIHLAŠOVAT**
+### Přehled výkladu
 
-**Pohledávky za podstatou a postavené na roveň** se **nepřihlašují**, ale **uplatňují písemně vůči správci** (resp. dlužníkovi s dispozičními oprávněními). Vyrozumění správce vždy.
+§ 203 upravuje způsob uplatnění a vymáhání pohledávek, které již musí mít konkrétní zákonný titul pohledávky za majetkovou podstatou nebo pohledávky jí postavené na roveň. Samotná okolnost, že pohledávka nebo plnění vznikly po rozhodnutí o úpadku či po prohlášení konkursu, takový titul nevytváří. Zákon rozlišuje písemné uplatnění vůči osobě s dispozičními oprávněními, vyrozumění insolvenčního správce, zvláštní režim zaměstnaneckých pohledávek a žalobu na plnění při neuspokojení.
 
-**Speciálka pro mzdy** (odst. 2) — *automaticky uplatněna ve výši dle účetnictví*. Zaměstnanec nemusí nic dělat — správce sám zjistí ze mzdové agendy.
+### Souvisící ustanovení
 
-**Spor o neuhrazenou pohledávku** (odst. 4) — *žaloba* (běžné civilní řízení, *není IS*). Vůči osobě s dispozičními oprávněními (typicky správce v konkursu).
+- § 109 odst. 1 písm. c) — podmínky výkonu rozhodnutí nebo exekuce postihující majetkovou podstatu.
+- § 165 odst. 2 a 3, § 168 a § 169 — jiné uplatnění a zákonné kategorie dotčených pohledávek.
+- § 203a — incidenční spor o pořadí při pochybnosti o zařazení pohledávky.
+- § 229 — určení osoby s dispozičními oprávněními.
+- § 431 písm. a) — zmocnění k prováděcí úpravě vyrozumění.
 
-**Soud rozhodne o exekuovatelnosti z podstaty** (odst. 5) — po pravomocném rozsudku soud určí *lhůtu pro uspokojení* a *která část podstaty* může být použita. **Bez odvolání**.
+### Souvisící předpisy
 
-### Vazby
+- Vyhláška č. 191/2017 Sb., zejména § 11 — náležitosti vyrozumění a jeho přílohy.
+- Zákon č. 99/1963 Sb., občanský soudní řád — obecný procesní režim žaloby na plnění a případného výkonu rozhodnutí, nestanoví-li insolvenční zákon jinak.
 
-- **§ 168, § 169** — kategorie pohledávek.
-- **§ 109 odst. 1 písm. c)** — exekuce za podstatou.
+### Z důvodové zprávy
 
-### F. Kazuistika
+Oficiální důvodová zpráva k vládnímu návrhu insolvenčního zákona, sněmovní tisk 1120/0, zvláštní část „K § 203–204“ na číslované straně 202 (PDF strana 202), vysvětluje odklon od přihlašování těchto pohledávek, zvláštní postavení pracovněprávních nároků a doplnění řešení pro případ, že správce pohledávku neproplatí. Jde o vysvětlení původního návrhu; aktuální postup se řídí zněním účinným k 19. 7. 2026.
 
-**1. Modelová situace.** V konkursu dlužníka D má dodavatel V pohledávku 300 000 Kč za plnění poskytnuté po prohlášení konkursu (pohledávka za majetkovou podstatou). V ji neuplatní přihláškou, ale písemně vůči insolvenčnímu správci S (osobě s dispozičními oprávněními) a současně vyrozumí správce předepsaným způsobem. Zároveň dlužníkův zaměstnanec Z má mzdový nárok za dobu po úpadku, který neuplatní v jiné výši. Správce S pohledávku V neuhradí v plné výši a včas. Důkazy: doklad o uplatnění vůči osobě s dispozičními oprávněními a vyrozumění správce, smlouva a doklad o plnění V, mzdová evidence k nároku Z.
+### Literatura
 
-**2. Právní otázka.** Jakým způsobem se uplatňují pohledávky za majetkovou podstatou a pohledávky jim postavené na roveň, jak se nakládá s mzdovými nároky zaměstnanců a jaké jsou prostředky obrany věřitele, není-li jeho pohledávka uspokojena včas a v plné výši?
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento oddíl nepředstavuje negativní rešerši.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 203 odst. 1 (uplatnění písemně vůči osobě s dispozičními oprávněními, s vyrozuměním správce), odst. 2 (mzdový nárok dle § 169 odst. 1 písm. a) se pokládá za uplatněný ve výši dle účetnictví, neuplatní-li zaměstnanec jinak), odst. 3 (osoba s dispozičními oprávněními uspokojí pohledávky z podstaty), odst. 4 (při neuspokojení žaloba proti osobě s dispozičními oprávněními — nejde o incidenční spor), odst. 5 (po pravomocném rozhodnutí o žalobě určí insolvenční soud lhůtu a část podstaty k uspokojení; bez odvolání).
-- *Související ustanovení téhož zákona:* § 168 a § 169 (kategorie pohledávek za podstatou a na roveň postavených), § 203a (pochybnosti o pořadí), § 109 odst. 1 písm. c) (exekuce za podstatou), § 229 (osoba s dispozičními oprávněními).
-- *Související předpisy:* zákoník práce a zákon o účetnictví (mzdové nároky a jejich evidence); o. s. ř. — běžná žaloba na plnění; prováděcí vyhláška k vyrozumění správce.
-- *Judikatura:* nosný závěr, že pohledávky za podstatou se neuplatňují přihláškou a spor o jejich úhradu není incidenčním sporem, nýbrž běžným nalézacím řízením proti osobě s dispozičními oprávněními.
+### Výklad
 
-**4. Subsumpce.** Pohledávka V vznikla po prohlášení konkursu jako pohledávka za podstatou → neuplatňuje se přihláškou, ale písemně vůči osobě s dispozičními oprávněními s vyrozuměním správce (§ 203 odst. 1) — V postupoval správně. Mzdový nárok Z dle § 169 odst. 1 písm. a), neuplatněný v jiné výši, se pokládá za uplatněný ve výši dle účetnictví (§ 203 odst. 2). Správce neuspokojil V včas a v plné výši → V se může domáhat plnění žalobou proti osobě s dispozičními oprávněními, jež není incidenčním sporem (§ 203 odst. 4).
+[1] **Nejdříve kvalifikace, potom způsob uplatnění.** § 203 neurčuje, které pohledávky jsou pohledávkami za majetkovou podstatou nebo jim postavenými na roveň. To plyne zejména z § 168 a § 169 nebo z jiného výslovného ustanovení zákona. Čas vzniku či poskytnutí plnění je jen jedním ze znaků některých titulů; například u dodavatelské pohledávky po rozhodnutí o úpadku je nutné ověřit i konkrétní titul podle § 168 odst. 2 písm. f), g) nebo h).
 
-**5. Řešení.** V uplatní pohledávku písemně vůči osobě s dispozičními oprávněními a vyrozumí správce; není-li uspokojen, podá běžnou žalobu na plnění (nikoli incidenční) proti osobě s dispozičními oprávněními. Po pravomocném rozsudku navrhne, aby insolvenční soud určil lhůtu k uspokojení a část podstaty, z níž lze pohledávku uspokojit (§ 203 odst. 5); proti tomuto rozhodnutí není odvolání. Nárok Z správce zohlední automaticky z účetnictví.
+[2] **Dva adresáti mohou splývat.** Věřitel pohledávku písemně uplatní vůči osobě s dispozičními oprávněními a současně vyrozumí insolvenčního správce. Je-li osobou s dispozičními oprávněními správce, obě role má táž osoba; v reorganizaci nebo oddlužení však může dispoziční oprávnění vykonávat dlužník, a vyrozumění správce proto zůstává samostatnou povinností.
 
-**6. Varianty.** (a) Vznikne-li pochybnost, zda jde skutečně o pohledávku za podstatou (a nikoli o běžnou nebo vyloučenou), uplatní se režim § 203a (žaloba na určení pořadí, incidenční spor). (b) Kdyby zaměstnanec Z uplatnil mzdový nárok v jiné (vyšší) výši, neaplikovala by se fikce dle § 203 odst. 2 a nárok by se posuzoval v jím tvrzené výši.
+[3] **Obsah vyrozumění.** § 11 vyhlášky č. 191/2017 Sb. vyžaduje mimo jiné identifikaci řízení, osoby s dispozičními oprávněními, věřitele a správce, údaje o důvodu, výši, splatnosti, vykonatelnosti a případném zajištění pohledávky, seznam příloh, datum a podpis; odstavec 2 stanoví požadované přílohy.
 
-### G. Protiargumenty a rizika
+[4] **Pracovněprávní pohledávka.** Neuplatní-li zaměstnanec pohledávku podle § 169 odst. 1 písm. a) v jiné výši, zákon ji pokládá za uplatněnou ve výši plynoucí z účetnictví dlužníka nebo zákonné evidence. Jde o pravidlo o uplatněné výši, nikoli o náhradu posouzení, zda tvrzený nárok skutečně existuje a spadá pod § 169 odst. 1 písm. a).
 
-- *Protiargument:* „Pohledávky za podstatou se přihlašují jako ostatní." — Neutralizace: § 203 odst. 1 stanoví zvláštní režim — uplatňují se písemně vůči osobě s dispozičními oprávněními (s vyrozuměním správce), nikoli přihláškou.
-- *Protiargument:* „Spor o úhradu pohledávky za podstatou je incidenčním sporem." — Neutralizace: § 203 odst. 4 výslovně uvádí, že nejde o incidenční spor; jde o běžné nalézací řízení proti osobě s dispozičními oprávněními.
-- *Slabé místo:* sporné bývá samotné zařazení pohledávky mezi pohledávky za podstatou (řeší § 203a) a okamžik splatnosti/uplatnění; opomenutí vyrozumět správce může zkomplikovat pozdější uplatnění a uspokojení.
+[5] **Uspokojení a žaloba na plnění.** Osoba s dispozičními oprávněními uspokojuje pohledávku z majetkové podstaty. Není-li pohledávka včas a plně uspokojena, věřitel může žalovat tuto osobu na plnění; zákon výslovně stanoví, že nejde o incidenční spor. To je jiná otázka než spor o pořadí podle § 203a, který incidenčním sporem je.
 
-### H. Praktický závěr
+[6] **Krok po pravomocném rozsudku.** Pravomocné rozhodnutí o žalobě podle odstavce 4 samo neurčuje, kterou část podstaty lze použít. Na návrh oprávněné osoby nebo osoby s dispozičními oprávněními o lhůtě k uspokojení a použitelné části podstaty rozhodne insolvenční soud; proti tomuto rozhodnutí není odvolání přípustné. Na toto rozhodnutí navazuje výjimka z omezení výkonu rozhodnutí a exekuce v § 109 odst. 1 písm. c).
 
-§ 203 zavádí pro pohledávky za podstatou a na roveň postavené zvláštní režim mimo přihlášky: uplatňují se písemně vůči osobě s dispozičními oprávněními (s vyrozuměním správce), mzdy se uplatňují fikcí dle účetnictví, a při neuspokojení se věřitel brání běžnou žalobou (nikoli incidenční) s následným určením lhůty a části podstaty soudem.
+[7] **Intertemporální mez.** Výklad vychází ze znění účinného k 19. 7. 2026. U pohledávky nebo procesního úkonu v řízení probíhajícím přes účinnost některé novely je nutné samostatně ověřit znění a přechodná ustanovení rozhodná pro daný úkon; původní důvodová zpráva není dokladem dnešního detailního procesního režimu.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Pohledávku za podstatou uplatnit písemně vůči osobě s dispozičními oprávněními a vyrozumět správce (§ 203 odst. 1) — nepřihlašovat.
-- [ ] U mzdových nároků počítat s fikcí výše dle účetnictví, neuplatní-li zaměstnanec jinak (§ 203 odst. 2).
-- [ ] Při neuspokojení podat běžnou žalobu na plnění proti osobě s dispozičními oprávněními (nejde o incidenční spor, § 203 odst. 4).
-- [ ] Po pravomocném rozsudku navrhnout určení lhůty a části podstaty k uspokojení (§ 203 odst. 5; bez odvolání).
+[8] **Praktická kontrola (autorský výběr).** Před postupem podle § 203 je vhodné doložit konkrétní titul podle § 168, § 169 nebo jiného ustanovení, určit aktuální osobu s dispozičními oprávněními, zachovat důkaz o písemném uplatnění a současném vyrozumění správce včetně příloh a odlišit žalobu na plnění podle odstavce 4 od žaloby na určení pořadí podle § 203a.
 
-**Typicky rozhodné důkazy / podklady:** doklad o písemném uplatnění vůči osobě s dispozičními oprávněními a o vyrozumění správce, smlouvy a doklady o plnění zakládajícím pohledávku za podstatou, mzdová a účetní evidence, pravomocné rozhodnutí o žalobě dle odst. 4.
+### Judikatura
+
+Při této revizi nebylo jako pramen materiálního právního závěru použito žádné soudní rozhodnutí. Dřívější anonymní judikatorní tvrzení bylo odstraněno, protože nebylo spojeno s identifikovaným a v plném textu ověřeným rozhodnutím. Tím se nevyslovuje negativní závěr o existenci další relevantní judikatury.
 
 ---
 

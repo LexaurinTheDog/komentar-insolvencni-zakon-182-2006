@@ -146,82 +146,59 @@ V tomto kole není uváděna judikatura jako nosná opora obecného výkladu § 
 
 ## § 207 — Vyloučený majetek („nedotknutelné minimum")
 
-> (1) Nestanoví-li tento zákon jinak, do majetkové podstaty **nepatří majetek, který nelze postihnout výkonem rozhodnutí nebo exekucí**; věci sloužící k podnikání dlužníka však z majetkové podstaty vyloučeny nejsou.
-> (2) Příjmy dlužníka náleží do majetkové podstaty ve stejném rozsahu, v jakém z nich mohou být při výkonu rozhodnutí nebo při exekuci uspokojeny **přednostní pohledávky**.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Nestanoví-li tento zákon jinak, do majetkové podstaty nepatří majetek, který nelze postihnout výkonem rozhodnutí nebo exekucí28); věci sloužící k podnikání dlužníka však z majetkové podstaty vyloučeny nejsou.
+>
+> (2) Příjmy dlužníka náleží do majetkové podstaty ve stejném rozsahu, v jakém z nich mohou být při výkonu rozhodnutí nebo při exekuci uspokojeny přednostní pohledávky29).
+>
 > (3) Je-li podle ustanovení o výkonu rozhodnutí nebo exekuci posouzení otázky, který majetek nelze postihnout výkonem rozhodnutí nebo exekucí, závislé na rozhodnutí soudu, pro účely insolvenčního řízení vydá takové rozhodnutí insolvenční soud.
 
-### Výklad — **OCHRANA EXISTENČNÍHO MINIMA**
+### Přehled výkladu
 
-#### Princip „co nelze exekvovat, není v podstatě" (odst. 1)
+§ 207 vymezuje majetek, který je přes obecný rozsah majetkové podstaty chráněn. Odstavec 1 přebírá výluky z výkonu rozhodnutí a exekuce, avšak výslovně ruší tuto ochranu u věcí sloužících k podnikání dlužníka. Odstavec 2 určuje rozsah zahrnutí příjmů odkazem na postižitelnost pro přednostní pohledávky. Odstavec 3 svěřuje insolvenčnímu soudu rozhodnutí, vyžaduje-li je odkazovaná procesní úprava.
 
-Aplikace pravidel exekučního práva — **§ 321 — § 322 OSŘ + nařízení vlády č. 595/2006 Sb.**:
-- *věci nezbytné k uspokojení životních potřeb* (oblečení, lůžkoviny, kuchyňské vybavení),
-- *snubní prsteny, věci osobní povahy*,
-- *zdravotní pomůcky*,
-- *věci nezbytné k výkonu povolání* (s omezeními),
-- *zvířata, která nejsou hospodářská* (typicky domácí mazlíčci).
+### Souvisící ustanovení
 
-> **Výjimka — věci sloužící k podnikání DO podstaty patří**! Toto je klíčový rozdíl od osobní exekuce — v insolvenci se zpeněží *všechny věci podniku*. Důvod: cílem insolvence není zachovat dlužníkovu *podnikatelskou existenci*, ale uspokojit věřitele.
+- § 205 a § 206 — rozsah a obsah majetkové podstaty.
+- § 217 odst. 2 — vyřazení majetku ze soupisu, zjistí-li správce, že do podstaty nenáleží.
+- § 226 — návrh dlužníka na vynětí majetku, který do podstaty nepatří podle § 207 nebo § 208.
 
-#### Příjmy — pouze do výše přednostních pohledávek (odst. 2)
+### Souvisící předpisy
 
-**Mzda, důchod, dávky** — do podstaty patří **jen** ve výši, v jaké by mohly být postiženy pro **přednostní pohledávky** (typicky 2/3 z příjmu nad nezabavitelnou částku — viz nař. vl. č. 595/2006 Sb.).
+- Zákon č. 99/1963 Sb., občanský soudní řád, zejména § 276 až 279 a § 299 — rozsah srážek ze mzdy a jiných příjmů.
+- Týž zákon, zejména § 321 a § 322 — věci nepodléhající výkonu rozhodnutí; § 322 odst. 3 chrání za stanovených podmínek věci nezbytně nutné k podnikání, avšak tuto ochranu § 207 odst. 1 věta za středníkem pro majetkovou podstatu nepřebírá.
+- Zákon č. 120/2001 Sb., exekuční řád — exekuční režim, na který § 207 rovněž výslovně odkazuje.
 
-> *Praktický výpočet (přibližně k 2026)*:
-> - *nezabavitelná částka* základní: ~10 800 Kč
-> - *na vyživovanou osobu*: ~2 700 Kč
-> - *přednostní srážka*: z příjmu nad nezabavitelnou částku **až do hranice 1,5× životního minima jednotlivce** může jít 2/3 na přednostní; nad to vše.
+### Z důvodové zprávy
 
-#### Sporné případy (odst. 3)
+Zvláštní část důvodové zprávy rozlišuje výluku hodnot nepostižitelných výkonem rozhodnutí nebo exekucí podle § 207 od výluky majetku pro jeho účelové určení podle § 208. Odmítá další rozšiřování výluk, protože by neúměrně snižovalo možnost uspokojení věřitelů. Jde o vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, zvláštní část „K § 207 a 208“, číslovaná strana 174 (PDF strana 175).
 
-Pokud je v exekučním právu posouzení sporné (typicky věci podstatně sloužící podnikání vs. osobní vybavení), rozhoduje **insolvenční soud**.
+### Literatura
 
-### Vazby
+Odborná literatura je rozhodnutím editora odložena do druhého kola; tento oddíl nepředstavuje negativní rešerši.
 
-- **§ 321 OSŘ a násl.** — vyloučené věci z exekuce.
-- **Nař. vl. č. 595/2006 Sb.** — nezabavitelné částky.
-- **§ 206 písm. i)** — mzdové příjmy do podstaty.
+### Výklad
 
-### Praktická poznámka
+[1] **Základní filtr.** Nejprve je třeba zjistit, zda konkrétní majetek podle aktuální úpravy vůbec nelze postihnout výkonem rozhodnutí nebo exekucí. Nestačí obecná úvaha, že jde o věc potřebnou či osobní; rozhodný je konkrétní zákonný důvod nepostižitelnosti a jeho podmínky.
 
-V praxi jsou *spory o vyloučení věcí pro osobní potřebu* časté zejména v oddlužení — dlužník namítá, že auto / počítač / nářadí je nezbytné, správce tvrdí opak. Soud váží *přiměřenost* (osoba s rodinou potřebuje větší auto než single, řemeslník potřebuje nářadí pro výdělek atd.).
+[2] **Movité věci.** § 322 OSŘ chrání při splnění zákonných podmínek zejména běžné oděvní součásti, obvyklé vybavení domácnosti, studijní a náboženskou literaturu, školní potřeby a dětské hračky, snubní prsten a vyjmenované osobní písemnosti či záznamy, potřebné zdravotnické věci, hotovost v zákonném limitu a zvířata chovaná převážně jako společníci člověka. U obecné klauzule § 322 odst. 1 záleží také na nezbytnosti, počtu a hodnotě odpovídající obvyklým majetkovým poměrům.
 
-### F. Kazuistika
+[3] **Věci sloužící podnikání.** I když § 322 odst. 3 OSŘ za určitých podmínek chrání věci, které podnikatel nezbytně nutně potřebuje k podnikání, § 207 odst. 1 věta za středníkem stanoví pro majetkovou podstatu opačné zvláštní pravidlo: věci sloužící k podnikání dlužníka nejsou z podstaty vyloučeny. Zákon zde nestanoví obecný test „převažujícího užití“; u věci užívané více způsoby je nutné zjistit konkrétní skutkový stav a posoudit podmínky příslušné exekuční výluky i výjimky v § 207.
 
-**1. Modelová situace.** Dlužník — živnostník instalatér s manželkou a dvěma dětmi — má v podstatě sepsanou dodávku (užívá ji k rozvozu materiálu i k rodinné dopravě), sadu profesionálního nářadí, osobní počítač a snubní prsteny. Měsíčně pobírá příjem z živnosti i částečný invalidní důchod. Správce sepsal dodávku i nářadí; dlužník namítá, že jde o věci k podnikání i osobní potřebě. Účastníci: dlužník, manželka, správce, věřitelský výbor. Důkazy: technický průkaz vozidla, doklady o využití k podnikání (knihy jízd, faktury), znalecký posudek na hodnotu nářadí, doklad o výši příjmů a počtu vyživovaných osob.
+[4] **Příjmy.** Příjmy náležejí do podstaty pouze v rozsahu, v němž z nich lze při výkonu rozhodnutí nebo exekuci uspokojit přednostní pohledávky. Výpočet se provádí podle aktuálního znění § 277 až 279 OSŘ a u jiných příjmů také § 299 OSŘ. Nelze jej nahrazovat pevným procentem ani trvalou částkou: závisí na druhu a výši příjmu, nezabavitelné částce, vyživovaných osobách, pravidlech třetin a dalších konkrétních údajích.
 
-**2. Právní otázka.** Patří nářadí a dodávka sloužící podnikání do podstaty navzdory tomu, že běžně by věci k osobní potřebě byly z exekuce vyloučeny? V jakém rozsahu patří do podstaty příjmy dlužníka?
+[5] **Rozhodnutí soudu.** Odstavec 3 nezakládá obecné volné uvážení insolvenčního soudu o každé sporné položce. Uplatní se tehdy, jestliže odkazovaná úprava výkonu rozhodnutí nebo exekuce činí posouzení nepostižitelnosti závislým na rozhodnutí soudu; pro insolvenční řízení je vydá insolvenční soud.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 207 odst. 1 — vyloučen majetek nepostižitelný exekucí, **ale věci sloužící podnikání vyloučeny nejsou**; odst. 2 — příjmy do podstaty v rozsahu uspokojení přednostních pohledávek; odst. 3 — spornou otázku řeší insolvenční soud.
-- *Související ustanovení téhož zákona:* § 206 odst. 1 písm. i) (mzda a obdobné příjmy); § 226 (vynětí na návrh dlužníka pro majetek dle § 207–208); § 398, § 412 (oddlužení).
-- *Související předpisy:* § 321–322 OSŘ (věci vyloučené z exekuce); nař. vlády č. 595/2006 Sb. (nezabavitelné částky); OSŘ § 277–279.
-- *Judikatura:* nosný závěr, že o sporu, zda věc slouží podnikání či osobní potřebě, rozhoduje insolvenční soud podle kritéria přiměřenosti; snubní prsteny a věci osobní povahy jsou z exekuce (a tedy z podstaty) vyloučeny.
+[6] **Soupis a obrana dlužníka.** Zjistí-li insolvenční správce, že sepsaný majetek do podstaty nenáleží, vyřadí jej podle § 217 odst. 2. Dlužník může důvod podle § 207 uplatnit vůči správci návrhem na vynětí podle § 226; toto ustanovení upravuje další postup správce, věřitelského výboru a insolvenčního soudu.
 
-**4. Subsumpce.** Nářadí slouží k podnikání → výslovná výjimka v § 207 odst. 1, do podstaty patří bez ohledu na to, že by řemeslníkovo „nezbytné nářadí" bylo v exekuci chráněno. Dodávka má smíšenou funkci — rozhodující je převažující podnikatelské užití (knihy jízd, faktury); je-li primárně podnikatelská, patří do podstaty. Snubní prsteny = věc osobní povahy → vyloučeny. Příjmy (živnost i důchod) → do podstaty jen v rozsahu pro přednostní pohledávky.
+[7] **Intertemporalita.** Komentář vychází ze stavu práva k 19. 7. 2026. Protože § 207 dynamicky odkazuje na pravidla výkonu rozhodnutí a exekuce, musí se u staršího případu ověřit tehdy rozhodné znění insolvenčního zákona i odkazovaných procesních předpisů; stejně tak se při každém aktuálním výpočtu příjmů musí použít právě účinné parametry.
 
-**5. Řešení.** Nářadí zůstává v soupisu. U dodávky soud (na případnou námitku § 226 nebo spor § 225) posoudí převahu užití; pokud převažuje podnikání, zůstává sepsána. Prsteny správce vyřadí. Příjmy se srážejí jen do výše přednostních pohledávek (nezabavitelná částka chráněna). Procesně: při sporu rozhoduje insolvenční soud (odst. 3).
+### Judikatura
 
-**6. Varianty.** (a) Kdyby dlužník byl zaměstnanec (nikoli podnikatel) a nářadí by bylo jen koníčkem, šlo by o věc osobní potřeby → vyloučení z podstaty. (b) Kdyby dodávka byla prokazatelně užívána výhradně k rodinné dopravě a její hodnota nepřiměřená potřebě, soud by mohl část chránit jako nezbytný dopravní prostředek.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument (dlužník):* „Nářadí je nezbytné k obživě, v exekuci by bylo chráněno." Neutralizace: § 207 odst. 1 věta za středníkem výslovně vylučuje tuto ochranu — cílem insolvence není zachovat podnikatelskou existenci, ale uspokojit věřitele.
-- *Protiargument (správce):* „Celá dodávka patří do podstaty bez ohledu na rodinné využití." Neutralizace: u věci se smíšenou funkcí rozhoduje převažující účel; pokud převažuje osobní/rodinná doprava a věc je přiměřená, ochrana může zůstat — spor řeší soud (odst. 3).
-- *Slabé místo:* hranice „přiměřenosti" je neostrá a kazuistická; chybí jednoznačné měřítko hodnoty vozidla → riziko nejednotného rozhodování. Důkazní břemeno o podnikatelském užití leží fakticky na správci.
-
-### H. Praktický závěr
-
-Z podstaty je vyloučen nezabavitelný majetek (osobní věci, zdravotní pomůcky, snubní prsteny) podle exekučních pravidel — s výjimkou věcí sloužících podnikání, které do podstaty patří vždy. Příjmy patří do podstaty jen v rozsahu, v jakém by z nich byly uspokojeny přednostní pohledávky. Spornou otázku rozhoduje insolvenční soud.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Roztřídit majetek na (a) nezabavitelný osobní, (b) sloužící podnikání, (c) sporný smíšený.
-- [ ] U věcí sloužících podnikání respektovat výjimku — patří do podstaty.
-- [ ] U příjmů spočítat nezabavitelnou částku (nař. vl. 595/2006 Sb.) a srážet jen rozsah pro přednostní pohledávky.
-- [ ] Sporné případy (smíšené užití, přiměřenost) předložit insolvenčnímu soudu (odst. 3).
-- [ ] Vyloučené věci osobní povahy ze soupisu vyřadit (§ 217 odst. 2), event. reagovat na návrh § 226.
-
-**Typicky rozhodné důkazy / podklady:** technický průkaz a knihy jízd, faktury dokládající podnikatelské užití, znalecké ocenění věcí, doklady o výši příjmů a počtu vyživovaných osob, výpočet nezabavitelné částky.
+Výklad této revize není založen na konkrétním soudním rozhodnutí. Dřívější neurčité tvrzení o judikatorním testu převažujícího užití bylo odstraněno, protože k němu nebyl opatřen a ověřen plný text rozhodnutí z oficiálního soudního zdroje.
 
 ---
 

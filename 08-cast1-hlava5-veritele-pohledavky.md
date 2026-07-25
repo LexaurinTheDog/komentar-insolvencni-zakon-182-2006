@@ -2664,55 +2664,61 @@ Při této revizi nebylo jako pramen materiálního právního závěru použito
 
 ## § 204 — Uplatňování zajištěných
 
-> (1) Není-li dále stanoveno jinak, zajištění věřitelé, kteří mají právo, aby jejich pohledávka byla uspokojena v průběhu insolvenčního řízení, **uplatňují její uspokojení vůči insolvenčnímu správci**. Pokud jim insolvenční správce nevyhoví, mohou se nápravy domáhat u insolvenčního soudu v rámci jeho dohlédací činnosti; sporné skutečnosti o tom, zda jde o zajištěné věřitele a zda a v jakém rozsahu trvá zajištěná pohledávka nebo zajištění, **přitom nelze řešit**.
-> (2) Věřitelé, kteří se domáhají toho, aby věc, právo, pohledávka nebo jiná majetková hodnota byla vyloučena z majetkové podstaty, tak mohou činit **jen vylučovací žalobou** podle tohoto zákona.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Není-li dále stanoveno jinak, zajištění věřitelé, kteří mají právo, aby jejich pohledávka byla uspokojena v průběhu insolvenčního řízení, uplatňují její uspokojení vůči insolvenčnímu správci. Pokud jim insolvenční správce nevyhoví, mohou se nápravy domáhat u insolvenčního soudu v rámci jeho dohlédací činnosti; sporné skutečnosti o tom, zda jde o zajištěné věřitele a zda a v jakém rozsahu trvá zajištěná pohledávka nebo zajištění, přitom nelze řešit.
+>
+> (2) Věřitelé, kteří se domáhají toho, aby věc, právo, pohledávka nebo jiná majetková hodnota byla vyloučena z majetkové podstaty, tak mohou učinit jen vylučovací žalobou podle tohoto zákona.
+
+### Přehled výkladu
+
+§ 204 rozlišuje dvě procesní situace. Zajištěný věřitel s právem na uspokojení v průběhu řízení je uplatňuje vůči insolvenčnímu správci; nevyhovění lze předložit insolvenčnímu soudu v rámci dohlédací činnosti, v ní však nelze rozhodovat vyjmenované sporné skutečnosti o zajištění. Osoba požadující autoritativní vyloučení majetkové hodnoty z majetkové podstaty proti správci musí použít vylučovací žalobu podle insolvenčního zákona.
+
+### Souvisící ustanovení
+
+- § 11 — dohlédací činnost insolvenčního soudu.
+- § 159 odst. 1 písm. b) — spor na základě vylučovací žaloby je incidenčním sporem.
+- § 166 a § 167 — uplatnění a uspokojení zajištěných pohledávek.
+- § 195 a § 196 — popření pořadí pohledávky a účinky popření.
+- § 217 odst. 2 — vyřazení majetku ze soupisu insolvenčním správcem.
+- § 225 — podmínky, lhůta, účinky a procesní strany vylučovací žaloby.
+- § 226 — zvláštní návrh dlužníka na vynětí majetku z majetkové podstaty.
+
+### Souvisící předpisy
+
+- Zákon č. 99/1963 Sb., občanský soudní řád — použije se v insolvenčním řízení a incidenčních sporech přiměřeně podle § 7 insolvenčního zákona, nestanoví-li insolvenční zákon jinak.
+
+### Z důvodové zprávy
+
+Zvláštní část důvodové zprávy k původnímu insolvenčnímu zákonu vysvětluje společně § 203 a 204. K § 204 uvádí, že odstavec 1 upravuje postup zajištěných věřitelů, jimž správce v průběhu řízení pohledávku neuspokojil, a odstavec 2 zařazuje mezi jiné způsoby uplatňování pohledávek také tzv. vylučovací věřitele; jejich bližší postup osnova upravila v § 225. Jde o vysvětlení původní osnovy, nikoli o popis všech pozdějších změn. Pramen: Poslanecká sněmovna, IV. volební období, tisk 1120/0, zvláštní část, „K § 203–204“, číslovaná strana 202 (PDF strana 203).
+
+### Literatura
+
+Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; její zpracování je odloženo do druhého kola.
 
 ### Výklad
 
-**Zajištění věřitelé** se obracejí *na správce*. Pokud nevyhoví, *dohlédací činnost soudu* — ale *sporné skutečnosti* (existence zajištění, výše) se *neřeší v dohlédací činnosti*, ale v *incidenčním sporu*.
+[1] Odstavec 1 dopadá na zajištěné věřitele, kteří mají podle insolvenčního zákona právo na uspokojení pohledávky již v průběhu řízení. Samotné zajištění ještě neznamená, že lze pominout přihlášení: § 166 stanoví, že zajištění věřitelé uplatňují pohledávky přihláškou a musejí se v ní zajištění výslovně dovolat. § 204 řeší následné uplatnění uspokojení vůči správci, není obecnou náhradou přihlášky.
 
-**Vylučovací žaloba** (odst. 2) — *jediný způsob* domáhání se vyloučení věci z podstaty (§ 225).
+[2] Prvním adresátem požadavku na uspokojení je insolvenční správce. Věřitel musí požadavek vymezit tak, aby bylo patrné, jaké pohledávky, jakého zajištění a jakého majetku se týká. Prakticky jsou rozhodné zejména přihláška a výsledek jejího přezkumu, listiny k zajištění, stav zpeněžení a vyúčtování výtěžku.
 
-### Vazby
+[3] Jestliže správce nevyhoví, může se věřitel domáhat nápravy u insolvenčního soudu v rámci jeho dohlédací činnosti. Tato cesta se hodí k přezkumu postupu správce v nesporném rámci; § 11 soudu umožňuje rozhodovat o záležitostech týkajících se průběhu řízení a činit opatření potřebná k zajištění jeho účelu.
 
-- **§ 167** — uspokojení zajištěných.
-- **§ 225** — vylučovací žaloba.
+[4] Poslední věta odstavce 1 stanoví nepřekročitelnou mez dohledu. V jeho rámci nelze vyřešit spor o to, zda osoba je zajištěným věřitelem ani zda a v jakém rozsahu trvá zajištěná pohledávka nebo zajištění. § 204 sám neurčuje jediný univerzální žalobní postup pro každou takovou spornou situaci. Procesní prostředek je nutno určit podle původu sporu; u popření práva na uspokojení ze zajištění jde podle § 195 o popření pořadí a další režim závisí také na tom, kdo popření učinil.
 
-### F. Kazuistika
+[5] Odstavec 2 vyžaduje vylučovací žalobu, domáhá-li se věřitel proti správci autoritativního vyloučení věci, práva, pohledávky nebo jiné majetkové hodnoty z majetkové podstaty. Podrobnosti stanoví § 225, včetně žaloby proti insolvenčnímu správci a lhůty 30 dnů od doručení vyrozumění o soupisu. Nestačí pouhý podnět k dohlédací činnosti.
 
-**1. Modelová situace.** Zajištěný věřitel V (zástavní právo k nemovitosti v podstatě) uplatní vůči insolvenčnímu správci S právo na uspokojení své pohledávky 3 mil. Kč z výtěžku zpeněžení zástavy. Správce S však zpochybuje, zda zajištění (a v jakém rozsahu) vůbec trvá, a uspokojení odmítne. V se obrátí na insolvenční soud v rámci jeho dohlédací činnosti a žádá, aby soud sám rozhodl, že zajištění trvá. Jiný subjekt T se navíc domáhá, aby nemovitost byla z podstaty vyloučena, neboť tvrdí, že patří jemu. Důkazy: zástavní smlouva a vklad do katastru, přihláška V jako zajištěného věřitele, korespondence se správcem, podklady T k vlastnictví věci.
+[6] Formulaci „jen vylučovací žalobou“ je třeba číst v jejím procesním kontextu. Neznamená, že položka nemůže být ze soupisu odstraněna jiným zákonem výslovně upraveným postupem: správce ji může vyřadit podle § 217 odst. 2 a dlužník má za podmínek § 226 zvláštní návrh na vynětí. Pro třetí osobu je však vylučovací žaloba prostředkem k autoritativnímu prosazení tvrzeného práva, které soupis vylučuje, proti správci.
 
-**2. Právní otázka.** Jakým způsobem uplatňují zajištění věřitelé právo na uspokojení a kde se řeší sporné skutečnosti o existenci a rozsahu zajištění; jakým jediným prostředkem se lze domáhat vyloučení věci z majetkové podstaty?
+[7] Vylučovací žaloba není určena k pouhému určení existence jakéhokoli práva k věci. Žalobce musí tvrdit právo nebo jinou skutečnost, pro kterou dotčená majetková hodnota neměla být do soupisu zahrnuta; samotná existence nájmu nebo zástavního práva proto bez dalšího nemusí soupis vlastníkova majetku vylučovat.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 204 odst. 1 (zajištění věřitelé uplatňují uspokojení vůči insolvenčnímu správci; nevyhoví-li, lze se domáhat nápravy v rámci dohlédací činnosti soudu, avšak sporné skutečnosti o tom, zda jde o zajištěné věřitele a zda a v jakém rozsahu trvá zajištěná pohledávka nebo zajištění, v dohlédací činnosti řešit nelze), odst. 2 (vyloučení věci, práva, pohledávky či jiné majetkové hodnoty z podstaty jen vylučovací žalobou).
-- *Související ustanovení téhož zákona:* § 167 (uspokojení zajištěných věřitelů), § 166 (přihláška zajištěného věřitele), § 225 (vylučovací žaloba), § 195–196 (popření pořadí/zajištění), § 11 (dohlédací činnost soudu).
-- *Související předpisy:* OZ — zástavní a jiná zajišťovací práva, jejich vznik a zánik; katastrální předpisy; o. s. ř. — žaloba na vyloučení.
-- *Judikatura:* nosný závěr, že dohlédací činnost soudu neslouží k autoritativnímu řešení sporu o existenci a rozsah zajištění — ten patří do incidenčního sporu; vyloučení věci z podstaty lze dosáhnout výhradně vylučovací žalobou.
+[8] U starších řízení a právních poměrů je nutné ověřit časově rozhodné znění zákona a přechodná ustanovení příslušných novel. Tento výklad zachycuje konsolidovaný právní stav k 19. 7. 2026 a nepřipisuje původní důvodové zprávě vysvětlení pozdějších změn.
 
-**4. Subsumpce.** V je zajištěný věřitel a uplatnil uspokojení vůči správci (§ 204 odst. 1) — postup správný. Správce zpochybnil trvání a rozsah zajištění → jde o spornou skutečnost, kterou nelze řešit v dohlédací činnosti soudu (§ 204 odst. 1 in fine); musí být vyřešena v incidenčním sporu (návazně na popření zajištění dle § 195–196). Nárok T na vyloučení nemovitosti z podstaty lze uplatnit jen vylučovací žalobou dle § 225 (§ 204 odst. 2).
+### Judikatura
 
-**5. Řešení.** V uplatní uspokojení vůči správci; odmítne-li správce z důvodu zpochybnění zajištění, V se nemůže domoci autoritativního vyřešení existence/rozsahu zajištění v dohlédací činnosti, ale cestou incidenčního sporu (přezkum a popření zajištění). V rámci dohlédací činnosti může soud řešit jen nesporné otázky postupu správce. T se musí domáhat vyloučení nemovitosti vylučovací žalobou (§ 225), nikoli jinak.
-
-**6. Varianty.** (a) Kdyby mezi V a správcem nebyl spor o existenci/rozsah zajištění a šlo jen o nesprávný postup správce při uspokojení, mohl by soud zjednat nápravu v rámci dohlédací činnosti (§ 204 odst. 1). (b) Kdyby se T domáhal vyloučení věci jinak než vylučovací žalobou (např. jen podnětem k dohlédací činnosti), nebylo by možné vyhovět — § 204 odst. 2 připouští výlučně vylučovací žalobu.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Spor o existenci a rozsah zajištění vyřeší soud v rámci dohlédací činnosti." — Neutralizace: § 204 odst. 1 to výslovně vylučuje — sporné skutečnosti o tom, zda jde o zajištěného věřitele a zda/v jakém rozsahu trvá zajištění, se v dohlédací činnosti neřeší; náleží do incidenčního sporu.
-- *Protiargument:* „Vyloučení věci z podstaty lze dosáhnout námitkou nebo podnětem k soudu." — Neutralizace: § 204 odst. 2 připouští jediný prostředek — vylučovací žalobu dle § 225.
-- *Slabé místo:* hranice mezi nesporným postupem správce (řešitelným v dohlédací činnosti) a spornou otázkou zajištění (incidenční spor) bývá nejasná; věřitel riskuje ztrátu času volbou nesprávného procesního prostředku.
-
-### H. Praktický závěr
-
-§ 204 stanoví, že zajištění věřitelé uplatňují uspokojení vůči správci a při neúspěchu se mohou domáhat nápravy v dohlédací činnosti soudu, avšak sporné otázky existence a rozsahu zajištění patří do incidenčního sporu; vyloučení věci z podstaty lze dosáhnout jen vylučovací žalobou (§ 225).
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Uplatnit uspokojení zajištěné pohledávky vůči insolvenčnímu správci (§ 204 odst. 1).
-- [ ] Sporné otázky existence a rozsahu zajištění řešit incidenčním sporem (popření zajištění, § 195–196), nikoli v dohlédací činnosti.
-- [ ] V dohlédací činnosti soudu uplatnit jen nesporné výhrady k postupu správce při uspokojení.
-- [ ] Vyloučení věci, práva či pohledávky z podstaty domáhat se výhradně vylučovací žalobou (§ 204 odst. 2, § 225).
-
-**Typicky rozhodné důkazy / podklady:** zajišťovací smlouvy a doklady o vzniku/trvání zajištění (vklad do katastru, rejstřík zástav), přihláška zajištěného věřitele, korespondence se správcem o uplatnění uspokojení, podklady k vlastnictví věci pro vylučovací žalobu.
+Při této revizi nebylo jako pramen materiálního právního závěru použito žádné soudní rozhodnutí. Dřívější anonymní tvrzení o „nosném závěru“ bylo odstraněno, protože neidentifikovalo rozhodnutí, skutkový a procesní kontext ani nosné pasáže plného textu. Tím se nevyslovuje negativní závěr o existenci relevantní judikatury.
 
 ---
 

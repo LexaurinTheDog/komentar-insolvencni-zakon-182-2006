@@ -262,56 +262,57 @@ Odborná literatura byla rozhodnutím editora odložena do druhého kola; tento 
 
 ## § 209 — Zjišťování — kdo a jak
 
-> (1) Zjišťování majetkové podstaty zajišťuje od svého ustanovení **insolvenční správce** nebo **předběžný správce**, i když nejde o osobu s dispozičními oprávněními. Přitom je povinen řídit se pokyny insolvenčního soudu.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Zjišťování majetkové podstaty zajišťuje od svého ustanovení insolvenční správce nebo předběžný správce, i když nejde o osobu s dispozičními oprávněními. Přitom je povinen řídit se pokyny insolvenčního soudu.
 > (2) Dokud insolvenční správce nebo předběžný správce není ustanoven, může insolvenční soud rozhodnout o opatřeních potřebných ke zjištění podstaty a o způsobu jejich provedení.
+
+### Přehled výkladu
+
+Ustanovení rozděluje odpovědnost za zjišťování podle toho, zda již byl ustanoven insolvenční nebo předběžný správce. Od ustanovení zjišťování zajišťuje správce, a to nezávisle na tom, kdo má dispoziční oprávnění. Před jeho ustanovením může potřebná opatření a způsob jejich provedení určit insolvenční soud.
+
+### Souvisící ustanovení
+
+- **§ 11** — dohlédací činnost soudu a opatření potřebná k zajištění účelu řízení.
+- **§ 43 a § 44** — součinnost orgánů a dalších osob se správcem a její způsoby.
+- **§ 112 a § 113** — ustanovení předběžného správce a předběžná opatření před rozhodnutím o úpadku.
+- **§ 210 až § 214** — součinnost dlužníka, postup zjišťování, prohlídka a prohlášení o majetku.
+- **§ 217 a § 219** — soupis jako výsledek zjišťování a povinnost správce soupis průběžně doplňovat.
+- **§ 229 a § 246** — určení osoby s dispozičními oprávněními a jejich přechod na správce prohlášením konkursu.
+
+### Souvisící předpisy
+
+V tomto kole nebyl jiný předpis použit jako samostatný podklad materiálního výkladu § 209. Podpůrné použití občanského soudního řádu se řídí § 7 insolvenčního zákona; konkrétní zjišťovací nástroje však pro tuto oblast upravuje především insolvenční zákon.
+
+### Z důvodové zprávy
+
+Zvláštní část důvodové zprávy k vládnímu návrhu insolvenčního zákona (sněmovní tisk 1120/0, k § 209 až 216, číslované s. 203–204, PDF s. 203–204) popisuje tuto skupinu ustanovení jako komplexní úpravu způsobů a metod zjišťování, subjektů, které je provádějí, a jejich oprávnění. Uvádí také, že tato zvláštní úprava nahrazuje pro insolvenční řízení tehdejší úpravu prohlášení o majetku v občanském soudním řádu.
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Nejde o negativní rešerši ani o závěr, že k ustanovení literatura neexistuje.
 
 ### Výklad
 
-**Zjišťování = aktivní vyhledávání majetku**. Aktivně koná **správce** (nebo *předběžný správce*), pod *pokyny soudu*. Důležitý detail: i *před* přechodem dispozičních oprávnění (§ 246) má správce právo *zjišťovat*.
+[1] **Časový a osobní předěl.** Rozhodný je okamžik ustanovení insolvenčního nebo předběžného správce. Od něj zajišťuje zjišťování správce; do té doby může podle odstavce 2 zasáhnout insolvenční soud. Sloveso „může“ v odstavci 2 vyjadřuje oprávnění soudu rozhodnout podle potřeby konkrétní věci, nikoli automatickou povinnost vydat v každém řízení samostatné opatření.
 
-**Pre-správcovské období** (odst. 2): pokud správce není ustanoven, *opatření zjišťuje sám soud* (v rámci dohlédací činnosti).
+[2] **Zjišťování není dispoziční oprávnění.** Výslovná věta v odstavci 1 odděluje zjišťovací působnost od oprávnění nakládat s majetkovou podstatou. Správce proto může po svém ustanovení zjišťovat podstatu i tehdy, když dispoziční oprávnění náleží jiné osobě. Samotný § 209 mu však nepřiznává oprávnění s dohledaným majetkem nakládat; to se posuzuje podle § 229 a pravidel příslušného způsobu řešení úpadku.
 
-### Vazby
+[3] **Pokyny insolvenčního soudu.** Správce je při zjišťování povinen řídit se pokyny soudu. Ustanovení neříká, že každý jednotlivý zjišťovací úkon vyžaduje předchozí pokyn. Konkrétní dosah pokynu je nutné číst spolu s dohlédací pravomocí podle § 11 a s pravidly jednotlivých nástrojů v § 210 až § 214.
 
-- **§ 246** — přechod dispozic na správce.
-- **§ 11** — dohlédací činnost soudu.
+[4] **Obsah zjišťování.** § 209 určuje nositele činnosti, nikoli vyčerpávající katalog úkonů. Ten dotvářejí zejména pravidla o součinnosti třetích osob (§ 43 a § 44), součinnosti dlužníka a vlastním šetření správce (§ 210 a § 211), přístupu na místa s majetkem (§ 212) a prohlášení o majetku (§ 214).
 
-### F. Kazuistika
+[5] **Před ustanovením správce.** Opatření podle odstavce 2 určuje soud včetně způsobu provedení. Při úvaze je třeba odlišit toto obecné oprávnění od předběžných opatření a ustanovení předběžného správce podle § 112 a § 113, která mají vlastní podmínky a účinky.
 
-**1. Modelová situace.** Soud rozhodl o úpadku a ustanovil insolvenčního správce; dosud však nebylo rozhodnuto o způsobu řešení úpadku, takže dispoziční oprávnění má stále dlužník (§ 229 odst. 3 písm. b). Správce chce neprodleně začít dohledávat majetek — oslovit banky, katastr, ČSSZ a prohlédnout sídlo dlužníka. Dlužník namítá, že dokud nemá správce dispoziční oprávnění, nesmí do jeho poměrů zasahovat. Účastníci: správce, dlužník, insolvenční soud. Důkazy: usnesení o ustanovení správce, žádosti o součinnost dle § 43.
+[6] **Výsledek a průběžnost.** Zjišťování směřuje k soupisu majetkové podstaty. Podle § 219 odst. 1 musí správce soupis průběžně doplňovat, mění-li se v průběhu řízení rozsah podstaty; zjišťování proto nelze redukovat na jednorázový úkon bezprostředně po ustanovení.
 
-**2. Právní otázka.** Smí správce zjišťovat majetkovou podstatu (dohledávat majetek) ještě předtím, než na něj přejdou dispoziční oprávnění?
+[7] **Intertemporalita.** Tento výklad vychází ze znění účinného k 19. 7. 2026. Pro úkony ve starším řízení je nutné ověřit znění účinné v rozhodné době a přechodná ustanovení příslušných novel; z aktuálního znění samotného nelze bez dalšího dovozovat procesní režim dřívějšího úkonu.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 209 odst. 1 — zjišťování zajišťuje správce/předběžný správce od svého ustanovení, **i když nejde o osobu s dispozičními oprávněními**, podle pokynů soudu; odst. 2 — do ustanovení správce může opatření nařídit sám soud.
-- *Související ustanovení téhož zákona:* § 246 (přechod dispozic na správce v konkursu); § 11 (dohlédací činnost); § 43 (součinnost orgánů a osob); § 210–212 (součinnost dlužníka, prohlídka).
-- *Související předpisy:* OSŘ subsidiárně (§ 7 IZ).
-- *Judikatura:* nosný závěr, že zjišťovací oprávnění správce je samostatné a nezávislé na dispozičních oprávněních — slouží ochraně podstaty před jejím rozplynutím.
+### Judikatura
 
-**4. Subsumpce.** Správce byl ustanoven (znak „od svého ustanovení"); zjišťování majetku spadá pod § 209 odst. 1; výslovná dikce „i když nejde o osobu s dispozičními oprávněními" vyvrací dlužníkovu námitku. Pokyny soudu jsou rámcem, nikoli podmínkou každého úkonu.
-
-**5. Řešení.** Správce je oprávněn ihned po ustanovení zjišťovat podstatu — žádat součinnost (§ 43), nahlížet do registrů, dohledávat majetek. Dlužníkova námitka neobstojí. Procesně: při odporu dlužníka lze využít § 210–212 (součinnost, prohlídka) a § 81 (pořádková pokuta).
-
-**6. Varianty.** (a) Kdyby správce ještě nebyl ustanoven, opatření ke zjištění by nařídil sám soud (odst. 2). (b) Kdyby šlo o předběžného správce před rozhodnutím o úpadku, měl by tatáž zjišťovací oprávnění v rozsahu vymezeném soudem.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument (dlužník):* „Bez dispozičních oprávnění správce nesmí do mých poměrů zasahovat." Neutralizace: § 209 odst. 1 výslovně přiznává zjišťovací oprávnění nezávisle na dispozicích; zjišťování ≠ nakládání.
-- *Protiargument:* „Správce postupuje bez pokynů soudu, překračuje pravomoc." Neutralizace: povinnost řídit se pokyny soudu neznamená nutnost individuálního pokynu k běžnému zjišťování; obecný rámec dohlédací činnosti postačí, soud může postup korigovat.
-- *Slabé místo:* hranice mezi pouhým zjišťováním a faktickým nakládáním (např. inkaso pohledávky) — inkaso už může vyžadovat dispoziční oprávnění; nutno odlišovat.
-
-### H. Praktický závěr
-
-Zjišťování majetkové podstaty je samostatná funkce správce (či předběžného správce) od jeho ustanovení, oddělená od dispozičních oprávnění. Do ustanovení správce nařizuje zjišťovací opatření soud. Vše pod dohlédací činností soudu.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Po ustanovení neprodleně zahájit zjišťování (žádosti dle § 43 — banky, katastr, ČSSZ, registry).
-- [ ] Odlišovat zjišťování (vždy přípustné) od nakládání (vázáno na dispoziční oprávnění).
-- [ ] Respektovat a vyžádat si pokyny soudu tam, kde jsou potřeba.
-- [ ] Při neexistenci správce navrhnout soudu opatření podle odst. 2.
-- [ ] Při odporu povinných osob nasadit § 210–212 a § 81.
-
-**Typicky rozhodné důkazy / podklady:** usnesení o ustanovení (předběžného) správce, žádosti a odpovědi v rámci součinnosti (§ 43), výpisy z registrů, pokyny soudu.
+Do tohoto kola nebylo zařazeno rozhodnutí, jehož ověřený plný text by byl pro výklad § 209 přímo nosný. Tím se nevyslovuje závěr o neexistenci související judikatury. Původní anonymní judikatorní tvrzení bylo odstraněno, protože neidentifikovalo soud, datum ani spisovou značku a nebylo možné je ověřit v plném textu.
 
 ---
 

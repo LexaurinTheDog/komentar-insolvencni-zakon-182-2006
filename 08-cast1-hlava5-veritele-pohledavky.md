@@ -1796,6 +1796,69 @@ Při této revizi nebylo jako pramen materiálního právního závěru použito
 
 ---
 
+## § 191 — Průběh přezkumného jednání
+
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Přezkoumání pohledávek při přezkumném jednání se děje podle seznamu přihlášených pohledávek. Pohledávky přihlášené jako podmíněné osobami, od kterých může věřitel požadovat plnění podle § 183 odst. 1 a [[#§ 2|2]], se nezařazují na přezkumné jednání po dobu, po kterou v insolvenčním řízení uplatňuje vůči dlužníku přihlášenou pohledávku věřitel.
+>
+> (2) Při přezkumném jednání se pokládá za vykonatelnou každá přihlášená pohledávka, ohledně které věřitel prokáže, že se stala vykonatelnou nejpozději ke dni rozhodnutí o úpadku. Při přezkumném jednání nelze považovat vykonatelnou pohledávku za nevykonatelnou z důvodů, pro které byla popřena. V pochybnostech rozhodne o tom, zda se pohledávka považuje pro účely jejího přezkoumání za vykonatelnou, do skončení přezkumného jednání insolvenční soud; učiní tak usnesením, které se nedoručuje a proti němuž není přípustný opravný prostředek.
+>
+
+### Přehled výkladu
+
+- přezkum podle seznamu přihlášených pohledávek,
+- dočasné nezařazení podmíněných regresních pohledávek osob podle § 183 odst. 1 a 2,
+- rozhodný okamžik vykonatelnosti a její prokázání věřitelem,
+- oddělení vykonatelnosti od důvodů popření,
+- rozhodnutí insolvenčního soudu při pochybnostech.
+
+### Souvisící ustanovení
+
+- § 177 odst. 1 — listina prokazující vykonatelnost,
+- § 183 odst. 1 až 3 — pohledávka věřitele a podmíněná pohledávka osoby, která za dlužníka může plnit,
+- § 189 — sestavení seznamu a vyznačení vykonatelných a podmíněných pohledávek,
+- § 190 — nařízení a organizace přezkumného jednání,
+- § 192 až 197 — popření a zachycení výsledku přezkumu,
+- § 198 až 201 — navazující režim incidenčních sporů a zjištění pohledávky,
+- § 410 — zvláštní přezkum při oddlužení.
+
+### Souvisící předpisy
+
+Vyhláška č. 191/2017 Sb., zejména § 9 odst. 1 písm. d) až i) a odst. 3 až 6, stanoví obsah formuláře seznamu přihlášených pohledávek a přezkumných listů, včetně údajů o pohledávkách nezařazených na přezkumné jednání a o vykonatelnosti.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona ve zvláštní části společně k § 190 a 191 uvedl, že přezkoumání přihlášek insolvenčním soudem je vyhrazeno přezkumnému jednání a děje se podle seznamu přihlášených pohledávek. Jde o stručné vysvětlení původní koncepce; dnešní podrobnosti § 191 a režim oddlužení je nutné vyvozovat z aktuálního znění a pozdějších novel.
+
+### Literatura
+
+Odborná literatura byla rozhodnutím odpovědného editora odložena do druhého kola. Tento údaj není závěrem negativní rešerše.
+
+### Výklad
+
+[1] **Seznam jako procesní základ.** Jednotlivé pohledávky se při přezkumném jednání projednávají podle seznamu sestaveného insolvenčním správcem. § 189 určuje jeho obsah a vyžaduje mimo jiné zvláštní vyznačení vykonatelných pohledávek a podmíněných pohledávek osob podle § 183 odst. 1 a 2. Seznam není jen orientační pomůckou; výsledek přezkumu se do něj podle § 197 zapisuje.
+
+[2] **Dočasné nezařazení podmíněné pohledávky.** Osoba, od níž může věřitel požadovat plnění ze zajištění třetí osoby, ze solidárního závazku nebo z ručení, může podle § 183 odst. 3 přihlásit svou budoucí regresní pohledávku jako podmíněnou. Dokud však původní věřitel v insolvenčním řízení uplatňuje vůči dlužníku svou přihlášenou pohledávku, tato podmíněná pohledávka se na přezkumné jednání nezařazuje. Smyslem pravidla je procesně neprojednávat souběžně tutéž ekonomickou zátěž v rukou původního věřitele i osoby, která teprve může plnit.
+
+[3] **Vykonatelnost nejpozději ke dni úpadku.** Pro účely přezkumného jednání se za vykonatelnou pokládá pohledávka, u níž věřitel prokáže, že vykonatelnost nastala nejpozději ke dni rozhodnutí o úpadku. Samotné tvrzení v přihlášce nestačí; § 177 odst. 1 vyžaduje připojit veřejnou listinu, která vykonatelnost dokládá. Vykonatelnost nastalá až po rozhodnutí o úpadku podmínku § 191 odst. 2 nesplňuje.
+
+[4] **Důvod popření nemění procesní zařazení.** Pohledávku, která je pro účely přezkumu vykonatelná, nelze překvalifikovat na nevykonatelnou proto, že byla popřena z určitého důvodu. Otázka vykonatelnosti se odděluje od otázky pravosti, výše nebo pořadí. Toto rozlišení je zásadní pro určení dalšího postupu podle § 198 nebo § 199.
+
+[5] **Rozhodnutí při pochybnostech.** Pochybnosti o tom, zda se pohledávka pro účely přezkoumání považuje za vykonatelnou, musí insolvenční soud vyřešit do skončení přezkumného jednání. Rozhoduje usnesením, které se nedoručuje a proti němuž není přípustný opravný prostředek. Výrok řeší procesní zařazení pohledávky pro její přezkum; sám nerozhoduje o její pravosti, výši ani pořadí.
+
+[6] **Navazující procesní důsledky.** Klasifikace podle § 191 určuje, kdo po popření pohledávky nese žalobní iniciativu: u nevykonatelné pohledávky postupuje její věřitel podle § 198, zatímco u vykonatelné pohledávky postupuje insolvenční správce podle § 199. Jestliže se v řízení podle § 198 ukáže, že pohledávka byla vykonatelná, § 198 odst. 3 výslovně brání zamítnutí žaloby jen z tohoto důvodu a upravuje důkazní režim.
+
+[7] **Oddlužení a intertemporalita.** § 191 upravuje přezkum na přezkumném jednání; při oddlužení se přihlášené pohledávky přezkoumávají ve zvláštním režimu § 410. Původní důvodová zpráva zachycuje jen výchozí koncepci a nepokrývá všechny pozdější změny. U staršího řízení je proto nutné ověřit znění účinné pro daný procesní děj a přechodná ustanovení příslušné novely.
+
+### Judikatura
+
+Při této revizi nebylo jako pramen materiálního právního závěru použito žádné soudní rozhodnutí. Tím se nevyslovuje, že relevantní judikatura neexistuje; zařazení konkrétního rozhodnutí vyžaduje otevření jeho plného textu z oficiálního soudního webu a ověření skutkového, procesního a intertemporálního kontextu.
+
+---
+
 ## § 192 — § 196 — Popírání pohledávek
 
 **Judikatura (z místních zdrojů):**

@@ -1924,43 +1924,53 @@ Při této revizi nebylo jako pramen materiálního právního závěru použito
 
 ### § 193 — Popření pravosti
 
-*Námitka, že pohledávka nevznikla / zanikla / promlčela*.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-#### F. Kazuistika
+#### Znění ustanovení
 
-**1. Modelová situace.** Věřitel V přihlásí pohledávku 500 000 Kč „z půjčky" vůči dlužníku D. Insolvenční správce S při přezkumu popře pravost celé pohledávky s odůvodněním, že peníze nebyly nikdy předány (smlouva o zápůjčce je reálný kontrakt) a podpůrně že pohledávka zanikla započtením a je promlčená. Důkazy: přihláška a smlouva o zápůjčce, doklady o (ne)předání peněz, tvrzené zápočtové úkony, údaje o splatnosti a promlčecí lhůtě, zápis z přezkumu.
+> O popření pohledávky co do její pravosti jde tehdy, je-li namítáno, že pohledávka nevznikla nebo že již zcela zanikla anebo že se zcela promlčela.
 
-**2. Právní otázka.** Co je obsahem popření pravosti, jaké důvody pod ně spadají a jak je třeba je formulovat, aby popření obstálo?
+#### Přehled výkladu
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 193 — popření pravosti je námitka, že pohledávka nevznikla, zanikla nebo se zcela promlčela (popírá se samotný základ nároku).
-- *Související ustanovení téhož zákona:* § 192 (okruh popíračů a předmět), § 194–196 (popření výše/pořadí a vzájemné účinky), § 198–199 (incidenční spory), § 201 (zjištění).
-- *Související předpisy:* OZ — vznik závazku (reálnost zápůjčky), zánik (splnění, započtení), promlčení; o. s. ř. — dokazování v incidenčním sporu.
-- *Judikatura:* nosný závěr, že předmětem popření pravosti je existence pohledávky (vznik/zánik/promlčení) a že hmotněprávní posouzení (např. zánik pohledávky odstoupením od smlouvy) se řeší v navazujícím incidenčním sporu.
+Ustanovení třídí popěrný důvod podle jeho obsahu. Popřením pravosti je námitka nevzniku pohledávky, jejího úplného zániku nebo jejího úplného promlčení. Je-li zpochybněna jen část přihlášené částky, jde podle § 194 o popření výše. § 193 sám neurčuje, kdo podává incidenční žalobu ani v jaké lhůtě; to závisí zejména na vykonatelnosti pohledávky a osobě popírajícího podle § 198 až 200.
 
-**4. Subsumpce.** S tvrdí, že pohledávka nevznikla (nepředání jistiny zápůjčky), event. zanikla započtením a promlčela se → všechny tři důvody směřují proti existenci pohledávky, tedy jde o popření pravosti dle § 193, nikoli o popření výše či pořadí.
+#### Souvisící ustanovení
 
-**5. Řešení.** Popření pravosti S řádně odůvodní konkrétními skutečnostmi (nepředání, zápočet, uplynutí promlčecí lhůty). Jelikož je pohledávka nevykonatelná, iniciativa k žalobě na určení leží na věřiteli V (§ 198, 30 dnů, proti správci); nepodá-li ji, k pohledávce se nepřihlíží. Procesně se důvody popření koncentrují do skončení přezkumu.
+§ 192 (osoby oprávněné popírat a předmět popření), § 194 (popření výše), § 195 (popření pořadí), § 196 (účinky jednotlivých druhů popření), § 197 (zachycení výsledku přezkumu a poučení), § 198 (nevykonatelná pohledávka popřená správcem), § 199 (vykonatelná pohledávka popřená správcem), § 200 (popření přihlášeným věřitelem), § 201 (zjištění pohledávky), § 336 odst. 2 až 4 a § 410 odst. 2 až 5 (zvláštní účinky a postupy v reorganizaci a oddlužení).
 
-**6. Varianty.** (a) Tvrdil-li by S jen nižší částku (např. že byla část splacena), nešlo by o popření pravosti, ale výše (§ 194). (b) Byla-li by pohledávka vykonatelná, nesl by břemeno žaloby správce (§ 199) a okruh důvodů by byl omezen (jen skutečnosti neuplatněné dlužníkem v předchozím řízení).
+#### Souvisící předpisy
 
-#### G. Protiargumenty a rizika
+Hmotněprávní předpis rozhodný pro vznik, zánik nebo promlčení konkrétní přihlášené pohledávky; procesní předpisy se v insolvenčním řízení a incidenčních sporech použijí jen v mezích § 7 insolvenčního zákona.
 
-- *Protiargument:* „Popření pravosti lze formulovat obecně, postačí nesouhlas s pohledávkou." — Neutralizace: i popření pravosti vyžaduje konkrétní důvod (vznik/zánik/promlčení); paušální popření bez skutkového základu v incidenčním sporu neobstojí.
-- *Protiargument:* „Promlčení nepatří pod popření pravosti, ale výše." — Neutralizace: promlčení se dotýká vymahatelnosti celé pohledávky, proto je důvodem popření pravosti, nikoli pouhého snížení výše.
-- *Slabé místo:* odlišení popření pravosti od popření výše je u částečně zaniklých pohledávek hraniční; nesprávné zařazení druhu popření může vést k jeho neúčinnosti.
+#### Z důvodové zprávy
 
-#### H. Praktický závěr
+Zvláštní část důvodové zprávy k původnímu vládnímu návrhu shrnuje § 193 až 195 jako ustanovení pojmenovávající jednotlivé způsoby popření a § 196 jako úpravu jejich účinků. Jde o sněmovní tisk 1120/0, 4. volební období, zvláštní část k § 193 až 196, číslovaná s. 200 (PDF s. 201).
 
-Popření pravosti zpochybňuje samotnou existenci pohledávky (nevznikla, zanikla, promlčela se). Musí být odůvodněno konkrétními skutečnostmi a u nevykonatelné pohledávky vede k tomu, že žalobu na určení musí podat popřený věřitel.
+#### Literatura
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Vymezit, zda je zpochybňována existence pohledávky (pravost) nebo jen její částka (výše).
-- [ ] Popření pravosti odůvodnit konkrétně (nevznikla / zanikla / promlčela se).
-- [ ] U nevykonatelné popřené pohledávky hlídat 30denní lhůtu věřitele k žalobě (§ 198).
-- [ ] Důvody popření koncentrovat do skončení přezkumu (§ 192).
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní rešerše.
 
-**Typicky rozhodné důkazy / podklady:** přihláška a titul pohledávky (smlouva), doklady o (ne)vzniku a zániku (předání plnění, úhrady, zápočty), údaje k promlčení, zápis z přezkumu.
+#### Výklad
+
+[1] **Funkce ustanovení.** § 193 vymezuje popření pravosti obsahově. Pro zařazení námitky je rozhodující, zda směřuje proti pohledávce jako takové z důvodu nevzniku, úplného zániku nebo úplného promlčení. Osobu oprávněnou popírat určuje § 192 a procesní následky upravují navazující ustanovení.
+
+[2] **Nevznik pohledávky.** Námitka, že se tvrzené skutečnosti zakládající pohledávku vůbec nestaly nebo že z nich pohledávka podle rozhodného hmotného práva nevznikla, míří na pravost. § 193 však sám neurčuje, jaké hmotněprávní předpoklady má konkrétní typ pohledávky; ty je nutné zjistit z předpisu rozhodného pro uplatněný titul.
+
+[3] **Úplný zánik.** Zákon výslovně vyžaduje, aby byla namítána pohledávka, která „již zcela zanikla“. Námitka zániku jen části přihlášené částky proto obsahově náleží k popření výše podle § 194; popírající musí současně uvést, jaká je podle něj skutečná výše pohledávky.
+
+[4] **Úplné promlčení.** Také promlčení řadí § 193 k pravosti pouze tehdy, je-li namítáno úplné promlčení pohledávky. Je-li námitkou dotčena jen část přihlášeného nároku, je třeba ji obsahově vymezit jako popření výše. Zda k promlčení došlo, se posuzuje podle hmotného práva rozhodného pro konkrétní pohledávku.
+
+[5] **Druh popření není žalobní režim.** Z § 193 nelze samotného dovodit, kdo musí zahájit incidenční spor. U nevykonatelné pohledávky popřené insolvenčním správcem upravuje žalobu věřitele § 198; u vykonatelné pohledávky popřené správcem upravuje žalobu správce § 199; věřitelské popření má vlastní režim v § 200. Zvláštní pravidla je nutné ověřit také podle způsobu řešení úpadku.
+
+[6] **Skutkové důvody a jejich meze.** Jednotlivé procesní režimy stanoví odlišné meze. § 198 odst. 2 omezuje, jaké skutečnosti může věřitel uplatnit jako důvod vzniku nevykonatelné pohledávky; § 199 odst. 2 a 3 upravuje důvody popření vykonatelné pohledávky a vazbu žaloby na skutečnosti, pro které správce pohledávku popřel; u věřitelského popření nelze po lhůtě podle § 200 odst. 2 měnit uplatněný důvod. Obecná věta, že všechny důvody se vždy koncentrují „do skončení přezkumu“, proto není přesná.
+
+[7] **Následek zmeškání u nevykonatelné pohledávky.** Nedojde-li žaloba podle § 198 odst. 1 včas insolvenčnímu soudu, k pohledávce popřené co do pravosti se nepřihlíží. Tento následek stanoví § 198, nikoli definice popření pravosti v § 193.
+
+[8] **Intertemporalita.** Samotné vymezení v § 193 je třeba pro konkrétní historický případ spojit s tehdy účinným zněním § 192 a § 198 až 200. Rozhodné mohou být zejména datum přezkumu, vykonatelnost pohledávky, osoba popírajícího a způsob řešení úpadku; dnešní procesní režim nelze bez kontroly přechodných ustanovení přenést na starší řízení.
+
+#### Judikatura
+
+Při této revizi nebylo jako pramen materiálního právního závěru použito žádné soudní rozhodnutí. Tím se nevyslovuje, že relevantní judikatura neexistuje; zařazení konkrétního rozhodnutí vyžaduje otevření plného textu z oficiálního soudního webu a ověření skutkového, procesního a intertemporálního kontextu.
 
 ### § 194 — Popření výše
 

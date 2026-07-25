@@ -2265,59 +2265,72 @@ Odborná literatura byla rozhodnutím odpovědného editora odložena do druhéh
 
 ### § 199 — Popření vykonatelné pohledávky správcem
 
-> (1) Insolvenční správce, který popřel vykonatelnou pohledávku, podá do 30 dnů od přezkumného jednání nebo od právní moci rozhodnutí o schválení zprávy o přezkumu podle § 410 odst. 3 písm. a) u insolvenčního soudu **žalobu**, kterou své popření uplatní proti věřiteli, který vykonatelnou pohledávku přihlásil. Lhůta je zachována, dojde-li žaloba nejpozději posledního dne lhůty soudu.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+#### Znění ustanovení
+
+> (1) Insolvenční správce, který popřel vykonatelnou pohledávku, podá do 30 dnů od přezkumného jednání nebo od právní moci rozhodnutí o schválení zprávy o přezkumu podle § 410 odst. 3 písm. a) u insolvenčního soudu žalobu, kterou své popření uplatní proti věřiteli, který vykonatelnou pohledávku přihlásil. Lhůta je zachována, dojde-li žaloba nejpozději posledního dne lhůty soudu.
 >
 > (2) Jako důvod popření pravosti nebo výše vykonatelné pohledávky přiznané pravomocným rozhodnutím příslušného orgánu lze uplatnit jen skutečnosti, které nebyly uplatněny dlužníkem v řízení, které předcházelo vydání tohoto rozhodnutí; důvodem popření však nemůže být jiné právní posouzení věci.
 >
 > (3) V žalobě podle odstavce 1 může žalobce proti popřené pohledávce uplatnit pouze skutečnosti, pro které pohledávku popřel.
-> (2) Jako důvod popření pravosti nebo výše vykonatelné pohledávky přiznané pravomocným rozhodnutím příslušného orgánu lze uplatnit **jen skutečnosti, které nebyly uplatněny dlužníkem v řízení**, které předcházelo vydání tohoto rozhodnutí; důvodem popření však nemůže být jiné právní posouzení věci.
 
-**Judikatura (z místních zdrojů):**
+#### Přehled výkladu
 
-- *NS* [29 ICdo 26/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4F29DBBAB17B8C17C1257D8800297784?openDocument) — 29. 9. 2014, kat. A
-  > „Skutečnost, že prodávající postoupil třetí osobě pohledávku na zaplacení kupní ceny, která byla splatná před dodáním zboží, nebrání kupujícímu, aby od kupní smlouvy odstoupil pro prodlení prodávajícího s dodáním zboží. Důsledkem odstoupení od kupní smlouvy je i v takovém případě zánik pohledávky na zaplacení kupní ceny"
+- žalobu podává insolvenční správce proti přihlašovateli vykonatelné pohledávky,
+- žaloba musí insolvenčnímu soudu dojít v zákonné třicetidenní lhůtě,
+- u pohledávky přiznané pravomocným rozhodnutím jsou přípustné jen dříve neuplatněné skutečnosti, nikoli pouhé jiné právní posouzení,
+- žaloba je skutkově omezena důvody zachycenými již v popěrném úkonu,
+- bez včasné žaloby se pohledávka podle § 201 odst. 2 považuje za zjištěnou.
 
-### Výklad — **OBRÁCENÉ BŘEMENO**
+#### Souvisící ustanovení
 
-U **vykonatelných pohledávek** je *aktivně legitimován správce* — *on musí podat žalobu*. *Logika*: vykonatelná pohledávka má presumpci platnosti, břemeno na popírači.
+- § 7 — subsidiární použití občanského soudního řádu,
+- § 159 odst. 1 písm. a) a § 160 — incidenční spor a jeho projednání,
+- § 191 odst. 2 — posouzení vykonatelnosti pro účely přezkumu,
+- § 192 až 196 — popěrný úkon a druhy popření,
+- § 198 odst. 3 — později zjištěná vykonatelnost v řízení o žalobě věřitele,
+- § 201 odst. 2 — zjištění vykonatelné pohledávky při nepodání žaloby,
+- § 202 — náklady sporu o pravost, výši nebo pořadí,
+- § 410 odst. 3 písm. a) — schválení zprávy o přezkumu v oddlužení.
 
-**Omezení důvodů**: jen *nové skutečnosti* — ne *jiné právní posouzení*. Tedy *res iudicata* respektována.
+#### Souvisící předpisy
 
-### F. Kazuistika
+- zákon č. 99/1963 Sb., občanský soudní řád, zejména § 42 a § 79 — obecné náležitosti podání a žaloby; § 57 — počítání procesních lhůt.
 
-**1. Modelová situace.** Na přezkumném jednání u dlužníka D správce S popře dvě pohledávky věřitele V. První je **nevykonatelná** pohledávka 500 000 Kč „z půjčky" (S popřel pravost — tvrdí, že peníze nikdy nebyly předány). Druhá je **vykonatelná** pohledávka 700 000 Kč přiznaná pravomocným rozsudkem (S popřel výši — tvrdí započtení, které dlužník v nalézacím řízení neuplatnil). Po přezkumu nikdo žalobu ohledně první pohledávky nepodá; ohledně druhé S do 30 dnů žalobu nepodá. Důkazy: přihlášky a doklady V, rozsudek a spis nalézacího řízení, tvrzené zápočtové úkony, zápis z přezkumu.
+#### Z důvodové zprávy
 
-**2. Právní otázka.** Kdo nese aktivní legitimaci a břemeno podat incidenční žalobu u popřené nevykonatelné a u popřené vykonatelné pohledávky, v jaké lhůtě, jaké jsou důsledky zmeškání a jak je omezen okruh přípustných důvodů popření.
+Vládní návrh insolvenčního zákona ve zvláštní části společně k § 198 a 199 vysvětloval potřebu zachovat možnost popření i u vykonatelných pohledávek, kterým nepředcházelo dokazování, a současně omezit přezkum pohledávek přiznaných rozhodnutím. Jako hranici popření popsal dříve neuplatněné skutečnosti a zákaz pouhého jiného právního posouzení. Jde o historickou interpretační pomůcku: původní návrh měl odlišnou formulaci a číslování odstavců, takže dnešní procesní pravidla musí být odvozena z aktuálního zákona.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 198 (u nevykonatelné popřené pohledávky podává žalobu na určení věřitel do 30 dnů, vždy proti správci; při zmeškání: pravost — nepřihlíží se, výše/pořadí — zjištěno v popřené hodnotě; koncentrace důvodů vzniku dle odst. 2; vyjde-li najevo vykonatelnost, žalovaný prokazuje důvod dle § 199), § 199 (u vykonatelné popřené pohledávky podává žalobu správce do 30 dnů proti věřiteli; jako důvod popření pravosti/výše pravomocně přiznané pohledávky lze uplatnit jen skutečnosti, které dlužník neuplatnil v předchozím řízení; nelze namítat jiné právní posouzení; v žalobě jen důvody, pro něž bylo popřeno).
-- *Související ustanovení téhož zákona:* § 197 (vyrozumění a počátek lhůty), § 192–196 (druhy popření), § 201 (zjištění, vč. odst. 2 pro vykonatelné), § 202 (náklady a jistota), § 410 odst. 3 (oddlužení).
-- *Související předpisy:* o. s. ř. — žaloba na určení, res iudicata, koncentrace; OZ — započtení a hmotné námitky.
-- *Judikatura:* NS 29 ICdo 26/2012 — důsledkem odstoupení od kupní smlouvy je zánik pohledávky na zaplacení kupní ceny i tehdy, byla-li postoupena; ilustruje hmotněprávní posouzení existence pohledávky v incidenčním sporu. Dále zásada, že u vykonatelných pohledávek nese břemeno tvrzení a důkazu důvodu popření správce.
+Důvodová zpráva k zákonu č. 64/2017 Sb. spojila doplnění alternativního počátku lhůty v § 199 odst. 1 s přesunem části přezkumné agendy v oddlužení na insolvenční správce. Novela je účinná od 1. července 2017.
 
-**4. Subsumpce.** První pohledávka je nevykonatelná, popřena co do pravosti → iniciativa na věřiteli V: žalobu na určení měl podat do 30 dnů proti správci (§ 198). V žalobu nepodal → k pohledávce popřené co do pravosti se nepřihlíží. Druhá pohledávka je vykonatelná, popřena co do výše → iniciativa na správci: žalobu měl podat do 30 dnů S (§ 199). S žalobu nepodal → pohledávka je v důsledku toho zjištěna (§ 201 odst. 2). Důvod popření (započtení neuplatněné dlužníkem v nalézacím řízení) byl sice přípustný dle § 199 odst. 2, ale bez včasné žaloby se neprosadí.
+#### Literatura
 
-**5. Řešení.** U nevykonatelné pohledávky musí být věřitel aktivní — zmeškání 30denní lhůty znamená u popřené pravosti, že se k pohledávce nepřihlíží. U vykonatelné pohledávky leží břemeno na správci; nepodá-li včas žalobu, pohledávka se zjistí v přihlášené podobě. Správce při formulaci žaloby dle § 199 musí setrvat u důvodů, pro něž popřel, a nesmí namítat jiné právní posouzení pravomocně rozhodnuté věci.
+Odborná literatura byla rozhodnutím odpovědného editora odložena do druhého kola. Tento údaj není závěrem negativní rešerše.
 
-**6. Varianty.** (a) Kdyby v řízení o žalobě věřitele dle § 198 vyšlo najevo, že popřená pohledávka je ve skutečnosti vykonatelná, žaloba se nezamítne, ale žalovaný správce musí prokázat důvod popření dle § 199 (odst. 3). (b) Kdyby správce u vykonatelné pohledávky namítal pouze „jiné právní posouzení" pravomocně přiznané pohledávky, popření by bylo nepřípustné a v incidenčním sporu by neobstálo (§ 199 odst. 2).
+#### Výklad
 
-### G. Protiargumenty a rizika
+[1] **Žalobní role a předmět sporu.** Popřel-li insolvenční správce vykonatelnou pohledávku, je žalobcem on a žalovaným je věřitel, který ji přihlásil. Žaloba uplatňuje již učiněné popření; nejde o nový popěrný úkon. Spor o pravost nebo výši pohledávky je incidenčním sporem podle § 159 odst. 1 písm. a).
 
-- *Protiargument:* „Žalobu vždy podává věřitel, jehož pohledávka byla popřena." — Neutralizace: jen u nevykonatelných pohledávek (§ 198); u vykonatelných nese aktivní legitimaci a břemeno správce (§ 199), neboť vykonatelná pohledávka má presumpci.
-- *Protiargument:* „V incidenčním sporu lze znovu otevřít celé právní posouzení pravomocně přiznané pohledávky." — Neutralizace: § 199 odst. 2 to vylučuje — připustí jen nové skutečnosti, které dlužník dříve neuplatnil, nikoli jiné právní posouzení (respekt k res iudicata).
-- *Slabé místo:* sporné bývá určení (ne)vykonatelnosti a tím i nositele břemene; dále koncentrace důvodů (§ 198 odst. 2, § 199 odst. 3) — opomenuté důvody již nelze v žalobě uplatnit; rizikem je i závislost počátku lhůty na řádném vyrozumění (§ 197).
+[2] **Lhůta a dojití soudu.** Třicetidenní lhůta běží mimo zvláštní oddlužovací režim od přezkumného jednání. V oddlužení ji § 199 odst. 1 váže na právní moc rozhodnutí o schválení zprávy o přezkumu podle § 410 odst. 3 písm. a). Zákon výslovně vyžaduje, aby žaloba nejpozději posledního dne lhůty došla insolvenčnímu soudu; pouhé předání zásilky k přepravě poslední den nestačí. Při určení posledního dne se současně použijí subsidiární pravidla o počítání procesních lhůt.
 
-### H. Praktický závěr
+[3] **Následek nečinnosti správce.** Nepodá-li správce žalobu včas, § 201 odst. 2 stanoví, že se pohledávka považuje za zjištěnou. Tento procesní následek nelze zaměňovat s věcným přezkumem správnosti titulu ani s obecným hmotněprávním potvrzením pohledávky mimo insolvenční řízení.
 
-§ 198–199 rozdělují popírací incidenční spory podle (ne)vykonatelnosti: u nevykonatelné pohledávky žaluje popřený věřitel (30 dnů, proti správci) a zmeškání ho poškozuje; u vykonatelné pohledávky žaluje správce (30 dnů, proti věřiteli) s omezeným okruhem důvodů a zákazem jiného právního posouzení.
+[4] **Rozsah odstavce 2.** Zvláštní omezení se týká vykonatelné pohledávky přiznané pravomocným rozhodnutím příslušného orgánu a popření její pravosti nebo výše. Nestačí tedy jen označení pohledávky za vykonatelnou; je nutné určit titul vykonatelnosti a ověřit, zda jde o pravomocné rozhodnutí ve smyslu tohoto odstavce.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Určit (ne)vykonatelnost popřené pohledávky a podle toho nositele aktivní legitimace (věřitel § 198 / správce § 199).
-- [ ] Dodržet 30denní lhůtu (s vazbou na vyrozumění dle § 197) a podat žalobu na správný subjekt.
-- [ ] Respektovat koncentraci důvodů (§ 198 odst. 2) a u vykonatelných pohledávek omezení dle § 199 odst. 2 (jen nové skutečnosti, ne jiné právní posouzení).
-- [ ] Počítat s následky zmeškání: nevykonatelná pravost — nepřihlíží se; výše/pořadí — zjištěno v popřené hodnotě; vykonatelná — zjištěna (§ 201 odst. 2).
+[5] **Dříve neuplatněné skutečnosti.** U pohledávky spadající pod odstavec 2 lze popření založit pouze na skutečnostech, které dlužník neuplatnil v řízení předcházejícím rozhodnutí. Procesní spis předchozího řízení je proto podstatný nejen pro dokazování existence námitky, ale už pro posouzení její přípustnosti. Z textu zákona nelze dovodit, že každá později formulovaná námitka je automaticky „novou skutečností“.
 
-**Typicky rozhodné důkazy / podklady:** přihlášky a doklady popřených pohledávek, exekuční tituly a spisy nalézacích řízení, listiny k hmotným námitkám (zápočet, zánik, promlčení), zápis z přezkumu a vyrozumění věřiteli, doklady o včasnosti žaloby.
+[6] **Zákaz jiného právního posouzení.** Samotný nesouhlas s tím, jak příslušný orgán právně posoudil skutkový základ, důvodem popření být nemůže. Rozlišení mezi novou skutkovou okolností a jiným právním hodnocením musí vycházet z konkrétního obsahu popěrného úkonu, předchozího řízení a žaloby; obecná změna právní argumentace tuto hranici sama neřeší.
+
+[7] **Koncentrace do popěrného úkonu.** Odstavec 3 dovoluje v žalobě uplatnit pouze skutečnosti, pro které správce pohledávku popřel. Před podáním žaloby je proto nutné porovnat její skutková tvrzení se zápisem či seznamem zachycujícím popření. Nový samostatný skutkový důvod nelze napravit tím, že se poprvé doplní až do žaloby.
+
+[8] **Vykonatelnost a související režimy.** O tom, zda se pohledávka pro účely přezkumu považuje za vykonatelnou, pojednává § 191 odst. 2. Vyjde-li vykonatelnost najevo až v řízení podle § 198, použije se zvláštní pravidlo § 198 odst. 3. Tato ustanovení brání mechanickému určení žalobní role jen podle označení pohledávky v přihlášce.
+
+[9] **Intertemporalita.** Alternativní počátek lhůty navázaný na právní moc schválení zprávy o přezkumu doplnil zákon č. 64/2017 Sb. s účinností od 1. července 2017. U staršího přezkumu nebo řízení nelze dnešní oddlužovací variantu použít automaticky; je nutné ověřit tehdy účinné znění a přechodná ustanovení příslušné novely.
+
+#### Judikatura
+
+Při této revizi nebylo jako pramen materiálního právního závěru použito žádné soudní rozhodnutí. Dřívější odkaz na rozsudek Nejvyššího soudu sp. zn. 29 ICdo 26/2012 byl odstraněn a není podkladem nynějšího výkladu. Tím se nevyslovuje, že relevantní judikatura neexistuje; její zařazení vyžaduje samostatné ověření plného oficiálního textu, skutkového a procesního kontextu, nosného závěru a časového dosahu.
 
 ---
 

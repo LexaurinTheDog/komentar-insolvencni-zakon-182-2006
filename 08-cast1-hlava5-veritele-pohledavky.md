@@ -2087,45 +2087,59 @@ Při této revizi nebylo soudní rozhodnutí použito jako pramen samostatného 
 
 ### § 196 — Účinky popření
 
-- popření výše *nemá vliv na pořadí*,
-- popření pořadí *nemá vliv na pravost/výši*,
-- *popření zajištění u věřitele, který může uspokojit jen ze zajištění* — má účinky popření pravosti.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-### F. Kazuistika
+#### Znění ustanovení
 
-**1. Modelová situace.** Na přezkumném jednání u dlužníka D je přezkoumávána pohledávka věřitele V ve výši 1 mil. Kč, přihlášená jako zajištěná (zástavní právo) a nevykonatelná. Insolvenční správce S popře pravost celé pohledávky (tvrdí, že zanikla započtením) a podpůrně její výši (uznává jen 600 000 Kč) a pořadí (popírá zajištění). Jiný věřitel V2, který může být uspokojen jen ze zajištění, popírá u pohledávky V právě zajištění. Dlužník D rovněž pohledávku popře. Důkazy: přihláška a doklady V, tvrzené zápočtové úkony, zástavní smlouva a vklad do katastru, zápis z přezkumného jednání.
+> (1) Popření výše pohledávky nemá vliv na její pořadí. Popření pořadí pohledávky nemá vliv na pravost nebo výši pohledávky.
+>
+> (2) Popření práva na uspokojení pohledávky ze zajištění má však u zajištěného věřitele, který může tuto pohledávku vůči dlužníku uspokojit pouze z majetku poskytnutého k zajištění, tytéž účinky jako popření pravosti pohledávky, a bylo-li toto právo popřeno jen zčásti, tytéž účinky jako popření výše pohledávky.
+>
 
-**2. Právní otázka.** Kdo je oprávněn popřít pohledávku a v jakém rozsahu (pravost, výše, pořadí), jaké jsou obsahové náležitosti jednotlivých druhů popření, jaké mají vzájemné účinky a jaký zvláštní význam má popření dlužníka a popření zajištění u věřitele uspokojovaného jen ze zajištění?
+#### Přehled výkladu
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 192 (popírači — správce, dlužník, přihlášení věřitelé; předmět — pravost, výše, pořadí; změna do skončení přezkumu/před zjištěním; popření dlužníka zpravidla bez vlivu na zjištění, ale popřená pohledávka není po skončení řízení exekučním titulem), § 193 (popření pravosti — pohledávka nevznikla/zanikla/promlčela), § 194 (popření výše — nutno uvést, jaká výše je správná), § 195 (popření pořadí — nutno uvést, v jakém pořadí má být uspokojena), § 196 (vzájemné účinky popření; popření zajištění u věřitele uspokojovaného jen ze zajištění má účinky popření pravosti).
-- *Související ustanovení téhož zákona:* § 197 (výsledek přezkumu), § 198–199 (popírací incidenční spory, nevykonatelné vs. vykonatelné), § 200 (popření věřitelem jako žaloba), § 201 (zjištění), § 166–167 (zajištění).
-- *Související předpisy:* OZ — vznik, zánik a promlčení pohledávky, započtení, zástavní právo; o. s. ř. — exekuční titul.
-- *Judikatura:* ÚS Pl.ÚS 14/10 — nepopře-li správce sporné pohledávky, upírá ostatním věřitelům možnost, aby pravost, výše a zajištění byly zjištěny nezávislým soudem (čl. 36 odst. 1 Listiny); postavení správce nelze stavět naroveň nezávislého soudu.
+§ 196 odděluje účinky popření výše a pořadí. Popření výše samo nezasahuje pořadí a popření pořadí samo nezasahuje pravost ani výši. Odstavec 2 stanoví výslovnou výjimku pro popření práva na uspokojení ze zajištění u zajištěného věřitele, který může právě popíranou pohledávku vůči dlužníku uspokojit pouze z majetku poskytnutého k zajištění: úplné popření tohoto práva má účinky popření pravosti, částečné popření účinky popření výše.
 
-**4. Subsumpce.** S popřel pravost (zánik započtením → § 193), výši (uznává 600 000 Kč, řádně uvedl jinou výši → § 194) i pořadí (popření zajištění → § 195). Účinky se posuzují dle § 196: popření výše nemá vliv na pořadí, popření pořadí nemá vliv na pravost/výši. V2 může být uspokojen jen ze zajištění a popírá zajištění V → § 196 in fine: toto popření má účinky popření pravosti. Dlužníkovo popření (§ 192 odst. 3) zpravidla nemá vliv na zjištění pohledávky, ale způsobí, že po skončení řízení pohledávka nebude exekučním titulem.
+#### Souvisící ustanovení
 
-**5. Řešení.** Správce formuluje každý druh popření s předepsaným obsahem (u výše uvede správnou částku, u pořadí požadované pořadí). Pravost popírá pro tvrzený zánik započtením; bude-li sporná, vyústí to v incidenční spor (u nevykonatelné pohledávky podává žalobu věřitel dle § 198, lhůta 30 dnů). Popření zajištění věřitelem V2, jenž je uspokojován jen ze zajištění, se posoudí jako popření pravosti se všemi důsledky. Dlužníkovo popření neovlivní zjištění, ale poznamená se pro účinek na pozdější exekuovatelnost.
+- § 166 a § 167 — uplatnění a uspokojení zajištěných pohledávek,
+- § 174 odst. 3 — údaje o zajištění v přihlášce,
+- § 192 až § 195 — osoby oprávněné popírat, předmět popření a vymezení pravosti, výše a pořadí,
+- § 197 až § 201 — zachycení výsledku přezkumu, navazující incidenční režimy a zjištění pohledávky,
+- § 336 a § 410 — zvláštní účinky popření v reorganizaci a oddlužení.
 
-**6. Varianty.** (a) Kdyby pohledávka V byla vykonatelná, iniciativu k žalobě by nesl správce (§ 199), nikoli věřitel. (b) Kdyby V nebyl věřitelem uspokojovaným jen ze zajištění, popření zajištění by mělo účinky pouze popření pořadí (§ 195, § 196), nikoli pravosti, a nezpochybnilo by existenci pohledávky jako takové.
+#### Souvisící předpisy
 
-### G. Protiargumenty a rizika
+- zákon č. 89/2012 Sb., občanský zákoník — právní důvody vzniku, změny, zániku a zajištění pohledávky,
+- zákon č. 99/1963 Sb., občanský soudní řád — subsidiární procesní režim v mezích § 7 insolvenčního zákona.
 
-- *Protiargument:* „Dlužníkovo popření je bezvýznamné, protože nebrání zjištění pohledávky." — Neutralizace: byť zpravidla nebrání zjištění (§ 192 odst. 3), zbavuje pohledávku povahy exekučního titulu po skončení řízení a v oddlužení má i další účinky; význam tedy má.
-- *Protiargument:* „Stačí pohledávku popřít obecně, bez upřesnění." — Neutralizace: § 194 a § 195 vyžadují uvést konkrétní správnou výši, resp. požadované pořadí; jinak je popření neúplné a neúčinné.
-- *Slabé místo:* sporné bývá zařazení popření zajištění (pořadí vs. pravost u věřitele uspokojovaného jen ze zajištění dle § 196) a koncentrace důvodů popření; nepopření sporné pohledávky správcem může podle Pl.ÚS 14/10 zasáhnout do práva ostatních věřitelů na soudní ochranu.
+#### Z důvodové zprávy
 
-### H. Praktický závěr
+Původní důvodová zpráva společně charakterizuje § 193 až § 195 jako ustanovení pojmenovávající jednotlivé způsoby popření a § 196 jako ustanovení vymezující jejich účinky. Samostatný podrobnější výklad zvláštního pravidla dnešního odstavce 2 nepodává (sněmovní tisk 1120/0, 4. volební období, zvláštní část K § 193 až 196, číslovaná s. 200, PDF s. 201).
 
-§ 192–196 tvoří jádro popěrného mechanismu: popírat mohou správce, dlužník i přihlášení věřitelé, a to pravost, výši či pořadí, vždy s předepsaným obsahem a se vzájemně oddělenými účinky; zvláštní režim platí pro popření dlužníka a pro popření zajištění u věřitele uspokojovaného jen ze zajištění (účinky popření pravosti).
+#### Literatura
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Určit, kdo popírá (správce/dlužník/věřitel) a co (pravost/výše/pořadí); u výše a pořadí uvést konkrétní správný údaj (§ 194, § 195).
-- [ ] Posoudit vzájemné účinky popření dle § 196, zejména popření zajištění u věřitele uspokojovaného jen ze zajištění.
-- [ ] U popření dlužníkem zaznamenat dopad na exekuovatelnost pohledávky po skončení řízení (§ 192 odst. 3).
-- [ ] Změnu rozsahu/druhu popření provést nejpozději do skončení přezkumu (před zjištěním); navázat incidenčním sporem (§ 198/§ 199).
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento oddíl proto nepředstavuje negativní rešeršní závěr.
 
-**Typicky rozhodné důkazy / podklady:** přihláška a doklady popírané pohledávky, listiny prokazující zánik/promlčení/výši (smlouvy, zápočty, úhrady), zástavní a jiné zajišťovací listiny, zápis z přezkumného jednání s vyznačením popření.
+#### Výklad
+
+[1] **Oddělení výše a pořadí.** Odstavec 1 brání automatickému přenosu účinku mezi dvěma předměty popření. Popření výše ponechává nedotčeno pořadí; popření pořadí ponechává nedotčeny pravost i výši. Má-li popěrný úkon zasáhnout více těchto předmětů, musí být každý z nich vymezen podle pravidel § 193 až § 195.
+
+[2] **Popření zajištění jako popření pořadí.** Popření práva na uspokojení pohledávky ze zajištění je podle § 195 druhem popření pořadí. § 196 odst. 2 nemění toto obsahové zařazení; za stanovených podmínek k němu připojuje účinky popření pravosti nebo výše.
+
+[3] **Nositel rozhodné vlastnosti.** Podmínka, že pohledávku lze vůči dlužníku uspokojit pouze z majetku poskytnutého k zajištění, se vztahuje k zajištěnému věřiteli, jehož pohledávka a právo na uspokojení ze zajištění jsou popírány. Nevztahuje se k osobě, která popěrný úkon činí. Vlastnosti popírajícího proto samy zvláštní účinek odstavce 2 nezaloží.
+
+[4] **Úplný a částečný rozsah.** Je-li za podmínek odstavce 2 právo na uspokojení ze zajištění popřeno zcela, zákon mu přiznává tytéž účinky jako popření pravosti pohledávky. Je-li popřeno jen zčásti, nastupují tytéž účinky jako u popření výše. Rozsah popření práva ze zajištění proto musí být zachycen přesně.
+
+[5] **Meze výjimky.** Není-li splněna osobní a věcná podmínka odstavce 2, zůstává popření práva na uspokojení ze zajištění popřením pořadí a podle odstavce 1 samo neovlivní pravost ani výši pohledávky. Výjimku nelze rozšiřovat jen proto, že je pohledávka přihlášena jako zajištěná.
+
+[6] **Procesní pokračování.** § 196 určuje účinek druhu popření, nikoli sám o sobě osobu povinnou podat navazující žalobu ani její lhůtu. Tyto otázky se posuzují zejména podle § 198 až § 200 se zřetelem k vykonatelnosti pohledávky, osobě popírajícího a způsobu řešení úpadku. Zvláštní účinek odstavce 2 se musí promítnout do navazujícího režimu podle toho, zda jde o účinky popření pravosti, nebo výše.
+
+[7] **Intertemporalita.** Pro přezkum provedený v minulosti je třeba ověřit tehdy účinné znění § 196 i navazujících procesních ustanovení. Aktuální procesní následek nelze bez této kontroly přenést na dřívější řízení; rozhodné mohou být také vykonatelnost, osoba popírajícího a zvláštní pravidla příslušného způsobu řešení úpadku.
+
+#### Judikatura
+
+V této revizi nebylo soudní rozhodnutí použito jako pramen samostatného materiálního závěru. Tím se nevyslovuje, že relevantní judikatura neexistuje; její případné zařazení vyžaduje ověření plného textu z oficiálního soudního webu, skutkového a procesního kontextu, nosného závěru a časové použitelnosti.
 
 ---
 

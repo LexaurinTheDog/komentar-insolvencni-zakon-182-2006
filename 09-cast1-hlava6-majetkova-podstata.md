@@ -18,81 +18,61 @@ Pochopení Hlavy VI je **kritické** pro praxi — určuje, *co* správce zpeně
 
 ## § 205 — Pojem a rozsah majetkové podstaty
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Jestliže insolvenční návrh podal dlužník, náleží do majetkové podstaty majetek, který dlužníkovi patřil k okamžiku, kdy nastaly účinky spojené se zahájením insolvenčního řízení, jakož i majetek, který dlužník nabyl v průběhu insolvenčního řízení.
 > (2) Podal-li insolvenční návrh věřitel, náleží do majetkové podstaty majetek, který dlužníkovi patřil k okamžiku, kdy nastaly účinky předběžného opatření, kterým insolvenční soud zcela nebo zčásti omezil právo dlužníka nakládat s jeho majetkem, majetek, který dlužníkovi patřil k okamžiku, kdy nastaly účinky rozhodnutí o úpadku dlužníka, a majetek, který dlužník nabyl v průběhu insolvenčního řízení poté, co nastaly účinky těchto rozhodnutí.
 > (3) Je-li dlužník spoluvlastníkem majetku podle odstavců 1 a 2, náleží do majetkové podstaty podíl dlužníka na tomto majetku. Majetek podle odstavců 1 a 2 náleží do majetkové podstaty i tehdy, je-li ve společném jmění dlužníka a jeho manžela.
 > (4) Majetek jiných osob než dlužníka náleží do majetkové podstaty, stanoví-li to zákon, zejména jde-li o plnění z neúčinných právních úkonů. Pro účely zpeněžení se na takový majetek pohlíží jako na majetek dlužníka.
 
-### Výklad — **VSTUPNÍ PARAGRAF**
+### Přehled výkladu
 
-#### Rozhodný okamžik zahrnutí (odst. 1 — 2)
+§ 205 vymezuje rozsah majetkové podstaty především podle toho, kdo podal insolvenční návrh a kdy dlužníku majetek patřil nebo jej nabyl. Odstavec 3 řeší spoluvlastnictví a společné jmění; odstavec 4 připouští zahrnutí majetku jiné osoby jen tehdy, stanoví-li to zákon.
 
-**Dlužnický návrh** (odst. 1):
-- *majetek dlužníka k okamžiku účinků zahájení IR* (= zveřejnění vyhlášky),
-- *+ majetek nabytý v průběhu IR*.
+### Souvisící ustanovení
 
-**Věřitelský návrh** (odst. 2) — *trojí časový rámec*:
-- *majetek k okamžiku účinků předběžného opatření* (pokud bylo nařízeno),
-- *majetek k okamžiku účinků rozhodnutí o úpadku*,
-- *majetek nabytý po těchto rozhodnutích*.
+- § 109 odst. 4 — okamžik vzniku účinků zahájení insolvenčního řízení.
+- § 111 — omezení dlužníka při nakládání s majetkovou podstatou po zahájení řízení.
+- § 206 až 208 — obsah podstaty a zákonné výluky.
+- § 217 — soupis majetkové podstaty.
+- § 235 až 243 — neúčinnost právních úkonů a plnění do majetkové podstaty.
+- § 268 až 274 — vypořádání společného jmění manželů v konkursu.
 
-> *Rozdíl*: dlužníkův návrh = *od zahájení* (dlužník už ví, co dělá); věřitelský návrh = *až od úpadku/PO* (dlužník nemusel vědět o návrhu, dispozice před úpadkem zůstávají platné, s výjimkou neúčinných úkonů — § 235 a násl.).
+### Souvisící předpisy
 
-#### Spoluvlastnictví a SJM (odst. 3)
+Určení, zda a kdy konkrétní majetkové právo dlužníku patřilo nebo je nabyl, se řídí také předpisem upravujícím vznik, převod či přechod daného práva. Tento obecný odkaz nenahrazuje ověření příslušné zvláštní úpravy podle druhu majetku.
 
-- *spoluvlastnictví*: do podstaty patří **podíl** dlužníka,
-- *SJM*: **celý** majetek SJM → vypořádává se podle § 268 (incidenční spor o vypořádání).
+### Z důvodové zprávy
 
-#### Majetek třetích osob (odst. 4)
+Původní důvodová zpráva zdůrazňuje, že časový rozsah podstaty je v odstavcích 1 a 2 diferencován podle toho, zda návrh podal dlužník, nebo věřitel. K odstavci 4 uvádí, že majetek třetí osoby lze zahrnout jen na základě výslovného ustanovení zákona a že se na něj při zpeněžení pohlíží jako na majetek dlužníka.
 
-Vzácně do podstaty patří i **majetek třetích osob** — pokud to *stanoví zákon*. Hlavní příklad: **plnění z neúčinných právních úkonů** (§ 235 a násl. — to, co dlužník neúčinně převedl, *vrací se* do podstaty). Pro účely *zpeněžení* se s tímto majetkem zachází jako s vlastním dlužníkovým.
+### Literatura
 
-### Vazby
+Odborná literatura je rozhodnutím editora odložena do druhého kola; tento oddíl nepředstavuje negativní rešerši.
 
-- **§ 109 odst. 4** — okamžik účinků zahájení.
-- **§ 235 — § 243** — neúčinné úkony.
-- **§ 268** — vypořádání SJM.
+### Výklad
 
-### Praktická poznámka
+[1] U dlužnického návrhu zahrnuje odstavec 1 dvě časové skupiny: majetek, který dlužníku patřil v okamžiku vzniku účinků zahájení řízení, a majetek, který nabyl v jeho průběhu. Účinky zahájení podle § 109 odst. 4 nastávají zveřejněním vyhlášky v insolvenčním rejstříku, nestanoví-li zákon pro zahraniční hlavní řízení jinak.
 
-V praxi je důležité **přesné určení okamžiku** — co dlužník vlastnil *v rozhodný den*. Klíčové pro pohledávky, akcie, podíly. Pro nemovitosti rozhoduje **zápis v katastru** *k danému dni*, ne datum kupní smlouvy.
+[2] U věřitelského návrhu odstavec 2 váže rozsah podstaty na účinky omezujícího předběžného opatření, bylo-li vydáno, a na účinky rozhodnutí o úpadku. Zahrnuje také majetek nabytý v průběhu řízení poté, co nastaly účinky těchto rozhodnutí. Při aplikaci je proto nutné určit konkrétní rozhodnutí i okamžik jeho účinků.
 
-### F. Kazuistika
+[3] § 205 sám neurčuje, kdy vzniklo, přešlo nebo bylo převedeno jednotlivé majetkové právo. Pozdější zápis, výplata, potvrzení nebo procesní rozhodnutí proto bez dalšího nedokazuje, že dlužník majetek nabyl právě tímto pozdějším okamžikem; rozhodná je právní úprava daného majetkového práva. Tím je odstraněna dřívější chybná kazuistika, která zaměňovala okamžik nabytí dědického práva s pozdějším skončením řízení o pozůstalosti.
 
-**1. Modelová situace.** Dlužník (FO podnikatel) podal sám insolvenční návrh; vyhláška o zahájení řízení byla zveřejněna 1. 3. Dne 15. 2. (tedy před zahájením) dlužník prodal sousedovi automobil a kupní cenu utratil; dne 20. 3. (po zahájení) mu byla připsána pohledávka z dědictví po zemřelém otci (dědické řízení skončilo 18. 3.). Správce řeší, co patří do podstaty. Účastníci: dlužník, soused (nabyvatel auta), správce, věřitelé. Důkazy: kupní smlouva s datem 15. 2., výpis z katastru a registru vozidel k 1. 3., usnesení o dědictví, výpisy z účtů.
+[4] Je-li dlužník spoluvlastníkem, náleží podle odstavce 3 do podstaty jeho podíl, nikoli bez dalšího celá společná věc. U majetku ve společném jmění zákon stanoví, že do podstaty náleží; jeho vypořádání při konkursu podrobně upravují § 268 až 274.
 
-**2. Právní otázka.** Náleží do majetkové podstaty (a) automobil převedený před zahájením a (b) dědictví nabyté po zahájení řízení?
+[5] Majetek jiné osoby je výjimkou z dlužnického základu podstaty. Odstavec 4 vyžaduje zákonné ustanovení; jako příklad uvádí plnění z neúčinných právních úkonů. Samotný hospodářský prospěch pro věřitele nebo pouhé sepsání majetku takový zákonný titul nenahrazuje.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 205 odst. 1 — u dlužnického návrhu náleží do podstaty majetek dlužníka k okamžiku účinků zahájení IR (zveřejnění vyhlášky, § 109 odst. 4) **a** majetek nabytý v průběhu řízení.
-- *Související ustanovení téhož zákona:* § 109 odst. 4 (okamžik účinků zahájení); § 111 (omezení dispozic po zahájení); § 235 a násl. (neúčinné úkony — cesta zpět pro majetek převedený před zahájením); § 268 (vypořádání SJM).
-- *Související předpisy:* § 1475 a násl. OZ (nabytí dědictví), § 502 OZ (závod).
-- *Judikatura:* k pojetí pohledávek do podstaty NSS 3 Afs 134/2014 (§ 206 odst. 1 písm. h) — pohledávky, i podmíněné a nesplatné, tvoří podstatu); obecně nosný závěr, že rozhodný je faktický stav vlastnictví k rozhodnému dni, nikoli datum titulu.
+[6] Rozsah podle § 205 nelze číst izolovaně. § 206 vyjmenovává druhy majetku a § 207 a 208 stanoví výluky. Soupis podle § 217 majetek eviduje, avšak otázku, zda do podstaty náleží, je třeba posoudit podle hmotněprávních a insolvenčních pravidel.
 
-**4. Subsumpce.** Automobil byl převeden 15. 2., tj. **před** rozhodným okamžikem (1. 3.) — k 1. 3. dlužníkovi již nepatřil, do podstaty podle § 205 odst. 1 přímo nespadá. Dědictví: dědic nabývá k okamžiku smrti zůstavitele (§ 1479 OZ), ale nárok se zařazuje jako majetek nabytý v průběhu řízení — splňuje znak „majetek nabytý v průběhu IR".
+[7] Při časové aplikaci je rozhodné znění účinné pro posuzovaný případ. Tento komentář zachycuje stav práva k 19. 7. 2026 a nepřenáší bez dalšího závěry na případy podřízené dřívějšímu znění.
 
-**5. Řešení.** Dědictví (resp. jeho hodnota) patří do podstaty jako majetek nabytý v průběhu řízení. Automobil přímo nepatří; správce však může napadnout převod z 15. 2. odpůrčí žalobou podle § 235 a násl. (zvýhodnění/zkrácení věřitelů), je-li v zákonné lhůtě a splní-li znaky neúčinnosti — pak se plnění vrací do podstaty (§ 205 odst. 4). Procesně: zápis dědictví do soupisu (§ 217), prověření okolností prodeje auta.
+[8] Praktická kontrola má nejprve určit navrhovatele a rozhodný okamžik, poté u každé položky ověřit právní titul a okamžik nabytí, případné spoluvlastnictví či společné jmění, zákonný titul pro majetek jiné osoby a nakonec výluky podle § 207 a 208.
 
-**6. Varianty.** (a) Kdyby návrh podal věřitel (odst. 2), rozhodný by byl okamžik účinků PO nebo úpadku — dispozice před úpadkem by zůstávaly platné (mimo neúčinnost). (b) Kdyby auto bylo prodáno až po zahájení, šlo by o porušení § 111 a převod by byl vůči věřitelům neúčinný přímo ze zákona.
+### Judikatura
 
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Dědictví dlužník nabyl ke dni smrti otce, který nastal před zahájením — nepatří tedy do podstaty." Neutralizace: i kdyby okamžik nabytí předcházel zahájení, jde o majetek, který se v řízení teprve realizuje; klíčové je, že hodnota připadne dlužníkovi v průběhu řízení a slouží uspokojení věřitelů. Současně lze argumentovat účinky § 205 odst. 1 věty za středníkem (majetek nabytý v průběhu IR).
-- *Protiargument:* „Prodej auta byl za tržní cenu, nelze ho napadnout." Neutralizace: i úplatný převod může být neúčinný, byl-li zkracující nebo zvýhodňující (§ 240–241); rozhodné je posouzení podle § 235 a násl., ne pouhá adekvátnost ceny.
-- *Slabé místo:* přesné určení rozhodného dne u nehmotných aktiv a pohledávek (kdy „patřily" dlužníkovi) — nutno doložit listinami; u nemovitostí rozhoduje stav zápisu v katastru k rozhodnému dni, nikoli datum smlouvy.
-
-### H. Praktický závěr
-
-Ustanovení vymezuje časový a věcný rozsah podstaty: u dlužnického návrhu od zahájení + přírůstky během řízení, u věřitelského návrhu od PO/úpadku. Spoluvlastnický podíl a celé SJM se zahrnují, majetek třetích osob jen, stanoví-li to zákon (neúčinné úkony).
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Určit typ návrhu (dlužnický × věřitelský) a podle něj rozhodný okamžik (§ 109 odst. 4, PO, úpadek).
-- [ ] Zjistit faktický stav vlastnictví dlužníka k rozhodnému dni (katastr, registry, účty).
-- [ ] Identifikovat majetek nabytý v průběhu řízení (dědictví, výhry, příjmy).
-- [ ] Posoudit dispozice před rozhodným okamžikem z hlediska neúčinnosti (§ 235 a násl.).
-- [ ] U SJM iniciovat vypořádání (§ 268); u spoluvlastnictví sepsat podíl.
-
-**Typicky rozhodné důkazy / podklady:** výpisy z katastru a registru vozidel k rozhodnému dni, výpisy z bankovních účtů, kupní/darovací smlouvy s daty, usnesení o dědictví, seznam majetku dlužníka (§ 104).
+V tomto kole není uváděna judikatura. Dřívější odkaz na rozsudek NSS sp. zn. 3 Afs 134/2014 byl odstraněn, protože k němu jednotka neměla fyzický snapshot plného oficiálního textu a původní komentář mu připisoval širší závěr bez ověřeného nosného odůvodnění.
 
 ---
 

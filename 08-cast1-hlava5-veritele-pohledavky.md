@@ -1663,52 +1663,70 @@ Judikatura nebyla použita jako pramen samostatného materiálního závěru. D�
 
 ## § 189 — Seznam přihlášených pohledávek
 
-Správce **sestavuje seznam přihlášených pohledávek** (popření výslovně vyznačí). Pohledávky vyloučené z uspokojení a ty, k nimž se nepřihlíží, se *nezařazují*. Zajištění věřitelé *zvlášť*. **Zveřejnění v rejstříku** *nejpozději 15 dnů* před přezkumem (10 dní, pokud přezkum do 30 dnů po lhůtě).
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**U oddlužení**: spolu se zprávou o přezkumu.
+### Znění ustanovení
 
-*Pouze na elektronickém formuláři*.
+> **§ 189**
+>
+> **Seznam přihlášených pohledávek**
+>
+> (1) Insolvenční správce sestaví seznam přihlášených pohledávek; u pohledávek, které popírá, to výslovně uvede. Do seznamu se nezařazují pohledávky, ke kterým se nepřihlíží, pohledávky vyloučené z uspokojení a další pohledávky, u kterých to stanoví zákon. Zajištění věřitelé se v seznamu uvádějí zvlášť. U každého věřitele musí být uvedeny údaje potřebné k jeho identifikaci a údaje pro posouzení důvodu vzniku, výše a pořadí jeho pohledávky; u zajištěných věřitelů se navíc uvádí důvod a způsob zajištění. V seznamu se zvlášť vyznačí pohledávky vykonatelné a pohledávky přihlášené jako podmíněné osobami, od kterých může věřitel požadovat plnění podle § 183 odst. 1 a 2. V seznamu se vyznačí návrh na rozhodnutí o hlasovacím právu u pohledávek, které zatím nejsou přezkoumány, a údaj o existenci propojení podle § 53 odst. 1, 3 a 5, je-li insolvenčnímu správci známa.
+>
+> (2) Seznam přihlášených pohledávek insolvenční správce sestavuje a doplňuje tak, aby jej mohl uzavřít neprodleně po skončení lhůty k podání přihlášek pohledávek a v dostatečném předstihu před termínem konání přezkumného jednání. Účastníci jsou oprávněni u insolvenčního správce nahlédnout do seznamu přihlášených pohledávek a do dokladů, na jejichž základě byl sestaven.
+>
+> (3) Seznam přihlášených pohledávek zveřejní insolvenční soud v insolvenčním rejstříku nejpozději 15 dnů přede dnem, kdy se o nich má konat přezkumné jednání, a má-li se přezkumné jednání konat do 30 dnů po uplynutí lhůty k přihlášení pohledávek, nejpozději 10 dnů přede dnem, kdy se o nich má konat přezkumné jednání. Je-li způsobem řešení úpadku oddlužení, zveřejní insolvenční soud v insolvenčním rejstříku seznam přihlášených pohledávek spolu se zprávou o přezkumu. Insolvenční soud dále bez zbytečného odkladu zveřejní v insolvenčním rejstříku každou změnu seznamu přihlášených pohledávek a zprávy o přezkumu.
+>
+> (4) Seznam přihlášených pohledávek se předkládá pouze na elektronickém formuláři, jehož náležitosti a formát stanoví prováděcí právní předpis.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *ÚS* [I.ÚS 1549/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-1549-11_1) — nález, 23. 4. 2015
-  > „Právě za tímto účelem stanoví zákon lhůty, do kdy má být sestaven seznam přihlášených pohledávek a kdy se má pak konat přezkumné jednání. … Jde o to, že insolvenční soud musí umožnit, aby měl přihlášený věřitel možnost seznámit se s ostatními přihlášenými pohledávkami a zároveň přiměřenou lhůtu k tomu, aby mohl učinit případný popěrný úkon"
+§ 189 rozděluje odpovědnost mezi insolvenčního správce, který seznam sestavuje, doplňuje a uzavírá, a insolvenční soud, který jej zveřejňuje v insolvenčním rejstříku. Seznam soustřeďuje údaje potřebné pro přezkum a navazující výkon procesních práv; není pouhým soupisem všech doručených přihlášek. Zákon výslovně určuje nezařazované pohledávky, zvláštní členění a označení pohledávek i věřitelů, právo účastníků nahlížet a elektronickou formu.
 
-### F. Kazuistika
+### Souvisící ustanovení
 
-**1. Modelová situace.** Insolvenční správce S sestavil seznam přihlášených pohledávek, do nějž omylem zařadil i pohledávku P1, k níž soud již rozhodl, že se k ní nepřihlíží, a pohledávku P2 vyloučenou z uspokojení dle § 170; naopak zajištěné věřitele neuvedl zvlášť. Seznam navíc zveřejnil v insolvenčním rejstříku až 10 dnů před přezkumným jednáním, ačkoli jednání nebylo nařízeno do 30 dnů po uplynutí přihlašovací lhůty. Věřitel V chce před přezkumem zvážit popěrné úkony, ale nemá k tomu dostatek času. Důkazy: seznam, údaje rejstříku o datu zveřejnění, rozhodnutí o nepřihlížení k P1, podklady k vyloučení P2.
+- § 53 odst. 1, 3 a 5 — propojení dlužníka a věřitele a hlasovací právo.
+- § 166 až 167 — uplatnění a uspokojování zajištěných pohledávek.
+- § 170 — pohledávky vyloučené z uspokojení.
+- § 183 odst. 1 a 2 — osoby, od kterých může věřitel požadovat plnění.
+- § 185 a § 188 — nepřihlížení k přihlášce a postup při jejích vadách.
+- § 190 až 192 a § 197 — přezkumné jednání, přezkoumání a zachycení jeho výsledku.
+- § 200 — popření pohledávky přihlášeným věřitelem.
+- § 410 — zpráva o přezkumu a přezkum pohledávek při oddlužení.
 
-**2. Právní otázka.** Které pohledávky se do seznamu přihlášených pohledávek zařazují a které nikoli, jak musí být zveřejněn a v jaké lhůtě, a jaký je význam dodržení této lhůty pro práva věřitelů.
+### Souvisící předpisy
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 189 — správce sestavuje seznam (popření vyznačí), nezařazuje pohledávky vyloučené z uspokojení a ty, k nimž se nepřihlíží; zajištěné věřitele uvádí zvlášť; zveřejnění v rejstříku nejpozději 15 dnů (resp. 10 dnů) před přezkumem; u oddlužení spolu se zprávou o přezkumu; pouze elektronický formulář.
-- *Související ustanovení téhož zákona:* § 188 (nepřihlížení k vadné přihlášce), § 170 (vyloučené pohledávky), § 166–167 (zajištění věřitelé), § 190–191 (přezkumné jednání), § 192 a násl. (popírání).
-- *Související předpisy:* zákon o insolvenčním rejstříku / o doručování vyhláškou; prováděcí vyhláška upravující elektronický formulář seznamu.
-- *Judikatura:* ÚS I.ÚS 1549/11 — lhůty pro sestavení seznamu a konání přezkumu mají věřiteli zajistit možnost seznámit se s ostatními pohledávkami a přiměřený čas k případnému popěrnému úkonu (čl. 36 odst. 1 Listiny).
+- Vyhláška č. 191/2017 Sb., zejména § 1 písm. d) a § 9 — náležitosti formuláře seznamu přihlášených pohledávek a jeho jednotlivých částí.
 
-**4. Subsumpce.** P1 (nepřihlíží se) a P2 (vyloučená dle § 170) nepatří do seznamu (§ 189) → jejich zařazení je vadou. Zajištění věřitelé měli být uvedeni zvlášť → opomenutí je vadou strukturování seznamu. Lhůta 10 dnů platí jen, je-li přezkum do 30 dnů po přihlašovací lhůtě; jinak musí být seznam zveřejněn nejpozději 15 dnů předem → při delším odstupu je 10denní zveřejnění předčasným zkrácením práv věřitelů ve smyslu nálezu I.ÚS 1549/11.
+### Z důvodové zprávy
 
-**5. Řešení.** Správce seznam opraví: vyřadí P1 a P2, zajištěné věřitele uvede odděleně a zajistí včasné zveřejnění (15 dnů, není-li splněna podmínka pro 10denní lhůtu). Bylo-li právo věřitele na seznámení a přípravu popěrného úkonu zkráceno, je namístě odročení přezkumu či jiné zhojení; jinak hrozí zásah do práva na soudní ochranu. Věřitel V se může u soudu (dohlédací činnost) domáhat nápravy lhůty.
+Vládní návrh insolvenčního zákona charakterizoval § 189 stručně jako úpravu náležitostí a zveřejnění seznamu, který správce sestavuje na základě výsledku vlastního přezkoumání pohledávek. Jde o historické vysvětlení původní úpravy; aktuální obsah ustanovení je výsledkem pozdějších novel, zejména zákonů č. 294/2013 Sb. a č. 64/2017 Sb. (sněmovní tisk 1120/0, zvláštní část K § 189, číslovaná s. 199, PDF s. 200).
 
-**6. Varianty.** (a) U oddlužení by se seznam nezveřejňoval samostatně s předstihem, ale spolu se zprávou o přezkumu (§ 189) — režim lhůt se posuzuje jinak. (b) Kdyby přezkumné jednání bylo nařízeno do 30 dnů po přihlašovací lhůtě, postačila by 10denní lhůta zveřejnění a postup by byl bez vady.
+### Literatura
 
-### G. Protiargumenty a rizika
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tím se nevyslovuje závěr, že relevantní literatura neexistuje nebo že byla provedena negativní rešerše.
 
-- *Protiargument:* „Do seznamu patří všechny přihlášené pohledávky, ať jsou vyloučené, či nikoli." — Neutralizace: § 189 výslovně vylučuje pohledávky vyloučené z uspokojení a ty, k nimž se nepřihlíží; jejich zařazení je vadou seznamu.
-- *Protiargument:* „Postačí zveřejnit seznam 10 dnů předem vždy." — Neutralizace: 10denní lhůta je výjimkou pro přezkum konaný do 30 dnů po přihlašovací lhůtě; jinak platí 15 dnů, jinak hrozí zkrácení práv věřitelů (I.ÚS 1549/11).
-- *Slabé místo:* seznam je jen evidenčním podkladem — nezakládá sám zjištění pohledávky; spornou bývá včasnost a úplnost zveřejnění a oddělené uvedení zajištěných věřitelů.
+### Výklad
 
-### H. Praktický závěr
+[1] **Sestavení a rozsah seznamu.** Seznam sestavuje insolvenční správce. Výslovně vyznačí vlastní popření. Nezařazuje pohledávky, ke kterým se nepřihlíží, pohledávky vyloučené z uspokojení ani jiné pohledávky, pro něž tak stanoví zákon. Zařazení přihlášky do seznamu proto nelze mechanicky odvozovat jen z toho, že byla soudu doručena.
 
-§ 189 určuje obsah, formu a lhůtu zveřejnění seznamu přihlášených pohledávek: vyloučené a „nepřihlížené" pohledávky se nezařazují, zajištění věřitelé se uvádějí zvlášť, zveřejnění proběhne 15 (výjimečně 10) dnů před přezkumem na elektronickém formuláři; u oddlužení se seznam připojuje ke zprávě o přezkumu.
+[2] **Povinné údaje a členění.** Zajištění věřitelé se uvádějí zvlášť. Vedle identifikačních údajů věřitele a údajů o důvodu, výši a pořadí pohledávky se u zajištěných věřitelů uvádí důvod a způsob zajištění. Zvlášť se vyznačují vykonatelné pohledávky a zákonem určené podmíněné pohledávky; seznam zachycuje také návrh na rozhodnutí o hlasovacím právu dosud nepřezkoumaných pohledávek a správci známé propojení podle § 53.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Nezařazovat do seznamu pohledávky vyloučené (§ 170) a ty, k nimž se nepřihlíží (§ 188); popření vyznačit.
-- [ ] Zajištěné věřitele uvést v seznamu zvlášť; použít výhradně elektronický formulář.
-- [ ] Dodržet lhůtu zveřejnění (15 dnů, resp. 10 dnů při přezkumu do 30 dnů po přihlašovací lhůtě).
-- [ ] U oddlužení připojit seznam ke zprávě o přezkumu; při zkrácení lhůty zvážit odročení přezkumu.
+[3] **Průběžná práce a uzavření.** Správce seznam průběžně sestavuje a doplňuje. Má jej uzavřít neprodleně po skončení přihlašovací lhůty a současně v dostatečném předstihu před přezkumným jednáním. Vedle následného zveřejnění zákon zajišťuje účastníkům přímé právo nahlédnout u správce do seznamu i podkladových dokladů.
 
-**Typicky rozhodné důkazy / podklady:** sestavený seznam (elektronický formulář), údaje rejstříku o datu zveřejnění, rozhodnutí o nepřihlížení a podklady k vyloučení pohledávek, evidence zajištěných věřitelů.
+[4] **Zveřejnění je úkolem soudu.** Insolvenční správce seznam připravuje, ale v insolvenčním rejstříku jej zveřejňuje insolvenční soud. Obecné minimum činí 15 dnů před přezkumným jednáním. Desetidenní minimum se použije jen tehdy, má-li se přezkumné jednání konat do 30 dnů po uplynutí přihlašovací lhůty. Jde o nejzazší okamžiky zveřejnění, nikoli o dobu, po kterou by seznam nesměl být zveřejněn dříve.
+
+[5] **Oddlužení a změny seznamu.** Je-li způsobem řešení úpadku oddlužení, soud zveřejní seznam spolu se zprávou o přezkumu. Každou změnu seznamu a zprávy o přezkumu zveřejní bez zbytečného odkladu. Tento zvláštní publikační režim nelze zaměňovat s obecnými lhůtami v první větě § 189 odst. 3.
+
+[6] **Elektronický formulář.** Seznam lze předložit pouze na elektronickém formuláři. Jeho obsah konkretizuje § 9 vyhlášky č. 191/2017 Sb.; formulář zahrnuje přehledový list a přezkumné listy pro nezajištěné a zajištěné věřitele. Požadavek se netýká jen způsobu odeslání libovolného dokumentu, ale použití předepsaného formuláře.
+
+[7] **Význam včasného zpřístupnění.** Ústavní soud v nálezu I. ÚS 1549/11 spojil časový prostor před přezkumným jednáním s možností přihlášeného věřitele seznámit se s ostatními pohledávkami a připravit případný popěrný úkon. Nález však řešil konkurs zahájený v roce 2011, částečné zveřejnění seznamu a tehdejší úpravu popěrného práva. Z jeho závěrů nelze bez posouzení konkrétního procesního dopadu dovodit automatické odročení přezkumného jednání nebo neplatnost jeho výsledků.
+
+[8] **Novelizační a intertemporální poznámka.** Zákon č. 294/2013 Sb. rozšířil údaje v seznamu, výslovně upravil jeho průběžné sestavování a prodloužil rozhodné časové intervaly; zákon č. 64/2017 Sb. doplnil údaj o propojení, režim oddlužení, zveřejňování změn a elektronický formulář. Pro konkrétní řízení je proto třeba ověřit rozhodné znění a přechodná ustanovení; historické skutkové okolnosti I. ÚS 1549/11 nesmějí být přeneseny bez tohoto kroku.
+
+### Judikatura
+
+- **Ústavní soud, nález ze dne 23. 4. 2015, sp. zn. I. ÚS 1549/11 (N 83/77 SbNU 197), body 2 až 5 a 72 až 73.** V konkursním řízení vedeném od roku 2011 byl seznam krátce před prvním přezkumným jednáním zveřejněn jen částečně. Ústavní soud zdůraznil, že věřitel musí dostat možnost seznámit se s ostatními přihlášenými pohledávkami a přiměřený čas k případnému popěrnému úkonu. Současně odlišil tehdejší právní režim a neposkytl obecné pravidlo o automatickém procesním následku každého porušení lhůty.
 
 ---
 

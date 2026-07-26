@@ -927,47 +927,56 @@ Pro materiální závěry této revize nebylo použito žádné soudní rozhodnu
 
 ---
 
-## § 220 — § 223 — Další náležitosti soupisu
+## § 220 — Důvod soupisu
 
-### F. Kazuistika
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**1. Modelová situace.** Správce dokončuje soupis: u každé položky uvádí důvod soupisu, ocenění a datum (§ 220), požádá dlužníka o písemné potvrzení správnosti (§ 221) a soupis zveřejní na elektronickém formuláři v insolvenčním rejstříku (§ 222). U zcela předluženého drobného majetku bez tržního zájmu zvažuje, zda nenavrhnout soudu upuštění od ocenění (§ 223). Dlužník potvrzení bez uvedení důvodů odmítne. Účastníci: dlužník, správce, věřitelský výbor, insolvenční soud, věřitelé. Důkazy: vyplněný formulář soupisu s důvody, žádost o potvrzení a odmítnutí dlužníka, návrh na upuštění, zpráva o stavu majetku.
+### Znění ustanovení
 
-**2. Právní otázka.** Jaké další náležitosti musí soupis splňovat (důvod, potvrzení dlužníka, zveřejnění) a kdy lze výjimečně upustit od soupisu nebo ocenění?
+> Vedle označení sepisovaného majetku, jeho ocenění a uvedení dne, kdy byla příslušná položka sepsána, musí být v soupisu vždy uveden i důvod soupisu, případně den a důvod vyloučení sepsaného majetku ze soupisu. V pochybnostech se má za to, že insolvenční správce příslušnou položku sepsal nebo ji ze soupisu vyloučil v den, kdy tuto skutečnost oznámil insolvenčnímu soudu.
+>
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 220 — § 223 jako celek — soupis vždy uvádí důvod soupisu (§ 220), dlužník na žádost písemně potvrdí správnost a odmítnout může jen s důvody (§ 221), soupis se zveřejní na elektronickém formuláři v rejstříku neprodleně (§ 222) a jen výjimečně lze rozhodnutím soudu od soupisu/ocenění upustit (§ 223), pak se předkládá zpráva o stavu majetku.
-- *Související ustanovení téhož zákona:* § 217 (soupis a jeho účinky); § 218 (označení); § 219 (ocenění); § 210 (součinnost dlužníka); § 421 a násl. (insolvenční rejstřík).
-- *Související předpisy:* prováděcí předpis k formulářům; OSŘ subsidiárně (§ 7 IZ); § 81 IZ (pořádková pokuta při nesoučinnosti).
-- *Judikatura:* nosný závěr, že náležitosti soupisu (zejména důvod a identifikace) jsou předpokladem jeho funkce jako podkladu pro zpeněžení a pro ochranu třetích osob; zveřejnění zajišťuje publicitu vůči věřitelům.
+### Přehled výkladu
 
-**4. Subsumpce.** Uvedení důvodu u každé položky je obligatorní (§ 220) — splněno. Bezdůvodné odmítnutí dlužníka potvrdit správnost odporuje § 221 (odmítnout lze jen s důvody) → porušení součinnosti (§ 210). Zveřejnění na elektronickém formuláři je povinné a neprodlené (§ 222). Upuštění od ocenění je výjimečné a vázané na rozhodnutí soudu (§ 223); u zcela předluženého drobného majetku může být důvodné.
+§ 220 stanoví evidenční náležitosti každé položky soupisu i jejího případného vyloučení. Vedle označení, ocenění a dne sepsání vyžaduje důvod soupisu; při vyloučení se zaznamenává jeho den a důvod. Není-li den spolehlivě zjistitelný, zákon jej váže vyvratitelnou domněnkou k oznámení soudu.
 
-**5. Řešení.** Správce soupis s důvody zveřejní v rejstříku neprodleně (§ 222). Bezdůvodné odmítnutí dlužníka nebrání platnosti soupisu, zakládá však porušení součinnosti (event. § 81). Upuštění od ocenění navrhne soudu (§ 223); bude-li povoleno, předloží zprávu o stavu majetku. Procesně: doplnit/ověřit důvody soupisu, zveřejnit, řešit nesoučinnost.
+### Souvisící ustanovení
 
-**6. Varianty.** (a) Kdyby dlužník odmítl potvrzení s relevantními věcnými důvody (sporné vlastnictví), nešlo by o porušení a důvody by se prověřily. (b) Kdyby majetek měl nezanedbatelnou hodnotu, soud by upuštění od ocenění zpravidla nepovolil.
+- § 217 odst. 1 a 2 — pořízení, doplňování a vyloučení majetku ze soupisu,
+- § 218 — označení sepisovaného majetku,
+- § 219 — ocenění sepisovaného majetku,
+- § 222 — elektronický formulář a zveřejnění soupisu a jeho doplnění,
+- § 224 a § 225 — poznámka o právech třetí osoby, vyrozumění a vylučovací žaloba.
 
-### G. Protiargumenty a rizika
+### Souvisící předpisy
 
-- *Protiargument (dlužník):* „Nemusím nic potvrzovat." Neutralizace: § 221 ukládá na žádost správce písemně potvrdit správnost; odmítnout lze jen s uvedením důvodů — bezdůvodné odmítnutí je porušením součinnosti.
-- *Protiargument:* „Soupis nemusí u každé položky uvádět důvod a stačí jej založit do spisu." Neutralizace: § 220 vyžaduje vždy uvedení důvodu soupisu a § 222 výslovně předepisuje zveřejnění na elektronickém formuláři v rejstříku — publicita je obligatorní.
-- *Slabé místo:* upuštění od soupisu/ocenění je výjimečné a podmíněné rozhodnutím soudu; chybné upuštění může ztížit pozdější zpeněžení a kontrolu věřitelů; hranice „výjimečnosti" není ostře vymezena.
+- § 12 odst. 1 písm. l) a m) vyhlášky č. 191/2017 Sb. — formulář obsahuje důvod a datum zapsání nebo vyloučení majetku.
 
-### H. Praktický závěr
+### Z důvodové zprávy
 
-Skupina § 220 — § 223 doplňuje náležitosti soupisu: u každé položky se vždy uvádí důvod soupisu (§ 220), dlužník na žádost správce písemně potvrdí správnost a odmítnout může jen s důvody (§ 221), soupis se zveřejňuje na elektronickém formuláři v insolvenčním rejstříku neprodleně (§ 222) a od soupisu/ocenění lze upustit jen výjimečně rozhodnutím soudu, pak se předkládá zpráva o stavu majetku (§ 223).
+Původní důvodová zpráva charakterizuje § 220 až 224 společně jako podrobnou úpravu náležitostí soupisu a jeho změn. K samotnému § 220 další samostatné vysvětlení nepřipojuje. Srov. vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, zvláštní část, K § 220 až 224, číslovaná s. 203 (PDF s. 204).
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] U každé položky uvést označení, ocenění, datum a důvod soupisu (§ 220).
-- [ ] Vyžádat si od dlužníka písemné potvrzení správnosti; bezdůvodné odmítnutí řešit jako nesoučinnost (§ 221).
-- [ ] Zveřejnit soupis na elektronickém formuláři v insolvenčním rejstříku neprodleně (§ 222).
-- [ ] Upuštění od soupisu/ocenění navrhnout soudu jen výjimečně a doložit důvody (§ 223).
-- [ ] Při upuštění předložit zprávu o stavu majetku.
+### Literatura
 
-**Typicky rozhodné důkazy / podklady:** vyplněný elektronický formulář soupisu s důvody, žádost o potvrzení a odpověď dlužníka, návrh na upuštění a rozhodnutí soudu, zpráva o stavu majetku.
+Odborná literatura nebyla v tomto kole hodnocena; její zpracování je odloženo do druhého kola.
 
-### § 220 — Důvod soupisu
-Vedle označení, ocenění a data — *vždy* uveden **důvod soupisu** (případně den a důvod vyřazení).
+### Výklad
+
+[1] **Položková povinnost.** Důvod soupisu musí být uveden u každé sepsané položky. Nestačí jen obecné vysvětlení pro soupis jako celek, neumožňuje-li určit, z jakého důvodu byla zahrnuta konkrétní majetková hodnota.
+
+[2] **Obsah záznamu.** § 220 spojuje u sepsání čtyři údaje: označení majetku, jeho ocenění, den sepsání a důvod soupisu. Označení a ocenění podrobněji upravují § 218 a § 219; formulářové provedení doplňuje § 12 vyhlášky č. 191/2017 Sb.
+
+[3] **Důvod soupisu.** Záznam má zachytit konkrétní právní a skutkový titul, z něhož správce při zařazení vychází. Je-li vlastnictví nebo zahrnutí majetku do podstaty sporné, § 224 vyžaduje navíc poznámku o dotčené osobě a její písemné vyrozumění.
+
+[4] **Vyloučení ze soupisu.** Jestliže správce majetek ze soupisu vyloučí postupem podle § 217 odst. 2, zaznamená den i důvod vyloučení. Jde o změnu soupisu, nikoli o pouhé odstranění původního záznamu bez zachycení změny.
+
+[5] **Domněnka dne.** V pochybnostech se za den sepsání nebo vyloučení považuje den, kdy správce tuto skutečnost oznámil insolvenčnímu soudu. Formulace „má se za to“ zakládá vyvratitelnou domněnku; průkazný údaj o skutečném dni proto má přednost.
+
+[6] **Časová působnost.** Výklad odpovídá znění účinnému k 19. 7. 2026. Text § 220 se shoduje s původním vládním návrhem; u staršího skutku je přesto třeba ověřit tehdy účinnou podobu souvisejících ustanovení a formulářových pravidel.
+
+### Judikatura
+
+Do tohoto kola nebylo zařazeno žádné rozhodnutí. Dosavadní obecný odkaz na neurčený „nosný závěr“ nebyl podložen plným textem oficiálního rozhodnutí a byl odstraněn; nejde o negativní rešerši judikatury.
 
 ### § 221 — Prohlášení dlužníka
 Dlužník na žádost správce *písemně potvrdí* správnost. Lze odmítnout *jen s důvody*.

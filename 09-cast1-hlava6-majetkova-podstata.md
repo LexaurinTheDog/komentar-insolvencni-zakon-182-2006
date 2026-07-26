@@ -1353,55 +1353,61 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola. Tato poz
 
 ## § 227 — Vyřazení správcem (neprodejné, nedobytné)
 
-> Insolvenční správce může z majetkové podstaty kdykoli v průběhu insolvenčního řízení vyjmout věci, práva, pohledávky nebo jiné majetkové hodnoty, **které nemohou sloužit k uspokojení věřitelů**, zejména **neprodejné věci a nedobytné pohledávky** nebo majetek, na který se vztahuje rozhodnutí o zajištění vydané v trestním řízení a k jehož zpeněžení nebyl udělen souhlas příslušného orgánu činného v trestním řízení. Učiní tak **po předchozím souhlasu věřitelského výboru a insolvenčního soudu**.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> Insolvenční správce může z majetkové podstaty kdykoli v průběhu insolvenčního řízení vyjmout věci, práva, pohledávky nebo jiné majetkové hodnoty, které nemohou sloužit k uspokojení věřitelů, zejména neprodejné věci a nedobytné pohledávky nebo majetek, na který se vztahuje rozhodnutí o zajištění vydané v trestním řízení a k jehož zpeněžení nebyl udělen souhlas příslušného orgánu činného v trestním řízení. Učiní tak po předchozím souhlasu věřitelského výboru a insolvenčního soudu.
+
+### Přehled výkladu
+
+§ 227 dovoluje insolvenčnímu správci odstranit z majetkové podstaty položku, která nemůže sloužit k uspokojení věřitelů. Neprodejné věci, nedobytné pohledávky a vymezený trestněprávně zajištěný majetek jsou zákonné příklady; rozhodující zůstává obecný test využitelnosti pro uspokojení věřitelů. Správce může postupovat kdykoli během řízení, avšak pouze po předchozím souhlasu věřitelského výboru i insolvenčního soudu.
+
+### Souvisící ustanovení
+
+- § 11 — dohlédací činnost insolvenčního soudu,
+- § 217 odst. 2 — vyřazení majetku, který do majetkové podstaty nenáleží,
+- § 226 — návrh dlužníka na vynětí majetku,
+- § 230 — správa majetkové podstaty,
+- § 283 odst. 3 — zpeněžení majetku dotčeného rozhodnutím o zajištění v trestním řízení.
+
+### Souvisící předpisy
+
+- předpisy trestního práva procesního upravující rozhodnutí o zajištění, jeho rozsah a trvání a souhlas příslušného orgánu činného v trestním řízení se zpeněžením.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva označila § 227 za vynětí „z důvodů vhodnosti“, k němuž je za stanovených podmínek oprávněn insolvenční správce. Jde o historické vysvětlení původní koncepce, nikoli o komentář celé dnešní věty, která výslovně zahrnuje také vymezený trestněprávně zajištěný majetek. Srov. vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, zvláštní část, K § 226 a 227, číslovaná s. 204 (PDF s. 205).
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Nejde o negativní rešerši.
 
 ### Výklad
 
-**Iniciativa správce** — *prakticky důležité*:
-- *neprodejné věci* (typicky zastaralé zařízení, opotřebované vybavení bez tržního zájmu),
-- *nedobytné pohledávky* (typicky promlčené, proti zaniklým dlužníkům),
-- *trestněprávně zajištěný majetek* bez souhlasu orgánu.
+[1] **Předmět a iniciativa.** Vyjmout lze věci, práva, pohledávky i jiné majetkové hodnoty. Oprávnění náleží insolvenčnímu správci a lze je využít kdykoli v průběhu insolvenčního řízení; § 227 neupravuje návrh dlužníka ani žalobu třetí osoby.
 
-**Procesní pravidlo**: vyžaduje *souhlas výboru a soudu* — nelze unilaterálně.
+[2] **Materiální test.** Nestačí, že prodej nebo vymáhání je obtížné, pomalé či nákladné. Správce musí podklady vztáhnout k zákonnému závěru, že položka nemůže sloužit k uspokojení věřitelů. Význam mohou mít očekávaný výnos, reálná vymahatelnost a náklady další správy či zpeněžování; žádná jednotlivá indicie však sama nenahrazuje zákonný test.
 
-> *Praktický význam*: vyřazení sníží náklady (správce nemusí dál spravovat / zpeněžovat) a urychlí řízení.
+[3] **Demonstrativní výčet.** Slovo „zejména“ ukazuje, že neprodejné věci a nedobytné pohledávky nejsou uzavřeným výčtem. Zároveň nejde o domněnky: promlčení pohledávky, předchozí neúspěšná nabídka nebo technické zastarání věci je nutno hodnotit v konkrétních okolnostech.
 
-### F. Kazuistika
+[4] **Trestněprávní zajištění.** Zákon výslovně uvádí majetek, na který se vztahuje rozhodnutí o zajištění vydané v trestním řízení a k jehož zpeněžení příslušný orgán činný v trestním řízení neudělil souhlas. Je proto třeba ověřit konkrétní rozsah a trvání zajištění i absenci souhlasu; samotná souvislost majetku s trestním řízením nestačí.
 
-**1. Modelová situace.** V konkursu zůstává po neúspěšných pokusech o zpeněžení (a) zastaralá výrobní linka, o niž není žádný tržní zájem (náklady na skladování a likvidaci převyšují výnos), (b) pohledávka za dlužníkem, který zanikl bez právního nástupce (nedobytná), a (c) automobil, na který bylo vydáno rozhodnutí o zajištění v trestním řízení, k jehož zpeněžení orgán činný v trestním řízení nedal souhlas. Správce chce tyto položky z podstaty vyjmout, aby snížil náklady. Účastníci: správce, věřitelský výbor, insolvenční soud, orgán činný v trestním řízení. Důkazy: neúspěšné nabídky/dražby, doklad o zániku poddlužníka, rozhodnutí o zajištění v trestním řízení.
+[5] **Dvojí předchozí souhlas.** Vyjmutí musí předcházet souhlas věřitelského výboru a insolvenčního soudu. Souhlas jednoho z nich nenahrazuje souhlas druhého a pozdější schválení neodpovídá textu požadujícímu souhlas předchozí.
 
-**2. Právní otázka.** Může správce vyjmout z podstaty neprodejné věci, nedobytné pohledávky a trestněprávně zajištěný majetek a za jakých procesních podmínek?
+[6] **Rozhraní institutů a čas.** § 217 odst. 2 napravuje soupis majetku, který do podstaty nenáleží, zatímco § 226 upravuje návrh dlužníka založený na § 207 nebo § 208. § 227 vychází z toho, že položka je v podstatě, ale nemůže sloužit k uspokojení věřitelů. Pro postup provedený v jiné době je nutné ověřit tehdy účinné znění, zejména u trestněprávně zajištěného majetku.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 227 — správce může kdykoli vyjmout z podstaty hodnoty, které nemohou sloužit k uspokojení věřitelů (zejména neprodejné věci a nedobytné pohledávky nebo majetek pod rozhodnutím o zajištění v trestním řízení bez souhlasu orgánu ke zpeněžení), a to **po předchozím souhlasu věřitelského výboru a insolvenčního soudu**.
-- *Související ustanovení téhož zákona:* § 217 odst. 2 (vyřazení majetku nenáležejícího do podstaty — jiný důvod); § 230 (správa podstaty, vč. vymáhání pohledávek); § 11 (dohlédací činnost).
-- *Související předpisy:* § 79 a násl. tr. řádu (zajištění věci v trestním řízení).
-- *Judikatura:* nosný závěr, že vynětí dle § 227 je nástrojem hospodárnosti řízení a podléhá kontrole věřitelského výboru a soudu (nelze unilaterálně).
+### Praktický checklist
 
-**4. Subsumpce.** Zastaralá linka = neprodejná věc bez tržního zájmu → § 227. Pohledávka za zaniklým poddlužníkem = nedobytná → § 227. Automobil pod trestním zajištěním bez souhlasu ke zpeněžení → výslovně uvedený případ § 227. Podmínkou je předchozí souhlas věřitelského výboru a soudu.
+- [ ] Přesně označit položku a doložit, proč nemůže sloužit k uspokojení věřitelů.
+- [ ] Porovnat očekávaný přínos s reálnou vymahatelností a náklady další správy nebo zpeněžování.
+- [ ] Odlišit § 227 od vyřazení podle § 217 odst. 2 a návrhu dlužníka podle § 226.
+- [ ] U trestněprávního zajištění ověřit rozhodnutí, jeho rozsah a trvání i neudělení souhlasu ke zpeněžení.
+- [ ] Opatřit před vyjmutím souhlas věřitelského výboru i insolvenčního soudu.
 
-**5. Řešení.** Správce navrhne vynětí všech tří položek; nejprve si vyžádá souhlas věřitelského výboru a poté insolvenčního soudu — bez nich vyjmout nelze. Po vynětí klesnou náklady podstaty a řízení se urychlí. Procesně: vynětí je třeba odlišit od vyřazení dle § 217 odst. 2 (tam jde o majetek nenáležející do podstaty, zde o majetek bezcenný pro věřitele).
+### Judikatura
 
-**6. Varianty.** (a) Kdyby u pohledávky existoval reálný (byť obtížný) způsob vymožení, nešlo by o nedobytnost a vynětí by nebylo namístě. (b) Kdyby orgán činný v trestním řízení udělil souhlas se zpeněžením, důvod vynětí trestněprávně zajištěného majetku by odpadl.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument (správce):* „Bezcennou věc mohu vyjmout sám, bez souhlasů." Neutralizace: § 227 výslovně vyžaduje předchozí souhlas věřitelského výboru a soudu — unilaterální vynětí je vadné.
-- *Protiargument (věřitel):* „Pohledávka není nedobytná, jen obtížně vymahatelná." Neutralizace: vynětí je namístě jen u skutečně nedobytných pohledávek; je-li reálná šance na vymožení, převáží povinnost správy a vymáhání (§ 230 odst. 1 písm. d).
-- *Slabé místo:* posouzení „neprodejnosti" a „nedobytnosti" je odhadem; předčasné vynětí může věřitele poškodit; chybný postup bez souhlasů zakládá odpovědnost správce.
-
-### H. Praktický závěr
-
-Správce může kdykoli vyjmout z podstaty hodnoty, které nemohou sloužit k uspokojení věřitelů (neprodejné věci, nedobytné pohledávky, trestněprávně zajištěný majetek bez souhlasu ke zpeněžení), avšak jen po předchozím souhlasu věřitelského výboru a insolvenčního soudu. Účelem je hospodárnost a urychlení řízení.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Doložit, že majetek nemůže sloužit k uspokojení věřitelů (neúspěšné zpeněžení, zánik poddlužníka, trestní zajištění).
-- [ ] Odlišit vynětí dle § 227 (bezcenný majetek) od vyřazení dle § 217 odst. 2 (majetek nenáležející do podstaty).
-- [ ] Vyžádat si předchozí souhlas věřitelského výboru a insolvenčního soudu.
-- [ ] U trestněprávně zajištěného majetku ověřit (ne)udělení souhlasu orgánu činného v trestním řízení.
-- [ ] U pohledávek vyčerpat reálné možnosti vymáhání před závěrem o nedobytnosti.
-
-**Typicky rozhodné důkazy / podklady:** doklady o neúspěšných pokusech o zpeněžení (nabídky, dražby), doklad o zániku poddlužníka bez nástupce, rozhodnutí o zajištění v trestním řízení a stanovisko orgánu, souhlasy věřitelského výboru a soudu.
+Do tohoto kola nebylo zařazeno žádné rozhodnutí. Stávající anonymní tvrzení o „nosném závěru“ nebylo spojeno s plným textem identifikovaného rozhodnutí, a proto bylo odstraněno. Tím se netvrdí, že relevantní judikatura neexistuje.
 
 ---
 

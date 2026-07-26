@@ -619,54 +619,89 @@ Pro materiální závěry této revize nebylo použito žádné soudní rozhodnu
 
 ---
 
-### § 215 — Obsah prohlášení
+## § 215 — Obsah prohlášení
 
-**Taxativní výčet údajů**, které musí dlužník (nebo zástupce) uvést:
-- a) **plátci mzdy** a výše pohledávek,
-- b) **banky a SÚD** — účty, výše, čísla,
-- c) **jiné dlužníky** dlužníka,
-- d) **majetková práva a hodnoty**,
-- e) **movité věci**,
-- f) **nemovitosti**,
-- g) **podnik** a jeho části,
-- h) **další ocenitelné hodnoty**.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-#### F. Kazuistika
+### Znění ustanovení
 
-**1. Modelová situace.** Dlužník (FO) je předvolán k prohlášení o majetku. Při výslechu uvede pouze plátce mzdy a jeden běžný účet, ale zamlčí: druhý zaměstnanecký poměr (další plátce mzdy), pohledávku za bývalým obchodním partnerem (jiný dlužník dlužníka), licenční práva k softwaru (majetková práva) a obchodní podíl. Správce později z registrů zjistí všechna zamlčená aktiva. Účastníci: dlužník, správce, věřitelský výbor, soudce. Důkazy: protokol o prohlášení, výpisy z ČSSZ a OR, licenční smlouva, uznání dluhu partnerem.
+> (1) V prohlášení o majetku je předvolaný vždy povinen uvést
+>
+> a) plátce mzdy dlužníka nebo jiného jeho příjmu postižitelného srážkami ze mzdy a výši této pohledávky,
+>
+> b) banky, pobočky zahraničních bank a spořitelní a úvěrní družstva, u kterých má dlužník účty, výši pohledávek a čísla účtů,
+>
+> c) dlužníky, u nichž má dlužník jiné peněžité pohledávky, důvod a výši těchto pohledávek,
+>
+> d) osoby, vůči nimž má dlužník jiná majetková práva nebo majetkové hodnoty, jejich důvod a hodnotu,
+>
+> e) movité věci dlužníka nebo spoluvlastnický podíl na nich, a kde, popřípadě u koho se nacházejí; totéž platí o vkladních knížkách, vkladních listech a jiných formách vkladů, akciích, směnkách, šecích nebo jiných listinných cenných papírech anebo o jiných listinách, jejichž předložení je nutné k uplatnění práva, jakož i o zaknihovaných a imobilizovaných cenných papírech dlužníka,
+>
+> f) nemovitosti dlužníka nebo spoluvlastnický podíl na nich,
+>
+> g) podnik dlužníka a jeho části, a kde se nachází,
+>
+> h) další práva a jiné majetkové hodnoty, mají-li penězi ocenitelnou hodnotu.
+>
+> (2) Pro označení osob v prohlášení o majetku platí § 103 odst. 1 obdobně.
 
-**2. Právní otázka.** Které údaje musí dlužník v prohlášení o majetku uvést (rozsah taxativního výčtu § 215) a jaký je následek zamlčení jednotlivých kategorií?
+### Přehled výkladu
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 215 — taxativní výčet údajů, které dlužník (nebo zástupce) musí uvést: a) plátci mzdy a výše pohledávek, b) banky a SÚD (účty, výše, čísla), c) jiní dlužníci dlužníka, d) majetková práva a hodnoty, e) movité věci, f) nemovitosti, g) podnik a jeho části, h) další ocenitelné hodnoty.
-- *Související ustanovení téhož zákona:* § 214 (předvolání); § 216 (protokol a prohlášení o úplnosti a pravdivosti); § 206 (obsah majetkové podstaty — vymezuje, co se zjišťuje); § 210 (součinnost).
-- *Související předpisy:* § 260a OSŘ (obsah prohlášení o majetku v exekuci); § 227 TZ (nepravdivé/neúplné prohlášení o majetku).
-- *Judikatura:* nosný závěr, že rozsah prohlášení je vymezen taxativně a dlužník je povinen uvést všechny zákonem požadované kategorie; zamlčení kterékoli z nich zakládá neúplnost prohlášení s trestněprávním dopadem.
+§ 215 stanoví povinný obsah prohlášení o majetku. Nestačí pouze pojmenovat druh majetku: podle konkrétního písmene je třeba uvést také zákonem požadované osoby a identifikační údaje, zejména výši či důvod pohledávky, číslo účtu, hodnotu nebo umístění. Odstavec 2 současně vyžaduje obdobné použití pravidel § 103 odst. 1 pro označení osob.
 
-**4. Subsumpce.** Druhý zaměstnanecký poměr = další plátce mzdy → písm. a). Pohledávka za partnerem = jiný dlužník dlužníka → písm. c). Licenční práva = majetková práva a hodnoty → písm. d). Obchodní podíl → spadá pod ocenitelné hodnoty/majetková práva (písm. d, h). Zamlčení kterékoli z těchto taxativně vymezených kategorií činí prohlášení neúplným a naplňuje § 227 TZ.
+### Souvisící ustanovení
 
-**5. Řešení.** Dlužník byl povinen uvést všech osm kategorií v rozsahu, v jakém se ho týkají; opomenutí plátce mzdy, dlužníkova dlužníka, licenčních práv i podílu zakládá neúplné prohlášení. Správce zjištěná aktiva dodatečně sepíše (§ 217) a zváží trestní oznámení (§ 227 TZ). Procesně: protokol zachytí, co dlužník uvedl; rozpor s později zjištěným stavem slouží jako důkaz neúplnosti.
+- § 103 odst. 1 — údaje pro označení osob;
+- § 206 — obsah majetkové podstaty;
+- § 209 až § 213 — zjišťování majetkové podstaty a součinnost;
+- § 214 — předvolání a základní rámec prohlášení o majetku;
+- § 216 — protokol, prohlášení o úplnosti a pravdivosti a účast insolvenčního správce a věřitelského výboru;
+- § 217 — soupis majetkové podstaty.
 
-**6. Varianty.** (a) Kdyby dlužník neměl některou z kategorií (např. žádnou nemovitost), uvedl by to negativním prohlášením — to není neúplnost. (b) Kdyby šlo o údaj mimo taxativní výčet § 215, jeho neuvedení by samo o sobě neúplnost prohlášení nezakládalo (byť by aktivum patřilo do podstaty).
+### Souvisící předpisy
 
-#### G. Protiargumenty a rizika
+Samostatná úprava prohlášení o majetku při výkonu rozhodnutí je obsažena v § 260a až § 260h zákona č. 99/1963 Sb., občanského soudního řádu. Pro insolvenční řízení však obsah prohlášení upravuje přímo § 214 až § 216 insolvenčního zákona; obecnou úpravu výkonu rozhodnutí proto nelze bez dalšího zaměňovat s komentovaným ustanovením.
 
-- *Protiargument (dlužník):* „Licenční práva a podíl jsem nepovažoval za majetek, který se uvádí." Neutralizace: písm. d) a h) výslovně zahrnují majetková práva a další ocenitelné hodnoty; jejich penězi ocenitelná hodnota zakládá povinnost je uvést.
-- *Protiargument:* „Stačí, že jsem uvedl hlavní majetek." Neutralizace: výčet § 215 je taxativní a dlužník je povinen uvést všechny relevantní kategorie; selektivní prohlášení je neúplné.
-- *Slabé místo:* prohlášení podchytí jen taxativně vymezené kategorie — některá netypická aktiva (kryptoaktiva) je nutno podřadit pod písm. d)/h), což může být sporné; prokázání úmyslu pro § 227 TZ vyžaduje hodnocení okolností.
+### Z důvodové zprávy
 
-#### H. Praktický závěr
+Zvláštní část důvodové zprávy k vládnímu návrhu insolvenčního zákona, sněmovní tisk 1120/0, k § 209 až § 216 (číslovaná s. 203, PDF s. 204), označuje § 209 až § 216 za komplexní úpravu zjišťování majetkové podstaty. Uvádí také, že § 214 až § 216 jsou samostatnými ustanoveními o prohlášení o majetku, která pro insolvenční řízení nahrazují tehdejší úpravu § 260a až § 260k občanského soudního řádu. Jde o vysvětlení původní koncepce návrhu, nikoli o náhradu kontroly aktuálního znění.
 
-Obsah prohlášení o majetku je vymezen taxativně (§ 215): dlužník musí uvést plátce mzdy, banky a SÚD, jiné dlužníky dlužníka, majetková práva a hodnoty, movité věci, nemovitosti, podnik a jeho části a další ocenitelné hodnoty. Zamlčení kterékoli z těchto kategorií činí prohlášení neúplným a může zakládat trestní odpovědnost (§ 227 TZ).
+### Literatura
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Projít s dlužníkem všech osm taxativních kategorií § 215 a u každé vyžadovat údaj (i negativní).
-- [ ] Zvlášť ověřit plátce mzdy (i souběžné), účty (vč. SÚD), dlužníky dlužníka a podíly.
-- [ ] Netypická aktiva (licence, kryptoaktiva) podřadit pod písm. d)/h).
-- [ ] Rozpor prohlášení se zjištěným stavem doložit a zjištěný majetek dodatečně sepsat (§ 217).
-- [ ] Při neúplnosti zvážit trestní oznámení (§ 227 TZ).
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento oddíl nepředstavuje negativní rešerši.
 
-**Typicky rozhodné důkazy / podklady:** protokol o prohlášení o majetku, výpisy z ČSSZ (plátci mzdy), z bank a SÚD, z obchodního rejstříku (podíly), licenční a jiné smlouvy (majetková práva), uznání dluhu dlužníky dlužníka.
+### Výklad
+
+[1] **Funkce ustanovení.** § 215 konkretizuje obecný požadavek § 214 odst. 3, aby předvolaný uvedl, který majetek náleží do majetkové podstaty. Ustanovení upravuje obsah výpovědi; předvolání a poučení řeší § 214, zatímco zachycení prohlášení a výslovné potvrzení úplnosti a pravdivosti řeší § 216.
+
+[2] **Rozsah povinnosti.** Slovo „vždy“ v odstavci 1 znamená, že při prohlášení nelze některou z položek pominout jen proto, že ji předvolaný pokládá za málo významnou. Povinnost se vztahuje na údaje, které připadají u majetku dlužníka v úvahu. Je-li určitá kategorie bez obsahu, je z hlediska úplnosti prohlášení vhodné tuto skutečnost výslovně zachytit; to je praktické doporučení editora, nikoli další textová náležitost stanovená § 215.
+
+[3] **Příjmy, účty a peněžité pohledávky.** Písmeno a) spojuje označení plátce mzdy nebo jiného postižitelného příjmu s výší pohledávky. Písmeno b) vyžaduje označení příslušné banky, pobočky zahraniční banky nebo spořitelního a úvěrního družstva, výši pohledávky a číslo účtu. U jiných peněžitých pohledávek podle písmene c) musí být uveden dlužník, důvod a výše pohledávky.
+
+[4] **Jiná práva a majetkové hodnoty.** Písmeno d) míří na osoby, vůči nimž má dlužník jiná majetková práva nebo majetkové hodnoty, a vyžaduje jejich důvod a hodnotu. Písmeno h) zachycuje další práva a jiné majetkové hodnoty, mají-li penězi ocenitelnou hodnotu. Konkrétní zařazení netypického aktiva je nutno odvodit z jeho právní povahy; bez jejího zjištění nelze mechanicky zvolit písmeno d) nebo h).
+
+[5] **Věci, listiny a cenné papíry.** U movitých věcí a spoluvlastnických podílů podle písmene e) se uvádí také místo, popřípadě osoba, u níž se nacházejí. Totéž písmeno výslovně zahrnuje vyjmenované formy vkladů, listinné i zaknihované a imobilizované cenné papíry a listiny nutné k uplatnění práva. Písmeno f) samostatně požaduje nemovitosti a spoluvlastnické podíly na nich.
+
+[6] **Podnik a jeho části.** Podle písmene g) se uvádí podnik dlužníka, jeho části a jejich umístění. Výklad zachovává zákonné označení „podnik“; při práci s konkrétním případem je třeba současně zohlednit terminologii a právní kvalifikaci podle předpisů použitelných na daný majetek.
+
+[7] **Označení osob.** Odkaz v odstavci 2 činí pro označení osob obdobně použitelným § 103 odst. 1. Fyzická osoba se proto označuje jménem, příjmením a bydlištěm (sídlem), a jde-li o podnikatele, též identifikačním číslem. Právnická osoba se označuje obchodní firmou nebo názvem, sídlem a identifikačním číslem; u státu se uvádí příslušná organizační složka, která před insolvenčním soudem vystupuje.
+
+[8] **Vztah k soupisu.** Prohlášení je jedním z podkladů zjišťování majetkové podstaty. Samo nenahrazuje soupis podle § 217 ani nerozhoduje s konečnou platností, zda určitá hodnota do majetkové podstaty náleží. Obsah podstaty se posuzuje zejména podle § 205 až § 208 a soupis provádí a doplňuje insolvenční správce podle § 217.
+
+[9] **Časová působnost.** Výklad odpovídá znění účinnému k 19. 7. 2026. U prohlášení činěného v jiné době je nutno ověřit tehdy použitelné znění; původní důvodová zpráva dokládá legislativní koncepci, nikoli sama pozdější účinný text.
+
+### Praktický checklist
+
+- [ ] U každého písmene a) až h) zachytit příslušné údaje, nebo prakticky zaznamenat, že daná kategorie nemá obsah.
+- [ ] Neomezit se na název aktiva; doplnit výši, důvod, hodnotu, číslo účtu či umístění všude, kde to příslušné písmeno vyžaduje.
+- [ ] Osoby označit podle § 103 odst. 1 použitého obdobně.
+- [ ] Oddělit obsah prohlášení (§ 215), protokolaci (§ 216) a následný soupis (§ 217).
+
+### Judikatura
+
+Pro materiální závěry této revize nebylo použito žádné soudní rozhodnutí. Dosavadní anonymní odkaz na „nosný závěr“ byl odstraněn, protože nebyl spojen s plným textem konkrétního oficiálního rozhodnutí. § 215 lze v rozsahu uvedeného výkladu vyložit z ověřeného zákonného textu a jeho systematických vazeb. Tím se netvrdí, že relevantní judikatura neexistuje.
+
+---
 
 ### § 216 — Protokol
 

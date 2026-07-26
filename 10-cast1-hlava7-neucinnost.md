@@ -140,66 +140,60 @@ Do této revize nebylo zařazeno žádné soudní rozhodnutí. V místních kand
 
 ## § 233 — Důsledky neplatnosti
 
-> (1) Je-li pravomocným rozhodnutím zjištěna neplatnost právního úkonu týkajícího se majetku nebo závazků dlužníka, musí být vydán **majetkový prospěch získaný plněním z neplatného právního úkonu**. Insolvenční správce to však může odmítnout, jestliže nedošlo k obohacení majetkové podstaty nebo je-li požadováno více, než činí toto obohacení.
-> (2) Odmítne-li insolvenční správce vydat majetkový prospěch získaný plněním z neplatného právního úkonu nebo nevyřídí-li žádost o jeho vydání v přiměřené lhůtě, lze se jeho vydání domáhat **vylučovací žalobou** podle tohoto zákona, která musí být podána nejpozději **do 30 dnů** ode dne, kdy insolvenční správce osobě, která o vydání majetkového prospěchu žádá, doručil písemné vyrozumění o odmítnutí její žádosti; právo na náhradu škody tím není dotčeno.
-> (3) Platnost smluv, kterými došlo ke zpeněžení plnění, jehož se týká neplatný právní úkon, lze napadnout jen žalobou podanou u insolvenčního soudu nejpozději do skončení insolvenčního řízení; jde o **incidenční spor**.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Je-li pravomocným rozhodnutím zjištěna neplatnost právního úkonu týkajícího se majetku nebo závazků dlužníka, musí být vydán majetkový prospěch získaný plněním z neplatného právního úkonu. Insolvenční správce to však může odmítnout, jestliže nedošlo k obohacení majetkové podstaty nebo je-li požadováno více, než činí toto obohacení.
+>
+> (2) Odmítne-li insolvenční správce vydat majetkový prospěch získaný plněním z neplatného právního úkonu nebo nevyřídí-li žádost o jeho vydání v přiměřené lhůtě, lze se jeho vydání domáhat vylučovací žalobou podle tohoto zákona, která musí být podána nejpozději do 30 dnů ode dne, kdy insolvenční správce osobě, která o vydání majetkového prospěchu žádá, doručil písemné vyrozumění o odmítnutí její žádosti; právo na náhradu škody tím není dotčeno.
+>
+> (3) Platnost smluv, kterými došlo ke zpeněžení plnění, jehož se týká neplatný právní úkon, lze napadnout jen žalobou podanou u insolvenčního soudu nejpozději do skončení insolvenčního řízení; jde o incidenční spor.
+
+### Přehled výkladu
+
+Ustanovení upravuje následky pravomocně zjištěné neplatnosti ve třech krocích: vydání majetkového prospěchu s omezením podle obohacení majetkové podstaty, zvláštní procesní cestu proti odmítnutí nebo nečinnosti insolvenčního správce a časově omezené napadení smlouvy, kterou bylo dotčené plnění zpeněženo.
+
+### Souvisící ustanovení
+
+- § 159 odst. 1 písm. b), f) a h) a odst. 3 až 5 — druhy a další osud incidenčních sporů,
+- § 225 — obecná úprava vylučovací žaloby,
+- § 231 a 232 — zjištění neplatnosti v průběhu insolvenčního řízení a účinek dřívějšího pravomocného rozhodnutí,
+- § 234 — přednost postupu podle § 233 při souběhu neplatnosti a neúčinnosti,
+- § 289 odst. 3 — zvláštní napadení platnosti smlouvy o prodeji mimo dražbu.
+
+### Souvisící předpisy
+
+- zákon č. 89/2012 Sb., občanský zákoník — obecná pravidla neplatnosti právního jednání a bezdůvodného obohacení; při použití v insolvenci je nutné respektovat zvláštní úpravu § 231 až 234 insolvenčního zákona,
+- zákon č. 99/1963 Sb., občanský soudní řád — podpůrná procesní úprava použitelná prostřednictvím § 7 insolvenčního zákona.
+
+### Z důvodové zprávy
+
+Vládní návrh označuje § 231 až 234 za zvláštní úpravu vůči obecným pravidlům neplatnosti. U § 233 zdůrazňuje, že pro rozsah vydání majetkového prospěchu je rozhodné obohacení majetkové podstaty; nevydá-li správce prospěch, má být spor řešen excindační žalobou. Po zpeněžení plnění lze postup napadnout jen za trvání insolvenčního řízení. Odkaz důvodové zprávy na § 451 odst. 2 zákona č. 40/1964 Sb. zachycuje stav při vzniku zákona a není odkazem na obecnou soukromoprávní úpravu účinnou k 19. 7. 2026.
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento oddíl proto nepředstavuje negativní literární rešerši.
 
 ### Výklad
 
-#### Vrácení prospěchu (odst. 1)
+[1] § 233 se použije, je-li neplatnost právního úkonu týkajícího se majetku nebo závazků dlužníka zjištěna pravomocným rozhodnutím. Zda insolvenční soud vychází z vlastního posouzení podle § 231, nebo z rozhodnutí pravomocného již před zahájením insolvenčního řízení podle § 232, je třeba určit podle časového a procesního kontextu.
 
-Při neplatnosti — *restitutio in integrum*: vrátit, co bylo přijato. **Správce může odmítnout**, pokud:
-- *podstata nebyla obohacena* — typicky pokud věc byla zničena, prodána a peníze utraceny,
-- *požadováno víc než obohacení*.
+[2] Základním následkem je povinnost vydat majetkový prospěch získaný plněním z neplatného právního úkonu. Insolvenční správce může vydání odmítnout, jestliže majetková podstata obohacena nebyla; je-li požadováno více, než činí její obohacení, může odmítnout přesahující rozsah. Zákonný test se proto vztahuje k obohacení majetkové podstaty, nikoli pouze k nominální hodnotě původního plnění.
 
-#### Vylučovací žaloba (odst. 2)
+[3] § 233 odst. 2 dává osobě žádající vydání procesní prostředek jak při výslovném odmítnutí správcem, tak při nevyřízení žádosti v přiměřené lhůtě: vylučovací žalobu podle insolvenčního zákona. Žalovaným je insolvenční správce a spor je incidenčním sporem.
 
-Pokud správce odmítne → *vylučovací žaloba* (§ 225) **do 30 dnů**. Toto je *speciální využití vylučovací žaloby* — ne pro vlastnické vyloučení, ale pro restituci z neplatnosti.
+[4] Možnost žalovat pro nečinnost a počátek třicetidenní lhůty nejsou totéž. Třicetidenní lhůta je podle výslovného textu vázána na den, kdy správce žadateli doručil písemné vyrozumění o odmítnutí žádosti. Samotné marné uplynutí přiměřené lhůty nevytváří fikci odmítnutí ani náhradní okamžik, od něhož by třicetidenní lhůta začala běžet.
 
-#### Ochrana kupců (odst. 3)
+[5] Písemné vyrozumění a jeho doručení jsou proto rozhodné pro bezpečné určení počátku lhůty. Zákon současně výslovně zachovává právo na náhradu škody; tím však není nahrazena žaloba na vydání majetkového prospěchu ani její podmínky.
 
-Pokud správce **zpeněžil** majetek získaný z neplatného úkonu, a kupec se v dobré víře dovolává platnosti svého nabytí, lze platnost zpochybnit *jen incidenčním sporem* (do skončení IR). To je *omezená cesta* napadení.
+[6] Byl-li předmět plnění zpeněžen, § 233 odst. 3 upravuje jiný předmět sporu: platnost smlouvy, kterou došlo ke zpeněžení. Takovou platnost lze napadnout jen žalobou u insolvenčního soudu nejpozději do skončení insolvenčního řízení; zákon tento spor výslovně označuje za incidenční. Tento režim nelze směšovat s vylučovací žalobou na vydání majetkového prospěchu podle odstavce 2.
 
-### Vazby
+[7] Jestliže je tentýž právní úkon nejen neplatný, ale současně by mohl být posouzen jako neúčinný, § 234 přikazuje postupovat podle § 233. V konkrétní věci je proto třeba nejprve přesně vymezit právní úkon, pravomocné rozhodnutí o jeho neplatnosti, přijaté plnění, obohacení majetkové podstaty a případné následné zpeněžení.
 
-- **§ 225** — vylučovací žaloba.
-- **§ 159 odst. 1 písm. f)** — incidenční spor o platnost prodejů.
+### Judikatura
 
-### F. Kazuistika
-
-**1. Modelová situace.** Pravomocným rozhodnutím byla zjištěna neplatnost kupní smlouvy, kterou dlužník EPSILON před úpadkem prodal stroj společnosti ZETA za 500 000 Kč. ZETA žádá od správce vrácení zaplacené kupní ceny. Správce zjistí, že do podstaty se z těchto peněz reálně dostalo jen 200 000 Kč (zbytek dlužník před úpadkem utratil). Správce část žádosti odmítá. Důkazy: rozhodnutí o neplatnosti, doklad o úhradě ceny, bankovní výpisy dlužníka prokazující osud peněz, účetnictví.
-
-**2. Právní otázka.** V jakém rozsahu musí správce vydat majetkový prospěch z neplatného úkonu a kdy může vydání odmítnout; jakou žalobou a v jaké lhůtě se může dotčená osoba domáhat vydání po odmítnutí?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 233 odst. 1 IZ (vydání majetkového prospěchu, právo správce odmítnout při absenci obohacení nebo nadměrném požadavku), odst. 2 (vylučovací žaloba do 30 dnů), odst. 3 (napadení zpeněžovacích smluv incidenčním sporem).
-- *Související ustanovení téhož zákona:* § 225 IZ (vylučovací žaloba — zde speciálně využita), § 159 odst. 1 písm. f) IZ (incidenční spor o platnost prodejů), § 231–232 IZ (zjištění neplatnosti).
-- *Související předpisy:* § 2991 a násl. OZ (bezdůvodné obohacení), § 580 OZ (neplatnost).
-- *Judikatura:* zásada *restitutio in integrum* omezená rozsahem skutečného obohacení podstaty — vydává se jen to, oč byla podstata obohacena.
-
-**4. Subsumpce.** Z úhrady 500 000 Kč podstatu obohatilo jen 200 000 Kč. Požadavek ZETA (500 000 Kč) tedy *přesahuje obohacení* — naplněn důvod odmítnutí podle odst. 1 („požadováno více, než činí obohacení"). Správce může vydat 200 000 Kč a zbytek odmítnout. Po doručení písemného vyrozumění o (částečném) odmítnutí běží ZETA 30denní lhůta k vylučovací žalobě (odst. 2).
-
-**5. Řešení.** Správce vydá 200 000 Kč; ohledně zbytku doručí ZETA *písemné vyrozumění o odmítnutí*. ZETA se může vydání domáhat *vylučovací žalobou* podle § 225 podanou *do 30 dnů* od doručení vyrozumění (jinak právo zaniká, právo na náhradu škody zůstává). Procesní krok: správce musí vyrozumění formulovat jednoznačně a evidovat doručení (běh lhůty). Riziko: pokud správce na žádost *nereaguje v přiměřené lhůtě*, otevírá se 30denní okno rovněž (fikce odmítnutí dle odst. 2).
-
-**6. Varianty.** (a) Kdyby se celá kupní cena prokazatelně dostala do podstaty, správce by ji musel vydat celou (žádný důvod k odmítnutí). (b) Kdyby správce mezitím stroj zpeněžil dalšímu kupci v dobré víře, platnost zpeněžovací smlouvy by šlo napadnout jen incidenčním sporem do skončení IR (odst. 3), nikoli vylučovací žalobou.
-
-### G. Protiargumenty a rizika
-
-- *„Neplatnost působí od počátku, proto musí být vráceno celé plnění bez ohledu na osud peněz."* — Neutralizace: § 233 odst. 1 IZ je *lex specialis*, který restituci omezuje na *skutečné obohacení podstaty*; chrání podstatu před vydáním hodnot, které do ní nikdy nedotekly nebo již nejsou.
-- *„30denní lhůta je pořádková, lze ji prominout."* — Slabé místo / riziko: lhůta je *propadná* (právo se vydání domáhat zaniká). Vyrozumění o odmítnutí proto musí být doručeno průkazně; opomenutí žaloby ve lhůtě je fatální (zůstává jen náhrada škody).
-- Slabé místo: hranice mezi „obohacením podstaty" a běžným nákladem dlužníka před úpadkem je skutkově sporná — důkazní břemeno o osudu plnění zatěžuje toho, kdo tvrdí (ne)obohacení.
-
-### H. Praktický závěr
-
-Při zjištěné neplatnosti se vydává majetkový prospěch, avšak jen v rozsahu skutečného obohacení podstaty; správce může vydání nad tento rozsah odmítnout. Po odmítnutí (či nečinnosti správce) se lze domáhat vydání vylučovací žalobou do 30 dnů; zpeněžovací smlouvy lze napadnout jen incidenčním sporem do skončení IR.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Zjistit rozsah skutečného obohacení podstaty plněním z neplatného úkonu (bankovní/účetní stopa).
-- [ ] Posoudit, zda žádost nepřesahuje obohacení nebo zda k obohacení vůbec došlo (důvody odmítnutí dle odst. 1).
-- [ ] Při odmítnutí doručit písemné vyrozumění a hlídat běh 30denní propadné lhůty pro vylučovací žalobu (odst. 2).
-- [ ] U zpeněženého plnění zvážit incidenční spor o platnost zpeněžovací smlouvy do skončení IR (odst. 3).
-
-**Typicky rozhodné důkazy / podklady:** rozhodnutí o neplatnosti, doklady o poskytnutém plnění a jeho hodnotě, bankovní výpisy a účetnictví dlužníka (osud plnění), písemné vyrozumění o odmítnutí s dokladem o doručení, zpeněžovací smlouvy.
+V tomto kole není výklad založen na konkrétním soudním rozhodnutí. Kandidátní výsledek z oficiální soudní databáze nebylo možné znovu otevřít jako úplný text tak, aby byly ověřeny všechny požadované údaje, skutkový a procesní kontext a nosný závěr; proto není použit jako autorita. Výklad stojí na aktuálním oficiálním znění a ověřené důvodové zprávě.
 
 ---
 

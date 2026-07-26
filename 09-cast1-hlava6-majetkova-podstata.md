@@ -509,53 +509,52 @@ V primárních pramenech použitých pro tuto revizi nebylo ověřeno rozhodnut�
 
 ## § 213 — Třetí osoby s dlužníkovým majetkem
 
-> Ten, kdo má u sebe dlužníkův majetek náležející do majetkové podstaty, je povinen to **oznámit insolvenčnímu správci** nebo předběžnému správci, jakmile se dozví o vydání rozhodnutí o úpadku, a uvést právní důvod, na jehož základě má tento majetek u sebe. Na výzvu insolvenčního správce nebo předběžného správce mu musí umožnit prohlídku tohoto majetku a jeho ocenění.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> Ten, kdo má u sebe dlužníkův majetek náležející do majetkové podstaty, je povinen to oznámit insolvenčnímu správci nebo předběžnému správci, jakmile se dozví o vydání rozhodnutí o úpadku, a uvést právní důvod, na jehož základě má tento majetek u sebe. Na výzvu insolvenčního správce nebo předběžného správce mu musí umožnit prohlídku tohoto majetku a jeho ocenění.
+
+### Přehled výkladu
+
+Ustanovení ukládá osobě, která má u sebe dlužníkův majetek náležející do majetkové podstaty, dvě navazující povinnosti: po získání vědomosti o vydání rozhodnutí o úpadku oznámit tuto skutečnost insolvenčnímu nebo předběžnému správci a uvést právní důvod, na jehož základě má majetek u sebe; na výzvu téhož správce pak umožnit prohlídku a ocenění majetku. Samotné oznámení není vázáno na předchozí výzvu.
+
+### Souvisící ustanovení
+
+- § 205 až 208 — rozsah majetkové podstaty a majetek z ní vyloučený,
+- § 209 až 212 — zjišťování majetkové podstaty a součinnost dlužníka,
+- § 217 až 219 — soupis a ocenění jeho položek,
+- § 225 a 226 — vyloučení a vynětí majetku z majetkové podstaty.
+
+### Souvisící předpisy
+
+Povinnost podle § 213 je procesní povinností založenou přímo insolvenčním zákonem. Právní důvod, pro který má třetí osoba majetek u sebe, se posuzuje podle předpisu rozhodného pro konkrétní vztah; bez určení tohoto vztahu nelze obecně přiřadit jediné souvisící ustanovení jiného předpisu.
+
+### Z důvodové zprávy
+
+Zvláštní část důvodové zprávy k původnímu insolvenčnímu zákonu pojednává § 209 až 216 společně. Uvádí, že zjišťování majetkové podstaty je upraveno komplexně, včetně metod, subjektů a jejich oprávnění; k § 213 samostatný podrobnější výklad nepřipojuje. Jde o sněmovní tisk 1120/0, zvláštní část, k § 209 až 216, strana 203 tisku (PDF strana 203).
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní literární rešerše.
 
 ### Výklad
 
-**Aktivní povinnost třetích osob** — kdokoli má u sebe dlužníkův majetek (typicky: úschovna, dopravní podnik s zásilkou, opravna s vozidlem, dlužník-nájemce s pronajatým zařízením):
-- *oznámit správci* jakmile zjistí úpadek,
-- *uvést právní důvod držby*,
-- *umožnit prohlídku a ocenění*.
+[1] **Osobní působnost.** Adresátem je kdokoli, kdo má fakticky u sebe dlužníkův majetek náležející do majetkové podstaty. Rozhodující není označení smlouvy ani pouhá evidence majetku, ale současné splnění obou zákonných znaků: jde o dlužníkův majetek náležející do podstaty a adresát jej má u sebe.
 
-> *Praxe*: rozsáhlé sledování insolvenčního rejstříku obchodními subjekty — banky, leasingové společnosti, dodavatelé pravidelně kontrolují, zda klienti / odběratelé nejsou v insolvenci.
+[2] **Předmět povinnosti.** § 213 sám nerozhoduje spor o to, zda určitá hodnota do majetkové podstaty patří. Jeho hypotéza již příslušnost majetku k podstatě předpokládá. Je-li tato otázka sporná, navazuje režim soupisu a případně prostředky podle § 217 odst. 2, § 225 nebo § 226.
 
-### F. Kazuistika
+[3] **Oznámení a právní důvod.** Oznamovací povinnost vzniká, jakmile se adresát dozví o vydání rozhodnutí o úpadku. Oznámení musí být adresováno insolvenčnímu nebo předběžnému správci a musí obsahovat také právní důvod, na jehož základě má oznamovatel majetek u sebe. Text nevyžaduje, aby správce třetí osobu předem vyzval.
 
-**1. Modelová situace.** Autoservis má v opravě vozidlo dlužníka (FO podnikatele), na kterém uplatňuje zadržovací právo k zajištění neuhrazené opravy (80 000 Kč). Současně advokát drží v advokátní úschově peníze, které mu dlužník svěřil. Po zveřejnění rozhodnutí o úpadku správce zjistí existenci vozidla z dokladů. Servis ani advokát se sami neozvali. Účastníci: dlužník, autoservis, advokát-schovatel, správce. Důkazy: zakázkový list opravy, smlouva o advokátní úschově, výpis z insolvenčního rejstříku, doklady o vlastnictví vozidla.
+[4] **Prohlídka a ocenění.** Druhá povinnost naproti tomu předpokládá výzvu insolvenčního nebo předběžného správce. Jejím obsahem je umožnit prohlídku majetku a jeho ocenění. Ocenění jako součást soupisu dále upravuje § 219.
 
-**2. Právní otázka.** Má autoservis (a advokát) povinnost sám oznámit správci, že má u sebe dlužníkův majetek, a umožnit jeho prohlídku a ocenění, i když uplatňuje vlastní právo (zadržovací/k úschově)?
+[5] **Vlastní právo třetí osoby.** Povinnost uvést právní důvod držení umožňuje zachytit i tvrzené právo třetí osoby. Samotné oznámení, prohlídka ani ocenění však bez dalšího nerozhodují o existenci nebo pořadí tohoto práva ani o příslušnosti majetku k podstatě; tyto otázky se řeší v odpovídajícím hmotněprávním a insolvenčním procesním režimu.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 213 — kdo má u sebe dlužníkův majetek náležející do podstaty, je povinen to oznámit správci, jakmile se dozví o rozhodnutí o úpadku, uvést právní důvod držby a umožnit prohlídku a ocenění.
-- *Související ustanovení téhož zákona:* § 217 (soupis); § 219 (ocenění); § 167, § 298 (zajištěný/zadržovací věřitel); § 225 (vylučovací žaloba třetích osob).
-- *Související předpisy:* § 1395 a násl. OZ (zadržovací právo); § 56 zák. o advokacii (advokátní úschova); § 81 IZ (pořádková pokuta při nesoučinnosti).
-- *Judikatura:* NS 29 ICdo 23/2019 — prostředky neoprávněně vyplacené dlužníkem z advokátní úschovy, jsou-li po navrácení v podstatě rozpoznatelné, zakládají oprávněné osobě vylučovací nárok dle § 225; potvrzuje samostatnost práv třetích osob k drženému majetku.
+[6] **Časová působnost a důkazní hledisko.** Výklad odpovídá znění účinnému k 19. 7. 2026. Pro vznik oznamovací povinnosti je podstatná vědomost adresáta o vydání rozhodnutí o úpadku; při sporu proto mohou být významné zejména obsah a čas komunikace se správcem a doklady o právním důvodu, identitě a umístění majetku. U staršího skutkového děje je třeba ověřit tehdy účinné znění a přechodná ustanovení příslušných novel.
 
-**4. Subsumpce.** Vozidlo je dlužníkovým majetkem náležejícím do podstaty, fyzicky je drží servis → oznamovací povinnost dle § 213. Zadržovací právo nezbavuje servis povinnosti oznámit a umožnit ocenění — chrání se jako zajištěný/zadržovací věřitel, nikoli odepřením součinnosti. Advokátní úschova: jde-li o prostředky dlužníka, oznamovací povinnost rovněž platí.
+### Judikatura
 
-**5. Řešení.** Servis musí oznámit držbu, uvést důvod (zadržovací právo) a umožnit prohlídku/ocenění vozidla; své zajištění uplatní přihláškou (§ 166 a násl.). Advokát oznámí úschovu a její právní povahu. Při nesoučinnosti hrozí pořádková pokuta (§ 81). Procesně: zápis vozidla do soupisu, ocenění, vypořádání zadržovacího práva při zpeněžení.
-
-**6. Varianty.** (a) Kdyby v úschově byly peníze třetí osoby (složitele), nešlo by o majetek dlužníka — oznamovací povinnost dle § 213 by se na ně nevztahovala, oprávněný by měl nárok dle § 225 (srov. NS 29 ICdo 23/2019). (b) Kdyby servis vozidlo bez oznámení vydal dlužníkovi či třetímu, vystavuje se odpovědnosti za škodu.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument (servis):* „Mám zadržovací právo, vozidlo nevydám a nemusím nic oznamovat." Neutralizace: § 213 ukládá oznamovací a součinnostní povinnost nezávisle na hmotném právu k věci; zadržovací právo se uspokojí v rámci řízení, nezakládá právo na utajení.
-- *Protiargument:* „O úpadku jsem se nedozvěděl." Neutralizace: povinnost vzniká, jakmile se osoba o rozhodnutí o úpadku dozví; vzhledem k veřejnosti insolvenčního rejstříku a obvyklému sledování u podnikatelů je tvrzená nevědomost zpravidla neudržitelná.
-- *Slabé místo:* prokázat okamžik vědomí třetí osoby a tím prodlení může být obtížné; § 213 sám výslovně nestanoví sankci — vynucuje se přes obecné nástroje (§ 81, náhrada škody).
-
-### H. Praktický závěr
-
-Každý, kdo má u sebe dlužníkův majetek náležející do podstaty, musí to po zjištění úpadku oznámit správci, uvést právní důvod držby a umožnit prohlídku a ocenění. Vlastní právo k věci (zadržovací, zástavní) povinnost nevylučuje — uplatní se přihláškou.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Po zjištění úpadku obchodního partnera prověřit, zda u sebe nedrží jeho majetek.
-- [ ] Bez odkladu oznámit držbu správci a uvést právní důvod (oprava, úschova, nájem, leasing).
-- [ ] Umožnit správci prohlídku a ocenění věci.
-- [ ] Vlastní zajištění (zadržovací/zástavní) uplatnit přihláškou (§ 166 a násl.), nikoli zadržováním informací.
-- [ ] Při nesoučinnosti počítat s pořádkovou pokutou (§ 81) a odpovědností za škodu.
-
-**Typicky rozhodné důkazy / podklady:** zakázkové/skladové listy a smlouvy dokládající držbu, doklady o vlastnictví dlužníka, smlouva o úschově, výpis z insolvenčního rejstříku, korespondence se správcem.
+Pro tuto revizi nebylo použito žádné soudní rozhodnutí jako opora materiálního tvrzení. Dřívější odkaz na rozhodnutí Nejvyššího soudu sp. zn. 29 ICdo 23/2019 byl odstraněn, protože jeho plný text nebyl v této revizi ověřen jako pramen potřebný k výkladu povinností podle § 213. Tím se netvrdí, že relevantní judikatura neexistuje.
 
 ---
 

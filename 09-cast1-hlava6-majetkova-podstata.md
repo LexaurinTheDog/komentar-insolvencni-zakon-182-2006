@@ -816,53 +816,55 @@ Pro materiální závěry této revize nebylo použito žádné soudní rozhodnu
 
 ## § 218 — Označení majetku
 
-> (1) Majetek náležející do majetkové podstaty se zapisuje do soupisu **samostatnými položkami**. Není-li to vyloučeno jeho povahou, musí být sepisovaný majetek v soupisu **označen způsobem, který umožňuje jeho identifikaci**; to neplatí, jde-li o majetek nepatrné hodnoty. Je-li zde překážka dočasné povahy bránící řádné identifikaci sepisovaného majetku, doplní insolvenční správce označení tohoto majetku neprodleně po jejím odpadnutí.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Majetek náležející do majetkové podstaty se zapisuje do soupisu samostatnými položkami. Není-li to vyloučeno jeho povahou, musí být sepisovaný majetek v soupisu označen způsobem, který umožňuje jeho identifikaci; to neplatí, jde-li o majetek nepatrné hodnoty. Je-li zde překážka dočasné povahy bránící řádné identifikaci sepisovaného majetku, doplní insolvenční správce označení tohoto majetku neprodleně po jejím odpadnutí.
 >
-> (2) Podnik nebo jiná hromadná věc a soubory věcí se zapisují jedinou položkou, ze které však musí být zřejmé, co všechno do podniku nebo souboru věcí náleží v den zápisu do soupisu podstaty.
-> (2) Podnik nebo jiná hromadná věc a soubory věcí se zapisují **jedinou položkou**, ze které však musí být zřejmé, co všechno do podniku nebo souboru věcí náleží v den zápisu do soupisu podstaty.
+> (2) Podnik32) nebo jiná hromadná věc a soubory věcí se zapisují jedinou položkou, ze které však musí být zřejmé, co všechno do podniku nebo souboru věcí náleží v den zápisu do soupisu podstaty.
+
+### Přehled výkladu
+
+§ 218 rozlišuje obecný položkový zápis s identifikací majetku a zvláštní zápis podniku, jiné hromadné věci nebo souboru věcí jedinou položkou. Výjimka pro majetek nepatrné hodnoty se podle textu týká požadavku na identifikační označení; zákon ji neformuluje jako výjimku z požadavku samostatných položek. Dočasná překážka identifikace odkládá doplnění označení pouze do svého odpadnutí.
+
+### Souvisící ustanovení
+
+- § 206 vymezuje obsah majetkové podstaty a její majetkové složky.
+- § 217 upravuje pořízení a průběžné doplňování soupisu.
+- § 219 až 224 upravují ocenění, důvod a den soupisu, prohlášení dlužníka, údaje o zabezpečení a vyrozumění dotčené osoby.
+
+### Souvisící předpisy
+
+Pro pravidlo označení v soupisu nebyl v této revizi použit bezprostřední prováděcí předpis. Význam soukromoprávních pojmů obsažených v odstavci 2 je nutné posuzovat v jejich aktuálním zákonném kontextu; tato revize je bez samostatné pramenné kontroly dále nerozvádí.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva uvádí, že smyslem § 218 je předcházet sporům o to, zda byl určitý majetek seznatelným způsobem sepsán. Jde o historické vysvětlení původního návrhu, nikoli o náhradu aktuálního textu zákona. (Vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, zvláštní část, K § 218, PDF s. 204.)
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento oddíl nepředstavuje negativní rešerši.
 
 ### Výklad
 
-- *Standardně*: každá položka samostatně, s identifikací (typicky výrobní čísla, evidenční čísla, katastrální čísla, RZ vozidel).
-- *Výjimka*: majetek nepatrné hodnoty (typicky drobné kancelářské vybavení).
-- *Podnik a hromadné věci*: **jediná položka** (s detailem ve sběrných seznamech).
+[1] **Samostatné položky.** Obecným pravidlem je zápis majetku samostatnými položkami. Jde o způsob členění soupisu; teprve následující věta odstavce 1 stanoví požadavek, aby označení, není-li to vyloučeno povahou majetku, umožňovalo jeho identifikaci.
 
-### F. Kazuistika
+[2] **Majetek nepatrné hodnoty.** Gramatické spojení „to neplatí“ navazuje na povinnost identifikačního označení. Samo o sobě proto neopravňuje vypustit majetek ze soupisu ani bez dalšího spojit více věcí do jedné položky. Zákon v § 218 neurčuje pevnou peněžní hranici nepatrné hodnoty; posouzení musí vycházet z konkrétní majetkové hodnoty a účelu soupisu. Poslední věta je výkladovým závěrem editora.
 
-**1. Modelová situace.** Dlužníkem je výrobní s.r.o.; do podstaty patří funkční výrobní závod (stroje, zásoby, pohledávky, ochranná známka), flotila 12 osobních vozidel a sklad drobného spotřebního materiálu (šrouby, kancelářské potřeby). Část strojů je momentálně v opravě a nelze odečíst výrobní čísla. Správce řeší, jak majetek v soupisu označit. Účastníci: dlužník, správce, věřitelský výbor, potenciální zájemci o závod. Důkazy: účetnictví, evidence dlouhodobého majetku, technické průkazy vozidel, inventura skladu.
+[3] **Dočasná překážka.** Odklad řádné identifikace je vázán na překážku dočasné povahy. Jakmile odpadne, správce musí označení doplnit neprodleně. Ustanovení nedává oporu pro trvalé ponechání neidentifikovatelné položky z pouhé praktičnosti.
 
-**2. Právní otázka.** Jak označit v soupisu (a) výrobní závod jako celek, (b) jednotlivá vozidla, (c) drobný materiál a (d) stroje, u nichž dočasně nelze provést identifikaci?
+[4] **Jediná položka podle odstavce 2.** Podnik, jiná hromadná věc a soubory věcí se zapisují jedinou položkou. Tato úprava je zvláštní vůči obecnému pravidlu samostatných položek, ale nesnižuje požadavek určitosti obsahu: z položky musí být zřejmé, co do podniku nebo souboru věcí náleželo v den zápisu.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 218 odst. 1 — majetek se zapisuje samostatnými položkami s identifikací; výjimka pro majetek nepatrné hodnoty; dočasnou překážku identifikace správce doplní neprodleně po jejím odpadnutí; odst. 2 — podnik/hromadná věc/soubor věcí se zapisují jedinou položkou, z níž musí být zřejmé, co k nim ke dni zápisu náleží.
-- *Související ustanovení téhož zákona:* § 217 (soupis); § 219 (ocenění); § 206 odst. 1 písm. c), d) (podnik, soubor věcí, hromadná věc).
-- *Související předpisy:* § 501–502 OZ (hromadná věc, závod); zákon o oceňování majetku.
-- *Judikatura:* nosný závěr, že soupis musí umožnit jednoznačnou identifikaci sepsaného majetku, aby byl způsobilým podkladem pro zpeněžení a pro ochranu třetích osob.
+[5] **Rozhodný čas.** Obsah položky podle odstavce 2 se zachycuje ke dni zápisu do soupisu. Pozdější změna složení proto nemění historický údaj o stavu k tomuto dni; může však vyžadovat odpovídající aktualizaci průběžně doplňovaného soupisu podle § 217. Druhá věta je systematickým výkladovým závěrem editora.
 
-**4. Subsumpce.** Výrobní závod = závod podle § 502 OZ → zapíše se jedinou položkou (odst. 2) s detailním rozpadem náležejících složek ke dni zápisu. Vozidla = samostatné věci nikoli nepatrné hodnoty → každé samostatnou položkou s identifikací (RZ, VIN). Drobný materiál nepatrné hodnoty → lze označit souhrnně bez detailní identifikace. Stroje v opravě → dočasná překážka identifikace; doplní se neprodleně po jejím odpadnutí.
+[6] **Meze následků vady.** § 218 stanoví náležitosti zápisu, sám však výslovně neupravuje všechny procesní nebo hmotněprávní následky nedostatečného označení. Takový následek nelze dovozovat automaticky bez posouzení navazující úpravy a konkrétního procesního kontextu.
 
-**5. Řešení.** Závod = jedna položka se sběrným seznamem složek; vozidla = 12 samostatných identifikovaných položek; drobný materiál = souhrnná položka (nepatrná hodnota); u strojů v opravě se výrobní čísla doplní po vrácení. Procesně: provázat soupis s ocenením (§ 219), u závodu se zpeněžením jako celku (§ 290).
+[7] **Časová působnost.** Výklad odpovídá znění účinnému k 19. 7. 2026. U zápisu nebo doplnění označení provedeného dříve je třeba ověřit tehdy účinné znění zákona a použitelná přechodná ustanovení.
 
-**6. Varianty.** (a) Kdyby měl být závod zpeněžen po částech, jednotlivé hodnotné stroje by bylo vhodné rozepsat samostatně pro adresné zpeněžení. (b) Kdyby vozidlo bylo havarovaný vrak nepatrné hodnoty, postačila by zjednodušší identifikace.
+### Judikatura
 
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Závod je třeba rozepsat na všechny jednotlivé věci." Neutralizace: § 218 odst. 2 výslovně umožňuje (a pro hromadnou věc předpokládá) zápis jedinou položkou; rozhodující je, aby z ní bylo zřejmé, co k závodu ke dni zápisu náleží.
-- *Protiargument (třetí osoba):* „Soupis je neurčitý, věc nelze ztotožnit." Neutralizace: u věcí nikoli nepatrné hodnoty je identifikace povinná; je-li překážka jen dočasná, správce ji neprodleně odstraní — neurčitost je tak přechodná a zhojitelná.
-- *Slabé místo:* hranice „nepatrné hodnoty" není číselně určena → riziko sporů; nedostatečná identifikace ohrožuje platnost zpeněžení a ochranu třetích osob.
-
-### H. Praktický závěr
-
-Majetek se v soupisu zapisuje samostatnými, identifikovatelnými položkami; výjimkou je majetek nepatrné hodnoty (souhrnně) a dočasná překážka identifikace (doplní se neprodleně). Podnik, hromadná věc a soubory věcí se zapisují jedinou položkou s rozpadem náležejících složek ke dni zápisu.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Každou hodnotnou věc zapsat samostatnou položkou s jednoznačnou identifikací (VIN, RZ, výrobní/katastrální čísla).
-- [ ] Majetek nepatrné hodnoty zapsat souhrnně.
-- [ ] Podnik/hromadnou věc/soubor zapsat jedinou položkou se sběrným seznamem složek ke dni zápisu.
-- [ ] U dočasné překážky identifikace doplnit označení neprodleně po jejím odpadnutí.
-- [ ] Provázat označení s oceněním (§ 219) a se zvoleným způsobem zpeněžení.
-
-**Typicky rozhodné důkazy / podklady:** evidence dlouhodobého majetku a účetnictví, technické průkazy a registry vozidel, inventury skladů, podklady o složení závodu/hromadné věci ke dni zápisu.
+Pro materiální závěry této revize nebylo použito žádné soudní rozhodnutí. Původní anonymní tvrzení o „nosném závěru“ bylo odstraněno, protože nebylo spojeno s ověřeným plným textem konkrétního rozhodnutí. Tím se netvrdí, že relevantní judikatura neexistuje.
 
 ---
 

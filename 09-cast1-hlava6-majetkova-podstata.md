@@ -1415,76 +1415,91 @@ Do tohoto kola nebylo zařazeno žádné rozhodnutí. Stávající anonymní tvr
 
 ## § 228 — Pojem nakládání
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Nakládáním s majetkovou podstatou se rozumí zejména
-> a) **právní úkony**, které se týkají majetku náležejícího do majetkové podstaty,
-> b) výkon práv a povinností **akcionáře** ohledně akcií zahrnutých do majetkové podstaty, včetně práva hlasovat na valné hromadě akciové společnosti,
-> c) výkon práv a povinností **společníka** jiné obchodní společnosti spojených s obchodním podílem dlužníka zahrnutým do majetkové podstaty, včetně práva hlasovat na valné hromadě obchodní společnosti,
-> d) výkon členských práv a povinností **člena družstva**,
-> e) rozhodování o **výrobních, provozních a obchodních záležitostech podniku** v majetkové podstatě, včetně úvěrového financování a jiných úkonů potřebných k zajištění financování podniku,
-> f) výkon práv a povinností **zaměstnavatele** ohledně zaměstnanců dlužníka,
-> g) výkon **průmyslových práv**,
-> h) rozhodování o **obchodním tajemství** a jiné povinnosti mlčenlivosti,
+>
+> a) právní úkony, které se týkají majetku náležejícího do majetkové podstaty,
+>
+> b) výkon práv a povinností akcionáře ohledně akcií zahrnutých do majetkové podstaty, včetně práva hlasovat na valné hromadě akciové společnosti,
+>
+> c) výkon práv a povinností společníka jiné obchodní společnosti spojených s obchodním podílem dlužníka zahrnutým do majetkové podstaty, včetně práva hlasovat na valné hromadě obchodní společnosti,
+>
+> d) výkon členských práv a povinností člena družstva,
+>
+> e) rozhodování o výrobních, provozních a obchodních záležitostech podniku v majetkové podstatě, včetně úvěrového financování a jiných úkonů potřebných k zajištění financování podniku,
+>
+> f) výkon práv a povinností zaměstnavatele ohledně zaměstnanců dlužníka,
+>
+> g) výkon průmyslových práv,
+>
+> h) rozhodování o obchodním tajemství a jiné povinnosti mlčenlivosti,
+>
 > i) plnění povinností podle předpisů o daních, poplatcích a clech, jakož i podle předpisů o sociálním zabezpečení a veřejném zdravotním pojištění,
-> j) vedení **účetnictví**,
-> k) plnění **evidenčních povinností**,
+>
+> j) vedení účetnictví,
+>
+> k) plnění evidenčních povinností,
+>
 > l) výkon dalších práv a povinností, jestliže se týkají majetkové podstaty.
 
-### Výklad — **ŠIROKÝ VÝČET**
+### Přehled výkladu
 
-**„Nakládání"** je *široký pojem* zahrnující prakticky *všechny dispozice* ohledně majetku podstaty. Demonstrativní výčet ukazuje hlavní kategorie:
+§ 228 vymezuje obsah pojmu „nakládání s majetkovou podstatou“ demonstrativním výčtem. Neurčuje však sám, kdo je v konkrétní fázi řízení oprávněn danou činnost vykonat; tuto otázku je nutné řešit zejména podle § 229 a podle pravidel zvoleného způsobu řešení úpadku. Výčet zahrnuje vedle právních úkonů také výkon korporačních a členských práv, provozní a finanční rozhodování, zaměstnavatelská a průmyslová práva i plnění vyjmenovaných veřejnoprávních, účetních a evidenčních povinností.
 
-- *právní úkony* (kupní smlouvy, výpovědi, žaloby),
-- *korporátní práva* (hlasování ve VH dceřiných společností!),
-- *provozní rozhodování* (chod podniku, financování),
-- *zaměstnavatelská práva* (uzavírání pracovních smluv, výpovědi),
-- *průmyslová práva* (patenty, ochranné známky, design),
-- *obchodní tajemství a mlčenlivost*,
-- *daňová, pojistná, evidenční povinnost*,
-- *účetnictví*.
+### Souvisící ustanovení
 
-> *Praktický význam*: ten, kdo má dispoziční oprávnění (typicky správce v konkursu), **vykonává všechny tyto kompetence**. Není to jen „prodávat majetek" — je to *celé řízení podniku*.
+- § 229 — osoba s dispozičními oprávněními a možnost omezení těchto oprávnění.
+- § 230 — pojem správy majetkové podstaty a zvláštní režim správy zajištěného majetku.
+- § 246 odst. 1 — přechod dispozičních oprávnění k majetkové podstatě na insolvenčního správce prohlášením konkursu.
+- § 330 odst. 1 a 2 — dispoziční oprávnění dlužníka v reorganizaci a jejich možné omezení.
 
-### Vazby
+### Souvisící předpisy
 
-- **§ 229** — kdo má dispoziční oprávnění.
-- **§ 246** — konkursní přechod na správce.
+- zákon č. 90/2012 Sb., o obchodních společnostech a družstvech — obsah korporačních a členských práv, jejichž výkon § 228 písm. b) až d) zahrnuje do nakládání;
+- zákon č. 262/2006 Sb., zákoník práce — obsah práv a povinností zaměstnavatele podle písm. f);
+- zákon č. 563/1991 Sb., o účetnictví — účetní povinnosti uvedené v písm. j);
+- příslušné daňové, celní, pojistné a evidenční předpisy — obsah povinností uvedených v písm. i) a k).
 
-### F. Kazuistika
+Tyto předpisy určují obsah jednotlivých práv a povinností; kdo je v insolvenčním řízení vykonává ve vztahu k majetkové podstatě, se posuzuje podle insolvenčního zákona.
 
-**1. Modelová situace.** Dlužníkem je výrobní a.s. v konkursu, jejíž závod správce provozuje jako going concern. Správce potřebuje: hlasovat za dlužníka na valné hromadě dceřiné společnosti (rozhoduje se o rozdělení zisku), uzavřít nové úvěrové financování provozu, dát výpověď nadbytečnému zaměstnanci a podat přihlášku ochranné známky. Dlužníkův bývalý management tvrdí, že tyto úkony do „nakládání s majetkovou podstatou" nepatří a správci nepřísluší. Účastníci: správce, dlužník (a.s.), dceřiná společnost, zaměstnanec, věřitelský výbor. Důkazy: pozvánka na valnou hromadu, návrh úvěrové smlouvy, výpověď, přihláška známky.
+### Z důvodové zprávy
 
-**2. Právní otázka.** Spadají korporátní hlasovací práva, úvěrové financování provozu, zaměstnavatelské úkony a výkon průmyslových práv pod pojem „nakládání s majetkovou podstatou", jejž vykonává osoba s dispozičními oprávněními?
+Původní důvodová zpráva vysvětluje, že výčty nakládání v § 228 a správy v § 230 byly zvoleny jako netaxativní obecná vymezení, která mají omezit výkladové pochybnosti. Výslovně dodává, že plnění povinností podle § 228 písm. i) neznamená plnění uhrazovacích povinností, nevyplývá-li úhrada z ustanovení o uspokojování pohledávek věřitelů v insolvenčním řízení. § 229 pak charakterizuje dispoziční oprávnění a možnost jejich omezení. Jde o historické vysvětlení původní koncepce; u staršího skutkového děje je vždy třeba ověřit tehdy účinné znění. (Vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, zvláštní část, K § 228 až 230, číslovaná s. 204, PDF s. 205.)
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 228 — demonstrativní výčet nakládání: písm. a) právní úkony k majetku podstaty; písm. b)–d) výkon práv akcionáře/společníka/člena družstva včetně hlasování; písm. e) rozhodování o provozních záležitostech podniku včetně úvěrového financování; písm. f) výkon práv zaměstnavatele; písm. g) výkon průmyslových práv; písm. h)–l) další.
-- *Související ustanovení téhož zákona:* § 229 (kdo má dispoziční oprávnění); § 246 (konkursní přechod na správce); § 230 (správa podstaty); § 290 (provoz a zpeněžení závodu).
-- *Související předpisy:* zákon o obchodních korporacích (valná hromada, hlasovací práva); zákoník práce (výpověď); zákon o ochranných známkách.
-- *Judikatura:* nosný závěr, že dispoziční oprávnění zahrnuje komplexní řízení podniku, nikoli jen prodej věcí; osoba s dispozičními oprávněními vykonává i korporátní a zaměstnavatelská práva.
+### Literatura
 
-**4. Subsumpce.** Hlasování na valné hromadě dceřiné společnosti → písm. b)/c). Úvěrové financování provozu → písm. e). Výpověď zaměstnanci → písm. f). Přihláška ochranné známky → písm. g). Všechny úkony se „týkají majetkové podstaty" → podřaditelné pod § 228 a vykonává je osoba s dispozičními oprávněními (v konkursu správce, § 246).
+Odborná literatura nebyla v tomto kole hodnocena; její zpracování je odloženo do druhého kola. Toto odložení není negativní rešerší.
 
-**5. Řešení.** Správce je oprávněn všechny uvedené úkony provést jako součást nakládání s podstatou; námitka bývalého managementu neobstojí. Procesně: u významných úkonů respektovat součinnost věřitelských orgánů a případné souhlasy (§ 230, pokyny zajištěného věřitele u zatíženého majetku).
+### Výklad
 
-**6. Varianty.** (a) Kdyby šlo o reorganizaci, tytéž úkony by činil dlužník (debtor in possession, § 330) pod kontrolou věřitelských orgánů. (b) Kdyby se úkon netýkal majetku podstaty (čistě osobní záležitost dlužníka-FO mimo podstatu), nešlo by o nakládání dle § 228.
+[1] **Předmět definice.** Ustanovení vymezuje druhy činností, které se pro účely insolvenčního zákona považují za nakládání s majetkovou podstatou. Slovo „zejména“ a zbytková kategorie písm. l) potvrzují, že seznam není uzavřený.
 
-### G. Protiargumenty a rizika
+[2] **Věcná vazba na podstatu.** U písm. a) a l) zákon výslovně požaduje vztah k majetkové podstatě; u ostatních písmen jej konkretizuje předmětem činnosti, například akciemi nebo podílem zahrnutými do podstaty, podnikem v podstatě či zaměstnanci dlužníka. Samotná podobnost s některou kategorií bez této věcné vazby nepostačuje. Poslední věta je opatrným autorským výkladem struktury ustanovení.
 
-- *Protiargument (bývalý management):* „Hlasovat na valné hromadě dceřiné společnosti je korporátní právo dlužníka, ne věc správce." Neutralizace: § 228 písm. b)–c) výslovně zahrnuje výkon práv akcionáře/společníka včetně hlasování do nakládání s podstatou — vykonává je osoba s dispozičními oprávněními.
-- *Protiargument:* „Úvěrové financování je nový závazek, ne nakládání s majetkem." Neutralizace: písm. e) výslovně zahrnuje úvěrové financování a úkony k zajištění financování podniku.
-- *Slabé místo:* výčet je demonstrativní a hranice „týká se majetkové podstaty" může být v hraničních případech sporná; významné úkony mohou vyžadovat souhlas věřitelských orgánů — opomenutí zakládá odpovědnost.
+[3] **Nejen převody majetku.** Nakládání není omezeno na prodej nebo jiné převody věcí. Písm. b) až h) výslovně zahrnují výkon korporačních a členských práv, rozhodování o provozu a financování podniku, práva a povinnosti zaměstnavatele, průmyslová práva, obchodní tajemství a mlčenlivost.
 
-### H. Praktický závěr
+[4] **Veřejnoprávní, účetní a evidenční povinnosti.** Písm. i) až k) zahrnují také plnění vyjmenovaných veřejnoprávních povinností, vedení účetnictví a evidenční povinnosti. Podle důvodové zprávy však písm. i) samo nevytváří oprávnění hradit pohledávky mimo pravidla insolvenčního zákona pro jejich uspokojování.
 
-„Nakládání s majetkovou podstatou" je široký pojem (demonstrativní výčet § 228) zahrnující veškeré dispozice a řízení ohledně podstaty — právní úkony, korporátní a hlasovací práva, provozní a finanční rozhodování, zaměstnavatelská a průmyslová práva, daňové, účetní a evidenční povinnosti. Vykonává je osoba s dispozičními oprávněními (v konkursu správce).
+[5] **Kdo jedná.** Z podřazení činnosti pod § 228 ještě neplyne, že ji smí provést insolvenční správce nebo dlužník. Osobu s dispozičními oprávněními, jejich rozsah a omezení je nutné určit podle § 229, rozhodnutí insolvenčního soudu a pravidel konkrétního způsobu řešení úpadku; v konkursu je rozhodný zejména § 246, v reorganizaci § 330.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověřit, kdo je osobou s dispozičními oprávněními v dané fázi (§ 229) — ta jediná nakládá.
-- [ ] Posoudit, zda zamýšlený úkon „se týká majetkové podstaty" (pak spadá pod § 228).
-- [ ] Pamatovat, že nakládání zahrnuje i korporátní hlasování, financování a zaměstnavatelské úkony, ne jen prodej věcí.
-- [ ] U významných úkonů respektovat součinnost věřitelských orgánů a pokyny zajištěných věřitelů (§ 230).
-- [ ] Plnit daňové, účetní a evidenční povinnosti jako součást nakládání.
+[6] **Nakládání a správa.** § 228 a § 230 jsou související obecná vymezení, nikoli navzájem se vylučující seznamy. Pro konkrétní postup je nutné vedle kvalifikace činnosti ověřit také pravidla správy, zvláštní režim zajištěného majetku a případná další zákonná omezení. Jde o systematický autorský závěr z umístění a obsahu obou ustanovení.
 
-**Typicky rozhodné důkazy / podklady:** pozvánky a zápisy z valných hromad, úvěrové smlouvy, pracovněprávní úkony, přihlášky průmyslových práv, doklady o postavení osoby s dispozičními oprávněními.
+[7] **Časová použitelnost.** Tento výklad vychází ze znění účinného k 19. 7. 2026. Při posouzení staršího jednání nebo staršího rozhodnutí nelze bez dalšího použít dnešní text; rozhodné znění a případná přechodná ustanovení je třeba určit podle doby skutkového děje.
+
+### Praktický checklist
+
+- [ ] Určit konkrétní činnost a její věcnou vazbu na majetkovou podstatu.
+- [ ] Podřadit ji pod příslušné písmeno § 228, případně odůvodnit použití písm. l).
+- [ ] Samostatně ověřit osobu s dispozičními oprávněními, fázi řízení a způsob řešení úpadku.
+- [ ] Prověřit zákonná nebo soudní omezení a u správy zajištěného majetku pravidla § 230.
+- [ ] U písm. i) nezaměnit plnění veřejnoprávních povinností s úhradou pohledávek mimo insolvenční pořadí.
+
+### Judikatura
+
+Do tohoto kola nebylo zařazeno žádné rozhodnutí. Stávající anonymní tvrzení o „nosném závěru“ nebylo spojeno s plným textem identifikovaného rozhodnutí, a proto bylo odstraněno. Tím se netvrdí, že relevantní judikatura neexistuje.
 
 ---
 

@@ -17,74 +17,61 @@ Hlava VII obsahuje dva *zcela odlišné instituty*:
 
 ## § 231 — Výlučná pravomoc insolvenčního soudu
 
-> (1) Insolvenční soud **není vázán rozhodnutím jiného soudu** či jiného orgánu, kterým v průběhu insolvenčního řízení došlo ke zjištění neplatnosti právního úkonu týkajícího se majetku nebo závazků dlužníka, ani jiným způsobem tohoto zjištění.
-> (2) V průběhu insolvenčního řízení **posoudí neplatnost takového právního úkonu pouze insolvenční soud**.
-> (3) Je-li k neplatnosti právního úkonu nutné, aby ten, kdo je takovým úkonem dotčen, se jeho neplatnosti dovolal, může tak učinit i **insolvenční správce**.
-> (4) V insolvenčním řízení nelze zjistit neplatnost právního úkonu spočívajícího v poskytnutí prozatímního financování, nového financování nebo dalších plateb souvisejících s **preventivní restrukturalizací**, pokud tento právní úkon splňuje podmínky podle § 27 zákona o preventivní restrukturalizaci; to platí i na věcně právní účinky takového právního úkonu.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-### Výklad — **KONCENTRACE U INSOLVENČNÍHO SOUDU**
+### Znění ustanovení
 
-#### Pravidlo „insolvenční soud rozhoduje sám" (odst. 1 — 2)
+> (1) Insolvenční soud není vázán rozhodnutím jiného soudu či jiného orgánu, kterým v průběhu insolvenčního řízení došlo ke zjištění neplatnosti právního úkonu týkajícího se majetku nebo závazků dlužníka, ani jiným způsobem tohoto zjištění.
+>
+> (2) V průběhu insolvenčního řízení posoudí neplatnost takového právního úkonu pouze insolvenční soud.
+>
+> (3) Je-li k neplatnosti právního úkonu nutné, aby ten, kdo je takovým úkonem dotčen, se jeho neplatnosti dovolal, může tak učinit i insolvenční správce.
+>
+> (4) V insolvenčním řízení nelze zjistit neplatnost právního úkonu spočívajícího v poskytnutí prozatímního financování, nového financování nebo dalších plateb souvisejících s preventivní restrukturalizací, pokud tento právní úkon splňuje podmínky podle § 27 zákona o preventivní restrukturalizaci; to platí i na věcně právní účinky takového právního úkonu.
 
-V průběhu IR je **výlučně insolvenční soud** příslušný k posouzení neplatnosti úkonů týkajících se dlužníkova majetku/závazků. **Není vázán** rozhodnutími jiných soudů — *novum oproti obecnému civilnímu procesu*, kde rozhodnutí soudu zavazuje jiné soudy v téže věci (§ 159 OSŘ).
+### Přehled výkladu
 
-> *Logika*: insolvenční soud má lepší přehled o celém kontextu (vztah úkonu k podstatě, k věřitelům, k úpadku). Rozhodnutí jiného soudu (typicky obecného civilního) by *nezohlednilo* tyto specifické souvislosti.
+Ustanovení soustřeďuje posouzení neplatnosti právního úkonu týkajícího se majetku nebo závazků dlužníka v průběhu insolvenčního řízení u insolvenčního soudu. Rozlišuje zjištění učiněná v průběhu řízení od pravomocného soudního rozhodnutí před jeho zahájením (§ 232), rozšiřuje okruh osob oprávněných dovolat se neplatnosti o insolvenčního správce a chrání jen financování a platby, které skutečně naplní podmínky § 27 zákona o preventivní restrukturalizaci.
 
-#### Aktivní legitimace správce k dovolání se neplatnosti (odst. 3)
+### Souvisící ustanovení
 
-**Relativní neplatnost** (§ 586 OZ) — vyžaduje, aby se jí *dotčená osoba* dovolala. V insolvenci **i správce může** tuto legitimaci využít — nahrazuje dlužníka.
+- § 7 — subsidiární použití občanského soudního řádu,
+- § 159 odst. 1 písm. f) — incidenční spory o platnost smluv, kterými došlo ke zpeněžení majetkové podstaty,
+- § 232 — pravomocné zjištění neplatnosti před zahájením insolvenčního řízení,
+- § 233 — majetkové důsledky zjištěné neplatnosti,
+- § 234 — možnost současného posouzení neplatnosti a neúčinnosti,
+- § 235 odst. 3 — odpovídající ochrana financování před neúčinností.
 
-> *Praktický význam*: dlužník typicky *nemá zájem* dovolávat se neplatnosti vlastních úkonů (i kdyby ho poškozovaly). Správce — *má zájem*, neboť tím získá majetek do podstaty.
+### Souvisící předpisy
 
-#### Imunita financování preventivní restrukturalizace (odst. 4)
+- zákon č. 284/2023 Sb., o preventivní restrukturalizaci, § 27 — vymezení prozatímního financování, nového financování a dalších souvisejících plateb,
+- zákon č. 99/1963 Sb., občanský soudní řád, § 159a — meze závaznosti pravomocného rozsudku.
 
-**Speciální ochrana pro prozatímní/nové financování v PR**. Pokud splňuje podmínky § 27 ZPR (kvalifikované schválení), v insolvenci **nelze prohlásit za neplatné** (ani věcně právní účinky). *Cíl*: ochrana investorů, kteří poskytli financování krizovému dlužníkovi v rámci preventivní restrukturalizace — bez této imunity by se nikdy nenašel.
+### Z důvodové zprávy
 
-### Vazby
+Vládní návrh insolvenčního zákona popsal § 231 až 234 jako zvláštní úpravu vůči obecným pravidlům neplatnosti. Jejím cílem bylo zabránit neodůvodněnému zkracování majetkové podstaty tím, že zjištění neplatnosti v průběhu insolvenčního řízení provede insolvenční soud, ať již jako hlavní otázku v incidenčním sporu, nebo jako otázku předběžnou. Důvodová zpráva zároveň výslovně odlišila pravomocné soudní rozhodnutí vydané před zahájením insolvenčního řízení. Jde o zvláštní část vládního návrhu, sněmovní tisk 1120/0, k § 231 až 234, číslovaná s. 205 (PDF s. 206).
 
-- **§ 586 a násl. OZ** — neplatnost právních jednání.
-- **OSŘ § 159** — závaznost rozsudku (zde modifikováno).
-- **Zákon č. 284/2023 Sb. § 27** — ochrana financování PR.
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tato poznámka není výsledkem negativní rešerše literatury.
+
+### Výklad
+
+[1] **Předmět pravidla.** Odstavce 1 a 2 dopadají na zjištění neplatnosti právního úkonu, který se týká majetku nebo závazků dlužníka. Samotná souvislost úkonu s osobou dlužníka bez vazby na jeho majetek nebo závazky k použití § 231 nestačí.
+
+[2] **Časové rozlišení.** Pro § 231 je rozhodující, že ke zjištění neplatnosti jiným soudem, jiným orgánem nebo jiným způsobem došlo v průběhu insolvenčního řízení. Jestliže soudní rozhodnutí o neplatnosti nabylo právní moci před zahájením insolvenčního řízení, použije se zvláštní pravidlo § 232. Proto je nutné odděleně ověřit datum zahájení insolvenčního řízení, datum a právní moc cizího rozhodnutí i totožnost posuzovaného úkonu.
+
+[3] **Nevázanost a výlučné posouzení.** Zjištěním učiněným v průběhu insolvenčního řízení není insolvenční soud vázán a neplatnost dotčeného úkonu posoudí pouze on. § 231 však sám neurčuje, v jakém konkrétním procesním rámci se otázka otevře ani jaký má být žalobní petit; to je třeba určit podle předmětu insolvenčního řízení nebo příslušného incidenčního sporu.
+
+[4] **Dovolání se neplatnosti správcem.** Vyžaduje-li použitelná hmotněprávní úprava, aby se neplatnosti dovolal ten, kdo je úkonem dotčen, odstavec 3 přiznává toto oprávnění také insolvenčnímu správci. Ustanovení tím nemění samotné hmotněprávní důvody neplatnosti ani nerozhoduje, zda konkrétní vada takové dovolání vyžaduje.
+
+[5] **Ochrana podle odstavce 4.** Zákaz zjistit neplatnost se neuplatní na jakékoli financování spojené s restrukturalizací. Musí jít o některou z kategorií přesně vymezených v § 27 zákona o preventivní restrukturalizaci: prozatímní financování podle odstavce 1, nové financování podle odstavce 2 nebo přiměřené a nezbytné související platby podle odstavce 3. Ochrana se podle výslovného textu § 231 odst. 4 vztahuje i na věcněprávní účinky takového úkonu.
+
+[6] **Novelizace a intertemporalita.** Odstavec 4 doplnil zákon č. 285/2023 Sb. v návaznosti na přijetí zákona č. 284/2023 Sb. Pro právní úkon a řízení zasahující do dřívějšího období je proto nutné ověřit tehdy účinné znění; dnešní ochranu nelze bez intertemporální kontroly promítnout zpětně. Odstavce 1 až 3 vyjadřují původní koncepci zákona.
 
 ### Judikatura
 
-- **NS 29 NSČR 22/2011**: pokud civilní soud rozhodne o neplatnosti smlouvy, ale dlužník je v insolvenci, insolvenční soud *přezkoumá* a *může dojít k jinému závěru*. Rozhodnutí civilního soudu má povahu *informace*, ne závazku.
-
-### F. Kazuistika
-
-**1. Modelová situace.** Před zahájením insolvenčního řízení dlužník (společnost ALFA) převedl nemovitost na společnost BETA. Obecný civilní soud k žalobě věřitele KAPPA *po* zahájení IR rozsudkem určil, že kupní smlouva mezi ALFA a BETA je *neplatná* pro rozpor s dobrými mravy. Insolvenční správce ALFA má za to, že smlouva neplatná *není* a chce nemovitost zařadit do soupisu jako majetek BETA. Důkazy: rozsudek civilního soudu, znalecký posudek o ceně, korespondence mezi ALFA a BETA, výpis z katastru.
-
-**2. Právní otázka.** Je insolvenční soud vázán rozsudkem civilního soudu o neplatnosti smlouvy vydaným v průběhu insolvenčního řízení, nebo může neplatnost posoudit samostatně a dospět k jinému závěru?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 231 odst. 1, 2 IZ — insolvenční soud není vázán rozhodnutím jiného soudu o neplatnosti vydaným v průběhu IR a posoudí neplatnost sám.
-- *Související ustanovení téhož zákona:* § 232 IZ (rozhodnutí pravomocné *před* zahájením IR je závazné — opak situace zde), § 233 IZ (důsledky neplatnosti), § 7 IZ (subsidiarita OSŘ).
-- *Související předpisy:* § 159a OSŘ (závaznost výroku rozsudku, zde modifikováno), § 580, § 588 OZ (neplatnost právních jednání).
-- *Judikatura:* NS 29 NSČR 22/2011 (citováno v komentáři) — rozhodnutí civilního soudu o neplatnosti vydané v průběhu IR má pro insolvenční soud povahu *informace*, nikoli závazného podkladu; insolvenční soud věc přezkoumá a může dojít k jinému závěru.
-
-**4. Subsumpce.** Rozsudek civilního soudu nabyl právní moci *v průběhu* IR (po jeho zahájení) — nespadá tedy pod § 232 (výjimka pro rozhodnutí *před* zahájením). Předmět rozhodnutí (kupní smlouva o nemovitosti dlužníka) se *týká majetku dlužníka* — naplněn znak působnosti § 231. Aktivuje se odst. 1 a 2: insolvenční soud *není vázán* a posoudí neplatnost *pouze sám*.
-
-**5. Řešení.** Insolvenční soud (a navazující incidenční spor) přezkoumá otázku neplatnosti nezávisle na civilním rozsudku. Může dospět k závěru, že smlouva neplatná není, a potvrdit zařazení nemovitosti mimo podstatu dlužníka, resp. naopak ji do podstaty zařadit, pokud shledá neplatnost a obohacení podstaty. Procesní krok: pokud jde o relativní neplatnost (§ 586 OZ), může se jí dovolat i správce (odst. 3). Riziko: civilní rozsudek bude účastníky vnímán jako „silnější" — je třeba v incidenčním sporu výslovně argumentovat § 231 a NS 29 NSČR 22/2011.
-
-**6. Varianty.** (a) Kdyby civilní rozsudek nabyl právní moci *před* zahájením IR, uplatní se § 232 a insolvenční soud by jím *byl vázán*. (b) Kdyby šlo o převod financovaný v rámci preventivní restrukturalizace splňující § 27 ZPR, neplatnost by *nešlo* v IR vůbec zjistit (odst. 4).
-
-### G. Protiargumenty a rizika
-
-- *„Rozsudek civilního soudu zakládá překážku věci rozsouzené (res iudicata), insolvenční soud jej musí respektovat."* — Neutralizace: § 231 odst. 1 je *lex specialis* k § 159a OSŘ; pro průběh IR výslovně prolamuje vázanost, aby insolvenční soud mohl zohlednit kontext podstaty a věřitelů (NS 29 NSČR 22/2011).
-- *„Odst. 3 dává správci legitimaci jen u relativní neplatnosti; u absolutní neplatnosti správce nic dovolávat nemusí."* — Správně; je třeba odlišit režim absolutní (§ 588 OZ, k níž soud přihlíží z úřední povinnosti) a relativní neplatnosti (§ 586 OZ). Slabé místo: zařazení konkrétní vady pod absolutní/relativní neplatnost bývá sporné.
-- Slabé místo: imunita podle odst. 4 je vázána na *splnění podmínek § 27 ZPR* — pokud financování tyto podmínky nesplňuje (např. nebylo řádně schváleno), imunita nenastává a úkon lze posuzovat běžně.
-
-### H. Praktický závěr
-
-V průběhu IR rozhoduje o neplatnosti úkonů týkajících se majetku/závazků dlužníka výlučně insolvenční soud a není vázán jinými soudy; rozhodnutí pravomocné *před* zahájením IR je naopak závazné (§ 232). Správce může nahradit dlužníka při dovolání se relativní neplatnosti.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Zjistit, zda cizí rozhodnutí o neplatnosti nabylo právní moci před zahájením IR (→ § 232, vázanost) nebo až v jeho průběhu (→ § 231, nezávislost).
-- [ ] Posoudit, zda úkon splňuje znak „týká se majetku nebo závazků dlužníka".
-- [ ] U relativní neplatnosti zvážit dovolání se neplatnosti správcem (odst. 3).
-- [ ] U financování PR ověřit splnění podmínek § 27 ZPR (odst. 4 — imunita).
-
-**Typicky rozhodné důkazy / podklady:** cizí rozhodnutí o neplatnosti s vyznačením právní moci, smluvní dokumentace dotčeného úkonu, znalecký posudek o ceně, doklady o schválení financování PR, výpis z katastru / obchodního rejstříku.
+Do této revize nebylo zařazeno žádné soudní rozhodnutí. Dříve uvedené rozhodnutí „29 NSČR 22/2011“ bylo odstraněno, protože pro ně nebyl k dispozici ověřený plný text z oficiálního webu, přesné datum ani locator nosného závěru. To není závěr o neexistenci relevantní judikatury.
 
 ---
 

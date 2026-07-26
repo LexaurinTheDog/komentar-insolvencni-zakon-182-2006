@@ -1037,45 +1037,60 @@ Do tohoto kola nebylo zařazeno žádné soudní rozhodnutí. Původní anonymn�
 
 ---
 
-### § 222 — Zveřejnění
-Soupis **na elektronickém formuláři**. Zveřejnění v rejstříku *neprodleně*.
+## § 222 — Zveřejnění
 
-#### F. Kazuistika
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**1. Modelová situace.** Správce dokončil soupis majetkové podstaty rozsáhlé výrobní společnosti. Místo aby jej zveřejnil na předepsaném elektronickém formuláři v insolvenčním rejstříku, založí soupis pouze do listinného spisu a samostatně jej rozešle členům věřitelského výboru. Leasingová společnost, jejíž stroj byl do soupisu zahrnut, se tak o soupisu nedozví z rejstříku a namítá, že jí v důsledku absence zveřejnění nemohla začít běžet lhůta k obraně. Účastníci: dlužník, správce, věřitelský výbor, leasingová společnost, insolvenční soud. Důkazy: spisový materiál, neexistence záznamu v rejstříku, leasingová smlouva.
+### Znění ustanovení
 
-**2. Právní otázka.** Jakou formou a v jakém čase musí být soupis zveřejněn a jaké jsou důsledky nedostatku či opoždění zveřejnění v insolvenčním rejstříku?
+> (1) Soupis se předkládá pouze na elektronickém formuláři, jehož náležitosti a formát stanoví prováděcí právní předpis.
+>
+> (2) Soupis a doplněný soupis zveřejní insolvenční soud v insolvenčním rejstříku neprodleně po jeho sestavení nebo doplnění.
+>
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 222 — soupis se zveřejňuje na elektronickém formuláři a zveřejnění v insolvenčním rejstříku se provede neprodleně.
-- *Související ustanovení téhož zákona:* § 217 (soupis a jeho účinky); § 220 (důvod soupisu); § 224 (vyrozumění o sporném/cizím majetku); § 225 (vylučovací žaloba a běh lhůty); § 421 a násl. (insolvenční rejstřík); § 71 a násl. (doručování a publicita úkonů).
-- *Související předpisy:* prováděcí předpis k elektronickým formulářům; OSŘ subsidiárně (§ 7 IZ).
-- *Judikatura:* nosný závěr, že publicita úkonů v insolvenčním rejstříku slouží informovanosti věřitelů a třetích osob; řádné individuální vyrozumění (§ 224) je přitom rozhodné pro běh lhůty k vylučovací žalobě, jejíž běh nemůže být k tíži dotčené osoby spuštěn vadným postupem správce.
+### Přehled výkladu
 
-**4. Subsumpce.** Zveřejnění soupisu je obligatorní a má proběhnout na elektronickém formuláři neprodleně (§ 222); založení do spisu a samostatná rozeslání nenahrazují zveřejnění v rejstříku. Vůči třetí osobě (leasingová společnost) je navíc rozhodné individuální vyrozumění dle § 224 — bez něj lhůta k vylučovací žalobě (§ 225) standardně neběží.
+Ustanovení rozděluje postup mezi insolvenčního správce, který soupis sestavuje, doplňuje a předkládá na předepsaném elektronickém formuláři, a insolvenční soud, který soupis i doplněný soupis neprodleně zveřejňuje v insolvenčním rejstříku. Zveřejnění soupisu nelze směšovat se zvláštním vyrozuměním osoby podle § 224.
 
-**5. Řešení.** Správce neprodleně zveřejní soupis na předepsaném elektronickém formuláři v insolvenčním rejstříku (§ 222). Vůči leasingové společnosti samostatně splní vyrozumívací povinnost dle § 224 s poučením o 30denní lhůtě (§ 225); do té doby jí lhůta neuplynula. Procesně: zhojit zveřejnění a vyrozumění, vyhnout se riziku náhrady škody z opožděné publicity.
+### Souvisící ustanovení
 
-**6. Varianty.** (a) Kdyby soupis byl řádně zveřejněn a dotčená osoba i vyrozuměna (§ 224), lhůta k vylučovací žalobě by běžela od doručení vyrozumění. (b) Kdyby šlo o nesporný majetek dlužníka, postačilo by zveřejnění; individuální vyrozumění dle § 224 by se neuplatnilo.
+§ 7; § 71 až 74; § 211; § 217 až 221; § 224 a § 225; § 419 až 425; § 431 písm. d) a e).
 
-#### G. Protiargumenty a rizika
+### Souvisící předpisy
 
-- *Protiargument (správce):* „Soupis jsem rozeslal výboru i založil do spisu, to publicitu nahrazuje." Neutralizace: § 222 výslovně vyžaduje zveřejnění na elektronickém formuláři v insolvenčním rejstříku; jiné formy je nenahrazují.
-- *Protiargument:* „Zveřejnění v rejstříku samo spouští lhůty vůči všem." Neutralizace: vůči konkrétní dotčené osobě je rozhodné individuální vyrozumění (§ 224); bez něj lhůta k vylučovací žalobě (§ 225) zpravidla neběží.
-- *Slabé místo:* opožděné či vadné zveřejnění zakládá riziko náhrady škody a oddaluje právní jistotu; technické náležitosti elektronického formuláře (prováděcí předpis) je nutno přesně dodržet.
+Vyhláška č. 191/2017 Sb., zejména § 1 písm. g) a § 12 (náležitosti formuláře soupisu a jeho přílohy).
 
-#### H. Praktický závěr
+### Z důvodové zprávy
 
-Soupis se zveřejňuje na předepsaném elektronickém formuláři a v insolvenčním rejstříku se zveřejní neprodleně (§ 222). Zveřejnění zajišťuje publicitu vůči věřitelům, nenahrazuje však individuální vyrozumění dotčených osob dle § 224, jež je rozhodné pro běh lhůty k vylučovací žalobě (§ 225). Vadná či opožděná publicita zakládá riziko odpovědnosti za škodu.
+Původní důvodová zpráva pojednává § 220 až 224 společně jako podrobnou úpravu náležitostí soupisu a jeho změn; samostatný účel pravidla o zveřejnění nerozvádí (sněmovní tisk 1120/0, zvláštní část, K § 220 až 224, číslovaná s. 204). Elektronický formulář doplnila novela č. 64/2017 Sb. Její důvodová zpráva odůvodňuje standardizaci vybraných podání snazší orientací, lepším sběrem dat, možností odhalovat nesrovnalosti a zvýšením transparentnosti insolvenčního řízení (sněmovní tisk 785/0, zvláštní část, K bodům 57, 67, 71 a 73, číslovaná s. 179).
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Zveřejnit soupis na předepsaném elektronickém formuláři (dodržet prováděcí předpis).
-- [ ] Provést zveřejnění v insolvenčním rejstříku neprodleně po pořízení/doplnění soupisu.
-- [ ] Nezaměňovat zveřejnění s individuálním vyrozuměním dotčených osob (§ 224).
-- [ ] U sporného/cizího majetku vyrozumět dotčené osoby a poučit je o 30denní lhůtě (§ 225).
-- [ ] Doplňky soupisu zveřejňovat průběžně rovněž neprodleně.
+### Literatura
 
-**Typicky rozhodné důkazy / podklady:** záznam o zveřejnění soupisu v insolvenčním rejstříku, vyplněný elektronický formulář, doklady o individuálním vyrozumění dle § 224, korespondence s dotčenými osobami.
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto sdělení není výsledkem negativní literární rešerše.
+
+### Výklad
+
+[1] **Dvě navazující povinnosti.** Odstavec 1 stanoví výlučnou formu předložení soupisu. Odstavec 2 ukládá zveřejnění insolvenčnímu soudu. Není proto přesné přičítat správci samotný úkon zveřejnění; správce sestavuje, doplňuje a předkládá soupis, soud jej zveřejňuje.
+
+[2] **Elektronický formulář.** Soupis nelze řádně předložit v libovolném elektronickém dokumentu. Musí jít o elektronický formulář, jehož náležitosti a formát stanoví prováděcí předpis. Vyhláška č. 191/2017 Sb. upravuje formulář soupisu v § 12, včetně identifikačních údajů, údajů o jednotlivých položkách, změn oproti předchozímu soupisu a příloh.
+
+[3] **Předmět zveřejnění.** Povinnost podle odstavce 2 dopadá jak na prvotní soupis, tak na každý doplněný soupis. Zákon váže požadavek neprodleného zveřejnění na sestavení nebo doplnění příslušné verze.
+
+[4] **Neprodleně.** § 222 neurčuje pevnou lhůtu počtem dnů. Požaduje zveřejnění bez zbytečné prodlevy po sestavení nebo doplnění soupisu; tento význam je výkladovým závěrem editora z běžného významu slova „neprodleně“, nikoli zákonnou číselnou lhůtou.
+
+[5] **Insolvenční rejstřík.** Místem zveřejnění je insolvenční rejstřík. Obecnou úpravu zveřejňování a veřejnosti rejstříku obsahují § 419 až 425. Založení listiny pouze do neveřejné části spisu ani její rozeslání vybraným osobám nenaplňuje výslovný požadavek § 222 odst. 2; jde o systematický výklad editora.
+
+[6] **Vztah k vyrozumění podle § 224.** Zveřejnění soupisu a individuální vyrozumění osoby, která uplatňuje právo k sepsanému majetku nebo tvrdí jiný důvod vylučující jeho soupis, jsou odlišné úkony. Je-li dán případ § 224, zveřejnění samo nenahrazuje tam stanovené písemné vyrozumění a poučení.
+
+[7] **Vztah k vylučovací žalobě.** Třicetidenní lhůtu podle § 225 odst. 2 zákon váže na doručení vyrozumění podle § 224 odst. 1, nikoli na zveřejnění soupisu podle § 222. Zda byly splněny předpoklady vyrozumění a jaké účinky má konkrétní vada doručování, je nutné posoudit podle § 224 a § 225; § 222 tuto otázku sám neřeší.
+
+[8] **Účinky vadného postupu.** § 222 nestanoví zvláštní soukromoprávní sankci za opožděné zveřejnění ani automatický vznik odpovědnosti za škodu. Případné procesní nebo odpovědnostní následky vyžadují samostatné posouzení podle konkrétních okolností a příslušných ustanovení; kategorický opačný závěr původního textu byl proto odstraněn.
+
+[9] **Časová působnost.** Povinnost používat elektronický formulář byla do § 222 vložena zákonem č. 64/2017 Sb. s účinností od 1. 7. 2017. Tento výklad odpovídá znění účinnému k 19. 7. 2026; u dřívějšího předložení nebo zveřejnění je třeba ověřit tehdy účinné znění.
+
+### Judikatura
+
+Do tohoto kola nebylo zařazeno žádné soudní rozhodnutí. Původní anonymní judikatorní tvrzení nebylo spojeno s plným textem konkrétního rozhodnutí na oficiálním webu soudu, a proto bylo odstraněno. Tím se netvrdí, že relevantní judikatura neexistuje.
 
 ### § 223 — Upuštění
 *Výjimečně* lze upustit od soupisu / ocenění (rozhodnutí soudu). Pak správce předloží *zprávu o stavu majetku*.

@@ -1216,98 +1216,66 @@ Dřívější citace rozhodnutí Nejvyššího soudu sp. zn. 29 ICdo 33/2015 neb
 
 ## § 225 — Vylučovací žaloba — **KLÍČOVÝ INCIDENČNÍ SPOR**
 
-> (1) Osoby, které tvrdí, že označený majetek neměl být do soupisu zahrnut proto, že to vylučuje jejich právo k majetku nebo že tu je jiný důvod, pro který neměl být zahrnut do soupisu, **se mohou žalobou** podanou u insolvenčního soudu domáhat rozhodnutí, že se tento majetek vylučuje z majetkové podstaty.
-> (2) Žaloba musí být podána proti insolvenčnímu správci, a to **ve lhůtě 30 dnů** ode dne, kdy osobě uvedené v odstavci 1 bylo doručeno vyrozumění o soupisu majetku, k němuž uplatňuje právo. Lhůta je zachována, dojde-li žaloba nejpozději posledního dne lhůty insolvenčnímu soudu.
-> (3) Nebyla-li žaloba podána včas, **platí, že označený majetek je do soupisu pojat oprávněně**. Totéž platí i tehdy, jestliže insolvenční soud žalobu zamítl, nebo jestliže řízení o žalobě zastavil nebo ji odmítl.
-> (4) Od počátku běhu lhůty k podání žaloby podle odstavce 2 až do jejího skončení a po dobu řízení o podané žalobě až do jeho pravomocného skončení **nesmí insolvenční správce zpeněžit majetek**, který je předmětem žaloby, ani s ním jinak nakládat, ledaže tím odvrací újmu tomuto majetku bezprostředně hrozící nebo jestliže tak po podání žaloby činí se souhlasem žalobce. Ustanovení § 217 tím není dotčeno.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Osoby, které tvrdí, že označený majetek neměl být do soupisu zahrnut proto, že to vylučuje jejich právo k majetku nebo že tu je jiný důvod, pro který neměl být zahrnut do soupisu, se mohou žalobou podanou u insolvenčního soudu domáhat rozhodnutí, že se tento majetek vylučuje z majetkové podstaty.
+>
+> (2) Žaloba musí být podána proti insolvenčnímu správci, a to ve lhůtě 30 dnů ode dne, kdy osobě uvedené v odstavci 1 bylo doručeno vyrozumění o soupisu majetku, k němuž uplatňuje právo. Lhůta je zachována, dojde-li žaloba nejpozději posledního dne lhůty insolvenčnímu soudu.
+>
+> (3) Nebyla-li žaloba podána včas, platí, že označený majetek je do soupisu pojat oprávněně. Totéž platí i tehdy, jestliže insolvenční soud žalobu zamítl, nebo jestliže řízení o žalobě zastavil nebo ji odmítl.
+>
+> (4) Od počátku běhu lhůty k podání žaloby podle odstavce 2 až do jejího skončení a po dobu řízení o podané žalobě až do jeho pravomocného skončení nesmí insolvenční správce zpeněžit majetek, který je předmětem žaloby, ani s ním jinak nakládat, ledaže tím odvrací újmu tomuto majetku bezprostředně hrozící nebo jestliže tak po podání žaloby činí se souhlasem žalobce. Ustanovení § 217 tím není dotčeno.
+>
 > (5) Před pravomocným skončením řízení o žalobě lze ke zpeněžení nebo jinému nakládání s majetkem podle odstavce 4 přistoupit, jestliže tak z důvodů hodných zvláštního zřetele určil insolvenční soud ve výroku rozhodnutí, jímž žalobu zamítl, řízení o ní zastavil nebo ji odmítl. Z výtěžku zpeněžení nebo jiného nakládání s takovým majetkem mohou být věřitelé uspokojeni až po pravomocném skončení řízení o žalobě.
-> (6) **Byla-li zpeněžena věc, která neměla být pojata do soupisu, má její vlastník právo na vydání výtěžku zpeněžení**; jeho právo na náhradu škody tím není dotčeno.
+>
+> (6) Byla-li zpeněžena věc, která neměla být pojata do soupisu, má její vlastník právo na vydání výtěžku zpeněžení; jeho právo na náhradu škody tím není dotčeno.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *NS* [29 ICdo 23/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/71F16C34723FC96FC12586B10023F452?openDocument) — kat. A, 27. 1. 2021
-  > „Tím, že insolvenční správce dlužníka (původního schovatele) získal zpět prostředky, které dlužník neoprávněně vyplatil třetí osobě z advokátní úschovy, se obnovila (měla obnovit) správa cizího majetku (vymožených prostředků) schovatelem pro složitele. Jsou-li tyto prostředky po jejich navrácení v majetkové podstatě rozpoznatelné (což by při řádné správě majetkové podstaty mělo platit), má osoba oprávněná žádat o vydání předmětu úschovy k dispozici vylučovací nárok podle ustanovení § 225 a násl. insolvenčního zákona"
-- *NS* [29 Cdo 2268/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/08B7A47345D7699BC12585F70015FFB5?openDocument) — kat. A, 30. 6. 2020
-  > „Vylučovací žalobou podle § 159 odst. 1 písm. b) insolvenčního zákona se lze úspěšně domoci i vyloučení náhradního peněžitého plnění dosaženého zpracováním věci sepsané do majetkové podstaty dlužníka. … Vyplývá-li ze zákona, že okamžikem zpracování věci vzniklo žalobci (vylučovateli) pouze právo požadovat za zpracovanou věc peněžité plnění, jehož hodnota je „ukryta“ ve věci vzniklé zpracováním, je ve smyslu ustanovení § 225 odst. 5 insolvenčního zákona „výtěžkem“ tohoto „jiného nakládání“ s věcí (jejího zpracování do nové věci) „podíl“ žalobce (vylučovatele) na věci vzniklé zpracováním v míře odpovídající „hodnotě zpracované věci“"
+Vylučovací žaloba je incidenční žalobou osoby odlišné od dlužníka na autoritativní vyloučení konkrétního majetku ze soupisu. Nestačí jakýkoli vztah k majetku: tvrzené právo nebo jiný důvod musí právě vylučovat jeho zahrnutí. Žalovaným je správce. Třicetidenní lhůta začíná doručením vyrozumění; pouhá skutečná vědomost není zákonným náhradním počátkem.
 
-### Výklad — **KLÍČOVÁ OCHRANA TŘETÍCH OSOB**
+### Souvisící ustanovení
 
-**Vylučovací žaloba (actio Vindicatoria)** = *jediný způsob*, jak třetí osoba dosáhne vyloučení svého majetku z podstaty.
+- § 159 odst. 1 písm. b) — incidenční spor o vyloučení majetku.
+- § 217 odst. 2 — vyřazení majetku správcem.
+- § 224 — soupis, vyrozumění a poučení dotčené osoby.
+- § 226 — zvláštní návrh dlužníka na vynětí majetku.
+- § 283 odst. 1 — vymezení zpeněžení.
 
-#### Aktivní legitimace (odst. 1)
+### Souvisící předpisy
 
-*Kdokoli*, kdo tvrdí, že *jeho právo* (vlastnictví, zástava, nájem atd.) vylučuje zahrnutí do podstaty.
+- Zákon č. 99/1963 Sb., občanský soudní řád, použitelný prostřednictvím § 7 insolvenčního zákona.
+- Zákon č. 89/2012 Sb., občanský zákoník, pro konkrétní hmotněprávní titul vylučovacího práva.
 
-#### Procesní pravidla (odst. 2 — 3)
+### Z důvodové zprávy
 
-- *žaloba proti správci*,
-- **30 denní lhůta** od doručení vyrozumění (§ 224),
-- *prekluzivní lhůta* — zmeškání = *fikce oprávněného zápisu*,
-- *zamítnutí / zastavení / odmítnutí* = totéž (fikce oprávněnosti).
+Vládní návrh označil vyloučení za tradičně pojatou excindační žalobu třetí osoby. Vysvětlil právo vlastníka na výtěžek a účel odstavce 5: bránit protahování sporu a škodám na podstatě možností nakládat s majetkem za zákonných předpokladů před právní mocí. Jde o historickou pomůcku; aktuální podmínky určuje platný text.
 
-#### Zákaz zpeněžení během sporu (odst. 4)
+### Literatura
 
-**Po celou dobu řízení** o vylučovací žalobě (od podání do právní moci) **nesmí správce zpeněžit ani nakládat** — *blokační účinky*.
+Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; zpracování je odloženo do druhého kola.
 
-*Výjimky*:
-- *odvrácení bezprostředně hrozící újmy* (typicky odvoz havarovaného auta z dálnice),
-- *souhlas žalobce*.
+### Výklad
 
-#### Předčasné zpeněžení (odst. 5)
+[1] **Předmět a legitimace.** Žalobce musí označit sepsaný majetek a tvrdit právo nebo jiný důvod, jehož důsledkem je, že majetek do soupisu nepatří. Samotné nájemní či zástavní právo bez dalšího nepostačuje.
 
-Pokud soud žalobu zamítne (i nepravomocně), může zpeněžit, pokud *určí důvody hodné zvláštního zřetele*. Výtěžek se však *nerozdělí věřitelům* před pravomocným skončením.
+[2] **Procesní prostředek.** Proti správci je žaloba prostředkem k soudnímu vynucení vyloučení. Není však jediným faktickým způsobem odstranění položky: správce ji může za podmínek § 217 odst. 2 vyřadit a dlužník má režim § 226.
 
-#### Vrácení výtěžku za neoprávněně zpeněžený majetek (odst. 6)
+[3] **Lhůta.** Žaloba musí insolvenčnímu soudu dojít do 30 dnů od doručení vyrozumění podle § 224; nestačí ji posledního dne pouze odevzdat držiteli poštovní licence. Nebylo-li vyrozumění doručeno, nelze bez zvláštní opory nahradit počátek pouhou vědomostí; žalobu lze podat již před doručením.
 
-Pokud byla věc *zpeněžena přesto, že neměla být v podstatě*, vlastník má **právo na vydání výtěžku** (+ event. náhradu škody).
+[4] **Následky.** Opožděnost, zamítnutí žaloby, zastavení řízení i odmítnutí žaloby vyvolávají následek podle odstavce 3: platí, že majetek byl pojat oprávněně.
 
-### Vazby
+[5] **Ochrana majetku.** Zákaz nakládání začíná již počátkem běhu lhůty, nikoli až podáním žaloby. Trvá do skončení lhůty, případně do právní moci ve sporu. Výjimkou je odvrácení bezprostřední újmy; po podání žaloby také souhlas žalobce. § 217 zůstává nedotčen.
 
-- **§ 159 odst. 1 písm. b)** — incidenční spor.
-- **§ 224** — vyrozumění o soupisu.
+[6] **Nakládání a náhradní hodnota.** Soud může z důvodů hodných zvláštního zřetele povolit nakládání ve výroku nepravomocného rozhodnutí uvedeného v odstavci 5. Věřitele však nelze z výtěžku uspokojit před pravomocným skončením. Vlastník neoprávněně sepsané a zpeněžené věci má právo na výtěžek; náhrada škody zůstává nedotčena.
+
+[7] **Intertemporalita.** Vždy se ověří rozhodné znění procesních i hmotněprávních předpisů. Starší judikatorní závěry proto nelze přenést bez kontroly právního stavu rozhodného pro vznik tvrzeného práva a pro insolvenční spor.
 
 ### Judikatura
 
-- **NS 29 NSČR 12/2014**: 30denní lhůta je *prekluzivní* — *nelze* prominout. Vrcholný den lhůty rozhodující.
-- **NS 29 ICdo 33/2015**: vylučovací žalobu lze podat i bez vyrozumění správcem — pokud osoba zjistí soupis z rejstříku. Lhůta běží *od skutečného vědomí*.
-- **NS 29 ICdo 22/2017**: zajištění zřízené ve prospěch třetí osoby (např. zástavní právo) = důvod vyloučení *věci samé* nemůže být vylučovacím důvodem (jen práva ze zajištění).
-
-### F. Kazuistika
-
-**1. Modelová situace.** Strojírenská společnost (vlastník) prodala dlužníkovi obráběcí stroj s výhradou vlastnického práva do úplného zaplacení; dlužník nezaplatil celou cenu a upadl do konkursu. Správce stroj sepsal do podstaty a 5. dubna doručil vlastníkovi vyrozumění o soupisu s poučením o vylučovací žalobě. Vlastník podal žalobu až 10. května (35. den). Mezitím správce zvažuje zpeněžení stroje. Účastníci: dlužník, správce, vlastník stroje (žalobce), věřitelé. Důkazy: kupní smlouva s výhradou vlastnictví, doklad o nezaplacení, vyrozumění o soupisu s doručenkou (5. 4.), žaloba s datem podání.
-
-**2. Právní otázka.** Byla vylučovací žaloba podána včas a jaké účinky má zmeškání 30denní lhůty na zařazení stroje do podstaty? Smí správce stroj během sporu zpeněžit?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 225 odst. 1 (aktivní legitimace osoby tvrdící právo vylučující zařazení); odst. 2 (žaloba proti správci ve lhůtě 30 dnů od doručení vyrozumění o soupisu); odst. 3 (nepodá-li se včas nebo je-li zamítnuta/zastavena/odmítnuta, platí, že majetek je pojat oprávněně); odst. 4 (zákaz zpeněžení a nakládání po dobu sporu, s výjimkami); odst. 5 (předčasné zpeněžení jen z důvodů zvláštního zřetele dle výroku soudu); odst. 6 (právo vlastníka na vydání výtěžku, byla-li věc neoprávněně zpeněžena).
-- *Související ustanovení téhož zákona:* § 224 (vyrozumění o soupisu); § 159 odst. 1 písm. b) (incidenční spor); § 217 (soupis).
-- *Související předpisy:* § 2132 a násl. OZ (výhrada vlastnického práva).
-- *Judikatura:* NS 29 ICdo 23/2019 a NS 29 Cdo 2268/2018 (rozsah a „výtěžek" vylučovacího nároku, i u zpracované věci); k prekluzi 30denní lhůty (zmeškání = fikce oprávněného zápisu).
-
-**4. Subsumpce.** Vlastník při výhradě vlastnictví má právo vylučující zařazení stroje do podstaty (§ 225 odst. 1). Vyrozumění doručeno 5. 4., 30denní lhůta uplynula 5. 5.; žaloba podaná 10. 5. je opožděná → odst. 3: platí, že stroj je do soupisu pojat oprávněně (fikce). Po marném uplynutí lhůty zaniká blokační účinek odst. 4.
-
-**5. Řešení.** Opožděná žaloba nezvrátí zařazení stroje — nastává fikce oprávněnosti zápisu (odst. 3); stroj zůstává v podstatě a lze jej zpeněžit. Byla-li by žaloba podána včas, platil by zákaz zpeněžení po dobu sporu (odst. 4) s výjimkami (hrozící újma, souhlas žalobce); předčasné zpeněžení jen z důvodů zvláštního zřetele (odst. 5). Procesně: lhůtu nelze prominout (prekluze).
-
-**6. Varianty.** (a) Kdyby vlastník podal žalobu 2. 5. (včas), správce by stroj nesměl zpeněžit až do pravomocného skončení (odst. 4). (b) Kdyby správce stroj zpeněžil, ač neměl být sepsán, vlastník by měl právo na vydání výtěžku (odst. 6) a náhradu škody.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument (žalobce):* „Lhůtu jsem zmeškal o pár dnů, je třeba ji prominout." Neutralizace: 30denní lhůta je prekluzivní a nelze ji prominout; rozhodný je nejpozději poslední den lhůty pro dojití žaloby soudu (odst. 2).
-- *Protiargument (správce):* „Mohu zpeněžit i během sporu, ať se řízení neprotahuje." Neutralizace: odst. 4 to zakazuje; výjimkou je jen odvrácení bezprostředně hrozící újmy nebo souhlas žalobce, případně postup dle odst. 5 z důvodů zvláštního zřetele.
-- *Slabé místo:* běh lhůty závisí na řádném doručení vyrozumění; nebyl-li vlastník vyrozuměn, lhůta běží od skutečného vědomí (NS 29 ICdo 33/2015) — fikce oprávněnosti pak nemusí nastat.
-
-### H. Praktický závěr
-
-Vylučovací žaloba je jediným nástrojem třetí osoby k vyloučení jejího majetku z podstaty; podává se proti správci ve 30denní prekluzivní lhůtě od doručení vyrozumění (§ 224). Zmeškání (i zamítnutí/zastavení/odmítnutí) zakládá fikci oprávněného zápisu. Po dobu sporu platí zákaz zpeněžení (s výjimkami); při neoprávněném zpeněžení má vlastník právo na výtěžek a náhradu škody.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Po vyrozumění o soupisu okamžitě počítat 30denní prekluzivní lhůtu a podat žalobu proti správci.
-- [ ] Žalobu doručit insolvenčnímu soudu nejpozději poslední den lhůty (nelze prominout).
-- [ ] Po dobu sporu respektovat zákaz zpeněžení (odst. 4); předčasné zpeněžení jen dle odst. 5.
-- [ ] Při zmeškání počítat s fikcí oprávněného zápisu (odst. 3).
-- [ ] Při neoprávněném zpeněžení uplatnit právo na vydání výtěžku a náhradu škody (odst. 6).
-
-**Typicky rozhodné důkazy / podklady:** vyrozumění o soupisu s doručenkou, žaloba s vyznačeným datem podání/dojití soudu, doklady o vlastnickém (či jiném vylučujícím) právu (výhrada vlastnictví, leasing), případně rozhodnutí o předčasném zpeněžení.
+- **NS 29 ICdo 142/2019, rozsudek ze dne 23. 9. 2021, ECLI:CZ:NS:2021:29.ICDO.142.2019.1, R 31/2022.** Žalobce se domáhal vyloučení nemovitostí s tvrzením, že je nabyl ve veřejné dražbě; insolvenční soud žalobu zamítl po zjištění, že dražba byla simulovaná a cena nebyla uhrazena, a Nejvyšší soud dovolání zamítl. Rozhodnutí dokládá, že pouhé tvrzení formálního nabývacího titulu nezajišťuje úspěch: insolvenční soud v incidenčním sporu samostatně posoudí, zda žalobci skutečně svědčí právo vylučující soupis. Nosné dovolací závěry se týkaly zejména vztahu § 231 insolvenčního zákona k dřívějšímu rozhodování jiného soudu; nelze je rozšiřovat na jiné tituly bez kontroly skutkového a procesního kontextu.
 
 ---
 

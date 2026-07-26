@@ -316,67 +316,59 @@ Výklad v tomto kole není založen na konkrétním soudním rozhodnutí. Plný 
 
 ## § 236 — Účinky neúčinnosti
 
-> (1) Neúčinností právního úkonu **není dotčena jeho platnost**; v insolvenčním řízení však dlužníkovo plnění z neúčinných právních úkonů **náleží do majetkové podstaty**.
-> (2) Není-li možné vydat do majetkové podstaty původní dlužníkovo plnění z neúčinného právního úkonu, musí být poskytnuta **rovnocenná náhrada**.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**Judikatura (z místních zdrojů):**
+### Znění ustanovení
 
-- *NS* [29 ICdo 72/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/364775A5D3DA9525C1258C0B0052AF83?openDocument) — 29. 11. 2024, kat. A
-  > „Právní nástupce osoby, v jejíž prospěch byl neúčinný právní úkon učiněn nebo která z něho měla prospěch (§ 237 odst. 1 insolvenčního zákona), jemuž v době, kdy nabyl plnění z neúčinného právního úkonu, musely být známy okolnosti, které odůvodňují právo dovolávat se neúčinnosti vůči oné osobě, má ve smyslu § 237 odst. 2 písm. a/ insolvenčního zákona povinnost vydat toto plnění do majetkové podstaty i tehdy, jde-li o právního nástupce na základě smlouvy (typově na základě smlouvy darovací nebo smlouvy kupní)"
+> (1) Neúčinností právního úkonu není dotčena jeho platnost; v insolvenčním řízení však dlužníkovo plnění z neúčinných právních úkonů náleží do majetkové podstaty.
+>
+> (2) Není-li možné vydat do majetkové podstaty původní dlužníkovo plnění z neúčinného právního úkonu, musí být poskytnuta rovnocenná náhrada.
+
+### Přehled výkladu
+
+Ustanovení odděluje platnost právního úkonu od jeho insolvenčních majetkových účinků. Primárně má být do majetkové podstaty vydáno původní dlužníkovo plnění; teprve není-li to možné, nastupuje rovnocenná náhrada. Kdo je povinnou osobou a jak se nárok procesně uplatní, určují zejména § 237 a § 239.
+
+### Souvisící ustanovení
+
+- § 205 a § 206 — rozsah a obsah majetkové podstaty;
+- § 235 — vymezení neúčinnosti a její zásadní založení rozhodnutím o odpůrčí žalobě;
+- § 237 — osoby povinné vydat plnění a vypořádání vzájemného plnění;
+- § 238 — nepřípustnost započtení proti pohledávce na vydání plnění;
+- § 239 — aktivní legitimace správce, lhůta a petit odpůrčí žaloby;
+- § 240 až § 242 — jednotlivé skutkové podstaty odporovatelnosti;
+- § 246 odst. 2 — zvláštní případ neúčinnosti ze zákona po prohlášení konkursu.
+
+### Souvisící předpisy
+
+Pro vlastní následek upravený v § 236 není třeba použít samostatný prováděcí předpis. Obecnou relativní neúčinnost právních jednání upravuje občanský zákoník, insolvenční nárok se však posuzuje podle zvláštní úpravy insolvenčního zákona.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona pojednal § 235 až § 243 společně. Zdůraznil insolvenční původ institutu, rozlišení neúčinnosti ze zákona a neúčinnosti založené konstitutivním rozhodnutím a záměr rozvinout důsledky neúčinnosti, okruh povinných osob i zákaz započtení. Jde o historický koncepční pramen; návrh měl v této části odlišné vnitřní číslování, a proto jeho paragrafové odkazy nelze bez převodu mechanicky vztahovat k dnešnímu znění.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní literární rešerše.
 
 ### Výklad
 
-**Klíčový rozdíl od neplatnosti**:
-- *neplatnost* → úkon **neexistuje** (od počátku),
-- *neúčinnost* → úkon **platí**, ale *vůči věřitelům v podstatě neúčinný* — plnění se vrací do podstaty.
+[1] **Platnost a neúčinnost.** Neúčinnost podle § 236 sama neodstraňuje platnost právního úkonu. Nepřesná je proto zkratka, že neúčinný úkon „neexistuje“ nebo že se jeho určením bez dalšího ruší. Insolvenční následek se soustředí na dlužníkovo plnění, které náleží do majetkové podstaty.
 
-#### Praktický důsledek
+[2] **Původní plnění má přednost.** Odstavec 2 podmiňuje rovnocennou náhradu nemožností vydat původní dlužníkovo plnění. Před stanovením náhrady je proto nutné přesně identifikovat původní plnění a zjistit, zda je jeho vydání objektivně možné.
 
-- *Mezi smluvními stranami* úkon **dál platí** — typicky dovršené plnění zůstává.
-- *Vůči podstatě* — plnění *se vrací* (nebo náhrada).
+[3] **Rovnocenná náhrada.** Znění § 236 neurčuje obecný oceňovací den ani nestanoví, že náhrada musí být ve všech případech peněžitá. Její rovnocennost je třeba posoudit podle povahy původního plnění a okolností konkrétního nároku. Je-li požadována peněžitá náhrada, § 239 odst. 4 dovoluje spojit tento požadavek s určením neúčinnosti v odpůrčí žalobě.
 
-**Princip rovnocenné náhrady** (odst. 2): pokud nelze vrátit *originál* (typicky věc byla zničena, prodána třetí osobě v dobré víře), poskytne se **peněžní ekvivalent** *obvyklé ceny* v rozhodný okamžik.
+[4] **Povinná osoba.** Samotný § 236 neurčuje, kdo plnění nebo náhradu vydává. Okruh povinných osob vymezuje § 237 odst. 1 a 2; nelze jej nahradit pouhým označením smluvní strany napadeného úkonu.
 
-### Vazby
+[5] **Okamžik náležení do podstaty.** V režimu odpůrčí žaloby § 239 odst. 4 stanoví, že dlužníkovo plnění náleží do majetkové podstaty právní mocí rozhodnutí, kterým bylo žalobě vyhověno. Výjimky, v nichž zákon spojuje neúčinnost přímo s právní skutečností, je nutné posoudit podle konkrétního zvláštního ustanovení.
 
-- **§ 237** — kdo vrací.
-- **§ 239** — odpůrčí žaloba.
+[6] **Zákaz započtení.** Proti pohledávce na vydání dlužníkova plnění z neúčinného právního úkonu do majetkové podstaty § 238 výslovně nepřipouští započtení. Vypořádání vzájemného plnění řeší samostatně § 237 odst. 4.
 
-### F. Kazuistika
+[7] **Intertemporalita.** Pro starší skutkové děje je nutné ověřit znění účinné v rozhodné době a příslušná přechodná ustanovení. Dnešní znění § 236 samo neurčuje, podle které časové verze se posoudí dřívější právní úkon.
 
-**1. Modelová situace.** Soud pravomocně určil neúčinnost darovací smlouvy, kterou dlužník LAMBDA daroval automobil obdarovanému MÝ. MÝ však auto mezitím prodal třetí osobě v dobré víře a peníze utratil. Správce žádá vydání auta do podstaty; vrácení originálu už není možné. Důkazy: rozsudek o neúčinnosti, darovací smlouva, doklady o dalším prodeji auta, znalecký posudek o obvyklé ceně vozu k rozhodnému okamžiku.
+### Judikatura
 
-**2. Právní otázka.** Zůstává darovací smlouva platná i po určení neúčinnosti, a jak se plní povinnost vrátit plnění do podstaty, není-li možné vydat původní věc?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 236 odst. 1 IZ (neúčinností *není dotčena platnost* úkonu, ale plnění náleží do podstaty), odst. 2 (rovnocenná náhrada, nelze-li vydat originál).
-- *Související ustanovení téhož zákona:* § 237 IZ (kdo má povinnost plnění vydat), § 239 IZ (odpůrčí žaloba a peněžitá náhrada), § 235 IZ (generální klauzule), § 238 IZ (zákaz započtení).
-- *Související předpisy:* § 2991 a násl. OZ (bezdůvodné obohacení — peněžitá náhrada), § 589 a násl. OZ (relativní neúčinnost — úkon platí mezi stranami).
-- *Judikatura:* NS 29 ICdo 72/2022 (citováno v komentáři) — povinnost vydat plnění do podstaty stíhá za stanovených podmínek i právního nástupce nabyvatele (typicky z darovací/kupní smlouvy).
-
-**4. Subsumpce.** Neúčinnost byla pravomocně určena — darovací smlouva *zůstává platná* (odst. 1 věta první), avšak plnění (auto) *náleží do podstaty*. Protože auto bylo zcizeno a *nelze vydat originál*, aktivuje se odst. 2 — poskytne se *rovnocenná (peněžitá) náhrada* ve výši obvyklé ceny vozu k rozhodnému okamžiku.
-
-**5. Řešení.** Správce se domáhá *peněžité náhrady* odpovídající obvyklé ceně auta (znalecký posudek). Vzhledem k § 239 odst. 4 lze peněžitou náhradu požadovat *přímo v odpůrčí žalobě* vedle určení neúčinnosti. Procesní krok: doložit obvyklou cenu k rozhodnému dni a nemožnost vrácení originálu. Riziko: spor o výši náhrady (okamžik a způsob ocenění); MÝ může namítat, že hodnota byla nižší.
-
-**6. Varianty.** (a) Kdyby MÝ auto stále vlastnil, vydal by *originál* (odst. 1), nikoli náhradu. (b) Kdyby MÝ namítal započtení své pohledávky za dlužníkem proti povinnosti vydat náhradu, neuspěl by — započtení je zakázáno (§ 238).
-
-### G. Protiargumenty a rizika
-
-- *„Je-li úkon neúčinný, je neplatný a strany si musí vše vrátit."* — Neutralizace: § 236 odst. 1 výslovně odlišuje — neúčinností *není dotčena platnost*; mezi stranami úkon trvá, jen plnění (či náhrada) náleží do podstaty.
-- *„Náhrada se má vyčíslit k datu rozsudku / k datu darování."* — Slabé místo: okamžik a způsob ocenění „rovnocenné náhrady" bývá sporný; je třeba znalecky doložit *obvyklou cenu* a obhájit rozhodný okamžik.
-- Slabé místo: prokázání *nemožnosti* vydat originál (zcizení, zničení) leží na tom, kdo se náhrady domáhá; je vhodné doložit osud věci (kupní smlouva s třetí osobou v dobré víře).
-
-### H. Praktický závěr
-
-Neúčinnost nezneplatňuje úkon — mezi stranami trvá, ale dlužníkovo plnění náleží do podstaty; nelze-li vrátit originál, poskytne se rovnocenná peněžitá náhrada (obvyklá cena). Náhradu lze žádat přímo v odpůrčí žalobě (§ 239 odst. 4).
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Odlišit platnost úkonu (trvá) od jeho neúčinnosti vůči podstatě (plnění se vrací).
-- [ ] Zjistit, zda lze vydat původní plnění; pokud ne, vyčíslit rovnocennou náhradu (znalecký posudek, rozhodný okamžik).
-- [ ] Náhradu uplatnit přímo v odpůrčí žalobě (§ 239 odst. 4), nikoli vylučovací žalobou.
-- [ ] Počítat se zákazem započtení proti povinnosti vydat plnění/náhradu (§ 238).
-
-**Typicky rozhodné důkazy / podklady:** rozhodnutí o neúčinnosti, smluvní dokumentace neúčinného úkonu, doklady o osudu plnění (zcizení/zničení originálu), znalecký posudek o obvyklé ceně k rozhodnému okamžiku.
+Výklad v tomto kole není založen na konkrétním soudním rozhodnutí. Z dřívějšího textu nebyl převzat judikatorní závěr, protože nebyl doložen plným textem rozhodnutí přímo nosného pro účinky § 236. Tím se nevyslovuje, že k § 236 neexistuje relevantní judikatura.
 
 ---
 

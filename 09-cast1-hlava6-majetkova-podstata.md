@@ -1092,45 +1092,58 @@ Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto sd�
 
 Do tohoto kola nebylo zařazeno žádné soudní rozhodnutí. Původní anonymní judikatorní tvrzení nebylo spojeno s plným textem konkrétního rozhodnutí na oficiálním webu soudu, a proto bylo odstraněno. Tím se netvrdí, že relevantní judikatura neexistuje.
 
-### § 223 — Upuštění
-*Výjimečně* lze upustit od soupisu / ocenění (rozhodnutí soudu). Pak správce předloží *zprávu o stavu majetku*.
+## § 223 — Upuštění
 
-### F. Kazuistika
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**1. Modelová situace.** Správce sestavil soupis, u každé položky uvedl důvod soupisu, ocenění a datum. Požádal dlužníka o písemné potvrzení správnosti; dlužník je bez uvedení důvodů odmítl. U majetku nepatrné hodnoty (zcela předlužený drobný majetek) správce zvažuje, zda nenavrhnout soudu upuštění od ocenění. Soupis je třeba zveřejnit v insolvenčním rejstříku. Účastníci: dlužník, správce, insolvenční soud, věřitelé. Důkazy: vyplněný elektronický formulář soupisu, žádost o potvrzení a odmítnutí dlužníka, návrh na upuštění.
+### Znění ustanovení
 
-**2. Právní otázka.** Musí soupis u každé položky uvádět důvod soupisu, jaké účinky má odmítnutí dlužníka potvrdit správnost a kdy lze upustit od soupisu/ocenění?
+> V případech stanovených zákonem lze na základě rozhodnutí insolvenčního soudu upustit od soupisu nebo od ocenění sepsaného majetku. Po právní moci takového rozhodnutí insolvenční správce předloží insolvenčnímu soudu zprávu o stavu majetku náležejícího do majetkové podstaty.
+>
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 220 (vedle označení, ocenění a data vždy důvod soupisu, příp. den a důvod vyřazení); § 221 (dlužník na žádost správce písemně potvrdí správnost; odmítnout lze jen s uvedením důvodů); § 222 (zveřejnění soupisu na elektronickém formuláři v rejstříku neprodleně); § 223 (výjimečné upuštění od soupisu/ocenění rozhodnutím soudu, pak zpráva o stavu majetku).
-- *Související ustanovení téhož zákona:* § 217 (soupis a jeho účinky); § 218 (označení); § 219 (ocenění); § 210 (součinnost dlužníka); § 421 a násl. (insolvenční rejstřík).
-- *Související předpisy:* prováděcí předpis k formulářům; OSŘ subsidiárně.
-- *Judikatura:* nosný závěr, že náležitosti soupisu (zejména důvod a identifikace) jsou předpokladem jeho funkce jako podkladu pro zpeněžení a ochranu třetích osob.
+### Přehled výkladu
 
-**4. Subsumpce.** Uvedení důvodu soupisu u každé položky je obligatorní (§ 220) — splněno. Odmítnutí dlužníka potvrdit správnost bez důvodů odporuje § 221 (odmítnout lze jen s důvody) → jde o porušení součinnosti (§ 210). Upuštění od ocenění je výjimečné a vyžaduje rozhodnutí soudu (§ 223); u zcela předluženého drobného majetku může být důvodné.
+§ 223 umožňuje upuštění od soupisu nebo od ocenění sepsaného majetku pouze tehdy, stanoví-li tak zákon, a pouze na základě rozhodnutí insolvenčního soudu. Pravomocné rozhodnutí zakládá navazující povinnost insolvenčního správce předložit soudu zprávu o stavu majetku náležejícího do majetkové podstaty.
 
-**5. Řešení.** Soupis se zveřejní na elektronickém formuláři v rejstříku neprodleně (§ 222). Bezdůvodné odmítnutí dlužníka nebrání platnosti soupisu, zakládá však porušení součinnosti (event. § 81). Upuštění od ocenění správce navrhne soudu (§ 223); bude-li povoleno, předloží zprávu o stavu majetku. Procesně: doplnit důvody soupisu, zveřejnit, řešit nesoučinnost dlužníka.
+### Souvisící ustanovení
 
-**6. Varianty.** (a) Kdyby dlužník odmítl potvrzení s relevantními věcnými důvody (např. sporné vlastnictví), nešlo by o porušení a důvody by se prověřily. (b) Kdyby majetek měl nezanedbatelnou hodnotu, upuštění od ocenění by soud zpravidla nepovolil.
+§ 7; § 11; § 217 až 222; § 224; § 225; § 227.
 
-### G. Protiargumenty a rizika
+### Souvisící předpisy
 
-- *Protiargument (dlužník):* „Nemusím nic potvrzovat." Neutralizace: § 221 ukládá na žádost správce písemně potvrdit správnost; odmítnout lze jen s uvedením důvodů — bezdůvodné odmítnutí je porušením součinnosti.
-- *Protiargument:* „Soupis nemusí u každé položky uvádět důvod." Neutralizace: § 220 výslovně vyžaduje vždy uvedení důvodu soupisu (a případně dne a důvodu vyřazení).
-- *Slabé místo:* upuštění od soupisu/ocenění je výjimečné a podmíněné rozhodnutím soudu — automaticky se nepředpokládá; chybné upuštění může ztížit pozdější zpeněžení a kontrolu věřitelů.
+Zákon č. 99/1963 Sb., občanský soudní řád, se použije jen za podmínek § 7 insolvenčního zákona; § 223 sám nestanoví zvláštní subsidiární procesní úpravu.
 
-### H. Praktický závěr
+### Z důvodové zprávy
 
-Soupis musí u každé položky obsahovat označení, ocenění, datum a důvod soupisu (§ 220). Dlužník na žádost správce písemně potvrdí správnost a odmítnout může jen s důvody (§ 221). Soupis se zveřejňuje na elektronickém formuláři v rejstříku neprodleně (§ 222); od soupisu/ocenění lze upustit jen výjimečně rozhodnutím soudu, pak se předkládá zpráva o stavu majetku (§ 223).
+Původní důvodová zpráva pojednává § 220 až 224 společně jako podrobnou úpravu náležitostí soupisu a jeho změn; podmínky upuštění podle § 223 ani obsah následné zprávy samostatně nerozvádí (sněmovní tisk 1120/0, zvláštní část, K § 220 až 224, číslovaná s. 204).
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] U každé položky uvést označení, ocenění, datum a důvod soupisu (§ 220).
-- [ ] Vyžádat si od dlužníka písemné potvrzení správnosti; bezdůvodné odmítnutí řešit jako nesoučinnost.
-- [ ] Zveřejnit soupis na elektronickém formuláři v insolvenčním rejstříku neprodleně.
-- [ ] Upuštění od soupisu/ocenění navrhnout soudu jen výjimečně a doložit důvody.
-- [ ] Při upuštění předložit zprávu o stavu majetku.
+### Literatura
 
-**Typicky rozhodné důkazy / podklady:** vyplněný elektronický formulář soupisu s důvody, žádost o potvrzení a odpověď dlužníka, návrh na upuštění a rozhodnutí soudu, zpráva o stavu majetku.
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto sdělení není výsledkem negativní literární rešerše.
+
+### Výklad
+
+[1] **Dvě alternativy.** Ustanovení rozlišuje upuštění od soupisu a upuštění od ocenění již sepsaného majetku. Nejde o totožný zásah: v prvním případě se nepořizuje soupis, ve druhém se neuplatní ocenění jako jeho součást.
+
+[2] **Výhrada zákona.** Formulace „v případech stanovených zákonem“ vylučuje, aby § 223 sám představoval obecné zmocnění soudu prominout soupis či ocenění jen z důvodu hospodárnosti, nízké hodnoty majetku nebo na návrh správce. Takový obecný důvod komentované ustanovení neobsahuje.
+
+[3] **Nutnost rozhodnutí soudu.** Ani existence zákonem stanoveného případu sama nestačí. Upuštění musí spočívat na rozhodnutí insolvenčního soudu; správce o něm nemůže rozhodnout jednostranně.
+
+[4] **Rozhodnutí předchází upuštění.** Slovní spojení „na základě rozhodnutí“ vyjadřuje, že rozhodnutí soudu je právním podkladem upuštění, nikoli pouhým dodatečným schválením již provedeného postupu. Jde o jazykový výklad editora.
+
+[5] **Právní moc a zpráva.** Povinnost správce předložit zprávu nastává až po právní moci rozhodnutí o upuštění. Adresátem zprávy je insolvenční soud.
+
+[6] **Předmět zprávy.** Zpráva se týká stavu majetku náležejícího do majetkové podstaty. § 223 její náležitosti ani lhůtu počtem dnů nestanoví; konkrétní požadavky mohou vyplynout z rozhodnutí soudu a z jeho dohlédací činnosti podle § 11.
+
+[7] **Vztah k obecným pravidlům.** Bez zákonného případu a soudního rozhodnutí trvají obecné povinnosti správce soupis provádět a soustavně doplňovat podle § 217 a zahrnout do něj ocenění podle § 219. Upuštění nelze zaměňovat s vyřazením majetku ze soupisu podle § 217 odst. 2 ani s vyloučením či vynětím podle § 225 až 227.
+
+[8] **Majetek nepatrné hodnoty.** § 218 odst. 1 dovoluje u majetku nepatrné hodnoty výjimku z požadavku na způsob označení umožňující identifikaci. Nestanoví však tím obecné upuštění od soupisu nebo ocenění podle § 223. Opačný závěr by směšoval odlišné zákonné otázky.
+
+[9] **Časová působnost.** Výklad odpovídá znění účinnému k 19. 7. 2026. Má-li být posouzen dřívější postup, je nutné ověřit tehdy účinné znění § 223 i ustanovení, které mělo založit konkrétní případ upuštění.
+
+### Judikatura
+
+Do tohoto kola nebylo zařazeno žádné soudní rozhodnutí. Původní anonymní judikatorní tvrzení nebylo spojeno s plným textem konkrétního rozhodnutí na oficiálním webu soudu, a proto bylo odstraněno. Tím se netvrdí, že relevantní judikatura neexistuje.
 
 ---
 

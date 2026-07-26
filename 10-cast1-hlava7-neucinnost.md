@@ -255,87 +255,62 @@ Výklad v tomto kole není založen na konkrétním soudním rozhodnutí. Místn
 
 ## § 235 — Generální klauzule a princip — **CENTRÁLNÍ PARAGRAF**
 
-> (1) Neúčinnými jsou právní úkony, kterými dlužník **zkracuje možnost uspokojení věřitelů** nebo **zvýhodňuje některé věřitele na úkor jiných**. Za právní úkon se považuje též dlužníkovo opomenutí.
-> (2) Neúčinnost dlužníkových právních úkonů, včetně těch, které tento zákon označuje za neúčinné a které dlužník učinil poté, co nastaly účinky spojené se zahájením insolvenčního řízení, **se zakládá rozhodnutím insolvenčního soudu o žalobě insolvenčního správce**, kterou bylo odporováno dlužníkovým právním úkonům (dále jen „odpůrčí žaloba"), není-li dále stanoveno jinak.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Neúčinnými jsou právní úkony, kterými dlužník zkracuje možnost uspokojení věřitelů nebo zvýhodňuje některé věřitele na úkor jiných. Za právní úkon se považuje též dlužníkovo opomenutí.
+>
+> (2) Neúčinnost dlužníkových právních úkonů, včetně těch, které tento zákon označuje za neúčinné a které dlužník učinil poté, co nastaly účinky spojené se zahájením insolvenčního řízení, se zakládá rozhodnutím insolvenčního soudu o žalobě insolvenčního správce, kterou bylo odporováno dlužníkovým právním úkonům (dále jen „odpůrčí žaloba“), není-li dále stanoveno jinak.
+>
 > (3) Za neúčinný nelze označit ani právní úkon spočívající v poskytnutí prozatímního financování, nového financování nebo dalších plateb souvisejících s preventivní restrukturalizací, pokud tento právní úkon splňuje podmínky podle § 27 zákona o preventivní restrukturalizaci; to platí i na věcně právní účinky takového právního úkonu.
+>
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *NS* [29 Cdo 307/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B19D7AB73128EBEFC1258393002C4905?openDocument) — 29. 2. 2016, kat. A
-  > „Pro účely posouzení, zda se dlužník zavázal poskytnout plnění bezúplatně nebo za protiplnění, jehož obvyklá cena je podstatně nižší než obvyklá cena plnění, k jehož poskytnutí se zavázal dlužník (§ 240 insolvenčního zákona), je významné především kvantitativní hledisko [ poměr mezi cenou obvyklou a cenou sjednanou (vyjádřitelný např. v procentech) a rozdíl obou cen (představující konkrétní částku)]. Současně je ale nutno přihlédnout k dopadu sporného právního úkonu do majetkové sféry dlužníka z hlediska možnosti věřitelů, jimž k datu nabytí účinků sporného právního úkonu dlužníka svědčila pohledávka za dlužníkem, dosáhnout vůči dlužníku úhrady pohledávek (a schopnosti dlužníka tyto pohledávky zaplatit) a k důvodům, pro které dlužník sporný právní úkon učinil (např. snaha získat prostředky k úhradě již splatných pohledávek věřitelů), jakož i k dalším okolnostem, za nichž dlužník…"
+§ 235 vymezuje společný znak insolvenční neúčinnosti, zahrnuje i opomenutí, stanoví zásadní konstitutivní režim odpůrčí žaloby a chrání kvalifikované financování preventivní restrukturalizace. Základní znaky konkrétních předinsolvenčních skutkových podstat upravují § 240 až § 242. Slova „není-li dále stanoveno jinak“ současně brání absolutnímu závěru, že insolvenční zákon nikdy nezná neúčinnost bez konstitutivního rozsudku.
 
-### Výklad — **JÁDRO INSTITUTU**
+### Souvisící ustanovení
 
-#### Dva typy neúčinných úkonů (odst. 1)
+- § 111 odst. 3 — následek úkonů odporujících omezením dlužníka po zahájení insolvenčního řízení.
+- § 231 odst. 4 — souběžná ochrana kvalifikovaného restrukturalizačního financování před zjištěním neplatnosti.
+- § 236 až § 238 — účinky neúčinnosti, povinné osoby a zákaz započtení.
+- § 239 — aktivní legitimace správce, součinnost věřitelského výboru a lhůta k odpůrčí žalobě.
+- § 240 až § 242 — skutkové podstaty úkonů bez přiměřeného protiplnění, zvýhodňujících úkonů a úmyslně zkracujících úkonů.
+- § 246 odst. 2 — zvláštní neúčinnost ze zákona po přechodu dispozičních oprávnění na správce.
 
-**A) Zkracující** — *snižují majetek* nebo *zvyšují závazky* dlužníka tak, že věřitelé budou méně uspokojeni:
-- *darování*,
-- *prodej za podhodnotu*,
-- *uznání neexistujícího dluhu*,
-- *vzdání se pohledávky*.
+### Souvisící předpisy
 
-**B) Zvýhodňující** — *preferují některé věřitele* na úkor jiných:
-- *předčasné splacení vybraného věřitele*,
-- *zřízení dodatečného zajištění pro starý dluh*,
-- *novace ve prospěch věřitele*.
+- Zákon č. 284/2023 Sb., o preventivní restrukturalizaci, zejména § 27, na jehož podmínky § 235 odst. 3 výslovně odkazuje.
+- Zákon č. 89/2012 Sb., občanský zákoník, § 589 až § 599, upravuje relativní neúčinnost mimo zvláštní insolvenční režim; pro insolvenční neúčinnost se uplatní komplexní úprava insolvenčního zákona.
 
-**Opomenutí = úkon** — *pasivita* dlužníka, která zhorší pozici věřitelů, je rovněž neúčinná (typicky *opomenutí vymáhat pohledávku, která se promlčela*).
+### Z důvodové zprávy
 
-#### Neúčinnost vzniká rozhodnutím soudu na žalobu správce (odst. 2)
+Oficiální důvodová zpráva k vládnímu návrhu insolvenčního zákona (sněmovní tisk 1120/0, zvláštní část k tehdejším § 235 až 243, číslované s. 206–207, PDF s. 207–208) vycházela z rozlišení neúčinnosti nastávající ze zákona a neúčinnosti založené konstitutivním rozhodnutím. Výlučnou legitimaci správce odůvodnila zabráněním duplicitám a tím, že neúčinnost působí ve prospěch všech věřitelů. Číslování a dílčí řešení v osnově se před vyhlášením zákona změnila; důvodová zpráva proto slouží k doložení původní koncepce, nikoli jako náhrada aktuálního textu. Odstavec 3 byl doplněn až zákonem č. 284/2023 Sb. a původní důvodová zpráva jej neodůvodňuje.
 
-**Konstitutivní rozhodnutí soudu** na **odpůrčí žalobu insolvenčního správce**. Tedy:
-- *neúčinnost ex lege neexistuje* — musí být *vyhlášena* soudem,
-- *aktivně legitimován* je **jen správce**, ne jednotliví věřitelé.
+### Literatura
 
-> *Důvod centralizace*: koordinace, ochrana před chaosem (každý věřitel by jinak mohl napadat ty samé úkony), efektivnost (správce má přístup k informacím o všech úkonech).
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tato poznámka není závěrem o neexistenci relevantní literatury ani negativní rešerší.
 
-**Výjimka**: úkony *po* zahájení IR (typicky porušení § 111) — také vyžadují odpůrčí žalobu pro určení neúčinnosti.
+### Výklad
 
-#### Imunita PR financování (odst. 3)
+[1] **Systematické postavení.** Zkrácení možnosti uspokojení věřitelů a zvýhodnění některých věřitelů na úkor jiných jsou dvě základní podoby újmy chráněné úpravou neúčinnosti. Pro konkrétní předinsolvenční úkon je nutno obecné vymezení odstavce 1 číst společně se znaky skutkových podstat § 240 až § 242.
 
-Analogicky § 231 odst. 4 — *ochrana investorů* preventivní restrukturalizace.
+[2] **Opomenutí.** Zákon výslovně staví dlužníkovo opomenutí na roveň právnímu úkonu. Ani u pasivity však nelze přeskočit další zákonné znaky: správce musí určit konkrétní opomenutí, jeho majetkový dopad, použitelnou skutkovou podstatu, rozhodnou dobu a žalovanou osobu. Pouhá skutečnost, že dlužník nekonal, neprokazuje sama o sobě neúčinnost.
 
-### Vazby
+[3] **Zásadně konstitutivní rozhodnutí.** Podle odstavce 2 se neúčinnost zakládá rozhodnutím insolvenčního soudu o odpůrčí žalobě správce. Jde o zásadní pravidlo, nikoli bezvýjimečný výrok pro všechny situace: zákon sám připojuje výhradu „není-li dále stanoveno jinak“ a například § 246 odst. 2 výslovně stanoví neúčinnost ze zákona. U jednání po zahájení řízení je proto vždy nutno nejprve určit konkrétní zvláštní ustanovení a jeho následek.
 
-- **§ 239** — procesní úprava odpůrčí žaloby.
-- **§ 240, § 241, § 242** — typy neúčinných úkonů.
-- **§ 590 — § 591 OZ** — analogická úprava odpůrčí žaloby v civilním právu (modifikovaná v IR).
+[4] **Procesní centralizace.** Aktivní legitimaci k odpůrčí žalobě svěřuje § 239 odst. 1 pouze insolvenčnímu správci. Věřitel může podle § 239 odst. 2 správci odporovatelné úkony oznámit; věřitelský výbor mu může uložit podání žaloby. Podle § 239 odst. 3 může správce žalobu podat do jednoho roku ode dne, kdy nastaly účinky rozhodnutí o úpadku. Jde o zvláštní insolvenční režim a uvedenou lhůtu nelze nahrazovat obecnou úpravou občanského zákoníku.
 
-### F. Kazuistika
+[5] **Důkazní a kvalifikační postup.** Je třeba odděleně ověřit obsah a účinky napadeného úkonu nebo opomenutí, okruh věřitelů a majetkový dopad, znaky některé skutkové podstaty § 240 až § 242, rozhodné časové období, osobu žalovaného podle § 237 a včasnost žaloby. Zákonné domněnky nebo blízkost osob je třeba použít jen v rozsahu konkrétního ustanovení; nenahrazují ostatní znaky skutkové podstaty.
 
-**1. Modelová situace.** Dlužník IÓTA (společnost) tři měsíce před zahájením IR (a v době, kdy již nehradil splatné závazky více věřitelům) převedl provozovnu na spřízněnou společnost KAPPA a zároveň „zapomněl" vymáhat svou pohledávku 2 mil. Kč za třetí osobou, takže se promlčela. Insolvenční správce chce obojí napadnout. Důkazy: smlouva o převodu provozovny, účetnictví dlužníka (stav splatných závazků), korespondence prokazující nečinnost při vymáhání, doklady o promlčení pohledávky.
+[6] **Preventivní restrukturalizace.** Odstavec 3 brání označit za neúčinný úkon spočívající v prozatímním či novém financování nebo v dalších platbách souvisejících s preventivní restrukturalizací, jen pokud splňuje podmínky § 27 zákona č. 284/2023 Sb.; ochrana se vztahuje i na věcněprávní účinky. Nejde tedy o obecnou imunitu každého financování označeného stranami jako restrukturalizační.
 
-**2. Právní otázka.** Spadají pod generální klauzuli neúčinnosti (§ 235) jak aktivní zkracující/zvýhodňující úkony, tak *opomenutí* dlužníka, a kdo a jak může jejich neúčinnost uplatnit?
+[7] **Intertemporalita.** Pro posouzení konkrétního úkonu je nutno ověřit právní úpravu účinnou v rozhodné době a příslušná přechodná ustanovení. Zejména odstavec 3 je pozdější součástí § 235, vloženou v souvislosti se zákonem č. 284/2023 Sb.; nelze jej bez intertemporální kontroly promítat do starších skutkových dějů.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 235 odst. 1 IZ (definice neúčinných úkonů — zkracující a zvýhodňující, včetně opomenutí), odst. 2 (neúčinnost se zakládá rozhodnutím soudu o odpůrčí žalobě správce), odst. 3 (imunita financování PR).
-- *Související ustanovení téhož zákona:* § 239 IZ (procesní úprava odpůrčí žaloby, výlučná legitimace správce, 1letá prekluze), § 240–242 IZ (konkrétní typy neúčinných úkonů), § 236 IZ (účinky), § 111 IZ (úkony po zahájení IR).
-- *Související předpisy:* § 589–599 OZ (relativní neúčinnost / pauliánská žaloba v civilním právu — modifikováno), § 27 ZPR (financování PR).
-- *Judikatura:* NS 29 Cdo 307/2014 (citováno v komentáři) — při posouzení (ne)přiměřenosti protiplnění je významné kvantitativní hledisko i dopad úkonu do majetkové sféry dlužníka a možnosti věřitelů dosáhnout úhrady.
+### Judikatura
 
-**4. Subsumpce.** Převod provozovny na spřízněnou KAPPA *snižuje majetek* dostupný věřitelům → *zkracující úkon* (odst. 1 var. A). Opomenutí vymáhat pohledávku, jež vedlo k jejímu promlčení, je výslovně postaveno naroveň úkonu („též dlužníkovo opomenutí") → rovněž neúčinný úkon. Neúčinnost však *nevzniká ze zákona* — musí být *založena rozhodnutím soudu* na odpůrčí žalobu *správce* (odst. 2); jednotliví věřitelé legitimováni nejsou.
-
-**5. Řešení.** Správce podá *odpůrčí žalobu* (§ 239) ve lhůtě 1 roku od účinků rozhodnutí o úpadku, jíž napadne jak převod provozovny, tak opomenutí vymáhat pohledávku. Konkrétní subsumpci provede pod některý z typů § 240–242 (zde patrně § 240 — bez přiměřeného protiplnění, příp. § 242 — úmyslné zkrácení u spřízněné osoby). Procesní krok: identifikovat všechny neúčinné úkony hned po prozkoumání účetnictví. Riziko: opomenutí se prokazuje obtížněji (nutno doložit, že dlužník mohl a měl konat).
-
-**6. Varianty.** (a) Kdyby provozovnu napadl sám jednotlivý věřitel mimo odpůrčí žalobu správce, byl by neúspěšný — chybí mu aktivní legitimace (odst. 2). (b) Kdyby šlo o převod financovaný v rámci preventivní restrukturalizace splňující § 27 ZPR, úkon by *nešlo* označit za neúčinný (odst. 3).
-
-### G. Protiargumenty a rizika
-
-- *„Neúčinnost nastává ex lege, postačí konstatovat zkrácení věřitelů."* — Neutralizace: odst. 2 výslovně stanoví *konstitutivní* charakter — neúčinnost se *zakládá rozhodnutím soudu* o odpůrčí žalobě; bez pravomocného rozsudku neúčinnost neexistuje.
-- *„Opomenutí nelze napadnout, neúčinný může být jen aktivní úkon."* — Neutralizace: poslední věta odst. 1 staví *opomenutí* naroveň úkonu; typicky promlčení pohledávky nečinností. Slabé místo: nutno prokázat, že dlužník měl reálnou možnost konat.
-- Slabé místo / riziko: výlučná legitimace správce (odst. 2) znamená, že pasivita správce poškozuje věřitele — věřitelský výbor by měl využít § 239 odst. 2 (závazný pokyn k podání žaloby).
-
-### H. Praktický závěr
-
-Neúčinné jsou úkony (i opomenutí) dlužníka zkracující věřitele nebo zvýhodňující některé z nich; neúčinnost vzniká až *konstitutivním* rozhodnutím soudu o odpůrčí žalobě, k níž je legitimován výlučně správce. Financování PR podle § 27 ZPR je z neúčinnosti vyňato.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Roztřídit napadané jednání na zkracující a zvýhodňující, zahrnout i opomenutí dlužníka.
-- [ ] Subsumovat úkon pod konkrétní typ neúčinnosti (§ 240–242) a ověřit příslušné lhůty.
-- [ ] Podat odpůrčí žalobu výlučně správcem v 1leté prekluzivní lhůtě (§ 239); věřitelé sami legitimováni nejsou.
-- [ ] Ověřit, zda úkon nespadá pod imunitu financování PR (§ 27 ZPR, odst. 3).
-
-**Typicky rozhodné důkazy / podklady:** smluvní dokumentace zkracujících/zvýhodňujících úkonů, účetnictví dlužníka a přehled splatných závazků v době úkonu, doklady o nečinnosti a promlčení (u opomenutí), znalecký posudek o cenách, doklady o vztahu blízkosti/koncernu.
+Výklad v tomto kole není založen na konkrétním soudním rozhodnutí. Plný text kandidátního rozhodnutí sice prošel věcnou kontrolou, ale jeho snapshot nebylo v technicky omezené relaci možné uložit do povinného runového adresáře pramenů; proto z něj nebylo převzato žádné materiální tvrzení. Nejde o závěr, že relevantní judikatura neexistuje.
 
 ---
 

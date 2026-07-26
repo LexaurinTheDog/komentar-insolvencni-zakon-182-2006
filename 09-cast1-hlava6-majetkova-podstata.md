@@ -1505,98 +1505,79 @@ Do tohoto kola nebylo zařazeno žádné rozhodnutí. Stávající anonymní tvr
 
 ## § 229 — Dispoziční oprávnění
 
-> (1) Zákon stanoví v závislosti na průběhu řízení, způsobech řešení úpadku a vlastnictví majetku náležejícího do majetkové podstaty, kdo je ve vztahu k majetkové podstatě **osobou s dispozičními oprávněními**, případně komu přísluší právo nakládat s majetkovou podstatou ohledně části těchto oprávnění nebo pouze ohledně některých z nich.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Zákon stanoví v závislosti na průběhu řízení, způsobech řešení úpadku a vlastnictví majetku náležejícího do majetkové podstaty, kdo je ve vztahu k majetkové podstatě osobou s dispozičními oprávněními, případně komu přísluší právo nakládat s majetkovou podstatou ohledně části těchto oprávnění nebo pouze ohledně některých z nich.
 > (2) Je-li majetek náležející do majetkové podstaty ve vlastnictví jiné osoby než dlužníka, lze právo této osoby s takovým majetkem nakládat omezit jen zákonem nebo rozhodnutím insolvenčního soudu.
 > (3) Nestanoví-li tento zákon jinak, je ve vztahu k majetkové podstatě osobou s dispozičními oprávněními
-> a) **dlužník v době do rozhodnutí o úpadku**,
-> b) **dlužník v době od rozhodnutí o úpadku do rozhodnutí o způsobu řešení úpadku**,
-> c) **insolvenční správce v době od prohlášení konkursu**,
-> d) **dlužník v době od povolení reorganizace** a
-> e) **dlužník v době od povolení oddlužení**.
+> a) dlužník v době do rozhodnutí o úpadku,
+> b) dlužník v době od rozhodnutí o úpadku do rozhodnutí o způsobu řešení úpadku,
+> c) insolvenční správce v době od prohlášení konkursu,
+> d) dlužník v době od povolení reorganizace a
+> e) dlužník v době od povolení oddlužení.
 > (4) Ustanovením odstavce 3 nejsou dotčena omezení uložená dlužníku s dispozičními oprávněními insolvenčním zákonem nebo rozhodnutím insolvenčního soudu v průběhu insolvenčního řízení. Má-li dispoziční oprávnění jiná osoba než dlužník, nejsou tím dotčeny povinnosti uložené dlužníku tímto zákonem.
 > (5) Od rozhodnutí o úpadku a je-li dlužník insolvenčním navrhovatelem, od okamžiku, kdy se jím stal, platí o povinnostech dlužníka s dispozičními oprávněními ustanovení § 36 a 37 přiměřeně.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *NS* [20 Cdo 4879/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3230B452174C2142C125822F002B7F5F?openDocument) — kat. A, 1. 12. 2017
-  > „V exekučním řízení vedeném pro pohledávku dlužníka za povinným nelze exekučním příkazem soudního exekutora ve smyslu ustanovení § 312 a násl. o. s. ř. postihnout pohledávku povinného týkající se majetkové podstaty dlužníka; to platí bez zřetele k tomu, že oprávněným je insolvenční správce dlužníka"
+§ 229 je obecnou rozdělovací normou. Určuje výchozí osobu s dispozičními oprávněními podle fáze řízení, způsobu řešení úpadku a vlastnictví majetku, ale výslovně ustupuje zvláštní úpravě. Pro konkrétní úkon proto nestačí přečíst odstavec 3: je nutné určit dotčený majetek, časový okamžik, zvolený způsob řešení úpadku a zákonné či soudní omezení.
 
-### Výklad — **MAPA DISPOZIČNÍCH OPRÁVNĚNÍ**
+### Souvisící ustanovení
 
-#### Časová mapa (odst. 3)
+- § 36 a § 37 — povinnosti insolvenčního správce a odpovědnost za škodu; podle § 229 odst. 5 se na povinnosti dlužníka s dispozičními oprávněními použijí přiměřeně,
+- § 111 a § 113 — omezení dlužníka po zahájení řízení a předběžná opatření,
+- § 217 a § 228 — účinek soupisu a obsah pojmu nakládání s majetkovou podstatou,
+- § 230 — správa majetkové podstaty a pokyny při správě zajištěného majetku,
+- § 246 až § 249 — účinky konkursu, přechod dispozičních oprávnění a vymáhání nároků dlužníka,
+- § 330, § 332 až § 334 a § 353 až § 355 — dispoziční oprávnění a jejich omezení v reorganizaci,
+- § 407 až § 409 — majetkové a dispoziční účinky schváleného oddlužení.
 
-| Fáze | Osoba s dispozičními oprávněními |
-|---|---|
-| **Před zahájením IR** | dlužník (volně, ale s omezeními § 111 a předb. opatření) |
-| **Od zahájení do úpadku** | dlužník (s omezeními § 111 — zákaz podstatných dispozic) |
-| **Od úpadku do rozhodnutí o způsobu** | dlužník (s pokračujícími omezeními) |
-| **Konkurs** | **insolvenční správce** (§ 246) |
-| **Reorganizace** | **dlužník** (§ 330) — „debtor in possession" |
-| **Oddlužení** | **dlužník** (§ 409) |
+### Souvisící předpisy
 
-#### Klíčové důsledky
+Pro materiální závěry tohoto výkladu nebyl jiný právní předpis použit jako samostatný podklad. Obsah jednotlivého právního jednání se může řídit obecným soukromým právem a procesní následky občanským soudním řádem, určení osoby s dispozičními oprávněními však v komentovaném rozsahu vychází z insolvenčního zákona.
 
-**Konkurs** — *plný přechod* na správce. Dlužník ztrácí prakticky všechna oprávnění (s výjimkou věcí osobní povahy mimo podstatu).
+### Z důvodové zprávy
 
-**Reorganizace** — *zachování dispozic dlužníka*, ale pod *kontrolou věřitelských orgánů a soudu*. „Going concern" princip.
+Původní důvodová zpráva uvádí, že § 229 doplňuje obecná vymezení nakládání a správy v § 228 a § 230 tím, že obecně charakterizuje dispoziční oprávnění a možnost jejich omezení. Jde o historické vysvětlení původní koncepce, nikoli o náhradu aktuálního textu nebo pozdějších zvláštních pravidel. (Vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, zvláštní část, K § 228 až 230, číslovaná s. 204, PDF s. 205.)
 
-**Oddlužení** — dlužník hospodaří, ale *povinnost srážek* pro splátkový kalendář a *omezení dispozice* s majetkem pro zpeněžení.
+### Literatura
 
-#### Majetek třetích osob (odst. 2)
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Nejde o negativní rešerši ani o tvrzení, že k § 229 literatura neexistuje.
 
-Pokud do podstaty patří majetek *jiné osoby* (typicky z neúčinných úkonů — § 235), její dispozice s majetkem lze omezit jen *zákonem* nebo *rozhodnutím soudu*.
+### Výklad
 
-#### Fiduciární standard (odst. 5)
+[1] **Obecné pravidlo a lex specialis.** Odstavec 1 vyjadřuje, že dispoziční oprávnění nemusí náležet jediné osobě v plném rozsahu. Mohou být rozdělena podle části majetkové podstaty nebo jen podle některých oprávnění. Úvod odstavce 3 „nestanoví-li tento zákon jinak“ z něj činí výchozí mapu, kterou je vždy nutné korigovat zvláštní úpravou.
 
-Od rozhodnutí o úpadku (resp. od podání IN dlužníkem) platí **§ 36, § 37 přiměřeně** pro dlužníka s dispozičními oprávněními:
-- *odborná péče*,
-- *přednost společného zájmu věřitelů*,
-- *odpovědnost za škodu*.
+[2] **Časové úseky před volbou způsobu řešení.** Do rozhodnutí o úpadku i od rozhodnutí o úpadku do rozhodnutí o způsobu řešení úpadku označuje odstavec 3 za osobu s dispozičními oprávněními dlužníka. To neznamená neomezenou volnost: odstavec 4 zachovává omezení uložená insolvenčním zákonem nebo rozhodnutím soudu, zejména je třeba prověřit § 111 a případné předběžné opatření podle § 113.
 
-> Dlužník v reorganizaci / oddlužení je tedy *kvazi-správcem vlastního majetku* s plnou fiduciární odpovědností.
+[3] **Konkurs.** Od prohlášení konkursu je výchozí osobou s dispozičními oprávněními insolvenční správce. § 246 odst. 1 konkretizuje, že na něj přechází oprávnění nakládat s majetkovou podstatou a výkon práv a povinností příslušejících dlužníku, pokud souvisejí s majetkovou podstatou. Rozhodný je tedy vztah konkrétního práva nebo úkonu k majetkové podstatě; nelze bez dalšího tvrdit, že prohlášením konkursu přechází každé osobní právo dlužníka.
 
-### Vazby
+[4] **Reorganizace.** Od povolení reorganizace je podle odstavce 3 písm. d) výchozí osobou dlužník. § 330 odst. 1 toto pravidlo potvrzuje, avšak § 330 odst. 2 a 3 a § 332 až § 334 umožňují omezení a přechod dotčených oprávnění na insolvenčního správce. Po účinnosti reorganizačního plánu je nutné vycházet také z § 353 až § 355. Označit dlužníka bez výhrady za jedinou oprávněnou osobu by proto bylo nepřesné.
 
-- **§ 36, § 37** — standard správce (aplikuje se na dlužníka).
-- **§ 111** — zákaz dispozic dlužníka po zahájení.
-- **§ 246, § 330, § 409** — speciální režimy.
+[5] **Oddlužení.** Písmeno e) stanoví výchozí postavení dlužníka již od povolení oddlužení, ale po jeho schválení je nezbytné rozlišit konkrétní majetek. § 408 váže majetek podléhající oddlužení zpeněžením na obdobné konkursní účinky. U splátkového kalendáře se zpeněžením majetkové podstaty § 409 rozlišuje příjmy získané po schválení, majetek uložený ke zpeněžení, zajištěný majetek a ostatní majetek podstaty. Obecná formule „v oddlužení disponuje dlužník“ tedy sama nestačí.
 
-### F. Kazuistika
+[6] **Majetek jiné osoby.** Patří-li do majetkové podstaty majetek vlastněný jinou osobou než dlužníkem, odstavec 2 dovoluje omezit právo vlastníka nakládat s tímto majetkem jen zákonem nebo rozhodnutím insolvenčního soudu. Samotný soupis je třeba číst spolu s § 217 a s konkrétním zákonným či soudním titulem omezení; z odstavce 2 nelze dovodit obecný přechod všech práv vlastníka na správce.
 
-**1. Modelová situace.** Dlužník (a.s.) má za jiným subjektem („povinným") pohledávku, která je součástí majetkové podstaty. Po prohlášení konkursu dispoziční oprávnění přešlo na insolvenčního správce (§ 246). Současně jiný věřitel dlužníka (oprávněný) zahájil exekuci na tutéž pohledávku dlužníka za povinným a soudní exekutor vydal exekuční příkaz přikázáním pohledávky. Správce namítá, že po prohlášení konkursu nelze pohledávku náležející do podstaty exekučně postihnout. Účastníci: dlužník (a.s.), správce, povinný (poddlužník), oprávněný (jiný věřitel), exekutor. Důkazy: usnesení o prohlášení konkursu, soupis pohledávky, exekuční příkaz.
+[7] **Povinnosti nezanikají změnou oprávněné osoby.** Má-li dispoziční oprávnění osoba odlišná od dlužníka, zachovává druhá věta odstavce 4 povinnosti, které insolvenční zákon ukládá dlužníku. Změna osoby oprávněné nakládat s podstatou proto sama nezbavuje dlužníka součinnosti ani jiných zákonných povinností.
 
-**2. Právní otázka.** Kdo je po prohlášení konkursu osobou s dispozičními oprávněními k pohledávce dlužníka a lze pohledávku náležející do podstaty postihnout exekucí vedenou pro jiného věřitele?
+[8] **Přiměřené použití § 36 a § 37.** Odstavec 5 stanoví dva možné počátky: zpravidla rozhodnutí o úpadku, u dlužníka, který je insolvenčním navrhovatelem, již okamžik, kdy se jím stal. Od tohoto okamžiku se na povinnosti dlužníka s dispozičními oprávněními použijí § 36 a § 37 přiměřeně. Slovo „přiměřeně“ brání mechanickému ztotožnění dlužníka s insolvenčním správcem; konkrétní povinnost i odpovědnostní následek je třeba odůvodnit podle povahy dlužníkova postavení a jednání.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 229 odst. 3 písm. c) — od prohlášení konkursu je osobou s dispozičními oprávněními **insolvenční správce**; odst. 1–2 (zákonné vymezení dispozičních oprávnění dle fáze a vlastnictví); odst. 5 (§ 36, 37 přiměřeně — fiduciární standard).
-- *Související ustanovení téhož zákona:* § 246 (přechod dispozic na správce v konkursu); § 330 (reorganizace — dlužník), § 409 (oddlužení — dlužník); § 111 (omezení dispozic po zahájení); § 5 (zásady — společný zájem věřitelů).
-- *Související předpisy:* § 312 a násl. OSŘ (exekuce přikázáním pohledávky).
-- *Judikatura:* NS 20 Cdo 4879/2017 — v exekuci vedené pro pohledávku dlužníka za povinným nelze exekučním příkazem postihnout pohledávku povinného týkající se majetkové podstaty dlužníka; platí bez ohledu na to, že oprávněným je správce dlužníka.
+[9] **Intertemporalita.** Výklad vychází ze znění účinného k 19. 7. 2026. U staršího úkonu nebo řízení je třeba určit tehdy účinné znění § 229 i zvláštních ustanovení, zejména pravidel reorganizace a oddlužení, a ověřit příslušná přechodná ustanovení.
 
-**4. Subsumpce.** Po prohlášení konkursu je dispoziční osobou správce (§ 229 odst. 3 písm. c, § 246) — dlužníkovo vedení tato oprávnění pozbylo. Pohledávka náleží do podstaty; její individuální exekuční postižení jiným věřitelem by obcházelo kolektivní povahu insolvence → nepřípustné (NS 20 Cdo 4879/2017, princip § 5).
+### Praktický checklist
 
-**5. Řešení.** Pohledávku spravuje a vymáhá výlučně správce ve prospěch podstaty (a tím všech věřitelů poměrně); exekuční postižení téže pohledávky pro jednotlivého věřitele je nepřípustné. Správce je vázán fiduciárním standardem (§ 36, 37 přiměřeně). Procesně: správce uplatní námitku nepřípustnosti exekučního postižení; oprávněný své právo uspokojuje přihláškou v insolvenci.
+- [ ] Vymezit majetek nebo právo a jeho vztah k majetkové podstatě.
+- [ ] Určit přesný procesní okamžik a způsob řešení úpadku.
+- [ ] Použít odstavec 3 jen jako výchozí mapu a dohledat zvláštní ustanovení.
+- [ ] Prověřit zákonné, soudní a případně plánové omezení dispozičních oprávnění.
+- [ ] Oddělit osobu oprávněnou nakládat od vlastníka majetku a od povinností, které nadále nese dlužník.
+- [ ] U odstavce 5 výslovně odůvodnit rozsah přiměřeného použití § 36 a § 37.
 
-**6. Varianty.** (a) Kdyby šlo o reorganizaci či oddlužení, dispoziční osobou by zůstal dlužník (§ 330, § 409), avšak s omezeními a fiduciární odpovědností (odst. 5). (b) Ve fázi před rozhodnutím o úpadku by dispozice činil dlužník s omezeními dle § 111.
+### Judikatura
 
-### G. Protiargumenty a rizika
-
-- *Protiargument (oprávněný):* „Mohu exekučně postihnout pohledávku dlužníka za povinným." Neutralizace: NS 20 Cdo 4879/2017 — pohledávku týkající se majetkové podstaty nelze takto postihnout; uspokojení probíhá kolektivně přihláškou.
-- *Protiargument (dlužník):* „Jako vlastník pohledávky s ní mohu nakládat." Neutralizace: po prohlášení konkursu přešla dispoziční oprávnění na správce (§ 229 odst. 3 písm. c, § 246); dlužník jimi nedisponuje.
-- *Slabé místo:* mapa dispozičních oprávnění je vázána na fázi řízení a způsob řešení úpadku — chybné určení fáze vede k vadným úkonům; u majetku třetí osoby v podstatě lze její dispozice omezit jen zákonem nebo rozhodnutím soudu (odst. 2).
-
-### H. Praktický závěr
-
-Osoba s dispozičními oprávněními se mění podle fáze a způsobu řešení úpadku: dlužník (s omezeními) do rozhodnutí o způsobu řešení, správce od prohlášení konkursu (§ 246), dlužník v reorganizaci (§ 330) a oddlužení (§ 409). Od rozhodnutí o úpadku platí fiduciární standard (§ 36, 37 přiměřeně). Pohledávky a majetek podstaty nelze individuálně exekučně postihovat.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Určit fázi řízení a způsob řešení úpadku → podle toho osobu s dispozičními oprávněními (odst. 3).
-- [ ] V konkursu jednat výhradně přes správce; dlužníkovy dispozice považovat za neúčinné.
-- [ ] Bránit individuálnímu exekučnímu postižení majetku/pohledávek podstaty (NS 20 Cdo 4879/2017).
-- [ ] U dlužníka s dispozičními oprávněními (reorganizace/oddlužení) vyžadovat fiduciární standard (§ 36, 37).
-- [ ] U majetku třetí osoby v podstatě omezovat dispozice jen zákonem nebo rozhodnutím soudu (odst. 2).
-
-**Typicky rozhodné důkazy / podklady:** usnesení o úpadku a o způsobu jeho řešení (konkurs/reorganizace/oddlužení), soupis majetku/pohledávek, exekuční příkazy, doklady o postavení osoby s dispozičními oprávněními.
+Do tohoto kola nebylo zařazeno žádné rozhodnutí. Dříve citované rozhodnutí po plnotextové kontrole neposkytovalo oporu pro použitou kazuistiku, a proto nebylo převzato. Tím se netvrdí, že relevantní judikatura k § 229 neexistuje.
 
 ---
 

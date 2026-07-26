@@ -441,61 +441,69 @@ Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tato p
 
 V primárních pramenech použitých pro tuto revizi nebylo ověřeno rozhodnutí, jehož nosný závěr by byl nezbytný pro výklad § 211 nad rámec textu zákona a jeho systematických vazeb. Původní anonymní „nosný závěr“ bez identifikace rozhodnutí a bez plného textu nebyl převzat. Tato poznámka nepředstavuje negativní rešerši judikatury.
 
-### § 212 — Prohlídka (kvazi-domovní)
+## § 212 — Prohlídka (kvazi-domovní)
 
-**Insolvenční prohlídka** — *speciální nástroj*:
-- *přístup na všechna místa s majetkem dlužníka*,
-- *na návrh správce* nařídí soud prohlídku bytu, sídla, místností, **skříní, schránek**,
-- správce *zjedná si přístup* (typicky s technickou pomocí, případně asistencí policie),
-- bez odůvodnění a *bez odvolání* — *operativní nástroj*,
-- doručení dlužníkovi *při prohlídce*,
-- *vlastník objektu* (typicky pronajímatel dlužníka) musí strpět,
-- protokol (s případnou asistencí zástupce obce).
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-> *Praxe*: tento institut se v praxi *vzácně* používá — typicky když dlužník zatajuje majetek (skryté hodnoty, šperky, hotovost). Pro obyčejné dlužníky se realizuje pouze *kooperativně* (správce přijde, dlužník otevře).
+### Znění ustanovení
 
-### Vazby
+> (1) Dlužník musí umožnit insolvenčnímu správci přístup na všechna místa, kde má umístěn majetek náležející do majetkové podstaty.
+>
+> (2) Je-li to potřebné, zejména neposkytuje-li dlužník insolvenčnímu správci součinnost potřebnou ke zjištění a zajištění majetkové podstaty, může insolvenční soud na návrh insolvenčního správce nařídit prohlídku bytu, sídla a jiných místností dlužníka, jakož i jeho skříní nebo jiných schránek v nich umístěných, kde má dlužník svůj majetek; za tím účelem je insolvenční správce oprávněn zjednat si do bytu nebo do jiné místnosti dlužníka přístup, popřípadě uzavřené skříně nebo jiné schránky otevřít.
+>
+> (3) Písemné vyhotovení rozhodnutí podle odstavce 2 nemusí obsahovat odůvodnění; proti tomuto rozhodnutí není odvolání přípustné. Rozhodnutí se doručuje pouze insolvenčnímu správci a dlužníku. Insolvenční soud doručí rozhodnutí insolvenčnímu správci spolu se stejnopisem rozhodnutí, který má být doručen dlužníku. Dlužníku doručí rozhodnutí insolvenční správce při prohlídce místností, kterých se usnesení týká. Nepodaří-li se insolvenčnímu správci doručit rozhodnutí dlužníku při tomto úkonu, vrátí je k doručení insolvenčnímu soudu.
+>
+> (4) Každý, v jehož objektu má dlužník svůj byt, sídlo nebo jiné své místnosti, je povinen strpět, aby insolvenční správce, který provádí soupis nebo činí úkony směřující k řádnému zajištění a správě majetkové podstaty, provedl prohlídku bytu a jiných místností dlužníka. Nesplní-li tuto povinnost, je insolvenční správce oprávněn zjednat si k bytu nebo jiné místnosti dlužníka přístup.
+>
+> (5) Je-li to potřebné, přibere insolvenční správce k prohlídce vhodnou osobu, podle možnosti zástupce orgánu obce. O prohlídce sepíše insolvenční správce protokol, v němž musí být uveden majetek, který byl při prohlídce zjištěn, a majetek, který byl při prohlídce zajištěn. Protokol podepíše insolvenční správce, případně osoba, kterou k prohlídce přibral. Protokol předá insolvenční správce insolvenčnímu soudu s tím, že si ponechá opis. Opis protokolu insolvenční soud doručí dlužníkovi a věřitelskému výboru.
 
-- **§ 43 — § 44** — součinnost orgánů a osob.
-- **§ 81** — pořádková pokuta.
-- **§ 215 — § 217 TZ** — trestní odpovědnost.
+### Přehled výkladu
 
-### F. Kazuistika
+Ustanovení rozlišuje přímou povinnost dlužníka umožnit přístup podle odstavce 1 a soudem nařizovanou prohlídku podle odstavce 2. Soud jedná jen na návrh insolvenčního správce a posuzuje potřebnost opatření; neposkytnutí součinnosti je výslovný, nikoli jediný příklad. Odstavce 3 až 5 upravují zvláštní doručování, povinnost osoby ovládající objekt prohlídku strpět a dokumentaci úkonu.
 
-**1. Modelová situace.** Dlužníkem je s.r.o. v úpadku; její jediný jednatel odstoupil z funkce dva měsíce před zahájením insolvenčního řízení a tvrdí, že již nemá k firmě žádný vztah a nebude poskytovat součinnost. Správce nemá přístup k účetnictví, bankovním klíčům ani ke skladu; podezírá, že část zásob byla odvezena. Žádá soud o předvolání k prohlášení o majetku a o nařízení prohlídky skladu. Účastníci: dlužník (s.r.o.), bývalý jednatel, správce, insolvenční soud. Důkazy: výpis z OR s datem zániku funkce, korespondence se správcem, inventura skladu.
+### Souvisící ustanovení
 
-**2. Právní otázka.** Vztahuje se povinnost součinnosti i na jednatele, jehož funkce zanikla před zahájením řízení, a jaké nástroje má správce při odepření součinnosti?
+- § 43 a § 44 — součinnost orgánů a osob vůči insolvenčnímu správci;
+- § 209 až § 211 — zjišťování majetkové podstaty a postup při neposkytnutí součinnosti;
+- § 213 — oznamovací a součinnostní povinnost osoby, která má u sebe dlužníkův majetek;
+- § 214 až § 216 — prohlášení o majetku;
+- § 217 — soupis majetkové podstaty.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 210 odst. 1–2 — všestranná součinnost; povinnost mají statutární orgány a jejich členové, **i pokud postavení zaniklo v posledních 3 měsících před zahájením IR**; § 211 (postup zjišťování, součinnost dle § 43); § 212 (insolvenční prohlídka — přístup na všechna místa, do skříní a schránek).
-- *Související ustanovení téhož zákona:* § 81 (pořádková pokuta); § 214 odst. 2 (předvedení); § 104 (seznam majetku); § 43 (součinnost třetích osob).
-- *Související předpisy:* § 227 TZ (porušení povinnosti učinit pravdivé prohlášení o majetku); § 222–223 TZ (poškození/zvýhodnění věřitele).
-- *Judikatura:* nosný závěr, že rozšíření povinnosti na bývalé statutáry brání účelovému „úprku z funkce" před úpadkem; prohlídka je operativní nástroj bez odkladného účinku odvolání.
+### Souvisící předpisy
 
-**4. Subsumpce.** Funkce jednatele zanikla 2 měsíce před zahájením → spadá do tříměsíčního okna § 210 odst. 2 → povinnost součinnosti trvá. Odepření součinnosti = porušení zákonné povinnosti → aktivuje § 81 a § 214. Skryté zásoby → důvod pro prohlídku dle § 212.
+- § 325a a § 325b zákona č. 99/1963 Sb., občanský soudní řád — prohlídka a přístup při výkonu rozhodnutí; původní důvodová zpráva tato oprávnění označuje za srovnatelná s oprávněními správce podle § 212.
 
-**5. Řešení.** Bývalý jednatel je povinen poskytnout součinnost (vydat účetnictví, klíče, informace). Při odporu: soud uloží pořádkovou pokutu (§ 81), předvolá k prohlášení o majetku s možností předvedení (§ 214 odst. 2), nařídí prohlídku skladu (§ 212). Zatajení/odvoz zásob může zakládat trestní odpovědnost (§ 227, § 222 TZ). Procesně: návrhy správce soudu, protokol o prohlídce.
+### Z důvodové zprávy
 
-**6. Varianty.** (a) Kdyby funkce zanikla 5 měsíců před zahájením (mimo okno), povinnost dle § 210 odst. 2 by bývalého jednatele netížila — součinnost by bylo nutno vyžadovat od aktuálního orgánu. (b) Kdyby dlužník spolupracoval, prohlídka by se nekonala — realizace by proběhla kooperativně.
+Zvláštní část důvodové zprávy k § 209 až 216 popisuje zjišťování majetkové podstaty jako komplexní úpravu způsobů, metod, subjektů a jejich oprávnění. K § 212 výslovně uvádí, že oprávnění insolvenčního správce jsou srovnatelná s oprávněními soudního vykonavatele podle § 325a a § 325b občanského soudního řádu. Jde o vysvětlení původního návrhu, nikoli o samostatné rozšíření aktuálního zákonného textu.
 
-### G. Protiargumenty a rizika
+### Literatura
 
-- *Protiargument (bývalý jednatel):* „Funkci jsem opustil před zahájením, nemám povinnosti." Neutralizace: § 210 odst. 2 výslovně zahrnuje osoby, jejichž postavení zaniklo v posledních 3 měsících před zahájením — povinnost trvá.
-- *Protiargument:* „Prohlídka je nepřiměřený zásah do práv třetí osoby (pronajímatele skladu)." Neutralizace: vlastník objektu je povinen prohlídku strpět; jde o zákonný operativní nástroj sloužící ochraně podstaty.
-- *Slabé místo:* vynutitelnost součinnosti je fakticky omezená (pokuta nemusí motivovat); trestní postih vyžaduje prokázání úmyslu; tříměsíční okno nepokrývá osoby, které odešly dříve.
+Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; její zpracování je odloženo do druhého kola.
 
-### H. Praktický závěr
+### Výklad
 
-Dlužník (u PO statutární orgány a jejich členové, včetně bývalých v okně 3 měsíců před zahájením; dále společníci, zaměstnanci, zákonní zástupci) musí poskytnout všestrannou součinnost. Správce dohledává majetek (§ 211) a v krajním případě využije insolvenční prohlídku (§ 212). Sankce: pořádková pokuta, předvedení, trestní odpovědnost.
+[1] **Dvě právní situace.** Odstavec 1 ukládá dlužníku přímo ze zákona umožnit insolvenčnímu správci přístup na všechna místa, kde má umístěn majetek náležející do majetkové podstaty. Naproti tomu oprávnění podle odstavce 2 navazuje na rozhodnutí insolvenčního soudu vydané na návrh insolvenčního správce.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Identifikovat všechny povinné osoby (současné i bývalé statutáry v okně 3 měsíců, společníky, zaměstnance, zákonné zástupce).
-- [ ] Vyzvat k vydání účetnictví, klíčů, přístupů a k zodpovězení dotazů.
-- [ ] Při odporu navrhnout pořádkovou pokutu (§ 81) a předvolání/předvedení (§ 214).
-- [ ] Při zatajování majetku navrhnout prohlídku (§ 212) a zvážit trestní oznámení (§ 227, § 222 TZ).
-- [ ] Sepsat protokol o prohlídce, případně s asistencí zástupce obce/policie.
+[2] **Předpoklad potřebnosti.** Prohlídku lze nařídit, je-li potřebná ke zjištění a zajištění majetkové podstaty. Zákon uvádí neposkytování potřebné součinnosti jen demonstrativně slovem „zejména“. Návrh proto musí umožnit soudu posoudit potřebnost prohlídky ve vztahu ke konkrétním místům nebo schránkám a k majetku, který tam má dlužník.
 
-**Typicky rozhodné důkazy / podklady:** výpis z obchodního rejstříku s daty změn ve statutárním orgánu, korespondence dokládající výzvy a odepření součinnosti, inventury a účetní doklady, protokol o prohlídce.
+[3] **Rozsah prohlídky a přístupu.** Rozhodnutí může zahrnout byt, sídlo a jiné místnosti dlužníka i jeho skříně a jiné schránky v nich. Za účelem provedení nařízené prohlídky si správce může zjednat přístup a uzavřené skříně nebo schránky otevřít. § 212 sám nestanoví obecné oprávnění prohledávat prostory třetí osoby, které nejsou bytem, sídlem ani jinými místnostmi dlužníka.
+
+[4] **Rozhodnutí a doručení.** Písemné vyhotovení rozhodnutí nemusí být odůvodněno a odvolání proti němu není přípustné. Okruh adresátů je omezen na insolvenčního správce a dlužníka. Zákon předpokládá, že správce doručí dlužníku stejnopis při prohlídce; nezdaří-li se to, vrátí jej soudu k doručení.
+
+[5] **Objekt jiné osoby.** Povinnost podle odstavce 4 tíží každého, v jehož objektu má dlužník svůj byt, sídlo nebo jiné své místnosti. Jejím obsahem je strpět prohlídku těchto dlužníkových prostor při soupisu nebo při úkonech směřujících k řádnému zajištění a správě podstaty. Nesplnění povinnosti opravňuje správce zjednat si do těchto prostor přístup; text nelze rozšiřovat na libovolné prostory vlastníka objektu.
+
+[6] **Přibraná osoba a protokol.** Je-li to potřebné, správce přibere vhodnou osobu, podle možnosti zástupce orgánu obce. Nejde o bezpodmínečnou účast zástupce obce. Protokol musí zachytit majetek zjištěný i majetek zajištěný, podepisuje jej správce a případně přibraná osoba; originál obdrží soud, správce si ponechá opis a soud doručí opis dlužníku a věřitelskému výboru.
+
+[7] **Meze textu zákona.** § 212 neupravuje policejní asistenci, technickou pomoc ani pořizování zvukově obrazového záznamu. Potřebu a právní základ takového dalšího postupu nelze dovodit jen z komentovaného ustanovení. Stejně tak z § 212 neplyne obecné tvrzení, že prohlídka je až „krajním“ nástrojem; zákonným kritériem je potřebnost.
+
+[8] **Intertemporální omezení.** Text byl ověřen ve znění účinném k 19. 7. 2026. Původní důvodová zpráva vysvětluje koncepci zákona při jeho přijetí. Pro dřívější úkon je nutné ověřit tehdy účinné znění § 212, souvisejících procesních předpisů a případná přechodná ustanovení.
+
+[9] **Praktická kontrola — autorský postup.** V návrhu na prohlídku je vhodné odděleně popsat hledaný majetek nebo indicie o něm, vztah dlužníka k označeným prostorám či schránkám, dosavadní součinnost a důvod potřebnosti opatření. Při provedení je vhodné předem určit způsob doručení stejnopisu a zajistit, aby protokol rozlišil majetek pouze zjištěný od majetku zajištěného.
+
+### Judikatura
+
+V primárních pramenech použitých pro tuto revizi nebylo ověřeno rozhodnutí, jehož nosný závěr by byl nezbytný pro výklad § 212 nad rámec textu zákona a oficiální důvodové zprávy. Původní anonymní judikatorní tvrzení nebylo převzato. Tato poznámka nepředstavuje negativní rešerši judikatury.
 
 ---
 

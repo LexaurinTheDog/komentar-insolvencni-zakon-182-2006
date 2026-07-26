@@ -199,47 +199,55 @@ V tomto kole není výklad založen na konkrétním soudním rozhodnutí. Kandid
 
 ## § 234 — Kumulace neplatnosti a neúčinnosti
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Byla-li zjištěna neplatnost právního úkonu týkajícího se majetku nebo závazků dlužníka, který lze současně považovat za neúčinný, postupuje se podle § 233.
+
+### Přehled výkladu
+
+Ustanovení řeší jedinou kolizní situaci: neplatnost právního úkonu týkajícího se majetku nebo závazků dlužníka již byla zjištěna a tentýž úkon lze současně považovat za neúčinný. Zákon pro takový případ výslovně určuje postup podle § 233. Nejde o obecné pravidlo, že každá tvrzená neplatnost předem vylučuje posouzení neúčinnosti.
+
+### Souvisící ustanovení
+
+- § 231 — zjištění neplatnosti v průběhu insolvenčního řízení a oprávnění insolvenčního správce dovolat se neplatnosti,
+- § 232 — účinek pravomocného rozhodnutí o neplatnosti vydaného před zahájením insolvenčního řízení,
+- § 233 — vydání majetkového prospěchu, vylučovací žaloba a napadení smlouvy, kterou bylo plnění zpeněženo,
+- § 235 a § 236 — vznik a základní účinky neúčinnosti,
+- § 237 až § 239 — osoby povinné vydat plnění, zákaz započtení, odpůrčí žaloba a její lhůta,
+- § 240 až § 242 — jednotlivé skutkové podstaty odporovatelných právních úkonů.
+
+### Souvisící předpisy
+
+- zákon č. 89/2012 Sb., občanský zákoník — obecná úprava následků neplatného právního jednání a relativní neúčinnosti; v insolvenčním řízení se souběh řeší zvláštním pravidlem § 234 insolvenčního zákona,
+- zákon č. 99/1963 Sb., občanský soudní řád — podpůrná procesní úprava použitelná prostřednictvím § 7 insolvenčního zákona.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona řadil § 231 až § 234 mezi zvláštní pravidla vůči obecné úpravě neplatnosti. Jejich společným cílem bylo zabránit tomu, aby zjišťování neplatnosti vedlo k neodůvodněnému zkracování majetkové podstaty. Důvodová zpráva dále vysvětlila zvláštní majetkový režim § 233; samostatný podrobnější výklad kolizního pravidla § 234 nepodala. Jde o historické vysvětlení původního návrhu, nikoli náhradu aktuálního znění zákona.
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tato poznámka není závěrem o neexistenci relevantní literatury ani výsledkem negativní rešerše.
 
 ### Výklad
 
-**Konkurence neplatnosti a neúčinnosti** — pokud úkon je *zároveň neplatný a neúčinný*, *přednost má neplatnost* (postup dle § 233). Důvod: neplatnost je *hmotněprávně silnější* (úkon vůbec neexistuje), neúčinnost je *relativní* (úkon existuje, jen vůči věřitelům).
+[1] **Předpoklady použití.** § 234 se vztahuje pouze na právní úkon týkající se majetku nebo závazků dlužníka, u něhož byla zjištěna neplatnost a který lze současně považovat za neúčinný. Pouhé tvrzení nebo procesní nejistota o neplatnosti tento zákonný předpoklad nenahrazují.
 
-### F. Kazuistika
+[2] **Co znamená „zjištěna“.** Způsob relevantního zjištění se určuje podle § 231 a § 232. V průběhu insolvenčního řízení neplatnost posuzuje pouze insolvenční soud; dřívější pravomocné soudní rozhodnutí má účinek popsaný v § 232. § 234 sám neupravuje, kdo a jak neplatnost zjišťuje.
 
-**1. Modelová situace.** Dlužník THÉTA daroval před úpadkem pozemek osobě blízké (synovi). Tentýž úkon je zároveň *neplatný* (chyběl předepsaný souhlas, smlouva byla simulovaná) i potenciálně *neúčinný* (zkracující, ve prospěch blízké osoby). Správce zvažuje, kterým režimem postupovat — zda žalobou na vydání prospěchu z neplatnosti (§ 233), nebo odpůrčí žalobou (§ 239). Důkazy: darovací smlouva, doklady o vadě zakládající neplatnost, výpis z katastru, doklady o příbuzenském vztahu.
+[3] **Následek souběhu.** Jsou-li oba předpoklady splněny, zákon neponechává volbu mezi dvěma majetkovými režimy, ale odkazuje na § 233. Praktický obsah odkazu je nutno určit podle konkrétní situace: může jít o vydání majetkového prospěchu podle odstavce 1, ochranu prostřednictvím vylučovací žaloby podle odstavce 2 nebo napadení platnosti smlouvy o zpeněžení podle odstavce 3.
 
-**2. Právní otázka.** Jak postupovat, je-li tentýž úkon současně neplatný i neúčinný — má přednost režim neplatnosti, nebo neúčinnosti?
+[4] **Odlišení od neúčinnosti.** Podle § 236 odst. 1 není neúčinností dotčena platnost právního úkonu. § 234 řeší situaci, kdy vedle možné neúčinnosti již stojí zjištěná neplatnost; právě pro ni stanoví zvláštní odkaz na § 233. Není proto přesné odůvodňovat pravidlo tezí, že neplatný úkon „neexistuje“ nebo že jeden institut obecně „konzumuje“ druhý.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 234 IZ — je-li zjištěna neplatnost úkonu, který lze současně považovat za neúčinný, postupuje se podle § 233 (přednost neplatnosti).
-- *Související ustanovení téhož zákona:* § 233 IZ (důsledky neplatnosti — vydání prospěchu, vylučovací žaloba do 30 dnů), § 231 IZ (zjištění neplatnosti insolvenčním soudem), § 235, § 239, § 240–242 IZ (režim neúčinnosti — odpůrčí žaloba, 1letá prekluze).
-- *Související předpisy:* § 580, § 588 OZ (neplatnost), § 589 a násl. OZ (relativní neúčinnost).
-- *Judikatura:* zásada, že hmotněprávně silnější vada (neplatnost — úkon neexistuje) konzumuje slabší relativní účinek (neúčinnost — úkon platí, ale plnění se vrací).
+[5] **Procesní opatrnost.** Z § 234 nelze bez dalšího dovodit obecné oprávnění či povinnost kumulovat žalobu na neplatnost s odpůrčí žalobou. Odpůrčí žaloba má vlastní legitimaci, žalované osoby, petit a jednoroční lhůtu podle § 239 odst. 3. Procesní postup proto závisí na stavu zjištění neplatnosti a na podmínkách konkrétního nároku; samotný § 234 neurčuje eventuální ani souběžnou formulaci žalob.
 
-**4. Subsumpce.** Úkon naplňuje znaky *neplatnosti* (vada smlouvy) i znaky *neúčinnosti* (zkrácení věřitelů darem blízké osobě). Nastává konkurence řešená § 234: protože byla *zjištěna neplatnost*, použije se *postup podle § 233* — tj. režim vydání majetkového prospěchu z neplatného úkonu, nikoli odpůrčí žaloba.
+[6] **Intertemporalita.** Komentované ustanovení používá historický zákonný termín „právní úkon“. Při posouzení konkrétního případu je třeba vycházet z právní úpravy účinné v době dotčeného jednání a samostatně ověřit rozhodné znění pravidel neplatnosti, neúčinnosti i procesních ustanovení.
 
-**5. Řešení.** Správce postupuje podle § 233 (přednost neplatnosti): domáhá se vydání majetkového prospěchu z neplatného úkonu, případně (u relativní neplatnosti) se neplatnosti dovolá podle § 231 odst. 3. Výhoda: režim neplatnosti není svázán 1letou prekluzí odpůrčí žaloby (§ 239 odst. 3). Riziko: neplatnost musí být *skutečně zjištěna* — pokud by se neprokázala, „spadne" věc zpět do režimu neúčinnosti, kde už mohla uplynout prekluzivní lhůta. Proto je v praxi obezřetné *podat i odpůrčí žalobu* včas jako pojistku.
+### Judikatura
 
-**6. Varianty.** (a) Kdyby se neplatnost neprokázala, postupovalo by se výlučně podle úpravy neúčinnosti (§ 235 a násl.) — s rizikem prekluze. (b) Kdyby úkon byl pouze neúčinný (bez vady zakládající neplatnost), § 234 by se neuplatnil a jedinou cestou by byla odpůrčí žaloba.
-
-### G. Protiargumenty a rizika
-
-- *„Neúčinnost je pro správce výhodnější (domněnky úpadku, široký okruh osob), měl by mít volbu."* — Neutralizace: § 234 volbu nedává — *zjištěná neplatnost* má přednost a postupuje se podle § 233. Správce však může (a má) podat odpůrčí žalobu *souběžně* jako pojistku pro případ, že se neplatnost neprokáže.
-- *„Postup podle § 233 promešká 1letou lhůtu odpůrčí žaloby."* — Riziko reálné: spoléhání jen na neplatnost je nebezpečné, neboť § 233 nemá 1letou prekluzi, ale pokud neplatnost neobstojí, odpůrčí nárok mezitím prekludoval (§ 239 odst. 3). Řešení: žaloby kumulovat/eventuálně formulovat.
-- Slabé místo: § 234 předpokládá *zjištění* neplatnosti — dokud není pravomocně zjištěna, jde stále o nejistotu, která komplikuje volbu procesní strategie.
-
-### H. Praktický závěr
-
-Je-li tentýž úkon současně neplatný i neúčinný, má přednost neplatnost a postupuje se podle § 233 (vydání prospěchu z neplatnosti). Vzhledem k 1leté prekluzi odpůrčí žaloby je obezřetné podat odpůrčí žalobu souběžně jako pojistku.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Posoudit, zda úkon naplňuje znaky neplatnosti i neúčinnosti současně.
-- [ ] Při zjištěné neplatnosti postupovat podle § 233 (přednost), nikoli odpůrčí žalobou.
-- [ ] Hlídat 1letou prekluzivní lhůtu odpůrčí žaloby (§ 239 odst. 3) a zvážit souběžné podání jako pojistku.
-- [ ] U relativní neplatnosti zvážit dovolání se neplatnosti správcem (§ 231 odst. 3).
-
-**Typicky rozhodné důkazy / podklady:** smluvní dokumentace dotčeného úkonu, doklady o vadě zakládající neplatnost, doklady o zkracujícím/zvýhodňujícím charakteru a o vztahu blízkosti/koncernu, znalecký posudek o ceně, výpis z katastru / rejstříku.
+Výklad v tomto kole není založen na konkrétním soudním rozhodnutí. Místní kandidátní korpus neobsahuje rozhodnutí přiřazené k § 234 a neurčitá judikatorní teze ze staršího textu nebyla doložena plným oficiálním rozhodnutím; proto byla odstraněna. Nejde o závěr, že relevantní judikatura neexistuje.
 
 ---
 

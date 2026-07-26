@@ -870,81 +870,60 @@ Pro materiální závěry této revize nebylo použito žádné soudní rozhodnu
 
 ## § 219 — Ocenění položek
 
-> (1) Součástí soupisu je i ocenění provedené **insolvenčním správcem**, který přitom vychází z údajů v účetnictví dlužníka nebo v evidenci vedené podle zvláštního právního předpisu a z dalších dostupných informací. Ocenění se nepromítá do účetnictví dlužníka.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Součástí soupisu je i ocenění provedené insolvenčním správcem, který přitom vychází z údajů v účetnictví dlužníka nebo v evidenci vedené podle zvláštního právního předpisu13) a z dalších dostupných informací. Ocenění se nepromítá do účetnictví dlužníka.
 > (2) Požaduje-li to věřitelský výbor, provede se ocenění znalcem, za předpokladu, že to věřitelský výbor finančně zajistí.
 > (3) Ocenění obtížně ocenitelného majetku může insolvenční správce zadat znalci i bez žádosti věřitelského výboru; to neplatí, lze-li důvodně předpokládat, že náklady na ocenění majetku znalcem budou vyšší než přínos pro majetkovou podstatu získaný tímto způsobem jeho ocenění.
-> (4) Je-li uplatněno právo na uspokojení přihlášené pohledávky ze zajištění nebo má-li být majetková podstata zpeněžena podle § 290 nebo 292, insolvenční správce zadá znalci ocenění hodnoty zajištění a v případě podle § 290 nebo 292 ocenění hodnoty zpeněžovaného majetku **vždy**; odstavec 3 se použije přiměřeně.
->
+> (4) Je-li uplatněno právo na uspokojení přihlášené pohledávky ze zajištění nebo má-li být majetková podstata zpeněžena podle § 290 nebo 292, insolvenční správce zadá znalci ocenění hodnoty zajištění a v případě podle § 290 nebo 292 ocenění hodnoty zpeněžovaného majetku vždy; odstavec 3 se použije přiměřeně.
 > (5) Při ocenění podle odstavců 1 až 4 se majetek oceňuje obvyklou cenou. Postup podle odstavců 1 až 4 se neuplatní, byl-li ustanoven znalec podle § 153 odst. 1.
-> (5) Při ocenění podle odstavců 1 až 4 se majetek oceňuje **obvyklou cenou**. Postup podle odstavců 1 až 4 se neuplatní, byl-li ustanoven znalec podle § 153 odst. 1.
 
-### Výklad — **KLÍČOVÝ PARAGRAF PRO OCEŇOVÁNÍ**
+### Přehled výkladu
 
-#### Princip „obvyklé ceny" (odst. 5)
+§ 219 činí ocenění součástí soupisu a rozlišuje ocenění insolvenčním správcem od tří případů zapojení znalce. Společným měřítkem postupů podle odstavců 1 až 4 je obvyklá cena. Byl-li však ustanoven znalec podle § 153 odst. 1, postup podle odstavců 1 až 4 se neuplatní.
 
-**Tržní cena** podle § 2 zákona č. 151/1997 Sb. o oceňování majetku — *cena, která by byla dosažena při prodeji* mezi nezávislými stranami v běžných tržních podmínkách.
+### Souvisící ustanovení
 
-#### Tři kategorie ocenění
+- § 46 odst. 2 a 3 — působnost schůze věřitelů namísto věřitelského výboru,
+- § 153 odst. 1 — ustanovení znalce při rozhodnutí o způsobu řešení úpadku,
+- § 167 odst. 3 — rozsah uspokojení zajištěné pohledávky podle hodnoty zajištění,
+- § 217, § 218, § 220 a § 223 — soupis, označení a ocenění jeho položek a možnost upustit od ocenění,
+- § 290 až 292 — konkursní zpeněžení celého podniku jedinou smlouvou a zpeněžení celé majetkové podstaty nebo části podniku jedinou smlouvou,
+- § 298 — vydání výtěžku zpeněžení zajištěnému věřiteli.
 
-**A) Vlastní ocenění správcem** (odst. 1):
-- *bere data z účetnictví*,
-- *vlastní úsudek + dostupné informace*,
-- *nepromítá se do účetnictví* (oddělené ocenění).
+### Souvisící předpisy
 
-**B) Znalecké ocenění na žádost výboru** (odst. 2):
-- *na finanční zajištění výboru* (typicky věřitelé skládají zálohu).
+- zákon č. 586/1992 Sb., o daních z příjmů — předpis uvedený v poznámce pod čarou 13 k evidenci podle § 219 odst. 1.
 
-**C) Znalecké ocenění obligatorní** (odst. 4):
-- *uplatněné zajištění* (znalec ocení hodnotu zástavy → relevantní pro § 167 odst. 3, § 298),
-- *zpeněžení podle § 290 (going concern)* nebo *§ 292* (prodej podniku v reorganizaci) — vždy znalec.
+### Z důvodové zprávy
 
-**D) Znalecké ocenění obtížně ocenitelného majetku** (odst. 3):
-- *bez žádosti výboru*, pokud:
-  - majetek je *obtížně ocenitelný*,
-  - *náklady* znalce nepřevýší *přínos*.
+Původní důvodová zpráva uvádí, že osnova upravuje ocenění hodnot pojatých do soupisu, včetně povinného znaleckého ocenění zajištění, a vyjasňuje vztah tohoto ocenění k účetnictví dlužníka. Připomíná také působnost schůze věřitelů podle § 46 odst. 2 a 3 a zachování zvláštního postupu podle § 153 a násl. Jde o historické vysvětlení původního návrhu; nepopisuje později doplněné pravidlo obvyklé ceny v dnešním odstavci 5. Srov. vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, zvláštní část, K § 219, číslovaná s. 203 (PDF s. 203).
 
-### Vazby
+### Literatura
 
-- **§ 153** — znalec při reorganizaci (jiný režim).
-- **§ 167 odst. 3** — downgrading při nižší hodnotě zajištění.
-- **§ 290, § 292** — zpeněžení podniku jako celku.
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento oddíl nepředstavuje negativní rešerši.
 
-### F. Kazuistika
+### Výklad
 
-**1. Modelová situace.** V konkursu je nemovitost zatížená zástavním právem banky (zajištěná pohledávka 8 mil. Kč). Správce ji v soupisu ocenil vlastním odhadem na 6 mil. Kč podle účetnictví. Banka jako zajištěný věřitel namítá, že hodnota je vyšší, a požaduje znalecké ocenění. Současně má být závod zpeněžen jako celek podle § 290. Účastníci: dlužník, správce, banka (zajištěný věřitel), věřitelský výbor, znalec. Důkazy: účetnictví, návrh správce na ocenění, znalecký posudek, přihláška zajištěné pohledávky.
+[1] **Ocenění jako součást soupisu.** Ocenění podle odstavce 1 provádí insolvenční správce. Účetnictví dlužníka nebo evidence vedená podle zvláštního právního předpisu jsou spolu s dalšími dostupnými informacemi podklady ocenění; zákon je neprohlašuje za samotný výsledek ocenění. Ocenění v soupisu se do účetnictví dlužníka nepromítá.
 
-**2. Právní otázka.** Je u zajištěného majetku a u zpeněžení podniku podle § 290 znalecké ocenění obligatorní, nebo postačí ocenění správcem?
+[2] **Požadavek věřitelského výboru.** Požaduje-li věřitelský výbor ocenění znalcem, provede se za předpokladu, že je věřitelský výbor finančně zajistí. Působnost schůze věřitelů namísto věřitelského výboru je nutné posoudit podle § 46 odst. 2 a 3.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 219 odst. 1 (ocenění správcem z účetnictví a dostupných informací); odst. 2 (znalec na žádost a finanční zajištění výboru); odst. 3 (znalec u obtížně ocenitelného majetku, nepřevýší-li náklady přínos); **odst. 4 — u uplatněného zajištění a u zpeněžení dle § 290/§ 292 zadá správce znalce vždy**; odst. 5 (oceňuje se obvyklou cenou; výjimka u znalce dle § 153 odst. 1).
-- *Související ustanovení téhož zákona:* § 167 odst. 3 (snížení podle hodnoty zajištění); § 298 (zpeněžení zajištění, výtěžek zajištěnému věřiteli); § 290, § 292 (zpeněžení podniku/celku); § 153 (znalec v reorganizaci).
-- *Související předpisy:* zákon č. 151/1997 Sb. o oceňování majetku (§ 2 — obvyklá cena).
-- *Judikatura:* nosný závěr, že u zajištěného majetku slouží znalecké ocenění k ochraně zajištěného i ostatních věřitelů a je podkladem pro rozvrh výtěžku zajištění.
+[3] **Obtížně ocenitelný majetek.** Insolvenční správce může zadat znalci ocenění i bez žádosti věřitelského výboru. Toto oprávnění je omezeno předpokládaným poměrem nákladů a přínosu pro majetkovou podstatu podle odstavce 3.
 
-**4. Subsumpce.** Nemovitost slouží k zajištění uplatněné přihlášené pohledávky → naplněn znak odst. 4 → znalecké ocenění je **obligatorní**, nikoli fakultativní; vlastní odhad správce 6 mil. Kč nepostačuje. Zpeněžení závodu podle § 290 → rovněž obligatorní znalecké ocenění (odst. 4). Měřítkem je obvyklá (tržní) cena (odst. 5).
+[4] **Povinné znalecké ocenění.** Je-li uplatněno právo na uspokojení přihlášené pohledávky ze zajištění, zadá správce znalci ocenění hodnoty zajištění. Stejně postupuje u hodnoty majetku, který má být zpeněžen podle § 290 nebo § 292. Zákon současně výslovně přikazuje přiměřené použití odstavce 3; jeho význam proto nelze při aplikaci odstavce 4 pominout.
 
-**5. Řešení.** Správce zadá znalci ocenění hodnoty zajištění (nemovitosti) i zpeněžovaného závodu — v obou případech povinně. Bankovní námitka je důvodná již ze zákona (odst. 4), netřeba ani žádosti s finančním zajištěním dle odst. 2. Procesně: znalecký posudek, ocenění obvyklou cenou, návaznost na § 298 a § 167 odst. 3.
+[5] **§ 292 není reorganizace.** Odkaz § 219 odst. 4 na § 292 míří do úpravy konkursního zpeněžení. § 292 upravuje přiměřené použití § 290 a § 291 při zpeněžení celé majetkové podstaty nebo části podniku jedinou smlouvou; nejde o prodej podniku v reorganizaci.
 
-**6. Varianty.** (a) Kdyby šlo o běžný nezajištěný majetek bez zpeněžení dle § 290/292, postačilo by ocenění správcem (odst. 1); znalce by si výbor vyžádal jen za finanční zajištění (odst. 2). (b) Kdyby byl ustanoven znalec dle § 153 odst. 1 (reorganizace), postup dle odst. 1–4 by se neuplatnil (odst. 5 in fine).
+[6] **Obvyklá cena a zvláštní znalec.** Odstavec 5 určuje pro ocenění podle odstavců 1 až 4 obvyklou cenu. Je-li ustanoven znalec podle § 153 odst. 1, postup podle odstavců 1 až 4 se neuplatní. Tato výluka se týká postupu podle uvedených odstavců, nikoli samotné povinnosti zachytit ocenění jako náležitost soupisu v systému § 217 až 223; poslední věta je systematickým výkladovým závěrem editora.
 
-### G. Protiargumenty a rizika
+[7] **Časová působnost.** Výklad odpovídá znění účinnému k 19. 7. 2026. U ocenění provedeného dříve je třeba ověřit tehdy účinné znění § 219, souvisejících ustanovení a použitelná přechodná ustanovení.
 
-- *Protiargument (správce):* „Ocenění z účetnictví je dostatečné, znalec je zbytečný náklad." Neutralizace: u zajištěného majetku a u zpeněžení dle § 290/292 ukládá odst. 4 znalce **vždy**; úspora nákladů zde není přípustným důvodem.
-- *Protiargument:* „Náklady znalce převýší přínos." Neutralizace: tato úvaha (odst. 3) platí u obtížně ocenitelného majetku, nikoli u obligatorních případů odst. 4 — tam se neuplatní (resp. jen přiměřeně).
-- *Slabé místo:* „obvyklá cena" je odhadem a může být sporná; rozdíl mezi oceněním a skutečně dosaženým výtěžkem může vést ke sporům zajištěného věřitele o rozvrh (§ 298).
+### Judikatura
 
-### H. Praktický závěr
-
-Ocenění je součástí soupisu a provádí ho zásadně správce (z účetnictví a dostupných informací), obvyklou cenou. Znalecké ocenění je obligatorní u uplatněného zajištění a u zpeněžení podniku/celku dle § 290/§ 292; jinak na žádost výboru (s jeho finančním zajištěním) nebo u obtížně ocenitelného majetku, nepřevýší-li náklady přínos.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Určit, zda jde o majetek sloužící k zajištění uplatněné pohledávky nebo o zpeněžení dle § 290/292 → pak znalce vždy (odst. 4).
-- [ ] Jinak ocenit majetek vlastním odhadem správce z účetnictví a dostupných informací (odst. 1).
-- [ ] U obtížně ocenitelného majetku zvážit znalce, je-li přínos vyšší než náklady (odst. 3).
-- [ ] Reagovat na žádost věřitelského výboru o znalce při jeho finančním zajištění (odst. 2).
-- [ ] Oceňovat obvyklou (tržní) cenou; ověřit režim § 153 (reorganizace).
-
-**Typicky rozhodné důkazy / podklady:** účetnictví a evidence majetku, znalecké posudky (zajištění, závod), přihlášky zajištěných pohledávek, podklady o tržních cenách (srovnatelné transakce).
+Pro materiální závěry této revize nebylo použito žádné soudní rozhodnutí. Původní anonymní judikatorní tvrzení bylo odstraněno, protože nebylo spojeno s ověřeným plným textem konkrétního rozhodnutí. Tím se netvrdí, že relevantní judikatura neexistuje.
 
 ---
 

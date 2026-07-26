@@ -760,64 +760,57 @@ Pro materiální závěry této revize nebylo použito žádné soudní rozhodnu
 
 ## § 217 — Pořízení soupisu
 
-> (1) **Soupis majetkové podstaty** (dále jen „soupis") je listinou, do níž se zapisuje majetek náležející do majetkové podstaty. Jakmile dojde k zápisu do soupisu, **lze se zapsanými majetkovými hodnotami nakládat jen způsobem stanoveným tímto zákonem**; učinit tak může jen osoba s dispozičními oprávněními. Soupis provádí a soustavně doplňuje insolvenční správce v průběhu insolvenčního řízení, a to podle pokynů insolvenčního soudu a za součinnosti věřitelského výboru. Tato jeho povinnost nezaniká uplynutím doby.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Soupis majetkové podstaty (dále jen „soupis“) je listinou, do níž se zapisuje majetek náležející do majetkové podstaty. Jakmile dojde k zápisu do soupisu, lze se zapsanými majetkovými hodnotami nakládat jen způsobem stanoveným tímto zákonem; učinit tak může jen osoba s dispozičními oprávněními. Soupis provádí a soustavně doplňuje insolvenční správce v průběhu insolvenčního řízení, a to podle pokynů insolvenčního soudu a za součinnosti věřitelského výboru. Tato jeho povinnost nezaniká uplynutím doby.
+>
 > (2) Insolvenční správce vyřadí ze soupisu majetkové hodnoty, o kterých v průběhu insolvenčního řízení vyjde najevo, že nenáleží do majetkové podstaty; to platí bez zřetele k tomu, že v době vyřazení se již osoba, která má z vyřazení prospěch, nemůže domáhat vyloučení těchto majetkových hodnot z majetkové podstaty. Učiní tak po projednání s věřitelským výborem a poté, co vyrozumí insolvenční soud; tím není vyloučena možnost opětovného soupisu vyřazených majetkových hodnot do majetkové podstaty.
 
-### Výklad — **CENTRÁLNÍ DOKUMENT**
+### Přehled výkladu
 
-**Soupis** = *listina* s katalogem majetku v podstatě. **Konstitutivní účinky** zápisu:
-- *zápisem* vznikne *speciální právní režim* — s majetkem **lze nakládat jen způsobem dle IZ**,
-- jen *osoba s dispozičními oprávněními* (typicky správce po konkursu),
-- *soustavně doplňován* — soupis je *žijící dokument*, ne jednorázový seznam.
+§ 217 vymezuje soupis jako průběžně doplňovanou listinu majetku náležejícího do majetkové podstaty. Zápis aktivuje zákonný režim nakládání se sepsanou hodnotou; neurčuje však sám, kdo je osobou s dispozičními oprávněními, neboť to plyne z § 229 a z pravidel pro konkrétní způsob řešení úpadku. Odstavec 2 ukládá správci vyřadit hodnotu, u níž vyjde najevo, že do podstaty nenáleží, a připouští její pozdější opětovný soupis.
 
-#### Vyřazení (odst. 2)
+### Souvisící ustanovení
 
-Pokud správce zjistí, že položka **nenáleží do podstaty**:
-- *vyřadí* — po projednání s výborem a vyrozumění soudu,
-- *vyřazení nezáleží* na tom, že dotčená osoba *už nemůže podat vylučovací žalobu*,
-- *opětovný soupis* je možný, pokud se ukáže opak.
+- § 205 až 208 — rozsah majetkové podstaty a výluky,
+- § 218 až 224 — označení, ocenění, náležitosti soupisu a vyrozumění,
+- § 225 — vylučovací žaloba osoby uplatňující právo vylučující soupis,
+- § 226 — návrh dlužníka na vynětí hodnot podle § 207 a 208,
+- § 229 a § 246 — dispoziční oprávnění obecně a po prohlášení konkursu.
 
-### Vazby
+### Souvisící předpisy
 
-- **§ 246** — přechod dispozic na správce.
-- **§ 225** — vylučovací žaloba.
+Pro materiální závěry tohoto výkladu nebyl použit jiný právní předpis; komentované jádro upravuje přímo insolvenční zákon.
 
-### F. Kazuistika
+### Z důvodové zprávy
 
-**1. Modelová situace.** Správce sepsal do soupisu nemovitost, kterou dlužník užíval, ač v katastru je zapsán jako vlastník jiný subjekt; po projednání s věřitelským výborem a vyrozumění soudu položku vyřadí, neboť vyšlo najevo, že nepatří do podstaty. Později se objeví nový důkaz (neúčinný převod), že nemovitost ve skutečnosti měla zůstat dlužníkovi. Současně chce dlužník mezitím s jinou sepsanou věcí naložit (prodat zásoby). Účastníci: dlužník, správce, věřitelský výbor, soud, domnělý vlastník nemovitosti. Důkazy: soupis, zápis o vyřazení, výpis z katastru, podklady k neúčinnosti převodu.
+Vládní návrh insolvenčního zákona označil sestavení soupisu za cíl zjišťování majetkové podstaty a zdůraznil, že tato činnost probíhá během řízení a zásadně není časově omezena. Jde o historické vysvětlení původního návrhu, nikoli o náhradu aktuálního zákonného textu (sněmovní tisk 1120/0, zvláštní část, K § 217, číslovaná s. 203 tisku).
 
-**2. Právní otázka.** Jaké účinky má zápis do soupisu na nakládání s majetkem a může správce po vyřazení položky tutéž věc znovu sepsat?
+### Literatura
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 217 odst. 1 — zápisem vzniká zvláštní režim (se zapsanými hodnotami lze nakládat jen způsobem dle IZ a jen osobou s dispozičními oprávněními); soupis se soustavně doplňuje; odst. 2 — vyřazení po projednání s výborem a vyrozumění soudu; možnost opětovného soupisu vyřazených hodnot.
-- *Související ustanovení téhož zákona:* § 246 (přechod dispozic na správce v konkursu); § 218–224 (náležitosti soupisu, ocenění, vyrozumění); § 225 (vylučovací žaloba); § 235 a násl. (neúčinné úkony).
-- *Související předpisy:* § 1760 OZ (nakládání s cizí věcí); katastrální předpisy.
-- *Judikatura:* nosný závěr, že zápis do soupisu má konstitutivní účinky pro režim nakládání; věc v soupisu nelze platně zcizit mimo zákonný způsob.
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento oddíl nepředstavuje negativní rešerši.
 
-**4. Subsumpce.** Zápisem zásob do soupisu vznikl zvláštní režim — nakládat smí jen osoba s dispozičními oprávněními (v konkursu správce, § 246) zákonem stanoveným způsobem; dlužníkův prodej zásob mimo tento režim by byl vůči podstatě neúčinný. U nemovitosti: vyřazení bylo provedeno řádně (projednání s výborem, vyrozumění soudu); objeví-li se opak, § 217 odst. 2 výslovně umožňuje opětovný soupis.
+### Výklad
 
-**5. Řešení.** Zásoby může zpeněžit jen osoba s dispozičními oprávněními zákonným způsobem; dlužníkovi v této fázi nakládání nepřísluší (je-li konkurs). Nemovitost lze po novém zjištění opětovně sepsat (odst. 2 in fine), a to bez ohledu na předchozí vyřazení. Procesně: nový zápis do soupisu, vyrozumění dotčené osoby (§ 224), běh nové lhůty pro vylučovací žalobu.
+[1] **Povaha soupisu.** Soupis je zákonem označenou listinou, do níž se zapisuje majetek náležející do majetkové podstaty. Je výsledkem zjišťování podstaty, ale současně průběžným dokumentem: správce jej provádí a soustavně doplňuje po celé insolvenční řízení podle pokynů soudu a za součinnosti věřitelského výboru.
 
-**6. Varianty.** (a) Kdyby šlo o reorganizaci/oddlužení, dispoziční oprávnění by zůstalo dlužníkovi, ten by však byl vázán omezeními a soustavně doplňovaným soupisem. (b) Kdyby od vyřazení uplynula doba, „prospěch" z vyřazení mající osoba se i tak nemůže dovolávat vyloučení (odst. 2) — opětovný soupis tím není vyloučen.
+[2] **Účinek zápisu.** Od zápisu lze se sepsanou majetkovou hodnotou nakládat pouze způsobem stanoveným insolvenčním zákonem a pouze osobou s dispozičními oprávněními. § 217 proto nelze číst jako obecné určení, že touto osobou je vždy správce; konkrétní subjekt se určí zejména podle § 229 a podle účinků zvoleného způsobu řešení úpadku.
 
-### G. Protiargumenty a rizika
+[3] **Trvání povinnosti.** Výslovná věta, že povinnost správce nezaniká uplynutím doby, vylučuje pojetí soupisu jako jednorázově uzavřeného seznamu. Nově zjištěné hodnoty se doplňují i později v řízení, jsou-li splněny podmínky jejich příslušnosti k podstatě.
 
-- *Protiargument (dlužník):* „Zásoby jsou stále moje, mohu je prodat." Neutralizace: zápisem do soupisu vzniká zvláštní režim; v konkursu nakládá jen správce (§ 246), dispozice dlužníka jsou neúčinné vůči podstatě.
-- *Protiargument (domnělý vlastník):* „Položka už byla jednou vyřazena, nelze ji znovu sepsat." Neutralizace: § 217 odst. 2 in fine výslovně připouští opětovný soupis vyřazených hodnot, vyjde-li najevo, že do podstaty patří.
-- *Slabé místo:* opětovný soupis po vyřazení může narazit na očekávání právní jistoty dotčené osoby; je třeba pečlivě doložit nový důvod a znovu řádně vyrozumět (§ 224), aby běžela nová lhůta k vylučovací žalobě.
+[4] **Vyřazení podle odstavce 2.** Vyjde-li během řízení najevo, že sepsaná hodnota do podstaty nenáleží, správce ji vyřadí. Předtím věc projedná s věřitelským výborem a následně vyrozumí insolvenční soud. Zákon nevyžaduje souhlas výboru ani předchozí povolení soudu; stanoví projednání a vyrozumění.
 
-### H. Praktický závěr
+[5] **Vztah k procesním prostředkům ochrany.** Vyřazení není vyloučeno ani tehdy, když osoba, která z něho má prospěch, již nemůže dosáhnout vyloučení hodnoty žalobou. Dobrovolná oprava soupisu správcem podle § 217 odst. 2 se proto odlišuje od autoritativního vynucení vyloučení třetí osobou podle § 225 a od návrhu dlužníka podle § 226.
 
-Soupis je centrální listinou s konstitutivními účinky: zápisem vzniká režim, v němž lze s majetkem nakládat jen zákonným způsobem a jen osobou s dispozičními oprávněními. Soupis se soustavně doplňuje; položky, jež do podstaty nepatří, správce vyřadí (po projednání s výborem a vyrozumění soudu), s možností opětovného soupisu.
+[6] **Opětovný soupis.** Předchozí vyřazení samo nebrání novému soupisu téže hodnoty, jestliže následně vyjde najevo, že do podstaty náleží. Nový soupis musí znovu splnit obecná pravidla § 217 až 224; zejména je nutné zachytit důvod soupisu a při splnění podmínek § 224 vyrozumět dotčenou osobu.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Po zápisu respektovat, že nakládat smí jen osoba s dispozičními oprávněními zákonným způsobem.
-- [ ] Soupis průběžně doplňovat o nově zjištěný majetek (povinnost nezaniká uplynutím doby).
-- [ ] Vyřazení provádět vždy po projednání s věřitelským výborem a vyrozumění soudu.
-- [ ] Při novém zjištění využít opětovný soupis (odst. 2) a znovu vyrozumět dotčené osoby (§ 224).
-- [ ] Hlídat, že dispozice dlužníka mimo režim soupisu jsou vůči podstatě neúčinné.
+[7] **Časová působnost.** Výklad odpovídá znění účinnému k 19. 7. 2026. U soupisu, vyřazení nebo jiného procesního úkonu uskutečněného dříve je třeba ověřit znění účinné v době úkonu a případná přechodná ustanovení.
 
-**Typicky rozhodné důkazy / podklady:** soupis a jeho doplňky, zápisy o vyřazení a jejich projednání s výborem, vyrozumění soudu, výpisy z katastru/registrů, podklady k důvodu (ne)zařazení.
+### Judikatura
+
+Pro materiální závěry této revize nebylo použito žádné soudní rozhodnutí. Původní anonymní tvrzení o „nosném závěru“ bylo odstraněno, protože nebylo spojeno s ověřeným plným textem konkrétního rozhodnutí. Tím se netvrdí, že relevantní judikatura neexistuje.
 
 ---
 

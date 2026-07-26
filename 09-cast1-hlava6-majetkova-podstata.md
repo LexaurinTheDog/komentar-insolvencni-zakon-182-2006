@@ -978,45 +978,64 @@ Odborná literatura nebyla v tomto kole hodnocena; její zpracování je odlože
 
 Do tohoto kola nebylo zařazeno žádné rozhodnutí. Dosavadní obecný odkaz na neurčený „nosný závěr“ nebyl podložen plným textem oficiálního rozhodnutí a byl odstraněn; nejde o negativní rešerši judikatury.
 
-### § 221 — Prohlášení dlužníka
-Dlužník na žádost správce *písemně potvrdí* správnost. Lze odmítnout *jen s důvody*.
+## § 221 — Prohlášení dlužníka
 
-#### F. Kazuistika
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**1. Modelová situace.** Správce pořídil soupis a požádal dlužníka (FO podnikatele) o písemné potvrzení jeho správnosti. Dlužník reaguje dvěma způsoby k různým položkám: u většiny majetku potvrzení bez vysvětlení odmítne, u jedné nemovitosti naopak odmítne s odůvodněním, že ji vlastní jeho manželka výlučně a do podstaty nepatří. Správce řeší, jaké účinky obě reakce mají. Účastníci: dlužník, manželka, správce, věřitelský výbor, insolvenční soud. Důkazy: žádost o potvrzení správnosti soupisu, písemné vyjádření dlužníka, doklady k vlastnictví nemovitosti.
+### Znění ustanovení
 
-**2. Právní otázka.** Je dlužník povinen potvrdit správnost soupisu, za jakých podmínek může potvrzení odmítnout a jaký je následek bezdůvodného versus odůvodněného odmítnutí?
+> Jestliže o to insolvenční správce požádá, je dlužník povinen písemně potvrdit úplnost a správnost soupisu. Prohlášení o správnosti soupisu nebo jeho části může dlužník písemně odmítnout, jen jestliže současně písemně uvede důvody, pro které soupis nebo jeho část nepovažuje za správný.
+>
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 221 — dlužník na žádost správce písemně potvrdí správnost soupisu; odmítnout potvrzení může jen s uvedením důvodů.
-- *Související ustanovení téhož zákona:* § 210 (všestranná součinnost dlužníka); § 217 (soupis a jeho účinky); § 220 (důvod soupisu); § 224 (vyrozumění o sporném/cizím majetku); § 81 (pořádková pokuta).
-- *Související předpisy:* OSŘ subsidiárně (§ 7 IZ); § 227 TZ (v krajním případě, je-li potvrzen nepravdivý soupis).
-- *Judikatura:* nosný závěr, že potvrzení správnosti soupisu je projevem součinnostní povinnosti dlužníka; bezdůvodné odepření je jejím porušením, kdežto věcně odůvodněné výhrady jsou podnětem k prověření zařazení.
+### Přehled výkladu
 
-**4. Subsumpce.** Bezdůvodné odmítnutí potvrzení u většiny majetku odporuje § 221 (odmítnout lze jen s důvody) → porušení součinnostní povinnosti (§ 210). Odmítnutí u nemovitosti s odůvodněním (výlučné vlastnictví manželky) je naopak v souladu s § 221 — uvádí důvod a směřuje na sporné zařazení, jež je třeba prověřit a případně řešit poznámkou a vyrozuměním dle § 224.
+§ 221 upravuje písemné prohlášení dlužníka k soupisu. Povinnost vzniká na žádost insolvenčního správce a zahrnuje potvrzení úplnosti i správnosti. Dlužník může písemně odmítnout prohlášení k celému soupisu nebo jen k jeho části pouze tehdy, uvede-li současně písemně konkrétní důvody nesprávnosti.
 
-**5. Řešení.** Bezdůvodné odmítnutí nebrání platnosti soupisu, ale zakládá porušení součinnosti (event. pořádková pokuta dle § 81). U odůvodněné výhrady správce prověří vlastnictví nemovitosti; je-li zařazení sporné, doplní poznámku a vyrozumí dotčenou osobu (§ 224), čímž manželce poběží lhůta k vylučovací žalobě (§ 225). Procesně: založit vyjádření dlužníka, reagovat na věcné důvody.
+### Souvisící ustanovení
 
-**6. Varianty.** (a) Kdyby dlužník potvrzení poskytl, soupis by získal i jeho aprobaci (potvrzení nepravdivého soupisu by mohlo mít trestněprávní dopad). (b) Kdyby odůvodnění bylo zjevně účelové a nepodložené, výhrada by zařazení nezvrátila a správce by majetek ponechal v soupisu.
+- § 210 a § 211 — součinnost dlužníka a vlastní šetření insolvenčního správce,
+- § 217 odst. 1 a 2 — pořízení, průběžné doplňování a vyloučení majetku ze soupisu,
+- § 220 — náležitosti položek soupisu a jejich vyloučení,
+- § 222 — elektronický formulář a zveřejnění soupisu,
+- § 224 a § 225 — poznámka o právech třetí osoby, vyrozumění a vylučovací žaloba.
 
-#### G. Protiargumenty a rizika
+### Souvisící předpisy
 
-- *Protiargument (dlužník):* „Potvrzení správnosti je na mé libovůli, mohu je odmítnout bez vysvětlení." Neutralizace: § 221 dovoluje odmítnout jen s uvedením důvodů; bezdůvodné odmítnutí je porušením součinnosti (§ 210) s rizikem pořádkové pokuty (§ 81).
-- *Protiargument (správce):* „Odůvodněné odmítnutí mohu ignorovat, soupis platí." Neutralizace: věcné důvody (sporné vlastnictví) je třeba prověřit; jde-li o sporné/cizí zařazení, vzniká povinnost poznámky a vyrozumění dle § 224.
-- *Slabé místo:* potvrzení (ani jeho absence) nemá konstitutivní účinek na zařazení do podstaty — to vzniká soupisem dle § 217; hodnota potvrzení spočívá spíše v součinnosti a v důkazní rovině.
+- § 7 insolvenčního zákona — přiměřené použití občanského soudního řádu a zákona o zvláštních řízeních soudních pouze tehdy, nestanoví-li insolvenční zákon jinak a není-li takový postup v rozporu se zásadami insolvenčního řízení.
 
-#### H. Praktický závěr
+### Z důvodové zprávy
 
-Dlužník je na žádost správce povinen písemně potvrdit správnost soupisu a odmítnout potvrzení může jen s uvedením důvodů (§ 221). Bezdůvodné odmítnutí je porušením součinnosti (§ 210) postižitelným pořádkovou pokutou; věcně odůvodněná výhrada je podnětem k prověření zařazení a případně k vyrozumění dotčené osoby (§ 224).
+Původní důvodová zpráva charakterizuje § 220 až 224 společně jako podrobnou úpravu náležitostí soupisu a jeho změn. K prohlášení podle § 221 nepřipojuje samostatné vysvětlení. Srov. vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, zvláštní část, K § 220 až 224, číslovaná s. 204 (PDF s. 204).
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Vyžádat si od dlužníka písemné potvrzení správnosti soupisu.
-- [ ] Bezdůvodné odmítnutí řešit jako nesoučinnost (§ 210), event. pořádkovou pokutou (§ 81).
-- [ ] Odůvodněné výhrady věcně prověřit (zejména námitky sporného vlastnictví).
-- [ ] Je-li zařazení sporné, doplnit poznámku a vyrozumět dotčenou osobu (§ 224, § 225).
-- [ ] Vyjádření dlužníka založit do spisu jako podklad pro další postup.
+### Literatura
 
-**Typicky rozhodné důkazy / podklady:** žádost o potvrzení správnosti soupisu, písemné vyjádření (potvrzení/odmítnutí) dlužníka s důvody, doklady k vlastnictví sporných položek, případné vyrozumění dle § 224.
+Odborná literatura nebyla v tomto kole hodnocena; její zpracování je odloženo do druhého kola.
+
+### Výklad
+
+[1] **Vznik povinnosti.** Povinnost dlužníka nevzniká bez dalšího samotným sestavením soupisu. § 221 ji váže na žádost insolvenčního správce. Zákon pro žádost výslovnou formu nestanoví; pro průkaznost jejího obsahu a doručení je písemné zachycení prakticky významné. Poslední věta je praktickým závěrem editora.
+
+[2] **Předmět potvrzení.** Dlužník potvrzuje dvě vlastnosti soupisu: jeho úplnost a správnost. Potvrzení pouze správnosti jednotlivých uvedených údajů proto samo nevyjadřuje, že soupis nepostrádá další majetek.
+
+[3] **Forma potvrzení.** Zákon výslovně vyžaduje písemné potvrzení. Ústní souhlas ani pouhá pasivita požadavek § 221 nenaplňují.
+
+[4] **Rozsah odmítnutí.** Dlužník může odmítnout prohlášení pro soupis jako celek nebo jen pro jeho část. Částečné odmítnutí má určit dotčenou část natolik, aby bylo zřejmé, které položky nebo údaje dlužník zpochybňuje; tato konkretizace je systematickým výkladovým závěrem editora.
+
+[5] **Podmínky odmítnutí.** Odmítnutí musí být písemné a dlužník musí současně písemně uvést důvody, pro které soupis nebo jeho část nepovažuje za správný. Pouhé neodůvodněné „nepotvrzuji“ zákonným podmínkám odmítnutí neodpovídá.
+
+[6] **Význam uvedených důvodů.** § 221 vyžaduje jejich sdělení, nestanoví však, že správce musí dlužníkův právní nebo skutkový názor přijmout. Důvody je třeba posoudit spolu s vlastními zjištěními správce podle § 211; závěr o potřebě věcného posouzení je systematickým výkladem editora.
+
+[7] **Vztah k soupisu.** § 217 svěřuje pořízení a průběžné doplňování soupisu insolvenčnímu správci, zatímco § 221 upravuje prohlášení dlužníka. Z textu § 221 neplyne, že potvrzení je podmínkou vzniku účinků soupisu ani že odůvodněné odmítnutí samo položku ze soupisu vylučuje; jde o systematický výklad editora založený na oddělení obou ustanovení.
+
+[8] **Třetí osoby.** Tvrdí-li důvody dlužníka, že sepsaný majetek náleží třetí osobě nebo že jeho zahrnutí je sporné, je nutné samostatně posoudit předpoklady § 224. Samotné vyjádření dlužníka nenahrazuje zákonnou poznámku, vyrozumění dotčené osoby ani její případnou obranu podle § 225.
+
+[9] **Časová působnost.** Výklad odpovídá znění účinnému k 19. 7. 2026. Pro žádost nebo prohlášení učiněné dříve je třeba ověřit tehdy účinné znění § 221 a souvisejících ustanovení.
+
+### Judikatura
+
+Do tohoto kola nebylo zařazeno žádné soudní rozhodnutí. Původní anonymní judikatorní tvrzení nebylo spojeno s plným textem konkrétního rozhodnutí na oficiálním webu soudu, a proto bylo odstraněno. Tím se netvrdí, že relevantní judikatura neexistuje.
+
+---
 
 ### § 222 — Zveřejnění
 Soupis **na elektronickém formuláři**. Zveřejnění v rejstříku *neprodleně*.

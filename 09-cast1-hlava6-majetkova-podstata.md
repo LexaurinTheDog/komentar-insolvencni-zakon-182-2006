@@ -380,49 +380,66 @@ Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tato p
 
 Původní text obsahoval anonymní „nosné závěry“ bez identifikace rozhodnutí a bez ověřeného plného textu. Tyto závěry nebyly převzaty. Materiální výklad této jednotky se proto neopírá o konkrétní soudní rozhodnutí.
 
-### § 211 — Postup zjišťování
+## § 211 — Postup zjišťování
 
-- *Východisko*: **seznam majetku** dlužníka (§ 104).
-- *Vlastní šetření správce* — *aktivně dohledává* další majetek (přes součinnost dle § 43 — banky, katastr, ČSSZ atd.).
-- *Věřitelské orgány* — povinná součinnost (typicky věřitelé poskytují informace o vztazích s dlužníkem).
-- *Nedosáhne-li úplného zjištění* — oznámí soudu a *navrhne opatření*.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-#### F. Kazuistika
+### Znění ustanovení
 
-**1. Modelová situace.** Správce po ustanovení obdrží od dlužníka (FO podnikatele) seznam majetku (§ 104), v němž je uvedena jen nemovitost a osobní automobil. Z bankovní součinnosti (§ 43) však správce zjistí pravidelné příchozí platby od tří odběratelů, což indikuje neuvedené pohledávky z podnikání, a z katastru sousední pozemek. Dlužník na dotazy nereaguje a správce nedosáhne úplného zjištění. Účastníci: dlužník, správce, banka, odběratelé, insolvenční soud. Důkazy: seznam majetku, bankovní výpisy, výpis z katastru, faktury odběratelů.
+> (1) Východiskem zjišťování majetkové podstaty je seznam majetku, který je dlužník povinen předložit současně s insolvenčním návrhem, případně na základě rozhodnutí insolvenčního soudu.
+>
+> (2) Insolvenční správce nebo předběžný správce provede vlastní šetření o tom, zda do majetkové podstaty nepatří i jiné věci, práva, pohledávky a majetkové hodnoty než ty, které dlužník uvedl v seznamu majetku. Potřebnou součinnost mu jsou povinny poskytnout také věřitelské orgány.
+>
+> (3) Nemůže-li insolvenční správce nebo předběžný správce dosáhnout úplného zjištění majetkové podstaty proto, že mu nebyla poskytnuta požadovaná součinnost, oznámí to insolvenčnímu soudu a navrhne mu přijetí příslušného opatření.
+>
 
-**2. Právní otázka.** Jak má správce postupovat při zjišťování podstaty, vychází-li ze seznamu majetku, a co učinit, nepodaří-li se mu majetek zjistit úplně?
+### Přehled výkladu
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 211 — východiskem je seznam majetku dlužníka (§ 104); správce aktivně dohledává další majetek (součinnost dle § 43 — banky, katastr, ČSSZ); věřitelské orgány poskytují součinnost; nedosáhne-li úplného zjištění, oznámí to soudu a navrhne opatření.
-- *Související ustanovení téhož zákona:* § 104 (seznam majetku jako podklad); § 209 (zjišťování zajišťuje správce); § 210 (součinnost dlužníka); § 212 (prohlídka jako krajní nástroj); § 43 (součinnost orgánů a osob); § 11 (dohlédací činnost soudu).
-- *Související předpisy:* OSŘ subsidiárně (§ 7 IZ).
-- *Judikatura:* nosný závěr, že zjišťování není pasivním přebíráním seznamu, nýbrž aktivní vyhledávací činností správce; nedostatečnost seznamu nezbavuje správce povinnosti majetek dohledat.
+§ 211 stanoví tři navazující prvky zjišťování majetkové podstaty: seznam majetku jako východisko, vlastní šetření insolvenčního nebo předběžného správce a postup při nemožnosti dosáhnout úplného zjištění pro neposkytnutí požadované součinnosti. Seznam není zákonem označen za konečný výsledek zjišťování. Věřitelské orgány mají poskytnout potřebnou součinnost, nikoli převzít odpovědnost za vlastní šetření správce.
 
-**4. Subsumpce.** Seznam majetku (§ 104) je východiskem, nikoli vyčerpávajícím podkladem (§ 211); pravidelné platby od odběratelů zakládají důvodný předpoklad existence neuvedených pohledávek, které správce dohledá vlastním šetřením a součinností (§ 43). Sousední pozemek z katastru je dalším majetkem k zařazení. Nedosáhne-li správce úplnosti, oznámí to soudu a navrhne opatření.
+### Souvisící ustanovení
 
-**5. Řešení.** Správce vyžádá od bank výpisy a od odběratelů potvrzení závazků, prověří katastr a registry, a zjištěný majetek (pohledávky, pozemek) zapíše do soupisu (§ 217). Zůstanou-li mezery, oznámí to soudu a navrhne opatření (předvolání dlužníka k prohlášení o majetku dle § 214, prohlídku dle § 212). Procesně: žádosti dle § 43, doplňování soupisu, návrh soudu.
+- § 43 a § 44 — součinnost orgánů a dalších osob s insolvenčním správcem,
+- § 104 — seznamy předkládané dlužníkem,
+- § 209 — osoba zajišťující zjištění majetkové podstaty,
+- § 210 — součinnost dlužníka a dalších zákonem vymezených osob,
+- § 212 — přístup k majetku a soudem nařízená prohlídka,
+- § 214 až § 216 — výslech a prohlášení o majetku,
+- § 217 — soupis majetkové podstaty.
 
-**6. Varianty.** (a) Kdyby dlužník spolupracoval a seznam byl úplný, vlastní šetření by jen ověřilo údaje. (b) Kdyby existovaly indicie o fyzicky ukrývaném majetku (hotovost, šperky), bylo by namístě navrhnout prohlídku (§ 212).
+### Souvisící předpisy
 
-#### G. Protiargumenty a rizika
+- Zákon č. 99/1963 Sb., občanský soudní řád — použije se přiměřeně jen za podmínek § 7 insolvenčního zákona; § 211 sám žádný konkrétní procesní prostředek z občanského soudního řádu neurčuje.
 
-- *Protiargument (dlužník):* „Vše jsem uvedl v seznamu, víc majetku nemám." Neutralizace: seznam je jen východiskem; objektivní indicie (pravidelné platby, zápisy v registrech) zakládají povinnost správce majetek dohledat bez ohledu na tvrzení dlužníka.
-- *Protiargument:* „Správce nemůže oslovovat odběratele dlužníka, je to zásah do obchodního tajemství." Neutralizace: § 43 zakládá povinnou součinnost třetích osob při zjišťování podstaty; zjištění existence pohledávky dlužníka má přednost před formální námitkou.
-- *Slabé místo:* úplnost zjištění závisí na ochotě a kvalitě součinnosti třetích osob; chybějící centrální evidence některých aktiv (hotovost, kryptoaktiva) limituje dohledatelnost — řešením je eskalace na prohlášení o majetku a prohlídku.
+### Z důvodové zprávy
 
-#### H. Praktický závěr
+Oficiální důvodová zpráva k vládnímu návrhu insolvenčního zákona pojednává § 209 až § 216 společně. Zjišťování majetkové podstaty označuje za komplexní úpravu zahrnující způsoby a metody zjišťování, určení jednajících subjektů a jejich oprávnění. Samostatný podrobnější výklad jednotlivých odstavců § 211 nepodává. (Poslanecká sněmovna, IV. volební období, tisk 1120/0, zvláštní část „K § 209 až 216“, číslovaná strana 203, PDF strany 203–204.)
 
-Postup zjišťování (§ 211) vychází ze seznamu majetku dlužníka jako východiska, které správce doplňuje aktivním vlastním šetřením a součinností třetích osob (banky, katastr, ČSSZ — § 43). Věřitelské orgány poskytují součinnost. Nedosáhne-li správce úplného zjištění, oznámí to soudu a navrhne opatření (předvolání, prohlídka).
+### Literatura
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Vyjít ze seznamu majetku (§ 104) a ověřit jeho úplnost.
-- [ ] Aktivně dohledat majetek součinností dle § 43 (banky, katastr, registry, ČSSZ).
-- [ ] Vyhodnotit indicie (pravidelné platby, zápisy) a dohledat neuvedená aktiva (pohledávky, pozemky).
-- [ ] Zjištěný majetek průběžně zapisovat do soupisu (§ 217).
-- [ ] Nelze-li dosáhnout úplnosti, oznámit soudu a navrhnout opatření (§ 214, § 212).
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tato poznámka není výsledkem negativní rešerše.
 
-**Typicky rozhodné důkazy / podklady:** seznam majetku, bankovní výpisy a potvrzení odběratelů, výpisy z katastru a registrů, odpovědi v rámci součinnosti (§ 43), oznámení soudu o nemožnosti úplného zjištění.
+### Výklad
+
+[1] **Seznam jako východisko.** Odstavec 1 váže počátek zjišťování na seznam majetku, který dlužník předkládá současně se svým insolvenčním návrhem nebo na základě rozhodnutí insolvenčního soudu. Podrobné náležitosti seznamu upravuje § 104. Označení seznamu za „východisko“ současně vylučuje jeho pojetí jako jediného a bez dalšího dostačujícího podkladu.
+
+[2] **Vlastní šetření správce.** Insolvenční i předběžný správce musí podle odstavce 2 provést vlastní šetření zaměřené na jiné věci, práva, pohledávky a majetkové hodnoty, než dlužník uvedl. Rozsah konkrétního šetření § 211 taxativně nestanoví; odvíjí se od dostupných podkladů a zjištěných indicií. Pravomoc požadovat informace nebo přístup musí mít oporu v § 211 nebo v souvisejícím ustanovení, zejména v § 43, § 210 či § 212.
+
+[3] **Věřitelské orgány.** Povinnost potřebné součinnosti ukládá odstavec 2 věřitelským orgánům. Adresátem této věty není automaticky každý jednotlivý věřitel. Potřebnost součinnosti se posuzuje ve vztahu ke zjišťování majetkové podstaty.
+
+[4] **Nesoučinnost a oznámení soudu.** Postup podle odstavce 3 je vázán na příčinnou souvislost: úplného zjištění nelze dosáhnout proto, že nebyla poskytnuta požadovaná součinnost. Správce pak soudu tuto skutečnost oznámí a navrhne přijetí příslušného opatření. § 211 neurčuje, které opatření musí soud přijmout, ani nezakládá automatický nárok na konkrétní sankci; návrh musí odpovídat povaze chybějící součinnosti a podmínkám zvláštní právní úpravy.
+
+[5] **Vztah ke zvláštním nástrojům.** Podle okolností mohou na postup navazovat zejména součinnost podle § 43 a § 210, prohlídka podle § 212 nebo prohlášení o majetku podle § 214 až § 216. Každý z těchto nástrojů má vlastní předpoklady. Samotná neúplnost seznamu proto bez dalšího neprokazuje, že jsou splněny podmínky kteréhokoli konkrétního opatření.
+
+[6] **Výsledek zjišťování.** Zjištěný majetek se zachycuje v soupisu podle § 217 a následujících. Seznam podle § 104 a soupis majetkové podstaty nejsou totožné dokumenty: první je výchozím podkladem dlužníka, druhý vytváří a průběžně doplňuje insolvenční správce v zákonném režimu soupisu.
+
+[7] **Intertemporální omezení.** Text § 211 byl ověřen ve znění účinném k 19. 7. 2026. Původní důvodová zpráva slouží pouze k objasnění systematického záměru zákonodárce při přijetí zákona; při posouzení dřívějšího řízení je nutné ověřit znění účinné v rozhodné době a příslušná přechodná ustanovení.
+
+[8] **Praktická kontrola — autorský postup.** Pro auditovatelný postup je vhodné odděleně zaznamenat výchozí seznam, konkrétní provedená šetření, zjištěné indicie dalšího majetku, vyžádanou součinnost a jejího zákonného adresáta. Při oznámení podle odstavce 3 je vhodné popsat, jak neposkytnutí součinnosti brání úplnému zjištění, a uvést právní základ i předpoklady navrhovaného opatření.
+
+### Judikatura
+
+V primárních pramenech použitých pro tuto revizi nebylo ověřeno rozhodnutí, jehož nosný závěr by byl nezbytný pro výklad § 211 nad rámec textu zákona a jeho systematických vazeb. Původní anonymní „nosný závěr“ bez identifikace rozhodnutí a bez plného textu nebyl převzat. Tato poznámka nepředstavuje negativní rešerši judikatury.
 
 ### § 212 — Prohlídka (kvazi-domovní)
 

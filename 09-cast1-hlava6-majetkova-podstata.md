@@ -703,59 +703,56 @@ Pro materiální závěry této revize nebylo použito žádné soudní rozhodnu
 
 ---
 
-### § 216 — Protokol
+## § 216 — Protokol
 
-- **Protokol** soudu o prohlášení,
-- *přiložený seznam majetku* (s dlužníkovým prohlášením o úplnosti a pravdivosti),
-- *podepisuje soudce, zapisovatel, předvolaný*,
-- **úkony jen soudce** (ne VSÚ — vyšší stupeň formality),
-- *správce a věřitelský výbor*: vyrozumění, právo klást otázky.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-### Vazby
+### Znění ustanovení
 
-- **§ 260 a násl. OSŘ** — analogický institut v exekuci.
-- **§ 227 TZ** — porušení povinnosti učinit pravdivé prohlášení o majetku.
+> (1) O prohlášení o majetku sepíše insolvenční soud protokol; předloží-li předvolaný seznam majetku, tvoří tento seznam přílohu protokolu, jestliže předvolaný o něm prohlásí, že obsahuje úplné a pravdivé údaje, popřípadě jestliže jej do protokolu doplní. V protokolu se dále uvede obsah poučení poskytnutého insolvenčním soudem podle § 214 a výslovné prohlášení předvolaného o tom, že v prohlášení uvedl jen úplné a pravdivé údaje o majetku dlužníka. Protokol podepíše soudce, zapisovatel a předvolaný. Úkony insolvenčního soudu podle tohoto odstavce může učinit jen soudce.
+>
+> (2) O výslechu k prohlášení o majetku vyrozumí insolvenční soud insolvenčního správce a věřitelský výbor. Insolvenční správce a věřitelský výbor má právo klást předvolanému otázky. Opis protokolu o výslechu se doručuje insolvenčnímu správci a věřitelskému výboru.
 
-### Praktická poznámka
+### Přehled výkladu
 
-**Trestní rozměr**: nepravdivé / hrubě zkreslené prohlášení o majetku = trestný čin § 227 TZ (až 2 roky odnětí svobody). V kombinaci s § 226 TZ (poškození věřitele) a § 225 TZ (porušení povinnosti při správě cizího majetku) — *významné odstrašení*.
+§ 216 upravuje formu a zachycení prohlášení o majetku, osobní působnost soudce a procesní účast insolvenčního správce a věřitelského výboru. Neurčuje obsah prohlášení ani podmínky předvolání; ty stanoví § 214 a 215.
 
-### F. Kazuistika
+### Souvisící ustanovení
 
-**1. Modelová situace.** Správce a věřitelský výbor mají indicie, že dlužník (FO) zatajuje majetek — nevykázal účet u zahraniční banky a podíl ve společnosti s ručením omezeným. Navrhnou soudu předvolání dlužníka k prohlášení o majetku. Dlužník je předvolán do vlastních rukou 12 dnů předem, poučen o následcích; při výslechu zamlčí zahraniční účet. Účastníci: dlužník, správce, věřitelský výbor, soudce. Důkazy: předvolání s doručenkou, protokol o prohlášení, později získané bankovní výpisy, výpis z OR.
+- **§ 103 odst. 1** — označení osob, na něž odkazuje § 215 odst. 2.
+- **§ 214** — předvolání, poučení a povinnost dostavit se k výslechu.
+- **§ 215** — obsah prohlášení o majetku.
+- **§ 217** — soupis majetkové podstaty jako navazující výsledek zjišťování majetku.
 
-**2. Právní otázka.** Jsou splněny formální podmínky předvolání a prohlášení o majetku a jaké důsledky má zamlčení účtu při prohlášení?
+### Souvisící předpisy
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 214 (předvolání k prohlášení — na návrh správce/věřitelského výboru, poučení, doručení do vlastních rukou min. 10 dnů předem, povinná účast, jinak předvedení); § 215 (taxativní obsah prohlášení — plátci mzdy, banky/SÚD, dlužníci dlužníka, majetková práva, movité věci, nemovitosti, podnik, další hodnoty); § 216 (protokol, seznam s prohlášením o úplnosti a pravdivosti, úkony činí jen soudce, právo správce a výboru klást otázky).
-- *Související ustanovení téhož zákona:* § 210 (součinnost dlužníka); § 81 (pořádková pokuta); § 104 (seznam majetku).
-- *Související předpisy:* § 260 a násl. OSŘ (analogický institut v exekuci); § 227 TZ (nepravdivé prohlášení o majetku); § 222 TZ (poškození věřitele).
-- *Judikatura:* nosný závěr, že prohlášení o majetku má povahu kvalifikovaného úkonu pod trestní sankcí; nepravdivé/neúplné prohlášení zakládá trestní odpovědnost a neztrácí účinky pro civilní řízení.
+- **§ 260a až 260h občanského soudního řádu** — obecná úprava prohlášení o majetku při výkonu rozhodnutí; insolvenční zákon pro insolvenční řízení obsahuje vlastní úpravu v § 214 až 216.
 
-**4. Subsumpce.** Předvolání doručeno 12 dnů předem (≥ 10 dnů) do vlastních rukou, s poučením → formální podmínky § 214 splněny. Zahraniční účet patří mezi údaje dle § 215 písm. b) → jeho zamlčení = nepravdivé/neúplné prohlášení → naplňuje skutkovou podstatu § 227 TZ.
+### Z důvodové zprávy
 
-**5. Řešení.** Prohlášení proběhlo procesně řádně. Zamlčení účtu zakládá trestní odpovědnost (§ 227 TZ), případně v souběhu s poškozením věřitele (§ 222 TZ); zjištěný majetek správce dodatečně sepíše. Při bezdůvodné neúčasti by soud nařídil předvedení. Procesně: protokol podepíše soudce, zapisovatel a předvolaný; správce a výbor mají právo klást otázky.
+Původní důvodová zpráva k vládnímu návrhu insolvenčního zákona pojednává § 209 až 216 společně. Zjišťování majetkové podstaty označuje za komplexní úpravu a § 214 až 216 za samostatnou úpravu prohlášení o majetku, která pro insolvenční řízení nahrazuje tehdejší § 260a až 260k občanského soudního řádu. Jde o vysvětlení původní koncepce, nikoli o samostatný doklad aktuálního znění.
 
-**6. Varianty.** (a) Kdyby předvolání bylo doručeno jen 7 dnů předem, byla by porušena lhůta § 214 a úkon by byl vadný. (b) Kdyby prohlášení činil VSÚ namísto soudce, šlo by o porušení § 216 (úkony jen soudce) — vada řízení.
+### Literatura
 
-### G. Protiargumenty a rizika
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento údaj nepředstavuje negativní rešerši literatury.
 
-- *Protiargument (dlužník):* „Na účet jsem zapomněl, nešlo o úmysl." Neutralizace: u významného aktiva (zahraniční účet) je tvrzení o opomenutí obtížně udržitelné; trestnost § 227 TZ vyžaduje úmysl, jejž lze dovodit z okolností (rozsah, povaha zatajeného majetku).
-- *Protiargument:* „Předvolání nebylo řádné." Neutralizace: doložit doručenku do vlastních rukou a dodržení 10denní lhůty; jsou-li splněny, námitka neobstojí.
-- *Slabé místo:* prohlášení je účinné jen v rozsahu taxativně vymezených údajů (§ 215); aktiva mimo výčet nemusí být postižena; prokázání úmyslu pro trestní postih může být náročné.
+### Výklad
 
-### H. Praktický závěr
+[1] **Povinný obsah protokolu.** Soud zachytí prohlášení o majetku v protokolu. Vedle vlastního prohlášení musí protokol uvádět obsah poučení podle § 214 a výslovné prohlášení předvolaného o úplnosti a pravdivosti údajů o majetku dlužníka.
 
-Insolvenční soud může na návrh správce/věřitelského výboru předvolat dlužníka k prohlášení o majetku (taxativní obsah dle § 215), o němž sepíše protokol; úkony činí jen soudce. Institut je posílen trestní sankcí za nepravdivé prohlášení (§ 227 TZ) a možností předvedení.
+[2] **Seznam jako příloha.** Předložený seznam majetku se nestává přílohou protokolu bez dalšího. Zákon to váže na prohlášení předvolaného, že seznam obsahuje úplné a pravdivé údaje, popřípadě na jeho doplnění do protokolu.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Návrh na předvolání podložit konkrétními indiciemi o zatajovaném majetku.
-- [ ] Zajistit doručení předvolání do vlastních rukou min. 10 dnů předem a řádné poučení.
-- [ ] Pokrýt v prohlášení všechny taxativní položky § 215 (banky včetně zahraničních, podíly, pohledávky).
-- [ ] Využít právo správce a výboru klást otázky; pořídit protokol podepsaný soudcem.
-- [ ] Při nepravdivém/neúplném prohlášení zvážit trestní oznámení (§ 227, § 222 TZ) a dodatečný soupis.
+[3] **Podpisy a vyhrazení soudci.** Protokol podepisují soudce, zapisovatel a předvolaný. Úkony insolvenčního soudu podle odstavce 1 může učinit pouze soudce; zákonný text proto nedovoluje přenést jejich provedení na jinou soudní osobu.
 
-**Typicky rozhodné důkazy / podklady:** předvolání s doručenkou do vlastních rukou, protokol o prohlášení a podepsaný seznam majetku, bankovní výpisy a výpisy z registrů odhalující zatajený majetek, výpis z obchodního rejstříku.
+[4] **Účast správce a výboru.** Insolvenční soud vyrozumí o výslechu insolvenčního správce a věřitelský výbor. Oba mají právo klást předvolanému otázky a oběma se doručuje opis protokolu.
+
+[5] **Rozhraničení sousedních ustanovení.** § 216 je třeba číst společně s § 214 a 215, ale nezaměňovat jejich funkce: § 214 upravuje předvolání a poučení, § 215 obsah prohlášení a § 216 protokolaci, účast dalších subjektů a doručení opisu.
+
+[6] **Časová působnost.** Výklad odpovídá znění účinnému k 19. 7. 2026. Pro úkon provedený v jiné době je nutné ověřit tehdy účinnou procesní úpravu; původní důvodová zpráva dokládá legislativní záměr z doby přijetí zákona.
+
+### Judikatura
+
+Pro materiální závěry této revize nebylo použito žádné soudní rozhodnutí. Původní anonymní „nosný závěr“ a kategorické trestněprávní subsumpce byly odstraněny, protože nebyly spojeny s ověřeným plným textem konkrétního rozhodnutí. Tím se netvrdí, že relevantní judikatura neexistuje.
 
 ---
 

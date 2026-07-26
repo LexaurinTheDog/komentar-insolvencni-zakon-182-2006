@@ -1281,7 +1281,11 @@ Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; zpracován
 
 ## § 226 — Vynětí na návrh dlužníka
 
-> (1) **Dlužník** může uplatnit vynětí majetku z majetkové podstaty jen tehdy, jde-li o věc, právo, pohledávku nebo jinou majetkovou hodnotu, která do majetkové podstaty nepatří podle § 207 a 208; učiní tak vůči insolvenčnímu správci bez zbytečného odkladu poté, co se dozvěděl nebo při náležité pečlivosti měl dozvědět, že došlo k zahrnutí takové věci, práva, pohledávky nebo jiné majetkové hodnoty do soupisu.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Dlužník může uplatnit vynětí majetku z majetkové podstaty jen tehdy, jde-li o věc, právo, pohledávku nebo jinou majetkovou hodnotu, která do majetkové podstaty nepatří podle § 207 a 208; učiní tak vůči insolvenčnímu správci bez zbytečného odkladu poté, co se dozvěděl nebo při náležité pečlivosti měl dozvědět, že došlo k zahrnutí takové věci, práva, pohledávky nebo jiné majetkové hodnoty do soupisu.
 >
 > (2) V návrhu podle odstavce 1 musí dlužník kromě obecných náležitostí podání označit věc, právo, pohledávku nebo jinou majetkovou hodnotu, o jejíž vynětí ze soupisu žádá, a uvést skutečnosti, ze kterých vyplývá, že tento majetek neměl být sepsán. Je-li návrh neúplný nebo vadný a nelze-li jej pro tyto nedostatky projednat a rozhodnout o něm, vyzve insolvenční správce dlužníka, aby jej opravil nebo doplnil. K opravě nebo doplnění návrhu určí přiměřenou lhůtu a dlužníka poučí, jak je nutné opravu nebo doplnění provést. Poučí jej rovněž, že návrh, který nebude přes výzvu řádně opraven nebo doplněn, insolvenční soud odmítne.
 >
@@ -1291,60 +1295,59 @@ Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; zpracován
 >
 > (5) O návrhu podle odstavce 1 rozhoduje insolvenční soud v rámci své dohlédací činnosti. Rozhodnutí, proti kterému je odvolání přípustné, se doručuje dlužníku, insolvenčnímu správci a věřitelskému výboru. V době od podání tohoto návrhu do rozhodnutí o něm nesmí insolvenční správce zpeněžit majetek, jehož se návrh týká; § 225 odst. 4 a 5 platí obdobně.
 
-### Výklad — **DLUŽNÍKOVA OBRANA**
+### Přehled výkladu
 
-*Speciální nástroj dlužníka* — *odlišný od vylučovací žaloby* třetích osob. Dlužník namítá, že **majetek nepatří do podstaty podle § 207 nebo § 208** (typicky věci osobní potřeby, vyloučené minimum, účelově vázaný majetek).
+§ 226 dává dlužníku zvláštní vnitroinsolvenční prostředek pro odstranění položky ze soupisu, avšak pouze z důvodů vymezených v § 207 nebo § 208. Návrh se uplatňuje vůči insolvenčnímu správci; o nevyřešeném návrhu rozhoduje insolvenční soud v rámci dohlédací činnosti. Nejde o vylučovací žalobu podle § 225. Od podání návrhu do rozhodnutí platí zákonná ochrana před zpeněžením s obdobným použitím § 225 odst. 4 a 5.
 
-#### Procesní rámec
+### Souvisící ustanovení
 
-- *bez zbytečného odkladu* od zjištění,
-- *vůči správci* (ne soudu),
-- *vady* — výzva k opravě,
-- *vyjádření věřitelského výboru*,
-- *rozhodnutí v dohlédací činnosti* soudu,
-- *zákaz zpeněžení* během řízení (§ 225 odst. 4 a 5 obdobně).
+- **§ 7 a § 11** — přiměřené použití občanského soudního řádu a dohlédací činnost insolvenčního soudu.
+- **§ 207** — majetek nepostižitelný výkonem rozhodnutí nebo exekucí a postižitelný rozsah příjmů.
+- **§ 208** — majetek, s nímž lze podle zvláštního právního předpisu naložit pouze určeným způsobem.
+- **§ 217 odst. 2, § 225 odst. 4 a 5** — oprava soupisu správcem a ochrana sepsaného majetku před zpeněžením nebo jiným nakládáním.
 
-### Vazby
+### Souvisící předpisy
 
-- **§ 207, § 208** — vyloučený majetek.
-- **§ 225** — vylučovací žaloba pro třetí osoby.
+- **Zákon č. 99/1963 Sb., občanský soudní řád, zejména § 41 až 43, § 321 a § 322** — obecné náležitosti a posuzování podání; věci nepodléhající výkonu rozhodnutí.
+- **Zvláštní právní předpis zakládající účelové omezení dispozice** — jeho konkrétní ustanovení musí být u důvodu podle § 208 v návrhu určeno a doloženo; samotné smluvní či faktické označení účelu nestačí.
 
-### F. Kazuistika
+### Z důvodové zprávy
 
-**1. Modelová situace.** Dlužník (FO v konkursu) zjistí, že správce zapsal do soupisu jeho invalidní vozík a zdravotní pomůcky (nezbytné minimum dle § 207) a dále nevyčerpanou účelovou dotaci (§ 208). Dlužník chce dosáhnout jejich vynětí z podstaty. Místo aby podal vylučovací žalobu, doručí správci bez zbytečného odkladu návrh na vynětí, v němž věci označí a uvede, proč neměly být sepsány. Účastníci: dlužník, správce, věřitelský výbor, insolvenční soud. Důkazy: soupis, doklady o povaze pomůcek, rozhodnutí o poskytnutí dotace, návrh na vynětí.
+Vládní návrh insolvenčního zákona označil § 226 za nový prostředek dlužníka pro případ, kdy byla do soupisu pojata hodnota nepostižitelná výkonem rozhodnutí (§ 207) nebo vyloučená pro zákonné účelové určení (§ 208). Výslovně jej odlišil od excindační žaloby a od vynětí z důvodů vhodnosti podle § 227. Jde o historické vysvětlení původní koncepce; rozhodný obsah určuje aktuální znění zákona. (Sněmovní tisk 1120/0, zvláštní část „K § 226 a 227“, číslovaná s. 204, PDF s. 205.)
 
-**2. Právní otázka.** Jaký nástroj má dlužník (na rozdíl od třetích osob) k vynětí majetku, který do podstaty nepatří podle § 207 a § 208, a jak probíhá řízení?
+### Literatura
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 226 odst. 1 (dlužník může uplatnit vynětí jen u majetku nepatřícího do podstaty podle § 207 a § 208, vůči správci, bez zbytečného odkladu po zjištění); odst. 2 (náležitosti návrhu, výzva k opravě/doplnění); odst. 3–4 (postup správce, vyjádření věřitelského výboru, předložení soudu); odst. 5 (rozhoduje soud v dohlédací činnosti; zákaz zpeněžení po dobu řízení — § 225 odst. 4 a 5 obdobně).
-- *Související ustanovení téhož zákona:* § 207, § 208 (vyloučený/účelově vázaný majetek); § 225 (vylučovací žaloba třetích osob — jiný režim); § 11 (dohlédací činnost).
-- *Související předpisy:* nař. vl. č. 595/2006 Sb. (nezabavitelné částky); rozpočtová pravidla (dotace).
-- *Judikatura:* nosný závěr, že nástroj dlužníka dle § 226 je svébytný a odlišný od vylučovací žaloby; je omezen na důvody § 207 a § 208.
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tato poznámka není závěrem o neexistenci relevantní literatury ani výsledkem negativní rešerše.
 
-**4. Subsumpce.** Invalidní vozík a zdravotní pomůcky = nezabavitelné minimum (§ 207) → spadají pod důvod vynětí dle § 226. Dotace = účelově vázaný majetek (§ 208) → rovněž důvod vynětí. Návrh dlužník podal vůči správci, bez zbytečného odkladu, s označením věcí a uvedením důvodů → naplňuje § 226 odst. 1–2.
+### Výklad
 
-**5. Řešení.** Správce posoudí návrh; je-li důvodný, věci vyřadí. Nesouhlasí-li, vyžádá vyjádření věřitelského výboru a předloží návrh soudu se zprávou o důvodech nevyloučení; dlužník se může k důvodům vyjádřit. O návrhu rozhodne soud v dohlédací činnosti; rozhodnutí s přípustným odvoláním se doručuje dlužníku, správci a výboru. Po dobu řízení nesmí správce dotčený majetek zpeněžit (§ 225 odst. 4 a 5 obdobně). Procesně: při vadách výzva k opravě.
+[1] **Omezený věcný rozsah.** Návrh může podat jen dlužník a pouze tehdy, tvrdí-li, že konkrétní sepsaná hodnota do podstaty nepatří podle § 207 nebo § 208. § 226 není obecnou cestou k řešení každého sporu o soupis ani prostředkem třetí osoby k prosazení vlastního práva.
 
-**6. Varianty.** (a) Kdyby dlužník namítal vynětí věci, která do podstaty patří (běžný hodnotný majetek), § 226 by se neuplatnil — nejde o důvody § 207/§ 208. (b) Kdyby návrh podala třetí osoba (vlastník), správný nástroj by byla vylučovací žaloba dle § 225, nikoli návrh dle § 226.
+[2] **Včasnost a adresát.** Dlužník jedná vůči insolvenčnímu správci bez zbytečného odkladu od chvíle, kdy se o zahrnutí majetku do soupisu dozvěděl nebo při náležité pečlivosti měl dozvědět. Zákon neurčuje pevný počet dnů. Pro posouzení jsou proto významné okolnosti seznámení se soupisem i následný postup dlužníka.
 
-### G. Protiargumenty a rizika
+[3] **Obsah návrhu.** Vedle obecných náležitostí podání musí být majetek určitě označen a musí být popsány skutečnosti zakládající důvod podle § 207 nebo § 208. U § 207 je třeba uvést konkrétní pravidlo nepostižitelnosti a rozhodné vlastnosti majetku; u § 208 konkrétní zvláštní právní předpis a omezený způsob, kterým lze s majetkem naložit.
 
-- *Protiargument (správce):* „Dlužník měl podat vylučovací žalobu jako každý jiný." Neutralizace: dlužník má vlastní nástroj — návrh na vynětí dle § 226 (vůči správci, rozhoduje soud v dohlédací činnosti), nikoli incidenční žalobu.
-- *Protiargument:* „Návrh je opožděný." Neutralizace: lhůta je „bez zbytečného odkladu" od okamžiku, kdy se dlužník o zařazení dozvěděl nebo měl dozvědět; je-li podán neprodleně po zjištění, námitka opožděnosti neobstojí (posuzuje soud).
-- *Slabé místo:* § 226 je omezen jen na důvody § 207 a § 208 — jiné důvody (např. sporné vlastnictví) jím uplatnit nelze; o vynětí rozhoduje soud v dohlédací činnosti, což může vést k odlišnému procesnímu zacházení než u incidenčního sporu.
+[4] **Odstraňování vad.** První výzvu k opravě nebo doplnění činí správce, stanoví přiměřenou lhůtu a poskytne zákonné poučení. Neodstraněné vady, neúplnost nebo správcův závěr o opožděnosti vedou k předložení návrhu se zprávou soudu. Soud může výzvu zopakovat nebo vydat novou; odmítnutí návrhu je následkem až soudního rozhodnutí za podmínek odstavce 2.
 
-### H. Praktický závěr
+[5] **Věcné projednání.** Nejde-li o postup podle odstavce 3, správce vyžádá ve stanovené lhůtě vyjádření věřitelského výboru. Dospěje-li po jejím uplynutí k závěru, že návrhu nelze vyhovět, předloží návrh, případné vyjádření výboru a svou odůvodněnou zprávu soudu. Dlužník má právo na tyto důvody reagovat.
 
-Vynětí na návrh dlužníka (§ 226) je obrana dlužníka omezená na majetek, který do podstaty nepatří podle § 207 (vyloučené minimum) a § 208 (účelově vázaný majetek). Návrh se podává vůči správci bez zbytečného odkladu; rozhoduje soud v dohlédací činnosti a po dobu řízení platí zákaz zpeněžení.
+[6] **Rozhodnutí a ochrana majetku.** Soud rozhoduje v rámci dohlédací činnosti. Z věty o doručování nelze dovodit, že odvolání je přípustné proti každému rozhodnutí podle § 226; ustanovení upravuje okruh adresátů právě pro rozhodnutí, proti němuž odvolání přípustné je. Od podání návrhu do rozhodnutí správce nesmí dotčený majetek zpeněžit. Obdobné použití § 225 odst. 4 a 5 zahrnuje zákonné výjimky a ochranné podmínky těchto ustanovení, nikoli přeměnu návrhu v incidenční spor.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověřit, že důvodem je výlučně § 207 nebo § 208 (jinak § 226 nelze použít).
-- [ ] Podat návrh vůči správci bez zbytečného odkladu po zjištění zařazení do soupisu.
-- [ ] V návrhu označit věc a uvést skutečnosti, proč neměla být sepsána; reagovat na výzvu k doplnění.
-- [ ] Počítat se zákazem zpeněžení dotčeného majetku po dobu řízení (§ 225 odst. 4 a 5 obdobně).
-- [ ] Sledovat rozhodnutí soudu v dohlédací činnosti a přípustnost odvolání.
+[7] **§ 208 není obecná kategorie „účelových peněz“.** Rozhodující je zvláštní právní předpis, který dovoluje s majetkem naložit pouze stanoveným způsobem. Nejvyšší správní soud proto odmítl vyjmout podle § 208 částku vymoženou na základě daňového zajišťovacího příkazu: samotná účelová vázanost tvrzená správcem daně nestačila a použitý daňový režim nezakládal požadované insolvenční privilegium. Tento závěr brání paušálnímu podřazení každé dotace, zálohy nebo smluvně určených prostředků pod § 208.
 
-**Typicky rozhodné důkazy / podklady:** soupis a doklad o zařazení věci, doklady o povaze majetku (zdravotní pomůcky, nezabavitelné věci, účelová dotace), návrh na vynětí, vyjádření věřitelského výboru a zpráva správce.
+[8] **Intertemporalita.** U starších soupisů a návrhů je nutno ověřit tehdy účinné znění § 207, § 208, § 225 a § 226 i zvláštního předpisu, z něhož má vyloučení plynout. Původní důvodová zpráva ani pozdější rozhodnutí sama nenahrazují tuto kontrolu.
+
+### Praktický checklist
+
+- [ ] Určit přesnou položku soupisu a doložit, kdy se o ní dlužník dozvěděl nebo měl dozvědět.
+- [ ] Zvolit a konkrétně odůvodnit právě § 207 nebo § 208; u § 208 označit ustanovení zvláštního právního předpisu o omezení dispozice.
+- [ ] Podat návrh vůči insolvenčnímu správci bez zbytečného odkladu a splnit obecné i zvláštní náležitosti.
+- [ ] Včas reagovat na výzvu k opravě či doplnění a sledovat zprávu správce i vyjádření věřitelského výboru.
+- [ ] Po dobu od podání návrhu do rozhodnutí respektovat ochranný režim § 226 odst. 5 ve spojení s § 225 odst. 4 a 5.
+
+### Judikatura
+
+- **NSS, rozsudek ze dne 7. 9. 2023, č. j. 2 Afs 256/2022-50 (v originálu listové označení 2 Afs 256/2022-52), body 1–6 a 15–24.** Insolvenční správce požadoval vydání částky vymožené správcem daně před úpadkem na základě zajišťovacích příkazů; po rozhodnutí o úpadku ji správce daně převedl na úhradu později stanovené daně. NSS kasační stížnost správce daně zamítl. Pro § 226 je rozhodnutí relevantní nepřímo přes vymezení důvodu podle § 208: toto ustanovení je třeba vykládat restriktivně a tvrzená účelová vázanost bez odpovídajícího zvláštního zákonného režimu nepostačuje k vyloučení majetku z podstaty. Rozhodnutí neposuzovalo procesní postup podle § 226 ani obecně všechny dotace.
 
 ---
 

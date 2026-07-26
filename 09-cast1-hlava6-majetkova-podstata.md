@@ -316,66 +316,69 @@ Do tohoto kola nebylo zařazeno rozhodnutí, jehož ověřený plný text by byl
 
 ---
 
-## § 210 — § 212 — Součinnost dlužníka
+## § 210 — Součinnost dlužníka
 
-### F. Kazuistika
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**1. Modelová situace.** Dlužníkem je obchodní společnost v úpadku, jejíž účetnictví je vedeno výhradně v cloudovém systému, k němuž má přístupové údaje pouze externí účetní (nikoli statutární orgán). Jednatel tvrdí, že přístupy nemá a součinnost poskytnout nemůže; současně mlčí o sídle, kde je uskladněno zboží. Správce nedosáhne úplného zjištění podstaty a zvažuje, jaké nástroje (od pokynů přes prohlídku po pořádkovou pokutu) má k dispozici. Účastníci: dlužník (PO), jednatel, externí účetní, správce, insolvenční soud. Důkazy: smlouva s účetní, korespondence o výzvách k součinnosti, výpis ze sídla.
+### Znění ustanovení
 
-**2. Právní otázka.** Jaký je rozsah „všestranné součinnosti" dlužníka při zjišťování podstaty a které osoby (vedle statutárního orgánu) jsou jejími nositeli, dohledá-li se majetek jen přes ně?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 210 — § 212 jako celek — dlužník poskytuje všestrannou součinnost (§ 210), správce postupuje při zjišťování ze seznamu majetku a vlastním šetřením (§ 211) a v krajním případě užije insolvenční prohlídku (§ 212).
-- *Související ustanovení téhož zákona:* § 209 (zjišťovací oprávnění správce nezávislé na dispozicích); § 104 (seznam majetku); § 43 (součinnost orgánů a třetích osob); § 81 (pořádková pokuta); § 214 odst. 2 (předvedení).
-- *Související předpisy:* § 227 TZ (porušení povinnosti učinit pravdivé prohlášení o majetku); § 222–223 TZ (poškození/zvýhodnění věřitele).
-- *Judikatura:* nosný závěr, že povinnost součinnosti směřuje k ochraně majetkové podstaty před jejím rozplynutím a dopadá i na osoby fakticky disponující informacemi a přístupy v rozsahu jejich oprávnění jednat za dlužníka.
-
-**4. Subsumpce.** Cloudové účetnictví je informací nezbytnou ke zjištění podstaty → spadá pod „všestrannou součinnost" (§ 210 odst. 1). Statutární orgán nese povinnost i tehdy, jsou-li přístupy fakticky u třetí osoby — musí je obstarat nebo zařídit jejich vydání; externí účetní je povinna v rozsahu oprávnění jednat za PO (§ 210 odst. 3 ve spojení s § 43). Zjišťování probíhá ze seznamu i vlastním šetřením (§ 211); skryté zboží v sídle je důvodem pro prohlídku (§ 212).
-
-**5. Řešení.** Správce vyzve jednatele i účetní k vydání přístupů a informací; při odporu navrhne soudu pořádkovou pokutu (§ 81), předvolání k prohlášení o majetku s možností předvedení (§ 214) a nařízení prohlídky sídla (§ 212). Procesně: žádosti o součinnost dle § 43, návrhy soudu, protokol o prohlídce; trvalé zatajování zakládá trestní odpovědnost (§ 227 TZ).
-
-**6. Varianty.** (a) Kdyby dlužník byl FO bez způsobilosti, povinnosti by nesli zákonní zástupci (§ 210 odst. 4). (b) Kdyby majetek byl plně zachycen v seznamu (§ 104) a doložen, prohlídka ani sankce by nebyly namístě — postačila by kooperativní součinnost.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument (dlužník):* „Přístupy k účetnictví nemám, nemohu nic poskytnout." Neutralizace: povinnost součinnosti zahrnuje i obstarání přístupů od třetích osob; statutární orgán nemůže odpovědnost přenést na externí účetní a tím se vyvázat.
-- *Protiargument:* „Součinnost po mně nelze vynutit, pokuta mě neodradí." Neutralizace: vedle pořádkové pokuty (§ 81) lze nasadit předvedení (§ 214), prohlídku (§ 212) a trestní oznámení (§ 227 TZ) — soubor nástrojů zvyšuje účinnost.
-- *Slabé místo:* faktická vynutitelnost je omezená a trestní postih vyžaduje prokázání úmyslu; hranice mezi pouhým zjišťováním a nakládáním (např. inkaso) musí být respektována.
-
-### H. Praktický závěr
-
-Skupina § 210 — § 212 tvoří nástrojový rámec zjišťování podstaty: dlužník (u PO statutární orgány a jejich členové, společníci, zaměstnanci a členové v rozsahu oprávnění jednat, u FO i zákonní zástupci) poskytuje všestrannou součinnost; správce dohledává majetek ze seznamu i vlastním šetřením a v krajním případě užije insolvenční prohlídku. Nesoučinnost se sankcionuje pořádkovou pokutou, předvedením a trestní odpovědností.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Identifikovat všechny nositele povinnosti součinnosti (statutární orgán, společníci, zaměstnanci, zákonní zástupci) a vyzvat je.
-- [ ] Vyžádat účetnictví, přístupy, klíče a informace; obstarání od třetích osob jde k tíži dlužníka.
-- [ ] Při zjišťování vyjít ze seznamu majetku (§ 104) a doplnit vlastním šetřením (§ 43).
-- [ ] Při odporu eskalovat: pořádková pokuta (§ 81) → předvedení (§ 214) → prohlídka (§ 212).
-- [ ] Při zatajování zvážit trestní oznámení (§ 227, § 222 TZ).
-
-**Typicky rozhodné důkazy / podklady:** seznam majetku, korespondence dokládající výzvy a odepření součinnosti, smlouvy o vedení účetnictví/přístupech, protokoly o prohlídce, žádosti a odpovědi v rámci součinnosti (§ 43).
-
-### § 210 — Součinnost dlužníka
-
-> (1) Dlužník je povinen poskytnout insolvenčnímu správci nebo předběžnému správci při zjišťování majetkové podstaty **všestrannou součinnost**, zejména dbát pokynů insolvenčního správce nebo předběžného správce.
-> (2) Je-li dlužníkem právnická osoba, mají povinnosti podle odstavce 1 její **statutární orgány** a jejich členové nebo likvidátor, jde-li o právnickou osobu v likvidaci. Jestliže postavení statutárního orgánu má více osob oprávněných jednat samostatně, lze splnění těchto povinností požadovat od kterékoli z nich. Uvedené osoby mají tuto povinnost i v případě, že jejich postavení **zaniklo v posledních 3 měsících před zahájením insolvenčního řízení**.
+> (1) Dlužník je povinen poskytnout insolvenčnímu správci nebo předběžnému správci při zjišťování majetkové podstaty všestrannou součinnost, zejména dbát pokynů insolvenčního správce nebo předběžného správce.
+>
+> (2) Je-li dlužníkem právnická osoba, mají povinnosti podle odstavce 1 její statutární orgány a jejich členové nebo likvidátor, jde-li o právnickou osobu v likvidaci. Jestliže postavení statutárního orgánu má více osob oprávněných jednat samostatně, lze splnění těchto povinností požadovat od kterékoli z nich. Uvedené osoby mají tuto povinnost i v případě, že jejich postavení zaniklo v posledních 3 měsících před zahájením insolvenčního řízení.
 >
 > (3) Insolvenční soud může vyžadovat splnění povinností podle odstavců 1 a 2 také od osob, které jsou společníky, zaměstnanci nebo členy právnické osoby, a to v rozsahu jejich oprávnění jednat za právnickou osobu.
 >
 > (4) Je-li dlužníkem fyzická osoba, mají povinnosti podle odstavců 1 a 2 i její zákonní zástupci; má-li fyzická osoba více zákonných zástupců oprávněných jednat jejím jménem samostatně, může insolvenční soud vyžadovat splnění těchto povinností od každého z nich.
+>
+
+### Přehled výkladu
+
+§ 210 ukládá dlužníku součinnost při zjišťování majetkové podstaty a určuje osoby, na něž povinnost dopadá u právnické a fyzické osoby. Odlišuje osoby povinné přímo ze zákona od společníků, zaměstnanců a členů právnické osoby, po nichž může splnění vyžadovat insolvenční soud pouze v rozsahu jejich oprávnění jednat za právnickou osobu. Ustanovení samo nestanoví uzavřený seznam jednotlivých úkonů součinnosti ani automatický sankční následek každého nesplněného požadavku.
+
+### Souvisící ustanovení
+
+- § 43 a § 44 — součinnost orgánů a dalších osob se správcem,
+- § 81 — pořádková pokuta podle podmínek tohoto ustanovení,
+- § 104 — seznamy předkládané dlužníkem,
+- § 209 — nositel a rámec zjišťování majetkové podstaty,
+- § 211 odst. 3 — oznámení soudu a návrh opatření, nebyla-li poskytnuta požadovaná součinnost,
+- § 212 — přístup na místa s majetkem a soudem nařízená prohlídka,
+- § 214 až § 216 — výslech a prohlášení o majetku,
+- § 221 — prohlášení dlužníka o správnosti soupisu.
+
+### Souvisící předpisy
+
+- § 53 zákona č. 99/1963 Sb., občanský soudní řád — obecné pořádkové opatření; jeho subsidiární použití v insolvenčním řízení se posuzuje podle § 7 insolvenčního zákona a s ohledem na zvláštní § 81 insolvenčního zákona.
+
+### Z důvodové zprávy
+
+Oficiální důvodová zpráva k vládnímu návrhu insolvenčního zákona pojednává § 209 až § 216 společně. Uvádí, že zjišťování majetkové podstaty je upraveno komplexně, včetně jednotlivých způsobů a metod, subjektů, které je provádějí, a jejich oprávnění. Podrobnější samostatné vysvětlení osobního rozsahu § 210 nepodává. (Poslanecká sněmovna, IV. volební období, tisk 1120/0, zvláštní část „K § 209 až 216“, číslovaná strana 203, PDF strana 203.)
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tato poznámka není výsledkem negativní rešerše.
 
 ### Výklad
 
-**„Všestranná součinnost"** — dlužník musí poskytovat *vše*, co potřebuje správce:
-- *informace, dokumenty, klíče*,
-- *přístupy k systémům*,
-- *odpovědi na otázky*.
+[1] **Účel a adresát základní povinnosti.** Povinnost podle odstavce 1 náleží dlužníku a vztahuje se na zjišťování majetkové podstaty insolvenčním nebo předběžným správcem. Slovo „zejména“ činí dbaní pokynů příkladem, nikoli úplným vymezením součinnosti. Konkrétní požadavek však musí mít vazbu na zjišťování majetkové podstaty; z § 210 nelze bez dalšího dovozovat neomezenou povinnost plnit jakýkoli pokyn správce.
 
-**Rozšířená působnost na statutární orgány PO** — i *bývalí* statutáři (do 3 měsíců před zahájením). Cíl: zabránit „rychlému odstoupení" před úpadkem.
+[2] **Právnická osoba.** Je-li dlužníkem právnická osoba, zákon přenáší povinnosti podle odstavce 1 na její statutární orgány a jejich členy, popřípadě na likvidátora právnické osoby v likvidaci. Má-li postavení statutárního orgánu více osob oprávněných jednat samostatně, lze splnění požadovat od kterékoli z nich.
 
-**Společníci, zaměstnanci, členové** — v rozsahu jejich oprávnění jednat.
+[3] **Bývalé osoby.** Povinnost podle odstavce 2 trvá také osobám, jejichž uvedené postavení zaniklo v posledních třech měsících před zahájením insolvenčního řízení. Rozhodné je zákonné tříměsíční období vztažené k zahájení řízení; § 210 nestanoví obecnou povinnost každému dřívějšímu členu orgánu bez ohledu na dobu zániku funkce.
 
-**Sankce** za nesoučinnost: § 81 (pořádková pokuta), § 215 (TZ — maření výkonu úředního rozhodnutí), případně předvolání + předvedení (§ 214 odst. 2).
+[4] **Další osoby právnické osoby.** Společníci, zaměstnanci a členové nejsou v odstavci 3 postaveni bez dalšího na roveň osobám podle odstavce 2. Splnění od nich může vyžadovat insolvenční soud a jen v rozsahu jejich oprávnění jednat za právnickou osobu. Samotné držení informace nebo technického přístupu proto ještě neprokazuje vznik povinnosti podle odstavce 3; musí být splněny jeho osobní, procesní i rozsahové podmínky.
+
+[5] **Fyzická osoba.** U dlužníka, který je fyzickou osobou, mají povinnosti podle odstavců 1 a 2 také jeho zákonní zástupci. Je-li více zákonných zástupců oprávněných jednat samostatně, může soud vyžadovat splnění od každého z nich. Text odstavce 4 se týká zákonných zástupců; nelze jej bez dalšího rozšiřovat na každého smluvního zmocněnce.
+
+[6] **Nesoučinnost a další postup.** § 210 sám neurčuje automatickou posloupnost sankcí. Nedosáhne-li správce úplného zjištění podstaty proto, že požadovaná součinnost nebyla poskytnuta, § 211 odst. 3 mu ukládá věc oznámit soudu a navrhnout příslušné opatření. Podmínky konkrétních nástrojů se posuzují samostatně, zejména podle § 81, § 212 a § 214 až § 216.
+
+[7] **Intertemporální omezení.** Výklad vychází ze znění účinného k 19. 7. 2026. Původní důvodová zpráva objasňuje pouze celkové systematické pojetí zjišťování majetkové podstaty; pro dřívější skutkové a procesní děje je třeba ověřit tehdy účinné znění a přechodná ustanovení případné novely.
+
+[8] **Praktická kontrola — autorský postup.** U požadavku na součinnost je vhodné zaznamenat, kdo jej činí a vůči komu, jaká informace nebo činnost je požadována, jak souvisí se zjišťováním majetkové podstaty, o který odstavec § 210 se osobní povinnost opírá a zda je u odstavců 3 nebo 4 nutný úkon soudu. Takový záznam usnadňuje volbu následného opatření a kontrolu přiměřenosti.
+
+### Judikatura
+
+Původní text obsahoval anonymní „nosné závěry“ bez identifikace rozhodnutí a bez ověřeného plného textu. Tyto závěry nebyly převzaty. Materiální výklad této jednotky se proto neopírá o konkrétní soudní rozhodnutí.
 
 ### § 211 — Postup zjišťování
 

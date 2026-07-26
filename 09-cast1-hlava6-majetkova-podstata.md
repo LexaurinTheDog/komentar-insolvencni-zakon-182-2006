@@ -558,52 +558,66 @@ Pro tuto revizi nebylo použito žádné soudní rozhodnutí jako opora materiá
 
 ---
 
-## § 214 — § 216 — Prohlášení o majetku
+## § 214 — Předvolání
 
-### F. Kazuistika
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**1. Modelová situace.** Správce a věřitelský výbor mají indicie, že dlužník (FO) zatajuje majetek; navrhnou soudu předvolání k prohlášení o majetku. Soud dlužníka předvolá do vlastních rukou s dostatečným předstihem a poučí jej o následcích. Při výslechu, který vede soudce a o němž se pořizuje protokol, dlužník opomene uvést podíl ve společnosti a účet u družstevní záložny. Účastníci: dlužník, správce, věřitelský výbor, soudce, zapisovatel. Důkazy: návrh na předvolání, předvolání s doručenkou, protokol o prohlášení a podepsaný seznam majetku, později získané výpisy.
+### Znění ustanovení
 
-**2. Právní otázka.** Jaký je institut prohlášení o majetku jako celek — od předvolání (§ 214) přes obligatorní obsah (§ 215) po protokol (§ 216) — a jaké důsledky má neúplné prohlášení?
+> (1) Insolvenční soud může na návrh insolvenčního správce nebo věřitelského výboru předvolat dlužníka nebo osoby jednající za dlužníka k výslechu a vyzvat je k prohlášení o majetku. Předvolání k prohlášení o majetku musí obsahovat účel výslechu a poučení o následcích odmítnutí prohlášení nebo uvedení nepravdivých, neúplných nebo hrubě zkreslujících údajů. Předvolání se doručuje předvolanému do vlastních rukou, a to nejméně 10 dnů před výslechem.
+>
+> (2) Předvolaný je povinen dostavit se k insolvenčnímu soudu osobně. Jestliže se nedostaví bez včasné a důvodné omluvy, bude předveden; o tom musí být předvolaný poučen.
+>
+> (3) Před zahájením výslechu zopakuje insolvenční soud poučení podle odstavce 1. V prohlášení o majetku musí předvolaný uvést, který majetek náleží do majetkové podstaty.
+>
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 214 — § 216 jako celek — soud na návrh správce/věřitelského výboru předvolá dlužníka k prohlášení o majetku (§ 214), prohlášení má taxativní obsah (§ 215) a sepisuje se o něm protokol, jehož úkony činí jen soudce (§ 216).
-- *Související ustanovení téhož zákona:* § 210 (součinnost dlužníka); § 81 (pořádková pokuta); § 104 (seznam majetku).
-- *Související předpisy:* § 260a a násl. OSŘ (analogický institut prohlášení o majetku v exekuci); § 227 TZ (nepravdivé/neúplné prohlášení o majetku); § 222 TZ (poškození věřitele).
-- *Judikatura:* nosný závěr, že prohlášení o majetku je kvalifikovaným úkonem pod trestní sankcí; jeho neúplnost či nepravdivost zakládá trestní odpovědnost a nezbavuje správce možnosti zjištěný majetek dodatečně sepsat.
+### Přehled výkladu
 
-**4. Subsumpce.** Návrh správce/výboru a předvolání do vlastních rukou s poučením naplňují § 214; podíl ve společnosti a účet patří mezi taxativní položky § 215 (písm. b, h) → jejich opomenutí činí prohlášení neúplným. Vedení úkonů soudcem a protokol odpovídají § 216. Neúplné prohlášení naplňuje skutkovou podstatu § 227 TZ.
+§ 214 upravuje zahájení soudní fáze prohlášení o majetku. Insolvenční soud může jednat jen na návrh insolvenčního správce nebo věřitelského výboru. Zákon určuje okruh předvolaných, povinný obsah, způsob a nejzazší čas doručení předvolání, osobní účast a následek neomluvené neúčasti. Před výslechem musí soud poučení zopakovat; vlastní obsah prohlášení dále konkretizuje § 215 a jeho protokolaci § 216.
 
-**5. Řešení.** Prohlášení proběhne procesně řádně, je-li dodržena lhůta a poučení (§ 214) a vede-li úkon soudce s protokolem (§ 216). Opomenutí podílu a účtu zakládá trestní odpovědnost (§ 227 TZ), případně v souběhu s § 222 TZ; zjištěný majetek správce dodatečně sepíše (§ 217). Při bezdůvodné neúčasti soud nařídí předvedení (§ 214). Procesně: správce a výbor mají právo klást otázky.
+### Souvisící ustanovení
 
-**6. Varianty.** (a) Kdyby prohlášení činil VSÚ namísto soudce, šlo by o vadu řízení (§ 216). (b) Kdyby dlužník bez omluvy nepřišel, soud by jej nechal předvést (§ 214) a zvážil pořádkovou pokutu (§ 81).
+- § 11 — dohlédací činnost insolvenčního soudu;
+- § 58 odst. 2 písm. c) — oprávnění věřitelského výboru podávat návrhy týkající se průběhu insolvenčního řízení;
+- § 206 — obsah majetkové podstaty;
+- § 209 až § 213 — zjišťování majetkové podstaty a součinnost;
+- § 215 — obsah prohlášení o majetku;
+- § 216 — protokol, opakované prohlášení o úplnosti a pravdivosti a účast správce a věřitelského výboru.
 
-### G. Protiargumenty a rizika
+### Souvisící předpisy
 
-- *Protiargument (dlužník):* „Na podíl a účet jsem zapomněl, nešlo o úmysl." Neutralizace: u významných aktiv je tvrzení o opomenutí obtížně udržitelné; úmysl dle § 227 TZ lze dovodit z povahy a rozsahu zatajeného majetku.
-- *Protiargument:* „Institut prohlášení je formalita bez reálného účinku." Neutralizace: prohlášení je posíleno trestní sankcí (§ 227 TZ), možností předvedení a navazujícím dodatečným soupisem — jde o účinný zjišťovací nástroj.
-- *Slabé místo:* prohlášení je účinné jen v rozsahu taxativně vymezených údajů (§ 215); aktiva mimo výčet jím nemusí být podchycena; prokázání úmyslu pro trestní postih může být náročné.
+- § 51 a § 52 zákona č. 99/1963 Sb., občanský soudní řád — obecné náležitosti předvolání a obecný režim předvedení;
+- § 260a až § 260h občanského soudního řádu — prohlášení o majetku v řízení o výkon rozhodnutí; jde o samostatný režim, nikoli o náhradu zvláštní úpravy § 214 až § 216 insolvenčního zákona.
 
-### H. Praktický závěr
+### Z důvodové zprávy
 
-Skupina § 214 — § 216 upravuje prohlášení o majetku jako kvalifikovaný zjišťovací nástroj: soud na návrh správce/věřitelského výboru předvolá dlužníka (§ 214), ten uvede taxativně vymezené údaje (§ 215) a o úkonu, který vede výhradně soudce, se pořídí protokol (§ 216). Institut je posílen možností předvedení a trestní sankcí za nepravdivé/neúplné prohlášení.
+Zvláštní část důvodové zprávy k vládnímu návrhu insolvenčního zákona pojednává § 209 až § 216 společně. Zjišťování majetkové podstaty označuje za komplexní úpravu jednotlivých způsobů, metod, provádějících subjektů a jejich oprávnění. K § 214 až § 216 výslovně uvádí, že samostatná insolvenční úprava prohlášení o majetku nahrazuje pro insolvenční řízení tehdejší úpravu § 260a až § 260k občanského soudního řádu. Jde o vysvětlení původního návrhu; aktuální obsah povinností je nutno určovat podle nyní účinného zákonného znění.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Návrh na předvolání podložit konkrétními indiciemi o zatajovaném majetku.
-- [ ] Zajistit doručení předvolání do vlastních rukou s poučením a dodržením lhůty (§ 214).
-- [ ] Pokrýt v prohlášení všechny taxativní položky § 215 (banky vč. družstevních záložen, podíly, pohledávky).
-- [ ] Vést úkon soudcem, pořídit protokol a podepsaný seznam (§ 216); využít právo klást otázky.
-- [ ] Při neúplném/nepravdivém prohlášení zvážit trestní oznámení (§ 227, § 222 TZ) a dodatečný soupis.
+### Literatura
 
-**Typicky rozhodné důkazy / podklady:** návrh na předvolání, předvolání s doručenkou do vlastních rukou, protokol o prohlášení a podepsaný seznam majetku, bankovní výpisy a výpisy z registrů odhalující zatajený majetek.
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento oddíl nepředstavuje negativní literární rešerši.
 
-### § 214 — Předvolání
+### Výklad
 
-Insolvenční soud může **předvolat dlužníka** (nebo osoby za něj jednající) k **prohlášení o majetku**:
-- na návrh správce nebo věřitelského výboru,
-- *poučení* o následcích odmítnutí / nepravdivosti údajů,
-- *předvolání do vlastních rukou*, minimálně **10 dnů** před výslechem,
-- *povinnost osobní účasti*, jinak **předvedení**.
+[1] **Návrhový podnět a uvážení soudu.** Insolvenční soud může postupovat na návrh insolvenčního správce nebo věřitelského výboru. Sloveso „může“ znamená, že podání návrhu samo bez dalšího nezakládá povinnost předvolání vydat; soud posoudí, zda je výslech a prohlášení o majetku v dané věci namístě. § 214 nepřiznává toto návrhové oprávnění jednotlivému věřiteli ani jednotlivému členu věřitelského výboru.
+
+[2] **Okruh předvolaných.** Předvolat lze dlužníka nebo osoby jednající za dlužníka. Kdo konkrétně za dlužníka jedná, je třeba určit podle jeho právní formy, procesního postavení a aktuálního oprávnění jednat; § 214 sám nevytváří obecné oprávnění předvolat libovolnou osobu spojenou s dlužníkem.
+
+[3] **Povinný obsah předvolání.** Předvolání musí uvést účel výslechu a poučit o následcích odmítnutí prohlášení i uvedení údajů nepravdivých, neúplných nebo hrubě zkreslujících. Samostatně musí obsahovat také poučení, že neomluvená osobní neúčast vede k předvedení. Poučení proto nelze redukovat jen na obecný odkaz na „zákonné následky“.
+
+[4] **Doručení a desetidenní minimum.** Předvolání se doručuje předvolanému do vlastních rukou nejméně 10 dnů před výslechem. Jde o zákonné minimum, nikoli o volnou orientační lhůtu. Při kontrole řádnosti úkonu je třeba ověřit obsah předvolání, způsob a okamžik doručení i datum výslechu.
+
+[5] **Osobní účast a předvedení.** Předvolaný se musí dostavit osobně. Předvedení navazuje jen na nedostavení bez včasné a důvodné omluvy a předvolaný o něm musí být předem poučen. Zda je omluva včasná a důvodná, se posuzuje podle konkrétních okolností; samotný § 214 nestanoví automatický následek pro každou absenci.
+
+[6] **Opakované poučení a rozsah prohlášení.** Před zahájením výslechu soud zopakuje poučení podle odstavce 1. Předvolaný musí uvést, který majetek náleží do majetkové podstaty; podrobný povinný obsah prohlášení stanoví § 215 a zachycení výslechu a prohlášení upravuje § 216. Jednotlivé fáze proto nelze zaměňovat: § 214 řeší předvolání, osobní účast a základní rámec výslechu, nikoli úplný katalog údajů ani protokolaci.
+
+[7] **Časová působnost.** Výklad odpovídá znění účinnému k 19. 7. 2026. U výslechu prováděného v jiné době je nutno ověřit tehdy účinné procesní znění; původní důvodová zpráva vysvětluje koncepci přijatého institutu, nikoli sama jeho pozdější účinné znění.
+
+### Judikatura
+
+Pro materiální závěry této revize nebylo použito žádné soudní rozhodnutí. Dosavadní obecné odkazy na blíže neurčený „nosný závěr“ byly odstraněny, protože nebyly spojeny s plným textem konkrétního oficiálního rozhodnutí a § 214 lze v rozsahu uvedeného výkladu vyložit z ověřeného zákonného textu a jeho systematických vazeb. Tím se netvrdí, že relevantní judikatura neexistuje.
+
+---
 
 ### § 215 — Obsah prohlášení
 

@@ -1583,114 +1583,72 @@ Do tohoto kola nebylo zařazeno žádné rozhodnutí. Dříve citované rozhodnu
 
 ## § 230 — Správa podstaty + pokyny zajištěného věřitele
 
-> (1) **Správou majetkové podstaty se rozumí** zejména činnost, jakož i právní úkony a opatření z ní vyplývající, pokud směřuje k tomu, aby
-> a) nedocházelo ke **znehodnocení** majetkové podstaty, zejména aby nedošlo k odstranění, zničení, poškození nebo odcizení majetku, který do ní náleží,
-> b) majetek náležející do majetkové podstaty byl **využíván v souladu se svým určením**, pokud tomu nebrání jiné okolnosti,
-> c) se majetková podstata **rozmnožila**, lze-li takovou činnost rozumně očekávat se zřetelem ke stavu majetkové podstaty a obvyklým obchodním příležitostem,
-> d) byly **vymoženy pohledávky** dlužníka včetně plnění z neplatných a neúčinných právních úkonů.
-> (2) Jde-li o správu věci, práva, pohledávky nebo jiné majetkové hodnoty, **která slouží k zajištění pohledávky, je osoba s dispozičními oprávněními vázána pokyny zajištěného věřitele** směřujícími k řádné správě; je-li zajištěných věřitelů více, uděluje tyto pokyny zajištěný věřitel, jehož pohledávka se uspokojuje ze zajištění jako první v pořadí. Jestliže zajištěný věřitel neudělí příslušné pokyny ani ve lhůtě určené insolvenčním soudem, má právo je udělit zajištěný věřitel, jehož pohledávka se uspokojuje ze zajištění jako další v pořadí; jinak pokyny udělí v rámci dohlédací činnosti insolvenční soud, který současně rozhodne o nákladech spojených s provedením jeho pokynu. Osoba s dispozičními oprávněními může odmítnout pokyny zajištěného věřitele, má-li za to, že nesměřují k řádné správě; v takovém případě požádá insolvenční soud o jejich přezkoumání v rámci dohlédací činnosti.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Správou majetkové podstaty se rozumí zejména činnost, jakož i právní úkony a opatření z ní vyplývající, pokud směřuje k tomu, aby
+> a) nedocházelo ke znehodnocení majetkové podstaty, zejména aby nedošlo k odstranění, zničení, poškození nebo odcizení majetku, který do ní náleží,
+> b) majetek náležející do majetkové podstaty byl využíván v souladu se svým určením, pokud tomu nebrání jiné okolnosti,
+> c) se majetková podstata rozmnožila, lze-li takovou činnost rozumně očekávat se zřetelem ke stavu majetkové podstaty a obvyklým obchodním příležitostem,
+> d) byly vymoženy pohledávky dlužníka včetně plnění z neplatných a neúčinných právních úkonů.
+> (2) Jde-li o správu věci, práva, pohledávky nebo jiné majetkové hodnoty, která slouží k zajištění pohledávky, je osoba s dispozičními oprávněními vázána pokyny zajištěného věřitele směřujícími k řádné správě; je-li zajištěných věřitelů více, uděluje tyto pokyny zajištěný věřitel, jehož pohledávka se uspokojuje ze zajištění jako první v pořadí. Jestliže zajištěný věřitel neudělí příslušné pokyny ani ve lhůtě určené insolvenčním soudem, má právo je udělit zajištěný věřitel, jehož pohledávka se uspokojuje ze zajištění jako další v pořadí; jinak pokyny udělí v rámci dohlédací činnosti insolvenční soud, který současně rozhodne o nákladech spojených s provedením jeho pokynu. Osoba s dispozičními oprávněními může odmítnout pokyny zajištěného věřitele, má-li za to, že nesměřují k řádné správě; v takovém případě požádá insolvenční soud o jejich přezkoumání v rámci dohlédací činnosti.
 > (3) Náklady spojené s provedením jeho pokynu podle odstavce 2 nese zajištěný věřitel ze svého.
 > (4) Není-li k pokynům zajištěného věřitele podle odstavce 2 připojen písemný souhlas ostatních zajištěných věřitelů, jejichž pohledávka se uspokojuje ze stejného zajištění, osoba s dispozičními oprávněními neprodleně vyrozumí insolvenční soud. Insolvenční soud v takovém případě nařídí do 30 dnů jednání, při kterém rozhodne o tom, zda pokyny zajištěného věřitele schvaluje. Při jednání lze projednat pouze námitky proti pokynům zajištěného věřitele, které ostatní zajištění věřitelé uplatní písemně u insolvenčního soudu nejpozději do 7 dnů ode dne zveřejnění těchto pokynů v insolvenčním rejstříku; k později podaným námitkám se nepřihlíží. K jednání předvolá insolvenční soud insolvenčního správce a dlužníka a zajištěné věřitele, kterým poskytne poučení o námitkách podle věty třetí.
 > (5) Proti rozhodnutí podle odstavce 4 není odvolání přípustné.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *NS* [29 NSCR 93/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2107EA0DE7F45F65C1257EF900416DFA?openDocument) — 26. 8. 2015, kat. A
-  > „Skutečnost, že dlužník je ve výkonu trestu odnětí svobody, nezakládá sama o sobě povinnost insolvenčního správce informovat takového dlužníka o svém postupu v insolvenčním řízení jinak (šířeji)než dlužníka, který zmíněným způsobem "omezen" není"
+Ustanovení vymezuje správu majetkové podstaty demonstrativním výčtem jejích cílů. U majetkové hodnoty sloužící k zajištění zároveň upravuje, kdo uděluje pokyny k řádné správě, jak se řeší nečinnost nebo spor o pokyn a kdo nese náklady spojené s jeho provedením.
 
-### Výklad — **POKYNY ZAJIŠTĚNÉHO VĚŘITELE: VELMI DŮLEŽITÉ**
+Je nutné odlišovat pokyn ke **správě** podle § 230 od pokynu ke **zpeněžení** podle § 293. Odlišný je zejména zákonný důvod, pro který může osoba s dispozičními oprávněními pokyn odmítnout.
 
-#### Cíle správy (odst. 1)
+### Souvisící ustanovení
 
-**Čtyři pilíře dobré správy**:
-- *zachování hodnoty* (anti-znehodnocení),
-- *účelové využití*,
-- *rozmnožení* (typicky generování příjmů z pronájmu nemovitostí, investice),
-- *vymáhání pohledávek* (vč. plnění z neúčinných úkonů).
+- § 11 — dohlédací činnost insolvenčního soudu.
+- § 36 a § 37 — odborná péče a odpovědnost insolvenčního správce; ve spojení s § 229 odst. 5 přiměřeně též povinnosti dlužníka s dispozičními oprávněními.
+- § 167 — pořadí a uspokojení zajištěných věřitelů.
+- § 229 — osoba s dispozičními oprávněními.
+- § 293 — pokyny zajištěného věřitele ke zpeněžení zajištění.
+- § 298 odst. 4 a 6 — náklady správy a vztah nesplněné povinnosti podle § 230 odst. 3 k vydání výtěžku.
 
-#### Pokyny zajištěného věřitele (odst. 2) — **CENTRÁLNÍ INSTITUT**
+### Souvisící předpisy
 
-**Zajištěný věřitel má právo udělovat pokyny správě své zástavy**. *Logika*: zástava je *jeho ekonomická zástavou*, jeho zájem je nejcennější.
+- Zákon č. 89/2012 Sb., občanský zákoník — vznik, rozsah, pořadí a účinky zajištění podle jeho druhu.
 
-#### Hierarchie pokynů
+### Z důvodové zprávy
 
-1. *Zajištěný věřitel s prvním pořadím*,
-2. *Pokud neudělí ve lhůtě*: druhý v pořadí,
-3. *Pokud ani ten*: **soud** (v dohlédací činnosti).
+Původní důvodová zpráva k vládnímu návrhu insolvenčního zákona (sněmovní tisk 1120/0, 4. volební období, zvláštní část „K § 228 až 230“, číslovaná strana 204, PDF strana 205) potvrzuje, že vymezení správy je obecné a výčet není taxativní.
 
-#### Odmítnutí pokynu osobou s dispozičními oprávněními
+Revizní novela č. 294/2013 Sb. změnila s účinností od 1. 1. 2014 odstavec 2 a doplnila odstavce 4 a 5. Její důvodová zpráva (sněmovní tisk 929/0, 6. volební období, zvláštní část „K bodům 126 až 130 (§ 229 a § 230)“, číslované strany 139–140, PDF strany 140–141) uvádí, že cílem bylo posílit prioritu zajištěného věřitele prvního v pořadí a zavést rychlý mechanismus řešení sporů o pokyny. Pro právní poměry před 1. 1. 2014 je proto nutné vycházet z tehdejšího znění, které při více zajištěných věřitelích požadovalo společný pokyn.
 
-Pokud správce/dlužník *považuje pokyn za nesměřující k řádné správě*, **požádá soud o přezkum**. Soud rozhodne v dohlédací činnosti.
+### Literatura
 
-#### Náklady (odst. 3)
+Odborná literatura nebyla v tomto kole rešeršována; její zpracování je odloženo do druhého kola.
 
-Náklady spojené s pokynem nese **zajištěný věřitel** (ne podstata).
+### Výklad
 
-#### Konflikt mezi zajištěnými (odst. 4)
+[1] Slovo „zejména“ činí výčet v odstavci 1 demonstrativním. Konkrétní opatření je správou tehdy, sleduje-li podle okolností zachování hodnoty, účelné využití nebo rozumně očekávatelné rozmnožení podstaty anebo vymožení dlužníkových pohledávek. Samotné pojmenování úkonu účastníkem nerozhoduje.
 
-Pokud chybí *písemný souhlas* ostatních zajištěných ke stejnému majetku — vyrozumí soud:
-- *jednání do 30 dnů*,
-- *námitky ostatních do 7 dnů* od zveřejnění pokynu v rejstříku,
-- *soud schválí/neschválí*,
-- *bez odvolání*.
+[2] Pokyny podle odstavce 2 se týkají pouze správy konkrétní věci, práva, pohledávky nebo jiné majetkové hodnoty sloužící k zajištění. Osoba s dispozičními oprávněními se určuje podle § 229; nemusí jí být v každé fázi a při každém způsobu řešení úpadku insolvenční správce.
 
-### Vazby
+[3] Je-li zajištěných věřitelů více, oprávnění udělit pokyn má nejprve věřitel první v pořadí uspokojení ze stejného zajištění. Další věřitel nastupuje teprve tehdy, jestliže předchozí věřitel pokyn neudělí ani ve lhůtě určené insolvenčním soudem. Neudělí-li pokyn ani oprávněný další věřitel, udělí jej soud v rámci dohlédací činnosti a současně rozhodne o nákladech svého pokynu.
 
-- **§ 167** — uspokojení zajištěných.
-- **§ 293** — pokyny ke zpeněžení zástavy.
-- **§ 11** — dohlédací činnost.
+[4] Závaznost pokynu je omezena požadavkem řádné správy. Má-li osoba s dispozičními oprávněními za to, že pokyn k řádné správě nesměřuje, může jej odmítnout, musí však požádat insolvenční soud o přezkoumání. Nejde o volné oprávnění nahradit pokyn vlastním preferovaným řešením bez soudního přezkumu.
+
+[5] Náklady spojené s provedením pokynu zajištěného věřitele nese tento věřitel ze svého. Text odstavce 3 je třeba číst spolu s § 298 odst. 4 a 6; nelze jej bez dalšího zaměnit s obecným limitem nákladů správy odečítaných od výtěžku.
+
+[6] Chybí-li písemný souhlas ostatních zajištěných věřitelů uspokojovaných ze stejného zajištění, osoba s dispozičními oprávněními neprodleně vyrozumí soud. Soud nařídí do 30 dnů jednání. Ostatní zajištění věřitelé musí své námitky uplatnit písemně nejpozději do 7 dnů od zveřejnění pokynu v insolvenčním rejstříku; pozdější námitky se neprojednají. Proti rozhodnutí soudu podle odstavce 4 není odvolání přípustné.
+
+[7] Pokyn ke správě podle § 230 nelze směšovat s pokynem ke zpeněžení podle § 293. U § 230 je testem „řádná správa“; u § 293 může insolvenční správce pokyn odmítnout, má-li za to, že předmět zajištění lze zpeněžit výhodněji. Odstavce 3 až 5 § 230 se však pro zpeněžení použijí obdobně.
+
+[8] Při časovém použití je rozhodná zejména revizní novela č. 294/2013 Sb. Úprava priority prvního zajištěného věřitele, náhradního pořadí a soudního projednání námitek platí od 1. 1. 2014. Starší rozhodnutí a skutky proto nelze bez intertemporální kontroly přenášet na nynější znění.
 
 ### Judikatura
 
-- **NS 29 NSČR 21/2014**: pokyn zajištěného věřitele je *závazný* pro správce — odmítnutí je možné jen pro *nesouladu s řádnou správou*, ne pro „jiný názor".
-- **NS 29 NSČR 8/2017**: zajištěný věřitel s prvním pořadím má *prioritu* — i kdyby měl zájem v rozporu s ostatními zajištěnými, pokyn je závazný do schválení soudem.
+- **Nejvyšší soud, rozsudek ze dne 7. 6. 2018, sp. zn. 29 Cdo 2772/2016, ECLI:CZ:NS:2018:29.CDO.2772.2016.1, R 72/2019, zejména odstavce 41–43.** Ve sporu o náhradu škody se zajištěním tvořeným pohledávkou dlužníka za poddlužníkem Nejvyšší soud uzavřel, že po účinnosti zástavního práva vůči poddlužníku nemohl insolvenční správce ani poddlužník bez souhlasu zástavního věřitele přivodit zánik zastavené pohledávky započtením. Soud výslovně odlišil tento hmotněprávní zákaz od otázky, zda měl správce žádat o pokyn podle § 293. Rozhodnutí se týká skutku z roku 2011 a není autoritou pro proces podle nynějších § 230 odst. 4 a 5.
 
-### Praktická poznámka
-
-**Pokyny zajištěného věřitele** jsou v praxi *velmi důležitý institut*. Typický scénář: banka má hypotéku na nemovitost dlužníka. Banka:
-- *řídí* správu (pronájem, údržbu),
-- *určuje* podmínky zpeněžení (kdy, za jakou cenu),
-- *vybírá* prodejce / dražebníka,
-- *kontroluje* správce.
-
-V podstatě banka *fakticky řídí* insolvenci v rozsahu své zástavy.
-
-### F. Kazuistika
-
-**1. Modelová situace.** Do podstaty patří nájemní bytový dům zatížený zástavním právem banky A (první pořadí, pohledávka 10 mil. Kč) a zástavním právem banky B (druhé pořadí, 4 mil. Kč). Správce dům spravuje (vybírá nájemné, řeší údržbu). Banka A udělí pokyn k řádné správě — provést nákladnou rekonstrukci střechy financovanou z podstaty a krátkodobě snížit nájem kvůli pracím. Banka B s pokynem nesouhlasí a písemný souhlas nepřipojila. Správce má pochybnost, zda pokyn směřuje k řádné správě. Účastníci: dlužník, správce, banka A (1. pořadí), banka B (2. pořadí), insolvenční soud. Důkazy: zástavní smlouvy s pořadím, pokyn banky A, námitky banky B, rozpočet rekonstrukce.
-
-**2. Právní otázka.** Je správce vázán pokynem zajištěného věřitele prvního pořadí ke správě zástavy, jak se řeší nesouhlas dalšího zajištěného věřitele a kdo nese náklady pokynu?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 230 odst. 1 (cíle správy — zachování hodnoty, účelové využití, rozmnožení, vymáhání pohledávek); odst. 2 (osoba s dispozičními oprávněními je vázána pokyny zajištěného věřitele k řádné správě; pokyny dává věřitel první v pořadí; možnost odmítnout pokyn nesměřující k řádné správě a požádat soud o přezkum); odst. 3 (náklady pokynu nese zajištěný věřitel ze svého); odst. 4 (chybí-li písemný souhlas ostatních zajištěných ke stejnému zajištění, soud do 30 dnů nařídí jednání a rozhodne o schválení; námitky ostatních do 7 dnů od zveřejnění pokynu); odst. 5 (proti rozhodnutí dle odst. 4 není odvolání).
-- *Související ustanovení téhož zákona:* § 167 (uspokojení zajištěných); § 293 (pokyny ke zpeněžení zástavy); § 11 (dohlédací činnost).
-- *Související předpisy:* OZ (zástavní právo, pořadí); předpisy o správě nemovitostí.
-- *Judikatura:* NS 29 NSČR 21/2014 — pokyn zajištěného věřitele je pro správce závazný, odmítnout lze jen pro nesoulad s řádnou správou, nikoli pro „jiný názor"; NS 29 NSČR 8/2017 — věřitel prvního pořadí má prioritu, jeho pokyn je závazný do schválení soudem; NS 29 NSČR 93/2014 (z místních zdrojů) — rozsah informování dlužníka správcem se nerozšiřuje jen kvůli výkonu trestu.
-
-**4. Subsumpce.** Dům je zástavou; pokyny ke správě dává banka A (první v pořadí, odst. 2). Pokyn (rekonstrukce, krátkodobé snížení nájmu) směřuje k zachování a rozmnožení hodnoty (odst. 1) — patrně řádná správa. Chybí písemný souhlas banky B ke stejnému zajištění → aktivuje se odst. 4 (vyrozumění soudu, jednání, schválení). Náklady pokynu nese banka A (odst. 3).
-
-**5. Řešení.** Správce je pokynem banky A zásadně vázán; má-li pochybnost o souladu s řádnou správou, požádá soud o přezkum (odst. 2 in fine). Protože chybí souhlas banky B, vyrozumí soud, který do 30 dnů nařídí jednání; banka B může uplatnit námitky do 7 dnů od zveřejnění pokynu v rejstříku. Soud pokyn schválí/neschválí (bez odvolání, odst. 5). Náklady rekonstrukce nese banka A ze svého (odst. 3). Procesně: zveřejnění pokynu, běh 7denní lhůty pro námitky.
-
-**6. Varianty.** (a) Kdyby banka A pokyn ve lhůtě určené soudem neudělila, přešlo by právo na banku B (další v pořadí); jinak by pokyn udělil soud v dohlédací činnosti. (b) Kdyby pokyn zjevně poškozoval podstatu (např. prodej hluboko pod cenou pod záminkou „správy"), správce by jej odmítl jako nesměřující k řádné správě a předložil soudu.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument (správce):* „S pokynem nesouhlasím, mám lepší řešení, proto jej neprovedu." Neutralizace: NS 29 NSČR 21/2014 — pokyn je závazný; odmítnout lze jen pro nesoulad s řádnou správou, ne pro odlišný názor; spor řeší soud.
-- *Protiargument (banka B):* „Jako zajištěný věřitel mám právo pokyn vetovat." Neutralizace: pokyny dává věřitel prvního pořadí (NS 29 NSČR 8/2017); banka B uplatní námitky ve lhůtě 7 dnů a o schválení rozhodne soud (odst. 4) — veto nemá.
-- *Slabé místo:* hranice „řádné správy" je hodnotící; náklady nese sice zajištěný věřitel (odst. 3), avšak při sporu o jejich rozsah hrozí prodlení; rozhodnutí soudu dle odst. 4 je bez odvolání, což zužuje opravné prostředky.
-
-### H. Praktický závěr
-
-Správa směřuje k zachování hodnoty, účelovému využití, rozmnožení podstaty a vymáhání pohledávek (odst. 1). U zajištěného majetku je osoba s dispozičními oprávněními vázána pokyny zajištěného věřitele prvního pořadí k řádné správě; pokyn lze odmítnout jen pro nesoulad s řádnou správou (přezkum soudem). Náklady nese zajištěný věřitel; konflikt mezi zajištěnými řeší soud do 30 dnů (bez odvolání).
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Identifikovat zajištěného věřitele prvního pořadí — jen jeho pokyny ke správě jsou závazné (odst. 2).
-- [ ] Pokyn provést, ledaže nesměřuje k řádné správě — pak jej odmítnout a požádat soud o přezkum.
-- [ ] Náklady spojené s pokynem účtovat zajištěnému věřiteli (odst. 3), nikoli podstatě.
-- [ ] Chybí-li písemný souhlas ostatních zajištěných ke stejnému zajištění, vyrozumět soud; hlídat 7denní lhůtu pro jejich námitky a 30denní pro jednání.
-- [ ] Plnit cíle správy dle odst. 1 (zachování, využití, rozmnožení, vymáhání).
-
-**Typicky rozhodné důkazy / podklady:** zástavní smlouvy s vyznačením pořadí, písemné pokyny zajištěného věřitele a souhlasy/námitky ostatních, rozpočty a doklady k nákladům správy, zveřejnění pokynu v insolvenčním rejstříku, rozhodnutí soudu dle odst. 4.
+Rozhodnutí 29 NSČR 93/2014, dříve uvedené v tomto bloku, řeší rozsah informační povinnosti vůči dlužníku ve výkonu trestu, nikoli pokyny zajištěného věřitele; proto se jako judikatura k § 230 nepoužívá.
 
 ---
 

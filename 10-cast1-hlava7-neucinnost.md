@@ -77,53 +77,64 @@ Do této revize nebylo zařazeno žádné soudní rozhodnutí. Dříve uvedené 
 
 ## § 232 — Pravomoc rozhodnutí před zahájením
 
-> Byla-li neplatnost právního úkonu týkajícího se majetku nebo závazků dlužníka zjištěna rozhodnutím soudu, které nabylo právní moci **před zahájením insolvenčního řízení**, považuje se právní úkon, jehož se rozhodnutí týká, **za neplatný i v insolvenčním řízení**.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> Byla-li neplatnost právního úkonu týkajícího se majetku nebo závazků dlužníka zjištěna rozhodnutím soudu, které nabylo právní moci před zahájením insolvenčního řízení, považuje se právní úkon, jehož se rozhodnutí týká, za neplatný i v insolvenčním řízení.
+
+### Přehled výkladu
+
+§ 232 přenáší do insolvenčního řízení zjištění neplatnosti obsažené v soudním rozhodnutí, které nabylo právní moci ještě před zahájením tohoto řízení. Rozhodné jsou totožnost právního úkonu, jeho vztah k majetku nebo závazkům dlužníka, soudní povaha rozhodnutí a okamžik jeho právní moci. Pro zjištění neplatnosti, k němuž došlo až v průběhu insolvenčního řízení, platí odlišný režim § 231.
+
+### Souvisící ustanovení
+
+- § 97 odst. 1 — zahájení insolvenčního řízení dnem, kdy insolvenční návrh dojde věcně příslušnému soudu,
+- § 101 — oznámení zahájení insolvenčního řízení vyhláškou,
+- § 231 — výlučné posouzení neplatnosti v průběhu insolvenčního řízení a nevázanost jiným zjištěním učiněným v jeho průběhu,
+- § 233 — majetkové důsledky pravomocně zjištěné neplatnosti,
+- § 234 — souběh neplatnosti a neúčinnosti.
+
+### Souvisící předpisy
+
+- § 159a občanského soudního řádu — osobní a věcný rozsah závaznosti výroku pravomocného rozsudku a překážka opětovného projednání věci; § 232 je zvláštním insolvenčním pravidlem pro popsané zjištění neplatnosti.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona řadil § 231 až 234 mezi zvláštní pravidla vůči obecné úpravě neplatnosti. U § 232 výslovně uvedl, že insolvenční soud je vázán zjištěním neplatnosti pravomocným rozhodnutím před zahájením insolvenčního řízení. Jde o historické vysvětlení původní koncepce; aktuální obsah normy je třeba určovat podle účinného znění zákona. (Sněmovní tisk 1120/0, 4. volební období, zvláštní část k § 231 až 234, číslovaná s. 204–205, PDF s. 205–206.)
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tato poznámka není výsledkem negativní rešerše.
 
 ### Výklad
 
-**Časová hranice**: rozhodnutí o neplatnosti **před zahájením IR** → *vázanost insolvenčního soudu*. Logika *res iudicata* + *právní jistoty*.
+[1] **Předmět pravidla.** Ustanovení dopadá pouze na zjištění neplatnosti právního úkonu týkajícího se majetku nebo závazků dlužníka. Nestačí, že dřívější řízení s dlužníkem pouze volně souviselo; musí být určitelné, kterého právního úkonu se výrok týká a že právě jeho neplatnost byla soudem zjištěna.
 
-**Po zahájení IR** — § 231 (insolvenční soud rozhoduje sám).
+[2] **Požadovaná autorita.** Text výslovně vyžaduje rozhodnutí soudu. Zjištění jiného orgánu, dohoda účastníků nebo jednostranné dovolání se neplatnosti pod § 232 nespadají. Jejich význam v již probíhajícím insolvenčním řízení je nutno hodnotit podle § 231 a podle použitelné hmotněprávní úpravy.
 
-### Vazby
+[3] **Časový test.** Rozhodující není den vydání ani vykonatelnost rozhodnutí, nýbrž to, zda rozhodnutí nabylo právní moci před zahájením insolvenčního řízení. Podle § 97 odst. 1 se insolvenční řízení zahajuje dnem, kdy insolvenční návrh dojde věcně příslušnému soudu. Vyhláška podle § 101 zahájení oznamuje; její zveřejnění proto nelze bez dalšího zaměnit za datum zahájení pro účely § 232.
 
-- **§ 231** — insolvenční soud nezávislý od jiných soudů během IR.
+[4] **Následek.** Jsou-li podmínky § 232 splněny, považuje se právní úkon za neplatný také v insolvenčním řízení. Toto pravidlo nepřevádí do insolvenčního řízení jiné závěry dřívějšího rozhodnutí nad rámec zjištění neplatnosti dotčeného úkonu.
 
-### F. Kazuistika
+[5] **Rozhraní s § 231.** Nenabylo-li soudní rozhodnutí právní moci před zahájením insolvenčního řízení, podmínka § 232 splněna není. Zjištění neplatnosti učiněné v průběhu insolvenčního řízení pak podléhá § 231: insolvenční soud není vázán rozhodnutím jiného soudu či orgánu a neplatnost posoudí pouze on.
 
-**1. Modelová situace.** Věřitel GAMA již v roce 2022 podal proti dlužníkovi DELTA žalobu na určení neplatnosti smlouvy o postoupení pohledávky. Soud rozsudkem ze dne 10. 3. 2023, který nabyl právní moci 5. 5. 2023, určil smlouvu neplatnou. Insolvenční řízení vůči DELTA bylo zahájeno až 1. 9. 2023. Správce DELTA nyní zvažuje, zda může neplatnost téže smlouvy znovu otevřít. Důkazy: rozsudek s doložkou právní moci, spis civilního řízení, datum zahájení IR z insolvenčního rejstříku.
+[6] **Navazující důsledky.** § 232 sám upravuje účinek dřívějšího zjištění neplatnosti, nikoli konkrétní způsob vydání plnění, soupisu nebo vedení dalšího sporu. Majetkové následky je třeba posoudit zejména podle § 233 a podle konkrétní procesní situace; z § 232 samotného nelze dovodit univerzální procesní postup.
 
-**2. Právní otázka.** Je insolvenční soud (a správce) vázán rozhodnutím o neplatnosti, které nabylo právní moci před zahájením insolvenčního řízení, nebo může neplatnost znovu posoudit podle § 231?
+[7] **Rozsah právní moci.** Při použití dřívějšího rozhodnutí je nutno vycházet z jeho výroku a z rozsahu jeho závaznosti. Obecný rámec poskytuje § 159a občanského soudního řádu; § 232 k němu přidává zvláštní insolvenční účinek pro zjištěnou neplatnost právního úkonu.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 232 IZ — rozhodnutí o neplatnosti pravomocné *před zahájením IR* se považuje za neplatné i v IR (vázanost).
-- *Související ustanovení téhož zákona:* § 231 IZ (nezávislost insolvenčního soudu na rozhodnutích vydaných *v průběhu* IR — protiklad), § 233 IZ (navazující důsledky neplatnosti), § 97 IZ (zahájení IR).
-- *Související předpisy:* § 159a OSŘ (závaznost a materiální právní moc rozsudku), § 580 OZ.
-- *Judikatura:* obecná zásada *res iudicata* a ochrany právní jistoty — pravomocné rozhodnutí o téže věci je závazné a nelze je v dalším řízení znovu meritorně přezkoumávat.
+[8] **Intertemporalita.** § 232 je součástí původní koncepce insolvenčního zákona a aktuální konsolidované znění odpovídá citaci výše. U staršího skutku však musí být důvod neplatnosti posouzen podle hmotného práva rozhodného pro daný právní úkon; § 232 sám důvody neplatnosti nestanoví.
 
-**4. Subsumpce.** Rozsudek nabyl právní moci 5. 5. 2023, IR bylo zahájeno 1. 9. 2023 — tedy *před* zahájením IR. Předmět (smlouva o postoupení pohledávky dlužníka) se týká *majetku dlužníka*. Naplněny všechny znaky § 232: rozhodnutí + právní moc před zahájením + týká se majetku/závazků dlužníka. Následek: úkon se *považuje za neplatný i v IR*.
+### Praktický checklist
 
-**5. Řešení.** Insolvenční soud i správce jsou vázáni dřívějším rozsudkem; smlouva je neplatná a tento závěr se v IR nepřezkoumává. Správce na něj naváže postupem podle § 233 (vydání majetkového prospěchu z neplatného úkonu). Procesně: nezahajovat o téže otázce nový spor, ale uplatnit důsledky neplatnosti (soupis, výzva k vydání). Riziko: hraniční určení okamžiku „zahájení IR" — rozhodující je vyhláška o zahájení (§ 101 IZ), nikoli rozhodnutí o úpadku.
+- [ ] Ztotožnit právní úkon ve výroku dřívějšího soudního rozhodnutí.
+- [ ] Ověřit doložku právní moci a porovnat její datum se dnem dojití insolvenčního návrhu věcně příslušnému soudu podle § 97 odst. 1.
+- [ ] Ověřit, že výrok skutečně zjistil neplatnost úkonu týkajícího se majetku nebo závazků dlužníka.
+- [ ] Oddělit účinek § 232 od navazujících majetkových a procesních kroků podle § 233 a dalších ustanovení.
 
-**6. Varianty.** (a) Kdyby rozsudek nabyl právní moci až 15. 9. 2023 (po zahájení IR), uplatnil by se § 231 a insolvenční soud by jím *nebyl vázán*. (b) Kdyby rozhodnutí o neplatnosti nebylo dosud pravomocné v okamžiku zahájení IR, § 232 by se rovněž neuplatnil (vyžaduje právní moc *před* zahájením).
+### Judikatura
 
-### G. Protiargumenty a rizika
-
-- *„Insolvenční soud rozhoduje o neplatnosti vždy sám (§ 231), takže může přezkoumat i dřívější rozsudek."* — Neutralizace: § 232 je *výjimka* z § 231 vázaná na časové kritérium; nezávislost insolvenčního soudu platí jen pro rozhodnutí vydaná *v průběhu* IR, nikoli pro pravomocná rozhodnutí *předcházející* zahájení.
-- *„Datum zahájení je nejasné."* — Slabé místo: je nutné přesně určit okamžik zahájení IR (zveřejnění vyhlášky podle § 101 IZ); od něj se odvíjí rozhraní mezi § 231 a § 232.
-- Slabé místo: § 232 váže jen na rozhodnutí *soudu*; rozhodnutí jiného orgánu (správního) nemusí vázanost zakládat stejně — § 232 hovoří o „rozhodnutí soudu".
-
-### H. Praktický závěr
-
-Pravomocné soudní rozhodnutí o neplatnosti úkonu týkajícího se majetku/závazků dlužníka vydané *před* zahájením IR zavazuje insolvenční soud i správce; uvnitř IR se neplatnost nepřezkoumává. Rozhraní s § 231 určuje okamžik zahájení IR.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověřit datum právní moci rozhodnutí o neplatnosti a porovnat s datem zahájení IR (vyhláška dle § 101 IZ).
-- [ ] Při právní moci před zahájením IR respektovat vázanost a nepodávat nový spor o tutéž otázku.
-- [ ] Navázat důsledky neplatnosti dle § 233 (vydání prospěchu).
-- [ ] Při právní moci po zahájení IR postupovat podle § 231 (samostatné posouzení).
-
-**Typicky rozhodné důkazy / podklady:** rozhodnutí o neplatnosti s doložkou právní moci, údaj o okamžiku zahájení IR z insolvenčního rejstříku, spis předchozího řízení, smluvní dokumentace dotčeného úkonu.
+Do této revize nebylo zařazeno žádné soudní rozhodnutí. V místních kandidátních pomůckách nebyla pro § 232 identifikována konkrétní judikatura a neurčitou obecnou poučku o *res iudicata* nelze vydávat za plnotextově ověřenou rešerši. To není závěr o neexistenci relevantní judikatury.
 
 ---
 

@@ -1149,65 +1149,66 @@ Do tohoto kola nebylo zařazeno žádné soudní rozhodnutí. Původní anonymn�
 
 ## § 224 — Vyrozumění o soupisu třetích osob
 
-> (1) Insolvenční správce, který zapíše do soupisu věci, práva, pohledávky a jiné majetkové hodnoty, **které nenáleží dlužníku** nebo jejichž zahrnutí do majetkové podstaty je **sporné** zejména proto, že k nim třetí osoba uplatňuje práva, která to vylučují, do soupisu poznamená, komu sepisovaný majetek náleží, nebo kdo k němu uplatňuje své právo. Tuto osobu insolvenční správce **písemně vyrozumí** o zahrnutí majetku do soupisu a na její žádost jí o tom vydá osvědčení. Osvědčení musí vždy obsahovat i uvedení důvodu, pro který insolvenční správce tento majetek sepsal.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Insolvenční správce, který zapíše do soupisu věci, práva, pohledávky a jiné majetkové hodnoty, které nenáleží dlužníku nebo jejichž zahrnutí do majetkové podstaty je sporné zejména proto, že k nim třetí osoba uplatňuje práva, která to vylučují, do soupisu poznamená, komu sepisovaný majetek náleží, nebo kdo k němu uplatňuje své právo. Tuto osobu insolvenční správce písemně vyrozumí o zahrnutí majetku do soupisu a na její žádost jí o tom vydá osvědčení. Osvědčení musí vždy obsahovat i uvedení důvodu, pro který insolvenční správce tento majetek sepsal.
 >
-> (2) Vyrozumění podle odstavce 1 musí obsahovat i poučení o **možnosti podat vylučovací žalobu a o následcích zmeškání lhůty** k podání vylučovací žaloby; náležitosti tohoto vyrozumění stanoví prováděcí právní předpis.
+> (2) Vyrozumění podle odstavce 1 musí obsahovat i poučení o možnosti podat vylučovací žalobu a o následcích zmeškání lhůty k podání vylučovací žaloby; náležitosti tohoto vyrozumění stanoví prováděcí právní předpis.
 >
 > (3) Je-li do soupisu zapsána nemovitost, která podle katastru nemovitostí není ve vlastnictví dlužníka, vyrozumí o tom insolvenční správce příslušné katastrální pracoviště. Je-li do soupisu sepsána věc, která podle Rejstříku zástav není ve vlastnictví dlužníka, vyrozumí o tom insolvenční správce Notářskou komoru České republiky. Obdobně to platí o majetku uvedeném v jiných veřejných či neveřejných seznamech, jestliže podle zvláštních právních předpisů osvědčují vlastnictví nebo jiná věcná práva k tomuto majetku.
 >
-> (4) Je-li do soupisu zapsána kulturní památka, sbírka muzejní povahy nebo předmět kulturní hodnoty, vyrozumí o tom insolvenční správce neprodleně Ministerstvo kultury.
-> (4) Je-li do soupisu zapsána kulturní památka, sbírka muzejní povahy nebo předmět kulturní hodnoty, vyrozumí o tom insolvenční správce neprodleně **Ministerstvo kultury**.
+> (4) Je-li do soupisu zapsána kulturní památka33), sbírka muzejní povahy nebo předmět kulturní hodnoty, vyrozumí o tom insolvenční správce neprodleně Ministerstvo kultury.
 
-### Výklad — **OCHRANA TŘETÍCH OSOB**
+### Přehled výkladu
 
-Pokud správce zapíše do soupisu **sporný majetek** nebo majetek, který *zjevně nenáleží dlužníku*:
-- *poznámka v soupisu* o tom, kdo si nárokuje,
-- *písemné vyrozumění* dotčené osoby,
-- *poučení o vylučovací žalobě* a *lhůtě* (30 dnů — § 225 odst. 2),
-- *paralelní vyrozumění registrů* (katastr, RoZ, Ministerstvo kultury pro památky).
+§ 224 spojuje soupis cizího nebo sporného majetku se třemi okruhy povinností: se záznamem o osobě a jejím právu v soupisu, s individuálním písemným vyrozuměním této osoby včetně procesního poučení a se zvláštními oznámeními evidenčním či správním orgánům. Třicetidenní lhůta vylučovací žaloby podle § 225 odst. 2 se odvíjí od doručení vyrozumění, nikoli od pouhé skutečné vědomosti o soupisu.
 
-> *Praktický význam*: ochrana vlastníků věcí, které dlužník měl jen v užívání (nájem, leasing, výpůjčka). Bez vyrozumění by mohli zmeškat 30denní lhůtu pro vylučovací žalobu a *přijít o majetek*.
+### Souvisící ustanovení
 
-### Vazby
+- **§ 217 odst. 1 a 2** — soupis, jeho průběžné doplňování a vyřazení majetku správcem.
+- **§ 221 a § 222** — náležitosti soupisu, označení a ocenění sepisovaného majetku.
+- **§ 225 odst. 1 až 4** — vylučovací žaloba, třicetidenní lhůta od doručení vyrozumění, následek zmeškání a omezení nakládání.
+- **§ 226** — odlišný postup dlužníka při návrhu na vynětí majetku.
 
-- **§ 225** — vylučovací žaloba.
+### Souvisící předpisy
 
-### F. Kazuistika
+- **Prováděcí právní předpis podle § 224 odst. 2** — stanoví náležitosti písemného vyrozumění.
+- **Předpisy o katastru nemovitostí a Rejstříku zástav** — určují rozhodné evidence a jejich vedení.
+- **Předpisy o kulturních památkách, sbírkách muzejní povahy a předmětech kulturní hodnoty** — vymezují kategorie majetku uvedené v odstavci 4.
 
-**1. Modelová situace.** Dlužník (s.r.o.) měl ve výrobní hale stroj na leasing (vlastník leasingová společnost) a obraz zapůjčený od galerie, jenž je předmětem kulturní hodnoty. Správce oba předměty zapsal do soupisu jako majetek dlužníka. Leasingová společnost se o soupisu dozvěděla až náhodou z rejstříku, galerie nebyla vyrozuměna vůbec. Současně je v soupisu nemovitost, která dle katastru patří třetí osobě. Účastníci: dlužník, správce, leasingová společnost, galerie, katastrální úřad, Ministerstvo kultury. Důkazy: leasingová smlouva, smlouva o zápůjčce uměleckého díla, výpis z katastru, soupis.
+### Z důvodové zprávy
 
-**2. Právní otázka.** Jaké povinnosti má správce při soupisu majetku, který nenáleží dlužníku nebo je sporný, a jaké registry a osoby musí vyrozumět?
+Oficiální důvodová zpráva k vládnímu návrhu insolvenčního zákona pojednává § 220 až 224 společně. Zdůrazňuje podrobnou úpravu náležitostí soupisu a jeho změn; zvláštní oznamovací povinnost vůči Ministerstvu kultury odůvodňuje potřebou umožnit realizaci případného předkupního práva státu. Odkaz zprávy na „§ 224 odst. 3“ zachycuje číslování osnovy a nelze jej bez upozornění přenést na dnešní odstavec 4 (sněmovní tisk 1120/0, zvláštní část „K § 220 až 224“, číslovaná i PDF s. 204).
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 224 odst. 1 (poznámka v soupisu, komu majetek náleží/kdo uplatňuje právo; písemné vyrozumění dotčené osoby, na žádost osvědčení s důvodem soupisu); odst. 2 (poučení o možnosti podat vylučovací žalobu a o následcích zmeškání lhůty); odst. 3 (vyrozumění katastru u nemovitosti nepatřící dlužníku, Notářské komory u věci z Rejstříku zástav, obdobně jiné seznamy); odst. 4 (u kulturní památky/sbírky/předmětu kulturní hodnoty neprodleně Ministerstvo kultury).
-- *Související ustanovení téhož zákona:* § 225 (vylučovací žaloba, 30denní lhůta); § 217 (soupis a jeho účinky); § 219 (ocenění).
-- *Související předpisy:* zákon č. 20/1987 Sb. (státní památková péče); katastrální předpisy; předpisy o Rejstříku zástav.
-- *Judikatura:* NS 29 ICdo 33/2015 — vylučovací žalobu lze podat i bez vyrozumění správcem, dozví-li se osoba o soupisu z rejstříku, a lhůta pak běží od skutečného vědomí — zdůrazňuje význam řádného vyrozumění pro běh lhůty.
+### Literatura
 
-**4. Subsumpce.** Leasingový stroj a zapůjčený obraz dlužníku nenáleží (sporné zařazení) → § 224 odst. 1: poznámka v soupisu + písemné vyrozumění vlastníků + poučení o vylučovací žalobě. Obraz je předmětem kulturní hodnoty → § 224 odst. 4: neprodleně vyrozumět Ministerstvo kultury. Nemovitost dle katastru cizí → § 224 odst. 3: vyrozumět katastrální úřad.
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Toto sdělení není výsledkem negativní literární rešerše.
 
-**5. Řešení.** Správce u všech tří položek doplní poznámku o uplatňovaném právu, písemně vyrozumí leasingovou společnost i galerii (s poučením o 30denní lhůtě dle § 225) a vyrozumí katastrální úřad (nemovitost) a Ministerstvo kultury (obraz). Bez řádného vyrozumění by lhůta neběžela standardně (NS 29 ICdo 33/2015) a hrozila by újma dotčeným osobám. Procesně: na žádost vydat osvědčení s důvodem soupisu.
+### Výklad
 
-**6. Varianty.** (a) Kdyby věc byla zapsána v Rejstříku zástav jako nepatřící dlužníku, správce by vyrozuměl Notářskou komoru (odst. 3). (b) Kdyby šlo o nespornou věc dlužníka, vyrozumívací povinnost dle § 224 by nevznikla.
+[1] **Spouštěcí situace.** Povinnosti podle odstavce 1 vznikají, jestliže správce zapíše majetek, který nenáleží dlužníku, nebo jehož zahrnutí je sporné zejména proto, že třetí osoba uplatňuje právo vylučující zahrnutí. Nestačí tedy bez dalšího jakékoli právo k majetku; rozhodný je jeho vztah k oprávněnosti soupisu.
 
-### G. Protiargumenty a rizika
+[2] **Poznámka v soupisu.** Správce musí zaznamenat, komu sepisovaný majetek náleží, nebo kdo k němu uplatňuje své právo. Tato poznámka nenahrazuje písemné vyrozumění dotčené osoby.
 
-- *Protiargument (správce):* „Stačí zveřejnění soupisu v rejstříku, individuální vyrozumění není nutné." Neutralizace: § 224 odst. 1 ukládá písemné vyrozumění konkrétní dotčené osoby; bez něj nezačne řádně běžet 30denní lhůta a osoba neutrpí zmeškání (NS 29 ICdo 33/2015).
-- *Protiargument:* „U kulturního předmětu postačí běžné vyrozumění vlastníka." Neutralizace: odst. 4 ukládá neprodleně informovat i Ministerstvo kultury — jde o zvláštní veřejný zájem na ochraně kulturního dědictví.
-- *Slabé místo:* opomenuté vyrozumění zakládá riziko náhrady škody a oddálí právní jistotu (lhůta běží od skutečného vědomí); identifikace všech dotčených registrů může být náročná.
+[3] **Individuální vyrozumění a osvědčení.** Dotčenou osobu správce písemně vyrozumí o zahrnutí majetku do soupisu. Na její žádost vydá osvědčení; osvědčení musí vždy uvést důvod soupisu.
 
-### H. Praktický závěr
+[4] **Obsah vyrozumění.** Zákon vyžaduje poučení o možnosti podat vylučovací žalobu a o následcích zmeškání lhůty; další náležitosti svěřuje prováděcímu právnímu předpisu. Před odesláním je proto nutné ověřit jeho tehdy účinné znění.
 
-Zapíše-li správce do soupisu majetek, který dlužníku nenáleží nebo je sporný, musí to poznamenat, písemně vyrozumět dotčenou osobu a poučit ji o vylučovací žalobě a o následcích zmeškání lhůty (§ 225). Souběžně vyrozumívá příslušné registry (katastr, Notářská komora) a u kulturních předmětů neprodleně Ministerstvo kultury.
+[5] **Počátek lhůty.** Podle § 225 odst. 2 musí žaloba dojít insolvenčnímu soudu do 30 dnů ode dne doručení vyrozumění. Zákon nestanoví náhradní počátek této lhůty pouhou skutečnou vědomostí o soupisu. Dřívější komentář tento závěr nesprávně připisoval rozhodnutí 29 ICdo 33/2015.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] U sporného/cizího majetku doplnit do soupisu poznámku, komu náleží / kdo uplatňuje právo.
-- [ ] Písemně vyrozumět dotčenou osobu a poučit ji o vylučovací žalobě a 30denní lhůtě (§ 225).
-- [ ] Na žádost vydat osvědčení obsahující důvod soupisu.
-- [ ] Vyrozumět katastr (nemovitost), Notářskou komoru (Rejstřík zástav), případně jiné seznamy.
-- [ ] U kulturní památky/sbírky/předmětu kulturní hodnoty neprodleně vyrozumět Ministerstvo kultury.
+[6] **Evidenční orgány.** U nemovitosti, která podle katastru není ve vlastnictví dlužníka, se vyrozumívá příslušné katastrální pracoviště. U věci, která podle Rejstříku zástav není ve vlastnictví dlužníka, se vyrozumívá Notářská komora České republiky. Obdobné pravidlo dopadá jen na další seznamy, které podle zvláštního předpisu osvědčují vlastnictví nebo jiné věcné právo.
 
-**Typicky rozhodné důkazy / podklady:** soupis s poznámkami, leasingové/výpůjční smlouvy a smlouvy o zápůjčce, výpisy z katastru a Rejstříku zástav, doklady o vyrozumění dotčených osob a registrů, osvědčení o soupisu.
+[7] **Kulturní statky.** Zápis kulturní památky, sbírky muzejní povahy nebo předmětu kulturní hodnoty zakládá samostatnou povinnost neprodleně vyrozumět Ministerstvo kultury. Tato povinnost stojí vedle vyrozumění osoby podle odstavce 1, jsou-li splněny jeho podmínky.
+
+[8] **Praktická kontrola.** Správce má u každé sporné položky uchovat soupis s poznámkou, doklad o obsahu a doručení vyrozumění, případnou žádost a vydané osvědčení a doklad o oznámení příslušnému orgánu. Jde o redakční doporučení k průkaznosti splnění zákonných povinností.
+
+[9] **Časová působnost.** Výklad odpovídá právnímu stavu k 19. 7. 2026. U staršího soupisu nebo vyrozumění je nutné ověřit tehdy účinné znění § 224, § 225 i prováděcího předpisu; původní důvodová zpráva navíc pracuje s odlišným číslováním odstavců.
+
+### Judikatura
+
+Dřívější citace rozhodnutí Nejvyššího soudu sp. zn. 29 ICdo 33/2015 nebyla převzata, protože neověřovala tvrzení, k němuž byla připojena. Do tohoto kola nebylo zařazeno jiné rozhodnutí; tím se netvrdí, že relevantní judikatura neexistuje.
 
 ---
 

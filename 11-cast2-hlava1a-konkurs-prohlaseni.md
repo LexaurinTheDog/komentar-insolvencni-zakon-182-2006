@@ -319,51 +319,50 @@ Do tohoto kola nebylo zařazeno rozhodnutí jako nosný pramen výkladu. Tím se
 
 ## § 250 — Splatnost pohledávek
 
-> Nesplatné pohledávky proti dlužníku se prohlášením konkursu **považují za splatné**, nestanoví-li zákon jinak.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> Nesplatné pohledávky proti dlužníku se prohlášením konkursu považují za splatné, nestanoví-li zákon jinak.
+
+### Přehled výkladu
+
+§ 250 spojuje s prohlášením konkursu zákonnou fikci splatnosti dosud nesplatných pohledávek proti dlužníku. Nemění sám existenci, výši, pořadí ani případnou podmíněnost pohledávky. Obecné pravidlo ustupuje výslovné zvláštní úpravě; konkrétní výjimku obsahuje § 375 odst. 2.
+
+### Souvisící ustanovení
+
+- § 173 odst. 3 — přihlášení nesplatné nebo podmíněné pohledávky a účinky rozvazovací či odkládací podmínky,
+- § 248 odst. 1 — uplatňování práv věřitelů po prohlášení konkursu jen způsobem a za podmínek insolvenčního zákona,
+- § 245 odst. 1 — okamžik účinků prohlášení konkursu,
+- § 375 odst. 2 a 3 — výjimka pro dluhy z krytých dluhopisů a související dluhy a zachování jejich splatnosti.
+
+### Souvisící předpisy
+
+Zvláštní režim krytých dluhopisů, na který navazuje § 375, upravuje zákon č. 190/2004 Sb., o dluhopisech. Vlastní fikci splatnosti však zakládá přímo § 250 insolvenčního zákona.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona ve sněmovním tisku 1120/0 obsahoval v navrženém § 250 vedle pravidla splatnosti také odstavec o pohledávkách vázaných na rozvazovací a odkládací podmínku. Zvláštní část důvodové zprávy vysvětlovala zejména účinek rozvazovací podmínky na postavení věřitele. Tato historická pasáž nesmí být mechanicky vydávána za obsah dnešního § 250: současný text má jedinou větu a související pravidla o podmíněných pohledávkách jsou v § 173 odst. 3.
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tato poznámka není výsledkem negativní rešerše.
 
 ### Výklad
 
-**Akcelerace splatnosti** — typický rys insolvenčních systémů. Všechny nesplatné dluhy se *stávají splatnými* k okamžiku konkursu. Cíl: *konsolidace* všech pohledávek pro účely přihlášek a rozvrhu.
+[1] Rozhodnou právní skutečností je prohlášení konkursu. Od okamžiku jeho účinků se pohledávka, která je vůči dlužníku nesplatná, pro účely zákonného režimu považuje za splatnou. Jde o fikci vyjádřenou slovy „považují za“, nikoli o tvrzení, že původně sjednaný nebo zákonný okamžik splatnosti fakticky nastal.
 
-> *Modifikace*:
-> - *podmíněné pohledávky* — *nestávají se splatnými* automaticky; přihlašují se jako podmíněné a podléhají splnění podmínky,
-> - *budoucí pohledávky* (např. dosud nevyplývající z trvalého smluvního vztahu) — speciální režim.
+[2] Ustanovení míří na pohledávky věřitelů proti dlužníku. Neupravuje pohledávky dlužníka vůči jeho dlužníkům. Před použitím § 250 proto musí být určeno, kdo je věřitelem, kdo dlužníkem a zda pohledávka v okamžiku prohlášení konkursu existuje a dosud není splatná.
 
-### F. Kazuistika
+[3] § 250 řeší jen splatnost. Z jeho textu nelze bez dalšího dovodit vznik dosud neexistující pohledávky, změnu její výše či pořadí ani odstranění podmínky, na kterou je vázána. Přihlašování nesplatných a podmíněných pohledávek a účinky rozvazovací či odkládací podmínky upravuje samostatně § 173 odst. 3.
 
-**1. Modelová situace.** Banka poskytla dlužníku investiční úvěr se splatností jistiny v ročních splátkách do roku 2030; do konkursu zbývalo k řádné splatnosti ještě 4 mil. Kč. Současně dlužník ručil za úvěr třetí osoby (podmíněná pohledávka banky z ručení, dosud neaktivovaná) a měl uzavřenu rámcovou smlouvu zakládající budoucí pohledávky dodavatele. Po prohlášení konkursu banka přihlašuje celých 4 mil. Kč jako splatnou pohledávku, dodavatel chce přihlásit budoucí plnění. Důkazy: úvěrová smlouva se splátkovým kalendářem, ručitelské prohlášení, rámcová smlouva, přihlášky.
+[4] Výhrada „nestanoví-li zákon jinak“ vyžaduje kontrolu zvláštní úpravy pro konkrétní pohledávku. Podle § 375 odst. 2 se § 250 nepoužije pro dluhy z krytých dluhopisů vydaných dlužníkem ani pro související dluhy, k jejichž krytí slouží krycí portfolio; odstavec 3 výslovně zachovává jejich splatnost navzdory prohlášení konkursu.
 
-**2. Právní otázka.** Stávají se prohlášením konkursu splatnými i dosud nesplatné pohledávky vůči dlužníku, a jak se naloží s pohledávkami podmíněnými a budoucími?
+[5] Pro starší konkursy je nutné ověřit znění účinné v době, kdy byly účinky prohlášení konkursu spojeny s posuzovanou pohledávkou, a příslušná přechodná ustanovení. Současnou výjimku podle § 375 proto nelze automaticky promítat do dřívějšího právního stavu.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 250 — nesplatné pohledávky proti dlužníku se prohlášením konkursu **považují za splatné**, nestanoví-li zákon jinak (akcelerace splatnosti).
-- *Související ustanovení téhož zákona:* § 173 odst. 3 (přihlášení i nesplatných a podmíněných pohledávek), § 183 a § 184 (podmíněné pohledávky), § 165 a § 305 (rozvrh).
-- *Související předpisy:* OZ — splatnost a podmíněnost závazků; ZOK (ručení).
-- *Judikatura:* nosný závěr, že akcelerace dle § 250 slouží ke konsolidaci pohledávek pro účely přihlášek a rozvrhu, avšak nezasahuje do povahy podmíněných pohledávek, které se přihlašují jako vázané na splnění podmínky.
+### Judikatura
 
-**4. Subsumpce.** Úvěr 4 mil. Kč je dosud nesplatná pohledávka proti dlužníku → § 250: považuje se za splatnou, banka ji přihlašuje v plné výši jako splatnou. Pohledávka z ručení je podmíněná (závisí na nesplnění dluhu hlavního dlužníka) → akcelerace § 250 se neuplatní automaticky, přihlašuje se jako podmíněná. Budoucí pohledávky z rámcové smlouvy mají speciální režim — přihlašují se podle své povahy, nikoli jako bez dalšího splatné.
-
-**5. Řešení.** Banka přihlásí 4 mil. Kč jako splatnou jistinu (akcelerace), čímž se vyhne nutnosti čekat na splátkový kalendář; uspokojení proběhne v rozvrhu poměrně. Pohledávku z ručení banka přihlásí jako podmíněnou (§ 183/184) — uspokojí se jen při splnění podmínky. Dodavatel přihlásí budoucí pohledávky v souladu s jejich povahou (zpravidla podmíněně). Procesní kroky: správný typ přihlášky (splatná × podmíněná) je rozhodný pro přezkum a pro účast na rozvrhu.
-
-**6. Varianty.** (a) Zákon u konkrétní pohledávky stanoví jinak (např. zvláštní režim u některých finančních nástrojů) — akcelerace se neuplatní. (b) Pohledávka byla již splatná před konkursem — § 250 se nepoužije, neboť řeší jen pohledávky nesplatné; přihlašuje se standardně jako splatná.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument dlužníka:* „Úvěr ještě není splatný, banka nemůže žádat celou jistinu." Neutralizace: § 250 zakládá ex lege splatnost všech nesplatných pohledávek k okamžiku konkursu.
-- *Protiargument banky:* „Ručení je také pohledávka, přihlásím ji jako splatnou." Neutralizace: podmíněné pohledávky § 250 automaticky nezesplatňuje; přihlašují se jako vázané na podmínku (§ 183/184).
-- *Slabé místo:* odlišení „nesplatné" pohledávky (akcelerace) od „podmíněné"/„budoucí" (jiný režim) může být sporné; chybným zařazením v přihlášce hrozí popření při přezkumu.
-
-### H. Praktický závěr
-
-Prohlášením konkursu se všechny nesplatné pohledávky proti dlužníku považují za splatné, čímž se umožní jejich jednotné přihlášení a uspokojení v rozvrhu. Akcelerace se však netýká podmíněných a budoucích pohledávek, které mají vlastní režim.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Nesplatné pohledávky přihlásit jako splatné (§ 250) v plné výši jistiny.
-- [ ] Podmíněné pohledávky (ručení, regres) přihlásit jako vázané na splnění podmínky.
-- [ ] Ověřit, zda zákon u dané pohledávky nestanoví výjimku z akcelerace.
-- [ ] Zvolit správný typ přihlášky kvůli přezkumu a účasti na rozvrhu.
-
-**Typicky rozhodné důkazy / podklady:** smlouvy se splátkovými/úročními podmínkami, ručitelská prohlášení, rámcové smlouvy zakládající budoucí pohledávky, přihlášky pohledávek a jejich přílohy.
+Do tohoto kola nebylo zařazeno rozhodnutí jako nosný pramen výkladu § 250. Tím se nevyslovuje závěr o neexistenci relevantní judikatury; dřívější neidentifikovaný odkaz byl odstraněn, protože neumožňoval ověřit plný text, skutkový a procesní kontext ani časovou použitelnost.
 
 ---
 

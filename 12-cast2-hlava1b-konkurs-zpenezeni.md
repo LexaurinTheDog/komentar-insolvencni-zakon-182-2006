@@ -142,65 +142,66 @@ Odborná literatura nebyla v tomto kole hodnocena; její zpracování je odlože
 
 ## § 284 — Předkupní právo
 
-> (1) K nemovitostem, které tvoří pozemní část veřejného přístavu, má při jejich zpeněžení **předkupní právo stát**.
-> (2) **Zákonnými předkupními právy je insolvenční správce vázán**. **Smluvními předkupními právy insolvenční správce vázán není**.
-> (3) Insolvenční správce je při zpeněžení vázán zákonným předkupním právem nájemce bytu (FO) k jednotce při jejím prvním převodu podle § 1187 OZ.
-> (4) Insolvenční správce je při zpeněžení majetkové podstaty vázán povinností nabídnout převod jednotky zahrnuté do majetkové podstaty **oprávněným osobám** v souladu s § 1188 občanského zákoníku. Insolvenční správce je dále při zpeněžování podstaty vázán zákonným předkupním právem tvořeným právy nájemců podle zákona o vlastnictví bytů.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-### Výklad — **PRAVIDLA O PŘEDKUPNÍCH PRÁVECH**
+### Znění ustanovení
 
-#### Pravidlo (odst. 2): **zákonná vs. smluvní**
+> (1) K nemovitostem, které tvoří pozemní část veřejného přístavu41), má při jejich zpeněžení předkupní právo stát.
+>
+> (2) Zákonnými předkupními právy je insolvenční správce při zpeněžování majetkové podstaty vázán. Smluvními předkupními právy není insolvenční správce při zpeněžení majetkové podstaty vázán.
+>
+> (3) Insolvenční správce je při zpeněžení majetkové podstaty vázán zákonným předkupním právem nájemce bytu, kterým je fyzická osoba, k jednotce zahrnuté do majetkové podstaty při jejím prvním převodu podle § 1187 občanského zákoníku.
+>
+> (4) Insolvenční správce je při zpeněžení majetkové podstaty vázán povinností nabídnout převod jednotky zahrnuté do majetkové podstaty oprávněným osobám v souladu s § 1188 občanského zákoníku. Insolvenční správce je dále při zpeněžování podstaty vázán zákonným předkupním právem tvořeným právy nájemců podle zákona o vlastnictví bytů.
+>
+> (5) Insolvenční správce zajistí provedení všech úkonů, které jsou k provedení převodů podle odstavců 3 a 4 nezbytné; za to mu od osob oprávněných podle odstavců 3 a 4 náleží náhrada nákladů nezbytně vynaložených na provedení všech potřebných úkonů a odměna stanovená podle zvláštního právního předpisu. Nevyužije-li osoba oprávněná podle odstavce 3 nebo 4 práva na převedení jednotky do 3 měsíců ode dne doručení nabídky insolvenčního správce, může insolvenční správce zpeněžit jednotku postupem podle tohoto zákona.
 
-- **Zákonná** předkupní práva: **závazná** (správce musí nabídnout přednostně).
-- **Smluvní** předkupní práva: **správce nevázán** (může prodat třetímu).
+### Přehled výkladu
 
-> *Logika*: smluvní omezení nemohou *unilaterálně* zhoršit pozici věřitelů. Zákonná předkupní práva mají *veřejný zájem*.
+Ustanovení rozlišuje obecně zákonná předkupní práva, jimiž je správce při zpeněžování vázán, a smluvní předkupní práva, jimiž vázán není. Zvlášť upravuje předkupní právo státu k nemovitostem tvořícím pozemní část veřejného přístavu a ochranu oprávněných osob při převodech jednotek. Tříměsíční lhůta v odstavci 5 se týká jen osob oprávněných podle odstavců 3 a 4.
 
-#### Specifické případy
+### Souvisící ustanovení
 
-- **Stát** u nemovitostí veřejného přístavu.
-- **Nájemce bytu** při prvním převodu jednotky podle § 1187 OZ — *prodej nájemníkům* před cizími.
+- § 283 odst. 1 až 5 — pojem, časové předpoklady a dokumentace zpeněžení,
+- § 285 odst. 1 písm. b) — zánik ostatních závad včetně neuplatněných předkupních práv podle § 284 odst. 3 a 4,
+- § 286 až 293 — způsoby a postupy zpeněžení,
+- § 298 — vydání výtěžku zpeněžení zajištěnému věřiteli.
 
-**Pravidlo pro jednotky podle § 1188 OZ** (odst. 4) — nabídka oprávněným osobám (typicky spoluvlastníci, nájemci).
+### Souvisící předpisy
 
-**Lhůta 3 měsíce** (odst. 5) — od doručení nabídky pro využití předkupního práva; nevyužije-li, správce volně prodá.
+- § 1187 a § 1188 zákona č. 89/2012 Sb., občanský zákoník — zvláštní režimy prvního převodu jednotky, na které přímo odkazují § 284 odst. 3 a 4,
+- zákon č. 72/1994 Sb., o vlastnictví bytů, zrušený k 1. 1. 2014 — práva nájemců podle tohoto zákona výslovně zachovává poslední věta § 284 odst. 4,
+- § 2 písm. g) a § 6 zákona č. 114/1995 Sb., o vnitrozemské plavbě — vymezení pozemní části přístavu a veřejného přístavu.
 
-### F. Kazuistika
+### Z důvodové zprávy
 
-**1. Modelová situace.** V majetkové podstatě dlužníka (s. r. o.) je bytový dům rozdělený na jednotky, z nichž tři jsou pronajaté nájemcům-fyzickým osobám. K pozemku přiléhajícímu k veřejnému přístavu (jiné aktivum téhož dlužníka) má zájem soukromý developer. Současně ke všem nemovitostem existuje smluvní předkupní právo dřívějšího obchodního partnera dlužníka, zapsané v katastru. Insolvenční správce chce nemovitosti zpeněžit co nejvýhodněji. Důkazy: výpis z katastru s poznámkou o smluvním předkupním právu a o zákonném předkupním právu nájemců, nájemní smlouvy, doklad o tom, že pozemek tvoří pozemní část veřejného přístavu.
+Původní důvodová zpráva označila § 284 za úpravu předkupního práva v konkursu a u odstavce 1 zdůraznila nově zaváděné zákonné předkupní právo státu k nemovitostem tvořícím část veřejného přístavu. Důvodová zpráva k zákonu č. 294/2013 Sb. vysvětlila doplnění odstavců 3 až 5 návazností na zrušení zákona č. 72/1994 Sb. a přenesení jeho ochranných schémat zejména do § 1187 a § 1188 občanského zákoníku; záměrem nebylo ochranu opustit, ale reagovat na její novou formulaci.
 
-**2. Právní otázka.** Která předkupní práva je insolvenční správce při zpeněžení povinen respektovat (a komu a v jaké lhůtě musí učinit nabídku) a která může pominout?
+### Literatura
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 284 IZ — zákonná předkupní práva závazná, smluvní nezávazná (odst. 2); předkupní právo státu u nemovitostí veřejného přístavu (odst. 1); předkupní právo nájemce bytu dle § 1187 OZ (odst. 3) a nabídková povinnost dle § 1188 OZ (odst. 4).
-- *Související ustanovení téhož zákona:* § 283 (rámec zpeněžení); § 285 odst. 1 písm. b) (zánik *neuplatněných* předkupních práv dle § 284 odst. 3 a 4 zpeněžením); § 286 (způsoby zpeněžení).
-- *Související předpisy:* § 1187 OZ (zákonné předkupní právo nájemce při prvním převodu jednotky); § 1188 OZ (nabídková povinnost); § 2140 a násl. OZ (obecná úprava předkupního práva, lhůty).
-- *Judikatura:* nosný závěr, že smluvní omezení dispozice (předkupní práva, zákazy zcizení) nemohou jednostranně zhoršovat uspokojení věřitelů v insolvenci; zákonná předkupní práva s veřejným zájmem jsou naopak respektována.
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tato poznámka není výsledkem negativní rešerše.
 
-**4. Subsumpce.** Smluvní předkupní právo obchodního partnera: znak „smluvní" naplněn — správce jím *není vázán* (odst. 2) a může prodat třetímu; zápis v katastru zanikne zpeněžením (§ 285). Předkupní právo státu u pozemní části veřejného přístavu (odst. 1) je *zákonné* — závazné, nutno nabídnout státu. Předkupní/nabídková práva nájemců bytů dle § 1187/§ 1188 OZ (odst. 3, 4) jsou *zákonná* — správce musí učinit nabídku oprávněným nájemcům před prodejem cizím.
+### Výklad
 
-**5. Řešení.** Správce: (a) u pozemku přístavu nabídne přednostně státu (odst. 1); (b) u bytových jednotek při prvním převodu nabídne jednotky nájemcům (§ 1187 OZ) resp. oprávněným osobám (§ 1188 OZ); (c) smluvní předkupní právo partnera ignoruje a prodává volně. Nabídku doloží do spisu; nevyužijí-li oprávnění právo v zákonné lhůtě (zpravidla 3 měsíce u nemovitostí), správce prodá třetímu a neuplatněná předkupní práva zaniknou zpeněžením (§ 285 odst. 1 písm. b)). Riziko: opomenutí *zákonné* nabídky nájemcům by mohlo založit neplatnost/odpovědnost; opomenutí *smluvního* práva je bez následku.
+[1] **Základní rozlišení.** Odstavec 2 stanoví přímo pro zpeněžování majetkové podstaty rozdílný režim podle původu předkupního práva: zákonným právem je správce vázán, smluvním nikoli. Pro použití normy je proto nutné nejprve určit právní titul konkrétního práva; samotný zápis ve veřejném seznamu neodpovídá na otázku, zda jde o právo zákonné, nebo smluvní.
 
-**6. Varianty.** (a) Nájemce ve lhůtě řádně přijme nabídku a složí cenu — správce je povinen převést jednotku jemu, nikoli vyššímu nabízejícímu. (b) Pozemek netvoří pozemní část veřejného přístavu, jen běžný pozemek u vody — předkupní právo státu dle odst. 1 nevzniká a správce prodá volně.
+[2] **Předkupní právo státu.** Odstavec 1 dopadá jen na nemovitosti, které tvoří pozemní část veřejného přístavu. Nestačí pouhá poloha u vodní cesty; rozhodná je právní a skutková kvalifikace nemovitosti podle příslušné plavební úpravy.
 
-### G. Protiargumenty a rizika
+[3] **První převod jednotky podle § 1187 OZ.** Odstavec 3 vymezuje vlastní znaky chráněného postavení: musí jít o nájemce bytu, který je fyzickou osobou, o jednotku zahrnutou do majetkové podstaty a o její první převod podle § 1187 občanského zákoníku. Žádný z těchto znaků nelze nahradit obecným zjištěním, že jednotku užívá nájemce.
 
-- *Protiargument:* „Smluvní předkupní právo zapsané v katastru musí správce respektovat." Neutralizace: odst. 2 výslovně stanoví, že smluvními předkupními právy správce *není vázán*; zápis sám závaznost v insolvenci nezakládá a zanikne zpeněžením (§ 285).
-- *Protiargument:* „Nabídka nájemci jen prodlužuje zpeněžení a lze ji vynechat." Neutralizace: jde o *zákonné* předkupní/nabídkové právo (§ 1187, § 1188 OZ via odst. 3 a 4) — jeho opomenutí je vadou s rizikem neplatnosti převodu a odpovědnosti správce.
-- *Slabá místa:* posouzení, zda jde o „první převod" jednotky dle § 1187 OZ a kdo přesně je „oprávněnou osobou" dle § 1188 OZ; nejasná může být i délka a běh lhůty k přijetí nabídky.
+[4] **Nabídka podle § 1188 OZ a starší bytová práva.** První věta odstavce 4 ukládá nabídnout převod jednotky oprávněným osobám v souladu s § 1188 občanského zákoníku. Druhá věta samostatně zachovává vázanost právy nájemců podle zákona o vlastnictví bytů. Tyto dvě věty proto nelze sloučit do neurčitého obecného „předkupního práva nájemců“.
 
-### H. Praktický závěr
+[5] **Úkony, náklady a odměna.** Správce zajišťuje úkony nezbytné k převodům podle odstavců 3 a 4. Náhradu nezbytně vynaložených nákladů a odměnu podle zvláštního právního předpisu mu poskytují osoby oprávněné podle těchto odstavců. Konkrétní výši nelze určit jen z § 284; je třeba použít rozhodný prováděcí předpis a skutkové okolnosti převodu.
 
-Při zpeněžení správce dělí předkupní práva na zákonná (závazná — stát u přístavu, nájemci bytů dle § 1187/§ 1188 OZ) a smluvní (nezávazná). Zákonná musí přednostně nabídnout oprávněným; smluvní pomíjí. Neuplatněná zákonná předkupní práva zpeněžením zanikají.
+[6] **Tříměsíční lhůta.** Lhůta běží ode dne doručení nabídky insolvenčního správce a vztahuje se výhradně na právo na převedení jednotky osob oprávněných podle odstavce 3 nebo 4. Po jejím marném uplynutí může správce jednotku zpeněžit postupem podle insolvenčního zákona. Z textu nelze vytvořit obecnou tříměsíční lhůtu pro všechna zákonná předkupní práva ani pro nemovitosti obecně.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Jde o zákonné, nebo smluvní předkupní právo (jen zákonné je závazné)?
-- [ ] Netvoří nemovitost pozemní část veřejného přístavu (předkupní právo státu)?
-- [ ] Jde u jednotek o první převod s předkupním právem nájemce dle § 1187 OZ / nabídkovou povinností dle § 1188 OZ?
-- [ ] Byla oprávněným učiněna nabídka a uplynula lhůta k jejímu přijetí (zpravidla 3 měsíce)?
-- [ ] Je nabídka a její (ne)využití doloženo ve spisu pro případ sporu o platnost prodeje?
+[7] **Vazba na § 285.** § 285 odst. 1 písm. b) výslovně řadí neuplatněná předkupní práva podle § 284 odst. 3 a 4 mezi závady, které zpeněžením zanikají, není-li dále stanoveno jinak. Toto pravidlo nelze bez dalšího rozšířit na každý myslitelný následek porušení nabídkové povinnosti; zejména § 284 sám nestanoví univerzální sankci neplatnosti převodu.
 
-**Typicky rozhodné důkazy / podklady:** výpis z katastru s poznámkami o předkupních právech; nájemní smlouvy a doklad o prvním převodu jednotky; doklad o povaze pozemku (veřejný přístav); nabídka oprávněným osobám a doklad o doručení; doklad o (ne)využití práva ve lhůtě.
+[8] **Intertemporalita.** Původní § 284 obsahoval jen odstavce 1 a 2. Zákon č. 294/2013 Sb. s účinností od 1. 1. 2014 doplnil první větu odstavce 2 a odstavce 3 až 5. U zpeněžení a právních poměrů s dřívějším rozhodným okamžikem je nutné ověřit tehdejší znění, přechodná ustanovení a případný vznik práv podle zákona č. 72/1994 Sb.
+
+### Judikatura
+
+V tomto kole nebylo použito žádné rozhodnutí jako nosný pramen výkladu § 284. Stávající text uváděl jen neurčitou judikatorní tezi bez soudu, data a spisové značky; ta byla odstraněna. Tím se nevyslovuje, že k § 284 neexistuje relevantní judikatura.
 
 ---
 

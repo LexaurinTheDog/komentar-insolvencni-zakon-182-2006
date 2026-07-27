@@ -1450,74 +1450,96 @@ Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k př�
 
 ## § 270 — § 276 — Vypořádání SJM v konkursu
 
-**Judikatura (z místních zdrojů):**
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-- *NS* [29 ICdo 36/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/ED8069B69B19DA9CC1258A63003185BC?openDocument) — kat. A, 30. 5. 2023
-  > „Usnesení, jímž insolvenční soud schválil dohodu o vypořádání společného jmění manželů uzavřenou insolvenčním správcem (popř. insolvenčními správci), lze napadnout (jen) návrhem (žalobou) na jeho zrušení, který lze podat do tří let od právní moci usnesení o jejím schválení. Insolvenční soud může zrušit usnesení o schválení takové dohody, je-li neplatná podle hmotného práva vyvolaný spor není incidenčním sporem"
+### Znění ustanovení
 
-### Souhrnný výklad
+> **§ 270**
+>
+> (1) Prohlášením konkursu přechází na insolvenčního správce oprávnění uzavřít dohodu o vypořádání společného jmění manželů nebo navrhnout jeho vypořádání u soudu. Dohody o vypořádání společného jmění manželů uzavřené dlužníkem po prohlášení konkursu jsou neplatné.
+>
+> (2) Část společného jmění manželů, kterou dlužník použil se souhlasem manžela k podnikání, spadá při vypořádání společného jmění manželů vždy do majetkové podstaty.
+>
+> **§ 271**
+>
+> (1) Dohoda o vypořádání společného jmění manželů uzavřená insolvenčním správcem je účinná, jakmile ji schválí insolvenční soud.
+>
+> (2) Insolvenční soud dohodu o vypořádání společného jmění manželů neschválí, je-li v rozporu s právními předpisy nebo jestliže s ní nesouhlasí věřitelský výbor.
+>
+> (3) Insolvenčním soudem schválená dohoda o vypořádání společného jmění manželů má účinky pravomocného rozsudku. Pro zrušení rozhodnutí o schválení dohody platí obdobně ustanovení občanského soudního řádu o zrušení usnesení o schválení smíru.
+>
+> **§ 272**
+>
+> Proti rozhodnutí o schválení dohody o vypořádání společného jmění manželů není odvolání přípustné. Proti rozhodnutí, kterým insolvenční soud tuto dohodu neschválí, se mohou odvolat jen účastníci dohody.
+>
+> **§ 273**
+>
+> (1) Probíhá-li řízení o vypořádání společného jmění manželů, stává se insolvenční správce prohlášením konkursu účastníkem tohoto řízení místo dlužníka. Trvají-li účinky rozhodnutí o úpadku, nelze toto řízení skončit soudním smírem.
+>
+> (2) Bylo-li podáno odvolání proti rozhodnutí, jímž insolvenční soud neschválil dohodu o vypořádání společného jmění manželů, soud řízení o vypořádání společného jmění manželů přeruší až do rozhodnutí odvolacího soudu.
+>
+> **§ 274**
+>
+> (1) Nelze-li provést vypořádání společného jmění manželů proto, že závazky dlužníka, které z něj mohou být uspokojeny, jsou vyšší než majetek, který náleží do společného jmění manželů, zahrne se celý majetek náležející do společného jmění manželů do majetkové podstaty. Výtěžek zpeněžení majetku náležejícího do společného jmění manželů se vypořádá přiměřeně podle pravidel pro vypořádání společného jmění manželů.
+>
+> (2) Pokud jsou vedena insolvenční řízení dlužníka i insolvenční řízení jeho manžela nebo bývalého manžela, zpeněžuje se majetek náležející do jejich společného jmění manželů podle odstavce 1 v insolvenčním řízení, ve kterém dříve nastaly účinky prohlášení konkursu nebo ve kterém zajištěný věřitel dříve požádal o zpeněžení majetku, který slouží k zajištění; v tomto řízení se také vypořádá výtěžek zpeněžení.
+>
+> **§ 275**
+>
+> Pohledávka manžela dlužníka vzniklá po prohlášení konkursu vypořádáním společného jmění manželů se považuje za přihlášenou pohledávku a uspokojí se stejně jako tyto pohledávky.
+>
+> **§ 276**
+>
+> (1) Po dobu trvání účinků prohlášení konkursu nemůže vzniknout nové společné jmění manželů; uzavře-li dlužník nové manželství, odkládá se vznik společného jmění manželů ke dni zániku těchto účinků.
+>
+> (2) Smlouvy o rozšíření společného jmění manželů, které odporují odstavci 1 nebo jej obcházejí, jsou neplatné.
 
-**§ 270 — Přechod oprávnění** na správce:
-- *uzavřít dohodu* o vypořádání,
-- *navrhnout soudní vypořádání*.
-- *Dohody dlužníka* po konkursu = *neplatné*.
-- *Majetek SJM použitý pro podnikání* (se souhlasem manžela) — *celý do podstaty*.
+### Přehled výkladu
 
-**§ 271 — § 272** — *schválení dohody* soudem (souhlas věřitelského výboru); odvolání jen účastníky dohody, jen proti neschválení.
+Prohlášením konkursu se oprávnění vypořádat SJM přesouvá z dlužníka na insolvenčního správce. Dohoda správce nabývá účinnosti až schválením insolvenčního soudu. Zvláštní pravidla řeší probíhající soudní řízení, SJM s převahou uspokojitelných závazků, souběžné insolvence manželů, postavení pohledávky druhého manžela i zákaz vzniku nového SJM za trvání účinků konkursu.
 
-**§ 273** — *probíhající řízení* o vypořádání SJM — *správce nastoupí* za dlužníka. *Smírem* nelze skončit.
+### Souvisící ustanovení
 
-**§ 274 — Předlužené SJM**:
-> *Pokud závazky dlužníka z SJM jsou vyšší než hodnota SJM, **celý** SJM do podstaty.*
+- § 159 odst. 1 písm. c), § 229 odst. 3 písm. c), § 246 odst. 1, § 268–269, § 286 a násl. insolvenčního zákona.
 
-Toto je *dramatický* dopad: manžel dlužníka *přijde* o *celý* podíl, pokud SJM nepokrývá dlužníkovy závazky.
+### Souvisící předpisy
 
-**§ 275 — Pohledávka manžela** po vypořádání = *přihláška*.
+- § 709 a násl., zejména § 736 a násl. zákona č. 89/2012 Sb., občanského zákoníku.
+- § 99 odst. 3 zákona č. 99/1963 Sb., občanského soudního řádu.
 
-**§ 276 — Po dobu konkursu**:
-- *nemůže vzniknout nové SJM* (i kdyby dlužník uzavřel nové manželství — odklad vzniku až na konec účinků konkursu),
-- *smlouvy o rozšíření SJM v rozporu* = *neplatné*.
+### Z důvodové zprávy
 
-### Vazby
+Oficiální důvodová zpráva k vládnímu návrhu insolvenčního zákona odůvodňuje § 268 až 276 společně. Zachovává základní koncepci dřívější úpravy, ale podrobněji promítá úpravu SJM do konkursu; zvlášť upozorňuje na § 274. Jde o historické odůvodnění původního znění, nikoli o výklad později doplněného § 274 odst. 2.
 
-- **§ 736 OZ** — vypořádání SJM (modifikováno IZ).
+### Literatura
 
-### F. Kazuistika
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Nejde o negativní rešerši.
 
-**1. Modelová situace.** Po prohlášení konkursu na dlužníka (FO-podnikatel) má být vypořádáno SJM. Insolvenční správce uzavřel s manželkou dlužníka dohodu o vypořádání SJM a insolvenční soud ji usnesením schválil; usnesení nabylo právní moci. Část majetku SJM přitom dlužník dlouhodobě užíval k podnikání (se souhlasem manželky). Závazky dlužníka spadající do SJM převyšují jeho hodnotu. Rok po schválení dohody manželka zjistí, že dohoda je dle hmotného práva neplatná, a chce se bránit. Důkazy: dohoda o vypořádání a usnesení o jejím schválení, doklad o podnikatelském užití majetku SJM, bilance závazků vs. hodnota SJM.
+### Výklad
 
-**2. Právní otázka.** Kdo vypořádává SJM v konkursu, jak se schvaluje dohoda a jak ji lze napadnout; co platí u majetku užívaného k podnikání a u předluženého SJM?
+[1] **Přechod oprávnění.** Správce může uzavřít dohodu nebo navrhnout vypořádání u soudu. Dlužníkova dohoda uzavřená po prohlášení konkursu je neplatná; do probíhajícího řízení vstupuje správce místo dlužníka.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 270 (přechod oprávnění k vypořádání na správce; dohody dlužníka po konkursu neplatné; majetek SJM užitý k podnikání se souhlasem manžela — celý do podstaty), § 271–272 (schválení dohody soudem se souhlasem věřitelského výboru; odvolání jen účastníky dohody proti neschválení), § 273 (probíhající řízení o vypořádání — nastupuje správce; smírem nelze skončit), § 274 (předlužené SJM — celé do podstaty), § 275 (pohledávka manžela po vypořádání = přihláška), § 276 (po dobu konkursu nemůže vzniknout nové SJM; smlouvy o rozšíření v rozporu neplatné).
-- *Související ustanovení téhož zákona:* § 268 (zánik SJM), § 269 (neplatnost smluv mezi manželi), § 173 (přihláška).
-- *Související předpisy:* § 736 OZ (vypořádání SJM, modifikováno IZ), pravidla o neplatnosti právních jednání (§ 580 a násl. OZ).
-- *Judikatura:* místní zdroj NS 29 ICdo 36/2023 — usnesení o schválení dohody o vypořádání SJM lze napadnout (jen) žalobou na jeho zrušení do tří let od právní moci; soud může usnesení zrušit, je-li dohoda neplatná dle hmotného práva; vyvolaný spor není incidenčním sporem.
+[2] **Podnikatelsky použitá část SJM.** Do podstaty při vypořádání vždy spadá právě ta část SJM, kterou dlužník použil k podnikání se souhlasem manžela. Pravidlo nelze bez dalšího rozšířit na všechen majetek užívaný při podnikání ani na celé SJM.
 
-**4. Subsumpce.** Vypořádání SJM provedl správce (§ 270). Dohoda byla schválena soudem se souhlasem věřitelského výboru (§ 271–272). Majetek SJM užívaný k podnikání se souhlasem manželky → § 270: celý do podstaty. Závazky převyšují hodnotu SJM → § 274: celé SJM do podstaty. Manželka může napadnout schvalovací usnesení dle NS 29 ICdo 36/2023 jen žalobou na zrušení do tří let od právní moci, je-li dohoda neplatná dle hmotného práva.
+[3] **Schválení dohody.** Dohoda správce je do schválení soudem neúčinná. Soud ji neschválí při rozporu s právními předpisy ani při nesouhlasu věřitelského výboru. Schválená dohoda má účinky pravomocného rozsudku.
 
-**5. Řešení.** Manželka nemůže neplatnost uplatnit běžnou námitkou ani odvoláním (které přísluší jen proti neschválení a jen účastníkům dohody), nýbrž žalobou na zrušení schvalovacího usnesení do tří let od právní moci (NS 29 ICdo 36/2023); spor není incidenční. Majetek užitý k podnikání a celé předlužené SJM náleží do podstaty. Pohledávku z vypořádání manželka uplatní přihláškou (§ 275). Procesní kroky: posouzení hmotněprávní platnosti dohody, případná žaloba na zrušení v tříleté lhůtě.
+[4] **Procesní obrana.** Proti schválení dohody odvolání přípustné není; proti neschválení se mohou odvolat jen účastníci dohody. Zrušení pravomocného schvalovacího usnesení se řídí obdobně § 99 odst. 3 o. s. ř.
 
-**6. Varianty.** (a) SJM by nebylo předlužené a majetek by nebyl užit k podnikání — pak by se manželce vypořádával standardní podíl a do podstaty by připadla jen „polovina", nikoli celé SJM. (b) Dlužník by sám po konkursu uzavřel dohodu o vypořádání (bez správce) — dle § 270 by byla neplatná.
+[5] **Probíhající řízení.** Za trvání účinků rozhodnutí o úpadku nelze řízení skončit soudním smírem. Je-li napadeno neschválení dohody, vypořádací řízení se přeruší do rozhodnutí odvolacího soudu.
 
-### G. Protiargumenty a rizika
+[6] **Převaha závazků.** § 274 odst. 1 se použije, jen nelze-li SJM vypořádat proto, že závazky dlužníka, které z něj mohou být uspokojeny, převyšují majetek v SJM. Celý tento majetek se zahrne do podstaty, avšak výtěžek se přiměřeně vypořádá. Zákon proto nepodporuje zkratku, že druhý manžel vždy bez dalšího „přijde o celý podíl“.
 
-- *Protiargument manželky:* „Proti schválení dohody jsem mohla podat odvolání kdykoli." Neutralizace: odvolání přísluší jen účastníkům dohody a jen proti neschválení; proti schválení je nástrojem žaloba na zrušení do tří let (NS 29 ICdo 36/2023).
-- *Protiargument:* „Majetek užívaný k podnikání patří zčásti mně." Neutralizace: § 270 — majetek SJM užitý k podnikání se souhlasem manžela připadá do podstaty celý.
-- *Protiargument:* „Mám nárok na polovinu SJM bez ohledu na dluhy." Neutralizace: § 274 — je-li SJM předlužené, připadá do podstaty celé; manželce zbývá jen přihláška (§ 275).
-- *Slabé místo:* běh tříleté prekluzivní lhůty k žalobě na zrušení; prokázání hmotněprávní neplatnosti dohody; a doložení „souhlasu manžela" s podnikatelským užitím majetku.
+[7] **Souběžné insolvence.** § 274 odst. 2 určuje jediné řízení pro zpeněžení a vypořádání výtěžku podle časové priority účinků konkursu, popřípadě dřívější žádosti zajištěného věřitele.
 
-### H. Praktický závěr
+[8] **Fikce přihlášení.** Pohledávku druhého manžela vzniklou vypořádáním SJM § 275 sám považuje za přihlášenou; neukládá podat novou přihlášku.
 
-Vypořádání SJM v konkursu provádí správce; dohodu schvaluje soud se souhlasem věřitelského výboru a napadnout schvalovací usnesení lze jen žalobou na jeho zrušení do tří let od právní moci (je-li dohoda hmotněprávně neplatná). Majetek užitý k podnikání i předlužené SJM připadají do podstaty celé; nárok manžela je jen přihláškou.
+[9] **Nové SJM.** Za trvání účinků konkursu nové SJM nevznikne. Při novém manželství se jeho vznik odloží a odporující nebo obcházející smlouva o rozšíření SJM je neplatná.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Vypořádání SJM vést výhradně přes správce; dohody dlužníka po konkursu jsou neplatné (§ 270).
-- [ ] Zajistit schválení dohody soudem se souhlasem věřitelského výboru (§ 271–272).
-- [ ] U majetku užitého k podnikání a u předluženého SJM počítat s připadnutím celého SJM do podstaty (§ 270, § 274).
-- [ ] Napadení schvalovacího usnesení řešit žalobou na zrušení do tří let od právní moci (NS 29 ICdo 36/2023); pohledávku manžela přihlásit (§ 275).
+[10] **Intertemporalita.** Je nutné určit rozhodné znění insolvenčního zákona i občanského práva. § 274 odst. 2 je účinný od 1. 6. 2019; starší judikaturu nelze v této části mechanicky přenést na současný text.
 
-**Typicky rozhodné důkazy / podklady:** dohoda o vypořádání SJM a usnesení o jejím schválení s vyznačením právní moci, doklad o souhlasu manžela s podnikatelským užitím majetku, bilance závazků a hodnoty SJM, přihláška pohledávky manžela.
+### Judikatura
+
+Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita. Nejde o závěr, že relevantní judikatura neexistuje; judikatorní vrstva bude doplněna jen z pramene, jehož fyzický snapshot lze řádně uložit do centrálního adresáře zdrojů.
 
 ---
 

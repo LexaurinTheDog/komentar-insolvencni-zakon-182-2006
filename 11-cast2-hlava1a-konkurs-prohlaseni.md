@@ -886,61 +886,62 @@ V tomto kole nebylo použito žádné rozhodnutí. Místní rešeršní pomůcky
 
 ## § 261 — Provoz dlužníkova podniku
 
-> (1) Prohlášením konkursu **nekončí provoz dlužníkova podniku**, nestanoví-li zvláštní právní předpis jinak.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Prohlášením konkursu nekončí provoz dlužníkova podniku, nestanoví-li zvláštní právní předpis jinak.
+>
 > (2) Provoz dlužníkova podniku skončí
-> a) **prodejem podniku jednou smlouvou** v rámci zpeněžení majetkové podstaty,
-> b) **rozhodnutím insolvenčního soudu** vydaným na návrh insolvenčního správce po vyjádření věřitelského výboru, byl-li již zvolen nebo jmenován; rozhodnutí se doručuje insolvenčnímu správci, dlužníku a věřitelskému výboru a zveřejňuje se vyhláškou; odvolání proti němu není přípustné.
+>
+> a) prodejem podniku jednou smlouvou v rámci zpeněžení majetkové podstaty,
+>
+> b) rozhodnutím insolvenčního soudu vydaným na návrh insolvenčního správce po vyjádření věřitelského výboru, byl-li již zvolen nebo jmenován; rozhodnutí se doručuje insolvenčnímu správci, dlužníku a věřitelskému výboru a zveřejňuje se vyhláškou; odvolání proti němu není přípustné.
 
-### Výklad — **KLÍČOVÁ STRATEGICKÁ VOLBA**
+### Přehled výkladu
 
-**Konkurs *automaticky neznamená* zánik podniku.** Provoz **pokračuje** pod vedením správce, dokud:
-- *nedojde k prodeji podniku jako celku* (§ 290 — „going concern"),
-- nebo *soud rozhodne o ukončení provozu* (na návrh správce + vyjádření výboru).
+Prohlášení konkursu samo provoz dlužníkova podniku neukončuje. Zákon rozlišuje výjimku stanovenou zvláštním právním předpisem a dva způsoby skončení podle odstavce 2: prodej podniku jednou smlouvou při zpeněžení majetkové podstaty nebo rozhodnutí insolvenčního soudu vydané v přesně vymezeném návrhovém a konzultačním režimu.
 
-> *Logika*: zachování provozu je *výhodnější* pro maximalizaci výtěžku (going concern hodnota > likvidační hodnota). Ukončení se volí, pokud:
-> - provoz **generuje ztráty**,
-> - **nelze najít kupce** podniku,
-> - **regulační důvody** (zvláštní předpisy — typicky banky).
+### Souvisící ustanovení
 
-### Vazby
+- **§ 246 odst. 1** — přechod dispozičních oprávnění po prohlášení konkursu a povinnost insolvenčního správce zajišťovat provoz dlužníkova podniku.
+- **§ 281** — zpráva insolvenčního správce o hospodářské situaci dlužníka, která obsahuje zejména porovnání majetkové podstaty se závazky a vyjádření k možnosti dalšího využití dlužníkova podniku.
+- **§ 290 odst. 1** — prodej dlužníkova podniku jedinou smlouvou v konkursu.
+- **§ 262** — další účinky prohlášení konkursu podle zvláštních právních předpisů.
 
-- **§ 290** — prodej podniku jednou smlouvou.
+### Souvisící předpisy
 
-### F. Kazuistika
+Odstavec 1 výslovně zachovává odchylnou úpravu zvláštního právního předpisu. § 261 proto není dostatečným podkladem pro závěr o možnosti pokračovat v provozu tam, kde zvláštní předpis spojuje s konkursem jiný následek; použitelnou odvětvovou úpravu je nutno určit podle osoby dlužníka a předmětu jeho činnosti.
 
-**1. Modelová situace.** Dlužník (výrobní s.r.o.) zaměstnává 40 lidí a má rozjeté zakázky; po prohlášení konkursu provoz dosud běží pod správcem. Správce zvažuje, zda podnik dále provozovat do nalezení kupce (going concern), nebo provoz ukončit, protože poslední dva měsíce generuje ztrátu a poptávka po koupi je nejistá. Věřitelský výbor byl již zvolen. Důkazy: mezitímní účetní závěrka, výsledovka provozu po konkursu, jednání o prodeji podniku, zápis z věřitelského výboru.
+### Z důvodové zprávy
 
-**2. Právní otázka.** Pokračuje provoz dlužníkova podniku po konkursu automaticky a za jakých podmínek lze provoz ukončit?
+Oficiální důvodová zpráva k vládnímu návrhu insolvenčního zákona uvádí, že osnova zachovává možnost pokračování provozu dlužníkova podniku v konkursu a spojuje ji s možností prodat podnik jedinou smlouvou podle § 290 odst. 1. Jde o historické vysvětlení původního návrhu, nikoli o samostatné pravidlo nad rámec účinného textu.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 261 odst. 1 (prohlášením konkursu provoz podniku **nekončí**, nestanoví-li zvláštní předpis jinak), odst. 2 (provoz skončí prodejem podniku jednou smlouvou, nebo rozhodnutím insolvenčního soudu na návrh správce po vyjádření věřitelského výboru; rozhodnutí se doručuje a zveřejňuje, odvolání není přípustné).
-- *Související ustanovení téhož zákona:* § 290 (prodej podniku jednou smlouvou — „going concern"), § 246 odst. 1 (správce zajišťuje provoz podniku), § 168 (provozní pohledávky za podstatou), § 281 (zpráva o hospodářské situaci a využitelnosti podniku).
-- *Související předpisy:* zvláštní předpisy (např. bankovní/regulatorní), zákoník práce (zaměstnanecké vztahy).
-- *Judikatura:* nosný závěr, že zachování provozu slouží maximalizaci výtěžku (going concern hodnota > likvidační), pokud provoz negeneruje ztráty a existuje reálná perspektiva prodeje.
+### Literatura
 
-**4. Subsumpce.** Po konkursu provoz dle § 261 odst. 1 pokračuje automaticky pod správcem. Ukončení je možné jen dvěma způsoby (odst. 2): prodejem podniku jednou smlouvou (§ 290), nebo rozhodnutím soudu na návrh správce po vyjádření věřitelského výboru. Zde věřitelský výbor existuje, takže k návrhu na ukončení je třeba jeho vyjádření; ztrátovost a nejistý prodej jsou věcným důvodem návrhu.
+Odborná literatura nebyla v tomto kole hodnocena; její zpracování je odloženo do druhého kola. Nejde o negativní rešerši.
 
-**5. Řešení.** Správce nejprve vyhodnotí (i ve zprávě dle § 281), zda je going concern udržitelný; je-li provoz trvale ztrátový a kupec nejistý, podá insolvenčnímu soudu návrh na ukončení provozu a vyžádá si vyjádření věřitelského výboru. Soud rozhodne; rozhodnutí se doručí správci, dlužníku a výboru a zveřejní vyhláškou, odvolání není přípustné. Provozní pohledávky vzniklé do ukončení jsou pohledávkami za podstatou (§ 168). Procesní kroky: ekonomická analýza, návrh na ukončení, vyjádření výboru, rozhodnutí soudu.
+### Výklad
 
-**6. Varianty.** (a) Najde se kupec celého podniku — provoz skončí prodejem podniku jednou smlouvou (§ 290 / § 261 odst. 2 písm. a)) bez nutnosti rozhodnutí o ukončení. (b) Zvláštní předpis (typicky u regulovaných subjektů — banky) stanoví ukončení/zákaz provozu jinak — pak má přednost zvláštní úprava (§ 261 odst. 1 in fine, § 262).
+[1] **Negativně vymezený účinek konkursu.** Odstavec 1 stanoví, že samotným prohlášením konkursu provoz nekončí. Toto pravidlo nelze zaměnit za příkaz provoz fakticky zachovat v nezměněném rozsahu ani za závěr, že se prohlášením konkursu nemění osoba s dispozičními oprávněními. Tu určuje zejména § 246 odst. 1.
 
-### G. Protiargumenty a rizika
+[2] **Úloha insolvenčního správce.** Podle § 246 odst. 1 přechází prohlášením konkursu na insolvenčního správce oprávnění nakládat s majetkovou podstatou a správce mimo jiné zajišťuje provoz dlužníkova podniku. § 261 vymezuje trvání a skončení provozu; sám nepodává úplný výčet jednotlivých provozních rozhodnutí ani pravidel jejich financování.
 
-- *Protiargument:* „Konkurs znamená konec firmy, provoz musí ihned skončit." Neutralizace: § 261 odst. 1 — provoz prohlášením konkursu nekončí; ukončit jej lze jen způsoby dle odst. 2.
-- *Protiargument:* „Správce může provoz ukončit sám." Neutralizace: ukončení rozhodnutím soudu vyžaduje návrh správce a vyjádření věřitelského výboru (byl-li zvolen).
-- *Slabé místo:* odhad going concern vs. likvidační hodnoty je zatížen nejistotou; pokračování ztrátového provozu může zhoršit podstatu (riziko odpovědnosti správce), naopak předčasné ukončení může zmařit výhodnější prodej.
+[3] **Zvláštní právní předpis.** Výhrada v odstavci 1 působí přímo. Před použitím obecného pravidla je proto třeba ověřit, zda na dlužníka nebo jeho činnost nedopadá zvláštní předpis s odlišným účinkem konkursu. Bez určení konkrétního zvláštního předpisu nelze obecně dovozovat ani okamžik, ani rozsah takové odchylky.
 
-### H. Praktický závěr
+[4] **Prodej podniku jednou smlouvou.** První způsob skončení podle odstavce 2 nastává prodejem podniku jednou smlouvou v rámci zpeněžení majetkové podstaty. Navazující § 290 odst. 1 upravuje podmínky takového prodeje. § 261 odst. 2 písm. a) nespojuje skončení provozu s pouhým zahájením jednání o prodeji ani s dílčím zpeněžováním majetku.
 
-Konkurs neznamená automatický zánik podniku — provoz pokračuje pod správcem, dokud nedojde k prodeji podniku jednou smlouvou nebo k rozhodnutí soudu o ukončení provozu (na návrh správce a po vyjádření věřitelského výboru). Volba mezi pokračováním a ukončením je strategická a řídí se maximalizací výtěžku.
+[5] **Rozhodnutí soudu.** Druhý způsob vyžaduje návrh insolvenčního správce. Byl-li již věřitelský výbor zvolen nebo jmenován, musí jeho rozhodnutí předcházet vyjádření výboru; zákon nevyžaduje jeho souhlas. Návrh jiné osoby ani samostatné rozhodnutí insolvenčního správce zákonnou konstrukci písmene b) nenahrazují.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Vyhodnotit udržitelnost provozu (going concern vs. likvidace), využít zprávu dle § 281.
-- [ ] Při ukončení podat návrh soudu a vyžádat vyjádření věřitelského výboru (byl-li zvolen).
-- [ ] Zvážit prodej podniku jednou smlouvou (§ 290) jako alternativu ukončení.
-- [ ] Provozní pohledávky vést jako pohledávky za podstatou; respektovat zvláštní předpisy u regulovaných subjektů.
+[6] **Doručení, zveřejnění a opravný prostředek.** Rozhodnutí se doručuje insolvenčnímu správci, dlužníku a věřitelskému výboru a současně se zveřejňuje vyhláškou. Odvolání proti němu zákon výslovně vylučuje. Tato pravidla nelze rozšiřovat na rozhodnutí nebo úkony podle jiných ustanovení bez jejich samostatného ověření.
 
-**Typicky rozhodné důkazy / podklady:** mezitímní účetní závěrka a výsledovka provozu po konkursu, zpráva o hospodářské situaci (§ 281), doklady o jednání o prodeji podniku, návrh na ukončení provozu a vyjádření věřitelského výboru, rozhodnutí soudu a vyhláška.
+[7] **Hospodářské podklady.** § 281 ukládá správci vyjádřit se ve zprávě o hospodářské situaci k možnosti dalšího využití dlužníkova podniku. Taková zpráva může poskytnout podklady pro další postup, avšak § 261 nestanoví číselný práh ztrátovosti, minimální dobu provozu ani domněnku, kdy má soud provoz ukončit.
+
+[8] **Intertemporalita.** Pro starší konkursy a skutkové děje je nutné ověřit znění § 261 i souvisících ustanovení účinné v rozhodné době a příslušná přechodná ustanovení. Historickou důvodovou zprávu nelze bez dalšího použít jako důkaz dnešního znění nebo pozdějších novelizačních účinků.
+
+### Judikatura
+
+V tomto kole nebylo použito žádné soudní rozhodnutí jako pramen samostatného pravidla k § 261. Stávající neurčitý odkaz na údajný „nosný závěr“ byl odstraněn, protože nebyl spojen s identifikovaným a plnotextově ověřeným rozhodnutím. Tím se nevyslovuje, že relevantní judikatura neexistuje.
 
 ---
 

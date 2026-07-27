@@ -14,56 +14,62 @@ Druhá část konkursní hlavy pokrývá *operativní fázi* řízení po stabil
 
 ## § 282 — Schůze věřitelů po konkursu
 
-> (1) Schůze věřitelů projedná zprávu insolvenčního správce o hospodářské situaci dlužníka se závěry, které představují **doporučení insolvenčnímu správci pro jeho další postup**.
-> (2) Schůze věřitelů dále rozhodne, zda a v jakém rozsahu se má dlužníku, který je fyzickou osobou, a jeho rodině poskytovat plnění z majetkové podstaty k úhradě jejich **odůvodněných existenčních potřeb**. Učiní tak na žádost dlužníka nebo některého z členů jeho rodiny.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Schůze věřitelů projedná zprávu insolvenčního správce o hospodářské situaci dlužníka se závěry, které představují doporučení insolvenčnímu správci pro jeho další postup.
+> (2) Schůze věřitelů dále rozhodne, zda a v jakém rozsahu se má dlužníku, který je fyzickou osobou, a jeho rodině poskytovat plnění z majetkové podstaty k úhradě jejich odůvodněných existenčních potřeb. Učiní tak na žádost dlužníka nebo některého z členů jeho rodiny.
+
+### Přehled výkladu
+
+§ 282 upravuje dvě odlišné působnosti schůze věřitelů po prohlášení konkursu. Schůze zaprvé projedná zprávu podle § 281 a její závěry mají výslovně jen povahu doporučení správci. Zadruhé na žádost rozhodne, zda a v jakém rozsahu bude z majetkové podstaty poskytováno plnění fyzické osobě-dlužníku a jeho rodině na jejich odůvodněné existenční potřeby.
+
+### Souvisící ustanovení
+
+- § 11 a § 12 — dohled insolvenčního soudu;
+- § 46 až 55 — obecná úprava schůze věřitelů, jejího svolání, hlasování a rozhodování;
+- § 58 — působnost věřitelského výboru a pravidla správy majetkové podstaty;
+- § 229 — osoby s dispozičním oprávněním;
+- § 230 — správa majetkové podstaty;
+- § 261 — provoz dlužníkova podniku v konkursu;
+- § 281 — zpráva insolvenčního správce o hospodářské situaci dlužníka;
+- § 283 odst. 2 — časové omezení zahájení zpeněžování;
+- § 304 — projednání konečné zprávy a vyúčtování na schůzi věřitelů.
+
+### Souvisící předpisy
+
+§ 282 neobsahuje zmocnění k prováděcímu předpisu. Ustanovení samo určuje předmět projednání, povahu závěrů, rozhodující orgán, okruh žadatelů a příjemců i účel plnění; obecný proces schůze upravuje insolvenční zákon.
+
+### Z důvodové zprávy
+
+Oficiální důvodová zpráva k vládnímu návrhu insolvenčního zákona projednává § 277 až 282 společně. Uvádí, že tato ustanovení promítají obecnou část do postupu v konkursu, a výslovně zmiňuje sestavení zprávy o hospodářské situaci dlužníka, kterou projednává schůze věřitelů (sněmovní tisk 1120/0, zvláštní část, „K § 277–282“, číslovaná s. 212, PDF s. 213). K plnění podle § 282 odst. 2 samostatné vysvětlení nepřipojuje. Jde o historický legislativní podklad, nikoli o náhradu aktuálního znění.
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Nejde o závěr, že k ustanovení relevantní literatura neexistuje.
 
 ### Výklad
 
-**Schůze projedná zprávu o hospodářské situaci** (§ 281) — *strategická diskuse* nad budoucím postupem:
-- pokračovat v provozu nebo ukončit,
-- prodat podnik vcelku (§ 290) nebo po částech,
-- jaké zajištění a kdy zpeněžit.
+[1] **Dvě rozdílné působnosti.** Odstavec 1 používá slovesa „projedná“ a „představují doporučení“, kdežto odstavec 2 „rozhodne“. Tyto následky nelze směšovat: závěry ke zprávě nejsou podle § 282 odst. 1 závazným pokynem, zatímco o poskytování plnění podle odstavce 2 rozhoduje schůze.
 
-**Plnění FO-dlužníkovi na existenční potřeby** (odst. 2) — *humanitární institut*: dlužník nebo člen rodiny **může požádat o plnění z podstaty** na základní potřeby. Schůze rozhodne o **rozsahu**.
+[2] **Podklad pro projednání.** Předmětem odstavce 1 je zpráva insolvenčního správce podle § 281. Ta zachycuje hospodářskou situaci ke dni prohlášení konkursu a musí být soudu předložena nejméně deset dní před první schůzí věřitelů svolanou po prohlášení konkursu. § 282 neurčuje uzavřený katalog otázek, k nimž schůze může ve svých závěrech formulovat doporučení; jejich rámec vymezuje projednávaná zpráva a další zákonné působnosti dotčených orgánů.
 
-> *Praxe*: typicky málo využívané — dlužník typicky má příjmy mimo podstatu (nezabavitelná část mzdy). Spíše pro neschopné výdělku (důchodci, nemocní).
+[3] **Doporučení správci.** Zákon adresuje závěry insolvenčnímu správci pro jeho další postup, ale výslovně je označuje za doporučení. Samotný § 282 odst. 1 proto nezakládá oprávnění schůze převzít dispoziční oprávnění správce ani nahradit souhlas, pokyn či rozhodnutí, které jiné ustanovení svěřuje věřitelskému výboru, zajištěnému věřiteli nebo insolvenčnímu soudu.
 
-### F. Kazuistika
+[4] **Předpoklady rozhodnutí o plnění.** Odstavec 2 se uplatní jen u dlužníka, který je fyzickou osobou, a jen na žádost dlužníka nebo některého z členů jeho rodiny. Zákon zde nerozšiřuje okruh žadatelů na jiné osoby. Případné plnění je určeno dlužníku a jeho rodině a musí sloužit k úhradě jejich odůvodněných existenčních potřeb.
 
-**1. Modelová situace.** Po prohlášení konkursu na majetek dlužníka — fyzické osoby (drobného živnostníka), který utrpěl vážný úraz a je trvale práce neschopný — předloží insolvenční správce na schůzi věřitelů zprávu o hospodářské situaci se závěrem, že provoz dílny je ztrátový a má se ukončit. Dlužník na téže schůzi ústně i písemně žádá, aby mu z majetkové podstaty (na účtu je 180 000 Kč z prodeje zásob) bylo poskytováno měsíční plnění na úhradu nájmu a léků pro něj a dvě nezletilé děti. Důkazy: zpráva správce dle § 281, lékařské zprávy o pracovní neschopnosti, doklady o výši nájemného a nákladech na děti, výpis z účtu podstaty.
+[5] **Obsah rozhodnutí.** Schůze rozhoduje nejen o tom, zda se plnění má poskytovat, ale také v jakém rozsahu. Rozhodnutí proto musí vymezit plnění natolik určitě, aby je bylo možné provést a kontrolovat. § 282 odst. 2 sám nestanoví sazbu, horní hranici, periodicitu ani dobu poskytování; tyto prvky nelze mechanicky převzít z modelového případu.
 
-**2. Právní otázka.** Je schůze věřitelů oprávněna rozhodnout o poskytování plnění z majetkové podstaty na existenční potřeby dlužníka-FO a jeho rodiny, a je tímto rozhodnutím (resp. jeho závěry ke zprávě) insolvenční správce vázán?
+[6] **Odůvodněné existenční potřeby.** Jde o zákonnou mez účelu plnění. Posouzení vyžaduje konkrétní údaje o potřebách dlužníka a jeho rodiny a o jejich odůvodněnosti; ustanovení neobsahuje taxativní seznam výdajů ani zákonnou domněnku, že určitý typ výdaje podmínku vždy splňuje. Toto vymezení je autorským výkladem hranic otevřeného zákonného pojmu.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 282 IZ — schůze projedná zprávu o hospodářské situaci (odst. 1, závěry jsou *doporučením* správci) a rozhodne o plnění FO-dlužníkovi na odůvodněné existenční potřeby (odst. 2).
-- *Související ustanovení téhož zákona:* § 281 (zpráva správce o hospodářské situaci, kterou schůze projednává); § 283 odst. 2 (zpeněžení nejdříve po první schůzi věřitelů — schůze zde má strategickou roli); § 304 (jiná schůze ke konečné zprávě).
-- *Související předpisy:* § 207–209 IZ a předpisy o nezabavitelné části příjmu (rozsah, v němž dlužník i bez § 282 odst. 2 disponuje vlastními příjmy mimo podstatu).
-- *Judikatura:* k povaze závěrů schůze jako doporučení (nezavazují správce při volbě postupu, na rozdíl od pokynů věřitelského orgánu v jiných ustanoveních) — nosný závěr, že strategická doporučení schůze nemají povahu závazného pokynu, není-li to zákonem výslovně stanoveno.
+[7] **Vztah k majetkové podstatě.** Zdrojem plnění je majetková podstata. Bez žádosti a rozhodnutí schůze nelze samotný § 282 odst. 2 použít jako právní základ pro výplatu. Při provedení rozhodnutí zůstávají zachovány obecné povinnosti správy podstaty a dohled insolvenčního soudu.
 
-**4. Subsumpce.** Zpráva o hospodářské situaci je projednána (znak odst. 1 splněn); její závěr „ukončit provoz" je *doporučením*, nikoli příkazem — správce jej zohlední, ale rozhoduje sám (případně se souhlasem výboru u konkrétních úkonů). U odst. 2 je splněn znak „dlužník je fyzická osoba" a podána „žádost dlužníka"; rozhodnutí o *rozsahu* plnění (kolik měsíčně, jak dlouho) náleží schůzi. Sporné je, zda jsou potřeby „odůvodněné existenční" — léky a nájem ano, nadstandardní výdaje nikoli.
+[8] **Intertemporalita.** Tento výklad vychází ze znění účinného k 19. 7. 2026. U dřívějších konkursů je nutné ověřit znění účinné v rozhodné době a příslušná přechodná ustanovení.
 
-**5. Řešení.** Schůze rozhodne usnesením o poskytování plnění např. 12 000 Kč měsíčně po dobu trvání pracovní neschopnosti, do vyčerpání limitu; správce plnění vyplácí z podstaty. Závěr ke zprávě (ukončit provoz) správce respektuje jako doporučení a provoz ukončí dle § 261. Procesně: usnesení schůze se eviduje v protokolu, plnění se promítne do účetnictví podstaty a později do konečné zprávy. Riziko: rozhodne-li schůze plnění neposkytnout, dlužník je odkázán na vlastní příjmy (nezabavitelná část) — § 282 odst. 2 nezakládá *nárok*, jen možnost rozhodnutí schůze.
+### Judikatura
 
-**6. Varianty.** (a) Dlužník je výdělečně činný a pobírá mzdu — schůze plnění zpravidla nepřizná (potřeby kryje nezabavitelná část, plnění z podstaty není „odůvodněné"). (b) Závěr schůze zní „pokračovat v provozu", správce však má za to, že provoz prohlubuje ztrátu — protože jde jen o doporučení, správce může (se souhlasem výboru / v rámci dohlédací činnosti soudu) provoz přesto ukončit a nese za to odpovědnost.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Schválí-li schůze závěr zprávy, je správce povinen se jím řídit." Neutralizace: text odst. 1 výslovně označuje závěry za *doporučení* — vázanost správce pokyny je v IZ vyhrazena jiným ustanovením (např. § 293 pokyny zajištěného věřitele), zde nikoli.
-- *Protiargument:* „Dlužník má na plnění z podstaty automaticky nárok." Neutralizace: odst. 2 zakládá pravomoc schůze *rozhodnout* na žádost; jde o fakultativní humanitární institut, ne o subjektivní nárok dlužníka.
-- *Slabá místa:* neurčitost pojmu „odůvodněné existenční potřeby" — chybí zákonné limity; v praxi se řeší kasuisticky a institut je málo využíván, takže je málo ustálené rozhodovací praxe.
-
-### H. Praktický závěr
-
-Schůze věřitelů po konkursu plní dvojí roli: strategickou (projedná zprávu o hospodářské situaci — závěry jsou nezávazná doporučení správci) a humanitární (na žádost rozhodne o plnění FO-dlužníkovi na existenční potřeby). Plnění není nárokové a v praxi se přiznává jen dlužníkům neschopným výdělku.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Je k dispozici zpráva správce o hospodářské situaci podle § 281 jako podklad jednání?
-- [ ] Formulovala schůze závěry ke zprávě jako doporučení (nezaměňovat se závazným pokynem)?
-- [ ] Podal dlužník nebo člen rodiny žádost o plnění (odst. 2 vyžaduje žádost)?
-- [ ] Jde o fyzickou osobu a jsou potřeby „odůvodněné existenční" (nájem, léky, výživa dětí)?
-- [ ] Stanovila schůze rozsah plnění (částku a dobu) a je zachyceno v protokolu?
-
-**Typicky rozhodné důkazy / podklady:** zpráva správce dle § 281; protokol ze schůze věřitelů; žádost dlužníka/člena rodiny; doklady o existenčních nákladech (nájem, léky, výživné); lékařské zprávy o (ne)schopnosti výdělku; výpis z účtu majetkové podstaty.
+V tomto kole nebylo použito žádné rozhodnutí jako přímá autorita k výkladu § 282. Dřívější neurčitý odkaz na „nosný závěr“ nebyl podložen identifikovaným a plnotextově ověřeným rozhodnutím, a byl proto odstraněn. Tím se nevyslovuje, že k § 282 neexistuje relevantní judikatura.
 
 ---
 

@@ -1825,55 +1825,59 @@ Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita. Nejde
 
 ## § 277 — Aktivace správce
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Neprodleně poté, co nabude účinnosti prohlášení konkursu, zajistí insolvenční správce provedení procesních úkonů a dalších činností, které z prohlášení konkursu vyplývají.
-> (2) Insolvenční správce zaměří svou činnost zejména **ke zjištění, zajištění a soupisu**, k dokončení **seznamu přihlášených pohledávek**, k přípravě **přezkumného jednání** a k přípravě **schůze věřitelů**.
-> (3) Jde-li o dlužníka, který vede účetnictví nebo evidenci podle zvláštního právního předpisu, sestaví insolvenční správce ke dni předcházejícímu dni, kterým nastanou účinky prohlášení konkursu, **mezitímní účetní závěrku** nebo přehled o příjmech, výdajích, majetku a závazcích.
+>
+> (2) Insolvenční správce zaměří svou činnost zejména ke zjištění, zajištění a soupisu, k dokončení seznamu přihlášených pohledávek, k přípravě přezkumného jednání a k přípravě schůze věřitelů.
+>
+> (3) Jde-li o dlužníka, který vede účetnictví nebo evidenci podle zvláštního právního předpisu13), sestaví insolvenční správce ke dni předcházejícímu dni, kterým nastanou účinky prohlášení konkursu, mezitímní účetní závěrku nebo přehled o příjmech, výdajích, majetku a závazcích.
+
+### Přehled výkladu
+
+Ustanovení aktivuje bezprostřední konkursní činnost insolvenčního správce. Odstavec 2 vypočítává hlavní okruhy jejího zaměření demonstrativně; nestanoví mezi nimi pevné pořadí. Odstavec 3 současně ukládá zvláštní účetní nebo evidenční výstup k přesně určenému dni.
+
+### Souvisící ustanovení
+
+- § 46 až 55 — schůze věřitelů,
+- § 189 až 191 — seznam přihlášených pohledávek a přezkumné jednání,
+- § 217 až 220 — soupis majetkové podstaty,
+- § 245 a § 246 — účinky prohlášení konkursu a přechod dispozičních oprávnění,
+- § 279 — lhůta k plnění povinností souvisejících s prohlášením konkursu,
+- § 280 až 282 — soupis jako titul ke zpeněžení, zpráva o hospodářské situaci a její projednání.
+
+### Souvisící předpisy
+
+- zákon č. 563/1991 Sb., o účetnictví — pravidla účetní závěrky,
+- zákon č. 586/1992 Sb., o daních z příjmů — evidence, na niž odkazuje poznámka pod čarou 13.
+
+### Z důvodové zprávy
+
+Oficiální důvodová zpráva k vládnímu návrhu projednává § 277 až 282 společně. Označuje je za promítnutí ustanovení obecné části do procesního postupu v konkursu a zvlášť vysvětluje nový požadavek na zprávu o hospodářské situaci podle § 281 a § 282. K jednotlivým povinnostem dnešního § 277 další samostatné vysvětlení nepodává (sněmovní tisk 1120/0, zvláštní část, číslovaná s. 211, PDF s. 212).
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní rešerše.
 
 ### Výklad
 
-**Operační priority správce** po konkursu:
-1. *zjištění, zajištění, soupis* podstaty,
-2. *seznam přihlášených pohledávek*,
-3. *přípravu přezkumu*,
-4. *přípravu schůze*.
+[1] Povinnost podle odstavce 1 vzniká až účinností prohlášení konkursu. Okamžik účinnosti proto nelze zaměnit s právní mocí rozhodnutí; obecné pravidlo stanoví § 245 odst. 1. Slovo „neprodleně“ vyžaduje zahájení potřebných kroků bez zbytečného odkladu, ale samo neurčuje jednotnou číselnou lhůtu pro dokončení všech navazujících činností.
 
-**Mezitímní účetní závěrka** ke dni před účinky — *snímek* finanční situace.
+[2] Výčet v odstavci 2 je demonstrativní („zejména“). Zahrnuje zjištění, zajištění a soupis majetku, dokončení seznamu přihlášených pohledávek a přípravu přezkumného jednání i schůze věřitelů. Z textu neplyne pevná posloupnost těchto úkolů; konkrétní pořadí a souběh musí správce volit podle stavu řízení a naléhavosti ochrany majetkové podstaty.
 
-### F. Kazuistika
+[3] „Zjištění, zajištění a soupis“ nejsou zaměnitelné pojmy. Soupis má vlastní režim v § 217 až 220 a v konkursu je podle § 280 listinou opravňující správce ke zpeněžení zapsaného majetku. § 277 odst. 2 však sám není titulem ke zpeněžení.
 
-**1. Modelová situace.** Bezprostředně po nabytí účinnosti prohlášení konkursu na dlužníka (výrobní s.r.o. vedoucí účetnictví) musí insolvenční správce rozjet činnost. Dlužník vede účetnictví; účinky prohlášení nastaly 15. 6. Správce řeší, co dělat nejdříve: zjistit a zajistit majetek, sestavit soupis, dokončit seznam přihlášených pohledávek, připravit přezkumné jednání a schůzi věřitelů, a zda je povinen sestavit mezitímní účetní závěrku a k jakému dni. Důkazy: účetnictví dlužníka, doklad o okamžiku účinků konkursu, dosavadní přihlášky.
+[4] Dokončení seznamu přihlášených pohledávek se řídí zejména § 189; příprava přezkumného jednání § 190 a § 191. Příprava schůze věřitelů navazuje na obecnou úpravu § 46 až 55 a v konkursu také na zprávu o hospodářské situaci podle § 281.
 
-**2. Právní otázka.** Jaké procesní úkony a činnosti je insolvenční správce povinen zajistit neprodleně po prohlášení konkursu a kdy sestavuje mezitímní účetní závěrku?
+[5] Odstavec 3 rozlišuje dlužníka vedoucího účetnictví a dlužníka vedoucího evidenci podle zvláštního předpisu. Prvnímu případu odpovídá mezitímní účetní závěrka, druhému přehled o příjmech, výdajích, majetku a závazcích. Rozhodný den je vždy den bezprostředně předcházející dni, kterým nastaly účinky prohlášení konkursu.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 277 odst. 1 (neprodleně po účinnosti konkursu zajistí správce procesní úkony a činnosti z konkursu vyplývající), odst. 2 (zaměří se zejména na zjištění, zajištění a soupis, dokončení seznamu přihlášených pohledávek, přípravu přezkumného jednání a schůze věřitelů), odst. 3 (u dlužníka vedoucího účetnictví/evidenci sestaví ke dni předcházejícímu dni účinků prohlášení **mezitímní účetní závěrku** nebo přehled o příjmech, výdajích, majetku a závazcích).
-- *Související ustanovení téhož zákona:* § 246 (přechod správy na správce), § 280 (soupis jako titul ke zpeněžení), § 281 (zpráva o hospodářské situaci), § 190 a násl. (přezkumné jednání), § 46 a násl. (schůze věřitelů).
-- *Související předpisy:* zákon o účetnictví (mezitímní účetní závěrka), zvláštní evidence (daňová).
-- *Judikatura:* nosný závěr, že po prohlášení konkursu je správce povinen bez prodlení zajistit a sepsat podstatu a připravit přezkum a schůzi věřitelů jako základ dalšího postupu.
+[6] Zákon č. 294/2013 Sb. zrušil s účinností od 1. 1. 2014 tehdejší § 277 odst. 2 o návaznosti na činnost předběžného správce; dosavadní odstavce 3 a 4 se přečíslovaly. Novela se použila i na dříve zahájená insolvenční řízení, avšak zachovala právní účinky úkonů nastalé před její účinností. Při práci se staršími rozhodnutími a listinami je proto nutné ověřit tehdejší znění a číslování.
 
-**4. Subsumpce.** Po účincích konkursu (15. 6.) má správce dle § 277 odst. 1 a 2 neprodleně provést zjištění, zajištění a soupis podstaty, dokončit seznam přihlášených pohledávek a připravit přezkumné jednání i schůzi věřitelů. Protože dlužník vede účetnictví, sestaví správce dle odst. 3 mezitímní účetní závěrku ke dni předcházejícímu dni účinků, tj. ke 14. 6.
+### Judikatura
 
-**5. Řešení.** Správce postupuje v pořadí dle odst. 2: nejprve fyzicky zajistí a sepíše majetek (vazba na § 280), souběžně zpracuje seznam přihlášek a připraví přezkum a schůzi. Mezitímní účetní závěrku sestaví ke 14. 6. jako „snímek" finanční situace ke dni před účinky. Procesní kroky: převzetí agendy a dokladů od dlužníka (§ 279), soupis, příprava přezkumného jednání a schůze, sestavení mezitímní závěrky.
-
-**6. Varianty.** (a) Dlužník nevede účetnictví, ale daňovou evidenci — správce místo mezitímní účetní závěrky sestaví přehled o příjmech, výdajích, majetku a závazcích (odst. 3). (b) Majetek je rozptýlen či ohrožen — priorita zajištění (odst. 2) převáží nad ostatními úkony, aby nedošlo ke zmenšení podstaty.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Mezitímní závěrku stačí sestavit ke dni účinků konkursu." Neutralizace: § 277 odst. 3 — sestavuje se ke dni **předcházejícímu** dni účinků prohlášení.
-- *Protiargument:* „Pořadí úkonů je na volné úvaze správce." Neutralizace: odst. 2 stanoví prioritní zaměření (zjištění, zajištění, soupis, seznam přihlášek, příprava přezkumu a schůze).
-- *Slabé místo:* časový tlak a riziko zmenšení podstaty při opožděném zajištění; provázanost s povinností dlužníka předat agendu ve lhůtě (§ 279) — při nesoučinnosti dlužníka se úkoly správce zpožďují.
-
-### H. Praktický závěr
-
-Po prohlášení konkursu správce neprodleně zajistí a sepíše podstatu, dokončí seznam přihlášek a připraví přezkumné jednání i schůzi věřitelů; u dlužníka s účetnictvím sestaví mezitímní účetní závěrku ke dni předcházejícímu účinkům konkursu (jinak přehled o příjmech/výdajích/majetku/závazcích).
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Neprodleně zajistit a sepsat majetkovou podstatu (vazba na § 280).
-- [ ] Dokončit seznam přihlášených pohledávek a připravit přezkumné jednání a schůzi věřitelů.
-- [ ] Sestavit mezitímní účetní závěrku ke dni předcházejícímu účinkům konkursu (nebo přehled u evidence).
-- [ ] Zajistit součinnost a předání agendy od dlužníka (§ 279).
-
-**Typicky rozhodné důkazy / podklady:** účetnictví / daňová evidence dlužníka, doklad o okamžiku účinků konkursu, soupis majetkové podstaty, seznam přihlášených pohledávek, mezitímní účetní závěrka.
+V tomto kole nebylo použito rozhodnutí, jehož plný text z oficiálního soudního zdroje by poskytoval přímo nosný výklad § 277. Dřívější neurčitý odkaz na „nosný závěr“ byl odstraněn; tím se netvrdí, že relevantní judikatura neexistuje.
 
 ---
 

@@ -202,57 +202,68 @@ Do této revize nebylo zařazeno rozhodnutí, jehož plný text z oficiálního 
 
 ## § 248 — Práva věřitelů po konkursu
 
-> (1) Dlužníkovi věřitelé mohou po prohlášení konkursu svá práva uplatnit **jen způsobem a za podmínek stanovených tímto zákonem**; to platí i pro ty věřitele, kteří se nestali účastníky insolvenčního řízení.
-> (2) Nejde-li o zajištění poskytnuté podle § 41 nebo o právo věřitelů podle § 167 odst. 2, **stávají se neúčinnými práva na uspokojení ze zajištění, která se týkají majetkové podstaty a která dlužníkovi věřitelé získali poté, co nastaly účinky spojené se zahájením insolvenčního řízení**; to platí i pro zřízení soudcovského zástavního práva na nemovitostech nebo exekutorského zástavního práva na nemovitostech. Byl-li majetek sloužící k zajištění v této době také zpeněžen, náleží do majetkové podstaty výtěžek získaný zpeněžením a jeho nabyvatel je povinen jej do ní vydat na výzvu insolvenčního správce.
-> (3) Věcná břemena zatěžující majetkovou podstatu, která vznikla **za nápadně nevýhodných podmínek** poté, co nastaly účinky spojené se zahájením insolvenčního řízení, se prohlášením konkursu stávají v insolvenčním řízení neúčinnými.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Dlužníkovi věřitelé mohou po prohlášení konkursu svá práva uplatnit jen způsobem a za podmínek stanovených tímto zákonem; to platí i pro ty věřitele, kteří se nestali účastníky insolvenčního řízení.
+>
+> (2) Nejde-li o zajištění poskytnuté podle § 41 nebo o právo věřitelů podle § 167 odst. 2, stávají se neúčinnými práva na uspokojení ze zajištění, která se týkají majetkové podstaty a která dlužníkovi věřitelé získali poté, co nastaly účinky spojené se zahájením insolvenčního řízení; to platí i pro zřízení soudcovského zástavního práva na nemovitostech nebo exekutorského zástavního práva na nemovitostech. Byl-li majetek sloužící k zajištění v této době také zpeněžen, náleží do majetkové podstaty výtěžek získaný zpeněžením a jeho nabyvatel je povinen jej do ní vydat na výzvu insolvenčního správce.
+>
+> (3) Věcná břemena zatěžující majetkovou podstatu, která vznikla za nápadně nevýhodných podmínek poté, co nastaly účinky spojené se zahájením insolvenčního řízení, se prohlášením konkursu stávají v insolvenčním řízení neúčinnými.
+
+### Přehled výkladu
+
+Odstavec 1 podřizuje uplatnění práv všech dlužníkových věřitelů po prohlášení konkursu režimu insolvenčního zákona, včetně věřitelů, kteří se nestali účastníky řízení. Neříká však, že každé právo se uplatňuje přihláškou nebo že každý spor je sporem incidenčním; konkrétní postup určuje insolvenční zákon podle druhu pohledávky a práva.
+
+Odstavec 2 postihuje právo na uspokojení ze zajištění, týká-li se majetkové podstaty a získal-li je věřitel až po vzniku účinků zahájení insolvenčního řízení. Neúčinnost nastupuje prohlášením konkursu. Výslovné výjimky tvoří zajištění podle § 41 a právo věřitelů podle § 167 odst. 2.
+
+Odstavec 3 vyžaduje současně zatížení majetkové podstaty, vznik věcného břemene po účincích zahájení řízení a nápadně nevýhodné podmínky. Samotný pozdější vznik věcného břemene proto nestačí.
+
+### Souvisící ustanovení
+
+- § 41 — zajištění v rámci úvěrového financování,
+- § 97 odst. 1 a § 109 — zahájení insolvenčního řízení a jeho účinky,
+- § 136 odst. 2 písm. d), § 165 až § 169 a § 173 až § 175 — způsoby uplatnění pohledávek a zajištění,
+- § 167 odst. 2 — zvláštní právo věřitelů při zajištění majetku v trestním řízení,
+- § 192 odst. 2 a § 195 — změna pořadí a popření práva na uspokojení ze zajištění,
+- § 245 odst. 1 — okamžik účinků prohlášení konkursu.
+
+### Souvisící předpisy
+
+- zákon č. 99/1963 Sb., občanský soudní řád — soudcovské zástavní právo,
+- zákon č. 120/2001 Sb., exekuční řád — exekutorské zástavní právo,
+- zákon č. 89/2012 Sb., občanský zákoník — vznik a obsah zástavních práv a služebností.
+
+Tyto předpisy určují zejména vznik a obsah daného věcného práva; jeho prosaditelnost v insolvenčním řízení a zvláštní následek prohlášení konkursu upravuje insolvenční zákon.
+
+### Z důvodové zprávy
+
+Zvláštní část důvodové zprávy k vládnímu návrhu insolvenčního zákona uvádí k § 248 pouze to, že účinky prohlášení konkursu na věřitele byly pojaty v podstatě shodně s tehdy platnou úpravou, která byla zpřesněna. Jde o stručné historické vysvětlení původního návrhu, nikoli o doklad dnešního znění po pozdějších novelách. Vyhlášený zákon č. 294/2013 Sb. následně v § 248 odst. 2 výslovně doplnil exekutorské zástavní právo na nemovitostech a zrušil tehdejší odstavec 4.
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Toto sdělení není výsledkem negativní rešerše.
 
 ### Výklad
 
-**Princip exkluzivity uplatňování práv v IZ** (odst. 1): po konkursu věřitelé **nemohou** uplatňovat práva mimo IR (žaloby, exekuce). Vše musí přes IZ — *přihlášku, případně incidenční spor*.
+[1] **Dva rozhodné okamžiky.** Pro odstavce 2 a 3 je prvním mezníkem okamžik, kdy nastaly účinky spojené se zahájením insolvenčního řízení. Druhým je prohlášení konkursu, kterým nastupuje zde upravená neúčinnost. Oba okamžiky je nutné zjistit samostatně.
 
-**Neúčinnost zajištění získaného po zahájení IR** (odst. 2): zajištění zřízené *po zahájení* (zejména soudcovská a exekutorská zástavní práva) — *neúčinné*. Výjimky:
-- *úvěrové financování* podle § 41,
-- *trestněprávní zajištění* podle § 167 odst. 2.
+[2] **Způsob uplatnění práva.** Odstavec 1 stanoví obecné pravidlo výlučnosti insolvenčního režimu, nikoli jediný procesní prostředek. Přihláškou se uplatňují pohledávky a právo na uspokojení ze zajištění v případech stanovených zejména v § 165, § 166 a § 173 až § 175; pohledávky za podstatou a jim na roveň postavené mají zvláštní režim. Procesní následek proto nelze určit jen z § 248 odst. 1.
 
-*Pokud byl majetek mezitím zpeněžen* — výtěžek **patří podstatě** (nabyvatel ho musí vydat).
+[3] **Co musí být u zajištění prokázáno.** Odstavec 2 vyžaduje právo na uspokojení ze zajištění, vazbu zajištění na majetkovou podstatu a jeho získání až po účincích zahájení řízení. Konkrétní okamžik získání je nutné určit podle právní úpravy vzniku daného druhu zajištění; § 248 sám tento okamžik pro všechny druhy zajištění neurčuje.
 
-**Neúčinnost věcných břemen** (odst. 3): věcná břemena vzniklá *za nápadně nevýhodných podmínek* po zahájení IR — *neúčinná*. Typicky: dlužník v krizi zřídí věcné břemeno chůze ve prospěch spřízněné osoby (typicky aby snížil prodejní hodnotu nemovitosti).
+[4] **Výjimky.** Zákon výslovně vyjímá zajištění poskytnuté podle § 41 a právo věřitelů podle § 167 odst. 2. Bez ověření podmínek těchto ustanovení nelze z pouhého data vzniku zajištění uzavřít, že je neúčinné.
 
-### F. Kazuistika
+[5] **Zpeněžený majetek.** Byl-li majetek sloužící k dotčenému zajištění v rozhodné době také zpeněžen, § 248 odst. 2 výslovně přičítá získaný výtěžek majetkové podstatě a ukládá jeho nabyvateli vydat jej na výzvu insolvenčního správce. Toto pravidlo se týká výtěžku; konkrétní vynucení nesplněné povinnosti vyžaduje určit odpovídající nárok a procesní prostředek podle skutkového stavu.
 
-**1. Modelová situace.** Věřitel V po zahájení insolvenčního řízení proti dlužníku D (ještě před prohlášením konkursu) podal exekuční návrh a exekutor zřídil exekutorské zástavní právo k nemovitosti dlužníka; krátce nato dlužník v krizi zřídil ve prospěch své dcery věcné břemeno doživotního bydlení k téže nemovitosti bez úplaty. Po prohlášení konkursu chce zajištěný věřitel V uspokojení ze zástavy a dcera se brání výkonu věcného břemene. Důkazy: údaj o vzniku účinků zahájení IŘ (zveřejnění vyhlášky), záznamy z katastru o vzniku exekutorského zástavního práva a věcného břemene, znalecké posouzení obvyklosti podmínek.
+[6] **Věcná břemena.** Neúčinnost podle odstavce 3 není následkem každého věcného břemene vzniklého po zahájení řízení. Kromě časového testu musí věcné břemeno zatěžovat majetkovou podstatu a vzniknout za nápadně nevýhodných podmínek. Poslední znak vyžaduje posouzení konkrétního obsahu, protiplnění a hospodářského dopadu; samotný zápis do veřejného seznamu jej ani nepotvrzuje, ani nevylučuje.
 
-**2. Právní otázka.** Je zajištění (exekutorské zástavní právo) a věcné břemeno, vzniklé po zahájení insolvenčního řízení, vůči majetkové podstatě po konkursu neúčinné?
+[7] **Intertemporalita.** Tento komentář vychází ze znění účinného k 19. 7. 2026. U starších skutkových dějů je třeba podle povahy posuzovaného práva ověřit znění účinné při vzniku zajištění nebo věcného břemene, při zahájení insolvenčního řízení a při prohlášení konkursu i použitelná přechodná ustanovení.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 248 odst. 1 (exkluzivita uplatňování práv věřitelů jen dle IZ), odst. 2 (neúčinnost zajištění získaného po účincích zahájení IŘ — vč. soudcovského a exekutorského zástavního práva; výjimky § 41 a § 167 odst. 2; povinnost vydat výtěžek), odst. 3 (neúčinnost věcných břemen vzniklých za nápadně nevýhodných podmínek po zahájení IŘ).
-- *Související ustanovení téhož zákona:* § 109 odst. 1 písm. c) (zákaz provedení exekuce), § 140e, § 41 (úvěrové financování), § 167 odst. 2 (trestněprávní zajištění), § 173 (přihlášky).
-- *Související předpisy:* exekuční řád (exekutorské zástavní právo); OZ (věcná břemena, zástavní právo).
-- *Judikatura:* nosný závěr, že zajišťovací práva vzniklá po nastoupení účinků zahájení IŘ jsou vůči podstatě neúčinná a věřitel z nich nemá právo na přednostní uspokojení.
+### Judikatura
 
-**4. Subsumpce.** Exekutorské zástavní právo vzniklo po účincích zahájení IŘ → § 248 odst. 2: neúčinné, věřitel V se nestává zajištěným; pokud by mezitím došlo ke zpeněžení, výtěžek patří podstatě. Věcné břemeno zřízené bezúplatně ve prospěch dcery v době krize naplňuje znak „nápadně nevýhodných podmínek" po zahájení IŘ → § 248 odst. 3: neúčinné v insolvenčním řízení.
-
-**5. Řešení.** Věřitel V nemůže uplatnit přednostní uspokojení ze zástavy; svou pohledávku přihlásí jako nezajištěnou (§ 173). Správce naloží s nemovitostí jako nezatíženou exekutorským zástavním právem i věcným břemenem (pro účely insolvenčního řízení). Procesně: správce neuzná zajištění při přezkumu, případně vyvolá incidenční spor o pořadí; nemovitost zpeněží bez zohlednění věcného břemene.
-
-**6. Varianty.** (a) Zástavní právo vzniklo před zahájením IŘ (řádná zástava banky) — § 248 odst. 2 se neuplatní, věřitel je zajištěný a má právo na uspokojení ze zástavy. (b) Věcné břemeno bylo zřízeno za obvyklou úplatu a před krizí — nenaplní znak „nápadně nevýhodných podmínek", zůstává účinné a zatěžuje i podstatu.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument věřitele:* „Exekutorské zástavní právo vzniklo platně, jsem zajištěný věřitel." Neutralizace: § 248 odst. 2 výslovně činí takové zajištění získané po účincích zahájení IŘ neúčinným vůči podstatě.
-- *Protiargument dcery:* „Věcné břemeno je řádně zapsáno v katastru a působí erga omnes." Neutralizace: zápis v KN nebrání neúčinnosti dle § 248 odst. 3, jsou-li podmínky nápadně nevýhodné a vzniklo po zahájení IŘ.
-- *Slabé místo:* prokázání „nápadně nevýhodných podmínek" (odst. 3) je hodnotící — nutné znalecké/srovnávací posouzení; rovněž je třeba bezpečně určit okamžik vzniku zajištění vůči okamžiku účinků zahájení IŘ.
-
-### H. Praktický závěr
-
-Po konkursu mohou věřitelé uplatnit práva jen způsobem dle IZ; pozdě nabytá zajištění (zejména soudcovská a exekutorská zástavní práva) a nevýhodná věcná břemena zřízená po zahájení IŘ jsou vůči podstatě neúčinná. Výtěžek z případného zpeněžení takto „zajištěného" majetku patří podstatě.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Určit přesný okamžik účinků zahájení IŘ a porovnat s datem vzniku zajištění/věcného břemene.
-- [ ] Posoudit, zda nejde o chráněné výjimky (§ 41 úvěrové financování, § 167 odst. 2 trestní zajištění).
-- [ ] U věcného břemene doložit „nápadně nevýhodné podmínky" (znalecky/srovnávacími údaji).
-- [ ] Věřitele s neúčinným zajištěním vést jako nezajištěného; zajistit vydání případného výtěžku do podstaty.
-
-**Typicky rozhodné důkazy / podklady:** výpis z katastru s daty vzniku práv, vyhláška o zahájení IŘ (čas účinků), exekuční spis, znalecký posudek k obvyklosti podmínek, přihlášky pohledávek.
+Do této revize nebylo jako publikační autorita zařazeno rozhodnutí, jehož plný text by byl současně ověřen v požadovaném skutkovém, procesním a časovém kontextu a uzavřen fyzickým snapshotem v ledgeru jednotky. Původní neurčitý odkaz na „nosný závěr“ byl proto odstraněn. Tím se nevyslovuje, že k § 248 neexistuje relevantní judikatura.
 
 ---
 

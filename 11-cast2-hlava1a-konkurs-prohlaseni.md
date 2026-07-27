@@ -1249,49 +1249,63 @@ Do tohoto kola nebyl zařazen samostatný judikatorní závěr. Stávající neu
 
 ## § 267 — Exekuce po konkursu
 
-> (1) Není-li dále stanoveno jinak, **návrh na nařízení výkonu rozhodnutí nebo exekuční návrh se i nadále podává proti povinnému**; proti insolvenčnímu správci jej **nelze** podat, ani má-li být povinným dlužník. Ustanovení § 140e tím není dotčeno.
-> (2) Jde-li o řízení o výkon rozhodnutí nebo o exekuci, **kde vystupuje dlužník jako oprávněný**, stává se prohlášením konkursu insolvenční správce oprávněným místo dlužníka.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Není-li dále stanoveno jinak, návrh na nařízení výkonu rozhodnutí nebo exekuční návrh se i nadále podává proti povinnému; proti insolvenčnímu správci jej nelze podat, ani má-li být povinným dlužník. Ustanovení § 140e tím není dotčeno.
+>
+> (2) Jde-li o řízení o výkon rozhodnutí nebo o exekuci, kde vystupuje dlužník jako oprávněný, stává se prohlášením konkursu insolvenční správce oprávněným místo dlužníka.
+
+### Přehled výkladu
+
+§ 267 rozlišuje postavení dlužníka na pasivní a aktivní straně vykonávacího řízení. Je-li dlužník povinným, návrh se zásadně nadále podává proti povinnému, nikoli proti insolvenčnímu správci jen proto, že správce disponuje majetkovou podstatou. Toto pravidlo však samo nezakládá přípustnost nařízení, zahájení ani provedení výkonu nebo exekuce; výslovně zůstává zachován § 140e. Je-li dlužník oprávněným, prohlášením konkursu se místo něj ze zákona stává oprávněným insolvenční správce.
+
+### Souvisící ustanovení
+
+- § 109 odst. 1 písm. c) a odst. 6 — omezení provedení výkonu rozhodnutí a exekuce po zahájení insolvenčního řízení a následky úkonů odporujících zákazu.
+- § 140e — po dobu účinků rozhodnutí o úpadku zákaz nařídit nebo zahájit výkon rozhodnutí či exekuci postihující majetek ve vlastnictví dlužníka nebo jiný majetek náležející do majetkové podstaty; výjimka pro postup založený na rozhodnutí podle § 203 odst. 5.
+- § 203 odst. 5 — zvláštní výkon nebo exekuce pro pravomocně přiznanou pohledávku za majetkovou podstatou nebo pohledávku jí postavenou na roveň.
+- § 245 odst. 1 — okamžik účinků prohlášení konkursu.
+- § 266 odst. 1 písm. h), odst. 2 a 4 — nepřerušení vykonávacího řízení, další účastenství dlužníka a zachování § 140a až § 140e.
+- § 229 odst. 3 písm. c) — dispoziční oprávnění insolvenčního správce v konkursu.
+
+### Souvisící předpisy
+
+- Zákon č. 99/1963 Sb., občanský soudní řád — část šestá (výkon rozhodnutí).
+- Zákon č. 120/2001 Sb., exekuční řád — exekuční návrh, účastníci a provedení exekuce.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva pojednává § 263 až § 267 společně. Vysvětluje, že vykonávací řízení mělo patřit mezi řízení, která se prohlášením konkursu nepřerušují, ale výkon nebo exekuci postihující majetek podstaty nebylo možné provést, aby při konkursu nevznikl dvojí režim uspokojování. Jde o vysvětlení původního návrhu, nikoli o doslovný popis dnešního znění (sněmovní tisk 1120/0, zvláštní část „K § 263–267“, číslované s. 211–212).
+
+Důvodová zpráva k zákonu č. 294/2013 Sb. vysvětluje přesun a zobecnění konkursního zákazu do § 140e pro všechny způsoby řešení úpadku a přesun pravidla o exekučních titulech proti správci z dosavadního § 267 odst. 3 do § 40a. Návrhové body 153 až 155 tomu odpovídajícím způsobem vypustily překryvná pravidla § 267, doplnily odkaz na § 140e a zachovaly dnešní pravidlo aktivního nástupnictví jako nový odstavec 2 (sněmovní tisk 929/0, návrhové body 153–155, obecná část číslované s. 58–59 a zvláštní část k bodům 19 a 155 na číslované s. 115).
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní literární rešerše.
 
 ### Výklad
 
-- *Exekuce proti dlužníkovi*: podává se **proti dlužníkovi** (ne správci), ale **nelze provést** (§ 109 odst. 1 písm. c, § 140e).
-- *Exekuce ve prospěch dlužníka*: **správce nastoupí** jako oprávněný.
+[1] **Předmět pravidla.** Odstavec 1 určuje, proti komu se podává návrh na nařízení výkonu rozhodnutí nebo exekuční návrh, jestliže je dlužník na pasivní straně. Povinným zůstává osoba označená exekučním titulem; insolvenční správce se nestává povinným jen tím, že po prohlášení konkursu disponuje majetkovou podstatou.
 
-### F. Kazuistika
+[2] **Označení povinného není povolením exekuce.** Věta „se i nadále podává proti povinnému“ neprolamuje účinky rozhodnutí o úpadku. § 267 odst. 1 výslovně zachovává § 140e, který po dobu těchto účinků zakazuje nařídit nebo zahájit výkon či exekuci postihující majetek ve vlastnictví dlužníka nebo jiný majetek náležející do majetkové podstaty, nejde-li o zákonnou výjimku.
 
-**1. Modelová situace.** Proti dlužníku (FO) běžela exekuce pro pohledávku věřitele V (300 000 Kč), v níž je dlužník povinným. Zároveň byl dlužník v jiné exekuci **oprávněným** (vymáhal 150 000 Kč po svém dlužníku). Po prohlášení konkursu chce věřitel V podat další exekuční návrh, a to přímo proti insolvenčnímu správci, aby se dostal k majetku v podstatě. V exekuci, kde je dlužník oprávněným, exekutor neví, kdo je nyní oprávněným. Důkazy: exekuční spisy, výpis z ISIR, exekuční tituly.
+[3] **Zvláštní postup podle § 203 odst. 5.** Zákaz podle § 140e odst. 1 neplatí pro nařízení nebo zahájení výkonu či exekuce na základě rozhodnutí insolvenčního soudu vydaného podle § 203 odst. 5. Při praktickém posouzení proto nelze věřitele mechanicky odkázat vždy na přihlášku; nejprve je nutné určit povahu pohledávky a příslušný způsob jejího uplatnění v insolvenčním řízení.
 
-**2. Právní otázka.** Proti komu se po konkursu podává exekuční návrh, lze jej podat proti správci a kdo je oprávněným v exekuci vedené ve prospěch dlužníka?
+[4] **Nepřerušení vykonávacího řízení.** Podle § 266 odst. 1 písm. h) se řízení o výkon rozhodnutí nebo exekuce prohlášením konkursu nepřerušuje. Nepřerušení je procesní pravidlo o trvání řízení, nikoli výjimka ze zákazů podle § 109 a § 140e.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 267 odst. 1 (exekuční návrh se i nadále podává proti povinnému; proti správci jej nelze podat, ani má-li být povinným dlužník; § 140e tím není dotčen), odst. 2 (v exekuci, kde dlužník vystupuje jako oprávněný, se prohlášením konkursu stává oprávněným místo dlužníka insolvenční správce).
-- *Související ustanovení téhož zákona:* § 109 odst. 1 písm. c) (zákaz provedení exekuce postihující majetek podstaty), § 140e (nepřípustnost výkonu rozhodnutí/exekuce na majetek podstaty), § 266 odst. 1 písm. h) (exekuce se nepřerušuje), § 249 (legitimace správce u nároků dlužníka).
-- *Související předpisy:* exekuční řád, o. s. ř. (výkon rozhodnutí).
-- *Judikatura:* nosný závěr, že po konkursu exekuci na majetek podstaty nelze provést; návrh směřuje proti povinnému (dlužníku), nikoli proti správci, a v aktivní exekuci nastupuje správce.
+[5] **Dlužník jako oprávněný.** V řízení, v němž dlužník vystupuje jako oprávněný, nastává podle odstavce 2 prohlášením konkursu procesní nástupnictví ze zákona: insolvenční správce se stává oprávněným místo dlužníka. Není k tomu třeba zvláštní rozhodnutí podle § 266 odst. 3, které dopadá na jiné dvě skupiny řízení.
 
-**4. Subsumpce.** Exekuce, kde je dlužník povinným → § 267 odst. 1: případný návrh se podává proti dlužníku jako povinnému, nikoli proti správci; provedení vůči podstatě je však vyloučeno (§ 109 odst. 1 písm. c), § 140e). Exekuce, kde je dlužník oprávněným → § 267 odst. 2: oprávněným se místo dlužníka stává správce.
+[6] **Rozhodný okamžik.** Nástupnictví podle odstavce 2 je vázáno na účinky prohlášení konkursu. Podle § 245 odst. 1 nastávají zveřejněním rozhodnutí o prohlášení konkursu v insolvenčním rejstříku.
 
-**5. Řešení.** Věřitel V nemůže podat exekuční návrh proti správci; směřuje-li proti dlužníku-povinnému, exekuci sice lze formálně vést, ale nelze ji provést postižením majetku v podstatě — uspokojení V musí proběhnout v insolvenčním řízení (přihláška). V exekuci ve prospěch dlužníka nastupuje jako oprávněný správce a vymožené plnění náleží podstatě. Procesní kroky: poučení V o nepřípustnosti exekuce vůči podstatě a o nutnosti přihlášky; oznámení exekutorovi o vstupu správce do postavení oprávněného.
+[7] **Novelizace od 1. 1. 2014.** Zákon č. 294/2013 Sb. odstranil z § 267 pravidla, která byla přesunuta a zobecněna zejména v § 140e a § 40a, doplnil výslovné zachování § 140e a dosavadní odstavec 4 o aktivním nástupnictví označil jako odstavec 2. Při práci se staršími rozhodnutími je proto nutné ověřit, kterou podobu § 267 a souvisejících ustanovení soud použil.
 
-**6. Varianty.** (a) Exekuce postihuje majetek, který nepatří do podstaty (např. nezabavitelná část příjmu dle pravidel) — některé dílčí účinky mohou trvat, avšak vůči podstatě je provedení vyloučeno. (b) Půjde o nový exekuční návrh proti správci — takový návrh je dle § 267 odst. 1 nepřípustný a bude odmítnut.
+[8] **Intertemporalita.** Podle čl. II zákona č. 294/2013 Sb. se nové znění insolvenčního zákona použije i na insolvenční řízení zahájená před 1. 1. 2014; právní účinky úkonů, které nastaly před účinností novely, zůstávají zachovány. U starších vykonávacích úkonů je proto rozhodný i okamžik, kdy jejich účinky nastaly.
 
-### G. Protiargumenty a rizika
+### Judikatura
 
-- *Protiargument věřitele:* „Podám exekuci přímo proti správci, ten spravuje majetek." Neutralizace: § 267 odst. 1 výslovně vylučuje exekuční návrh proti správci, i má-li být povinným dlužník.
-- *Protiargument:* „Exekuce se nepřerušuje (§ 266 písm. h), takže mohu vymáhat z podstaty." Neutralizace: nepřerušení neznamená provedení — § 109 odst. 1 písm. c) a § 140e brání postižení majetku podstaty.
-- *Slabé místo:* rozlišení mezi „podáním/vedením" exekuce (proti povinnému možné) a jejím „provedením" vůči podstatě (vyloučené); a okamžik, k němuž správce nastupuje jako oprávněný.
-
-### H. Praktický závěr
-
-Po konkursu se exekuční návrh podává proti povinnému (dlužníku), nikoli proti správci; provedení exekuce postihující majetkovou podstatu je však vyloučeno (uspokojení jen přihláškou). V exekuci vedené ve prospěch dlužníka nastupuje jako oprávněný správce a výtěžek náleží podstatě.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Exekuční návrh směřovat proti povinnému (dlužníku), nikoli proti správci (§ 267 odst. 1).
-- [ ] Respektovat zákaz provedení exekuce vůči majetku podstaty (§ 109, § 140e); věřitele odkázat na přihlášku.
-- [ ] V aktivní exekuci (dlužník oprávněný) zajistit nástup správce jako oprávněného (§ 267 odst. 2).
-- [ ] Vymožené plnění z aktivní exekuce vést do podstaty.
-
-**Typicky rozhodné důkazy / podklady:** exekuční spisy a tituly, výpis z ISIR (čas zveřejnění konkursu), oznámení exekutorovi o vstupu správce, přihláška pohledávky věřitele.
+Do tohoto kola nebyl zařazen samostatný judikatorní závěr. Stávající neurčitý odkaz na „nosný závěr“ bez identifikace rozhodnutí byl odstraněn, protože neumožňoval ověřit plný text, skutkový a procesní kontext ani časovou použitelnost. Nejde o závěr, že relevantní judikatura neexistuje.
 
 ---
 

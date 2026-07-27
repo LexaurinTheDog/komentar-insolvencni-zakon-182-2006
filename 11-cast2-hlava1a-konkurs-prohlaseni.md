@@ -947,51 +947,51 @@ V tomto kole nebylo použito žádné soudní rozhodnutí jako pramen samostatn�
 
 ## § 262 — Další účinky podle zvláštních předpisů
 
-> Zvláštní právní předpisy stanoví další účinky prohlášení konkursu v souvislosti s předmětem jejich úpravy.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> Zvláštní právní předpisy stanoví další účinky prohlášení konkursu v souvislosti s předmětem jejich úpravy36).
+
+### Přehled výkladu
+
+§ 262 je systematický odkaz na další účinky, které musí stanovit konkrétní zvláštní právní předpis. Komentované ustanovení samo neurčuje jejich obsah ani okruh dotčených osob. Zákonná poznámka 36 uvádí jako příklad § 8 živnostenského zákona.
+
+### Souvisící ustanovení
+
+- **§ 245** — okamžik, od něhož nastávají účinky prohlášení konkursu.
+- **§ 261** — pokračování a ukončení provozu dlužníkova podniku; zvláštní předpis může stanovit jinak.
+- **§ 263 až 267** — účinky prohlášení konkursu na probíhající řízení.
+
+### Souvisící předpisy
+
+- **§ 8 zákona č. 455/1991 Sb., živnostenského zákona** — příklad výslovně uvedený v poznámce 36 k § 262. Konkrétní následek je nutno vždy určit z časově použitelného znění tohoto ustanovení, nikoli z poznámky pod čarou samotné.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona (sněmovní tisk 1120/0, zvláštní část, číslovaná i PDF s. 211) neobsahuje samostatné odůvodnění § 262: po pasáži „K § 261“ bezprostředně následuje výklad „K § 263–267“. Z důvodové zprávy proto nelze dovozovat další konkrétní účinky nad rámec textu § 262 a zvláštních předpisů.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Nejde o negativní rešerši ani o závěr, že literatura k ustanovení neexistuje.
 
 ### Výklad
 
-**Otevřená klauzule** — zvláštní předpisy mohou stanovit další účinky. Typicky:
-- *daňové předpisy* (omezení odpočtů, vrácení DPH),
-- *zákoník práce* (specifické režimy zaměstnaneckých vztahů),
-- *zákon o veřejných zakázkách* (vyloučení dlužníka z účasti),
-- *zákon o investičních fondech*, *o bankách* atd.
+[1] **Nutnost konkrétní opory.** Sloveso „stanoví“ vyžaduje oporu konkrétního následku ve zvláštním právním předpisu. § 262 není samostatným právním základem pro vytvoření nové povinnosti, zániku oprávnění ani procesní překážky; upozorňuje na souběh konkursních účinků insolvenčního zákona s účinky příslušné odvětvové úpravy.
 
-### F. Kazuistika
+[2] **Spouštěcí skutečnost.** Spouštěcí skutečností podle textu je **prohlášení konkursu**. Nelze ji bez opory ve zvláštním předpisu zaměnit za zahájení insolvenčního řízení, rozhodnutí o úpadku nebo jiný způsob řešení úpadku. Zvláštní předpis může používat vlastní, odlišně vymezenou spouštěcí skutečnost; pak se použije jeho text.
 
-**1. Modelová situace.** Dlužník (s.r.o.) byl před konkursem plátcem DPH s nadměrným odpočtem, účastnil se otevřeného zadávacího řízení o veřejnou zakázku a měl rozjeté daňové řízení o doměrku. Po prohlášení konkursu správce řeší, zda dlužníka stíhají další zvláštní účinky: zda bude dlužník vyloučen z účasti na veřejné zakázce, jak naložit s nadměrným odpočtem DPH a jaké specifické režimy plynou ze zákoníku práce vůči zaměstnancům. Důkazy: doklady ze zadávacího řízení, daňová přiznání a evidence DPH, pracovní smlouvy.
+[3] **Předmět zvláštní úpravy.** Omezení „v souvislosti s předmětem jejich úpravy“ brání tomu, aby se z § 262 konstruovala obecná přednost kteréhokoli jiného zákona před insolvenčním zákonem. Nejprve je třeba určit osobní a věcný rozsah zvláštního předpisu, jeho přesnou hypotézu a následek a teprve poté posoudit souběh s účinky konkursu.
 
-**2. Právní otázka.** Které další účinky prohlášení konkursu vyplývají ze zvláštních právních předpisů nad rámec insolvenčního zákona?
+[4] **Význam poznámky 36.** Poznámka 36 je navigační pomůckou, nikoli vyčerpávajícím výčtem ani samostatnou normou. Její odkaz na § 8 živnostenského zákona dokládá pouze zákonodárcem uvedený příklad zvláštní úpravy. Praktický obsah se ověřuje v aktuálním a pro daný případ časově rozhodném znění živnostenského zákona.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 262 — zvláštní právní předpisy stanoví další účinky prohlášení konkursu v souvislosti s předmětem jejich úpravy (otevřená odkazovací klauzule).
-- *Související ustanovení téhož zákona:* § 245 a § 246 (obecné účinky konkursu), § 168/169 (daňové a pracovněprávní pohledávky za podstatou / na roveň postavené).
-- *Související předpisy:* zákon o DPH (vliv konkursu na odpočty/vrácení), zákoník práce (zvláštní režimy zaměstnaneckých vztahů), zákon o zadávání veřejných zakázek (vyloučení účastníka v úpadku), zákon o bankách / o investičních fondech (regulatorní účinky).
-- *Judikatura:* nosný závěr, že § 262 nezakládá vlastní účinky, nýbrž odkazuje na zvláštní úpravu, jejíž konkrétní dopady je třeba dohledat v příslušném předpise.
+[5] **Aplikační postup.** Metodický závěr editora: při aplikaci je třeba odděleně zaznamenat (a) rozhodný okamžik a způsob řešení úpadku, (b) činnost nebo status dlužníka, (c) přesné ustanovení zvláštního předpisu, (d) jeho spouštěcí skutečnost a (e) právní následek. Bez těchto kroků nelze konkrétní „další účinek“ bezpečně dovodit.
 
-**4. Subsumpce.** § 262 je odkazovací (blanketní) norma bez vlastního obsahu: sám o sobě nestanoví žádný konkrétní účinek, pouze potvrzuje, že další účinky plynou ze zvláštních předpisů. V dané věci se proto účinky na DPH posoudí podle zákona o DPH, vyloučení z veřejné zakázky podle zákona o zadávání veřejných zakázek a pracovněprávní specifika podle zákoníku práce.
+[6] **Intertemporalita.** Intertemporálně se znění § 262 a znění zvláštního předpisu posuzují samostatně. Změna odvětvové úpravy může změnit nebo odstranit konkrétní následek, aniž se změní § 262. Pro starší skutkový stav proto nelze automaticky použít zvláštní předpis ve znění účinném k 19. 7. 2026.
 
-**5. Řešení.** Správce nevyvozuje účinky z § 262 samotného, nýbrž v každé oblasti aplikuje příslušný zvláštní předpis: u DPH zajistí správné uplatnění/vrácení odpočtu v režimu zákona o DPH; u veřejné zakázky počítá s možným vyloučením dlužníka (úpadek jako důvod nezpůsobilosti); u zaměstnanců aplikuje zvláštní pravidla ZP. Procesní kroky: identifikace všech dotčených zvláštních režimů a jejich samostatné vypořádání.
+### Judikatura
 
-**6. Varianty.** (a) Dlužníkem je regulovaný subjekt (banka, pojišťovna, investiční fond) — zvláštní předpisy stanoví výrazně odlišné a přísnější účinky (např. v součinnosti s ČNB). (b) Žádný zvláštní předpis na danou oblast nedopadá — pak se uplatní jen obecné účinky konkursu dle IZ a § 262 nepřináší nic navíc.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Z § 262 plyne konkrétní povinnost/účinek." Neutralizace: § 262 je pouhý odkaz; konkrétní účinek je třeba dovodit z příslušného zvláštního předpisu, nikoli z § 262.
-- *Protiargument:* „Insolvenční zákon je speciální, zvláštní předpisy se neuplatní." Neutralizace: § 262 naopak výslovně počítá s tím, že zvláštní předpisy stanoví další účinky v rámci svého předmětu úpravy.
-- *Slabé místo:* riziko opomenutí některého zvláštního režimu (daňového, regulatorního, veřejnozakázkového); účinky jsou roztříštěny napříč právním řádem a vyžadují cílené dohledání.
-
-### H. Praktický závěr
-
-§ 262 je otevřená odkazovací klauzule: vedle účinků dle insolvenčního zákona je třeba počítat s dalšími účinky podle zvláštních předpisů (daňových, pracovněprávních, veřejnozakázkových, regulatorních). Sám o sobě žádný účinek nezakládá — slouží jako „spojka" k těmto předpisům.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Identifikovat všechny zvláštní předpisy dopadající na dlužníkovu činnost (DPH, ZP, veřejné zakázky, regulace).
-- [ ] V každé oblasti dohledat konkrétní účinky prohlášení konkursu dle příslušného předpisu.
-- [ ] U regulovaných subjektů zohlednit součinnost s dozorovým orgánem (typicky ČNB).
-- [ ] Nevyvozovat účinky z § 262 samotného, nýbrž z navazující zvláštní úpravy.
-
-**Typicky rozhodné důkazy / podklady:** daňová přiznání a evidence DPH, podklady ze zadávacích řízení, pracovní smlouvy a personální agenda, případná regulatorní rozhodnutí dozorového orgánu.
+Do tohoto kola nebylo zařazeno rozhodnutí, jehož ověřený plný text by byl přímo nosný pro samostatný výklad § 262. Tím se nevyslovuje závěr o neexistenci související judikatury; neověřené nebo pouze tematicky příbuzné rozhodnutí nesmí nahrazovat text konkrétního zvláštního předpisu.
 
 ---
 

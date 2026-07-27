@@ -494,54 +494,58 @@ Do výkladu nebyl v tomto kole převzat žádný judikatorní závěr. Prověře
 
 ## § 254 — Fixní smlouvy
 
-> (1) Bylo-li dohodnuto, že předmět plnění, který má **tržní cenu**, bude dodán **v přesně určené době nebo v pevně určené lhůtě**, a nastane-li doba plnění nebo uplyne-li tato lhůta teprve **po prohlášení konkursu**, **nelze požadovat splnění závazku, nýbrž jen náhradu škody** způsobené tím, že dlužník závazek nesplnil.
-> (2) Škodou podle odstavce 1 se rozumí **rozdíl mezi dohodnutou cenou a tržní cenou**, která se platí ke dni účinnosti prohlášení konkursu v místě určeném smlouvou jako místo plnění. Druhý účastník smlouvy může uplatňovat náhradu škody jako věřitel přihláškou pohledávky, a to nejpozději **do 30 dnů od prohlášení konkursu**.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Bylo-li dohodnuto, že předmět plnění, který má tržní cenu, bude dodán v přesně určené době nebo v pevně určené lhůtě, a nastane-li doba plnění nebo uplyne-li tato lhůta teprve po prohlášení konkursu, nelze požadovat splnění závazku, nýbrž jen náhradu škody způsobené tím, že dlužník závazek nesplnil.
+>
+> (2) Škodou podle odstavce 1 se rozumí rozdíl mezi dohodnutou cenou a tržní cenou, která se platí ke dni účinnosti prohlášení konkursu v místě určeném smlouvou jako místo plnění. Druhý účastník smlouvy může uplatňovat náhradu škody jako věřitel přihláškou pohledávky, a to nejpozději do 30 dnů od prohlášení konkursu.
+
+### Přehled výkladu
+
+§ 254 je zvláštní konkursové pravidlo pro smlouvu, jejíž předmět má tržní cenu a má být dodán v přesně určené době nebo pevně určené lhůtě, která nastane nebo uplyne až po prohlášení konkursu. Jsou-li všechny tyto znaky splněny, druhý účastník nemůže požadovat naturální splnění; může uplatnit pouze zákonem vymezenou náhradu škody. Rozhodnou tržní cenou je cena ke dni účinnosti prohlášení konkursu v místě plnění určeném smlouvou. Nárok se přihlašuje nejpozději do 30 dnů od prohlášení konkursu.
+
+### Souvisící ustanovení
+
+- § 89 odst. 1 — účinnost rozhodnutí insolvenčního soudu zveřejněním v insolvenčním rejstříku, nestanoví-li zákon jinak.
+- § 136 odst. 2 písm. d), odst. 3 a 4 a § 173 — obecná výzva a lhůta k přihlášení pohledávek; § 254 odst. 2 stanoví pro zde upravenou náhradu vlastní zvláštní konec lhůty.
+- § 253 — obecný konkursový režim dosud zcela nesplněných smluv o vzájemném plnění; § 254 pro smlouvy naplňující jeho znaky stanoví zvláštní následek.
+- § 165 a § 173 a násl. — uspokojení pohledávek uplatňovaných přihláškou a přihlašovací režim.
+
+### Souvisící předpisy
+
+Obecná soukromoprávní pravidla o závazcích, splnění a náhradě škody se uplatní jen v rozsahu, v němž zvláštní úprava § 254 neurčuje následek, rozhodný okamžik, místo ocenění a způsob procesního uplatnění sama.
+
+### Z důvodové zprávy
+
+Oficiální důvodová zpráva k vládnímu návrhu insolvenčního zákona charakterizuje § 254 jako úpravu nároků z takzvaných fixních smluv, u nichž prodleva s plněním znemožňuje uskutečnění smlouvy. Jde o stručné vysvětlení účelu; konkrétní znaky a následky je nutno čerpat z přijatého a aktuálně účinného textu zákona. (Sněmovní tisk 1120/0, zvláštní část „K § 254“, číslovaná s. 211, PDF s. 212.)
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tato poznámka není výsledkem negativní rešerše a nevypovídá o existenci nebo neexistenci relevantních publikací.
 
 ### Výklad
 
-**Fixní smlouvy** = *vázané na přesný termín / lhůtu* + *předmět má tržní cenu*. Typický příklad: *forwardy*, *futures*, *spotové dodávky komodit* k určitému dni.
+[1] Použití § 254 vyžaduje současné splnění čtyř znaků: předmět plnění má tržní cenu; smlouva určuje přesnou dobu nebo pevnou lhůtu dodání; tato doba nastane nebo lhůta uplyne až po prohlášení konkursu; a jde o závazek dlužníka, jehož nesplnění zakládá náhradu druhému účastníku. Samotné označení smlouvy jako „fixní“ rozhodující není.
 
-**Pravidlo**: pokud termín nastane **po konkursu** → **nelze plnit**. Jen **náhrada škody** = *rozdíl mezi dohodnutou a tržní cenou ke dni konkursu* (tedy *opportunity cost*).
+[2] Následek nastává přímo ze zákona: naturální splnění závazku nelze požadovat. Volba insolvenčního správce podle § 253 proto u smlouvy v rozsahu pokrytém zvláštní hypotézou § 254 nevede k prolomení tohoto zákazu.
 
-> *Logika*: u fixních smluv má termín hospodářský význam — *zpožděné plnění by bylo zbytečné* nebo dokonce *škodlivé*. Místo plnění tedy *peněžní vyrovnání*.
+[3] Odstavec 2 vymezuje škodu cenovým rozdílem. Porovnává se dohodnutá cena s tržní cenou placenou ke dni účinnosti prohlášení konkursu, a to v místě, které smlouva určila jako místo plnění. Cenový údaj z jiného dne nebo jiného trhu bez doloženého vztahu k tomuto místu zákonné měřítko sám o sobě nenaplňuje.
 
-**Přihláška do 30 dnů**.
+[4] Přihlašovaným nárokem je náhrada škody druhého účastníka. Cenový rozdíl je proto třeba určit ve směru, v němž nesplnění dlužníkova závazku druhému účastníku způsobilo majetkovou újmu; § 254 nezakládá pohledávku jen tím, že dvě porovnávané ceny nejsou stejné. Toto je systematický redakční závěr z pojmu „škoda“ v odstavcích 1 a 2.
 
-### F. Kazuistika
+[5] Třicetidenní lhůta běží podle výslovného textu od prohlášení konkursu, nikoli od odmítnutí plnění správcem ani od původně sjednaného dne dodání. Pro určení počátku je nutno spojit § 254 odst. 2 s účinností rozhodnutí podle § 89; procesní výpočet lhůty se řídí obecnými pravidly použitelnými v insolvenčním řízení.
 
-**1. Modelová situace.** Dlužník (obchodník s komoditami) se zavázal dodat 100 tun mědi v pevně určený den 30. 6. (forwardová dodávka; měď má tržní cenu). Sjednaná cena byla 180 Kč/kg. Konkurs byl prohlášen 20. 6.; den plnění (30. 6.) tedy nastává až po konkursu. Ke dni účinnosti prohlášení konkursu byla tržní cena mědi 210 Kč/kg v místě plnění. Odběratel požaduje buď dodání kovu, nebo náhradu. Důkazy: smlouva s pevným termínem, doklad o tržní (burzovní) ceně mědi k datu účinnosti konkursu v místě plnění, datum prohlášení konkursu.
+[6] Přihláška musí vedle smlouvy a rozhodných časových údajů tvrdit a doložit způsob určení tržní ceny k zákonnému dni a místu. Je-li pro daný předmět více trhů nebo cenových úrovní, nelze bez dalšího zaměnit cenu na jiném místě za cenu v místě plnění.
 
-**2. Právní otázka.** Lze u fixní smlouvy s termínem plnění po konkursu požadovat splnění in natura, nebo jen náhradu škody, a jak se vypočte?
+[7] Jestliže sjednaná doba plnění nastala nebo pevná lhůta uplynula již před prohlášením konkursu, chybí časový znak § 254. Právní režim nároku se pak musí určit podle ostatních ustanovení a podle stavu plnění konkrétní smlouvy; § 254 nelze použít jen proto, že smlouva obsahovala pevný termín.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 254 odst. 1 (u fixních smluv — předmět s tržní cenou, pevný termín/lhůta nastávající po konkursu — nelze požadovat splnění, jen náhradu škody), odst. 2 (škoda = rozdíl mezi dohodnutou a tržní cenou ke dni účinnosti prohlášení konkursu v místě plnění; přihláška do 30 dnů).
-- *Související ustanovení téhož zákona:* § 253 (obecná úprava vzájemných smluv — § 254 je speciální pro fixní plnění), § 173 (přihláška, 30denní lhůta), § 165/305 (rozvrh).
-- *Související předpisy:* OZ — fixní závazek a jeho povaha; pravidla o náhradě škody.
-- *Judikatura:* nosný závěr, že u fixních smluv má termín samostatný hospodářský význam, takže opožděné plnění postrádá smysl a nahrazuje se peněžním vyrovnáním v rozsahu cenového rozdílu.
+[8] U starších skutkových stavů je nutno ověřit znění účinné v rozhodné době a příslušná přechodná ustanovení. Tento komentář popisuje právní stav k 19. 7. 2026.
 
-**4. Subsumpce.** Předmět (měď) má tržní cenu; termín je pevně určen (30. 6.) a nastává po konkursu (prohlášen 20. 6.) → naplněna hypotéza § 254 odst. 1: nelze požadovat dodání kovu. Náhrada dle odst. 2 = rozdíl mezi dohodnutou (180 Kč/kg) a tržní cenou ke dni účinnosti konkursu (210 Kč/kg) v místě plnění, tj. 30 Kč/kg × 100 000 kg = 3 mil. Kč ve prospěch odběratele (kupoval levně, trh stoupl).
+### Judikatura
 
-**5. Řešení.** Odběratel nemá nárok na dodání mědi; přihlásí náhradu škody 3 mil. Kč jako nezajištěnou pohledávku do 30 dnů od prohlášení konkursu (uspokojení poměrné v rozvrhu). Rozhodný je cenový údaj přesně ke dni účinnosti prohlášení konkursu a v místě určeném smlouvou jako místo plnění — nikoli ke dni původního termínu. Procesní kroky: doložit burzovní/tržní cenu k rozhodnému dni, podat přihlášku včas.
-
-**6. Varianty.** (a) Tržní cena ke dni konkursu by klesla pod sjednanou (např. 150 Kč/kg) — odběrateli by nevznikla škoda (rozdíl by byl v jeho neprospěch), nárok by byl nulový. (b) Termín plnění by nastal před konkursem — § 254 by se neuplatnil; nárok by se posuzoval podle obecných pravidel (a § 253), případně jako již vzniklá pohledávka.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument odběratele:* „Trvám na dodání mědi in natura." Neutralizace: § 254 odst. 1 u fixních smluv s termínem po konkursu vylučuje splnění; lze jen náhradu škody.
-- *Protiargument:* „Škodu počítám ke dni sjednaného plnění 30. 6." Neutralizace: odst. 2 určuje rozhodný okamžik na den účinnosti prohlášení konkursu a místo plnění dle smlouvy.
-- *Slabé místo:* prokázání existence a výše tržní ceny k přesnému dni a místu (u méně likvidních komodit může chybět spolehlivý cenový index); a posouzení, zda jde skutečně o „fixní" smlouvu s pevným termínem.
-
-### H. Praktický závěr
-
-U fixních smluv (předmět s tržní cenou, pevný termín) splatných po konkursu se neplní in natura — uplatní se peněžní vyrovnání ve výši rozdílu mezi sjednanou a tržní cenou ke dni účinnosti konkursu v místě plnění, přihlašované do 30 dnů.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověřit, že jde o fixní smlouvu (pevný termín/lhůta) s předmětem majícím tržní cenu a termínem po konkursu.
-- [ ] Vyloučit požadavek na splnění in natura; uplatnit jen náhradu škody.
-- [ ] Škodu vyčíslit jako rozdíl sjednané a tržní ceny ke dni účinnosti konkursu v místě plnění.
-- [ ] Přihlásit nárok do 30 dnů od prohlášení konkursu.
-
-**Typicky rozhodné důkazy / podklady:** smlouva s pevným termínem, doklad o tržní/burzovní ceně k rozhodnému dni a místu, datum a čas účinnosti konkursu, přihláška pohledávky.
+Do tohoto vydání není zařazeno žádné rozhodnutí. Dřívější neurčitý odkaz na údajný „nosný závěr“ bez identifikace soudu, data, spisové značky a ověřeného plného textu byl odstraněn. Nejde o závěr, že relevantní judikatura neexistuje.
 
 ---
 

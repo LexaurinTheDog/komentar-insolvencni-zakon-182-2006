@@ -999,51 +999,64 @@ Do tohoto kola nebylo zařazeno rozhodnutí, jehož ověřený plný text by byl
 
 ## § 263 — Přerušení řízení
 
-> (1) Není-li v tomto zákoně stanoveno jinak, **přerušují se soudní a rozhodčí řízení**, která se týkají majetkové podstaty nebo které mají být uspokojeny z majetkové podstaty, jejichž účastníkem je dlužník, **prohlášením konkursu**. V těchto řízeních lze pokračovat **jen za podmínek stanovených tímto zákonem**; možnost postupovat podle ustanovení § 141a tím není dotčena.
-> (2) Je-li řízení podle odstavce 1 přerušeno, **nekonají se jednání a neběží stanovené lhůty**. Jestliže se v řízení pokračuje, počínají lhůty běžet znovu.
-> (3) — (4) [působnost přerušení, vyrozumění]
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Není-li v tomto zákoně stanoveno jinak, přerušují se soudní a rozhodčí řízení, která se týkají majetkové podstaty nebo které mají být uspokojeny z majetkové podstaty, jejichž účastníkem je dlužník, prohlášením konkursu. V těchto řízeních lze pokračovat jen za podmínek stanovených tímto zákonem; možnost postupovat podle ustanovení § 141a tím není dotčena.
+>
+> (2) Je-li řízení podle odstavce 1 přerušeno, nekonají se jednání a neběží stanovené lhůty. Jestliže se v řízení pokračuje, počínají lhůty běžet znovu.
+>
+> (3) Přerušení řízení působí na účastníky řízení, kteří v řízení vystupují na téže straně jako dlužník, jen jde-li o nerozlučné společenství nebo o vedlejší účastenství.
+>
+> (4) Jakmile se soud, rozhodce nebo stálý rozhodčí soud příslušný k projednání a rozhodnutí věci dozví o přerušení řízení podle odstavce 1, vyrozumí o tom účastníky řízení; současně je poučí, za jakých podmínek lze v řízení pokračovat. Rozhodnutí již vydaná se v době, kdy je řízení přerušeno, nedoručují; bylo-li řízení přerušeno po doručení rozhodnutí, avšak ještě předtím, než rozhodnutí nabylo právní moci, nenabývá rozhodnutí právní moci. Jestliže se v řízení pokračuje, rozhodnutí se doručuje znovu.
+
+### Přehled výkladu
+
+§ 263 upravuje účinek prohlášení konkursu na probíhající soudní a rozhodčí řízení. Přerušení nastává ze zákona jen při splnění osobní a věcné podmínky odstavce 1 a s výhradou zákonných výjimek. Po dobu přerušení se nejedná, neběží stanovené lhůty a zvláštní režim dopadá i na doručování a právní moc rozhodnutí. Pokračovat lze jen podle insolvenčního zákona.
+
+### Souvisící ustanovení
+
+- **§ 140a a § 141a** — účinky rozhodnutí o úpadku a postup po řízení zahájeném přes zákonný zákaz.
+- **§ 245 odst. 1** — okamžik účinků prohlášení konkursu.
+- **§ 264 a § 265** — podmínky pokračování a vstup insolvenčního správce.
+- **§ 266 a § 267** — výjimky z přerušení a režim výkonu rozhodnutí a exekuce.
+
+### Souvisící předpisy
+
+- **Zákon č. 99/1963 Sb., občanský soudní řád, zejména § 109, § 167 odst. 1 a § 202 odst. 1 písm. a)** — obecný procesní rámec a forma usnesení upravujícího vedení řízení.
+- **Zákon č. 216/1994 Sb., o rozhodčím řízení a o výkonu rozhodčích nálezů** — procesní rámec rozhodčích řízení.
+- **Zákon č. 294/2013 Sb., čl. I body 147 a 148 a čl. II** — změna § 263 od 1. 1. 2014 a přechodné pravidlo.
+
+### Z důvodové zprávy
+
+Oficiální důvodová zpráva k vládnímu návrhu pojednává společně § 263 až § 267. Za východisko označuje přerušení řízení týkajících se majetku v podstatě, zároveň zdůrazňuje výjimky a potřebu podrobné úpravy. Jde o historický popis původního návrhu; dnešní rozsah určuje aktuální text. (Sněmovní tisk 1120/0, 4. volební období, zvláštní část „K § 263–267“, číslovaná s. 211, PDF s. 212.)
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tato poznámka není výsledkem negativní literární rešerše.
 
 ### Výklad
 
-**Generální přerušení**: prohlášením konkursu se **automaticky přerušují** všechna soudní a rozhodčí řízení dotčená podstaty. Lze pokračovat *jen* podle § 264 — § 266.
+[1] **Okamžik a povaha.** Přerušení nastává přímo ze zákona prohlášením konkursu. Podle § 245 odst. 1 účinky nastávají zveřejněním rozhodnutí v insolvenčním rejstříku. Vyrozumění podle odstavce 4 není podmínkou vzniku přerušení.
 
-> *Vztah k § 140a*: § 140a přerušuje již *po rozhodnutí o úpadku* určité kategorie. § 263 *navíc* přerušuje *při prohlášení konkursu* (typicky tam, kde úpadek byl rozhodnut bez prohlášení konkursu).
+[2] **Kumulativní předpoklady.** Dlužník musí být účastníkem a řízení se musí týkat podstaty nebo nároku, který má být z podstaty uspokojen. Nestačí pouhá hospodářská souvislost; vždy se kontrolují i výjimky § 266.
 
-### F. Kazuistika
+[3] **Jen soudní a rozhodčí řízení.** Aktuální text nezahrnuje správní ani obecnou kategorii „jiných“ řízení. Zákon č. 294/2013 Sb. od 1. 1. 2014 nahradil původní širší vymezení. Starší prameny proto vyžadují intertemporální filtr.
 
-**1. Modelová situace.** Proti dlužníku (s.r.o.) běžel u okresního soudu spor o zaplacení 1,2 mil. Kč (dlužník žalovaný) a u rozhodčího soudu spor o pohledávku dlužníka za odběratelem (dlužník žalobce). Týden před nařízeným jednáním a před koncem odvolací lhůty byl prohlášen konkurs. Soud i rozhodce neví, zda mají jednat a zda běží lhůty. Důkazy: spisy obou řízení, údaj o zveřejnění konkursu, předvolání k jednání a běh lhůt.
+[4] **Následky.** Nekonají se jednání a neběží stanovené lhůty; po pokračování běží znovu. Již vydaná rozhodnutí se nedoručují. Rozhodnutí doručené před přerušením, které dosud nebylo pravomocné, právní moci nenabude a po pokračování se doručí znovu.
 
-**2. Právní otázka.** Přerušují se prohlášením konkursu probíhající soudní a rozhodčí řízení týkající se podstaty, a co se děje s jednáními a lhůtami?
+[5] **Další účastníci.** Na osoby na téže straně jako dlužník se přerušení přenese jen při nerozlučném společenství nebo vedlejším účastenství. Samotná vícečlennost procesní strany nestačí.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 263 odst. 1 (generální přerušení soudních a rozhodčích řízení týkajících se podstaty nebo majících být uspokojeny z podstaty, jejichž účastníkem je dlužník; pokračovat lze jen dle IZ; § 141a tím není dotčen), odst. 2 (po dobu přerušení se nekonají jednání a neběží lhůty; při pokračování běží lhůty znovu).
-- *Související ustanovení téhož zákona:* § 264–266 (pokračování a výjimky z přerušení), § 140a (přerušení po rozhodnutí o úpadku), § 140c (zákaz zahájení nových sporů), § 109 (účinky zahájení IŘ).
-- *Související předpisy:* o. s. ř. (přerušení řízení, běh lhůt), zákon o rozhodčím řízení.
-- *Judikatura:* nosný závěr, že přerušení dle § 263 nastává ex lege prohlášením konkursu a brání konání jednání i běhu lhůt, dokud řízení nepokračuje za podmínek IZ.
+[6] **Vyrozumění.** Příslušný soud, rozhodce nebo stálý rozhodčí soud vyrozumí všechny účastníky a poučí je o podmínkách pokračování. Odstavec 4 váže tuto povinnost na okamžik, kdy se příslušný orgán o přerušení dozví.
 
-**4. Subsumpce.** Oba spory se týkají majetkové podstaty a dlužník je jejich účastníkem → § 263 odst. 1: prohlášením konkursu se ex lege přerušují (soudní i rozhodčí). Dle odst. 2 se po dobu přerušení nekoná nařízené jednání a neběží odvolací ani jiné lhůty; po případném pokračování počnou lhůty běžet znovu.
+[7] **Pokračování.** U dlužníka jako žalobce či navrhovatele se použije § 264. U nároků proti dlužníku rozhoduje jejich povaha a § 265. Z § 263 samotného nelze dovodit oprávněného navrhovatele ani možnost pokračovat v každém sporu.
 
-**5. Řešení.** Soud i rozhodce nesmějí jednat a musejí vyčkat; lhůty neběží. Pokračovat lze jen za podmínek § 264 (dlužník-žalobce — na návrh správce) a § 265 (dlužník-žalovaný — jen omezené spory; jinak se nárok uplatní přihláškou). Procesní kroky: vyznačení přerušení ve spisech, vyrozumění účastníků; správce zvolí, zda u aktivních sporů navrhne pokračování.
+[8] **Vztah k úpadku.** § 140a může vymezené řízení přerušit již rozhodnutím o úpadku, § 263 je vázán na prohlášení konkursu. Neplatí však, že § 263 působí jen při časově oddělených rozhodnutích; vždy se určí rozsah a okamžik obou norem. § 141a zůstává výslovně nedotčen.
 
-**6. Varianty.** (a) Řízení spadá mezi výjimky § 266 (trestní, dědické, SJM, výživné, ochrana osobnosti, OR, kapitálový trh, exekuce, jediný účastník) — nepřerušuje se. (b) Úpadek byl rozhodnut bez současného prohlášení konkursu — část řízení se přerušila již dle § 140a; § 263 doplňuje přerušení k okamžiku prohlášení konkursu.
+### Judikatura
 
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Jednání bylo nařízeno, soud musí jednat." Neutralizace: § 263 odst. 2 — po dobu přerušení se jednání nekonají; přerušení nastalo ex lege konkursem.
-- *Protiargument:* „Zmeškal jsem odvolací lhůtu během konkursu." Neutralizace: odst. 2 — po dobu přerušení lhůty neběží; při pokračování běží znovu.
-- *Slabé místo:* určení, zda se řízení „týká podstaty" (a tedy se přerušuje) nebo spadá mezi výjimky § 266; chybné posouzení vede k vadám řízení.
-
-### H. Praktický závěr
-
-Prohlášením konkursu se ex lege přerušují soudní a rozhodčí řízení týkající se podstaty, jejichž účastníkem je dlužník. Po dobu přerušení se nekonají jednání a neběží lhůty; pokračovat lze jen za podmínek § 264–266.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Posoudit, zda se řízení týká podstaty (přerušuje se) nebo spadá pod výjimky § 266.
-- [ ] Po prohlášení konkursu nekonat jednání a nepočítat běh lhůt (odst. 2).
-- [ ] U aktivních sporů zvážit návrh správce na pokračování (§ 264).
-- [ ] Nároky proti dlužníku uplatňovat zásadně přihláškou, ne pokračováním sporu (§ 265, § 140c).
-
-**Typicky rozhodné důkazy / podklady:** soudní/rozhodčí spisy, výpis z ISIR s časem zveřejnění konkursu, předvolání a doklady o lhůtách, návrh správce na pokračování.
+Do tohoto kola se judikatorní závěr nezařazuje; nejde o negativní rešerši judikatury.
 
 ---
 

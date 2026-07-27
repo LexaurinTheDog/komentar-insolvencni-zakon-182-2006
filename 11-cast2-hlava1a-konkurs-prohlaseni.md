@@ -1171,61 +1171,79 @@ Do tohoto kola nebyl zařazen samostatný judikatorní závěr. Dřívější od
 
 ## § 266 — Nepřerušená řízení
 
-> (1) Prohlášením konkursu se ze soudních a rozhodčích řízení **nepřerušují**
-> a) **trestní řízení**,
-> b) **dědické řízení** a řízení o pozůstalosti,
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Prohlášením konkursu se ze soudních a rozhodčích řízení nepřerušují
+>
+> a) trestní řízení,
+>
+> b) dědické řízení a řízení o pozůstalosti,
+>
 > c) řízení o vypořádání společného jmění dlužníka a jeho manžela,
-> d) řízení o **výživném nezletilých dětí** bez zřetele k tomu, zda v něm dlužník vystupuje jako osoba oprávněná nebo jako osoba povinná,
-> e) řízení ve věcech **ochrany osobnosti** a ve věcech ochrany názvu a dobré pověsti právnické osoby; to neplatí, je-li dlužník podnikatelem nebo je-li požadováno peněžité plnění,
-> f) řízení ve věcech **veřejných rejstříků** podle zvláštního právního předpisu,
-> g) řízení ve věcech **kapitálového trhu**,
-> h) řízení o **výkon rozhodnutí nebo exekuce**,
-> i) řízení, ve kterých je dlužník **jediným účastníkem**.
+>
+> d) řízení o výživném nezletilých dětí bez zřetele k tomu, zda v něm dlužník vystupuje jako osoba oprávněná nebo jako osoba povinná,
+>
+> e) řízení ve věcech ochrany osobnosti a ve věcech ochrany názvu a dobré pověsti právnické osoby; to neplatí, je-li dlužník podnikatelem nebo je-li požadováno peněžité plnění,
+>
+> f) řízení ve věcech veřejných rejstříků podle zvláštního právního předpisu,
+>
+> g) řízení ve věcech kapitálového trhu,
+>
+> h) řízení o výkon rozhodnutí nebo exekuce,
+>
+> i) řízení, ve kterých je dlužník jediným účastníkem.
+>
+> (2) Není-li dále stanoveno jinak, účastníkem řízení uvedených v odstavci 1 je i nadále dlužník.
+>
+> (3) Jde-li o řízení ve věcech kapitálového trhu nebo o řízení, ve kterém je dlužník jediným účastníkem, může insolvenční soud na návrh orgánu, který je vede, nebo i bez návrhu po posouzení povahy předmětu řízení a jeho vlivu na další průběh insolvenčního řízení rozhodnout, že se insolvenční správce stává účastníkem řízení místo dlužníka. Proti tomuto rozhodnutí není odvolání přípustné.
+>
+> (4) Úpravou podle odstavců 1 až 3 nejsou dotčena ustanovení § 140a až § 140e.
+
+### Přehled výkladu
+
+§ 266 vyjímá přesně vyjmenovaná soudní a rozhodčí řízení z přerušení, které by jinak mohlo nastat prohlášením konkursu. Nepřerušení samo neurčuje, kdo v řízení jedná ani zda lze majetek v majetkové podstatě postihnout výkonem rozhodnutí nebo exekucí. Základním účastníkem zůstává dlužník; nahrazení dlužníka insolvenčním správcem vyžaduje zvláštní zákonné pravidlo nebo rozhodnutí podle odstavce 3.
+
+### Souvisící ustanovení
+
+§ 140a až § 140e (účinky rozhodnutí o úpadku, které odstavec 4 zachovává), § 263 (obecné přerušení prohlášením konkursu), § 267 (postavení povinného a správce ve výkonu rozhodnutí a exekuci), § 273 (nástup správce místo dlužníka v řízení o vypořádání společného jmění).
+
+### Souvisící předpisy
+
+Zákon č. 99/1963 Sb., občanský soudní řád (procesní rámec civilních řízení a výkonu rozhodnutí); zákon č. 120/2001 Sb., exekuční řád; zákon č. 292/2013 Sb., o zvláštních řízeních soudních (zejména řízení o pozůstalosti); zákon č. 304/2013 Sb., o veřejných rejstřících právnických a fyzických osob; zákon č. 256/2004 Sb., o podnikání na kapitálovém trhu; zákon č. 141/1961 Sb., trestní řád.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva k vládnímu návrhu insolvenčního zákona vysvětlovala § 263 až § 267 společně: obecné přerušení řízení týkajících se majetku v podstatě vyžaduje výjimky a podrobnější úpravu. Zvlášť zdůraznila, že nepřerušení výkonu rozhodnutí nebo exekuce neznamená možnost jejich provedení proti majetku podstaty. Její zmínka o tehdy navrženém písmenu m) není popisem dnešního znění. (Sněmovní tisk 1120/0, 4. volební období, zvláštní část „K § 263–267“, číslované s. 211–212, PDF s. 211–212.)
+
+Důvodová zpráva k zákonu č. 294/2013 Sb. uvádí, že nové znění odstavce 1 navázalo na § 140a až § 141a, výslovně se vymezilo k soudním a rozhodčím řízením a věcný okruh výjimek zachovalo; nový odstavec 4 měl výslovně pojmenovat vazbu na účinky rozhodnutí o úpadku. (Sněmovní tisk 929/0, 6. volební období, zvláštní část k bodům 151 a 152, číslovaná s. 143, PDF s. 144.)
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tato poznámka není závěrem o neexistenci relevantní literatury ani výsledkem její negativní rešerše.
 
 ### Výklad
 
-**Taxativní výjimky** — typicky řízení **veřejnoprávní povahy** nebo **osobní povahy**:
-- *trestní řízení* — pokračuje, dlužník zůstává obviněným/poškozeným,
-- *dědictví, SJM* — speciální režimy,
-- *výživné, ochrana osobnosti, OR, kapitálový trh* — *není věc majetkové podstaty*,
-- *exekuce* — pokračuje (s omezeními dle § 109 odst. 1 písm. c) a § 140e),
-- *jediný účastník* (typicky veřejnoprávní žádost).
+[1] **Rozsah výjimky.** Odstavec 1 dopadá jen na soudní a rozhodčí řízení a obsahuje uzavřený výčet devíti skupin. Nejdříve se proto určí, zda by konkrétní řízení jinak splnilo podmínky přerušení podle § 263; poté se ověří, zda je podřaditelné pod některé písmeno § 266 odst. 1.
 
-### F. Kazuistika
+[2] **Ochrana osobnosti a pověsti.** Výjimka podle písmene e) se neuplatní, je-li dlužník podnikatelem, ani je-li požadováno peněžité plnění. Jde o dvě samostatné alternativy vyjádřené spojkou „nebo“; nestačí proto ověřit pouze nepeněžitou povahu žalobního petitu.
 
-**1. Modelová situace.** Dlužník (FO-podnikatel) je v okamžiku konkursu účastníkem několika řízení: trestního (jako poškozený), řízení o vypořádání SJM s manželkou, řízení o výživném nezletilého dítěte, sporu o ochranu osobnosti (žaluje o omluvu, nepožaduje peníze) a řízení o zápis změny do obchodního rejstříku. Správce řeší, která z těchto řízení se konkursem přerušila a kterých se má účastnit. Důkazy: spisy jednotlivých řízení, výpis z ISIR, doklad o postavení dlužníka v každém řízení.
+[3] **Dlužník zůstává účastníkem.** Podle odstavce 2 zůstává v nepřerušeném řízení účastníkem dlužník, nestanoví-li zákon jinak. Samotné prohlášení konkursu tedy ve všech řízeních uvedených v odstavci 1 automaticky nenahrazuje dlužníka správcem.
 
-**2. Právní otázka.** Která probíhající řízení se prohlášením konkursu nepřerušují a jak v nich pokračuje dlužník či správce?
+[4] **Rozhodnutí o nástupnictví správce.** Odstavec 3 umožňuje insolvenčnímu soudu nahradit dlužníka správcem pouze v řízení ve věcech kapitálového trhu nebo v řízení, v němž je dlužník jediným účastníkem. Soud může rozhodnout na návrh orgánu vedoucího řízení i bez návrhu; musí posoudit povahu předmětu řízení a jeho vliv na další průběh insolvenčního řízení. Proti rozhodnutí není odvolání přípustné.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 266 odst. 1 (taxativní výčet řízení, která se nepřerušují: a) trestní, b) dědické/pozůstalostní, c) o vypořádání SJM, d) o výživném nezletilých, e) ochrana osobnosti a názvu/pověsti PO — s výjimkou podnikatele/peněžitého plnění, f) veřejné rejstříky, g) kapitálový trh, h) výkon rozhodnutí/exekuce, i) řízení, kde je dlužník jediným účastníkem).
-- *Související ustanovení téhož zákona:* § 263 (obecné přerušení — § 266 je výjimkou), § 267 (exekuce po konkursu), § 273 (řízení o vypořádání SJM — správce nastoupí), § 109 odst. 1 písm. c) a § 140e (omezení provedení exekuce).
-- *Související předpisy:* trestní řád, o. s. ř. (dědictví, SJM, výživné, ochrana osobnosti), zákon o veřejných rejstřících, zákon o podnikání na kapitálovém trhu, exekuční řád.
-- *Judikatura:* nosný závěr, že výčet nepřerušovaných řízení je taxativní a zahrnuje typicky věci veřejnoprávní nebo ryze osobní povahy, jež se netýkají majetkové podstaty.
+[5] **Zvláštní pravidlo pro společné jmění.** Ačkoli se řízení o vypořádání společného jmění podle odstavce 1 písm. c) nepřerušuje, § 273 odst. 1 stanoví přímé procesní nástupnictví správce místo dlužníka a po dobu účinků rozhodnutí o úpadku vylučuje skončení věci soudním smírem.
 
-**4. Subsumpce.** Trestní řízení (poškozený) → § 266 odst. 1 písm. a): nepřerušuje se. Řízení o vypořádání SJM → písm. c): nepřerušuje se (avšak dle § 273 do něj nastoupí správce). Výživné nezletilého → písm. d): nepřerušuje se. Spor o ochranu osobnosti bez peněžitého plnění a u nepodnikatelské povahy nároku → písm. e): nepřerušuje se. Zápis do OR → písm. f): nepřerušuje se.
+[6] **Exekuce: nepřerušení není provedení.** Řízení o výkon rozhodnutí nebo exekuce se podle písmene h) prohlášením konkursu nepřerušuje. Odstavec 4 však zachovává § 140e a § 267 výslovně ponechává § 140e nedotčený. Z nepřerušení proto nelze dovodit možnost nařídit, zahájit či provést výkon nebo exekuci proti majetku chráněnému insolvenčním zákonem.
 
-**5. Řešení.** Uvedená řízení běží dál. Dlužník v nich zásadně vystupuje sám (osobní/veřejnoprávní povaha), s výjimkou vypořádání SJM, kde za dlužníka jedná správce (§ 273), neboť jde o majetkovou věc s dopadem do podstaty. Správce sleduje zejména řízení s majetkovým dopadem (SJM, případně část ochrany osobnosti, jde-li o peněžité plnění u podnikatele — to už se přerušuje). Procesní kroky: identifikace povahy každého řízení a postavení dlužníka, určení, kdo jedná.
+[7] **Vztah k rozhodnutí o úpadku.** § 266 upravuje účinek prohlášení konkursu, nikoli samostatnou výjimku ze všech dřívějších účinků rozhodnutí o úpadku. Odstavec 4 výslovně zachovává § 140a až § 140e; u každého řízení je proto nutné oddělit účinek rozhodnutí o úpadku od pozdějšího účinku prohlášení konkursu.
 
-**6. Varianty.** (a) Spor o ochranu osobnosti by zahrnoval peněžité plnění nebo by se týkal dlužníka-podnikatele — výjimka písm. e) by se neuplatnila a řízení by se přerušilo (§ 263). (b) Exekuce (písm. h) sice běží dál, avšak její provedení vůči majetku v podstatě je vyloučeno (§ 109 odst. 1 písm. c), § 140e, § 267).
+[8] **Intertemporalita.** Zákon č. 294/2013 Sb. nahradil odstavec 1 a doplnil odstavec 4 s účinností od 1. 1. 2014. Podle čl. II se nové znění použije i na insolvenční řízení zahájená před tímto dnem, právní účinky úkonů nastalé před účinností však zůstávají zachovány. U starších procesních situací je proto nutné určit okamžik rozhodného účinku.
 
-### G. Protiargumenty a rizika
+### Judikatura
 
-- *Protiargument:* „Konkurs přerušuje všechna řízení dlužníka." Neutralizace: § 266 obsahuje taxativní výjimky (trestní, dědické, SJM, výživné, ochrana osobnosti, OR, kapitálový trh, exekuce, jediný účastník).
-- *Protiargument:* „Ve sporu o ochranu osobnosti dlužníka pokračuji i o peníze." Neutralizace: výjimka písm. e) neplatí, je-li dlužník podnikatelem nebo jde-li o peněžité plnění — pak se řízení přerušuje.
-- *Slabé místo:* zařazení konkrétního řízení pod některou položku výčtu (zejm. hranice „peněžité plnění" / „podnikatel" u ochrany osobnosti) a rozlišení, kdy do nepřerušeného řízení nastupuje správce (SJM dle § 273).
-
-### H. Praktický závěr
-
-Taxativně vymezená řízení (trestní, dědické, SJM, výživné, ochrana osobnosti — s výjimkami, veřejné rejstříky, kapitálový trh, exekuce, řízení s jediným účastníkem) se prohlášením konkursu nepřerušují, neboť mají veřejnoprávní nebo osobní povahu. U vypořádání SJM však do řízení nastupuje správce.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Posoudit, zda řízení spadá pod některou taxativní výjimku § 266 (pak se nepřerušuje).
-- [ ] U ochrany osobnosti ověřit, zda nejde o peněžité plnění / podnikatele (pak se přerušuje).
-- [ ] U vypořádání SJM zajistit nástup správce za dlužníka (§ 273).
-- [ ] U exekuce (písm. h) respektovat zákaz jejího provedení vůči podstatě (§ 109, § 140e, § 267).
-
-**Typicky rozhodné důkazy / podklady:** spisy jednotlivých řízení, výpis z ISIR, doklady o postavení dlužníka (poškozený/účastník), povaha uplatněného nároku (peněžité × nepeněžité).
+Do tohoto kola nebyl zařazen samostatný judikatorní závěr. Stávající neurčitý odkaz na „nosný závěr“ bez identifikace rozhodnutí byl odstraněn, protože neumožňoval ověřit plný text, skutkový a procesní kontext ani časovou použitelnost. Nejde o závěr, že relevantní judikatura neexistuje.
 
 ---
 

@@ -77,88 +77,66 @@ V tomto kole nebylo použito žádné rozhodnutí jako přímá autorita k výkl
 
 ## § 283 — Pojem zpeněžení
 
-> (1) Zpeněžením majetkové podstaty se rozumí převedení veškerého majetku, který do ní náleží, na peníze za účelem uspokojení věřitelů. Za zpeněžení se k tomuto účelu považuje i využití bankovních kont dlužníka a jeho peněžní hotovosti. Zpeněžením majetkové podstaty se rozumí i úplatné postoupení dlužníkových pohledávek; **ujednáními, která tomu brání, není insolvenční správce omezen**.
-> (2) Ke zpeněžení majetkové podstaty lze přikročit **teprve po právní moci rozhodnutí o prohlášení konkursu, nejdříve však po první schůzi věřitelů**, pokud nejde o věci bezprostředně ohrožené zkázou nebo znehodnocením anebo pokud insolvenční soud nepovolí výjimku.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Zpeněžením majetkové podstaty se rozumí převedení veškerého majetku, který do ní náleží, na peníze za účelem uspokojení věřitelů. Za zpeněžení se k tomuto účelu považuje i využití bankovních kont dlužníka a jeho peněžní hotovosti. Zpeněžením majetkové podstaty se rozumí i úplatné postoupení dlužníkových pohledávek; ujednáními, která tomu brání, není insolvenční správce omezen.
+>
+> (2) Ke zpeněžení majetkové podstaty lze přikročit teprve po právní moci rozhodnutí o prohlášení konkursu, nejdříve však po první schůzi věřitelů, pokud nejde o věci bezprostředně ohrožené zkázou nebo znehodnocením anebo pokud insolvenční soud nepovolí výjimku.
+>
 > (3) Zpeněžení majetku v majetkové podstatě dlužníka, na který se vztahuje rozhodnutí o zajištění vydané v trestním řízení, lze provést jen po předchozím souhlasu příslušného orgánu činného v trestním řízení. Převyšuje-li dosažený výtěžek zpeněžení majetku podle věty první částku určenou k vyplacení, informuje insolvenční správce o této skutečnosti orgán činný v trestním řízení, který o zajištění rozhodl. Nesdělí-li orgán činný v trestním řízení do 30 dnů insolvenčnímu správci, že se zajištění vztahuje i na zbytek výtěžku, použije se k rozdělení mezi věřitele.
 >
 > (4) Kopie písemností, které dokládají zpeněžení majetkové podstaty a podmínky, za kterých ke zpeněžení došlo, předloží insolvenční správce insolvenčnímu soudu k založení do insolvenčního spisu neprodleně poté, co došlo ke zpeněžení.
 >
-> (5) Není-li dále staveno jinak, **nepřecházejí zpeněžením majetkové podstaty na nabyvatele závazky váznoucí na věci**.
+> (5) Není-li dále staveno jinak, nepřecházejí zpeněžením majetkové podstaty na nabyvatele závazky váznoucí na věci.
 
-### Výklad — **CENTRÁLNÍ PARAGRAF ZPENĚŽENÍ**
+### Přehled výkladu
 
-#### Definice (odst. 1)
+§ 283 vymezuje, co se pro účely konkursu považuje za zpeněžení, stanoví jeho základní časovou mez, zvláštní podmínku pro majetek zajištěný v trestním řízení, informační povinnost správce a výchozí pravidlo o nepřechodu závazků váznoucích na věci. Toto pravidlo nelze zaměňovat za tvrzení, že zpeněžením bez výjimky zaniká každý právní vztah spojený s věcí.
 
-**Zpeněžení = převedení majetku na peníze**:
-- *fyzické zpeněžení* věcí (prodej, dražba),
-- *využití účtů a hotovosti* (= "zpeněžení" peněžních prostředků zjednodušeně tím, že už jsou peníze),
-- **úplatné postoupení pohledávek** — pohledávky dlužníka se *prodávají* (typicky agenturám pro vymáhání).
+### Souvisící ustanovení
 
-**Důležité**: *smluvní zákazy postoupení* (typicky "smlouva nemůže být postoupena bez souhlasu druhé strany") **nezavazují správce**. Smlouva mezi původními stranami nemůže omezit *insolvenční zpeněžení*.
+- § 256 — výpověď nájemních a podnájemních smluv po prohlášení konkursu.
+- § 284 a § 285 — předkupní práva a účinky zpeněžení na závady; § 285 odst. 4 zachovává zásadně služebnosti a reálná břemena.
+- § 286 až § 293 — způsoby zpeněžení, jejich podmínky a pokyny zajištěného věřitele; § 291 stanoví zvláštní přechod práv a závazků při zpeněžení podniku jedinou smlouvou.
+- § 294 — uplatňování a vymáhání dlužníkových pohledávek.
+- § 298 a § 300 — vydání výtěžku zajištěnému věřiteli a vyrozumění o zpeněžení.
 
-#### Časový rámec (odst. 2)
+### Souvisící předpisy
 
-**Standardně** lze zpeněžit:
-- *po právní moci prohlášení konkursu*,
-- *nejdříve po první schůzi věřitelů*.
+- Zákon č. 89/2012 Sb., občanský zákoník, zejména obecná pravidla postoupení pohledávky a změny vlastnictví pronajaté věci; insolvenční zákon pro zpeněžení obsahuje zvláštní pravidla.
+- Zákon č. 141/1961 Sb., trestní řád, a další procesní předpisy upravující zajištění majetku v trestním řízení; § 283 odst. 3 na rozhodnutí o takovém zajištění navazuje.
 
-**Výjimky** (lze i dřív):
-- *věci bezprostředně ohrožené zkázou nebo znehodnocením* (typicky zboží s krátkou trvanlivostí, sezónní zboží),
-- *povolení soudu* (typicky pro nepatrné věci, urgentní situace).
+### Z důvodové zprávy
 
-#### Trestněprávní zajištění (odst. 3)
+Původní důvodová zpráva k vládnímu návrhu insolvenčního zákona označila za významnou změnu časovou mez v odstavci 2. Jejím účelem bylo zabránit obtížně řešitelným následkům zpeněžení, kdyby rozhodnutí o prohlášení konkursu bylo změněno nebo zrušeno (sněmovní tisk 1120/0, zvláštní část, k § 283, číslovaná s. 212).
 
-**Souhlas orgánu trestního řízení** nutný. Pokud výtěžek **převyšuje** zajištěnou částku, *přesah* — orgán má 30 dnů na vyjádření, jinak *patří podstatě*.
+Odstavce 4 a 5 byly doplněny zákonem č. 294/2013 Sb. Důvodová zpráva popsala odstavec 4 jako nástroj transparentnosti prostřednictvím založení písemností do insolvenčního spisu a odstavec 5 jako výslovné vyjádření obecné zásady, jež mělo předejít výkladovým obtížím spojeným s novým občanským zákoníkem (sněmovní tisk 929/0, zvláštní část, k bodu 161, číslované s. 110–111).
 
-#### Klíčové pravidlo (odst. 5)
+### Literatura
 
-> **Závazky váznoucí na věci NEPŘECHÁZEJÍ na nabyvatele**.
+Odborná literatura nebyla v tomto kole hodnocena; její zpracování je odloženo do druhého kola. Nejde o negativní rešeršní závěr.
 
-*Příklad*: nemovitost je zatížena hypotékou (zástavní právo) i pohledávkami z nezaplacených daní (zástavní právo finančního úřadu). Po zpeněžení **nabyvatel získá nemovitost čistou** — zástavy se vymažou. Bývalí věřitelé se uspokojují z **výtěžku zpeněžení** (§ 167, § 298).
+### Výklad
 
-> *Strategická výhoda insolvenčního prodeje*: kupci platí *vyšší cenu* za majetek bez zatížení.
+[1] **Pojem zpeněžení.** Zákonným cílem je převést majetek náležející do majetkové podstaty na peníze určené k uspokojení věřitelů. Odstavec 1 výslovně zahrnuje také využití bankovních kont a hotovosti a úplatné postoupení dlužníkových pohledávek. Ujednání bránící takovému postoupení insolvenčního správce neomezuje; toto pravidlo se týká úplatného postoupení při zpeněžení, nikoli bez dalšího všech dispozic s pohledávkou.
 
-### Vazby
+[2] **Časová mez.** K běžnému zpeněžení lze přikročit až po právní moci rozhodnutí o prohlášení konkursu a nejdříve po první schůzi věřitelů. Samotný odstavec 2 připouští dvě alternativy: věc je bezprostředně ohrožena zkázou nebo znehodnocením, anebo insolvenční soud povolí výjimku. Další podmínky konkrétního způsobu zpeněžení je nutné posoudit podle § 286 a násl.; splnění § 283 odst. 2 je nenahrazuje.
 
-- **§ 285** — zánik účinků zajištění.
-- **§ 167** — uspokojení zajištěných z výtěžku.
+[3] **Trestní zajištění.** Vztahuje-li se na majetek rozhodnutí o zajištění vydané v trestním řízení, vyžaduje zpeněžení předchozí souhlas příslušného orgánu činného v trestním řízení. Převýší-li výtěžek částku určenou k vyplacení, správce informuje orgán, který o zajištění rozhodl. Teprve jestliže tento orgán do 30 dnů nesdělí, že zajištění dopadá i na zbytek výtěžku, použije se zbytek k rozdělení mezi věřitele.
 
-### F. Kazuistika
+[4] **Dokumentace.** Správce musí neprodleně po zpeněžení předložit soudu kopie písemností dokládajících jak samotné zpeněžení, tak jeho podmínky. Jde o samostatnou povinnost navazující na uskutečněné zpeněžení.
 
-**1. Modelová situace.** Insolvenční správce dlužníka (s. r. o.) hodlá zpeněžit dvě aktiva: (i) výrobní halu zatíženou zástavním právem banky (hypotéka 8 mil. Kč) a soudcovským zástavním právem dodavatele, a (ii) balík pohledávek za odběrateli ve výši 3 mil. Kč, u nichž faktury obsahují doložku „pohledávku nelze postoupit bez souhlasu dlužníka (odběratele)". Halu hodlá prodat dva měsíce po prohlášení konkursu, ještě před první schůzí věřitelů, protože se objevil vážný zájemce. Část zásob tvoří potraviny s blížící se expirací. Důkazy: výpis z katastru o zatížení haly, smlouvy s odběrateli se zákazem postoupení, znalecký posudek na halu, doklad o trvanlivosti zásob.
+[5] **Nepřechod závazků a zákonné výjimky.** Odstavec 5 je výchozím pravidlem, nikoli bezvýjimečnou formulí „čistého nabytí“. Zvláštní režim stanoví zejména § 291 pro zpeněžení podniku jedinou smlouvou a § 285 odst. 4 pro služebnosti a reálná břemena. Rovněž nelze z pojmu „závazky váznoucí na věci“ mechanicky dovodit zánik každého obligačního vztahu spojeného se zpeněženou věcí.
 
-**2. Právní otázka.** Brání správci ve zpeněžení (a) smluvní zákaz postoupení pohledávek, (b) absence první schůze věřitelů u prodeje haly, a přejdou na nabyvatele haly závazky zajištěné zástavními právy?
+[6] **Nájem bytu.** Nejvyšší soud v rozsudku ze dne 25. 3. 2025, sp. zn. 26 Cdo 1138/2024 (R 7/2026), řešil prodej nemovitosti z majetkové podstaty, v níž nájemkyně užívala byt, a následný spor nabyvatelky o bezdůvodné obohacení. Vyložil § 283 odst. 5 ve spojení s § 256 tak, že nevyužije-li správce možnosti nájem bytu vypovědět, zpeněžením nemovitosti nájem bytu nezanikne a práva a povinnosti z nájmu přejdou na nabyvatele. Závěr platil bez ohledu na to, zda správce o nájmu věděl. Rozhodnutí se týká nájmu bytu; bez dalšího je nelze zobecnit na všechny nájemní či jiné závazkové vztahy.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 283 IZ — pojem zpeněžení (odst. 1: i úplatné postoupení pohledávek, smluvní zákazy správce neomezují), časový rámec (odst. 2), pravidlo o nepřechodu závazků váznoucích na věci (odst. 5).
-- *Související ustanovení téhož zákona:* § 284 (předkupní práva); § 285 (zánik účinků zajištění a závad zpeněžením); § 167 a § 298 (uspokojení zajištěných z výtěžku); § 286 (způsoby zpeněžení); § 109 (účinky zahájení IR).
-- *Související předpisy:* § 1881 OZ (postupitelnost pohledávky a meze smluvního zákazu) — zde modifikováno insolvenčním režimem; trestní řád u zajištění dle odst. 3.
-- *Judikatura:* nosný závěr, že po zpeněžení v insolvenci nabývá kupující majetek „čistý" a dosavadní zajištění se přesouvá na výtěžek (souvislost § 283 odst. 5, § 285, § 167).
+[7] **Intertemporalita.** Odstavce 4 a 5 jsou účinné od 1. 1. 2014. Pro zpeněžení uskutečněné dříve je nutné ověřit tehdejší znění zákona a přechodná ustanovení. Aktuální znění všech pěti odstavců bylo ověřeno ke dni 19. 7. 2026.
 
-**4. Subsumpce.** Postoupení pohledávek je zpeněžením (odst. 1 věta třetí); smluvní zákaz postoupení správce neomezuje (odst. 1 in fine) — znak „úplatné postoupení" je naplněn a překážka odpadá. U haly: standardně zpeněžení až po právní moci konkursu a po první schůzi (odst. 2); prodej před schůzí je možný jen u věcí ohrožených zkázou (potraviny) nebo s výjimkou soudu — pro halu samotnou je tedy třeba výjimka soudu. Závazky zajištěné zástavami na hale na nabyvatele nepřecházejí (odst. 5) — banka i dodavatel se uspokojí z výtěžku.
+### Judikatura
 
-**5. Řešení.** Pohledávky správce postoupí inkasní agentuře bez ohledu na doložku o zákazu. Potraviny zpeněží ihned (výjimka odst. 2 — věci ohrožené zkázou). Pro prodej haly před první schůzí požádá insolvenční soud o povolení výjimky (odst. 2); jinak vyčká na schůzi. Po zpeněžení haly vydá nabyvateli majetek bez zatížení (zástavy zanikají dle § 285), kopie dokladů o zpeněžení neprodleně založí do spisu (odst. 4) a výtěžek rozdělí mezi zajištěné dle § 298. Riziko: prodej bez výjimky před schůzí by byl vadný; alternativní výklad „naléhavosti" soud nemusí přijmout.
-
-**6. Varianty.** (a) Hala je zajištěna i rozhodnutím o zajištění v trestním řízení — pak je nutný předchozí souhlas orgánu činného v trestním řízení (odst. 3) a u přesahující částky běží 30denní lhůta. (b) Zájemce by koupil halu výslovně „s převzetím hypotéky" — takové ujednání je proti odst. 5 neúčinné; závazek na nabyvatele nepřechází, banka se uspokojí z výtěžku.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Smluvní zákaz postoupení činí postoupení neúčinným i v insolvenci." Neutralizace: odst. 1 in fine výslovně stanoví, že ujednáními bránícími postoupení správce *není omezen* — jde o speciální úpravu vůči § 1881 OZ.
-- *Protiargument:* „Kupující přebírá zástavy, protože vážnou na věci." Neutralizace: odst. 5 ve spojení s § 285 stanoví nepřechod závazků a zánik zajištění; kupující nabývá „clean title", zajištění se přesouvá na výtěžek.
-- *Slabá místa:* hranice „věcí bezprostředně ohrožených zkázou" a kritéria pro povolení výjimky soudem nejsou ostré — prodej před schůzí bez jednoznačné naléhavosti je rizikový a může být napaden.
-
-### H. Praktický závěr
-
-§ 283 je centrální definiční a režimové ustanovení zpeněžení: vymezuje, co je zpeněžení (včetně postoupení pohledávek bez ohledu na smluvní zákazy), kdy lze zpeněžovat (po pravomocném konkursu a první schůzi, s výjimkami) a zaručuje kupujícímu nabytí majetku bez závazků váznoucích na věci.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Je rozhodnutí o prohlášení konkursu v právní moci a proběhla první schůze věřitelů (nebo je dán důvod výjimky)?
-- [ ] Jde o věci ohrožené zkázou/znehodnocením, kde lze zpeněžit ihned?
-- [ ] Není na majetku zajištění z trestního řízení vyžadující souhlas OČTŘ (odst. 3)?
-- [ ] Byly kopie dokladů o zpeněžení neprodleně založeny do insolvenčního spisu (odst. 4)?
-- [ ] Bylo kupujícímu vysvětleno/zajištěno, že nabývá majetek bez závazků na věci váznoucích (odst. 5)?
-
-**Typicky rozhodné důkazy / podklady:** rozhodnutí o prohlášení konkursu a doklad o právní moci; protokol z první schůze věřitelů; výpis z katastru/rejstříků o zatížení; smlouvy s doložkami o zákazu postoupení; znalecké posudky; doklady o trvanlivosti zboží; případný souhlas OČTŘ; doklady o zpeněžení založené do spisu.
+- **NS, rozsudek ze dne 25. 3. 2025, sp. zn. 26 Cdo 1138/2024, ECLI:CZ:NS:2025:26.CDO.1138.2024.1, R 7/2026** — zpeněžením nemovité věci nájem bytu nezaniká; nebyl-li nájem bytu správcem ukončen postupem podle § 256, přecházejí práva a povinnosti z nájmu na nabyvatele (zejména body 12–24).
 
 ---
 

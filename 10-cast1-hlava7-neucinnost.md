@@ -436,53 +436,52 @@ Odborná literatura byla rozhodnutím editora odložena do druhého kola. Nejde 
 
 ## § 238 — Zákaz započtení
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > Proti pohledávce na vydání dlužníkova plnění z neúčinného právního úkonu do majetkové podstaty není přípustné započtení.
+
+### Přehled výkladu
+
+Ustanovení chrání pohledávku na vydání dlužníkova plnění do majetkové podstaty před zánikem započtením. Rozhodující je původ a směr pohledávky, proti níž má být započteno; § 238 není obecným zákazem všech zápočtů v insolvenčním řízení.
+
+### Souvisící ustanovení
+
+- § 235 a § 236 — vznik neúčinnosti a majetkový následek;
+- § 237 — povinné osoby a vypořádání vzájemného plnění;
+- § 239 — odpůrčí žaloba a okamžik, kdy plnění náleží do majetkové podstaty;
+- § 140 odst. 2 až 4 — obecný insolvenční režim započtení.
+
+### Souvisící předpisy
+
+V tomto kole nebyl žádný souvisící předpis použit jako nosný pramen výkladu. Obecná soukromoprávní úprava započtení proto není bez vlastního oficiálního snapshotu reprodukována ani vykládána.
+
+### Z důvodové zprávy
+
+Oficiální důvodová zpráva k vládnímu návrhu insolvenčního zákona označuje § 238 za doplnění tehdejší úpravy a výslovně je popisuje jako zákaz kompenzace vůči nároku založenému na neúčinném úkonu. Jde o historické vysvětlení původního návrhu, nikoli o náhradu výkladu aktuálního znění (sněmovní tisk 1120/0, zvláštní část k navrženým § 235 až § 243, číslovaná s. 207; PDF s. 208).
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní rešerše.
 
 ### Výklad
 
-**Striktní zákaz započtení**. Nabyvatel z neúčinného úkonu *nemůže započíst* svou pohledávku za dlužníkem proti povinnosti vrátit plnění. *Musí vrátit fyzicky*.
+[1] Zákaz se váže ke konkrétní pasivní pohledávce: k pohledávce na vydání dlužníkova plnění z neúčinného právního úkonu do majetkové podstaty. Z textu § 238 nelze dovodit obecnou nepřípustnost každého započtení mezi dlužníkem a věřitelem; tu je třeba posuzovat zejména podle § 140 odst. 2 až 4 a případných dalších zvláštních zákazů.
 
-> *Logika*: pokud by bylo započtení přípustné, **maření institutu** — nabyvatel by si „vyrovnal" plnění proti pohledávce a fakticky by si zachoval výsledek neúčinného úkonu.
+[2] Předpokladem použití § 238 je existence pohledávky popsané v § 236 až § 239. U neúčinnosti založené odpůrčí žalobou je proto nutné respektovat také § 235 odst. 2 a § 239 odst. 4. Komentované ustanovení samo neurčuje, kdo je povinnou osobou ani kdy se odpůrčí nárok prosadí; tyto otázky řeší navazující ustanovení.
 
-### Vazby
+[3] Zákaz dopadá na jednostranné i smluvní započtení, protože text nerozlišuje způsob, jímž má k započtení dojít. Autorským systematickým závěrem je, že obecná pravidla započtení nemohou založit výjimku, kterou § 238 nestanoví.
 
-- **§ 140 odst. 2** — započtení po úpadku obecně (modifikace zde).
+[4] Je třeba odlišit započtení od vypořádání vzájemného plnění podle § 237 odst. 4. Toto ustanovení ukládá insolvenčnímu správci po vydání dlužníkova plnění vydat oprávněné osobě vzájemné plnění; není-li v podstatě rozpoznatelné nebo se v ní nenachází, zákon sám stanoví režim vzniklé pohledávky. Tento zvláštní mechanismus nelze bez dalšího překvalifikovat na zakázané započtení.
 
-### F. Kazuistika
+[5] § 238 nestanoví, že předmětem vydání musí být vždy původní věc. Nemožnost vydat původní plnění a rovnocennou náhradu upravuje § 236 odst. 2. Proto je nepřesný závěr, že povinná osoba musí vždy „vrátit fyzicky“.
 
-**1. Modelová situace.** Soud pravomocně určil neúčinnost úkonu, jímž dlužník PÍ převedl zboží na obchodního partnera RÓ. RÓ má povinnost vydat hodnotu zboží (300 000 Kč) do podstaty. RÓ však namítá, že má vůči dlužníkovi vlastní pohledávku 350 000 Kč a tuto pohledávku *započítává* proti povinnosti vrátit plnění, takže fakticky nic vracet nebude. Důkazy: rozsudek o neúčinnosti, doklad o hodnotě plnění, doklady o tvrzené pohledávce RÓ, projev započtení.
+[6] Pro starší skutkové děje je nutné ověřit znění účinné v rozhodné době a příslušná přechodná ustanovení. Dnešní znění nelze mechanicky použít jako časově neomezený podklad.
 
-**2. Právní otázka.** Může osoba povinná vydat plnění z neúčinného úkonu do podstaty započíst proti této povinnosti svou pohledávku za dlužníkem?
+### Judikatura
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 238 IZ — proti pohledávce na vydání dlužníkova plnění z neúčinného úkonu *není přípustné započtení*.
-- *Související ustanovení téhož zákona:* § 236, § 237 IZ (povinnost vydat plnění), § 140 odst. 2 IZ (obecná úprava započtení po úpadku — zde modifikováno), § 239 odst. 4 IZ (peněžitá náhrada v odpůrčí žalobě), § 165 IZ (uspokojení v rozvrhu).
-- *Související předpisy:* § 1982 a násl. OZ (započtení obecně), § 580 a § 589 OZ.
-- *Judikatura:* zásada zákazu obcházení institutu neúčinnosti — připuštění započtení by zmařilo restituci plnění do podstaty.
-
-**4. Subsumpce.** RÓ má *povinnost vydat dlužníkovo plnění z neúčinného úkonu* do podstaty (§ 237). Proti této konkrétní pohledávce směřuje projev započtení. Aplikuje se *kogentní zákaz* § 238 — započtení *není přípustné*; projev je vůči podstatě neúčinný/neplatný a povinnost vydat plnění trvá v plné výši.
-
-**5. Řešení.** Správce odmítne započtení a trvá na *fyzickém* vydání plnění (resp. peněžité náhrady) v plné výši (300 000 Kč). RÓ svou pohledávku 350 000 Kč může uplatnit jen *přihláškou* a bude uspokojena poměrně v rozvrhu (§ 165). Procesní krok: v incidenčním sporu namítnout § 238 jako překážku započtení. Riziko: RÓ se může pokusit konstruovat započtení jako „smluvní narovnání" před úpadkem — nutno zkoumat časovou a věcnou souvislost s neúčinným úkonem.
-
-**6. Varianty.** (a) Kdyby šlo o *vzájemné* plnění z téhož úkonu (§ 237 odst. 4), nejde o započtení, ale o zákonný mechanismus vrácení protiplnění — § 238 to nevylučuje. (b) Kdyby pohledávka RÓ byla zajištěna a uplatněna jako zajištěná v rozvrhu, na zákaz započtení podle § 238 to nemá vliv — vydání do podstaty zůstává.
-
-### G. Protiargumenty a rizika
-
-- *„Započtení je obecný způsob zániku závazku (§ 1982 OZ), nelze ho paušálně vyloučit."* — Neutralizace: § 238 je *speciální kogentní zákaz* pro pohledávku na vydání plnění z neúčinného úkonu; má přednost před obecnou úpravou OZ i před § 140 odst. 2 IZ.
-- *„Fakticky jen vyrovnávám vzájemné nároky."* — Riziko obcházení: připuštění by vedlo k *zachování výsledku* neúčinného úkonu; proto musí povinná osoba vydat plnění a svůj nárok uplatnit přihláškou (poměrné uspokojení).
-- Slabé místo: je nutné odlišit *zakázané započtení* (§ 238) od *zákonného vrácení vzájemného protiplnění* podle § 237 odst. 4 — záměna by mohla vést k chybnému odmítnutí legitimního nároku nabyvatele.
-
-### H. Praktický závěr
-
-Proti povinnosti vydat plnění z neúčinného úkonu do podstaty nelze započíst vlastní pohledávku za dlužníkem; ta se uplatní jen přihláškou a uspokojí poměrně. Zákaz nebrání zákonnému vrácení vzájemného protiplnění podle § 237 odst. 4.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Odmítnout jakýkoli projev započtení proti pohledávce na vydání plnění z neúčinného úkonu (§ 238).
-- [ ] Odlišit zakázané započtení od zákonného vrácení vzájemného protiplnění (§ 237 odst. 4).
-- [ ] Odkázat povinnou osobu s její pohledávkou na přihlášku a poměrné uspokojení v rozvrhu (§ 165).
-- [ ] Prověřit, zda se za „narovnání" neskrývá obcházení zákazu započtení.
-
-**Typicky rozhodné důkazy / podklady:** rozhodnutí o neúčinnosti, doklad o hodnotě vydávaného plnění, listiny k tvrzené pohledávce povinné osoby a k projevu započtení, přihláška pohledávky, doklady o případném vzájemném protiplnění.
+V tomto kole nebyl do výkladu převzat žádný judikatorní závěr. Tím se nevyslovuje, že k § 238 neexistuje relevantní judikatura; oddíl pouze nepřebírá rozhodnutí bez fyzického snapshotu uloženého v povoleném centrálním zdrojovém úložišti a bez uzavřené pramenné vazby.
 
 ---
 

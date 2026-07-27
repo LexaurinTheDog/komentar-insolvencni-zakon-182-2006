@@ -1313,64 +1313,67 @@ Do tohoto kola nebyl zařazen samostatný judikatorní závěr. Stávající neu
 
 ## § 268 — Zánik SJM
 
-> (1) Prohlášením konkursu **zaniká společné jmění dlužníka a jeho manžela**; byl-li vznik společného jmění dlužníka a jeho manžela vyhrazen ke dni zániku manželství, má prohlášení konkursu stejné majetkoprávní účinky jako zánik manželství.
-> (2) Po prohlášení konkursu se **provede vypořádání společného jmění manželů**, které
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Prohlášením konkursu zaniká společné jmění dlužníka a jeho manžela; byl-li vznik společného jmění dlužníka a jeho manžela vyhrazen ke dni zániku manželství, má prohlášení konkursu stejné majetkoprávní účinky jako zánik manželství.
+>
+> (2) Po prohlášení konkursu se provede vypořádání společného jmění manželů, které
+>
 > a) zaniklo podle odstavce 1,
+>
 > b) do prohlášení konkursu zaniklo, ale nebylo vypořádáno, nebo
+>
 > c) bylo zúženo smlouvou nebo rozhodnutím soudu a do prohlášení konkursu nebylo vypořádáno.
 >
 > (3) V případech uvedených v odstavci 2 písm. b) a c) se prohlášením konkursu staví lhůta stanovená podle zvláštního právního předpisu k vypořádání společného jmění manželů, jestliže má skončit nejpozději do 6 měsíců od prohlášení konkursu.
 
-### Výklad — **ZÁSADNÍ DOPAD NA RODINNOU SFÉRU**
+### Přehled výkladu
 
-**Konkurs = zánik SJM**. Jediný majetkový důsledek (neztrácí se manželství samo).
+Prohlášení konkursu je zvláštním zákonným důvodem zániku existujícího společného jmění dlužníka a jeho manžela. Samo o sobě neukončuje manželství a neurčuje, která konkrétní hodnota připadne majetkové podstatě nebo manželu dlužníka; to je výsledkem navazujícího vypořádání podle § 269 až 276.
 
-#### Důsledky
+### Souvisící ustanovení
 
-- *po prohlášení* — *vypořádání SJM* (typicky dohodou se správcem nebo soudem),
-- *staví se lhůta* pro vypořádání, pokud by jinak skončila do 6 měsíců (typicky 3letá lhůta z § 736 OZ).
+- § 245 odst. 1 — okamžik, kdy nastávají účinky prohlášení konkursu.
+- § 269 — neplatnost vymezených smluv mezi manželi a zvláštní odklad účinků uplynutí lhůty.
+- § 270 až 273 — oprávnění insolvenčního správce, schválení dohody a procesní nástupnictví.
+- § 274 — postup, nelze-li SJM vypořádat pro převahu rozhodných závazků nad majetkem.
+- § 275 a § 276 — postavení vypořádací pohledávky manžela a zákaz vzniku nového SJM po dobu účinků konkursu.
 
-> *Sociální dopad*: manžel(ka) dlužníka přijde o *podíl* na společném majetku — formálně se vypořádá, ale prakticky se "polovina" SJM stane *součástí podstaty*.
+### Souvisící předpisy
 
-### Vazby
+- Zvláštní právní předpis upravující vypořádání SJM a příslušnou lhůtu ve smyslu § 268 odst. 3 je nutno určit v časovém znění rozhodném pro zánik či zúžení SJM a běh lhůty. Konkrétní ustanovení tohoto předpisu není v tomto kole použito jako samostatná opora výkladu.
 
-- **§ 736 OZ** — vypořádání SJM.
+### Z důvodové zprávy
 
-### F. Kazuistika
+Oficiální důvodová zpráva k vládnímu návrhu insolvenčního zákona uvádí společně k § 268 až 276, že úprava vlivu konkursu na SJM navazuje na předchozí koncepci, ale podrobněji ji přizpůsobuje tehdejší úpravě majetkového práva manželů. Zvlášť upozorňuje na § 274. Jde o historické vysvětlení návrhu z roku 2005; aktuální význam jednotlivých pravidel je nutno určovat podle nynějšího znění insolvenčního zákona a občanského zákoníku.
 
-**1. Modelová situace.** Dlužník (FO-podnikatel) je ženatý; manželé mají v SJM rodinný dům, dva automobily a úspory. Manželství trvá. Tři roky před konkursem manželé rozhodnutím soudu zúžili SJM, vypořádání však dosud neproběhlo; běží zákonná tříletá lhůta k vypořádání, která má skončit 4 měsíce po prohlášení konkursu. Po prohlášení konkursu manželka tvrdí, že dům je „její". Důkazy: oddací list, výpis z katastru a evidence vozidel, rozhodnutí o zúžení SJM, údaj o běhu lhůty k vypořádání.
+### Literatura
 
-**2. Právní otázka.** Jaký účinek má prohlášení konkursu na společné jmění manželů a na běh lhůty k jeho vypořádání?
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tato poznámka není závěrem o neexistenci relevantní literatury ani výsledkem negativní rešerše.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 268 odst. 1 (prohlášením konkursu **zaniká SJM**; u vyhrazeného vzniku SJM ke dni zániku manželství má konkurs stejné majetkoprávní účinky jako zánik manželství), odst. 2 (po konkursu se provede vypořádání SJM, které zaniklo dle odst. 1, nebo dříve zaniklo a nebylo vypořádáno, nebo bylo zúženo a nebylo vypořádáno), odst. 3 (staví se lhůta k vypořádání, má-li skončit nejpozději do 6 měsíců od prohlášení konkursu).
-- *Související ustanovení téhož zákona:* § 269 (neplatnost smluv mezi manželi v období úpadkového rizika), § 270–276 (vypořádání SJM v konkursu — nastupuje správce), § 274 (předlužené SJM — celé do podstaty).
-- *Související předpisy:* § 736 OZ (vypořádání SJM), § 765 a násl. OZ (zánik a vypořádání SJM), zvláštní lhůty k vypořádání.
-- *Judikatura:* nosný závěr (vč. místního zdroje NS 29 ICdo 36/2023), že vypořádání SJM v konkursu probíhá zvláštním režimem, kde rozhodující roli má insolvenční správce a dohodu schvaluje soud.
+### Výklad
 
-**4. Subsumpce.** Prohlášením konkursu SJM dle § 268 odst. 1 **zaniká**, byť manželství trvá. Protože SJM bylo dříve zúženo a dosud nevypořádáno (odst. 2 písm. c), provede se vypořádání po konkursu. Lhůta k vypořádání má skončit 4 měsíce po konkursu, tedy do 6 měsíců → dle odst. 3 se staví.
+[1] **Rozhodný okamžik.** Účinek podle odstavce 1 nastává okamžikem zveřejnění rozhodnutí o prohlášení konkursu v insolvenčním rejstříku (§ 245 odst. 1). Zánik SJM nastává ze zákona; není podmíněn samostatným výrokem o SJM.
 
-**5. Řešení.** Manželka se nemůže dovolávat „výlučného vlastnictví" domu pouze na základě zúžení bez vypořádání — SJM se musí vypořádat v konkursu (nastupuje správce, § 270 a násl.), přičemž „polovina" SJM se prakticky stane součástí podstaty; při předlužení SJM dokonce celé (§ 274). Stavení lhůty (odst. 3) zabrání jejímu marnému uplynutí během konkursu. Procesní kroky: zařazení SJM do vypořádání, jednání správce o dohodě (se schválením soudu) nebo návrh na soudní vypořádání.
+[2] **Rozsah účinku.** Zaniká SJM dlužníka a jeho manžela, nikoli manželství. Bylo-li smluveno vyhrazení vzniku SJM ke dni zániku manželství, přiznává zákon prohlášení konkursu stejné majetkoprávní účinky jako zániku manželství.
 
-**6. Varianty.** (a) Lhůta k vypořádání by měla skončit až za 10 měsíců po konkursu (tj. po 6 měsících) — pak se dle odst. 3 nestaví. (b) Vznik SJM byl vyhrazen ke dni zániku manželství — konkurs má dle odst. 1 stejné majetkoprávní účinky jako zánik manželství, takže se SJM vypořádá obdobně.
+[3] **Tři skupiny k vypořádání.** Odstavec 2 zahrnuje SJM zaniklé prohlášením konkursu, dříve zaniklé a dosud nevypořádané SJM a také SJM dříve zúžené smlouvou nebo soudním rozhodnutím, pokud dosud vypořádáno nebylo. Samotné zúžení tedy neřeší vypořádání hodnot, které byly změnou rozsahu dotčeny.
 
-### G. Protiargumenty a rizika
+[4] **Kdo jedná za dlužníka.** Oprávnění uzavřít dohodu o vypořádání nebo navrhnout soudní vypořádání přechází podle § 270 odst. 1 na insolvenčního správce. Dohoda správce je účinná až schválením insolvenčním soudem (§ 271); probíhajícího řízení se správce účastní místo dlužníka (§ 273).
 
-- *Protiargument manželky:* „Manželství trvá, takže SJM trvá a do podstaty nepatří." Neutralizace: § 268 odst. 1 — konkurs SJM ruší bez ohledu na trvání manželství; následuje vypořádání s dopadem do podstaty.
-- *Protiargument:* „Lhůta k vypořádání uplynula během konkursu, nárok zanikl." Neutralizace: odst. 3 — lhůta se staví, má-li skončit do 6 měsíců od konkursu.
-- *Slabé místo:* určení hodnoty a rozsahu SJM a podílů (znalecké ocenění); riziko, že při předlužení SJM přijde manžel o celý podíl (§ 274) — sociálně citlivé a často sporné.
+[5] **Stavení lhůty.** Odstavec 3 dopadá jen na případy podle odstavce 2 písm. b) a c) a jen tehdy, má-li příslušná lhůta skončit nejpozději do šesti měsíců od prohlášení konkursu. Z textu nelze dovodit stavení každé lhůty související se SJM ani lhůty, která má skončit později.
 
-### H. Praktický závěr
+[6] **Odlišení § 269 odst. 2.** Jestliže lhůta uplynula již mezi zahájením insolvenčního řízení a prohlášením konkursu, řeší situaci zvlášť § 269 odst. 2: účinky uplynutí lhůty nastanou až po šesti měsících od prohlášení konkursu a zákon do té doby připouští dohodu nebo návrh na soudní vypořádání, při zachování práv třetích osob nabytých v dobré víře.
 
-Prohlášení konkursu ruší SJM (i za trvání manželství) a otevírá jeho vypořádání, v němž za dlužníka jedná správce; lhůta k vypořádání se staví, má-li skončit do 6 měsíců od konkursu. Manžel dlužníka fakticky pozbývá podíl na společném majetku (při předlužení SJM i celý).
+[7] **Výsledek není automatická „polovina“.** § 268 sám neurčuje vypořádací podíly ani automatické zařazení určité poloviny majetku do podstaty. Výsledek závisí na rozsahu majetku a závazků a na navazujících pravidlech. Celý majetek náležející do SJM se zahrne do podstaty podle § 274 odst. 1 jen při splnění tam uvedené podmínky, že vypořádání nelze provést pro převahu závazků dlužníka, které mohou být ze SJM uspokojeny, nad majetkem SJM.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Konstatovat zánik SJM prohlášením konkursu (§ 268 odst. 1) a zahájit jeho vypořádání.
-- [ ] Ověřit běh a stavení lhůty k vypořádání (odst. 3) — končí-li do 6 měsíců od konkursu, staví se.
-- [ ] Zahrnout zaniklé/zúžené, dosud nevypořádané SJM do vypořádání (odst. 2).
-- [ ] Zvážit dopad § 274 (předlužené SJM celé do podstaty) na podíl manžela.
+[8] **Intertemporalita.** U dřívějšího zániku nebo zúžení SJM je třeba zjistit právní úpravu účinnou v době rozhodných skutečností, počátek a dosavadní běh vypořádací lhůty a přechodná ustanovení příslušných novel. Historický odkaz původní důvodové zprávy na tehdejší občanskoprávní úpravu proto nelze bez dalšího použít na pozdější právní poměry.
 
-**Typicky rozhodné důkazy / podklady:** oddací list, výpisy z katastru a evidencí majetku, rozhodnutí/smlouva o zúžení SJM, doklad o běhu lhůty k vypořádání, znalecké ocenění SJM.
+### Judikatura
+
+Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k přímému výkladu § 268. Původní neurčitý odkaz na 29 ICdo 36/2023 byl odstraněn, protože text jednotky neměl doložen plný text z oficiálního webu soudu ani přesný nosný bod pro tvrzení, které již přímo vyplývá z § 270 a § 271. Nejde o závěr, že relevantní judikatura neexistuje.
 
 ---
 

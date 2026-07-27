@@ -1723,6 +1723,53 @@ Odborná literatura byla rozhodnutím editora odložena do druhého kola. Nejde 
 
 Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita. Nalezená rozhodnutí Nejvyššího soudu se vztahovala k dřívějším zněním § 274; bez samostatného intertemporálního rozboru by nebyla bezpečnou oporou pro současný odstavec 2. Nejde o závěr, že relevantní judikatura neexistuje.
 
+## § 275 — Pohledávka manžela dlužníka
+
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> Pohledávka manžela dlužníka vzniklá po prohlášení konkursu vypořádáním společného jmění manželů se považuje za přihlášenou pohledávku a uspokojí se stejně jako tyto pohledávky.
+>
+
+### Přehled výkladu
+
+§ 275 řeší pohledávku manžela dlužníka, která vznikne teprve po prohlášení konkursu jako výsledek vypořádání SJM. Zákonná fikce nahrazuje podání přihlášky a zařazuje pohledávku do režimu přihlášených pohledávek. Nečiní z ní však pohledávku za majetkovou podstatou ani pohledávku jí na roveň postavenou a sama o sobě neznamená, že je pohledávka zjištěna.
+
+### Souvisící ustanovení
+
+§ 165 odst. 1 a 2, § 168, § 169, § 173, § 189 až 201, § 268 až 274 a § 306.
+
+### Souvisící předpisy
+
+Zákon č. 89/2012 Sb., občanský zákoník, úprava společného jmění manželů a jeho vypořádání. Její samostatný výklad nebyl do tohoto kola zařazen; v konkrétní věci je nutné ověřit hmotněprávní režim rozhodný pro vznik a výši vypořádací pohledávky.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, obsahoval pravidlo odpovídající dnešnímu § 275. Zvláštní část odůvodňuje § 268 až 276 společně: úprava vlivu konkursu na SJM navazuje na dřívější koncepci, ale zpřesňuje ji, doplňuje a přizpůsobuje tehdejší úpravě majetkového práva manželů. Samostatné odůvodnění fikce podle § 275 zpráva neobsahuje.
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Nejde o závěr, že relevantní literatura neexistuje.
+
+### Výklad
+
+[1] **Vymezení pohledávky.** § 275 dopadá jen na pohledávku manžela dlužníka, která vznikla po prohlášení konkursu vypořádáním SJM. Rozhodný je tedy nejen věřitel, ale také okamžik vzniku a právní důvod pohledávky. Pohledávky vzniklé dříve nebo z jiného právního důvodu nelze pod § 275 podřadit jen proto, že jejich věřitelem je manžel dlužníka.
+
+[2] **Fikce přihlášení.** Dotčená pohledávka se považuje za přihlášenou přímo ze zákona. Manžel proto její účast v insolvenčním řízení nezakládá samostatným podáním přihlášky ve lhůtě podle § 173 odst. 1. Jde o zvláštní případ předvídaný § 165 odst. 2.
+
+[3] **Rozsah fikce.** Fikce nahrazuje přihlášení, nikoli existenci, výši nebo pořadí pohledávky. Ty musí vycházet z výsledku vypořádání SJM. Z textu § 275 rovněž neplyne automatické zjištění pohledávky.
+
+[4] **Evidence a přezkum.** Protože se pohledávka považuje za přihlášenou, náleží do obecného režimu seznamu a přezkumu přihlášených pohledávek podle § 189 až 201. Její pravost, výše nebo pořadí proto mohou být posouzeny a popřeny stejnými procesními nástroji jako u jiných přihlášených pohledávek.
+
+[5] **Kategorie a způsob uspokojení.** Formulace „uspokojí se stejně jako tyto pohledávky“ ji řadí mezi pohledávky uspokojované jako přihlášené pohledávky, v konkursu zásadně rozvrhem. § 275 ji neoznačuje za pohledávku za majetkovou podstatou podle § 168 ani za pohledávku postavenou jí na roveň podle § 169.
+
+[6] **Intertemporalita.** Text § 275 odpovídá již vládnímu návrhu insolvenčního zákona. Pro konkrétní případ je přesto nutné odděleně ověřit časově rozhodné znění pravidel o vypořádání SJM, přezkumu a rozvrhu; stabilita samotného § 275 neznamená neměnnost všech navazujících ustanovení.
+
+### Judikatura
+
+Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita. Nejde o závěr, že relevantní judikatura neexistuje; bez plnotextově ověřeného rozhodnutí nelze obecný procesní režim bezpečně konkretizovat nad rámec zákona.
+
 ## § 277 — Aktivace správce
 
 > (1) Neprodleně poté, co nabude účinnosti prohlášení konkursu, zajistí insolvenční správce provedení procesních úkonů a dalších činností, které z prohlášení konkursu vyplývají.

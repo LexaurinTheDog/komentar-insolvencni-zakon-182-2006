@@ -774,49 +774,57 @@ V tomto kole nebylo použito rozhodnutí, jehož plný text by byl ověřen jako
 
 ## § 259 — Leasing
 
-> Ustanovení § 256 až 258 platí přiměřeně i pro **leasingové smlouvy** a smlouvy o koupi najaté věci.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> Ustanovení § 256 až 258 platí přiměřeně i pro leasingové smlouvy a smlouvy o koupi najaté věci.
+
+### Přehled výkladu
+
+§ 259 je odkazovací normou pro konkurs. Na leasingové smlouvy a smlouvy o koupi najaté věci rozšiřuje přiměřené použití tří různých pravidel: zvláštní výpověď smlouvy insolvenčním správcem (§ 256), ochranu dlužníka v postavení uživatele před určitými způsoby ukončení smlouvy (§ 257) a odstoupení, nebyl-li předmět ještě předán (§ 258). „Přiměřeně“ neznamená, že se všechna tato pravidla použijí současně a beze změny; rozhodují obsah smlouvy, postavení dlužníka a splnění předpokladů konkrétního odkazovaného ustanovení.
+
+### Souvisící ustanovení
+
+- § 168 — pohledávky za majetkovou podstatou; zařazení nároku vyžaduje konkrétní zákonný titul,
+- § 245 odst. 1 — účinky prohlášení konkursu nastávají zveřejněním rozhodnutí v insolvenčním rejstříku,
+- § 253 — obecný konkursní režim smluv o vzájemném plnění,
+- § 256 — výpověď nájemní nebo podnájemní smlouvy insolvenčním správcem a nároky za dobu před prohlášením konkursu,
+- § 257 — zákaz výpovědi nebo odstoupení pro vymezené předúpadkové prodlení či zhoršení majetkové situace dlužníka,
+- § 258 — odstoupení při nepředání předmětu a související lhůty,
+- § 260 — zvláštní konkursní režim výhrady vlastnictví.
+
+### Souvisící předpisy
+
+- zákon č. 89/2012 Sb., občanský zákoník — obecná soukromoprávní úprava nájmu; při použití § 259 je rozhodný obsah konkrétní smlouvy.
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva projednává § 255 až 259 společně. K § 259 uvádí pouze, že se zabývá dopadem konkursu do poměrů leasingových smluv; samostatný výklad rozsahu přiměřeného použití ani zvláštní pravidlo pro jednotlivé druhy leasingu nepodává. (Vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, zvláštní část „K § 255 až 259“, číslovaná s. 201, PDF s. 211.)
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní rešerše.
 
 ### Výklad
 
-**Analogická aplikace na leasing** — operativní i finanční. Správce může vypovědět/odstoupit za stejných podmínek.
+[1] **Povaha odkazu.** § 259 nevytváří úplný samostatný režim leasingu. Rozšiřuje osobní a věcný dosah § 256 až 258 na dvě výslovně uvedené skupiny smluv. Právní následek proto nelze určit jen podle označení smlouvy; nejprve je nutno zjistit její obsah, postavení dlužníka, zda byl předmět předán a který z předpokladů § 256 až 258 je naplněn.
 
-> *Praktický význam*: leasované předměty (auta, stroje) — správce buď *pokračuje v leasingu* (pokud je výhodný) nebo *vypoví* a vrátí věc leasingovce.
+[2] **Výpověď správcem.** Přiměřené použití § 256 umožňuje insolvenčnímu správci po prohlášení konkursu vypovědět smlouvu spadající pod § 259 také tehdy, byla-li sjednána na dobu určitou. Použije se zákonná nebo smluvní výpovědní lhůta, nejvýše však tříměsíční. Další pravidla § 256 se přenášejí jen nakolik odpovídají konkrétnímu vztahu; zejména ochrana podle § 256 odst. 2 předpokládá postavení dlužníka obdobné pronajímateli a dotčení druhého účastníka.
 
-### F. Kazuistika
+[3] **Dlužník jako uživatel.** Je-li dlužník v postavení odpovídajícím nájemci, promítá se přiměřeně § 257. Druhý účastník po rozhodnutí o úpadku nemůže smlouvu vypovědět ani od ní odstoupit pro prodlení dlužníka s placením, které nastalo před rozhodnutím o úpadku, ani pro zhoršení jeho majetkové situace. Toto pravidlo samo nebrání ukončení smlouvy z jiného smluvního nebo zákonného důvodu a nevztahuje se bez dalšího na prodlení vzniklé až později.
 
-**1. Modelová situace.** Dlužník (dopravní s.r.o.) má na finanční leasing pořízen návěs (leasingová společnost L je vlastníkem, dlužník hradí splátky, po jejich doplacení přejde vlastnictví na dlužníka). Současně má na operativní leasing služební vůz. Po prohlášení konkursu správce posuzuje, zda v leasingu pokračovat (návěs je pro provoz potřebný a splátky jsou výhodné) či jej ukončit (vůz je nadbytečný). Leasingová společnost L tlačí na okamžité vrácení obojího pro prodlení dlužníka. Důkazy: leasingové smlouvy a splátkové kalendáře, doklad o předání předmětů, evidence prodlení.
+[4] **Nepředaný předmět.** Nebyl-li v době prohlášení konkursu předmět dosud předán, použije se přiměřeně § 258. Zvláštní právo odstoupit má insolvenční správce i druhý účastník; po výzvě musí vyzvaná strana do deseti dnů sdělit, zda odstupuje, jinak jí právo podle tohoto ustanovení zanikne. Odstoupí-li správce, může druhý účastník přihlásit náhradu škody způsobené předčasným ukončením nejpozději do třiceti dnů od odstoupení. Tyto lhůty a následky nelze přenášet na jiný způsob ukončení bez zákonné opory.
 
-**2. Právní otázka.** Aplikují se na leasingové smlouvy pravidla § 256–258 a může tedy správce leasing vypovědět/odstoupit, resp. v něm pokračovat?
+[5] **Pohledávky ze smlouvy.** § 259 nestanoví, že každé plnění z pokračujícího leasingu je automaticky pohledávkou za majetkovou podstatou. Je třeba samostatně určit dobu vzniku a právní titul nároku a ověřit, zda naplňuje některou kategorii § 168; u nároků za dobu před prohlášením konkursu je třeba zohlednit také přiměřeně použitý § 256 odst. 3.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 259 — § 256 až 258 platí přiměřeně i pro leasingové smlouvy a smlouvy o koupi najaté věci.
-- *Související ustanovení téhož zákona:* § 256 (výpovědní právo a lhůta max. 3 měsíce, je-li dlužník v postavení obdobném pronajímateli/poskytovateli), § 257 (ochrana dlužníka v postavení nájemce/příjemce před výpovědí pro předúpadkové prodlení a zhoršení situace), § 258 (nepředané věci — odstoupení, 10 dní), § 168 (pohledávky za podstatou z pokračování).
-- *Související předpisy:* OZ — nájem, koupě, výhrada vlastnictví; smluvní typy leasingu (finanční × operativní).
-- *Judikatura:* nosný závěr, že leasingové vztahy se v konkursu posuzují přiměřeně podle úpravy nájmu, s respektem k jejich zajišťovací a financující funkci (zejména u finančního leasingu).
+[6] **Hranice vůči jiným režimům.** Obsahuje-li smlouva prvky koupě, opce nebo výhrady vlastnictví, nepostačí její obchodní označení. Vedle § 259 je nutno prověřit obecný režim vzájemných smluv podle § 253 a případně zvláštní režim výhrady vlastnictví podle § 260. Výsledek závisí na skutečných právech a povinnostech stran, nikoli pouze na rozlišení „finančního“ a „operativního“ leasingu.
 
-**4. Subsumpce.** Leasing (operativní i finanční) spadá pod § 259 → přiměřeně se užijí § 256–258. Dlužník je zde v postavení příjemce (nájemce) předmětu, takže se na něj vztahuje ochrana § 257: leasingová společnost nemůže ukončit smlouvu jen pro prodlení vzniklé před úpadkem či pro zhoršení majetkové situace. Pokud správce zvolí pokračování, plnění z pokračujícího leasingu jsou pohledávkou za podstatou (§ 168).
+[7] **Intertemporalita.** Tento výklad odpovídá znění účinnému k 19. 7. 2026. U staršího konkursu nebo dřívějšího smluvního vztahu je třeba ověřit tehdy účinné znění insolvenčního zákona i rozhodnou soukromoprávní úpravu.
 
-**5. Řešení.** Správce u výhodného finančního leasingu návěsu v pokračování pokračuje (splátky po konkursu = pohledávka za podstatou) a brání předčasnému odebrání odkazem na § 257; u nadbytečného operativního leasingu vozu zvolí ukončení (přiměřeně dle § 256/258) a vůz vrátí. Procesní kroky: posouzení výhodnosti, oznámení volby leasingové společnosti, vypořádání případné náhrady škody přihláškou (u odstoupení).
+### Judikatura
 
-**6. Varianty.** (a) Předmět leasingu nebyl dosud předán dlužníku — uplatní se přiměřeně § 258 (oboustranné právo odstoupit, 10denní lhůta od výzvy). (b) Smlouva by byla kvalifikována jako prostá koupě na splátky s výhradou vlastnictví — řešila by se podle § 260 (výhrada vlastnictví), nikoli (jen) podle § 259.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument leasingové společnosti:* „Dlužník je v prodlení, beru si předmět zpět." Neutralizace: § 259 ve spojení s § 257 brání ukončení leasingu jen pro předúpadkové prodlení či zhoršení majetkové situace.
-- *Protiargument:* „Leasing není nájem, § 256–258 se nepoužijí." Neutralizace: § 259 výslovně přikazuje přiměřené užití těchto ustanovení na leasing i koupi najaté věci.
-- *Slabé místo:* „přiměřenost" aplikace nájemních pravidel na finanční leasing (s jeho úvěrovou/zajišťovací funkcí) může být sporná — nutné zohlednit konkrétní typ a obsah smlouvy; rovněž správné zařazení nároků (za podstatou × přihláška).
-
-### H. Praktický závěr
-
-Na leasing a koupi najaté věci se přiměřeně užijí pravidla o nájmu (§ 256–258): správce může leasing ukončit (typicky u nadbytečných předmětů) nebo v něm pokračovat (u výhodných a provozně potřebných), přičemž dlužník-příjemce je chráněn před ukončením pro předúpadkové prodlení. Plnění z pokračujícího leasingu jsou pohledávkou za podstatou.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Určit typ leasingu (finanční/operativní) a postavení dlužníka (příjemce × poskytovatel).
-- [ ] Posoudit výhodnost a provozní potřebnost předmětu (pokračovat × ukončit).
-- [ ] U pokračování vést plnění jako pohledávku za podstatou; u ukončení respektovat lhůty a přihlášku škody.
-- [ ] Vůči poskytovateli uplatnit ochranu § 257 proti ukončení pro předúpadkové prodlení.
-
-**Typicky rozhodné důkazy / podklady:** leasingové smlouvy a splátkové kalendáře, doklady o předání předmětu, evidence prodlení a jeho vzniku (před/po úpadku), kalkulace výhodnosti pokračování.
+V tomto kole nebylo použito rozhodnutí, jehož plný text by byl ověřen jako přímo nosný k výkladu § 259. Tím se nevyslovuje, že relevantní judikatura neexistuje; neurčitý judikatorní závěr ze stávajícího textu byl odstraněn.
 
 ---
 

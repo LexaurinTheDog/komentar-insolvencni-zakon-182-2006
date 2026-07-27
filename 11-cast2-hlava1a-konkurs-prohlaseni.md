@@ -76,73 +76,63 @@ Do tohoto kola nebylo zařazeno rozhodnutí, jehož plný text by byl přímo no
 
 ## § 245 — Účinky prohlášení konkursu
 
-> (1) Účinky prohlášení konkursu nastávají **okamžikem zveřejnění rozhodnutí o prohlášení konkursu v insolvenčním rejstříku**.
-> (2) Prohlášením konkursu se **přerušuje likvidace** právnické osoby, **končí nucená správa**, a pokud insolvenční soud nerozhodne jinak, **zaniká předběžné opatření**, bylo-li nařízeno.
-> (3) Prohlášení konkursu **nemá vliv na dlužníkovu způsobilost k právním úkonům** ani na jeho procesní způsobilost.
-> (4) Insolvenční soud může po prohlášení konkursu i bez návrhu změnit své předběžné opatření.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Prohlášením konkursu se rozumí rozhodnutí o způsobu řešení úpadku nebo hrozícího úpadku konkursem. Účinky tohoto rozhodnutí nastávají od okamžiku jeho zveřejnění v insolvenčním rejstříku.
+>
+> (2) Prohlášením konkursu se přerušuje likvidace právnické osoby, končí nucená správa a pokud insolvenční soud nerozhodne jinak, zaniká předběžné opatření, bylo-li nařízeno.
+>
+> (3) Prohlášení konkursu nemá vliv na dlužníkovu způsobilost k právním úkonům ani na jeho procesní způsobilost.
+>
+> (4) Nestanoví-li tento zákon jinak, účinky spojené se zahájením insolvenčního řízení a s nařízením předběžného opatření insolvenčním soudem nejsou dotčeny prohlášením konkursu. Insolvenční soud však může i bez návrhu změnit své předběžné opatření tak, že zúží nebo rozšíří povinnosti v něm stanovené.
+
+### Přehled výkladu
+
+§ 245 vymezuje prohlášení konkursu jako rozhodnutí o způsobu řešení úpadku nebo hrozícího úpadku a váže jeho účinky na zveřejnění v insolvenčním rejstříku. Současně upravuje bezprostřední dopad na likvidaci, nucenou správu a předběžné opatření, zachovává dlužníkovu hmotněprávní i procesní způsobilost a v zásadě zachovává také účinky dřívějšího zahájení insolvenčního řízení a soudního předběžného opatření. Způsobilost dlužníka je nutné odlišit od dispozičních oprávnění k majetkové podstatě, jejichž přechod upravuje § 246.
+
+### Souvisící ustanovení
+
+- § 89 — obecné pravidlo účinnosti rozhodnutí insolvenčního soudu zveřejněním v insolvenčním rejstříku.
+- § 109 až 113 — účinky spojené se zahájením insolvenčního řízení a předběžná opatření.
+- § 140a až 140e — obecné účinky rozhodnutí o úpadku.
+- § 246 — přechod dispozičních oprávnění na insolvenčního správce a následky dlužníkových právních úkonů.
+- § 263 až 267 — účinky prohlášení konkursu na probíhající řízení a výkon rozhodnutí nebo exekuci.
+
+### Souvisící předpisy
+
+Komentované ustanovení samo neodkazuje na prováděcí předpis. Konkrétní právní režim likvidace nebo nucené správy je třeba určit podle předpisu upravujícího dotčenou právnickou osobu; § 245 odst. 2 stanoví společný insolvenční následek jejich souběhu s prohlášením konkursu.
+
+### Z důvodové zprávy
+
+Oficiální důvodová zpráva k vládnímu návrhu insolvenčního zákona spojuje účinky prohlášení konkursu se zveřejněním proto, že před zveřejněním není objektivní možnost rozhodnutí znát. Současně vysvětluje, proč návrh opustil označení dlužníka jako „úpadce“: toto označení nemělo měnit jeho postavení ani způsobilost. Jde o historické vysvětlení původního návrhu, nikoli o samostatný pramen pozdějšího právního stavu (sněmovní tisk 1120/0, zvláštní část, K § 244 a 245, číslovaná s. 211, PDF s. 212).
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Toto konstatování není výsledkem negativní rešerše.
 
 ### Výklad
 
-#### Okamžik účinků (odst. 1)
+[1] **Předmět rozhodnutí.** Odstavec 1 nejprve určuje, co se pro účely zákona rozumí prohlášením konkursu: jde o rozhodnutí, kterým je konkurs stanoven jako způsob řešení zjištěného nebo hrozícího úpadku. Nelze proto bez dalšího zaměňovat prohlášení konkursu s rozhodnutím o úpadku; tato rozhodnutí mohou být spojena, zákon je však pojmově rozlišuje.
 
-**Zveřejnění v rejstříku** — nikoli vydání nebo doručení. Princip *publicity*. Tento okamžik je *rozhodný* pro řadu dalších institutů (přechod dispozic, neúčinnost úkonů dlužníka atd.).
+[2] **Okamžik účinků.** Účinky prohlášení konkursu nastávají okamžikem zveřejnění rozhodnutí v insolvenčním rejstříku. Pro použití navazujících pravidel je proto rozhodný konkrétní čas zveřejnění, nikoli samotné vyhotovení nebo doručení rozhodnutí.
 
-#### Vliv na souběžné režimy (odst. 2)
+[3] **Likvidace, nucená správa a předběžné opatření.** U dlužníka, který je právnickou osobou, se prohlášením konkursu přerušuje likvidace; nucená správa končí. Nařízené předběžné opatření zaniká, jen pokud insolvenční soud nerozhodne jinak. Posouzení vždy předpokládá, že jde o režim vztahující se k témuž dlužníku.
 
-- **Likvidace PO se *přerušuje*** — likvidátor nepokračuje. Po skončení konkursu (pokud nezanikla PO) se likvidace případně obnoví.
-- **Nucená správa končí** — typicky u finančních institucí, kde byla nařízena ČNB. Konkurs konkurenci „přebije".
-- **Předběžné opatření *zaniká*** (pokud soud nerozhodne jinak) — nadále nepotřebné, neboť účinky konkursu jsou silnější.
+[4] **Zachovaná způsobilost.** Konkurs neodnímá dlužníku způsobilost k právním úkonům ani procesní způsobilost. Z toho však neplyne zachování oprávnění nakládat s majetkovou podstatou: § 246 odst. 1 toto oprávnění spolu s výkonem souvisejících práv a povinností převádí na insolvenčního správce a § 246 odst. 2 stanoví následek pozdějších dlužníkových úkonů v tomto rozsahu.
 
-#### Způsobilost dlužníka (odst. 3) — **DŮLEŽITÉ**
+[5] **Kontinuita dřívějších účinků.** Odstavec 4 vychází z pravidla, že prohlášením konkursu nejsou dotčeny účinky spojené se zahájením insolvenčního řízení ani s předběžným opatřením insolvenčního soudu. Toto pravidlo platí jen tehdy, nestanoví-li insolvenční zákon jinak; právě odstavec 2 obsahuje zvláštní pravidlo o možném zániku předběžného opatření.
 
-**Dlužník zachovává procesní i hmotněprávní způsobilost**. Není to *zákaz* dlužníka — jen ztrácí *dispoziční oprávnění* k podstatě. *V osobním životě* (vstoupit do manželství, dát plnou moc na nesouvisející věci atd.) zůstává plně způsobilý.
+[6] **Změna předběžného opatření.** Insolvenční soud může i bez návrhu změnit své předběžné opatření zúžením nebo rozšířením povinností, které v něm stanovil. Text odstavce 4 tedy nedává obecnou pravomoc nově uspořádat libovolné právní vztahy, ale vymezuje změnu povinností v soudním předběžném opatření.
 
-> *Praktický důsledek*: dlužník-FO může dále uzavírat smlouvy *mimo podstatu* (např. nakupovat na své příjmy v rozsahu nezabavitelné částky), může vystupovat v soudních řízeních o věcech mimo podstatu (např. rozvod, určení otcovství).
+[7] **Systematické rozlišení časových pravidel.** Okamžik podle § 245 odst. 1 určuje účinky rozhodnutí o způsobu řešení úpadku konkursem. Naproti tomu domněnka § 246 odst. 3 je formulována pro nakládání v den, kdy se účinným stalo rozhodnutí o úpadku. Při spojení obou rozhodnutí mohou časové údaje prakticky splývat; jejich zákonné předpoklady se tím však nestávají totožnými.
 
-#### Změna předběžného opatření (odst. 4)
+[8] **Intertemporalita.** Tento komentář vychází ze znění účinného k 19. 7. 2026. U starších řízení a právních jednání je nutné ověřit znění účinné v době rozhodné právní skutečnosti a použitelná přechodná ustanovení; dnešní text nelze mechanicky přenést na dřívější skutkové děje.
 
-I po prohlášení konkursu soud může *změnit* dosavadní předběžné opatření (typicky upravit pravomoci, rozšířit/zúžit zákazy dlužníkovi v reziduálních oblastech).
+### Judikatura
 
-### Vazby
-
-- **§ 246** — přechod dispozic.
-- **§ 109 odst. 4** — analogie pro zahájení IR.
-
-### F. Kazuistika
-
-**1. Modelová situace.** Soud vydal rozhodnutí o prohlášení konkursu na FO-podnikatele dne 10. 6. v 9:00, zveřejnil je v insolvenčním rejstříku téhož dne ve 13:42. Dlužník dne 10. 6. v 11:00 (před zveřejněním) podepsal kupní smlouvu o prodeji firemního vozidla a téhož dne v 15:00 (po zveřejnění) podepsal druhou smlouvu o prodeji stroje. Současně u dlužníka probíhala dobrovolná likvidace jiné jeho PO a ČNB zvažovala nucenou správu. Důkazy: časový údaj zveřejnění v ISIR, datace obou smluv, protokol o předání.
-
-**2. Právní otázka.** Od kterého okamžiku nastávají účinky konkursu a jak to dopadá na úkony dlužníka učiněné v týž den před a po zveřejnění?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 245 odst. 1 — účinky nastávají **okamžikem zveřejnění** rozhodnutí v ISIR (princip publicity); odst. 2 — přerušení likvidace, konec nucené správy, zánik předběžného opatření; odst. 3 — zachování způsobilosti dlužníka; odst. 4 — změna PO soudem.
-- *Související ustanovení téhož zákona:* § 246 (přechod dispozic, navazuje na okamžik dle § 245), § 246 odst. 3 (domněnka, že úkon v den úpadku je po přechodu), § 89 (okamžik účinnosti rozhodnutí zveřejněním).
-- *Související předpisy:* OZ — svéprávnost FO (konkursem nedotčena); zákon o veřejných rejstřících (likvidace).
-- *Judikatura:* nosný závěr, že pro účinky konkursu je rozhodný okamžik zveřejnění v ISIR, nikoli vyhlášení či doručení.
-
-**4. Subsumpce.** Účinky nastaly v 13:42 dne 10. 6. (zveřejnění). První smlouva (11:00) byla uzavřena před účinky — sama o sobě úkon dlužníka ještě se způsobilostí nakládat; uplatní se však domněnka § 246 odst. 3 (v pochybnostech po přechodu). Druhá smlouva (15:00) je po účincích → režim § 246 odst. 2. Likvidace jiné PO se nepřerušuje (jde o jinou osobu); nucená správa by končila jen u téhož subjektu.
-
-**5. Řešení.** Rozhodující je minuta zveřejnění. U první smlouvy musí ten, kdo se dovolává její účinnosti, prokázat, že byla uzavřena před 13:42 (vyvrácení domněnky § 246 odst. 3) — jinak je vůči věřitelům neúčinná. Druhá smlouva je ex lege neúčinná vůči věřitelům (§ 246 odst. 2). Osobní svéprávnost dlužníka trvá: může nadále jednat ve věcech mimo podstatu (rozvod, plná moc k nesouvisející věci). Procesně: správce vyzve protistranu k vydání plnění do podstaty.
-
-**6. Varianty.** (a) Obě smlouvy by byly datovány den před prohlášením a zveřejněny by byly současně s konkursem následující den — pak by šlo o úkony před účinky, posuzované případně až odpůrčí žalobou (§ 235 a násl.), nikoli ex lege neúčinnost. (b) U dlužníka by bylo nařízeno předběžné opatření omezující dispozice — prohlášením konkursu zaniká (odst. 2), ledaže soud rozhodne jinak (odst. 4).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Účinky nastaly už vydáním usnesení v 9:00." Neutralizace: § 245 odst. 1 jednoznačně váže účinky na zveřejnění v ISIR, nikoli na vydání či doručení.
-- *Protiargument:* „Konkurs zbavuje dlužníka způsobilosti, takže druhá smlouva je neplatná." Neutralizace: odst. 3 — způsobilost zůstává; následkem není neplatnost, nýbrž neúčinnost vůči věřitelům (§ 246 odst. 2), je-li úkon o věci z podstaty.
-- *Slabé místo:* dokazování přesného času uzavření úkonu v den úpadku; břemeno nese ten, kdo tvrdí, že úkon byl před přechodem (§ 246 odst. 3).
-
-### H. Praktický závěr
-
-Klíčem je publicita: účinky konkursu se odvíjejí od minuty zveřejnění v ISIR. Tento okamžik determinuje přechod dispozic, neúčinnost úkonů i konec souběžných režimů (likvidace, nucená správa, předběžné opatření).
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Zjistit přesný čas zveřejnění rozhodnutí o konkursu v ISIR.
-- [ ] U úkonů v den úpadku vyhodnotit domněnku § 246 odst. 3 a rozložení důkazního břemene.
-- [ ] Ověřit, zda u dlužníka běžela likvidace / nucená správa / předběžné opatření a jaký je jejich osud.
-- [ ] Odlišit osobní sféru dlužníka (způsobilost trvá) od dispozic s podstatou.
-
-**Typicky rozhodné důkazy / podklady:** výpis z ISIR s časovým razítkem zveřejnění, datované smlouvy a předávací protokoly, případné usnesení o předběžném opatření, doklady o likvidaci/nucené správě.
+Do tohoto kola nebylo zařazeno rozhodnutí, jehož plný text by byl přímo nosný pro samostatný výklad § 245 a současně byl ověřen v požadovaném skutkovém, procesním a časovém kontextu. Nejde o tvrzení, že relevantní judikatura neexistuje; neověřená obecná parafráze byla odstraněna.
 
 ---
 

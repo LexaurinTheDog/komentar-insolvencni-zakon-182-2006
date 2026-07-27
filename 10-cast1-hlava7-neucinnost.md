@@ -763,58 +763,57 @@ V tomto kole není žádné soudní rozhodnutí použito jako materiální prame
 
 ## § 243 — Odpůrčí žaloba věřitele před úpadkem
 
-> Jestliže dlužníkův věřitel dosáhl na základě své **odpůrčí žaloby rozhodnutí o neúčinnosti právního úkonu, které nabylo právní moci před právní mocí rozhodnutí o úpadku**, může se domáhat toho, aby mu **do výše jeho pohledávky bylo vydáno plnění z tohoto neúčinného právního úkonu**; toto plnění **nemusí předat do majetkové podstaty**.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-### Výklad — **PRIVILEGUJÍCÍ VÝJIMKA**
+### Znění ustanovení
 
-**Civilní pauliánská žaloba** (§ 590 OZ) může běžet *paralelně* s insolvencí. Pokud věřitel dosáhne **pravomocného rozhodnutí o neúčinnosti** *před* pravomocným úpadkem dlužníka:
+> Jestliže dlužníkův věřitel dosáhl na základě své odpůrčí žaloby rozhodnutí o neúčinnosti právního úkonu, které nabylo právní moci před právní mocí rozhodnutí o úpadku, může se domáhat toho, aby mu do výše jeho pohledávky bylo vydáno plnění z tohoto neúčinného právního úkonu; toto plnění nemusí předat do majetkové podstaty.
 
-- **má prioritu** na plnění z neúčinného úkonu,
-- *do výše vlastní pohledávky*,
-- *nemusí předat* do podstaty.
+### Přehled výkladu
 
-> *Logika*: věřitel, který *aktivně* vedl pauliánskou žalobu *před úpadkem*, je *privilegován* — odměna za iniciativu, neměl by být *poškozen* tím, že dlužník mezitím skončil v insolvenci.
+§ 243 upravuje úzce vymezenou výjimku pro věřitele, který ještě před právní mocí rozhodnutí o úpadku dosáhl pravomocného rozhodnutí o neúčinnosti na základě vlastní odpůrčí žaloby. Rozhodné není pouhé podání žaloby ani jen zahájení insolvenčního řízení. Zákon dovoluje požadovat vydání plnění pouze do výše věřitelovy pohledávky a výslovně stanoví, že takto získané plnění nemusí věřitel předat do majetkové podstaty.
 
-### Vazby
+### Souvisící ustanovení
 
-- **§ 590 — § 599 OZ** — civilní pauliánský nárok.
-- **§ 239 odst. 1** — suspenze pauliánských žalob jiných osob po zahájení IR.
+- § 235 odst. 2 — insolvenční neúčinnost založená rozhodnutím o odpůrčí žalobě správce.
+- § 236 — obecné následky neúčinnosti a příslušnost dlužníkova plnění do majetkové podstaty.
+- § 237 — osoby povinné vydat plnění a následky jeho vydání.
+- § 239 odst. 1 — výlučná legitimace insolvenčního správce v insolvenčním řízení a zákaz pokračovat do skončení insolvenčního řízení v již probíhajícím řízení o téže věci zahájeném odpůrčí žalobou jiné osoby.
+- § 239 odst. 3 a 4 — lhůta správce a okamžik, kdy plnění náleží do majetkové podstaty po úspěchu správce.
 
-### F. Kazuistika
+### Souvisící předpisy
 
-**1. Modelová situace.** Věřitel GAMMA-2 podal proti dlužníkovi DELTA-2 civilní pauliánskou žalobu (§ 590 OZ) ohledně darování pozemku spřízněné osobě. Soud pravomocně určil neúčinnost tohoto úkonu vůči GAMMA-2 dne 10. 1. 2025. Teprve poté, 1. 4. 2025, nabylo právní moci rozhodnutí o úpadku DELTA-2. GAMMA-2 chce uspokojit svou pohledávku (800 000 Kč) přímo z hodnoty darovaného pozemku a nepředávat ji do podstaty. Správce s tím nesouhlasí. Důkazy: rozsudek o (civilní) neúčinnosti s doložkou právní moci, rozhodnutí o úpadku s datem právní moci, doklad o výši pohledávky GAMMA-2, znalecký posudek o hodnotě pozemku.
+V tomto kole není žádný další předpis použit jako materiální pramenná opora výkladu. Obecný soukromoprávní základ odpůrčí žaloby musí být v konkrétní věci samostatně ověřen podle předpisu účinného v rozhodné době; § 243 jeho hmotněprávní podmínky neupravuje.
 
-**2. Právní otázka.** Může věřitel, který dosáhl pravomocného rozhodnutí o neúčinnosti úkonu *před* právní mocí rozhodnutí o úpadku, uspokojit svou pohledávku přímo z plnění z neúčinného úkonu, aniž je předá do majetkové podstaty?
+### Z důvodové zprávy
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 243 IZ — věřitel s pravomocným rozhodnutím o neúčinnosti *před* právní mocí rozhodnutí o úpadku se může domáhat vydání plnění *do výše své pohledávky* a *nemusí je předat* do podstaty.
-- *Související ustanovení téhož zákona:* § 239 odst. 1 IZ (suspenze pauliánských žalob jiných osob *po* zahájení IR), § 235–237 IZ (jinak plnění náleží do podstaty), § 240–242 IZ (typy neúčinnosti).
-- *Související předpisy:* § 590–599 OZ (civilní pauliánský nárok, který může běžet paralelně s insolvencí).
-- *Judikatura:* zásada ochrany iniciativního věřitele, který dosáhl pravomocného „pauliánského" rozhodnutí před úpadkem — je privilegován oproti ostatním věřitelům.
+Oficiální důvodová zpráva k vládnímu návrhu insolvenčního zákona nevysvětluje § 243 samostatně. Ve společné části k tehdejším § 235 až 243 popsala koncepci neúčinnosti a uvedla, že legitimace k insolvenční odpůrčí žalobě má náležet výlučně správci, mimo jiné kvůli možným duplicitám, a že již probíhající řízení jiné osoby se mají přerušit. Jde o historické vysvětlení návrhu, nikoli o náhradu aktuálního textu § 239 a § 243. [Sněmovní tisk 1120/0, zvláštní část k § 235–239 a § 240–243, číslované s. 206–207 (PDF s. 207–208).]
 
-**4. Subsumpce.** GAMMA-2 dosáhla pravomocného rozhodnutí o neúčinnosti 10. 1. 2025; právní moc rozhodnutí o úpadku nastala 1. 4. 2025 — tedy rozhodnutí o neúčinnosti je *pravomocné dříve*. Naplněn znak § 243: GAMMA-2 *má prioritu* na plnění z neúčinného úkonu *do výše své pohledávky* (800 000 Kč) a toto plnění *nemusí předat* do podstaty.
+### Literatura
 
-**5. Řešení.** GAMMA-2 se může uspokojit z hodnoty darovaného pozemku do výše 800 000 Kč mimo podstatu; případný přebytek hodnoty pozemku nad pohledávku GAMMA-2 náleží do podstaty. Procesní krok: doložit přesné datum právní moci obou rozhodnutí — to je rozhodující kritérium. Riziko: spor o to, zda rozhodnutí o neúčinnosti skutečně nabylo právní moci *před* úpadkem; pokud by pořadí bylo opačné, GAMMA-2 by toto privilegium *ztratila*.
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tato poznámka není výsledkem negativní literární rešerše.
 
-**6. Varianty.** (a) Kdyby pauliánské rozhodnutí nabylo právní moci *až po* právní moci úpadku, § 243 by se *neuplatnil*; GAMMA-2 by se musela přihlásit a plnění by náleželo do podstaty (§ 236). (b) Kdyby GAMMA-2 podala pauliánskou žalobu, ale do zahájení IR nebyla pravomocně rozhodnuta, řízení by se *suspendovalo* podle § 239 odst. 1.
+### Výklad
 
-### G. Protiargumenty a rizika
+[1] **Povaha pravidla.** § 243 navazuje na obecný režim § 236, podle něhož plnění z neúčinných právních úkonů v insolvenčním řízení náleží do majetkové podstaty. Pro přesně popsanou situaci stanoví zvláštní následek: věřitel se může domáhat vydání plnění do výše své pohledávky a vydané plnění nemusí předat do majetkové podstaty.
 
-- *„Veškeré plnění z neúčinných úkonů musí do podstaty (§ 236), žádné privilegium neexistuje."* — Neutralizace: § 243 je *výslovná výjimka* — věřitel, který dosáhl pravomocného rozhodnutí o neúčinnosti *před* právní mocí úpadku, se uspokojí do výše pohledávky mimo podstatu; jde o odměnu za iniciativu.
-- *„Rozhodující je datum podání žaloby / zahájení IR."* — Korekce: kritériem je *právní moc rozhodnutí o neúčinnosti* vs. *právní moc rozhodnutí o úpadku*; nikoli okamžik podání žaloby ani zahájení IR.
-- Slabé místo: privilegium platí *jen do výše pohledávky* věřitele — převyšuje-li hodnota plnění tuto výši, přebytek náleží do podstaty; přesné vyčíslení a doložení dat právní moci je proto klíčové.
+[2] **Vlastní odpůrčí žaloba věřitele.** Podmínkou je rozhodnutí o neúčinnosti dosažené na základě odpůrčí žaloby tohoto věřitele. Samotné podání žaloby, nepravomocné rozhodnutí ani rozhodnutí vydané v jiném procesním rámci textovou podmínku nenaplňuje.
 
-### H. Praktický závěr
+[3] **Dvojí právní moc.** Časový test porovnává právní moc rozhodnutí o neúčinnosti s právní mocí rozhodnutí o úpadku. První rozhodnutí musí nabýt právní moci dříve. Datum zahájení insolvenčního řízení ani okamžik účinků rozhodnutí o úpadku tento výslovný test nenahrazují.
 
-Věřitel, který svou pauliánskou žalobou (§ 590 OZ) dosáhl pravomocného rozhodnutí o neúčinnosti *před* právní mocí rozhodnutí o úpadku, se může uspokojit přímo z plnění z neúčinného úkonu do výše své pohledávky a nepředává je do podstaty. Po zahájení IR se dosud neskončené pauliánské žaloby jiných osob suspendují (§ 239 odst. 1).
+[4] **Rozsah práva.** Věřitel může požadovat vydání plnění jen do výše své pohledávky. § 243 sám neurčuje výši pohledávky, hodnotu dostupného plnění ani postup pro řešení případného rozdílu; tyto otázky nelze uzavřít pouhým odkazem na komentované ustanovení.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Porovnat datum právní moci rozhodnutí o neúčinnosti s datem právní moci rozhodnutí o úpadku (rozhodující kritérium § 243).
-- [ ] Uspokojit privilegovaného věřitele jen *do výše jeho pohledávky*; přebytek hodnoty plnění zařadit do podstaty.
-- [ ] Po zahájení IR ověřit, zda neprobíhá pauliánská žaloba jiné osoby, jež se má suspendovat (§ 239 odst. 1).
-- [ ] Nebylo-li dosaženo pravomocného rozhodnutí před úpadkem, odkázat věřitele na přihlášku a režim § 236.
+[5] **Vztah k majetkové podstatě.** Výrok, že věřitel plnění nemusí předat do majetkové podstaty, se vztahuje na plnění, jehož vydání se může podle § 243 domáhat. Z textu nelze bez další právní opory dovozovat širší přednost k jinému majetku dlužníka ani obecné pořadí tohoto věřitele v insolvenčním řízení.
 
-**Typicky rozhodné důkazy / podklady:** pravomocné rozhodnutí o neúčinnosti (pauliánské) s doložkou právní moci, rozhodnutí o úpadku s datem právní moci, doklad o výši pohledávky věřitele, znalecký posudek o hodnotě plnění z neúčinného úkonu.
+[6] **Již probíhající odpůrčí řízení.** Jestliže v době zahájení insolvenčního řízení probíhá o téže věci řízení z odpůrčí žaloby jiné osoby, § 239 odst. 1 zakazuje v něm pokračovat až do skončení insolvenčního řízení. Proto není přesné tvrdit, že obecná odpůrčí žaloba vždy bez omezení běží paralelně s insolvencí.
+
+[7] **Důkazní minimum.** Pro aplikaci § 243 jsou typicky rozhodné úplné výroky obou rozhodnutí, doložky a přesná data jejich právní moci, totožnost žalujícího věřitele a odpůrčího nároku, výše jeho pohledávky a identifikace plnění z neúčinného právního úkonu. Jde o autorský praktický závěr odvozený z kumulativních znaků ustanovení.
+
+[8] **Intertemporalita.** U starších právních úkonů, právních jednání a řízení je třeba ověřit hmotné i procesní právo účinné v rozhodné době a příslušná přechodná ustanovení. Terminologie „právní úkon“ je v tomto komentáři zachována tam, kde reprodukuje insolvenční zákon; nelze z ní bez dalšího určit soukromoprávní režim staršího nebo novějšího jednání.
+
+### Judikatura
+
+V tomto kole není žádné soudní rozhodnutí použito jako materiální pramenná opora výkladu § 243. Dřívější neurčitý odkaz na „zásadu ochrany iniciativního věřitele“ byl odstraněn, protože nebyl spojen s identifikovaným a ověřeným plným textem rozhodnutí. Toto redakční omezení není tvrzením o neexistenci relevantní judikatury.
 
 ---
 

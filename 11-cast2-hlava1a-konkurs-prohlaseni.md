@@ -1062,53 +1062,53 @@ Do tohoto kola se judikatorní závěr nezařazuje; nejde o negativní rešerši
 
 ## § 264 — § 265 — Pokračování v přerušených řízeních
 
-### F. Kazuistika
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**1. Modelová situace.** Ke dni prohlášení konkursu se podle § 263 přerušila všechna sporná řízení dlužníka. Dlužník v nich vystupoval jednak **aktivně** (jako žalobce vymáhal své pohledávky do podstaty), jednak **pasivně** (byl žalován věřiteli o zaplacení). Insolvenční správce i soudy nyní řeší, ve kterých řízeních a na čí návrh lze pokračovat a kde se naopak musí nárok uplatnit přihláškou. Důkazy: spisy přerušených řízení, výzvy soudů správci a běh stanovených lhůt, přihlášky věřitelů.
+### Znění ustanovení
 
-**2. Právní otázka.** Podle jakého kritéria se určuje režim pokračování v přerušených řízeních dlužníka — tj. kdo je oprávněn navrhnout pokračování a v kterých řízeních je pokračování vůbec přípustné?
+#### § 264
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* společný blok § 264–265, který **rozlišuje pokračování podle procesního postavení dlužníka**: § 264 (dlužník-žalobce/navrhovatel — pokračování primárně na návrh správce, který nastupuje místo dlužníka, subsidiárně na návrh dlužníka/ostatních účastníků), § 265 (dlužník-žalovaný — pokračování jen ve vymezených sporech; nároky do podstaty se zásadně uplatňují přihláškou).
-- *Související ustanovení téhož zákona:* § 263 (přerušení řízení prohlášením konkursu), § 266 (řízení, jež se nepřerušují), § 140c (zákaz zahájení nových sporů o nárocích do podstaty), § 173 a násl. (přihlášky), § 249 (výlučná aktivní legitimace správce).
-- *Související předpisy:* o. s. ř. — přerušení a pokračování řízení, procesní nástupnictví; rozhodčí řízení.
-- *Judikatura:* místní zdroj NS 29 Cdo 3123/2014 (správce uplatňující pohledávku dlužníka vstupuje do jeho procesního postavení, vč. rozhodčí doložky); nosný závěr, že nároky proti dlužníku se uplatňují přihláškou, nikoli pokračováním v žalobě.
-
-**4. Subsumpce.** Aktivní spory dlužníka (žalobce) spadají pod § 264 — pokračování na návrh správce (nástup místo dlužníka), subsidiárně dlužníka/účastníků. Pasivní spory (dlužník žalovaný o nárok do podstaty) spadají pod § 265 — pokračování jen ve vymezených sporech (rozsah podstaty, zajištění, pohledávky za podstatou), jinak přihláška.
-
-**5. Řešení.** Správce vyhodnotí u aktivních sporů výtěžnost a procesní vyhlídky a včas podá návrh na pokračování; u pasivních sporů odkáže věřitele na přihlášku a upozorní na zákaz nových sporů (§ 140c). Procesní kroky: lhůtník výzev soudů, návrhy na pokračování (§ 264), poučení věřitelů o přihláškách (§ 265, § 173).
-
-**6. Varianty.** (a) Správce v aktivním sporu nepodá návrh ve lhůtě — pokračování může navrhnout dlužník či jiný účastník, dlužník zůstává účastníkem (§ 264 odst. 2). (b) Pasivní spor se týká rozsahu podstaty nebo pohledávky za podstatou — pokračování je přípustné i přes obecné pravidlo o přihláškách (§ 265).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument věřitele:* „Budu prostě pokračovat v žalobě proti dlužníku." Neutralizace: § 265 — nárok do podstaty se zásadně uplatní přihláškou; pokračování žaloby je vyhrazeno jen vymezeným sporům.
-- *Protiargument:* „Postavení dlužníka (žalobce/žalovaný) je pro pokračování nepodstatné." Neutralizace: celé § 264–265 jsou na tomto rozlišení postaveny a určují okruh oprávněných i přípustnost pokračování.
-- *Slabé místo:* správce přebírá i nepříznivé procesní stavy (rozhodčí doložka, dosavadní úkony — NS 29 Cdo 3123/2014); hranice mezi spory, v nichž lze pokračovat (§ 265), a těmi, kde je nutná přihláška, bývá sporná.
-
-### H. Praktický závěr
-
-Režim pokračování v přerušených řízeních se řídí postavením dlužníka: u aktivních sporů (žalobce) navrhuje pokračování primárně správce a nastupuje místo dlužníka (subsidiárně dlužník/ostatní účastníci), u pasivních sporů (žalovaný) se nároky do podstaty zásadně uplatňují přihláškou a pokračování je jen výjimečné.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] U každého přerušeného řízení určit, zda byl dlužník žalobcem (§ 264) či žalovaným (§ 265).
-- [ ] U aktivních sporů: správce včas zváží výtěžnost a podá návrh na pokračování.
-- [ ] Při nečinnosti správce upozornit na subsidiární návrh dlužníka/účastníků (§ 264 odst. 2).
-- [ ] Nároky proti dlužníku směřovat do přihlášky; pokračovat jen ve vymezených sporech (§ 265).
-
-**Typicky rozhodné důkazy / podklady:** spisy přerušených řízení, výzvy soudů správci a doklady o lhůtách, návrhy na pokračování, přihlášky pohledávek věřitelů, případné rozhodčí doložky.
-
-### § 264 — Dlužník-žalobce
-
-> (1) V přerušených řízeních, ve kterých v době prohlášení konkursu **dlužník vystupoval jako žalobce** nebo jiný navrhovatel, jakož i v dalších řízeních, ve kterých uplatňoval své pohledávky nebo jiná práva týkající se majetkové podstaty, lze pokračovat **na návrh insolvenčního správce**; dnem, kdy soudu, rozhodci nebo stálému rozhodčímu soudu, u kterého je řízení vedeno, došel jeho návrh na pokračování v řízení, se insolvenční správce **stává účastníkem řízení místo dlužníka**.
+> (1) V přerušených řízeních, ve kterých v době prohlášení konkursu dlužník vystupoval jako žalobce nebo jiný navrhovatel, jakož i v dalších řízeních, ve kterých uplatňoval své pohledávky nebo jiná práva týkající se majetkové podstaty, lze pokračovat na návrh insolvenčního správce; dnem, kdy soudu, rozhodci nebo stálému rozhodčímu soudu, u kterého je řízení vedeno, došel jeho návrh na pokračování v řízení, se insolvenční správce stává účastníkem řízení místo dlužníka.
 >
-> (2) Jestliže insolvenční správce ve lhůtě určené mu soudem, rozhodcem nebo stálým rozhodčím soudem, u kterého je řízení vedeno, **nepodal návrh na pokračování v řízení, mohou návrh na pokračování v řízení podat dlužník, popřípadě ostatní účastníci řízení s tím, že dlužník zůstává účastníkem řízení**.
+> (2) Jestliže insolvenční správce ve lhůtě určené mu soudem, rozhodcem nebo stálým rozhodčím soudem, u kterého je řízení vedeno, nepodal návrh na pokračování v řízení, mohou návrh na pokračování v řízení podat dlužník, popřípadě ostatní účastníci řízení s tím, že dlužník zůstává účastníkem řízení.
+
+### Přehled výkladu
+
+§ 264 upravuje pokračování v přerušených řízeních, v nichž dlužník před prohlášením konkursu procesně uplatňoval pohledávku nebo jiné právo týkající se majetkové podstaty. Návrh insolvenčního správce způsobí přímo ze zákona jeho vstup místo dlužníka; při marném uplynutí lhůty určené správci mohou pokračování navrhnout dlužník nebo ostatní účastníci, avšak dlužník pak účastníkem zůstává.
+
+### Souvisící ustanovení
+
+§ 140a až § 141a (přerušení a další účinky rozhodnutí o úpadku), § 246 odst. 1 (přechod oprávnění nakládat s majetkovou podstatou), § 249 (nakládání s majetkovou podstatou po prohlášení konkursu), § 263 (přerušení prohlášením konkursu), § 265 (jiná přerušená řízení), § 266 (řízení, která se nepřerušují).
+
+### Souvisící předpisy
+
+Zákon č. 99/1963 Sb., občanský soudní řád, zejména § 109 a § 111 (přerušení řízení a jeho procesní následky); zákon č. 216/1994 Sb., o rozhodčím řízení a o výkonu rozhodčích nálezů (rozhodčí řízení, na něž text § 264 a § 265 výslovně pamatuje).
+
+### Z důvodové zprávy
+
+Původní důvodová zpráva k vládnímu návrhu insolvenčního zákona řadila § 263 až § 267 do podrobnější úpravy účinků konkursu na probíhající řízení. Důvodová zpráva k zákonu č. 294/2013 Sb. uvádí, že změny § 264 byly terminologické a navazovaly na změnu § 263. Jde o historický legislativní účel; aktuální obsah se řídí konsolidovaným zněním k 19. 7. 2026.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tato poznámka není výsledkem negativní literární rešerše.
 
 ### Výklad
 
-**Když dlužník žaloval** (aktivně uplatňoval nárok) — pokračování:
-- *primárně* na návrh správce → správce nastoupí místo dlužníka,
-- *sekundárně* na návrh dlužníka / jiných účastníků → dlužník zůstane.
+[1] **Předpoklad přerušení.** § 264 ani § 265 samy řízení nepřerušují. Navazují na přerušení podle § 263, případně na dřívější přerušení spojené s rozhodnutím o úpadku podle § 140a. Nejprve je proto nutné určit, zda a podle které normy bylo konkrétní řízení přerušeno.
+
+[2] **Rozsah § 264.** Rozhodující není jen formální označení dlužníka jako žalobce. Ustanovení zahrnuje také jiné navrhovatele a další řízení, v nichž dlužník uplatňoval pohledávky nebo jiná práva týkající se majetkové podstaty.
+
+[3] **Návrh správce podle § 264 odst. 1.** Procesní nástupnictví nastává dnem, kdy návrh na pokračování dojde orgánu, u něhož je řízení vedeno. Text nevyžaduje předchozí rozhodnutí tohoto orgánu jako podmínku vstupu správce místo dlužníka.
+
+[4] **Nečinnost správce.** Teprve nepodá-li správce návrh ve lhůtě, kterou mu určil příslušný soud, rozhodce nebo stálý rozhodčí soud, mohou pokračování navrhnout dlužník nebo ostatní účastníci. V takovém případě dlužník účastníkem zůstává. Bez určení lhůty nelze tento subsidiární postup založit pouhou nečinností správce.
+
+[5] **Vztah k § 265.** § 264 se použije na řízení, v nichž právo procesně uplatňoval dlužník. Pro ostatní přerušená řízení je nutno samostatně posoudit § 265; samotné označení procesních stran nenahrazuje kontrolu povahy uplatněného práva.
+
+[6] **Intertemporalita.** U řízení dotčených rozhodnutím o úpadku nebo prohlášením konkursu před 1. 1. 2014 je nutné ověřit tehdy účinné znění a přechodné ustanovení zákona č. 294/2013 Sb. Judikaturu ke staršímu znění nelze přebírat bez kontroly, zda její závěr obstojí po změnách § 140a, § 263 a § 264.
+
+### Judikatura
+
+Do tohoto kola nebyl zařazen samostatný judikatorní závěr. Dřívější odkaz na 29 Cdo 3123/2014 byl odstraněn, protože pro materiální tvrzení tohoto bloku nebyl opatřen a znovu otevřen plný text z oficiálního webu; nejde o závěr, že relevantní judikatura neexistuje.
 
 ### § 265 — Dlužník-žalovaný
 

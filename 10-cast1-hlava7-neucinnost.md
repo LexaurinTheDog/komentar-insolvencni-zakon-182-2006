@@ -703,79 +703,61 @@ Dřívější verze uváděla rozhodnutí 29 ICdo 11/2014, 29 ICdo 20/2017 a 29 
 
 ## § 242 — Neúčinnost úmyslně zkracujících úkonů
 
-> (1) Odporovat lze rovněž právnímu úkonu, kterým **dlužník úmyslně zkrátil uspokojení věřitele**, byl-li tento úmysl druhé straně **znám nebo jí se zřetelem ke všem okolnostem musel být znám**.
-> (2) Má se za to, že u úmyslně zkracujícího právního úkonu učiněného ve prospěch osoby dlužníku blízké nebo osoby, která tvoří s dlužníkem koncern, byl dlužníkův **úmysl této osobě znám**.
-> (3) Úmyslně zkracujícímu právnímu úkonu lze odporovat, byl-li učiněn **v posledních 5 letech před zahájením insolvenčního řízení**.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**Judikatura (z místních zdrojů):**
+### Znění ustanovení
 
-- *NS* [29 ICdo 72/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/364775A5D3DA9525C1258C0B0052AF83?openDocument) — 29. 11. 2024, kat. A
-  > „Právní nástupce osoby, v jejíž prospěch byl neúčinný právní úkon učiněn nebo která z něho měla prospěch (§ 237 odst. 1 insolvenčního zákona), jemuž v době, kdy nabyl plnění z neúčinného právního úkonu, musely být známy okolnosti, které odůvodňují právo dovolávat se neúčinnosti vůči oné osobě, má ve smyslu § 237 odst. 2 písm. a/ insolvenčního zákona povinnost vydat toto plnění do majetkové podstaty i tehdy, jde-li o právního nástupce na základě smlouvy (typově na základě smlouvy darovací nebo smlouvy kupní)"
+> (1) Odporovat lze rovněž právnímu úkonu, kterým dlužník úmyslně zkrátil uspokojení věřitele, byl-li tento úmysl druhé straně znám nebo jí se zřetelem ke všem okolnostem musel být znám.
+>
+> (2) Má se za to, že u úmyslně zkracujícího právního úkonu učiněného ve prospěch osoby dlužníku blízké nebo osoby, která tvoří s dlužníkem koncern, byl dlužníkův úmysl této osobě znám.
+>
+> (3) Úmyslně zkracujícímu právnímu úkonu lze odporovat, byl-li učiněn v posledních 5 letech před zahájením insolvenčního řízení.
 
-### Výklad — **TŘETÍ TYP: ÚMYSLNÉ ZKRÁCENÍ**
+### Přehled výkladu
 
-#### Subjektivní stránka (odst. 1 — 2)
+§ 242 je zvláštní skutkovou podstatou odporovatelnosti. Vedle zkrácení uspokojení věřitele vyžaduje úmysl dlužníka a znalost tohoto úmyslu druhou stranou, popřípadě stav, kdy jí úmysl se zřetelem ke všem okolnostem musel být znám. Odstavec 2 usnadňuje dokazování pouze ve vymezených vztazích a odstavec 3 stanoví pětileté odporovací období.
 
-**Kvalifikovaný úmysl dlužníka** = *zkrátit uspokojení věřitelů* (víc než pouhá vědomost o úpadku).
+### Souvisící ustanovení
 
-**Vědomost protistrany** = *byl jí úmysl znám nebo měl být znán*. Tedy *kvalifikovaný subjektivní test*.
+- § 235: obecné vymezení neúčinnosti a zkrácení uspokojení věřitelů,
+- § 236 až 238: účinky neúčinnosti, povinné osoby a zákaz započtení,
+- § 239: výlučná aktivní legitimace insolvenčního správce, odpůrčí žaloba a lhůta k jejímu podání,
+- § 240 a § 241: další zvláštní skutkové podstaty odporovatelnosti,
+- § 243: postavení věřitele, který získal pravomocné rozhodnutí z vlastní odpůrčí žaloby před právní mocí rozhodnutí o úpadku.
 
-**Domněnka u spřízněných** — *automatická vědomost* u blízkých osob / koncernu.
+### Souvisící předpisy
 
-#### Lhůta (odst. 3) — **NEJDELŠÍ**
+- § 79 zákona č. 90/2012 Sb., o obchodních korporacích: koncern; na toto ustanovení odkazuje poznámka pod čarou 21 insolvenčního zákona.
 
-**5 let** před zahájením IR. Pro spřízněné i nespřízněné *stejně*.
+### Z důvodové zprávy
 
-> *Logika*: úmyslně zkracující úkony jsou nejzávažnější (zlovůle dlužníka + vědomost protistrany), proto *nejdelší lhůta odporovatelnosti*.
+Oficiální důvodová zpráva k vládnímu návrhu insolvenčního zákona uvádí, že úprava odporovatelnosti vychází z mezinárodních doporučení a sjednocuje podmínky a lhůty. Výslovně rozlišuje skutkovou podstatu vyžadující prokázání subjektivní stránky. Tento historický materiál zachycuje původní koncepci; vládní návrh měl v dotčené části jiné vnitřní číslování než přijatý zákon (sněmovní tisk 1120/0, zvláštní část k § 235 až 243, číslované s. 206 až 208, zejména s. 207; PDF s. 207 až 209).
 
-### Vazby
+### Literatura
 
-- **§ 590 OZ** — civilní pauliánský nárok (analogická konstrukce, ale jen 3 leté).
-- **§ 222 TZ** — poškození věřitele (trestněprávní rovina úmyslného zkrácení).
+Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; její zpracování je odloženo do druhého kola.
+
+### Výklad
+
+[1] **Obecný a zvláštní test.** Žalobce musí tvrdit a prokázat nejen zvláštní znaky § 242, ale také obecný předpoklad podle § 235 odst. 1: právní úkon musí zkracovat možnost uspokojení věřitelů nebo zvýhodňovat některé věřitele na úkor jiných. Samotný úmysl bez materiálního zkrácení nestačí.
+
+[2] **Úmysl dlužníka.** Odstavec 1 váže odporovatelnost na úmyslné zkrácení uspokojení věřitele. Text zákona nezavádí domněnku dlužníkova úmyslu obecně; domněnka v odstavci 2 se týká znalosti již existujícího dlužníkova úmyslu určenou osobou.
+
+[3] **Druhá strana.** U osoby, která nespadá pod odstavec 2, musí být prokázáno, že jí dlužníkův úmysl byl znám, nebo že jí se zřetelem ke všem okolnostem musel být znám. Druhá alternativa není totožná s pouhou možností úmysl rozpoznat; zákon používá formulaci „musel být znám“.
+
+[4] **Osoba blízká a koncern.** Byl-li úkon učiněn ve prospěch osoby dlužníku blízké nebo osoby tvořící s dlužníkem koncern, má se za to, že dlužníkův úmysl této osobě byl znám. Jde o vyvratitelnou domněnku znalosti; nenahrazuje důkaz úmyslu dlužníka, zkrácení ani časové podmínky.
+
+[5] **Pětileté období.** Úkon musí být učiněn v posledních pěti letech před zahájením insolvenčního řízení. Tento mezník je třeba odlišit od roční lhůty insolvenčního správce k podání odpůrčí žaloby podle § 239 odst. 3, která běží od nastání účinků rozhodnutí o úpadku.
+
+[6] **Procesní a majetkový následek.** Neúčinnost podle § 242 se prosazuje odpůrčí žalobou insolvenčního správce. Vyhovující rozhodnutí zakládá příslušnost dlužníkova plnění do majetkové podstaty v režimu § 236 až 239; okruh povinných osob se proto neurčuje samotným § 242.
+
+[7] **Důkazní mapa.** Pro posouzení jsou významné zejména obsah a hospodářský účinek napadeného úkonu, stav dlužníkova majetku před ním a po něm, časová osa závazků a insolvenčního řízení, vztah druhé strany k dlužníku a okolnosti dostupné druhé straně. Jde o autorský praktický závěr odvozený ze zákonných znaků, nikoli o citaci soudního rozhodnutí.
+
+[8] **Intertemporalita.** U starších úkonů je nutné ověřit právní úpravu rozhodnou podle doby jejich vzniku a přechodná ustanovení. Aktuální konsolidované znění k 19. 7. 2026 nelze bez této kontroly mechanicky použít na dřívější skutkový děj.
 
 ### Judikatura
 
-- **NS 29 ICdo 31/2016**: úmysl se posuzuje *objektivně z okolností* — dlužník nemusí výslovně přiznat, postačí *jednoznačné indicie* (nedostatek likvidity, blížící se úpadek, převod na osobu blízkou bez ekonomického důvodu).
-
-### Praktická poznámka
-
-§ 242 je *nejtěžší pro správce prokázat* (subjektivní stránka), ale *nejdelší lhůta* (5 let) ho dělá *taktickou volbou* u starých úkonů spřízněným osobám.
-
-### F. Kazuistika
-
-**1. Modelová situace.** Dlužník BÉTA-2 čtyři roky před zahájením IR převedl veškerý hodnotný majetek (nemovitosti, vozový park) na nově založenou společnost ovládanou jeho manželkou, ačkoli věděl o blížícím se velkém soudním sporu, který by ho ekonomicky zlikvidoval. Cílem bylo „uklidit" majetek mimo dosah budoucího věřitele. Tento úkon by podle § 240 a § 241 byl již *mimo* jejich kratší lhůty. Správce zvažuje § 242. Důkazy: převodní smlouvy, doklady o vědomosti dlužníka o hrozícím sporu, personální propojení (manželka), časová osa, indicie o absenci ekonomického důvodu převodu.
-
-**2. Právní otázka.** Lze úkon napadnout jako úmyslně zkracující podle § 242, je-li starší než lhůty podle § 240/§ 241, a jak se prokazuje úmysl dlužníka a vědomost protistrany?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 242 odst. 1 IZ (úmyslné zkrácení uspokojení věřitele + vědomost protistrany), odst. 2 (domněnka znalosti úmyslu u blízké osoby/koncernu), odst. 3 (nejdelší — 5letá — lhůta).
-- *Související ustanovení téhož zákona:* § 235 IZ (generální klauzule), § 240, § 241 IZ (ostatní typy neúčinnosti s kratšími lhůtami), § 239 IZ (odpůrčí žaloba), § 237 IZ (okruh osob).
-- *Související předpisy:* § 590 OZ (civilní pauliánský nárok — analogická konstrukce, ale 3letá lhůta), § 222 TZ (poškození věřitele — trestněprávní rovina úmyslného zkrácení).
-- *Judikatura:* NS 29 ICdo 31/2016 (citováno) — úmysl se posuzuje *objektivně z okolností*; dlužník jej nemusí přiznat, postačí jednoznačné indicie (nedostatek likvidity, blížící se úpadek, převod na osobu blízkou bez ekonomického důvodu).
-
-**4. Subsumpce.** Převod veškerého hodnotného majetku ve světle hrozícího likvidačního sporu, bez ekonomického důvodu, na osobu spjatou s manželkou → *úmyslné zkrácení* uspokojení budoucího věřitele (odst. 1). Nabytí ovládá manželka (osoba blízká) → *domněnka, že dlužníkův úmysl jí byl znám* (odst. 2). Úkon je 4 roky před zahájením IR — *v 5leté lhůtě* (odst. 3), tedy odporovatelný, ač lhůty § 240/§ 241 (3 roky/1 rok) již uplynuly.
-
-**5. Řešení.** Správce podá odpůrčí žalobu podle § 242 a úmysl prokáže *souborem objektivních indicií* (časová souvislost s hrozícím sporem, převod veškerého majetku, absence protiplnění/ekonomického smyslu, personální propojení) — viz NS 29 ICdo 31/2016. U blízké osoby se vědomost protistrany *předpokládá* (odst. 2). Pravděpodobný výsledek: určení neúčinnosti a vydání majetku/náhrady do podstaty. Procesní krok: paralelně zvážit trestní oznámení (§ 222 TZ). Riziko: subjektivní stránka je nejnáročnější na prokázání — nutno pečlivě zdokumentovat indicie.
-
-**6. Varianty.** (a) Kdyby šlo o *nespřízněnou* protistranu, chyběla by domněnka znalosti úmyslu a správce by musel prokázat, že úmysl byl protistraně *znám nebo jí musel být znám* (odst. 1) — důkazně mnohem náročnější. (b) Kdyby od úkonu uplynulo více než 5 let, byl by neodporovatelný i podle § 242 (nejdelší lhůta vyčerpána).
-
-### G. Protiargumenty a rizika
-
-- *„Úmysl zkrátit věřitele nebyl prokázán, šlo o legitimní restrukturalizaci majetku."* — Neutralizace: úmysl se zjišťuje *objektivně z okolností* (NS 29 ICdo 31/2016); soubor indicií (převod veškerého majetku, časová vazba na hrozící spor, absence ekonomického důvodu, blízká osoba) postačuje i bez doznání dlužníka.
-- *„Protistrana o úmyslu nevěděla."* — Neutralizace: u blízké osoby/koncernu se znalost úmyslu *předpokládá* (odst. 2); u jiných osob postačí, že úmysl *musel být znám* se zřetelem ke všem okolnostem.
-- Slabé místo: § 242 je důkazně *nejnáročnější* (kvalifikovaný úmysl + vědomost), avšak *nejdelší* (5letá) lhůta z něj činí klíčový nástroj u starých úkonů spřízněným osobám; vhodné kombinovat s civilní pauliánskou rovinou a případně s § 222 TZ.
-
-### H. Praktický závěr
-
-§ 242 umožňuje odporovat úmyslně zkracujícím úkonům v nejdelší (5leté) lhůtě; úmysl se prokazuje objektivně z okolností a u blízkých osob/koncernu se vědomost protistrany předpokládá. Je to taktická volba u starých úkonů, na něž již nedosáhnou § 240/§ 241.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Shromáždit objektivní indicie úmyslu zkrátit věřitele (časová vazba, převod veškerého majetku, absence ekonomického důvodu).
-- [ ] Posoudit vědomost protistrany; u blízké osoby/koncernu využít domněnku znalosti úmyslu (odst. 2).
-- [ ] Ověřit dodržení 5leté lhůty před zahájením IR (i pro úkony mimo lhůty § 240/§ 241).
-- [ ] Zvážit souběžnou trestněprávní rovinu (§ 222 TZ) a vztah k civilní pauliánské žalobě.
-
-**Typicky rozhodné důkazy / podklady:** převodní smlouvy a časová osa, doklady o vědomosti dlužníka o hrozícím dluhu/sporu, podklady o personálním/koncernovém propojení, důkazy o absenci protiplnění a ekonomického smyslu úkonu, účetnictví dlužníka.
+V tomto kole není žádné soudní rozhodnutí použito jako materiální pramenná opora výkladu znaků § 242. Dřívější odkazy na 29 ICdo 31/2016 a 29 ICdo 72/2022 byly odstraněny: první nebyl doložen ověřeným plným oficiálním textem a druhý řeší nosně rozsah právního nástupnictví podle § 237 odst. 2 písm. a), nikoli obecný výklad subjektivních znaků § 242. Toto redakční omezení nesmí být chápáno jako tvrzení o neexistenci relevantní judikatury.
 
 ---
 

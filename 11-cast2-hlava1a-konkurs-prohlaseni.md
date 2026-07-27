@@ -1567,6 +1567,58 @@ Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento 
 
 Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k přímému výkladu § 271. Nejde o závěr, že relevantní judikatura neexistuje; text proto nepřipisuje soudům žádný neověřený závěr.
 
+## § 272 — Odvolání
+
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> Proti rozhodnutí o schválení dohody o vypořádání společného jmění manželů není odvolání přípustné. Proti rozhodnutí, kterým insolvenční soud tuto dohodu neschválí, se mohou odvolat jen účastníci dohody.
+>
+
+### Přehled výkladu
+
+§ 272 je zvláštní úpravou přípustnosti a subjektivního oprávnění k odvolání proti rozhodnutí insolvenčního soudu podle § 271. Rozlišuje dva opačné výroky: proti schválení dohody odvolání nepřipouští, zatímco proti neschválení dohody omezuje okruh odvolatelů na účastníky dohody. Věřitelský výbor není jen z titulu svého postavení podle § 271 odst. 2 osobou oprávněnou podat odvolání proti neschválení dohody. Podané odvolání proti neschválení má navíc procesní účinek v souběžném řízení o vypořádání společného jmění podle § 273 odst. 2.
+
+### Souvisící ustanovení
+
+- § 270 — přechod oprávnění uzavřít dohodu o vypořádání společného jmění na insolvenčního správce.
+- § 271 — účinnost dohody až po schválení insolvenčním soudem, důvody neschválení a účinky schválené dohody.
+- § 273 odst. 2 — přerušení probíhajícího řízení o vypořádání společného jmění po podání odvolání proti neschválení dohody.
+- § 314 odst. 1 písm. b) — v nepatrném konkursu není k účinnosti dohody třeba schválení insolvenčním soudem ani souhlasu věřitelského orgánu.
+
+### Souvisící předpisy
+
+- Zákon č. 99/1963 Sb., občanský soudní řád, zejména § 201 — obecná přípustnost odvolání, pokud ji zákon nevylučuje. § 272 insolvenčního zákona je pro zde upravená rozhodnutí zvláštním pravidlem.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, odůvodňuje § 268 až § 276 společně. Uvádí, že úprava vlivu konkursu na společné jmění navazuje na dřívější koncepci, ale zpřesňuje ji, doplňuje a důsledněji přizpůsobuje tehdejší úpravě majetkového práva manželů. Zvláštní část neuvádí samostatný důvod pro asymetrii odvolání v § 272. Původní návrh navíc obsahoval v § 272 odst. 1 pravidlo o zvláštním doručování; to bylo s účinností od 1. 6. 2019 zrušeno zákonem č. 31/2019 Sb. a dnešní text odpovídá někdejšímu odstavci 2.
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní rešerše.
+
+### Výklad
+
+[1] **Dva odlišné výroky.** Zákon spojuje přípustnost odvolání s obsahem rozhodnutí. Schválí-li insolvenční soud dohodu podle § 271, odvolání není přípustné. Neschválí-li ji, odvolání přípustné je, ale pouze pro zákonem vymezené osoby.
+
+[2] **Schválení dohody.** Zákaz odvolání proti schválení je úplný; § 272 pro tento výrok nestanoví žádnou osobní výjimku. Nelze jej obejít tím, že odvolatel brojí pouze proti důvodům schvalovacího rozhodnutí. Odvolací nepřípustnost je však třeba odlišit od zvláštní možnosti zrušení rozhodnutí o schválení dohody, pro kterou § 271 odst. 3 odkazuje na obdobné použití úpravy zrušení usnesení o schválení smíru.
+
+[3] **Neschválení dohody.** Proti neschválení se mohou odvolat jen účastníci dohody. Rozhodující je tedy účast na schvalované dohodě, nikoli pouhá účast v insolvenčním řízení nebo členství ve věřitelském výboru. Věřitelský výbor má podle § 271 odst. 2 význam při schvalování dohody, avšak § 272 mu jen z této role odvolací oprávnění nepřiznává.
+
+[4] **Vztah k obecnému odvolacímu režimu.** Obecný § 201 o. s. ř. připouští odvolání proti prvostupňovému rozhodnutí, pokud je zákon nevylučuje. § 272 tuto obecnou úpravu pro rozhodnutí podle § 271 modifikuje: u schválení odvolání vylučuje a u neschválení zužuje okruh oprávněných odvolatelů.
+
+[5] **Dopad na souběžné vypořádací řízení.** Probíhá-li současně řízení o vypořádání společného jmění, podání odvolání proti neschválení dohody aktivuje § 273 odst. 2: soud toto řízení přeruší až do rozhodnutí odvolacího soudu. Tento následek se váže právě na podané odvolání proti neschválení, nikoli na rozhodnutí o schválení, proti němuž odvolání přípustné není.
+
+[6] **Nepatrný konkurs.** Podle § 314 odst. 1 písm. b) není v nepatrném konkursu k účinnosti dohody třeba schválení insolvenčním soudem ani souhlasu věřitelského orgánu. Uplatnění § 272 proto předpokládá, že bylo vydáno rozhodnutí o schválení nebo neschválení podle režimu § 271; nelze mechanicky přenášet odvolací schéma na dohodu, která je podle zvláštní odchylky účinná bez soudního schválení.
+
+[7] **Intertemporalita.** Od 1. 6. 2019 již § 272 neobsahuje někdejší odstavec 1 o zvláštním doručování; zůstal pouze dnešní odvolací režim. U rozhodnutí vydaných před tímto datem je nutné ověřit tehdy účinné znění a přechodná ustanovení. Samotná pravidla přípustnosti odvolání byla převzata z někdejšího odstavce 2.
+
+### Judikatura
+
+Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k přímému výkladu § 272. Nejde o závěr, že relevantní judikatura neexistuje; text proto nepřipisuje soudům žádný neověřený závěr.
+
 ## § 277 — Aktivace správce
 
 > (1) Neprodleně poté, co nabude účinnosti prohlášení konkursu, zajistí insolvenční správce provedení procesních úkonů a dalších činností, které z prohlášení konkursu vyplývají.

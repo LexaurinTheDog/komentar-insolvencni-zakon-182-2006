@@ -430,104 +430,65 @@ Do této revize nebylo zařazeno rozhodnutí, jehož plný text z oficiálního 
 
 ## § 253 — Smlouva o vzájemném plnění — **KLÍČOVÝ PARAGRAF**
 
-> (1) Nebyla-li smlouva o vzájemném plnění včetně smlouvy o smlouvě budoucí v době prohlášení konkursu ještě zcela splněna ani dlužníkem ani druhým účastníkem smlouvy, **insolvenční správce může smlouvu splnit místo dlužníka a žádat splnění od druhého účastníka smlouvy nebo může odmítnout plnění**.
-> (2) Jestliže se insolvenční správce **do 30 dnů od prohlášení konkursu nevyjádří** tak, že smlouvu splní, **platí, že odmítl plnění**; do té doby nemůže druhá strana od smlouvy odstoupit, není-li v ní ujednáno jinak.
-> (3) Je-li druhý účastník smlouvy povinen plnit ze smlouvy jako první, **může své plnění odepřít** až do té doby, kdy bude poskytnuto nebo zabezpečeno plnění vzájemné; to neplatí, jde-li o smlouvu uzavřenou druhým účastníkem po zveřejnění rozhodnutí o úpadku.
-> (4) Odmítne-li insolvenční správce plnění, může druhý účastník smlouvy uplatňovat náhradu tím způsobené škody **přihláškou pohledávky**, a to nejpozději do 30 dnů ode dne odmítnutí plnění. Pohledávky druhého účastníka z pokračování smlouvy po prohlášení konkursu jsou **pohledávkami za majetkovou podstatou**.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Nebyla-li smlouva o vzájemném plnění včetně smlouvy o smlouvě budoucí v době prohlášení konkursu ještě zcela splněna ani dlužníkem ani druhým účastníkem smlouvy, insolvenční správce může smlouvu splnit místo dlužníka a žádat splnění od druhého účastníka smlouvy nebo může odmítnout plnění.
+>
+> (2) Jestliže se insolvenční správce do 30 dnů od prohlášení konkursu nevyjádří tak, že smlouvu splní, platí, že odmítl plnění; do té doby nemůže druhá strana od smlouvy odstoupit, není-li v ní ujednáno jinak.
+>
+> (3) Je-li druhý účastník smlouvy povinen plnit ze smlouvy jako první, může své plnění odepřít až do té doby, kdy bude poskytnuto nebo zabezpečeno plnění vzájemné; to neplatí, jde-li o smlouvu uzavřenou druhým účastníkem po zveřejnění rozhodnutí o úpadku.
+>
+> (4) Odmítne-li insolvenční správce plnění, může druhý účastník smlouvy uplatňovat náhradu tím způsobené škody přihláškou pohledávky, a to nejpozději do 30 dnů ode dne odmítnutí plnění. Pohledávky druhého účastníka z pokračování smlouvy po prohlášení konkursu jsou pohledávkami za majetkovou podstatou.
+>
 > (5) Druhý účastník smlouvy se nemůže domáhat vrácení částečného plnění, k němuž došlo před rozhodnutím o úpadku, proto, že za toto plnění neobdržel od dlužníka vzájemné plnění.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *NS* [29 Cdo 2947/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CCC1F09BF2C25CE6C1257D10004AF1D3?openDocument) — kat. A, 29. 5. 2014
-  > „Pro řešení otázky, zda pojistná smlouva uzavřená na dobu určitou je smlouvou o vzájemném plnění, která v době prohlášení konkursu ještě nebyla zcela splněna ani dlužníkem ani druhým účastníkem smlouvy (§ 235 insolvenčního zákona), je rozhodující, zda k okamžiku prohlášení konkursu na majetek dlužníka nastaly (v návaznosti na uplynutí doby trvání pojistné smlouvy) účinky sjednané „prolongace“ pojistné smlouvy"
+§ 253 se použije jen tehdy, jestliže ke dni prohlášení konkursu nebyla smlouva o vzájemném plnění zcela splněna ani jednou stranou. Správce může plnění převzít, nebo je odmítnout; bez včasného vyjádření nastává po 30 dnech zákonná fikce odmítnutí. Zákon současně chrání druhého účastníka právem odepřít plnění, upravuje přihlášení škody a zvlášť kvalifikuje pohledávky z pokračování smlouvy.
 
-### Výklad — **VOLBA SPRÁVCE: SPLNIT NEBO ODMÍTNOUT**
+### Souvisící ustanovení
 
-#### Pravidlo „cherry-picking" (odst. 1)
+- § 36 odst. 1 — odborná péče správce a společný zájem věřitelů.
+- § 168 a § 203 — režim a uplatnění pohledávek za majetkovou podstatou.
+- § 173 a násl. — obecný přihlašovací režim; zvláštní třicetidenní lhůtu zde stanoví přímo § 253 odst. 4.
+- § 254 — zvláštní režim fixních smluv.
+- § 256 až § 259 — zvláštní režim nájmu, podnájmu a leasingu.
 
-**Správce má dispoziční volbu**:
-- **splnit smlouvu místo dlužníka** (a žádat plnění od druhé strany), **nebo**
-- **odmítnout plnění**.
+### Souvisící předpisy
 
-*Aplikuje se pouze*: smlouvy *o vzájemném plnění*, které **nebyly v době konkursu zcela splněny ani dlužníkem, ani druhou stranou** (oba ještě dluží).
+- zákon č. 89/2012 Sb., občanský zákoník — obecná úprava vzájemných závazků, smlouvy o smlouvě budoucí a jednotlivých smluvních typů; insolvenční účinky však určuje § 253 a jeho zvláštní sousední ustanovení.
 
-> *Logika "cherry-picking"*: správce *vybírá* — výhodné smlouvy splní (typicky tam, kde druhá strana má cenné protiplnění), nevýhodné odmítne (typicky kde dlužník by musel zaplatit víc, než dostane).
+### Z důvodové zprávy
 
-#### Fikce odmítnutí (odst. 2)
+Vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, ve zvláštní části k § 253 uvádí pouze, že ustanovení řeší smlouvy o vzájemném plnění nesplněné ke dni prohlášení konkursu. Jde o stručné historické vysvětlení původního návrhu, nikoli o samostatný zdroj dalších podmínek dnešního znění.
 
-**Mlčení správce 30 dní = odmítnutí**. Tlak na rychlé rozhodování.
+### Literatura
 
-**Suspenze odstoupení druhé strany** — během 30 dnů druhá strana **nemůže odstoupit** od smlouvy (pokud sama neujednala jinak).
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní rešerše.
 
-#### Defenzivní právo druhé strany (odst. 3)
+### Výklad
 
-Pokud má **druhá strana plnit první**, *může odepřít* dokud nebude poskytnuto/zabezpečeno vzájemné plnění. *Exceptio non adimpleti contractus*.
+[1] **Předpoklady použití.** Rozhodný je stav při prohlášení konkursu. Nestačí, že smlouva formálně trvá: podle textu odstavce 1 musí jít o smlouvu o vzájemném plnění a současně nesmí být zcela splněna dlužníkem ani druhým účastníkem. Do rozsahu ustanovení zákon výslovně zahrnuje i smlouvu o smlouvě budoucí.
 
-*Výjimka*: smlouvy *uzavřené* druhou stranou *po zveřejnění úpadku* — *nesmí odepřít* (věděla, do čeho šla).
+[2] **Volba správce.** Jsou-li předpoklady splněny, může správce smlouvu splnit místo dlužníka a požadovat protiplnění, anebo může odmítnout plnění. Při této volbě jej váže obecná povinnost postupovat svědomitě, s odbornou péčí a ve společném zájmu věřitelů (§ 36 odst. 1).
 
-#### Důsledky odmítnutí (odst. 4)
+[3] **Mlčení a odstoupení druhé strany.** Nevyjádří-li se správce do 30 dnů od prohlášení konkursu tak, že smlouvu splní, zákon spojuje s jeho nečinností fikci odmítnutí plnění. Do uplynutí této doby druhá strana nemůže odstoupit, ledaže je ve smlouvě ujednáno jinak. Zákon zde nestanoví obecnou povinnost správce druhou stranu procesně poučovat.
 
-**Náhrada škody** druhé strany = **přihláška pohledávky** (30denní lhůta). Tedy druhá strana se *uspokojí v rozvrhu jako ostatní nezajištění věřitelé* (5—15 %).
+[4] **Plnění jako první.** Druhý účastník, který má plnit první, může své plnění zadržet, dokud nebude vzájemné plnění poskytnuto nebo zabezpečeno. Toto oprávnění nemá, uzavřel-li smlouvu po zveřejnění rozhodnutí o úpadku.
 
-**Pohledávky z pokračování smlouvy** (pokud správce zvolí splnění) — **pohledávky za podstatou** (priorita).
+[5] **Následky odmítnutí a pokračování.** Škodu způsobenou odmítnutím uplatňuje druhý účastník přihláškou nejpozději do 30 dnů ode dne odmítnutí. Naproti tomu pohledávky druhého účastníka z pokračování smlouvy po prohlášení konkursu zákon označuje za pohledávky za majetkovou podstatou. Tyto dvě kategorie nelze zaměňovat.
 
-#### Neexistence vrácení částečného plnění (odst. 5)
+[6] **Částečné plnění před úpadkem.** Samotná skutečnost, že druhý účastník před rozhodnutím o úpadku částečně plnil a nedostal vzájemné plnění, mu podle odstavce 5 nedává právo požadovat vrácení tohoto částečného plnění. Tím nejsou bez dalšího určeny všechny jiné případné nároky; ty je nutné kvalifikovat podle jejich vlastního právního důvodu.
 
-Druhá strana **nemůže žádat zpět** to, co plnila *před úpadkem* za nedoplaceno protiplnění. Vyhne se tím *zhoršení podstaty* o restituci.
+[7] **Poměr ke zvláštním režimům.** Fixní smlouvy, nájem, podnájem a leasing mají v § 254 a § 256 až § 259 vlastní pravidla. Proto nelze například ukončení nájmu bez dalšího popsat jako „odmítnutí“ podle § 253; nejprve je třeba určit konkrétní smluvní typ a použít zvláštní ustanovení.
 
-### Vazby
-
-- **§ 168 odst. 2 písm. g, h)** — pohledávky za podstatou ze smluv.
-- **§ 173** — přihlášky (30denní lhůta).
+[8] **Intertemporalita.** Rozhodnutí vztahující se k dřívějšímu znění § 253 nelze mechanicky převzít k dnešnímu textu. Pro starší skutkové děje je nutné ověřit rozhodné znění a přechodná ustanovení.
 
 ### Judikatura
 
-- **NS 29 ICdo 18/2014**: rozhodnutí správce o splnění/odmítnutí musí být *explicitní*. Mlčení = odmítnutí.
-- **NS 29 NSČR 14/2014**: pokud správce odmítne smlouvu, ale druhá strana *již plnila*, vznikne *náhrada škody* (přihláška) — *ne pohledávka za podstatou*.
-
-### Praktická poznámka
-
-§ 253 je *nejmocnější nástroj správce* po nastoupení do funkce. Typicky:
-- *nevýhodné dlouhodobé nájmy* (vysoké nájemné na podnikání) — *odmítne*,
-- *výhodné dodavatelské smlouvy* — *splní*,
-- *velké stavební projekty* — kalkuluje, zda se vyplatí dokončit (typicky odmítne, pokud by vyžadovaly nové financování).
-
-### F. Kazuistika
-
-**1. Modelová situace.** Dlužník (stavební s.r.o.) uzavřel před konkursem dvě smlouvy o dílo: (A) dodávku ocelové konstrukce subdodavateli, kde dlužník dosud nedodal a objednatel dosud nezaplatil (oboustranně nesplněno; objednatel by zaplatil 3 mil. Kč, dlužníku zbývá náklad 1,5 mil. Kč → výhodné), a (B) dlouhodobý nájem skladu za nadtržní nájemné, kde dlužník je nájemcem a obě strany dosud plní (nevýhodné). Po prohlášení konkursu správce 35 dní mlčí ke smlouvě A; u smlouvy B chce skončit. Druhá strana smlouvy A mezitím chce odstoupit. Důkazy: obě smlouvy, kalkulace nákladů a plnění, doklad o (ne)vyjádření správce a běhu 30denní lhůty.
-
-**2. Právní otázka.** Jak se uplatní právo správce smlouvu o vzájemném plnění splnit nebo odmítnout, jaké jsou účinky uplynutí 30denní lhůty a jaké nároky vznikají druhé straně?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 253 odst. 1 (volba správce: splnit místo dlužníka a žádat plnění, nebo odmítnout — „cherry-picking"; jen u oboustranně nesplněných smluv o vzájemném plnění vč. smlouvy o smlouvě budoucí), odst. 2 (fikce odmítnutí při mlčení 30 dní; suspenze odstoupení druhé strany), odst. 3 (defenzivní právo druhé strany povinné plnit první — exceptio non adimpleti contractus; výjimka u smluv uzavřených po zveřejnění úpadku), odst. 4 (náhrada škody z odmítnutí jako přihláška do 30 dnů; pohledávky z pokračování = za podstatou), odst. 5 (žádné vracení částečného plnění z doby před úpadkem).
-- *Související ustanovení téhož zákona:* § 168 odst. 2 písm. g), h) (pohledávky za podstatou ze smluv), § 173 (přihlášky, 30denní lhůta), § 235 (vztah k pojmu nesplněné smlouvy).
-- *Související předpisy:* OZ — smlouva o dílo, nájem, smlouva o smlouvě budoucí, exceptio non adimpleti contractus.
-- *Judikatura:* místní zdroj NS 29 Cdo 2947/2012 (rozhodující je, zda k okamžiku konkursu nastaly účinky sjednané „prolongace" — tj. zda jde o dosud nesplněnou smlouvu o vzájemném plnění); NS 29 ICdo 18/2014 (rozhodnutí správce musí být explicitní, mlčení = odmítnutí); NS 29 NSČR 14/2014 (při odmítnutí, kde druhá strana již plnila, vzniká náhrada škody jako přihláška, ne pohledávka za podstatou).
-
-**4. Subsumpce.** Smlouva A je oboustranně nesplněná smlouva o vzájemném plnění → spadá pod § 253 odst. 1. Správce ke smlouvě A mlčel 35 dní → § 253 odst. 2: platí, že plnění odmítl (i kdyby byla výhodná); během lhůty nemohla druhá strana odstoupit. Smlouva B (nájem) je rovněž oboustranně plněna → správce může odmítnout (resp. u nájmu vypovědět dle § 256 a násl. jako speciální úpravy). Náhrada škody druhé strany z odmítnutí A → § 253 odst. 4: přihláška do 30 dnů od odmítnutí.
-
-**5. Řešení.** Klíčové je dodržení 30denní lhůty: zmeškáním přišel správce o výhodnou smlouvu A (fikce odmítnutí) — proto je nutné u výhodných smluv aktivně a explicitně zvolit splnění včas. U smlouvy B správce zvolí odmítnutí (resp. výpověď), druhá strana přihlásí náhradu škody. Pokud by správce A splnil, nároky druhé strany z pokračování by byly pohledávkou za podstatou (priorita). Procesní kroky: písemné, prokazatelné vyjádření správce v 30denní lhůtě; poučení druhé strany o nutnosti přihlásit škodu do 30 dnů.
-
-**6. Varianty.** (a) Druhá strana smlouvy A měla plnit první a smlouvu uzavřela až po zveřejnění úpadku — pak nemůže odepřít plnění (§ 253 odst. 3 in fine). (b) Druhá strana již před úpadkem částečně plnila bez protiplnění — nemůže žádat vrácení (§ 253 odst. 5), škodu z odmítnutí přihlásí jako nezajištěnou pohledávku (NS 29 NSČR 14/2014).
-
-### G. Protiargumenty a rizika
-
-- *Protiargument druhé strany:* „Správce mlčel, ale smlouva byla výhodná, takže platí." Neutralizace: § 253 odst. 2 — mlčení 30 dní znamená odmítnutí bez ohledu na výhodnost; explicitní volba splnění je podmínkou (NS 29 ICdo 18/2014).
-- *Protiargument druhé strany:* „Mám nárok na pohledávku za podstatou." Neutralizace: při odmítnutí jde jen o náhradu škody přihláškou (odst. 4, NS 29 NSČR 14/2014); za podstatou jsou jen nároky z pokračování smlouvy, zvolí-li správce splnění.
-- *Protiargument:* „Odstoupím od smlouvy hned po konkursu." Neutralizace: během 30denní lhůty je odstoupení druhé strany suspendováno (odst. 2), ledaže si ujednaly jinak.
-- *Slabé místo:* posouzení, zda je smlouva „oboustranně dosud nesplněná" (NS 29 Cdo 2947/2012 — otázka prolongace/účinků k okamžiku konkursu); a důsledné hlídání obou 30denních lhůt (volba správce × přihláška škody).
-
-### H. Praktický závěr
-
-§ 253 dává správci silné právo „cherry-pickingu": výhodné oboustranně nesplněné smlouvy splní, nevýhodné odmítne. Mlčení 30 dní se považuje za odmítnutí, proto je nutné u výhodných smluv volbu splnění učinit aktivně a včas. Druhá strana se při odmítnutí uspokojuje jen přihláškou náhrady škody (do 30 dnů); plnění z doby před úpadkem se nevrací.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Identifikovat oboustranně dosud nesplněné smlouvy o vzájemném plnění (vč. smluv o smlouvě budoucí).
-- [ ] U výhodných smluv učinit explicitní, prokazatelnou volbu splnění do 30 dnů (jinak fikce odmítnutí).
-- [ ] Druhou stranu poučit o suspenzi odstoupení a o lhůtě 30 dnů k přihlášení náhrady škody.
-- [ ] Rozlišit pohledávky za podstatou (pokračování) od náhrady škody přihláškou (odmítnutí).
-
-**Typicky rozhodné důkazy / podklady:** texty smluv a doklady o dosavadním (ne)plnění, kalkulace výhodnosti, prokazatelné vyjádření správce s datem, přihláška náhrady škody, korespondence o výzvách a lhůtách.
+Do výkladu nebyl v tomto kole převzat žádný judikatorní závěr. Prověřené starší rozhodnutí k automatické prolongaci pojistné smlouvy vycházelo z dřívějšího znění § 253 a neposkytuje podklad pro obecné pravidlo o každé průběžně plněné smlouvě. Tím se nevyslovuje, že k § 253 neexistuje další relevantní judikatura.
 
 ---
 

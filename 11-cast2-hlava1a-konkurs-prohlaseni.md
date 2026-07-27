@@ -1987,52 +1987,59 @@ Do tohoto kola nebylo zařazeno rozhodnutí, jehož plný text by byl z oficiál
 
 ## § 281 — Zpráva o hospodářské situaci
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Na základě seznamu přihlášených pohledávek a soupisu a s využitím i jinak získaných poznatků sestaví insolvenční správce **zprávu o hospodářské situaci dlužníka ke dni prohlášení konkursu**. Ve zprávě zejména porovná majetkovou podstatu se závazky dlužníka a vyjádří se k možnosti dalšího využití dlužníkova podniku.
 > (2) Zprávu o hospodářské situaci dlužníka předloží insolvenční správce insolvenčnímu soudu **nejméně 10 dní přede dnem konání první schůze věřitelů svolané po prohlášení konkursu**. Věřitelé mají právo do této zprávy u insolvenčního soudu nahlížet.
 
+### Přehled výkladu
+
+§ 281 ukládá insolvenčnímu správci sestavit situační zprávu, jejímž časovým řezem je den prohlášení konkursu. Zákon určuje její vstupy, dvě povinná obsahová témata a nejzazší okamžik předložení soudu. Na první schůzi věřitelů svolané po prohlášení konkursu se zpráva podle § 282 odst. 1 projedná; závěry schůze představují doporučení správci pro další postup.
+
+### Souvisící ustanovení
+
+- § 46 až 55 — schůze věřitelů;
+- § 189 — seznam přihlášených pohledávek;
+- § 217 až 227 — soupis majetkové podstaty;
+- § 261 — provoz dlužníkova podniku v konkursu;
+- § 277 — procesní úkony správce po prohlášení konkursu a účetní či evidenční podklad;
+- § 282 — projednání zprávy a doporučení insolvenčnímu správci;
+- § 283 odst. 2 — časové omezení zahájení zpeněžování;
+- § 290 až 292 — zpeněžení podniku, celé majetkové podstaty nebo části podniku jedinou smlouvou.
+
+### Souvisící předpisy
+
+§ 281 neobsahuje zmocnění k prováděcímu předpisu. Povinnost sestavit a předložit zprávu, její minimální obsah i právo věřitelů nahlížet do ní upravuje přímo insolvenční zákon.
+
+### Z důvodové zprávy
+
+Oficiální důvodová zpráva k vládnímu návrhu insolvenčního zákona projednává § 277 až 282 společně. Zprávu o hospodářské situaci označuje za nový požadavek, uvádí, že ji projednává schůze věřitelů, a její žádoucnost spojuje se zpeněžením majetkové podstaty (sněmovní tisk 1120/0, zvláštní část, „K § 277–282“, číslovaná s. 212, PDF s. 213). Jde o historické vysvětlení původního legislativního záměru; aktuální obsah povinnosti plyne z účinného znění zákona.
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Nejde o závěr, že k ustanovení relevantní literatura neexistuje.
+
 ### Výklad
 
-**Zpráva o hospodářské situaci** — *strategický dokument* správce pro schůzi věřitelů. Obsahuje:
-- *bilanci* podstaty vs. závazků,
-- *vyhodnocení podniku* (zda lze dále provozovat, prodat going concern, či ukončit).
+[1] **Povinný subjekt a okamžik zprávy.** Zprávu sestavuje insolvenční správce. Formulace „ke dni prohlášení konkursu“ určuje stav, který má zpráva zachytit; nelze ji zaměnit za den jejího vyhotovení nebo předložení.
 
-Předkládá se *10 dnů před schůzí* — věřitelé mají čas se připravit.
+[2] **Zákonné vstupy.** Výslovnými východisky jsou seznam přihlášených pohledávek a soupis. Správce má současně využít i poznatky získané jinak. Zpráva proto není pouhým opisem těchto dvou dokumentů, avšak zákon v § 281 nepředepisuje uzavřený katalog dalších podkladů.
 
-### F. Kazuistika
+[3] **Obsah.** Slovo „zejména“ vyjadřuje otevřený obsah zprávy. Jejím povinným jádrem je porovnání majetkové podstaty se závazky dlužníka a vyjádření k možnosti dalšího využití dlužníkova podniku. U dlužníka bez podniku je třeba obsah přizpůsobit jeho poměrům; povinnost porovnat podstatu se závazky tím nezaniká.
 
-**1. Modelová situace.** Po prohlášení konkursu na dlužníka (výrobní s.r.o. s 30 zaměstnanci a rozjetou výrobou) má být svolána první schůze věřitelů. Insolvenční správce na základě seznamu přihlášených pohledávek, soupisu a vlastních zjištění sestavuje zprávu o hospodářské situaci ke dni prohlášení konkursu, v níž porovnává podstatu se závazky a vyhodnocuje, zda lze dlužníkův podnik dále provozovat či prodat jako celek. Schůze je nařízena na 30. 9. Důkazy: seznam přihlášených pohledávek, soupis, mezitímní účetní závěrka, podklady k provozu podniku.
+[4] **Předložení soudu.** Adresátem předložení je insolvenční soud. Zpráva mu musí být předložena nejméně deset dní před první schůzí věřitelů, která byla svolána po prohlášení konkursu. Jde o nejzazší okamžik předložení, nikoli o obecnou lhůtu počítanou od prohlášení konkursu.
 
-**2. Právní otázka.** Co musí obsahovat zpráva o hospodářské situaci dlužníka a v jaké lhůtě ji správce předkládá soudu před schůzí věřitelů?
+[5] **Nahlížení věřitelů.** § 281 odst. 2 přiznává věřitelům právo nahlížet do zprávy u insolvenčního soudu. Z tohoto ustanovení samotného nelze bez dalšího dovozovat jiný režim zveřejnění ani konkrétní sankci pro případ opožděného předložení.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 281 odst. 1 (na základě seznamu přihlášených pohledávek, soupisu a dalších poznatků sestaví správce zprávu o hospodářské situaci ke dni prohlášení konkursu; zejména porovná podstatu se závazky a vyjádří se k možnosti dalšího využití podniku), odst. 2 (zprávu předloží soudu **nejméně 10 dní** přede dnem konání první schůze věřitelů po konkursu; věřitelé do ní mohou nahlížet).
-- *Související ustanovení téhož zákona:* § 277 (úkony správce, mezitímní účetní závěrka), § 261 (provoz podniku — pokračování/ukončení), § 290 (prodej podniku jednou smlouvou), § 46 a násl. (schůze věřitelů), § 217 a násl. (soupis), § 189 a násl. (seznam přihlášených pohledávek).
-- *Související předpisy:* zákon o účetnictví (podklady), pravidla pro nahlížení do spisu.
-- *Judikatura:* nosný závěr, že zpráva o hospodářské situaci je strategickým podkladem pro rozhodování věřitelů o dalším osudu podniku a o způsobu vedení konkursu.
+[6] **Projednání na schůzi.** Podle § 282 odst. 1 schůze věřitelů zprávu projedná. Její závěry mají povahu doporučení insolvenčnímu správci pro další postup; zákon je v tomto ustanovení neoznačuje za závazný pokyn. Důvodová zpráva zasazuje zprávu do přípravy zpeněžení, což odpovídá návaznosti na § 283 a případně na § 290 až 292.
 
-**4. Subsumpce.** Správce má dle § 281 odst. 1 povinnost sestavit zprávu ke dni prohlášení konkursu obsahující bilanci podstaty vs. závazků a vyhodnocení využitelnosti podniku (provozovat dále, prodat going concern, či ukončit — vazba na § 261, § 290). Dle odst. 2 ji musí předložit soudu nejméně 10 dní před schůzí (nařízena na 30. 9.), tj. nejpozději 20. 9.; věřitelé do ní mohou nahlížet.
+[7] **Intertemporální výhrada.** Tento výklad vychází ze znění účinného k 19. 7. 2026. U dřívějších konkursů je nutné ověřit znění účinné v rozhodné době a příslušná přechodná ustanovení.
 
-**5. Řešení.** Správce vypracuje zprávu z dostupných podkladů (seznam přihlášek, soupis, mezitímní závěrka) a předloží ji soudu nejpozději 20. 9. Ve zprávě doporučí další postup k podniku (např. dočasné pokračování provozu s cílem prodeje going concern dle § 290, nebo ukončení dle § 261 odst. 2). Věřitelé se s ní seznámí a na schůzi rozhodnou o dalším směřování. Procesní kroky: shromáždění podkladů, sestavení zprávy, včasné předložení soudu, zpřístupnění věřitelům k nahlížení.
+### Judikatura
 
-**6. Varianty.** (a) Schůze je nařízena dříve a 10denní lhůta by nemohla být dodržena — správce musí zajistit předložení zprávy včas, jinak je ohrožena informovanost věřitelů a řádný průběh schůze. (b) Podnik je zjevně neprovozovatelný (trvalá ztráta, regulační překážky) — zpráva to konstatuje a podpoří návrh na ukončení provozu dle § 261 odst. 2.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Zpráva je formalita bez praktického významu." Neutralizace: § 281 — jde o strategický podklad pro rozhodnutí věřitelů o osudu podniku a způsobu vedení konkursu.
-- *Protiargument:* „Stačí předložit zprávu na schůzi." Neutralizace: odst. 2 — musí být předložena soudu nejméně 10 dní předem, aby věřitelé měli čas se seznámit.
-- *Slabé místo:* spolehlivost vstupních dat (neúplné účetnictví dlužníka, nedokončený soupis) ovlivňuje kvalitu bilance a doporučení; chybný odhad využitelnosti podniku může vést k nesprávnému rozhodnutí věřitelů.
-
-### H. Praktický závěr
-
-Zpráva o hospodářské situaci je strategický dokument správce: porovnává majetkovou podstatu se závazky a vyhodnocuje možnost dalšího využití podniku (provoz, prodej going concern, ukončení). Předkládá se soudu nejméně 10 dní před první schůzí věřitelů, do níž mohou věřitelé nahlížet.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Sestavit zprávu ke dni prohlášení konkursu z přihlášek, soupisu a dalších poznatků.
-- [ ] Porovnat podstatu se závazky a vyhodnotit využitelnost podniku (vazba na § 261, § 290).
-- [ ] Předložit zprávu soudu nejméně 10 dní před první schůzí věřitelů.
-- [ ] Zajistit věřitelům možnost do zprávy nahlížet.
-
-**Typicky rozhodné důkazy / podklady:** seznam přihlášených pohledávek, soupis majetkové podstaty, mezitímní účetní závěrka, podklady k provozu a hodnotě podniku, doklad o termínu schůze věřitelů.
+V tomto kole nebylo použito žádné rozhodnutí jako přímá autorita k výkladu § 281. Dřívější neurčitý odkaz na „nosný závěr“ nebyl podložen identifikovaným a plnotextově ověřeným rozhodnutím, a byl proto odstraněn. Tím se nevyslovuje, že k § 281 neexistuje relevantní judikatura.
 
 ---
 

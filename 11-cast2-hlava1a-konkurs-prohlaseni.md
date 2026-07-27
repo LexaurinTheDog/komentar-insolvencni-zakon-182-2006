@@ -719,179 +719,56 @@ V tomto kole nebylo použito rozhodnutí, jehož plný text by byl ověřen jako
 
 ### § 258 — Nepředané věci
 
-> Nebyl-li v době prohlášení konkursu ještě předán předmět nájmu, podnájmu nebo výpůjčky, **může insolvenční správce i druhý účastník smlouvy od smlouvy odstoupit**; učiní-li tak insolvenční správce, může se druhý účastník smlouvy domáhat náhrady škody způsobené předčasným ukončením smlouvy přihláškou pohledávky, a to nejpozději do 30 dnů ode dne odstoupení od smlouvy. Každá ze smluvních stran je povinna druhému účastníku smlouvy **do 10 dnů poté, co k tomu byla vyzvána, sdělit, zda od smlouvy odstupuje**; jestliže tak neučiní, právo odstoupit od smlouvy podle tohoto ustanovení jí zaniká.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-#### F. Kazuistika
+#### Znění ustanovení
 
-**1. Modelová situace.** Dlužník před prohlášením konkursu uzavřel nájemní smlouvu ke skladu (jako nájemce), avšak pronajímatel mu sklad do dne prohlášení konkursu fakticky **nepředal** (klíče ani prostor dlužník nepřevzal). Po prohlášení konkursu správce nemá pro sklad využití. Pronajímatel naopak chce vědět, zda smlouva trvá. Jedna strana proto vyzve druhou ke sdělení, zda od smlouvy odstupuje. Důkazy: nájemní smlouva, doklad (či absence dokladu) o předání předmětu nájmu, výzva ke sdělení a její doručení, datum prohlášení konkursu.
+> Nebyl-li v době prohlášení konkursu ještě předán předmět nájmu, podnájmu nebo výpůjčky, může insolvenční správce i druhý účastník smlouvy od smlouvy odstoupit; učiní-li tak insolvenční správce, může se druhý účastník smlouvy domáhat náhrady škody způsobené předčasným ukončením smlouvy přihláškou pohledávky, a to nejpozději do 30 dnů ode dne odstoupení od smlouvy. Každá ze smluvních stran je povinna druhému účastníku smlouvy do 10 dnů poté, co k tomu byla vyzvána, sdělit, zda od smlouvy odstupuje; jestliže tak neučiní, právo odstoupit od smlouvy podle tohoto ustanovení jí zaniká.
 
-**2. Právní otázka.** Jaký režim platí pro nájemní (podnájemní, výpůjční) smlouvu, jejíž předmět nebyl do prohlášení konkursu předán, a jaké jsou důsledky nečinnosti vyzvané strany?
+#### Přehled výkladu
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 258 — nebyl-li předmět nájmu/podnájmu/výpůjčky do prohlášení konkursu předán, **mohou od smlouvy odstoupit jak insolvenční správce, tak druhý účastník**; odstoupí-li správce, druhý účastník může přihláškou (do 30 dnů od odstoupení) uplatnit náhradu škody z předčasného ukončení; každá strana musí **do 10 dnů od výzvy** sdělit, zda odstupuje, jinak jí právo odstoupit zaniká.
-- *Související ustanovení téhož zákona:* § 256 a § 257 (předané nájmy dlužníka-pronajímatele/nájemce), § 253 (obecná úprava vzájemných smluv), § 173 (přihláška náhrady škody), § 168 (pohledávky za podstatou).
-- *Související předpisy:* OZ — vznik a předání předmětu nájmu/výpůjčky, odstoupení od smlouvy, náhrada škody.
-- *Judikatura:* nosný závěr, že u dosud nesplněných (nepředaných) užívacích smluv zákon upřednostňuje rychlé vyjasnění osudu smlouvy oboustranným právem odstoupit s krátkými prekluzivními lhůtami.
+§ 258 upravuje osud nájemní, podnájemní nebo výpůjční smlouvy, jejíž předmět nebyl předán do prohlášení konkursu. Insolvenční správce i druhý účastník mohou odstoupit. Zákon současně upravuje nárok druhého účastníka při odstoupení správce a dvě krátké lhůty: 30 dnů k přihlášení náhrady škody a 10 dnů k odpovědi vyzvané strany, zda odstupuje.
 
-**4. Subsumpce.** Předmět nájmu nebyl do prohlášení konkursu předán → naplněn znak § 258. Vzniká **oboustranné** právo odstoupit. Výzva druhé strany spouští **10denní** lhůtu, jejímž marným uplynutím právo odstoupit té vyzvané straně **zaniká**. Odstoupí-li správce, druhá strana má nárok na náhradu škody uplatnitelný přihláškou do 30 dnů.
+#### Souvisící ustanovení
 
-**5. Řešení.** Správce, nemá-li pro sklad využití, od smlouvy odstoupí (§ 258); pronajímatel pak může do 30 dnů přihlásit náhradu škody z předčasného ukončení. Pokud naopak odstoupit nechce a obdrží výzvu, musí do 10 dnů sdělit své stanovisko, jinak právo odstoupit ztratí. Procesní kroky: písemné odstoupení, evidence běhu 10denní a 30denní lhůty, posouzení a přezkum přihlášené škody.
+- § 173 a násl. — přihlašování pohledávek,
+- § 245 odst. 1 — účinky prohlášení konkursu,
+- § 253 — nesplněné smlouvy o vzájemném plnění,
+- § 255 — výpůjčka,
+- § 256 a § 257 — nájemní a podnájemní smlouvy,
+- § 259 — přiměřené použití § 256 až 258 na leasingové smlouvy a smlouvy o koupi najaté věci.
 
-**6. Varianty.** (a) Předmět nájmu byl předán ještě před prohlášením konkursu — § 258 se neuplatní, vztah se řídí § 256/257 podle postavení dlužníka. (b) Vyzvaná strana odstoupení ve lhůtě nesdělí — její právo odstoupit dle § 258 prekluduje a smlouva (nedojde-li k odstoupení druhou stranou) trvá.
+#### Souvisící předpisy
 
-#### G. Protiargumenty a rizika
+- zákon č. 89/2012 Sb., občanský zákoník — § 2193 až 2200 (výpůjčka), § 2201 a násl. (nájem) a obecná úprava odstoupení od smlouvy.
 
-- *Protiargument:* „Smlouva trvá, protože nebyla vypovězena." Neutralizace: § 258 zakládá u nepředaných věcí právo **odstoupit** (nikoli vypovědět); jeho využitím smlouva zaniká.
-- *Protiargument druhé strany:* „Mohu odstoupit kdykoli později." Neutralizace: po výzvě platí prekluzivní 10denní lhůta; jejím zmeškáním právo odstoupit zaniká.
-- *Slabé místo:* prokázání, zda k předání došlo či nedošlo (rozhoduje o použitelnosti § 258), a doložení výše škody z předčasného ukončení.
+#### Z důvodové zprávy
 
-#### H. Praktický závěr
+Zvláštní část důvodové zprávy k původnímu vládnímu návrhu insolvenčního zákona pojednává společně o § 255 až 259. K § 257 a § 258 uvádí pouze, že se zabývají možností ukončení popsaných smluv a nároky, které z toho vznikají. Podrobnější výklad podmínek § 258 zpráva nepodává (sněmovní tisk 1120/0, 4. volební období, zvláštní část „K § 255 až 259“, číslovaná s. 201, PDF s. 211).
 
-U nájmu, podnájmu či výpůjčky, jejichž předmět nebyl do prohlášení konkursu předán, dává § 258 oběma stranám právo odstoupit. Klíčové jsou krátké prekluzivní lhůty: 10 dní na sdělení po výzvě (jinak právo odstoupit zaniká) a 30 dní na přihlášení náhrady škody, odstoupí-li správce.
+#### Literatura
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověřit, zda byl předmět nájmu/podnájmu/výpůjčky do prohlášení konkursu předán.
-- [ ] Zvážit odstoupení správce u smluv bez ekonomického přínosu pro podstatu.
-- [ ] Po výzvě dodržet 10denní lhůtu pro sdělení o odstoupení (prekluze).
-- [ ] Odstoupí-li správce, hlídat 30denní lhůtu protistrany pro přihlášku náhrady škody.
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tato poznámka není výsledkem negativní rešerše.
 
-**Typicky rozhodné důkazy / podklady:** nájemní/podnájemní/výpůjční smlouva, doklad o (ne)předání předmětu, výzva a odstoupení s doručenkami, vyčíslení a doklady ke škodě.
+#### Výklad
 
-### Výklad
+[1] **Předpoklady použití.** § 258 se použije, jestliže v okamžiku prohlášení konkursu ještě nebyl předán předmět nájmu, podnájmu nebo výpůjčky. Rozhodným časovým předělem je prohlášení konkursu, nikoli rozhodnutí o úpadku. Zda byl předmět předán, je nutno posoudit podle konkrétní smlouvy a skutkového průběhu jejího plnění.
 
-#### § 256 — Dlužník-pronajímatel
+[2] **Osoby oprávněné odstoupit.** Zvláštní právo odstoupit zákon přiznává insolvenčnímu správci i druhému účastníku smlouvy. Text nerozlišuje podle toho, zda dlužník stojí na straně pronajímatele, nájemce, podnajímatele, podnájemce, půjčitele nebo vypůjčitele; určující je nepředání předmětu a konkursní režim. U leasingových smluv a smluv o koupi najaté věci se § 258 použije přiměřeně prostřednictvím § 259.
 
-**Správce může vypovědět** nájemní smlouvy uzavřené dlužníkem (= dlužník je pronajímatel). I u *smluv na dobu určitou*. **Maximální výpovědní lhůta 3 měsíce**.
+[3] **Náhrada škody po odstoupení správce.** Odstoupí-li insolvenční správce, může druhý účastník požadovat náhradu škody způsobené předčasným ukončením smlouvy. Zákon stanoví, že ji uplatní přihláškou pohledávky nejpozději do 30 dnů ode dne odstoupení. Toto zvláštní pravidlo nelze bez dalšího vztáhnout na případ, kdy odstoupí druhý účastník, protože text je váže výslovně na odstoupení správce.
 
-> *Logika*: dlouhodobé nájmy *snižují prodejní hodnotu* nemovitosti. Správce typicky chce nemovitost prodat *bez zatížení*.
+[4] **Výzva a desetidenní lhůta.** Každá smluvní strana musí druhému účastníku do 10 dnů poté, co byla vyzvána, sdělit, zda od smlouvy odstupuje. Nesdělí-li to včas, zaniká jí právo odstoupit podle § 258. Výzva tedy nevyvolává odstoupení mlčením; její význam spočívá ve spuštění lhůty, po jejímž marném uplynutí zanikne právě zvláštní právo podle komentovaného ustanovení.
 
-**Obrana nájemce** (odst. 2):
-- *do 15 dnů* návrh na zrušení výpovědi,
-- *vyhovění jen* pokud *nepřiměřené dotčení* nebo *značná škoda*,
-- *automatické vyhovění*, pokud nájemce *koupí předmět nájmu* v dražbě za obvyklou cenu.
+[5] **Rozlišení obou lhůt.** Desetidenní lhůta se týká sdělení vyzvané strany, zda odstupuje. Třicetidenní lhůta se týká přihlášky náhrady škody druhého účastníka poté, co odstoupil správce. Jde o rozdílné úkony, rozdílné počátky a rozdílné následky; nelze je směšovat.
 
-**Předplacený nájem** (odst. 3) — pohledávka *jako podmíněná* (přihláška).
+[6] **Vztah k obecné úpravě.** § 258 je zvláštní konkursní pravidlo pro vyjmenované nepředané užívací vztahy. Při posouzení účinků odstoupení, vzniku a výše škody i otázky, co v konkrétním vztahu představovalo předání, je třeba zohlednit smlouvu a použitelnou obecnou soukromoprávní úpravu. Samotný § 258 tyto otázky úplně neupravuje.
 
-##### F. Kazuistika
+[7] **Intertemporalita.** Pro skutkové děje spojené se starším prohlášením konkursu je nutno ověřit tehdy účinné znění insolvenčního zákona a souvisejících soukromoprávních předpisů. Odkazy na občanský zákoník č. 89/2012 Sb. v tomto komentáři odpovídají právnímu stavu k 19. 7. 2026.
 
-**1. Modelová situace.** Dlužník (s.r.o.) je **pronajímatelem** administrativní budovy, kterou pronajal nájemci na dobu určitou do roku 2035 za nájemné fixované hluboko pod tržní úrovní; nájemce do prostor investoval. Po prohlášení konkursu chce správce budovu zpeněžit, avšak dlouhodobý podtržní nájem ji činí prakticky neprodejnou. Správce proto nájem vypoví s tříměsíční výpovědní lhůtou. Nájemce podá insolvenčnímu soudu návrh na zrušení výpovědi a tvrdí, že by utrpěl značnou škodu. Důkazy: nájemní smlouva s dobou určitou a výší nájemného, znalecké srovnání s tržním nájmem, výpověď a její doručení, doklady o investicích nájemce, datum doručení výpovědi (běh 15denní lhůty).
+#### Judikatura
 
-**2. Právní otázka.** Může správce u dlužníka-pronajímatele vypovědět nájem sjednaný na dobu určitou a za jakých podmínek insolvenční soud výpovědi zruší na návrh nájemce?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 256 odst. 1 (správce může vypovědět nájemní/podnájemní smlouvu dlužníka-pronajímatele **i sjednanou na dobu určitou**, výpovědní lhůta **max. 3 měsíce**; zvláštní úprava výpovědi nájmu bytu dle OZ není dotčena), odst. 2 (nájemce může do **15 dnů** od doručení výpovědi navrhnout zrušení výpovědi; je-li nepřiměřeně dotčen nebo by utrpěl značnou škodu — soud zruší; zaváže-li se koupit předmět nájmu při zpeněžení za obvyklou cenu, soud vyhoví **vždy**), odst. 3 (předplacené nájemné jako pohledávka vázaná na odkládací podmínku — přihláška).
-- *Související ustanovení téhož zákona:* § 257 (zrcadlová ochrana dlužníka-nájemce), § 258 (nepředané věci), § 259 (leasing), § 173 (přihláška), § 286 a násl. (zpeněžení).
-- *Související předpisy:* OZ — nájem, výpověď nájmu bytu (zvláštní podmínky), náhrada za zhodnocení.
-- *Judikatura:* nosný závěr, že dlouhodobé nájmy snižují zpeněžitelnost a správce je oprávněn je ve zkrácené lhůtě ukončit i u doby určité, při zachování ochrany kvalifikovaně dotčeného nájemce.
-
-**4. Subsumpce.** Nájem na dobu určitou u dlužníka-pronajímatele → § 256 odst. 1: správce může vypovědět, lhůta max. 3 měsíce. Nájemce, který by utrpěl značnou škodu, podá do 15 dnů návrh na zrušení výpovědi (§ 256 odst. 2); zaváže-li se koupit budovu při zpeněžení za obvyklou cenu, soud vyhoví vždy.
-
-**5. Řešení.** Správce vypoví podtržní nájem s tříměsíční lhůtou, aby zvýšil zpeněžitelnost budovy. Na obranu nájemce (§ 256 odst. 2) reaguje: buď prokáže, že dotčení není „nepřiměřené"/škoda není „značná", nebo akceptuje variantu prodeje budovy nájemci za obvyklou cenu (čímž je návrhu vyhověno tak jako tak, ale podstata získá tržní výtěžek). Předplacené nájemné nájemce přihlásí jako podmíněnou pohledávku. Procesní krok: hlídat 15denní lhůtu nájemce a připravit znalecké podklady k „obvyklé ceně".
-
-**6. Varianty.** (a) Předmětem nájmu je byt — zvláštní podmínky výpovědi nájmu bytu dle OZ zůstávají § 256 nedotčeny a ochrana nájemce je silnější. (b) Nájemce se zaváže koupit předmět nájmu při zpeněžení za obvyklou cenu — insolvenční soud návrhu na zrušení výpovědi vyhoví vždy (§ 256 odst. 2 in fine).
-
-##### G. Protiargumenty a rizika
-
-- *Protiargument nájemce:* „Nájem je na dobu určitou, vypovědět nelze." Neutralizace: § 256 odst. 1 výslovně připouští výpověď i u doby určité (lhůta max. 3 měsíce).
-- *Protiargument:* „Výpověď mě poškozuje, soud ji musí zrušit." Neutralizace: zrušení je podmíněno nepřiměřeným dotčením/značnou škodou; navíc lze nabídnout koupi předmětu za obvyklou cenu, čímž se zájem nájemce uspokojí jinak.
-- *Slabé místo:* hodnotící posouzení „nepřiměřeného dotčení / značné škody" a stanovení „obvyklé ceny" předmětu nájmu (závisí na znaleckém posouzení).
-
-##### H. Praktický závěr
-
-U dlužníka-pronajímatele může správce vypovědět i nájem na dobu určitou se lhůtou nejvýše 3 měsíce, čímž zvyšuje prodejnost nemovitosti. Nájemce se brání návrhem na zrušení výpovědi do 15 dnů; soud vyhoví při nepřiměřeném dotčení nebo značné škodě, a vždy zaváže-li se nájemce koupit předmět nájmu za obvyklou cenu.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Potvrdit, že dlužník je v daném vztahu pronajímatelem (§ 256).
-- [ ] Při výpovědi dodržet lhůtu max. 3 měsíce; u bytu respektovat zvláštní úpravu OZ.
-- [ ] Nájemce: zvážit návrh na zrušení výpovědi do 15 dnů, případně závazek koupě za obvyklou cenu.
-- [ ] Předplacené nájemné přihlásit jako pohledávku vázanou na odkládací podmínku.
-
-**Typicky rozhodné důkazy / podklady:** nájemní smlouva (doba, nájemné), znalecký posudek k tržnímu/obvyklému nájemnému a ceně, výpověď a doručenka, doklady o předplaceném nájmu a investicích nájemce.
-
-#### § 257 — Dlužník-nájemce — **PROTEKTIVNÍ**
-
-Pronajímatel **nemůže vypovědět** pronajatý objekt dlužníkovi-nájemci za:
-- *prodlení s nájmem před úpadkem*,
-- *zhoršení majetkové situace*.
-
-> *Logika*: ochrana dlužníka v krizi před ztrátou nájmu (typicky výrobního prostoru, kde dlužník podniká).
-
-##### F. Kazuistika
-
-**1. Modelová situace.** Dlužník (FO-podnikatel, autoservis) je **nájemcem** dílny, v níž má veškeré vybavení a bez níž nemůže podnikat. V měsících před rozhodnutím o úpadku dvakrát zaplatil nájem opožděně. Krátce po rozhodnutí o úpadku mu pronajímatel doručil výpověď, již opřel o tato předúpadková prodlení a o to, že proti dlužníku „běží insolvence" (zhoršení majetkové situace). Správce chce dílnu zachovat pro provoz podniku (§ 261) a pro výhodnější zpeněžení podniku jako celku. Důkazy: nájemní smlouva, evidence plateb nájmu s daty, výpověď a doručenka, rozhodnutí o úpadku.
-
-**2. Právní otázka.** Je výpověď pronajímatele doručená dlužníku-nájemci po rozhodnutí o úpadku, opřená o předúpadkové prodlení s nájmem a o zhoršení majetkové situace dlužníka, přípustná?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 257 — **protektivní pravidlo** chránící dlužníka-nájemce: druhý účastník nemůže po rozhodnutí o úpadku vypovědět nájemní/podnájemní smlouvu ani od ní odstoupit pro **prodlení s placením vzniklé před rozhodnutím o úpadku** ani pro **zhoršení majetkové situace** dlužníka.
-- *Související ustanovení téhož zákona:* § 256 (zrcadlová situace dlužníka-pronajímatele), § 258 (nepředané věci), § 261 (provoz podniku), § 168 (běžné nájemné po úpadku jako pohledávka za podstatou), § 173 (přihláška předúpadkového dluhu).
-- *Související předpisy:* OZ — výpovědní důvody nájmu, odstoupení pro prodlení.
-- *Judikatura:* nosný závěr, že insolvenční ochrana vylučuje ukončení pro dlužníka klíčové smlouvy jen z důvodu jeho úpadku či předúpadkového prodlení (neúčinnost tzv. ipso facto klauzulí v tomto rozsahu).
-
-**4. Subsumpce.** Výpověď stojí na dvou důvodech: předúpadkové prodlení s nájmem a zhoršení majetkové situace dlužníka. Oba důvody § 257 výslovně zakazuje → výpověď je vůči dlužníku-nájemci neúčinná a nájem dílny trvá.
-
-**5. Řešení.** Správce sdělí pronajímateli neplatnost/neúčinnost výpovědi dle § 257 a trvá na pokračování nájmu; dlužné předúpadkové nájemné pronajímatel přihlásí, běžné nájemné po rozhodnutí o úpadku je pohledávkou za podstatou (§ 168) a správce je řádně hradí, aby pronajímateli nevznikl přípustný (poúpadkový) výpovědní důvod. Procesní krok: případně určovací incidenční spor o trvání nájmu.
-
-**6. Varianty.** (a) Dlužník přestane platit běžné nájemné až **po** rozhodnutí o úpadku — takové prodlení § 257 nechrání a výpověď z něj může být přípustná. (b) Pronajímatel vypoví nájem z důvodu nesouvisejícího s úpadkem ani s placením (např. svévolná přestavba prostor nájemcem) — § 257 takovou výpověď nebrání.
-
-##### G. Protiargumenty a rizika
-
-- *Protiargument pronajímatele:* „Dlužník opakovaně platil pozdě, mám právo vypovědět." Neutralizace: § 257 toto právo pro **předúpadkové** prodlení po rozhodnutí o úpadku odnímá.
-- *Protiargument:* „Smlouva umožňuje odstoupení při insolvenci nájemce." Neutralizace: § 257 zakazuje ukončení pro „zhoršení majetkové situace"; insolvenční (ipso facto) klauzule jsou potud neúčinné.
-- *Slabé místo:* správce musí zajistit hrazení běžného (poúpadkového) nájemného, jinak vznikne pronajímateli přípustný výpovědní důvod; sporné může být časové zařazení prodlení.
-
-##### H. Praktický závěr
-
-§ 257 brání pronajímateli ukončit dlužníku-nájemci nájem pro předúpadkové prodlení s nájmem nebo pro zhoršení jeho majetkové situace. Dlužníku tak zůstává zachován provozně klíčový prostor; správce musí dbát na řádnou úhradu běžného nájemného po úpadku.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověřit, že dlužník je v daném vztahu nájemcem/podnájemcem.
-- [ ] Zjistit, zda prodlení vzniklo před, nebo po rozhodnutí o úpadku.
-- [ ] Namítnout neúčinnost výpovědi opřené o zakázaný důvod (předúpadkové prodlení, zhoršení situace).
-- [ ] Zajistit hrazení běžného nájemného jako pohledávky za podstatou; předúpadkový dluh do přihlášky.
-
-**Typicky rozhodné důkazy / podklady:** nájemní smlouva, evidence plateb nájemného s daty, výpověď/odstoupení a doručenka, rozhodnutí o úpadku, doklady o úhradě poúpadkového nájemného.
-
-#### § 258 — Nepředané věci
-
-**Otevřená oboustranná možnost odstoupit** od smluv, kde nedošlo k předání věci. **10denní lhůta** od výzvy — *kdo nevyjádří, ztratí právo*.
-
-### F. Kazuistika
-
-**1. Modelová situace.** Dlužník A (s.r.o.) je **pronajímatelem** výrobní haly nájemci N na dobu určitou do roku 2032 za nízké, dlouhodobě fixované nájemné; N do haly investoval a má v ní jádro výroby. Dlužník B (jiný dlužník, FO-podnikatel) je naopak **nájemcem** provozovny, přičemž před úpadkem se dostal do prodlení s nájemným; pronajímatel mu po zahájení IŘ dal výpověď pro toto prodlení a pro zhoršení majetkové situace. U dlužníka A navíc byla uzavřena nájemní smlouva ke skladu, který dosud nebyl nájemci předán. Důkazy: nájemní smlouvy, doklad o předplaceném nájemném, výpovědi a jejich doručení, doklad o předání/nepředání předmětu nájmu.
-
-**2. Právní otázka.** Za jakých podmínek může správce u dlužníka-pronajímatele vypovědět nájem na dobu určitou, jak je chráněn dlužník-nájemce a jak se naloží s dosud nepředaným předmětem nájmu?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 256 (výpovědní právo správce u dlužníka-pronajímatele i u smluv na dobu určitou, výpovědní lhůta max. 3 měsíce; obrana nájemce návrhem na zrušení výpovědi do 15 dnů; předplacený nájem jako podmíněná pohledávka), § 257 (ochrana dlužníka-nájemce — zákaz výpovědi/odstoupení pronajímatele pro prodlení před úpadkem či pro zhoršení majetkové situace), § 258 (nepředané věci — oboustranné právo odstoupit; 10denní lhůta od výzvy; náhrada škody přihláškou do 30 dnů).
-- *Související ustanovení téhož zákona:* § 253 (obecná úprava vzájemných smluv — § 256–258 jsou speciální), § 259 (přiměřené užití na leasing), § 173 (přihláška), § 168 (pohledávky za podstatou).
-- *Související předpisy:* OZ — nájem a podnájem, výpověď nájmu bytu (jejíž zvláštní podmínky § 256 nedotýká), odstoupení od smlouvy.
-- *Judikatura:* nosný závěr, že dlouhodobý nájem snižuje zpeněžitelnost nemovitosti a správce má právo jej i u smluv na dobu určitou ukončit ve zkrácené lhůtě, při zachování zvláštní ochrany nájemce bytu a nájemce-dlužníka.
-
-**4. Subsumpce.** U dlužníka A (pronajímatel) jde o nájem na dobu určitou → § 256 odst. 1: správce může vypovědět s lhůtou max. 3 měsíce. Nájemce N, který by byl výpovědí nepřiměřeně dotčen / utrpěl značnou škodu, může do 15 dnů navrhnout zrušení výpovědi (§ 256 odst. 2); zaváže-li se koupit halu při zpeněžení za obvyklou cenu, soud návrhu vyhoví vždy. U dlužníka B (nájemce) výpověď pronajímatele pro prodlení před úpadkem a pro zhoršení majetkové situace je dle § 257 nepřípustná. U nepředaného skladu se uplatní § 258 — obě strany mohou odstoupit, výzva spouští 10denní lhůtu.
-
-**5. Řešení.** Správce u dlužníka A vypoví nevýhodné dlouhodobé nájmy s tříměsíční lhůtou, aby zvýšil zpeněžitelnost haly; připraví se na možný návrh nájemce dle odst. 2 a na variantu prodeje nájemci za obvyklou cenu. Předplacené nájemné nájemce uplatní jako podmíněnou pohledávku přihláškou. U dlužníka B správce namítne neúčinnost/neplatnost výpovědi pronajímatele dle § 257, aby zachoval provozovnu. U nepředaného skladu správce zváží odstoupení (§ 258) a dodrží 10denní lhůty; při odstoupení správcem může protistrana přihlásit škodu do 30 dnů.
-
-**6. Varianty.** (a) U dlužníka A jde o nájem bytu — zvláštní podmínky výpovědi nájmu bytu dle OZ zůstávají § 256 nedotčeny, ochrana nájemce je silnější. (b) Dlužník-nájemce (B) by byl v prodlení vzniklém až po rozhodnutí o úpadku — ochrana § 257 (vztažená k prodlení před úpadkem) by se nemusela uplatnit a výpověď by mohla být přípustná.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument nájemce N:* „Nájem je na dobu určitou, vypovědět nelze." Neutralizace: § 256 odst. 1 výslovně umožňuje výpověď i u smluv na dobu určitou (lhůta max. 3 měsíce).
-- *Protiargument pronajímatele u dlužníka B:* „Dlužník neplatil, mám právo vypovědět." Neutralizace: § 257 zakazuje výpověď pro prodlení vzniklé před úpadkem a pro zhoršení majetkové situace.
-- *Protiargument:* „Nepředaného nájmu se nezbavím." Neutralizace: § 258 dává oběma stranám právo odstoupit; mlčení po výzvě (10 dní) právo odstoupit ztrácí.
-- *Slabé místo:* posouzení „nepřiměřeného dotčení / značné škody" nájemce (§ 256 odst. 2) je hodnotící; u předplaceného nájmu hrozí chybné zařazení pohledávky (musí být jako podmíněná).
-
-### H. Praktický závěr
-
-U nájmů rozlišujeme tři režimy: dlužník-pronajímatel (správce může i dobu určitou vypovědět s lhůtou max. 3 měsíce, nájemce se brání do 15 dnů), dlužník-nájemce (chráněn před výpovědí pro předúpadkové prodlení a zhoršení situace) a nepředané věci (oboustranné odstoupení s 10denní lhůtou od výzvy).
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Určit, zda je dlužník pronajímatelem (§ 256) či nájemcem (§ 257), popř. jde-li o nepředanou věc (§ 258).
-- [ ] U výpovědi správce dodržet lhůtu max. 3 měsíce; u nájmu bytu respektovat zvláštní úpravu OZ.
-- [ ] Nájemce: zvážit návrh na zrušení výpovědi do 15 dnů, případně koupi předmětu nájmu za obvyklou cenu.
-- [ ] Předplacené nájemné přihlásit jako podmíněnou pohledávku; u nepředané věci hlídat 10denní a 30denní lhůty.
-
-**Typicky rozhodné důkazy / podklady:** nájemní/podnájemní smlouvy, doklady o platbách a předplaceném nájmu, výpovědi a doručenky, doklad o předání/nepředání předmětu nájmu, znalecký posudek k obvyklé ceně (u koupě nájemcem).
+V tomto kole nebylo použito rozhodnutí, jehož plný text by byl ověřen jako přímo nosný k výkladu § 258. Tím se nevyslovuje, že relevantní judikatura neexistuje; nedoložený obecný „nosný závěr“ ze stávajícího textu byl odstraněn.
 
 ---
 

@@ -368,72 +368,63 @@ Do tohoto kola nebylo zařazeno rozhodnutí jako nosný pramen výkladu § 250. 
 
 ## § 252 — Zánik jednostranných úkonů
 
-> (1) Prohlášením konkursu **zanikají všechny jednostranné právní úkony dlužníka**, které se týkají majetkové podstaty, zejména jeho **příkazy, pověření a plné moci včetně prokury**, není-li dále stanoveno jinak.
-> (2) Osoba, které dlužník udělil příkaz, pověření nebo plnou moc, musí v případě, že je nebezpečí z prodlení, **pokračovat v obstarávání jeho záležitostí**, kterých se tyto jeho úkony týkají, a to až do doby, než se jejich obstarávání ujme insolvenční správce. Náhrada nutných výdajů této osoby a přiměřená odměna za tuto její činnost je pohledávkou za majetkovou podstatou.
-> (3) Prohlášení konkursu **není samo o sobě důvodem zániku pověření a plných mocí udělených dlužníkem pro insolvenční řízení**. Pohledávky pověřené osoby nebo zmocněnce vzniklé z tohoto důvodu po prohlášení konkursu nelze uspokojit z majetkové podstaty, pokud nejde o pohledávky pracovněprávní.
-> (4) Prohlášením konkursu zanikají, pokud se týkají majetkové podstaty, **dosud nepřijaté dlužníkovy návrhy na uzavření smlouvy** a **dlužníkovo přijetí návrhů smluv**, pokud na jejich základě již smlouva nevznikla. Návrhy smluv, které dlužník v době prohlášení konkursu ještě nepřijal, **může přijmout jen insolvenční správce**.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Prohlášením konkursu zanikají všechny jednostranné právní úkony dlužníka, které se týkají majetkové podstaty, zejména jeho příkazy, pověření a plné moci včetně prokury, není-li dále stanoveno jinak.
+>
+> (2) Osoba, které dlužník udělil příkaz, pověření nebo plnou moc, musí v případě, že je nebezpečí z prodlení, pokračovat v obstarávání jeho záležitostí, kterých se tyto jeho úkony týkají, a to až do doby, než se jejich obstarávání ujme insolvenční správce. Náhrada nutných výdajů této osoby a přiměřená odměna za tuto její činnost je pohledávkou za majetkovou podstatou.
+>
+> (3) Prohlášení konkursu není samo o sobě důvodem zániku pověření a plných mocí udělených dlužníkem pro insolvenční řízení. Pohledávky pověřené osoby nebo zmocněnce vzniklé z tohoto důvodu po prohlášení konkursu nelze uspokojit z majetkové podstaty, pokud nejde o pohledávky pracovněprávní.
+>
+> (4) Prohlášením konkursu zanikají, pokud se týkají majetkové podstaty, dosud nepřijaté dlužníkovy návrhy na uzavření smlouvy a dlužníkovo přijetí návrhů smluv, pokud na jejich základě již smlouva nevznikla. Návrhy smluv, které dlužník v době prohlášení konkursu ještě nepřijal, může přijmout jen insolvenční správce.
+
+### Přehled výkladu
+
+§ 252 odnímá prohlášením konkursu účinky vymezeným jednostranným právním úkonům dlužníka, týkají-li se majetkové podstaty. Vedle obecného pravidla upravuje dočasnou povinnost pokračovat při nebezpečí z prodlení, zvláštní zachování pověření a plných mocí pro insolvenční řízení a osud dosud neuzavřených smluvních návrhů a přijetí. Rozsah každého následku je nutné určit podle přesných podmínek příslušného odstavce; nelze jej rozšířit na každý vztah dlužníka nebo na již vzniklou smlouvu.
+
+### Souvisící ustanovení
+
+- § 168 — pohledávky za majetkovou podstatou; § 252 odst. 2 výslovně takto označuje náhradu nutných výdajů a přiměřenou odměnu za pokračování v obstarávání.
+- § 229 odst. 3 písm. c), § 245 odst. 1 a § 246 — dispoziční oprávnění správce, okamžik účinků prohlášení konkursu a přechod oprávnění nakládat s majetkovou podstatou.
+- § 253 — režim smlouvy o vzájemném plnění, která již vznikla a nebyla v době prohlášení konkursu zcela splněna.
+- § 264 až 267 — účinky konkursu na probíhající řízení; trvání procesní plné moci podle § 252 odst. 3 samo neurčuje, zda a jak řízení pokračuje.
+
+### Souvisící předpisy
+
+- zákon č. 89/2012 Sb., občanský zákoník — obecná úprava zastoupení, plné moci, prokury, příkazu a uzavírání smluv; § 252 stanoví zvláštní insolvenční následky prohlášení konkursu.
+- zákon č. 304/2013 Sb., o veřejných rejstřících právnických a fyzických osob — zápis prokury a změn zapisovaných skutečností; zápis ani výmaz nenahrazuje posouzení zániku podle § 252 odst. 1.
+
+### Z důvodové zprávy
+
+Oficiální důvodová zpráva k vládnímu návrhu insolvenčního zákona uvádí, že ustanovení podrobněji než tehdejší úprava upravuje na obdobných principech zánik jednostranných právních úkonů dlužníka a dosud nepřijatých dlužníkových návrhů smluv. Jde o stručné historické vysvětlení původního návrhu, nikoli o samostatný doklad dnešního znění (sněmovní tisk 1120/0, zvláštní část, K § 252, číslovaná s. 210, PDF s. 211).
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Toto sdělení není výsledkem negativní rešerše.
 
 ### Výklad
 
-#### Zánik jednostranných úkonů (odst. 1)
+[1] **Okamžik a věcný rozsah.** Následek nastává prohlášením konkursu, jehož účinky se podle § 245 odst. 1 pojí s okamžikem zveřejnění rozhodnutí v insolvenčním rejstříku. Odstavec 1 dopadá jen na jednostranné právní úkony dlužníka, které se týkají majetkové podstaty. Příkazy, pověření, plné moci a prokura jsou demonstrativním výčtem; rozhodující je povaha úkonu a jeho vztah k podstatě.
 
-**Plné moci, prokura, pověření, příkazy** — *zanikají*. To zahrnuje:
-- *prokuru* (zápis do OR ohledně prokuristy se vymaže),
-- *plné moci pro vyřizování běžných záležitostí* (typicky pro účetní, advokáty bezprostředně k dlužníkovi),
-- *generální plné moci*.
+[2] **Zánik ze zákona a evidence.** Jsou-li splněny podmínky odstavce 1, zánik není podmíněn výmazem prokury z veřejného rejstříku ani zvláštním odvoláním plné moci. Z toho však bez dalšího neplyne řešení všech následků jednání bývalého zástupce vůči konkrétní třetí osobě; ty je nutné posoudit podle skutkového stavu a použitelné obecné úpravy zastoupení.
 
-> *Praxe*: účetní firma dlužníka, právní zástupce, prokuristé — *všichni* ztrácejí oprávnění jednat za dlužníka v souvislosti s podstatou. Mohou si však *udržet vztah ke správci* (typicky účetní pokračuje na základě smlouvy se správcem).
+[3] **Nebezpečí z prodlení.** Odstavec 2 neudržuje původní zmocnění obecně v platnosti. Ukládá osobě, které dlužník udělil příkaz, pověření nebo plnou moc, omezenou povinnost pokračovat v obstarávání dotčené záležitosti, jen hrozí-li nebezpečí z prodlení a jen do převzetí insolvenčním správcem. Zákon označuje náhradu nutných výdajů a přiměřenou odměnu za tuto činnost za pohledávku za majetkovou podstatou.
 
-#### Pokračování při nebezpečí z prodlení (odst. 2)
+[4] **Insolvenční řízení.** Prohlášení konkursu samo o sobě nezpůsobuje zánik pověření ani plné moci udělených dlužníkem pro insolvenční řízení. Výjimka se určuje účelem zmocnění, nikoli profesí zmocněnce. Pohledávky pověřené osoby nebo zmocněnce vzniklé z tohoto důvodu po prohlášení konkursu nelze uspokojit z majetkové podstaty, ledaže jde o pohledávky pracovněprávní.
 
-*Bývalí zmocněnci* musí *pokračovat* v urgentních záležitostech, dokud se neujme správce. Jejich pohledávky = *pohledávka za podstatou*.
+[5] **Dvě skupiny neuzavřených smluvních jednání.** Odstavec 4 postihuje, týkají-li se podstaty, jednak dosud nepřijaté návrhy na uzavření smlouvy učiněné dlužníkem, jednak dlužníkova přijetí cizích návrhů, jestliže na jejich základě smlouva ještě nevznikla. Zákonným následkem je zánik těchto právních jednání, nikoli jejich „neplatnost“. Vždy je proto nejprve nutné zjistit, zda smlouva podle rozhodného práva nevznikla již před účinky konkursu.
 
-#### Plné moci pro IR (odst. 3)
+[6] **Návrh dosud nepřijatý dlužníkem.** Návrh smlouvy, který dlužník do prohlášení konkursu nepřijal, může poté přijmout jen insolvenční správce. Tato věta se týká přijetí existujícího návrhu adresovaného dlužníkovi; neopravňuje dlužníka, aby po přechodu dispozičních oprávnění sám nakládal s majetkovou podstatou.
 
-*Plné moci dlužníka pro IR* (typicky advokát zastupující dlužníka v IR) **nezanikají**. Avšak pohledávky takto pověřených *nelze* uspokojit z podstaty (s výjimkou pracovněprávních).
+[7] **Hranice vůči § 253.** Vznikla-li smlouva již před prohlášením konkursu, § 252 odst. 4 její zánik nestanoví. Jde-li o smlouvu o vzájemném plnění, která nebyla zcela splněna ani jednou stranou, její další osud se posuzuje zejména podle § 253. Rozlišení mezi předsmluvním právním jednáním a již vzniklou smlouvou je proto materiální.
 
-#### Nepřijaté návrhy smluv (odst. 4)
+[8] **Intertemporalita.** Tento výklad vychází ze znění účinného k 19. 7. 2026. Pro účinky spojené se starším prohlášením konkursu, starším právním jednáním nebo dříve zahájeným řízením je nutné ověřit tehdejší znění insolvenčního zákona, obecné soukromé právo a použitelná přechodná ustanovení.
 
-*Otevřené nabídky* a *nepřijaté akceptace* dlužníka **zanikají**. Po konkursu může *jen správce* přijmout nabídku.
+### Judikatura
 
-> *Smluvní partneři* musí počítat — nabídky pro dlužníka jsou *neplatné* po prohlášení konkursu (pokud nepřišlo k jejich přijetí dříve).
-
-### F. Kazuistika
-
-**1. Modelová situace.** Dlužník (výrobní s.r.o.) udělil prokuru paní P, generální plnou moc účetní firmě Ú a advokátní kanceláři AK plnou moc k zastupování v insolvenčním řízení. Dlužník rovněž zaslal odběrateli závaznou nabídku na dodávku zboží (dosud nepřijatou) a sám přijal nabídku jiného dodavatele, ale smlouva ještě nevznikla (chyběla forma). Den po prohlášení konkursu prokuristka P podepsala za dlužníka platbu dodavateli a hrozí zmeškání lhůty u nedokončeného úředního podání. Důkazy: výpis z OR o prokuře, plné moci, nabídka a akceptace, doklady o úkonech po konkursu.
-
-**2. Právní otázka.** Které z udělených zmocnění (prokura, generální plná moc, plná moc pro IŘ) a které otevřené nabídky/akceptace zanikají prohlášením konkursu, a co platí při nebezpečí z prodlení?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 252 odst. 1 (zánik jednostranných úkonů dlužníka k podstatě — příkazy, pověření, plné moci vč. prokury), odst. 2 (povinnost pokračovat při nebezpečí z prodlení do převzetí správcem; náhrada = pohledávka za podstatou), odst. 3 (plné moci pro IŘ nezanikají, ale pohledávky z nich nelze uspokojit z podstaty, vyjma pracovněprávních), odst. 4 (zánik nepřijatých nabídek a akceptací; nabídku po konkursu může přijmout jen správce).
-- *Související ustanovení téhož zákona:* § 246 odst. 1 (přechod správy na správce), § 168 (pohledávky za podstatou).
-- *Související předpisy:* OZ — zastoupení, plná moc, zánik příkazu; § 450 a násl. OZ (prokura); pravidla o nabídce a přijetí (§ 1731 a násl. OZ).
-- *Judikatura:* nosný závěr, že prohlášením konkursu zanikají dispoziční zmocnění dlužníka k podstatě, zatímco zmocnění pro samotné insolvenční řízení trvá.
-
-**4. Subsumpce.** Prokura paní P a generální plná moc účetní firmě Ú se týkají podstaty → § 252 odst. 1: zanikají (prokura se vymaže z OR). Plná moc AK pro IŘ → § 252 odst. 3: nezaniká, avšak odměna AK se z podstaty neuhradí (není pracovněprávní). Platba podepsaná P den po konkursu je úkon zaniklého zmocněnce — ledaže šlo o nebezpečí z prodlení dle odst. 2. Nepřijatá nabídka dlužníka a jím dosud nedokončená akceptace → § 252 odst. 4: zanikají; nabídku může napříště přijmout jen správce.
-
-**5. Řešení.** Správce zajistí výmaz prokury, převezme agendu od Ú a urgentní úkony (odst. 2) musí bývalí zmocněnci dělat jen do převzetí správcem — jejich účelně vynaložené výdaje jsou pohledávkou za podstatou. AK může dál zastupovat dlužníka v IŘ, ale o odměně se uspokojí mimo podstatu. Odběratel, jemuž dlužník poslal nabídku, ji již nemůže akceptovat se závazným účinkem; smlouvu lze uzavřít jen se správcem. Procesní kroky: oznámení zániku zmocnění protistranám, převzetí naléhavých záležitostí.
-
-**6. Varianty.** (a) Zmocnění se týkalo výlučně osobní sféry dlužníka mimo podstatu (např. plná moc k zastupování v rozvodu) — nezaniká dle § 252 odst. 1, neboť se netýká majetkové podstaty. (b) Nabídka dlužníka byla protistranou přijata ještě před zveřejněním konkursu, takže smlouva vznikla — nespadá pod odst. 4, řeší se případně režimem § 253.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument prokuristky:* „Mé oprávnění z prokury trvá, dokud nebude vymazáno z OR." Neutralizace: § 252 odst. 1 — prokura zaniká prohlášením konkursu ze zákona; výmaz z OR je jen deklaratorní.
-- *Protiargument advokáta:* „Mám nárok na odměnu z podstaty za zastupování v IŘ." Neutralizace: odst. 3 — plná moc pro IŘ sice trvá, ale pohledávky z ní (vyjma pracovněprávních) nelze z podstaty uspokojit.
-- *Protiargument odběratele:* „Akceptoval jsem nabídku dlužníka, smlouva platí." Neutralizace: odst. 4 — nepřijaté nabídky dlužníka zanikají; po konkursu může přijmout jen správce.
-- *Slabé místo:* hranice mezi zmocněním „k podstatě" (zaniká) a k osobní sféře (trvá); a posouzení, zda šlo o „nebezpečí z prodlení" odůvodňující pokračování dle odst. 2.
-
-### H. Praktický závěr
-
-Prohlášením konkursu zanikají dispoziční zmocnění dlužníka k podstatě (plné moci, prokura, příkazy) i jeho dosud nepřijaté nabídky a akceptace; přijmout nabídku napříště smí jen správce. Zmocnění pro samotné insolvenční řízení trvá, jeho odměna se však z podstaty nehradí (vyjma pracovněprávních pohledávek).
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Identifikovat všechna zmocnění dlužníka a roztřídit je na „k podstatě" (zanikají) a pro IŘ (trvají).
-- [ ] Zajistit výmaz prokury a oznámit zánik plných mocí protistranám.
-- [ ] U naléhavých záležitostí (nebezpečí z prodlení) zajistit pokračování do převzetí správcem; výdaje vést jako pohledávku za podstatou.
-- [ ] Otevřené nabídky/akceptace dlužníka považovat za zaniklé; nové smlouvy uzavírat jen se správcem.
-
-**Typicky rozhodné důkazy / podklady:** výpis z OR (prokura), texty plných mocí a pověření, nabídky a akceptace s datací, doklady o naléhavých úkonech po konkursu a o vynaložených výdajích.
+Do této revize nebylo zařazeno rozhodnutí, jehož plný text z oficiálního webu by byl ověřen jako přímo nosný pro samostatný výklad § 252 ve skutkovém, procesním a časovém kontextu. Dřívější obecná zmínka bez identifikace rozhodnutí byla odstraněna. Tím se nevyslovuje, že relevantní judikatura neexistuje.
 
 ---
 

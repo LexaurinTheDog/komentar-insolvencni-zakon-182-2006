@@ -207,75 +207,73 @@ V tomto kole nebylo použito žádné rozhodnutí jako nosný pramen výkladu §
 
 ## § 285 — Zánik účinků zajištění
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Zpeněžením majetkové podstaty zanikají v rozsahu, v němž se týkají zpeněženého majetku,
-> a) **účinky nařízení výkonu rozhodnutí nebo exekuce**, účinky doručení vyrozumění o zahájení exekuce a účinky vydaných exekučních příkazů,
-> b) **ostatní závady váznoucí** na zpeněžovaném majetku, včetně neuplatněných předkupních práv podle § 284 odst. 3 a 4 a včetně závad zapsaných ve veřejném seznamu, není-li dále stanoveno jinak.
-> (2) Byla-li zpeněžena nemovitost, kterou dlužník používá k bydlení své rodiny, anebo byt ve vlastnictví dlužníka, je dlužník povinen je **vyklidit**. Neučiní-li tak dobrovolně, může se nabyvatel domáhat vyklizení žalobou u soudu; nejde o incidenční spor.
-> (3) Při vyklizení podle odstavce 2 přísluší dlužníku stejná **bytová náhrada** jako při výpovědi nájmu bytu dané nájemci pro hrubé porušení povinností vyplývajících z nájmu bytu.
-> (4) Nestanoví-li zvláštní právní předpis jinak, zpeněžením majetkové podstaty v rozsahu, v němž se týkají zpeněženého majetku, **nezanikají služebnosti a reálná břemena**, s výjimkou těch, které jsou v insolvenčním řízení neúčinné.
+>
+> a) účinky nařízení výkonu rozhodnutí nebo exekuce, účinky doručení vyrozumění o zahájení exekuce a účinky vydaných exekučních příkazů,
+>
+> b) ostatní závady váznoucí na zpeněžovaném majetku, včetně neuplatněných předkupních práv podle § 284 odst. 3 a 4 a včetně závad zapsaných ve veřejném seznamu, není-li dále stanoveno jinak.
+>
+> (2) Byla-li zpeněžena nemovitost, kterou dlužník používá k bydlení své rodiny, anebo byt ve vlastnictví dlužníka, je dlužník povinen je vyklidit. Neučiní-li tak dobrovolně, může se nabyvatel domáhat vyklizení žalobou u soudu; nejde o incidenční spor.
+>
+> (3) Při vyklizení podle odstavce 2 přísluší dlužníku stejná bytová náhrada jako při výpovědi nájmu bytu dané nájemci pro hrubé porušení povinností vyplývajících z nájmu bytu.
+>
+> (4) Nestanoví-li zvláštní právní předpis jinak, zpeněžením majetkové podstaty v rozsahu, v němž se týkají zpeněženého majetku, nezanikají služebnosti a reálná břemena, s výjimkou těch, které jsou v insolvenčním řízení neúčinné.
 
-### Výklad — **„CLEAN TITLE" PRO KUPCE**
+### Přehled výkladu
 
-**Zaniká** zpeněžením:
-- *exekuční účinky* (nařízení, vyrozumění, exekuční příkazy),
-- *zástavní práva* (zákonné i smluvní),
-- *zákazy zcizení a zatížení*,
-- *předkupní práva neuplatněná*,
-- *jiné závady zapsané v rejstříku* (typicky soudcovské zástavní právo, zákazy z předběžných opatření).
+§ 285 určuje účinky zpeněžení na exekuční opatření a další závady, chrání zásadně trvání služebností a reálných břemen a upravuje vyklizení dlužníkova rodinného bydlení nebo jeho bytu. Nejde o univerzální pravidlo, podle něhož by zpeněžením zaniklo každé právo či právní vztah spojený s majetkem.
 
-**Nezaniká** (odst. 4):
-- *služebnosti* (typicky věcné břemeno chůze, jízdy, čerpání vody),
-- *reálná břemena*,
-- **kromě těch, které jsou neúčinné** (§ 248 odst. 3 — vzniklé za nápadně nevýhodných podmínek po zahájení IR).
+### Souvisící ustanovení
 
-#### Vyklizení nemovitosti dlužníkem (odst. 2)
+- § 167 odst. 4 a 5 — zánik zajištění pohledávky zajištěného věřitele a potvrzení správce.
+- § 235 až § 243 a § 248 odst. 2 a 3 — neúčinnost právních jednání a úkonů po prohlášení konkursu.
+- § 256 — zvláštní oprávnění správce vypovědět nájemní nebo podnájemní smlouvu.
+- § 283 odst. 5 — nepřechod závazků váznoucích na věci, není-li stanoveno jinak.
+- § 284 odst. 3 a 4 — práva, jejichž neuplatněním nastává následek podle § 285 odst. 1 písm. b).
+- § 300 — potvrzení správce o zániku věcných práv.
 
-Pokud dlužník v nemovitosti **bydlí** (typicky FO-úpadce s rodinou v hypotéčně zatíženém domě):
-- *povinnost vyklidit*,
-- *vykonatelnost vyklizení žalobou* (ne IS, ale obecná civilní žaloba),
-- *právo na bytovou náhradu* (analogicky § 712 OZ — typicky náhradní byt nebo přístřeší).
+### Souvisící předpisy
 
-### Vazby
+- zákon č. 89/2012 Sb., občanský zákoník — nájem bytu, služebnosti a reálná břemena.
+- zákon č. 99/1963 Sb., občanský soudní řád — řízení a výkon rozhodnutí o vyklizení.
+- zákon č. 120/2001 Sb., exekuční řád — exekuce a exekuční příkazy.
+- zákon č. 256/2013 Sb., katastrální zákon — zápisy práv do katastru nemovitostí.
 
-- **§ 167 odst. 4** — zánik zajištění zpeněžením.
-- **OZ § 712** — bytová náhrada.
+### Z důvodové zprávy
 
-### F. Kazuistika
+Původní důvodová zpráva spojovala odstavec 1 s odstraněním účinků výkonů rozhodnutí a exekucí a neúčinných věcných břemen. Odstavce 2 a 3 měly omezit nejistotu nabyvatele při zpeněžení dlužníkova bydlení; podrobnosti tehdy vysvětlovala pomocí již zrušeného občanského zákoníku č. 40/1964 Sb. Důvodová zpráva k zákonu č. 294/2013 Sb. označila nové znění odstavce 1 písm. b) a odstavce 4 za zpřesnění účinků zpeněžení vůči právním závadám obecně.
 
-**1. Modelová situace.** Insolvenční správce zpeněžil rodinný dům dlužníka (FO) prodejem mimo dražbu. Dům je zatížen hypotékou banky, exekučním příkazem k prodeji nemovitosti (vedeným pro jiného věřitele) a věcným břemenem doživotního užívání ve prospěch matky dlužníka, zapsaným v katastru desítky let. V domě bydlí dlužník s manželkou a dvěma dětmi a po prodeji odmítá dům vyklidit. Nabyvatel se domáhá nastěhování. Důkazy: výpis z katastru (hypotéka, exekuční příkaz, věcné břemeno), kupní smlouva, doklady o bydlení rodiny v domě.
+### Literatura
 
-**2. Právní otázka.** Které závady na domě zaniknou zpeněžením a které nikoli (zejména věcné břemeno užívání), a jak se nabyvatel domůže vyklizení dlužníka, který v domě bydlí?
+Odborná literatura nebyla v tomto kole hodnocena; její zpracování je odloženo do druhého kola.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 285 IZ — zánik exekučních účinků a ostatních závad zpeněžením (odst. 1), s výjimkou služebností a reálných břemen, které *nezanikají* (odst. 4); povinnost dlužníka vyklidit obytnou nemovitost (odst. 2) a právo na bytovou náhradu (odst. 3).
-- *Související ustanovení téhož zákona:* § 283 odst. 5 (nepřechod závazků na věci); § 284 odst. 3 a 4 (neuplatněná předkupní práva — ta zanikají dle odst. 1 písm. b)); § 167 odst. 4 (zánik zajištění); § 248 odst. 3 a § 235 (neúčinné závady — výjimka z odst. 4).
-- *Související předpisy:* § 712 a násl. OZ (bytová náhrada — odkaz odst. 3); § 1257 a násl. OZ (služebnosti); předpisy o výkonu rozhodnutí vyklizením.
-- *Judikatura:* nosný závěr, že spor o vyklizení dle odst. 2 *není* incidenčním sporem a vede se jako běžná civilní žaloba nabyvatele.
+### Výklad
 
-**4. Subsumpce.** Hypotéka (zástavní právo) a exekuční účinky (exekuční příkaz) — závady, které *zanikají* zpeněžením (odst. 1 písm. a, b); banka i exekučně vymáhající věřitel se uspokojí z výtěžku. Věcné břemeno doživotního užívání matky je *služebnost* — dle odst. 4 *nezaniká*, ledaže by bylo v insolvenci neúčinné (zde vzniklé dávno, nikoli za nevýhodných podmínek po zahájení IR — neúčinnost se neuplatní). Dlužník v domě „bydlí" — naplněn znak odst. 2, vzniká povinnost vyklidit a nárok na bytovou náhradu (odst. 3).
+[1] **Rozhodný okamžik a rozsah.** Následky podle odstavce 1 nastávají zpeněžením a jen v rozsahu, v němž se účinek nebo závada týká zpeněženého majetku. U konkrétního způsobu zpeněžení je proto nejprve nutné určit, kdy zpeněžení nastalo.
 
-**5. Řešení.** Nabyvatel získá dům prostý hypotéky a exekučních účinků, ale *zatížený* věcným břemenem užívání matky (to trvá). Dlužníka, který dobrovolně nevyklidí, vyklidí nabyvatel běžnou civilní žalobou (nikoli incidenčním sporem), přičemž dlužníku přísluší bytová náhrada jako při výpovědi pro hrubé porušení povinností (zpravidla přístřeší). Procesně: správce vydá nabyvateli potvrzení o zániku zaniklých věcných práv (§ 300) jako podklad pro výmaz z katastru; věcné břemeno matky se nevymaže. Riziko: nesprávné „vymazání" trvající služebnosti by poškodilo oprávněnou.
+[2] **Exekuční účinky.** Písmeno a) obsahuje uzavřený výčet účinků nařízení výkonu rozhodnutí nebo exekuce, doručení vyrozumění o zahájení exekuce a vydaných exekučních příkazů. Zánik zajištění pohledávky plyne samostatně z § 167 odst. 4; nelze zaměňovat zánik práva s technickým odstraněním jeho zápisu.
 
-**6. Varianty.** (a) Věcné břemeno bylo zřízeno bezúplatně ve prospěch osoby blízké až po zahájení insolvenčního řízení za nápadně nevýhodných podmínek — pak je neúčinné a dle výjimky v odst. 4 zpeněžením *zaniká*. (b) Dům dlužník neobývá (je pronajat nebo prázdný) — povinnost vyklidit dle odst. 2 a nárok na bytovou náhradu nevzniká; nabyvatel řeší jen případný nájemní vztah.
+[3] **Ostatní závady.** Písmeno b) výslovně zahrnuje neuplatněná práva podle § 284 odst. 3 a 4 i závady zapsané ve veřejném seznamu. Pojem „ostatní závady“ však nelze číst izolovaně: zákon sám stanoví výjimky a povaha každého práva musí být právně kvalifikována. Samotný zápis ve veřejném seznamu ještě neurčuje, zda konkrétní závada zaniká.
 
-### G. Protiargumenty a rizika
+[4] **Služebnosti a reálná břemena.** Odstavec 4 obrací výchozí pravidlo pro tyto dvě skupiny věcných práv: zásadně nezanikají. Výjimkou jsou služebnosti a reálná břemena, která jsou v insolvenčním řízení neúčinná, nebo případ, kdy zvláštní předpis stanoví jinak. Neúčinnost nelze dovodit jen ze stáří práva, vztahu osob nebo data zahájení řízení; musí mít konkrétní zákonný základ a splněné skutkové předpoklady.
 
-- *Protiargument:* „Zpeněžením zaniká úplně vše, tedy i věcné břemeno užívání." Neutralizace: odst. 4 výslovně vylučuje služebnosti a reálná břemena ze zániku (vyjma neúčinných) — nabyvatel je přebírá.
-- *Protiargument:* „Vyklizení dlužníka řeší insolvenční správce v incidenčním sporu." Neutralizace: odst. 2 stanoví, že se vyklizení domáhá *nabyvatel* žalobou a výslovně, že *nejde o incidenční spor* — věc projedná obecný soud.
-- *Slabá místa:* posouzení neúčinnosti závady (výjimka odst. 4) je skutkově náročné; rozsah „bytové náhrady" (přístřeší vs. náhradní byt) je sporný a závisí na poměrech rodiny.
+[5] **Nájem bytu.** Nájem bytu není služebností ani reálným břemenem. Nejvyšší soud však výkladem § 283 odst. 5 ve spojení s § 256 uzavřel, že nevyužije-li správce možnosti nájem bytu vypovědět, zpeněžením nemovitosti nájem nezanikne a práva a povinnosti přejdou na nabyvatele. Tento závěr platí i tehdy, když správce o nájmu nevěděl. Nelze jej bez dalšího rozšířit na každý nájem, pacht nebo jiný obligační vztah.
 
-### H. Praktický závěr
+[6] **Vyklizení dlužníka.** Odstavec 2 dopadá na nemovitost, kterou dlužník používá k bydlení své rodiny, a na byt ve vlastnictví dlužníka. Nesplní-li dlužník povinnost dobrovolně, aktivně legitimován k žalobě je nabyvatel a zákon výslovně vylučuje povahu incidenčního sporu.
 
-§ 285 zajišťuje nabyvateli zásadně „clean title": zanikají exekuční účinky, zástavní práva, zákazy a neuplatněná předkupní práva. Nezanikají však služebnosti a reálná břemena (vyjma neúčinných). Obytnou nemovitost musí dlužník vyklidit (s nárokem na bytovou náhradu); vyklizení vymáhá nabyvatel běžnou žalobou.
+[7] **Bytová náhrada.** Odstavec 3 zachovává dlužníku zákonem formulované právo na stejnou bytovou náhradu jako při výpovědi nájmu bytu pro hrubé porušení nájemcových povinností. Původní důvodová zpráva tento standard vztahovala ke kategoriím zákona č. 40/1964 Sb.; po rekodifikaci proto nelze mechanicky přebírat její tehdejší závěr o „přístřeší“ ani bez dalšího odkazovat na zrušený § 712. Konkrétní obsah a případné intertemporální dopady musí soud posoudit podle rozhodné právní úpravy.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Které závady na věci jsou zástavní/exekuční (zaniknou) a které jsou služebnosti/reálná břemena (zůstávají)?
-- [ ] Není trvající služebnost výjimečně neúčinná (vznik za nevýhodných podmínek po zahájení IR)?
-- [ ] Jde o nemovitost užívanou dlužníkem k bydlení (povinnost vyklidit + bytová náhrada)?
-- [ ] Vydal správce nabyvateli potvrzení o zániku zaniklých věcných práv pro výmaz z katastru?
-- [ ] Vede se vyklizení jako běžná žaloba nabyvatele (nikoli incidenční spor)?
+[8] **Potvrzení a veřejný seznam.** § 167 odst. 5 a § 300 upravují potvrzení insolvenčního správce pro nabyvatele. Rozsah potvrzení musí odpovídat skutečně zaniklým právům; § 285 neposkytuje podklad k výmazu práva, které podle odstavce 4 nebo jiné použitelné úpravy trvá.
 
-**Typicky rozhodné důkazy / podklady:** výpis z katastru s přehledem všech závad; kupní smlouva o zpeněžení; doklady o obývání nemovitosti dlužníkem; titul a okolnosti vzniku služebnosti (pro test neúčinnosti); potvrzení správce o zániku věcných práv; podklady k rozsahu bytové náhrady.
+[9] **Intertemporalita.** Zákon č. 294/2013 Sb. s účinností od 1. 1. 2014 nově formuloval odstavec 1 písm. b) a odstavec 4. Nové znění se použije i v dříve zahájených insolvenčních řízeních, avšak právní účinky úkonů nastalé před účinností novely zůstaly zachovány. U staršího zpeněžení je proto nutné určit rozhodný okamžik a tehdy účinné znění.
+
+### Judikatura
+
+- **Nejvyšší soud, rozsudek ze dne 25. 3. 2025, sp. zn. 26 Cdo 1138/2024, ECLI:CZ:NS:2025:26.CDO.1138.2024.1, R 7/2026.** Po prodeji nemovitosti z majetkové podstaty se nabyvatelka domáhala po uživatelce bytu bezdůvodného obohacení; sporné bylo, zda dřívější nájem zanikl zpeněžením. Nejvyšší soud v bodech 12 až 24 vyložil § 283 odst. 5, § 285 odst. 1 a 4 a § 256 tak, že nevypovězený nájem bytu zpeněžením nezaniká a přechází na nabyvatele, a to bez ohledu na vědomost správce. Rozhodnutí pracuje se zněním účinným od 1. 1. 2014, které v relevantní části trvá i k rozhodnému dni tohoto komentáře.
 
 ---
 

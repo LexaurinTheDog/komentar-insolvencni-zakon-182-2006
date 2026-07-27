@@ -1510,6 +1510,63 @@ Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k př�
 
 # Díl 4 — Procesní úkony navazující na prohlášení konkursu (§ 277 — § 281)
 
+## § 271 — Schválení dohody o vypořádání SJM
+
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Dohoda o vypořádání společného jmění manželů uzavřená insolvenčním správcem je účinná, jakmile ji schválí insolvenční soud.
+>
+> (2) Insolvenční soud dohodu o vypořádání společného jmění manželů neschválí, je-li v rozporu s právními předpisy nebo jestliže s ní nesouhlasí věřitelský výbor.
+>
+> (3) Insolvenčním soudem schválená dohoda o vypořádání společného jmění manželů má účinky pravomocného rozsudku. Pro zrušení rozhodnutí o schválení dohody platí obdobně ustanovení [[občanského soudního řádu|občanského soudního řádu]] o zrušení usnesení o schválení smíru.
+>
+
+### Přehled výkladu
+
+- Schválení insolvenčním soudem je zákonnou podmínkou účinnosti dohody uzavřené insolvenčním správcem.
+- Soud dohodu neschválí, odporuje-li právním předpisům nebo nesouhlasí-li s ní věřitelský výbor.
+- Schválená dohoda má účinky pravomocného rozsudku; její následné zrušení se řídí obdobným použitím pravidel občanského soudního řádu o zrušení usnesení o schválení smíru.
+
+### Souvisící ustanovení
+
+- § 270 — oprávnění insolvenčního správce dohodu uzavřít a neplatnost dohody uzavřené dlužníkem po prohlášení konkursu.
+- § 272 — nepřípustnost odvolání proti schválení a omezený okruh osob oprávněných odvolat se proti neschválení dohody.
+- § 273 — procesní postavení insolvenčního správce v již probíhajícím řízení o vypořádání SJM.
+
+### Souvisící předpisy
+
+- Zákon č. 99/1963 Sb., občanský soudní řád, zejména § 99 odst. 3 — účinky schváleného smíru, jeho zrušení pro hmotněprávní neplatnost a lhůta k podání návrhu; § 271 odst. 3 na tuto úpravu odkazuje obdobně.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, odůvodňuje § 268 až § 276 společně. Uvádí, že úprava vlivu konkursu na SJM navazuje na dřívější koncepci, avšak tuto oblast zpřesňuje a doplňuje a důsledněji ji přizpůsobuje úpravě společného jmění manželů. Jde o skupinový legislativní záměr, nikoli o samostatný výklad jednotlivých podmínek § 271.
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní rešerše.
+
+### Výklad
+
+[1] **Uzavření a účinnost dohody.** § 271 odst. 1 upravuje dohodu, kterou v rámci oprávnění přešlého podle § 270 odst. 1 uzavřel insolvenční správce. Samotným uzavřením dohoda ještě nenabývá účinnosti; účinnou se stává až schválením insolvenčním soudem.
+
+[2] **Přezkum insolvenčním soudem.** Odstavec 2 stanoví dvě překážky schválení: rozpor dohody s právními předpisy a nesouhlas věřitelského výboru. Je-li dána kterákoli z nich, soud dohodu neschválí. Z textu nelze vytvářet další samostatný důvod neschválení bez opory v použitelném právu.
+
+[3] **Postavení věřitelského výboru.** Nesouhlas věřitelského výboru není pouhým doporučením soudu; zákon jej výslovně spojuje s povinností dohodu neschválit. U konkrétní věci je proto nutné odlišit obsah dohody, její soulad s právními předpisy a stanovisko věřitelského výboru.
+
+[4] **Účinky schválení.** Schválená dohoda má podle odstavce 3 účinky pravomocného rozsudku. Toto pravidlo vymezuje autoritativní účinek vypořádání; neznamená však, že rozhodnutí o schválení nelze postupem, na který odkazuje druhá věta odstavce 3, zrušit.
+
+[5] **Zrušení rozhodnutí o schválení.** § 271 odst. 3 nepřebírá pravidla občanského soudního řádu doslovně, ale přikazuje jejich obdobné použití. Aktuální § 99 odst. 3 o. s. ř. spojuje zrušení usnesení o schválení smíru s hmotněprávní neplatností smíru, rozhodnutím rozsudkem a tříletou lhůtou od právní moci schvalovacího usnesení. Při použití na schválenou dohodu je třeba respektovat zvláštní povahu insolvenční úpravy a ověřit rozhodné časové znění.
+
+[6] **Opravné prostředky.** Samotný § 271 neupravuje odvolání. Zvláštní pravidla obsahuje § 272: proti schválení dohody odvolání přípustné není, zatímco proti jejímu neschválení se mohou odvolat jen účastníci dohody. Odvolací režim a následné zrušení již schváleného rozhodnutí proto nelze zaměňovat.
+
+[7] **Intertemporalita.** Pro starší dohody, schvalovací rozhodnutí a návrhy na jejich zrušení je nutné ověřit znění insolvenčního zákona i občanského soudního řádu účinné v rozhodné době a použitelná přechodná ustanovení. Historická důvodová zpráva ani aktuální tříletá lhůta samy neprokazují režim starších případů.
+
+### Judikatura
+
+Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k přímému výkladu § 271. Nejde o závěr, že relevantní judikatura neexistuje; text proto nepřipisuje soudům žádný neověřený závěr.
+
 ## § 277 — Aktivace správce
 
 > (1) Neprodleně poté, co nabude účinnosti prohlášení konkursu, zajistí insolvenční správce provedení procesních úkonů a dalších činností, které z prohlášení konkursu vyplývají.

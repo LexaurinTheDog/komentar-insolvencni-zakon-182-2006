@@ -279,60 +279,70 @@ Odborná literatura nebyla v tomto kole hodnocena; její zpracování je odlože
 
 ## § 286 — Způsoby zpeněžení
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
 > (1) Majetkovou podstatu lze zpeněžit
-> a) **veřejnou dražbou** podle zvláštního právního předpisu,
-> b) **prodejem movitých věci a nemovitostí podle ustanovení občanského soudního řádu** o výkonu rozhodnutí,
-> c) **prodejem majetku mimo dražbu**,
-> d) **v dražbě provedené soudním exekutorem**.
-> (2) O způsobu zpeněžení majetkové podstaty podle odstavce 1 rozhodne **se souhlasem věřitelského výboru insolvenční správce**.
+>
+> a) veřejnou dražbou podle zvláštního právního předpisu,
+>
+> b) prodejem movitých věci a nemovitostí podle ustanovení občanského soudního řádu o výkonu rozhodnutí,
+>
+> c) prodejem majetku mimo dražbu,
+>
+> d) v dražbě provedené soudním exekutorem podle zvláštního právního předpisu.
+>
+> (2) O způsobu zpeněžení majetkové podstaty podle odstavce 1 rozhodne se souhlasem věřitelského výboru insolvenční správce.
 
-### Výklad — **ČTYŘI ZPŮSOBY**
+### Přehled výkladu
 
-| Způsob | Předpis | Typické použití |
-|---|---|---|
-| **Veřejná dražba** | zákon č. 26/2000 Sb. | Nemovitosti, drahé movité věci s konkurencí kupců |
-| **Soudní prodej** (OSŘ § 322 a násl.) | OSŘ | Méně časté; soud řídí, nákladnější |
-| **Prodej mimo dražbu** | § 289 IZ | Nejflexibilnější; přímý prodej kupci |
-| **Dražba exekutorem** | EŘ | Specializovaní exekutoři, alternativa k dražebníkovi |
+Ustanovení uzavírá volbu správce do čtyř zákonných způsobů zpeněžení. Odlišuje rozhodnutí o způsobu podle odstavce 2 od dalších podmínek, které pro jeho provedení stanoví § 287 až 289a. Zvláštní režim platí při zpeněžení předmětu zajištění podle pokynu zajištěného věřitele.
 
-**Volba způsobu**: rozhoduje *správce se souhlasem věřitelského výboru*.
+### Souvisící ustanovení
 
-### F. Kazuistika
+- § 36 odst. 1 — odborná péče insolvenčního správce,
+- § 287 — provedení veřejné dražby,
+- § 288 — prodej podle ustanovení občanského soudního řádu o výkonu rozhodnutí,
+- § 289 — prodej mimo dražbu,
+- § 289a — dražba provedená soudním exekutorem,
+- § 293 odst. 1 a 2 — pokyny zajištěného věřitele a podmíněné použití § 286 odst. 2.
 
-**1. Modelová situace.** Majetková podstata dlužníka obsahuje atraktivní administrativní budovu, flotilu 15 starších dodávek a soubor opotřebovaných výrobních strojů s nízkým tržním zájmem. Insolvenční správce zvažuje, jakým způsobem každé aktivum zpeněžit; věřitelský výbor preferuje co nejvyšší výtěžek a rychlost. U budovy je více vážných zájemců, u strojů žádný. Důkazy: znalecké posudky na jednotlivé soubory, průzkum trhu/poptávky, nabídky dražebníků a exekutorů, stanovisko věřitelského výboru.
+### Souvisící předpisy
 
-**2. Právní otázka.** Který ze čtyř zákonných způsobů zpeněžení správce zvolí pro jednotlivá aktiva a kdo o volbě rozhoduje?
+- zákon č. 250/2023 Sb., o veřejných dražbách,
+- zákon č. 99/1963 Sb., občanský soudní řád, část šestá,
+- zákon č. 120/2001 Sb., exekuční řád, zejména § 74 odst. 3 a § 76 odst. 2.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 286 IZ — čtyři způsoby zpeněžení (veřejná dražba, soudní prodej dle OSŘ, prodej mimo dražbu, dražba exekutorem; odst. 1) a rozhodnutí správce *se souhlasem věřitelského výboru* (odst. 2).
-- *Související ustanovení téhož zákona:* § 287 (veřejná dražba), § 288 (soudní prodej), § 289 (prodej mimo dražbu), § 289a (dražba exekutorem) — provedení jednotlivých způsobů; § 293 (pokyny zajištěného věřitele, které mohou volbu způsobu nahradit).
-- *Související předpisy:* zák. č. 26/2000 Sb., o veřejných dražbách; § 322 a násl. OSŘ (výkon rozhodnutí prodejem věcí); exekuční řád (dražba exekutorem).
-- *Judikatura:* nosný závěr, že volba způsobu zpeněžení je úkonem správní povahy v rámci jeho působnosti, podmíněným souhlasem věřitelského orgánu, a má sledovat co nejvyšší a nejhospodárnější uspokojení věřitelů.
+### Z důvodové zprávy
 
-**4. Subsumpce.** Budova s více zájemci — naplňuje typický případ veřejné dražby (písm. a) nebo prodeje mimo dražbu (písm. c) s konkurencí kupců; dodávky — vhodné pro dražbu nebo prodej mimo dražbu; stroje bez zájmu — typicky prodej mimo dražbu (§ 289), kde lze prodat i pod odhadní cenu. U každého aktiva platí podmínka odst. 2: rozhoduje správce *se souhlasem výboru*.
+Původní důvodová zpráva ke sněmovnímu tisku 1120/0, zvláštní část „K § 286 až 289“ (číslovaná strana 213), vysvětluje posílení vlivu věřitelů tím, že správce volí způsob zpeněžení se souhlasem věřitelského výboru. Původní osnova znala pouze způsoby dnešního odstavce 1 písm. a) až c); dražba soudním exekutorem byla doplněna až zákonem č. 64/2017 Sb. s účinností od 1. 7. 2017.
 
-**5. Řešení.** Správce navrhne: budovu do veřejné dražby (maximalizace konkurence) nebo, je-li jeden silný kupec, prodej mimo dražbu; dodávky do dražby (exekutorem či dražebníkem); stroje prodejem mimo dražbu, případně pod odhadní cenou. Pro každý způsob si vyžádá souhlas věřitelského výboru (odst. 2). Procesně poté postupuje dle příslušného ustanovení (§ 287–289a). Riziko: volba bez souhlasu výboru je vadná; nevhodná volba (nákladný soudní prodej u likvidního aktiva) snižuje výtěžek a může zakládat odpovědnost správce.
+### Literatura
 
-**6. Varianty.** (a) Jde-li o zástavu a zajištěný věřitel udělí pokyn ke zpeněžení (§ 293), je správce vázán jeho pokynem a souhlas výboru dle § 286 odst. 2 se neuplatní. (b) Veřejná dražba budovy je neúspěšná (nikdo nepřihodí) — správce změní způsob na prodej mimo dražbu (opět se souhlasem výboru).
+Odborná literatura nebyla v tomto kole rešeršována ani hodnocena; její zpracování je odloženo do druhého kola.
 
-### G. Protiargumenty a rizika
+### Výklad
 
-- *Protiargument:* „Správce volí způsob zpeněžení zcela sám." Neutralizace: odst. 2 podmiňuje volbu *souhlasem věřitelského výboru* — bez něj je rozhodnutí o způsobu vadné (nejde-li o pokyn zajištěného dle § 293).
-- *Protiargument:* „Všechna aktiva je nejlepší dražit." Neutralizace: zákon nabízí čtyři způsoby právě proto, že u různých aktiv vede k nejvyššímu výtěžku jiný způsob (stroje bez zájmu se v dražbě neprodají; vhodnější je prodej mimo dražbu i pod odhadní cenu).
-- *Slabá místa:* kritérium „nejvýhodnějšího" způsobu je úsudkové; rozhodnutí výboru může být ovlivněno zájmem konkrétního věřitele, ne nutně optimem pro podstatu.
+[1] **Uzavřený výčet.** Majetek zapsaný do majetkové podstaty lze zpeněžit pouze některým ze způsobů uvedených v odstavci 1. Volba způsobu sama o sobě nenahrazuje zvláštní postup a souhlasy podle § 287 až 289a.
 
-### H. Praktický závěr
+[2] **Veřejná dražba.** Písmeno a) navazuje na § 287. K rozhodnému dni je zvláštním předpisem zákon č. 250/2023 Sb., účinný od 1. 1. 2025; dřívější zákon č. 26/2000 Sb. byl k tomuto dni zrušen. U starší dražby je proto nutné určit rozhodné znění a zohlednit přechodná ustanovení.
 
-§ 286 nabízí čtyři způsoby zpeněžení (veřejná dražba, soudní prodej dle OSŘ, prodej mimo dražbu, dražba exekutorem); o volbě rozhoduje insolvenční správce se souhlasem věřitelského výboru a volí podle povahy aktiva tak, aby maximalizoval výtěžek a hospodárnost.
+[3] **Prodej podle občanského soudního řádu.** Písmeno b) je rozvedeno v § 288. Návrh podává insolvenční správce okresnímu soudu a zákon stanoví podklady, které musí být k návrhu přiloženy. Tento způsob nelze směšovat s dražbou soudního exekutora podle písmene d).
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Je pro každé aktivum zvolen způsob odpovídající jeho povaze a poptávce (dražba vs. prodej mimo dražbu vs. soudní prodej)?
-- [ ] Byl udělen souhlas věřitelského výboru s konkrétním způsobem (odst. 2)?
-- [ ] Nejde o zástavu, kde volbu nahrazuje pokyn zajištěného věřitele dle § 293?
-- [ ] Je volba doložitelně odůvodněna sledováním nejvyššího/nejhospodárnějšího výtěžku?
-- [ ] Navazuje na volbu správný procesní postup dle § 287–289a?
+[4] **Prodej mimo dražbu.** Písmeno c) navazuje na § 289. Vedle souhlasu s volbou způsobu podle § 286 odst. 2 je třeba samostatně posoudit podmínky účinnosti smlouvy a výjimky podle § 289 odst. 1. Ze samotného § 286 nelze dovozovat konkrétní cenu ani pořadí, v němž mají být souhlasy a uzavření smlouvy opatřeny.
 
-**Typicky rozhodné důkazy / podklady:** znalecké posudky a průzkum poptávky k jednotlivým aktivům; nabídky dražebníků/exekutorů; souhlas věřitelského výboru s volbou způsobu; případný pokyn zajištěného věřitele; doklady o nákladech jednotlivých způsobů zpeněžení.
+[5] **Dražba soudním exekutorem.** Písmeno d) a § 289a jsou účinné od 1. 7. 2017. Dražbu provádí soudní exekutor jako jinou činnost podle § 76 odst. 2 exekučního řádu na návrh insolvenčního správce; nejde o exekuci vedenou proti dlužníku. Pro jednání uskutečněná do 30. 6. 2017 tento způsob zákonný výčet neobsahoval.
+
+[6] **Rozhodnutí správce a souhlas výboru.** Podle odstavce 2 rozhoduje o způsobu insolvenční správce, avšak se souhlasem věřitelského výboru. Je třeba rozlišit tento souhlas s volbou způsobu od schválení smlouvy podle § 287 odst. 2 nebo § 289a odst. 2 a od souhlasů podle § 289 odst. 1.
+
+[7] **Předmět zajištění.** Ustanovení § 293 odst. 2 stanoví, že § 286 odst. 2 se použije jen tehdy, není-li zde pokynu zajištěného věřitele. Není proto přesné tvrdit bez dalšího, že souhlas věřitelského výboru je nezbytný při každém zpeněžení; nejprve je nutné zjistit, zda jde o předmět zajištění a zda byl udělen použitelný pokyn podle § 293.
+
+[8] **Intertemporalita.** Pro volbu zákonného způsobu je rozhodný okamžik zpeněžovacího jednání. Zákon č. 64/2017 Sb. rozšířil výčet od 1. 7. 2017; u veřejných dražeb je navíc od 1. 1. 2025 nutné pracovat s novým zákonem o veřejných dražbách.
+
+### Judikatura
+
+V tomto kole není do komentáře zařazeno žádné rozhodnutí. Plný text rozhodnutí Nejvyššího soudu sp. zn. 29 Cdo 2652/2020 byl při rešerši prověřen, avšak bez možnosti uložit jeho fyzický snapshot do centrálního adresáře pramenů nebyl použit jako publikační autorita.
 
 ---
 

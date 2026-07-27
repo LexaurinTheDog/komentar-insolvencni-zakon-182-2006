@@ -487,103 +487,65 @@ V tomto kole nebyl do výkladu převzat žádný judikatorní závěr. Tím se n
 
 ## § 239 — Odpůrčí žaloba — **PROCESNÍ ÚSTŘEDNÍ PARAGRAF**
 
-> (1) Odporovat právním úkonům dlužníka může v insolvenčním řízení **pouze insolvenční správce**, i když nejde o osobu s dispozičními oprávněními, a to **odpůrčí žalobou** podanou proti osobám, které mají povinnost vydat dlužníkovo plnění z neúčinných právních úkonů do majetkové podstaty. Jestliže v době zahájení insolvenčního řízení probíhá o téže věci řízení na základě odpůrčí žaloby jiné osoby, nelze v něm až do skončení insolvenčního řízení pokračovat.
-> (2) Rozhodne-li o tom věřitelský výbor, podá insolvenční správce odpůrčí žalobu **vždy**. Nejsou-li v majetkové podstatě peněžní prostředky potřebné ke krytí nákladů na podání odpůrčí žaloby a vedení incidenčního sporu, může insolvenční správce podmínit podání odpůrčí žaloby nebo další vedení incidenčního sporu tím, aby mu věřitelé poskytli na úhradu těchto nákladů **přiměřenou zálohu**. Skončí-li incidenční spor úspěchem insolvenčního správce, mohou věřitelé, kteří zálohu poskytli, požadovat její náhradu jako **pohledávku za majetkovou podstatou**.
-> (3) Insolvenční správce může podat odpůrčí žalobu **ve lhůtě 1 roku** ode dne, kdy nastaly účinky rozhodnutí o úpadku. **Nepodá-li ji v této lhůtě, odpůrčí nárok zanikne.**
-> (4) Dlužníkovo plnění z neúčinných právních úkonů náleží do majetkové podstaty **právní mocí rozhodnutí**, kterým bylo odpůrčí žalobě vyhověno. Tím není dotčeno právo insolvenčního správce v případě, že šlo o peněžité plnění nebo že má jít o peněžitou náhradu za poskytnuté plnění, požadovat odpůrčí žalobou vedle určení neúčinnosti dlužníkova právního úkonu i toto peněžité plnění nebo peněžitou náhradu plnění. **Vylučovací žaloba není přípustná.**
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**Judikatura (z místních zdrojů):**
+### Znění ustanovení
 
-- *NS* [29 ICdo 72/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/364775A5D3DA9525C1258C0B0052AF83?openDocument) — 29. 11. 2024, kat. A
-  > „Právní nástupce osoby, v jejíž prospěch byl neúčinný právní úkon učiněn nebo která z něho měla prospěch (§ 237 odst. 1 insolvenčního zákona), jemuž v době, kdy nabyl plnění z neúčinného právního úkonu, musely být známy okolnosti, které odůvodňují právo dovolávat se neúčinnosti vůči oné osobě, má ve smyslu § 237 odst. 2 písm. a/ insolvenčního zákona povinnost vydat toto plnění do majetkové podstaty i tehdy, jde-li o právního nástupce na základě smlouvy (typově na základě smlouvy darovací nebo smlouvy kupní)"
+> (1) Odporovat právním úkonům dlužníka může v insolvenčním řízení pouze insolvenční správce, i když nejde o osobu s dispozičními oprávněními, a to odpůrčí žalobou podanou proti osobám, které mají povinnost vydat dlužníkovo plnění z neúčinných právních úkonů do majetkové podstaty. Jestliže v době zahájení insolvenčního řízení probíhá o téže věci řízení na základě odpůrčí žaloby jiné osoby, nelze v něm až do skončení insolvenčního řízení pokračovat.
+>
+> (2) Rozhodne-li o tom věřitelský výbor, podá insolvenční správce odpůrčí žalobu vždy. Nejsou-li v majetkové podstatě peněžní prostředky potřebné ke krytí nákladů na podání odpůrčí žaloby a vedení incidenčního sporu, může insolvenční správce podmínit podání odpůrčí žaloby nebo další vedení incidenčního sporu tím, aby mu věřitelé poskytli na úhradu těchto nákladů přiměřenou zálohu. Skončí-li incidenční spor úspěchem insolvenčního správce, mohou věřitelé, kteří zálohu poskytli, požadovat její náhradu jako pohledávku za majetkovou podstatou.
+>
+> (3) Insolvenční správce může podat odpůrčí žalobu ve lhůtě 1 roku ode dne, kdy nastaly účinky rozhodnutí o úpadku. Nepodá-li ji v této lhůtě, odpůrčí nárok zanikne.
+>
+> (4) Dlužníkovo plnění z neúčinných právních úkonů náleží do majetkové podstaty právní mocí rozhodnutí, kterým bylo odpůrčí žalobě vyhověno. Tím není dotčeno právo insolvenčního správce v případě, že šlo o peněžité plnění nebo že má jít o peněžitou náhradu za poskytnuté plnění, požadovat odpůrčí žalobou vedle určení neúčinnosti dlužníkova právního úkonu i toto peněžité plnění nebo peněžitou náhradu plnění. Vylučovací žaloba není přípustná.
 
-### Výklad — **KLÍČOVÝ PROCESNÍ PARAGRAF**
+### Přehled výkladu
 
-#### Výlučná legitimace správce (odst. 1)
+§ 239 soustřeďuje uplatnění odpůrčího nároku do rukou insolvenčního správce, upravuje vliv rozhodnutí věřitelského výboru a financování sporu, stanoví jednoroční zánikovou lhůtu a vymezuje účinek vyhovujícího rozhodnutí i možný peněžitý petit. Počátek lhůty váže na účinky rozhodnutí o úpadku, nikoli na jeho právní moc.
 
-**Jen správce** může podat odpůrčí žalobu. *Žádný věřitel sám* nemůže — toto je *centralizace*.
+### Souvisící ustanovení
 
-**I když není osobou s dispozičními oprávněními** — typicky v reorganizaci nebo oddlužení, kde dispozice má dlužník. Správce zde *přesto* podá odpůrčí žalobu (proti zájmu dlužníka).
+- § 37 — odpovědnost insolvenčního správce,
+- § 159 odst. 1 písm. d) — incidenční spor o odpůrčí žalobě,
+- § 168 odst. 2 písm. g) — další pohledávky za majetkovou podstatou, stanoví-li tak zákon,
+- § 235 až § 238 — obecná úprava neúčinnosti, její účinky, povinné osoby a zákaz započtení,
+- § 240 až § 242 — skutkové podstaty odporovatelných právních úkonů,
+- § 243 — dřívější pravomocné rozhodnutí dosažené věřitelem,
+- § 246 odst. 2 — legitimace správce v řízeních týkajících se majetkové podstaty za konkursu.
 
-**Konkurence s mimo-insolvenčními žalobami** — pokud při zahájení IR *probíhá* odpůrčí řízení jiné osoby (typicky věřitelův pauliánský nárok podle § 590 OZ), **suspenduje se** do skončení IR.
+### Souvisící předpisy
 
-#### Závaznost pokynu věřitelského výboru (odst. 2)
+- zákon č. 99/1963 Sb., občanský soudní řád — obecná procesní pravidla použitelná prostřednictvím § 7 insolvenčního zákona.
 
-Rozhodne-li *věřitelský výbor*, **správce musí podat**. Pokud podstata nemá likviditu na poplatky a náklady (právní zastoupení), *podmíní podání zálohou věřitelů*. Vrácení zálohy *jako pohledávka za podstatou* při úspěchu.
+### Z důvodové zprávy
 
-#### Prekluzivní lhůta 1 rok (odst. 3) — **KRITICKÉ**
+Oficiální důvodová zpráva k vládnímu návrhu insolvenčního zákona vysvětluje výlučnou legitimaci správce snahou zabránit duplicitám a jiným komplikacím a tím, že insolvenční neúčinnost působí ve prospěch všech věřitelů. Z téhož důvodu návrh počítal s přerušením již probíhajících řízení podle občanského práva. Jde o historický podklad: dnešní § 239 byl v návrhu označen jako § 240 a návrh vázal jednoroční lhůtu na právní moc rozhodnutí o úpadku, zatímco účinný text ji váže na okamžik, kdy nastaly účinky tohoto rozhodnutí.
 
-**Žaloba musí být podána do 1 roku od účinků rozhodnutí o úpadku**. *Po lhůtě — nárok zaniká* (prekluze).
+### Literatura
 
-> *Praktický důsledek*: správce musí *velmi rychle* identifikovat neúčinné úkony (typicky v prvních měsících po úpadku, hned po prozkoumání účetnictví dlužníka a získání informací z bank). *Pozdější objev* (např. ve 2. roce) = *ztráta nároku*.
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento oddíl nepředstavuje negativní literární rešerši.
 
-#### Účinky vyhovění (odst. 4)
+### Výklad
 
-**Plnění náleží do podstaty *právní mocí rozsudku***. *Konstitutivní účinek* — předtím není v podstatě, žalovaný *není povinen* vydat.
+[1] Aktivně legitimován k odpůrčí žalobě je pouze insolvenční správce. Zákon toto oprávnění zachovává i tehdy, není-li správce osobou s dispozičními oprávněními. Pasivní stranu žaloby nelze určit jen z § 239; žaloba směřuje proti osobám, jejichž povinnost vydat plnění vyplývá zejména z § 237.
 
-Správce **může v jedné žalobě**:
-- *určit neúčinnost*,
-- *žádat peněžitou náhradu*.
+[2] Probíhalo-li v době zahájení insolvenčního řízení o téže věci řízení na základě odpůrčí žaloby jiné osoby, § 239 odst. 1 zakazuje pokračovat v něm až do skončení insolvenčního řízení. Pro použití tohoto pravidla je nutné ověřit totožnost věci i to, zda dotčené řízení již v rozhodném okamžiku probíhalo.
 
-**Vylučovací žaloba není přípustná** — *jediným nástrojem* je odpůrčí žaloba (jinak by se obcházel režim 1leté prekluze).
+[3] Rozhodne-li věřitelský výbor o podání odpůrčí žaloby, správce ji podle odst. 2 podá vždy. Možnost požadovat přiměřenou zálohu není obecná: text ji váže na nedostatek peněžních prostředků v majetkové podstatě potřebných ke krytí nákladů na podání žaloby a vedení incidenčního sporu. Při úspěchu mohou poskytující věřitelé požadovat náhradu zálohy jako pohledávku za majetkovou podstatou.
 
-### Vazby
+[4] Jednoroční lhůta začíná dnem, kdy nastaly účinky rozhodnutí o úpadku. Zákon výslovně stanoví následek jejího marného uplynutí: nepodá-li správce žalobu v této lhůtě, odpůrčí nárok zanikne. Při výpočtu proto nelze bez dalšího zaměnit účinky rozhodnutí s jeho právní mocí.
 
-- **§ 159 odst. 1 písm. d)** — incidenční spor.
-- **§ 235 — § 238** — hmotněprávní úprava.
-- **§ 240 — § 242** — typy neúčinných úkonů.
-- **§ 590 — § 591 OZ** — civilní pauliánský nárok (zde modifikováno).
+[5] Odstavec 4 váže náležitost dlužníkova plnění do majetkové podstaty na právní moc rozhodnutí, kterým bylo odpůrčí žalobě vyhověno. Toto pravidlo je třeba odlišit od případů neúčinnosti ze zákona podle § 235 odst. 2.
+
+[6] Šlo-li o peněžité plnění nebo má-li jít o peněžitou náhradu za poskytnuté plnění, může správce vedle určení neúčinnosti požadovat také toto plnění nebo náhradu. § 239 odst. 4 pro tento režim výslovně vylučuje vylučovací žalobu.
+
+[7] Historická důvodová zpráva podporuje centralizaci odpůrčího nároku, nikoli mechanické převzetí původního číslování nebo původně navrženého počátku lhůty. Rozhodující je aktuální znění zákona.
+
+[8] Pro starší skutkové a procesní děje je nutné ověřit znění účinné v rozhodné době a přechodná ustanovení příslušných novel. Dnešní znění nelze použít jako časově neomezený podklad.
 
 ### Judikatura
 
-- **NS 29 Cdo 4380/2014**: lhůta 1 roku je *prekluzivní* — *nelze prominout*. *Nelze* obejít pozdějším doplněním nebo žalobou jiného typu.
-- **NS 29 ICdo 32/2014**: žaloba podaná těsně před uplynutím lhůty s neúplným označením žalovaných — *je třeba okamžitě opravit*; jinak nelze po lhůtě „doplnit" žalovaného.
-- **NS 29 Cdo 583/2011**: pokud probíhá pauliánská žaloba dle § 590 OZ a dojde k úpadku — *suspenduje se*; po skončení IR *lze pokračovat*, pokud nebyla věc vyřešena odpůrčí žalobou správce.
-
-### Praktická poznámka
-
-Odpůrčí žaloba je **nejmocnější nástroj správce**. V praxi:
-- *typicky 1—5 % insolvenčních spisů* zahrnuje odpůrčí žalobu,
-- *velké kauzy* (reorganizace velkých firem) mohou mít *desítky* odpůrčích žalob,
-- *úspěšnost* závisí na schopnosti správce prokázat *vědomost protistrany* a *parametry úkonu*,
-- *průměrný výnos* odpůrčí žaloby významně přispívá k uspokojení věřitelů.
-
-### F. Kazuistika
-
-**1. Modelová situace.** Účinky rozhodnutí o úpadku dlužníka SIGMA nastaly 1. 6. 2024. Správce při zkoumání účetnictví zjistil několik podezřelých převodů, ale rozhodl se vyčkat. Až 20. 7. 2025 (tj. po více než roce) podal odpůrčí žalobu proti nabyvateli TAU. Souběžně věřitel FÍ vedl od roku 2023 proti SIGMA pauliánskou žalobu podle § 590 OZ ohledně téhož úkonu. Věřitelský výbor mezitím správci uložil podat odpůrčí žalobu. Důkazy: rozhodnutí o úpadku s datem účinků, podací razítko odpůrčí žaloby, spis pauliánského řízení, usnesení věřitelského výboru.
-
-**2. Právní otázka.** Byla odpůrčí žaloba podána včas; jaký je osud souběžné pauliánské žaloby věřitele a jaký režim platí pro náklady a pokyn věřitelského výboru?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 239 odst. 1 IZ (výlučná legitimace správce, suspenze souběžné odpůrčí žaloby jiné osoby), odst. 2 (závazný pokyn věřitelského výboru, záloha věřitelů, náhrada jako pohledávka za podstatou), odst. 3 (prekluzivní 1letá lhůta od účinků rozhodnutí o úpadku — zánik nároku), odst. 4 (plnění náleží do podstaty právní mocí rozsudku, peněžité plnění lze žádat přímo, vylučovací žaloba nepřípustná).
-- *Související ustanovení téhož zákona:* § 235–238 IZ (hmotněprávní úprava), § 240–242 IZ (typy neúčinných úkonů), § 159 odst. 1 písm. d) IZ (incidenční spor), § 168 IZ (pohledávky za podstatou).
-- *Související předpisy:* § 590–591 OZ (civilní pauliánský nárok — modifikováno).
-- *Judikatura:* NS 29 Cdo 4380/2014 (citováno v komentáři) — 1letá lhůta je prekluzivní, nelze ji prominout ani obejít; NS 29 ICdo 32/2014 — vadné označení žalovaných nelze po lhůtě „doplnit"; NS 29 Cdo 583/2011 — pauliánská žaloba dle § 590 OZ se po úpadku suspenduje.
-
-**4. Subsumpce.** Účinky úpadku 1. 6. 2024 → konec prekluzivní lhůty 1. 6. 2025. Žaloba podaná 20. 7. 2025 je *opožděná* — odpůrčí *nárok zanikl* (odst. 3). Pauliánská žaloba věřitele FÍ se zahájením IR *suspendovala* (odst. 1 věta druhá) a nelze v ní do skončení IR pokračovat. Pokyn věřitelského výboru správce *zavazoval* (odst. 2), avšak prekluze nároku jeho nesplnění „nezhojí".
-
-**5. Řešení.** Pozdě podaná žaloba bude zamítnuta pro prekluzi; majetek se do podstaty z tohoto titulu nevrátí. Správce, který lhůtu zmeškal i přes pokyn věřitelského výboru, odpovídá za škodu (§ 37 IZ). Procesní krok do budoucna: identifikovat neúčinné úkony bezodkladně po přezkumu účetnictví a podat žalobu s dostatečnou rezervou, s úplným a správným označením žalovaných. Riziko: po skončení IR se může věřitel FÍ vrátit ke své pauliánské žalobě (nebyla-li věc vyřešena odpůrčí žalobou správce).
-
-**6. Varianty.** (a) Kdyby správce podal žalobu 15. 5. 2025 (v lhůtě), nárok by trval; plnění by náleželo do podstaty *právní mocí* vyhovujícího rozsudku (odst. 4) a peněžitou náhradu by šlo žádat přímo. (b) Kdyby podstata neměla prostředky na náklady sporu, mohl správce podmínit podání zálohou věřitelů s následnou náhradou jako pohledávkou za podstatou (odst. 2).
-
-### G. Protiargumenty a rizika
-
-- *„Lhůtu lze prominout / prodloužit pozdějším doplněním žaloby."* — Neutralizace: 1letá lhůta je *prekluzivní* — uplynutím nárok *zaniká*, nelze prominout ani obejít jiným typem žaloby (NS 29 Cdo 4380/2014); vadné označení žalovaných nelze po lhůtě napravit (NS 29 ICdo 32/2014).
-- *„Věřitel může sám vést odpůrčí/pauliánskou žalobu během IR."* — Neutralizace: legitimován je *výlučně správce*; souběžná odpůrčí žaloba jiné osoby se *suspenduje* do skončení IR (odst. 1, NS 29 Cdo 583/2011).
-- Slabé místo / riziko: závazný pokyn věřitelského výboru nezbavuje správce povinnosti dodržet lhůtu — zmeškání zakládá *odpovědnost správce za škodu*; absence likvidity řešitelná zálohou věřitelů (odst. 2), ne odkladem.
-
-### H. Praktický závěr
-
-Odpůrčí žalobu může podat výlučně správce, a to v prekluzivní lhůtě 1 roku od účinků rozhodnutí o úpadku; po jejím marném uplynutí nárok zaniká. Plnění náleží do podstaty až právní mocí vyhovujícího rozsudku; peněžité plnění/náhradu lze žádat přímo, vylučovací žaloba je nepřípustná.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Přesně určit datum účinků rozhodnutí o úpadku a od něj počítat 1letou prekluzivní lhůtu.
-- [ ] Identifikovat neúčinné úkony bezodkladně po přezkumu účetnictví; žalobu podat s rezervou a úplným označením žalovaných.
-- [ ] Respektovat výlučnou legitimaci správce a suspenzi souběžných odpůrčích/pauliánských žalob.
-- [ ] Při nedostatku prostředků podmínit podání zálohou věřitelů; při pokynu věřitelského výboru žalobu podat vždy.
-- [ ] Peněžité plnění/náhradu žádat přímo v odpůrčí žalobě; nepoužívat vylučovací žalobu.
-
-**Typicky rozhodné důkazy / podklady:** rozhodnutí o úpadku s datem účinků, podací doklad odpůrčí žaloby, účetnictví dlužníka a podklady o napadených úkonech, usnesení věřitelského výboru, doklady o nákladech a záloze, spisy souběžných pauliánských řízení.
+V tomto kole nebyl do výkladu převzat žádný judikatorní závěr. Tím se nevyslovuje, že k § 239 neexistuje relevantní judikatura; oddíl pouze nepřebírá rozhodnutí bez ověřeného oficiálního plného textu, přesného nosného locatoru, skutkového a procesního kontextu a intertemporální kontroly.
 
 ---
 

@@ -551,101 +551,73 @@ V tomto kole nebyl do výkladu převzat žádný judikatorní závěr. Tím se n
 
 ## § 240 — Neúčinnost úkonů bez přiměřeného protiplnění
 
-> (1) Právním úkonem bez přiměřeného protiplnění se rozumí právní úkon, jímž se dlužník zavázal poskytnout plnění **bezúplatně** nebo za protiplnění, jehož obvyklá cena je **podstatně nižší** než obvyklá cena plnění, k jehož poskytnutí se zavázal dlužník.
-> (2) Právním úkonem bez přiměřeného protiplnění se rozumí pouze právní úkon, který dlužník učinil v době, kdy byl **v úpadku**, nebo právní úkon, který **vedl k dlužníkovu úpadku**. **Má se za to, že právní úkon bez přiměřeného protiplnění učiněný ve prospěch osoby dlužníku blízké nebo osoby, která tvoří s dlužníkem koncern, je úkonem, který dlužník učinil v době, kdy byl v úpadku.**
-> (3) Právnímu úkonu bez přiměřeného protiplnění lze odporovat, byl-li učiněn **v posledních 3 letech před zahájením insolvenčního řízení ve prospěch osoby dlužníku blízké nebo osoby, která tvoří s dlužníkem koncern**, anebo **v době 1 roku před zahájením insolvenčního řízení ve prospěch jiné osoby**.
-> (4) Právním úkonem bez přiměřeného protiplnění **není**
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Právním úkonem bez přiměřeného protiplnění se rozumí právní úkon, jímž se dlužník zavázal poskytnout plnění bezúplatně nebo za protiplnění, jehož obvyklá cena je podstatně nižší než obvyklá cena plnění, k jehož poskytnutí se zavázal dlužník.
+>
+> (2) Právním úkonem bez přiměřeného protiplnění se rozumí pouze právní úkon, který dlužník učinil v době, kdy byl v úpadku, nebo právní úkon, který vedl k dlužníkovu úpadku. Má se za to, že právní úkon bez přiměřeného protiplnění učiněný ve prospěch osoby dlužníku blízké nebo osoby, která tvoří s dlužníkem koncern, je úkonem, který dlužník učinil v době, kdy byl v úpadku.
+>
+> (3) Právnímu úkonu bez přiměřeného protiplnění lze odporovat, byl-li učiněn v posledních 3 letech před zahájením insolvenčního řízení ve prospěch osoby dlužníku blízké nebo osoby, která tvoří s dlužníkem koncern, anebo v době 1 roku před zahájením insolvenčního řízení ve prospěch jiné osoby.
+>
+> (4) Právním úkonem bez přiměřeného protiplnění není
+>
 > a) plnění uložené právním předpisem,
-> b) **příležitostný dar v přiměřené výši**,
+>
+> b) příležitostný dar v přiměřené výši,
+>
 > c) poskytnutí plnění, kterým bylo vyhověno ohledům slušnosti, nebo
-> d) právní úkon, o kterém dlužník se zřetelem ke všem okolnostem důvodně předpokládal, že z něj bude mít přiměřený prospěch, a to za předpokladu, že **nešlo o úkon učiněný ve prospěch osoby dlužníkovi blízké** nebo osoby, která tvoří s dlužníkem koncern, a že **osoba, v jejíž prospěch byl úkon učiněn, nemohla ani při náležité pečlivosti poznat, že dlužník je v úpadku**, nebo že by tento úkon mohl vést k úpadku dlužníka.
+>
+> d) právní úkon, o kterém dlužník se zřetelem ke všem okolnostem důvodně předpokládal, že z něj bude mít přiměřený prospěch, a to za předpokladu, že nešlo o úkon učiněný ve prospěch osoby dlužníkovi blízké nebo osoby, která tvoří s dlužníkem koncern, a že osoba, v jejíž prospěch byl úkon učiněn, nemohla ani při náležité pečlivosti poznat, že dlužník je v úpadku, nebo že by tento úkon mohl vést k úpadku dlužníka.
+>
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *NS* [29 Cdo 307/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B19D7AB73128EBEFC1258393002C4905?openDocument) — kat. A, 29. 2. 2016
-  > „Pro účely posouzení, zda se dlužník zavázal poskytnout plnění bezúplatně nebo za protiplnění, jehož obvyklá cena je podstatně nižší než obvyklá cena plnění, k jehož poskytnutí se zavázal dlužník (§ 240 insolvenčního zákona), je významné především kvantitativní hledisko [ poměr mezi cenou obvyklou a cenou sjednanou (vyjádřitelný např. v procentech) a rozdíl obou cen (představující konkrétní částku)]. Současně je ale nutno přihlédnout k dopadu sporného právního úkonu do majetkové sféry dlužníka z hlediska možnosti věřitelů, jimž k datu nabytí účinků sporného právního úkonu dlužníka svědčila pohledávka za dlužníkem, dosáhnout vůči dlužníku úhrady pohledávek (a schopnosti dlužníka tyto pohledávky zaplatit) a k důvodům, pro které dlužník sporný právní úkon učinil (např. snaha získat prostředky k úhradě již splatných pohledávek věřitelů), jakož i k dalším okolnostem, za nichž dlužník dotčený právní úkon učinil"
+Ustanovení vyžaduje společné posouzení povahy a ekonomické ekvivalence úkonu, úpadku nebo kauzality k úpadku, rozhodného období a zákonných výluk. U osoby blízké nebo člena koncernu zákon stanoví domněnku úpadku a tříleté rozhodné období; tím však nenahrazuje ostatní znaky § 240.
 
-### Výklad — **PRVNÍ TYP NEÚČINNOSTI**
+### Souvisící ustanovení
 
-#### Definice (odst. 1)
+- § 3 — úpadek,
+- § 22 — osoby blízké a koncern,
+- § 235 až 239 — obecný režim, účinky, povinné osoby a odpůrčí žaloba,
+- § 241 — zvýhodňující právní úkony,
+- § 242 — úmyslně zkracující právní úkony.
 
-**Úkon bez přiměřeného protiplnění**:
-- *bezúplatný úkon* (typicky **darování**),
-- *úkon za podstatně nižší protiplnění* (typicky **prodej za podhodnotu**).
+### Souvisící předpisy
 
-*„Podstatně nižší"* — judikatura (NS 29 ICdo 41/2016): orientačně **odchylka 30—40 % a více** od obvyklé ceny.
+- zákon č. 89/2012 Sb., občanský zákoník, § 22 — osoba blízká,
+- zákon č. 90/2012 Sb., o obchodních korporacích, § 79 — koncern.
 
-#### Časový rámec — v úpadku nebo úkon vedoucí k úpadku (odst. 2)
+### Z důvodové zprávy
 
-Aby byl úkon napadnutelný, musí:
-- *dlužník byl v úpadku v okamžiku úkonu*, **nebo**
-- *úkon vedl k úpadku* (kauzální nexus).
+Oficiální důvodová zpráva k vládnímu návrhu insolvenčního zákona projednává původně navržené § 235 až 243 společně. Zdůrazňuje insolvenční původ institutu, rozlišuje neúčinnost ze zákona a neúčinnost založenou konstitutivním rozhodnutím o odpůrčí žalobě a sleduje podrobnější rozvinutí dosavadní stručné úpravy. Jde o historický legislativní účel; návrh používal jiné vnitřní číslování než dnešní zákon.
 
-**Domněnka úpadku u blízkých osob a koncernu** — pokud byl úkon ve prospěch *spřízněné osoby*, **má se za to, že dlužník byl v úpadku**. Důkazní břemeno se přesouvá na *spřízněnou osobu* (musí prokázat, že dlužník nebyl v úpadku).
+### Literatura
 
-#### Lhůty pro odporovatelnost (odst. 3) — **KLÍČOVÉ**
+Odborná literatura je rozhodnutím editora odložena do druhého kola; nejde o negativní rešerši.
 
-| Adresát | Lhůta zpětně |
-|---|---|
-| **Osoba blízká nebo koncern** | **3 roky** před zahájením IR |
-| **Jiná osoba** | **1 rok** před zahájením IR |
+### Výklad
 
-> *Logika*: u spřízněných osob je *vyšší pravděpodobnost* záměrného poškození věřitelů — proto delší lhůta.
+[1] **Předmět testu.** Odstavec 1 zahrnuje bezúplatné úkony a úkony, při nichž je obvyklá cena protiplnění podstatně nižší než obvyklá cena dlužníkova plnění. Porovnávají se obvyklé ceny obou plnění, nikoli jen jejich smluvní označení.
 
-#### Výjimky (odst. 4)
+[2] **„Podstatně nižší“.** Zákon nestanoví číselnou hranici ani procentní safe harbour. Posouzení proto musí vycházet z obvyklých cen konkrétních plnění a z toho, zda je zjištěný rozdíl podstatný; nelze je nahradit předem určeným procentem.
 
-(a) *Zákonné plnění* (typicky daňové, sociální).
-(b) **Příležitostný dar v přiměřené výši** — typicky narozeninové, vánoční dary (max. cca 5 000—10 000 Kč podle úrovně).
-(c) *Plnění z ohledů slušnosti* — pohřební výdaje, dárky příbuzným atd.
-(d) **„Dobrověrný úkon"** — dlužník důvodně předpokládal prospěch + osoba nebyla *spřízněná* + nemohla poznat úpadek (kumulativně). Typický případ obrany kupce.
+[3] **Úpadek nebo kauzalita.** Nestačí samotná bezúplatnost či cenový nepoměr. Úkon musí být učiněn v době dlužníkova úpadku, nebo musí k úpadku vést. U úkonu ve prospěch osoby blízké nebo osoby tvořící s dlužníkem koncern zákon presumuje, že byl učiněn v době úpadku; jde jen o znak podle odstavce 2.
 
-### Vazby
+[4] **Rozhodná období.** U osoby blízké nebo člena koncernu lze odporovat úkonu učiněnému v posledních třech letech před zahájením insolvenčního řízení, u jiné osoby v posledním roce. Tato období se počítají před zahájením řízení; odlišná je jednoroční lhůta správce k podání odpůrčí žaloby podle § 239 odst. 3, která běží od účinků rozhodnutí o úpadku.
 
-- **§ 235** — generální klauzule.
-- **§ 22 OZ** — osoby blízké.
-- **§ 79 ZOK** — koncern.
+[5] **Výluky.** Odstavec 4 vyjímá plnění uložené právním předpisem, příležitostný dar v přiměřené výši, plnění vyhovující ohledům slušnosti a za kumulativních podmínek úkon s důvodně očekávaným přiměřeným prospěchem. Výluka podle písmene d) se neuplatní ve prospěch osoby blízké nebo člena koncernu a vyžaduje též nepoznatelnost úpadku či hrozícího úpadku ani při náležité pečlivosti.
+
+[6] **Procesní následek.** Neúčinnost se uplatňuje odpůrčí žalobou insolvenčního správce podle § 239. Úspěch žaloby neznamená neplatnost úkonu: dlužníkovo plnění náleží do majetkové podstaty a při nemožnosti vydat původní plnění nastupuje rovnocenná náhrada (§ 236); okruh povinných osob a vzájemné plnění upravuje § 237.
+
+[7] **Důkazní zaměření.** V konkrétní věci jsou typicky významné smlouva a skutečný tok plnění, ocenění obvyklých cen k rozhodné době, stav dlužníkových závazků a majetku, vztah stran, datum a účinky úkonu a skutkové okolnosti případné výluky. Hodnocení musí zůstat individuální.
+
+[8] **Intertemporalita.** Pro starší skutkové děje je nutné ověřit znění účinné v době právního úkonu a příslušná přechodná ustanovení. Terminologie „právní úkon“ v textu insolvenčního zákona sama neurčuje soukromoprávní režim dřívějšího nebo pozdějšího jednání.
 
 ### Judikatura
 
-- **NS 29 ICdo 41/2016**: „podstatně nižší cena" — zhruba 30—40% odchylka. Důkazní břemeno cen na straně správce.
-- **NS 29 NSČR 27/2014**: kupní smlouva s blízkou osobou za nominální cenu (1 Kč) — automaticky úkon bez přiměřeného protiplnění + automatická domněnka úpadku.
-- **NS 29 ICdo 12/2015**: výjimka § 240 odst. 4 písm. d) (dobrověrný úkon) je *restriktivně* vykládána — protistrana musí prokázat *aktivní zjištění* o stavu dlužníka.
-
-### F. Kazuistika
-
-**1. Modelová situace.** Dlužník (fyzická osoba podnikatel) ÚPSILON prodal 18 měsíců před zahájením IR rekreační chatu v obvyklé ceně 2 000 000 Kč svému bratrovi za 600 000 Kč. V té době měl ÚPSILON již několik splatných a nehrazených závazků. Insolvenční správce chce úkon napadnout. Bratr namítá, že cena odpovídala „stavu nemovitosti" a že o žádném úpadku nevěděl. Důkazy: kupní smlouva, znalecký posudek o obvyklé ceně chaty, doklady o příbuzenství, účetnictví / přehled splatných závazků v době prodeje.
-
-**2. Právní otázka.** Jde o úkon bez přiměřeného protiplnění napadnutelný podle § 240, je dán znak úpadku v době úkonu a uplatní se prodloužená lhůta a domněnka úpadku u osoby blízké?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 240 odst. 1 IZ (bezúplatnost / podstatně nižší protiplnění), odst. 2 (úkon v době úpadku nebo vedoucí k úpadku; *domněnka úpadku* u blízké osoby/koncernu), odst. 3 (lhůty: 3 roky u blízké osoby/koncernu, 1 rok u jiné osoby), odst. 4 (výjimky: zákonné plnění, příležitostný dar, ohledy slušnosti, dobrověrný úkon).
-- *Související ustanovení téhož zákona:* § 235 IZ (generální klauzule), § 239 IZ (odpůrčí žaloba), § 241 IZ (zvýhodňující úkony), § 3 IZ (úpadek).
-- *Související předpisy:* § 22 OZ (osoby blízké), § 79 ZOK (koncern).
-- *Judikatura:* NS 29 Cdo 307/2014 a NS 29 ICdo 41/2016 (citováno) — „podstatně nižší cena" se posuzuje kvantitativně (orientačně odchylka cca 30–40 % a více) i s ohledem na dopad do majetkové sféry dlužníka; NS 29 NSČR 27/2014 — prodej blízké osobě za nominální cenu je úkonem bez přiměřeného protiplnění s automatickou domněnkou úpadku; NS 29 ICdo 12/2015 — výjimka „dobrověrného úkonu" se vykládá restriktivně.
-
-**4. Subsumpce.** Cena 600 000 Kč proti obvyklé 2 000 000 Kč = plnění za cca 30 % obvyklé ceny → *podstatně nižší protiplnění* (odst. 1). Úkon ve prospěch *osoby blízké* (bratr) → *domněnka, že dlužník byl v úpadku* (odst. 2 věta druhá), kterou musí vyvrátit bratr. Lhůta: u blízké osoby *3 roky* zpětně — úkon 18 měsíců před zahájením IR *spadá do lhůty* (odst. 3). Výjimka dobrověrného úkonu (odst. 4 písm. d) je *vyloučena*, protože šlo o osobu blízkou.
-
-**5. Řešení.** Správce podá odpůrčí žalobu podle § 240; doloží obvyklou cenu (znalecký posudek) a vztah blízkosti. Domněnka úpadku přenáší důkazní břemeno na bratra. Pravděpodobný výsledek: určení neúčinnosti a povinnost vydat chatu (či rovnocennou náhradu rozdílu/hodnoty) do podstaty; protiplnění 600 000 Kč se řeší v režimu § 237 odst. 4 (vzájemné plnění). Riziko: spor o obvyklou cenu — klíčový je znalecký posudek a obhajoba rozhodného okamžiku ocenění.
-
-**6. Varianty.** (a) Kdyby kupujícím byla *nespřízněná* osoba, lhůta by činila jen *1 rok* (úkon 18 měsíců zpět by byl *mimo lhůtu* → neodporovatelný podle § 240). (b) Kdyby cena odpovídala obvyklé (např. 1 900 000 Kč), nešlo by o „podstatně nižší protiplnění" a § 240 by se neuplatnil. (c) Kdyby šlo o *příležitostný dar v přiměřené výši* (odst. 4 písm. b), úkon by nebyl napadnutelný.
-
-### G. Protiargumenty a rizika
-
-- *„Cena odpovídala skutečnému stavu věci, nešlo o podhodnocení."* — Neutralizace: rozhoduje *obvyklá cena* doložená znalecky a kvantitativní hledisko (odchylka cca 30–40 % a více — NS 29 ICdo 41/2016), nikoli subjektivní tvrzení stran; je třeba protiposudek.
-- *„Dlužník nebyl v úpadku, kupující o ničem nevěděl."* — Neutralizace: u blízké osoby platí *domněnka úpadku* (odst. 2) a výjimka dobrověrného úkonu je u blízkých osob *vyloučena* (odst. 4 písm. d); důkazní břemeno o neexistenci úpadku nese kupující.
-- Slabé místo: u *nespřízněné* osoby je kratší (1letá) lhůta a chybí domněnka úpadku — správce musí prokázat úpadek/kauzální nexus i znak ceny; obrana dobrověrného úkonu se však vykládá restriktivně (NS 29 ICdo 12/2015).
-
-### H. Praktický závěr
-
-§ 240 dopadá na bezúplatné úkony a úkony za podstatně nižší protiplnění učiněné v úpadku či vedoucí k úpadku; u blízkých osob/koncernu platí domněnka úpadku a delší (3letá) lhůta, jinak 1letá. Výjimky (příležitostný dar, ohledy slušnosti, dobrověrný úkon) je třeba úzce vykládat.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Doložit obvyklou cenu plnění a vyčíslit odchylku (znak „podstatně nižší protiplnění").
-- [ ] Zjistit, zda úkon směřoval k blízké osobě/koncernu (domněnka úpadku, 3letá lhůta) nebo k jiné osobě (1letá lhůta, nutno prokázat úpadek).
-- [ ] Ověřit zařazení do příslušné lhůty počítané před zahájením IR.
-- [ ] Posoudit, zda nejde o výjimku odst. 4 (zákonné plnění, příležitostný dar, ohledy slušnosti, dobrověrný úkon).
-
-**Typicky rozhodné důkazy / podklady:** smlouva a doklad o protiplnění, znalecký posudek o obvyklé ceně, účetnictví a přehled splatných závazků v době úkonu, doklady o vztahu blízkosti/koncernu, podklady k tvrzené dobré víře protistrany.
+V tomto kole není jako nosný pramen výkladu použito žádné rozhodnutí. Tím se nevyslovuje, že k § 240 neexistuje relevantní judikatura; neověřené spisové značky a údajný pevný procentní práh z dřívější verze byly odstraněny.
 
 ---
 

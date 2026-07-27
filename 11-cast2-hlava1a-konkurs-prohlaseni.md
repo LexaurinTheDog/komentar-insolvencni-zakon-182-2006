@@ -1883,49 +1883,54 @@ V tomto kole nebylo použito rozhodnutí, jehož plný text z oficiálního soud
 
 ## § 279 — Lhůty pro povinnosti
 
-> (1) Nestanoví-li tento zákon jinak, povinnosti, které zákon ukládá dlužníku, osobám jednajícím za dlužníka a dalším osobám v souvislosti s prohlášením konkursu, musí být splněny **do 15 dnů od prohlášení konkursu**; tuto lhůtu může insolvenční soud přiměřeně prodloužit jen z důvodů hodných zvláštního zřetele.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Nestanoví-li tento zákon jinak, povinnosti, které zákon ukládá dlužníku, osobám jednajícím za dlužníka a dalším osobám v souvislosti s prohlášením konkursu, musí být splněny do 15 dnů od prohlášení konkursu; tuto lhůtu může insolvenční soud přiměřeně prodloužit jen z důvodů hodných zvláštního zřetele.
+>
+> (2) Jestliže povinnosti podle odstavce 1 nejsou ve stanovené lhůtě splněny, přijme insolvenční soud na návrh insolvenčního správce přiměřená opatření k jejich vynucení.
+
+### Přehled výkladu
+
+Ustanovení stanoví podpůrnou patnáctidenní lhůtu pro zákonné povinnosti související s prohlášením konkursu. Použije se jen tehdy, neurčuje-li insolvenční zákon pro konkrétní povinnost jiný časový režim. Prodloužení náleží insolvenčnímu soudu a vyžaduje důvody hodné zvláštního zřetele. Po marném uplynutí lhůty může dát podnět k vynucení pouze návrh insolvenčního správce; konkrétní opatření musí být přiměřené povaze nesplněné povinnosti.
+
+### Souvisící ustanovení
+
+- § 7 — přiměřené použití občanského soudního řádu,
+- § 210 až 214 — součinnost při zjišťování majetkové podstaty, přístup k majetku a prohlášení o majetku,
+- § 246 — přechod dispozičních oprávnění a souvisejících povinností na insolvenčního správce,
+- § 277 — úkony a činnosti správce navazující na účinnost prohlášení konkursu.
+
+### Souvisící předpisy
+
+- zákon č. 99/1963 Sb., občanský soudní řád, zejména § 52 a § 53 — předvedení k výslechu a pořádková pokuta; jejich použití vyžaduje splnění vlastních zákonných podmínek.
+
+### Z důvodové zprávy
+
+Vládní návrh projednává § 277 až 282 společně jako promítnutí ustanovení obecné části do procesního postupu v konkursu. K samotné patnáctidenní lhůtě ani k volbě opatření podle § 279 odst. 2 zvláštní vysvětlení nepodává. Normativní text obou odstavců byl již ve vládním návrhu shodný s dnešním zněním. Srov. sněmovní tisk 1120/0, 4. volební období, navržené znění na číslované s. 80 (PDF s. 80) a zvláštní část „K § 277–282“ na číslované s. 211 (PDF s. 212).
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní rešerše.
 
 ### Výklad
 
-**Generální 15denní lhůta** pro povinnosti dlužníka po konkursu (předání agendy, dokladů, klíčů, hesel atd.). Soud může prodloužit jen výjimečně.
+[1] Patnáctidenní lhůta je subsidiární. Úvodní výhrada „nestanoví-li tento zákon jinak“ brání tomu, aby § 279 odst. 1 měnil zvláštní lhůtu nebo požadavek bezodkladného jednání stanovený u jednotlivé povinnosti. Nejprve je proto nutné určit konkrétní zákonnou povinnost, jejího adresáta a případný zvláštní časový režim; § 279 není samostatným zdrojem povinnosti předat libovolně vymezenou „agendu“.
 
-**Sankce**: § 279 odst. 2 — soud na návrh správce přijme *přiměřená opatření k vynucení* (pořádkové pokuty, výzvy, případně předvedení).
+[2] Okruh adresátů zahrnuje dlužníka, osoby jednající za dlužníka a další osoby, avšak vždy jen ve vztahu k povinnosti, kterou jim ukládá zákon v souvislosti s prohlášením konkursu. U právnické osoby konkretizuje osobní rozsah součinnosti zejména § 210 odst. 2 a 3. U třetí osoby může jít například o oznamovací a zpřístupňovací povinnost podle § 213; její přesný počátek a obsah je třeba posoudit podle tohoto zvláštního ustanovení.
 
-### F. Kazuistika
+[3] Lhůta se podle textu počítá od prohlášení konkursu, nikoli od právní moci rozhodnutí. § 279 sám nestanoví zvláštní pravidla počítání lhůty. Při jejich určení se uplatní procesní režim insolvenčního řízení a přiměřeně občanský soudní řád prostřednictvím § 7 insolvenčního zákona.
 
-**1. Modelová situace.** Po prohlášení konkursu na dlužníka (s.r.o.) je jednatel dlužníka povinen předat správci účetnictví, klíče od provozovny, přístupová hesla k informačním systémům a seznam majetku. Jednatel 20 dní po konkursu nic nepředal a tvrdí, že potřebuje více času kvůli rozsáhlosti agendy. Správce nemůže provést soupis a zajištění. Insolvenční soud zvažuje, jak vynutit splnění povinností. Důkazy: výzva správce k předání, doklad o nesplnění ve lhůtě, evidence předané/nepředané agendy.
+[4] Soud může lhůtu přiměřeně prodloužit pouze z důvodů hodných zvláštního zřetele. Zákon nevytváří nárok na prodloužení ani nevyjmenovává typové důvody. Závěr, že určitá překážka tento standard naplňuje, proto vyžaduje individuální posouzení její povahy, trvání, doložení a dopadu na konkurs.
 
-**2. Právní otázka.** Do jaké lhůty musí dlužník a osoby za něj jednající splnit povinnosti spojené s prohlášením konkursu a jak lze jejich splnění vynutit?
+[5] Odstavec 2 váže zásah soudu na návrh insolvenčního správce a na předchozí nesplnění povinnosti ve stanovené lhůtě. Výraz „přiměřená opatření“ nedává oporu pro automatickou volbu jediné sankce. Pořádková pokuta podle § 53 občanského soudního řádu předpokládá hrubé ztěžování postupu řízení některým z tam uvedených způsobů. Předvedení podle § 52 občanského soudního řádu je spojeno s nedostavením se k výslechu nebo ke znalci po příslušném poučení; u prohlášení o majetku upravuje předvedení přímo § 214 odst. 2 insolvenčního zákona. Samotné marné uplynutí patnácti dnů proto bez dalšího neodůvodňuje kterýkoli z těchto prostředků.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 279 odst. 1 (povinnosti dlužníka, osob jednajících za dlužníka a dalších osob v souvislosti s konkursem musí být splněny **do 15 dnů** od prohlášení konkursu; soud může lhůtu přiměřeně prodloužit jen z důvodů hodných zvláštního zřetele), odst. 2 (soud na návrh správce přijme přiměřená opatření k vynucení — pořádkové pokuty, výzvy, případně předvedení).
-- *Související ustanovení téhož zákona:* § 277 (úkony správce, pro něž je předání agendy podmínkou), § 280 (soupis jako titul ke zpeněžení), § 246 (přechod správy na správce), obecná pořádková opatření soudu.
-- *Související předpisy:* o. s. ř. (pořádková pokuta, předvedení), zákon o účetnictví (povinnost vydat účetní záznamy).
-- *Judikatura:* nosný závěr, že povinnosti dlužníka spojené s konkursem jsou vázány krátkou 15denní lhůtou a jejich nesplnění lze sankcionovat pořádkovými prostředky.
+[6] Srovnání původního vládního návrhu s aktuálním oficiálním zněním potvrzuje kontinuitu normativního textu obou odstavců. Pro posouzení konkrétní povinnosti však zůstává rozhodné znění souvisejícího ustanovení účinné v době, kdy měla být splněna; kontinuita § 279 sama neřeší novelizace těchto zvláštních povinností.
 
-**4. Subsumpce.** Jednatel je osobou jednající za dlužníka a má povinnost předat agendu → § 279 odst. 1: lhůta 15 dnů od prohlášení konkursu. Tato lhůta marně uplynula (uplynulo 20 dní), aniž by byl dán důvod hodný zvláštního zřetele pro prodloužení; „rozsáhlost agendy" sama o sobě takovým důvodem zpravidla není. Soud proto může na návrh správce přijmout opatření dle odst. 2.
+### Judikatura
 
-**5. Řešení.** Správce podá soudu návrh na vynucení splnění povinností; soud uloží pořádkovou pokutu, případně nařídí předvedení nebo jiná přiměřená opatření (odst. 2). Prodloužení lhůty je možné jen výjimečně z důvodů hodných zvláštního zřetele, jež musí jednatel doložit. Procesní kroky: výzva správce, návrh soudu na pořádková opatření, uložení pokuty / předvedení, opětovná výzva k předání.
-
-**6. Varianty.** (a) Jednatel doloží objektivní překážku (např. zabavení dokladů orgány činnými v trestním řízení) — soud může lhůtu přiměřeně prodloužit z důvodu hodného zvláštního zřetele. (b) Povinnost má jiná „další osoba" (např. bývalý účetní držící doklady) — i na ni dopadá 15denní lhůta a vynucovací opatření dle odst. 2.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument jednatele:* „Agenda je rozsáhlá, 15 dní nestačí, mám právo na delší lhůtu." Neutralizace: § 279 odst. 1 — prodloužení jen z důvodů hodných zvláštního zřetele; rozsáhlost agendy sama o sobě nepostačí.
-- *Protiargument:* „Nelze mě nutit pod sankcí." Neutralizace: odst. 2 — soud na návrh správce přijme přiměřená opatření k vynucení (pořádková pokuta, předvedení).
-- *Slabé místo:* posouzení „důvodů hodných zvláštního zřetele" je hodnotící; účinnost vynucení závisí na součinnosti soudu a může se časově vléct, čímž je ohrožen soupis a zajištění podstaty.
-
-### H. Praktický závěr
-
-Povinnosti dlužníka a osob za něj jednajících spojené s konkursem (předání agendy, dokladů, klíčů, hesel) musí být splněny do 15 dnů od prohlášení konkursu; prodloužit lze jen výjimečně. Při nesplnění soud na návrh správce přijme přiměřená vynucovací opatření.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Vyzvat dlužníka a osoby za něj jednající ke splnění povinností do 15 dnů od konkursu.
-- [ ] Prodloužení lhůty zvažovat jen při doložení důvodů hodných zvláštního zřetele.
-- [ ] Při nesplnění podat soudu návrh na přiměřená opatření (pořádková pokuta, předvedení).
-- [ ] Dbát na provázanost s úkoly správce dle § 277 (soupis, zajištění).
-
-**Typicky rozhodné důkazy / podklady:** výzva správce k předání agendy, doklad o (ne)splnění ve lhůtě, evidence předaných/nepředaných dokladů, případné doklady o objektivních překážkách splnění.
+V tomto kole nebylo použito rozhodnutí, jehož plný text z oficiálního soudního zdroje by poskytoval přímo nosný výklad § 279. Dřívější neurčitý odkaz na „nosný závěr“ byl odstraněn; tím se netvrdí, že relevantní judikatura neexistuje.
 
 ---
 

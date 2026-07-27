@@ -1379,57 +1379,72 @@ Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k př�
 
 ## § 269 — Neplatnost smluv mezi manželi
 
-> (1) Smlouvy mezi manželi, které byly uzavřeny **po podání insolvenčního návrhu** dlužníkem, a jde-li o insolvenční návrh věřitele poté, co nastaly účinky spojené se zahájením insolvenčního řízení, **se stávají prohlášením konkursu neplatnými**, jde-li o
-> a) smlouvy o **zúžení rozsahu společného jmění manželů**,
-> b) smlouvy o **rozšíření rozsahu společného jmění manželů**, jestliže se na jejich základě stal součástí společného jmění manželů majetek do té doby náležející jen dlužníku,
-> c) smlouvy o rozšíření rozsahu společného jmění manželů, jestliže se na jejich základě staly součástí společného jmění manželů **závazky** náležející do té doby jen manželu dlužníka,
-> d) **dohody o vypořádání společného jmění manželů** včetně soudem schváleného smíru.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-### Výklad — **ANTI-FRAUD KLAUZULE**
+### Znění ustanovení
 
-**Smlouvy uzavřené v období „úpadkového rizika" jsou neplatné** — zabraňuje *účelovým převodům* mezi manželi k vyhnutí konkursu.
+> (1) Smlouvy mezi manželi, které byly uzavřeny po podání insolvenčního návrhu dlužníkem, a jde-li o insolvenční návrh věřitele poté, co nastaly účinky spojené se zahájením insolvenčního řízení, se stávají prohlášením konkursu neplatnými, jde-li o
+>
+> a) smlouvy o zúžení rozsahu společného jmění manželů,
+>
+> b) smlouvy o rozšíření rozsahu společného jmění manželů, jestliže se na jejich základě stal součástí společného jmění manželů majetek do té doby náležející jen dlužníku,
+>
+> c) smlouvy o rozšíření rozsahu společného jmění manželů, jestliže se na jejich základě staly součástí společného jmění manželů závazky náležející do té doby jen manželu dlužníka,
+>
+> d) dohody o vypořádání společného jmění manželů včetně soudem schváleného smíru.
+>
+> (2) Jestliže v době od okamžiku, kdy nastaly účinky spojené se zahájením insolvenčního řízení, do prohlášení konkursu již uplynula lhůta k vypořádání společného jmění manželů, aniž byla uzavřena dohoda o vypořádání společného jmění manželů, nastanou účinky spojené podle zvláštního právního předpisu s uplynutím lhůty k vypořádání společného jmění manželů až po 6 měsících od prohlášení konkursu, do té doby lze uzavřít novou dohodu o vypořádání společného jmění manželů nebo podat návrh na jeho vypořádání rozhodnutím soudu; práva třetích osob nabytá v dobré víře tím však nejsou dotčena.
+>
+> (3) Jestliže v důsledku neplatnosti smluv mezi manželi podle odstavce 1 dochází ke změně práv zapsaných v katastru nemovitostí, podá insolvenční správce příslušnému katastrálnímu pracovišti návrh na vklad, který doloží potvrzením obsahujícím údaje o tom, k jaké změně práv došlo.
 
-Typický scénář: dlužník vidí, že krachuje → uzavře *zúžení SJM* (nemovitost přejde *na manžela*) → konkurs už by tu nemovitost neobsáhl. **Toto pravidlo to ruší** — smlouva *neplatná*.
+### Přehled výkladu
 
-### Vazby
+Ustanovení upravuje tři odlišné následky pro konkurs: neplatnost taxativně vymezených smluv mezi manželi uzavřených v rozhodném období, zvláštní odklad účinků uplynutí lhůty k vypořádání SJM a postup správce při promítnutí změny práv do katastru nemovitostí. Neplatnost podle odstavce 1 nastává až prohlášením konkursu a nelze ji bez dalšího vztáhnout na jiné smlouvy nebo jiné časové období.
 
-- **§ 716—727 OZ** — modifikace SJM smlouvou.
+### Souvisící ustanovení
 
-### F. Kazuistika
+- § 109 odst. 4 — okamžik vzniku účinků spojených se zahájením insolvenčního řízení.
+- § 136 a § 245 odst. 1 — rozhodnutí o úpadku, prohlášení konkursu a okamžik jeho účinků.
+- § 235 až 243 — neúčinnost právních úkonů; odlišný režim s vlastními předpoklady.
+- § 268 — zánik SJM a stavení lhůty v případech vymezených § 268 odst. 2 písm. b) a c).
+- § 270 až 273 — oprávnění správce k vypořádání, schválení dohody a jeho vstup do probíhajícího řízení.
 
-**1. Modelová situace.** Dlužník (FO-podnikatel) v době, kdy už tušil hrozící úpadek, po podání insolvenčního návrhu uzavřel s manželkou (a) smlouvu o zúžení SJM, jíž z SJM vyňal rodinný dům do výlučného vlastnictví manželky, a (b) dohodu o vypořádání SJM, podle níž manželka získala převážnou část majetku. Po prohlášení konkursu správce tvrdí, že tyto smlouvy jsou neplatné a dům i podíl patří do podstaty. Důkazy: data uzavření smluv, údaj o podání insolvenčního návrhu / o účincích zahájení IŘ, texty smluv, výpis z katastru.
+### Souvisící předpisy
 
-**2. Právní otázka.** Stávají se prohlášením konkursu neplatnými smlouvy mezi manželi (zúžení/rozšíření SJM, dohoda o vypořádání) uzavřené v období úpadkového rizika?
+- Zvláštní právní předpis upravující účinky uplynutí lhůty k vypořádání SJM je nutno určit v časovém znění rozhodném pro vznik, zánik nebo změnu SJM a pro běh lhůty.
+- Katastrální předpisy upravují podání a projednání návrhu na vklad podle odstavce 3; § 269 sám stanoví osobu navrhovatele a zvláštní doklad připojovaný k návrhu.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 269 odst. 1 (smlouvy mezi manželi uzavřené po podání insolvenčního návrhu dlužníkem, resp. u návrhu věřitele po účincích zahájení IŘ, se prohlášením konkursu stávají neplatnými, jde-li o: a) zúžení SJM, b) rozšíření SJM, jímž se do SJM dostal majetek dosud jen dlužníka, c) rozšíření SJM, jímž se do SJM dostaly závazky dosud jen manžela dlužníka, d) dohody o vypořádání SJM vč. soudem schváleného smíru).
-- *Související ustanovení téhož zákona:* § 268 (zánik a vypořádání SJM), § 270–276 (vypořádání správcem), § 235 a násl. (neúčinnost — pro jiné než zde uvedené případy).
-- *Související předpisy:* § 716–727 OZ (modifikace SJM smlouvou), § 736 OZ (vypořádání SJM).
-- *Judikatura:* nosný závěr, že § 269 je anti-fraudulentní pravidlo cílené proti účelovým přesunům majetku mezi manželi v období hrozícího úpadku.
+### Z důvodové zprávy
 
-**4. Subsumpce.** Smlouva (a) o zúžení SJM uzavřená po podání insolvenčního návrhu → § 269 odst. 1 písm. a): stává se prohlášením konkursu **neplatnou**. Dohoda (b) o vypořádání SJM uzavřená ve stejném období → písm. d): rovněž **neplatná**. Dům i převedený podíl proto zůstávají součástí SJM, které se vypořádá v konkursu (s dopadem do podstaty).
+Oficiální důvodová zpráva k vládnímu návrhu insolvenčního zákona odůvodňuje § 268 až 276 společně. Uvádí, že úprava vlivu konkursu na SJM navazuje na předchozí koncepci, ale podrobněji ji přizpůsobuje tehdejšímu majetkovému právu manželů; zvlášť upozorňuje na § 274. Neobsahuje samostatné podrobné zdůvodnění jednotlivých odstavců § 269. Jde o historické vysvětlení návrhu z roku 2005, nikoli o náhradu výkladu aktuálního znění.
 
-**5. Řešení.** Správce nakládá s domem i podílem, jako by k zúžení a vypořádání nedošlo — provede vypořádání SJM dle § 268 a § 270 a násl. a majetek zahrne do podstaty. Manželka se nemůže dovolávat výlučného vlastnictví. Procesní kroky: konstatování neplatnosti smluv dle § 269, zařazení majetku do soupisu, vypořádání SJM (dohodou se schválením soudu nebo soudně).
+### Literatura
 
-**6. Varianty.** (a) Smlouva o zúžení SJM byla uzavřena dávno před podáním návrhu a bez souvislosti s úpadkem — § 269 se neuplatní (není dán časový znak); případnou neúčinnost by bylo nutné řešit odpůrčí žalobou (§ 235 a násl.). (b) Šlo o rozšíření SJM, jímž do SJM přibyl pouze majetek dlužníka (nikoli majetek manžela) — to nespadá pod písm. b) (chrání před opačným směrem) a posuzuje se jinak.
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tato poznámka není závěrem o neexistenci relevantní literatury ani výsledkem negativní rešerše.
 
-### G. Protiargumenty a rizika
+### Výklad
 
-- *Protiargument manželky:* „Smlouva o zúžení byla platně uzavřena a vložena do katastru." Neutralizace: § 269 odst. 1 písm. a) činí takovou smlouvu uzavřenou v rozhodném období prohlášením konkursu neplatnou bez ohledu na zápis.
-- *Protiargument:* „Dohoda o vypořádání SJM byla schválena soudem, je nezpochybnitelná." Neutralizace: písm. d) výslovně dopadá i na soudem schválený smír.
-- *Slabé místo:* prokázání časového znaku (uzavření po podání návrhu / po účincích zahájení IŘ); mimo rozhodné období je nutné jít cestou neúčinnosti (§ 235), nikoli neplatnosti dle § 269.
+[1] **Dvě rozhodná počáteční hranice.** Podal-li insolvenční návrh dlužník, odstavec 1 zachycuje vymezené smlouvy uzavřené po podání jeho návrhu. U věřitelského návrhu je počátkem až okamžik, kdy nastaly účinky spojené se zahájením insolvenčního řízení. Datum uzavření smlouvy je proto nutno porovnat se správnou hranicí podle osoby navrhovatele.
 
-### H. Praktický závěr
+[2] **Následek až při konkursu.** Samotné uzavření smlouvy v rozhodném období nevyvolává neplatnost podle § 269 odst. 1. Zákonný následek nastává prohlášením konkursu. Není-li konkurs prohlášen, nelze neplatnost založit jen tímto ustanovením.
 
-Smlouvy mezi manželi v období úpadkového rizika (zúžení/rozšíření SJM, dohody o vypořádání vč. soudního smíru) se prohlášením konkursu stávají neplatnými. Pravidlo brání účelovému „vyvádění" majetku na manžela; takový majetek zůstává v SJM a vypořádá se v konkursu.
+[3] **Uzavřený okruh smluv.** Písmeno a) zahrnuje smlouvy o zúžení SJM bez dalšího směrového omezení. U rozšíření SJM dopadá písmeno b) jen na vložení majetku dosud náležejícího pouze dlužníku a písmeno c) jen na zahrnutí závazků dosud náležejících pouze manželu dlužníka. Písmeno d) výslovně zahrnuje dohody o vypořádání SJM i soudem schválený smír.
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Zjistit datum uzavření smluv mezi manželi a porovnat s podáním návrhu / účinky zahájení IŘ.
-- [ ] U smluv v rozhodném období konstatovat neplatnost dle § 269 a majetek zahrnout do SJM/podstaty.
-- [ ] Mimo rozhodné období zvážit odpůrčí žalobu (§ 235 a násl.) namísto neplatnosti.
-- [ ] Provést vypořádání SJM (správcem, se schválením soudu) zahrnující dotčený majetek.
+[4] **Nezaměňovat neplatnost a neúčinnost.** § 269 odst. 1 upravuje neplatnost vymezených smluv ze zákona v návaznosti na prohlášení konkursu. U smlouvy mimo jeho věcný nebo časový rozsah nelze automaticky dovodit ani platnost, ani neúčinnost; případný režim § 235 až 243 vyžaduje samostatné ověření jeho zákonných předpokladů a procesního postupu.
 
-**Typicky rozhodné důkazy / podklady:** texty smluv o modifikaci/vypořádání SJM s datací, doklad o podání insolvenčního návrhu a o účincích zahájení IŘ, výpis z katastru, případný soudem schválený smír.
+[5] **Odklad účinků uplynutí lhůty.** Odstavec 2 předpokládá, že lhůta k vypořádání SJM již uplynula mezi vznikem účinků zahájení insolvenčního řízení a prohlášením konkursu a že v ní nebyla uzavřena dohoda. Účinky, které zvláštní předpis spojuje s uplynutím lhůty, se odkládají do uplynutí šesti měsíců od prohlášení konkursu.
+
+[6] **Možnost vypořádání v odložené době.** Do uplynutí této šestiměsíční doby lze uzavřít novou dohodu nebo podat návrh na soudní vypořádání. Kdo je po prohlášení konkursu oprávněn jednat místo dlužníka a jaký režim má dohoda, určují zejména § 270 a § 271; § 269 odst. 2 nelze číst izolovaně.
+
+[7] **Ochrana třetích osob.** Odklad podle odstavce 2 se nedotýká práv třetích osob nabytých v dobré víře. Před použitím odkladu je proto nutno zjistit nejen běh vypořádací lhůty, ale také případná mezitím nabytá práva třetích osob a okolnosti jejich dobré víry.
+
+[8] **Katastrální návaznost.** Vede-li neplatnost podle odstavce 1 ke změně zapsaných práv, návrh na vklad podává insolvenční správce příslušnému katastrálnímu pracovišti. K návrhu připojí potvrzení s údaji o tom, k jaké změně práv došlo. Odstavec 3 nedopadá na každou majetkovou změnu v konkursu, nýbrž na změnu zapsaných práv vyvolanou neplatností podle odstavce 1.
+
+[9] **Intertemporalita.** Pro použití odstavce 2 je nutno určit předpis rozhodný pro vypořádání konkrétního SJM, počátek a konec příslušné lhůty a relevantní přechodná ustanovení. Historický odkaz důvodové zprávy na tehdejší občanský zákoník nelze mechanicky přenášet na pozdější právní poměry.
+
+### Judikatura
+
+Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k přímému výkladu § 269. Stávající neurčité tvrzení o judikatorním „anti-fraudulentním pravidlu“ bylo odstraněno, protože nebylo spojeno s identifikovaným a v plném textu ověřeným rozhodnutím. Nejde o závěr, že relevantní judikatura neexistuje.
 
 ---
 

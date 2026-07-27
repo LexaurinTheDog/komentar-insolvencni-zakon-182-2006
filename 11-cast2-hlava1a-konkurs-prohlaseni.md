@@ -17,75 +17,60 @@ Hlava I se dělí na **9 dílů**:
 
 ## § 244 — Pojem konkursu
 
-> Konkurs je způsob řešení úpadku spočívající v tom, že na základě rozhodnutí o prohlášení konkursu jsou zjištěné pohledávky věřitelů **zásadně poměrně uspokojeny z výnosu zpeněžení majetkové podstaty** s tím, že neuspokojené pohledávky nebo jejich části **nezanikají**, pokud zákon nestanoví jinak.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-### Výklad — **DEFINICE A ZÁKLADNÍ CHARAKTERISTIKA**
+### Znění ustanovení
 
-#### Tři charakteristické znaky konkursu
+> Konkurs je způsob řešení úpadku spočívající v tom, že na základě rozhodnutí o prohlášení konkursu jsou zjištěné pohledávky věřitelů zásadně poměrně uspokojeny z výnosu zpeněžení majetkové podstaty s tím, že neuspokojené pohledávky nebo jejich části nezanikají, pokud zákon nestanoví jinak.
 
-**1. Zpeněžení majetkové podstaty** — *likvidační koncept*. Majetek dlužníka se prodá (dražba, prodej mimo dražbu, prodej podniku — § 286 a násl.) a výtěžek se rozdělí.
+### Přehled výkladu
 
-**2. Zásadně poměrné uspokojení** — *pro condicio creditorum* (v rámci téže třídy). Modifikace:
-- *zajištění věřitelé* — z výtěžku zástavy (před nezajištěnými),
-- *pohledávky za podstatou + na roveň* — průběžně, plně.
+§ 244 vymezuje konkurs třemi navazujícími prvky: rozhodnutím o prohlášení konkursu, uspokojením zjištěných pohledávek z výnosu zpeněžení majetkové podstaty a zásadním nezánikem neuspokojeného zbytku. Slovo „zásadně“ brání číst poměrnost jako bezvýjimečnou rovnost všech věřitelů; zvláštní režim stanoví zejména pravidla pro zajištěné pohledávky, pohledávky za majetkovou podstatou a pohledávky jim postavené na roveň. Nezánik pohledávky nelze zaměnit za její automatickou faktickou nebo procesní vymahatelnost po zrušení konkursu.
 
-**3. Pohledávky nezanikají** — *neuhrazená část* pohledávky **trvá** i po skončení konkursu. Dlužník (pokud zbude) zůstává *dál dlužen* za neuhrazenou část.
+### Souvisící ustanovení
 
-> **Klíčový rozdíl od oddlužení**: v oddlužení dlužník po splnění *získává osvobození* (§ 414). V konkursu *žádné osvobození nenastává* — pohledávky věřitelům trvají, byť reálně nevymahatelné.
+- **§ 4 odst. 1 písm. a) a odst. 2 písm. a)** — konkurs jako způsob řešení úpadku a rozhodnutí o prohlášení konkursu.
+- **§ 165 odst. 1 a 3, § 167 až 169** — rozvrh a zvláštní režimy jednotlivých kategorií pohledávek.
+- **§ 245 až 246** — okamžik účinků prohlášení konkursu a přechod dispozičních oprávnění.
+- **§ 286 až 294, § 298** — způsoby zpeněžení a vydání výtěžku zajištěnému věřiteli.
+- **§ 305 až 307** — pravidla před rozvrhem a rozvrhové usnesení.
+- **§ 308, § 311 a § 312 odst. 4** — zrušení konkursu, výjimečný zánik neuspokojených pohledávek a podmínky dalšího výkonu.
+- **§ 314 až 315** — nepatrný konkurs.
+- **§ 414** — osvobození v oddlužení jako odlišný institut.
 
-### Vazby
+### Souvisící předpisy
 
-- **§ 4** — způsoby řešení úpadku.
-- **§ 165** — uspokojení rozvrhem.
-- **§ 305** — rozvrh.
-- **§ 414** — osvobození v oddlužení (kontrast).
+§ 244 je definiční normou insolvenčního zákona a na jiný předpis přímo neodkazuje. Předpisy hmotného a procesního práva se uplatní podle povahy konkrétní pohledávky, majetku a navazujícího postupu; jejich použití nelze určit paušálně jen z § 244.
 
-### Praktická poznámka
+### Z důvodové zprávy
 
-V praxi je konkurs **drtivá většina** insolvenčních řízení (cca 60—70 % statisticky), zejména:
-- *všechna malá řízení* (kde nemá reorganizace ekonomický smysl),
-- *FO-nepodnikatelé* bez oddlužení (zřídka — typicky pro spornost pohledávek),
-- *PO bez perspektivy ozdravění*.
+Původní důvodová zpráva řadí konkurs mezi více způsobů řešení úpadku uvnitř jednotného insolvenčního řízení. Zdůrazňuje, že před prohlášením konkursu probíhá nediferencované insolvenční řízení a že pro konkurs se vedle zvláštní hlavy použijí také obecná ustanovení o procesních subjektech, projednání úpadku, uplatňování nároků a majetkové podstatě. Ke společnému bloku § 244 a 245 uvádí návaznost úpravy prohlášení konkursu na předchozí právní stav. Jde o historický legislativní pramen; aktuální právní následky se určují podle účinného znění zákona.
 
-**Uspokojení v konkursu** v ČR (průměr):
-- *zajištění věřitelé*: 30—70 % (záleží na zástavě),
-- *nezajištění věřitelé*: **5—15 %** (často i méně).
+### Literatura
 
-### F. Kazuistika
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tato poznámka není závěrem o neexistenci relevantní literatury ani její negativní rešerší.
 
-**1. Modelová situace.** Společnost ALFA s.r.o. má nezajištěné věřitele s pohledávkami v celkové výši 20 mil. Kč a zajištěného věřitele (banku) s pohledávkou 8 mil. Kč zajištěnou zástavním právem k výrobní hale. Majetková podstata sestává z haly (odhad 6 mil. Kč) a movitého majetku (1,5 mil. Kč). Soud prohlásil konkurs. Po zpeněžení haly za 5,8 mil. Kč a movitostí za 1,2 mil. Kč zbývá po uspokojení nákladů a zajištěného věřitele cca 0,8 mil. Kč pro nezajištěné. Jeden z nezajištěných věřitelů (dodavatel s pohledávkou 2 mil. Kč) se po skončení konkursu domáhá doplacení zbytku přímo po jednateli a po obnovené společnosti. Důkazy: rozhodnutí o prohlášení konkursu, soupis a zpeněžení, rozvrhové usnesení, výpis z OR.
+### Výklad
 
-**2. Právní otázka.** Zaniká neuspokojená část pohledávky nezajištěného věřitele skončením konkursu, nebo trvá dál proti dlužníku?
+[1] **Povaha definice.** Konkurs je jedním ze zákonných způsobů řešení úpadku. § 4 odst. 2 písm. a) spojuje rozhodnutí o tomto způsobu s rozhodnutím o prohlášení konkursu; § 245 odst. 1 pak určuje, kdy nastávají jeho účinky. Samotný § 244 proto není samostatným procesním návodem, nýbrž základním obsahovým vymezením režimu rozvedeného v § 245 až 315.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 244 — konkurs jako likvidační způsob řešení úpadku; neuspokojené pohledávky **nezanikají**, není-li stanoveno jinak.
-- *Související ustanovení téhož zákona:* § 4 (způsoby řešení úpadku), § 165 a § 305 (uspokojení rozvrhem), § 414 (osvobození v oddlužení — kontrast, zde se neaplikuje).
-- *Související předpisy:* § 311 IZ (zrušení konkursu) — i po zrušení pohledávky trvají; OZ — promlčení dále běží.
-- *Judikatura:* nosný závěr NS, že v konkursu na rozdíl od oddlužení nedochází k zániku neuspokojených pohledávek ani k osvobození dlužníka; věřitel může po skončení konkursu pohledávku v neuspokojené části dál vymáhat, je-li u koho.
+[2] **Zjištěné pohledávky.** Definice mluví o uspokojování zjištěných pohledávek. Neříká, že každý tvrzený dluh je bez dalšího zahrnut do rozvrhu. U přihlašovaných pohledávek stanoví § 165 odst. 1 uspokojení rozvrhem při konkursu a navazující ustanovení upravují jejich uplatnění a zjištění.
 
-**4. Subsumpce.** Skutkové znaky § 244 jsou naplněny: proběhlo zpeněžení podstaty, pohledávky byly poměrně uspokojeny z výnosu, neuspokojená část (2 mil. − poměrný podíl) trvá. Protože zákon u konkursu nestanoví osvobození (na rozdíl od § 414), neuspokojená část **nezaniká**.
+[3] **Výnos zpeněžení.** Zdrojem konkursního uspokojení je podle § 244 výnos zpeněžení majetkové podstaty. Způsoby zpeněžení konkretizuje zejména § 286 a násl. Definice sama neurčuje, jakou metodou se konkrétní majetek zpeněží, ani nevylučuje správu nebo provoz majetku v průběhu konkursu podle dalších ustanovení zákona.
 
-**5. Řešení.** Vůči společnosti ALFA s.r.o.: pohledávka trvá, ale fakticky nevymahatelná, neboť společnost po rozvrhu zpravidla zaniká výmazem z OR (§ 173 odst. 2 z. o veřejných rejstřících). Vůči jednateli věřitel uspět nemůže z titulu § 244 — jednatel za dluhy s.r.o. neručí; samostatným titulem může být jen odpovědnost za škodu / vyloučení (§ 62, § 66 ZOK, § 159 OZ). Procesní krok: ověřit, zda společnost dosud existuje; pokud zanikla bez právního nástupce, pohledávka je nedobytná.
+[4] **„Zásadně poměrně“.** Poměrnost je výchozím pravidlem uvnitř režimu, který současně uznává zákonné priority a oddělené zdroje uspokojení. Zajištění věřitelé se v rozsahu zajištění uspokojují podle § 167 a § 298 z výtěžku zpeněžení předmětu zajištění. Pohledávky za majetkovou podstatou a pohledávky jim postavené na roveň upravují § 168, § 169 a pro situaci nedostatečného výtěžku § 305 odst. 2. Z § 244 proto nelze dovodit stejný podíl pro všechny kategorie věřitelů.
 
-**6. Varianty.** (a) Dlužníkem je FO-podnikatel: společnost nezaniká, neuspokojená část trvá a je nadále vymahatelná z majetku nabytého po konkursu — věřitel může vést novou exekuci. (b) Úpadek byl řešen oddlužením, nikoli konkursem: po splnění oddlužení by dlužník získal osvobození dle § 414 a neuspokojená část by se stala nevymahatelnou (naturální obligací) — opačný výsledek.
+[5] **Nezánik neuspokojeného zbytku.** Závěrečná část § 244 stanoví pravidlo, že neuspokojené pohledávky ani jejich části nezanikají. Výslovná slova „pokud zákon nestanoví jinak“ vyžadují kontrolu zvláštních výjimek. Takovou výjimku obsahuje § 311 pro případ, kdy v důsledku zrušení konkursu podle § 308 odst. 1 písm. c) nebo d) dojde podle zvláštního právního předpisu ke zrušení a zániku dlužníka-právnické osoby bez právního nástupce; ani tehdy se pravidlo nedotýká uspokojení ze zajištění.
 
-### G. Protiargumenty a rizika
+[6] **Trvání není totéž co vymahatelnost.** § 244 řeší nezánik pohledávky, nikoli bezpodmínečný procesní titul nebo existenci majetku, z něhož lze plnit. § 312 odst. 4 umožňuje po zrušení konkursu podat návrh na výkon rozhodnutí nebo exekuci na základě upraveného seznamu jen pro zjištěnou neuspokojenou pohledávku, kterou dlužník nepopřel, a výslovně vylučuje pohledávku zanikající podle § 311. Při praktickém posouzení je proto třeba oddělit existenci pohledávky, osobu dlužníka, titul a majetkovou dobytnost.
 
-- *Protiargument:* „Skončením konkursu vše zaniklo jako při oddlužení." Neutralizace: § 244 výslovně stanoví opak — pohledávky nezanikají; osvobození je institut vyhrazený oddlužení (§ 414), v konkursu chybí.
-- *Protiargument:* „Společnost zanikla, takže nelze nic vymáhat." Částečně platné u PO, ale u FO trvá osobní odpovědnost; navíc lze zkoumat odpovědnost statutárního orgánu nebo neúčinné/neplatné převody.
-- *Slabé místo:* faktická nevymahatelnost u zaniklé PO znamená, že trvání pohledávky má často jen evidenční (daňový odpis) význam. Chybějícím zdrojem bývá zjištění majetku dlužníka nabytého po konkursu.
+[7] **Kontrast s oddlužením.** V konkursu neplyne osvobození dlužníka od placení z § 244. Osvobození je samostatným institutem oddlužení upraveným v § 414 a závisí na rozhodnutí soudu a tam stanovených předpokladech. Rozdíl je třeba popsat jako rozdíl právních režimů, nikoli jako zánik pohledávek při oddlužení.
 
-### H. Praktický závěr
+[8] **Intertemporalita.** Text § 244 je v rozhodném znění stabilní a odpovídá původnímu legislativnímu řešení. Pro konkrétní konkurs však nestačí ověřit pouze tuto definici: pořadí a způsob uspokojení, zpeněžení, zrušení konkursu i další výkon pohledávky se posuzují podle znění navazujících ustanovení rozhodného pro dané řízení a právní skutečnost.
 
-V konkursu jde o likvidační, nikoli sanační režim: majetek se zpeněží, výtěžek se poměrně rozdělí a neuspokojené pohledávky trvají dál (žádné osvobození). Pro nezajištěné věřitele je realistická míra uspokojení nízká (5—15 %).
+### Judikatura
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Rozlišit, zda úpadek je řešen konkursem (bez osvobození) či oddlužením (§ 414).
-- [ ] U PO ověřit, zda po rozvrhu společnost zanikla výmazem z OR.
-- [ ] U FO počítat s trvající vymahatelností neuspokojené části z majetku nabytého později.
-- [ ] Zvážit samostatné tituly proti statutárnímu orgánu, jsou-li dány.
-
-**Typicky rozhodné důkazy / podklady:** rozhodnutí o prohlášení konkursu, soupis a doklady o zpeněžení, rozvrhové usnesení, usnesení o zrušení konkursu, výpis z OR / živnostenského rejstříku.
+Do tohoto kola nebylo zařazeno rozhodnutí, jehož plný text by byl přímo nosný pro výklad samotné definice § 244 a současně byl ověřen v požadovaném skutkovém, procesním a časovém kontextu. Nejde o závěr, že relevantní judikatura neexistuje; neověřené odkazy a obecné parafráze nebyly použity.
 
 ---
 

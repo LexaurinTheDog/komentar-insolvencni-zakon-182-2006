@@ -551,49 +551,55 @@ Do tohoto vydání není zařazeno žádné rozhodnutí. Dřívější neurčit�
 
 ## § 255 — Výpůjčka
 
-> Uzavřel-li dlužník smlouvu o výpůjčce, je insolvenční správce po prohlášení konkursu oprávněn **požadovat vrácení věci i před skončením stanovené doby zapůjčení**.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> Uzavřel-li dlužník smlouvu o výpůjčce, je insolvenční správce po prohlášení konkursu oprávněn požadovat vrácení věci i před skončením stanovené doby zapůjčení.
+
+### Přehled výkladu
+
+§ 255 dává insolvenčnímu správci po prohlášení konkursu zvláštní oprávnění prolomit sjednanou dobu výpůjčky. Ustanovení se týká případu, kdy dlužník jako půjčitel již přenechal věc vypůjčiteli; nebyl-li předmět výpůjčky dosud předán, použije se § 258. Samotný § 255 nestanoví automatické vrácení věci, náhradu škody ani zvláštní procesní způsob vynucení.
+
+### Souvisící ustanovení
+
+- § 245 a § 246 odst. 1 — účinky prohlášení konkursu a přechod dispozičních oprávnění na insolvenčního správce.
+- § 258 — možnost odstoupení, nebyl-li předmět výpůjčky v době prohlášení konkursu ještě předán, a výslovná úprava náhrady škody.
+- § 205 až § 207 a § 217 až § 225 — rozsah majetkové podstaty, soupis a ochrana práv třetích osob.
+- § 264 a § 265 — pokračování v přerušených řízeních, v nichž dlužník vystupoval jako žalobce.
+
+### Souvisící předpisy
+
+- Zákon č. 89/2012 Sb., občanský zákoník, § 2193 až § 2200, zejména § 2193, § 2197 a § 2198 — obecná úprava výpůjčky, vrácení věci a předčasného požadavku půjčitele.
+- Zákon č. 99/1963 Sb., občanský soudní řád — obecný procesní rámec žaloby na vydání věci nebo vyklizení podle povahy předmětu a uplatněného práva.
+
+### Z důvodové zprávy
+
+Zvláštní část vládního návrhu insolvenčního zákona uvádí ke společnému bloku § 255 až § 259 stručně, že § 255 se zabývá ukončením výpůjčky. Podrobnější účel nebo samostatné následky nad rámec navrženého textu k § 255 nevykládá. Jde o sněmovní tisk 1120/0, číslovanou s. 210 (PDF s. 211).
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tato poznámka není výsledkem negativní literární rešerše.
 
 ### Výklad
 
-**Speciální právo správce u vypůjčených věcí** — *odvolat výpůjčku předčasně*. Logika: dlužník vypůjčil věc někomu zdarma; vypůjčená věc *nepřináší* podstatě nic, jen *nevýhody* (zhoršení v rukou vypůjčitele).
+[1] **Předpoklady použití.** Dlužník musí být stranou smlouvy o výpůjčce v postavení půjčitele a její předmět musí být vypůjčiteli předán. Výpůjčka je podle § 2193 občanského zákoníku bezplatné dočasné užívání nezuživatelné věci. Označení smlouvy není rozhodující samo o sobě; je třeba ověřit její obsah, zejména bezplatnost, předmět a postavení dlužníka.
 
-> *Praxe*: typicky vypůjčené auto/náčiní/nemovitost ve prospěch rodinného příslušníka.
+[2] **Rozhodný okamžik a osoba oprávněná.** Zvláštní oprávnění vzniká až prohlášením konkursu a náleží insolvenčnímu správci. Navazuje na přechod dispozičních oprávnění podle § 246 odst. 1. Před prohlášením konkursu nelze § 255 použít; při jiném způsobu řešení úpadku je nutno vycházet z jeho vlastní úpravy.
 
-### F. Kazuistika
+[3] **Obsah oprávnění.** Správce může požadovat vrácení věci před uplynutím doby sjednané ve výpůjčce. § 255 je v tomto rozsahu zvláštní vůči obecnému smluvnímu režimu, v němž je předčasný požadavek půjčitele omezen. Z textu však neplyne, že by správce musel předčasné vrácení požadovat vždy; jde o oprávnění, jehož výkon musí poměřit povinnostmi při správě majetkové podstaty a okolnostmi konkrétní věci.
 
-**1. Modelová situace.** Dlužník (FO-podnikatel) před konkursem bezúplatně vypůjčil svému bratrovi osobní automobil (hodnota cca 250 000 Kč) na dobu určitou do konce roku 2027. Po prohlášení konkursu insolvenční správce zjistil vůz v užívání bratra a požaduje jeho vrácení, bratr však namítá, že výpůjčka byla sjednána na dobu určitou, která dosud neuplynula. Důkazy: smlouva o výpůjčce s dobou trvání, soupis majetkové podstaty, zápis vozidla v evidenci, doklad o předání vozu.
+[4] **Co § 255 sám neřeší.** Ustanovení nezakládá domněnku, že každá vypůjčená věc patří dlužníkovi nebo do majetkové podstaty. Vlastnictví, rozsah podstaty a případná práva třetích osob je nutno posoudit samostatně. Stejně tak § 255 nestanoví zvláštní žalobu ani možnost dosáhnout nuceného vydání pouhou výzvou; při nesplnění se zvolí odpovídající hmotněprávní nárok a procesní petit podle povahy věci a skutkového stavu.
 
-**2. Právní otázka.** Může insolvenční správce požadovat vrácení vypůjčené věci před uplynutím sjednané doby zapůjčení?
+[5] **Odlišení od § 258.** Byl-li předmět výpůjčky před prohlášením konkursu předán, správce postupuje podle § 255. Nebyl-li ještě předán, § 258 umožňuje správci i druhému účastníku odstoupit od smlouvy a při odstoupení správce výslovně přiznává druhému účastníku možnost přihlásit náhradu škody. Tyto režimy nelze směšovat.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 255 — správce je po prohlášení konkursu oprávněn požadovat vrácení vypůjčené věci i před skončením sjednané doby zapůjčení.
-- *Související ustanovení téhož zákona:* § 246 odst. 1 (přechod správy podstaty na správce), § 258 (nepředané věci u výpůjčky — odstoupení), § 280 (soupis jako titul ke zpeněžení).
-- *Související předpisy:* OZ — smlouva o výpůjčce (§ 2193 a násl. OZ) a její bezúplatná povaha.
-- *Judikatura:* nosný závěr, že vypůjčená věc náleží do podstaty a má být vrácena, neboť bezúplatná výpůjčka podstatě nepřináší užitek a jen jí hrozí zhoršení věci.
+[6] **Náhrada újmy.** § 255 na rozdíl od § 258 žádný zvláštní nárok vypůjčitele na náhradu škody neupravuje. Z toho však bez posouzení celé smlouvy, okolností výkonu práva a obecného práva nelze dovozovat kategorický zánik jakéhokoli jiného nároku vypůjčitele.
 
-**4. Subsumpce.** Mezi dlužníkem a bratrem byla uzavřena smlouva o výpůjčce (bezúplatné přenechání věci k užívání) na dobu určitou. Po prohlášení konkursu vykonává práva k podstatě správce → § 255 zakládá jeho oprávnění žádat vrácení vozu i před uplynutím sjednané doby. Námitka „doba dosud neuplynula" je proto právně bezvýznamná.
+[7] **Intertemporalita.** Pro smlouvu a její soukromoprávní následky je třeba určit právo účinné v době rozhodné pro vznik a trvání závazku. U starších smluv proto nelze mechanicky použít § 2193 až § 2200 občanského zákoníku z roku 2012. Oprávnění správce podle § 255 se posuzuje podle insolvenční úpravy rozhodné pro konkrétní řízení.
 
-**5. Řešení.** Správce vyzve bratra k vydání vozidla; nevydá-li je, podá žalobu na vydání věci, případně využije soupisu (§ 280). Po navrácení vůz zpeněží podle § 286 a násl. Procesní kroky: zařazení vozu do soupisu, výzva k vrácení, popř. vylučovací/zápůrčí spor, následné zpeněžení.
+### Judikatura
 
-**6. Varianty.** (a) Nešlo by o výpůjčku (bezúplatně), ale o nájem (za úplatu) — pak by se uplatnila úprava § 256 a násl., nikoli § 255 (správce by zpravidla vypovídal s výpovědní lhůtou max. 3 měsíce). (b) Věc nebyla dosud předána — pak by se aplikoval § 258 (možnost odstoupení obou stran), nikoli § 255.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument vypůjčitele:* „Výpůjčka je na dobu určitou, mám právo věc užívat až do konce." Neutralizace: § 255 výslovně opravňuje správce žádat vrácení i před uplynutím sjednané doby — speciální úprava před obecnou smluvní dobou.
-- *Protiargument:* „Vrácení mi způsobí škodu, kterou uplatním." Neutralizace: § 255 nezakládá náhradu za předčasné ukončení výpůjčky (na rozdíl od § 258 u nepředaných věcí); výpůjčka je bezúplatná a slouží jen zájmu vypůjčitele.
-- *Slabé místo:* odlišení výpůjčky (bezúplatné) od nájmu/pachtu (úplatné) — určující pro volbu mezi § 255 a § 256 a násl.; a doložení, že věc patří do podstaty.
-
-### H. Praktický závěr
-
-U bezúplatné výpůjčky má správce silné a jednoduché právo: může požadovat vrácení věci kdykoli, i před koncem sjednané doby. Vrácená věc se zařadí do podstaty a zpeněží.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověřit, že jde o výpůjčku (bezúplatnou), nikoli nájem/pacht.
-- [ ] Zařadit vypůjčenou věc do soupisu a vyzvat vypůjčitele k vrácení.
-- [ ] Při nesoučinnosti uplatnit žalobu na vydání věci, využít soupis (§ 280).
-- [ ] Po navrácení věc zpeněžit dle § 286 a násl.
-
-**Typicky rozhodné důkazy / podklady:** smlouva o výpůjčce, soupis majetkové podstaty, doklad o předání a o totožnosti věci (např. technický průkaz), výzva k vrácení.
+**Nejvyšší soud, rozsudek velkého senátu ze dne 12. 11. 2014, sp. zn. 31 Cdo 3931/2013, ECLI:CZ:NS:2014:31.CDO.3931.2013.1, R 15/2015.** Ve sporu o vyklizení garáže soudy nižších stupňů posoudily bezúplatné užívání jako výpůjčku a vstup insolvenčního správce do řízení jako požadavek podle § 255. Nejvyšší soud však samotné předpoklady § 255 meritorně nepřezkoumal; nosně řešil možnost korektivu dobrých mravů a požadavek zohlednit vedle okolností přičitatelných dlužníku také společný zájem věřitelů. Rozhodnutí proto dokládá konkrétní procesní kontext použití § 255 a mez výkonu práva, nikoli obecné pravidlo, že každá vypůjčená věc bez dalšího náleží do podstaty nebo musí být vždy vrácena.
 
 ---
 

@@ -605,49 +605,66 @@ Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tato p
 
 ## § 256 — § 258 — Nájemní a podnájemní smlouvy
 
-### F. Kazuistika
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**1. Modelová situace.** Insolvenční správce přebírá podstatu dlužníka, který je současně účastníkem několika nájemních vztahů: u jedné nemovitosti je **pronajímatelem** (dlouhodobý nájem snižující prodejnost), u provozovny je **nájemcem** (a před úpadkem se opozdil s nájemným), a u skladu byla uzavřena nájemní smlouva, jejíž předmět dosud nebyl předán. Správce musí pro každý vztah zvolit režim podle § 256–258. Důkazy: všechny nájemní/podnájemní smlouvy, doklady o platbách a předání, korespondence o výpovědích a odstoupeních.
+### Znění ustanovení
 
-**2. Právní otázka.** Podle jakého z dílčích režimů (§ 256, § 257, § 258) se posoudí jednotlivé nájemní vztahy dlužníka v konkursu a jaký je jejich vzájemný vztah k obecné úpravě vzájemných smluv (§ 253)?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* společný blok § 256–258 jako **zvláštní úprava nájemních, podnájemních a obdobných užívacích vztahů** v konkursu, členěná podle postavení dlužníka (pronajímatel × nájemce) a podle stavu plnění (předáno × nepředáno).
-- *Související ustanovení téhož zákona:* § 253 (obecná úprava nesplněných vzájemných smluv — k § 256–258 je obecná, tato ustanovení jsou speciální), § 259 (přiměřené užití na leasing a koupi najaté věci), § 173 a § 168 (přihláška × pohledávka za podstatou).
-- *Související předpisy:* OZ — nájem, podnájem, výpůjčka, výpověď nájmu bytu, odstoupení od smlouvy.
-- *Judikatura:* nosný závěr, že nájemní vztahy v konkursu mají zvláštní režim chránící zpeněžitelnost podstaty na jedné straně a slabšího účastníka (nájemce bytu, dlužníka-nájemce) na straně druhé.
-
-**4. Subsumpce.** Skupina § 256–258 pokrývá tři typové konstelace: dlužník-pronajímatel (§ 256 — zkrácená výpověď správcem i u doby určité), dlužník-nájemce (§ 257 — zákaz výpovědi pronajímatelem pro předúpadkové prodlení a zhoršení situace), nepředaná věc (§ 258 — oboustranné odstoupení). Každý konkrétní vztah se přiřadí pod jeden z těchto znaků; § 253 ustupuje jako lex generalis.
-
-**5. Řešení.** Správce provede inventuru nájemních vztahů a ke každému přiřadí příslušné ustanovení: u dlužníka-pronajímatele zváží výpověď (§ 256), u dlužníka-nájemce ochrání trvání nájmu (§ 257), u nepředaných věcí rozhodne o odstoupení v zákonných lhůtách (§ 258). Procesní krok: jednotná evidence smluv s vyznačením lhůt (3 měsíce výpovědní, 15 dní obrana nájemce, 10 dní vyjádření o odstoupení, 30 dní přihláška škody).
-
-**6. Varianty.** (a) Jde-li o leasing nebo koupi najaté věci, použije se § 256–258 přiměřeně dle § 259. (b) Vztah je čistě obligační bez prvku užívání věci (např. smlouva o dílo) — pak se neuplatní § 256–258, nýbrž obecný § 253.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument:* „Na všechny smlouvy dlužníka dopadá obecný § 253." Neutralizace: pro nájem, podnájem a výpůjčku jsou § 256–258 zvláštní úpravou, která má před § 253 přednost.
-- *Protiargument:* „Postavení dlužníka (pronajímatel/nájemce) je nepodstatné." Neutralizace: celá konstrukce § 256–258 je na tomto rozlišení postavena — určuje, kdo a kdy může vztah ukončit.
-- *Slabé místo:* správné zařazení hraničních vztahů (leasing, koupě najaté věci, smíšené smlouvy) a souběh s ochranou nájemce bytu dle OZ.
-
-### H. Praktický závěr
-
-Ustanovení § 256–258 tvoří ucelený zvláštní režim užívacích vztahů v konkursu: rozlišuje dlužníka-pronajímatele (správce může i dobu určitou vypovědět), dlužníka-nájemce (chráněn před výpovědí pro předúpadkové prodlení) a nepředané věci (oboustranné odstoupení). Vůči § 253 jde o lex specialis.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Zinventovat všechny nájemní/podnájemní/výpůjční vztahy dlužníka.
-- [ ] Ke každému přiřadit režim podle postavení dlužníka a stavu předání (§ 256/257/258).
-- [ ] Ověřit, zda nejde o leasing či koupi najaté věci (§ 259) a o nájem bytu (zvláštní ochrana OZ).
-- [ ] Nastavit hlídání lhůt (3 měsíce / 15 dní / 10 dní / 30 dní).
-
-**Typicky rozhodné důkazy / podklady:** nájemní, podnájemní, výpůjční a leasingové smlouvy, doklady o platbách a předání předmětu, výpovědi a doručenky, přihlášky pohledávek.
-
-### § 256 — Výpovědní právo správce u dlužníka-pronajímatele
-
-> (1) Insolvenční správce je po prohlášení konkursu **oprávněn vypovědět nájemní smlouvu nebo podnájemní smlouvu uzavřenou dlužníkem** ve lhůtě stanovené zákonem nebo smlouvou, a to **i v případě, že byla sjednána na dobu určitou**; **výpovědní lhůta však nesmí být delší než 3 měsíce**. Ustanovení občanského zákoníku o tom, v kterých případech a za jakých podmínek může pronajímatel vypovědět nájem bytu, tím nejsou dotčena.
+> (1) Insolvenční správce je po prohlášení konkursu oprávněn vypovědět nájemní smlouvu nebo podnájemní smlouvu uzavřenou dlužníkem ve lhůtě stanovené zákonem nebo smlouvou, a to i v případě, že byla sjednána na dobu určitou; výpovědní lhůta však nesmí být delší než 3 měsíce. Ustanovení občanského zákoníku o tom, v kterých případech a za jakých podmínek může pronajímatel vypovědět nájem bytu, tím nejsou dotčena.
 >
-> (2) Jestliže by výpovědí nájemní smlouvy sjednané na určitou dobu, v níž je dlužník pronajímatelem, byl nájemce nepřiměřeně dotčen ve svých oprávněných zájmech nebo by tím utrpěl či mohl utrpět značnou škodu, **může nájemce do 15 dnů od doručení výpovědi navrhnout insolvenčnímu soudu zrušení výpovědi**. Jestliže bude zajištěno, že nájemce koupí předmět nájmu při zpeněžení majetkové podstaty za cenu obvyklou, vyhoví insolvenční soud takovému návrhu vždy.
+> (2) Jestliže by výpovědí nájemní smlouvy sjednané na určitou dobu, v níž je dlužník pronajímatelem, byl nájemce nepřiměřeně dotčen ve svých oprávněných zájmech nebo by tím utrpěl či mohl utrpět značnou škodu, může nájemce do 15 dnů od doručení výpovědi navrhnout insolvenčnímu soudu zrušení výpovědi. Jestliže bude zajištěno, že nájemce koupí předmět nájmu při zpeněžení majetkové podstaty za cenu obvyklou, vyhoví insolvenční soud takovému návrhu vždy.
 >
 > (3) Právo na nájemné nebo jinou úhradu za dobu před prohlášením konkursu může druhý účastník smlouvy uplatnit pouze přihláškou pohledávky. Totéž platí, jde-li o nájemné nebo jinou úhradu zaplacenou předem; tuto pohledávku je nutné přihlásit jako pohledávku vázanou na splnění odkládací podmínky.
+
+### Přehled výkladu
+
+§ 256 dává po prohlášení konkursu správci výpovědní oprávnění i u nájmu nebo podnájmu na dobu určitou a omezuje délku výpovědní lhůty. Současně chrání nájemce nájmu na dobu určitou, je-li dlužník pronajímatelem, a stanoví přihlašovací režim vyjmenovaných peněžitých práv. Nejde o povinnost správce vypovědět každý nájem.
+
+### Souvisící ustanovení
+
+- § 173 a násl. — přihlašování pohledávek.
+- § 245 a § 246 — prohlášení konkursu a dispoziční oprávnění správce.
+- § 253 — obecný režim smlouvy o vzájemném plnění; § 256 až 259 obsahují zvláštní pravidla.
+- § 257 a § 258 — dlužník jako nájemce a nepředaný předmět.
+- § 259 — přiměřené použití na leasing a koupi najaté věci.
+- § 289 — cena obvyklá při zpeněžení mimo dražbu.
+
+### Souvisící předpisy
+
+- zákon č. 89/2012 Sb., občanský zákoník — obecná úprava nájmu a podnájmu a ochrana nájemce bytu, kterou § 256 odst. 1 výslovně zachovává.
+
+### Z důvodové zprávy
+
+Oficiální důvodová zpráva vysvětluje § 255 až 259 společně. U § 256 vychází z možnosti správce vypovědět nájem na dobu určitou, upozorňuje však na možné poškození nájemců, kteří v dobré víře uzavřeli dlouhodobou smlouvu a investovali do předmětu nájmu; tomu odpovídá možnost zrušení výpovědi podle odstavce 2. Jde o legislativní východisko, nikoli o rozšíření zákonných podmínek. (Vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, zvláštní část „K § 255 až 259“, číslovaná s. 210, PDF s. 211.)
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tato poznámka není výsledkem negativní literární rešerše.
+
+### Výklad
+
+[1] **Rozhodný okamžik.** Oprávnění podle odstavce 1 vzniká až po prohlášení konkursu. Samotné rozhodnutí o úpadku je nezakládá. Jde o právo správce, nikoli o zákonnou povinnost.
+
+[2] **Rozsah smluv.** Odstavec 1 zahrnuje nájemní i podnájemní smlouvu uzavřenou dlužníkem a není omezen jen na dlužníka-pronajímatele. Ochrana podle odstavce 2 je naproti tomu výslovně vázána na nájem na dobu určitou, v němž je dlužník pronajímatelem.
+
+[3] **Výpovědní lhůta.** Správce použije lhůtu stanovenou zákonem nebo smlouvou; její délka nesmí přesáhnout tři měsíce. § 256 tedy nestanoví, že každá výpovědní lhůta činí právě tři měsíce.
+
+[4] **Nájem bytu.** Občanskoprávní pravidla o případech a podmínkách výpovědi nájmu bytu pronajímatelem zůstávají nedotčena. Insolvenční oprávnění tato ochranná pravidla samo neodstraňuje.
+
+[5] **Návrh nájemce.** Odstavec 2 vyžaduje nájem na dobu určitou, postavení dlužníka jako pronajímatele a nepřiměřené dotčení oprávněných zájmů nájemce nebo značnou či hrozící značnou škodu. Návrh se podává insolvenčnímu soudu do 15 dnů od doručení výpovědi. Zákon zde výslovně nekvalifikuje povahu lhůty ani následek jejího zmeškání; bez ověřené judikatury je komentář nedoplňuje.
+
+[6] **Koupě při zpeněžení.** Je-li zajištěno, že nájemce při zpeněžení koupí předmět nájmu za cenu obvyklou, soud návrhu vyhoví vždy. Pouhé tvrzení o zájmu koupit není bez dalšího totožné se zákonným požadavkem zajištěné koupě.
+
+[7] **Nájemné a jiné úhrady.** Právo druhého účastníka na nájemné nebo jinou úhradu za dobu před prohlášením konkursu lze uplatnit pouze přihláškou. Toto pravidlo neurčuje režim každé pohledávky z nájmu bez ohledu na období.
+
+[8] **Platba předem.** Předem zaplacené nájemné nebo jiná úhrada se přihlašuje jako pohledávka vázaná na splnění odkládací podmínky. Je třeba ji odlišit od dlužné úhrady za dobu před prohlášením konkursu.
+
+[9] **Systematická vazba.** § 257 chrání dlužníka-nájemce v tam uvedeném rozsahu, § 258 řeší nepředaný předmět a § 259 rozšiřuje režim přiměřeně na vyjmenované smlouvy. Obecný § 253 nesmí tato zvláštní pravidla obejít.
+
+[10] **Intertemporalita.** U konkrétního vztahu je nutno oddělit insolvenční účinky rozhodné pro řízení od soukromoprávního režimu smlouvy. U smluv vzniklých před 1. lednem 2014 nelze bez kontroly přechodných ustanovení mechanicky použít dnešní občanský zákoník.
+
+### Judikatura
+
+Do tohoto kola není zařazeno rozhodnutí, jehož plný text z oficiálního soudního zdroje by poskytoval přímo nosný výklad § 256. Nejde o tvrzení, že relevantní judikatura neexistuje; neurčité judikatorní teze bez identifikovaného a ověřeného rozhodnutí byly odstraněny.
 
 ### § 257 — Ochrana dlužníka-nájemce
 

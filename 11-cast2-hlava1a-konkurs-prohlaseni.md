@@ -1670,6 +1670,59 @@ Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento 
 
 Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k přímému výkladu § 273. Kandidátní odkazy nebyly nahrazeny obecným tvrzením založeným jen na právní větě či metadatech; nejde o závěr, že relevantní judikatura neexistuje.
 
+## § 274 — Zahrnutí SJM do majetkové podstaty
+
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Nelze-li provést vypořádání společného jmění manželů proto, že závazky dlužníka, které z něj mohou být uspokojeny, jsou vyšší než majetek, který náleží do společného jmění manželů, zahrne se celý majetek náležející do společného jmění manželů do majetkové podstaty. Výtěžek zpeněžení majetku náležejícího do společného jmění manželů se vypořádá přiměřeně podle pravidel pro vypořádání společného jmění manželů.
+>
+> (2) Pokud jsou vedena insolvenční řízení dlužníka i insolvenční řízení jeho manžela nebo bývalého manžela, zpeněžuje se majetek náležející do jejich společného jmění manželů podle odstavce 1 v insolvenčním řízení, ve kterém dříve nastaly účinky prohlášení konkursu nebo ve kterém zajištěný věřitel dříve požádal o zpeněžení majetku, který slouží k zajištění; v tomto řízení se také vypořádá výtěžek zpeněžení.
+>
+
+### Přehled výkladu
+
+Ustanovení řeší zvláštní následek předlužení společného jmění manželů (SJM) v konkursu. Převýší-li závazky dlužníka uspokojitelné ze SJM majetek náležející do SJM, samotné SJM se nevypořádá a celý jeho majetek se zahrne do majetkové podstaty. Zákon však současně ukládá přiměřeně vypořádat výtěžek zpeněžení podle pravidel vypořádání SJM.
+
+Jsou-li vedena insolvenční řízení obou manželů nebo bývalých manželů, odstavec 2 soustřeďuje zpeněžení dotčeného majetku a vypořádání výtěžku do jediného řízení. Rozhoduje dřívější z účinků prohlášení konkursu; u majetku sloužícího k zajištění zákon alternativně váže prioritu na dřívější žádost zajištěného věřitele o zpeněžení.
+
+### Souvisící ustanovení
+
+§ 5, § 205, § 225, § 268 až 273, § 275, § 283, § 293 a § 298.
+
+### Souvisící předpisy
+
+Obecný hmotněprávní rámec SJM upravuje zákon č. 89/2012 Sb., občanský zákoník. Jeho samostatný výklad nebyl do tohoto kola zařazen; pro použití § 274 je nutné pracovat s jeho zněním účinným pro posuzovaný případ.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona obsahoval dnešní pravidlo odstavce 1 bez věty o vypořádání výtěžku a bez dnešního odstavce 2. Zvláštní část důvodové zprávy k § 268 až 276 označila § 274 za nové ustanovení pro případ, kdy je SJM menší než závazky dlužníka, včetně společných závazků, které z něj mají být uspokojeny; tehdy se vypořádání neprovádí a celé SJM se zahrne do majetkové podstaty. Jde o historické vysvětlení původní koncepce, nikoli o podklad pro znění později doplněných pravidel o výtěžku a souběhu insolvenčních řízení.
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Nejde o závěr, že relevantní literatura neexistuje.
+
+### Výklad
+
+[1] **Podmínky použití.** § 274 odst. 1 vyžaduje porovnání dvou veličin: na jedné straně závazků dlužníka, které mohou být uspokojeny ze SJM, a na druhé straně majetku náležejícího do SJM. Zvláštní následek nastane jen tehdy, jsou-li první vyšší než druhý. Nestačí tedy samotné zjištění, že dlužník je v úpadku nebo že SJM zaniklo prohlášením konkursu.
+
+[2] **Rozsah srovnání.** Text § 274 rozlišuje majetek náležející do SJM a závazky dlužníka, které z něj mohou být uspokojeny. Do srovnání proto nelze bez dalšího zahrnout veškerý majetek obou manželů ani všechny jejich závazky. Vymezení konkrétních položek vyžaduje vedle insolvenčního zákona ověření hmotněprávního režimu účinného pro posuzovaný případ.
+
+[3] **Následek předlužení SJM.** Jsou-li zákonné podmínky splněny, neprovádí se vypořádání samotného SJM a celý majetek do něj náležející se zahrne do majetkové podstaty. Toto pravidlo navazuje na zánik SJM a obecný požadavek jeho vypořádání podle § 268, avšak pro předlužené SJM stanoví zvláštní řešení.
+
+[4] **Vypořádání výtěžku.** Neprovedení vypořádání SJM nelze zaměnit s absencí vypořádání výsledku zpeněžení. Druhá věta odstavce 1 výslovně přikazuje přiměřeně vypořádat výtěžek podle pravidel pro vypořádání SJM. Předmětem tohoto kroku je výtěžek zpeněžení, nikoli obnovené rozdělování jednotlivých věcí, které již byly podle první věty zahrnuty do majetkové podstaty.
+
+[5] **Souběh dvou insolvenčních řízení.** Odstavec 2 brání dvojímu zpeněžování téhož majetku. Při konkursu v obou řízeních se majetek podle odstavce 1 zpeněží v řízení, v němž dříve nastaly účinky prohlášení konkursu. V témže řízení se vypořádá také výtěžek.
+
+[6] **Majetek sloužící k zajištění.** U zajištěného majetku text odstavce 2 pracuje také s okamžikem, kdy zajištěný věřitel požádal o zpeněžení. Pro určení příslušného řízení je proto nutné doložit nejen okamžiky účinků obou prohlášení konkursu, ale podle povahy majetku i okamžiky žádostí zajištěných věřitelů; samotné datum zahájení insolvenčního řízení zákonným kritériem není.
+
+[7] **Intertemporalita.** Původní § 274 obsahoval jen pravidlo odpovídající první větě dnešního odstavce 1. Při posuzování starších skutkových stavů a starší judikatury je proto nutné ověřit znění účinné v době rozhodných účinků konkursu. Dnešní pravidlo o vypořádání výtěžku ani odstavec 2 nelze zpětně vydávat za součást původní úpravy.
+
+### Judikatura
+
+Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita. Nalezená rozhodnutí Nejvyššího soudu se vztahovala k dřívějším zněním § 274; bez samostatného intertemporálního rozboru by nebyla bezpečnou oporou pro současný odstavec 2. Nejde o závěr, že relevantní judikatura neexistuje.
+
 ## § 277 — Aktivace správce
 
 > (1) Neprodleně poté, co nabude účinnosti prohlášení konkursu, zajistí insolvenční správce provedení procesních úkonů a dalších činností, které z prohlášení konkursu vyplývají.

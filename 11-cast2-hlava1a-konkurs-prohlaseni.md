@@ -1936,49 +1936,52 @@ V tomto kole nebylo použito rozhodnutí, jehož plný text z oficiálního soud
 
 ## § 280 — Soupis jako exekuční titul
 
-> Nestanoví-li tento zákon jinak, **je soupis listinou, která insolvenčního správce v rámci konkursu opravňuje ke zpeněžení zapsaného majetku**.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> Nestanoví-li tento zákon jinak, je soupis listinou, která insolvenčního správce v rámci konkursu opravňuje ke zpeněžení zapsaného majetku.
+
+### Přehled výkladu
+
+Ustanovení spojuje se zápisem majetku do soupisu zákonné oprávnění insolvenčního správce tento majetek v konkursu zpeněžit. Nejde však o samostatný a bezpodmínečný způsob zpeněžení: správce musí dodržet ostatní omezení insolvenčního zákona, zejména pravidla o excindačním sporu, okamžiku a způsobu zpeněžení a potřebných souhlasech.
+
+### Souvisící ustanovení
+
+- § 217 až 224 — soupis majetkové podstaty a vyrozumění o soupisu
+- § 225 a 226 — vyloučení a vynětí majetku z majetkové podstaty
+- § 246 odst. 1 — přechod oprávnění nakládat s majetkovou podstatou na insolvenčního správce
+- § 283 až 289a — pojem, okamžik a způsoby zpeněžení
+
+### Souvisící předpisy
+
+§ 280 sám přímo neodkazuje na jiný právní předpis. Zvláštní předpisy se uplatní podle zvoleného způsobu zpeněžení; insolvenční zákon na ně navazuje zejména v § 286 až 289a.
+
+### Z důvodové zprávy
+
+Zvláštní část důvodové zprávy pojednává § 277 až 282 společně. Označuje je za promítnutí ustanovení obecné části do procesního postupu v konkursu; k vlastnímu pravidlu § 280 samostatné vysvětlení nepřipojuje. Jde o historický legislativní podklad, nikoli o náhradu aktuálního znění.
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tento údaj není výsledkem negativní literární rešerše.
 
 ### Výklad
 
-**Soupis = oprávnění ke zpeněžení**. Bez tohoto pravidla by správce potřeboval samostatný titul pro každý prodej — exekuční rozhodnutí. Soupis ho *nahrazuje*.
+[1] **Funkce soupisu.** Soupis není jen evidenčním přehledem. § 280 mu pro konkurs přiznává účinek zákonné listiny opravňující správce ke zpeněžení právě toho majetku, který je v něm zapsán. Rozsah oprávnění je proto věcně vymezen zápisem a časově i procesně omezen konkursním režimem.
 
-> *Praktický dopad*: vše, co je v soupisu, *může být zpeněženo* podle pravidel § 286 a násl.
+[2] **Výhrada „nestanoví-li tento zákon jinak“.** Zápis do soupisu sám neodstraňuje další zákonné podmínky. Zpeněžení lze zásadně zahájit až v době určené § 283 odst. 2; způsob se volí podle § 286 a navazujících ustanovení. Podle konkrétního způsobu mohou být nutné souhlasy nebo další listiny, například při soudním prodeji podle § 288 nebo při prodeji mimo dražbu podle § 289.
 
-### F. Kazuistika
+[3] **Spor o příslušnost majetku k podstatě.** Běží-li lhůta k podání vylučovací žaloby nebo řízení o ní, § 225 odst. 4 stanoví zákaz zpeněžení dotčeného majetku a jiného nakládání s ním, ledaže je splněna některá z výslovných zákonných výjimek. Obecné oprávnění ze soupisu podle § 280 tento zvláštní zákaz nepřekonává. § 225 odst. 5 upravuje další výjimečný postup po nepravomocném skončení sporu a odkládá uspokojení věřitelů z výtěžku do pravomocného skončení řízení.
 
-**1. Modelová situace.** Insolvenční správce sepsal do soupisu majetkové podstaty výrobní stroj a osobní automobil dlužníka. Chce je zpeněžit prodejem mimo dražbu. Kupující se ptá, na základě jakého titulu správce prodává, když nemá soudní rozhodnutí nařizující prodej. Současně třetí osoba tvrdí, že stroj je její (zařazen do soupisu neprávem), a podala vylučovací žalobu. Důkazy: soupis majetkové podstaty, doklady o vlastnictví/držbě sepsaných věcí, vylučovací žaloba.
+[4] **Majetek zpeněžený navzdory vadnému soupisu.** Zjistí-li se, že zpeněžená věc neměla být do soupisu pojata, § 225 odst. 6 přiznává jejímu vlastníkovi právo na vydání výtěžku a zachovává jeho právo na náhradu škody. Z tohoto pravidla nelze bez posouzení konkrétních předpokladů dovozovat automatický vznik odpovědnosti správce v každém případě vadného soupisu.
 
-**2. Právní otázka.** Opravňuje samotný soupis insolvenčního správce ke zpeněžení zapsaného majetku, aniž by potřeboval samostatný exekuční titul pro každý prodej?
+[5] **Praktická kontrola.** Před zpeněžením je třeba ověřit totožnost položky se zápisem v soupisu, trvání zápisu, existenci překážky podle § 225 nebo § 226, splnění časových podmínek § 283 a podmínky zvoleného způsobu podle § 286 až 289a. § 280 řeší základ oprávnění; nenahrazuje tento navazující test.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 280 — nestanoví-li zákon jinak, je **soupis listinou, která správce v rámci konkursu opravňuje ke zpeněžení** zapsaného majetku.
-- *Související ustanovení téhož zákona:* § 286 a násl. (způsoby zpeněžení), § 217 a násl. (soupis majetkové podstaty), § 225 (vylučovací žaloba — vynětí věci ze soupisu), § 246 (přechod správy na správce).
-- *Související předpisy:* exekuční řád / o. s. ř. (jinak nutný exekuční titul pro prodej — zde nahrazen soupisem).
-- *Judikatura:* nosný závěr, že soupis je dostatečným podkladem (titulem) pro zpeněžení sepsaného majetku, takže správce nepotřebuje pro jednotlivé prodeje samostatné soudní rozhodnutí.
+[6] **Intertemporalita.** Pro posouzení dřívějšího zpeněžení je rozhodné znění insolvenčního zákona účinné v době příslušného postupu. Tento komentář vychází ze znění rozhodného k 19. 7. 2026.
 
-**4. Subsumpce.** Stroj i automobil jsou zapsány v soupisu → § 280: soupis je listinou opravňující správce ke zpeněžení obojího v rámci konkursu, bez nutnosti dalšího titulu. Vylučovací žaloba třetí osoby (§ 225) směřuje proti zařazení stroje do soupisu — dokud o ní není rozhodnuto, je třeba postupovat opatrně (riziko, že věc bude ze soupisu vyloučena).
+### Judikatura
 
-**5. Řešení.** Správce může zpeněžit automobil na základě soupisu způsoby dle § 286 a násl. bez samostatného rozhodnutí o nařízení prodeje. U stroje, k němuž běží vylučovací žaloba, je vhodné se zpeněžením vyčkat (nebo zpeněžit s tím, že výtěžek se deponuje), aby nedošlo k zásahu do práv třetí osoby, bude-li věc ze soupisu vyloučena. Procesní kroky: doložení soupisu kupujícímu jako titulu, volba způsobu zpeněžení, vyřešení vylučovacího sporu před zpeněžením sporné věci.
-
-**6. Varianty.** (a) Zákon u konkrétního majetku stanoví jinak (např. zvláštní režim zpeněžení) — pak soupis sám nestačí a uplatní se zvláštní úprava (§ 280 in fine). (b) Vylučovací žaloba je úspěšná — věc se ze soupisu vyloučí a správce ji nesmí zpeněžit; již provedené zpeněžení by zakládalo odpovědnost za škodu.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument kupujícího:* „Bez soudního rozhodnutí o prodeji nemá správce titul." Neutralizace: § 280 — titulem ke zpeněžení je sám soupis; samostatné rozhodnutí není třeba.
-- *Protiargument třetí osoby:* „Stroj je můj, správce jej nesmí prodat." Neutralizace: zápis do soupisu titul ke zpeněžení zakládá, avšak třetí osoba se brání vylučovací žalobou (§ 225); do rozhodnutí je namístě opatrnost.
-- *Slabé místo:* riziko zpeněžení věci, která bude posléze vyloučena ze soupisu (odpovědnost za škodu); a výjimky „nestanoví-li zákon jinak", které mohou u zvláštního majetku soupis jako titul vyloučit.
-
-### H. Praktický závěr
-
-Soupis majetkové podstaty je sám o sobě titulem (listinou) opravňujícím správce ke zpeněžení zapsaného majetku v rámci konkursu — odpadá potřeba samostatného exekučního/soudního titulu pro jednotlivé prodeje. U majetku dotčeného vylučovací žalobou je namístě obezřetnost.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Před zpeněžením ověřit, že věc je řádně zapsána v soupisu (§ 280).
-- [ ] Zvolit způsob zpeněžení dle § 286 a násl.; samostatné rozhodnutí o prodeji není třeba.
-- [ ] U věcí dotčených vylučovací žalobou (§ 225) zpeněžení odložit nebo deponovat výtěžek.
-- [ ] Ověřit, zda zákon u daného majetku nestanoví jinak (výjimka z titulu soupisem).
-
-**Typicky rozhodné důkazy / podklady:** soupis majetkové podstaty, doklady o vlastnictví/držbě sepsaných věcí, případná vylučovací žaloba a rozhodnutí o ní, doklady o způsobu a podmínkách zpeněžení.
+Do tohoto kola nebylo zařazeno rozhodnutí, jehož plný text by byl z oficiálního soudního zdroje ověřen jako přímo nosný k výkladu § 280. Tím se nevyslovuje závěr o neexistenci související judikatury.
 
 ---
 

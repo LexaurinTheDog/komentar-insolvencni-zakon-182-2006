@@ -623,108 +623,81 @@ V tomto kole není jako nosný pramen výkladu použito žádné rozhodnutí. T�
 
 ## § 241 — Neúčinnost zvýhodňujících právních úkonů
 
-> (1) Zvýhodňujícím právním úkonem se rozumí právní úkon, v jehož důsledku **se některému věřiteli dostane na úkor ostatních věřitelů vyššího uspokojení, než jaké by mu jinak náleželo v konkursu**.
-> (2) Zvýhodňujícím právním úkonem se rozumí pouze právní úkon, který dlužník učinil v době, kdy byl v úpadku, nebo právní úkon, který vedl k dlužníkovu úpadku. **Má se za to, že zvýhodňující právní úkon učiněný ve prospěch osoby dlužníku blízké nebo osoby, která tvoří s dlužníkem koncern, je úkonem, který dlužník učinil v době, kdy byl v úpadku.**
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Zvýhodňujícím právním úkonem se rozumí právní úkon, v jehož důsledku se některému věřiteli dostane na úkor ostatních věřitelů vyššího uspokojení, než jaké by mu jinak náleželo v konkursu.
+>
+> (2) Zvýhodňujícím právním úkonem se rozumí pouze právní úkon, který dlužník učinil v době, kdy byl v úpadku, nebo právní úkon, který vedl k dlužníkovu úpadku. Má se za to, že zvýhodňující právní úkon učiněný ve prospěch osoby dlužníku blízké nebo osoby, která tvoří s dlužníkem koncern, je úkonem, který dlužník učinil v době, kdy byl v úpadku.
+>
 > (3) Zvýhodňujícími právními úkony jsou zejména úkony, kterými dlužník
-> a) **splnil dluh dříve, než se stal splatným**,
+>
+> a) splnil dluh dříve, než se stal splatným,
+>
 > b) dohodl změnu nebo nahrazení závazku ve svůj neprospěch,
+>
 > c) prominul svému dlužníku splnění dluhu nebo jinak dohodl anebo umožnil zánik či nesplnění svého práva,
-> d) **poskytl svůj majetek k zajištění již existujícího závazku**, ledaže jde o vznik zajištění v důsledku změn vnitřního obsahu zastavené věci hromadné.
-> (4) Zvýhodňujícímu právnímu úkonu lze odporovat, byl-li učiněn **v posledních 3 letech před zahájením insolvenčního řízení ve prospěch osoby dlužníku blízké nebo osoby, která tvoří s dlužníkem koncern**, anebo **v době 1 roku před zahájením insolvenčního řízení ve prospěch jiné osoby**.
-> (5) Zvýhodňujícím právním úkonem **není**
-> a) zřízení zajištění závazku dlužníka, **obdržel-li za ně dlužník současně přiměřenou protihodnotu**,
+>
+> d) poskytl svůj majetek k zajištění již existujícího závazku, ledaže jde o vznik zajištění v důsledku změn vnitřního obsahu zastavené věci hromadné.
+>
+> (4) Zvýhodňujícímu právnímu úkonu lze odporovat, byl-li učiněn v posledních 3 letech před zahájením insolvenčního řízení ve prospěch osoby dlužníku blízké nebo osoby, která tvoří s dlužníkem koncern, anebo v době 1 roku před zahájením insolvenčního řízení ve prospěch jiné osoby.
+>
+> (5) Zvýhodňujícím právním úkonem není
+>
+> a) zřízení zajištění závazku dlužníka, obdržel-li za ně dlužník současně přiměřenou protihodnotu,
+>
 > b) právní úkon učiněný za podmínek obvyklých v obchodním styku, na základě kterého dlužník obdržel přiměřené protiplnění nebo jiný přiměřený majetkový prospěch, a to za předpokladu, že nešlo o úkon učiněný ve prospěch osoby dlužníkovi blízké nebo osoby, která tvoří s dlužníkem koncern, a že osoba, v jejíž prospěch byl úkon učiněn, nemohla ani při náležité pečlivosti poznat, že dlužník je v úpadku, nebo že by tento úkon mohl vést k úpadku dlužníka,
+>
 > c) právní úkon, který dlužník učinil za trvání moratoria nebo po zahájení insolvenčního řízení za podmínek stanovených tímto zákonem.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *NS* [29 ICdo 14/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C9B8EA924C62B843C1257D160034569E?openDocument) — kat. A, 29. 4. 2014
-  > „Rozhodne-li insolvenční soud o úpadku dlužníka na základě vyvratitelné domněnky o neschopnosti dlužníka platit své peněžité závazky (§ 3 odst. 2 insolvenčního zákona, platí tato vyvratitelná domněnka i v dalších případech, kdy insolvenční zákon váže vznik případných práv a povinností na stav úpadku dlužníka. Tak je tomu např. jde-li o odpovědnost za škodu nebo jinou újmu vzniklou porušením povinnosti podat insolvenční návrh (§ 98 a § 99 insolvenčního zákona) nebo o neúčinnost právních úkonů bez přiměřeného protiplnění (§ 240 odst. 2 insolvenčního zákona), popř. o neúčinnost zvýhodňujících právních úkonů (§ 241 odst. 2 insolvenčního zákona)"
+§ 241 chrání poměrné uspokojení věřitelů před selektivním zvýhodněním. Nestačí, že jednání odpovídá některému příkladu v odstavci 3. Je třeba současně zjistit obecný znak podle § 235 odst. 1, vyšší konkursní uspokojení podle odstavce 1, úpadek nebo kauzalitu podle odstavce 2, dodržení odporovacího období podle odstavce 4 a absenci výjimky podle odstavce 5.
 
-### Výklad — **DRUHÝ TYP NEÚČINNOSTI: ZVÝHODNĚNÍ VĚŘITELE**
+### Souvisící ustanovení
 
-#### Definice (odst. 1)
+- § 3 — úpadek,
+- § 39 až § 42 — moratorium a úvěrové financování,
+- § 111 — omezení dlužníka po zahájení insolvenčního řízení,
+- § 235 až § 239 — obecná úprava neúčinnosti, vydání plnění a odpůrčí žaloba,
+- § 240 a § 242 — sousední zvláštní skutkové podstaty,
+- § 243 — zvláštní pravidlo pro osoby podle § 42 odst. 3.
 
-**Komparativní test**: srovnání toho, co věřitel dostal *z napadeného úkonu*, s tím, co by dostal *v konkursu* (typicky 5—15 % u nezajištěných).
+### Souvisící předpisy
 
-> *Příklad*: dlužník v úpadku splatil věřiteli A celou pohledávku (100 %). V konkursu by věřitel A dostal *teoreticky* 10 %. *Zvýhodnění o 90 %* — úkon je zvýhodňující.
+- § 22 zákona č. 89/2012 Sb., občanský zákoník — osoby blízké,
+- § 79 zákona č. 90/2012 Sb., o obchodních korporacích — koncern.
 
-#### Časový rámec — *stejné jako § 240*
+### Z důvodové zprávy
 
-- *v úpadku* nebo *vedoucí k úpadku*,
-- *domněnka úpadku* u spřízněných.
+Oficiální důvodová zpráva k vládnímu návrhu insolvenčního zákona popsala odporovatelnost jako prostředek návratu hodnot do majetkové podstaty a zdůraznila sjednocení podmínek a odporovacích období. Vládní návrh však měl v této části jinou systematiku a číslování než přijatý zákon; zpráva proto dokládá jen původní koncepci, nikoli dnešní doslovný obsah § 241.
 
-#### Demonstrativní výčet zvýhodňujících úkonů (odst. 3)
+### Literatura
 
-**a) Předčasné splacení** — typický scénář. Splacení dluhu, který *ještě nebyl splatný*, je *automaticky* podezřelé.
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tato poznámka není výsledkem negativní rešerše literatury.
 
-**b) Změna / nahrazení závazku ve svůj neprospěch** — typicky novace zhoršující dlužníkovo postavení.
+### Výklad
 
-**c) Prominutí dluhu / zánik práva** — dlužník vzdá se pohledávky vůči svému dlužníkovi.
+[1] Výchozím bodem je § 235 odst. 1: jednání musí zkracovat možnost uspokojení věřitelů nebo zvýhodňovat některé věřitele na úkor jiných. § 241 tuto obecnou klauzuli konkretizuje. Jednotlivé odstavce proto nelze posuzovat izolovaně.
 
-**d) Zajištění starého dluhu** — *velmi důležité*. Typicky: věřitel měl jen nezajištěnou pohledávku, dlužník mu *dodatečně dal hypotéku*. *Zvýhodnění* — věřitel z nezajištěného se stal zajištěným.
+[2] Odstavec 1 vyžaduje konkursní srovnání. Porovnává se uspokojení, jehož dotčený věřitel dosáhl v důsledku napadeného jednání, s uspokojením, které by mu náleželo v konkursu při zachování jeho skutečného pořadí a zajištění. Zákon nestanoví pevný procentní práh; rozhodná data se odvozují z majetkové podstaty, struktury pohledávek a pravidel konkursního uspokojení.
 
-> *Výjimka odst. 5 písm. a)*: zajištění *při poskytnutí nového úvěru* (přiměřená protihodnota) je *nezávadné*. Logika — žádný nový věřitel by nepůjčil bez zajištění.
+[3] Podle odstavce 2 musí dlužník jednat v úpadku nebo musí jednání k úpadku vést. U jednání ve prospěch osoby dlužníku blízké nebo osoby tvořící s dlužníkem koncern zákon presumuje pouze to, že bylo učiněno v době úpadku. Tato vyvratitelná domněnka nenahrazuje konkursní srovnání, obecný znak neúčinnosti, odporovací období ani kontrolu výjimek.
 
-#### Lhůty — stejné jako § 240 (3 roky / 1 rok).
+[4] Výčet v odstavci 3 je demonstrativní. Předčasné splnění dluhu, zhoršující změna závazku, zánik dlužníkova práva nebo zajištění existujícího závazku jsou zákonné příklady, nikoli automatické důvody úspěchu odpůrčí žaloby. I u nich musí být prokázány ostatní znaky.
 
-#### Výjimky (odst. 5)
+[5] Odstavec 4 vymezuje období před zahájením insolvenčního řízení: tři roky u jednání ve prospěch blízké osoby nebo osoby z koncernu a jeden rok u jiné osoby. Jde o jinou časovou podmínku než roční lhůta insolvenčního správce k podání odpůrčí žaloby podle § 239 odst. 3, která běží od účinků rozhodnutí o úpadku.
 
-(a) **Zajištění *za nový úvěr*** — *není* zvýhodňující.
+[6] Odstavec 5 obsahuje tři výluky. U zřízení zajištění se zkoumá současně obdržená přiměřená protihodnota. U běžného obchodního styku musí být splněny všechny podmínky písmene b), včetně přiměřeného protiplnění nebo majetkového prospěchu, absence vztahu blízkosti či koncernu a nemožnosti poznat úpadek nebo hrozbu úpadku ani při náležité pečlivosti. Písmeno c) chrání jen jednání učiněná za trvání moratoria nebo po zahájení řízení za podmínek insolvenčního zákona.
 
-(b) **Úkon v obchodním styku za přiměřenou protihodnotu**, *pokud*:
-- *nešlo o spřízněnou osobu*,
-- *protistrana nemohla poznat úpadek*.
+[7] Procesně může odporovat pouze insolvenční správce odpůrčí žalobou; rozhodne-li věřitelský výbor, podá ji vždy. Dlužníkovo plnění náleží do majetkové podstaty právní mocí vyhovujícího rozhodnutí a povinnost vydat plnění nebo rovnocennou náhradu se řídí § 236 až § 239.
 
-(c) **Úkon v moratoriu nebo po zahájení IR** podle pravidel IZ — typicky úvěrové financování (§ 41).
-
-### Vazby
-
-- **§ 240** — bez přiměřeného protiplnění.
-- **§ 242** — úmyslně zkracující.
-- **§ 41 — § 42** — úvěrové financování.
+[8] Intertemporálně je třeba ověřit znění účinné pro posuzované jednání a konkrétní insolvenční řízení. Původní důvodová zpráva vysvětluje legislativní koncepci, nemůže však nahradit kontrolu dnešního konsolidovaného textu ani přechodných ustanovení pozdějších novel.
 
 ### Judikatura
 
-- **NS 29 ICdo 11/2014**: předčasné splacení dluhu spřízněné osobě *automaticky* napadnutelné — i kdyby dlužník tvrdil běžnost transakce.
-- **NS 29 ICdo 20/2017**: zřízení zástavního práva pro starý dluh = paradigmaticky zvýhodňující úkon.
-- **NS 29 ICdo 4/2018**: výjimka „obvyklý obchodní styk" — vyžaduje *aktivní due diligence* protistrany; pouhá neznalost úpadku nestačí.
-
-### F. Kazuistika
-
-**1. Modelová situace.** Dlužník OMEGA (s.r.o.) půl roku před zahájením IR, v době, kdy již nestíhal hradit splatné závazky, *předčasně* splatil dosud nesplatnou půjčku jednomu ze svých věřitelů — společnosti ALFA-2 (jednatel ALFA-2 je švagr jednatele OMEGA). Ostatní věřitelé nedostali nic. V konkursu by ALFA-2 dosáhla uspokojení odhadem 10 %. Správce chce platbu napadnout. Důkazy: smlouva o půjčce s datem splatnosti, doklad o předčasné úhradě, účetnictví dlužníka, doklady o personálním propojení, odhad míry uspokojení v konkursu.
-
-**2. Právní otázka.** Jde o zvýhodňující úkon podle § 241 (předčasné splacení dluhu), je dán znak úpadku, uplatní se domněnka úpadku a prodloužená lhůta u spřízněné osoby a neuplatní se některá z výjimek?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 241 odst. 1 IZ (vyšší uspokojení věřitele na úkor ostatních než v konkursu — komparativní test), odst. 2 (úpadek / vedoucí k úpadku; domněnka úpadku u blízké osoby/koncernu), odst. 3 písm. a) (předčasné splacení), písm. d) (zajištění existujícího závazku), odst. 4 (lhůty 3 roky / 1 rok), odst. 5 (výjimky: zajištění za přiměřenou protihodnotu, obchodní styk, úkon v moratoriu / po zahájení IR).
-- *Související ustanovení téhož zákona:* § 235 IZ (generální klauzule), § 240 IZ (bez přiměřeného protiplnění), § 242 IZ (úmyslné zkrácení), § 239 IZ (odpůrčí žaloba), § 41–42 IZ (úvěrové financování).
-- *Související předpisy:* § 22 OZ (osoby blízké), § 79 ZOK (koncern).
-- *Judikatura:* NS 29 ICdo 14/2012 (citováno) — vyvratitelná domněnka úpadku platí i pro § 241 odst. 2; NS 29 ICdo 11/2014 — předčasné splacení dluhu spřízněné osobě je automaticky napadnutelné; NS 29 ICdo 20/2017 — zřízení zástavy pro starý dluh je paradigmaticky zvýhodňující; NS 29 ICdo 4/2018 — výjimka „obvyklý obchodní styk" vyžaduje aktivní due diligence.
-
-**4. Subsumpce.** Předčasné splacení nesplatné půjčky je *demonstrativně* uveden jako zvýhodňující úkon (odst. 3 písm. a). ALFA-2 dostala 100 %, ač by v konkursu dostala ~10 % → *vyšší uspokojení na úkor ostatních* (komparativní test, odst. 1). Personální propojení (švagr) zakládá *blízkost* → *domněnka úpadku* (odst. 2) a *3letá* lhůta (odst. 4); úkon 6 měsíců zpět je v lhůtě. Výjimka „obvyklý obchodní styk" (odst. 5 písm. b) je *vyloučena* u spřízněné osoby.
-
-**5. Řešení.** Správce podá odpůrčí žalobu podle § 241; provede komparativní test (rozdíl mezi 100 % a hypotetickým uspokojením v konkursu) a doloží blízkost. Domněnka úpadku přenáší břemeno na ALFA-2. Pravděpodobný výsledek: určení neúčinnosti a povinnost ALFA-2 vydat přijaté plnění do podstaty; pohledávka ALFA-2 „obživne" a uspokojí se poměrně v rozvrhu. Riziko: ALFA-2 bude tvrdit běžnost transakce — u spřízněné osoby však tato obrana neobstojí (NS 29 ICdo 11/2014).
-
-**6. Varianty.** (a) Kdyby šlo o *řádné* (splatné) splacení dluhu nespřízněnému věřiteli za podmínek obvyklých v obchodním styku, mohla by se uplatnit výjimka odst. 5 písm. b) (s nutností due diligence — NS 29 ICdo 4/2018). (b) Kdyby dlužník zřídil zástavu *současně* za nově poskytnutý úvěr (přiměřená protihodnota), nešlo by o zvýhodnění (odst. 5 písm. a). (c) U nespřízněného věřitele by platila *1letá* lhůta a chyběla by domněnka úpadku.
-
-### G. Protiargumenty a rizika
-
-- *„Splacení dluhu je běžná transakce, nikoho nepoškozuje."* — Neutralizace: rozhodný je *komparativní test* (odst. 1) — věřitel dostal víc, než by mu náleželo v konkursu; předčasné splacení je výslovně uvedeno jako zvýhodňující (odst. 3 písm. a) a u spřízněné osoby je automaticky napadnutelné (NS 29 ICdo 11/2014).
-- *„Šlo o úkon v obvyklém obchodním styku (odst. 5 písm. b)."* — Neutralizace: výjimka je u *spřízněné osoby vyloučena*; i u nespřízněné vyžaduje *aktivní due diligence* protistrany, pouhá neznalost úpadku nestačí (NS 29 ICdo 4/2018).
-- Slabé místo: u zajištění je třeba odlišit zvýhodňující *zajištění starého dluhu* (odst. 3 písm. d) od *nezávadného* zajištění za současně poskytnutou přiměřenou protihodnotu (odst. 5 písm. a) — hranicí je *současnost* a *přiměřenost* protihodnoty.
-
-### H. Praktický závěr
-
-§ 241 dopadá na úkony, jimiž se některému věřiteli dostane vyššího uspokojení než v konkursu (zejm. předčasné splacení, zajištění starého dluhu). U blízkých osob/koncernu platí domněnka úpadku a 3letá lhůta; výjimky (zajištění za protihodnotu, obvyklý obchodní styk, úkon v moratoriu/po zahájení IR) je nutno vykládat úzce.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Provést komparativní test: porovnat skutečné uspokojení věřitele s hypotetickým uspokojením v konkursu.
-- [ ] Zařadit úkon pod demonstrativní výčet odst. 3 (předčasné splacení, zajištění starého dluhu apod.).
-- [ ] Zjistit vztah blízkosti/koncernu (domněnka úpadku, 3letá lhůta) vs. jiná osoba (1letá lhůta).
-- [ ] Posoudit výjimky odst. 5 (zajištění za přiměřenou protihodnotu, obvyklý obchodní styk s due diligence, úkon v moratoriu/po zahájení IR).
-
-**Typicky rozhodné důkazy / podklady:** smlouvy a doklady o splacení/zajištění, datum splatnosti závazku, účetnictví a přehled splatných závazků, odhad míry uspokojení v konkursu, doklady o blízkosti/koncernu, podklady k due diligence protistrany.
+Dřívější verze uváděla rozhodnutí 29 ICdo 11/2014, 29 ICdo 20/2017 a 29 ICdo 4/2018 pro kategorické závěry o automatické odporovatelnosti, zajištění starého dluhu a „aktivní due diligence“. Tyto citace nebyly v jednotce podloženy fyzickým snapshotem plného textu z oficiálního webu a nezávislý audit je zpochybnil. Proto nejsou použity jako pramenná opora této revize. Judikatorní doplnění je ponecháno na navazující kolo po uzavření plných oficiálních textů, přesných locatorů a intertemporální kontroly; zákonný test výše stojí výhradně na ověřeném aktuálním znění a nesmí být chápán jako tvrzení o neexistenci relevantní judikatury.
 
 ---
 

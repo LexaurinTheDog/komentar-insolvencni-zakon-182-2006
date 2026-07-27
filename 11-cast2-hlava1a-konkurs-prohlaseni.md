@@ -668,43 +668,54 @@ Do tohoto kola není zařazeno rozhodnutí, jehož plný text z oficiálního so
 
 ### § 257 — Ochrana dlužníka-nájemce
 
-> Nájemní nebo podnájemní smlouvu, kterou dlužník uzavřel jako nájemce nebo podnájemce, **nemůže druhý účastník smlouvy po rozhodnutí o úpadku vypovědět nebo od ní odstoupit pro prodlení dlužníka s placením nájemného** nebo jiné úhrady, ke kterému došlo před rozhodnutím o úpadku, anebo pro **zhoršení majetkové situace dlužníka**.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-#### F. Kazuistika
+#### Znění ustanovení
 
-**1. Modelová situace.** Dlužník (FO-podnikatel) má pronajatou výrobní halu, v níž provozuje svou činnost. Před rozhodnutím o úpadku se opozdil se třemi měsíčními nájmy. Po rozhodnutí o úpadku pronajímatel doručil dlužníku výpověď, kterou odůvodnil jednak tímto předúpadkovým prodlením, jednak „zhoršenou majetkovou situací" dlužníka (zahájené insolvenční řízení). Správce chce halu zachovat pro pokračování provozu (§ 261). Důkazy: nájemní smlouva, evidence plateb nájemného, výpověď a její doručení, datum rozhodnutí o úpadku.
+> Nájemní nebo podnájemní smlouvu, kterou dlužník uzavřel jako nájemce nebo podnájemce, nemůže druhý účastník smlouvy po rozhodnutí o úpadku vypovědět nebo od ní odstoupit pro prodlení dlužníka s placením nájemného nebo jiné úhrady, ke kterému došlo před rozhodnutím o úpadku, anebo pro zhoršení majetkové situace dlužníka.
 
-**2. Právní otázka.** Může pronajímatel po rozhodnutí o úpadku vypovědět nájem dlužníku-nájemci, resp. od něj odstoupit, pro prodlení s nájemným vzniklé před rozhodnutím o úpadku nebo pro zhoršení majetkové situace dlužníka?
+#### Přehled výkladu
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 257 — **ochranné (protektivní) pravidlo**: druhý účastník (pronajímatel) **nemůže** po rozhodnutí o úpadku nájem/podnájem dlužníka-nájemce vypovědět ani od něj odstoupit pro **prodlení s placením vzniklé před rozhodnutím o úpadku** ani pro **zhoršení majetkové situace** dlužníka.
-- *Související ustanovení téhož zákona:* § 256 (zrcadlová situace — dlužník-pronajímatel), § 258 (nepředané věci), § 261 (provoz dlužníkova podniku, pro nějž je nájem prostoru často nezbytný), § 253 (obecná úprava).
-- *Související předpisy:* OZ — výpovědní důvody nájmu, odstoupení od smlouvy pro prodlení.
-- *Judikatura:* nosný závěr, že insolvenční ochrana brání věřiteli ukončit pro dlužníka zásadní smluvní vztah jen proto, že se dlužník dostal do úpadku či byl před ním v prodlení.
+§ 257 chrání dlužníka v postavení nájemce nebo podnájemce před výpovědí a odstoupením založenými na dvou zákonem určených důvodech. Zákaz nastupuje již po rozhodnutí o úpadku; není podmíněn prohlášením konkursu. Nejde však o obecný zákaz ukončit smlouvu z každého jiného důvodu.
 
-**4. Subsumpce.** Výpověď je odůvodněna (i) prodlením s nájmem vzniklým **před** rozhodnutím o úpadku a (ii) zhoršením majetkové situace dlužníka. Oba důvody jsou § 257 výslovně zapovězeny → výpověď (odstoupení) z těchto důvodů je vůči dlužníku-nájemci **neúčinná/neplatná** a nájem trvá.
+#### Souvisící ustanovení
 
-**5. Řešení.** Správce namítne nepřípustnost výpovědi dle § 257 a trvá na pokračování nájmu; dlužné předúpadkové nájemné pronajímatel uplatní přihláškou, běžné nájemné po úpadku je pohledávkou za podstatou (§ 168). Procesní krok: písemné sdělení pronajímateli o neplatnosti výpovědi, případně určovací incidenční spor o trvání nájmu. Riziko: pronajímatel může hledat jiný, přípustný výpovědní důvod (např. prodlení vzniklé až po rozhodnutí o úpadku).
+- § 136 (rozhodnutí o úpadku),
+- § 253 (smlouvy o vzájemném plnění),
+- § 256 (nájemní a podnájemní smlouvy uzavřené dlužníkem),
+- § 258 (nepředaný předmět nájmu, podnájmu nebo výpůjčky),
+- § 259 (přiměřené použití § 256 až 258 na leasing a koupi najaté věci),
+- § 261 (pokračování provozu dlužníkova podniku po prohlášení konkursu).
 
-**6. Varianty.** (a) Dlužník se dostane do prodlení s nájemným až **po** rozhodnutí o úpadku — ochrana § 257 (vztažená k předúpadkovému prodlení) se neuplatní a výpověď může být přípustná. (b) Pronajímatel vypoví nájem z důvodu nesouvisejícího s úpadkem (např. pro hrubé porušení dobrých mravů nájemcem) — § 257 takový důvod nevylučuje.
+#### Souvisící předpisy
 
-#### G. Protiargumenty a rizika
+Občanský zákoník upravuje nájem a podnájem i obecné předpoklady výpovědi a odstoupení. § 257 insolvenčního zákona k těmto pravidlům přidává zvláštní omezení založené na okamžiku rozhodnutí o úpadku a na důvodu ukončení smlouvy.
 
-- *Protiargument pronajímatele:* „Dlužník neplatil, mám standardní právo vypovědět." Neutralizace: § 257 toto právo pro **předúpadkové** prodlení po rozhodnutí o úpadku odnímá.
-- *Protiargument:* „Úpadek dlužníka je sám o sobě důvodem k odstoupení (ipso facto klauzule)." Neutralizace: § 257 výslovně zakazuje ukončení pro „zhoršení majetkové situace"; insolvenční klauzule jsou v tomto rozsahu neúčinné.
-- *Slabé místo:* časové zařazení prodlení (před/po rozhodnutí o úpadku) a posouzení, zda tvrzený výpovědní důvod není jen zástěrkou za zakázaný důvod.
+#### Z důvodové zprávy
 
-#### H. Praktický závěr
+Vládní návrh insolvenčního zákona projednával § 255 až 259 společně. Zvláštní část uvádí, že § 257 a § 258 řeší možnost ukončení smluv, které tato ustanovení popisují, a nároky z toho vznikající. Jde o stručné historické vysvětlení; konkrétní rozsah dnešního zákazu je nutné určit z aktuálního znění § 257.
 
-§ 257 chrání dlužníka-nájemce: pronajímatel po rozhodnutí o úpadku nesmí ukončit nájem pro prodlení vzniklé před úpadkem ani pro zhoršení majetkové situace dlužníka. Pro dlužníka tím zůstává zachován často klíčový provozní prostor.
+#### Literatura
 
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověřit, zda je dlužník v daném vztahu nájemcem/podnájemcem (§ 257 dopadá jen sem).
-- [ ] Zjistit, zda prodlení vzniklo před, nebo po rozhodnutí o úpadku.
-- [ ] Posoudit, zda výpovědní/odstupní důvod není zakázaným důvodem (zhoršení majetkové situace).
-- [ ] Předúpadkové nájemné směřovat do přihlášky, poúpadkové jako pohledávku za podstatou.
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tato poznámka není výsledkem negativní rešerše.
 
-**Typicky rozhodné důkazy / podklady:** nájemní smlouva, evidence plateb nájemného s daty, výpověď/odstoupení a doručenka, rozhodnutí o úpadku s datem účinnosti.
+#### Výklad
+
+[1] **Osobní a smluvní rozsah.** Ustanovení dopadá na nájemní nebo podnájemní smlouvu, kterou dlužník uzavřel jako nájemce nebo podnájemce. Zákaz směřuje vůči druhému účastníku smlouvy. Pro opačné postavení dlužníka a pro leasing stanoví zákon zvláštní pravidla v § 256 a § 259.
+
+[2] **Rozhodný okamžik.** Druhý účastník nesmí použít zakázaný důvod k výpovědi ani odstoupení po rozhodnutí o úpadku. Text § 257 zde nečeká na prohlášení konkursu. To je třeba odlišit od sousedních ustanovení, která některé účinky výslovně spojují až s prohlášením konkursu.
+
+[3] **První zakázaný důvod.** Zákaz zahrnuje prodlení dlužníka s placením nájemného nebo jiné úhrady, jestliže k prodlení došlo před rozhodnutím o úpadku. Rozhodné jsou proto důvod ukončení smlouvy a časové zařazení prodlení; samotná existence dluhu tyto dvě otázky nenahrazuje.
+
+[4] **Druhý zakázaný důvod.** Smlouvu nelze po rozhodnutí o úpadku vypovědět ani od ní odstoupit pro zhoršení majetkové situace dlužníka. Smluvní ujednání navázané na takovou situaci nemůže obejít zákonný zákaz v rozsahu, v němž je právě zhoršení majetkové situace důvodem výpovědi nebo odstoupení.
+
+[5] **Meze ochrany.** § 257 neříká, že nájemní nebo podnájemní smlouvu nelze po rozhodnutí o úpadku ukončit vůbec. Jiný tvrzený důvod je nutné samostatně posoudit podle smlouvy, obecné úpravy a dalších ustanovení insolvenčního zákona. Stejně tak samotný § 257 výslovně neurčuje soukromoprávní následek úkonu učiněného v rozporu se zákazem ani procesní prostředek ochrany; ty nelze bez dalšího označit za neplatnost, neúčinnost nebo určitý druh incidenčního sporu.
+
+[6] **Systematická a časová výhrada.** § 257 používá rozhodnutí o úpadku jako vlastní časový předěl, zatímco § 253, § 256, § 258 a § 261 pracují také s prohlášením konkursu. Pro starší skutkové děje je nutné ověřit znění účinné v rozhodné době a příslušná přechodná ustanovení.
+
+#### Judikatura
+
+V tomto kole nebylo použito rozhodnutí, jehož plný text by byl ověřen jako přímo nosný k výkladu § 257. Tím se nevyslovuje, že relevantní judikatura neexistuje; nedoložený obecný „nosný závěr“ ze stávajícího textu byl odstraněn.
 
 ### § 258 — Nepředané věci
 

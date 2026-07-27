@@ -830,56 +830,57 @@ V tomto kole nebylo použito rozhodnutí, jehož plný text by byl ověřen jako
 
 ## § 260 — Výhrada vlastnictví
 
-> (1) Jestliže dlužník před prohlášením konkursu věc **prodal s výhradou vlastnictví** a kupujícímu ji **předal**, může kupující věc vrátit nebo trvat na smlouvě.
-> (2) Jestliže dlužník před prohlášením konkursu **koupil a převzal věc s výhradou vlastnictví**, aniž by k ní nabyl vlastnické právo, nemůže prodávající uplatňovat vrácení věci, jestliže insolvenční správce **splní povinnosti podle smlouvy bez zbytečného odkladu** poté, co k tomu byl prodávajícím vyzván.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Jestliže dlužník před prohlášením konkursu věc prodal s výhradou vlastnictví a kupujícímu ji předal, může kupující věc vrátit nebo trvat na smlouvě.
+>
+> (2) Jestliže dlužník před prohlášením konkursu koupil a převzal věc s výhradou vlastnictví, aniž by k ní nabyl vlastnické právo, nemůže prodávající uplatňovat vrácení věci, jestliže insolvenční správce splní povinnosti podle smlouvy bez zbytečného odkladu poté, co k tomu byl prodávajícím vyzván.
+
+### Přehled výkladu
+
+Ustanovení rozlišuje dvě opačná postavení dlužníka. Je-li dlužník prodávajícím a věc předal, volí kupující mezi vrácením věci a trváním na smlouvě. Je-li dlužník kupujícím, věc převzal, ale vlastnictví nenabyl, může insolvenční správce zabránit prodávajícímu v uplatnění vrácení tím, že po jeho výzvě bez zbytečného odkladu splní povinnosti podle smlouvy. V obou případech musí prodej, koupě i předání nebo převzetí předcházet prohlášení konkursu.
+
+### Souvisící ustanovení
+
+- § 245 odst. 1 — účinky prohlášení konkursu nastávají zveřejněním rozhodnutí o prohlášení konkursu v insolvenčním rejstříku,
+- § 253 — obecný konkursní režim dosud zcela nesplněné smlouvy o vzájemném plnění,
+- § 259 — přiměřené použití zvláštních pravidel na leasingové smlouvy a smlouvy o koupi najaté věci,
+- § 260 odst. 1 a 2 — vzájemně odlišné režimy podle postavení dlužníka,
+- § 217 až 225 — soupis majetkové podstaty a ochrana osoby, která tvrdí, že majetek do soupisu nenáleží.
+
+### Souvisící předpisy
+
+- zákon č. 89/2012 Sb., občanský zákoník — soukromoprávní rámec kupní smlouvy a výhrady vlastnického práva.
+
+### Z důvodové zprávy
+
+Zvláštní část důvodové zprávy k vládnímu návrhu insolvenčního zákona uvádí k § 260 pouze to, že se v něm nově řeší otázka výhrady vlastnictví. Jde o původní legislativní východisko, nikoli o samostatný výklad jednotlivých podmínek dnešního znění. (Sněmovní tisk 1120/0, 4. volební období, číslovaná s. 201, PDF s. 211.)
+
+### Literatura
+
+Odborná literatura je rozhodnutím editora odložena do druhého kola. Tato poznámka není výsledkem negativní rešerše.
 
 ### Výklad
 
-#### Dlužník-prodávající s výhradou (odst. 1)
+[1] **Zvláštní konkursní pravidlo.** § 260 se uplatní až při prohlášení konkursu, nikoli již samotným rozhodnutím o úpadku. Upravuje dva přesně vymezené případy kupní smlouvy s výhradou vlastnictví. Obecný režim § 253 lze zvažovat jen v rozsahu, v němž zvláštní pravidlo § 260 danou otázku neřeší.
 
-Kupující **má volbu**:
-- *vrátit věc* (a požadovat zpět zaplacenou kupní cenu jako přihlášku),
-- *trvat na smlouvě* (dál splácet, věc nabude do vlastnictví).
+[2] **Dlužník jako prodávající.** Odstavec 1 předpokládá, že dlužník věc před prohlášením konkursu prodal s výhradou vlastnictví a kupujícímu ji také předal. Kupujícímu zákon přiznává volbu: věc vrátit, nebo trvat na smlouvě. Text § 260 sám neurčuje kvalifikaci všech peněžitých nároků navazujících na zvolenou variantu; ta závisí na obsahu smlouvy, uskutečněných plněních a konkrétním zákonném titulu.
 
-#### Dlužník-kupující s výhradou (odst. 2)
+[3] **Dlužník jako kupující.** Odstavec 2 dopadá na situaci, kdy dlužník věc před prohlášením konkursu koupil a převzal, avšak pro výhradu vlastnictví vlastnické právo nenabyl. Samotné vlastnictví prodávajícího ještě neznamená, že po prohlášení konkursu vždy ihned dosáhne vrácení věci.
 
-Prodávající **nemůže žádat vrácení**, pokud **správce splní** povinnosti dlužníka (typicky doplatí kupní cenu). *Cílem*: zachovat věc v podstatě, pokud má pro dlužníka hodnotu.
+[4] **Výzva a splnění smlouvy.** Překážka uplatnění vrácení podle odstavce 2 vzniká tehdy, jestliže prodávající správce vyzve a správce poté bez zbytečného odkladu splní povinnosti podle smlouvy. Je proto nutno zjistit obsah výzvy, rozsah dosud nesplněných smluvních povinností a časovou návaznost plnění správce. Zákon zde neomezuje povinnosti pouze na doplatek kupní ceny.
 
-### F. Kazuistika
+[5] **Nesplnění podmínek.** Jestliže správce po výzvě povinnosti podle smlouvy bez zbytečného odkladu nesplní, neuplatní se ochranná překážka vyjádřená v závěru odstavce 2. Způsob procesního prosazení vrácení, správnost soupisu a případné peněžité nároky však musí být určeny samostatně; § 260 sám nestanoví univerzální žalobní prostředek ani automatickou kvalifikaci pohledávky.
 
-**1. Modelová situace.** Dlužník (obchodní s.r.o.) před konkursem (a) **prodal s výhradou vlastnictví** výrobní stroj kupujícímu K, kterému jej předal, K dosud doplatil jen polovinu kupní ceny; a zároveň (b) **koupil s výhradou vlastnictví** od prodávajícího P sadu nářadí, kterou převzal, ale dosud ji nedoplatil (vlastníkem je stále P). Po konkursu chce K vědět, zda stroj může mít, a prodávající P požaduje vrácení nářadí. Důkazy: obě kupní smlouvy s doložkou výhrady vlastnictví, doklady o předání/převzetí, evidence úhrad kupní ceny.
+[6] **Předání jako hranice.** Oba odstavce vyžadují předkonkursní odevzdání věci: v odstavci 1 předání kupujícímu, v odstavci 2 převzetí dlužníkem. Není-li tato podmínka splněna, nelze výsledek § 260 mechanicky použít a je třeba posoudit obecný smluvní režim, zejména § 253, podle konkrétního stavu plnění.
 
-**2. Právní otázka.** Jaké jsou možnosti kupujícího u věci prodané dlužníkem s výhradou vlastnictví a může prodávající žádat vrácení věci koupené dlužníkem s výhradou vlastnictví?
+[7] **Důkazní a intertemporální otázky.** Rozhodné bývají kupní smlouva a ujednání o výhradě vlastnictví, doklady o předání a platbách, výzva prodávajícího a doklady o reakci správce. U starších smluv a konkursů je nutno ověřit znění insolvenčního zákona účinné pro dané řízení i soukromoprávní úpravu rozhodnou pro smlouvu; dnešní občanský zákoník nelze bez dalšího přenést na dřívější právní poměry.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 260 odst. 1 (dlužník-prodávající s výhradou předal věc — kupující ji může vrátit, nebo trvat na smlouvě), odst. 2 (dlužník-kupující s výhradou převzal věc — prodávající nemůže žádat vrácení, splní-li správce povinnosti dlužníka bez zbytečného odkladu po výzvě prodávajícího).
-- *Související ustanovení téhož zákona:* § 253 (obecný režim vzájemných smluv — § 260 je speciální), § 173 (přihláška — pro nárok kupujícího na vrácení kupní ceny), § 168 (pohledávky za podstatou).
-- *Související předpisy:* OZ — výhrada vlastnického práva (§ 2132 a násl. OZ), nabytí vlastnictví zaplacením.
-- *Judikatura:* nosný závěr, že výhrada vlastnictví v insolvenci umožňuje správci zachovat věc v podstatě doplacením ceny (dlužník-kupující) a chrání očekávání kupujícího, jemuž dlužník věc s výhradou předal.
+### Judikatura
 
-**4. Subsumpce.** U varianty (a) dlužník-prodávající předal stroj K → § 260 odst. 1: K má volbu — vrátit stroj (a uplatnit vrácení zaplacené části ceny jako přihlášku), nebo trvat na smlouvě (doplatit a nabýt vlastnictví). U varianty (b) dlužník-kupující převzal nářadí, vlastníkem je P → § 260 odst. 2: P nemůže žádat vrácení, pokud správce na výzvu bez zbytečného odkladu splní povinnosti dlužníka (doplatí cenu); plnění správce je pohledávkou za podstatou.
-
-**5. Řešení.** U (a) správce respektuje volbu K; trvá-li K na smlouvě, podstata obdrží doplatek ceny; vrátí-li K stroj, podstata jej zpeněží a K přihlásí vrácení zaplacené části. U (b) správce, má-li nářadí pro podstatu hodnotu, na výzvu P bez zbytečného odkladu doplatí cenu (pohledávka za podstatou) a zachová věc v podstatě; nemá-li o věc zájem, nechá P uplatnit výhradu a věc vydá. Procesní kroky: reakce na výzvu P bez zbytečného odkladu, evidence volby K.
-
-**6. Varianty.** (a) U dlužníka-kupujícího (b) by správce na výzvu nereagoval / cenu nedoplatil — prodávající P by mohl uplatnit výhradu vlastnictví a žádat vrácení věci. (b) Věc s výhradou nebyla dosud předána (u žádné ze stran) — neuplatní se § 260 (který předpokládá předání/převzetí), nýbrž obecný režim § 253, popř. § 258.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument prodávajícího P:* „Jsem vlastníkem nářadí, žádám okamžité vrácení." Neutralizace: § 260 odst. 2 — vrácení nelze žádat, splní-li správce povinnosti dlužníka bez zbytečného odkladu po výzvě.
-- *Protiargument kupujícího K:* „Žádám zpět celou zaplacenou cenu jako pohledávku za podstatou." Neutralizace: vrácení zaplacené části při vrácení věci se uplatní přihláškou (nezajištěně), nejde o pohledávku za podstatou.
-- *Slabé místo:* posouzení „bez zbytečného odkladu" reakce správce (odst. 2) je hodnotící; a doložení platné doložky výhrady vlastnictví a okamžiku jejího sjednání/předání věci.
-
-### H. Praktický závěr
-
-U výhrady vlastnictví rozlišujeme: dlužník-prodávající (kupující má volbu věc vrátit, nebo na smlouvě trvat) a dlužník-kupující (prodávající nedosáhne vrácení, doplatí-li správce cenu bez zbytečného odkladu po výzvě, čímž věc zůstane v podstatě). Cílem je zachovat hodnotné věci pro podstatu.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Určit, zda je dlužník prodávajícím (§ 260 odst. 1) či kupujícím (odst. 2) a zda došlo k předání/převzetí věci.
-- [ ] U dlužníka-kupujícího posoudit zájem podstaty a na výzvu prodávajícího reagovat bez zbytečného odkladu (doplatit cenu).
-- [ ] U dlužníka-prodávajícího respektovat volbu kupujícího (vrátit věc × trvat na smlouvě).
-- [ ] Nároky kupujícího na vrácení ceny vést přihláškou; plnění správce dle odst. 2 jako pohledávku za podstatou.
-
-**Typicky rozhodné důkazy / podklady:** kupní smlouvy s doložkou výhrady vlastnictví, doklady o předání/převzetí a o úhradách kupní ceny, výzva prodávajícího a reakce správce, soupis majetkové podstaty.
+V tomto kole nebylo použito žádné rozhodnutí. Místní rešeršní pomůcky neobsahovaly k § 260 ověřený plný text přímo nosného rozhodnutí; tím se nevyslovuje, že relevantní judikatura neexistuje.
 
 ---
 

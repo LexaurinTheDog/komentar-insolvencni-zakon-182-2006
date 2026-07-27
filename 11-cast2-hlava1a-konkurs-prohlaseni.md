@@ -138,95 +138,65 @@ Do tohoto kola nebylo zařazeno rozhodnutí, jehož plný text by byl přímo no
 
 ## § 246 — **PŘECHOD DISPOZIČNÍCH OPRÁVNĚNÍ — NEJVÝZNAMNĚJŠÍ KONKURSNÍ EFEKT**
 
-> (1) Prohlášením konkursu **přechází na insolvenčního správce oprávnění nakládat s majetkovou podstatou**, jakož i výkon práv a plnění povinností, které přísluší dlužníku, pokud souvisí s majetkovou podstatou. Insolvenční správce vykonává zejména akcionářská práva spojená s akciemi zahrnutými do majetkové podstaty, rozhoduje o obchodním tajemství a jiné mlčenlivosti, vystupuje vůči dlužníkovým zaměstnancům jako zaměstnavatel, zajišťuje provoz dlužníkova podniku, vedení účetnictví a plnění daňových povinností.
-> (2) Právní úkony podle odstavce 1, které dlužník učinil poté, co oprávnění nakládat s majetkovou podstatou přešlo na insolvenčního správce, jsou **proti jeho věřitelům neúčinné ze zákona**; § 235 odst. 2 se nepoužije.
-> (3) Nakládal-li dlužník s majetkovou podstatou v den, kdy se rozhodnutí o úpadku stalo účinným, má se v pochybnostech za to, že tak učinil **poté, co oprávnění nakládat s majetkovou podstatou přešlo na insolvenčního správce**, pokud tento zákon nestanoví jinak.
-> (4) Právní úkon, kterým dlužník po prohlášení konkursu odmítne přijetí daru nebo dědictví bez souhlasu insolvenčního správce, **je neplatný**. Totéž platí, jestliže dlužník uzavře bez souhlasu insolvenčního správce dohodu o vypořádání dědictví, podle které má z dědictví obdržet **méně, než činí jeho dědický podíl**.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**Judikatura (z místních zdrojů):**
+### Znění ustanovení
 
-- *NS* [29 Cdo 3123/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8869490AB41CD47EC1257E82003DAC4D?openDocument) — kat. A, 29. 4. 2015
-  > „Rozhodčí doložka sjednaná pozdějším dlužníkem se vztahuje také na insolvenčního správce, který v průběhu insolvenčního řízení uplatňuje pohledávku dlužníka z právního vztahu, jehož se rozhodčí doložka týká"
+> (1) Prohlášením konkursu přechází na insolvenčního správce oprávnění nakládat s majetkovou podstatou, jakož i výkon práv a plnění povinností, které přísluší dlužníku, pokud souvisí s majetkovou podstatou. Insolvenční správce vykonává zejména akcionářská práva spojená s akciemi zahrnutými do majetkové podstaty, rozhoduje o obchodním tajemství a jiné mlčenlivosti, vystupuje vůči dlužníkovým zaměstnancům jako zaměstnavatel, zajišťuje provoz dlužníkova podniku, vedení účetnictví a plnění daňových povinností.
+>
+> (2) Právní úkony podle odstavce 1, které dlužník učinil poté, co oprávnění nakládat s majetkovou podstatou přešlo na insolvenčního správce, jsou proti jeho věřitelům neúčinné ze zákona; § 235 odst. 2 se nepoužije.
+>
+> (3) Nakládal-li dlužník s majetkovou podstatou v den, kdy se rozhodnutí o úpadku stalo účinným, má se v pochybnostech za to, že tak učinil poté, co oprávnění nakládat s majetkovou podstatou přešlo na insolvenčního správce, pokud tento zákon nestanoví jinak.
+>
+> (4) Právní úkon, kterým dlužník po prohlášení konkursu odmítne přijetí daru nebo dědictví bez souhlasu insolvenčního správce, je neplatný. Totéž platí, jestliže dlužník uzavře bez souhlasu insolvenčního správce dohodu o vypořádání dědictví, podle které má z dědictví obdržet méně, než činí jeho dědický podíl.
 
-### Výklad — **CENTRÁLNÍ PARAGRAF KONKURSU**
+### Přehled výkladu
 
-#### Generální přechod oprávnění (odst. 1)
+Prohlášením konkursu přechází v rozsahu majetkové podstaty dispoziční oprávnění i výkon souvisejících práv a povinností na insolvenčního správce. Dlužníkova právní a procesní způsobilost tím nezaniká, avšak jeho pozdější úkony v rozsahu § 246 odst. 1 jsou vůči věřitelům neúčinné ze zákona. Od této neúčinnosti je třeba odlišit neplatnost úkonů výslovně vyjmenovaných v odstavci 4.
 
-**Prohlášení konkursu = totální přechod správy** majetkové podstaty na správce. Správce vykonává **vše**, co dosud činil dlužník v souvislosti s podstatou:
+### Souvisící ustanovení
 
-- *právní úkony* (smlouvy, výpovědi, žaloby),
-- **akcionářská práva** (hlasování ve VH dceřiných společností, výplata dividend),
-- *obchodní tajemství a mlčenlivost*,
-- **zaměstnavatelská práva** vůči zaměstnancům (uzavírání PP, výpovědi, mzdy),
-- *provoz podniku* (nákupy, prodeje, řízení),
-- *účetnictví*,
-- *daňové povinnosti*.
+- § 229 odst. 3 písm. c) — insolvenční správce jako osoba s dispozičními oprávněními po prohlášení konkursu.
+- § 235 odst. 2 — rozhodování o neúčinnosti odpůrčí žalobou; § 246 odst. 2 jeho použití výslovně vylučuje.
+- § 245 odst. 1 a 3 — okamžik účinků prohlášení konkursu a zachování právní i procesní způsobilosti dlužníka.
+- § 249 — výlučné oprávnění správce vymáhat nároky dlužníka týkající se podstaty a účinky plnění dlužníku.
+- § 252 — zánik vymezených jednostranných úkonů, příkazů, pověření a plných mocí týkajících se podstaty.
+- § 264 — procesní důsledky přechodu dispozičních oprávnění v přerušených řízeních.
+- § 330 odst. 1 — přiměřené použití § 246 odst. 4 za trvání reorganizace.
 
-> Dlužník je v podstatě **vyřazen** z hospodaření. Stává se *pasivní stranou*, která už nerozhoduje.
+### Souvisící předpisy
 
-#### Neúčinnost dispozic dlužníka po přechodu (odst. 2)
+- Zákon č. 89/2012 Sb., občanský zákoník — obecná úprava darování, dědického práva, odmítnutí dědictví a dohody dědiců; § 246 odst. 4 k ní připojuje zvláštní insolvenční následek.
 
-**Úkony dlužníka po prohlášení konkursu jsou *ex lege* neúčinné** vůči věřitelům. *Speciálka oproti § 235* — *není třeba odpůrčí žaloba*, neúčinnost je *automatická*.
+### Z důvodové zprávy
 
-#### Domněnka časového pořadí (odst. 3)
+Vládní návrh insolvenčního zákona označil prakticky úplný přechod dispozičních oprávnění ohledně majetkové podstaty na správce za základní účinek konkursu. Současně vysvětlil, že správce přebírá i činnosti, které samy nejsou majetkovými dispozicemi, a že odstavec 3 nově zavádí domněnku ve prospěch přechodu dispozic na správce. Jde o historický legislativní záměr původního návrhu, nikoli o náhradu kontroly aktuálního znění. (Vládní návrh zákona o úpadku a způsobech jeho řešení, sněmovní tisk 1120/0, 4. volební období, zvláštní část, k § 246, číslovaná s. 209, PDF s. 210.)
 
-**Pokud dlužník nakládal v den úpadku** — *v pochybnostech* se má za to, že **po přechodu** (tedy *neúčinně*). *Důkazní břemeno* na dlužníka / protistranu, že úkon byl *před* okamžikem prohlášení.
+### Literatura
 
-#### Speciální pravidlo o dědictví/darech (odst. 4) — **VÝZNAMNÉ**
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Toto sdělení není výsledkem negativní rešerše.
 
-Dlužník *bez souhlasu správce*:
-- **odmítne přijetí daru nebo dědictví** → *neplatné*,
-- *uzavře dohodu o vypořádání dědictví* na *méně než dědický podíl* → *neplatné*.
+### Výklad
 
-> *Logika*: dlužník by mohl *záměrně odmítnout* dědictví, aby majetek nedošel do podstaty (typicky *vzdát se* dědictví ve prospěch spřízněné osoby). Toto pravidlo to *vylučuje*.
+[1] **Rozhodný okamžik.** Přechod podle odstavce 1 nastává prohlášením konkursu; účinky prohlášení konkursu podle § 245 odst. 1 nastávají okamžikem zveřejnění příslušného rozhodnutí v insolvenčním rejstříku. Pro posouzení konkrétního úkonu je proto rozhodný skutečný čas zveřejnění a čas právního úkonu, nikoli jen kalendářní datum.
 
-### Vazby
+[2] **Rozsah přechodu.** Přechází oprávnění nakládat s majetkovou podstatou a také výkon těch práv a plnění těch povinností dlužníka, které s ní souvisejí. Druhá věta odstavce 1 obsahuje demonstrativní výčet: akcionářská práva, rozhodování o obchodním tajemství a mlčenlivosti, zaměstnavatelské postavení, provoz podniku, účetnictví a daňové povinnosti. Rozsah se tedy určuje vazbou na majetkovou podstatu, nikoli pouhým označením činnosti.
 
-- **§ 229 odst. 3 písm. c)** — dispoziční oprávnění správce po konkursu.
-- **§ 235 odst. 2** — odpůrčí žaloba (zde nepoužitá).
-- **§ 248** — práva věřitelů po konkursu.
+[3] **Způsobilost není dispoziční oprávnění.** Podle § 245 odst. 3 zůstává dlužník právně i procesně způsobilý. § 246 mu však v rozsahu odstavce 1 odnímá výkon dispozičních oprávnění ve prospěch správce. Nelze proto bez dalšího dovozovat, že každý dlužníkův úkon po konkursu je neplatný; zákon pro úkony podle odstavce 2 stanoví odlišný následek.
+
+[4] **Neúčinnost ze zákona.** Právní úkon podle odstavce 1, který dlužník učiní po přechodu oprávnění, je proti jeho věřitelům neúčinný ze zákona. Výslovné vyloučení § 235 odst. 2 znamená, že vznik tohoto následku není podmíněn rozhodnutím o odpůrčí žalobě. Neúčinnost však sama neřeší každý navazující spor o vydání věci nebo plnění.
+
+[5] **Vynucení následku.** Nevydá-li dotčená osoba plnění dobrovolně, musí správce určit konkrétní hmotněprávní nárok, věcnou a místní příslušnost i odpovídající žalobní petit podle skutkového stavu. Vylučovací žaloba podle § 225 není univerzálním prostředkem správce k vydání majetku; slouží osobě, která tvrdí právo vylučující soupis. Toto omezení je autorským procesním závěrem založeným na rozlišení zákonné neúčinnosti a jejího soudního vynucení.
+
+[6] **Časová domněnka.** Odstavec 3 pracuje s dnem, kdy se účinným stalo rozhodnutí o úpadku, zatímco přechod podle odstavce 1 váže na prohlášení konkursu. V pochybnostech zákon předpokládá, že dlužník s podstatou nakládal až po přechodu oprávnění. U konkrétní věci je nutné oba zákonné mezníky rozlišit, zejména nebylo-li rozhodnutí o úpadku spojeno s prohlášením konkursu.
+
+[7] **Neplatnost podle odstavce 4.** Bez souhlasu správce je neplatný úkon, kterým dlužník po prohlášení konkursu odmítne přijetí daru nebo dědictví. Stejný následek zákon spojuje s dohodou o vypořádání dědictví, podle níž má dlužník obdržet méně než svůj dědický podíl. Tento následek je třeba terminologicky i právně odlišovat od neúčinnosti podle odstavce 2.
+
+[8] **Intertemporalita.** Tento komentář vychází ze znění účinného k 19. 7. 2026. U starších právních úkonů a řízení je nutné ověřit znění účinné v době rozhodné právní skutečnosti a použitelná přechodná ustanovení; současnou úpravu nelze mechanicky přenést na dřívější skutkové děje.
 
 ### Judikatura
 
-- **NS 29 ICdo 14/2014**: úkon dlužníka po prohlášení konkursu o věci patřící do podstaty = *automaticky* neúčinný; smluvní strana se nemůže dovolávat dobré víry.
-- **NS 29 NSČR 31/2015**: odmítnutí dědictví bez souhlasu správce — *neplatné*, dědictví spadá do podstaty.
-
-### F. Kazuistika
-
-**1. Modelová situace.** Na dlužníka (s.r.o. provozující e-shop) byl prohlášen konkurs. Den po zveřejnění jednatel dlužníka prodal a předal skladové zásoby spřízněné firmě za 30 % obvyklé ceny a peníze přijal na soukromý účet. Současně dlužníkovi zemřel společník-otec; dlužník bez souhlasu správce podepsal dohodu o vypořádání dědictví, podle níž má z pozůstalosti obdržet jen 10 % místo zákonné poloviny. Insolvenční správce požaduje vydání zásob (resp. výtěžku) do podstaty a napadá dohodu o dědictví. Důkazy: kupní smlouva a doklad o předání zásob, bankovní výpis, dědická dohoda, údaj o času zveřejnění konkursu.
-
-**2. Právní otázka.** Jsou úkony dlužníka učiněné po prohlášení konkursu (prodej zásob; dohoda o vypořádání dědictví na méně než podíl) vůči věřitelům neúčinné, resp. neplatné, a může se nabyvatel dovolat dobré víry?
-
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 246 odst. 1 (generální přechod správy na správce), odst. 2 (úkony dlužníka po přechodu jsou ex lege neúčinné vůči věřitelům; § 235 odst. 2 se nepoužije — netřeba odpůrčí žaloba), odst. 3 (domněnka času), odst. 4 (neplatnost odmítnutí daru/dědictví a dohody na méně než podíl bez souhlasu správce).
-- *Související ustanovení téhož zákona:* § 245 odst. 1 (okamžik účinků), § 229 odst. 3 písm. c) (dispoziční oprávnění správce), § 235 a násl. (obecná neúčinnost — zde nepoužitá), § 248 (exkluzivita uplatnění práv věřitelů).
-- *Související předpisy:* OZ — odmítnutí dědictví a dohoda dědiců; § 1714 a násl. OZ (zřeknutí/odmítnutí).
-- *Judikatura:* NS 29 ICdo 14/2014 (úkon dlužníka o věci z podstaty po konkursu = automaticky neúčinný, nelze se dovolat dobré víry); NS 29 NSČR 31/2015 (odmítnutí dědictví bez souhlasu správce neplatné); místní zdroj NS 29 Cdo 3123/2014 (rozhodčí doložka dlužníka váže i správce).
-
-**4. Subsumpce.** Prodej zásob je úkon dlužníka o věci z podstaty po přechodu oprávnění → § 246 odst. 2: neúčinný vůči věřitelům ex lege, bez nutnosti odpůrčí žaloby; nabyvatel se nemůže dovolat dobré víry. Peníze i zásoby náleží podstatě. Dohoda o vypořádání dědictví na 10 % (méně než dědický podíl) bez souhlasu správce naplňuje skutkovou podstatu § 246 odst. 4 → **neplatná**.
-
-**5. Řešení.** Správce vyzve nabyvatele zásob k jejich vydání, resp. k vydání výtěžku/peněz do podstaty; není třeba žaloba, neúčinnost je ze zákona, postačí výzva a případně žaloba na vydání. Dědickou dohodu je třeba řešit jako neplatnou — správce uplatní, že dlužníkovi náleží plný dědický podíl, který spadá do podstaty. Procesní kroky: soupis nabytého dědického podílu, výzva dle § 246 odst. 1, případně incidenční/vylučovací spor.
-
-**6. Varianty.** (a) Dlužník by zásoby prodal a předal hodinu před zveřejněním konkursu — pak by nešlo o § 246 odst. 2, ale o úkon před účinky, napadnutelný jen odpůrčí žalobou (§ 235), s možnou obranou dobré víry; uplatnila by se však domněnka odst. 3, je-li úkon v den úpadku. (b) Dlužník by z dědictví obdržel přesně svůj podíl (nikoli méně) — dohoda by nespadala pod odst. 4 a byla by platná.
-
-### G. Protiargumenty a rizika
-
-- *Protiargument nabyvatele:* „Jednal jsem v dobré víře, smlouva je platná." Neutralizace: § 246 odst. 2 vylučuje aplikaci § 235 odst. 2; neúčinnost je objektivní, dobrá víra nerozhoduje (NS 29 ICdo 14/2014).
-- *Protiargument:* „Správce musí podat odpůrčí žalobu jako u § 235." Neutralizace: výslovná výluka v odst. 2 — neúčinnost nastává ex lege, postačí výzva k vydání.
-- *Protiargument:* „Odmítnutí/snížení dědictví je projev osobní svobody dlužníka (§ 245 odst. 3)." Neutralizace: odst. 4 je speciální — chrání podstatu před účelovým zbavováním se majetku; úkon bez souhlasu správce je neplatný.
-- *Slabé místo:* prokázání, že věc skutečně patří do podstaty a že úkon nastal po okamžiku přechodu (vazba na § 246 odst. 3 a přesný čas zveřejnění).
-
-### H. Praktický závěr
-
-§ 246 je centrální paragraf konkursu: dlužník je vyřazen z hospodaření, veškerou správu podstaty přebírá insolvenční správce. Úkony dlužníka o majetku podstaty po přechodu jsou neúčinné ze zákona (bez odpůrčí žaloby), odmítnutí/krácení daru či dědictví bez souhlasu správce je neplatné.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Ověřit okamžik zveřejnění konkursu a zařazení věci do podstaty.
-- [ ] U úkonu dlužníka po konkursu uplatnit ex lege neúčinnost (§ 246 odst. 2) — výzva k vydání, nikoli odpůrčí žaloba.
-- [ ] U daru/dědictví prověřit souhlas správce; bez něj odmítnutí či dohoda na méně než podíl = neplatná.
-- [ ] Zkontrolovat, zda správce skutečně vykonává akcionářská, zaměstnavatelská a daňová práva místo dlužníka.
-
-**Typicky rozhodné důkazy / podklady:** výpis z ISIR (čas zveřejnění), napadené smlouvy a předávací doklady, bankovní výpisy, dědická dohoda a usnesení o pozůstalosti, soupis majetkové podstaty, výzva správce k vydání.
+Do této revize nebylo zařazeno rozhodnutí, jehož plný text z oficiálního webu by byl ověřen jako přímo nosný pro samostatný výklad § 246 včetně skutkového, procesního a časového kontextu. Dříve uvedené spisové značky 29 ICdo 14/2014 a 29 NSČR 31/2015 byly odstraněny jako nedoložené; rozhodnutí 29 Cdo 3123/2014 nebylo použito, protože jeho ověřený nosný závěr se týká vázanosti insolvenčního správce rozhodčí doložkou, nikoli přímo následků podle § 246. Nejde o tvrzení, že relevantní judikatura neexistuje.
 
 ---
 

@@ -269,59 +269,51 @@ Do této revize nebylo jako publikační autorita zařazeno rozhodnutí, jehož 
 
 ## § 249 — Aktivní legitimace správce
 
-> (1) Není-li zákonem stanoveno jinak, je osobou oprávněnou k podání žaloby nebo jiného návrhu **k vymožení nároku dlužníka** včetně jeho zajištění, který se týká majetkové podstaty, po prohlášení konkursu **pouze insolvenční správce**; návrh podaný jinou osobou soud zamítne.
-> (2) Jestliže osoba, která má závazek vůči dlužníkovi, plní tento závazek po prohlášení konkursu dlužníku, a plnění se nedostane do majetkové podstaty, **není tím svého závazku zproštěna**, ledaže prokáže, že o prohlášení konkursu nemohla vědět nebo že vzhledem k okolnostem plnění dluhu bylo zřejmé, že dlužník plnění vydá do majetkové podstaty.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
 
-**Judikatura (z místních zdrojů):**
+### Znění ustanovení
 
-- *NS* [29 Cdo 3123/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8869490AB41CD47EC1257E82003DAC4D?openDocument) — kat. A, 29. 4. 2015
-  > „Rozhodčí doložka sjednaná pozdějším dlužníkem se vztahuje také na insolvenčního správce, který v průběhu insolvenčního řízení uplatňuje pohledávku dlužníka z právního vztahu, jehož se rozhodčí doložka týká"
+> (1) Není-li zákonem stanoveno jinak, je osobou oprávněnou k podání žaloby nebo jiného návrhu k vymožení nároku dlužníka včetně jeho zajištění, který se týká majetkové podstaty, po prohlášení konkursu pouze insolvenční správce; návrh podaný jinou osobou soud zamítne.
+>
+> (2) Jestliže osoba, která má závazek vůči dlužníkovi, plní tento závazek po prohlášení konkursu dlužníku, a plnění se nedostane do majetkové podstaty, není tím svého závazku zproštěna, ledaže prokáže, že o prohlášení konkursu nemohla vědět nebo že vzhledem k okolnostem plnění dluhu bylo zřejmé, že dlužník plnění vydá do majetkové podstaty.
+
+### Přehled výkladu
+
+Odstavec 1 soustřeďuje po prohlášení konkursu aktivní vymáhání nároků dlužníka týkajících se majetkové podstaty u insolvenčního správce, nestanoví-li zákon výjimku. Odstavec 2 chrání majetkovou podstatu před účinky plnění přímo dlužníku, ale ponechává plnící osobě dvě výslovné možnosti, jak prokázat zproštění závazku.
+
+### Souvisící ustanovení
+
+- § 245 — okamžik a rozsah účinků prohlášení konkursu
+- § 246 odst. 1 — přechod dispozičních oprávnění a výkonu práv souvisejících s majetkovou podstatou na správce
+- § 264 — zvláštní režim pokračování v přerušených řízeních, v nichž dlužník před prohlášením konkursu uplatňoval nároky týkající se majetkové podstaty
+
+### Souvisící předpisy
+
+- zákon č. 99/1963 Sb., občanský soudní řád — obecná procesní pravidla pro žaloby a jiné návrhy; konkrétní procesní postup je třeba určit podle druhu uplatněného nároku a řízení
+
+### Z důvodové zprávy
+
+Zvláštní část důvodové zprávy k § 249 vysvětluje, že odstavec 1 výslovně doplnil zamítnutí návrhu podaného jinou osobou než insolvenčním správcem. Odstavec 2 nově řešil plnění dlužníkova dlužníka přímo dlužníku po prohlášení konkursu, ačkoli má být plněno k rukám správce. Jde o původní legislativní záměr; aktuální obsah normy určuje znění účinné k rozhodnému dni.
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tato poznámka není výsledkem negativní rešerše.
 
 ### Výklad
 
-**Výlučná legitimace správce** (odst. 1) k *aktivnímu vymáhání* nároků dlužníka. Dlužník už *nemůže* sám žalovat své dlužníky — žaloba dlužníka by byla *zamítnuta*.
+[1] § 249 odst. 1 dopadá na žalobu nebo jiný návrh, kterým se vymáhá nárok dlužníka včetně jeho zajištění, jestliže se nárok týká majetkové podstaty. Je třeba odlišit nárok dlužníka od nároku věřitele proti dlužníku; komentované ustanovení upravuje první z těchto situací.
 
-**Riziko třetích osob** (odst. 2): kdo *plní dlužníkovi* po konkursu (místo správci), *není zbaven závazku*, **pokud:**
-- neprokáže neznalost konkursu (typicky platnost ze dne před zveřejněním),
-- nebo *zřejmé, že dlužník plnění odevzdá podstatě* (typicky platba přes účet, který je pod správou).
+[2] Výlučná legitimace vzniká po prohlášení konkursu a náleží insolvenčnímu správci, ledaže zákon stanoví jinak. Následek návrhu podaného jinou osobou určuje zákon přímo: soud jej zamítne. Toto pravidlo nelze bez dalšího přenášet na řízení zahájené dlužníkem před prohlášením konkursu; pro ně stanoví § 264 vlastní režim přerušení a pokračování.
 
-> *Praxe*: třetí osoby musí kontrolovat *insolvenční rejstřík* před zaplacením větších částek. Banky pravidelně sledují.
+[3] Oprávnění správce navazuje na přechod výkonu práv souvisejících s majetkovou podstatou podle § 246 odst. 1. § 249 sám nemění obsah vymáhaného nároku; určuje osobu oprávněnou jej po prohlášení konkursu procesně uplatnit.
 
-### F. Kazuistika
+[4] Podle § 249 odst. 2 plnění po prohlášení konkursu přímo dlužníku nezprostí plnící osobu závazku, jestliže se plnění nedostane do majetkové podstaty. Zákon současně ukládá této osobě prokázat alespoň jednu ze dvou alternativ: že o prohlášení konkursu nemohla vědět, nebo že vzhledem k okolnostem plnění bylo zřejmé, že dlužník plnění vydá do majetkové podstaty.
 
-**1. Modelová situace.** Dlužník D (s.r.o.) měl před konkursem pohledávku za odběratelem O ve výši 500 000 Kč z dodávky zboží. Po prohlášení konkursu O zaplatil 500 000 Kč přímo na běžný účet dlužníka, který dlužník mezitím vybral v hotovosti. Současně bývalý jednatel dlužníka jménem dlužníka podal žalobu na jiného odběratele o 300 000 Kč. Insolvenční správce požaduje po O opětovné zaplacení do podstaty a soud řeší osud žaloby podané dlužníkem. Důkazy: faktury a dodací listy, bankovní výpis, doklad o výběru hotovosti, údaj o zveřejnění konkursu v ISIR, doklad, zda O sledoval rejstřík.
+[5] Posouzení obou výjimek je skutkové. Samotná vědomost o konkursu ani samotné označení příjemce proto nenahrazují zjištění, zda se plnění dostalo do podstaty a zda jsou splněny přesné podmínky některé zákonné alternativy. Pro dřívější skutky je nutno ověřit znění účinné v době plnění; znění § 249 je však v rozhodné části obsahově stabilní od účinnosti insolvenčního zákona.
 
-**2. Právní otázka.** Je odběratel O, který po konkursu plnil dlužníkovi místo správci, zproštěn závazku, a je dlužník po konkursu legitimován k podání žaloby o svou pohledávku?
+### Judikatura
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 249 odst. 1 (výlučná aktivní legitimace správce k vymáhání nároků dlužníka; návrh podaný jinou osobou soud zamítne), odst. 2 (kdo plní dlužníku po konkursu, není zproštěn závazku, ledaže prokáže nevědomost o konkursu nebo zřejmost, že dlužník plnění vydá do podstaty).
-- *Související ustanovení téhož zákona:* § 246 odst. 1 (přechod výkonu práv na správce), § 245 odst. 1 (publicita účinků), § 264 (pokračování v řízeních, kde dlužník žalobce).
-- *Související předpisy:* OZ — splnění dluhu pravé osobě a účinky plnění; § 1957 a násl. OZ.
-- *Judikatura:* místní zdroj NS 29 Cdo 3123/2014 (rozhodčí doložka sjednaná dlužníkem se vztahuje i na správce uplatňujícího pohledávku dlužníka) — potvrzuje, že nárok dlužníka vymáhá správce a vstupuje do procesního postavení dlužníka.
-
-**4. Subsumpce.** Žaloba podaná dlužníkem (nikoli správcem) o pohledávku týkající se podstaty → § 249 odst. 1: soud ji zamítne pro nedostatek aktivní legitimace. Plnění O dlužníku po konkursu → § 249 odst. 2: O není zproštěn závazku, ledaže prokáže, že o konkursu nemohl vědět (např. plnil v den před zveřejněním) nebo že bylo zřejmé, že dlužník plnění odevzdá podstatě (zde nikoli — dlužník hotovost vybral).
-
-**5. Řešení.** O musí zaplatit 500 000 Kč znovu, tentokrát do podstaty (regres za dlužníkem je iluzorní). Žalobu o 300 000 Kč musí podat (resp. v řízení pokračovat) správce dle § 249 odst. 1, resp. § 264; žaloba podaná dlužníkem bude zamítnuta. Procesní kroky: výzva správce vůči O k úhradě do podstaty; návrh správce na vstup do řízení místo dlužníka, jinak zpětvzetí a podání správcem.
-
-**6. Varianty.** (a) O zaplatil v den před zveřejněním konkursu, aniž z rejstříku mohl o konkursu vědět — prokáže-li to, je zproštěn (odst. 2). (b) Platba směřovala na účet již ovládaný správcem, takže bylo zřejmé, že prostředky dojdou do podstaty — O by byl zproštěn i při plnění „dlužníku".
-
-### G. Protiargumenty a rizika
-
-- *Protiargument O:* „Plnil jsem svému věřiteli (dlužníku), dluh zanikl." Neutralizace: § 249 odst. 2 — po konkursu je k přijetí oprávněn správce; plnění dlužníku nezprošťuje, neprokáže-li O výjimku.
-- *Protiargument dlužníka:* „Je to moje pohledávka, mohu ji žalovat sám." Neutralizace: § 249 odst. 1 — výlučná legitimace správce; žaloba dlužníka se zamítá.
-- *Slabé místo:* důkazní břemeno nevědomosti o konkursu, resp. zřejmosti odvedení plnění do podstaty, nese O; rozhodný je okamžik zveřejnění v ISIR a běžná míra opatrnosti (sledování rejstříku u větších plateb).
-
-### H. Praktický závěr
-
-Po prohlášení konkursu vymáhá pohledávky dlužníka výlučně správce; dlužník ztrácí aktivní legitimaci. Třetí osoby musejí plnit správci — kdo plní dlužníku, riskuje, že bude muset platit podruhé do podstaty, neprokáže-li nevědomost o konkursu nebo zřejmé odvedení plnění podstatě.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Před úhradou většího plnění dlužníku ověřit insolvenční rejstřík.
-- [ ] Po konkursu směřovat plnění výhradně insolvenčnímu správci (na účet podstaty).
-- [ ] Návrhy a žaloby o nároky dlužníka podávat / v nich pokračovat jménem správce (§ 249 odst. 1, § 264).
-- [ ] U sporné platby zajistit důkazy o (ne)vědomosti o konkursu a o směřování prostředků.
-
-**Typicky rozhodné důkazy / podklady:** faktury a dodací listy, bankovní výpisy a doklad o výběru hotovosti, výpis z ISIR s časem zveřejnění, korespondence prokazující (ne)znalost konkursu, procesní podání ve sporu.
+Do tohoto kola nebylo zařazeno rozhodnutí jako nosný pramen výkladu. Tím se nevyslovuje závěr o neexistenci relevantní judikatury; kandidátní rozhodnutí 29 Cdo 3123/2014 nebylo převzato do uzavřeného ledgeru, protože v zapisovatelném zdrojovém úložišti jednotky nebyl dostupný fyzický snapshot plného oficiálního textu.
 
 ---
 

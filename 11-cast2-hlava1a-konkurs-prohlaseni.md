@@ -1619,6 +1619,57 @@ Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento 
 
 Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k přímému výkladu § 272. Nejde o závěr, že relevantní judikatura neexistuje; text proto nepřipisuje soudům žádný neověřený závěr.
 
+## § 273 — Probíhající řízení o vypořádání SJM
+
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Probíhá-li řízení o vypořádání společného jmění manželů, stává se insolvenční správce prohlášením konkursu účastníkem tohoto řízení místo dlužníka. Trvají-li účinky rozhodnutí o úpadku, nelze toto řízení skončit soudním smírem.
+>
+> (2) Bylo-li podáno odvolání proti rozhodnutí, jímž insolvenční soud neschválil dohodu o vypořádání společného jmění manželů, soud řízení o vypořádání společného jmění manželů přeruší až do rozhodnutí odvolacího soudu.
+>
+
+### Přehled výkladu
+
+Ustanovení koordinuje již probíhající soudní vypořádání SJM s konkursním režimem. Prohlášením konkursu nastává přímo ze zákona procesní substituce: insolvenční správce vstupuje do řízení místo dlužníka. Samostatně je po dobu trvání účinků rozhodnutí o úpadku vyloučeno skončení tohoto řízení soudním smírem. Podal-li účastník dohody odvolání proti neschválení dohody insolvenčním soudem, řízení o vypořádání se povinně přeruší do rozhodnutí odvolacího soudu.
+
+### Souvisící ustanovení
+
+§ 7; § 159 odst. 1 písm. c); § 266 odst. 1 písm. c) a odst. 2; § 268 až 272; § 274 až 276; § 315 odst. 1 písm. b).
+
+### Souvisící předpisy
+
+§ 99 zákona č. 99/1963 Sb., občanský soudní řád (obecná úprava soudního smíru). Obecná úprava se použije jen potud, pokud zvláštní pravidla insolvenčního zákona nestanoví jinak.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona převzal § 273 v obsahově shodné podobě. Zvláštní část důvodové zprávy komentuje § 268 až 276 společně: úpravu charakterizuje jako podrobnější promítnutí majetkového práva manželů do konkursu, avšak k procesní substituci, zákazu smíru ani důvodu přerušení podle § 273 nepřipojuje samostatné vysvětlení. Srov. sněmovní tisk 1120/0, navržený § 273 na číslované s. 78 (PDF s. 78) a zvláštní část „K § 268–276“ na číslované s. 212 (PDF s. 212).
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Tento oddíl proto není negativní rešerší literatury.
+
+### Výklad
+
+[1] **Dvě časově odlišné podmínky.** Pro procesní substituci je rozhodným okamžikem prohlášení konkursu. Zákaz soudního smíru je naproti tomu textově vázán na trvání účinků rozhodnutí o úpadku. Tyto podmínky nelze směšovat ani nahrazovat pouhým zahájením insolvenčního řízení.
+
+[2] **Procesní substituce.** Jestliže řízení o vypořádání SJM v okamžiku prohlášení konkursu probíhá, insolvenční správce se stává jeho účastníkem místo dlužníka přímo ze zákona. Nejde o přistoupení dalšího účastníka vedle dlužníka. Pravidlo navazuje na přechod oprávnění nakládat s vypořádáním SJM podle § 270 odst. 1 a je zvláštní vůči obecnému pravidlu § 266 odst. 2, podle něhož v nepřerušených řízeních zůstává dlužník účastníkem, není-li stanoveno jinak.
+
+[3] **Řízení pokračuje, avšak bez smíru.** Řízení o vypořádání SJM patří podle § 266 odst. 1 písm. c) mezi řízení, která se prohlášením konkursu nepřerušují. Pokračování řízení ale neznamená zachování všech obecných dispozičních možností: dokud trvají účinky rozhodnutí o úpadku, § 273 odst. 1 vylučuje jeho skončení soudním smírem. Zvláštní zákaz tak omezuje obecnou možnost smíru podle § 99 občanského soudního řádu.
+
+[4] **Dohoda a soudní smír nejsou zaměnitelné procesní cesty.** § 271 upravuje dohodu o vypořádání SJM uzavřenou insolvenčním správcem a její schválení insolvenčním soudem; § 273 odst. 1 zakazuje skončit probíhající řízení soudním smírem. Dohoda insolvenčního správce proto podléhá zvláštnímu schvalovacímu režimu § 271, včetně kontroly souladu s právními předpisy a stanoviska věřitelského výboru.
+
+[5] **Povinné přerušení podle odstavce 2.** Neschválí-li insolvenční soud dohodu a oprávněný účastník dohody podá odvolání podle § 272, soud vedoucí řízení o vypořádání SJM je přeruší. Přerušení trvá do rozhodnutí odvolacího soudu; ustanovení nedává soudu prostor volit jinou délku podle účelnosti.
+
+[6] **Systematické meze.** § 273 neřeší, jak se SJM hmotněprávně vypořádá. To určují zejména § 268 až 271 a obecná pravidla majetkového práva manželů; § 274 navíc pro případ převahy závazků stanoví zvláštní konkursní následek. Komentované ustanovení řeší procesní postavení a koordinaci dvou řízení.
+
+[7] **Intertemporalita.** Aktuální znění § 273 se shoduje s textem původního vládního návrhu. Při posuzování staršího řízení je přesto nutné samostatně ověřit tehdy účinné znění souvisejících ustanovení insolvenčního zákona, občanského soudního řádu a hmotného práva SJM; shoda samotného § 273 neprokazuje neměnnost celého právního režimu.
+
+### Judikatura
+
+Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita k přímému výkladu § 273. Kandidátní odkazy nebyly nahrazeny obecným tvrzením založeným jen na právní větě či metadatech; nejde o závěr, že relevantní judikatura neexistuje.
+
 ## § 277 — Aktivace správce
 
 > (1) Neprodleně poté, co nabude účinnosti prohlášení konkursu, zajistí insolvenční správce provedení procesních úkonů a dalších činností, které z prohlášení konkursu vyplývají.

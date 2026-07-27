@@ -1770,6 +1770,59 @@ Odborná literatura byla rozhodnutím editora odložena do druhého kola. Nejde 
 
 Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita. Nejde o závěr, že relevantní judikatura neexistuje; bez plnotextově ověřeného rozhodnutí nelze obecný procesní režim bezpečně konkretizovat nad rámec zákona.
 
+## § 276 — Zákaz vzniku nového SJM
+
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Po dobu trvání účinků prohlášení konkursu nemůže vzniknout nové společné jmění manželů; uzavře-li dlužník nové manželství, odkládá se vznik společného jmění manželů ke dni zániku těchto účinků.
+>
+> (2) Smlouvy o rozšíření společného jmění manželů, které odporují odstavci 1 nebo jej obcházejí, jsou neplatné.
+>
+> #### Díl 4
+>
+> ##### Procesní úkony navazující na prohlášení konkursu
+>
+
+### Přehled výkladu
+
+§ 276 po dobu účinků prohlášení konkursu brání vzniku nového společného jmění manželů. Uzavření nového manželství dlužníkem zákon nezakazuje; vznik SJM pouze odkládá ke dni zániku těchto účinků. Smlouvy o rozšíření SJM jsou neplatné, pokud tomuto pravidlu odporují nebo je obcházejí. Ustanovení neřeší vypořádání SJM existujícího před prohlášením konkursu; tomu jsou určeny zejména § 268 až 275.
+
+### Souvisící ustanovení
+
+§ 245 odst. 1; § 268 až 275; § 308.
+
+### Souvisící předpisy
+
+Zákon č. 89/2012 Sb., občanský zákoník, úprava společného jmění manželů. Její samostatný výklad byl z tohoto kola vyloučen; pro konkrétní případ je nutné ověřit časově rozhodný zákonný nebo smluvený manželský majetkový režim.
+
+### Z důvodové zprávy
+
+Vládní návrh insolvenčního zákona, sněmovní tisk 1120/0, obsahoval pravidlo odpovídající dnešnímu § 276. Zvláštní část odůvodňuje § 268 až 276 společně: úprava vlivu konkursu na SJM navazuje na dřívější koncepci, ale zpřesňuje ji, doplňuje a důsledněji promítá úpravu majetkového práva manželů. Samostatné odůvodnění jednotlivých podmínek § 276 zpráva neobsahuje.
+
+### Literatura
+
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Nejde o závěr, že relevantní literatura neexistuje.
+
+### Výklad
+
+[1] **Časový rozsah.** Zákaz působí „po dobu trvání účinků prohlášení konkursu“. Počátek se proto váže k okamžiku účinnosti prohlášení konkursu podle § 245 odst. 1; konec k zániku těchto účinků. § 276 není obecným pravidlem pro každé insolvenční řízení ani pro jiný způsob řešení úpadku.
+
+[2] **Předmět zákazu.** Odstavec 1 brání vzniku nového SJM. Neupravuje sám zánik, rozsah ani vypořádání SJM, které existovalo před prohlášením konkursu; dopady konkursu na takové SJM řeší předcházející ustanovení § 268 až 275.
+
+[3] **Nové manželství.** Uzavře-li dlužník za trvání účinků konkursu nové manželství, manželství může vzniknout, avšak vznik SJM se ze zákona odloží. Rozhodným okamžikem je den zániku účinků prohlášení konkursu. Text nečiní vznik SJM závislým na dalším právním jednání manželů.
+
+[4] **Smlouvy o rozšíření SJM.** Odstavec 2 postihuje neplatností smlouvy o rozšíření SJM, které zákazu v odstavci 1 odporují nebo jej obcházejí. Z textu nelze bez dalšího dovozovat stejný následek pro jiné typy smluv či pro každé jednání mezi manžely.
+
+[5] **Smysl úpravy.** Zákonná konstrukce po dobu konkursu stabilizuje okruh majetku, který by jinak mohl nově vstoupit do SJM, a brání smluvnímu obejití tohoto časově omezeného režimu. Jde o výklad plynoucí ze spojení obou odstavců; důvodová zpráva samostatný účel § 276 neformuluje.
+
+[6] **Intertemporalita.** Dnešní text § 276 obsahově odpovídá vládnímu návrhu. Pro historický případ však musí být samostatně ověřeno tehdy účinné znění pravidel o účincích konkursu i manželském majetkovém právu; shoda komentovaného textu s původním návrhem sama tuto kontrolu nenahrazuje.
+
+### Judikatura
+
+Do tohoto kola nebylo zařazeno žádné rozhodnutí jako nosná autorita. Nejde o závěr, že relevantní judikatura neexistuje; bez plnotextově ověřeného rozhodnutí nelze zákonný režim bezpečně konkretizovat nad rámec ověřených primárních pramenů.
+
 ## § 277 — Aktivace správce
 
 > (1) Neprodleně poté, co nabude účinnosti prohlášení konkursu, zajistí insolvenční správce provedení procesních úkonů a dalších činností, které z prohlášení konkursu vyplývají.

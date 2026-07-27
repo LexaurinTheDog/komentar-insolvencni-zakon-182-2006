@@ -374,88 +374,63 @@ Výklad v tomto kole není založen na konkrétním soudním rozhodnutí. Z dř�
 
 ## § 237 — Povinnost vydat plnění + okruh osob
 
-> (1) Povinnost vydat do majetkové podstaty dlužníkovo plnění z neúčinných právních úkonů mají osoby, **v jejichž prospěch byl neúčinný právní úkon učiněn nebo které z něho měly prospěch**.
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+### Znění ustanovení
+
+> (1) Povinnost vydat do majetkové podstaty dlužníkovo plnění z neúčinných právních úkonů mají osoby, v jejichž prospěch byl neúčinný právní úkon učiněn nebo které z něho měly prospěch.
 > (2) Dědici nebo právní nástupci osob uvedených v odstavci 1, na které přešlo dlužníkovo plnění z neúčinných právních úkonů, mají povinnost vydat je do majetkové podstaty,
-> a) jestliže jim v době, kdy toto plnění nabyli, **musely být známy okolnosti**, které odůvodňují právo dovolávat se neúčinnosti vůči osobám uvedeným v odstavci 1, nebo
-> b) jde-li o osoby, **které tvoří s dlužníkem koncern, anebo o osoby dlužníku blízké**.
+>
+> a) jestliže jim v době, kdy toto plnění nabyli, musely být známy okolnosti, které odůvodňují právo dovolávat se neúčinnosti vůči osobám uvedeným v odstavci 1, nebo
+>
+> b) jde-li o osoby, které tvoří s dlužníkem koncern, anebo o osoby dlužníku blízké.
+>
 > (3) Osoby, které vydaly dlužníkovo plnění z neúčinného právního úkonu do majetkové podstaty, se mohou po skončení insolvenčního řízení domáhat jeho vrácení, jen nebylo-li použito k uspokojení věřitelů nebo nebylo-li s ním nakládáno jiným zákonem povoleným způsobem.
-> (4) Bylo-li plnění z neúčinného právního úkonu vzájemné, vydá je insolvenční správce oprávněným osobám bez zbytečného odkladu poté, co tyto osoby vydaly dlužníkovo plnění z takového úkonu do majetkové podstaty. Není-li plnění poskytnuté dlužníku těmito osobami v majetkové podstatě rozpoznatelné nebo se v ní nenachází, považuje se pohledávka, která těmto osobám poskytnutím plnění dlužníku vznikla, **za přihlášenou pohledávku** a uspokojí se stejně jako tyto pohledávky.
+> (4) Bylo-li plnění z neúčinného právního úkonu vzájemné, vydá je insolvenční správce oprávněným osobám bez zbytečného odkladu poté, co tyto osoby vydaly dlužníkovo plnění z takového úkonu do majetkové podstaty. Není-li plnění poskytnuté dlužníku těmito osobami v majetkové podstatě rozpoznatelné nebo se v ní nenachází, považuje se pohledávka, která těmto osobám poskytnutím plnění dlužníku vznikla, za přihlášenou pohledávku a uspokojí se stejně jako tyto pohledávky.
 
-**Judikatura (z místních zdrojů):**
+### Přehled výkladu
 
-- *NS* [29 ICdo 72/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/364775A5D3DA9525C1258C0B0052AF83?openDocument) — kat. A, 29. 11. 2024
-  > „Právní nástupce osoby, v jejíž prospěch byl neúčinný právní úkon učiněn nebo která z něho měla prospěch (§ 237 odst. 1 insolvenčního zákona), jemuž v době, kdy nabyl plnění z neúčinného právního úkonu, musely být známy okolnosti, které odůvodňují právo dovolávat se neúčinnosti vůči oné osobě, má ve smyslu § 237 odst. 2 písm. a/ insolvenčního zákona povinnost vydat toto plnění do majetkové podstaty i tehdy, jde-li o právního nástupce na základě smlouvy (typově na základě smlouvy darovací nebo smlouvy kupní)"
+§ 237 určuje, kdo vydává dlužníkovo plnění z neúčinného právního úkonu, a upravuje následné vypořádání. Odstavec 1 míří na osobu, v jejíž prospěch byl úkon učiněn, nebo na osobu, která z něj měla prospěch. Odstavec 2 rozšiřuje povinnost na dědice a právní nástupce, na něž plnění přešlo, avšak jen při splnění některé z alternativ písm. a) nebo b). Písmeno b) vyžaduje vztah nástupce přímo k dlužníku; není domněnkou vědomosti podle písm. a).
 
-### Výklad — **PASIVNÍ LEGITIMACE**
+### Souvisící ustanovení
 
-#### Primární pasivně legitimovaní (odst. 1)
+- § 235 — vymezení neúčinnosti a odpůrčí žaloby.
+- § 236 — náležení plnění do majetkové podstaty a rovnocenná náhrada.
+- § 238 — zákaz započtení proti pohledávce na vydání.
+- § 239 odst. 1, 3 a 4 — výlučná aktivní legitimace správce, roční propadná lhůta a okamžik, kdy plnění náleží do podstaty.
+- § 240 až § 242 — jednotlivé skutkové podstaty odporovatelnosti.
 
-**Osoby, v jejichž prospěch byl úkon učiněn nebo které z něj měly prospěch**:
-- *přímý nabyvatel* (typicky kupec, obdarovaný),
-- *zvýhodněný věřitel* (kdo dostal předčasné splacení nebo dodatečné zajištění),
-- *třetí osoba mající prospěch* (např. obchodní partner, který získal výhodu).
+### Souvisící předpisy
 
-#### Sekundární — dědici a nástupci (odst. 2)
+V tomto kole nebyl další předpis použit jako přímá opora materiálního závěru. Při aplikaci pojmů „osoba blízká“ a „koncern“ je nutné ověřit jejich úpravu v předpisech rozhodných pro posuzovaný skutkový děj.
 
-*Standardně* dědici neručí. *Výjimka — ručí jen pokud*:
-- *musely být známy okolnosti odůvodňující právo dovolávat se neúčinnosti* (subjektivní test),
-- *koncern nebo blízká osoba* — *objektivní test*, vědomost se předpokládá.
+### Z důvodové zprávy
 
-#### Návratnost po IR (odst. 3)
+Vládní návrh insolvenčního zákona projednávaný jako sněmovní tisk 1120/0 vysvětloval § 235 až § 243 společně. Zdůraznil záměr dosavadní úpravu neúčinnosti rozvinout a zpřesnit a výslovně uvést, že povinnost vydat plnění nemají jen účastníci neúčinného úkonu, ale všichni, kdo z něj měli prospěch. Původní návrh však používal jiné vnitřní číslování a obsahoval odlišnou konstrukci povinnosti nástupců; důvodová zpráva proto není oporou pro detailní výklad dnešního odstavce 2.
 
-Pokud po skončení IR zbude majetek (např. neúčinné plnění nebylo plně využito), oprávněná osoba **se může domáhat vrácení**.
+### Literatura
 
-#### Vzájemné plnění (odst. 4) — **VÝZNAMNÉ**
+Odborná literatura byla rozhodnutím editora odložena do druhého kola. Nejde o negativní rešeršní závěr.
 
-Pokud byl úkon **vzájemný** (typicky kupní smlouva — dlužník dal věc, dostal peníze, vše bylo prodáno za podhodnotu):
-- nabyvatel vrátí věc (dlužníkovo plnění),
-- správce *vrátí dotčené peníze* (nabyvatelovo protiplnění) — pokud jsou v podstatě.
+### Výklad
 
-**Pokud nejsou v podstatě** (spotřebovány) — nabyvatelova pohledávka *se považuje za přihlášenou* (přihlášenou pohledávkou se uspokojuje v rozvrhu).
+[1] Povinnost podle odstavce 1 není vázána jen na formální účastenství na neúčinném právním úkonu. Rozhodující je, zda byl úkon učiněn ve prospěch dané osoby nebo zda z něj měla prospěch. Tuto hmotněprávní otázku nelze nahradit pouhým zjištěním, kdo je smluvní stranou nebo kdo věc fakticky drží.
 
-> *Praktický důsledek*: kupec, který koupil věc dlužníka **za přiměřenou cenu**, ale úkon byl neúčinný (např. *zvýhodňující* — věřitel-kupec se uspokojil dříve), *vrátí věc do podstaty* a *získá pohledávku v rozvrhu* (typicky uspokojení 5—15 % v konkursu).
+[2] Odstavec 2 předpokládá dědice nebo právního nástupce osoby z odstavce 1, přechod dlužníkova plnění na tohoto nástupce a navíc jednu z alternativ písm. a) nebo b). Podle písm. a) musely být nástupci již v době nabytí známy okolnosti odůvodňující dovolání se neúčinnosti vůči jeho předchůdci. Nejvyšší soud dovodil, že „právní nástupce“ zahrnuje také singulárního smluvního nástupce, typově kupujícího nebo obdarovaného.
 
-### Vazby
+[3] Břemeno tvrzení a důkazní břemeno o skutečnostech naplňujících vědomostní test písm. a) nese insolvenční správce. Nestačí jen pochybnost, zda nástupci rozhodné okolnosti musely být známy.
 
-- **§ 22 OZ** — osoby blízké.
-- **§ 79 ZOK** — koncern.
-- **§ 165** — uspokojení v rozvrhu.
+[4] Písmeno b) je samostatnou objektivní alternativou: nástupce tvoří koncern s dlužníkem nebo je osobou blízkou dlužníku. Blízkost nástupce pouze k prvnímu nabyvateli nestačí a zákon zde nekonstruuje domněnku vědomosti.
 
-### F. Kazuistika
+[5] Odstavec 3 připouští po skončení insolvenčního řízení požadavek na vrácení vydaného plnění jen tehdy, nebylo-li použito k uspokojení věřitelů ani s ním nebylo naloženo jiným zákonem povoleným způsobem. U vzájemného plnění odstavec 4 váže vydání protiplnění správcem na předchozí vydání dlužníkova plnění; není-li protiplnění v podstatě rozpoznatelné nebo se v ní nenachází, vzniklá pohledávka se ze zákona považuje za přihlášenou.
 
-**1. Modelová situace.** Dlužník NÝ prodal za podhodnotu pozemek obdarovanému/kupci XÍ; XÍ pozemek následně *daroval* svému synovi OMIKRON (právní nástupce). Insolvenční správce chce vydat pozemek do podstaty. OMIKRON namítá, že nabyl v dobré víře a nic vracet nemusí. Vyjde najevo, že OMIKRON je osobou blízkou ve vztahu k XÍ a o tísnivé situaci dlužníka i o podhodnocení věděl. Důkazy: kupní a darovací smlouva, doklady o příbuzenství, korespondence prokazující vědomost, znalecký posudek o ceně.
+[6] Procesně je třeba odlišit odpůrčí nárok od následného vynucení vydání konkrétní věci. Rozsudek 29 ICdo 72/2022 potvrzuje, že vůči smluvnímu nástupci podle odstavce 2 písm. a) správce uplatní neúčinnost odpůrčí žalobou; samotný vindikační požadavek na vydání věci však podle závěrů, z nichž tento rozsudek vychází, není součástí odpůrčího nároku.
 
-**2. Právní otázka.** Kdo má povinnost vydat plnění z neúčinného úkonu do podstaty — jen přímý nabyvatel, nebo i jeho právní nástupce; a za jakých podmínek?
+[7] Pro starší skutkové děje je nutné ověřit znění účinné v rozhodné době a příslušná přechodná ustanovení. Rozsudek 29 ICdo 72/2022 posuzoval darovací smlouvu z roku 2010 a navazující kupní smlouvu z roku 2014; jeho nosný výklad § 237 odst. 2 písm. a) je přenositelný na shodný text aktuálního ustanovení, nikoli bez dalšího na jiné novelizované otázky.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 237 odst. 1 IZ (primárně osoby, v jejichž prospěch byl úkon učiněn / které z něj měly prospěch), odst. 2 písm. a) (nástupci, museli-li jim být známy rozhodné okolnosti), písm. b) (koncern / osoby blízké — objektivní test), odst. 3 (návratnost po IR), odst. 4 (vzájemné plnění, fikce přihlášené pohledávky).
-- *Související ustanovení téhož zákona:* § 236 IZ (účinky), § 239 IZ (odpůrčí žaloba), § 165 IZ (uspokojení v rozvrhu), § 238 IZ (zákaz započtení).
-- *Související předpisy:* § 22 OZ (osoby blízké), § 79 ZOK (koncern).
-- *Judikatura:* NS 29 ICdo 72/2022 (citováno v komentáři) — právní nástupce (i z darovací/kupní smlouvy), jemuž musely být známy okolnosti odůvodňující neúčinnost, má povinnost vydat plnění do podstaty podle § 237 odst. 2 písm. a).
+### Judikatura
 
-**4. Subsumpce.** Přímým nabyvatelem byl XÍ (odst. 1). OMIKRON je *právní nástupce* (nabyl darem od XÍ). Naplněn je jak subjektivní test odst. 2 písm. a) (musely mu být známy rozhodné okolnosti — věděl o podhodnocení a tísni), tak objektivní test písm. b) (je osobou blízkou). Povinnost vydat plnění do podstaty proto stíhá i OMIKRONA.
-
-**5. Řešení.** Správce zacílí odpůrčí žalobu na osobu, která plnění *fakticky drží* (OMIKRON), a prokáže buď vědomost o rozhodných okolnostech (písm. a), nebo postavení blízké osoby/koncernu (písm. b — vědomost se předpokládá). Procesní krok: u písm. b) stačí prokázat blízkost/koncern, břemeno se obrací. Riziko: u písm. a) leží na správci důkaz vědomosti nástupce — náročné; proto je výhodnější opřít se o písm. b).
-
-**6. Varianty.** (a) Kdyby OMIKRON nebyl blízkou osobou ani nevěděl o rozhodných okolnostech, povinnost vydat by ho *nestíhala* a správci by zbyla jen náhrada vůči XÍ. (b) Šlo-li by o *vzájemné* plnění (kupní smlouva, kde dlužník dostal kupní cenu), nabyvatel vrátí věc a správce mu vrátí protiplnění; není-li v podstatě rozpoznatelné, jeho pohledávka se *považuje za přihlášenou* (odst. 4).
-
-### G. Protiargumenty a rizika
-
-- *„Nástupce nabyl v dobré víře, je chráněn a nic nevrací."* — Neutralizace: dobrá víra nepomůže, jsou-li naplněny znaky odst. 2 — buď vědomost o rozhodných okolnostech (písm. a), nebo postavení blízké osoby/koncernu (písm. b), kde se vědomost *předpokládá* (NS 29 ICdo 72/2022).
-- *„Vrátil jsem věc, mám nárok na okamžité vrácení svého protiplnění v penězích."* — Korekce: u vzájemného plnění správce vrací protiplnění *jen je-li v podstatě rozpoznatelné*; jinak se pohledávka uspokojuje jako *přihlášená* (odst. 4) — tedy poměrně v rozvrhu (5–15 %).
-- Slabé místo: u písm. a) je důkaz vědomosti nástupce obtížný; správce by měl primárně zkoumat, zda nelze využít objektivní test písm. b) (blízkost/koncern).
-
-### H. Praktický závěr
-
-Plnění do podstaty vydávají primárně osoby, v jejichž prospěch byl úkon učiněn; nástupci jen při vědomosti o rozhodných okolnostech, nebo jsou-li blízkou osobou/koncernem (kde se vědomost předpokládá). U vzájemného plnění se protiplnění nabyvatele bez rozpoznatelnosti v podstatě uspokojí jen jako přihlášená pohledávka.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Identifikovat osobu, která plnění fakticky drží (přímý nabyvatel vs. nástupce), a podle toho zacílit žalobu.
-- [ ] U nástupce prokázat vědomost o rozhodných okolnostech (písm. a) nebo postavení blízké osoby/koncernu (písm. b).
-- [ ] U vzájemného plnění posoudit rozpoznatelnost protiplnění v podstatě; jinak je nabyvatel odkázán na přihlášenou pohledávku (odst. 4, § 165).
-- [ ] Vyloučit obranu započtením (§ 238).
-
-**Typicky rozhodné důkazy / podklady:** řetězec smluv (původní úkon + převody na nástupce), doklady o příbuzenství / koncernovém propojení, korespondence a okolnosti prokazující vědomost, znalecký posudek o ceně, stav majetkové podstaty (rozpoznatelnost protiplnění).
+- **Rozsudek Nejvyššího soudu ze dne 29. 11. 2024, sen. zn. 29 ICdo 72/2022, ECLI:CZ:NS:2024:29.ICDO.72.2022.1.** Insolvenční správce napadl darovací smlouvu dlužníků z roku 2010 a žaloval také pozdější kupující nemovitostí. Nejvyšší soud zrušil potvrzující zamítavý rozsudek: právním nástupcem podle § 237 odst. 2 písm. a) může být i singulární smluvní nabyvatel; správce však nese břemeno tvrzení a důkazní břemeno k tomu, že mu při nabytí musely být známy rozhodné okolnosti. Rozhodnutí současně rozlišuje odpůrčí nárok od následného vydání věci (zejména odstavce 25–48 odůvodnění).
 
 ---
 
